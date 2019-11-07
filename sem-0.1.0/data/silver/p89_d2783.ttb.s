@@ -1,0 +1,10 @@
+PRO	I
+ENS	wish
+PRO	you
+PST	did
+NOT	n't
+IST	always
+EXS	yell
+REL	at
+PER	Tom
+NIL	.

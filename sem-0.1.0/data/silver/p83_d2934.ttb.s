@@ -1,0 +1,10 @@
+SUB	Since
+PRO	it
+NOW	's
+INT	very
+EXS	cold
+NIL	,
+PRO	we
+POS	can
+EXS	skate
+NIL	.

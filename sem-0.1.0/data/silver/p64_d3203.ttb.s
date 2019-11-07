@@ -1,0 +1,15 @@
+PRO	She
+NOW	is
+NOT	not
+XCL	only
+IST	beautiful
+NIL	,
+BUT	but
+ALT	also
+IST	gentle
+AND	and
+NIL	,
+IST	furthermore
+NIL	,
+IST	intelligent
+NIL	.

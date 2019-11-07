@@ -1,0 +1,10 @@
+PRO	She
+EPS	took
+CON	night
+CON	classes
+REL	in
+DEF	the
+CON	art
+AND	of
+CON	self-defense
+NIL	.

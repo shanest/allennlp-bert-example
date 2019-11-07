@@ -1,0 +1,17 @@
+PRO	She
+NOW	is
+IST	likely
+SUB	to
+EXS	refuse
+SUB	to
+EXS	follow
+HAS	his
+CON	advice
+NIL	,
+SUB	because
+PRO	she
+NOW	does
+NOT	n't
+EXS	like
+PRO	him
+NIL	.

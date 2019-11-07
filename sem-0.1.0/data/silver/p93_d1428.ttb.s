@@ -1,0 +1,15 @@
+SUB	When
+PRO	you
+NOW	catch
+PRO	me
+REL	off
+CON	guard
+NIL	,
+PRO	it
+IST	really
+ENS	puts
+PRO	me
+REL	on
+DEF	the
+CON	spot
+NIL	.

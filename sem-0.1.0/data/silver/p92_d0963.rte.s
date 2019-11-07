@@ -1,0 +1,9 @@
+DIS	A
+CON	cocaine-imbibing
+NIL	Miami
+CON	man
+PST	had
+CON	life
+EXS	support
+EXS	removed
+NIL	.

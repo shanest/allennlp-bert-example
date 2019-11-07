@@ -1,0 +1,12 @@
+PRO	I
+EPS	did
+QUE	what
+PRO	I
+POS	could
+NIL	.
+PRO	It
+HAS	's
+HAS	your
+CON	turn
+NOW	now
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+COM	better
+SUB	to
+EXS	laugh
+AND	afterwards
+AND	than
+SUB	to
+EXS	cry
+REL	in
+CON	advance
+NIL	!

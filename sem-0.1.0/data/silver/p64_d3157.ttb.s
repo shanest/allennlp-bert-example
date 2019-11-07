@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+DEF	the
+CON	doctor
+AND	about
+UNK	whom
+PRO	I
+EPS	talked
+PST	yesterday
+NIL	.

@@ -1,0 +1,10 @@
+PRO	She
+EPS	showed
+PRO	him
+QUE	how
+SUB	to
+EXS	use
+DEF	the
+IST	new
+CON	software
+NIL	.

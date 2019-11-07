@@ -1,0 +1,10 @@
+DEF	The
+CON	school
+CON	year
+ENS	begins
+REL	on
+DEF	the
+DOM	10th
+EQU	of
+MOY	April
+NIL	.

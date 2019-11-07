@@ -1,0 +1,14 @@
+NOW	Is
+PRO	it
+EXS	possible
+PRO	I
+ALT	also
+ENS	know
+PRX	this
+IST	lovely
+CON	person
+PRO	you
+NOW	're
+EXS	speaking
+AND	of
+QUE	?

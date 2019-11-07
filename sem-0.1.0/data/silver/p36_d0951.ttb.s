@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	you
+NOW	've
+EXS	mistaken
+PRO	me
+REL	for
+DIS	someone
+AND	else
+NIL	.

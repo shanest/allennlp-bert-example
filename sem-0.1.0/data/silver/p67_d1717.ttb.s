@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	acquainted
+REL	with
+DEF	the
+ROL	chairman
+AND	of
+DEF	the
+CON	committee
+NIL	.

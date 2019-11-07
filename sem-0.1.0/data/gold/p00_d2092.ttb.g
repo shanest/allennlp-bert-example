@@ -1,0 +1,13 @@
+PER	Tom
+PST	was
+EXG	sitting
+REL	on
+DEF	the
+CON	edge
+REL	of
+DEF	the
+CON	desk
+EXG	playing
+HAS	his
+CON	ukulele
+NIL	.

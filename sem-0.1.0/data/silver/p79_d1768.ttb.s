@@ -1,0 +1,13 @@
+PRO	I
+EPS	forgot
+SUB	to
+EXS	stick
+DEF	the
+CON	stamp
+AND	onto
+DEF	the
+CON	letter
+SUB	to
+EXS	be
+EXS	sent
+NIL	.

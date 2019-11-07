@@ -1,0 +1,12 @@
+HAS	My
+XCL	sole
+CON	idea
+PST	was
+SUB	to
+EXS	get
+UNK	there
+SUB	as
+EXS	fast
+SUB	as
+EXS	possible
+NIL	.

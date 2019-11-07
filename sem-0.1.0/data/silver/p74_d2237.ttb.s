@@ -1,0 +1,15 @@
+PER	Mary
+EPS	wrote
+DIS	something
+REL	in
+PER	Tom
+HAS	's
+CON	notebook
+SUB	while
+PRO	he
+PST	was
+IST	away
+REL	from
+HAS	his
+CON	desk
+NIL	.

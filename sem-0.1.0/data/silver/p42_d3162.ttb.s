@@ -1,0 +1,9 @@
+PER	Tom
+EPS	bought
+DIS	a
+IST	new
+CON	case
+REL	for
+HAS	his
+CON	saxophone
+NIL	.

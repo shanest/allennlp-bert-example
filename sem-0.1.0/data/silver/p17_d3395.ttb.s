@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+SUB	where
+PRO	he
+NOW	is
+NOW	now
+NIL	.

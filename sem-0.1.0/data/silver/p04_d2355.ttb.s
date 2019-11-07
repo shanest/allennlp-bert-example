@@ -1,0 +1,9 @@
+DEF	The
+CON	value
+AND	of
+DEF	the
+CON	dollar
+NOW	is
+EXG	going
+IST	up
+NIL	.

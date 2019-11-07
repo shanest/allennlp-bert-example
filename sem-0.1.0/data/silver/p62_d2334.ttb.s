@@ -1,0 +1,11 @@
+EXS	Let
+PRO	me
+EXS	know
+IMP	if
+PRO	I
+ENS	need
+SUB	to
+EXS	make
+AND	any
+CON	changes
+NIL	.

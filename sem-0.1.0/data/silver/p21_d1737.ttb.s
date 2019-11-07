@@ -1,0 +1,10 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	do
+DIS	anything
+NOT	without
+PER	Mary
+HAS	's
+CON	help
+NIL	.

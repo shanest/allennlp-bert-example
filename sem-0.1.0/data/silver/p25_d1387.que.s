@@ -1,0 +1,9 @@
+QUE	What
+GPO	Russian
+ROL	president
+EPS	ordered
+DEF	the
+CON	intervention
+AND	of
+GEO	Chechyna
+QUE	?

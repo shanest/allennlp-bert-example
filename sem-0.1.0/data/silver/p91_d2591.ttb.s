@@ -1,0 +1,13 @@
+SUB	When
+PRO	I
+NOW	see
+PRX	this
+CON	picture
+NIL	,
+PRO	I
+NOW	'm
+EXS	reminded
+AND	of
+HAS	our
+CON	holiday
+NIL	.

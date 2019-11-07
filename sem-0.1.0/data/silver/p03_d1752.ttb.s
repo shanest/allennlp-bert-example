@@ -1,0 +1,13 @@
+AND	Why
+NOW	does
+NOT	no
+QUC	one
+NOW	believe
+PRO	me
+SUB	when
+PRO	I
+NOW	'm
+EXG	telling
+DEF	the
+CON	truth
+QUE	?

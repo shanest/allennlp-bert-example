@@ -1,0 +1,13 @@
+PER	Tom
+ENS	wants
+SUB	to
+EXS	know
+QUE	why
+PER	Mary
+PST	did
+NOT	n't
+EXS	go
+REL	to
+CON	school
+NOW	today
+NIL	.

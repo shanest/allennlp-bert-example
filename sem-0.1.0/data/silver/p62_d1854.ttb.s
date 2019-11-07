@@ -1,0 +1,12 @@
+PRO	I
+POS	could
+NOT	n't
+EXS	bring
+IST	myself
+SUB	to
+EXS	see
+DEF	the
+CON	horror
+CON	movie
+ALT	again
+NIL	.

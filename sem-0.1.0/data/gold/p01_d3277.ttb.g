@@ -1,0 +1,9 @@
+PER	Linda
+EPS	wanted
+PER	Dan
+NIL	to
+EXS	put
+REL	on
+DIS	a
+CON	condom
+NIL	.

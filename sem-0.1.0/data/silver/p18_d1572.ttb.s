@@ -1,0 +1,14 @@
+PER	Tom
+ENS	likes
+CON	oranges
+AND	and
+ENS	eats
+AND	around
+QUC	3
+DIS	or
+QUC	4
+AND	of
+PRO	them
+AND	per
+CON	week
+NIL	.

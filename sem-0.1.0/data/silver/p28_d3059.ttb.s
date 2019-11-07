@@ -1,0 +1,12 @@
+FUT	Will
+PRO	you
+IST	please
+EXS	explain
+DEF	the
+CON	meaning
+AND	of
+PRX	this
+CON	sentence
+REL	to
+PRO	me
+QUE	?

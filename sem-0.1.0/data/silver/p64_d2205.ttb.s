@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	feel
+AND	like
+EXS	going
+IST	out
+CON	right
+NOW	now
+NIL	.

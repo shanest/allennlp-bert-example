@@ -1,0 +1,12 @@
+PER	Tom
+EPS	refused
+SUB	to
+EXS	eat
+QUE	what
+HAS	his
+CON	mother
+EPS	put
+REL	on
+DEF	the
+CON	table
+NIL	.

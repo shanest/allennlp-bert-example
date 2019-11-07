@@ -1,0 +1,13 @@
+SUB	When
+PER	John
+PST	was
+QUC	fourteen
+PRO	he
+PST	was
+EXS	apprenticed
+REL	to
+DEF	the
+CON	trade
+AND	of
+ROL	carpenter
+NIL	.

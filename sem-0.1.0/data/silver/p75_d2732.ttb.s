@@ -1,0 +1,16 @@
+PER	Tom
+PST	thought
+PRO	it
+FUT	would
+EXS	be
+EXS	difficult
+REL	for
+PER	Mary
+SUB	to
+EXS	get
+DIS	a
+CON	ticket
+REL	to
+DST	that
+CON	concert
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+CON	brother
+AND	of
+HAS	my
+ROL	father
+NOW	is
+HAS	my
+ROL	uncle
+NIL	.

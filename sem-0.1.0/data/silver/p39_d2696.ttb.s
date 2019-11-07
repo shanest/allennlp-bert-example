@@ -1,0 +1,11 @@
+PRO	I
+EPS	got
+IST	up
+AND	so
+IST	early
+SUB	that
+PRO	I
+EPS	caught
+DEF	the
+CON	train
+NIL	.

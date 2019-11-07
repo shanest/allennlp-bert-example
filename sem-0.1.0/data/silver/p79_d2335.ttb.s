@@ -1,0 +1,9 @@
+AND	Such
+ROL	poets
+AND	as
+GEO	Toson
+AND	and
+GEO	Hakushu
+NOW	are
+EXS	rare
+NIL	.

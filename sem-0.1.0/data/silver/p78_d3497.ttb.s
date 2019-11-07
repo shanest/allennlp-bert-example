@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	have
+DEF	the
+CON	guts
+SUB	to
+EXS	shoot
+PER	Mary
+NIL	.

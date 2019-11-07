@@ -1,0 +1,14 @@
+PRO	We
+NOW	're
+IST	out
+AND	of
+CON	chairs
+NIL	.
+AND	Would
+PRO	you
+NOW	mind
+EXS	eating
+SUB	while
+EXG	standing
+IST	up
+QUE	?

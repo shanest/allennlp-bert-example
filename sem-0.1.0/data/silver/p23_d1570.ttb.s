@@ -1,0 +1,12 @@
+DEF	The
+ORG	Alternative
+REL	for
+GPE	Germany
+NOW	is
+DIS	a
+IST	new
+IST	political
+CON	party
+REL	in
+GPE	Germany
+NIL	.

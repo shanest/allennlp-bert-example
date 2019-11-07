@@ -1,0 +1,11 @@
+PRO	She
+EPS	made
+PRO	me
+DIS	a
+CON	promise
+SUB	to
+EXS	return
+CON	home
+REL	before
+CLO	midnight
+NIL	.

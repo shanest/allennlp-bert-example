@@ -1,0 +1,9 @@
+PRO	He
+EPS	made
+DIS	a
+IST	thorough
+CON	analysis
+AND	of
+DEF	the
+CON	problem
+NIL	.

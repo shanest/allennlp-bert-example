@@ -1,0 +1,12 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	think
+QUE	what
+PRO	he
+NEC	should
+EXS	give
+PER	Mary
+REL	for
+DOW	Christmas
+NIL	.

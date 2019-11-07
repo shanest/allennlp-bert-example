@@ -1,0 +1,10 @@
+QUE	Where
+HAS	's
+DEF	the
+CON	proof
+SUB	that
+PRO	he
+EPS	committed
+DIS	a
+CON	crime
+QUE	?

@@ -1,0 +1,15 @@
+EXS	Adopting
+DIS	a
+CON	child
+NOW	is
+DIS	a
+IST	tough
+CON	decision
+REL	with
+CON	plenty
+AND	of
+CON	bureaucracy
+REL	to
+EXS	wade
+AND	through
+NIL	.

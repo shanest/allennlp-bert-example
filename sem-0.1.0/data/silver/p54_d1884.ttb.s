@@ -1,0 +1,13 @@
+REL	In
+GPE	Japan
+NIL	,
+PRO	we
+EXS	drive
+REL	on
+DEF	the
+IST	left
+CON	side
+AND	of
+DEF	the
+CON	road
+NIL	.

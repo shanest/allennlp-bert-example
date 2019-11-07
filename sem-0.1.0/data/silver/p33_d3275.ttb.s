@@ -1,0 +1,12 @@
+NOT	No
+CON	one
+NOW	is
+EXS	rich
+IST	enough
+SUB	to
+EXS	buy
+IST	back
+HAS	his
+IST	own
+CON	past
+NIL	.

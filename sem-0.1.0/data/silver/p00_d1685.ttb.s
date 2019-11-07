@@ -1,0 +1,13 @@
+REL	In
+CON	case
+PRO	you
+ENS	go
+IST	out
+REL	before
+CLO	5
+NIL	,
+IST	just
+EXS	let
+PRO	me
+EXS	know
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+PST	was
+EXS	bitten
+REL	by
+DIS	a
+CON	dog
+SUB	when
+PRO	he
+PST	was
+DIS	a
+QUC	thirteen
+NIL	.

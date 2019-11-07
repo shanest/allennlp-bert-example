@@ -1,0 +1,10 @@
+DEF	The
+COL	white
+CON	horse
+NOW	is
+COM	taller
+AND	than
+DEF	the
+COL	black
+QUC	one
+NIL	.

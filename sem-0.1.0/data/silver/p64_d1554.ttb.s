@@ -1,0 +1,17 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	what
+PRO	we
+NOW	're
+EXS	going
+SUB	to
+EXS	find
+NIL	,
+BUT	but
+PRO	we
+NEC	should
+EXS	find
+DIS	something
+NIL	.

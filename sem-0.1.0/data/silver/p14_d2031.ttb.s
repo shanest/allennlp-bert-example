@@ -1,0 +1,12 @@
+PRO	We
+NEC	ought
+SUB	to
+EXS	do
+HAS	our
+TOP	best
+NOT	not
+SUB	to
+EXS	pollute
+HAS	our
+CON	environment
+NIL	.

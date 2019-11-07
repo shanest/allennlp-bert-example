@@ -1,0 +1,13 @@
+QUE	What
+CON	time
+FUT	will
+PRO	we
+EXS	reach
+PER	Akita
+IMP	if
+PRO	we
+ENS	take
+DEF	the
+CLO	9:30
+CON	train
+QUE	?

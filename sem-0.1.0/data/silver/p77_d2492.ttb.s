@@ -1,0 +1,10 @@
+PRO	I
+NOW	wonder
+QUE	how
+IST	long
+PRO	it
+NOW	's
+EXS	going
+SUB	to
+EXS	take
+NIL	.

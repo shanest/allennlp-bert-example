@@ -1,0 +1,12 @@
+PER	Tom
+PST	was
+INT	too
+EXS	distracted
+REL	by
+HAS	her
+CON	beauty
+SUB	to
+EXS	answer
+DEF	the
+CON	question
+NIL	.

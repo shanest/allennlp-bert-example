@@ -1,0 +1,11 @@
+NOT	No
+IST	sooner
+PST	had
+PER	Helen
+EXS	come
+CON	home
+AND	than
+PRO	she
+EPS	fell
+EXS	sick
+NIL	.

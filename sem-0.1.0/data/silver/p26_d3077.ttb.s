@@ -1,0 +1,14 @@
+PRO	I
+PST	had
+EXS	lived
+REL	in
+GEO	Sendai
+REL	for
+QUC	ten
+CON	years
+SUB	before
+PRO	I
+EPS	came
+REL	to
+GPE	Tokyo
+NIL	.

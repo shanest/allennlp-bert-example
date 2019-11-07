@@ -1,0 +1,10 @@
+PRO	I
+EPS	thought
+SUB	that
+PER	Tom
+PST	was
+EXS	going
+SUB	to
+EXS	kill
+PRO	me
+NIL	.

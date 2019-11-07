@@ -1,0 +1,15 @@
+PER	Tom
+EPS	switched
+HAS	his
+CON	phone
+REL	to
+CON	manner
+CON	mode
+SUB	before
+PRO	he
+EPS	walked
+REL	into
+PER	Mary
+HAS	's
+CON	office
+NIL	.

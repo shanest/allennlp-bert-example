@@ -1,0 +1,12 @@
+PRO	It
+FUT	'll
+EXS	be
+IST	easy
+SUB	to
+EXS	find
+DIS	a
+CON	renter
+REL	for
+PRX	this
+CON	house
+NIL	.

@@ -1,0 +1,10 @@
+PRO	We
+NOW	're
+EXS	going
+IST	out
+REL	for
+DIS	a
+CON	meal
+REL	on
+DOW	Friday
+NIL	.

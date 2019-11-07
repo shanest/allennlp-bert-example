@@ -1,0 +1,12 @@
+UNK	There
+HAS	's
+NOT	no
+EXS	need
+SUB	to
+EXS	change
+DEF	the
+CON	oil
+AND	every
+DEF	3000
+CON	miles
+NIL	.

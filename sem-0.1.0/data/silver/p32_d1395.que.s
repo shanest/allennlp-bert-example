@@ -1,0 +1,11 @@
+QUE	What
+NOW	are
+NOW	sounds
+INT	too
+EXS	low
+REL	for
+CON	humans
+SUB	to
+EXS	hear
+EXS	called
+QUE	?

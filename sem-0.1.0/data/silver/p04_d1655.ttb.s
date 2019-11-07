@@ -1,0 +1,16 @@
+PRO	It
+NOW	's
+IST	difficult
+SUB	to
+EXS	tell
+DST	those
+QUC	two
+CON	twins
+AND	apart
+SUB	because
+PRO	they
+NOW	look
+INT	so
+QUV	much
+EXS	alike
+NIL	.

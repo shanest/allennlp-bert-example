@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	unusual
+SUB	to
+EXS	see
+CON	rock
+CON	stars
+EXS	wearing
+DIS	a
+CON	tie
+NIL	!

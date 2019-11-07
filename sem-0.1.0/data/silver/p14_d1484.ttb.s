@@ -1,0 +1,10 @@
+EXS	Let
+PRO	's
+ENS	begin
+REL	at
+DEF	the
+IST	last
+CON	line
+COO	but
+QUC	one
+NIL	.

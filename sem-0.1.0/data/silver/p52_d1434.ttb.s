@@ -1,0 +1,9 @@
+GPE	Somalia
+NOW	is
+EXS	called
+NIL	"
+IST	as-Sumal
+NIL	"
+REL	in
+CON	Arabic
+NIL	.

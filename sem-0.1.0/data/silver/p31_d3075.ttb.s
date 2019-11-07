@@ -1,0 +1,12 @@
+DEF	The
+TOP	biggest
+CON	defeat
+REL	for
+DIS	an
+CON	atheist
+NOW	is
+EXG	ending
+IST	up
+REL	in
+CON	paradise
+NIL	.

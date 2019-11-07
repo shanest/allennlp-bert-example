@@ -1,0 +1,10 @@
+PRO	I
+NOW	suppose
+PRO	you
+FUT	wo
+NOT	n't
+EXS	eat
+REL	with
+PRO	us
+NOW	now
+NIL	.

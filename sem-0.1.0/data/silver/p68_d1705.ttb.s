@@ -1,0 +1,9 @@
+PER	Dan
+EPS	beat
+IST	up
+PER	Linda
+HAS	's
+CON	brother
+EQU	,
+PER	Matt
+NIL	.

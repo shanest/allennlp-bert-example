@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	been
+DIS	a
+CON	while
+NIL	.
+QUE	How
+NOW	are
+PRO	you
+QUE	?

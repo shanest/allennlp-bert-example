@@ -1,0 +1,14 @@
+DEF	The
+ROL	prince
+EPS	fell
+REL	in
+CON	love
+REL	with
+DIS	a
+IST	simple
+CON	peasant
+CON	girl
+COO	and
+EXS	married
+PRO	her
+NIL	.

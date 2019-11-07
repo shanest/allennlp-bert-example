@@ -1,0 +1,15 @@
+PER	Tom
+EPS	agreed
+SUB	to
+EXS	be
+PRX	here
+REL	at
+CLO	2:30
+NIL	,
+COO	but
+PRO	he
+HAS	's
+NOT	not
+IST	here
+ALT	yet
+NIL	.

@@ -1,0 +1,11 @@
+AND	Despite
+DEF	the
+CON	pain
+NIL	,
+PRO	he
+EPS	put
+REL	on
+DIS	a
+IST	brave
+CON	face
+NIL	.

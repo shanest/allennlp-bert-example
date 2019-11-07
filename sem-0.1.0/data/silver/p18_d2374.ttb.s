@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PRO	I
+NOW	'm
+EXS	allowed
+SUB	to
+EXS	do
+DST	that
+NIL	.

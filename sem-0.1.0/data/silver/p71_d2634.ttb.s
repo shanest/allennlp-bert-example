@@ -1,0 +1,9 @@
+DEF	The
+CON	bank
+PST	was
+EXS	held
+IST	up
+DIS	a
+CON	week
+PST	ago
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+NOW	are
+DEF	the
+QUC	one
+SUB	that
+PRO	I
+PST	was
+EXG	looking
+REL	for
+NIL	.

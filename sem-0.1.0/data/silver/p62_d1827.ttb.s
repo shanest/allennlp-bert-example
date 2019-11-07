@@ -1,0 +1,13 @@
+PER	Tom
+ENS	says
+PRO	he
+NOW	does
+NOT	n't
+EXS	know
+SUB	where
+PER	Mary
+EPS	bought
+HAS	her
+CON	pearl
+CON	necklace
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	happy
+SUB	when
+PRO	he
+NOW	is
+REL	with
+PER	Mary
+NIL	.

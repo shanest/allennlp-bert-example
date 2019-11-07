@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+EXS	sorry
+SUB	to
+EXS	cancel
+DEF	the
+CON	appointment
+REL	at
+DEF	the
+IST	last
+CON	minute
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+ENS	wonder
+IMP	if
+PER	Tom
+FUT	would
+EXS	like
+SUB	to
+EXS	play
+CON	poker
+REL	with
+PRO	us
+NIL	.

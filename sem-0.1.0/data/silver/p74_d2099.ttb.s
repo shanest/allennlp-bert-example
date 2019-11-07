@@ -1,0 +1,12 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	send
+PRX	this
+CON	parcel
+REL	to
+GPE	Japan
+REL	by
+CON	sea
+NIL	.

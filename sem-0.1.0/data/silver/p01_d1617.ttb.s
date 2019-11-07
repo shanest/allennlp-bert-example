@@ -1,0 +1,9 @@
+DEF	The
+CON	name
+AND	of
+NIL	João
+HAS	's
+ROL	sister
+NOW	is
+CON	Joana
+NIL	.

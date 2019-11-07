@@ -1,0 +1,12 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	like
+CON	girls
+AND	who
+EXS	wear
+DIS	a
+CON	lot
+NIL	of
+CON	makeup
+NIL	.

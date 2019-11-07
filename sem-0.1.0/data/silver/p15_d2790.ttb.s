@@ -1,0 +1,9 @@
+DEF	The
+IST	old
+CON	man
+EPS	named
+DEF	the
+IST	wooden
+CON	doll
+CON	Pinocchio
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	eat
+AND	anything
+NOT	except
+DEF	the
+CON	vegetables
+SUB	that
+PRO	he
+NOW	grows
+REF	himself
+NIL	.

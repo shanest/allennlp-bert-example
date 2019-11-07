@@ -1,0 +1,9 @@
+DEF	The
+IST	small
+CON	intestine
+NOW	is
+APX	about
+QUC	seven
+UOM	meters
+DEG	long
+NIL	.

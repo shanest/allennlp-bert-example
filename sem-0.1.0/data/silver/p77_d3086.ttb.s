@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+EXS	trying
+SUB	to
+EXS	get
+CON	custody
+AND	of
+HAS	his
+ROL	sister
+HAS	's
+CON	children
+NIL	.

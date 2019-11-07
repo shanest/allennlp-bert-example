@@ -1,0 +1,16 @@
+PRO	They
+PST	were
+EXS	getting
+UNK	ready
+SUB	to
+EXS	go
+REL	to
+CON	bed
+SUB	when
+PRO	I
+EPS	rang
+HAS	their
+CON	doorbell
+REL	at
+CLO	11pm
+NIL	.

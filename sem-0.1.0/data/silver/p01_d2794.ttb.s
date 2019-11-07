@@ -1,0 +1,13 @@
+PER	Tom
+ENS	says
+SUB	that
+IST	recently
+PRO	he
+NOW	is
+NOT	n't
+IST	able
+NIL	to
+EXS	get
+IST	enough
+CON	sleep
+NIL	.

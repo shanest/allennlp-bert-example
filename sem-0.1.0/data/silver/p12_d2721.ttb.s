@@ -1,0 +1,11 @@
+DEF	The
+IST	mere
+CON	sight
+AND	of
+DEF	the
+CON	doctor
+EPS	made
+HAS	my
+CON	cousin
+IST	afraid
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	wrote
+DIS	an
+CON	article
+AND	about
+PRO	it
+REL	in
+DEF	the
+CON	school
+CON	newspaper
+NIL	.

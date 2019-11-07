@@ -1,0 +1,11 @@
+AND	Somehow
+PER	Tom
+NOW	does
+NOT	n't
+EXS	seem
+SUB	to
+EXS	be
+PER	Mary
+HAS	's
+CON	type
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	box
+PST	was
+INT	too
+EXS	heavy
+REL	for
+PRO	him
+SUB	to
+EXS	lift
+NIL	.

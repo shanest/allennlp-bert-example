@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+IST	proud
+SUB	that
+HAS	his
+CON	father
+PST	was
+DIS	a
+IST	famous
+ROL	scientist
+NIL	.

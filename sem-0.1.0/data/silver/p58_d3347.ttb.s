@@ -1,0 +1,12 @@
+IMP	If
+PRO	you
+NOW	do
+NOT	n't
+EXS	love
+REF	yourself
+NIL	,
+NOT	no
+CON	one
+AND	else
+FUT	will
+NIL	.

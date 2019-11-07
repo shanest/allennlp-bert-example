@@ -1,0 +1,16 @@
+PRO	I
+NOW	'm
+IST	afraid
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	have
+SUB	to
+EXS	teach
+PRO	you
+DIS	some
+CON	manners
+EQU	,
+PER	Tom
+NIL	.

@@ -1,0 +1,15 @@
+HAS	My
+CON	opinions
+POS	may
+EXT	have
+EXS	changed
+NIL	,
+BUT	but
+NOT	not
+DEF	the
+CON	fact
+SUB	that
+PRO	I
+NOW	'm
+EXS	right
+NIL	.

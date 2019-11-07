@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	want
+SUB	to
+EXS	talk
+IST	right
+NOW	now
+NIL	.

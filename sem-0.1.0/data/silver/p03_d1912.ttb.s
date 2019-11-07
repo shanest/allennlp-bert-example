@@ -1,0 +1,11 @@
+PRO	I
+AND	like
+PRX	this
+CON	coat
+NIL	.
+POS	May
+PRO	I
+ENS	try
+PRO	it
+REL	on
+QUE	?

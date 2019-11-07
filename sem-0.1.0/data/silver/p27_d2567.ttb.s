@@ -1,0 +1,10 @@
+DEF	The
+CON	girl
+EPS	noticed
+DIS	someone
+EXS	go
+IST	out
+AND	of
+DEF	the
+CON	door
+NIL	.

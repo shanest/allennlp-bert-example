@@ -1,0 +1,12 @@
+PER	Tom
+EPS	asked
+PER	Mary
+IMP	if
+PRO	he
+POS	could
+EXS	read
+HAS	her
+CON	mother
+HAS	's
+CON	letter
+NIL	.

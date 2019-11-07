@@ -1,0 +1,15 @@
+DEF	The
+CON	thing
+PRO	you
+NEC	have
+SUB	to
+EXS	know
+AND	about
+PER	Batman
+NOW	is
+NIL	,
+PRO	he
+HAS	's
+DIS	a
+CON	superhero
+NIL	.

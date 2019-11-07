@@ -1,0 +1,12 @@
+EXS	Tell
+PER	Tom
+AND	that
+PER	Mary
+NOW	does
+NOT	n't
+EXS	want
+PRO	him
+SUB	to
+EXS	come
+IST	over
+NIL	.

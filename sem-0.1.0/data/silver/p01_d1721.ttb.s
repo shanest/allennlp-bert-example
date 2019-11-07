@@ -1,0 +1,11 @@
+REL	In
+GPE	Japan
+EQU	,
+DEF	the
+IST	rainy
+CON	season
+IST	usually
+ENS	begins
+REL	in
+MOY	June
+NIL	.

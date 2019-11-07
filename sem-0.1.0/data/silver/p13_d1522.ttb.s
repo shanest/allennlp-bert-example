@@ -1,0 +1,11 @@
+PER	Bob
+EPS	suggested
+SUB	that
+DEF	the
+CON	party
+EXS	be
+EXS	put
+REL	off
+REL	till
+DOW	Wednesday
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+FUT	'll
+EXS	be
+AND	about
+ALT	again
+SUB	when
+HAS	my
+CON	leg
+ENS	heals
+NIL	.

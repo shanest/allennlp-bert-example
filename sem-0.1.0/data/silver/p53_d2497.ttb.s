@@ -1,0 +1,10 @@
+PRO	We
+NOW	have
+CON	things
+REL	in
+IST	common
+EQU	,
+PER	Tom
+AND	and
+PRO	I
+NIL	.

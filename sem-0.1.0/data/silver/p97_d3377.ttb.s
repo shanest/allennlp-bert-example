@@ -1,0 +1,17 @@
+PRO	It
+NOW	looks
+AND	like
+PRO	you
+PST	were
+EXS	right
+NIL	.
+PER	Tom
+PST	was
+DEF	the
+CON	guy
+AND	who
+EPS	stole
+PER	Mary
+HAS	's
+CON	violin
+NIL	.

@@ -1,0 +1,10 @@
+HAS	His
+IST	great
+CON	performance
+EPS	drew
+REL	thundering
+CON	applause
+REL	from
+DEF	the
+CON	audience
+NIL	.

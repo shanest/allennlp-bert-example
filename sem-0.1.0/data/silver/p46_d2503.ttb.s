@@ -1,0 +1,13 @@
+IMP	If
+PRO	you
+NOW	are
+EXS	caught
+EXS	cheating
+NIL	,
+PRO	you
+FUT	'll
+EXS	be
+EXS	expelled
+REL	from
+CON	school
+NIL	.

@@ -1,0 +1,14 @@
+REL	In
+DEF	the
+CON	end
+NIL	,
+PRO	he
+ALT	also
+EPS	faltered
+REL	in
+DEF	the
+CON	face
+AND	of
+IST	great
+CON	adversity
+NIL	.

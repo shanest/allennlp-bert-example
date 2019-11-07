@@ -1,0 +1,10 @@
+PRO	It
+EPS	took
+PRO	me
+QUC	three
+CON	hours
+SUB	to
+EXS	do
+HAS	my
+CON	homework
+NIL	.

@@ -1,0 +1,16 @@
+PER	Tom
+FUT	would
+EXT	have
+EXS	missed
+DEF	the
+CON	train
+IMP	if
+PRO	he
+PST	had
+EXS	stopped
+NIL	to
+EXS	buy
+DIS	a
+CON	chocolate
+CON	bar
+NIL	.

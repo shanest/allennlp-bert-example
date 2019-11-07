@@ -1,0 +1,10 @@
+PER	Peter
+NOW	is
+GPO	English
+NIL	.
+NOW	Is
+PER	Susan
+CON	English
+NIL	,
+ALT	too
+QUE	?

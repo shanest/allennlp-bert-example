@@ -1,0 +1,10 @@
+PRO	I
+ENS	have
+DIS	an
+CON	appointment
+REL	with
+DEF	the
+ROL	professor
+REL	at
+CLO	1:30
+NIL	.

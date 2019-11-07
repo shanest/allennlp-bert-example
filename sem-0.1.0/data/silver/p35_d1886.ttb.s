@@ -1,0 +1,9 @@
+PRO	We
+NOW	have
+NOT	never
+EXS	had
+AND	such
+DIS	a
+IST	heavy
+CON	snowfall
+NIL	.

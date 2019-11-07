@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	take
+PRO	you
+NIL	to
+EXS	work
+REL	with
+PRO	me
+NIL	.

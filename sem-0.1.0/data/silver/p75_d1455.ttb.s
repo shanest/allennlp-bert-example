@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+DIS	a
+IST	completely
+IST	normal
+CON	guy
+AND	who
+NOW	has
+QUV	many
+CON	hobbies
+NIL	,
+AND	maybe
+INT	too
+QUC	many
+NIL	.

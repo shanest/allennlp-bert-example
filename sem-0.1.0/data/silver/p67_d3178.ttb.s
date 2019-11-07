@@ -1,0 +1,14 @@
+PER	Tom
+PST	had
+DIS	some
+CON	gum
+EXS	stuck
+REL	on
+DEF	the
+CON	bottom
+AND	of
+QUC	one
+AND	of
+HAS	his
+CON	shoes
+NIL	.

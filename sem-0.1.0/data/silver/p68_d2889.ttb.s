@@ -1,0 +1,9 @@
+DEF	The
+CON	house
+ENS	needs
+DIS	a
+IST	new
+CON	coat
+AND	of
+CON	paint
+NIL	.

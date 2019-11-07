@@ -1,0 +1,11 @@
+QUE	How
+PST	did
+PRO	you
+EXS	know
+PER	Tom
+EPS	wanted
+SUB	to
+EXS	go
+REL	to
+GPE	Boston
+QUE	?

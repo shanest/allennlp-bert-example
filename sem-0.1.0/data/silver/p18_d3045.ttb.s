@@ -1,0 +1,10 @@
+SUB	When
+HAS	her
+ROL	uncle
+EPS	died
+NIL	,
+PER	Mary
+EPS	came
+REL	into
+CON	fortune
+NIL	.

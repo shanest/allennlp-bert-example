@@ -1,0 +1,11 @@
+DIS	Sometimes
+PRO	they
+ENS	go
+REL	by
+CON	bus
+NIL	,
+AND	and
+DIS	sometimes
+REL	by
+CON	car
+NIL	.

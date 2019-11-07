@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+EPS	met
+DIS	a
+CON	lot
+AND	of
+CON	Esperantists
+PRX	here
+QUE	?

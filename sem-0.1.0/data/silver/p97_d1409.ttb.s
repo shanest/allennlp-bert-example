@@ -1,0 +1,14 @@
+PRO	It
+NOW	is
+COM	better
+SUB	to
+EXS	take
+HAS	your
+CON	time
+AND	than
+SUB	to
+EXS	hurry
+COO	and
+EXS	make
+CON	mistakes
+NIL	.

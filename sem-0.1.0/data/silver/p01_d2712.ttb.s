@@ -1,0 +1,12 @@
+PRO	She
+EPS	found
+DEF	the
+CON	ring
+SUB	that
+PRO	she
+PST	had
+EXS	lost
+AND	during
+DEF	the
+CON	journey
+NIL	.

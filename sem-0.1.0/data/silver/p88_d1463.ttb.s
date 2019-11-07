@@ -1,0 +1,10 @@
+PRO	You
+IST	old
+CON	moron
+NIL	!
+QUE	What
+NOW	do
+PRO	you
+EXS	understand
+QUE	?
+NIL	!

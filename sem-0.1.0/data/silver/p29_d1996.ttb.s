@@ -1,0 +1,14 @@
+PRO	He
+PST	had
+PFT	been
+EXS	ill
+REL	for
+DIS	a
+CON	week
+SUB	when
+PRO	they
+EPS	sent
+REL	for
+DIS	a
+CON	doctor
+NIL	.

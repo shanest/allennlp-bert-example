@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	dying
+SUB	to
+EXS	pick
+DIS	some
+IST	fresh
+CON	fruit
+NIL	.

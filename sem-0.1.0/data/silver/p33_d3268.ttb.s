@@ -1,0 +1,9 @@
+HAS	My
+ROL	uncle
+NOW	is
+NOT	not
+EXS	young
+NIL	,
+BUT	but
+EXS	healthy
+NIL	.

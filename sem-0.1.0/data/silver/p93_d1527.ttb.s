@@ -1,0 +1,14 @@
+NOW	Do
+PRO	you
+EXS	know
+SUB	that
+CON	conversation
+NOW	is
+QUC	one
+AND	of
+DEF	the
+TOP	greatest
+CON	pleasures
+REL	in
+CON	life
+QUE	?

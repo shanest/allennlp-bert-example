@@ -1,0 +1,9 @@
+GPE	London
+HAS	's
+CON	climate
+ENS	differs
+REL	from
+PRO	that
+AND	of
+GPE	Tokyo
+NIL	.

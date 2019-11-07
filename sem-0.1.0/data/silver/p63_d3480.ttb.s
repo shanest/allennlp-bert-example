@@ -1,0 +1,10 @@
+PER	Nicolaus
+PER	Copernicus
+NOW	is
+EXS	considered
+DEF	the
+CON	founder
+AND	of
+IST	modern
+CON	astronomy
+NIL	.

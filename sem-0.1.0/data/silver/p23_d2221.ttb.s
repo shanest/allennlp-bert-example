@@ -1,0 +1,14 @@
+PRO	It
+NOW	's
+IST	possible
+SUB	to
+EXS	win
+AND	every
+CON	battle
+NIL	,
+BUT	but
+IST	still
+EXS	lose
+DEF	the
+CON	war
+NIL	.

@@ -1,0 +1,10 @@
+PRO	They
+NOW	are
+EXS	going
+SUB	to
+EXS	launch
+DIS	an
+IST	artificial
+CON	satellite
+FUT	tomorrow
+NIL	.

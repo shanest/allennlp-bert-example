@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+IST	nice
+SUB	to
+IST	just
+EXS	sit
+PRX	here
+COO	and
+EXS	talk
+REL	with
+PRO	you
+NIL	.

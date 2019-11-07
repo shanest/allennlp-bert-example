@@ -1,0 +1,10 @@
+PRO	He
+EPS	ran
+DEF	the
+CON	risk
+AND	of
+EXS	being
+EXS	caught
+COO	and
+EXS	imprisoned
+NIL	.

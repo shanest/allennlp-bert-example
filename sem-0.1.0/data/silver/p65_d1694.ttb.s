@@ -1,0 +1,12 @@
+DST	That
+IST	old
+CON	man
+PST	had
+PFT	been
+EXS	making
+REL	homemade
+CON	whiskey
+REL	for
+QUC	fifty
+CON	years
+NIL	.

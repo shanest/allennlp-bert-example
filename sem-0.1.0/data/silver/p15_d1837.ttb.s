@@ -1,0 +1,12 @@
+QUE	How
+PST	did
+PRO	you
+EXS	know
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+NOT	n't
+IST	really
+EXS	married
+QUE	?

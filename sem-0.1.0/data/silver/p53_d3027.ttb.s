@@ -1,0 +1,9 @@
+PRO	I
+PST	'd
+IST	really
+IST	rather
+EXS	be
+AND	alone
+IST	right
+NOW	now
+NIL	.

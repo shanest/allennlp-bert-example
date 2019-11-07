@@ -1,0 +1,9 @@
+QUE	What
+PRO	he
+EPS	said
+NOW	is
+EXS	irrelevant
+REL	to
+DEF	the
+CON	matter
+NIL	.

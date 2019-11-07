@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+NOT	not
+DIS	a
+CON	child
+NIL	.
+NOW	Do
+NOT	n't
+EXS	talk
+REL	to
+PRO	me
+AND	like
+PRO	I
+NOW	am
+NIL	.

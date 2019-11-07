@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	sleep
+SUB	when
+PRO	I
+NOW	'm
+EXS	stressed
+IST	out
+NIL	.

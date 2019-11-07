@@ -1,0 +1,12 @@
+PRO	I
+IST	just
+EPS	ordered
+DIS	a
+CON	coffee
+NIL	,
+SUB	because
+PRO	I
+PST	was
+NOT	not
+EXS	hungry
+NIL	.

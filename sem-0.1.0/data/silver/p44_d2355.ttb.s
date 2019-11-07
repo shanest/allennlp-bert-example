@@ -1,0 +1,9 @@
+CON	Look
+REL	at
+DEF	the
+CON	girl
+AND	who
+NOW	is
+NOW	now
+EXS	singing
+NIL	.

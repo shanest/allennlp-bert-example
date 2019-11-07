@@ -1,0 +1,9 @@
+PER	Tom
+NEC	should
+EXT	've
+EXT	helped
+PER	Mary
+REL	with
+HAS	her
+CON	homework
+NIL	.

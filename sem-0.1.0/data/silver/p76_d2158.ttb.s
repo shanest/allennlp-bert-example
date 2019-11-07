@@ -1,0 +1,9 @@
+PER	Tom
+EPS	paid
+IST	back
+DEF	the
+CON	money
+PRO	he
+EPS	owed
+PRO	me
+NIL	.

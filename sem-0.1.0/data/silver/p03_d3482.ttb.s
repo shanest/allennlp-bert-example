@@ -1,0 +1,13 @@
+SUB	As
+PRO	it
+EPS	began
+REL	to
+CON	rain
+NIL	,
+PRO	I
+PST	had
+IST	just
+EXS	left
+DEF	the
+CON	house
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+ENS	studies
+GPO	French
+AND	every
+CON	morning
+SUB	before
+PRO	he
+ENS	goes
+REL	to
+EXS	work
+NIL	.

@@ -1,0 +1,13 @@
+DEF	The
+CON	group
+EPS	put
+IST	up
+CON	posters
+SUB	to
+EXS	remind
+CON	people
+AND	that
+CON	noise
+NOW	is
+EXS	harmful
+NIL	.

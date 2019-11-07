@@ -1,0 +1,9 @@
+PRO	We
+EPS	saw
+DIS	a
+IST	dim
+CON	light
+AND	beyond
+DEF	the
+CON	river
+NIL	.

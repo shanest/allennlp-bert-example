@@ -1,0 +1,12 @@
+PRO	I
+EPS	made
+PRO	you
+EXS	wait
+IST	so
+IST	long
+COO	;
+PRO	I
+NOW	beg
+HAS	your
+CON	forgiveness
+NIL	.

@@ -1,0 +1,17 @@
+DEF	The
+CON	number
+QUC	one
+CON	reason
+QUE	why
+CON	friends
+CON	dump
+HAS	their
+CON	friends
+REL	on
+ART	Facebook
+NOW	is
+INT	too
+QUV	many
+IST	useless
+CON	posts
+NIL	.

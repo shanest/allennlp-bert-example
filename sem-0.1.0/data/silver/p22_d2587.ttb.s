@@ -1,0 +1,13 @@
+NIL	"
+PER	Tom
+NIL	,
+EXS	hurry
+IST	up
+NIL	.
+NIL	"
+NIL	"
+PRO	I
+NOW	'm
+EXS	coming
+NIL	!
+NIL	"

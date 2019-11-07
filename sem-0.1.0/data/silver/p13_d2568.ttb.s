@@ -1,0 +1,16 @@
+QUE	What
+NOW	am
+PRO	I
+EXS	going
+SUB	to
+EXS	do
+NOW	now
+IST	then
+QUE	?
+PRO	I
+FUT	'll
+IST	just
+EXS	burst
+REL	into
+CON	tears
+NIL	.

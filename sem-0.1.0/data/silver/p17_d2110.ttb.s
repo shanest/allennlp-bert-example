@@ -1,0 +1,10 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	forgive
+PER	Mary
+REL	for
+EXS	behaving
+AND	like
+DST	that
+NIL	.

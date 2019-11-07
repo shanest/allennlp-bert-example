@@ -1,0 +1,14 @@
+PER	Tom
+EPS	came
+IST	up
+NIL	to
+PRO	me
+REL	after
+CON	class
+COO	and
+EPS	asked
+PRO	me
+DIS	a
+IST	few
+CON	questions
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	drank
+DEF	the
+IST	whole
+CON	bottle
+AND	of
+CON	wine
+AND	all
+REL	by
+REF	himself
+NIL	.

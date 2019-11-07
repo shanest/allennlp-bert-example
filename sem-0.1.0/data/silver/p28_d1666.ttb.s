@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	give
+PRO	it
+DIS	a
+EXS	go
+NIL	.

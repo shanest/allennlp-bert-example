@@ -1,0 +1,12 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	resist
+DIS	a
+CON	woman
+AND	who
+ENS	knows
+QUE	what
+PRO	she
+ENS	wants
+NIL	.

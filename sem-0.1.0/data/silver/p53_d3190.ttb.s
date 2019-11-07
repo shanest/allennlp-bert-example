@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	looking
+IST	forward
+SUB	to
+EXS	going
+REL	to
+DEF	the
+CON	concert
+NIL	.

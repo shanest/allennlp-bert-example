@@ -1,0 +1,11 @@
+DIS	A
+IST	selfish
+CON	man
+ENS	thinks
+AND	of
+NOT	nothing
+BUT	but
+HAS	his
+IST	own
+CON	feelings
+NIL	.

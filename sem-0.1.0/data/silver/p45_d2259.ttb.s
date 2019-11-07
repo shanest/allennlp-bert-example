@@ -1,0 +1,14 @@
+PRO	I
+POS	could
+EXS	kick
+EMP	myself
+REL	for
+NOT	not
+EXS	inviting
+PER	Tom
+AND	and
+PER	Mary
+REL	to
+HAS	my
+CON	party
+NIL	.

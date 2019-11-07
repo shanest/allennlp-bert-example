@@ -1,0 +1,11 @@
+PRO	We
+ENS	know
+IST	absolutely
+NOT	nothing
+AND	about
+DEF	the
+CON	bird
+HAS	's
+CON	life
+QUE	whatever
+NIL	.

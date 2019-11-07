@@ -1,0 +1,13 @@
+DEF	The
+CON	capital
+CON	market
+NOW	is
+NOT	not
+QUE	what
+PRO	it
+PST	was
+DIS	a
+IST	few
+CON	years
+PST	ago
+NIL	.

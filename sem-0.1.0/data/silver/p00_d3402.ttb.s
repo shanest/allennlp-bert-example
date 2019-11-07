@@ -1,0 +1,13 @@
+PER	Tom
+EPS	opened
+DEF	the
+REL	glove
+CON	compartment
+COO	and
+EPS	took
+IST	out
+DIS	a
+CON	pair
+NIL	of
+CON	sunglasses
+NIL	.

@@ -1,0 +1,13 @@
+NOW	Do
+PRO	you
+NOW	think
+PRO	it
+NOW	's
+EXS	easy
+SUB	to
+EXS	find
+DIS	a
+CON	job
+REL	in
+GPE	Germany
+QUE	?

@@ -1,0 +1,22 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	help
+BUT	but
+NOW	feel
+SUB	that
+IMP	if
+PRO	we
+PST	had
+EXS	gotten
+SUB	to
+EXS	know
+REF	each other
+IST	better
+NIL	,
+PRO	we
+FUT	'd
+EXT	have
+PFT	been
+CON	friends
+NIL	.

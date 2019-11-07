@@ -1,0 +1,9 @@
+GPE	Russia
+NOW	is
+EXS	called
+NIL	"
+GEO	Rossiya
+NIL	"
+REL	in
+GPO	Russian
+NIL	.

@@ -1,0 +1,11 @@
+CON	Talk
+REL	to
+PER	Tom
+COO	and
+EXS	see
+QUE	what
+PRO	he
+ENS	thinks
+AND	about
+PRX	this
+NIL	.

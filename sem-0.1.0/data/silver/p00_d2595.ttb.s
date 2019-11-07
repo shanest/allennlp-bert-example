@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+DEF	the
+CON	secret
+REL	for
+EXG	improving
+UNK	one
+CON	self
+NIL	.

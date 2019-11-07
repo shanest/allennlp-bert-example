@@ -1,0 +1,13 @@
+PRO	I
+EPS	met
+PER	Tom
+REL	for
+DEF	the
+IST	first
+CON	time
+QUC	three
+CON	months
+PST	ago
+REL	in
+GEO	Boston
+NIL	.

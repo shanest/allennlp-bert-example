@@ -1,0 +1,10 @@
+HAS	My
+CON	mother
+EPS	put
+DIS	a
+IST	large
+CON	vase
+REL	on
+DEF	the
+CON	shelf
+NIL	.

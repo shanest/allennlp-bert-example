@@ -1,0 +1,11 @@
+EXS	Put
+QUE	what
+PRO	you
+NOW	get
+REL	at
+DEF	the
+CON	store
+REL	to
+HAS	my
+CON	account
+NIL	.

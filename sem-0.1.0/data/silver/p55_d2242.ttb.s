@@ -1,0 +1,13 @@
+PRO	She
+EPS	walked
+IST	slowly
+REL	through
+DEF	the
+CON	park
+SUB	to
+EXS	show
+REL	off
+HAS	her
+IST	new
+CON	hairstyle
+NIL	.

@@ -1,0 +1,9 @@
+PST	Did
+DEF	the
+CON	glasses
+PRO	you
+EPS	found
+EXG	belong
+REL	to
+PER	Tom
+QUE	?

@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+IST	glad
+SUB	to
+EXS	see
+SUB	that
+PRO	you
+NOW	're
+EXG	studying
+COM	harder
+AND	than
+PRO	you
+EPS	used
+SUB	to
+NIL	.

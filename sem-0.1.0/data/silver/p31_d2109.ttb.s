@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	know
+AND	which
+CON	book
+NOW	sells
+IST	well
+NOW	now
+QUE	?

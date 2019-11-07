@@ -1,0 +1,17 @@
+PRO	It
+HAS	's
+IST	already
+CON	evening
+NIL	,
+PRO	I
+NOW	'm
+EXS	tired
+COO	and
+NEC	have
+SUB	to
+EXS	finish
+EXS	writing
+NIL	.
+IST	Good
+CON	night
+NIL	!

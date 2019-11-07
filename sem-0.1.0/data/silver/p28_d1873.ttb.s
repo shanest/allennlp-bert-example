@@ -1,0 +1,9 @@
+PER	Hector
+NOW	is
+REL	from
+GPE	Peru
+NIL	.
+PRO	He
+NOW	is
+GPO	Peruvian
+NIL	.

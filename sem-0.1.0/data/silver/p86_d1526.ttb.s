@@ -1,0 +1,13 @@
+PER	Tom
+EPS	put
+IST	new
+CON	pedals
+REL	on
+DEF	the
+CON	bicycle
+SUB	that
+PRO	he
+ENS	rides
+REL	to
+CON	school
+NIL	.

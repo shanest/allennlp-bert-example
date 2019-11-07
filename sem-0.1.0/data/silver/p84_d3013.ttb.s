@@ -1,0 +1,14 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	do
+AND	anything
+NOT	without
+IST	first
+EXS	asking
+PER	Mary
+IMP	if
+PRO	it
+HAS	's
+CON	OK
+NIL	.

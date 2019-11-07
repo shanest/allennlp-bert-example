@@ -1,0 +1,10 @@
+PER	Mary
+EPS	renounced
+HAS	her
+IST	moral
+CON	values
+COO	and
+EPS	became
+DIS	a
+NIL	nihilist
+NIL	.

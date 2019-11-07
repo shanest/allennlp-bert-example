@@ -1,0 +1,10 @@
+PRO	I
+FUT	'd
+IST	very
+QUV	much
+AND	like
+SUB	to
+EXS	know
+HAS	your
+CON	opinion
+NIL	.

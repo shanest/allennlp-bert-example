@@ -1,0 +1,10 @@
+PER	Tom
+EPS	told
+HAS	his
+CON	friends
+SUB	that
+PRO	he
+IST	never
+EPS	ate
+CON	meat
+NIL	.

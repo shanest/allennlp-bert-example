@@ -1,0 +1,13 @@
+PRO	He
+NOW	is
+DIS	a
+IST	retired
+CON	man
+AND	who
+ROL	volunteers
+SUB	to
+EXS	entertain
+CON	patients
+REL	in
+CON	hospitals
+NIL	.

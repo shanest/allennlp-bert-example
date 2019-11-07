@@ -1,0 +1,13 @@
+PRO	I
+PST	was
+EXS	tied
+IST	up
+REL	until
+INT	very
+IST	late
+EXG	getting
+DIS	some
+CON	things
+REL	in
+CON	order
+NIL	.

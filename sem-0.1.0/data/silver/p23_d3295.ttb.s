@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	.
+PRO	I
+FUT	'll
+EXS	do
+DIS	anything
+SUB	to
+EXS	make
+PRX	this
+CON	right
+NIL	.

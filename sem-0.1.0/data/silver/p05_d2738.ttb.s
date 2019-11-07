@@ -1,0 +1,12 @@
+HAS	My
+CON	granny
+EPS	spoke
+IST	longingly
+AND	of
+DEF	the
+CON	halcyon
+CON	days
+AND	of
+HAS	her
+CON	childhood
+NIL	.

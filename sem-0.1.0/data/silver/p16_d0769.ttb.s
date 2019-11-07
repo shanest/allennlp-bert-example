@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+NOW	think
+CON	mankind
+FUT	will
+FUT	someday
+EXS	colonize
+DEF	the
+CON	Moon
+QUE	?

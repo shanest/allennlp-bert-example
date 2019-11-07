@@ -1,0 +1,9 @@
+PRO	She
+EPS	came
+REL	to
+GPE	Tokyo
+SUB	when
+PRO	she
+PST	was
+QUC	18
+NIL	.

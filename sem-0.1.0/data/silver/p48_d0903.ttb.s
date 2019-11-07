@@ -1,0 +1,12 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	it
+PST	was
+INT	too
+EXS	hot
+SUB	to
+EXS	play
+IST	outside
+NIL	.

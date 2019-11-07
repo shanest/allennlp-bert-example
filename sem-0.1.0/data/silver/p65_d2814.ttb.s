@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+IST	just
+EPS	bought
+DIS	a
+IST	new
+CON	car
+NIL	.

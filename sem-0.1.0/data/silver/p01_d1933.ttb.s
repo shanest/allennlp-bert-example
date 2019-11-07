@@ -1,0 +1,10 @@
+NIL	There
+PST	were
+QUC	four
+CON	pieces
+AND	of
+CON	furniture
+REL	in
+DEF	the
+CON	room
+NIL	.

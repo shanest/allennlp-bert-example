@@ -1,0 +1,9 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	leave
+DEF	the
+CON	windows
+EXS	open
+NIL	.

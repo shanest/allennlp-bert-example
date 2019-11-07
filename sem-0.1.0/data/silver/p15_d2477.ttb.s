@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXS	going
+SUB	to
+EXS	have
+HAS	my
+CON	watch
+EXS	repaired
+REL	by
+PER	John
+NIL	.

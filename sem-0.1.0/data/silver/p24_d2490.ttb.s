@@ -1,0 +1,15 @@
+DEF	The
+CON	God
+AND	who
+EPS	gave
+PRO	us
+CON	life
+NIL	,
+EPS	gave
+PRO	us
+CON	liberty
+REL	at
+DEF	the
+IST	same
+CON	time
+NIL	.

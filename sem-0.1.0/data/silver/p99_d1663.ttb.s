@@ -1,0 +1,9 @@
+PRX	This
+NOW	is
+DEF	the
+TOP	best
+CON	restaurant
+PRO	I
+ENS	know
+AND	of
+NIL	.

@@ -1,0 +1,9 @@
+PRO	It
+NOW	has
+PFT	been
+EXS	raining
+DIS	a
+IST	full
+QUC	five
+CON	days
+NIL	.

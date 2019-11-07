@@ -1,0 +1,11 @@
+PRO	I
+PST	was
+EXG	thinking
+PRO	we
+POS	might
+EXS	want
+NIL	to
+EXS	help
+PER	Tom
+IST	financially
+NIL	.

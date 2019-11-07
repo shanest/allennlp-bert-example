@@ -1,0 +1,10 @@
+SUB	When
+PST	was
+DEF	the
+IST	first
+CON	time
+PRO	you
+PST	invited
+PER	Marika
+IST	out
+QUE	?

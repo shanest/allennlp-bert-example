@@ -1,0 +1,13 @@
+UNK	There
+HAS	's
+DIS	someone
+REL	at
+DEF	the
+CON	door
+AND	who
+ENS	wants
+SUB	to
+EXS	talk
+REL	to
+PRO	you
+NIL	.

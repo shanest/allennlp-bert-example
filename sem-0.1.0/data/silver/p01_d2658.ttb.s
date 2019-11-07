@@ -1,0 +1,9 @@
+QUE	How
+QUV	many
+CON	countries
+NOW	are
+IST	there
+REL	in
+DEF	the
+CON	world
+QUE	?

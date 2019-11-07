@@ -1,0 +1,9 @@
+PER	Tom
+EPS	bought
+DIS	a
+CON	camera
+NOT	not
+IST	too
+IST	long
+PST	ago
+NIL	.

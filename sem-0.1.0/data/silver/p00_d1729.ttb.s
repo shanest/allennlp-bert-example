@@ -1,0 +1,14 @@
+PRO	You
+FUT	'll
+NEC	have
+NIL	to
+EXS	do
+PRO	it
+NIL	,
+SUB	whether
+PRO	you
+EXS	like
+PRO	it
+DIS	or
+NOT	not
+NIL	.

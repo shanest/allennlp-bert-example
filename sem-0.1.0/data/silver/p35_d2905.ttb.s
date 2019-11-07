@@ -1,0 +1,11 @@
+HAS	My
+CON	mother
+EPS	wrote
+REL	to
+PRO	me
+COO	and
+EPS	asked
+REL	after
+HAS	my
+CON	health
+NIL	.

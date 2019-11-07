@@ -1,0 +1,13 @@
+PER	Tom
+EPS	noticed
+PER	Mary
+PST	was
+NOT	n't
+EXS	wearing
+DEF	the
+CON	ring
+PRO	he
+PST	'd
+EXS	given
+PRO	her
+NIL	.

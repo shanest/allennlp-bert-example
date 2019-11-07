@@ -1,0 +1,9 @@
+PRO	I
+PST	thought
+PRO	you
+PST	were
+EXS	going
+IST	steady
+REL	with
+PER	Tom
+NIL	.

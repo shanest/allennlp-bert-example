@@ -1,0 +1,13 @@
+DEF	The
+IST	young
+CON	man
+AND	whom
+PRO	I
+EXS	employed
+AND	as
+HAS	my
+ROL	assistant
+ENS	works
+INT	very
+IST	hard
+NIL	.

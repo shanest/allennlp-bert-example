@@ -1,0 +1,13 @@
+PRO	I
+NOW	've
+EXS	got
+DIS	a
+CON	feeling
+SUB	that
+PER	Tom
+FUT	wo
+NOT	n't
+EXS	graduate
+PRX	this
+CON	year
+NIL	.

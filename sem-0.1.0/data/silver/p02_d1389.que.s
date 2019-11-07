@@ -1,0 +1,11 @@
+QUE	What
+NOW	is
+DEF	the
+IST	first
+CON	name
+AND	of
+PER	Nelson
+PER	Mandela
+REL	's
+CON	wife
+QUE	?

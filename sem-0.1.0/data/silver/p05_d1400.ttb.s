@@ -1,0 +1,9 @@
+QUE	What
+NOW	has
+EXS	gone
+EXS	wrong
+REL	with
+DEF	the
+IST	European
+CON	project
+QUE	?

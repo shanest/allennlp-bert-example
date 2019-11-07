@@ -1,0 +1,11 @@
+EXT	Having
+PFT	been
+EXS	left
+AND	alone
+NIL	,
+DEF	the
+CON	baby
+EPS	started
+SUB	to
+EXS	cry
+NIL	.

@@ -1,0 +1,10 @@
+EPS	Put
+IST	out
+HAS	your
+CON	cigarette
+ENS	butts
+SUB	before
+EXG	throwing
+PRO	them
+IST	away
+NIL	!

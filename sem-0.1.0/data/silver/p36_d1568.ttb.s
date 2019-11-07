@@ -1,0 +1,13 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	do
+PRO	it
+AND	alone
+NIL	.
+EXS	Ask
+DIS	someone
+SUB	to
+EXS	help
+PRO	you
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	child
+NOW	is
+EXS	sleeping
+NIL	.
+AND	Just
+EXS	be
+EXS	quiet
+NOW	now
+NIL	!

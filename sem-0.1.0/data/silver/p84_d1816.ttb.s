@@ -1,0 +1,10 @@
+PRO	I
+PST	thought
+PER	Tom
+FUT	would
+EXS	speak
+GPO	French
+COM	better
+MOR	than
+PER	Mary
+NIL	.

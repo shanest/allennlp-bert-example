@@ -1,0 +1,17 @@
+PER	Tom
+AND	and
+PER	Mary
+POS	could
+NOT	no
+IST	longer
+EXS	afford
+SUB	to
+EXS	run
+QUC	two
+CON	cars
+NIL	,
+COO	so
+PRO	they
+EPS	sold
+QUC	one
+NIL	.

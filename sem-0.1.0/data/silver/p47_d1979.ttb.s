@@ -1,0 +1,9 @@
+PER	Tom
+ENS	speaks
+GPO	Japanese
+COM	better
+AND	than
+DEF	the
+GPO	Japanese
+NOW	do
+NIL	.

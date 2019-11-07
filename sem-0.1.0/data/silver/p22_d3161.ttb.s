@@ -1,0 +1,14 @@
+DEF	The
+CON	coach
+EPS	told
+DEF	the
+CON	players
+NOT	not
+SUB	to
+EXS	eat
+INT	too
+QUV	much
+REL	before
+DEF	the
+CON	game
+NIL	.

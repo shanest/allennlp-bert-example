@@ -1,0 +1,11 @@
+PRO	I
+ENS	wish
+PER	Tom
+FUT	would
+NOT	n't
+EXS	keep
+EXG	bothering
+PRO	me
+REL	with
+CON	questions
+NIL	.

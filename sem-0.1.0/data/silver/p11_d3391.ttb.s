@@ -1,0 +1,10 @@
+HAS	Your
+ROL	mother
+COO	and
+PRO	I
+ENS	want
+PRO	you
+SUB	to
+EXS	marry
+PER	Tom
+NIL	.

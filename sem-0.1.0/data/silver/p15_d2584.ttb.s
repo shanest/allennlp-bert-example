@@ -1,0 +1,10 @@
+NOW	Today
+NIL	,
+QUV	many
+CON	people
+NOW	worry
+IST	about
+EXG	losing
+HAS	their
+CON	jobs
+NIL	.

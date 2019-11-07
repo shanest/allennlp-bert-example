@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	done
+NIL	.
+QUE	What
+HAS	's
+DEF	the
+IST	next
+CON	step
+QUE	?

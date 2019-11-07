@@ -1,0 +1,10 @@
+PER	White
+EPS	assisted
+DEF	the
+ORG	Labor
+CON	government
+REL	from
+YOC	1972
+REL	to
+YOC	1975
+NIL	.

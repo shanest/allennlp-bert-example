@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+DEF	the
+IST	whole
+CON	world
+SUB	to
+EXS	know
+AND	about
+PRO	us
+NIL	.

@@ -1,0 +1,10 @@
+QUE	What
+PRO	he
+EPS	said
+NOW	does
+NOT	n't
+EXS	make
+CON	sense
+REL	to
+PRO	me
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+FUT	would
+EXS	like
+SUB	to
+EXS	be
+DST	there
+REL	in
+IST	good
+CON	time
+NIL	.

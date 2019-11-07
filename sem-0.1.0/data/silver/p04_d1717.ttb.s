@@ -1,0 +1,10 @@
+DEF	The
+CON	voyage
+SUB	to
+GEO	America
+EPS	used
+SUB	to
+EXS	take
+QUV	many
+CON	weeks
+NIL	.

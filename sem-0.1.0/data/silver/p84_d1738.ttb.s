@@ -1,0 +1,13 @@
+PST	Had
+PRO	I
+EXS	taken
+DST	that
+CON	plane
+NIL	,
+PRO	I
+FUT	would
+EXS	be
+EXS	dead
+REL	by
+NOW	now
+NIL	.

@@ -1,0 +1,17 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	spend
+AND	any
+IST	more
+CON	time
+EXS	trying
+SUB	to
+EXS	convince
+PER	Tom
+SUB	to
+EXS	study
+GPO	French
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	knocked
+REL	on
+DEF	the
+CON	door
+COO	and
+IST	then
+EPS	entered
+NOT	without
+EXS	waiting
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+AND	of
+DEF	the
+CON	opinion
+SUB	that
+PRO	he
+FUT	will
+NOT	never
+EXS	come
+IST	back
+NIL	.

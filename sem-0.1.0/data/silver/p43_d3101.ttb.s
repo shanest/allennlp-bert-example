@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+IST	obvious
+SUB	that
+PRO	you
+NOW	are
+DIS	an
+IST	intelligent
+CON	boy
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NEC	should
+IST	probably
+EXS	spend
+IST	more
+CON	time
+REL	with
+PER	Mary
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+EXS	going
+SUB	to
+EXS	do
+PRO	it
+SUB	whether
+PRO	you
+NOW	agree
+DIS	or
+NOT	not
+NIL	.

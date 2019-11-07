@@ -1,0 +1,14 @@
+IMP	If
+PRO	I
+PST	had
+IST	more
+CON	money
+NIL	,
+PRO	I
+POS	could
+EXS	move
+REL	to
+DIS	a
+MOR	bigger
+CON	house
+NIL	.

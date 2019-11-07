@@ -1,0 +1,11 @@
+PER	Tom
+ENS	says
+PRO	you
+NOW	're
+EXS	lying
+AND	about
+QUE	what
+CON	time
+PRO	you
+EPS	arrived
+NIL	.

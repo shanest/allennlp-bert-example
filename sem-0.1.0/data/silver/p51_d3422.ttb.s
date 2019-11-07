@@ -1,0 +1,13 @@
+EXS	Tell
+PER	Tom
+PRO	I
+ENS	need
+SUB	to
+EXS	talk
+REL	to
+PRO	him
+AND	as
+IST	soon
+SUB	as
+EXS	possible
+NIL	.

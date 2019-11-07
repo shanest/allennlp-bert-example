@@ -1,0 +1,10 @@
+EXS	Moving
+REL	into
+DEF	the
+IST	new
+CON	office
+EPS	took
+PRO	her
+QUC	one
+CON	month
+NIL	.

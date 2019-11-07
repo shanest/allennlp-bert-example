@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	not
+EXS	seen
+PRO	him
+REL	for
+INT	about
+QUC	three
+CON	months
+NIL	.

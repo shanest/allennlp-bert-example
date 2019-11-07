@@ -1,0 +1,19 @@
+PER	Christopher Columbus
+QUC	once
+IST	accidentally
+EPS	ate
+DIS	a
+CON	sea
+CON	urchin
+NIL	.
+AND	Then
+NIL	,
+PRO	he
+PST	did
+PRO	it
+DIS	a
+IST	second
+CON	time
+NIL	...
+IST	intentionally
+NIL	.

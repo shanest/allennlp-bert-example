@@ -1,0 +1,13 @@
+DEF	The
+CON	doctors
+EXS	tell
+PRO	you
+AND	that
+HAS	your
+CON	brother
+FUT	will
+NOT	never
+EXS	wake
+IST	up
+ALT	again
+NIL	.

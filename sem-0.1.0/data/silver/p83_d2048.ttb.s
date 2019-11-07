@@ -1,0 +1,14 @@
+DEF	The
+CON	reason
+REL	for
+PRO	him
+EXS	being
+IST	late
+EPS	was
+SUB	that
+PRO	he
+PST	had
+EXS	missed
+DEF	the
+CON	bus
+NIL	.

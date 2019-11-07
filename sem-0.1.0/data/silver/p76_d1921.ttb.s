@@ -1,0 +1,13 @@
+PER	Sophie
+NIL	,
+AND	who
+PST	was
+EXS	hungry
+NIL	,
+EPS	ate
+AND	everything
+SUB	that
+PRO	she
+POS	could
+EXS	grab
+NIL	.

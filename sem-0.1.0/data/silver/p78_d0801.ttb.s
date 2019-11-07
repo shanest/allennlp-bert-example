@@ -1,0 +1,14 @@
+NOT	Not
+XCL	only
+PST	were
+PRO	we
+EXS	hungry
+NIL	,
+BUT	but
+PRO	we
+PST	were
+ALT	also
+EXS	suffering
+REL	from
+CON	thirst
+NIL	.

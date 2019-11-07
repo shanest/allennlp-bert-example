@@ -1,0 +1,9 @@
+PRO	We
+NOW	are
+EXS	expecting
+DEF	the
+CON	issue
+AND	of
+HAS	his
+CON	book
+NIL	.

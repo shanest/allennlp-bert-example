@@ -1,0 +1,9 @@
+PER	Tom
+ENS	knows
+AND	who
+EPS	crashed
+REL	into
+PER	Mary
+HAS	's
+CON	car
+NIL	.

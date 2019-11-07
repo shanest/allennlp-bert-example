@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+EXS	left
+NIL	,
+COO	but
+PER	Mary
+NOW	is
+IST	still
+PRX	here
+NIL	.

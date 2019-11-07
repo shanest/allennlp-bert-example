@@ -1,0 +1,11 @@
+PRO	We
+EPS	suggested
+SUB	that
+PRO	she
+NEC	should
+EXS	make
+IST	up
+REL	for
+DEF	the
+CON	loss
+NIL	.

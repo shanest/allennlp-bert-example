@@ -1,0 +1,9 @@
+EXS	Let
+PRO	's
+EXS	take
+DIS	a
+CON	rest
+REL	in
+DEF	the
+CON	shade
+NIL	.

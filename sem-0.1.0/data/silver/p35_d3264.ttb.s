@@ -1,0 +1,10 @@
+DEF	The
+CON	kidnappers
+EPS	tied
+PER	Tom
+HAS	's
+CON	hands
+AND	behind
+HAS	his
+IST	back
+NIL	.

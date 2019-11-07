@@ -1,0 +1,11 @@
+PRO	I
+PST	had
+IST	just
+EXS	finished
+EXS	eating
+CON	lunch
+SUB	when
+HAS	my
+CON	doorbell
+EPS	rang
+NIL	.

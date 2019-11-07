@@ -1,0 +1,9 @@
+PER	Tom
+ENS	puts
+CON	lots
+AND	of
+CON	sugar
+REL	in
+HAS	his
+CON	coffee
+NIL	.

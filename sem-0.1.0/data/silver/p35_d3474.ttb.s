@@ -1,0 +1,13 @@
+AND	Each
+AND	of
+PRO	them
+ENS	has
+SUB	to
+EXS	write
+DIS	a
+CON	report
+AND	about
+QUE	what
+PRO	he
+EPS	saw
+NIL	.

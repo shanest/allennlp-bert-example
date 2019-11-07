@@ -1,0 +1,11 @@
+NIL	There
+HAS	's
+INT	so
+QUC	much
+PRO	I
+ENS	want
+SUB	to
+EXS	say
+REL	to
+PRO	you
+NIL	.

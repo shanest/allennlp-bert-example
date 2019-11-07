@@ -1,0 +1,11 @@
+PRO	I
+EPS	escaped
+DEF	the
+CON	accident
+REL	by
+DEF	the
+CON	skin
+AND	of
+HAS	my
+CON	teeth
+NIL	.

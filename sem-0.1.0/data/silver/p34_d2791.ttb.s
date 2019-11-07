@@ -1,0 +1,12 @@
+PRO	I
+EPS	called
+DEF	the
+CON	hospital
+SUB	to
+EXS	ask
+IMP	if
+PER	Tom
+PST	had
+PFT	been
+EXS	admitted
+NIL	.

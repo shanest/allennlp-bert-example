@@ -1,0 +1,11 @@
+HAS	My
+CON	baby
+POS	ca
+NOT	n't
+EXS	talk
+ALT	yet
+NIL	.
+PRO	He
+IST	just
+CON	cries
+NIL	.

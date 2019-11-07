@@ -1,0 +1,10 @@
+AND	Recently
+NIL	,
+PER	Tom
+NOW	has
+PFT	been
+EXS	worrying
+AND	about
+HAS	his
+CON	future
+NIL	.

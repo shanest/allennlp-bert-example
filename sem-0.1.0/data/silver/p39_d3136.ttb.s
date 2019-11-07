@@ -1,0 +1,9 @@
+PRO	She
+NOW	takes
+EXS	care
+AND	of
+HAS	her
+CON	brothers
+AND	and
+ROL	sisters
+NIL	.

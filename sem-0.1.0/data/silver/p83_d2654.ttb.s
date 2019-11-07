@@ -1,0 +1,9 @@
+PRO	I
+EPS	forgot
+SUB	to
+EXS	ask
+PER	Tom
+REL	for
+HAS	his
+CON	advice
+NIL	.

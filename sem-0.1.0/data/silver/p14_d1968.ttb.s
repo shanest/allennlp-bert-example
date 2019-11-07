@@ -1,0 +1,13 @@
+NOW	Now
+SUB	that
+PRO	I
+NOW	am
+PRX	here
+NIL	,
+PRO	you
+NOW	do
+NOT	n't
+NEC	have
+SUB	to
+EXS	worry
+NIL	.

@@ -1,0 +1,17 @@
+REL	Since
+DEF	the
+CON	train
+PST	was
+INT	very
+EXS	crowded
+NIL	,
+PRO	I
+NEC	had
+SUB	to
+EXS	stand
+AND	all
+DEF	the
+CON	way
+REL	to
+CON	Ueno
+NIL	.

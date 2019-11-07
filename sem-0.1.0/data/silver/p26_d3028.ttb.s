@@ -1,0 +1,11 @@
+REL	In
+CON	order
+REL	to
+CON	sprout
+NIL	,
+CON	seeds
+ENS	need
+CON	air
+AND	and
+CON	water
+NIL	.

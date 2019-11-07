@@ -1,0 +1,11 @@
+PRO	She
+EPS	said
+SUB	that
+NOT	without
+PRO	me
+NIL	,
+CON	life
+EPS	held
+NOT	no
+EXS	meaning
+NIL	.

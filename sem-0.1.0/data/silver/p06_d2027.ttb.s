@@ -1,0 +1,9 @@
+PRO	You
+POS	ca
+NOT	n't
+IST	still
+EXS	be
+IST	mad
+REL	at
+PRO	me
+NIL	.

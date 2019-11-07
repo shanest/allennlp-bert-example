@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+IST	really
+ENS	want
+PRO	me
+SUB	to
+EXS	go
+IST	there
+CON	right
+NOW	now
+QUE	?

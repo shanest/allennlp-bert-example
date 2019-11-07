@@ -1,0 +1,15 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+SUB	that
+PER	Tom
+EPS	talked
+AND	about
+PRO	me
+AND	like
+DST	that
+AND	behind
+HAS	my
+IST	back
+NIL	.

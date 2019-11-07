@@ -1,0 +1,12 @@
+PRX	This
+NOW	is
+QUE	what
+HAS	my
+CON	mother
+EPS	gave
+PRO	me
+SUB	when
+PRO	I
+PST	got
+EXS	married
+NIL	.

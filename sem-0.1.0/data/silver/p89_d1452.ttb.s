@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+EXS	easy
+SUB	to
+EXS	pick
+IST	up
+IST	bad
+CON	habits
+NIL	.

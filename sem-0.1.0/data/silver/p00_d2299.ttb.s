@@ -1,0 +1,11 @@
+AND	How
+IST	long
+FUT	would
+PRO	it
+EXS	take
+NIL	to
+EXS	swim
+REL	across
+DEF	the
+CON	river
+QUE	?

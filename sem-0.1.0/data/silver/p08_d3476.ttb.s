@@ -1,0 +1,11 @@
+UNK	There
+HAS	's
+DIS	one
+COL	black
+CON	cat
+EXS	sleeping
+REL	on
+DEF	the
+COL	yellow
+CON	chair
+NIL	.

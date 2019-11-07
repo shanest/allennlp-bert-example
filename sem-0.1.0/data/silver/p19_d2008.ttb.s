@@ -1,0 +1,17 @@
+PER	Tom
+EPS	lost
+HAS	his
+CON	cap
+NIL	,
+COO	and
+PRO	he
+EPS	felt
+SUB	that
+PRO	he
+NEC	had
+SUB	to
+EXS	buy
+DIS	a
+IST	new
+CON	one
+NIL	.

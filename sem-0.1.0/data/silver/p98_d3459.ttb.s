@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+PFT	been
+IST	happily
+EXS	married
+REL	for
+QUC	thirteen
+CON	years
+NIL	.

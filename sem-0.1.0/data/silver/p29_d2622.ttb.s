@@ -1,0 +1,16 @@
+HAS	My
+CON	girlfriend
+IST	often
+ENS	says
+NIL	"
+PRO	Whoever
+ENS	eats
+IST	enough
+NIL	,
+NOW	has
+IST	already
+EXS	eaten
+INT	too
+QUC	much
+NIL	.
+NIL	"

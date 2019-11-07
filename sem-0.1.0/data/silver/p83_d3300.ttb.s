@@ -1,0 +1,9 @@
+PRO	I
+ENS	like
+PRO	her
+NIL	.
+PRO	She
+NOW	's
+INT	so
+EXS	beautiful
+NIL	!

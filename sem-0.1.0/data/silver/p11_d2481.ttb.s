@@ -1,0 +1,14 @@
+DEF	The
+IST	haunted
+CON	house
+QUE	?
+PRO	I
+FUT	wo
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	sleep
+REL	at
+CON	night
+NIL	.

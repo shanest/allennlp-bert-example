@@ -1,0 +1,12 @@
+PRO	I
+FUT	would
+NOT	n't
+IST	even
+EXS	talk
+REL	to
+PER	Tom
+IMP	if
+PRO	I
+PST	were
+PRO	you
+NIL	.

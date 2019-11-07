@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	what
+PER	Mary
+NOW	has
+EXS	done
+NIL	.

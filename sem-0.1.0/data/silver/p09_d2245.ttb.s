@@ -1,0 +1,12 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	teach
+PRO	him
+QUE	how
+SUB	to
+EXS	do
+DEF	the
+CON	waltz
+NIL	.

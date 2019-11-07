@@ -1,0 +1,17 @@
+PRO	It
+NOW	's
+INT	very
+EXS	unlikely
+SUB	that
+PRO	he
+NOW	is
+IST	actually
+DEF	the
+IST	same
+CON	man
+PRO	you
+EPS	met
+QUC	ten
+CON	years
+PST	ago
+NIL	.

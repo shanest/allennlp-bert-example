@@ -1,0 +1,11 @@
+PRO	She
+EPS	made
+PRO	me
+NOW	promise
+NOT	not
+SUB	to
+EXS	say
+AND	anything
+REL	to
+PRO	you
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	noticed
+SUB	that
+PER	John
+AND	and
+PER	Mary
+PST	were
+EXS	holding
+CON	hands
+NIL	.

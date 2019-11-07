@@ -1,0 +1,10 @@
+UNK	There
+EPS	being
+NOT	no
+CON	taxis
+NIL	,
+PRO	I
+NEC	had
+SUB	to
+EXS	walk
+NIL	.

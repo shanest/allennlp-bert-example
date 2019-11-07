@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+EXS	know
+AND	which
+CON	deity
+PRX	this
+CON	temple
+NOW	is
+EXS	dedicated
+REL	to
+QUE	?

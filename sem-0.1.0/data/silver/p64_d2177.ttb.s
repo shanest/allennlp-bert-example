@@ -1,0 +1,10 @@
+EXS	Let
+HAS	's
+ENS	go
+DIS	somewhere
+IST	quiet
+SUB	so
+PRO	we
+POS	can
+EXS	talk
+NIL	.

@@ -1,0 +1,11 @@
+QUE	How
+QUV	many
+CON	times
+NOW	have
+DEF	the
+CON	Yankees
+EPS	won
+DEF	the
+ORG	World
+ORG	Series
+QUE	?

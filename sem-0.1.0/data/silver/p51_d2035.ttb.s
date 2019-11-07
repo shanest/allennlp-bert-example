@@ -1,0 +1,10 @@
+PER	Tom
+EPS	heard
+DIS	someone
+EXS	moving
+AND	around
+REL	in
+DEF	the
+IST	next
+CON	room
+NIL	.

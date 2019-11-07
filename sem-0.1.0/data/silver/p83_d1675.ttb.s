@@ -1,0 +1,16 @@
+PRO	It
+NOW	's
+INT	very
+EXS	sad
+SUB	to
+EXS	find
+IST	out
+AND	that
+AND	all
+AND	of
+HAS	our
+CON	plans
+PST	were
+REL	in
+CON	vain
+NIL	.

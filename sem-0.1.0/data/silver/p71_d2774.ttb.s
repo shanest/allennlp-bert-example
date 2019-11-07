@@ -1,0 +1,14 @@
+PRO	I
+PST	was
+INT	very
+EXS	proud
+SUB	when
+HAS	my
+CON	son
+EPS	won
+IST	first
+CON	prize
+REL	at
+DEF	the
+CON	competition
+NIL	.

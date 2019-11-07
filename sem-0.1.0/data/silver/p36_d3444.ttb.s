@@ -1,0 +1,9 @@
+DEF	The
+ROL	lawyer
+EPS	represented
+HAS	his
+CON	client
+REL	at
+DEF	the
+CON	meeting
+NIL	.

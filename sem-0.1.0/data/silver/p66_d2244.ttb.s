@@ -1,0 +1,10 @@
+UNK	There
+PST	was
+NOT	nothing
+PER	Tom
+POS	could
+EXS	do
+SUB	to
+EXS	help
+PER	Mary
+NIL	.

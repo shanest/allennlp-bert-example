@@ -1,0 +1,10 @@
+PRO	I
+PST	was
+EXG	having
+DIS	a
+CON	bath
+SUB	when
+DEF	the
+CON	telephone
+EPS	rang
+NIL	.

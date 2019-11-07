@@ -1,0 +1,13 @@
+PER	Tom
+PST	was
+EXS	surprised
+SUB	to
+EXS	see
+PER	John
+AND	and
+PER	Mary
+AND	out
+REL	on
+DIS	a
+CON	date
+NIL	.

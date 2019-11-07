@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	just
+EXS	looking
+REL	for
+DIS	a
+CON	place
+SUB	to
+EXS	sleep
+NIL	.

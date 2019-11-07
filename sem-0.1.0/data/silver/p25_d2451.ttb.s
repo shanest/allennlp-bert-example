@@ -1,0 +1,12 @@
+IST	Please
+NOW	promise
+PRO	me
+SUB	that
+PRO	you
+FUT	'll
+NOT	never
+EXS	lie
+REL	to
+PRO	me
+ALT	again
+NIL	.

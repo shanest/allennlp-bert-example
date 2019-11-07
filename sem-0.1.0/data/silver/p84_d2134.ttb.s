@@ -1,0 +1,12 @@
+DEF	The
+CON	year
+CON	1980
+EPS	saw
+DEF	the
+TOP	fastest
+IST	economic
+CON	growth
+REL	in
+DST	that
+CON	country
+NIL	.

@@ -1,0 +1,11 @@
+REL	In
+GPE	Britain
+DIS	a
+CON	truck
+NOW	is
+EXS	referred
+REL	to
+AND	as
+DIS	a
+CON	lorry
+NIL	.

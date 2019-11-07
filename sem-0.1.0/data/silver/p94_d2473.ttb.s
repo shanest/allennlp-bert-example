@@ -1,0 +1,14 @@
+PER	Tom
+NIL	,
+PRO	I
+NOW	'm
+IST	afraid
+PRO	I
+NOW	have
+NOT	n't
+PFT	been
+IST	completely
+EXS	honest
+REL	with
+PRO	you
+NIL	.

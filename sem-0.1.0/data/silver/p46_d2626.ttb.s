@@ -1,0 +1,14 @@
+PRO	It
+POS	ca
+NOT	n't
+EXS	hurt
+REL	for
+PRO	you
+SUB	to
+EXS	spend
+DIS	a
+IST	little
+CON	time
+REL	with
+PER	Tom
+NIL	.

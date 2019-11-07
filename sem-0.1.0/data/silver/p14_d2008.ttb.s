@@ -1,0 +1,9 @@
+PRO	I
+EPS	broke
+DIS	a
+CON	sweat
+EXS	running
+REL	on
+DEF	the
+CON	treadmill
+NIL	.

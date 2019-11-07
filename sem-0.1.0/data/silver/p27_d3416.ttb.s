@@ -1,0 +1,10 @@
+PRO	I
+EPS	caught
+REL	on
+REL	to
+QUE	what
+DEF	the
+CON	teacher
+PST	was
+EXS	explaining
+NIL	.

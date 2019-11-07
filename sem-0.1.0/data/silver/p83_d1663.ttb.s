@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	seen
+DIS	anything
+IST	quite
+AND	like
+PRX	this
+NIL	.

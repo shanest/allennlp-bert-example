@@ -1,0 +1,14 @@
+AND	Everyone
+PST	was
+IST	just
+EXS	flabbergasted
+SUB	that
+PRO	she
+PST	was
+IST	able
+SUB	to
+EXS	get
+EXS	pregnant
+REL	at
+CON	48
+NIL	.

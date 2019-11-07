@@ -1,0 +1,11 @@
+IMP	If
+PER	Tom
+NOW	does
+NOT	n't
+EXS	go
+NIL	,
+PRO	I
+FUT	wo
+NOT	n't
+IST	either
+NIL	.

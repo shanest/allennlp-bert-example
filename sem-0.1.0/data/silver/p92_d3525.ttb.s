@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	what
+PRO	he
+FUT	'd
+EXS	do
+NOT	without
+PER	Mary
+NIL	.

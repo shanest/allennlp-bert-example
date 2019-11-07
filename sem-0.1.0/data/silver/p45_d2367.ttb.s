@@ -1,0 +1,9 @@
+PRO	She
+EPS	published
+DEF	the
+CON	book
+REL	at
+HAS	her
+IST	own
+CON	expense
+NIL	.

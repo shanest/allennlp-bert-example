@@ -1,0 +1,10 @@
+PRO	I
+PST	was
+EXS	living
+REL	in
+GEO	Boston
+DIS	a
+IST	few
+CON	years
+PST	ago
+NIL	.

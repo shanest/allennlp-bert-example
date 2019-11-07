@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	seen
+HAS	her
+CON	act
+AND	like
+DST	that
+NIL	.

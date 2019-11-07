@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	afraid
+HAS	my
+CON	grandma
+IST	neither
+NOW	has
+DIS	a
+CON	henhouse
+NOT	nor
+DIS	a
+CON	motorcycle
+NIL	.

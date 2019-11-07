@@ -1,0 +1,14 @@
+POS	Perhaps
+PRO	you
+PST	'd
+EXS	be
+IST	willing
+SUB	to
+EXS	volunteer
+SUB	to
+EXS	take
+CON	care
+AND	of
+DEF	the
+CON	children
+NIL	.

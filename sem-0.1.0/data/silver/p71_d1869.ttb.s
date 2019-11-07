@@ -1,0 +1,10 @@
+PRO	It
+EPS	took
+QUC	three
+CON	days
+SUB	to
+EXS	paint
+DEF	the
+IST	whole
+CON	house
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+HAS	's
+CON	guardian
+CON	angel
+NEC	must
+EXT	have
+PFT	been
+EXG	watching
+AND	over
+PRO	him
+NIL	.

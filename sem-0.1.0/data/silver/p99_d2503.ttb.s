@@ -1,0 +1,10 @@
+PRO	We
+NOW	're
+EXS	going
+SUB	to
+EXS	find
+IST	out
+AND	who
+EPS	killed
+PER	Tom
+NIL	.

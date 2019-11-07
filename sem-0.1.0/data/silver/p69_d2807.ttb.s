@@ -1,0 +1,9 @@
+DEF	The
+CON	crowd
+EPS	yelled
+REL	when
+PRO	he
+EPS	scored
+DIS	a
+CON	goal
+NIL	.

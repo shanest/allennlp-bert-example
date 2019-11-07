@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXG	saving
+CON	money
+AND	so
+PRO	he
+POS	can
+EXS	go
+IST	abroad
+NIL	.

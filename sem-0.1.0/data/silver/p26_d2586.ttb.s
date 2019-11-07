@@ -1,0 +1,12 @@
+UNK	There
+NOW	is
+DIS	a
+COL	white
+CON	line
+REL	in
+DEF	the
+CON	middle
+AND	of
+DEF	the
+CON	road
+NIL	.

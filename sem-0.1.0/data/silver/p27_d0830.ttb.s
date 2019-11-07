@@ -1,0 +1,10 @@
+DEF	The
+CON	surface
+AND	of
+DEF	the
+CON	earth
+NOW	is
+INT	70
+UOM	%
+CON	water
+NIL	.

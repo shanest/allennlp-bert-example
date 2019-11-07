@@ -1,0 +1,12 @@
+PER	Tom
+HAS	's
+CON	eyes
+NOW	are
+COL	red
+NIL	,
+COO	and
+PRO	he
+ENS	looks
+INT	very
+EXS	tired
+NIL	.

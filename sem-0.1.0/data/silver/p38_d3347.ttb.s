@@ -1,0 +1,11 @@
+PER	Tom
+NOW	hopes
+PRO	he
+FUT	wo
+NOT	n't
+EXS	be
+EXG	eating
+CON	leftovers
+ALT	again
+CON	tonight
+NIL	.

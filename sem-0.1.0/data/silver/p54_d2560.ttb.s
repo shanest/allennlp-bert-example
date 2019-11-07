@@ -1,0 +1,9 @@
+DST	That
+PST	was
+DEF	the
+CON	night
+PRO	I
+IST	first
+EPS	met
+PER	Tom
+NIL	.

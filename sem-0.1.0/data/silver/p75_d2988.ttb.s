@@ -1,0 +1,12 @@
+POS	Can
+PRO	you
+EXS	fall
+REL	in
+CON	love
+REL	with
+DIS	someone
+PRO	you
+NOW	have
+NOT	never
+EXS	met
+QUE	?

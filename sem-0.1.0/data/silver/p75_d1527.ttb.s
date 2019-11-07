@@ -1,0 +1,14 @@
+PRO	We
+EPS	took
+CON	refuge
+REL	in
+DIS	a
+CON	cave
+COO	and
+EPS	waited
+REL	for
+DEF	the
+CON	storm
+SUB	to
+EXS	pass
+NIL	.

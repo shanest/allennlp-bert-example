@@ -1,0 +1,15 @@
+PRO	It
+NOW	is
+COM	better
+SUB	to
+CON	struggle
+AND	and
+EXS	suffer
+AND	than
+SUB	to
+EXS	have
+AND	everything
+AND	and
+EXS	be
+EXS	bored
+NIL	.

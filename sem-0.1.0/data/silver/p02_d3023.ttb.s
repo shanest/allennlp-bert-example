@@ -1,0 +1,21 @@
+NIL	There
+PST	was
+QUC	once
+DIS	a
+CON	time
+SUB	when
+TOP	most
+CON	people
+PST	did
+NOT	n't
+EXS	know
+AND	who
+PER	Christopher Columbus
+PST	was
+NIL	,
+COO	but
+IST	then
+PRO	he
+PST	was
+EXS	born
+NIL	.

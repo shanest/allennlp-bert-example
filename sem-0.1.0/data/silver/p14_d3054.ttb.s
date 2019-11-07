@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+AND	over
+DIS	a
+CON	century
+REL	since
+CON	slavery
+PST	was
+EXS	made
+IST	illegal
+NIL	.

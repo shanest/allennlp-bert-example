@@ -1,0 +1,11 @@
+REL	In
+DIS	an
+CON	emergency
+PRO	he
+PST	had
+NOT	nothing
+SUB	to
+EXS	fall
+IST	back
+AND	upon
+NIL	.

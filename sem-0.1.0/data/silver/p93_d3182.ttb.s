@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+PRO	it
+PST	was
+DIS	a
+IST	stupid
+CON	thing
+SUB	to
+EXS	do
+NIL	.

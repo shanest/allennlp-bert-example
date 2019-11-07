@@ -1,0 +1,11 @@
+PRO	You
+NOW	think
+SUB	that
+PRO	I
+NOW	'm
+EXS	wasting
+HAS	my
+CON	time
+REL	with
+PRO	him
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+EPS	followed
+REL	in
+HAS	his
+ROL	father
+HAS	's
+CON	footsteps
+COO	and
+EPS	became
+DIS	a
+ROL	lawyer
+NIL	.

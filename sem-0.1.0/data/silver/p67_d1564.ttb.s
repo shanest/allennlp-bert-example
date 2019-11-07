@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	thinking
+SUB	about
+EXS	visiting
+HAS	my
+CON	friend
+AND	next
+CON	year
+NIL	.

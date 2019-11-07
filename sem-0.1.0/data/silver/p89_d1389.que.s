@@ -1,0 +1,10 @@
+AND	Name
+DIS	a
+CON	product
+AND	that
+NOW	is
+EXS	being
+EXS	counterfeited
+REL	in
+GPE	China
+NIL	.

@@ -1,0 +1,10 @@
+AND	Over
+INT	95
+UOM	%
+AND	of
+GEO	Titan
+HAS	's
+CON	atmosphere
+NOW	is
+CON	nitrogen
+NIL	.

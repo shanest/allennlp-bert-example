@@ -1,0 +1,16 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PRO	I
+FUT	'll
+EXS	be
+IST	able
+SUB	to
+EXS	translate
+PRX	this
+CON	document
+NOT	without
+HAS	your
+CON	help
+NIL	.

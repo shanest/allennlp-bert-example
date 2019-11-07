@@ -1,0 +1,17 @@
+PER	Faith
+NOW	is
+EXG	taking
+DEF	the
+IST	first
+CON	step
+NIL	,
+AND	even
+SUB	when
+PRO	you
+NOW	do
+NOT	n't
+EXS	see
+DEF	the
+IST	whole
+CON	staircase
+NIL	.

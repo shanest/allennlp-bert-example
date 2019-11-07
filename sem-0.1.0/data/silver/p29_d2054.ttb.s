@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+HAS	my
+CON	parents
+NOW	are
+EXS	hiding
+DIS	something
+REL	from
+PRO	me
+NIL	.

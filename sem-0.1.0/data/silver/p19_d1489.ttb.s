@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	happy
+SUB	to
+EXS	have
+PRO	you
+AND	as
+DIS	a
+CON	student
+NIL	.

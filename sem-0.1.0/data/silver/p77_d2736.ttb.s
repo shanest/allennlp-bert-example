@@ -1,0 +1,9 @@
+DEF	The
+CON	tree
+ENS	thrusts
+HAS	its
+CON	branches
+IST	far
+AND	and
+IST	wide
+NIL	.

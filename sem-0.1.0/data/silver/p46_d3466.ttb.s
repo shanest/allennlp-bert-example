@@ -1,0 +1,11 @@
+PER	Charlie
+PST	was
+DIS	a
+IST	mere
+CON	child
+SUB	when
+PRO	I
+EPS	saw
+PRO	him
+IST	last
+NIL	.

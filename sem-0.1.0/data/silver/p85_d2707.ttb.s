@@ -1,0 +1,10 @@
+DEF	The
+CON	examination
+PRO	he
+EPS	took
+IST	last
+CON	week
+PST	was
+INT	very
+EXS	hard
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+AND	and
+PER	Mary
+ENS	want
+PER	John
+SUB	to
+EXS	stay
+REL	for
+DIS	a
+IST	few
+IST	more
+CON	hours
+NIL	.

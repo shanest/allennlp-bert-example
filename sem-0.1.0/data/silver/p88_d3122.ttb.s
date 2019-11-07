@@ -1,0 +1,11 @@
+PRO	You
+NOW	're
+EXS	lucky
+PRO	you
+PST	were
+EXS	born
+REL	in
+PRX	this
+IST	beautiful
+CON	city
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+TOP	best
+SUB	to
+EXS	discuss
+CON	relationship
+CON	issues
+IST	directly
+REL	with
+HAS	your
+CON	partner
+NIL	.

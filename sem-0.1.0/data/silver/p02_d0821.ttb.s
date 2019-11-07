@@ -1,0 +1,15 @@
+PRO	I
+ENS	want
+NIL	to
+EXS	ride
+DIS	a
+CON	bicycle
+NIL	,
+SUB	because
+PRO	I
+ENS	live
+IST	far
+REL	from
+HAS	my
+CON	school
+NIL	.

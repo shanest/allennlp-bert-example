@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	looking
+IST	forward
+SUB	to
+EXS	visiting
+GPE	Britain
+AND	once
+ALT	again
+NIL	.

@@ -1,0 +1,12 @@
+IMP	If
+PRO	I
+EPS	had
+IST	enough
+CON	time
+NIL	,
+PRO	I
+FUT	would
+EXS	talk
+REL	with
+PRO	you
+NIL	.

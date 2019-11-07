@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+EXS	going
+SUB	to
+EXS	happen
+DIS	a
+CON	lot
+REL	from
+NOW	now
+REL	on
+NIL	.

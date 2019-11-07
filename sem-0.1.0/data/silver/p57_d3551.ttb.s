@@ -1,0 +1,14 @@
+PRO	It
+HAS	's
+IST	already
+PFT	been
+QUC	4
+CON	years
+SUB	since
+PRO	we
+EPS	met
+NIL	.
+AND	How
+CON	time
+CON	flies
+NIL	.

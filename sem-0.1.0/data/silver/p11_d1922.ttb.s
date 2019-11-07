@@ -1,0 +1,9 @@
+PRO	You
+FUT	will
+EXS	be
+EXS	praised
+REL	for
+EXG	speaking
+DEF	the
+CON	truth
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	done
+QUE	what
+PER	Tom
+EPS	asked
+PRO	me
+SUB	to
+EXS	do
+NIL	.

@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+CLO	midday
+NIL	.
+DEF	The
+CON	men
+NOW	are
+EXG	eating
+CON	lunch
+NIL	.

@@ -1,0 +1,12 @@
+NOW	Do
+NOT	n't
+EXS	tell
+IST	crude
+CON	jokes
+REL	in
+DEF	the
+CON	presence
+AND	of
+HAS	my
+ROL	father
+NIL	.

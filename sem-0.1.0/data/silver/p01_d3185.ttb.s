@@ -1,0 +1,15 @@
+AND	Why
+NOW	is
+DEF	the
+CON	spaghetti
+EXS	sweet
+QUE	?
+PRO	You
+ENS	know
+SUB	that
+PRO	I
+NOW	hate
+PRO	it
+SUB	that
+CON	way
+NIL	.

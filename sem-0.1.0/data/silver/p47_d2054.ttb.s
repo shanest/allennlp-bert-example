@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	go
+REL	to
+EXS	work
+REL	on
+DOW	Sunday
+NIL	.

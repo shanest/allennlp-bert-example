@@ -1,0 +1,12 @@
+PER	Tom
+PST	was
+IST	unable
+SUB	to
+EXS	remember
+QUE	what
+PRO	he
+PST	had
+EXS	eaten
+REL	for
+CON	breakfast
+NIL	.

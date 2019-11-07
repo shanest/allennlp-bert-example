@@ -1,0 +1,12 @@
+PER	Tom
+HAS	's
+IST	favorite
+PER	Elvis
+PER	Presley
+CON	song
+NOW	is
+NIL	"
+EPS	Jailhouse
+PER	Rock
+NIL	.
+NIL	"

@@ -1,0 +1,11 @@
+PRO	We
+NIL	,
+ALT	too
+NIL	,
+NOW	have
+EPS	started
+REL	in
+DEF	the
+IST	same
+CON	way
+NIL	.

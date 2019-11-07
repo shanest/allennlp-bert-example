@@ -1,0 +1,16 @@
+PRO	He
+EPS	stole
+REL	into
+DEF	the
+CON	house
+AND	and
+IST	immediately
+EPS	went
+REL	to
+CON	bed
+NOT	without
+EXS	being
+EXS	noticed
+REL	by
+DIS	anyone
+NIL	.

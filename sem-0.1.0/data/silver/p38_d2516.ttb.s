@@ -1,0 +1,15 @@
+PRO	We
+NOW	're
+EXS	looking
+REL	for
+DIS	someone
+AND	who
+POS	can
+EXS	take
+EXS	care
+AND	of
+PRX	these
+CON	kinds
+AND	of
+CON	problems
+NIL	.

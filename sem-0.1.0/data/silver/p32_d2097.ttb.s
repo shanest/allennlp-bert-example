@@ -1,0 +1,10 @@
+AND	Among
+ALT	other
+CON	things
+NIL	,
+PRO	we
+EPS	talked
+AND	about
+DEF	the
+CON	weather
+NIL	.

@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+IST	great
+SUB	when
+PRO	you
+NOW	're
+REL	in
+CON	love
+NIL	.

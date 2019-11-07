@@ -1,0 +1,10 @@
+DIS	A
+IST	special
+CON	tax
+NOW	is
+EXT	imposed
+REL	on
+INT	very
+IST	high
+CON	incomes
+NIL	.

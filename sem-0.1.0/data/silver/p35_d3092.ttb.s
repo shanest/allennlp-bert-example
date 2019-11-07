@@ -1,0 +1,9 @@
+PRO	She
+IST	nearly
+EPS	fainted
+SUB	when
+PRO	she
+EPS	saw
+DEF	the
+CON	blood
+NIL	.

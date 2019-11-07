@@ -1,0 +1,14 @@
+PRO	I
+ENS	need
+DIS	someone
+SUB	to
+EXS	hold
+PRO	me
+COO	and
+EXS	tell
+PRO	me
+AND	everything
+FUT	will
+EXS	be
+IST	alright
+NIL	.

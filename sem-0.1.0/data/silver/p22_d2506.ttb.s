@@ -1,0 +1,11 @@
+IST	Please
+NOW	do
+NOT	not
+EXS	think
+AND	of
+DIS	a
+COL	pink
+CON	elephant
+AND	right
+NOW	now
+NIL	.

@@ -1,0 +1,16 @@
+PER	Tom
+EPS	used
+SUB	to
+EXS	pick
+REL	on
+PER	Mary
+AND	all
+DEF	the
+CON	time
+SUB	when
+PRO	they
+PST	were
+REL	in
+IST	elementary
+CON	school
+NIL	.

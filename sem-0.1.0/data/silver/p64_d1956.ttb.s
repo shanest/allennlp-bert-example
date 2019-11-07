@@ -1,0 +1,9 @@
+PER	Tom
+EPS	showed
+PRO	us
+DIS	a
+CON	picture
+AND	of
+HAS	his
+CON	mother
+NIL	.

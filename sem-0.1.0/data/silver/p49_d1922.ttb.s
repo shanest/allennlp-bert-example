@@ -1,0 +1,13 @@
+PRO	She
+EPS	was
+AND	beside
+REF	herself
+REL	with
+CON	joy
+SUB	when
+PRO	she
+EPS	met
+DEF	the
+IST	famous
+ROL	singer
+NIL	.

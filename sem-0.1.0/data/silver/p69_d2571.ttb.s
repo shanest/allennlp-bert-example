@@ -1,0 +1,10 @@
+REL	At
+IST	first
+NIL	,
+PRO	I
+EPS	mistook
+PRO	you
+REL	for
+HAS	your
+CON	brother
+NIL	.

@@ -1,0 +1,16 @@
+PRO	I
+EPS	met
+DIS	someone
+DEF	the
+ALT	other
+CON	day
+SUB	that
+PRO	I
+NOW	think
+PRO	I
+POS	could
+EXS	fall
+REL	in
+CON	love
+REL	with
+NIL	.

@@ -1,0 +1,11 @@
+AND	A
+CON	carcase
+EQU	is
+NOT	not
+DIS	a
+CON	box
+REL	for
+DIS	a
+IST	motorized
+CON	vehicle
+NIL	.

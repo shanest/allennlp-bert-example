@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	just
+EXG	writing
+DIS	a
+CON	letter
+REL	to
+HAS	my
+CON	girlfriend
+NIL	.

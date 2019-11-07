@@ -1,0 +1,12 @@
+PER	Tom
+ENS	goes
+IST	out
+REL	with
+PER	Mary
+QUC	three
+DIS	or
+QUC	four
+CON	times
+DIS	a
+CON	month
+NIL	.

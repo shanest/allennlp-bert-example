@@ -1,0 +1,11 @@
+SUB	When
+PRO	you
+EXS	betray
+DIS	somebody
+AND	else
+NIL	,
+PRO	you
+ALT	also
+EXS	betray
+REF	yourself
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+ALT	also
+EPS	broke
+HAS	his
+IST	big
+CON	toe
+REL	on
+HAS	his
+IST	right
+CON	foot
+NIL	.

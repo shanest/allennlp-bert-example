@@ -1,0 +1,13 @@
+PER	Tom
+NOW	's
+INT	politically
+EXS	engaged
+COO	but
+PER	Mary
+POS	could
+NOT	n't
+EXS	care
+LES	less
+AND	about
+CON	politics
+NIL	.

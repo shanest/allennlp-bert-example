@@ -1,0 +1,11 @@
+CON	Switch
+REL	on
+DEF	the
+CON	light
+NIL	.
+PRO	I
+POS	ca
+NOT	n't
+EXS	see
+DIS	anything
+NIL	.

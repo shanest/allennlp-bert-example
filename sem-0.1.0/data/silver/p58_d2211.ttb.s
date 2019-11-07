@@ -1,0 +1,9 @@
+PER	Napoleon
+HAS	's
+CON	headquarters
+PST	were
+REL	in
+DIS	an
+IST	unused
+CON	windmill
+NIL	.

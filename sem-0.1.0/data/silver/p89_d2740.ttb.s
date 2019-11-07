@@ -1,0 +1,9 @@
+HAS	My
+CON	uncle
+ENS	comes
+IST	back
+REL	from
+GEO	America
+AND	next
+DOW	Monday
+NIL	.

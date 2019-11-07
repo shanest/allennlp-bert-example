@@ -1,0 +1,9 @@
+PRO	It
+HAS	's
+EXS	possible
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	related
+NIL	.

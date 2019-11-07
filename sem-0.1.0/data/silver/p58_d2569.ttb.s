@@ -1,0 +1,16 @@
+PRO	I
+ENS	know
+PRO	you
+NOW	're
+EXS	happy
+AND	about
+PRO	it
+NIL	.
+AND	Why
+NOW	do
+NOT	n't
+PRO	you
+IST	just
+NOW	show
+PRO	it
+QUE	?

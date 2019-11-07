@@ -1,0 +1,10 @@
+PRO	I
+EPS	told
+PRO	you
+PRX	this
+PST	was
+EXS	going
+SUB	to
+EXS	be
+IST	interesting
+NIL	.

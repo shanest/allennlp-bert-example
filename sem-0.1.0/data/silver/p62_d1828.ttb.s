@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+EXS	good
+SUB	to
+EXS	see
+SUB	that
+HAS	our
+CON	efforts
+PST	were
+NOT	not
+REL	in
+CON	vain
+NIL	.

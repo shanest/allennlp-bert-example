@@ -1,0 +1,10 @@
+PER	Tom
+NOW	feels
+IST	exactly
+DEF	the
+IST	same
+CON	way
+AND	as
+PER	Mary
+NOW	does
+NIL	.

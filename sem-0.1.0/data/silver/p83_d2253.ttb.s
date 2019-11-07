@@ -1,0 +1,14 @@
+PRO	You
+EPS	told
+PRO	me
+NOT	not
+SUB	to
+EXS	buy
+DST	that
+NIL	,
+COO	but
+PRO	I
+EPS	bought
+PRO	it
+IST	anyway
+NIL	.

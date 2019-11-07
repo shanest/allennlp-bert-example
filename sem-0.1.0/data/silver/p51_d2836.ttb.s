@@ -1,0 +1,10 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXS	related
+NIL	.

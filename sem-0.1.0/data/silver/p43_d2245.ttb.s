@@ -1,0 +1,15 @@
+DEF	The
+CON	wives
+AND	of
+DEF	the
+QUC	two
+IST	elder
+CON	brothers
+EPS	watched
+PRO	her
+COO	and
+PST	did
+IST	exactly
+DEF	the
+CON	same
+NIL	.

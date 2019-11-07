@@ -1,0 +1,10 @@
+QUC	Fifty
+CON	years
+PST	ago
+AND	anyone
+POS	could
+EXT	have
+EXS	bought
+DEF	the
+CON	land
+NIL	.

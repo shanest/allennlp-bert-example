@@ -1,0 +1,17 @@
+PER	Kevin
+NOW	has
+EPS	bought
+DIS	a
+CON	diamond
+CON	ring
+AND	and
+NOW	is
+EXS	going
+SUB	to
+EXS	pop
+DEF	the
+CON	question
+REL	to
+PER	Kim
+CON	tonight
+NIL	.

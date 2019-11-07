@@ -1,0 +1,13 @@
+NIL	"
+CON	Where
+NOW	are
+PRO	you
+EXG	staying
+QUE	?
+NIL	"
+NIL	"
+REL	At
+DST	that
+CON	hotel
+NIL	.
+NIL	"

@@ -1,0 +1,12 @@
+PRO	I
+NOW	get
+DEF	the
+CON	impression
+SUB	that
+PRO	you
+NOW	are
+NOT	n't
+EXG	telling
+DEF	the
+CON	truth
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+EXS	raining
+NIL	,
+COO	and
+PRO	we
+EPS	forgot
+SUB	to
+EXS	close
+DEF	the
+CON	windows
+NIL	.

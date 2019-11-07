@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXS	attracted
+REL	to
+DIS	a
+IST	certain
+CON	boy
+REL	in
+HAS	my
+CON	class
+NIL	.

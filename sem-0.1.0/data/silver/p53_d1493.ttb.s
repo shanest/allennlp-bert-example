@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	frightened
+AND	of
+EXS	walking
+REL	in
+DEF	the
+CON	darkness
+NIL	.

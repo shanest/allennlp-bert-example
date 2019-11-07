@@ -1,0 +1,9 @@
+HAS	My
+CON	promise
+SUB	to
+EXS	come
+AND	next
+DOM	Monday
+IST	still
+NOW	holds
+NIL	.

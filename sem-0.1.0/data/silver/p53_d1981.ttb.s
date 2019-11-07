@@ -1,0 +1,11 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+SUB	that
+PRO	you
+IST	actually
+EPS	got
+REL	into
+ORG	Harvard
+NIL	.

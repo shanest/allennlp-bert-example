@@ -1,0 +1,10 @@
+DST	That
+ENS	's
+PER	Tom
+ENS	's
+CON	house
+REL	with
+DEF	the
+IST	red
+CON	roof
+NIL	.

@@ -1,0 +1,10 @@
+IMP	If
+PRO	you
+ENS	eat
+INT	too
+QUV	much
+PRO	you
+FUT	will
+EXS	become
+EXS	fat
+NIL	.

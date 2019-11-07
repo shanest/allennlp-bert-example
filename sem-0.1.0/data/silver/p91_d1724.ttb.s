@@ -1,0 +1,15 @@
+PRO	I
+AND	like
+CON	steak
+COM	better
+AND	than
+AND	anything
+AND	else
+NIL	,
+COO	and
+EXS	eat
+PRO	it
+AND	every
+ALT	other
+CON	day
+NIL	.

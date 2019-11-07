@@ -1,0 +1,10 @@
+PRO	He
+NOW	has
+PFT	been
+EXS	ill
+REL	for
+DEF	the
+IST	past
+IST	few
+CON	days
+NIL	.

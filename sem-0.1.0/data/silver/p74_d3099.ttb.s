@@ -1,0 +1,12 @@
+PER	Tom
+EPS	arrived
+REL	at
+CLO	2:30
+COO	and
+PER	Mary
+EPS	arrived
+DIS	a
+IST	short
+CON	time
+AND	later
+NIL	.

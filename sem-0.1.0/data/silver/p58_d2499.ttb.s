@@ -1,0 +1,16 @@
+DIS	Some
+CON	employers
+NOW	are
+IST	reluctant
+SUB	to
+EXS	take
+REL	on
+CON	people
+AND	who
+NOW	have
+IST	recently
+PFT	been
+EXS	released
+REL	from
+CON	jail
+NIL	.

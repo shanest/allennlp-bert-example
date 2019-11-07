@@ -1,0 +1,11 @@
+PER	Tom
+EPS	closed
+DEF	the
+CON	magazine
+COO	and
+EPS	put
+PRO	it
+REL	into
+HAS	his
+CON	knapsack
+NIL	.

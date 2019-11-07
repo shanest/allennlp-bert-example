@@ -1,0 +1,12 @@
+PRO	I
+EPS	forgave
+DEF	the
+CON	boy
+REL	for
+EXG	stealing
+DEF	the
+CON	money
+REL	from
+DEF	the
+CON	safe
+NIL	.

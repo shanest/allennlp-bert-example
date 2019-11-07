@@ -1,0 +1,9 @@
+HAS	My
+IST	three-year-old
+CON	niece
+EPS	kissed
+PRO	me
+REL	on
+DEF	the
+CON	cheek
+NIL	.

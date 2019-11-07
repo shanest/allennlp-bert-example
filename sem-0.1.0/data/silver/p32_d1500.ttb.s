@@ -1,0 +1,13 @@
+PER	Tom
+NOW	has
+NOT	n't
+EXS	done
+AND	anything
+EXS	wrong
+NIL	,
+AND	as
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	.

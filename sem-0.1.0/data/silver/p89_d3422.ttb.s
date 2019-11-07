@@ -1,0 +1,15 @@
+IMP	If
+PRO	you
+ENS	happen
+SUB	to
+EXS	see
+PER	Mary
+NIL	,
+EXS	tell
+HAS	her
+PER	Tom
+PST	was
+EXS	asking
+REL	after
+PRO	her
+NIL	.

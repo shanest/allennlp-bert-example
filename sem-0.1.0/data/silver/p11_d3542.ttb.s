@@ -1,0 +1,8 @@
+PRO	I
+NOW	say
+NIL	"
+PRO	I
+EQU	'm
+PER	Tom
+NIL	"
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	period
+AND	of
+IST	hot
+CON	weather
+NOW	is
+INT	very
+IST	short
+PRX	here
+NIL	.

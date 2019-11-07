@@ -1,0 +1,9 @@
+PER	Tom
+EPS	wrote
+HAS	his
+CON	name
+REL	on
+DEF	the
+IST	dust-covered
+CON	windshield
+NIL	.

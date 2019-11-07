@@ -1,0 +1,13 @@
+EXG	Taking
+AND	everything
+REL	into
+CON	consideration
+NIL	,
+DEF	the
+CON	result
+NOW	is
+COM	better
+AND	than
+PRO	I
+EPS	expected
+NIL	.

@@ -1,0 +1,10 @@
+AND	Last
+TIM	week
+PRO	she
+EPS	gave
+CON	birth
+REL	to
+DIS	a
+IST	beautiful
+CON	daughter
+NIL	.

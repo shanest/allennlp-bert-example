@@ -1,0 +1,14 @@
+PER	Tom
+ENS	says
+PRO	he
+ENS	knows
+DIS	something
+IST	about
+PER	Mary
+SUB	that
+PRO	we
+NOW	do
+NOT	n't
+EXS	know
+ALT	yet
+NIL	.

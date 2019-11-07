@@ -1,0 +1,13 @@
+PRX	This
+NOW	is
+DEF	the
+CON	house
+REL	in
+UNK	which
+DEF	the
+ROL	poet
+EPS	lived
+REL	in
+HAS	his
+CON	childhood
+NIL	.

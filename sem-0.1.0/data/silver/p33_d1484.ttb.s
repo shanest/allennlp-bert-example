@@ -1,0 +1,9 @@
+PRO	You
+ENS	know
+PER	Tom
+MOR	better
+AND	than
+AND	any
+AND	of
+PRO	us
+NIL	.

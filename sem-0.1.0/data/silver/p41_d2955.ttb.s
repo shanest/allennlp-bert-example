@@ -1,0 +1,13 @@
+PRO	We
+NOT	never
+ENS	know
+DEF	the
+CON	worth
+AND	of
+CON	water
+REL	till
+DEF	the
+IST	well
+NOW	is
+IST	dry
+NIL	.

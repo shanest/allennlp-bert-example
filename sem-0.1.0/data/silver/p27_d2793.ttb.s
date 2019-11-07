@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	trust
+DIS	a
+CON	thing
+PER	Mary
+ENS	says
+NIL	.

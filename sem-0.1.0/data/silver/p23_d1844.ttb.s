@@ -1,0 +1,12 @@
+PER	Tony
+EPS	took
+REL	off
+HAS	his
+CON	shirt
+COO	and
+EPS	cleaned
+DEF	the
+CON	piano
+REL	with
+PRO	it
+NIL	.

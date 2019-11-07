@@ -1,0 +1,17 @@
+NIL	"
+PRO	You
+NOW	are
+NOT	n't
+EXS	buying
+AND	anything
+QUE	?
+NIL	"
+NIL	"
+ITJ	Yeah
+NIL	,
+PRO	I
+NOW	've
+IST	already
+EXS	eaten
+NIL	.
+NIL	"

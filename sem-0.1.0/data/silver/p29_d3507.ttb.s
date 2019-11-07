@@ -1,0 +1,13 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+GPE	Japan
+NOW	is
+DEF	the
+TOP	richest
+CON	country
+REL	in
+DEF	the
+CON	world
+NIL	.

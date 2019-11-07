@@ -1,0 +1,10 @@
+PER	Tom
+NOW	now
+NOW	has
+DIS	a
+IST	good
+CON	reason
+SUB	to
+EXS	be
+EXS	happy
+NIL	.

@@ -1,0 +1,12 @@
+PRO	You
+POS	could
+EXS	pass
+REL	for
+DIS	a
+CON	teenager
+IMP	if
+PRO	you
+EPS	wore
+DIS	a
+CON	T-shirt
+NIL	.

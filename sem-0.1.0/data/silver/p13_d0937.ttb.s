@@ -1,0 +1,11 @@
+NOW	Does
+AND	everyone
+NOW	think
+PRO	it
+PST	was
+PRO	me
+AND	who
+EPS	stole
+DEF	the
+CON	money
+QUE	?

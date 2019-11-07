@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	spent
+QUC	three
+CON	hours
+EXG	discussing
+DEF	the
+CON	plan
+NIL	.

@@ -1,0 +1,12 @@
+NOT	No
+CON	one
+POS	can
+EXS	guess
+QUE	how
+QUV	many
+CON	jellybeans
+NOW	are
+REL	in
+PRX	this
+CON	jar
+NIL	.

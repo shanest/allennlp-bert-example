@@ -1,0 +1,9 @@
+FUT	Will
+PRO	you
+IST	really
+EXS	send
+PRO	me
+DIS	a
+GPO	Japanese
+CON	doll
+QUE	?

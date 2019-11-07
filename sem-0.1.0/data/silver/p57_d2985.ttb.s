@@ -1,0 +1,14 @@
+DST	That
+HAS	's
+INT	too
+EXS	bad
+NIL	.
+PRO	We
+NOW	're
+EXS	going
+SUB	to
+EXS	have
+CON	cake
+REL	after
+CON	lunch
+NIL	.

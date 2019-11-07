@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+IST	first
+CON	time
+PRO	I
+NOW	've
+EXS	fried
+DIS	an
+CON	egg
+NIL	.

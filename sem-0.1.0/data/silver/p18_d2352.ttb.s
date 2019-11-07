@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+EXS	going
+SUB	to
+EXS	go
+REL	to
+CON	school
+FUT	tomorrow
+NIL	.

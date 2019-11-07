@@ -1,0 +1,10 @@
+DEF	The
+ROL	teacher
+COO	and
+PRO	I
+EPS	sat
+IST	down
+CON	face
+REL	to
+CON	face
+NIL	.

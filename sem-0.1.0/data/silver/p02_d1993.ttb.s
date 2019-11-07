@@ -1,0 +1,10 @@
+QUC	One
+CON	night
+PRO	he
+EPS	came
+CON	home
+INT	very
+EXS	tired
+COO	and
+EXS	sad
+NIL	.

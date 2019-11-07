@@ -1,0 +1,10 @@
+DEF	The
+CON	man
+PRO	you
+IST	just
+EPS	saw
+NOW	is
+DIS	a
+IST	great
+CON	musician
+NIL	.

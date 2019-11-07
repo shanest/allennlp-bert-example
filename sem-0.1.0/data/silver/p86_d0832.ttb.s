@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+IST	ever
+EXS	ridden
+REL	in
+DIS	a
+IST	hot
+CON	air
+CON	balloon
+QUE	?

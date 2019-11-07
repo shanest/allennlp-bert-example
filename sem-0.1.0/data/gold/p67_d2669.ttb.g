@@ -1,0 +1,13 @@
+PRO	She
+EPS	grabbed
+PRO	him
+REL	by
+DEF	the
+CON	hand
+COO	and
+EPS	pulled
+PRO	him
+REL	onto
+DEF	the
+CON	boat
+NIL	.

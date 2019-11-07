@@ -1,0 +1,12 @@
+PRO	I
+ALT	also
+ENS	know
+SUB	that
+PRO	you
+NOW	have
+IST	always
+EPS	wanted
+SUB	to
+EXS	learn
+GPO	French
+NIL	.

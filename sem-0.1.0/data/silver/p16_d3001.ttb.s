@@ -1,0 +1,14 @@
+DIS	A
+IST	healthy
+CON	dose
+AND	of
+CON	skepticism
+NOW	is
+IST	vital
+SUB	when
+EXS	listening
+REL	to
+DIS	a
+ROL	politician
+EXS	speak
+NIL	.

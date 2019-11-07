@@ -1,0 +1,9 @@
+AND	Every
+CON	one
+NOT	but
+PER	Tom
+NOW	is
+EXG	wearing
+DIS	a
+CON	hat
+NIL	.

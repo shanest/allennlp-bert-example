@@ -1,0 +1,15 @@
+PER	Tom
+NOW	is
+EXG	doing
+AND	everything
+AND	within
+HAS	his
+CON	power
+SUB	to
+EXS	improve
+DEF	the
+CON	patients
+CON	quality
+AND	of
+CON	life
+NIL	.

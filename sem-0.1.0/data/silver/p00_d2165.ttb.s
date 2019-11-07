@@ -1,0 +1,9 @@
+DEF	The
+ROL	policeman
+EPS	seized
+DEF	the
+CON	boy
+REL	by
+DEF	the
+CON	arm
+NIL	.

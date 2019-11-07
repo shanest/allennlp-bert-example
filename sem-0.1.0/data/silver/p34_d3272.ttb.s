@@ -1,0 +1,9 @@
+HAS	My
+IST	first
+EXS	guess
+PST	was
+IST	wide
+REL	off
+DEF	the
+CON	mark
+NIL	.

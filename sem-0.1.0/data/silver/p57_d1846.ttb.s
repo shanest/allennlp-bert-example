@@ -1,0 +1,12 @@
+SUB	When
+PRO	I
+EPS	opened
+DEF	the
+CON	window
+NIL	,
+PRO	I
+EPS	saw
+CON	children
+EXS	playing
+CON	baseball
+NIL	.

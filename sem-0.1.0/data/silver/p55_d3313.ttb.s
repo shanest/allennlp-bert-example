@@ -1,0 +1,13 @@
+PRO	I
+EPS	wanted
+SUB	to
+EXS	thank
+PRO	you
+REL	for
+AND	everything
+PRO	you
+NOW	've
+EXS	done
+REL	for
+PRO	me
+NIL	.

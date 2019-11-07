@@ -1,0 +1,14 @@
+PER	Mary
+ENS	says
+SUB	that
+PRO	she
+POS	ca
+NOT	n't
+EXS	fall
+EXS	asleep
+NOT	without
+HAS	her
+IST	favorite
+EXS	stuffed
+CON	animal
+NIL	.

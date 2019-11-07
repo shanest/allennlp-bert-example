@@ -1,0 +1,13 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	thought
+SUB	about
+EXG	baking
+HAS	your
+CON	potatoes
+NIL	instead
+AND	of
+EXG	frying
+PRO	them
+QUE	?

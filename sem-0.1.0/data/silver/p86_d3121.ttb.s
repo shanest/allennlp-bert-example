@@ -1,0 +1,10 @@
+CON	Ca
+NOT	n't
+PRO	you
+EXS	see
+DIS	a
+CON	stapler
+DIS	somewhere
+IST	around
+IST	there
+QUE	?

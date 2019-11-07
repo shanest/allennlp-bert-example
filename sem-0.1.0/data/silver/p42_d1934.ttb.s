@@ -1,0 +1,9 @@
+DEF	The
+CON	embassy
+EPS	sent
+PRO	me
+DIS	a
+CON	book
+AND	about
+GPE	Germany
+NIL	.

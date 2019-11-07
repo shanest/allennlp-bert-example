@@ -1,0 +1,11 @@
+COL	Black
+CON	clouds
+NOW	are
+EXG	gathering
+NIL	.
+PRO	It
+NOW	's
+EXS	going
+SUB	to
+CON	rain
+NIL	.

@@ -1,0 +1,14 @@
+PRO	They
+PST	were
+IST	ready
+SUB	to
+EXS	run
+DEF	the
+CON	risk
+AND	of
+EXS	being
+EXS	shot
+REL	by
+DEF	the
+ROL	enemy
+NIL	.

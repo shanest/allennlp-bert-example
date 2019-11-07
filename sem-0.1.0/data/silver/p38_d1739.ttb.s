@@ -1,0 +1,9 @@
+PRO	I
+ENS	need
+DIS	a
+CON	man
+AND	who
+NOW	tells
+DEF	the
+CON	truth
+NIL	.

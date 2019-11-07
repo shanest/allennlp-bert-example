@@ -1,0 +1,12 @@
+UNK	There
+NOW	is
+NOT	no
+ROL	mother
+AND	who
+NOW	does
+NOT	n't
+EXS	love
+HAS	her
+IST	own
+CON	child
+NIL	.

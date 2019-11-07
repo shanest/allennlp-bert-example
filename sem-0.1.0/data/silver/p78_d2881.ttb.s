@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	so
+EXS	sick
+AND	of
+PRO	you
+EXS	complaining
+AND	about
+DEF	the
+CON	weather
+NIL	.

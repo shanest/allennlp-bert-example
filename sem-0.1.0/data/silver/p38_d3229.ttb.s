@@ -1,0 +1,10 @@
+AND	Would
+PRO	you
+SUB	mind
+EXS	telling
+PRO	me
+SUB	where
+PRO	you
+NOW	're
+EXS	going
+QUE	?

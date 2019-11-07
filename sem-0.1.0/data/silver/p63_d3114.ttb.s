@@ -1,0 +1,11 @@
+PRO	I
+IST	often
+NOW	think
+AND	about
+DEF	the
+CON	place
+SUB	where
+PRO	I
+EPS	met
+PRO	you
+NIL	.

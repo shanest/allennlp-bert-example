@@ -1,0 +1,15 @@
+PRO	You
+NOW	're
+DEF	the
+XCL	only
+CON	person
+PRO	I
+ENS	know
+SUB	that
+IST	never
+ENS	complains
+AND	about
+DEF	the
+CON	food
+PRX	here
+NIL	.

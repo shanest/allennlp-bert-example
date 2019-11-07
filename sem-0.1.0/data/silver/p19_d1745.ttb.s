@@ -1,0 +1,16 @@
+NIL	"
+QUE	What
+HAS	's
+CON	Grandma
+EXG	doing
+QUE	?
+NIL	"
+NIL	"
+PRO	She
+HAS	's
+EXS	sleeping
+REL	on
+DEF	the
+CON	couch
+NIL	.
+NIL	"

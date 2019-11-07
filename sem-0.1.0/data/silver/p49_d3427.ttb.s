@@ -1,0 +1,13 @@
+PER	Tom
+EPS	went
+SUB	to
+EXS	visit
+PER	Mary
+AND	even
+SUB	though
+PRO	I
+EPS	told
+PRO	him
+NOT	not
+SUB	to
+NIL	.

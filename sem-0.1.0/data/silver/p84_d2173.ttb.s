@@ -1,0 +1,10 @@
+DEF	The
+CON	master
+EPS	gave
+PRO	me
+DIS	an
+CON	order
+SUB	to
+EXS	come
+REL	in
+NIL	.

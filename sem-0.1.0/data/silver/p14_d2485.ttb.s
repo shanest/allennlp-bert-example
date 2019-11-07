@@ -1,0 +1,10 @@
+PRO	I
+ENS	wish
+PRO	I
+PST	had
+EXS	taken
+COM	better
+CON	care
+AND	of
+EMP	myself
+NIL	.

@@ -1,0 +1,12 @@
+PER	Galileo
+EPS	dropped
+QUC	two
+CON	iron
+CON	balls
+REL	from
+DEF	the
+CON	top
+AND	of
+DEF	the
+CON	tower
+NIL	.

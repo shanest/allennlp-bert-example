@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+UNK	difficult
+SUB	to
+EXS	reconcile
+AND	all
+DEF	the
+CON	opinions
+NIL	.

@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	catch
+DIS	a
+EXS	ride
+IST	back
+REL	to
+DEF	the
+CON	office
+REL	with
+PER	Tom
+NIL	.

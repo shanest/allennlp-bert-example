@@ -1,0 +1,10 @@
+PER	Tom
+EPS	heard
+SUB	that
+PER	Mary
+COO	and
+PER	John
+PST	had
+EXS	split
+IST	up
+NIL	.

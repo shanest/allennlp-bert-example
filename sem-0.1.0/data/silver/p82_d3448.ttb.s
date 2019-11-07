@@ -1,0 +1,10 @@
+PRO	She
+NOW	has
+PFT	been
+EXS	dating
+PRO	him
+REL	for
+INT	about
+QUC	two
+CON	years
+NIL	.

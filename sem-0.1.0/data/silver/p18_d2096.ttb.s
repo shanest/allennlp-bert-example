@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+NOT	no
+LES	less
+IST	wise
+AND	than
+HAS	his
+ROL	father
+NIL	.

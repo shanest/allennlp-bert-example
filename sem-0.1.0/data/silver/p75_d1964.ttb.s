@@ -1,0 +1,12 @@
+PRO	He
+PST	was
+IST	still
+REL	in
+HAS	his
+CON	teens
+SUB	when
+PRO	he
+EPS	founded
+DIS	a
+CON	company
+NIL	.

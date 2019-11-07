@@ -1,0 +1,10 @@
+PRO	He
+PST	was
+IST	so
+EXS	sad
+SUB	that
+PRO	he
+IST	almost
+EPS	went
+IST	mad
+NIL	.

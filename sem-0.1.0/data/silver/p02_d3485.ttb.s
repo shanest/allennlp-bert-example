@@ -1,0 +1,13 @@
+ORG	Industry
+SUB	as
+PRO	we
+ENS	know
+PRO	it
+NOW	today
+PST	did
+NOT	n't
+EXS	exist
+REL	in
+DST	those
+CON	days
+NIL	.

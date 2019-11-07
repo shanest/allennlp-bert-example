@@ -1,0 +1,13 @@
+PRX	This
+CON	bicycle
+NOW	has
+PFT	been
+EXS	left
+PRX	here
+REL	since
+DEF	the
+CON	beginning
+AND	of
+PRX	this
+CON	month
+NIL	.

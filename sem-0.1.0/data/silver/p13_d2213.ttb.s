@@ -1,0 +1,15 @@
+SUB	When
+PRO	I
+PST	got
+IST	out
+AND	of
+CON	prison
+NIL	,
+HAS	my
+PST	ex
+ROL	wife
+COO	and
+PRO	I
+PST	got
+EPS	remarried
+NIL	.

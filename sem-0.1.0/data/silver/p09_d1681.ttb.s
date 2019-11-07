@@ -1,0 +1,14 @@
+NOT	No
+CON	matter
+QUE	what
+ENS	happens
+NIL	,
+UNK	there
+NOW	is
+AND	always
+DIS	someone
+AND	who
+EPS	saw
+PRO	it
+EXS	coming
+NIL	.

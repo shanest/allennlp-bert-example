@@ -1,0 +1,12 @@
+PRO	You
+FUT	will
+EXS	be
+EXS	missed
+REL	by
+HAS	your
+CON	friends
+SUB	when
+PRO	you
+NOW	're
+EXS	gone
+NIL	.

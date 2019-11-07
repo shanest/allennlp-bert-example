@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXG	reading
+DIS	a
+CON	novel
+REL	by
+PER	Sidney
+PER	Sheldon
+NOW	now
+NIL	.

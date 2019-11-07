@@ -1,0 +1,9 @@
+PRO	He
+PST	was
+EXS	destined
+NOT	never
+SUB	to
+EXS	meet
+HAS	her
+ALT	again
+NIL	.

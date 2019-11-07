@@ -1,0 +1,10 @@
+ITJ	Hey
+NIL	,
+QUE	what
+NOW	are
+PRO	we
+EXS	going
+SUB	to
+EXS	do
+FUT	tomorrow
+QUE	?

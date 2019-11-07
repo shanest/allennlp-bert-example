@@ -1,0 +1,10 @@
+PER	Trang
+EPS	gave
+DIS	an
+INT	unusually
+IST	expensive
+IST	Christmas
+CON	gift
+REL	to
+PER	Sysko
+NIL	.

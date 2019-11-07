@@ -1,0 +1,10 @@
+DEF	The
+ROL	father
+PST	had
+CON	trouble
+EXS	communicating
+REL	with
+HAS	his
+IST	wayward
+CON	son
+NIL	.

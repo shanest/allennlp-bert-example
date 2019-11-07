@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	looking
+IST	forward
+SUB	to
+EXG	seeing
+PRO	you
+AND	as
+IST	well
+NIL	.

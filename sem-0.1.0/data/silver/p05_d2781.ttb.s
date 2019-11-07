@@ -1,0 +1,10 @@
+PRO	I
+EPS	looked
+IST	down
+COO	and
+PST	had
+IST	absolutely
+NOT	nothing
+SUB	to
+EXS	say
+NIL	.

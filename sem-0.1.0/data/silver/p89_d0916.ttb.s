@@ -1,0 +1,9 @@
+NOW	Is
+SUB	that
+DEF	the
+CON	key
+PRO	you
+NOW	are
+EXS	looking
+REL	for
+QUE	?

@@ -1,0 +1,11 @@
+GPE	Canada
+AND	and
+GPE	Mexico
+AND	both
+EXS	share
+DIS	a
+CON	border
+REL	with
+DEF	the
+ORG	USA
+NIL	.

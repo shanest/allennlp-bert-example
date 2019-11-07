@@ -1,0 +1,9 @@
+POS	Can
+PRO	you
+EPS	put
+PRO	it
+IST	down
+REL	on
+DEF	the
+CON	table
+QUE	?

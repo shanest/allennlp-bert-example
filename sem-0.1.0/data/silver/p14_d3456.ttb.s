@@ -1,0 +1,12 @@
+PRO	I
+EPS	wrote
+PRO	him
+DIS	a
+CON	letter
+EXS	asking
+PRO	him
+SUB	to
+EXS	come
+CON	home
+IST	soon
+NIL	.

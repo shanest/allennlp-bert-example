@@ -1,0 +1,10 @@
+PRO	She
+EPS	wished
+PRO	she
+PST	had
+PFT	been
+EXS	born
+QUC	twenty
+CON	years
+AND	earlier
+NIL	.

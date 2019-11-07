@@ -1,0 +1,13 @@
+GRE	Hello
+NIL	.
+PRX	This
+NOW	is
+PER	Joe
+PER	Carlton
+NIL	.
+POS	May
+PRO	I
+NOW	speak
+REL	to
+PER	Michael
+QUE	?

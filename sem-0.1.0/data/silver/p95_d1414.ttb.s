@@ -1,0 +1,10 @@
+GEO	China
+NOW	is
+NOW	now
+DEF	the
+CON	world
+HAS	's
+ORD	second
+TOP	largest
+CON	economy
+NIL	.

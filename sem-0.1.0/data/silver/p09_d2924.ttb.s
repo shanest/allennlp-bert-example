@@ -1,0 +1,12 @@
+PRO	I
+POS	can
+NOT	not
+EXS	forgive
+PRO	him
+SUB	because
+PRO	he
+EPS	insulted
+PRO	me
+REL	in
+CON	public
+NIL	.

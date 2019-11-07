@@ -1,0 +1,10 @@
+DEF	The
+CON	king
+EPS	reigned
+AND	over
+HAS	his
+CON	people
+REL	for
+QUC	forty
+CON	years
+NIL	.

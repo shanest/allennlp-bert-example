@@ -1,0 +1,10 @@
+UNK	There
+NOW	is
+IST	more
+REL	to
+CON	life
+AND	than
+EXG	increasing
+HAS	its
+CON	speed
+NIL	.

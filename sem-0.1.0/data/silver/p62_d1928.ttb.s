@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	met
+REL	in
+CON	front
+AND	of
+DEF	the
+CON	museum
+REL	at
+CLO	2:30
+NIL	.

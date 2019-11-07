@@ -1,0 +1,13 @@
+NIL	"
+HAS	Whose
+CON	sheep
+NOW	are
+PRX	these
+QUE	?
+NIL	"
+NIL	"
+PRO	They
+NOW	are
+HAS	mine
+NIL	.
+NIL	"

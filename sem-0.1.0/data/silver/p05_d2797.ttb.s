@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+IST	ever
+EXS	seen
+PER	Tom
+AND	and
+PER	Mary
+EXS	dancing
+IST	together
+QUE	?

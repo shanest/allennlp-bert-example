@@ -1,0 +1,16 @@
+PER	Tom
+POS	could
+IST	hardly
+EXS	keep
+REL	from
+EXS	laughing
+SUB	when
+PRO	he
+EPS	saw
+PER	Mary
+EXS	trying
+SUB	to
+EXS	juggle
+DIS	some
+CON	balls
+NIL	.

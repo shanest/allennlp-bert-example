@@ -1,0 +1,12 @@
+FUT	Will
+PRO	I
+EXS	be
+IST	able
+SUB	to
+EXS	spend
+QUC	one
+CON	day
+EXS	undisturbed
+REL	for
+QUC	once
+QUE	?

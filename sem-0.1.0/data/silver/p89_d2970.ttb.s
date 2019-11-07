@@ -1,0 +1,10 @@
+PRO	I
+PST	thought
+PER	Tom
+FUT	would
+NOT	n't
+EXS	mind
+EXS	waiting
+REL	for
+PER	Mary
+NIL	.

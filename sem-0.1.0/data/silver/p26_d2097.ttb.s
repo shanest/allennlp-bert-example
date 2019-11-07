@@ -1,0 +1,14 @@
+PRO	I
+NOW	have
+DIS	a
+CON	friend
+HAS	whose
+ROL	father
+NOW	is
+DEF	the
+ROL	captain
+AND	of
+DIS	a
+IST	big
+CON	ship
+NIL	.

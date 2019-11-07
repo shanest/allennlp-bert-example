@@ -1,0 +1,15 @@
+AND	Why
+POS	ca
+NOT	n't
+IST	Go
+EXS	be
+EXS	popular
+REL	in
+GPE	Turkey
+SUB	when
+PRO	it
+NOW	is
+IST	so
+REL	in
+GPE	Japan
+QUE	?

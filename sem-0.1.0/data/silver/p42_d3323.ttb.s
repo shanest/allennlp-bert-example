@@ -1,0 +1,13 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	feel
+IST	well
+NIL	,
+BUT	but
+PRO	he
+EPS	went
+REL	to
+EXS	work
+IST	anyway
+NIL	.

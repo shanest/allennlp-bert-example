@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	trying
+SUB	to
+EXS	call
+PER	Tom
+AND	all
+CON	day
+NIL	.

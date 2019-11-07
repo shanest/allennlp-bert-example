@@ -1,0 +1,13 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	how
+NIL	,
+BUT	but
+PRO	they
+EPS	got
+DIS	a
+IST	duplicate
+CON	key
+NIL	.

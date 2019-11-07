@@ -1,0 +1,17 @@
+PER	Tom
+EPS	returned
+REL	from
+DEF	the
+CON	kitchen
+REL	with
+QUC	two
+CON	mugs
+AND	of
+CON	coffee
+COO	and
+EPS	sat
+IST	down
+AND	next
+REL	to
+PER	Mary
+NIL	.

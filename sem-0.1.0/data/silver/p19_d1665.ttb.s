@@ -1,0 +1,10 @@
+REL	Since
+CON	then
+NIL	,
+HAS	his
+CON	faith
+NOW	has
+PFT	been
+IST	severely
+EXS	shaken
+NIL	.

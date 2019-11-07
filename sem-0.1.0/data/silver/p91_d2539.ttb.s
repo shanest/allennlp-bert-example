@@ -1,0 +1,11 @@
+AND	Apart
+REL	from
+HAS	his
+CON	parents
+NIL	,
+NOT	no
+CON	one
+ENS	knows
+PRO	him
+IST	well
+NIL	.

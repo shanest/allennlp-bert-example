@@ -1,0 +1,9 @@
+PRO	It
+ENS	seems
+SUB	that
+NOT	no
+CON	one
+EPS	knew
+DEF	the
+CON	truth
+NIL	.

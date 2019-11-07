@@ -1,0 +1,10 @@
+PRO	I
+EPS	lost
+CON	interest
+REL	in
+CON	money
+DIS	a
+IST	long
+CON	time
+PST	ago
+NIL	.

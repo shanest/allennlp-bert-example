@@ -1,0 +1,11 @@
+PRO	You
+ENS	know
+SUB	that
+PRO	I
+NOW	do
+NOT	n't
+IST	usually
+EXS	talk
+PRX	this
+CON	way
+NIL	.

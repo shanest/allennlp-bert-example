@@ -1,0 +1,9 @@
+POS	May
+PRO	I
+EXS	be
+EXS	excused
+REL	from
+FUT	tomorrow
+HAS	's
+CON	class
+QUE	?

@@ -1,0 +1,17 @@
+CON	Tourists
+REL	on
+DEF	the
+GPO	French
+CON	Riviera
+NOW	are
+EXS	being
+EXS	robbed
+REL	by
+ROL	thieves
+AND	who
+CON	gas
+PRO	them
+AND	as
+PRO	they
+EXS	sleep
+NIL	.

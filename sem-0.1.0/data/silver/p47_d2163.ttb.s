@@ -1,0 +1,15 @@
+DEF	The
+CON	bell
+EPS	rang
+NIL	.
+DEF	The
+ROL	teacher
+EPS	told
+DEF	the
+CON	students
+REL	to
+CON	hand
+REL	in
+DEF	the
+CON	papers
+NIL	.

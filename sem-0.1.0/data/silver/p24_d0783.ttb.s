@@ -1,0 +1,16 @@
+PER	Mary
+NOW	is
+EXS	said
+SUB	to
+EXT	have
+PFT	been
+EXS	ill
+IST	last
+CON	week
+NIL	,
+BUT	but
+PRO	she
+NOW	looks
+IST	well
+NOW	now
+NIL	.

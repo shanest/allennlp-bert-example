@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	bring
+PER	Tom
+DIS	some
+CON	dinner
+NIL	.

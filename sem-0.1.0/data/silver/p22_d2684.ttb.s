@@ -1,0 +1,12 @@
+PRO	We
+NOW	are
+EXS	going
+SUB	to
+EXS	have
+CON	dinner
+REL	in
+DIS	an
+GPO	Indian
+CON	restaurant
+CON	tonight
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+EPS	wrote
+DIS	a
+CON	poem
+REL	in
+CON	memory
+AND	of
+HAS	my
+CON	dad
+NIL	.

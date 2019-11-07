@@ -1,0 +1,10 @@
+DIS	A
+IST	drunk
+CON	TV
+ROL	presenter
+EPS	vomited
+REL	during
+DIS	a
+IST	live
+CON	broadcast
+NIL	.

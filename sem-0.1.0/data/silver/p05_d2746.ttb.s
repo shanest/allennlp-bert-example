@@ -1,0 +1,9 @@
+NOT	No
+CON	one
+NOW	is
+IST	sure
+QUE	how
+QUV	many
+CON	people
+EPS	died
+NIL	.

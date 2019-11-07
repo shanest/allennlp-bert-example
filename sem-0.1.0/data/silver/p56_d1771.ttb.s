@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	evident
+SUB	that
+DEF	the
+CON	photographs
+NOW	have
+PFT	been
+EXS	modified
+NIL	.

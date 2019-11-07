@@ -1,0 +1,11 @@
+IMP	If
+PRO	it
+ENS	rains
+FUT	tomorrow
+NIL	,
+DEF	the
+CON	excursion
+FUT	will
+EXS	be
+EXS	canceled
+NIL	.

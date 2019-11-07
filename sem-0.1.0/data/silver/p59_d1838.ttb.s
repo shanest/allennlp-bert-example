@@ -1,0 +1,10 @@
+PER	Zürich
+NOW	is
+EXS	considered
+SUB	to
+EXS	be
+DIS	a
+IST	major
+IST	financial
+CON	hub
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+ENS	go
+REL	to
+CON	school
+SUB	because
+PRO	I
+ENS	want
+SUB	to
+EXS	learn
+NIL	.

@@ -1,0 +1,14 @@
+PER	Tom
+PST	was
+IST	so
+EXS	angry
+REL	at
+PER	Mary
+PRO	he
+POS	could
+NOT	n't
+IST	even
+EXS	look
+REL	at
+PRO	her
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+ROL	bishop
+EPS	took
+CON	pity
+REL	on
+DEF	the
+IST	desperate
+CON	immigrants
+NIL	.

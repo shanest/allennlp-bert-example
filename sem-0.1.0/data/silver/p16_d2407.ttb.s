@@ -1,0 +1,12 @@
+DEF	The
+CON	people
+REL	on
+CON	board
+EPS	thrust
+HAS	their
+CON	way
+AND	toward
+DEF	the
+IST	rear
+CON	exit
+NIL	.

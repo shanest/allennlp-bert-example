@@ -1,0 +1,10 @@
+SUB	When
+HAS	my
+ROL	father
+EPS	came
+CON	home
+NIL	,
+PRO	I
+PST	was
+EXS	studying
+NIL	.

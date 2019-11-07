@@ -1,0 +1,16 @@
+PER	Tom
+EPS	pointed
+REL	to
+QUC	one
+AND	of
+DEF	the
+CON	pictures
+COO	and
+EPS	said
+NIL	,
+NIL	"
+QUE	Who
+NOW	's
+DST	that
+QUE	?
+NIL	"

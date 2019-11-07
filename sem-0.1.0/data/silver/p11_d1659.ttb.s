@@ -1,0 +1,10 @@
+PER	Tom
+EPS	moved
+PRX	here
+DIS	a
+IST	few
+CON	months
+PST	ago
+REL	from
+GEO	Boston
+NIL	.

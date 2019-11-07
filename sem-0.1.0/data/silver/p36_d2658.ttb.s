@@ -1,0 +1,13 @@
+SUB	Unless
+PER	Tom
+NOW	is
+IST	sober
+NIL	,
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+PRO	him
+EXS	helping
+PRO	us
+NIL	.

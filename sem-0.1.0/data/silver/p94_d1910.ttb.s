@@ -1,0 +1,13 @@
+PRO	I
+NOW	seem
+IST	unable
+SUB	to
+EXS	get
+IST	out
+AND	of
+PRX	this
+CON	trouble
+REL	in
+IST	short
+CON	time
+NIL	.

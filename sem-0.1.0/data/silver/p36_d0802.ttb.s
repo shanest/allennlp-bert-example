@@ -1,0 +1,12 @@
+PRO	I
+PST	had
+NOT	never
+EXS	seen
+DIS	a
+CON	windmill
+SUB	until
+PRO	I
+EPS	visited
+DEF	the
+GPE	Netherlands
+NIL	.

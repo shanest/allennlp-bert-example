@@ -1,0 +1,11 @@
+ORG	University
+CON	fees
+REL	in
+GPE	Britain
+NOW	are
+INT	about
+UOM	£
+QUC	9,000
+AND	per
+CON	year
+NIL	.

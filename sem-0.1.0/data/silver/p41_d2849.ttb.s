@@ -1,0 +1,11 @@
+PER	Tom
+IST	still
+NOW	has
+NOT	n't
+EXS	found
+QUE	what
+PRO	he
+PST	was
+EXG	looking
+REL	for
+NIL	.

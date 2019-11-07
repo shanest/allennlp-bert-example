@@ -1,0 +1,11 @@
+PRO	I
+EPS	found
+PRO	it
+UNK	impossible
+SUB	to
+EXS	get
+REL	in
+CON	contact
+REL	with
+PRO	him
+NIL	.

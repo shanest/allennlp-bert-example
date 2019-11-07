@@ -1,0 +1,9 @@
+PRO	We
+ENS	associate
+PER	Einstein
+REL	with
+DEF	the
+CON	theory
+AND	of
+GEO	relativity
+NIL	.

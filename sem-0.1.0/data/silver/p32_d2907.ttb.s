@@ -1,0 +1,10 @@
+PRO	I
+IST	never
+PST	thought
+PRO	I
+PST	'd
+EXS	see
+PRO	you
+EXS	alive
+ALT	again
+NIL	.

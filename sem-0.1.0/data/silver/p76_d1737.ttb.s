@@ -1,0 +1,11 @@
+EXS	Come
+REL	on
+NIL	,
+CON	guys
+NIL	.
+PRX	This
+NOW	is
+NOT	not
+EXS	funny
+CON	anymore
+NIL	.

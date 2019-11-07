@@ -1,0 +1,10 @@
+PRO	I
+ENS	believe
+SUB	that
+PRX	this
+NOW	is
+NOT	not
+DIS	a
+IST	good
+CON	idea
+NIL	.

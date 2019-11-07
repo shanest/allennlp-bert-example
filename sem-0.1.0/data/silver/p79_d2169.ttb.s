@@ -1,0 +1,16 @@
+PER	Tom
+HAS	's
+CON	dream
+NOW	is
+SUB	to
+EXS	live
+REL	in
+DIS	a
+IST	small
+CON	town
+REL	in
+DEF	the
+CON	south
+AND	of
+GPE	France
+NIL	.

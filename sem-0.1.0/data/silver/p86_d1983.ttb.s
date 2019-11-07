@@ -1,0 +1,11 @@
+DEF	The
+CON	child
+EPS	threw
+DIS	a
+CON	tantrum
+SUB	because
+PRO	he
+EPS	wanted
+DEF	the
+CON	toy
+NIL	.

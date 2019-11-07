@@ -1,0 +1,9 @@
+PRO	I
+ENS	accept
+NIL	,
+BUT	but
+XCL	only
+REL	under
+QUC	one
+CON	condition
+NIL	.

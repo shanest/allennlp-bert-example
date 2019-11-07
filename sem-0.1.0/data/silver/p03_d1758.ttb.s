@@ -1,0 +1,12 @@
+PER	Tom
+NOW	has
+NOT	n't
+EXS	been
+REL	on
+EXG	speaking
+CON	terms
+REL	with
+PER	Mary
+REL	for
+CON	years
+NIL	.

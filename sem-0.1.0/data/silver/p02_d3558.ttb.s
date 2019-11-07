@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	afraid
+PRX	this
+CON	story
+NOW	is
+INT	too
+IST	adult
+REL	for
+CON	children
+SUB	to
+EXS	appreciate
+NIL	.

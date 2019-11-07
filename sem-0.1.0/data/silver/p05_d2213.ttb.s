@@ -1,0 +1,9 @@
+PER	Bob
+PST	was
+EXG	washing
+DEF	the
+CON	dishes
+REL	at
+DST	that
+CON	time
+NIL	.

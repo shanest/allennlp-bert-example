@@ -1,0 +1,9 @@
+SUB	Until
+NOW	now
+PRO	I
+NOW	've
+NOT	never
+EXS	used
+DIS	an
+CON	axe
+NIL	.

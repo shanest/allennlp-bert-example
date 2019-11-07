@@ -1,0 +1,12 @@
+PRO	I
+POS	can
+NOT	not
+EXS	rinse
+DEF	the
+CON	dishes
+NIL	.
+NIL	There
+NOW	is
+NOT	no
+CON	water
+NIL	.

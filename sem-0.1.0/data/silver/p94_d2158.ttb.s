@@ -1,0 +1,13 @@
+DEF	The
+CON	company
+EPS	gave
+PRO	him
+DIS	a
+CON	gold
+EXS	watch
+REL	in
+CON	acknowledgement
+AND	of
+HAS	his
+CON	services
+NIL	.

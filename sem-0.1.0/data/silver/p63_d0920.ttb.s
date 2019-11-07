@@ -1,0 +1,10 @@
+PRO	She
+EPS	bought
+SUB	that
+CON	camera
+SUB	while
+PRO	she
+PST	was
+REL	in
+GPE	Japan
+NIL	.

@@ -1,0 +1,9 @@
+AND	Finally
+PRO	you
+NOW	're
+EXS	doing
+CON	things
+DEF	the
+IST	proper
+CON	way
+NIL	.

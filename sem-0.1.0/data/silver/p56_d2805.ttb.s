@@ -1,0 +1,10 @@
+DEF	The
+CON	police
+IST	never
+EPS	caught
+DEF	the
+CON	guy
+AND	who
+EPS	attacked
+PER	Tom
+NIL	.

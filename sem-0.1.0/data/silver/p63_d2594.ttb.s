@@ -1,0 +1,12 @@
+AND	Underneath
+PRO	we
+EPS	wrote
+DEF	the
+CON	names
+AND	of
+DEF	the
+CON	students
+REL	in
+HAS	our
+CON	class
+NIL	.

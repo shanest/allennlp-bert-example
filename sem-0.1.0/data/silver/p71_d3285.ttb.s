@@ -1,0 +1,11 @@
+QUE	How
+NOW	do
+PRO	I
+EXS	get
+HAS	my
+CON	dog
+SUB	to
+EXS	eat
+CON	dog
+CON	food
+QUE	?

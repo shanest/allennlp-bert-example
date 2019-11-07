@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+REL	for
+NOT	not
+EXS	replying
+REL	to
+HAS	your
+CON	letter
+AND	earlier
+NIL	.

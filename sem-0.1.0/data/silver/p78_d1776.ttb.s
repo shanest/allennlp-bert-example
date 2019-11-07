@@ -1,0 +1,12 @@
+HAS	My
+CON	car
+NOW	is
+EXS	broken
+COO	and
+PRO	it
+ENS	's
+REL	in
+DEF	the
+CON	shop
+NOW	now
+NIL	.

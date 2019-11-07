@@ -1,0 +1,13 @@
+PRO	They
+NOW	have
+EXT	had
+NOT	no
+CON	rain
+REL	in
+GEO	Africa
+REL	for
+MOR	more
+MOR	than
+DIS	a
+CON	month
+NIL	.

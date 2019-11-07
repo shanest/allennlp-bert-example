@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+DEF	the
+XCL	only
+QUC	one
+AND	here
+AND	who
+NOW	does
+NOT	n't
+EXS	know
+PER	Mary
+NIL	.

@@ -1,0 +1,9 @@
+PRO	It
+HAS	's
+PFT	been
+EXS	raining
+REL	for
+AND	about
+DIS	a
+CON	week
+NIL	.

@@ -1,0 +1,9 @@
+EXS	Send
+PRO	it
+REL	to
+DEF	the
+CON	address
+PRO	I
+EPS	gave
+PRO	you
+NIL	.

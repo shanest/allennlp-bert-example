@@ -1,0 +1,10 @@
+HAS	My
+ROL	grandfather
+PST	was
+IST	always
+EXG	grumbling
+AND	about
+DIS	something
+DIS	or
+ALT	other
+NIL	.

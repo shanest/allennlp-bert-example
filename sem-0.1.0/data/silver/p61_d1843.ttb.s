@@ -1,0 +1,17 @@
+PRO	We
+PST	were
+NOT	n't
+IST	able
+SUB	to
+EXS	buy
+CON	tickets
+NIL	,
+COO	so
+PRO	we
+PST	did
+NOT	n't
+EXS	go
+REL	to
+DEF	the
+CON	concert
+NIL	.

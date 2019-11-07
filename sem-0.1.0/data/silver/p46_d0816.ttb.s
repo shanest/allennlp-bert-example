@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+EXS	seen
+NIL	"
+ORG	Star
+ORG	Wars
+NIL	"
+QUC	twice
+NIL	.

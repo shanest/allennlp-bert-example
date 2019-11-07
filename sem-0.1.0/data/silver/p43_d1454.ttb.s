@@ -1,0 +1,14 @@
+PRO	He
+PST	had
+PFT	been
+INT	very
+EXS	busy
+NIL	,
+COO	and
+IST	still
+PRO	he
+EPS	came
+SUB	to
+EXS	help
+PRO	us
+NIL	.

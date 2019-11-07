@@ -1,0 +1,11 @@
+PER	Tom
+PST	was
+IST	glad
+SUB	that
+PER	Mary
+PST	was
+CON	home
+REL	with
+DEF	the
+CON	children
+NIL	.

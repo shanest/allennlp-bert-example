@@ -1,0 +1,12 @@
+PRO	He
+PST	was
+EXS	raised
+REL	to
+DEF	the
+CON	rank
+AND	of
+CON	colonel
+QUC	two
+CON	years
+PST	ago
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOT	never
+EXS	get
+SUB	to
+EXS	spend
+AND	any
+CON	time
+REL	with
+PER	Tom
+NIL	.

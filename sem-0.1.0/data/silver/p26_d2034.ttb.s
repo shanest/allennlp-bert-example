@@ -1,0 +1,14 @@
+PER	Tom
+EPS	managed
+SUB	to
+EXS	make
+CON	time
+SUB	to
+EXS	visit
+PER	Mary
+SUB	while
+PRO	he
+PST	was
+REL	in
+GPE	Boston
+NIL	.

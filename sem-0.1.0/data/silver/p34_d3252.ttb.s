@@ -1,0 +1,13 @@
+PRO	He
+PST	did
+NOT	n't
+EXS	come
+NIL	.
+HAS	His
+CON	excuse
+EPS	was
+SUB	that
+PRO	he
+PST	was
+IST	sick
+NIL	.

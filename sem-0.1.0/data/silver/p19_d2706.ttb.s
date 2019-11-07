@@ -1,0 +1,14 @@
+PER	Tom
+EPS	heard
+CON	gunshots
+COO	and
+EPS	looked
+IST	out
+DEF	the
+CON	window
+SUB	to
+EXS	see
+QUE	what
+PST	was
+EXS	happening
+NIL	.

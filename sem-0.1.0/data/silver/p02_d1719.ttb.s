@@ -1,0 +1,14 @@
+PRO	He
+ENS	's
+DEF	the
+XCL	only
+CON	man
+AND	who
+POS	could
+EXS	live
+REL	with
+HAS	her
+REL	for
+IST	so
+IST	long
+NIL	.

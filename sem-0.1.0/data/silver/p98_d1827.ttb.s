@@ -1,0 +1,12 @@
+PRO	I
+EPS	leaned
+IST	forward
+NIL	,
+IST	eager
+SUB	to
+EXS	catch
+AND	every
+CON	word
+PRO	he
+EPS	spoke
+NIL	.

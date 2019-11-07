@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+ENS	want
+SUB	to
+EXS	be
+REL	on
+HAS	my
+CON	team
+ALT	again
+QUE	?

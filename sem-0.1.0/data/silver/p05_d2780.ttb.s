@@ -1,0 +1,11 @@
+AND	As
+QUC	many
+AND	as
+QUC	400
+CON	passengers
+PST	were
+EXT	killed
+REL	in
+DEF	the
+CON	crash
+NIL	.

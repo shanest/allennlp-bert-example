@@ -1,0 +1,10 @@
+PRO	He
+ENS	knows
+QUE	how
+SUB	to
+EXS	find
+CON	water
+REL	in
+DEF	the
+CON	desert
+NIL	.

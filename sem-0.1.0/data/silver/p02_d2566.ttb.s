@@ -1,0 +1,13 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+NOW	'm
+EXS	concerned
+NIL	,
+PRO	she
+HAS	's
+DIS	a
+IST	complete
+CON	stranger
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+ENS	listen
+REL	to
+PRX	this
+CON	song
+SUB	when
+PRO	I
+NOW	'm
+EXS	sad
+NIL	.

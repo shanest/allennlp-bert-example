@@ -1,0 +1,10 @@
+NOW	Today
+NIL	,
+ALT	too
+NIL	,
+DEF	the
+CON	temperature
+NOW	is
+REL	below
+QUC	zero
+NIL	.

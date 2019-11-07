@@ -1,0 +1,14 @@
+HAS	My
+ROL	sister
+EPS	married
+ROL	Mr
+PER	Sato
+EQU	,
+HAS	whose
+ROL	father
+NOW	is
+HAS	my
+ROL	mother
+HAS	's
+CON	friend
+NIL	.

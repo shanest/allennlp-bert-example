@@ -1,0 +1,17 @@
+REL	In
+DEF	the
+CON	middle
+AND	of
+DIS	a
+CON	pond
+REL	on
+DIS	a
+IST	tiny
+CON	island
+NOW	is
+DIS	a
+IST	charming
+IST	little
+CON	duck
+CON	house
+NIL	.

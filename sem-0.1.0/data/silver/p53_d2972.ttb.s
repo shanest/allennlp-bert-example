@@ -1,0 +1,14 @@
+PRO	She
+HAS	's
+PFT	been
+EXS	living
+REL	for
+DEF	the
+IST	last
+QUC	five
+CON	years
+REL	under
+DIS	an
+EXS	assumed
+CON	name
+NIL	.

@@ -1,0 +1,16 @@
+PER	Tom
+FUT	would
+NOT	n't
+IST	just
+EXS	leave
+AND	like
+DST	that
+NIL	.
+PRO	He
+FUT	'd
+NEC	have
+SUB	at
+EXS	least
+EPS	said
+GRE	goodbye
+NIL	.

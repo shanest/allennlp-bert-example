@@ -1,0 +1,9 @@
+QUE	What
+CON	party
+EPS	led
+GPE	Australia
+REL	from
+REL	1983
+REL	to
+YOC	1996
+QUE	?

@@ -1,0 +1,12 @@
+PRO	He
+EPS	came
+NIL	,
+PRO	he
+EPS	saw
+NIL	-
+COO	and
+PST	did
+NOT	n't
+EXS	say
+AND	anything
+NIL	.

@@ -1,0 +1,15 @@
+PRO	I
+EPS	thought
+PRO	I
+FUT	would
+EXS	be
+IST	nervous
+NIL	,
+BUT	but
+PRO	I
+PST	was
+EXS	cool
+AND	as
+DIS	a
+CON	cucumber
+NIL	.

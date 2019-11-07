@@ -1,0 +1,15 @@
+EXS	Due
+REL	to
+DEF	the
+CON	water
+CON	shortage
+NIL	,
+AND	all
+DEF	the
+CON	flowers
+REL	in
+DEF	the
+CON	garden
+NOW	have
+EXS	died
+NIL	.

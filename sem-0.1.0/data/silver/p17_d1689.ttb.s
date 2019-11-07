@@ -1,0 +1,12 @@
+PRO	I
+EPS	thought
+PER	Tom
+FUT	would
+NOT	n't
+EXS	notice
+SUB	that
+PER	Mary
+PST	was
+NOT	n't
+PRX	here
+NIL	.

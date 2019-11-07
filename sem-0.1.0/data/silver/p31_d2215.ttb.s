@@ -1,0 +1,16 @@
+PRX	These
+CON	bank
+ROL	employees
+NOW	seem
+INT	so
+IST	politely
+NIL	insolent
+IST	lately
+NIL	.
+PRO	I
+NOW	wonder
+QUE	what
+HAS	's
+AND	behind
+PRO	it
+NIL	.

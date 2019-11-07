@@ -1,0 +1,9 @@
+PER	Tom
+EPS	said
+IST	good
+CON	night
+REL	to
+PER	Mary
+COO	and
+EPS	left
+NIL	.

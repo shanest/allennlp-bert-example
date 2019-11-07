@@ -1,0 +1,9 @@
+PER	Mother
+PER	Teresa
+PST	was
+EXS	born
+REL	in
+GPE	Yugoslavia
+REL	in
+YOC	1910
+NIL	.

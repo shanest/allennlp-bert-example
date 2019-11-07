@@ -1,0 +1,10 @@
+DEF	The
+CON	time
+EPS	came
+SUB	when
+PRO	I
+NEC	had
+SUB	to
+EXS	leave
+GPE	Japan
+NIL	.

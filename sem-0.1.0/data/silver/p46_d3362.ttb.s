@@ -1,0 +1,13 @@
+PRO	I
+FUT	would
+EXS	do
+PRO	it
+IMP	if
+PRO	I
+PST	had
+IST	more
+CON	time
+REL	on
+HAS	my
+CON	hands
+NIL	.

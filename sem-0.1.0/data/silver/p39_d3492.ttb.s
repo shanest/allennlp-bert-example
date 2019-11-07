@@ -1,0 +1,16 @@
+PRO	It
+PST	was
+QUC	five
+CON	days
+SUB	after
+PRO	she
+EPS	graduated
+SUB	that
+HAS	my
+CON	daughter
+EPS	left
+GEO	Osaka
+GEO	Airport
+REL	for
+GPE	Germany
+NIL	.

@@ -1,0 +1,15 @@
+DEF	The
+ORG	Duke
+AND	of
+GEO	York
+EPS	became
+DEF	the
+IST	first
+IST	official
+IST	royal
+CON	visitor
+REL	to
+GPE	Argentina
+REL	since
+YOC	1982
+NIL	.

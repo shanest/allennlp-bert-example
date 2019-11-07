@@ -1,0 +1,9 @@
+PRO	You
+ENS	know
+DIS	some
+GPO	French
+NIL	,
+NOW	do
+NOT	n't
+PRO	you
+QUE	?

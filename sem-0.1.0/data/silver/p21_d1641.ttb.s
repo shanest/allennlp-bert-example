@@ -1,0 +1,9 @@
+PRO	She
+PST	was
+EXS	supposed
+SUB	to
+EXS	call
+PRO	him
+REL	at
+CLO	2:30
+NIL	.

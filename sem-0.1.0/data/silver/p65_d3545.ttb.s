@@ -1,0 +1,10 @@
+PER	Hanako
+NOW	has
+EXS	attended
+DIS	an
+GPO	American
+CON	college
+REL	for
+QUC	four
+CON	years
+NIL	.

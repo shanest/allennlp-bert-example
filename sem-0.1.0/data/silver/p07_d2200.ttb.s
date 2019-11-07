@@ -1,0 +1,9 @@
+PRO	They
+NOW	have
+EXS	cherished
+DEF	the
+CON	child
+AND	as
+HAS	their
+CON	own
+NIL	.

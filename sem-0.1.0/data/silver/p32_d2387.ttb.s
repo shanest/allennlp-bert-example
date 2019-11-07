@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+NOW	now
+REL	on
+DEF	the
+CON	way
+REL	to
+CON	recovery
+NIL	.

@@ -1,0 +1,10 @@
+GRE	Hi
+NIL	,
+QUE	how
+NOW	are
+PRO	you
+NIL	,
+HAS	my
+IST	dear
+CON	friend
+QUE	?

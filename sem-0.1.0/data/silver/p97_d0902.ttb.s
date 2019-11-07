@@ -1,0 +1,12 @@
+AND	Finding
+DIS	a
+IST	decent
+CON	man
+NOW	is
+IST	more
+EXS	difficult
+AND	than
+EXG	winning
+DIS	a
+CON	lottery
+NIL	.

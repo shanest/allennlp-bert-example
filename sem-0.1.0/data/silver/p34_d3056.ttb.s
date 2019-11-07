@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+IST	hard
+REL	for
+PRO	me
+SUB	to
+EXS	explain
+HAS	my
+CON	actions
+NIL	.

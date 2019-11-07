@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+EPS	said
+SUB	that
+DEF	the
+ORG	Vikings
+EPS	discovered
+GEO	America
+REL	before
+GEO	Columbus
+PST	did
+NIL	.

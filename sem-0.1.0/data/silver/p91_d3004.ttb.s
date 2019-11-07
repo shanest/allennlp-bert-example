@@ -1,0 +1,11 @@
+QUE	What
+IST	horrible
+CON	weather
+NIL	!
+PRO	It
+HAS	's
+PFT	been
+EXS	raining
+AND	all
+CON	day
+NIL	.

@@ -1,0 +1,9 @@
+PER	Dan
+AND	and
+PER	Linda
+EPS	split
+IST	up
+QUC	two
+CON	years
+PST	ago
+NIL	.

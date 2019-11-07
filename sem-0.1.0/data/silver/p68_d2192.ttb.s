@@ -1,0 +1,12 @@
+PRO	He
+EPS	used
+SUB	to
+EXS	say
+IST	so
+NIL	,
+BUT	but
+NOW	now
+PRO	he
+NOW	does
+NOT	n't
+NIL	.

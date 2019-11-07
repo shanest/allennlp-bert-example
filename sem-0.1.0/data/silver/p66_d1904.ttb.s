@@ -1,0 +1,10 @@
+DEF	The
+ROL	father
+FUT	would
+NOT	n't
+EXS	accept
+HAS	his
+CON	daughter
+HAS	's
+CON	boyfriend
+NIL	.

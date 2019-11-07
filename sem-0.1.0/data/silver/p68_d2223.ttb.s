@@ -1,0 +1,10 @@
+QUE	What
+HAS	's
+EXS	wrong
+REL	with
+DEF	the
+CON	way
+PRO	I
+NOW	'm
+EXS	dressed
+QUE	?

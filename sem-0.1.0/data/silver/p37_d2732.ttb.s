@@ -1,0 +1,10 @@
+PRO	She
+CON	deposits
+QUC	10,000
+UOM	yen
+UOM	in
+DEF	the
+CON	bank
+AND	every
+CON	month
+NIL	.

@@ -1,0 +1,9 @@
+QUE	How
+QUV	many
+CON	astronauts
+NOW	have
+EXS	gone
+REL	to
+DEF	the
+CON	moon
+QUE	?

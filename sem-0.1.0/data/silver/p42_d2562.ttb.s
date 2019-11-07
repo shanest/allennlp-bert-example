@@ -1,0 +1,12 @@
+PER	Tom
+EPS	thought
+SUB	that
+QUE	what
+PER	Mary
+EPS	wrote
+PST	did
+NOT	n't
+EXS	make
+AND	any
+CON	sense
+NIL	.

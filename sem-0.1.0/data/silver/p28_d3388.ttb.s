@@ -1,0 +1,12 @@
+DEF	The
+CON	village
+REL	in
+UNK	which
+PRO	he
+PST	was
+EXS	born
+NOW	is
+IST	far
+REL	from
+PRX	here
+NIL	.

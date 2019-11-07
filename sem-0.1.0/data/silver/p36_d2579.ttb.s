@@ -1,0 +1,11 @@
+CON	Seen
+AND	against
+DEF	the
+CON	sky
+NIL	,
+DEF	the
+CON	mountain
+EPS	looked
+IST	really
+EXS	beautiful
+NIL	.

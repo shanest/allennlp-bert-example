@@ -1,0 +1,12 @@
+PER	Esperanto
+NOW	is
+NOT	not
+XCL	only
+AND	nominally
+BUT	but
+ALT	also
+IST	structurally
+DIS	an
+IST	international
+CON	language
+NIL	.

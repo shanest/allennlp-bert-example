@@ -1,0 +1,10 @@
+DEF	The
+CON	people
+REL	in
+DEF	the
+ALT	other
+CON	room
+NOW	are
+EXG	speaking
+GPO	French
+NIL	.

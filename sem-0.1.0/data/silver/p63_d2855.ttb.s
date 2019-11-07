@@ -1,0 +1,11 @@
+QUE	How
+NOW	dare
+PRO	you
+NOW	do
+SUB	that
+REL	to
+DIS	a
+CON	girl
+EQU	,
+PER	Tom
+QUE	?

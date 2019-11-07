@@ -1,0 +1,12 @@
+PER	Mary
+NOW	has
+EXS	been
+REL	in
+CON	love
+REL	with
+PER	Tom
+REL	since
+DEF	the
+ORD	8th
+CON	grade
+NIL	.

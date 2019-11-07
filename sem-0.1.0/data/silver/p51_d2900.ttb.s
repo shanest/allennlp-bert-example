@@ -1,0 +1,13 @@
+PRO	I
+EPS	read
+DIS	somewhere
+SUB	that
+CON	animals
+POS	can
+EXS	sense
+DIS	an
+CON	earthquake
+REL	before
+PRO	it
+CON	hits
+NIL	.

@@ -1,0 +1,15 @@
+DEF	The
+ROL	president
+EPS	resigned
+REL	from
+CON	office
+REL	after
+DIS	an
+CON	investigation
+EPS	showed
+PRO	he
+PST	had
+EPS	lied
+REL	to
+CON	voters
+NIL	.

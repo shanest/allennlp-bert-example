@@ -1,0 +1,11 @@
+PRX	This
+CON	poison
+NOW	is
+INT	very
+EXS	effective
+REL	in
+EXS	getting
+CON	rid
+AND	of
+CON	roaches
+NIL	.

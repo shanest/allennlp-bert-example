@@ -1,0 +1,9 @@
+PRO	He
+NOW	makes
+IST	frequent
+CON	visits
+REL	to
+GPE	Japan
+REL	on
+CON	business
+NIL	.

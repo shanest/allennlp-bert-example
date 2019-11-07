@@ -1,0 +1,9 @@
+PRO	I
+EPS	permitted
+PER	Tom
+SUB	to
+CON	camp
+REL	in
+HAS	our
+CON	backyard
+NIL	.

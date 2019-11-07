@@ -1,0 +1,17 @@
+PRO	He
+EPS	left
+REL	for
+GEO	Europe
+DIS	a
+CON	week
+PST	ago
+NIL	,
+AND	that
+NOW	is
+NIL	,
+REL	on
+DEF	the
+IST	tenth
+AND	of
+MOY	May
+NIL	.

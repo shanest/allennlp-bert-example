@@ -1,0 +1,11 @@
+PRO	I
+EPS	thought
+REL	for
+IST	sure
+PRO	you
+FUT	would
+EXS	stay
+REL	in
+GPE	Japan
+IST	forever
+NIL	.

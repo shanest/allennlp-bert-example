@@ -1,0 +1,10 @@
+PRO	She
+EPS	said
+SUB	that
+PRO	they
+PST	were
+IST	good
+CON	friends
+AND	of
+HAS	hers
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+CON	newspaper
+EPS	alleged
+HAS	his
+CON	involvement
+REL	in
+DEF	the
+CON	crime
+NIL	.

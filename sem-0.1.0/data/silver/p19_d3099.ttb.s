@@ -1,0 +1,15 @@
+AND	All
+CON	things
+EXS	taken
+REL	into
+CON	consideration
+NIL	,
+HAS	my
+ROL	father
+HAS	's
+CON	life
+PST	was
+DIS	a
+IST	happy
+CON	one
+NIL	.

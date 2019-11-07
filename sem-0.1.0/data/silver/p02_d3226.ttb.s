@@ -1,0 +1,9 @@
+ITJ	Hey
+EQU	,
+PER	Ayako
+NIL	!
+IST	Please
+EXS	speak
+IST	more
+CON	loudly
+NIL	.

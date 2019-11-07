@@ -1,0 +1,10 @@
+PER	Tom
+NOT	never
+EPS	dreamed
+SUB	that
+PER	Mary
+FUT	would
+IST	ever
+EXS	leave
+PRO	him
+NIL	.

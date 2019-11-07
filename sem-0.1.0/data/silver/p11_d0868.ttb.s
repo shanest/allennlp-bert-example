@@ -1,0 +1,10 @@
+REL	After
+DEF	the
+CON	storm
+NIL	,
+DEF	the
+CON	sea
+PST	was
+EXS	quiet
+ALT	again
+NIL	.

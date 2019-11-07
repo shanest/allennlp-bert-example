@@ -1,0 +1,11 @@
+PRO	He
+EPS	left
+DEF	the
+CON	house
+NOT	without
+AND	so
+QUC	much
+SUB	as
+EXS	saying
+GRE	good-bye
+NIL	.

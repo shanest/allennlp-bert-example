@@ -1,0 +1,12 @@
+CON	Watch
+IST	carefully
+QUE	how
+PRO	I
+NOW	do
+PRO	it
+NIL	.
+PST	Did
+PRO	you
+EXS	see
+PRO	it
+QUE	?

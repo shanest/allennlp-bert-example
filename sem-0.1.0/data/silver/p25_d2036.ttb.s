@@ -1,0 +1,15 @@
+PRX	This
+NOW	is
+IST	certainly
+DEF	the
+INT	most
+IST	delicious
+CON	juice
+PRO	I
+NOW	have
+IST	ever
+EXS	drunk
+REL	in
+HAS	my
+CON	life
+NIL	.

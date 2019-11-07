@@ -1,0 +1,10 @@
+PER	Tom
+EPS	told
+PRO	me
+PRO	he
+EPS	wanted
+SUB	to
+EXS	leave
+DEF	the
+CON	company
+NIL	.

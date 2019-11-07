@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	have
+QUV	much
+CON	money
+REL	in
+HAS	my
+CON	bank
+CON	account
+NIL	.

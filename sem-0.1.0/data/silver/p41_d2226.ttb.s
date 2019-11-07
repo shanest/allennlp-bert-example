@@ -1,0 +1,14 @@
+NIL	Tatoeba
+AND	:
+CON	Where
+CON	sentences
+NOW	are
+IST	always
+CON	sentences
+NIL	,
+NOT	except
+SUB	when
+PRO	they
+NOW	are
+NOT	n't
+NIL	.

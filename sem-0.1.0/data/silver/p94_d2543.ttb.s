@@ -1,0 +1,9 @@
+CON	Drinking
+INT	too
+QUC	much
+NOW	is
+EXS	bad
+REL	for
+HAS	your
+CON	health
+NIL	.

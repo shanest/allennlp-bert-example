@@ -1,0 +1,11 @@
+PER	Tom
+IST	probably
+PST	got
+EXS	tired
+AND	of
+EXS	waiting
+REL	for
+PER	Mary
+COO	and
+EPS	left
+NIL	.

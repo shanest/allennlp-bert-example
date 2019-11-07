@@ -1,0 +1,10 @@
+PER	Tom
+EPS	went
+IST	down
+REL	to
+DEF	the
+CON	lobby
+SUB	to
+EXS	meet
+PER	Mary
+NIL	.

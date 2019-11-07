@@ -1,0 +1,9 @@
+PRO	They
+EPS	called
+REL	for
+DIS	an
+CON	end
+REL	to
+DEF	the
+CON	fighting
+NIL	.

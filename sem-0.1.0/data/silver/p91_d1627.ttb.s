@@ -1,0 +1,11 @@
+PER	Tom
+NOW	has
+NOT	never
+EXS	been
+REL	in
+DIS	a
+CON	house
+AND	like
+PER	Mary
+HAS	's
+NIL	.

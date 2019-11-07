@@ -1,0 +1,13 @@
+NIL	"
+QUE	What
+CON	day
+NOW	is
+PRO	it
+QUE	?
+NIL	"
+NIL	"
+PRO	It
+HAS	's
+DOW	Wednesday
+NIL	.
+NIL	"

@@ -1,0 +1,10 @@
+PER	Tom
+NEC	should
+NOT	n't
+EXS	say
+CON	things
+AND	like
+AND	that
+REL	to
+PER	Mary
+NIL	.

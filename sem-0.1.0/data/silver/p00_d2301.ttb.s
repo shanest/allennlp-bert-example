@@ -1,0 +1,10 @@
+PRO	I
+PST	was
+EXS	distressed
+NIL	to
+EXS	see
+PER	Tom
+IST	so
+NOT	un
+EXS	happy
+NIL	.

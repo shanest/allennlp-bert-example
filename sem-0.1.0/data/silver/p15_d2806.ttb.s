@@ -1,0 +1,9 @@
+PRO	I
+PST	was
+IST	simply
+EXS	looking
+REL	for
+DIS	someone
+AND	like
+PRO	you
+NIL	.

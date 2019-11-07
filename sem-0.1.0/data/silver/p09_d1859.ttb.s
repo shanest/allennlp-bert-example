@@ -1,0 +1,12 @@
+DEF	The
+CON	floor
+PST	was
+EXS	painted
+COL	green
+NIL	,
+AND	while
+DEF	the
+CON	walls
+PST	were
+COL	yellow
+NIL	.

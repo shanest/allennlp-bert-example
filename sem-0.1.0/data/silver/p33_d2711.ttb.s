@@ -1,0 +1,10 @@
+PRO	He
+EPS	died
+QUC	seven
+CON	years
+PST	ago
+NIL	,
+PRX	this
+IST	very
+CON	night
+NIL	.

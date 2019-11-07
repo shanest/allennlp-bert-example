@@ -1,0 +1,9 @@
+PRO	I
+FUT	will
+NOT	never
+EXS	make
+AND	such
+DIS	a
+CON	mistake
+ALT	again
+NIL	.

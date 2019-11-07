@@ -1,0 +1,10 @@
+PRO	I
+PST	thought
+PER	Tom
+FUT	would
+EXT	have
+EXS	found
+PER	Mary
+REL	by
+NOW	now
+NIL	.

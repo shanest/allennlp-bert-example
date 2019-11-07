@@ -1,0 +1,12 @@
+QUE	How
+QUV	many
+CON	crew
+CON	members
+EPS	died
+REL	on
+DEF	the
+CON	submarine
+NIL	"
+PER	Emeraude
+NIL	"
+QUE	?

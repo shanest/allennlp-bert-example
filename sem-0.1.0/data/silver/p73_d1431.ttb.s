@@ -1,0 +1,12 @@
+PRO	She
+PST	looked
+AND	so
+INT	incredibly
+IST	sexy
+NIL	,
+PRO	it
+EPS	took
+HAS	his
+CON	breath
+IST	away
+NIL	.

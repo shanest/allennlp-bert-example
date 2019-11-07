@@ -1,0 +1,10 @@
+IMP	If
+PER	Tom
+ENS	wants
+HAS	our
+CON	help
+NIL	,
+PRO	he
+NEC	should
+EXS	call
+NIL	.

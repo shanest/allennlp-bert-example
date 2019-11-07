@@ -1,0 +1,12 @@
+HAS	His
+CON	parents
+PST	were
+INT	too
+EXS	poor
+SUB	to
+EXS	send
+HAS	their
+CON	son
+REL	to
+CON	college
+NIL	.

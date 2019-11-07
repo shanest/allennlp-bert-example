@@ -1,0 +1,9 @@
+AND	Everything
+REL	in
+DST	that
+CON	house
+EPS	revolved
+AND	upon
+PER	Aunt
+PER	Mary
+NIL	.

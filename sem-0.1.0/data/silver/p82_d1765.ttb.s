@@ -1,0 +1,11 @@
+PER	Tom
+EPS	said
+SUB	that
+NOT	nothing
+EXS	like
+SUB	that
+FUT	would
+IST	ever
+EXS	happen
+ALT	again
+NIL	.

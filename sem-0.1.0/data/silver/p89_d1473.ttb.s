@@ -1,0 +1,10 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	leave
+PRO	me
+PRX	here
+AND	alone
+REL	with
+PER	Tom
+NIL	.

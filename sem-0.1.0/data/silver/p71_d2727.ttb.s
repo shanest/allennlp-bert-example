@@ -1,0 +1,14 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+PRO	he
+NOW	has
+NOT	never
+EXS	made
+AND	such
+DIS	a
+CON	mistake
+NIL	.

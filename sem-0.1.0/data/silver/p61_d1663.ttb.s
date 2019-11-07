@@ -1,0 +1,10 @@
+AND	Suddenly
+NIL	,
+PER	Jack
+EPS	realized
+QUE	what
+PST	had
+EXS	happened
+REL	to
+PRO	him
+NIL	.

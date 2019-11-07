@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+QUE	why
+PRO	he
+EPS	put
+REL	off
+HAS	his
+CON	departure
+QUE	?

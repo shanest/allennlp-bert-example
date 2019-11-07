@@ -1,0 +1,13 @@
+PER	Tom
+PST	was
+EXS	supposed
+SUB	to
+EXS	buy
+CON	flowers
+REL	for
+PER	Mary
+NIL	,
+COO	but
+PRO	he
+EPS	forgot
+NIL	.

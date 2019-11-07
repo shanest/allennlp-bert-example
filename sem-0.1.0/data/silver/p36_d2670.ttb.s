@@ -1,0 +1,12 @@
+AND	Both
+HAS	your
+ROL	father
+COO	and
+PRO	I
+NOW	understand
+DEF	the
+CON	consequences
+AND	of
+HAS	your
+CON	decision
+NIL	.

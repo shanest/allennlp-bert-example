@@ -1,0 +1,9 @@
+PRO	I
+NOW	think
+PER	Tom
+NEC	should
+EXS	go
+REL	on
+DIS	a
+CON	diet
+NIL	.

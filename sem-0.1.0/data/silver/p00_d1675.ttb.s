@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	cut
+HAS	your
+CON	finger
+REL	with
+DIS	a
+CON	knife
+QUE	?

@@ -1,0 +1,14 @@
+REL	Since
+DEF	the
+CON	train
+PST	was
+EXS	crowded
+NIL	,
+PRO	I
+EPS	stood
+AND	all
+DEF	the
+CON	way
+REL	to
+GEO	Kyoto
+NIL	.

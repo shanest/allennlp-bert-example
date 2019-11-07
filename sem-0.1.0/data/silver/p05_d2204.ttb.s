@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	heard
+DEF	the
+GPO	French
+CON	version
+AND	of
+PRX	this
+CON	song
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	practice
+IST	still
+ENS	prevails
+IST	locally
+REL	in
+CON	parts
+AND	of
+GPE	Japan
+NIL	.

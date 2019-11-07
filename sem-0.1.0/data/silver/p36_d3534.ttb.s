@@ -1,0 +1,9 @@
+DEF	The
+CON	work
+PST	had
+PFT	been
+EXS	completed
+SUB	before
+PRO	I
+EPS	arrived
+NIL	.

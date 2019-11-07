@@ -1,0 +1,10 @@
+PER	Tom
+NEC	had
+SUB	to
+EXS	remind
+PER	Mary
+SUB	to
+EXS	feed
+DEF	the
+CON	dog
+NIL	.

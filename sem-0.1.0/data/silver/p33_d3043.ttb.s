@@ -1,0 +1,9 @@
+EXG	Giving
+IST	up
+CON	drinking
+REL	for
+DIS	a
+CON	year
+NOW	is
+EXS	healthy
+NIL	.

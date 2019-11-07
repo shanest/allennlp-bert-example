@@ -1,0 +1,13 @@
+DEF	The
+TOP	longest
+CON	lava
+CON	tube
+REL	in
+DEF	the
+CON	world
+NOW	is
+IST	located
+REL	in
+DEF	the
+GPE	Hawai'i
+NIL	.

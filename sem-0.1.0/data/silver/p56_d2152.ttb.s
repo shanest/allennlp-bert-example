@@ -1,0 +1,10 @@
+PRO	He
+EPS	married
+DIS	a
+CON	girl
+SUB	that
+PRO	he
+EPS	chose
+REL	for
+REF	himself
+NIL	.

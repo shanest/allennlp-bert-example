@@ -1,0 +1,10 @@
+PRO	I
+FUT	'll
+EXS	go
+NIL	,
+AND	even
+IMP	if
+PRO	it
+ENS	rains
+FUT	tomorrow
+NIL	.

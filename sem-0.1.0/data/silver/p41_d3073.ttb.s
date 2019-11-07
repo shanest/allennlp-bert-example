@@ -1,0 +1,10 @@
+NOW	Is
+PRX	this
+DEF	the
+IST	first
+CON	time
+PRO	you
+NOW	have
+EPS	tasted
+PRO	it
+QUE	?

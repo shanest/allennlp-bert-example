@@ -1,0 +1,10 @@
+REL	In
+AND	any
+CON	case
+PRO	you
+EPS	had
+IST	better
+EXS	obey
+HAS	your
+CON	parents
+NIL	.

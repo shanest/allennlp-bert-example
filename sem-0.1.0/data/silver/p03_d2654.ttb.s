@@ -1,0 +1,9 @@
+PRO	He
+EPS	suggested
+SUB	that
+PRO	we
+ENS	go
+REL	for
+DIS	a
+CON	swim
+NIL	.

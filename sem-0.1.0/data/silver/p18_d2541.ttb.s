@@ -1,0 +1,12 @@
+AND	How
+EXS	sad
+DEF	the
+IST	first
+CON	thing
+PRO	I
+EPS	noticed
+PST	was
+HAS	your
+IST	cute
+CON	shirt
+NIL	!

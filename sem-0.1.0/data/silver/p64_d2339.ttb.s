@@ -1,0 +1,16 @@
+PER	Emily
+ENS	has
+SUB	to
+EXS	buy
+DIS	a
+IST	new
+CON	swimsuit
+AND	because
+DEF	the
+IST	old
+CON	swimsuit
+NOW	has
+EXS	become
+IST	too
+IST	tight
+NIL	.

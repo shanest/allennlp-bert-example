@@ -1,0 +1,14 @@
+PRO	She
+EPS	asked
+PRO	him
+NIL	to
+EXS	stay
+NIL	,
+BUT	but
+PRO	he
+NEC	had
+NIL	to
+EXS	go
+REL	to
+EXS	work
+NIL	.

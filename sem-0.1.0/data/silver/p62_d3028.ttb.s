@@ -1,0 +1,11 @@
+PRO	He
+NOW	now
+PST	was
+DEF	sixty-eight
+CON	years
+COM	old
+AND	and
+DIS	a
+IST	sick
+CON	man
+NIL	.

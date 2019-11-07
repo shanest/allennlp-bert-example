@@ -1,0 +1,10 @@
+PER	Tom
+EPS	met
+PER	Mary
+REL	at
+DEF	the
+CON	top
+AND	of
+DEF	the
+CON	stairs
+NIL	.

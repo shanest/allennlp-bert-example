@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+PFT	been
+QUC	10
+CON	days
+REL	since
+HAS	my
+CON	boyfriend
+EPS	went
+REL	to
+CON	jail
+NIL	.

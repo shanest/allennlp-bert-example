@@ -1,0 +1,12 @@
+NOT	Never
+NOW	have
+INT	so
+QUC	many
+PFT	been
+EXS	manipulated
+AND	so
+QUC	much
+REL	by
+IST	so
+IST	few
+NIL	.

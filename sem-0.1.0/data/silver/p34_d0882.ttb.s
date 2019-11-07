@@ -1,0 +1,11 @@
+PRX	This
+CON	verb
+NOW	is
+IST	somewhat
+EXS	similar
+REL	to
+NIL	"
+SUB	to
+EXS	drink
+NIL	"
+NIL	.

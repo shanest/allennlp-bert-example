@@ -1,0 +1,10 @@
+HAS	Her
+CON	health
+NOW	has
+PFT	been
+EXG	declining
+PRX	these
+IST	past
+QUV	few
+CON	months
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	said
+PRO	he
+PST	did
+NOT	n't
+EXS	know
+QUE	why
+PER	Mary
+PST	was
+EXS	absent
+NIL	.

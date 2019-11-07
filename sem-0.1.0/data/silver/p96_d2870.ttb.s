@@ -1,0 +1,11 @@
+IST	New
+CON	buildings
+NOW	are
+EXS	being
+EXS	built
+PRX	here
+NIL	,
+UNK	there
+AND	and
+IST	everywhere
+NIL	.

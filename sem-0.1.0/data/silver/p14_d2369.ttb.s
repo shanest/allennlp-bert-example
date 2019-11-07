@@ -1,0 +1,10 @@
+REL	In
+DEF	the
+CON	morning
+NIL	,
+PRO	we
+EPS	put
+IST	away
+HAS	our
+CON	futons
+NIL	.

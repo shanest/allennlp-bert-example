@@ -1,0 +1,10 @@
+HAS	My
+CON	parents
+NOW	have
+EPS	kicked
+PRO	me
+AND	out
+AND	of
+DEF	the
+CON	house
+NIL	.

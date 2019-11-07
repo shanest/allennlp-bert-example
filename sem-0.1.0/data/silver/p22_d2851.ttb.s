@@ -1,0 +1,10 @@
+PER	Tom
+ENS	knows
+DIS	a
+CON	boy
+AND	who
+POS	can
+EXS	ride
+DIS	a
+CON	unicycle
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+PFT	been
+CON	friends
+REL	with
+PRO	him
+SUB	since
+PRO	we
+PST	were
+CON	children
+NIL	.

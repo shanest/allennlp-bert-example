@@ -1,0 +1,13 @@
+PRX	This
+CON	room
+NOW	is
+EXS	noisy
+NIL	.
+DEF	The
+CON	sound
+NOW	bounces
+EXS	right
+REL	off
+DEF	the
+CON	walls
+NIL	.

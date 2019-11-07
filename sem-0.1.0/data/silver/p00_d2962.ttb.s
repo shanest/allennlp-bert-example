@@ -1,0 +1,11 @@
+DEF	The
+CON	children
+EPS	started
+EXG	bouncing
+IST	up
+AND	and
+IST	down
+REL	on
+DEF	the
+CON	couch
+NIL	.

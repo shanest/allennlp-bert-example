@@ -1,0 +1,12 @@
+PER	Tom
+IST	sometimes
+ENS	calls
+PER	Mary
+AND	as
+QUC	many
+AND	as
+QUC	five
+CON	times
+DIS	a
+CON	day
+NIL	.

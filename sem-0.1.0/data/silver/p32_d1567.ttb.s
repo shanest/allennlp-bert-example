@@ -1,0 +1,12 @@
+NOW	Remind
+PRO	me
+ALT	again
+QUE	what
+PRO	we
+NOW	've
+PFT	been
+EXS	discussing
+IST	up
+REL	to
+NOW	now
+QUE	?

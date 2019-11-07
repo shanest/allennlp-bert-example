@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PRO	I
+NOW	've
+EXS	seen
+PRO	you
+AND	around
+PRX	here
+REL	before
+NIL	.

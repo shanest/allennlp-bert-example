@@ -1,0 +1,13 @@
+DEF	The
+CON	girl
+EPS	said
+SUB	that
+PRO	she
+PST	had
+NOT	never
+EXS	heard
+AND	of
+AND	such
+DIS	a
+CON	person
+NIL	.

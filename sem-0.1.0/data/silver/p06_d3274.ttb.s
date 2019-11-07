@@ -1,0 +1,11 @@
+PER	Tom
+FUT	will
+EXS	be
+EXT	evicted
+REL	at
+DEF	the
+CON	end
+AND	of
+DEF	the
+CON	month
+NIL	.

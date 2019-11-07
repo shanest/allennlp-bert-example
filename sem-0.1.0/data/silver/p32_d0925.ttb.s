@@ -1,0 +1,10 @@
+PRO	I
+NOW	hate
+PRO	it
+SUB	when
+HAS	my
+CON	clothes
+EXS	smell
+AND	of
+CON	smoke
+NIL	.

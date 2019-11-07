@@ -1,0 +1,9 @@
+PRO	I
+NEC	should
+NOT	n't
+EXT	have
+EXS	gotten
+IST	up
+INT	so
+IST	early
+NIL	.

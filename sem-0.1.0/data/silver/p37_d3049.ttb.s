@@ -1,0 +1,9 @@
+PRO	She
+NOW	's
+XCL	only
+IST	interested
+REL	in
+CON	fish
+AND	and
+CON	cockroaches
+NIL	.

@@ -1,0 +1,14 @@
+PER	Tom
+NOW	is
+DEF	the
+XCL	only
+CON	person
+PRO	I
+NOW	've
+IST	ever
+IST	really
+EXS	been
+REL	in
+CON	love
+REL	with
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+IST	old
+CON	doctor
+EPS	gave
+IST	individual
+CON	attention
+REL	to
+AND	each
+CON	patient
+NIL	.

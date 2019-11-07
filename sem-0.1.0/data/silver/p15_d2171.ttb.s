@@ -1,0 +1,12 @@
+PRO	He
+EPS	went
+REL	to
+GPE	Britain
+SUB	to
+EXS	deepen
+HAS	his
+CON	knowledge
+AND	of
+DEF	the
+CON	culture
+NIL	.

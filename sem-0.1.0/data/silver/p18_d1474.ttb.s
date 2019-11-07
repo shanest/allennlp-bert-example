@@ -1,0 +1,10 @@
+EXS	Tell
+PRO	her
+SUB	that
+PRO	I
+NOW	am
+IST	just
+EXS	joking
+REL	with
+PRO	her
+NIL	.

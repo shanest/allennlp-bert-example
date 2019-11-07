@@ -1,0 +1,11 @@
+QUE	What
+UOM	percent
+AND	of
+DEF	the
+CON	nation
+HAS	's
+CON	cheese
+NOW	does
+PER	Wisconsin
+EXS	produce
+QUE	?

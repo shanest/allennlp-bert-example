@@ -1,0 +1,14 @@
+NOW	Now
+PRX	this
+NOW	is
+DIS	something
+NIL	.
+QUE	What
+IST	wonderful
+CON	presents
+NIL	!
+PER	Boy
+NOW	am
+PRO	I
+EXS	happy
+NIL	!

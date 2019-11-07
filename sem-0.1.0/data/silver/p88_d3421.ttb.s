@@ -1,0 +1,12 @@
+PER	Tom
+EPS	promised
+PER	Mary
+SUB	that
+PRO	he
+PST	'd
+IST	always
+EXS	be
+EXS	faithful
+REL	to
+PRO	her
+NIL	.

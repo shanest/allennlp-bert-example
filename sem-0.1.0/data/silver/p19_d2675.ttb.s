@@ -1,0 +1,11 @@
+PER	Tom
+EPS	said
+PRO	he
+EPS	saw
+PER	Mary
+EXS	get
+REL	into
+PER	John
+HAS	's
+CON	car
+NIL	.

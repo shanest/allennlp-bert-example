@@ -1,0 +1,14 @@
+REL	In
+HAS	his
+CON	speech
+NIL	,
+PRO	he
+PST	cast
+NIL	aspersions
+REL	on
+AND	all
+CON	religions
+NOT	except
+HAS	his
+CON	own
+NIL	.

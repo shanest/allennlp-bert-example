@@ -1,0 +1,9 @@
+PRO	I
+EPS	found
+EXS	Tatoeba
+REL	on
+ORG	Google
+AND	and
+REL	by
+CON	accident
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+EXS	made
+IST	up
+HAS	my
+CON	mind
+SUB	to
+EXS	leave
+GPE	Japan
+NIL	.

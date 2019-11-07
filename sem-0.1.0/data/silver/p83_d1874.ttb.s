@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+COM	better
+SUB	to
+EXS	chill
+IST	white
+CON	wine
+REL	before
+PRO	you
+EXS	serve
+PRO	it
+NIL	.

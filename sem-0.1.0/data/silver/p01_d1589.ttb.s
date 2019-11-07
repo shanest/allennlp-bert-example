@@ -1,0 +1,14 @@
+SUB	When
+PRO	I
+EPS	failed
+NIL	,
+PRO	he
+EPS	said
+NIL	,
+NIL	"
+PRO	It
+NOW	serves
+PRO	you
+CON	right
+NIL	"
+NIL	.

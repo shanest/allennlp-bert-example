@@ -1,0 +1,11 @@
+PRO	I
+EPS	came
+IST	early
+REL	in
+CON	order
+NIL	to
+EXS	get
+DIS	a
+IST	good
+CON	seat
+NIL	.

@@ -1,0 +1,12 @@
+GPE	Japan
+NOW	is
+DIS	a
+CON	country
+EXS	surrounded
+REL	by
+DEF	the
+CON	sea
+REL	on
+AND	all
+CON	sides
+NIL	.

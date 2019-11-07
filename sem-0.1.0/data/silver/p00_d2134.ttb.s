@@ -1,0 +1,10 @@
+CON	Days
+ENS	go
+REL	by
+COO	and
+IST	still
+NOT	no
+EXS	sign
+REL	of
+PER	Tom
+NIL	.

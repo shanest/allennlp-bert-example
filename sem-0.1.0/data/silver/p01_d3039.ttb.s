@@ -1,0 +1,9 @@
+PRO	I
+ENS	wish
+PRO	I
+PST	'd
+PFT	been
+EXS	born
+DIS	a
+GPO	Canadian
+NIL	.

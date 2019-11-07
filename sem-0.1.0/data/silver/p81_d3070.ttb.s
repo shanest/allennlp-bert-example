@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	what
+PRO	I
+ENS	want
+SUB	to
+EXS	do
+ALT	yet
+NIL	.

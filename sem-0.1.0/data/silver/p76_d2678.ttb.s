@@ -1,0 +1,20 @@
+TIM	Yesterday
+NIL	,
+PRO	I
+EPS	talked
+REL	for
+QUC	3
+CON	hours
+REL	with
+HAS	my
+CON	boyfriend
+NIL	.
+PRO	We
+NOW	have
+NOT	n't
+EXS	seen
+REF	each other
+REL	for
+DIS	a
+CON	week
+NIL	.

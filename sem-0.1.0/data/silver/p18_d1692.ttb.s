@@ -1,0 +1,9 @@
+PRO	He
+EPS	gave
+PRO	us
+IST	quite
+DIS	a
+CON	lot
+AND	of
+CON	trouble
+NIL	.

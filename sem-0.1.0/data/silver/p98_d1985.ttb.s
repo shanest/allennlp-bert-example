@@ -1,0 +1,10 @@
+PER	Tom
+FUT	will
+EXS	do
+AND	everything
+PRO	he
+NOW	's
+EXS	asked
+SUB	to
+EXS	do
+NIL	.

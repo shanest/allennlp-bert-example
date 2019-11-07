@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+DEF	the
+CON	place
+SUB	where
+DEF	the
+CON	battle
+EPS	took
+CON	place
+NIL	.

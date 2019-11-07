@@ -1,0 +1,11 @@
+CON	Look
+REL	at
+DEF	the
+CON	book
+AND	which
+PRO	he
+EPS	put
+REL	on
+DEF	the
+CON	desk
+NIL	.

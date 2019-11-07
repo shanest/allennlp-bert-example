@@ -1,0 +1,16 @@
+APX	Roughly
+QUC	14
+UOM	%
+AND	of
+AND	all
+DEF	the
+IST	human
+CON	beings
+AND	that
+NOW	have
+IST	ever
+EXS	existed
+NOW	are
+EXS	alive
+NOW	today
+NIL	.

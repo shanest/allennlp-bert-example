@@ -1,0 +1,10 @@
+PRO	I
+FUT	'd
+EXS	love
+SUB	to
+EXS	see
+AND	inside
+PER	Tom
+HAS	's
+CON	house
+NIL	.

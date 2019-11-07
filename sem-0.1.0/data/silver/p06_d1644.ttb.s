@@ -1,0 +1,9 @@
+PRO	I
+NOW	speak
+GPO	French
+AND	as
+IST	well
+AND	as
+PER	Tom
+NOW	does
+NIL	.

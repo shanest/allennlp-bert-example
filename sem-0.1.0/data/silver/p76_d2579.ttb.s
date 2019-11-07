@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXS	going
+SUB	to
+EXS	ask
+PER	Mary
+SUB	to
+EXS	marry
+PRO	him
+NIL	.

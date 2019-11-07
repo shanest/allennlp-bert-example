@@ -1,0 +1,10 @@
+DEF	The
+CON	police
+EPS	found
+DEF	the
+ROL	politician
+IST	dead
+REL	in
+HAS	his
+CON	room
+NIL	.

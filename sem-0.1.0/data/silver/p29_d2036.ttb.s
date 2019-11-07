@@ -1,0 +1,12 @@
+PRO	He
+EPS	took
+CON	care
+AND	of
+DEF	the
+CON	children
+AND	while
+HAS	his
+CON	wife
+PST	was
+EXG	shopping
+NIL	.

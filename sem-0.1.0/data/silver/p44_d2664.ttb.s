@@ -1,0 +1,16 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	running
+AND	around
+DEF	the
+CON	office
+AND	like
+DIS	a
+CON	chicken
+REL	with
+HAS	its
+CON	head
+EPS	cut
+IST	off
+NIL	.

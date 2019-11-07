@@ -1,0 +1,13 @@
+PRO	I
+PST	was
+EXS	told
+REL	by
+HAS	my
+CON	teacher
+SUB	to
+EXS	hand
+HAS	my
+CON	homework
+REL	by
+DOW	Friday
+NIL	.

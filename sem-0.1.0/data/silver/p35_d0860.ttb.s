@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	feeling
+IST	poorly
+REL	for
+DEF	the
+IST	last
+CON	couple
+AND	of
+CON	days
+NIL	.

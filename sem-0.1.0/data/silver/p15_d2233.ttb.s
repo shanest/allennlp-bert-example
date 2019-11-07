@@ -1,0 +1,10 @@
+PRO	I
+EPS	used
+SUB	to
+EXS	feed
+HAS	my
+CON	dog
+QUC	twice
+DIS	a
+CON	day
+NIL	.

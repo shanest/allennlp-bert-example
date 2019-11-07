@@ -1,0 +1,16 @@
+PRO	I
+EPS	got
+IST	up
+REL	at
+CLO	4:00
+NIL	,
+EPS	ate
+DIS	some
+CON	food
+NIL	,
+AND	then
+EPS	went
+IST	back
+SUB	to
+EXS	sleep
+NIL	.

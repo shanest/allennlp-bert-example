@@ -1,0 +1,12 @@
+NOT	No
+CON	keyboard
+NOW	has
+PFT	been
+EXS	found
+NIL	.
+IST	Please
+CON	press
+NIL	F1
+SUB	to
+EXS	continue
+NIL	.

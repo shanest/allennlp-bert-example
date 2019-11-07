@@ -1,0 +1,11 @@
+GPO	American
+CON	forces
+EPS	announced
+DEF	the
+CON	completion
+AND	of
+HAS	their
+CON	mission
+REL	in
+GPE	Iraq
+NIL	.

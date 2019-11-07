@@ -1,0 +1,13 @@
+IST	Simply
+EPS	put
+NIL	,
+DIS	a
+IST	human
+EXS	being
+NOW	is
+DIS	an
+IST	aggregate
+AND	of
+QUV	many
+CON	cells
+NIL	.

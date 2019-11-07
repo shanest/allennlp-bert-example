@@ -1,0 +1,10 @@
+PRO	I
+ALT	also
+EXS	like
+EXG	listening
+REL	to
+CON	music
+REL	on
+DEF	the
+CON	radio
+NIL	.

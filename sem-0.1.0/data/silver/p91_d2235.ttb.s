@@ -1,0 +1,11 @@
+PRO	He
+IST	always
+ENS	says
+NIL	"
+GRE	Hello
+NIL	"
+SUB	when
+PRO	I
+NOW	see
+PRO	him
+NIL	.

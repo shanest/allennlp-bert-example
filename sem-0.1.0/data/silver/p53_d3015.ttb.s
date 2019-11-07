@@ -1,0 +1,12 @@
+DST	That
+NOW	is
+DEF	the
+CON	sort
+AND	of
+CON	job
+PRO	I
+NOW	am
+EXS	cut
+IST	out
+REL	for
+NIL	.

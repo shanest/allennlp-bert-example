@@ -1,0 +1,12 @@
+IST	Most
+CON	people
+FUT	will
+EXS	refuse
+SUB	to
+EXS	admit
+PRO	they
+NOW	've
+EXS	made
+DIS	a
+CON	mistake
+NIL	.

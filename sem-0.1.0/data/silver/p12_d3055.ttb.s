@@ -1,0 +1,17 @@
+SUB	When
+DEF	the
+CON	police
+EPS	stopped
+PRO	him
+REL	for
+CON	questioning
+NIL	,
+PER	Tom
+EPS	tried
+SUB	to
+EXS	make
+DIS	a
+EXS	run
+REL	for
+PRO	it
+NIL	.

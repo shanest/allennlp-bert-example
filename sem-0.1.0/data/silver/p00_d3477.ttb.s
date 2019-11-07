@@ -1,0 +1,9 @@
+PRO	I
+ENS	hope
+PRO	you
+FUT	wo
+NOT	n't
+EXS	expect
+CON	results
+IST	immediately
+NIL	.

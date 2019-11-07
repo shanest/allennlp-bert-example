@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+IST	able
+SUB	to
+EXS	afford
+DEF	the
+CON	time
+REL	for
+PRO	it
+QUE	?

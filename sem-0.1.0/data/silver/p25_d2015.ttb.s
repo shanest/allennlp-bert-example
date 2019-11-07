@@ -1,0 +1,13 @@
+PRO	It
+HAS	's
+EXS	confirmed
+PRO	they
+NOW	're
+EXS	donating
+CON	rice
+REL	to
+DEF	the
+CON	orphanage
+AND	next
+CON	week
+NIL	.

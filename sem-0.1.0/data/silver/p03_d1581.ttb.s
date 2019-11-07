@@ -1,0 +1,14 @@
+DEF	The
+CON	house
+HAS	whose
+CON	roof
+PRO	you
+ENS	see
+AND	beyond
+DEF	the
+CON	bank
+NOW	is
+ROL	Mr
+PER	Suzuki
+HAS	's
+NIL	.

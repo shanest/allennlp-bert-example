@@ -1,0 +1,11 @@
+DST	That
+HAS	's
+DEF	the
+CON	friend
+REL	to
+UNK	whom
+PRO	I
+EPS	gave
+DEF	the
+CON	key
+NIL	.

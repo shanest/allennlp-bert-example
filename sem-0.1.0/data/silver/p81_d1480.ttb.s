@@ -1,0 +1,10 @@
+NOW	Has
+PER	Bob
+EPS	left
+DEF	the
+CON	company
+REL	for
+IST	good
+PRX	this
+CON	time
+QUE	?

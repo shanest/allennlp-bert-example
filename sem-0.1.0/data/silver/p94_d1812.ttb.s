@@ -1,0 +1,13 @@
+AND	Why
+PST	did
+NOT	n't
+PRO	you
+EXS	try
+DEF	the
+CON	dress
+REL	on
+SUB	before
+PRO	you
+EPS	bought
+PRO	it
+QUE	?

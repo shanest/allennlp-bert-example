@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+NOT	not
+DIS	a
+IST	good
+CON	idea
+SUB	to
+EXS	pick
+IST	up
+ROL	hitchhikers
+NIL	.

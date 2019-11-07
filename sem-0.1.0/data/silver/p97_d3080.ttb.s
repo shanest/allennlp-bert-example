@@ -1,0 +1,11 @@
+PRO	We
+EPS	watched
+DEF	the
+EXS	changing
+AND	of
+DEF	the
+CON	guard
+REL	at
+GEO	Buckingham
+CON	palace
+NIL	.

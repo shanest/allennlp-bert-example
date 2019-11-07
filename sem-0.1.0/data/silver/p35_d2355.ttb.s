@@ -1,0 +1,10 @@
+PRO	She
+PST	was
+IST	anxious
+SUB	to
+EXS	know
+DEF	the
+CON	entrance
+CON	exam
+CON	results
+NIL	.

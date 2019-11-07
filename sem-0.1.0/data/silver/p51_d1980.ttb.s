@@ -1,0 +1,10 @@
+PRX	This
+CON	bamboo
+NOW	is
+INT	too
+EXS	thin
+SUB	to
+EXS	bear
+QUC	much
+CON	weight
+NIL	.

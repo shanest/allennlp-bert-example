@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+PER	Mary
+HAS	's
+CON	turn
+SUB	to
+EXS	wash
+DEF	the
+CON	dishes
+NIL	.

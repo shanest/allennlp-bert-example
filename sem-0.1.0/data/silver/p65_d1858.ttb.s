@@ -1,0 +1,9 @@
+PER	Tom
+EPS	asked
+PRO	me
+SUB	to
+EXS	take
+CON	care
+AND	of
+PER	Mary
+NIL	.

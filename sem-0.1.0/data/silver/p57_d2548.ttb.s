@@ -1,0 +1,11 @@
+PER	Tom
+PST	was
+NOT	n't
+IST	aware
+SUB	that
+PER	Mary
+PST	had
+IST	already
+EXS	gone
+CON	home
+NIL	.

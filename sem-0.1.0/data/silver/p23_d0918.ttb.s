@@ -1,0 +1,10 @@
+AND	Normally
+NIL	,
+PRO	we
+NOW	do
+NOT	n't
+EXS	do
+DST	that
+REL	in
+GPE	Spain
+NIL	.

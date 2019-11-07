@@ -1,0 +1,12 @@
+NOW	Today
+PRO	I
+IST	just
+NOW	feel
+AND	like
+EXS	staying
+REL	at
+CON	home
+AND	and
+EXG	doing
+NOT	nothing
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+INT	so
+EXS	funny
+SUB	to
+EXS	speak
+REL	in
+INT	so
+QUC	many
+CON	languages
+NIL	.

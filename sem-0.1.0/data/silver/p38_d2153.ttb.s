@@ -1,0 +1,9 @@
+PRO	She
+EPS	shut
+DEF	the
+CON	book
+COO	and
+EXS	closed
+HAS	her
+CON	eyes
+NIL	.

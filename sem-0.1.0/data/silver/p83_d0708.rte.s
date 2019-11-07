@@ -1,0 +1,36 @@
+DIS	A
+CON	poll
+EXS	conducted
+REL	by
+ORG	Newsweek
+AND	following
+DEF	the
+ORG	Republican
+ORG	National Convention
+EPS	showed
+SUB	that
+ROL	President
+PER	Bill
+PER	Clinton
+PST	had
+QUC	44
+UOM	percent
+CON	support
+NIL	,
+PER	Dole
+EPS	received
+INT	42
+UOM	percent
+AND	and
+DEF	the
+CON	candidate
+EXS	nominated
+REL	by
+PER	Perot
+HAS	's
+CON	Reform Party
+EPS	received
+XCL	only
+QUC	3
+UOM	percent
+NIL	.

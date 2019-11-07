@@ -1,0 +1,9 @@
+QUV	Many
+ROL	drivers
+EPS	abandoned
+HAS	their
+CON	cars
+REL	in
+DEF	the
+CON	snow
+NIL	.

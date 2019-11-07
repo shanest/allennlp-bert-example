@@ -1,0 +1,10 @@
+DEF	The
+CON	truth
+EPS	was
+SUB	that
+PRO	he
+PST	was
+IST	already
+REL	in
+CON	love
+NIL	.

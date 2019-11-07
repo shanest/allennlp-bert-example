@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+PER	Tom
+MOR	better
+AND	than
+PRO	he
+ENS	knows
+REF	himself
+NIL	.

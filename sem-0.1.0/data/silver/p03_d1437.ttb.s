@@ -1,0 +1,14 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	do
+NOT	n't
+EXS	get
+AND	along
+SUB	because
+PRO	they
+NOW	have
+NOT	nothing
+REL	in
+IST	common
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	know
+QUE	what
+PRO	you
+NOW	see
+IST	right
+NOW	now
+NIL	.

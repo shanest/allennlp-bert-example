@@ -1,0 +1,12 @@
+PER	Maria
+AND	and
+PER	Natalia
+ENS	go
+CON	shopping
+NIL	.
+PRO	They
+NOW	buy
+DIS	something
+REL	for
+REF	themselves
+NIL	.

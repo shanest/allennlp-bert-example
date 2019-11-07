@@ -1,0 +1,13 @@
+PER	Tom
+EPS	put
+DEF	the
+IST	new
+CON	tablecloth
+PRO	he
+PST	had
+IST	just
+EXS	bought
+REL	on
+DEF	the
+CON	table
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+EPS	made
+IST	up
+HAS	my
+CON	mind
+SUB	to
+EXS	study
+COM	harder
+NIL	.

@@ -1,0 +1,16 @@
+PRO	You
+POS	can
+EXS	open
+HAS	your
+CON	eyes
+NIL	.
+PRO	I
+ENS	know
+PRO	you
+NOW	're
+IST	just
+EXS	pretending
+SUB	to
+EXS	be
+EXS	asleep
+NIL	.

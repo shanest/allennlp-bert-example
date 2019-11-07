@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+DIS	a
+CON	drawer
+IST	full
+AND	of
+CON	letters
+REL	from
+PER	Mary
+NIL	.

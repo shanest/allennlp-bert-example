@@ -1,0 +1,16 @@
+AND	During
+DEF	the
+ORD	15th
+CON	century
+NIL	,
+DEF	the
+ORG	Ryukyu
+ORG	Kingdom
+PST	was
+DIS	a
+IST	tributary
+CON	state
+AND	of
+ORG	Imperial
+GPE	China
+NIL	.

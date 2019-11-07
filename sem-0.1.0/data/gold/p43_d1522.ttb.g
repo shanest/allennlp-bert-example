@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	asked
+PER	John
+NIL	to
+EXS	babysit
+HAS	their
+CON	children
+NIL	.

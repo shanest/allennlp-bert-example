@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	currently
+EXS	working
+REL	at
+DEF	the
+CON	school
+AND	as
+DIS	a
+CON	teacher
+NIL	.

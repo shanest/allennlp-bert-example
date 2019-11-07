@@ -1,0 +1,10 @@
+IMP	If
+PRO	you
+ENS	need
+EXS	help
+NIL	,
+PRO	I
+POS	can
+EXS	help
+PRO	you
+NIL	.

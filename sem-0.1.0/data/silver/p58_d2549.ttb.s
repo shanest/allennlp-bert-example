@@ -1,0 +1,12 @@
+GEO	Japan
+NOW	today
+NOW	is
+NOT	not
+QUE	what
+PRO	it
+PST	was
+AND	even
+QUC	ten
+CON	years
+PST	ago
+NIL	.

@@ -1,0 +1,13 @@
+PST	Did
+PRO	you
+EXS	know
+SUB	that
+DEF	the
+CON	star
+AND	nearest
+SUB	to
+GEO	Earth
+NOW	is
+DEF	the
+CON	Sun
+QUE	?

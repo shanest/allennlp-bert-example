@@ -1,0 +1,14 @@
+PRO	It
+NOW	's
+EXS	getting
+MOR	more
+AND	and
+MOR	more
+IST	shadowy
+EQU	,
+IST	soon
+PRO	it
+FUT	will
+EXS	be
+CON	twilight
+NIL	.

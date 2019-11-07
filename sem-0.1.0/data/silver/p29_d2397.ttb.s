@@ -1,0 +1,13 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	go
+REL	to
+GPE	Australia
+QUC	once
+ALT	again
+REL	before
+HAS	my
+CON	passport
+CON	expires
+NIL	.

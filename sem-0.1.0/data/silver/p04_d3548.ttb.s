@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	like
+PER	Mary
+HAS	's
+IST	new
+HAP	Halloween
+CON	costume
+QUE	?

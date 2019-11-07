@@ -1,0 +1,9 @@
+CON	Cats
+ENS	love
+SUB	to
+EXS	run
+REL	after
+CON	balls
+AND	of
+CON	wool
+NIL	.

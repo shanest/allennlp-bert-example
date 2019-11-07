@@ -1,0 +1,12 @@
+QUE	Where
+NEC	shall
+PRO	we
+EXS	go
+NOW	now
+QUE	?
+REL	To
+DEF	the
+CON	theatre
+DIS	or
+CON	cinema
+QUE	?

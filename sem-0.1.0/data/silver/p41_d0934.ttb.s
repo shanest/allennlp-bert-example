@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	live
+HAS	my
+CON	life
+NIL	,
+REL	with
+DIS	or
+NOT	without
+PRO	her
+NIL	.

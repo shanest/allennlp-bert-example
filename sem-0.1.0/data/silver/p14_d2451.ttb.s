@@ -1,0 +1,12 @@
+PRO	I
+ENS	know
+IST	quite
+DIS	a
+IST	few
+CON	people
+AND	who
+NOW	do
+NOT	n't
+EXS	eat
+CON	meat
+NIL	.

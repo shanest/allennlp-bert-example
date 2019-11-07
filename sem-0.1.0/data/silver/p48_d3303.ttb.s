@@ -1,0 +1,10 @@
+PRO	I
+EPS	met
+PRO	her
+REL	in
+DEF	the
+CON	winter
+AND	of
+IST	last
+CON	year
+NIL	.

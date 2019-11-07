@@ -1,0 +1,14 @@
+PRX	This
+CON	sentence
+ENS	allows
+REL	for
+IST	multiple
+CON	interpretations
+SUB	that
+PRO	I
+ENS	need
+SUB	to
+EXS	consider
+SUB	when
+EXS	translating
+NIL	.

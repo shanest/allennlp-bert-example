@@ -1,0 +1,14 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	find
+DEF	the
+IST	right
+CON	words
+SUB	to
+EXS	describe
+HAS	his
+CON	feelings
+REL	for
+PER	Mary
+NIL	.

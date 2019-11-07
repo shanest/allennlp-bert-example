@@ -1,0 +1,9 @@
+PER	Tom
+EPS	trained
+HAS	his
+CON	dog
+NIL	to
+EXS	jump
+LES	through
+CON	hoops
+NIL	.

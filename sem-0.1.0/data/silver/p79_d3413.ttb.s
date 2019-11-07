@@ -1,0 +1,10 @@
+PER	Tom
+ENS	wants
+HAS	his
+ROL	father
+SUB	to
+EXS	buy
+PRO	him
+DIS	a
+CON	pony
+NIL	.

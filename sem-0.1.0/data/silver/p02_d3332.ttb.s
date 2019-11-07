@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+AND	always
+EPS	wanted
+SUB	to
+EXS	try
+SUB	to
+EXS	learn
+GPO	French
+NIL	.

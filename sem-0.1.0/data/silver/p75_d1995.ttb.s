@@ -1,0 +1,14 @@
+AND	Last
+TIM	night
+NIL	,
+PRO	I
+EPS	fell
+EXS	asleep
+SUB	while
+EXS	talking
+REL	with
+PER	Mary
+REL	on
+DEF	the
+CON	phone
+NIL	.

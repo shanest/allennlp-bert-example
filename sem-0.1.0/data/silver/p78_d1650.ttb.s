@@ -1,0 +1,10 @@
+PER	Tom
+EPS	put
+DEF	the
+CON	engagement
+CON	ring
+REL	on
+PER	Mary
+HAS	's
+CON	finger
+NIL	.

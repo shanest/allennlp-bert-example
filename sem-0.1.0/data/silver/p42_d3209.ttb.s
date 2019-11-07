@@ -1,0 +1,11 @@
+ITJ	Hey
+NIL	,
+NOW	is
+SUB	that
+DIS	a
+IST	demonic
+CON	duck
+AND	of
+DIS	some
+CON	sort
+QUE	?

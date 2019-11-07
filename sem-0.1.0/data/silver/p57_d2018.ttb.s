@@ -1,0 +1,12 @@
+DEF	The
+IST	basic
+CON	question
+NOW	is
+NIL	,
+QUE	what
+CON	vision
+NOW	do
+PRO	you
+EXS	aspire
+REL	to
+QUE	?

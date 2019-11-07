@@ -1,0 +1,10 @@
+PER	Taninna
+ENS	goes
+REL	to
+DEF	the
+CON	library
+AND	and
+CON	studies
+AND	every
+CON	day
+NIL	.

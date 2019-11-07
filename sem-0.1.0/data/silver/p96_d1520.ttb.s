@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+INT	almost
+EXS	clear
+SUB	that
+REL	in
+GEO	Madrid
+UNK	there
+HAS	's
+DIS	a
+CON	time
+CON	zone
+NIL	!

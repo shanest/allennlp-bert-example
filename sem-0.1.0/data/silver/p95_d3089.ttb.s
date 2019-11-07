@@ -1,0 +1,10 @@
+REL	In
+DIS	a
+CON	museum
+PRO	I
+EPS	saw
+DIS	a
+INT	very
+IST	old
+CON	hourglass
+NIL	.

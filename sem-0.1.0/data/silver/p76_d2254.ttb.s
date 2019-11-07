@@ -1,0 +1,13 @@
+REL	From
+NOW	now
+REL	on
+NIL	,
+PRO	I
+FUT	'll
+XCL	only
+EXS	submit
+IST	sensible
+CON	sentences
+REL	to
+PRX	Tatoeba
+NIL	.

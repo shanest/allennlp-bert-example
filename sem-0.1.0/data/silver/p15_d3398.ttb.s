@@ -1,0 +1,13 @@
+ORG	Great
+CON	scholar
+SUB	as
+PRO	he
+NOW	is
+NIL	,
+PRO	he
+NOW	is
+EXG	lacking
+REL	in
+IST	common
+CON	sense
+NIL	.

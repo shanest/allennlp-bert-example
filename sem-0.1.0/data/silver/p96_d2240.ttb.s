@@ -1,0 +1,11 @@
+PRX	This
+CON	person
+NOW	seems
+IST	well
+EXS	acquainted
+REL	with
+DEF	the
+CON	history
+AND	of
+GPE	Japan
+NIL	.

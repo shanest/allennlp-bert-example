@@ -1,0 +1,13 @@
+REL	In
+CON	tears
+NIL	,
+PRO	she
+EPS	tore
+IST	up
+HAS	his
+CON	letter
+COO	and
+EPS	threw
+PRO	it
+IST	away
+NIL	.

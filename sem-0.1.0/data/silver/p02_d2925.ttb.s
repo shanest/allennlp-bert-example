@@ -1,0 +1,10 @@
+NOW	Is
+PRO	he
+EXG	speaking
+GPO	English
+EQU	,
+GPO	French
+EQU	,
+DIS	or
+GPO	German
+QUE	?

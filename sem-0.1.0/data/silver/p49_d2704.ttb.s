@@ -1,0 +1,10 @@
+PER	Tom
+EPS	told
+PER	Mary
+QUE	what
+PRO	he
+IST	really
+EPS	thought
+AND	of
+PRO	her
+NIL	.

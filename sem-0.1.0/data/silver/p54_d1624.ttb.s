@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+HAS	my
+ROL	sister
+NOW	is
+EXS	beautiful
+NIL	.

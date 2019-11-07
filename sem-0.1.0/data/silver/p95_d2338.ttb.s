@@ -1,0 +1,12 @@
+AND	All
+AND	of
+DIS	a
+CON	sudden
+NIL	,
+PRO	I
+EPS	realized
+PRO	I
+NEC	must
+EXS	learn
+GPO	Polish
+NIL	.

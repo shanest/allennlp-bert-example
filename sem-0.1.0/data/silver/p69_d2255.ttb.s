@@ -1,0 +1,10 @@
+DEF	Linux
+CON	experts
+NOW	are
+IST	able
+SUB	to
+EXS	use
+DEF	the
+CON	command
+CON	line
+NIL	.

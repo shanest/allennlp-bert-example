@@ -1,0 +1,14 @@
+PRO	He
+EPS	held
+IST	off
+EXS	paying
+REL	for
+DEF	the
+CON	television
+EXS	set
+REL	until
+DEF	the
+CON	dealer
+EPS	fixed
+PRO	it
+NIL	.

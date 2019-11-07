@@ -1,0 +1,15 @@
+NOT	No
+CON	one
+POS	can
+EXS	say
+REL	for
+IST	sure
+QUE	how
+PRX	this
+IST	awkward
+CON	state
+AND	of
+CON	affairs
+EPS	came
+IST	about
+NIL	.

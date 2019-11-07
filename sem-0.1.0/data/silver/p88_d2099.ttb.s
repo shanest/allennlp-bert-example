@@ -1,0 +1,13 @@
+PER	Tom
+ENS	says
+PRO	he
+ENS	needs
+SUB	to
+EXS	ask
+PER	Mary
+SUB	where
+PRO	she
+EPS	put
+HAS	his
+CON	camera
+NIL	.

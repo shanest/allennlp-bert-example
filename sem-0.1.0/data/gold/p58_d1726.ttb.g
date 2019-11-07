@@ -1,0 +1,9 @@
+HAS	My
+ROL	parents
+EPS	forbade
+PRO	me
+NIL	to
+EXS	see
+PER	Tom
+ALT	again
+NIL	.

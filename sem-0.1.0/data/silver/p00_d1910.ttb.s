@@ -1,0 +1,9 @@
+PRO	We
+NEC	should
+EXS	tell
+CON	children
+QUE	how
+NIL	to
+EXS	protect
+REF	themselves
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+REL	on
+HAS	their
+CON	way
+AND	here
+NOW	now
+NIL	.

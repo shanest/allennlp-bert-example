@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+INT	very
+EXS	picky
+REL	about
+QUE	what
+PRO	he
+ENS	eats
+NIL	.

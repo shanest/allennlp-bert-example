@@ -1,0 +1,13 @@
+PRO	It
+PST	was
+REL	in
+PRX	this
+CON	room
+SUB	that
+PRO	we
+PST	had
+DEF	the
+CON	meeting
+AND	last
+DOW	Friday
+NIL	.

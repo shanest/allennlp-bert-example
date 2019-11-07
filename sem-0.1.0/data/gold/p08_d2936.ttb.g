@@ -1,0 +1,9 @@
+PER	Tom
+EPS	picked
+REL	up
+DIS	a
+CON	rock
+COO	and
+EPS	threw
+PRO	it
+NIL	.

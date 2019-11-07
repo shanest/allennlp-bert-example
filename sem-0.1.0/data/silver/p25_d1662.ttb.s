@@ -1,0 +1,9 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	take
+AND	any
+CON	calls
+AND	right
+NOW	now
+NIL	.

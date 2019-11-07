@@ -1,0 +1,13 @@
+DEF	The
+CON	magazine
+CON	article
+EPS	said
+SUB	that
+DEF	the
+CON	value
+AND	of
+DEF	the
+UOM	yen
+FUT	would
+EXS	rise
+NIL	.

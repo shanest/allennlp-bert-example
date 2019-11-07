@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	supposed
+SUB	to
+EXS	be
+PRX	here
+REL	by
+NOW	now
+NIL	.

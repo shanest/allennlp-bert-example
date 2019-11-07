@@ -1,0 +1,12 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	tell
+DIS	anyone
+QUE	what
+CON	time
+PRO	I
+PST	'd
+EXS	be
+EXG	arriving
+NIL	.

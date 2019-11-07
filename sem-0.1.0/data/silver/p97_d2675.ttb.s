@@ -1,0 +1,12 @@
+PER	Tom
+ENS	has
+SUB	to
+EXS	meet
+PER	Mary
+REL	in
+DEF	the
+CON	park
+FUT	tomorrow
+REL	at
+CLO	2:30
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+AND	always
+EPS	said
+PRO	he
+EPS	wanted
+SUB	to
+EXS	learn
+QUE	how
+SUB	to
+EXS	play
+CON	mahjong
+NIL	.

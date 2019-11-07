@@ -1,0 +1,10 @@
+DEF	The
+IST	commanding
+CON	officer
+EPS	led
+HAS	his
+CON	army
+REL	into
+ROL	enemy
+CON	territory
+NIL	.

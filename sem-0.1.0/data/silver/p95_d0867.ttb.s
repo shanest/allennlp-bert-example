@@ -1,0 +1,11 @@
+UNK	There
+HAS	's
+NOT	not
+DIS	a
+IST	single
+IST	safe
+CON	place
+CON	anymore
+REL	in
+GPE	Japan
+NIL	.

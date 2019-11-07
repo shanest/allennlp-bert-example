@@ -1,0 +1,9 @@
+REL	In
+IST	ancient
+CON	times
+NIL	,
+ENS	plagues
+EPS	killed
+QUV	many
+CON	people
+NIL	.

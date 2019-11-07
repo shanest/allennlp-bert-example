@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+QUC	much
+MOR	safer
+SUB	to
+EXS	be
+EXS	feared
+AND	than
+EXS	loved
+NIL	.

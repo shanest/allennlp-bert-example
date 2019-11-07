@@ -1,0 +1,10 @@
+AND	Now
+PRO	we
+NOW	are
+IST	better
+IST	able
+SUB	to
+EXS	understand
+HAS	their
+CON	motive
+NIL	.

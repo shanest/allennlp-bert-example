@@ -1,0 +1,11 @@
+PRO	They
+ENS	sleep
+REL	in
+IST	separate
+CON	bedrooms
+AND	even
+SUB	though
+PRO	they
+NOW	're
+EXS	married
+NIL	.

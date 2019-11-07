@@ -1,0 +1,16 @@
+AND	Could
+PRO	I
+NOW	get
+DIS	some
+IST	temporary
+CON	treatment
+SUB	because
+PRO	I
+FUT	'll
+EXS	be
+EXS	going
+IST	back
+REL	to
+GPE	Japan
+IST	soon
+QUE	?

@@ -1,0 +1,9 @@
+QUE	Which
+GPO	British
+IST	prime
+CON	minister
+EPS	visited
+GPE	South-Africa
+REL	in
+YOC	1960
+QUE	?

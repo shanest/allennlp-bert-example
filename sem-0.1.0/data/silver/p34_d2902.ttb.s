@@ -1,0 +1,11 @@
+PRO	I
+FUT	will
+EXS	be
+EXS	seeing
+HAS	her
+ALT	again
+QUC	one
+AND	of
+PRX	these
+CON	days
+NIL	.

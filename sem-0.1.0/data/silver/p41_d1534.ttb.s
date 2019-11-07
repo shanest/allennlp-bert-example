@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	thinking
+DIS	a
+CON	lot
+AND	about
+PER	Tom
+IST	lately
+NIL	.

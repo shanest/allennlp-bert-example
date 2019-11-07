@@ -1,0 +1,9 @@
+PRO	They
+NOW	're
+EXS	young
+NIL	,
+BUT	but
+PRO	they
+NOW	have
+CON	experience
+NIL	.

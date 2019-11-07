@@ -1,0 +1,15 @@
+PRO	She
+HAS	's
+PFT	been
+EXS	dropping
+DIS	some
+IST	not-so-subtle
+CON	hints
+AND	about
+QUE	what
+PRO	she
+FUT	would
+EXS	like
+REL	for
+TIM	Christmas
+NIL	.

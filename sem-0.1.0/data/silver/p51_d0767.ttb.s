@@ -1,0 +1,17 @@
+PRO	It
+NOW	is
+EXS	inevitable
+SUB	that
+PRO	I
+ENS	go
+REL	to
+GEO	France
+IST	someday
+NIL	,
+PRO	I
+IST	just
+NOW	do
+NOT	n't
+EXS	know
+SUB	when
+NIL	.

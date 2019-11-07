@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+FUT	will
+EXS	take
+EXS	care
+AND	of
+PER	John
+NIL	.

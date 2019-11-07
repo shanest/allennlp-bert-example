@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	trying
+SUB	to
+EXS	solve
+PRX	this
+CON	problem
+REL	for
+CON	hours
+NIL	.

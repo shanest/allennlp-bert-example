@@ -1,0 +1,9 @@
+AND	Would
+PRO	you
+ENS	like
+SUB	to
+EXS	have
+DIS	some
+CON	cigarettes
+ALT	too
+QUE	?

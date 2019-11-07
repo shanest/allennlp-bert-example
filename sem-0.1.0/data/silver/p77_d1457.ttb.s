@@ -1,0 +1,12 @@
+PRO	He
+HAS	's
+DIS	a
+IST	good
+ROL	actor
+COO	and
+PRO	he
+NOW	's
+IST	really
+EXS	cute
+ALT	too
+NIL	!

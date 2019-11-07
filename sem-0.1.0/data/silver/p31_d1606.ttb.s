@@ -1,0 +1,12 @@
+SUB	When
+PER	Mary
+PST	was
+DIS	a
+CON	child
+NIL	,
+HAS	her
+CON	family
+PST	was
+CON	dirt
+CON	poor
+NIL	.

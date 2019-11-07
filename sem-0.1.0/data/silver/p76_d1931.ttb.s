@@ -1,0 +1,14 @@
+PRO	It
+HAS	's
+EXS	been
+DIS	a
+IST	long
+CON	time
+SUB	since
+PRO	we
+NOW	've
+EXS	had
+AND	such
+IST	nice
+CON	weather
+NIL	.

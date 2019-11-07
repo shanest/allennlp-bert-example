@@ -1,0 +1,9 @@
+QUE	What
+PRO	he
+NOW	is
+EXS	saying
+NOW	does
+NOT	n't
+EXS	make
+CON	sense
+NIL	.

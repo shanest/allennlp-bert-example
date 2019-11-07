@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+REL	in
+DIS	a
+CON	bind
+AND	as
+HAS	my
+CON	money
+NOW	has
+PFT	been
+EXS	stolen
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	promised
+PER	Mary
+SUB	that
+PRO	he
+FUT	would
+NOT	n't
+EXS	tell
+DIS	anybody
+NIL	.

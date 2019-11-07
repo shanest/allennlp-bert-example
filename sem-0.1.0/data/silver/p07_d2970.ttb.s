@@ -1,0 +1,9 @@
+DEF	The
+CON	demand
+REL	for
+CON	rice
+REL	in
+GPE	Japan
+NOW	is
+IST	considerable
+NIL	.

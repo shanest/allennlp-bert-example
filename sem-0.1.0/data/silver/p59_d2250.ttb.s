@@ -1,0 +1,11 @@
+DEF	The
+CON	election
+EPS	gave
+DEF	the
+CON	party
+DIS	a
+CON	role
+REL	in
+DEF	the
+CON	government
+NIL	.

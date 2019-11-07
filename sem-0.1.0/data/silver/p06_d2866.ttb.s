@@ -1,0 +1,9 @@
+DEF	The
+CON	workmen
+EPS	arrived
+IST	early
+NIL	,
+EXG	bringing
+HAS	their
+CON	ladders
+NIL	.

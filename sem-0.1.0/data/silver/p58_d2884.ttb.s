@@ -1,0 +1,12 @@
+PRO	We
+NOW	're
+EXS	supposed
+SUB	to
+EXS	try
+SUB	to
+EXS	solve
+HAS	our
+CON	problems
+REL	by
+REF	ourselves
+NIL	.

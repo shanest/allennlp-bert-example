@@ -1,0 +1,16 @@
+PRO	You
+PST	got
+QUC	120
+UOM	%
+REL	on
+DEF	the
+CON	physics
+CON	exam
+QUE	?
+PRO	You
+POS	could
+IST	probably
+EXS	teach
+SUB	that
+CON	class
+NIL	...

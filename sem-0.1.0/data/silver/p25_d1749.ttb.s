@@ -1,0 +1,13 @@
+PRO	I
+NOW	've
+IST	often
+EXS	wondered
+QUE	what
+PRO	it
+NEC	must
+EXS	be
+EXS	like
+SUB	to
+EXS	be
+IST	rich
+NIL	.

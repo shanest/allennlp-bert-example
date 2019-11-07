@@ -1,0 +1,9 @@
+PRO	I
+EPS	sent
+PRO	it
+SUB	to
+PRO	you
+QUC	two
+CON	days
+PST	ago
+NIL	.

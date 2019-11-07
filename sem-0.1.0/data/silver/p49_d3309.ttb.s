@@ -1,0 +1,10 @@
+PRO	I
+EPS	spent
+DEF	the
+IST	whole
+CON	week
+EXS	working
+REL	on
+DST	that
+CON	report
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	site
+CTC	http://esperanto.typeit.org/
+IST	really
+EPS	facilitated
+HAS	my
+CON	survival
+REL	in
+PRX	Tatoeba
+NIL	.

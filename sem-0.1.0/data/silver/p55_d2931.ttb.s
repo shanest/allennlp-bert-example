@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+IST	just
+EXS	jealous
+SUB	that
+PRO	we
+NOW	're
+EXS	having
+INT	so
+QUC	much
+CON	fun
+NIL	.

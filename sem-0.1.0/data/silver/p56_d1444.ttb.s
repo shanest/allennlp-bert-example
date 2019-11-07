@@ -1,0 +1,10 @@
+PRX	This
+CON	theory
+EPS	originated
+REL	with
+DIS	a
+QUC	twenty-eight
+UOM	year
+DEG	old
+ROL	physicist
+NIL	.

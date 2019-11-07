@@ -1,0 +1,15 @@
+PER	Tom
+EPS	rushed
+CON	home
+SUB	to
+EXS	get
+HAS	his
+CON	washing
+REL	off
+DEF	the
+CON	line
+REL	before
+DEF	the
+CON	rain
+EPS	started
+NIL	.

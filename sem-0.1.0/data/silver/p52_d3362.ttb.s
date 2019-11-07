@@ -1,0 +1,12 @@
+PER	Ronald
+PER	Reagan
+EPS	asked
+PER	Gorbachev
+SUB	to
+NIL	"
+EXS	tear
+IST	down
+PRX	this
+CON	wall
+NIL	"
+NIL	.

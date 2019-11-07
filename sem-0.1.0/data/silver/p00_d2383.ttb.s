@@ -1,0 +1,9 @@
+PRX	This
+NOW	is
+QUE	what
+PRO	I
+NOW	'm
+EXG	paying
+PRO	you
+REL	for
+NIL	.

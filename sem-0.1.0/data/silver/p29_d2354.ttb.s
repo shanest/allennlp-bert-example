@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	take
+IST	back
+QUE	what
+PRO	she
+EPS	said
+NIL	.

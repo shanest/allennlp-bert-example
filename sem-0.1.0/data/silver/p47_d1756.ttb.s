@@ -1,0 +1,11 @@
+DEF	The
+ROL	teacher
+EPS	opened
+DEF	the
+CON	box
+COO	and
+EPS	took
+IST	out
+DIS	a
+CON	ball
+NIL	.

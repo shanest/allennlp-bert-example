@@ -1,0 +1,9 @@
+CON	One
+HAS	's
+CON	dreams
+NOW	do
+NOT	not
+IST	always
+EXS	come
+EXS	true
+NIL	.

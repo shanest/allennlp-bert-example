@@ -1,0 +1,17 @@
+REL	In
+GPE	China
+NIL	,
+PRO	you
+NEC	have
+SUB	to
+EXS	go
+REL	to
+DEF	the
+CON	departure
+CON	station
+COO	and
+EXS	buy
+CON	train
+CON	tickets
+IST	there
+NIL	.

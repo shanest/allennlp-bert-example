@@ -1,0 +1,11 @@
+PRO	I
+EPS	met
+HAS	my
+CON	teacher
+REL	on
+DEF	the
+CON	street
+DEF	the
+ALT	other
+CON	day
+NIL	.

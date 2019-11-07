@@ -1,0 +1,16 @@
+DIS	A
+COL	blue
+CON	elephant
+HAS	's
+CON	ears
+NOW	are
+AND	as
+IST	big
+AND	as
+DEF	the
+CON	ones
+AND	of
+DIS	a
+COL	pink
+CON	elephant
+NIL	.

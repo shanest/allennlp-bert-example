@@ -1,0 +1,17 @@
+PRO	She
+NOW	has
+EXS	begun
+SUB	to
+EXS	play
+CON	tennis
+NOT	not
+AND	so
+QUV	much
+AND	out
+AND	of
+CON	curiosity
+AND	as
+IST	out
+AND	of
+EXS	vanity
+NIL	.

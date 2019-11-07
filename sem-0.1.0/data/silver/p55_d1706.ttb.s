@@ -1,0 +1,16 @@
+AND	Everything
+NOW	changes
+INT	very
+IST	quickly
+COO	and
+PRO	it
+ENS	calls
+REL	for
+DIS	a
+IST	new
+CON	mindset
+AND	among
+ROL	employees
+AND	of
+NOW	today
+NIL	.

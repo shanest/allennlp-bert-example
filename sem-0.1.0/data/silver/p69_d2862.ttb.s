@@ -1,0 +1,14 @@
+AND	Could
+PRO	you
+IST	please
+EXS	tell
+PRO	me
+ALT	again
+QUE	how
+QUV	many
+CON	times
+PRO	you
+NOW	've
+EXS	been
+PRX	here
+QUE	?

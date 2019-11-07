@@ -1,0 +1,11 @@
+PER	Tim
+HAS	's
+CON	motorbike
+NOW	is
+IST	far
+MOR	more
+EXS	expensive
+AND	than
+HAS	mine
+NOW	is
+NIL	.

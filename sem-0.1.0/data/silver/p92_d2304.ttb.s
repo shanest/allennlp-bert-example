@@ -1,0 +1,12 @@
+PRO	She
+NOW	is
+NOW	now
+EXS	looking
+AND	like
+CON	mum
+AND	and
+NOT	not
+EXS	like
+HAS	her
+CON	mum
+NIL	.

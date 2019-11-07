@@ -1,0 +1,13 @@
+PER	Tom
+EPS	took
+DEF	the
+CON	key
+REL	off
+AND	of
+DEF	the
+CON	hook
+PRO	it
+PST	was
+EXS	hanging
+REL	on
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+FUT	'll
+EXS	let
+PRO	you
+EXS	know
+IMP	if
+PER	Tom
+NOW	shows
+IST	up
+IST	early
+NIL	.

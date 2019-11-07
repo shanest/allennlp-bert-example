@@ -1,0 +1,11 @@
+NOW	Are
+PRO	you
+DEF	the
+CON	one
+AND	that
+PST	asked
+PRO	me
+SUB	to
+EXS	be
+PRX	here
+QUE	?

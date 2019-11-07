@@ -1,0 +1,15 @@
+PER	Tom
+ENS	thinks
+PRO	he
+POS	can
+EXS	get
+EXS	rid
+AND	of
+HAS	his
+CON	cold
+IMP	if
+PRO	he
+NOW	takes
+PRX	this
+CON	medicine
+NIL	.

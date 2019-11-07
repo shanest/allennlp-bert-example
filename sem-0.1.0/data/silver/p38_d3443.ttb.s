@@ -1,0 +1,21 @@
+NOT	Nothing
+CON	acts
+AND	as
+DIS	a
+IST	better
+CON	antidote
+REL	for
+CON	romance
+AND	than
+IST	young
+CON	men
+AND	and
+CON	women
+EXS	doing
+GEO	geometry
+IST	together
+REL	at
+CLO	eight o'clock
+AND	every
+CON	morning
+NIL	.

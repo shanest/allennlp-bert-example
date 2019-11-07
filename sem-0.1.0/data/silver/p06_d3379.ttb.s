@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXG	writing
+DIS	a
+CON	message
+REL	to
+PER	Tom
+INT	right
+NOW	now
+NIL	.

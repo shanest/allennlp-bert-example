@@ -1,0 +1,15 @@
+PRO	I
+NOW	've
+IST	already
+EXT	told
+PER	Tom
+SUB	that
+PRO	he
+NOW	does
+NOT	n't
+EXS	need
+SUB	to
+EXS	come
+PRX	here
+FUT	tomorrow
+NIL	.

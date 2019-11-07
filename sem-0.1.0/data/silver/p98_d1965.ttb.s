@@ -1,0 +1,11 @@
+PER	Philip
+AND	and
+PER	Sheila
+NOW	are
+IST	late
+NIL	.
+ORG	Am
+PRO	I
+NIL	,
+ALT	too
+QUE	?

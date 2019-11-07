@@ -1,0 +1,13 @@
+AND	Then
+DEF	the
+MOR	younger
+CON	brother
+EXS	set
+REL	off
+NIL	,
+COO	and
+DEF	the
+CON	elder
+EPS	remained
+IST	behind
+NIL	.

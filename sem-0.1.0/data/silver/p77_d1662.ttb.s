@@ -1,0 +1,9 @@
+QUE	What
+NOW	do
+PRO	you
+ENS	want
+PRO	me
+SUB	to
+EXS	do
+NOW	now
+QUE	?

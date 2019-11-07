@@ -1,0 +1,9 @@
+PRO	I
+EPS	saw
+DEF	the
+CON	ship
+EXS	sink
+REL	in
+DEF	the
+CON	sea
+NIL	.

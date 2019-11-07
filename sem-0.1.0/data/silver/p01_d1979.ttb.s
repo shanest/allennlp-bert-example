@@ -1,0 +1,12 @@
+PRX	This
+CON	morning
+NIL	,
+ROL	Mr
+PER	Yamaha
+EPS	bought
+QUC	30
+UOM	kilos
+AND	of
+CON	walnuts
+IST	wholesale
+NIL	.

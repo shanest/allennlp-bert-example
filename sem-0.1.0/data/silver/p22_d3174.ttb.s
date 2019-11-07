@@ -1,0 +1,12 @@
+PRO	You
+NEC	should
+EXT	have
+EXS	thought
+AND	of
+SUB	that
+SUB	before
+PRO	you
+EPS	got
+PRO	her
+EXS	pregnant
+NIL	.

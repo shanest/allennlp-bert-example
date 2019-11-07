@@ -1,0 +1,12 @@
+PRO	He
+NOW	blushed
+SUB	when
+DEF	the
+CON	girls
+EPS	whistled
+REL	at
+PRO	him
+REL	in
+DEF	the
+CON	street
+NIL	.

@@ -1,0 +1,9 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	shoot
+PER	Tom
+REL	in
+DEF	the
+IST	back
+NIL	.

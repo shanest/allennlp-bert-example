@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+DIS	a
+IST	good
+CON	reason
+REL	for
+EXS	being
+EXS	absent
+NOW	today
+NIL	.

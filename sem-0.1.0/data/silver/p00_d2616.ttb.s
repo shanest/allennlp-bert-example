@@ -1,0 +1,11 @@
+CON	Life
+NOW	is
+INT	too
+IST	short
+NIL	to
+EXS	seek
+CON	perfection
+REL	in
+CON	material
+CON	things
+NIL	.

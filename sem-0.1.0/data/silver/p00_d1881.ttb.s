@@ -1,0 +1,9 @@
+PER	Tom
+PST	had
+NOT	nothing
+NIL	to
+EXS	do
+REL	with
+DEF	the
+CON	kidnapping
+NIL	.

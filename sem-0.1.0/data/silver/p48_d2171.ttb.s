@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+NOT	n't
+EXS	connected
+REL	to
+DEF	the
+UNK	Internet
+ALT	yet
+NIL	.

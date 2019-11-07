@@ -1,0 +1,15 @@
+PRO	You
+NOW	do
+NOT	n't
+EXS	know
+QUE	what
+PRO	it
+NOW	's
+EXS	like
+SUB	to
+NOT	not
+NOW	have
+IST	enough
+SUB	to
+EXS	eat
+NIL	.

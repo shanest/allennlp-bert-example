@@ -1,0 +1,11 @@
+PRO	I
+NOW	think
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	break
+IST	up
+REL	with
+PER	Tom
+NIL	.

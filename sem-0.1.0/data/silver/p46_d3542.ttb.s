@@ -1,0 +1,12 @@
+EXS	Let
+PRO	us
+EXS	know
+IMP	if
+PRO	you
+POS	ca
+NOT	n't
+EXS	get
+PRX	here
+REL	on
+CON	time
+NIL	.

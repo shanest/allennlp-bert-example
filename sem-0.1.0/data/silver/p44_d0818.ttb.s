@@ -1,0 +1,6 @@
+PRO	I
+NOW	'm
+EXS	good
+REL	at
+CON	tennis
+NIL	.

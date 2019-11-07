@@ -1,0 +1,11 @@
+HAS	My
+CON	physics
+ROL	teacher
+NOW	does
+NOT	n't
+EXS	care
+IMP	if
+PRO	I
+EXS	skip
+CON	classes
+NIL	.

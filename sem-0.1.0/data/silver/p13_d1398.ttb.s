@@ -1,0 +1,9 @@
+DEF	The
+CON	game
+FUT	will
+EXS	be
+EXS	held
+REL	rain
+DIS	or
+CON	shine
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	man
+AND	who
+EPS	rang
+DIS	an
+CON	hour
+PST	ago
+PST	was
+PER	Frank
+NIL	.

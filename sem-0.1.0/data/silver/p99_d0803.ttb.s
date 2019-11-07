@@ -1,0 +1,12 @@
+PRO	You
+NOW	have
+EXS	changed
+INT	so
+QUC	much
+SUB	that
+PRO	I
+POS	can
+IST	hardly
+EXS	recognize
+PRO	you
+NIL	.

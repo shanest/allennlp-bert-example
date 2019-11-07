@@ -1,0 +1,9 @@
+HAS	My
+CON	uncle
+EPS	died
+AND	of
+CON	cancer
+QUC	two
+CON	years
+PST	ago
+NIL	.

@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+EPS	used
+SUB	to
+EXS	say
+DST	that
+CON	time
+NOW	is
+CON	money
+NIL	.

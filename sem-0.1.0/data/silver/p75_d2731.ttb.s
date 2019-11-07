@@ -1,0 +1,11 @@
+PER	Tom
+PST	was
+EXS	sitting
+AND	alone
+REL	in
+DEF	the
+IST	dark
+EXS	waiting
+REL	for
+PER	Mary
+NIL	.

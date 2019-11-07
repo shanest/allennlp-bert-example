@@ -1,0 +1,17 @@
+IMP	If
+PRO	they
+PST	had
+NOT	n't
+EXS	found
+DEF	the
+CON	vase
+NIL	,
+PER	John
+FUT	would
+EXT	have
+PFT	been
+EXS	accused
+AND	of
+EXS	stealing
+PRO	it
+NIL	.

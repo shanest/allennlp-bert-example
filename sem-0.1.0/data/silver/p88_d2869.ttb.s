@@ -1,0 +1,13 @@
+NOW	Do
+PRO	you
+ENS	want
+PRO	me
+SUB	to
+EXS	learn
+ART	English
+REL	for
+DEF	the
+CON	competition
+REL	on
+DOW	Wednesday
+QUE	?

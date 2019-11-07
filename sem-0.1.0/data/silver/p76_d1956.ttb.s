@@ -1,0 +1,10 @@
+NOW	Has
+PRO	he
+PFT	been
+EXS	saying
+IST	bad
+CON	things
+AND	about
+PER	Tom
+ALT	again
+QUE	?

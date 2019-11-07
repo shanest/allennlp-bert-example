@@ -1,0 +1,9 @@
+AND	Could
+PRO	you
+EXS	bring
+HAS	my
+CON	breakfast
+REL	to
+CON	room
+ART	305
+QUE	?

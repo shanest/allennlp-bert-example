@@ -1,0 +1,11 @@
+PRO	He
+EPS	picked
+IST	up
+DIS	a
+CON	mirror
+COO	and
+EPS	looked
+REL	at
+HAS	his
+CON	tongue
+NIL	.

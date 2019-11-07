@@ -1,0 +1,16 @@
+AND	Why
+POS	ca
+NOT	n't
+PRO	I
+EXS	remember
+DEF	the
+CON	name
+AND	of
+DEF	the
+CON	girl
+PRO	I
+NOW	'm
+EXS	trying
+SUB	to
+EXS	forget
+QUE	?

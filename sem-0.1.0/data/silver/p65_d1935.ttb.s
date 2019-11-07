@@ -1,0 +1,12 @@
+PRX	This
+CON	bottle
+NOW	is
+IST	able
+SUB	to
+EXS	contain
+QUC	two
+UOM	liters
+AND	of
+IST	hot
+CON	water
+NIL	.

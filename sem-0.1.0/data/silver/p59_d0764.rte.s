@@ -1,0 +1,9 @@
+DEF	The
+GEO	Normandy
+CON	landings
+EPS	took
+CON	place
+REL	in
+MOY	June
+YOC	1944
+NIL	.

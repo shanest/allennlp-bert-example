@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+IST	so
+EXS	sorry
+PRO	I
+EPS	suggested
+SUB	that
+PRO	you
+NEC	should
+EXS	go
+REL	to
+DEF	the
+CON	doctor
+NIL	.

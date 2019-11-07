@@ -1,0 +1,11 @@
+PER	Tom
+EPS	looked
+REL	after
+PER	Mary
+AND	while
+HAS	her
+CON	parents
+PST	were
+IST	out
+CON	shopping
+NIL	.

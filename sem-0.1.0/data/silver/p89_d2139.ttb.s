@@ -1,0 +1,12 @@
+HAS	My
+CON	brother
+NOW	has
+EXS	lived
+REL	in
+GPE	England
+REL	for
+MOR	more
+MOR	than
+QUC	thirty
+CON	years
+NIL	.

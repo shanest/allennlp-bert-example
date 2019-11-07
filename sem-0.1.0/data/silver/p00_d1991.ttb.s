@@ -1,0 +1,12 @@
+PRO	She
+EPS	tried
+NIL	to
+EXS	persuade
+PRO	him
+NIL	to
+EXS	buy
+PRO	her
+DIS	a
+CON	pearl
+CON	necklace
+NIL	.

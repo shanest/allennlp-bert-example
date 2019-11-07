@@ -1,0 +1,12 @@
+PRO	I
+EPS	took
+IST	out
+DIS	a
+CON	loan
+REL	in
+CON	order
+SUB	to
+EXS	buy
+DIS	a
+CON	car
+NIL	.

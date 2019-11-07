@@ -1,0 +1,14 @@
+PER	Tom
+IST	never
+EPS	thought
+PRO	he
+PST	'd
+EXS	be
+IST	able
+SUB	to
+EXS	do
+QUE	what
+PRO	he
+IST	just
+PST	did
+NIL	.

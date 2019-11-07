@@ -1,0 +1,10 @@
+PRO	I
+EPS	put
+QUC	three
+PRX	teaspoons
+AND	of
+CON	sugar
+REL	in
+HAS	your
+CON	tea
+NIL	.

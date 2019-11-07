@@ -1,0 +1,10 @@
+DIS	A
+IST	decapitated
+CON	body
+EPS	was
+REL	on
+DEF	the
+ROL	coroner
+HAS	's
+CON	table
+NIL	.

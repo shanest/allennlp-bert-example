@@ -1,0 +1,9 @@
+PER	Mary
+COO	and
+PRO	I
+EPS	remained
+CON	firm
+CON	friends
+REL	for
+CON	years
+NIL	.

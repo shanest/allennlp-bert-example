@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	understand
+QUE	why
+GPE	Germany
+EPS	won
+DEF	the
+CON	Eurovision
+NIL	.

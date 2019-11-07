@@ -1,0 +1,9 @@
+PER	Mom
+NIL	,
+EXS	hurry
+IST	up
+NIL	!
+AND	Everyone
+HAS	's
+CON	waiting
+NIL	.

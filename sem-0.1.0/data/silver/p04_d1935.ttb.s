@@ -1,0 +1,13 @@
+PRO	They
+PST	had
+NOT	n't
+EXS	gone
+INT	very
+IST	far
+SUB	when
+PRO	they
+EPS	met
+DIS	an
+IST	old
+CON	man
+NIL	.

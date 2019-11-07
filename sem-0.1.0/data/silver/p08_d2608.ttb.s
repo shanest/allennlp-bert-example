@@ -1,0 +1,12 @@
+PER	Tom
+FUT	would
+EXT	have
+EXS	eaten
+IST	more
+IMP	if
+PRO	he
+PST	had
+NOT	n't
+PFT	been
+EXS	sick
+NIL	.

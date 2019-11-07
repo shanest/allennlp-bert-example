@@ -1,0 +1,14 @@
+PER	Lincoln
+EPS	ordered
+SUB	that
+AND	all
+DEF	the
+CON	slaves
+REL	in
+DEF	the
+CON	country
+NEC	should
+EXS	be
+EXS	set
+IST	free
+NIL	.

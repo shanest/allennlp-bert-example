@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	accept
+PER	Jesus
+PER	Christ
+AND	as
+HAS	your
+IST	personal
+CON	Savior
+QUE	?

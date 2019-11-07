@@ -1,0 +1,10 @@
+NOT	No
+NIL	,
+PRO	I
+EPS	saw
+PRO	it
+NIL	.
+PRO	It
+HAS	's
+EXS	true
+NIL	!

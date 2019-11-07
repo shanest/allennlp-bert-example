@@ -1,0 +1,10 @@
+PER	Tom
+EPS	blocked
+PER	Mary
+HAS	's
+CON	punch
+COO	and
+EPS	kicked
+HAS	her
+ALT	again
+NIL	.

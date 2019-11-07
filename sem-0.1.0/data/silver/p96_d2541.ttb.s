@@ -1,0 +1,17 @@
+ORG	Aviaries
+NOW	are
+IST	sometimes
+EXS	called
+CON	flight
+CON	cages
+AND	because
+DEF	the
+CON	birds
+EXS	confined
+AND	therein
+NOW	have
+CON	room
+SUB	to
+EXS	fly
+IST	around
+NIL	.

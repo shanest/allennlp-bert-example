@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+PRO	I
+NOW	have
+DIS	a
+ALT	previous
+CON	appointment
+REL	for
+FUT	tomorrow
+NIL	.

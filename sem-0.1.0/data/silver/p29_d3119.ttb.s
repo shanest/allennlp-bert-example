@@ -1,0 +1,13 @@
+HAS	My
+CON	hair
+EPS	stood
+REL	on
+CON	end
+REL	with
+CON	horror
+SUB	when
+PRO	I
+EPS	saw
+DEF	the
+CON	scene
+NIL	.

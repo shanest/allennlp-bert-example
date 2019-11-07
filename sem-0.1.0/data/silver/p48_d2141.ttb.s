@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+IST	ready
+SUB	to
+EXS	settle
+IST	down
+COO	and
+EXS	start
+DIS	a
+CON	family
+NIL	.

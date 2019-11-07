@@ -1,0 +1,10 @@
+PER	Tom
+EPS	wondered
+QUE	why
+PER	Mary
+FUT	would
+NOT	n't
+GPO	French
+CON	kiss
+PRO	him
+NIL	.

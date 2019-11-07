@@ -1,0 +1,9 @@
+DEF	The
+CON	police
+EPS	realized
+SUB	that
+PER	Dan
+EPS	acted
+REL	in
+CON	self-defence
+NIL	.

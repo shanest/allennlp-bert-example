@@ -1,0 +1,9 @@
+CON	Mount
+NTH	Chokai
+NOW	is
+DIS	a
+IST	colossal
+CON	mountain
+REL	in
+GEO	Akita
+NIL	.

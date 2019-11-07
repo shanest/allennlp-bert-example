@@ -1,0 +1,10 @@
+PRO	I
+PST	thought
+PRO	you
+PST	said
+PER	Tom
+FUT	would
+NOT	never
+EXS	hurt
+PER	Mary
+NIL	.

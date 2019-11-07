@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	glad
+SUB	to
+EXS	hear
+SUB	that
+PRO	she
+NOW	is
+EPS	unmarried
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+CON	telephone
+EPS	rang
+NIL	,
+BUT	but
+NOT	no
+CON	one
+EPS	answered
+NIL	.

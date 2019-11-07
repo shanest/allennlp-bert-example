@@ -1,0 +1,16 @@
+DEF	The
+IST	first
+QUC	two
+CON	borrowers
+NEC	must
+EXS	start
+EXG	repaying
+DEF	the
+IST	principal
+IST	plus
+CON	interest
+AND	over
+DIS	a
+IST	six-week
+CON	period
+NIL	.

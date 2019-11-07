@@ -1,0 +1,10 @@
+PRO	She
+EPS	saw
+DIS	a
+CON	lot
+AND	of
+CON	animals
+REL	on
+DEF	the
+CON	road
+NIL	.

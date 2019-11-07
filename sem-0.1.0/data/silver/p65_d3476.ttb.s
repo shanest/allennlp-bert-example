@@ -1,0 +1,14 @@
+PRO	He
+HAS	's
+DIS	a
+GEO	pretentious
+CON	boy
+AND	who
+ENS	thinks
+PRO	he
+HAS	's
+COM	better
+AND	than
+AND	everyone
+AND	else
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXS	assumed
+SUB	to
+EXS	be
+EXS	deputizing
+REL	for
+DEF	the
+IST	absent
+CON	colleague
+NIL	.

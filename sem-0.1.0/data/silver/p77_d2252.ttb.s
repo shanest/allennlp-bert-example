@@ -1,0 +1,13 @@
+PRO	I
+EPS	met
+DIS	a
+CON	friend
+AND	whom
+PRO	I
+PST	had
+NOT	not
+EXS	seen
+REL	for
+QUC	three
+CON	years
+NIL	.

@@ -1,0 +1,16 @@
+PRO	I
+PST	was
+NOT	not
+REL	in
+DEF	the
+TOP	least
+EXS	surprised
+NIL	,
+SUB	for
+PRO	I
+PST	had
+IST	fully
+EXS	expected
+AND	as
+QUV	much
+NIL	.

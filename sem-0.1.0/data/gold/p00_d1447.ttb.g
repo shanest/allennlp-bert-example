@@ -1,0 +1,10 @@
+PRO	We
+ENS	need
+NIL	to
+EXS	go
+EXS	visit
+PER	Tom
+REL	in
+DEF	the
+CON	hospital
+NIL	.

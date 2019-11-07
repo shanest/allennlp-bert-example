@@ -1,0 +1,13 @@
+PER	Tom
+NOW	is
+IST	utterly
+EXS	obsessed
+REL	with
+CON	food
+NIL	.
+NOT	No
+NOW	wonder
+PER	Mary
+EPS	dumped
+PRO	him
+NIL	!

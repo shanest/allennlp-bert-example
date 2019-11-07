@@ -1,0 +1,9 @@
+PRO	I
+NOW	wonder
+IMP	if
+PRO	I
+FUT	'll
+IST	ever
+EXS	get
+EXS	married
+NIL	.

@@ -1,0 +1,16 @@
+REL	With
+QUC	half
+DIS	an
+UOM	hour
+REL	on
+PRX	this
+CON	treadmill
+PRO	you
+FUT	'll
+EXS	work
+IST	up
+DIS	a
+INT	pretty
+IST	good
+CON	sweat
+NIL	.

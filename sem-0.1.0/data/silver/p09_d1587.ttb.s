@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+INT	very
+CON	video
+PRO	I
+NOW	have
+PFT	been
+EXG	looking
+REL	for
+NIL	.

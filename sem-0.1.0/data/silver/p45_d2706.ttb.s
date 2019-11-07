@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	sorry
+PRO	I
+EPS	called
+PRO	you
+DIS	a
+CON	liar
+NIL	.

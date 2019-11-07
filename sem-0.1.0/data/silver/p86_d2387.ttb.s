@@ -1,0 +1,9 @@
+PER	Tom
+EPS	realized
+SUB	that
+PRO	he
+POS	might
+EXS	be
+REL	in
+CON	danger
+NIL	.

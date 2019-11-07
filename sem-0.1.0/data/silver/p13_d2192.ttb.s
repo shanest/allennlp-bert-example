@@ -1,0 +1,14 @@
+QUV	Many
+AND	of
+DEF	the
+CON	things
+GEO	Pizzaro
+PST	had
+EXS	heard
+AND	about
+DEF	the
+GEO	Inca
+CON	treasure
+PST	were
+EXS	true
+NIL	.

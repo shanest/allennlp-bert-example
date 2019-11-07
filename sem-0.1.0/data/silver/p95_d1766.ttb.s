@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	nothing
+NIL	to
+EXS	tell
+PRO	you
+REL	at
+PRX	this
+NOW	moment
+NIL	.

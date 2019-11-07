@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	waiting
+REL	for
+PRO	her
+REL	for
+DIS	an
+CON	hour
+NIL	.

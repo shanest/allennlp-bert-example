@@ -1,0 +1,12 @@
+PER	Tom
+EPS	gave
+DEF	the
+CON	film
+DIS	a
+CON	rating
+AND	of
+DEF	7
+IST	out
+AND	of
+IST	10
+NIL	.

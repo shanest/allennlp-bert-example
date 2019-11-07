@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+EXS	seen
+IST	little
+AND	of
+PRO	him
+AND	of
+IST	late
+NIL	.

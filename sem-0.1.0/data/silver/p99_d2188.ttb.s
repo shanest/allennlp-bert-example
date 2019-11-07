@@ -1,0 +1,24 @@
+NIL	"
+QUE	What
+PST	was
+REL	for
+CON	lunch
+QUE	?
+NIL	"
+NIL	"
+PER	Mary
+HAS	's
+IST	delicious
+CON	pumpkin
+CON	soup
+NIL	.
+DEF	The
+CON	pot
+PST	was
+EXS	empty
+REL	in
+NOT	no
+CON	time
+EMP	at all
+NIL	.
+NIL	"

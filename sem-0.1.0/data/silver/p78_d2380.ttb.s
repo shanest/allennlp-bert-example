@@ -1,0 +1,9 @@
+NOT	Never
+NOW	have
+PRO	I
+EXS	seen
+AND	such
+DIS	a
+IST	beautiful
+CON	sunset
+NIL	.

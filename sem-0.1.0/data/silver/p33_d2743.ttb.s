@@ -1,0 +1,12 @@
+NIL	"
+EXS	Did
+PRO	you
+EXS	understand
+QUE	?
+NIL	"
+NIL	"
+ITJ	Yes
+NIL	,
+AND	everything
+NIL	.
+NIL	"

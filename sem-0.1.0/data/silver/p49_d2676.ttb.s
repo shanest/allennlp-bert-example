@@ -1,0 +1,11 @@
+PRO	He
+ENS	likes
+SUB	to
+EXS	go
+REL	to
+DEF	the
+CON	beach
+NOW	now
+AND	and
+IST	then
+NIL	.

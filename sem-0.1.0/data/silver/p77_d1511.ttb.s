@@ -1,0 +1,11 @@
+PRO	I
+EPS	told
+PER	Tom
+PRO	I
+FUT	'd
+EXS	invite
+PER	Mary
+REL	to
+HAS	my
+CON	party
+NIL	.

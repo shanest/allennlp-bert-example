@@ -1,0 +1,9 @@
+PER	Tom
+EPS	threw
+PER	Mary
+HAS	's
+CON	phone
+REL	into
+DEF	the
+CON	pool
+NIL	.

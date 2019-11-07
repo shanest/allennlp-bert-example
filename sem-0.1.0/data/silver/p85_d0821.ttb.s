@@ -1,0 +1,10 @@
+PRO	I
+EPS	found
+PRO	it
+UNK	difficult
+SUB	to
+EXS	be
+CON	kind
+REL	to
+ALT	others
+NIL	.

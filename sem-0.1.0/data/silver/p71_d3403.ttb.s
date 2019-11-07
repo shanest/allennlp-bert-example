@@ -1,0 +1,9 @@
+NOW	Is
+SUB	that
+DEF	the
+CON	map
+SUB	that
+PER	Tom
+EPS	gave
+PRO	you
+QUE	?

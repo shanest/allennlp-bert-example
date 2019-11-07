@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+NOW	think
+SUB	that
+PRO	I
+NOW	'm
+NOT	not
+EXG	trying
+HAS	my
+TOP	best
+QUE	?

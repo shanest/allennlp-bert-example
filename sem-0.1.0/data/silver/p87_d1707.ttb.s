@@ -1,0 +1,11 @@
+NIL	"
+QUE	Who
+EPS	helped
+PRO	you
+QUE	?
+NIL	"
+NIL	"
+PER	Tom
+PST	did
+NIL	.
+NIL	"

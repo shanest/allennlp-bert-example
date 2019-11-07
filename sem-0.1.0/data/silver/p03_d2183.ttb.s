@@ -1,0 +1,14 @@
+PER	Tom
+EPS	put
+IST	new
+CON	strings
+REL	on
+DEF	the
+IST	old
+CON	guitar
+SUB	that
+PRO	he
+PST	had
+IST	just
+EXS	bought
+NIL	.

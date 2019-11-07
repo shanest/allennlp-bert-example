@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	no
+IST	personal
+CON	hostility
+REL	to
+DEF	the
+CON	system
+NIL	.

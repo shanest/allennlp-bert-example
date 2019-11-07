@@ -1,0 +1,10 @@
+QUE	Who
+NOW	do
+PRO	you
+EXS	like
+COM	better
+NIL	,
+PER	Tom
+DIS	or
+PER	Mary
+QUE	?

@@ -1,0 +1,16 @@
+PER	Tom
+EPS	started
+AND	as
+DIS	a
+CON	janitor
+NIL	,
+COO	but
+PRO	he
+NOW	's
+NOW	now
+DEF	the
+ROL	president
+AND	of
+DEF	the
+CON	company
+NIL	.

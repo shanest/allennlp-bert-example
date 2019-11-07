@@ -1,0 +1,12 @@
+IMP	If
+PRO	I
+NOW	do
+NOT	n't
+EXS	do
+PRO	it
+NOW	now
+NIL	,
+PRO	I
+IST	never
+FUT	will
+NIL	.

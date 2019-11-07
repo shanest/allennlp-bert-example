@@ -1,0 +1,10 @@
+PRO	He
+PST	was
+NOT	n't
+IST	able
+SUB	to
+EXS	stand
+IST	up
+REL	at
+QUC	once
+NIL	.

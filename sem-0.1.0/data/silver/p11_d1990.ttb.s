@@ -1,0 +1,12 @@
+PER	Tom
+NOW	has
+EPS	asked
+PER	Mary
+SUB	to
+EXS	meet
+PRO	him
+REL	at
+HAS	his
+CON	office
+FUT	tomorrow
+NIL	.

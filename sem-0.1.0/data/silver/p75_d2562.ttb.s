@@ -1,0 +1,11 @@
+PRO	They
+PST	were
+IST	able
+SUB	to
+EXS	live
+SUB	as
+PRO	they
+EPS	wanted
+REL	in
+GEO	Massachusetts
+NIL	.

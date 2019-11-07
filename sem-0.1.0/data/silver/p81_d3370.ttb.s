@@ -1,0 +1,12 @@
+PRO	You
+NOW	've
+IST	already
+EXS	decided
+NOT	not
+SUB	to
+EXS	go
+NIL	,
+NOW	have
+NOT	n't
+PRO	you
+QUE	?

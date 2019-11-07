@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+IST	so
+EXS	jealous
+AND	of
+HAS	your
+IST	bowl-shaped
+CON	boobs
+NIL	.

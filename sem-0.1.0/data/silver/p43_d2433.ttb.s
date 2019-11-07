@@ -1,0 +1,11 @@
+NOW	Does
+PRO	he
+ENS	go
+REL	to
+CON	school
+REL	on
+CON	foot
+DIS	or
+REL	by
+CON	bicycle
+QUE	?

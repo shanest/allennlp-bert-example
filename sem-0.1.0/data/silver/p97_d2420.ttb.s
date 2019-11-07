@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+IST	willing
+NIL	to
+EXS	let
+CON	bygones
+EXS	be
+CON	bygones
+NIL	.

@@ -1,0 +1,11 @@
+PRO	They
+FUT	'll
+IST	probably
+EXS	be
+IST	able
+SUB	to
+EXS	cope
+REL	with
+DEF	the
+CON	difficulties
+NIL	.

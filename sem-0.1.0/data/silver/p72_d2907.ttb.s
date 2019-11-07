@@ -1,0 +1,12 @@
+PER	Job
+EXS	hopping
+PST	was
+NOT	not
+EXS	so
+IST	common
+REL	in
+GPE	Japan
+AND	as
+REL	in
+GEO	America
+NIL	.

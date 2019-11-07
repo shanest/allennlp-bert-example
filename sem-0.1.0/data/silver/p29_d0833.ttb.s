@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	disappointed
+SUB	that
+PRO	he
+NOW	's
+NOT	not
+PRX	here
+NIL	.

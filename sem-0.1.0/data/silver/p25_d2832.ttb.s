@@ -1,0 +1,16 @@
+HAS	My
+CON	mother
+HAS	's
+CON	religion
+EPS	helped
+PRO	her
+SUB	to
+EXS	come
+REL	to
+CON	terms
+REL	with
+HAS	my
+ROL	father
+HAS	's
+CON	death
+NIL	.

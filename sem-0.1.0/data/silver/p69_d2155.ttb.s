@@ -1,0 +1,16 @@
+DIS	A
+EXS	furious
+CON	elephant
+CON	kicks
+AND	out
+DEF	the
+CON	fencing
+AND	of
+HAS	his
+CON	enclosure
+AND	and
+ENS	sends
+DEF	the
+CON	keeper
+EXS	flying
+NIL	.

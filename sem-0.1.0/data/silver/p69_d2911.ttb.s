@@ -1,0 +1,10 @@
+PER	Adams
+EPS	spent
+TOP	most
+AND	of
+DEF	the
+CON	war
+CON	years
+REL	in
+GEO	Europe
+NIL	.

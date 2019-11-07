@@ -1,0 +1,9 @@
+AND	Unfortunately
+NIL	,
+PRX	these
+IST	beautiful
+CON	words
+NOW	are
+NOT	not
+HAS	mine
+NIL	.

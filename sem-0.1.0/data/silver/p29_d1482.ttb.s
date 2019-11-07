@@ -1,0 +1,15 @@
+IST	Wealthy
+CON	immigrants
+REL	from
+GPE	China
+NOW	are
+EXS	happy
+SUB	to
+EXS	pay
+IST	stratospherical
+CON	prices
+REL	for
+CON	homes
+REL	in
+GEO	Vancouver
+NIL	.

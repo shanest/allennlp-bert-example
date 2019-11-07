@@ -1,0 +1,13 @@
+PRO	He
+EPS	took
+DEF	the
+CON	trouble
+SUB	to
+EXS	show
+PRO	me
+DEF	the
+CON	way
+REL	to
+DEF	the
+CON	station
+NIL	.

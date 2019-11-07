@@ -1,0 +1,10 @@
+REL	In
+CON	space
+NIL	,
+NOT	no
+CON	one
+POS	can
+EXS	hear
+PRO	you
+CON	scream
+NIL	.

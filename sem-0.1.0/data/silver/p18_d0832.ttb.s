@@ -1,0 +1,13 @@
+DEF	The
+CON	cherry
+CON	blossom
+NOW	is
+REL	to
+GPE	Japan
+QUE	what
+DEF	the
+EPS	rose
+NOW	is
+REL	to
+GPE	England
+NIL	.

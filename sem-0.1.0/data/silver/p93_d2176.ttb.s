@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+EXS	studying
+DEF	the
+CON	origin
+AND	of
+CON	jazz
+REL	in
+GEO	America
+NIL	.

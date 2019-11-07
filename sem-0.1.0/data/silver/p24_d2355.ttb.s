@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	tired
+NIL	,
+BUT	but
+PRO	I
+FUT	'll
+EXS	study
+IST	hard
+NIL	.

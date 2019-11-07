@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+EXS	know
+SUB	when
+PER	Tom
+EPS	got
+HAS	his
+ROL	driver
+HAS	's
+CON	license
+QUE	?

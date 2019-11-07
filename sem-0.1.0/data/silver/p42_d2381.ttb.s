@@ -1,0 +1,14 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+SUB	whether
+PER	Mary
+FUT	will
+EXS	come
+REL	by
+CON	car
+DIS	or
+REL	by
+CON	bicycle
+NIL	.

@@ -1,0 +1,13 @@
+PRX	This
+CON	temple
+NOW	is
+EXS	said
+SUB	to
+EXT	have
+PFT	been
+EXS	built
+MOR	over
+QUC	500
+CON	years
+PST	ago
+NIL	.

@@ -1,0 +1,15 @@
+PRO	I
+NOW	have
+EXS	been
+HAS	your
+CON	doll-wife
+NIL	,
+AND	just
+AND	as
+REL	at
+CON	home
+PRO	I
+PST	was
+ROL	father
+HAS	's
+CON	doll-child

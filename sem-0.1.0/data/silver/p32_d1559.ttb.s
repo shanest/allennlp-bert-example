@@ -1,0 +1,14 @@
+PER	Tom
+NOW	is
+NOT	n't
+IST	just
+HAS	my
+CON	boss
+NIL	.
+PRO	He
+HAS	's
+HAS	my
+CON	friend
+NIL	,
+ALT	too
+NIL	.

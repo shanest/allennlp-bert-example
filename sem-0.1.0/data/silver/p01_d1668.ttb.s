@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	sold
+QUC	one
+AND	of
+DST	those
+REL	in
+CON	weeks
+NIL	.

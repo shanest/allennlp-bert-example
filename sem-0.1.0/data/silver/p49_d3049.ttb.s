@@ -1,0 +1,10 @@
+EXS	Pay
+IST	close
+CON	attention
+SUB	to
+QUE	what
+PRO	I
+NOW	'm
+EXG	telling
+PRO	you
+NIL	.

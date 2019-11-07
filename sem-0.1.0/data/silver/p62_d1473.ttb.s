@@ -1,0 +1,11 @@
+REL	From
+NOW	now
+REL	on
+NIL	,
+EXS	let
+HAS	's
+CON	study
+REL	in
+DEF	the
+CON	morning
+NIL	.

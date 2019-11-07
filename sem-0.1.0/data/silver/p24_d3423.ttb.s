@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+IST	somehow
+SUB	so
+EXS	quiet
+PRX	here
+NOT	without
+PER	Tom
+NIL	.
+PRO	I
+NOW	miss
+PRO	him
+NIL	.

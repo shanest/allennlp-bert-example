@@ -1,0 +1,10 @@
+PER	Tom
+EPS	noticed
+SUB	that
+PER	Mary
+PST	was
+EXS	wearing
+DIS	a
+CON	wedding
+CON	ring
+NIL	.

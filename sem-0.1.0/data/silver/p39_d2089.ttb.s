@@ -1,0 +1,12 @@
+DEF	The
+MOR	older
+DIS	a
+CON	town
+NOW	is
+NIL	,
+DEF	the
+IST	more
+CON	garbage
+PRO	it
+ENS	produces
+NIL	.

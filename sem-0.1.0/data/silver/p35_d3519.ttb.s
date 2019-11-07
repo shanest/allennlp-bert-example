@@ -1,0 +1,10 @@
+PRO	We
+PST	were
+IST	unable
+SUB	to
+EXS	finish
+HAS	our
+CON	homework
+REL	in
+CON	time
+NIL	.

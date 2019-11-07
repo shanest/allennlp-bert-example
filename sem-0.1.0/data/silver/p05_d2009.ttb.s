@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXS	poor
+NIL	,
+AND	whereas
+HAS	my
+CON	brothers
+NOW	are
+INT	very
+EXS	rich
+NIL	.

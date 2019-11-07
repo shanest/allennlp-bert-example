@@ -1,0 +1,13 @@
+QUE	What
+PRO	you
+NOW	are
+EXS	telling
+PRO	me
+AND	about
+PER	Liisa
+NOW	is
+IST	quite
+IST	out
+AND	of
+CON	character
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	regret
+QUE	what
+PRO	I
+NOW	've
+EXS	done
+NIL	.

@@ -1,0 +1,12 @@
+PRO	She
+NOW	is
+DIS	a
+IST	loose
+CON	woman
+COO	and
+FUT	will
+IST	honestly
+EXS	go
+REL	with
+AND	anyone
+NIL	.

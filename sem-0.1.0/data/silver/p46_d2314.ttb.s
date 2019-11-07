@@ -1,0 +1,11 @@
+PRO	We
+POS	might
+NOT	not
+EXS	need
+SUB	to
+EXS	attend
+DEF	the
+CON	meeting
+REL	on
+DOW	Monday
+NIL	.

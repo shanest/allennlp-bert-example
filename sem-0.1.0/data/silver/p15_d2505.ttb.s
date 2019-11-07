@@ -1,0 +1,15 @@
+DIS	A
+IST	quarterly
+CON	growth
+AND	of
+INT	1.2
+UOM	%
+NOW	means
+DIS	an
+IST	annual
+CON	growth
+CON	rate
+AND	of
+UOM	4.8
+UOM	%
+NIL	.

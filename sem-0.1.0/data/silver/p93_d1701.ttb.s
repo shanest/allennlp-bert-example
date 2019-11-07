@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+PRO	I
+POS	can
+EXS	count
+REL	on
+AND	every
+QUC	one
+AND	of
+PRO	you
+NIL	.

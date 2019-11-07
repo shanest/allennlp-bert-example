@@ -1,0 +1,15 @@
+HAS	Our
+CON	children
+NOW	are
+IST	anxious
+SUB	to
+EXS	have
+CON	bicycles
+AND	like
+DST	those
+AND	of
+DEF	the
+CON	children
+AND	next
+CON	door
+NIL	.

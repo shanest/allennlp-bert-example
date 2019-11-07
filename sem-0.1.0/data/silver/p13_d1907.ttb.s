@@ -1,0 +1,10 @@
+PRO	He
+EXS	cleansed
+DEF	the
+CON	wound
+SUB	before
+EXG	putting
+REL	on
+DIS	a
+CON	bandage
+NIL	.

@@ -1,0 +1,13 @@
+DEF	The
+CON	girl
+EPS	talked
+REL	to
+HAS	her
+CON	parents
+AND	about
+HAS	her
+CON	college
+CON	life
+REL	in
+GEO	Tokyo
+NIL	.

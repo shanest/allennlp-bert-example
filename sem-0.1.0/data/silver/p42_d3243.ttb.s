@@ -1,0 +1,15 @@
+PRX	This
+IST	beautiful
+CON	autumn
+CON	weather
+PRO	we
+NOW	've
+PFT	been
+EXS	having
+NOW	makes
+IST	up
+REL	for
+DEF	the
+IST	wet
+CON	summer
+NIL	.

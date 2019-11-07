@@ -1,0 +1,12 @@
+PER	Tom
+IST	sure
+ENS	spends
+DIS	a
+CON	lot
+AND	of
+CON	time
+REL	at
+PER	Mary
+HAS	's
+CON	house
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+NOW	has
+PST	had
+CON	trouble
+EXG	walking
+IST	ever
+SUB	since
+PRO	he
+PST	was
+QUC	six
+CON	years
+COM	old
+NIL	.

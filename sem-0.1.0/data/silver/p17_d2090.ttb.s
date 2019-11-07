@@ -1,0 +1,10 @@
+PRO	She
+PST	was
+IST	always
+PFT	been
+EXS	easy
+SUB	to
+EXS	get
+REL	along
+REL	with
+NIL	.

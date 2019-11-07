@@ -1,0 +1,11 @@
+AND	But
+DEF	the
+CON	temple
+PRO	he
+PST	had
+EXS	spoken
+AND	of
+PST	was
+HAS	his
+CON	body
+NIL	.

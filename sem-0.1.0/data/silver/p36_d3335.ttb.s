@@ -1,0 +1,11 @@
+PRO	We
+NOW	are
+EXS	working
+IST	hard
+SUB	to
+EXS	make
+IST	up
+REL	for
+EXT	lost
+CON	time
+NIL	.

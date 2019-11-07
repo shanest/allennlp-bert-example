@@ -1,0 +1,11 @@
+HAS	My
+ROL	father
+COO	and
+PRO	I
+ENS	go
+CON	fishing
+AND	once
+REL	in
+DIS	a
+CON	while
+NIL	.

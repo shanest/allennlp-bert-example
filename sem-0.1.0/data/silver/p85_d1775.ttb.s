@@ -1,0 +1,12 @@
+DST	That
+PST	was
+DEF	the
+IST	last
+CON	time
+AND	any
+AND	of
+PRO	us
+IST	ever
+EPS	saw
+PER	Tom
+NIL	.

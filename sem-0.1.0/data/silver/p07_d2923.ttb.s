@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	trying
+SUB	to
+EXS	ask
+HAS	my
+CON	questions
+REL	in
+GPO	French
+NIL	.

@@ -1,0 +1,16 @@
+QUC	82
+UOM	%
+AND	-
+MOR	more
+MOR	than
+CON	four-fifths
+AND	-
+AND	of
+DEF	the
+CON	island
+HAS	's
+CON	exports
+NOW	is
+IST	agricultural
+EXS	produce
+NIL	.

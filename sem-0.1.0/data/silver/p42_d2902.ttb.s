@@ -1,0 +1,10 @@
+PRO	He
+PST	got
+EXS	mad
+REL	at
+PRO	me
+REL	for
+EXG	calling
+PRO	him
+QUC	Shorty
+NIL	.

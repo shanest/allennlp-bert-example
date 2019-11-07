@@ -1,0 +1,11 @@
+PER	Tom
+EPS	wanted
+SUB	to
+EXS	know
+QUE	what
+PER	Mary
+HAS	's
+IST	last
+CON	name
+PST	was
+NIL	.

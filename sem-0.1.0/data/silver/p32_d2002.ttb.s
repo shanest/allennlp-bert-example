@@ -1,0 +1,9 @@
+PRO	We
+EPS	found
+DIS	a
+IST	secret
+CON	door
+REL	into
+DEF	the
+CON	building
+NIL	.

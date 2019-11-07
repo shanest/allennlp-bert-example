@@ -1,0 +1,10 @@
+PRO	She
+EPS	gave
+PRO	me
+DIS	a
+CON	watch
+REL	for
+DIS	a
+CON	birthday
+CON	present
+NIL	.

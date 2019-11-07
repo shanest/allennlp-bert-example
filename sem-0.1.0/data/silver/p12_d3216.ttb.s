@@ -1,0 +1,9 @@
+EPS	Shut
+IST	up
+COO	and
+NOW	do
+QUE	what
+PRO	you
+NOW	're
+EXS	told
+NIL	.

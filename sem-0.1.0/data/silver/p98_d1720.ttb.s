@@ -1,0 +1,13 @@
+PER	Tom
+EPS	told
+PRO	me
+SUB	that
+PRO	he
+POS	could
+EXS	come
+REL	on
+AND	any
+CON	day
+AND	but
+DOW	Tuesday
+NIL	.

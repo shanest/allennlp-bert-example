@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+NOT	not
+EXS	like
+PRO	you
+NOW	're
+EXS	going
+SUB	to
+EXS	get
+EXS	arrested
+DIS	or
+AND	anything
+NIL	.

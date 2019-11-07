@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	tired
+AND	of
+CON	hearing
+AND	about
+PER	Tom
+AND	and
+PER	Mary
+NIL	.

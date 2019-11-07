@@ -1,0 +1,11 @@
+PRO	I
+NEC	have
+NOT	n't
+EXT	gotten
+EXS	rid
+AND	of
+HAS	my
+IST	bad
+CON	cold
+ALT	yet
+NIL	.

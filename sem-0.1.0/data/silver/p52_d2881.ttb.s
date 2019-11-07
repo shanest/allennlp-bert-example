@@ -1,0 +1,17 @@
+SUB	When
+DEF	the
+ROL	politician
+EPS	died
+NIL	,
+AND	everybody
+EPS	hoped
+DEF	the
+CON	son
+FUT	would
+EXS	follow
+REL	in
+HAS	his
+CON	father
+HAS	's
+CON	footsteps
+NIL	.

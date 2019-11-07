@@ -1,0 +1,14 @@
+NIL	"
+HAS	Whose
+CON	keys
+NOW	are
+PRX	these
+QUE	?
+NIL	"
+NIL	"
+PRO	They
+NOW	are
+PER	Mary
+HAS	's
+NIL	.
+NIL	"

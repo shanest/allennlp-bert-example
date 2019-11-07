@@ -1,0 +1,9 @@
+PRO	I
+PST	had
+NOT	no
+CON	idea
+SUB	that
+PRO	you
+PST	were
+EXG	coming
+NIL	.

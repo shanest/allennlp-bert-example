@@ -1,0 +1,10 @@
+PER	Tom
+POS	might
+EXS	be
+IST	able
+SUB	to
+EXS	be
+PRX	here
+REL	by
+CLO	2:30
+NIL	.

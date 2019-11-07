@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+EXS	supposed
+SUB	to
+EXS	get
+CON	colder
+AND	and
+CON	snow
+AND	later
+NOW	today
+NIL	.

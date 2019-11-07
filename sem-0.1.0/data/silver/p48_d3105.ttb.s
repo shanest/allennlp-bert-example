@@ -1,0 +1,11 @@
+DEF	The
+IST	old
+CON	woman
+EPS	fell
+DIS	an
+IST	easy
+CON	prey
+REL	to
+DEF	the
+CON	fraud
+NIL	.

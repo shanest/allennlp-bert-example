@@ -1,0 +1,9 @@
+ROL	Cardinal
+PER	Bergoglio
+PST	was
+EXS	elected
+PER	Pope
+REL	by
+DEF	the
+CON	Conclave
+NIL	.

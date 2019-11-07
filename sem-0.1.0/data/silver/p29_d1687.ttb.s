@@ -1,0 +1,11 @@
+PRO	I
+NOW	guess
+PRO	I
+NOW	have
+NOT	no
+CON	choice
+BUT	but
+SUB	to
+EXS	workout
+NOW	now
+NIL	.

@@ -1,0 +1,10 @@
+PRO	We
+EPS	took
+DIS	a
+IST	good
+CON	place
+SUB	to
+EXS	see
+DEF	the
+CON	parade
+NIL	.

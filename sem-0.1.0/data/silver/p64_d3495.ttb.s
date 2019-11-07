@@ -1,0 +1,11 @@
+HAS	My
+ROL	father
+NOW	has
+DIS	a
+CON	ranch
+AND	and
+CON	breeds
+CON	cattle
+AND	and
+CON	horses
+NIL	.

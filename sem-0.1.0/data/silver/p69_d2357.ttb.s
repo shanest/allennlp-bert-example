@@ -1,0 +1,9 @@
+AND	Would
+PRO	you
+SUB	mind
+EXG	telling
+PRO	me
+QUE	what
+SUB	to
+EXS	do
+QUE	?

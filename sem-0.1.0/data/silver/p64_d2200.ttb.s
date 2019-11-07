@@ -1,0 +1,11 @@
+PER	Tom
+NOW	has
+NOT	n't
+EXS	written
+REL	to
+PER	Mary
+REL	in
+DIS	a
+IST	long
+CON	time
+NIL	.

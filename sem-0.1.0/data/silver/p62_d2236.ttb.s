@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	decisive
+REL	for
+PRO	us
+SUB	that
+PRO	we
+ENS	win
+PRX	this
+CON	game
+NIL	.

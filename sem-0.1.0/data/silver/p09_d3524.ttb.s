@@ -1,0 +1,9 @@
+PRO	He
+PST	was
+IST	busy
+REL	copying
+HAS	his
+CON	friend
+HAS	's
+CON	notebook
+NIL	.

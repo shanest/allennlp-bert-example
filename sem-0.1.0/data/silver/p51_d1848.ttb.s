@@ -1,0 +1,9 @@
+PRO	You
+NOW	're
+DIS	a
+INT	very
+IST	handsome
+CON	man
+EQU	,
+PER	Tom
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+CON	boy
+EXS	rowing
+DEF	the
+CON	boat
+NOW	is
+DIS	a
+CON	friend
+AND	of
+HAS	mine
+NIL	.

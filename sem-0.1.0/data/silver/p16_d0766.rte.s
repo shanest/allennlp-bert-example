@@ -1,0 +1,14 @@
+CON	Refusal
+AND	of
+GPE	Argentina
+SUB	to
+EXS	buy
+REL	cattle
+EXS	created
+IST	new
+CON	tensions
+REL	between
+DEF	the
+QUC	two
+CON	countries
+NIL	.

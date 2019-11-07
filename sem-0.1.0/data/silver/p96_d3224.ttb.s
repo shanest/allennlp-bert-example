@@ -1,0 +1,12 @@
+PER	Tom
+IST	probably
+PST	thought
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+QUE	how
+SUB	to
+EXS	use
+CON	chopsticks
+NIL	.

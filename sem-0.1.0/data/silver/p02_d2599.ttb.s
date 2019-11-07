@@ -1,0 +1,11 @@
+PRO	She
+EPS	gave
+HAS	her
+IST	entire
+CON	life
+REL	to
+DEF	the
+CON	study
+AND	of
+CON	physics
+NIL	.

@@ -1,0 +1,13 @@
+PRO	He
+EPS	spoke
+IST	so
+IST	eloquently
+SUB	that
+DEF	the
+CON	audience
+PST	were
+AND	all
+EXS	moved
+REL	to
+CON	tears
+NIL	.

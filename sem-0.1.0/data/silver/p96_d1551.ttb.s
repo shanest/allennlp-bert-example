@@ -1,0 +1,9 @@
+PRO	I
+EPS	asked
+PRO	him
+IMP	if
+PRO	he
+FUT	would
+EXS	go
+ALT	too
+NIL	.

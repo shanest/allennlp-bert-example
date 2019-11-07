@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+NOT	n't
+PFT	been
+EXS	happy
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

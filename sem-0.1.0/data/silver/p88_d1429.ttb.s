@@ -1,0 +1,10 @@
+PRO	He
+EPS	put
+CON	emphasis
+REL	on
+DEF	the
+CON	necessity
+REL	for
+IST	immediate
+CON	action
+NIL	.

@@ -1,0 +1,10 @@
+REL	Under
+DIS	a
+CON	microscope
+NIL	,
+DIS	some
+CON	viruses
+ENS	appear
+INT	quite
+EXS	beautiful
+NIL	.

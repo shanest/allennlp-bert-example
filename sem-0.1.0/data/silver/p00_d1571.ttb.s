@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	concerned
+REL	about
+HAS	my
+CON	wife
+REL	's
+CON	hacking
+CON	cough
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+SUB	when
+PER	Tom
+NOW	is
+EXS	leaving
+REL	for
+GPE	Japan
+NIL	.

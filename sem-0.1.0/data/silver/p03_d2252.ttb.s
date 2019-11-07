@@ -1,0 +1,14 @@
+CON	Listen
+REL	to
+DEF	the
+CON	album
+ALT	again
+COO	and
+EXS	tell
+PRO	me
+AND	later
+IMP	if
+PRO	you
+ENS	like
+PRO	it
+NIL	.

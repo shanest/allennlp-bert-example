@@ -1,0 +1,13 @@
+PRO	I
+ENS	think
+PRO	it
+EXS	strange
+SUB	that
+PRO	he
+NEC	should
+EXS	lose
+HAS	his
+CON	temper
+AND	over
+DST	that
+NIL	.

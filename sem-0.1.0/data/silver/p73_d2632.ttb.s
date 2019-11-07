@@ -1,0 +1,11 @@
+PRO	I
+EPS	repaired
+DEF	the
+CON	clock
+NIL	,
+PRO	it
+NOW	is
+NOW	now
+REL	in
+CON	order
+NIL	.

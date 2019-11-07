@@ -1,0 +1,11 @@
+UNK	There
+NOW	is
+QUV	much
+SUB	that
+PRO	we
+POS	can
+EXS	learn
+REL	from
+DEF	the
+GPO	Japanese
+NIL	.

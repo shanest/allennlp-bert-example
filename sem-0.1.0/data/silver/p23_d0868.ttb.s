@@ -1,0 +1,10 @@
+PRO	I
+EPS	lost
+DEF	the
+CON	watch
+AND	that
+HAS	my
+ROL	father
+EPS	gave
+PRO	me
+NIL	.

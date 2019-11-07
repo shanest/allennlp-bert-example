@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	bought
+DIS	a
+CON	house
+REL	in
+GEO	Boston
+AND	last
+CON	year
+NIL	.

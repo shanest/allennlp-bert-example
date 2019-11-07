@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+DEF	the
+CON	man
+EXS	standing
+REL	on
+DEF	the
+CON	bridge
+QUE	?

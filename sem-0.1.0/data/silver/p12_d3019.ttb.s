@@ -1,0 +1,12 @@
+PRO	It
+NOW	looks
+AND	like
+PRO	we
+NOW	're
+EXS	going
+SUB	to
+EXS	be
+EXS	staying
+PRX	here
+CON	tonight
+NIL	.

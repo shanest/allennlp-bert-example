@@ -1,0 +1,10 @@
+DEF	The
+CON	donkey
+EPS	kicked
+DEF	the
+CON	dog
+AND	that
+PST	had
+EXS	bitten
+PRO	it
+NIL	.

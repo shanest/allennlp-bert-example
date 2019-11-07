@@ -1,0 +1,14 @@
+AND	As
+IST	soon
+AND	as
+PER	Tom
+EPS	walked
+IST	out
+DEF	the
+CON	door
+NIL	,
+PER	Mary
+EPS	began
+SUB	to
+EXS	cry
+NIL	.

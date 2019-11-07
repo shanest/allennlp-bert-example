@@ -1,0 +1,11 @@
+PER	Tom
+NOW	has
+DIS	an
+IST	important
+CON	decision
+SUB	to
+EXS	make
+REL	before
+IST	next
+DOW	Monday
+NIL	.

@@ -1,0 +1,11 @@
+PRO	We
+ENS	know
+PRO	it
+PST	was
+PRO	you
+SUB	that
+EPS	took
+PER	Tom
+HAS	's
+CON	umbrella
+NIL	.

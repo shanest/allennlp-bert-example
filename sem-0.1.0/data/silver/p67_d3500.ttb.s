@@ -1,0 +1,11 @@
+DEF	The
+CON	man
+EPS	confessed
+SUB	that
+PRO	he
+PST	had
+EXS	robbed
+DEF	the
+IST	old
+CON	woman
+NIL	.

@@ -1,0 +1,11 @@
+AND	Every
+CON	dumbass
+REL	with
+DIS	a
+CON	camera
+ENS	thinks
+PRO	he
+NOW	is
+DIS	a
+CON	photographer
+NIL	.

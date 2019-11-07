@@ -1,0 +1,10 @@
+AND	Next
+CON	summer
+NIL	,
+PRO	I
+ENS	want
+SUB	to
+EXS	go
+REL	to
+GPE	Hawaii
+NIL	.

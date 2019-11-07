@@ -1,0 +1,17 @@
+NIL	"
+FUT	Will
+PRO	you
+EXS	play
+DEF	the
+CON	piano
+FUT	tomorrow
+QUE	?
+NIL	"
+NIL	"
+NOT	No
+NIL	,
+PRO	I
+FUT	wo
+NOT	n't
+NIL	.
+NIL	"

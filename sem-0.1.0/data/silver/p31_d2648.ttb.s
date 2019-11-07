@@ -1,0 +1,13 @@
+PRX	This
+NOW	is
+PER	Tom
+EXG	speaking
+NIL	.
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	speak
+REL	to
+PER	Mary
+NIL	.

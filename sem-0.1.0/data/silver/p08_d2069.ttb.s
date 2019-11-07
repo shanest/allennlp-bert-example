@@ -1,0 +1,16 @@
+AND	Even
+SUB	though
+GEO	South
+ORG	Tyrol
+NOW	is
+REL	in
+GPE	Italy
+NIL	,
+DEF	the
+CON	majority
+AND	of
+DEF	the
+CON	population
+ENS	speaks
+GPO	German
+NIL	.

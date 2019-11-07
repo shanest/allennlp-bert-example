@@ -1,0 +1,11 @@
+EXS	Excuse
+PRO	me
+NIL	,
+BUT	but
+POS	could
+PRO	you
+EXS	lend
+PRO	me
+DIS	a
+CON	pen
+QUE	?

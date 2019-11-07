@@ -1,0 +1,9 @@
+PRO	We
+FUT	'll
+EXS	have
+DIS	a
+GPO	French
+CON	test
+AND	next
+DOW	Monday
+NIL	.

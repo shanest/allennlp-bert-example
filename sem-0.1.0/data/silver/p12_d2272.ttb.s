@@ -1,0 +1,12 @@
+PRO	I
+EPS	ran
+REL	into
+DIS	an
+IST	old
+CON	friend
+AND	of
+HAS	mine
+AND	outside
+DEF	the
+CON	station
+NIL	.

@@ -1,0 +1,11 @@
+PRO	You
+NOW	have
+DIS	a
+CON	son
+EPS	named
+PER	Tom
+NIL	,
+NOW	do
+NOT	n't
+PRO	you
+QUE	?

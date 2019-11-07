@@ -1,0 +1,10 @@
+PRO	We
+NOW	are
+EXS	living
+REL	in
+DEF	the
+CON	age
+AND	of
+IST	nuclear
+CON	power
+NIL	.

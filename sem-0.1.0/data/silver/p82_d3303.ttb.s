@@ -1,0 +1,13 @@
+PRO	She
+EPS	took
+DIS	a
+CON	pencil
+COO	and
+EPS	began
+EXS	drawing
+REL	on
+DIS	a
+CON	piece
+AND	of
+CON	paper
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	looking
+IST	forward
+SUB	to
+EXS	going
+REL	to
+DEF	the
+CON	zoo
+NIL	.

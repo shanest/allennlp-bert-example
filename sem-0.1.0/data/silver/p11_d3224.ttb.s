@@ -1,0 +1,10 @@
+PRO	She
+POS	may
+EXT	have
+PFT	been
+EXS	beautiful
+SUB	when
+PRO	she
+PST	was
+EXS	young
+NIL	.

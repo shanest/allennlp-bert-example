@@ -1,0 +1,13 @@
+PER	Tom
+EPS	wondered
+QUE	how
+HAS	his
+CON	ex-wife
+AND	and
+HAS	her
+IST	new
+CON	husband
+PST	were
+EXS	getting
+REL	along
+NIL	.

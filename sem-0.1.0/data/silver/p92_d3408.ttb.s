@@ -1,0 +1,10 @@
+EXS	Let
+PRO	's
+CON	eat
+AND	outside
+IST	instead
+AND	of
+REL	in
+HAS	our
+CON	tents
+NIL	.

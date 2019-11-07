@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	loved
+AND	anybody
+AND	as
+QUV	much
+AND	as
+PRO	I
+ENS	love
+PRO	you
+NIL	.

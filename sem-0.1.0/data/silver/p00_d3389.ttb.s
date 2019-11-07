@@ -1,0 +1,9 @@
+NIL	Osakans
+DIS	sometimes
+EXS	roll
+HAS	their
+CON	Rs
+AND	like
+REL	in
+CON	Spanish
+NIL	.

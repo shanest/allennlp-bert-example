@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+EXG	carrying
+IST	out
+CON	experiments
+REL	in
+HAS	his
+CON	laboratory
+NIL	.

@@ -1,0 +1,12 @@
+HAS	My
+CON	father
+NOW	is
+INT	very
+QUC	much
+EXS	involved
+REL	in
+DEF	the
+CON	stock
+CON	market
+NOW	now
+NIL	.

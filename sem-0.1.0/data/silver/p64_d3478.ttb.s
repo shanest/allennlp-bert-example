@@ -1,0 +1,11 @@
+PRO	It
+EPS	took
+PER	Tom
+CON	months
+SUB	to
+EXS	recover
+REL	from
+HAS	his
+CON	motorbike
+CON	accident
+NIL	.

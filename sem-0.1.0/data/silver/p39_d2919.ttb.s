@@ -1,0 +1,12 @@
+PRO	She
+EPS	put
+DIS	a
+COL	red
+CON	ribbon
+REL	on
+HAS	her
+CON	umbrella
+AND	as
+DIS	a
+CON	mark
+NIL	.

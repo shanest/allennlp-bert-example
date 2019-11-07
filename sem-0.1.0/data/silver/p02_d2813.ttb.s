@@ -1,0 +1,11 @@
+DEF	The
+CON	difference
+NOW	is
+PRX	this
+COO	:
+PRO	he
+ENS	works
+COM	harder
+AND	than
+PRO	you
+NIL	.

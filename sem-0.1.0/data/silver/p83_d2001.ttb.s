@@ -1,0 +1,13 @@
+AND	According
+REL	to
+DEF	the
+CON	weather
+CON	forecast
+NIL	,
+PRO	it
+NOW	is
+EXS	going
+SUB	to
+CON	rain
+FUT	tomorrow
+NIL	.

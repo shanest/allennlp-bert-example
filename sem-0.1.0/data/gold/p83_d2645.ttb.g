@@ -1,0 +1,11 @@
+PER	Tom
+EPS	crawled
+REL	into
+CON	bed
+COO	and
+EPS	pulled
+DEF	the
+CON	covers
+REL	over
+PRO	himself
+NIL	.

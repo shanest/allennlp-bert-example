@@ -1,0 +1,11 @@
+HAS	My
+ROL	father
+AND	always
+ENS	comes
+IST	up
+REL	with
+DIS	something
+EXS	witty
+SUB	to
+EXS	say
+NIL	.

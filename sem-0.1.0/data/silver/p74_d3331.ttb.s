@@ -1,0 +1,13 @@
+REL	Since
+IST	then
+EQU	,
+IST	diplomatic
+CON	relations
+REL	between
+GPE	Canada
+AND	and
+GEO	Iran
+NOW	have
+PFT	been
+IST	suspended
+NIL	.

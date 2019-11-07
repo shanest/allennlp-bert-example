@@ -1,0 +1,10 @@
+PRO	He
+IST	often
+ENS	walks
+REL	with
+HAS	his
+CON	hand
+REL	in
+HAS	his
+CON	pocket
+NIL	.

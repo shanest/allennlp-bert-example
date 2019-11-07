@@ -1,0 +1,14 @@
+PRO	You
+NOW	're
+IST	just
+EXS	jealous
+SUB	that
+PRO	I
+NOW	have
+DIS	a
+CON	boyfriend
+COO	and
+PRO	you
+NOW	do
+NOT	n't
+NIL	.

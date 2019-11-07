@@ -1,0 +1,10 @@
+DEF	The
+GPO	Japanese
+CON	economy
+EPS	grew
+REL	by
+QUC	4
+UOM	%
+AND	last
+CON	year
+NIL	.

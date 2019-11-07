@@ -1,0 +1,17 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	say
+PRO	it
+HAS	's
+PFT	been
+EXS	fun
+EXS	being
+PRX	here
+NIL	,
+BUT	but
+PRO	it
+NOW	has
+NOT	n't
+NIL	.

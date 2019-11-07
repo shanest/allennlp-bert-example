@@ -1,0 +1,9 @@
+AND	Every
+QUC	once
+REL	in
+DIS	a
+SUB	while
+PRO	I
+ENS	study
+CON	Esperanto
+NIL	.

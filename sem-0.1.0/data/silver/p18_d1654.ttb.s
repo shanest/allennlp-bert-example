@@ -1,0 +1,10 @@
+PRO	They
+EPS	said
+PRO	it
+PST	was
+EQU	exactly
+QUE	what
+DEF	the
+ROL	president
+EPS	wanted
+NIL	.

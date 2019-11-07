@@ -1,0 +1,12 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+SUB	that
+PER	Tom
+POS	could
+EXS	write
+GPO	Chinese
+AND	so
+IST	well
+NIL	.

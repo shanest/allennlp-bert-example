@@ -1,0 +1,9 @@
+NOW	Have
+CON	fun
+NIL	,
+BUT	but
+NOW	do
+NOT	n't
+EXS	get
+EXS	lost
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	opened
+DEF	the
+CON	door
+AND	and
+DEF	the
+CON	dog
+EPS	ran
+IST	out
+NIL	.

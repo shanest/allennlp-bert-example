@@ -1,0 +1,11 @@
+PRO	I
+NOW	think
+PRO	I
+EPS	had
+IST	better
+NOT	not
+EXS	say
+AND	anything
+AND	about
+PRO	it
+NIL	.

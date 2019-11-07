@@ -1,0 +1,16 @@
+PRO	We
+NOW	're
+EXS	going
+REL	to
+DIS	a
+IST	new
+CON	bar
+CON	tonight
+NIL	.
+NOW	Do
+PRO	you
+ENS	want
+SUB	to
+EXS	come
+REL	along
+QUE	?

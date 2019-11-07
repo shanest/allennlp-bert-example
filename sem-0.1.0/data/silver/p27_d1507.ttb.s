@@ -1,0 +1,13 @@
+PRO	We
+FUT	will
+EXS	keep
+PRO	you
+EXS	informed
+AND	of
+CON	things
+SUB	that
+EXS	happen
+PRX	here
+REL	in
+GPE	Japan
+NIL	.

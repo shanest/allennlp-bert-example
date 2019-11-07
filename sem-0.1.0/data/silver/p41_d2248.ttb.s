@@ -1,0 +1,9 @@
+PRO	I
+ENS	love
+DEF	the
+CON	smell
+REL	of
+IST	freshly
+EXT	baked
+CON	bread
+NIL	.

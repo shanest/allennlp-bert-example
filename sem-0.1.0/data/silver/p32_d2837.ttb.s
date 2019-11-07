@@ -1,0 +1,9 @@
+PER	Tom
+PST	was
+EXS	watching
+QUE	what
+PST	was
+EXS	happening
+INT	very
+IST	carefully
+NIL	.

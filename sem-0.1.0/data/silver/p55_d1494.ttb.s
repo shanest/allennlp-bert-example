@@ -1,0 +1,10 @@
+IST	Please
+EXS	tell
+PRO	me
+SUB	where
+PRO	I
+POS	can
+EXS	park
+HAS	my
+CON	car
+NIL	.

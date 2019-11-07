@@ -1,0 +1,14 @@
+DEF	The
+IST	first
+CON	thing
+PRO	I
+PST	did
+SUB	after
+EXG	getting
+CON	home
+PST	was
+EXG	taking
+HAS	my
+CON	shoes
+REL	off
+NIL	.

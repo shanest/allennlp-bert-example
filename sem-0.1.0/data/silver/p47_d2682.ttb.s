@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+IST	just
+PST	got
+EXS	married
+IST	last
+CON	year
+NIL	.

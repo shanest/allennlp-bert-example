@@ -1,0 +1,10 @@
+PER	Mary
+EPS	said
+PRO	she
+EPS	wished
+PRO	I
+PST	was
+IST	more
+EXS	like
+PER	Tom
+NIL	.

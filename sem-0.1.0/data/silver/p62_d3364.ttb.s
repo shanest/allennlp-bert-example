@@ -1,0 +1,15 @@
+PRO	It
+PST	was
+EXS	clear
+REL	to
+PER	Tom
+AND	that
+PER	Mary
+PST	was
+NOT	n't
+EXS	going
+SUB	to
+EXS	change
+HAS	her
+CON	mind
+NIL	.

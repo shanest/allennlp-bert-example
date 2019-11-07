@@ -1,0 +1,16 @@
+PRO	I
+EPS	met
+PRO	her
+REL	at
+DEF	the
+CON	station
+NIL	,
+BUT	but
+PRO	I
+PST	did
+NOT	not
+EXS	recognize
+HAS	her
+REL	in
+CON	uniform
+NIL	.

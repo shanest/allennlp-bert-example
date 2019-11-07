@@ -1,0 +1,12 @@
+PRO	We
+EPS	found
+XCL	only
+DIS	a
+IST	small
+CON	number
+AND	of
+CON	customers
+REL	in
+DEF	the
+CON	store
+NIL	.

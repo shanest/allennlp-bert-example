@@ -1,0 +1,9 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	talk
+SUB	to
+PER	Tom
+IST	right
+NOW	now
+NIL	.

@@ -1,0 +1,9 @@
+EXS	Prove
+SUB	that
+UNK	P
+NOW	is
+DIS	a
+IST	partially
+EXT	ordered
+CON	set
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	guess
+PRO	I
+FUT	wo
+NOT	n't
+EXS	be
+EXG	seeing
+PRO	you
+ALT	again
+NIL	.

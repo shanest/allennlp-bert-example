@@ -1,0 +1,10 @@
+PRO	I
+EPS	made
+QUC	five
+CON	applications
+REL	for
+CON	jobs
+BUT	but
+EPS	got
+NOT	nothing
+NIL	.

@@ -1,0 +1,17 @@
+DEF	The
+CON	crime
+FUT	would
+EXT	have
+PFT	been
+EXS	perfect
+IMP	if
+DEF	the
+CON	thief
+PST	had
+NOT	n't
+EXS	forgotten
+SUB	to
+EXS	wipe
+HAS	his
+CON	fingerprints
+NIL	.

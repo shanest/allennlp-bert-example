@@ -1,0 +1,12 @@
+QUE	How
+NOW	do
+PRO	you
+NOW	think
+PER	Tom
+FUT	will
+EXS	convince
+PER	Mary
+SUB	to
+EXS	marry
+PRO	him
+QUE	?

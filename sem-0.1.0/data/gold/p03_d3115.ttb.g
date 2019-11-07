@@ -1,0 +1,10 @@
+DEF	The
+ROL	teacher
+EPS	joked
+SUB	that
+PRO	she
+PST	was
+QUC	90
+UOM	years
+DEG	old
+NIL	.

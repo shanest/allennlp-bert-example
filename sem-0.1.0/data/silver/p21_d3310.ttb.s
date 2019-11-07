@@ -1,0 +1,13 @@
+AND	According
+REL	to
+ROL	scientists
+NIL	,
+DEF	the
+CON	atmosphere
+NOW	is
+EXG	getting
+IST	warmer
+CON	year
+REL	after
+CON	year
+NIL	.

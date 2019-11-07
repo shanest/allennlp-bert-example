@@ -1,0 +1,10 @@
+PRO	You
+NOW	have
+EXS	provided
+PRO	me
+REL	with
+DIS	some
+INT	very
+IST	useful
+CON	advice
+NIL	.

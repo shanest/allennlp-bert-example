@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	take
+DIS	a
+CON	bath
+AND	as
+IST	soon
+SUB	as
+PRO	I
+NOW	get
+CON	home
+NIL	.

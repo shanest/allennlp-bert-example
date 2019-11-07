@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+HAS	your
+CON	names
+NOW	are
+NOT	n't
+REL	on
+DEF	the
+CON	list
+NIL	.

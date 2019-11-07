@@ -1,0 +1,14 @@
+IMP	If
+PRO	I
+NOW	'm
+EXS	living
+REL	in
+GEO	Madrid
+NOW	now
+NIL	,
+UNK	there
+HAS	's
+EXS	surely
+DIS	a
+CON	reason
+NIL	!

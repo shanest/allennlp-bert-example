@@ -1,0 +1,10 @@
+DEF	The
+IST	heavy
+CON	oak
+CON	tables
+PST	were
+EXS	covered
+REL	with
+COL	snow-white
+CON	linen
+NIL	.

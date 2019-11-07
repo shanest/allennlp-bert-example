@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+ENS	need
+CON	bread
+EQU	,
+CON	sausage
+AND	and
+CON	cheese
+QUE	?

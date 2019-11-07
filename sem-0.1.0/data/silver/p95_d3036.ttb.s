@@ -1,0 +1,10 @@
+DEF	The
+CON	baby
+NOW	has
+PFT	been
+EXS	crying
+REL	for
+INT	almost
+QUC	ten
+UOM	minutes
+NIL	.

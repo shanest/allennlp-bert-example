@@ -1,0 +1,14 @@
+PRO	You
+NOW	're
+DEF	the
+INT	most
+IST	beautiful
+CON	woman
+PRO	I
+NOW	've
+IST	ever
+EXS	held
+REL	in
+HAS	my
+CON	arms
+NIL	.

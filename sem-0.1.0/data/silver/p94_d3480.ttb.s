@@ -1,0 +1,10 @@
+PRO	He
+IST	never
+ENS	puts
+REL	off
+DIS	anything
+PRO	he
+ENS	has
+SUB	to
+EXS	do
+NIL	.

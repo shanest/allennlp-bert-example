@@ -1,0 +1,11 @@
+PRO	I
+EPS	told
+PRO	you
+PRO	it
+PST	was
+EXS	going
+NIL	to
+EXS	be
+IST	cold
+PRX	here
+NIL	.

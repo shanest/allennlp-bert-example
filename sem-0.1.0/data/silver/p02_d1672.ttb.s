@@ -1,0 +1,10 @@
+AND	Why
+PST	did
+NOT	n't
+PRO	you
+EXS	tell
+PRO	me
+SUB	that
+IST	last
+CON	night
+QUE	?

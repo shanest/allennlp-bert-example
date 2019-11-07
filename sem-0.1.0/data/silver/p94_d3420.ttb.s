@@ -1,0 +1,12 @@
+PER	Jules
+PER	Verne
+HAS	's
+CON	novels
+IST	nearly
+EPS	gave
+DEF	the
+CON	news
+REL	from
+DEF	the
+CON	future
+NIL	.

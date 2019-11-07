@@ -1,0 +1,14 @@
+HAS	My
+CON	mother
+EPS	told
+PRO	me
+SUB	that
+IMP	if
+PRO	I
+EPS	masturbated
+NIL	,
+PRO	I
+FUT	'd
+EXS	go
+EXS	blind
+NIL	.

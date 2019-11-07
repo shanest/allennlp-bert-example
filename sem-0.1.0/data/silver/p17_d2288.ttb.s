@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	break
+PER	Mary
+HAS	's
+CON	heart
+NIL	.

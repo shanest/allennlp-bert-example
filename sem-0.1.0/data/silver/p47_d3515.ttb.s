@@ -1,0 +1,10 @@
+AND	How
+POS	could
+PRO	you
+EXS	know
+PRX	this
+PST	was
+EXS	going
+SUB	to
+EXS	happen
+QUE	?

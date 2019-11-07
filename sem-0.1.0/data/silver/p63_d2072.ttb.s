@@ -1,0 +1,14 @@
+PRO	It
+NOW	's
+INT	very
+EXS	difficult
+AND	even
+REL	for
+DIS	a
+GPO	Japanese
+SUB	to
+EXS	put
+REL	on
+DIS	a
+CON	kimono
+NIL	.

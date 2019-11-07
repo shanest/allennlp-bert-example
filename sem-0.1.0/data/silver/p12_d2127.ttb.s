@@ -1,0 +1,11 @@
+PRO	He
+ENS	is
+SUB	as
+EXG	young
+DIS	a
+ROL	teacher
+AND	as
+IST	ever
+EXS	taught
+PRX	here
+NIL	.

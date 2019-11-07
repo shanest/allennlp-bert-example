@@ -1,0 +1,12 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	what
+SUB	to
+EXS	buy
+PER	Mary
+REL	for
+HAS	her
+CON	birthday
+NIL	.

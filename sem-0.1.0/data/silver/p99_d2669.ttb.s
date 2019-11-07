@@ -1,0 +1,13 @@
+PER	Tom
+EPS	suggested
+SUB	that
+PRO	we
+NOW	leave
+IST	right
+IST	away
+SUB	before
+PRO	it
+EPS	started
+REL	to
+CON	rain
+NIL	.

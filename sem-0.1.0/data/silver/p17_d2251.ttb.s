@@ -1,0 +1,13 @@
+IMP	If
+PRO	you
+ENS	want
+SUB	to
+EXS	see
+DIS	a
+CON	UFO
+NIL	,
+EXS	keep
+EXG	watching
+DEF	the
+CON	skies
+NIL	.

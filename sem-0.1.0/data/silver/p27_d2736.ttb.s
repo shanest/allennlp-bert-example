@@ -1,0 +1,10 @@
+DEF	The
+CON	bus
+PST	was
+EXS	empty
+NOT	except
+REL	for
+QUC	one
+IST	elderly
+CON	woman
+NIL	.

@@ -1,0 +1,12 @@
+HAS	My
+CON	father
+IST	always
+EPS	took
+PRO	me
+REL	to
+CON	school
+SUB	when
+PRO	I
+PST	was
+EXS	young
+NIL	.

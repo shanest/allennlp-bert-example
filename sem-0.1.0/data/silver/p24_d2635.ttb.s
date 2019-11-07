@@ -1,0 +1,10 @@
+AND	Instead
+AND	of
+EXS	watching
+CON	television
+NIL	,
+DEF	the
+CON	children
+EPS	played
+IST	outside
+NIL	.

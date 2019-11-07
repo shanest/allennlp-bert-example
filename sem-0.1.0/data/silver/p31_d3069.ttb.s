@@ -1,0 +1,10 @@
+DIS	A
+CON	friend
+AND	of
+HAS	mine
+NOW	is
+INT	very
+IST	fond
+AND	of
+PRX	stoats
+NIL	.

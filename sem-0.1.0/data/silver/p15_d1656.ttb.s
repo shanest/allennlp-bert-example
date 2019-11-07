@@ -1,0 +1,8 @@
+CON	Sorry
+NIL	,
+PRO	I
+NOW	've
+EXS	got
+SUB	to
+EXS	go
+NIL	.

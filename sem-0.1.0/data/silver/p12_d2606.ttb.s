@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+NOT	not
+EXG	understanding
+QUE	what
+DEF	the
+CON	author
+NOW	is
+EXS	trying
+SUB	to
+EXS	say
+NIL	.

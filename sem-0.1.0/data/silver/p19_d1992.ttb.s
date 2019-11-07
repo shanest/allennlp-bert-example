@@ -1,0 +1,10 @@
+REL	After
+AND	all
+NIL	,
+PRO	he
+EPS	succeeded
+REL	in
+EXG	passing
+DEF	the
+CON	exam
+NIL	.

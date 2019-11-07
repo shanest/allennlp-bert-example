@@ -1,0 +1,14 @@
+PRO	I
+ENS	know
+NIL	!
+EXS	Let
+PRO	me
+IST	just
+NOW	say
+SUB	that
+PER	Keiko
+NOW	is
+HAS	my
+IST	SECOND
+CON	cousin
+NIL	!

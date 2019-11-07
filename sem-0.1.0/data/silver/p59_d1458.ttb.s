@@ -1,0 +1,9 @@
+PRO	You
+NOW	've
+EXS	asked
+PRO	me
+SUB	that
+QUC	three
+CON	times
+IST	already
+NIL	.

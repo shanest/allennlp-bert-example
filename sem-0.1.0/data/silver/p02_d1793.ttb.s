@@ -1,0 +1,12 @@
+IMP	If
+PRO	you
+PST	had
+NOT	n't
+EXS	done
+PRO	it
+NIL	,
+DIS	someone
+AND	else
+FUT	would
+EXS	have
+NIL	.

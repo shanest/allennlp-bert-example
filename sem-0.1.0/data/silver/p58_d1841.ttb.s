@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	happen
+SUB	to
+EXS	know
+SUB	where
+PER	Tom
+ENS	lives
+QUE	?

@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+INT	very
+EXS	unlikely
+SUB	that
+PER	Tom
+HAS	's
+CON	children
+PST	inherited
+DIS	anything
+REL	from
+PRO	him
+NIL	.

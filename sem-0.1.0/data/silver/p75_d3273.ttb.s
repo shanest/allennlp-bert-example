@@ -1,0 +1,9 @@
+PRO	I
+NOW	find
+PRO	it
+IST	exhausting
+SUB	to
+EXS	listen
+REL	to
+PRO	him
+NIL	.

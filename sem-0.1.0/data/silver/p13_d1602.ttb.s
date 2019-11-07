@@ -1,0 +1,13 @@
+DST	That
+CON	photograph
+NOW	makes
+PRO	you
+NOW	look
+AND	like
+DEF	the
+CON	cat
+AND	that
+EPS	ate
+DEF	the
+CON	canary
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+EPS	sat
+REL	on
+CON	top
+AND	of
+HAS	his
+CON	desk
+NIL	,
+EXG	looking
+AND	out
+DEF	the
+CON	window
+NIL	.

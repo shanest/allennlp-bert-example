@@ -1,0 +1,10 @@
+PRO	He
+EPS	remained
+EXS	calm
+AND	even
+REL	in
+DEF	the
+CON	presence
+AND	of
+CON	danger
+NIL	.

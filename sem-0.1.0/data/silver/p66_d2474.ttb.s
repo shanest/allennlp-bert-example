@@ -1,0 +1,10 @@
+EXS	Keep
+DIS	an
+CON	eye
+REL	on
+HAS	my
+CON	bag
+REL	for
+DIS	a
+CON	while
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	sick
+AND	of
+EXS	listening
+REL	to
+HAS	her
+CON	complaints
+NIL	.

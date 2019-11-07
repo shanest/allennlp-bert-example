@@ -1,0 +1,10 @@
+PRO	It
+ENS	seems
+REL	to
+PRO	me
+SUB	that
+PRO	you
+NOW	do
+NOT	n't
+EXS	agree
+NIL	.

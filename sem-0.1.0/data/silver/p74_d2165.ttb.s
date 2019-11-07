@@ -1,0 +1,10 @@
+AND	Then
+NIL	,
+QUE	what
+NOW	do
+PRO	you
+EXS	need
+DEF	the
+CON	money
+REL	for
+QUE	?

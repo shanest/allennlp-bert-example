@@ -1,0 +1,12 @@
+PER	Tom
+PST	was
+EXS	lying
+REL	in
+CON	bed
+NIL	,
+EXG	staring
+IST	up
+REL	at
+DEF	the
+CON	ceiling
+NIL	.

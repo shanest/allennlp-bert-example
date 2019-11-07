@@ -1,0 +1,15 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	think
+PER	Mary
+ENS	lies
+REL	to
+PRO	him
+NIL	,
+BUT	but
+PRO	I
+ENS	know
+PRO	she
+NOW	does
+NIL	.

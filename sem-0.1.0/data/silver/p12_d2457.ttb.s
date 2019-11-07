@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+AND	always
+EXS	trying
+REL	to
+CON	boss
+AND	everyone
+IST	around
+NIL	.

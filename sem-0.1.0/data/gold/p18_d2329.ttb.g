@@ -1,0 +1,9 @@
+PRO	She
+EPS	stared
+REL	at
+HAS	her
+CON	reflection
+REL	in
+DEF	the
+CON	mirror
+NIL	.

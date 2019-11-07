@@ -1,0 +1,11 @@
+PRO	I
+FUT	'd
+EXS	prefer
+SUB	to
+EXS	die
+NIL	rather
+AND	than
+EXS	see
+PRO	you
+EXG	crying
+NIL	.

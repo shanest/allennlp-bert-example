@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+NOT	n't
+EXS	got
+EXS	used
+REL	to
+DEF	the
+CON	reality
+ALT	yet
+NIL	.

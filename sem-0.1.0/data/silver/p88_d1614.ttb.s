@@ -1,0 +1,13 @@
+PRO	I
+NEC	have
+SUB	once
+EXS	lived
+REL	in
+GEO	Beijing
+NIL	,
+COO	but
+NOW	now
+ENS	live
+REL	in
+GEO	Seoul
+NIL	.

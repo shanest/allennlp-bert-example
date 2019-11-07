@@ -1,0 +1,9 @@
+AND	Next
+CON	time
+NIL	,
+PRO	I
+FUT	'll
+EXS	do
+PRO	it
+EMP	myself
+NIL	.

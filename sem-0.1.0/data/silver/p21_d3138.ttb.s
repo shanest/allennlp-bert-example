@@ -1,0 +1,15 @@
+PRO	I
+NOW	wonder
+SUB	whether
+PRO	I
+POS	can
+EXS	add
+DIS	a
+CON	sentence
+IST	simply
+REL	by
+EXG	pressing
+DEF	the
+CON	Enter
+CON	key
+NIL	.

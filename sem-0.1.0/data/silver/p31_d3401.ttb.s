@@ -1,0 +1,13 @@
+PER	Homeopathy
+NOW	is
+EXS	considered
+DIS	a
+CON	pseudoscience
+AND	and
+NOW	is
+NOT	no
+MOR	more
+EXS	effective
+AND	than
+NIL	placebos
+NIL	.

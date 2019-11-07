@@ -1,0 +1,9 @@
+PER	Tom
+HAS	's
+ROL	mother
+EPS	died
+SUB	when
+PRO	he
+PST	was
+EXS	young
+NIL	.

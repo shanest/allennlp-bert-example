@@ -1,0 +1,9 @@
+DEF	The
+CON	capital
+CON	city
+AND	of
+GPE	Albania
+NOW	is
+EXT	called
+GEO	Tirana
+NIL	.

@@ -1,0 +1,11 @@
+NOT	Nothing
+NOW	gives
+PRO	us
+INT	so
+QUV	much
+CON	pleasure
+SUB	as
+EXS	making
+CON	things
+REF	ourselves
+NIL	.

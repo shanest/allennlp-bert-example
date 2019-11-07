@@ -1,0 +1,12 @@
+PRO	I
+PST	was
+EXS	looking
+REL	for
+DIS	a
+CON	hotel
+NIL	,
+SUB	when
+PRO	I
+EPS	saw
+PRO	you
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+HAS	's
+CON	friends
+EPS	called
+PRO	him
+ROL	Mr
+CON	Money
+CON	Bags
+NIL	.

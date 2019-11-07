@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	looking
+IST	forward
+REL	to
+CON	spending
+CON	time
+REL	with
+HAS	my
+CON	family
+NIL	.

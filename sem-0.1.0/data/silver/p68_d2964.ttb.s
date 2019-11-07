@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	used
+SUB	to
+EXS	being
+EXS	ignored
+REL	by
+HAS	my
+CON	parents
+NIL	.

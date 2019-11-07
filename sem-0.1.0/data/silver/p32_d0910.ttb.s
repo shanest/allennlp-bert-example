@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+IST	afraid
+PRO	I
+NEC	must
+EXS	be
+EXS	going
+NOW	now
+NIL	.

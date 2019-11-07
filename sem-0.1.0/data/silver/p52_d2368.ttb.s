@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	where
+PRO	she
+PST	had
+EXS	parked
+DEF	the
+CON	car
+NIL	.

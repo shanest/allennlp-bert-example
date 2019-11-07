@@ -1,0 +1,12 @@
+NOW	Have
+PRO	you
+EPS	told
+PER	Tom
+QUE	why
+PRO	you
+POS	ca
+NOT	n't
+EXS	drive
+DIS	a
+CON	car
+QUE	?

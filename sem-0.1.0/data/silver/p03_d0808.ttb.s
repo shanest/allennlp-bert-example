@@ -1,0 +1,14 @@
+NIL	"
+CON	Where
+NOW	do
+PRO	you
+ENS	live
+QUE	?
+NIL	"
+NIL	"
+PRO	I
+ENS	live
+REL	in
+GPE	Tokyo
+NIL	.
+NIL	"

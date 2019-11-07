@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	known
+PER	Tom
+SUB	since
+PRO	I
+PST	was
+DIS	a
+CON	kid
+NIL	.

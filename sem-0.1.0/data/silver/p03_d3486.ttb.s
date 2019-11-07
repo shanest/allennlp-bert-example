@@ -1,0 +1,11 @@
+DEF	The
+CON	boy
+EPS	took
+NOT	no
+CON	notice
+AND	of
+HAS	his
+ROL	father
+HAS	's
+CON	advice
+NIL	.

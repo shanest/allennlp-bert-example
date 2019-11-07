@@ -1,0 +1,14 @@
+PRO	I
+POS	could
+EXS	feel
+NOT	nothing
+BUT	but
+DEF	the
+CON	knife
+AND	as
+PRO	it
+EPS	plunged
+REL	into
+HAS	my
+IST	back
+NIL	.

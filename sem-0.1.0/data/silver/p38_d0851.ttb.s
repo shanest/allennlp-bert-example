@@ -1,0 +1,13 @@
+REL	On
+DIS	an
+CON	average
+NIL	,
+PRO	I
+ENS	go
+REL	to
+DEF	the
+CON	movies
+QUC	twice
+DIS	a
+CON	month
+NIL	.

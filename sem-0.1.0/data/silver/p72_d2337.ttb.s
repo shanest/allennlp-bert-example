@@ -1,0 +1,9 @@
+PRO	She
+IST	carefully
+EPS	watched
+DEF	the
+CON	bird
+REL	in
+DEF	the
+CON	nest
+NIL	.

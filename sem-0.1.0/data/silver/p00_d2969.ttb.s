@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+SUB	when
+PRO	you
+NEC	must
+EXS	turn
+REL	off
+DEF	the
+CON	device
+NIL	.

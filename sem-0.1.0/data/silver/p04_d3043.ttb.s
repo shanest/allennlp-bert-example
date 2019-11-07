@@ -1,0 +1,13 @@
+QUE	How
+QUV	much
+NOW	do
+PRO	I
+EXS	owe
+PRO	you
+QUE	?
+AND	-
+QUC	Four
+UOM	euros
+NIL	,
+IST	please
+NIL	.

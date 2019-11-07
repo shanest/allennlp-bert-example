@@ -1,0 +1,14 @@
+PER	Tom
+EPS	asked
+PER	Mary
+QUE	what
+DEF	the
+CON	weather
+PST	had
+PFT	been
+EXS	like
+SUB	while
+PRO	he
+PST	was
+IST	away
+NIL	.

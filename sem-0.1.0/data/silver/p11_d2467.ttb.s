@@ -1,0 +1,11 @@
+PRX	This
+CON	sentence
+POS	can
+EXS	be
+EXS	translated
+REL	to
+CON	Arabic
+REL	in
+QUV	many
+CON	ways
+NIL	.

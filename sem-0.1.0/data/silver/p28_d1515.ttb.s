@@ -1,0 +1,9 @@
+EPS	Put
+PRO	me
+AND	through
+REL	to
+DEF	the
+CON	boss
+NIL	,
+IST	please
+NIL	.

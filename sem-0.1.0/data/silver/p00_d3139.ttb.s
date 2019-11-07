@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	split
+IST	up
+SUB	after
+EXS	being
+EXS	married
+REL	for
+QUC	three
+UOM	years
+NIL	.

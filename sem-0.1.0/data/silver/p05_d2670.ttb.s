@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	not
+EXS	know
+IMP	if
+PRO	it
+FUT	will
+EXS	rain
+FUT	tomorrow
+NIL	.

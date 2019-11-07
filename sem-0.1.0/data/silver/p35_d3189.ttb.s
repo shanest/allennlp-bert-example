@@ -1,0 +1,9 @@
+AND	All
+DEF	the
+CON	students
+EPS	forgot
+SUB	to
+EXS	read
+DST	that
+CON	book
+NIL	.

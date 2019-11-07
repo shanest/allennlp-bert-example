@@ -1,0 +1,9 @@
+PRO	I
+EPS	stayed
+REL	in
+GPE	Japan
+XCL	only
+DIS	a
+IST	few
+CON	months
+NIL	.

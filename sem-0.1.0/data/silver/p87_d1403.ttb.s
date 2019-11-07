@@ -1,0 +1,11 @@
+PER	Tom
+ENS	thinks
+SUB	that
+CON	schools
+NEC	should
+EXS	teach
+CON	children
+SUB	to
+EXS	obey
+CON	authority
+NIL	.

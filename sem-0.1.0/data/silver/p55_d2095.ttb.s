@@ -1,0 +1,10 @@
+HAS	His
+CON	encounter
+REL	with
+PRO	her
+NOW	is
+EXS	enriching
+HAS	his
+IST	inner
+CON	life
+NIL	.

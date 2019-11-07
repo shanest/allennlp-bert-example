@@ -1,0 +1,14 @@
+DEF	The
+CON	odds
+NOW	are
+AND	against
+PRO	me
+NIL	,
+COO	so
+PRO	I
+NOW	think
+PRO	I
+FUT	'll
+EXS	quit
+NOW	now
+NIL	.

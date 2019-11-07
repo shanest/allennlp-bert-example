@@ -1,0 +1,10 @@
+PER	Tom
+ENS	thinks
+PRO	he
+POS	can
+EXS	tell
+SUB	when
+PER	Mary
+NOW	is
+EXG	lying
+NIL	.

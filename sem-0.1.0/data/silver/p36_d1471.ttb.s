@@ -1,0 +1,15 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	having
+DEF	the
+IST	same
+CON	dream
+AND	every
+CON	night
+REL	for
+DEF	the
+IST	past
+QUC	six
+CON	months
+NIL	.

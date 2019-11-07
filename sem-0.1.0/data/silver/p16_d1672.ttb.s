@@ -1,0 +1,12 @@
+AND	Out
+AND	of
+QUC	twenty
+CON	students
+NIL	,
+XCL	only
+QUC	one
+PST	had
+EXS	read
+DEF	the
+CON	book
+NIL	.

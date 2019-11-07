@@ -1,0 +1,10 @@
+PRO	I
+PST	thought
+PRO	you
+PST	were
+EXS	supposed
+SUB	to
+EXS	be
+REL	in
+GPE	Boston
+NIL	.

@@ -1,0 +1,16 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	do
+NOT	n't
+EXS	have
+DEF	the
+CON	time
+DIS	or
+DEF	the
+CON	money
+SUB	to
+EXS	take
+DIS	a
+CON	trip
+NIL	.

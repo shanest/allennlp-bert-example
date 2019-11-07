@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+ENS	go
+REL	into
+DEF	the
+CON	forest
+NIL	,
+EXS	watch
+IST	out
+REL	for
+DEF	the
+IST	man-eating
+CON	ogres
+NIL	!

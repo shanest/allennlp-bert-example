@@ -1,0 +1,11 @@
+ORG	Gusty
+CON	winds
+NOW	are
+EXS	making
+EXS	travel
+IST	hazardous
+REL	for
+IST	high
+CON	profile
+CON	vehicles
+NIL	.

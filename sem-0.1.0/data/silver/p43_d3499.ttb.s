@@ -1,0 +1,11 @@
+PRO	They
+NOW	're
+EXS	going
+SUB	to
+EXS	tell
+PRO	me
+DEF	the
+CON	results
+REL	on
+DOW	Monday
+NIL	.

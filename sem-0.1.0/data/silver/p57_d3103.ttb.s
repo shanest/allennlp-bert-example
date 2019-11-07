@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+EXS	forget
+SUB	to
+EXS	go
+EXS	talk
+REL	to
+PER	Tom
+PRX	this
+CON	afternoon
+NIL	.

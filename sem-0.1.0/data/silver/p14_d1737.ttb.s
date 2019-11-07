@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+QUE	how
+IST	important
+PRO	she
+NOW	is
+REL	to
+PRO	you
+NIL	.

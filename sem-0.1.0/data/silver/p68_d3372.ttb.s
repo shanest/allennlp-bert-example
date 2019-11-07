@@ -1,0 +1,13 @@
+IMP	If
+NOT	not
+NOW	now
+NIL	,
+SUB	when
+NOW	do
+PRO	you
+ENS	plan
+SUB	to
+EXS	start
+DEF	the
+CON	project
+QUE	?

@@ -1,0 +1,10 @@
+PRO	I
+IST	often
+EXS	buy
+CON	clothes
+REL	at
+PER	Tom
+PER	&
+PER	Mary
+HAS	's
+NIL	.

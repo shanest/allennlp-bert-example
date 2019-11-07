@@ -1,0 +1,13 @@
+PRO	I
+EPS	told
+PER	Tom
+PRO	he
+NEC	should
+EXS	consider
+EXS	taking
+DEF	the
+CON	job
+PER	Mary
+EPS	offered
+PRO	him
+NIL	.

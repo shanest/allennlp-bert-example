@@ -1,0 +1,13 @@
+PRO	You
+NEC	should
+IST	probably
+EXS	tell
+PER	Tom
+QUE	why
+PRO	he
+NEC	should
+NOT	n't
+EXS	be
+EXG	doing
+SUB	that
+NIL	.

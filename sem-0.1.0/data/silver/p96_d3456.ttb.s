@@ -1,0 +1,10 @@
+PRO	I
+NEC	should
+NOT	n't
+EXT	have
+EXS	trusted
+REL	in
+DIS	someone
+AND	like
+PER	Tom
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	schedule
+DIS	an
+CON	appointment
+REL	with
+ROL	Dr.
+PER	Jackson
+NIL	.

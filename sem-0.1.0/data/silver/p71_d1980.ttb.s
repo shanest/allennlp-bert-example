@@ -1,0 +1,10 @@
+CON	Courage
+NOW	is
+IST	merely
+CON	fear
+SUB	that
+CON	one
+NOW	does
+NOT	n't
+EXS	show
+NIL	.

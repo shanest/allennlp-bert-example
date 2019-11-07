@@ -1,0 +1,13 @@
+QUE	How
+NOW	do
+PRO	you
+EXS	know
+SUB	that
+PER	Tom
+NOW	is
+EXS	undressing
+PRO	you
+REL	with
+HAS	his
+CON	eyes
+QUE	?

@@ -1,0 +1,13 @@
+PER	Bob
+EPS	said
+REL	to
+HAS	his
+CON	friend
+NIL	:
+NIL	"
+DEF	The
+CON	bird
+NOW	is
+EXS	dead
+NIL	.
+NIL	"

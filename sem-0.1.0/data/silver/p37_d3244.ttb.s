@@ -1,0 +1,10 @@
+PRO	She
+NOW	is
+EXS	going
+SUB	to
+EXS	wash
+DEF	the
+CON	bike
+PRX	this
+CON	afternoon
+NIL	.

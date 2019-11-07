@@ -1,0 +1,12 @@
+PRO	I
+NOW	think
+SUB	that
+QUE	what
+PRO	you
+NOW	need
+NOW	now
+NOW	is
+SUB	to
+EXS	eat
+DIS	something
+NIL	.

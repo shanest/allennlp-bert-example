@@ -1,0 +1,11 @@
+FUT	Will
+PRX	this
+QUV	much
+CON	food
+NOW	do
+REL	for
+DIS	a
+CON	week
+HAS	's
+CON	camping
+QUE	?

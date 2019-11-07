@@ -1,0 +1,12 @@
+PRO	I
+IST	certainly
+NOW	hope
+PRO	you
+NOW	're
+EXS	planning
+SUB	to
+EXS	come
+REL	to
+HAS	my
+CON	party
+NIL	.

@@ -1,0 +1,16 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	take
+DST	that
+CON	bus
+NIL	,
+COO	so
+PRO	I
+NOW	'm
+NOT	not
+REL	at
+CON	home
+AND	right
+NOW	now
+NIL	.

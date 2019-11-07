@@ -1,0 +1,11 @@
+PRO	We
+EPS	found
+IST	out
+SUB	that
+QUE	what
+PRO	he
+EPS	said
+PST	was
+NOT	n't
+EXS	true
+NIL	.

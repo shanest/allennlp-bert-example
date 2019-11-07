@@ -1,0 +1,10 @@
+PRO	They
+EPS	shook
+CON	hands
+SUB	when
+PRO	they
+EPS	met
+REL	at
+DEF	the
+CON	airport
+NIL	.

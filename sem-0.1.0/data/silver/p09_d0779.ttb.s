@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+EXS	be
+IST	afraid
+AND	of
+EXG	making
+CON	mistakes
+SUB	when
+EXG	speaking
+GPO	English
+NIL	.

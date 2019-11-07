@@ -1,0 +1,9 @@
+PRO	We
+NOW	're
+EXS	talking
+AND	about
+AND	who
+PRO	we
+NEC	should
+EXS	hire
+NIL	.

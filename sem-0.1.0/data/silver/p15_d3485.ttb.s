@@ -1,0 +1,15 @@
+GPE	Japan
+HAS	's
+IST	national
+CON	budget
+REL	for
+DIS	a
+IST	new
+IST	fiscal
+CON	year
+NOW	is
+IST	normally
+EXS	compiled
+REL	in
+MOY	December
+NIL	.

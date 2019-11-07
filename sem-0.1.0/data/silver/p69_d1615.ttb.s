@@ -1,0 +1,15 @@
+PRO	I
+PST	had
+DIS	a
+IST	huge
+CON	breakfast
+NIL	,
+COO	so
+PRO	I
+NOW	'm
+NOT	not
+IST	really
+INT	very
+EXS	hungry
+NOW	now
+NIL	.

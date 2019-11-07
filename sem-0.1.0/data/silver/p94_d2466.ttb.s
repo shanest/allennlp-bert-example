@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+IST	really
+EXS	looking
+IST	forward
+SUB	to
+EXS	going
+REL	to
+DEF	the
+CON	beach
+REL	with
+PER	Tom
+NIL	.

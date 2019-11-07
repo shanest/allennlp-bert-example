@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+DIS	a
+CON	fact
+SUB	that
+CON	smoking
+NOW	is
+EXS	bad
+REL	for
+CON	health
+NIL	.

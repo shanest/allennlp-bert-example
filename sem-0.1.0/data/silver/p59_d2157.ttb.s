@@ -1,0 +1,11 @@
+DEF	The
+CON	speaker
+EPS	took
+AND	every
+CON	opportunity
+PRO	he
+POS	could
+SUB	to
+EXS	big-note
+REF	himself
+NIL	.

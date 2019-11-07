@@ -1,0 +1,13 @@
+PER	Tom
+POS	may
+EXT	have
+EXS	missed
+DEF	the
+CON	train
+NIL	.
+PRO	He
+NOW	has
+NOT	n't
+EXS	come
+ALT	yet
+NIL	.

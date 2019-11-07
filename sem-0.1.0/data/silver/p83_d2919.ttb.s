@@ -1,0 +1,9 @@
+PRO	I
+PST	thought
+PRO	you
+PST	'd
+IST	already
+EXS	talked
+REL	to
+PER	Tom
+NIL	.

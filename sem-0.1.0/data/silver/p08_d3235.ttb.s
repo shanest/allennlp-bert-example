@@ -1,0 +1,11 @@
+DST	Those
+NOW	are
+NOT	n't
+HAS	my
+CON	rules
+NIL	.
+PRO	They
+NOW	're
+PER	Tom
+HAS	's
+NIL	.

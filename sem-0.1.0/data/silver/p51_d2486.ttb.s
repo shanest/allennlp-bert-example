@@ -1,0 +1,15 @@
+PRO	I
+EPS	met
+PRO	you
+CON	father
+AND	last
+CON	week
+NIL	,
+AND	so
+REL	in
+DEF	the
+IST	last
+CON	week
+AND	of
+MOY	June
+NIL	.

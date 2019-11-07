@@ -1,0 +1,11 @@
+PRO	He
+PST	was
+EXS	angry
+NIL	,
+BUT	but
+PRO	he
+EPS	listened
+REL	to
+PRO	me
+IST	patiently
+NIL	.

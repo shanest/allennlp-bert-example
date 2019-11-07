@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+IST	allergic
+REL	to
+CON	bees
+NIL	,
+CON	hornets
+AND	and
+CON	wasps
+NIL	.

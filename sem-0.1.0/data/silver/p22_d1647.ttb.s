@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	why
+PER	Mary
+EPS	dropped
+IST	out
+AND	of
+CON	college
+NIL	.

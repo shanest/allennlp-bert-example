@@ -1,0 +1,11 @@
+PER	Jane
+NOW	has
+PFT	been
+EXS	acting
+REL	in
+CON	movies
+SUB	since
+PRO	she
+PST	was
+CLO	eleven
+NIL	.

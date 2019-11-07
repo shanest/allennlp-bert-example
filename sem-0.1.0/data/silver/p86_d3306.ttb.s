@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+SUB	when
+PER	Mary
+POS	can
+EXS	come
+NIL	.

@@ -1,0 +1,15 @@
+UNK	There
+EXS	used
+SUB	to
+EXS	be
+DIS	a
+COL	green
+CON	field
+PRX	here
+COO	;
+NOW	now
+UNK	there
+HAS	's
+DIS	a
+CON	supermarket
+NIL	.

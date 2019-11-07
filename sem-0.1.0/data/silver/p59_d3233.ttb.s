@@ -1,0 +1,13 @@
+PER	Tom
+EPS	helped
+PER	Mary
+REL	on
+DEF	the
+CON	bus
+NIL	,
+COO	and
+IST	then
+EPS	got
+REL	on
+REF	himself
+NIL	.

@@ -1,0 +1,13 @@
+NOT	No
+IST	sooner
+PST	had
+PRO	she
+EPS	entered
+HAS	her
+CON	room
+AND	than
+PRO	she
+EPS	began
+SUB	to
+EXS	cry
+NIL	.

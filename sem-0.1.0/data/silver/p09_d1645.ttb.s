@@ -1,0 +1,15 @@
+PER	Tom
+EPS	told
+PRO	me
+SUB	that
+PRO	he
+AND	and
+PER	Mary
+EPS	spent
+HAS	their
+CON	summer
+CON	vacation
+REL	at
+DEF	the
+CON	beach
+NIL	.

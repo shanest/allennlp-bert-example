@@ -1,0 +1,11 @@
+EXS	Stop
+EXS	beating
+AND	around
+DEF	the
+CON	bush
+AND	and
+EXS	get
+REL	to
+DEF	the
+CON	point
+NIL	.

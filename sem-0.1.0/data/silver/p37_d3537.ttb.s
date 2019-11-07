@@ -1,0 +1,9 @@
+PER	Tom
+NOW	hopes
+SUB	to
+EXS	get
+DEF	the
+CON	results
+REL	by
+DOW	Thursday
+NIL	.

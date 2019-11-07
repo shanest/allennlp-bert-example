@@ -1,0 +1,9 @@
+PRO	They
+NOW	are
+EXS	talking
+AND	about
+QUE	what
+PRO	they
+FUT	will
+EXS	sing
+NIL	.

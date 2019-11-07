@@ -1,0 +1,11 @@
+PRO	I
+IST	often
+EPS	wrote
+REL	to
+PRO	her
+SUB	when
+PRO	I
+PST	was
+DIS	a
+CON	student
+NIL	.

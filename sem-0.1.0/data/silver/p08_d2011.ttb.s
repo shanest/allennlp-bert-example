@@ -1,0 +1,11 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+PRO	she
+NOW	is
+IST	still
+EXS	missing
+NIL	.

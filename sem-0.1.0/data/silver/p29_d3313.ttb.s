@@ -1,0 +1,11 @@
+PRO	He
+ENS	believes
+REL	in
+CON	God
+NIL	,
+BUT	but
+PRO	he
+IST	rarely
+ENS	attends
+ORG	Church
+NIL	.

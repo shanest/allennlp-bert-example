@@ -1,0 +1,11 @@
+HAS	My
+ROL	brother
+GRP	and
+ROL	sister
+EXS	get
+REL	up
+APX	about
+CLO	seven-thirty
+AND	every
+CON	morning
+NIL	.

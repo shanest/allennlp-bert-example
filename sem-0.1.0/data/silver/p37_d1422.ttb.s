@@ -1,0 +1,9 @@
+PER	Tom
+EPS	asked
+IMP	if
+AND	anyone
+EPS	knew
+AND	anything
+AND	about
+PER	Mary
+NIL	.

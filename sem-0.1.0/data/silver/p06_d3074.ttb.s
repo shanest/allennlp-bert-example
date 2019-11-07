@@ -1,0 +1,11 @@
+PRO	They
+EPS	made
+CON	noises
+AND	all
+CON	night
+NIL	,
+AND	which
+PST	kept
+PRO	me
+EXS	awake
+NIL	.

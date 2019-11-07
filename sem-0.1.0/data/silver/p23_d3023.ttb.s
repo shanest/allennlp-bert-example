@@ -1,0 +1,9 @@
+NOW	Does
+PER	Tom
+ENS	know
+SUB	where
+PER	Mary
+HAS	's
+CON	house
+NOW	is
+QUE	?

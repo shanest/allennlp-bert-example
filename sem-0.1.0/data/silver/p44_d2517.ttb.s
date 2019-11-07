@@ -1,0 +1,9 @@
+PRO	He
+NOW	's
+IST	about
+SUB	to
+EXS	finish
+EXS	reading
+DEF	the
+CON	book
+NIL	.

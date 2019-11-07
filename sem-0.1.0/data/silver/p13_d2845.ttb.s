@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	lost
+NIL	.
+AND	Could
+PRO	you
+IST	please
+EXS	help
+PRO	me
+QUE	?

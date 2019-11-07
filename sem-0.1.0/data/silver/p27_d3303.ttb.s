@@ -1,0 +1,12 @@
+DEF	The
+CON	baby
+NOT	never
+EPS	kept
+IST	still
+SUB	while
+PRO	I
+PST	was
+EXS	taking
+HAS	his
+CON	picture
+NIL	.

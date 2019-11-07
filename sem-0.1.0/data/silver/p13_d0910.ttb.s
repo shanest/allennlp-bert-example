@@ -1,0 +1,11 @@
+PRO	I
+NOW	have
+DIS	a
+CON	friend
+HAS	whose
+ROL	father
+NOW	is
+DIS	a
+IST	famous
+ROL	pianist
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+PST	was
+REL	in
+DEF	the
+CON	habit
+AND	of
+EXG	getting
+IST	up
+IST	early
+NIL	.

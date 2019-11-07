@@ -1,0 +1,10 @@
+PRO	He
+HAS	's
+PFT	been
+AND	out
+AND	of
+CON	work
+REL	for
+DIS	a
+CON	month
+NIL	.

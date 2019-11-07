@@ -1,0 +1,11 @@
+PER	Tom
+PST	had
+NOT	no
+CON	way
+AND	of
+EXG	knowing
+SUB	that
+PRX	this
+FUT	would
+EXS	happen
+NIL	.

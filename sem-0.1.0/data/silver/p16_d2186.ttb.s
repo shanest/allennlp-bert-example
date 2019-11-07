@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	slowly
+EXS	getting
+EXS	used
+REL	to
+DEF	the
+EXS	humid
+REL	climate
+PRX	here
+NIL	.

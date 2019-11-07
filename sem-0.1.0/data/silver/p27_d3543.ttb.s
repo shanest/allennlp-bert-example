@@ -1,0 +1,10 @@
+NIL	There
+HAS	's
+DIS	a
+CON	ladder
+CON	leaning
+AND	against
+DEF	the
+CON	garage
+CON	wall
+NIL	.

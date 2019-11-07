@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+QUC	one
+AND	of
+DEF	the
+CON	world
+HAS	's
+TOP	most
+IST	famous
+IST	contemporary
+ROL	artists
+NIL	.

@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+EXS	going
+SUB	to
+EXS	take
+AND	about
+DIS	an
+CON	hour
+NIL	.

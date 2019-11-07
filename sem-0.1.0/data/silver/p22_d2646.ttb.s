@@ -1,0 +1,13 @@
+PER	Tom
+EPS	made
+DIS	a
+IST	frantic
+CON	attempt
+SUB	to
+EXS	finish
+CON	painting
+DEF	the
+CON	fence
+SUB	before
+EXS	dark
+NIL	.

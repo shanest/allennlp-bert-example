@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PER	Tom
+PST	left
+NOT	without
+EXG	saying
+GRE	goodbye
+NIL	.

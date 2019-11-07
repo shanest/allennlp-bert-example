@@ -1,0 +1,11 @@
+PRO	We
+NOW	are
+EXS	looking
+REL	for
+DIS	somebody
+AND	who
+POS	can
+EXS	use
+DIS	a
+CON	computer
+NIL	.

@@ -1,0 +1,10 @@
+HAS	My
+CON	room
+NOW	is
+CON	number
+QUC	fourteen
+REL	on
+DEF	the
+IST	third
+CON	floor
+NIL	.

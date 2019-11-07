@@ -1,0 +1,10 @@
+PER	Tom
+ENS	seems
+SUB	to
+EXS	be
+EXS	expecting
+PER	Mary
+SUB	to
+EXS	do
+DIS	something
+NIL	.

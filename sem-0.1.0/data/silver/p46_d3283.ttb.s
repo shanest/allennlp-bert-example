@@ -1,0 +1,14 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+HAS	her
+IST	new
+CON	novel
+NOW	is
+EXS	based
+REL	on
+HAS	her
+IST	own
+CON	experiences
+NIL	.

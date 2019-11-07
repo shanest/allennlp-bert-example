@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	busy
+NOW	now
+COO	and
+POS	ca
+NOT	n't
+EXS	go
+IST	out
+NIL	.

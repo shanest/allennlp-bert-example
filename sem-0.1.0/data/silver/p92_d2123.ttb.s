@@ -1,0 +1,11 @@
+PRO	I
+EPS	saw
+HAS	your
+ROL	cousin
+PER	Tom
+AND	just
+DIS	a
+IST	few
+CON	days
+PST	ago
+NIL	.

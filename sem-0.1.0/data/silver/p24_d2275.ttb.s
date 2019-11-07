@@ -1,0 +1,12 @@
+PRO	I
+EPS	heard
+SUB	that
+PER	Tom
+AND	and
+PER	Mary
+FUT	will
+EXS	get
+EXS	married
+REL	in
+MOY	October
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+PST	was
+INT	too
+EXS	tired
+SUB	to
+EXS	care
+REL	for
+AND	anything
+AND	but
+CON	bed
+NIL	.

@@ -1,0 +1,9 @@
+PRO	You
+NOW	're
+EXS	going
+SUB	to
+EXS	need
+DIS	a
+MOR	bigger
+CON	boat
+NIL	.

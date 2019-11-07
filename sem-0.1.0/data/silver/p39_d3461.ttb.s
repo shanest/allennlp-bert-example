@@ -1,0 +1,12 @@
+PER	Tom
+IST	always
+ENS	has
+CON	trouble
+REL	sleeping
+DEF	the
+CON	night
+REL	before
+DIS	a
+IST	big
+CON	exam
+NIL	.

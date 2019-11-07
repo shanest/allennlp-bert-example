@@ -1,0 +1,12 @@
+PRX	This
+NOW	is
+DEF	the
+IST	last
+CON	place
+PRO	I
+ENS	want
+SUB	to
+EXS	be
+IST	right
+NOW	now
+NIL	.

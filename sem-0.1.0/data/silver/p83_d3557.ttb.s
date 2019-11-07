@@ -1,0 +1,10 @@
+NOW	Is
+PRO	it
+CON	OK
+IMP	if
+PRO	I
+NOW	tell
+PER	Tom
+AND	about
+PRO	it
+QUE	?

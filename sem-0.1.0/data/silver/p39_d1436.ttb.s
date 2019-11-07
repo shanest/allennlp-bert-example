@@ -1,0 +1,11 @@
+PRX	This
+CON	dog
+ENS	barks
+REL	at
+AND	every
+CON	one
+PRO	he
+NOW	does
+NOT	n't
+EXS	know
+NIL	.

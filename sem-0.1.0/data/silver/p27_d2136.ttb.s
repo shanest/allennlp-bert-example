@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+EXS	got
+INT	so
+QUC	much
+EPS	left
+SUB	to
+EXS	do
+NIL	.

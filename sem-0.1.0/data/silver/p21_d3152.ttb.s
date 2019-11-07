@@ -1,0 +1,9 @@
+PRX	This
+CON	tank
+NOW	has
+DIS	a
+CON	capacity
+AND	of
+QUC	thirty
+UOM	liters
+NIL	.

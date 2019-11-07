@@ -1,0 +1,14 @@
+PRO	I
+ENS	wish
+PRO	you
+PST	were
+EXS	wrong
+NIL	,
+BUT	but
+PRO	I
+ENS	know
+SUB	that
+PRO	you
+NOW	're
+EXS	right
+NIL	.

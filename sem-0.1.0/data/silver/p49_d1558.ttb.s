@@ -1,0 +1,10 @@
+AND	Just
+NOW	do
+NOT	n't
+EXS	tell
+AND	anybody
+SUB	where
+PRO	you
+EPS	got
+PRX	this
+NIL	.

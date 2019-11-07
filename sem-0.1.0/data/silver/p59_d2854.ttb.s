@@ -1,0 +1,10 @@
+PRO	He
+EPS	ran
+IST	away
+AND	as
+IST	soon
+SUB	as
+PRO	he
+EPS	saw
+PRO	me
+NIL	.

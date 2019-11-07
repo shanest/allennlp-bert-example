@@ -1,0 +1,15 @@
+QUV	Many
+CON	people
+REL	in
+DEF	the
+CON	world
+EXS	complain
+SUB	that
+PRO	they
+NOW	do
+NOT	n't
+EXS	have
+CON	time
+SUB	to
+EXS	read
+NIL	.

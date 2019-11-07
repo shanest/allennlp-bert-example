@@ -1,0 +1,11 @@
+DST	That
+NOW	is
+DEF	the
+EQU	exactly
+DEF	the
+IST	same
+CON	idea
+AND	as
+PRO	I
+NOW	have
+NIL	.

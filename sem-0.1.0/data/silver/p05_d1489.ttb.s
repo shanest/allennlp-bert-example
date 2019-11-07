@@ -1,0 +1,10 @@
+PRO	I
+ENS	wonder
+IMP	if
+PRO	I
+NOW	am
+EXS	made
+REL	for
+PRX	this
+CON	world
+NIL	.

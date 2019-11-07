@@ -1,0 +1,10 @@
+PRO	It
+ENS	seems
+SUB	that
+PRO	they
+NOW	're
+EXS	bored
+AND	of
+EXS	married
+CON	life
+NIL	.

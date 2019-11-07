@@ -1,0 +1,9 @@
+PRO	You
+POS	may
+EXS	spend
+DIS	a
+IST	maximum
+AND	of
+INT	100
+UOM	dollars
+NIL	.

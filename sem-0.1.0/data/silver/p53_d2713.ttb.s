@@ -1,0 +1,9 @@
+REL	With
+DEF	the
+CON	exception
+AND	of
+PER	Tom
+NIL	,
+AND	everyone
+EPS	attended
+NIL	.

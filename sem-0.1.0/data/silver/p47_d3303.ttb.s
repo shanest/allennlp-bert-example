@@ -1,0 +1,17 @@
+PRO	I
+NOW	've
+PFT	been
+INT	very
+EXS	lucky
+REL	in
+HAS	my
+CON	life
+SUB	to
+EXT	have
+EXS	met
+QUC	many
+AND	of
+HAS	my
+IST	favorite
+ROL	actors
+NIL	.

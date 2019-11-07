@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	glad
+PRO	I
+PST	was
+IST	able
+SUB	to
+EXS	meet
+PRO	you
+PST	yesterday
+NIL	.

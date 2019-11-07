@@ -1,0 +1,11 @@
+HAS	His
+CON	weight
+NOW	is
+IST	double
+QUE	what
+PRO	it
+PST	was
+QUC	ten
+CON	years
+PST	ago
+NIL	.

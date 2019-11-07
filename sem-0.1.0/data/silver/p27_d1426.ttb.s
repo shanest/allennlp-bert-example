@@ -1,0 +1,14 @@
+CON	Air
+CON	balloons
+PST	had
+NOT	not
+IST	then
+PFT	been
+EXS	invented
+NIL	,
+NOT	nor
+CON	steamships
+NIL	,
+NOT	nor
+CON	railways
+NIL	.

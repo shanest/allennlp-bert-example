@@ -1,0 +1,11 @@
+PRO	I
+EPS	thought
+PRO	it
+PST	was
+DIS	a
+IST	good
+CON	idea
+REL	at
+DEF	the
+CON	time
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+EPS	gave
+PRO	me
+CON	clothes
+AND	as
+IST	well
+AND	as
+CON	food
+NIL	.

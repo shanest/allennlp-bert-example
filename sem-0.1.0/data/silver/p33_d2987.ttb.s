@@ -1,0 +1,15 @@
+AND	How
+IST	long
+NEC	should
+PRO	I
+ENS	live
+REL	in
+GPE	England
+REL	in
+CON	order
+SUB	to
+EXS	become
+IST	fluent
+REL	in
+GPO	English
+QUE	?

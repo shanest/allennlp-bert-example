@@ -1,0 +1,17 @@
+PRO	I
+POS	’m
+IST	still
+EXG	having
+DIS	a
+IST	hard
+CON	time
+EXS	convincing
+IST	myself
+SUB	that
+PRX	this
+NOW	is
+NOT	not
+DIS	a
+IST	fantastic
+CON	dream
+NIL	.

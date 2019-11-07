@@ -1,0 +1,11 @@
+DEF	The
+CON	distance
+REL	from
+HAS	my
+CON	home
+REL	to
+HAS	yours
+NOW	is
+QUC	two
+UOM	kilometers
+NIL	.

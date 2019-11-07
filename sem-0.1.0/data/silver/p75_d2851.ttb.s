@@ -1,0 +1,9 @@
+SUB	Although
+CON	natto
+ENS	smells
+IST	awful
+NIL	,
+PRO	it
+NOW	is
+IST	delicious
+NIL	.

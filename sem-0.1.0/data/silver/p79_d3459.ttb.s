@@ -1,0 +1,12 @@
+PRO	You
+ENS	know
+QUE	what
+QUE	?
+PRO	You
+NEC	should
+SUB	at
+EXS	least
+EXS	think
+AND	about
+PRO	it
+NIL	.

@@ -1,0 +1,13 @@
+PRO	We
+ENS	want
+SUB	to
+EXS	make
+IST	absolutely
+IST	sure
+SUB	that
+PER	Tom
+ENS	wants
+SUB	to
+EXS	do
+DST	that
+NIL	.

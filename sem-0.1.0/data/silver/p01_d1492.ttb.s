@@ -1,0 +1,10 @@
+PRO	I
+CON	demand
+NIL	to
+EXS	know
+QUE	what
+HAS	's
+EXG	going
+REL	on
+PRX	here
+NIL	.

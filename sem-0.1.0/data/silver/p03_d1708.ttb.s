@@ -1,0 +1,10 @@
+QUE	What
+CON	time
+NOW	do
+PRO	you
+ENS	go
+SUB	to
+EXS	sleep
+DOW	Saturday
+CON	night
+QUE	?

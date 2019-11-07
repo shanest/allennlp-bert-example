@@ -1,0 +1,10 @@
+NOW	Do
+NOT	n't
+EXS	hesitate
+SUB	to
+EXS	ask
+IMP	if
+PRO	you
+ENS	want
+AND	anything
+NIL	.

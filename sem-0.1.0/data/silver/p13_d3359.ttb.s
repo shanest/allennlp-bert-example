@@ -1,0 +1,11 @@
+SUB	Before
+SUB	that
+PRO	I
+EPS	played
+REL	with
+HAS	my
+ROL	sister
+REL	in
+DEF	the
+CON	park
+NIL	.

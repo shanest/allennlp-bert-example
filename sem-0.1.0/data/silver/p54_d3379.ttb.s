@@ -1,0 +1,11 @@
+AND	Could
+PRO	you
+IST	please
+EXS	tell
+PRO	me
+ALT	again
+QUE	why
+PRO	you
+NOW	are
+IST	late
+QUE	?

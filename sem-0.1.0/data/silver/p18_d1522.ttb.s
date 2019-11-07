@@ -1,0 +1,10 @@
+CON	Esperanto
+NOW	is
+EXS	spoken
+REL	in
+QUC	120
+CON	countries
+REL	of
+DEF	the
+CON	world
+NIL	.

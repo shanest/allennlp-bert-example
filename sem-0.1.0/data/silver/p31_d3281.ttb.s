@@ -1,0 +1,9 @@
+DEF	The
+CON	pasture
+NOW	has
+DIS	an
+CON	area
+AND	of
+QUC	10
+UOM	acres
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+EPS	stared
+REL	at
+PER	Mary
+REL	with
+DIS	a
+IST	blank
+CON	expression
+NIL	.

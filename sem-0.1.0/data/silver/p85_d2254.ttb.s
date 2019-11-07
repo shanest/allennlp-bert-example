@@ -1,0 +1,10 @@
+DEF	The
+ROL	President
+AND	of
+GEO	France
+FUT	will
+EXS	visit
+GPE	Japan
+AND	next
+CON	month
+NIL	.

@@ -1,0 +1,13 @@
+NOW	Do
+PRO	we
+NOW	have
+IST	enough
+CON	time
+SUB	to
+EXS	finish
+PRX	this
+REL	before
+PER	Tom
+NOW	gets
+PRX	here
+QUE	?

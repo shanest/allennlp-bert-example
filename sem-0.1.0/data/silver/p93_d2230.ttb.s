@@ -1,0 +1,10 @@
+AND	Finally
+PRO	I
+PST	was
+IST	able
+SUB	to
+EXS	get
+DEF	the
+CON	meaning
+REL	across
+NIL	.

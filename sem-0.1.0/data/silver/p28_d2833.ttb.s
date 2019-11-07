@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	decorating
+HAS	my
+CON	room
+REL	with
+GEO	Berber
+CON	symbols
+NIL	.

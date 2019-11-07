@@ -1,0 +1,12 @@
+PER	Beth
+NOW	is
+EXG	seeing
+HAS	her
+ROL	teacher
+REL	in
+DEF	the
+ROL	teacher
+HAS	's
+CON	room
+NOW	now
+NIL	.

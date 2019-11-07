@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+EXS	erected
+DIS	a
+CON	monument
+MOR	more
+IST	lasting
+MOR	than
+CON	bronze
+NIL	.

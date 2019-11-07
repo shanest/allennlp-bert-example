@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+EXG	hoping
+SUB	that
+PRO	he
+POS	can
+EXS	hitch
+DIS	a
+CON	ride
+REL	to
+GPE	Boston
+NIL	.

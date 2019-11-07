@@ -1,0 +1,11 @@
+PER	Tom
+EPS	picked
+DEF	the
+CON	coin
+IST	up
+COO	and
+EPS	examined
+PRO	it
+IST	more
+IST	closely
+NIL	.

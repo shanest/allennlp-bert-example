@@ -1,0 +1,17 @@
+PRO	I
+ENS	bet
+PRO	you
+QUC	ten
+ENS	bucks
+SUB	that
+PRO	you
+POS	ca
+NOT	n't
+EXS	stay
+REL	off
+DEF	the
+CON	grog
+REL	for
+DIS	a
+CON	month
+NIL	.

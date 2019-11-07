@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+IST	downstairs
+CON	right
+NOW	now
+EXS	talking
+REL	with
+PER	Mary
+NIL	.

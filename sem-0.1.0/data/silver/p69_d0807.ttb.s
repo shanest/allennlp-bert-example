@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+IST	open
+CLO	ten
+REL	to
+CLO	six
+CON	daily
+AND	throughout
+DEF	the
+CON	year
+NIL	.

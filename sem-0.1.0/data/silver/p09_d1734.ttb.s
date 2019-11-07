@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+EXS	clear
+SUB	that
+PRO	he
+EPS	stole
+CON	money
+REL	from
+DEF	the
+CON	safe
+NIL	.

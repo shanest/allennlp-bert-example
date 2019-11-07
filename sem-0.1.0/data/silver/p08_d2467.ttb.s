@@ -1,0 +1,12 @@
+IMP	If
+PRO	you
+EXS	mix
+COL	blue
+AND	and
+IST	red
+NIL	,
+PRO	you
+FUT	'll
+EXS	get
+COL	purple
+NIL	.

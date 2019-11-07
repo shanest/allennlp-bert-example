@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+EXS	spent
+HAS	my
+IST	whole
+CON	life
+EXS	trying
+SUB	to
+EXS	help
+ALT	others
+NIL	.

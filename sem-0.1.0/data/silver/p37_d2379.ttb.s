@@ -1,0 +1,9 @@
+PRO	It
+NOW	looks
+AND	like
+PRO	it
+NOW	's
+EXS	going
+SUB	to
+EXS	snow
+NIL	.

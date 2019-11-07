@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+NOT	n't
+PRX	here
+NIL	.
+PRO	He
+HAS	's
+IST	already
+CON	left
+NIL	.

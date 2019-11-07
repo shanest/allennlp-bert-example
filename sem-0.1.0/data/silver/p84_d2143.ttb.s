@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+NOT	n't
+EXS	going
+SUB	to
+EXS	be
+IST	happy
+SUB	to
+EXS	see
+PRO	me
+NIL	.

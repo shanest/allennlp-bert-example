@@ -1,0 +1,10 @@
+PRO	He
+EPS	thought
+SUB	that
+PRO	it
+FUT	would
+EXS	be
+EXS	interesting
+AND	and
+CON	fun
+NIL	.

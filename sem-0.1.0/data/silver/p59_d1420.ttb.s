@@ -1,0 +1,10 @@
+HAS	Our
+CON	ancestors
+EPS	arrived
+REL	in
+PRX	this
+CON	country
+REL	150
+CON	years
+PST	ago
+NIL	.

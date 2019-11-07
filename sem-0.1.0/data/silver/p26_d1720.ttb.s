@@ -1,0 +1,9 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	believe
+QUE	what
+PRO	he
+IST	just
+EPS	saw
+NIL	.

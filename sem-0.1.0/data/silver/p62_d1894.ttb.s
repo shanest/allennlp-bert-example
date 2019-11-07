@@ -1,0 +1,9 @@
+PER	Tom
+POS	could
+EXT	've
+AND	and
+NEC	should
+EXT	've
+EXS	helped
+PER	Mary
+NIL	.

@@ -1,0 +1,17 @@
+IMP	If
+PRO	I
+PST	had
+EXS	known
+AND	about
+HAS	your
+CON	illness
+NIL	,
+PRO	I
+FUT	would
+EXT	have
+EXS	visited
+PRO	you
+REL	in
+DEF	the
+CON	hospital
+NIL	.

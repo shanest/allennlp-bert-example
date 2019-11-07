@@ -1,0 +1,13 @@
+PER	Mary
+EPS	stood
+AND	as
+IST	still
+AND	as
+DIS	a
+CON	statue
+SUB	when
+PRO	she
+EPS	saw
+DEF	the
+CON	snake
+NIL	.

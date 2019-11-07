@@ -1,0 +1,11 @@
+IST	Parliamentary
+CON	elections
+POS	may
+EXS	lead
+REL	to
+DIS	a
+IST	new
+CON	government
+REL	in
+GPE	France
+NIL	.

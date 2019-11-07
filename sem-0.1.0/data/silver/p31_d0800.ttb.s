@@ -1,0 +1,9 @@
+NOT	Not
+AND	every
+CON	one
+AND	who
+ENS	lives
+PRX	here
+NOW	is
+IST	rich
+NIL	.

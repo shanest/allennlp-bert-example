@@ -1,0 +1,11 @@
+PRO	It
+NOW	saddens
+PRO	me
+IST	greatly
+SUB	to
+EXS	know
+SUB	that
+HAS	your
+ROL	father
+EPS	died
+NIL	.

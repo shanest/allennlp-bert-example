@@ -1,0 +1,15 @@
+NOW	Do
+NOT	n't
+EXS	forget
+SUB	to
+EXS	change
+DEF	the
+CON	flag
+NIL	.
+PRX	This
+NOW	is
+GEO	Berber
+NIL	,
+NOT	not
+GPO	German
+NIL	.

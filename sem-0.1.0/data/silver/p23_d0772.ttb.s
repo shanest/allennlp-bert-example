@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+COM	better
+AND	for
+PRO	you
+SUB	to
+EXS	do
+PRO	it
+NOW	now
+NIL	.

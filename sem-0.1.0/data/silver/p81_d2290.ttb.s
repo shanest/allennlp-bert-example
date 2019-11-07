@@ -1,0 +1,10 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	spend
+DIS	some
+CON	time
+REL	with
+PER	Tom
+NIL	.

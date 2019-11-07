@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	deal
+REL	with
+DST	that
+CON	problem
+AND	right
+NOW	now
+NIL	.

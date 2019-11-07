@@ -1,0 +1,14 @@
+SUB	When
+PRO	I
+EPS	entered
+DEF	the
+CON	room
+NIL	,
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXS	laughing
+REL	at
+DIS	something
+NIL	.

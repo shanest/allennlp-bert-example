@@ -1,0 +1,11 @@
+DIS	A
+IST	large
+CON	bathroom
+REL	with
+IST	natural
+CON	daylight
+NOW	belongs
+REL	to
+PRX	this
+CON	apartment
+NIL	.

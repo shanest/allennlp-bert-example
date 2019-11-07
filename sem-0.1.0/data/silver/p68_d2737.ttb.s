@@ -1,0 +1,11 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	do
+AND	everything
+PRO	I
+NOW	'm
+EXS	supposed
+SUB	to
+EXS	do
+NIL	.

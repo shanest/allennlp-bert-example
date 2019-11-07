@@ -1,0 +1,15 @@
+PER	Tom
+NOW	is
+IST	really
+EXS	jealous
+COO	and
+PRO	he
+NOW	gets
+IST	mad
+SUB	when
+ALT	other
+CON	guys
+EXS	talk
+REL	to
+PRO	me
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+NOW	's
+IST	sure
+SUB	that
+PRO	he
+FUT	'll
+EXS	pass
+DEF	the
+IST	next
+CON	exam
+NIL	.

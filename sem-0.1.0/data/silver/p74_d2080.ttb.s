@@ -1,0 +1,10 @@
+EXS	Tell
+PER	Tom
+AND	about
+QUE	what
+PRO	you
+PST	did
+DEF	the
+ALT	other
+CON	night
+NIL	.

@@ -1,0 +1,9 @@
+NOW	Now
+NIL	,
+QUE	what
+NOW	do
+PRO	you
+ENS	want
+SUB	to
+EXS	see
+QUE	?

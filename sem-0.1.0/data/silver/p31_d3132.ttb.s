@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+NOT	no
+EXS	use
+EXS	talking
+REL	to
+PRO	him
+NIL	.
+PRO	He
+NOT	never
+ENS	listens
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+EPS	gave
+DIS	a
+CON	party
+REL	on
+DIS	a
+IST	large
+CON	scale
+NIL	.

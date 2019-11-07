@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	possible
+SUB	that
+PER	Tom
+FUT	will
+EXS	get
+REL	into
+GEO	Harvard
+NIL	.

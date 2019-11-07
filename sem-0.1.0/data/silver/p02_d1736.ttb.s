@@ -1,0 +1,14 @@
+PRO	It
+ENS	's
+NOT	not
+QUE	what
+PRO	you
+EPS	said
+NIL	.
+PRO	It
+NOW	's
+QUE	how
+PRO	you
+EPS	said
+PRO	it
+NIL	.

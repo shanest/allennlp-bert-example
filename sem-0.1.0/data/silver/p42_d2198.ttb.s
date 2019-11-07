@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	remember
+QUE	what
+PRO	I
+PST	was
+EXG	looking
+REL	for
+NIL	.

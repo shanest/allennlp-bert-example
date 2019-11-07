@@ -1,0 +1,13 @@
+PRO	I
+NOW	wonder
+IMP	if
+PER	Tom
+FUT	would
+EXS	be
+IST	interested
+REL	in
+EXS	investing
+REL	in
+HAS	our
+CON	project
+NIL	.

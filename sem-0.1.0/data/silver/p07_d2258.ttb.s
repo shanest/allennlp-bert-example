@@ -1,0 +1,9 @@
+PRO	It
+HAS	's
+NOT	not
+PER	Tom
+PER	Mary
+NOW	has
+PFT	been
+EXS	protecting
+NIL	.

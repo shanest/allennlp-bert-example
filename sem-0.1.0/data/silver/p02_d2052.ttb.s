@@ -1,0 +1,11 @@
+PRO	He
+HAS	's
+DEF	the
+CON	boy
+PRO	we
+EPS	spoke
+REL	about
+DEF	the
+ALT	other
+CON	day
+NIL	.

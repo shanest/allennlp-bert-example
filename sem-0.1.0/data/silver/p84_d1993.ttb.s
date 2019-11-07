@@ -1,0 +1,10 @@
+PER	Tom
+EPS	saw
+PER	Mary
+EXS	picking
+CON	things
+IST	up
+REL	off
+DEF	the
+CON	floor
+NIL	.

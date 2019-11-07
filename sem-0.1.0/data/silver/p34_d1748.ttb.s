@@ -1,0 +1,15 @@
+PER	Tom
+ENS	needs
+HAS	our
+CON	help
+COO	and
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	make
+IST	sure
+PRO	he
+NOW	gets
+PRO	it
+NIL	.

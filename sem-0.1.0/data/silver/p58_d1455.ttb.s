@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+DIS	a
+IST	good
+CON	store
+AND	that
+HAS	's
+IST	cheap
+NIL	.

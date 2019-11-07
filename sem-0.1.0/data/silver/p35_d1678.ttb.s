@@ -1,0 +1,9 @@
+QUE	How
+IST	long
+NOW	have
+PRO	you
+AND	and
+PER	Jane
+PFT	been
+EXS	married
+QUE	?

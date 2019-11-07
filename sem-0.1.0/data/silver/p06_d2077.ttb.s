@@ -1,0 +1,16 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	deny
+DEF	the
+CON	fact
+SUB	that
+PRO	he
+EPS	did
+QUE	what
+PER	Mary
+EPS	accused
+PRO	him
+AND	of
+EXG	doing
+NIL	.

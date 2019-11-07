@@ -1,0 +1,10 @@
+PRO	He
+PST	had
+EXT	known
+DIS	some
+AND	of
+PRO	them
+REL	before
+DEF	the
+CON	war
+NIL	.

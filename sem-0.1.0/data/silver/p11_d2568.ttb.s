@@ -1,0 +1,11 @@
+HAS	Her
+IST	old
+CON	bike
+EPS	squeaked
+SUB	as
+PRO	she
+EPS	rode
+IST	down
+DEF	the
+CON	hill
+NIL	.

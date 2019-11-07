@@ -1,0 +1,12 @@
+PRO	I
+FUT	would
+NOT	n’t
+EXS	go
+IST	there
+REL	for
+AND	all
+DEF	the
+CON	tea
+REL	in
+GPE	China
+NIL	!

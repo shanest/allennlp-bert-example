@@ -1,0 +1,12 @@
+GEO	Bhutan
+NOW	is
+DIS	a
+CON	country
+AND	about
+UNK	which
+PRO	I
+IST	only
+ENS	know
+INT	very
+IST	little
+NIL	.

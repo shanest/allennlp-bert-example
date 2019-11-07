@@ -1,0 +1,13 @@
+PRO	I
+EXS	cook
+NIL	,
+BUT	but
+PRO	I
+NOW	do
+NOT	n't
+EXS	do
+DST	that
+REL	with
+QUV	much
+CON	pleasure
+NIL	.

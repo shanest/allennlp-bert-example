@@ -1,0 +1,11 @@
+PER	Tom
+PST	had
+NOT	nothing
+SUB	to
+EXS	do
+NIL	,
+COO	so
+PRO	he
+EPS	went
+CON	home
+NIL	.

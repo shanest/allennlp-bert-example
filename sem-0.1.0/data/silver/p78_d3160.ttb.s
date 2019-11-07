@@ -1,0 +1,10 @@
+PER	Tom
+ENS	knows
+PER	Mary
+COO	and
+PER	John
+NOW	are
+NOT	no
+IST	longer
+IST	together
+NIL	.

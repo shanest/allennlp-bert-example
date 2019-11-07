@@ -1,0 +1,10 @@
+AND	Unfortunately
+NIL	,
+HAS	my
+CON	teachers
+NOW	are
+NOT	not
+DEF	the
+BOT	worst
+CON	ones
+NIL	.

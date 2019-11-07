@@ -1,0 +1,12 @@
+PRO	I
+ENS	bet
+PER	Dave
+EPS	paid
+DIS	a
+IST	pretty
+CON	penny
+REL	for
+HAS	his
+IST	new
+CON	car
+NIL	.

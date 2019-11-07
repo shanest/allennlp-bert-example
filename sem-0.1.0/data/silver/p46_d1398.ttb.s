@@ -1,0 +1,10 @@
+PRO	I
+ENS	suspect
+SUB	that
+PER	Tom
+NOW	is
+REL	in
+CON	love
+REL	with
+PER	Mary
+NIL	.

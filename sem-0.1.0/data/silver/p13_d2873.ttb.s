@@ -1,0 +1,13 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	named
+HAS	their
+CON	son
+REL	after
+DEF	the
+CON	doctor
+AND	who
+EXS	delivered
+PRO	him
+NIL	.

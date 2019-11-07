@@ -1,0 +1,14 @@
+PRO	I
+EPS	saw
+PER	Michel
+IST	last
+CON	week
+NIL	.
+PRO	He
+PST	'd
+PFT	been
+EXS	sick
+REL	for
+DIS	a
+CON	week
+NIL	.

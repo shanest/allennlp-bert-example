@@ -1,0 +1,11 @@
+HAS	My
+CON	parents
+NOW	have
+PFT	been
+EXS	married
+REL	since
+SUB	before
+PRO	I
+PST	was
+EXS	born
+NIL	.

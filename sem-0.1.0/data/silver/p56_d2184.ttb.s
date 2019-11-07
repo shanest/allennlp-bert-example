@@ -1,0 +1,11 @@
+NOT	Except
+REL	for
+DST	that
+NIL	,
+PRO	you
+PST	did
+NOT	n't
+EXS	have
+AND	any
+CON	choice
+NIL	.

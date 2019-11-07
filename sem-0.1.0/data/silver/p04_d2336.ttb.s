@@ -1,0 +1,12 @@
+PRO	I
+POS	could
+EXS	write
+PER	Tom
+DIS	a
+CON	note
+IMP	if
+PRO	you
+ENS	want
+PRO	me
+SUB	to
+NIL	.

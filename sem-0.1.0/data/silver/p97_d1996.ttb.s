@@ -1,0 +1,11 @@
+PRO	He
+EPS	gave
+PRO	me
+PRX	this
+CON	doll
+REL	in
+CON	token
+AND	of
+HAS	his
+CON	gratitude
+NIL	.

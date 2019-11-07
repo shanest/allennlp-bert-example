@@ -1,0 +1,10 @@
+PRO	He
+EPS	shot
+REL	at
+DEF	the
+CON	bird
+NIL	,
+BUT	but
+EPS	missed
+PRO	it
+NIL	.

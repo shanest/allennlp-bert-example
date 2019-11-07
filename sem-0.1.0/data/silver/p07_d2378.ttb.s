@@ -1,0 +1,14 @@
+AND	As
+REL	in
+GEO	Eastern
+GEO	Europe
+NIL	,
+CON	pollution
+REL	in
+GPE	China
+NOW	is
+EXS	getting
+COM	worse
+AND	and
+COM	worse
+NIL	.

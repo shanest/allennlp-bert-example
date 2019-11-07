@@ -1,0 +1,9 @@
+PER	Yoko
+NOW	is
+DEF	the
+ROL	captain
+AND	of
+DEF	the
+CON	volleyball
+CON	team
+NIL	.

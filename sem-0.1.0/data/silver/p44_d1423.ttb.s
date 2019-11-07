@@ -1,0 +1,9 @@
+PRO	You
+NEC	ought
+NOT	not
+SUB	to
+EXS	sit
+IST	up
+AND	so
+IST	late
+NIL	.

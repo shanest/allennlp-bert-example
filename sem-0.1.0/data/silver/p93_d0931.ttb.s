@@ -1,0 +1,10 @@
+PRO	She
+ENS	needs
+DIS	someone
+AND	who
+NOW	is
+IST	able
+SUB	to
+EXS	understand
+PRO	her
+NIL	.

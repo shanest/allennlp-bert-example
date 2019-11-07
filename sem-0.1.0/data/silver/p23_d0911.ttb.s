@@ -1,0 +1,9 @@
+DEF	The
+IST	first
+CON	edition
+PST	was
+EXS	published
+QUC	ten
+CON	years
+PST	ago
+NIL	.

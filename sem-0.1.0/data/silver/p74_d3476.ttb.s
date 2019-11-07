@@ -1,0 +1,9 @@
+PER	Tom
+EPS	explained
+REL	in
+CON	detail
+QUE	what
+PRO	he
+PST	had
+EXS	seen
+NIL	.

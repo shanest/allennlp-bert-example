@@ -1,0 +1,17 @@
+UNK	There
+NOW	is
+DIS	a
+IST	really
+IST	good
+CON	restaurant
+AND	just
+REL	off
+DEF	the
+CON	beach
+SUB	that
+PRO	I
+NOW	think
+PRO	you
+FUT	'd
+EXS	enjoy
+NIL	.

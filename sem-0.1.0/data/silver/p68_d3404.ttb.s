@@ -1,0 +1,10 @@
+CON	Fortunately
+NIL	,
+PRO	I
+NOW	've
+EXS	got
+PRO	you
+SUB	to
+EXS	talk
+SUB	to
+NIL	.

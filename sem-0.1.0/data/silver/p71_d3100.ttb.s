@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+PER	Tom
+EXG	pushing
+DIS	a
+CON	stroller
+AND	down
+DEF	the
+CON	sidewalk
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+ENS	reads
+AND	as
+QUC	many
+AND	as
+QUC	twenty
+CON	books
+AND	every
+CON	week
+NIL	.

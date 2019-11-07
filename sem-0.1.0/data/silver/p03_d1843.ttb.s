@@ -1,0 +1,10 @@
+UNK	There
+PST	was
+ALT	also
+DIS	a
+IST	general
+CON	paucity
+AND	of
+EXS	trained
+CON	operatives
+NIL	.

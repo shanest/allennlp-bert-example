@@ -1,0 +1,13 @@
+PER	Mary
+ENS	thinks
+SUB	that
+PER	Oliver
+NOW	is
+IST	still
+IST	too
+IST	young
+SUB	to
+EXS	have
+DIS	a
+CON	girlfriend
+NIL	.

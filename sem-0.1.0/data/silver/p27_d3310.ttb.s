@@ -1,0 +1,13 @@
+QUE	What
+PRO	I
+EPS	told
+PRO	you
+AND	about
+PRO	him
+ALT	also
+NOW	holds
+IST	good
+REL	for
+HAS	his
+CON	brother
+NIL	.

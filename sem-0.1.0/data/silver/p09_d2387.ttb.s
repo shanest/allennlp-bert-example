@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+IMP	if
+PRO	I
+NEC	should
+EXS	believe
+PER	Tom
+DIS	or
+NOT	not
+NIL	.

@@ -1,0 +1,11 @@
+PRO	We
+NEC	have
+SUB	to
+EXS	be
+IST	ready
+SUB	to
+EXS	go
+AND	through
+CON	dangers
+IST	there
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+EXS	come
+REL	to
+GPE	Japan
+NOT	not
+SUB	to
+EXS	teach
+COO	but
+SUB	to
+EXS	write
+NIL	.

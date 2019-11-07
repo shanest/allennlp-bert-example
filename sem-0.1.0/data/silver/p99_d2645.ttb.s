@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	miss
+HAS	our
+CON	lunches
+IST	together
+NIL	.

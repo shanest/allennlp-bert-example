@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+DEF	the
+TOP	ugliest
+CON	man
+PRO	I
+NOW	've
+IST	ever
+EXS	seen
+NIL	.

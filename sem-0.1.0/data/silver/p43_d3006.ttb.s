@@ -1,0 +1,12 @@
+PER	Tom
+NIL	,
+FUT	would
+PRO	you
+EXS	show
+PER	Mary
+QUE	how
+SUB	to
+EXS	use
+DEF	the
+CON	scanner
+QUE	?

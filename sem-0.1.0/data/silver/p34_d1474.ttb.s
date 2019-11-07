@@ -1,0 +1,10 @@
+PER	Tom
+IST	always
+ENS	stays
+REL	in
+CON	bed
+REL	until
+CLO	noon
+REL	on
+DOW	Sundays
+NIL	.

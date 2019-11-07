@@ -1,0 +1,11 @@
+PRO	They
+PST	were
+INT	too
+EXS	naive
+SUB	to
+EXS	understand
+DEF	the
+CON	necessity
+AND	of
+EXS	studying
+NIL	.

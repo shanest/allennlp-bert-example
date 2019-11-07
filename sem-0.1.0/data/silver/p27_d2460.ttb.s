@@ -1,0 +1,12 @@
+PRO	I
+NOW	guess
+DIS	somebody
+PST	did
+NOT	n't
+EXS	want
+PRO	you
+SUB	to
+EXS	do
+DST	that
+ALT	again
+NIL	.

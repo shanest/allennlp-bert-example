@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	know
+QUE	what
+PRO	's
+EPS	happened
+REL	to
+PER	Tom
+QUE	?

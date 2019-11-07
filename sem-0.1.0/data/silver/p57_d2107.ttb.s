@@ -1,0 +1,12 @@
+EXS	Bring
+DIS	an
+CON	umbrella
+SUB	because
+PRO	it
+NOW	is
+EXS	expected
+SUB	to
+EXS	rain
+PRX	this
+CON	afternoon
+NIL	.

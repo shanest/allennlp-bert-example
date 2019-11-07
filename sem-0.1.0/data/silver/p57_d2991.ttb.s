@@ -1,0 +1,10 @@
+PER	Tom
+NIL	,
+PRO	you
+NOW	've
+EXS	got
+SUB	to
+EXS	talk
+REL	to
+PER	Mary
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+ENS	wish
+PRO	I
+PST	had
+EXS	married
+HAS	your
+ROL	sister
+NIL	instead
+AND	of
+PRO	you
+NIL	.

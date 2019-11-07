@@ -1,0 +1,14 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	used
+DIS	a
+CON	hacksaw
+REL	before
+NIL	.
+AND	Could
+PRO	you
+NOW	show
+PRO	me
+QUE	how
+QUE	?

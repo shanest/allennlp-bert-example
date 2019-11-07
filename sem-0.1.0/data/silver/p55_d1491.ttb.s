@@ -1,0 +1,10 @@
+REL	From
+NOW	now
+REL	on
+NIL	,
+EXS	let
+HAS	's
+EXS	keep
+REL	in
+CON	touch
+NIL	.

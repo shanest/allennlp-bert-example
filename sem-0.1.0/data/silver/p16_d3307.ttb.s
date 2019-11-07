@@ -1,0 +1,14 @@
+DIS	A
+CON	person
+AND	like
+PER	Tom
+NOW	has
+IST	probably
+NOT	never
+EPS	kissed
+DIS	anyone
+ALT	other
+AND	than
+HAS	his
+ROL	mother
+NIL	.

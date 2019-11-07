@@ -1,0 +1,12 @@
+NOT	No
+CON	one
+EPS	noticed
+HAS	her
+CON	absence
+REL	until
+DEF	the
+CON	end
+AND	of
+DEF	the
+CON	meeting
+NIL	.

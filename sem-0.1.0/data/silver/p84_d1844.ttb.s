@@ -1,0 +1,12 @@
+ORG	Freedom
+AND	of
+CON	speech
+NOW	is
+NOW	now
+EXS	taken
+AND	as
+DIS	a
+CON	matter
+AND	of
+CON	course
+NIL	.

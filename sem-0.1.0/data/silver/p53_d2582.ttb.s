@@ -1,0 +1,10 @@
+GEO	Switzerland
+NOW	is
+DEF	the
+CON	country
+REL	to
+DEF	the
+CON	east
+AND	of
+GPE	France
+NIL	.

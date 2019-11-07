@@ -1,0 +1,15 @@
+IST	Modern
+IST	healthy
+CON	eating
+CON	experts
+EPS	put
+CON	emphasis
+REL	on
+EXG	eating
+IST	wholemeal
+CON	bread
+COO	and
+EXS	eating
+IST	more
+CON	vegetables
+NIL	.

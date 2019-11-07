@@ -1,0 +1,12 @@
+PRO	He
+EPS	forgot
+SUB	to
+EXS	bring
+HAS	his
+CON	homework
+NIL	,
+COO	so
+PRO	he
+EPS	got
+CON	detention
+NIL	.

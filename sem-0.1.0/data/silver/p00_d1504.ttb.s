@@ -1,0 +1,13 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PRO	she
+FUT	'll
+EXS	be
+EXS	happy
+EXG	living
+REL	with
+HAS	her
+ROL	mother-in-law
+NIL	.

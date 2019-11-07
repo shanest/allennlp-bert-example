@@ -1,0 +1,17 @@
+NIL	Distinguishing
+CON	Truth
+REL	from
+AND	everything
+AND	else
+NOW	is
+DIS	a
+CON	theme
+EXG	filling
+QUC	many
+CON	pages
+REL	in
+DEF	the
+CON	history
+AND	of
+CON	philosophy
+NIL	.

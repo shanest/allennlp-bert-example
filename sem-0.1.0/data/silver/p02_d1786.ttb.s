@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	supposed
+SUB	to
+CON	rain
+NOW	today
+NIL	,
+NOW	is
+NOT	n't
+PRO	it
+QUE	?

@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	accustomed
+SUB	to
+EXS	sleeping
+REL	in
+DIS	a
+CON	room
+NOT	without
+CON	air
+CON	conditioning
+NIL	.

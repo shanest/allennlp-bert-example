@@ -1,0 +1,10 @@
+NIL	There
+NOW	are
+QUV	many
+CON	varieties
+AND	of
+CON	potato
+CON	dumplings
+REL	in
+GEO	Bavaria
+NIL	.

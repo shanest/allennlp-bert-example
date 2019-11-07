@@ -1,0 +1,12 @@
+NOT	No
+NIL	,
+PRO	you
+NOW	do
+NOT	n't
+EXS	know
+GEO	Java
+NIL	.
+PRO	You
+ENS	know
+CON	JavaSCRIPT
+NIL	.

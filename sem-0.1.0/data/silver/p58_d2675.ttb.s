@@ -1,0 +1,10 @@
+PER	Tom
+EPS	picked
+IST	up
+DEF	the
+CON	newspaper
+AND	and
+EXS	read
+DEF	the
+CON	headlines
+NIL	.

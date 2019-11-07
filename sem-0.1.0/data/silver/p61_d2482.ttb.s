@@ -1,0 +1,17 @@
+ROL	Mrs.
+PER	Brown
+EPS	warned
+PER	Beth
+SUB	that
+IMP	if
+PRO	she
+PST	did
+NOT	n't
+EXS	eat
+IST	properly
+PRO	she
+FUT	would
+EXS	be
+IST	permanently
+EXS	overweight
+NIL	.

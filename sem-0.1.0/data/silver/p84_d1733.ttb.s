@@ -1,0 +1,16 @@
+HAS	My
+IST	favorite
+IST	nonalcoholic
+CON	drink
+NOW	is
+DIS	an
+CON	avocado
+EXS	shake
+NIL	.
+ITJ	Yum
+NIL	,
+PRO	it
+NOW	's
+INT	so
+IST	delicious
+NIL	!

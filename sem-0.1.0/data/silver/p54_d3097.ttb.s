@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	reading
+SUB	that
+CON	book
+AND	all
+CON	afternoon
+NIL	.

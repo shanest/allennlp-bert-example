@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+IMP	if
+PRO	it
+HAS	's
+EPS	started
+EXS	snowing
+ALT	yet
+QUE	?

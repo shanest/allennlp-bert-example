@@ -1,0 +1,17 @@
+PRO	I
+ENS	need
+DIS	an
+CON	envelope
+NIL	,
+DIS	a
+CON	piece
+AND	of
+CON	paper
+NIL	,
+AND	and
+DIS	a
+CON	pencil
+DIS	or
+DIS	a
+CON	pen
+NIL	.

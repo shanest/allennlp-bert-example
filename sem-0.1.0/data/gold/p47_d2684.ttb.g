@@ -1,0 +1,13 @@
+PRO	I
+ENS	leave
+DEF	the
+CON	house
+REL	at
+CLO	8.15
+COO	and
+ENS	arrive
+REL	at
+CON	school
+REL	at
+CLO	8.45
+NIL	.

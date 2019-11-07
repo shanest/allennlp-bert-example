@@ -1,0 +1,9 @@
+DST	That
+CON	child
+EPS	threw
+DIS	a
+CON	stone
+REL	at
+DEF	the
+CON	dog
+NIL	.

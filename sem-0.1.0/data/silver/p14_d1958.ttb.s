@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+SUB	that
+PRO	you
+POS	ca
+NOT	n't
+EXS	join
+PRO	us
+NIL	.

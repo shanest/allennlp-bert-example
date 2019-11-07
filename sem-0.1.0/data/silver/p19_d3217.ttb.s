@@ -1,0 +1,11 @@
+PER	Larry
+PER	Ewing
+NOW	is
+EXS	married
+COO	and
+DEF	the
+ROL	father
+AND	of
+QUC	two
+CON	children
+NIL	.

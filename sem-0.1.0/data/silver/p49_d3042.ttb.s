@@ -1,0 +1,14 @@
+AND	All
+PRO	we
+ENS	know
+NOW	is
+SUB	that
+PER	Tom
+NOW	is
+EXG	coming
+REL	to
+HAS	our
+CON	office
+REL	at
+CLO	2:30
+NIL	.

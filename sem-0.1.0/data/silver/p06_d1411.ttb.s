@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	been
+DIS	a
+IST	long
+CON	time
+REL	since
+PRO	she
+IST	broke-up
+NIL	.

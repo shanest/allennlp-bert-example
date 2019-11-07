@@ -1,0 +1,11 @@
+IMP	If
+HAS	her
+CON	temperature
+ENS	goes
+IST	up
+NIL	,
+EXS	send
+REL	for
+DEF	the
+CON	doctor
+NIL	.

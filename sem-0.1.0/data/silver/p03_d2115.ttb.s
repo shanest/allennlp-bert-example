@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+DEF	the
+CON	difference
+REL	between
+CON	wine
+AND	and
+CON	champagne
+NIL	.

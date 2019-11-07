@@ -1,0 +1,12 @@
+PER	Tom
+EPS	grabbed
+PER	Mary
+HAS	's
+CON	arm
+COO	and
+EPS	pulled
+PRO	her
+REL	towards
+DEF	the
+CON	door
+NIL	.

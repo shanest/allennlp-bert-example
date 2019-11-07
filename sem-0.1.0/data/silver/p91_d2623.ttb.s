@@ -1,0 +1,10 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	lend
+PER	Mary
+AND	any
+CON	money
+AND	right
+NOW	now
+NIL	.

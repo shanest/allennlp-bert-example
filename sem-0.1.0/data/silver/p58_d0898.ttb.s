@@ -1,0 +1,15 @@
+PRO	I
+IST	just
+ENS	want
+SUB	to
+EXS	let
+PRO	you
+EXS	know
+SUB	that
+PRO	I
+FUT	wo
+NOT	n't
+EXS	let
+PRO	you
+IST	down
+NIL	.

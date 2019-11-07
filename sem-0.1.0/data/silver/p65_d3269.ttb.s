@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXS	wearing
+DEF	the
+IST	same
+CON	clothes
+PRO	he
+EPS	wore
+PST	yesterday
+NIL	.

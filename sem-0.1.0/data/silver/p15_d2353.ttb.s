@@ -1,0 +1,14 @@
+NOW	Do
+NOT	n't
+EXS	forget
+SUB	to
+EXS	add
+DEF	the
+CON	tag
+NIL	"
+IST	@change
+NIL	"
+REL	to
+EXS	incorrect
+CON	sentences
+NIL	.

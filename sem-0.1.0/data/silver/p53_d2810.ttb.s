@@ -1,0 +1,10 @@
+HAS	Your
+CON	uncle
+EPS	took
+PRX	these
+CON	pictures
+NIL	,
+PST	did
+NOT	n't
+PRO	he
+QUE	?

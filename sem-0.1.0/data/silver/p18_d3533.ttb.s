@@ -1,0 +1,10 @@
+REL	On
+HAS	her
+CON	way
+CON	home
+NIL	,
+PER	Mary
+EPS	came
+REL	across
+PER	John
+NIL	.

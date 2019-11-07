@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	scheduled
+SUB	to
+EXS	have
+CON	lunch
+REL	with
+PRO	him
+NIL	.

@@ -1,0 +1,14 @@
+AND	According
+REL	to
+PRO	you
+NIL	,
+AND	which
+CON	sport
+NOW	is
+DEF	the
+INT	most
+IST	popular
+CON	one
+REL	in
+GPE	Japan
+QUE	?

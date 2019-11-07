@@ -1,0 +1,10 @@
+CON	Tales
+REL	of
+HAS	her
+IST	courageous
+CON	deeds
+EPS	rang
+REL	through
+DEF	the
+CON	country
+NIL	.

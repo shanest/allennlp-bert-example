@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+PER	Tom
+NOW	is
+EXG	hiding
+DIS	something
+REL	from
+PRO	me
+NIL	.

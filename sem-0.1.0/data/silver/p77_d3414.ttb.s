@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+NOW	think
+PER	Tom
+ENS	has
+DIS	a
+CON	drug
+CON	problem
+QUE	?

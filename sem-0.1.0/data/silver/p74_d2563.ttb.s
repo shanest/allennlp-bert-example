@@ -1,0 +1,10 @@
+PER	Tom
+EPS	turned
+REL	on
+HAS	his
+CON	flashlight
+COO	and
+EPS	entered
+DEF	the
+CON	cave
+NIL	.

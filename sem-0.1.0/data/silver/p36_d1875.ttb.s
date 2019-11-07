@@ -1,0 +1,13 @@
+PRO	It
+EPS	took
+PER	Tom
+DIS	a
+IST	long
+CON	time
+SUB	to
+EXS	get
+AND	over
+PER	Mary
+HAS	's
+CON	death
+NIL	.

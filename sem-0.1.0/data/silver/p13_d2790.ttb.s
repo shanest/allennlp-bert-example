@@ -1,0 +1,12 @@
+CON	Matter
+NIL	,
+PRO	you
+ENS	see
+NIL	,
+ENS	disappears
+NIL	,
+XCL	only
+DEF	the
+CON	spirit
+NOW	remains
+NIL	.

@@ -1,0 +1,12 @@
+AND	Use
+AND	of
+CON	dogs
+REL	in
+EXG	sniffing
+IST	out
+CON	narcotics
+EPS	became
+IST	common
+AND	around
+YOC	1980
+NIL	.

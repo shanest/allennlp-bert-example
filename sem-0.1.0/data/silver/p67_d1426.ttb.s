@@ -1,0 +1,13 @@
+PRO	It
+HAS	's
+INT	very
+IST	cloudy
+NIL	.
+PRO	I
+NOW	think
+PRO	it
+NOW	's
+EXS	going
+SUB	to
+CON	rain
+NIL	.

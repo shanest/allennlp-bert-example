@@ -1,0 +1,10 @@
+PER	Tom
+EPS	threw
+DEF	the
+CON	apple
+CON	core
+REL	into
+DEF	the
+CON	garbage
+POS	can
+NIL	.

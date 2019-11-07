@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+EXG	hoping
+SUB	that
+PER	Mary
+FUT	would
+EXS	smile
+REL	at
+PRO	him
+NIL	.

@@ -1,0 +1,14 @@
+QUE	What
+PST	did
+PRO	you
+NOW	think
+SUB	when
+PRO	you
+IST	actually
+EPS	met
+PRO	me
+REL	for
+DEF	the
+IST	first
+CON	time
+QUE	?

@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+HAS	his
+ROL	grandmother
+EPS	went
+REL	to
+DEF	the
+CON	bookstore
+NIL	.

@@ -1,0 +1,11 @@
+SUB	When
+NOW	is
+DEF	the
+IST	last
+CON	time
+PRO	you
+EPS	wrote
+DIS	a
+CON	love
+CON	letter
+QUE	?

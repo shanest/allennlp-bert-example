@@ -1,0 +1,14 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	known
+DIS	a
+CON	girl
+AND	so
+EXS	affected
+NIL	.
+PRO	She
+HAS	's
+IST	really
+EXS	unbearable
+NIL	!

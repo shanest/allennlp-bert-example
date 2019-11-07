@@ -1,0 +1,11 @@
+DEF	The
+CON	baby
+PST	was
+EXS	amusing
+REF	itself
+REL	with
+DEF	the
+CON	cat
+HAS	's
+CON	tail
+NIL	.

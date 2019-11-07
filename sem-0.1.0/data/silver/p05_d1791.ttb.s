@@ -1,0 +1,11 @@
+DEF	The
+CON	charge
+REL	for
+DIS	a
+IST	front
+CON	row
+CON	seats
+NOW	is
+QUC	5
+UOM	dollars
+NIL	.

@@ -1,0 +1,9 @@
+QUV	Many
+GPE	Asians
+NOW	have
+CON	English
+AND	as
+DIS	a
+IST	common
+CON	language
+NIL	.

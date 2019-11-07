@@ -1,0 +1,13 @@
+AND	How
+POS	can
+PRO	you
+EXS	be
+IST	sure
+HAS	your
+CON	girlfriend
+NOW	is
+NOT	n't
+EXG	faking
+HAS	her
+CON	orgasms
+QUE	?

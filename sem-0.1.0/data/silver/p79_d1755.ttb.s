@@ -1,0 +1,11 @@
+NOW	Has
+DEF	the
+CON	boss
+IST	ever
+EPS	asked
+PRO	you
+SUB	to
+EXS	work
+REL	on
+DOW	Sundays
+QUE	?

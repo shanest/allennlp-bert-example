@@ -1,0 +1,10 @@
+PER	Mary
+EPS	hung
+HAS	her
+ROL	grandfather
+HAS	's
+CON	picture
+AND	over
+DEF	the
+CON	fireplace
+NIL	.

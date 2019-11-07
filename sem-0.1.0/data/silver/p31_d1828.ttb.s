@@ -1,0 +1,9 @@
+PRO	She
+EPS	bought
+DIS	a
+CON	vacuum
+CON	cleaner
+REL	at
+DEF	the
+CON	supermarket
+NIL	.

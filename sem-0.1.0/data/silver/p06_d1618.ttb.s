@@ -1,0 +1,10 @@
+PRO	She
+NOW	is
+EXG	denying
+REF	herself
+CON	sweets
+AND	because
+AND	of
+HAS	her
+CON	diet
+NIL	.

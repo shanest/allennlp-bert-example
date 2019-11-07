@@ -1,0 +1,12 @@
+PRO	She
+PST	was
+INT	very
+EXS	angry
+REL	with
+PRO	me
+SUB	when
+PRO	I
+EPS	forgot
+DEF	the
+CON	appointment
+NIL	.

@@ -1,0 +1,10 @@
+PRO	They
+PST	did
+NOT	not
+EXS	have
+CON	time
+NIL	to
+EXS	search
+REL	for
+PRO	it
+NIL	.

@@ -1,0 +1,16 @@
+QUC	One
+CON	thing
+PRO	you
+NEC	should
+EXS	know
+AND	about
+PRO	me
+NOW	is
+SUB	that
+PRO	I
+NOW	play
+CON	poker
+AND	every
+DOW	Friday
+CON	night
+NIL	.

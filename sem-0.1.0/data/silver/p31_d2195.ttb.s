@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+SUB	that
+PER	Tom
+PST	was
+UNK	there
+DIS	a
+IST	few
+CON	hours
+AND	ago
+NIL	.

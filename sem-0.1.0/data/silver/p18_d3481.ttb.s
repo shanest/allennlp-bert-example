@@ -1,0 +1,13 @@
+PRO	I
+NOT	never
+EXS	look
+REL	at
+PRX	this
+CON	picture
+NOT	without
+EXS	thinking
+AND	of
+DST	those
+IST	happy
+CON	days
+NIL	.

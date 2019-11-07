@@ -1,0 +1,11 @@
+DEF	The
+CON	laboratory
+EPS	acquired
+DIS	a
+IST	fabulous
+CON	reputation
+REL	for
+HAS	its
+IST	historic
+CON	discovery
+NIL	.

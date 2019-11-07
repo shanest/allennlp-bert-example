@@ -1,0 +1,15 @@
+DEF	The
+CON	situation
+AND	of
+DEF	the
+CON	villagers
+NOW	is
+MOR	better
+MOR	than
+QUC	ten
+CON	years
+PST	ago
+REL	in
+QUV	many
+CON	ways
+NIL	.

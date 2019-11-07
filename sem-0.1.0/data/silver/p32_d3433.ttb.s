@@ -1,0 +1,11 @@
+DEF	The
+ROL	philosopher
+PER	Socrates
+EPS	discussed
+CON	death
+REL	with
+HAS	his
+CON	friends
+REL	in
+CON	prison
+NIL	.

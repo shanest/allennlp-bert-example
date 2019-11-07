@@ -1,0 +1,13 @@
+PRO	I
+PST	was
+EXS	curious
+SUB	to
+EXS	know
+QUE	why
+CON	people
+PST	had
+PFT	been
+EXS	staring
+REL	at
+PRO	me
+NIL	.

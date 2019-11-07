@@ -1,0 +1,10 @@
+QUE	How
+QUV	many
+CON	eggs
+PST	were
+PRO	you
+IST	able
+SUB	to
+EXS	get
+PST	yesterday
+QUE	?

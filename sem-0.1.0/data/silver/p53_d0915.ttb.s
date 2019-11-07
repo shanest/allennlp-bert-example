@@ -1,0 +1,10 @@
+PER	Kate
+PST	was
+EXS	surprised
+SUB	when
+PRO	she
+EPS	saw
+SUB	that
+EXS	big
+CON	dog
+NIL	.

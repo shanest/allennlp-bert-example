@@ -1,0 +1,12 @@
+PRO	I
+NOW	think
+PRO	you
+NOW	hate
+PER	Tom
+AND	as
+QUV	much
+AND	as
+PRO	he
+ENS	hates
+PRO	you
+NIL	.

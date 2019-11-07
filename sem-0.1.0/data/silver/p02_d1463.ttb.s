@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	keep
+HAS	my
+CON	eyes
+REL	off
+AND	of
+PRO	it
+NIL	.

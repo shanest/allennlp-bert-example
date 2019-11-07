@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+PFT	been
+REL	in
+GPE	Boston
+REL	for
+DIS	a
+CON	week
+NOW	now
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+IST	old
+CON	man
+PST	was
+EXG	sitting
+REL	on
+DIS	a
+CON	bench
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+ROL	thief
+EPS	told
+DEF	the
+CON	police
+PRO	he
+PST	had
+NOT	n't
+EXS	stolen
+AND	anything
+NIL	.

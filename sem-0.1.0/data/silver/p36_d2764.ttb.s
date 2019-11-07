@@ -1,0 +1,9 @@
+PER	Paula
+NOW	is
+EXS	going
+SUB	to
+EXS	wash
+DEF	the
+CON	car
+FUT	tomorrow
+NIL	.

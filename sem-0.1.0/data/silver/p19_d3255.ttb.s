@@ -1,0 +1,9 @@
+ITJ	Oh
+HAS	my
+CON	God
+NIL	,
+PRO	it
+HAS	's
+HAS	my
+CON	house
+NIL	!

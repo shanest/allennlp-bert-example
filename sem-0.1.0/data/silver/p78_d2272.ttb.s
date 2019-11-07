@@ -1,0 +1,16 @@
+PRO	It
+NOW	's
+INT	practically
+EXS	impossible
+NOT	not
+SUB	to
+EXS	use
+CON	baby
+EXS	talk
+SUB	when
+EXS	talking
+REL	to
+DIS	a
+IST	young
+CON	child
+NIL	.

@@ -1,0 +1,13 @@
+IST	Seriously
+NIL	.
+PRO	We
+NOW	're
+EXS	going
+SUB	to
+EXS	have
+SUB	to
+EXS	do
+DIS	something
+REL	about
+PRX	this
+NIL	.

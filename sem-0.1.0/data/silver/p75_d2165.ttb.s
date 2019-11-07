@@ -1,0 +1,11 @@
+DEF	The
+CON	stars
+EXG	twinkling
+REL	in
+DEF	the
+CON	night
+CON	sky
+EPS	looked
+REL	like
+CON	jewels
+NIL	.

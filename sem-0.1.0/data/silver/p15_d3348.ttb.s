@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	trying
+SUB	to
+EXS	trace
+HAS	his
+CON	birth
+ROL	mother
+NIL	.

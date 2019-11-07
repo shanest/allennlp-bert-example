@@ -1,0 +1,10 @@
+PER	Tom
+EPS	gave
+PER	Mary
+DIS	a
+CON	message
+SUB	to
+EXS	give
+REL	to
+PER	John
+NIL	.

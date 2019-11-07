@@ -1,0 +1,11 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	find
+PER	Tom
+NIL	.
+NOW	Has
+PRO	he
+EXS	gone
+IST	already
+QUE	?

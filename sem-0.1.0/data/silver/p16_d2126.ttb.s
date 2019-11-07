@@ -1,0 +1,16 @@
+CON	Women
+AND	inspire
+PRO	us
+SUB	to
+EXS	do
+IST	great
+CON	things
+NIL	-
+COO	and
+IST	then
+EXS	stop
+PRO	us
+REL	from
+EXG	doing
+PRO	them
+NIL	.

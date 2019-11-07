@@ -1,0 +1,15 @@
+IMP	If
+PRO	you
+NOW	've
+EXS	got
+NOT	nothing
+AND	else
+SUB	to
+EXS	do
+NIL	,
+AND	then
+EXS	count
+DEF	the
+GPO	Greek
+CON	islands
+NIL	.

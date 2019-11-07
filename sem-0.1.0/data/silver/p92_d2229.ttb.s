@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+DIS	an
+CON	aunt
+AND	who
+NOW	is
+REL	in
+CON	prison
+NIL	.

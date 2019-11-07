@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+DIS	a
+CON	lot
+REL	in
+IST	common
+REL	with
+PER	Mary
+NIL	.

@@ -1,0 +1,9 @@
+PRO	We
+ALT	also
+NOW	think
+SUB	that
+PRO	he
+HAS	's
+DIS	a
+CON	bastard
+NIL	.

@@ -1,0 +1,11 @@
+QUC	One
+CON	way
+DIS	or
+DEF	the
+CON	other
+PRO	we
+EPS	made
+PRO	him
+EXS	understand
+PRO	it
+NIL	.

@@ -1,0 +1,11 @@
+HAS	His
+ROL	mother
+EPS	sat
+IST	up
+AND	all
+CON	night
+EXS	waiting
+REL	for
+HAS	her
+CON	son
+NIL	.

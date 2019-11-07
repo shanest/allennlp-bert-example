@@ -1,0 +1,10 @@
+PER	Tom
+EPS	acted
+AND	as
+IMP	if
+PRO	he
+PST	did
+NOT	n't
+EXS	know
+PER	Mary
+NIL	.

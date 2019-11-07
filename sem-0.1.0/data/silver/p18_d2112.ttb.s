@@ -1,0 +1,15 @@
+PRO	I
+POS	can
+EXS	tell
+SUB	that
+PRO	you
+NOW	're
+DIS	a
+CON	daughter
+AND	who
+ENS	cares
+QUV	much
+REL	for
+HAS	your
+CON	parents
+NIL	.

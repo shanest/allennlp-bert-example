@@ -1,0 +1,9 @@
+PRO	You
+PST	'd
+IST	better
+EXS	tell
+PER	Tom
+PRO	you
+NOW	're
+EXS	sorry
+NIL	.

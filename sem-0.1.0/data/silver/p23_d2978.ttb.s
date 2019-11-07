@@ -1,0 +1,15 @@
+NOT	No
+CON	matter
+AND	who
+PRO	it
+PST	was
+SUB	that
+EPS	wrote
+PRX	this
+CON	book
+NIL	,
+PRO	he
+NOW	's
+INT	very
+EXS	clever
+NIL	.

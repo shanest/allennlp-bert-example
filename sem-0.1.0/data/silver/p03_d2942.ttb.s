@@ -1,0 +1,12 @@
+IMP	If
+PRO	he
+PST	had
+PFT	been
+EXS	free
+NIL	,
+PRO	he
+FUT	would
+EXT	have
+EXS	gone
+CON	fishing
+NIL	.

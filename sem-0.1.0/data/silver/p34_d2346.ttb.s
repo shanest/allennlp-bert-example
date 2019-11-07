@@ -1,0 +1,10 @@
+CON	Relax
+NIL	.
+PRO	We
+NOW	're
+EXS	going
+SUB	to
+EXS	be
+AND	all
+CON	right
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+EPS	drank
+REF	himself
+REL	into
+DIS	a
+CON	stupor
+SUB	when
+PER	Mary
+EPS	walked
+IST	out
+REL	on
+PRO	him
+NIL	.

@@ -1,0 +1,12 @@
+HAS	Your
+CON	team
+NOW	is
+INT	very
+EXS	good
+NIL	,
+BUT	but
+HAS	theirs
+NOW	is
+DEF	the
+TOP	best
+NIL	.

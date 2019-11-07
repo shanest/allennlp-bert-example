@@ -1,0 +1,9 @@
+NOW	Are
+PRO	you
+EXG	joking
+NIL	,
+DIS	or
+NOW	are
+PRO	you
+EXS	serious
+QUE	?

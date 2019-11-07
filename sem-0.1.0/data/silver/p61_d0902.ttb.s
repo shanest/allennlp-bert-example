@@ -1,0 +1,13 @@
+PER	Tom
+PST	was
+EXS	fucking
+PER	Mary
+SUB	while
+EXS	translating
+PRX	this
+CON	sentence
+REL	on
+HAS	his
+CON	Android
+CON	device
+NIL	.

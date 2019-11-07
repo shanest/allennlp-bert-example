@@ -1,0 +1,10 @@
+POS	May
+PRO	I
+ENS	ask
+PRO	you
+NIL	to
+EXS	call
+PRO	me
+IST	back
+IST	later
+QUE	?

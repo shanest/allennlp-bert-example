@@ -1,0 +1,10 @@
+DST	That
+NOW	is
+DEF	the
+CON	girl
+HAS	whose
+ROL	father
+NOW	is
+DIS	a
+CON	doctor
+NIL	.

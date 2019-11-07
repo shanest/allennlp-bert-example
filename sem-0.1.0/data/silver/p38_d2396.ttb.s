@@ -1,0 +1,10 @@
+PER	Tom
+ENS	has
+NOT	no
+CON	idea
+AND	who
+PER	Mary
+HAS	's
+ROL	grandfather
+NOW	is
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+REL	in
+CON	search
+AND	of
+DEF	the
+IST	lost
+CON	language
+NIL	.

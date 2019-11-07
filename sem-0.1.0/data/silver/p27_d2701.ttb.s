@@ -1,0 +1,9 @@
+REL	For
+CON	God
+HAS	's
+CON	sake
+EXS	tell
+PRO	me
+DEF	the
+CON	truth
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+IST	new
+CON	designs
+NOW	are
+QUV	much
+COM	better
+AND	than
+DEF	the
+IST	old
+CON	ones
+NIL	.

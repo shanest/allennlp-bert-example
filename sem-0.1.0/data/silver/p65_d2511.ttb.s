@@ -1,0 +1,12 @@
+DEF	The
+CON	wife
+AND	and
+CON	son
+AND	of
+DEF	the
+ROL	statesman
+EPS	died
+QUC	three
+CON	years
+PST	ago
+NIL	.

@@ -1,0 +1,12 @@
+CON	Time
+ENS	flies
+AND	like
+DIS	an
+CON	arrow
+COO	;
+CON	fruit
+ENS	flies
+AND	like
+DIS	a
+CON	banana
+NIL	.

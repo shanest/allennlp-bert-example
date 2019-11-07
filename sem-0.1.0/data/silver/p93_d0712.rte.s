@@ -1,0 +1,12 @@
+ORG	UK
+CON	interest
+CON	rates
+EPS	went
+IST	up
+REL	from
+QUC	5
+UOM	%
+REL	to
+INT	5.25
+UOM	%
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+IST	just
+EXG	saying
+PRO	it
+HAS	's
+DIS	a
+CON	possibility
+NIL	.

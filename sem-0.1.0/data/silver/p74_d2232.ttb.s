@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+EXS	got
+IST	enough
+CON	money
+REL	for
+DIS	a
+CON	car
+NIL	.

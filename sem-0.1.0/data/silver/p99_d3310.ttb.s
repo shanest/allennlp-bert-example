@@ -1,0 +1,10 @@
+EXS	Let
+PRO	's
+ENS	go
+REL	by
+CON	train
+NIL	instead
+AND	of
+REL	by
+CON	bus
+NIL	.

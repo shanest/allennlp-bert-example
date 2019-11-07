@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+NOT	not
+HAS	my
+CON	problem
+NIL	.
+PRO	It
+HAS	's
+HAS	yours
+NIL	.

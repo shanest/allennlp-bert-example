@@ -1,0 +1,13 @@
+PER	Tom
+PST	was
+EXS	scared
+PER	Mary
+FUT	would
+EXS	shoot
+PRO	him
+REL	with
+HAS	her
+CON	father
+HAS	's
+CON	rifle
+NIL	.

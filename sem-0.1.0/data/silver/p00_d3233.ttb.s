@@ -1,0 +1,13 @@
+DEF	The
+CON	doctor
+EPS	told
+PER	Tom
+SUB	that
+PRO	he
+NEC	should
+EXS	eat
+DIS	a
+CON	lot
+NIL	of
+CON	vegetables
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+FUT	'll
+EXS	be
+IST	busy
+FUT	tomorrow
+NIL	,
+FUT	wo
+NOT	n't
+PRO	you
+QUE	?

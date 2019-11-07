@@ -1,0 +1,15 @@
+PRO	You
+ENS	know
+AND	as
+IST	well
+SUB	as
+PRO	I
+NOW	do
+SUB	that
+PRO	we
+NOW	have
+NOT	no
+CON	chance
+AND	of
+EXG	surviving
+NIL	.

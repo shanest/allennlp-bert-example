@@ -1,0 +1,12 @@
+PER	Tom
+EPS	picked
+IST	up
+DIS	a
+CON	magazine
+COO	and
+EPS	started
+EXS	flipping
+AND	through
+HAS	its
+CON	pages
+NIL	.

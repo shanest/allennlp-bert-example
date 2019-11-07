@@ -1,0 +1,10 @@
+REL	In
+MOY	December
+PRO	I
+FUT	'm
+EXG	going
+REL	on
+CON	vacation
+REL	in
+GPE	America
+NIL	.

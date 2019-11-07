@@ -1,0 +1,10 @@
+PRO	He
+EPS	blew
+REL	on
+HAS	his
+CON	fingers
+SUB	to
+EXS	make
+PRO	them
+IST	warm
+NIL	.

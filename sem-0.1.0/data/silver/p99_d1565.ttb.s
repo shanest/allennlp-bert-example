@@ -1,0 +1,10 @@
+PER	Tom
+NEC	ought
+SUB	to
+EXS	show
+IST	more
+CON	respect
+REL	to
+HAS	his
+ROL	grandfather
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+AND	both
+EXS	wearing
+COL	brown
+CON	hats
+NIL	.

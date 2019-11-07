@@ -1,0 +1,9 @@
+UNK	Stop
+QUE	what
+PRO	you
+NOW	're
+EXS	doing
+COO	and
+EXS	come
+CON	home
+NIL	.

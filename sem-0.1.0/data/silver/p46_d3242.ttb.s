@@ -1,0 +1,17 @@
+PRO	You
+ENS	take
+DIS	a
+CON	drink
+NIL	,
+AND	then
+PRO	you
+ENS	elbow
+REL	to
+DEF	the
+CON	buffet
+AND	and
+EXS	eat
+REL	like
+DIS	a
+CON	pig
+NIL	!

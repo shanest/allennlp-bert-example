@@ -1,0 +1,9 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PRO	you
+NOW	're
+EXS	getting
+EXS	married
+NIL	.

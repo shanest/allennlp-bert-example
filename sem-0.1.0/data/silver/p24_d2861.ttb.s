@@ -1,0 +1,9 @@
+FUT	Will
+PRO	you
+EXS	sign
+HAS	your
+CON	name
+REL	on
+PRX	this
+CON	paper
+QUE	?

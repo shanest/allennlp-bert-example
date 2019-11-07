@@ -1,0 +1,12 @@
+HAS	His
+CON	failure
+NOW	is
+NIL	,
+REL	in
+DIS	a
+CON	manner
+NIL	,
+HAS	our
+CON	failure
+ALT	too
+NIL	.

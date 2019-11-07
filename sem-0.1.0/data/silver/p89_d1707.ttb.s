@@ -1,0 +1,10 @@
+PER	Bob
+IST	seldom
+ENS	talks
+REL	with
+PER	Maria
+NOT	without
+EXS	making
+PRO	her
+IST	angry
+NIL	.

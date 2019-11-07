@@ -1,0 +1,12 @@
+ORG	Financial
+CON	reforms
+NOW	have
+PFT	been
+EXS	proposed
+REL	at
+DEF	the
+REL	G7
+CON	summit
+REL	in
+CON	Halifax
+NIL	.

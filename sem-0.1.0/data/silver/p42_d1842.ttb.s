@@ -1,0 +1,11 @@
+DEF	The
+ALT	other
+CON	day
+NIL	,
+PRO	I
+EPS	got
+DIS	a
+CON	call
+REL	from
+PRO	her
+NIL	.

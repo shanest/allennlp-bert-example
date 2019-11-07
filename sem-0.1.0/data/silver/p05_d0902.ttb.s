@@ -1,0 +1,14 @@
+PRO	He
+EPS	gave
+PRO	me
+CON	money
+NIL	,
+BUT	but
+PRO	I
+EPS	gave
+PRO	it
+IST	back
+REL	to
+PRO	him
+IST	immediately
+NIL	.

@@ -1,0 +1,9 @@
+PRO	She
+EPS	abandoned
+HAS	her
+CON	hope
+AND	of
+EXS	becoming
+DIS	a
+CON	doctor
+NIL	.

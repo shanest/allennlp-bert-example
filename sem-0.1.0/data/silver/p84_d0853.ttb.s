@@ -1,0 +1,12 @@
+DEF	The
+CON	problem
+EPS	was
+SUB	that
+PRO	I
+PST	had
+NOT	nothing
+SUB	to
+EXS	say
+REL	to
+PRO	him
+NIL	.

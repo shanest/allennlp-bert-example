@@ -1,0 +1,14 @@
+AND	Every
+CON	person
+AND	who
+NOW	is
+AND	alone
+NOW	is
+EXS	alone
+SUB	because
+PRO	they
+NOW	are
+IST	afraid
+AND	of
+ALT	others
+NIL	.

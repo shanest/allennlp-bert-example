@@ -1,0 +1,13 @@
+PRO	I
+ENS	admit
+NIL	,
+PRO	I
+NOW	'm
+NOT	not
+DEF	the
+TOP	tidiest
+CON	person
+REL	in
+DEF	the
+CON	world
+NIL	.

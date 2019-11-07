@@ -1,0 +1,15 @@
+PRO	It
+PST	was
+DEF	the
+INT	most
+IST	beautiful
+CON	sight
+SUB	that
+PRO	he
+PST	had
+IST	ever
+EXS	seen
+REL	in
+HAS	his
+CON	life
+NIL	.

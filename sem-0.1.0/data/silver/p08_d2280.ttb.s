@@ -1,0 +1,12 @@
+REL	In
+DEF	the
+CON	course
+AND	of
+DEF	the
+IST	past
+CON	year
+NIL	,
+CON	prices
+NOW	have
+EXS	doubled
+NIL	.

@@ -1,0 +1,10 @@
+EXS	Let
+PRO	's
+NOW	keep
+EXS	going
+COO	and
+EXS	see
+DEF	the
+IST	next
+CON	town
+NIL	.

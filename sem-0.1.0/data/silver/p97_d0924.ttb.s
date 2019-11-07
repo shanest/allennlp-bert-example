@@ -1,0 +1,12 @@
+QUE	What
+CON	more
+POS	can
+PRO	you
+EXS	give
+SUB	that
+PRO	I
+NOW	have
+NOT	n't
+IST	already
+EXS	got
+QUE	?

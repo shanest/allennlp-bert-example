@@ -1,0 +1,12 @@
+AND	Obviously
+PRO	he
+ENS	speaks
+CON	English
+NIL	,
+BUT	but
+PRO	he
+POS	can
+IST	even
+EXS	speak
+CON	Spanish
+NIL	.

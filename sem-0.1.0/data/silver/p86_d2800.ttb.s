@@ -1,0 +1,12 @@
+PRO	It
+EPS	took
+DIS	a
+IST	long
+CON	time
+REL	to
+AND	accustom
+IST	myself
+REL	to
+DEF	the
+CON	noise
+NIL	.

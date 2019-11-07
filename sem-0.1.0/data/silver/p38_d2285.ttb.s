@@ -1,0 +1,12 @@
+PRO	I
+NOW	think
+PRO	it
+NOW	's
+UNK	unlikely
+SUB	that
+DEF	the
+CON	police
+FUT	will
+EXS	find
+PER	Tom
+NIL	.

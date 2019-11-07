@@ -1,0 +1,11 @@
+SUB	Since
+PRO	he
+PST	was
+INT	very
+EXS	tired
+NIL	,
+PRO	he
+EPS	fell
+PST	sound
+EXS	asleep
+NIL	.

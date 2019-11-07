@@ -1,0 +1,13 @@
+PRO	I
+EPS	knew
+SUB	that
+PER	Tom
+FUT	would
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	get
+DEF	the
+CON	loan
+NIL	.

@@ -1,0 +1,9 @@
+POS	Can
+PRO	you
+EXS	see
+CON	fish
+CON	swimming
+REL	in
+DEF	the
+CON	water
+QUE	?

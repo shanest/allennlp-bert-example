@@ -1,0 +1,16 @@
+IMP	If
+PRO	I
+NOW	remember
+IST	correctly
+NIL	,
+PER	Tom
+EPS	sold
+HAS	his
+CON	car
+REL	to
+PER	Mary
+REL	for
+INT	just
+QUC	500
+UOM	dollars
+NIL	.

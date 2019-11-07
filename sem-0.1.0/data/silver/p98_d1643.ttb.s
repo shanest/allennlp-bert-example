@@ -1,0 +1,10 @@
+PRO	He
+EPS	suggested
+PRO	we
+NEC	should
+EXS	stop
+EXS	smoking
+REL	at
+DEF	the
+CON	meeting
+NIL	.

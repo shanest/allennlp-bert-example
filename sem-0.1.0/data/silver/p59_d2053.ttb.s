@@ -1,0 +1,10 @@
+DST	That
+NEC	should
+NOT	n't
+EXS	be
+INT	too
+QUC	much
+AND	of
+DIS	a
+CON	problem
+NIL	.

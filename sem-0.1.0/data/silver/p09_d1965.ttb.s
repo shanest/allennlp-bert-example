@@ -1,0 +1,12 @@
+PER	Tom
+ENS	says
+SUB	that
+PRO	he
+NOW	's
+INT	too
+IST	busy
+SUB	to
+EXS	fall
+REL	in
+CON	love
+NIL	.

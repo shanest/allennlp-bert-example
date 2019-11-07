@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+EXS	got
+AND	about
+DIS	an
+CON	hour
+SUB	until
+PRO	I
+NEC	have
+SUB	to
+EXS	leave
+NIL	.

@@ -1,0 +1,12 @@
+PRO	You
+ENS	talk
+INT	so
+IST	fast
+NIL	,
+PRO	I
+POS	ca
+NOT	n't
+EXS	get
+DIS	a
+CON	word
+NIL	.

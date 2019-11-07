@@ -1,0 +1,10 @@
+POS	Can
+PRO	you
+REL	at
+TOP	least
+EXS	pretend
+PRO	you
+NOW	're
+EXS	enjoying
+REF	yourself
+QUE	?

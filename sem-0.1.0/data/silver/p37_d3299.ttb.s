@@ -1,0 +1,11 @@
+PRO	I
+EPS	grew
+CON	tomatoes
+AND	last
+CON	year
+COO	and
+PRO	they
+PST	were
+INT	very
+EXS	good
+NIL	.

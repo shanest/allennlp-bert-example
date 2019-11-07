@@ -1,0 +1,9 @@
+DEF	The
+ROL	player
+EPS	swung
+DEF	the
+CON	bat
+REL	at
+DIS	a
+CON	ball
+NIL	.

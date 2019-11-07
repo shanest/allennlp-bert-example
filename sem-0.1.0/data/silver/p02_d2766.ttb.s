@@ -1,0 +1,10 @@
+REL	After
+DIS	a
+IST	long
+CON	argument
+NIL	,
+PRO	I
+IST	finally
+EPS	gave
+REL	in
+NIL	.

@@ -1,0 +1,16 @@
+DEF	The
+CON	alien
+EPS	shot
+HAS	his
+CON	ray
+CON	gun
+COO	and
+EPS	blasted
+DIS	a
+CON	hole
+REL	in
+DEF	the
+CON	spaceship
+HAS	's
+CON	hull
+NIL	.

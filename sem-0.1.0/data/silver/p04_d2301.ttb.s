@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+QUV	much
+COM	shorter
+AND	and
+ENS	weighs
+IST	considerably
+MOR	less
+MOR	than
+PER	Mary
+NIL	.

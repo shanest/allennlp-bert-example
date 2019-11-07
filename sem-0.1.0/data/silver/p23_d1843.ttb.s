@@ -1,0 +1,10 @@
+DEF	The
+NTH	Shinano
+CON	River
+NOW	is
+DEF	the
+TOP	longest
+CON	river
+REL	in
+GPE	Japan
+NIL	.

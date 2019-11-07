@@ -1,0 +1,9 @@
+NOT	No
+CON	one
+ENS	knows
+AND	who
+HAS	's
+REL	in
+CON	charge
+PRX	here
+NIL	.

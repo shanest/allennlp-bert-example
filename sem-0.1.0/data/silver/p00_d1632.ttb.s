@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+IST	difficult
+NIL	to
+EXS	help
+CON	people
+AND	who
+NOW	do
+NOT	n't
+EXS	want
+HAS	your
+CON	help
+NIL	.

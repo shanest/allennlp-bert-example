@@ -1,0 +1,11 @@
+REL	In
+GPE	Japan
+NIL	,
+CON	people
+EXS	become
+IST	legally
+AND	of
+CON	age
+REL	at
+QUC	twenty
+NIL	.

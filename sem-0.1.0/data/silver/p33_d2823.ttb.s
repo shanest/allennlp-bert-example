@@ -1,0 +1,15 @@
+NOW	Do
+PRO	you
+NOW	speak
+GPO	Greek
+QUE	?
+AND	-
+NOT	Not
+ALT	yet
+NIL	,
+DST	that
+HAS	's
+HAS	my
+IST	first
+CON	lesson
+NIL	!

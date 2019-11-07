@@ -1,0 +1,11 @@
+PRO	We
+ENS	need
+DIS	a
+IST	square
+CON	table
+COO	;
+NOT	not
+DIS	a
+CON	round
+QUC	one
+NIL	.

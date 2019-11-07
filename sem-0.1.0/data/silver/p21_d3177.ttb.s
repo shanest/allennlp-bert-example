@@ -1,0 +1,10 @@
+QUE	What
+CON	time
+NOW	does
+DEF	the
+IST	next
+CON	train
+EXS	leave
+REL	for
+GPE	Tokyo
+QUE	?

@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	why
+PER	Mary
+AND	and
+PER	John
+NOW	are
+EXS	fighting
+NIL	.

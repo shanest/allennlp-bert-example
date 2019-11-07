@@ -1,0 +1,10 @@
+PRO	I
+PST	thought
+PRO	you
+PST	were
+EXS	planning
+SUB	to
+EXS	be
+PRX	here
+AND	earlier
+NIL	.

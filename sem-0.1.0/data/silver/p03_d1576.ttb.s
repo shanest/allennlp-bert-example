@@ -1,0 +1,11 @@
+PRO	He
+NOW	does
+NOT	n't
+EXS	know
+DEF	the
+CON	difference
+REL	between
+IST	good
+AND	and
+CON	evil
+NIL	.

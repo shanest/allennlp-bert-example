@@ -1,0 +1,9 @@
+REL	Through
+QUE	which
+CON	city
+NOW	does
+DEF	the
+NTH	Mississippi
+CON	River
+EXS	pass
+QUE	?

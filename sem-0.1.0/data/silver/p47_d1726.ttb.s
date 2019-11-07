@@ -1,0 +1,12 @@
+ORG	Was
+NOT	n't
+PRO	it
+IST	still
+EPS	called
+NIL	"
+CON	acid
+CON	rock
+NIL	"
+IST	back
+IST	then
+QUE	?

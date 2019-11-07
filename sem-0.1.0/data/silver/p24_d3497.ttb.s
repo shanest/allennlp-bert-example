@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+QUE	how
+PRO	you
+NOW	feel
+NIL	,
+COO	but
+PRO	it
+HAS	's
+IST	over
+NIL	.

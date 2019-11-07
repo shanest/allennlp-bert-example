@@ -1,0 +1,11 @@
+PER	Jim
+EPS	looked
+EXS	left
+COO	and
+EXS	right
+SUB	before
+PRO	he
+EPS	crossed
+DEF	the
+CON	road
+NIL	.

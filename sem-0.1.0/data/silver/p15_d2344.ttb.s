@@ -1,0 +1,14 @@
+POS	Can
+PRO	I
+EXS	take
+HAS	my
+CON	shirt
+REL	off
+QUE	?
+PRO	It
+NOW	's
+INT	so
+EXS	hot
+REL	in
+PRX	here
+NIL	.

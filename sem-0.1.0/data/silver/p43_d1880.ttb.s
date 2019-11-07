@@ -1,0 +1,10 @@
+EXS	Open
+DEF	the
+CON	window
+AND	and
+EXS	let
+REL	in
+DIS	some
+IST	fresh
+CON	air
+NIL	.

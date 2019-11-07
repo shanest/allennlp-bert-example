@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+EXS	given
+IST	up
+CON	smoking
+REL	for
+IST	good
+AND	and
+AND	all
+NIL	.

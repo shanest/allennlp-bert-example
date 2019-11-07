@@ -1,0 +1,17 @@
+PRO	I
+NOW	'm
+IST	really
+IST	glad
+SUB	to
+EXS	be
+PRX	here
+AND	and
+DEF	the
+CON	more
+NIL	,
+SUB	to
+EXS	be
+PRX	here
+REL	with
+PRO	you
+NIL	.

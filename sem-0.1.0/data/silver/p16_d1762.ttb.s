@@ -1,0 +1,12 @@
+PRO	I
+EPS	held
+DEF	the
+CON	gun
+NIL	,
+BUT	but
+PRO	I
+NOT	never
+EPS	pulled
+DEF	the
+EXS	trigger
+NIL	.

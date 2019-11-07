@@ -1,0 +1,10 @@
+PRO	I
+PST	was
+EXS	made
+SUB	to
+EXS	wait
+REL	for
+MOR	over
+QUC	30
+UOM	minutes
+NIL	.

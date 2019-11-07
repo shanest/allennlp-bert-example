@@ -1,0 +1,9 @@
+DIS	A
+COL	black
+CON	coat
+NOW	is
+REL	in
+CON	fashion
+PRX	this
+CON	winter
+NIL	.

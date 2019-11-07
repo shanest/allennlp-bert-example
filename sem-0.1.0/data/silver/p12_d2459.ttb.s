@@ -1,0 +1,11 @@
+PER	Tom
+IST	already
+EPS	reached
+DEF	the
+IST	required
+CON	majority
+REL	in
+DEF	the
+IST	first
+CON	ballot
+NIL	.

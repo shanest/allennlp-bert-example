@@ -1,0 +1,16 @@
+SUB	When
+HAS	your
+CON	stomach
+NOW	is
+IST	busy
+NIL	,
+AND	digesting
+DIS	a
+IST	big
+CON	meal
+HAS	your
+CON	brain
+ENS	takes
+DIS	a
+CON	vacation
+NIL	.

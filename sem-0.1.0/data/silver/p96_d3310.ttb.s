@@ -1,0 +1,13 @@
+PRO	She
+HAS	's
+IST	deaf
+AND	and
+CON	mute
+NIL	,
+COO	and
+NOW	is
+EXS	getting
+IST	blind
+NIL	,
+ALT	too
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	get
+EXS	annoyed
+SUB	when
+PRO	I
+NOW	am
+EXS	kept
+EXS	waiting
+NIL	.

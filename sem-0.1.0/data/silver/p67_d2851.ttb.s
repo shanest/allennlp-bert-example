@@ -1,0 +1,16 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	think
+PER	Mary
+FUT	would
+EXS	enjoy
+HAS	his
+CON	party
+SUB	so
+PRO	he
+PST	did
+NOT	n't
+EXS	invite
+PRO	her
+NIL	.

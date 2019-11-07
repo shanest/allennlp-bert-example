@@ -1,0 +1,14 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	believe
+SUB	that
+PER	Mary
+PST	had
+AND	anything
+SUB	to
+EXS	do
+REL	with
+DEF	the
+CON	theft
+NIL	.

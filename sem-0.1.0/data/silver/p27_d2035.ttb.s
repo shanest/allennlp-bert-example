@@ -1,0 +1,10 @@
+PER	Tom
+ENS	says
+SUB	that
+PRO	he
+HAS	's
+REL	in
+CON	love
+REL	with
+PER	Mary
+NIL	.

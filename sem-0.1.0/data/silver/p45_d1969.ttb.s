@@ -1,0 +1,17 @@
+PER	Tom
+EPS	threw
+HAS	his
+IST	dirty
+CON	socks
+REL	on
+DEF	the
+CON	pile
+AND	of
+CON	clothes
+REL	in
+DEF	the
+CON	corner
+AND	of
+HAS	his
+CON	room
+NIL	.

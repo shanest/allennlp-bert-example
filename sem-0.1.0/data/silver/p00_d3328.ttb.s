@@ -1,0 +1,12 @@
+REL	On
+DEF	the
+CON	contrary
+NIL	,
+PRO	I
+NOW	've
+NOT	never
+EXT	said
+AND	such
+DIS	a
+CON	thing
+NIL	.

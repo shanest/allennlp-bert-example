@@ -1,0 +1,13 @@
+PRO	It
+PST	was
+DEF	the
+IST	first
+CON	delegation
+AND	that
+DEF	the
+IST	new
+CON	country
+PST	had
+IST	ever
+EXS	received
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	why
+COO	and
+PRO	I
+NOW	do
+NOT	n't
+EXS	care
+NIL	.

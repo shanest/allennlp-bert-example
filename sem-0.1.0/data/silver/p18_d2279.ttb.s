@@ -1,0 +1,14 @@
+PRO	I
+EPS	saw
+PRO	him
+IST	last
+CON	night
+REL	in
+DEF	the
+CON	bar
+COO	and
+PRO	he
+PST	was
+IST	really
+EXS	drunk
+NIL	.

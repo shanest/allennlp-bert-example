@@ -1,0 +1,12 @@
+PRO	She
+NOW	is
+EXG	wearing
+DEF	the
+IST	same
+CON	dress
+SUB	that
+PRO	she
+EPS	had
+REL	on
+PST	yesterday
+NIL	.

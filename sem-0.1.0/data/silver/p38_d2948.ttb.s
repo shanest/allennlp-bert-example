@@ -1,0 +1,10 @@
+HAS	My
+CON	wife
+EPS	talked
+PRO	me
+REL	into
+EXS	buying
+DIS	a
+IST	new
+CON	car
+NIL	.

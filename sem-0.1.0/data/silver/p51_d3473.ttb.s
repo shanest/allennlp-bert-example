@@ -1,0 +1,15 @@
+PRO	I
+NOW	think
+PER	Mary
+NOW	is
+QUC	one
+AND	of
+DEF	the
+INT	most
+IST	beautiful
+CON	women
+PRO	I
+NOW	've
+IST	ever
+EXS	met
+NIL	.

@@ -1,0 +1,9 @@
+GEO	Jersey
+ORG	Shore
+EPS	gave
+ORG	New
+GEO	Jersey
+DIS	a
+IST	bad
+CON	reputation
+NIL	.

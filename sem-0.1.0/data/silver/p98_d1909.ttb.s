@@ -1,0 +1,11 @@
+DIS	A
+CON	week
+REL	from
+PST	yesterday
+NOW	is
+SUB	when
+PRO	I
+IST	last
+EPS	saw
+PRO	her
+NIL	.

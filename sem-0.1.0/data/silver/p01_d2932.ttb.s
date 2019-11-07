@@ -1,0 +1,11 @@
+PRO	I
+FUT	'd
+EXS	like
+NIL	to
+EXS	have
+DIS	a
+IST	little
+CON	chat
+REL	with
+PRO	you
+NIL	.

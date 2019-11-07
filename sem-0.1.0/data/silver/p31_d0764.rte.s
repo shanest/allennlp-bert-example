@@ -1,0 +1,11 @@
+REL	In
+YOC	1945
+NIL	,
+DIS	an
+IST	atomic
+CON	bomb
+PST	was
+EXS	dropped
+REL	on
+GPE	Hiroshima
+NIL	.

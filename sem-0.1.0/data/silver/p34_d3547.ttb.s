@@ -1,0 +1,10 @@
+PRO	He
+EPS	said
+SUB	that
+PRO	he
+PST	had
+EXS	seen
+DEF	the
+CON	picture
+REL	before
+NIL	.

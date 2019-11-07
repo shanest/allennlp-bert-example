@@ -1,0 +1,11 @@
+DEF	The
+IST	prime
+CON	minister
+EPS	spoke
+AND	about
+DEF	the
+IST	financial
+CON	crisis
+REL	at
+CON	length
+NIL	.

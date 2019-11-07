@@ -1,0 +1,11 @@
+QUE	What
+CON	breed
+REL	of
+CON	horse
+PST	was
+EXS	used
+NIL	to
+EXS	found
+DEF	the
+CON	Lipizzaner
+QUE	?

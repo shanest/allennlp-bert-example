@@ -1,0 +1,12 @@
+UNK	There
+NOW	are
+MOR	more
+IST	important
+CON	things
+PRO	we
+NEC	should
+EXS	be
+EXS	doing
+IST	right
+NOW	now
+NIL	.

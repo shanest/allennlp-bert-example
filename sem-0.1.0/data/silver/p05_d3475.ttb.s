@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	heard
+PRX	this
+CON	song
+REL	in
+DIS	a
+CON	while
+NIL	.

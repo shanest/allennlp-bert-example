@@ -1,0 +1,14 @@
+GPE	Japan
+NOW	is
+IST	full
+AND	of
+IST	beautiful
+CON	cities
+NIL	.
+GEO	Kyoto
+EQU	and
+GEO	Nara
+EQU	,
+REL	for
+CON	instance
+NIL	.

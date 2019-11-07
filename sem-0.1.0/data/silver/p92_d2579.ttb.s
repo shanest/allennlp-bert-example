@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+EXS	been
+DIS	a
+SUB	while
+SUB	since
+PRO	I
+NOW	've
+EXS	eaten
+CON	cottage
+CON	cheese
+NIL	.

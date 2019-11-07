@@ -1,0 +1,9 @@
+FUT	Tomorrow
+HAS	our
+CON	professor
+NOW	is
+EXS	going
+IST	back
+REL	to
+GPE	England
+NIL	.

@@ -1,0 +1,10 @@
+PRO	They
+EPS	won
+DEF	the
+GPE	Japan
+ORG	Cup
+QUC	three
+CON	years
+REL	in
+CON	succession
+NIL	.

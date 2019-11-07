@@ -1,0 +1,12 @@
+PER	Tom
+EPS	fired
+PER	Mary
+SUB	because
+PRO	she
+IST	often
+EPS	showed
+IST	up
+IST	late
+REL	for
+CON	work
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	came
+REL	to
+GPE	France
+REL	with
+DEF	the
+CON	intention
+AND	of
+EXS	studying
+GPO	French
+NIL	.

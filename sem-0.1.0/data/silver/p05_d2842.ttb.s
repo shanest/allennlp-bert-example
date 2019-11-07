@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+ENS	love
+NIL	stoats
+AND	as
+QUV	much
+AND	as
+PRO	I
+NOW	love
+PRO	them
+QUE	?

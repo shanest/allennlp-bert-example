@@ -1,0 +1,12 @@
+PRO	I
+PST	was
+EXS	hungry
+COO	and
+PRO	you
+NOW	've
+EXS	given
+PRO	me
+DIS	something
+SUB	to
+EXS	eat
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	islanders
+NOW	are
+EXS	being
+EXS	slaughtered
+REL	for
+NOT	no
+IST	apparent
+CON	reason
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	drink
+AND	all
+SUB	that
+QUV	much
+CON	beer
+NIL	.

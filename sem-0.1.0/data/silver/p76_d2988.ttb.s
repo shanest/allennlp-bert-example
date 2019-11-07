@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+AND	half
+DIS	a
+CON	mind
+SUB	to
+EXS	see
+SUB	that
+EMP	myself
+NIL	.

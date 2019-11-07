@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	had
+INT	too
+QUC	many
+CON	problems
+ALT	yet
+NIL	.

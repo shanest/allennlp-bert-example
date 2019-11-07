@@ -1,0 +1,11 @@
+NOW	Has
+DIS	anyone
+IST	ever
+EPS	told
+PRO	you
+SUB	that
+PRO	you
+NOW	have
+IST	beautiful
+CON	eyes
+QUE	?

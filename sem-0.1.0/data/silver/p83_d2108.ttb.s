@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+IST	serious
+NIL	,
+DIS	or
+NOW	have
+PRO	you
+EXS	gone
+EXS	crazy
+QUE	?

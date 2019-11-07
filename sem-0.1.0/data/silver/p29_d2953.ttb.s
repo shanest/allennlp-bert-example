@@ -1,0 +1,10 @@
+HAS	My
+CON	dog
+NOW	is
+AND	almost
+AND	half
+DEF	the
+CON	size
+AND	of
+HAS	yours
+NIL	.

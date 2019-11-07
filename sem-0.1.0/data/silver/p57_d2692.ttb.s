@@ -1,0 +1,10 @@
+PER	Tom
+POS	can
+EXS	rely
+REL	on
+PER	Mary
+SUB	to
+EXS	be
+REL	on
+CON	time
+NIL	.

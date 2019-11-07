@@ -1,0 +1,11 @@
+PRO	We
+NOW	've
+IST	recently
+EXS	put
+DIS	a
+IST	new
+CON	roof
+REL	on
+HAS	our
+CON	house
+NIL	.

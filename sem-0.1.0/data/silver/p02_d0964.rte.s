@@ -1,0 +1,9 @@
+PER	Tyler
+PER	Jackson
+NOW	has
+PFT	been
+EXS	sentenced
+REL	to
+QUC	18
+CON	months
+NIL	.

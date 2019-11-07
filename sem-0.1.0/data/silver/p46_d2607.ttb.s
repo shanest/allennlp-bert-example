@@ -1,0 +1,13 @@
+NOT	No
+CON	one
+NEC	shall
+EXS	be
+EXS	subjected
+REL	to
+IST	arbitrary
+CON	arrest
+EQU	,
+CON	detention
+DIS	or
+CON	exile
+NIL	.

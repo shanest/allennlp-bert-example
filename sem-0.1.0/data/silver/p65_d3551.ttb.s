@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	disgusted
+REL	with
+EMP	myself
+REL	for
+HAS	my
+IST	short
+CON	memory
+NIL	.

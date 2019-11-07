@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+DIS	something
+SUB	to
+EXS	say
+REL	to
+AND	all
+AND	of
+PRO	you
+NIL	.

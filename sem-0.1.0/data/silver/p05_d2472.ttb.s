@@ -1,0 +1,12 @@
+PRO	We
+NOW	have
+NOT	n't
+ALT	yet
+PFT	been
+EXS	informed
+AND	of
+DEF	the
+CON	committee
+HAS	's
+CON	decision
+NIL	.

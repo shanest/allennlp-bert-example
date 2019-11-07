@@ -1,0 +1,11 @@
+PER	Tom
+EPS	whispered
+DIS	something
+REL	into
+PER	Mary
+HAS	's
+CON	ear
+COO	and
+PRO	she
+EPS	smiled
+NIL	.

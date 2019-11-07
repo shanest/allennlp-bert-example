@@ -1,0 +1,12 @@
+FUT	Will
+PRO	you
+EXS	open
+DEF	the
+CON	window
+AND	and
+CON	air
+AND	out
+PRX	this
+CON	stuffy
+CON	room
+QUE	?

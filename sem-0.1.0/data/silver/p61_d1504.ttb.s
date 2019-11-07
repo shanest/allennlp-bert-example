@@ -1,0 +1,13 @@
+PER	Tom
+EPS	lied
+REL	to
+PER	Mary
+SUB	when
+PRO	he
+EPS	said
+PRO	he
+PST	did
+NOT	n't
+EXS	know
+PER	John
+NIL	.

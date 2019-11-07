@@ -1,0 +1,12 @@
+PER	Tom
+ENS	says
+PER	Mary
+NOW	is
+EXG	lying
+AND	about
+SUB	where
+PRO	she
+PST	was
+IST	last
+CON	night
+NIL	.

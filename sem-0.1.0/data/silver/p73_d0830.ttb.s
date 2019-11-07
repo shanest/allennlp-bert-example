@@ -1,0 +1,9 @@
+PRX	Here
+NOW	's
+REL	to
+DIS	a
+IST	long
+AND	and
+IST	happy
+CON	life
+NIL	!

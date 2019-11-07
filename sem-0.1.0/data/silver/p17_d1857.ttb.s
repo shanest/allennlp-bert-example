@@ -1,0 +1,12 @@
+PRO	You
+NOW	're
+NOT	not
+EXS	wearing
+SUB	that
+REL	to
+DEF	the
+CON	party
+NIL	,
+NOW	are
+PRO	you
+QUE	?

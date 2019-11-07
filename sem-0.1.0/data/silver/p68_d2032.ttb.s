@@ -1,0 +1,11 @@
+PRO	I
+POS	might
+EXS	be
+IST	able
+SUB	to
+EXS	convince
+PER	Tom
+SUB	to
+EXS	do
+DST	that
+NIL	.

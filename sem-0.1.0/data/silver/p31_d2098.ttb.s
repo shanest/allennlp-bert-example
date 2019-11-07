@@ -1,0 +1,11 @@
+DEF	The
+IST	minimum
+CON	wage
+REL	in
+GEO	Okinawa
+NOW	is
+POS	642
+UOM	yen
+AND	per
+CON	hour
+NIL	.

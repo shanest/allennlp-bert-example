@@ -1,0 +1,14 @@
+NIL	"
+NOT	No
+CON	one
+ENS	likes
+PRO	you
+NIL	.
+NIL	"
+NIL	"
+PRO	It
+NOW	's
+NOT	not
+EXS	true
+NIL	!
+NIL	"

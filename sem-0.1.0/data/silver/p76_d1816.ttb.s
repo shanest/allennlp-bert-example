@@ -1,0 +1,10 @@
+PRO	She
+NOW	gives
+CON	elements
+SUB	to
+EXS	understand
+QUE	what
+NOW	is
+EXS	being
+EXS	said
+NIL	.

@@ -1,0 +1,10 @@
+AND	Could
+PRO	you
+EPS	put
+HAS	my
+CON	name
+REL	on
+DEF	the
+EXS	waiting
+CON	list
+QUE	?

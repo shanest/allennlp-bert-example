@@ -1,0 +1,9 @@
+PRO	I
+IST	finally
+EPS	understood
+DEF	the
+CON	importance
+AND	of
+IST	foreign
+CON	languages
+NIL	.

@@ -1,0 +1,9 @@
+ITJ	Hey
+NIL	,
+PRO	it
+NOW	's
+EXS	good
+SUB	to
+EXS	see
+PRO	you
+NIL	.

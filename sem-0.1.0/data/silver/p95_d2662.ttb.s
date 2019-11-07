@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+EXS	going
+SUB	to
+EXS	be
+INT	very
+IST	proud
+AND	of
+PRO	me
+NIL	.

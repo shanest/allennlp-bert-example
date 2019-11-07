@@ -1,0 +1,9 @@
+PRO	I
+EPS	thought
+PRO	we
+PST	were
+EXG	going
+IST	out
+REL	to
+CON	dinner
+NIL	.

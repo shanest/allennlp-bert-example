@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	so
+EXS	lucky
+SUB	to
+EXS	have
+DIS	someone
+AND	who
+ENS	cares
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+NOT	never
+ENS	misses
+EXG	reading
+DEF	the
+CON	papers
+AND	every
+CON	day
+NIL	.

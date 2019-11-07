@@ -1,0 +1,12 @@
+PER	Tom
+PST	was
+EXS	looking
+IST	forward
+SUB	to
+EXS	going
+REL	to
+DIS	a
+CON	movie
+REL	with
+PER	Mary
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	colony
+AND	of
+GEO	Haiti
+EPS	declared
+HAS	its
+CON	independence
+REL	in
+YOC	1804
+NIL	.

@@ -1,0 +1,9 @@
+NOW	Is
+PRO	it
+INT	too
+IST	late
+REL	for
+PRO	us
+REL	to
+CON	register
+QUE	?

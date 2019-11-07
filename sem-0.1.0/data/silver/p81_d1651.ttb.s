@@ -1,0 +1,11 @@
+DEF	The
+CON	shirt
+SUB	that
+PRO	I
+NOW	've
+IST	just
+EXS	bought
+NOW	is
+INT	very
+EXS	nice
+NIL	.

@@ -1,0 +1,9 @@
+REL	In
+CON	2014
+GPE	Scotland
+POS	may
+EXS	become
+DIS	an
+IST	independent
+CON	state
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+ENS	blames
+REF	himself
+REL	for
+QUE	what
+EPS	happened
+REL	to
+PER	Mary
+NIL	.

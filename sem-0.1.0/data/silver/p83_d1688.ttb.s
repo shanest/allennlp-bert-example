@@ -1,0 +1,11 @@
+PRO	I
+NOW	assume
+REL	after
+CON	work
+PRO	you
+NOW	're
+EXS	going
+CON	home
+AND	right
+IST	away
+NIL	.

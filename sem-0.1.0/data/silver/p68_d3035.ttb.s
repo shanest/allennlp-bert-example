@@ -1,0 +1,10 @@
+DIS	Someone
+EPS	keyed
+DEF	the
+IST	whole
+IST	left
+CON	side
+AND	of
+HAS	my
+CON	car
+NIL	!

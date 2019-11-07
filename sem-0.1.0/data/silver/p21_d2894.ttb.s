@@ -1,0 +1,16 @@
+PER	Jane
+EPS	asked
+PER	Mary
+SUB	whether
+PRO	she
+PST	'd
+EXS	like
+SUB	to
+EXS	stay
+REL	at
+HAS	her
+CON	place
+REL	for
+DEF	the
+CON	night
+NIL	.

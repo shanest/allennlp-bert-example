@@ -1,0 +1,12 @@
+EXS	Come
+REL	on
+NIL	,
+PRO	you
+NEC	have
+SUB	to
+EXS	explain
+PRO	it
+ALT	again
+REL	to
+PRO	him
+NIL	.

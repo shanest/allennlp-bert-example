@@ -1,0 +1,15 @@
+PRO	I
+ENS	plan
+NIL	to
+EXS	give
+HAS	my
+CON	son
+DIS	a
+CON	computer
+REL	at
+DEF	the
+CON	end
+AND	of
+DEF	the
+CON	month
+NIL	.

@@ -1,0 +1,15 @@
+PRO	I
+EPS	got
+CON	home
+AND	and
+DEF	the
+IST	first
+CON	thing
+PRO	I
+PST	did
+PST	was
+EXS	taking
+HAS	my
+CON	shoes
+REL	off
+NIL	.

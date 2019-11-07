@@ -1,0 +1,13 @@
+PRO	You
+NOW	do
+NOT	n't
+EXS	need
+SUB	to
+EXS	attend
+AND	every
+CON	argument
+PRO	you
+NOW	are
+EXS	invited
+REL	to
+NIL	.

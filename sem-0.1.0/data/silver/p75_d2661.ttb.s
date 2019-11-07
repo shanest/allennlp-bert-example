@@ -1,0 +1,17 @@
+PER	Tom
+EPS	called
+PER	Mary
+SUB	to
+EXS	tell
+PRO	her
+SUB	that
+PRO	he
+POS	might
+EXS	need
+HAS	her
+CON	help
+AND	later
+REL	in
+DEF	the
+CON	afternoon
+NIL	.

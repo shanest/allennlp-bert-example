@@ -1,0 +1,11 @@
+DEF	The
+CON	cat
+EPS	began
+SUB	to
+EXS	tear
+REL	at
+DEF	the
+CON	mouse
+PRO	it
+EPS	caught
+NIL	.

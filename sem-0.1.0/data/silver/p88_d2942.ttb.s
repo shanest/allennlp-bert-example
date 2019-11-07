@@ -1,0 +1,9 @@
+GRE	Hello
+NIL	.
+AND	How
+POS	can
+PRO	I
+EXS	be
+AND	of
+CON	service
+QUE	?

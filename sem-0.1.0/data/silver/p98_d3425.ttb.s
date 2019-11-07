@@ -1,0 +1,10 @@
+DEF	The
+ROL	teacher
+EPS	showed
+PRO	us
+QUE	how
+SUB	to
+EXS	use
+DIS	a
+CON	computer
+NIL	.

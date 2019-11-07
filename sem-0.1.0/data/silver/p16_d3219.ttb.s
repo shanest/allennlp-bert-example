@@ -1,0 +1,11 @@
+PER	Lori
+EPS	suggested
+SUB	that
+PRO	we
+NEC	should
+EXS	take
+DIS	a
+REL	ten-minute
+CON	coffee
+CON	break
+NIL	.

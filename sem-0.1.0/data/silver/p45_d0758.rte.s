@@ -1,0 +1,32 @@
+PER	Philip Morris
+EPS	cited
+IST	strong
+CON	volume
+CON	gains
+REL	in
+GPE	Germany
+EQU	,
+GPE	Italy
+EQU	,
+GPE	France
+EQU	,
+GPE	Spain
+EQU	,
+IST	central
+AND	and
+IST	eastern
+GEO	Europe
+EQU	,
+GEO	Russia
+EQU	,
+DEF	the
+GEO	Middle East
+EQU	,
+GPE	Japan
+EQU	,
+GEO	Korea
+EQU	,
+GPE	Argentina
+EQU	and
+GPE	Brazil
+NIL	.

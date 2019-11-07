@@ -1,0 +1,9 @@
+EXG	Believing
+REL	in
+CON	God
+NOW	is
+NOT	not
+IST	evil
+REL	in
+REF	itself
+NIL	.

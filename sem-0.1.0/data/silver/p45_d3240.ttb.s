@@ -1,0 +1,15 @@
+PER	Tom
+EPS	went
+IST	out
+REL	with
+PER	Mary
+REL	on
+DOW	Friday
+CON	night
+AND	and
+REL	with
+PER	Alice
+REL	on
+DOW	Saturday
+CON	night
+NIL	.

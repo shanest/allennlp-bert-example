@@ -1,0 +1,11 @@
+PER	Tom
+EPS	suggested
+SUB	that
+PRO	I
+NOW	change
+DEF	the
+CON	lock
+REL	on
+HAS	my
+CON	door
+NIL	.

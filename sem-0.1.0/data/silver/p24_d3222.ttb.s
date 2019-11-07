@@ -1,0 +1,13 @@
+PRO	I
+EPS	met
+PER	Naomi
+REL	on
+HAS	my
+CON	way
+CON	home
+COO	and
+PRO	we
+PST	had
+DIS	a
+CON	chat
+NIL	.

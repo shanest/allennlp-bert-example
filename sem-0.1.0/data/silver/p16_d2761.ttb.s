@@ -1,0 +1,17 @@
+PRO	You
+NOW	say
+PRO	you
+ENS	love
+PRO	me
+NIL	,
+COO	but
+PRO	you
+NOW	've
+EXS	got
+DIS	a
+IST	funny
+CON	way
+AND	of
+EXG	showing
+PRO	it
+NIL	.

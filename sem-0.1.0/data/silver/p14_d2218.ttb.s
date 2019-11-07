@@ -1,0 +1,15 @@
+DIS	A
+CON	pair
+AND	of
+CON	sparrows
+NOW	is
+EXG	building
+DIS	a
+CON	nest
+REL	on
+DEF	the
+CON	terrace
+REL	at
+HAS	my
+CON	house
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	believed
+SUB	that
+ROL	Mr
+PER	Jones
+NOW	is
+DIS	a
+IST	good
+CON	teacher
+NIL	.

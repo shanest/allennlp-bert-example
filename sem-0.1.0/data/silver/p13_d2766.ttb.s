@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	impossible
+SUB	to
+EXS	prevent
+PRX	this
+CON	situation
+REL	from
+DEF	occurring
+ALT	again
+NIL	.

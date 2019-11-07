@@ -1,0 +1,9 @@
+PRO	I
+ENS	have
+NOT	nothing
+NIL	to
+EXS	do
+REL	with
+DST	that
+CON	crime
+NIL	.

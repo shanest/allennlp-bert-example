@@ -1,0 +1,10 @@
+PER	Tom
+IST	reluctantly
+EPS	gave
+PER	Mary
+DEF	the
+CON	money
+PRO	she
+EPS	asked
+REL	for
+NIL	.

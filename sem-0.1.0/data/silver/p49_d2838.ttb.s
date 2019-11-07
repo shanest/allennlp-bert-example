@@ -1,0 +1,9 @@
+PRO	We
+XCL	only
+NOW	use
+QUC	10
+UOM	%
+AND	of
+HAS	our
+CON	brain
+NIL	.

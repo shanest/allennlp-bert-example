@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+IST	certain
+SUB	that
+CON	prices
+FUT	will
+EXS	go
+IST	up
+NIL	.

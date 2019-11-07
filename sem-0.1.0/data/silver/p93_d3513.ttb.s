@@ -1,0 +1,11 @@
+PER	Tom
+POS	could
+NOT	never
+EXS	make
+PRO	me
+EXS	laugh
+DEF	the
+CON	way
+PRO	you
+NOW	do
+NIL	.

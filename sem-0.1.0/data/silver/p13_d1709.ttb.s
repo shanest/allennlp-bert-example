@@ -1,0 +1,11 @@
+DEF	The
+IST	average
+CON	temperature
+REL	in
+GPE	Oxford
+AND	last
+CON	month
+PST	was
+QUC	18
+UOM	C
+NIL	.

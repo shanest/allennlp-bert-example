@@ -1,0 +1,9 @@
+HAS	Our
+CON	plans
+REL	for
+DEF	the
+CON	summer
+NOW	are
+EXS	taking
+CON	shape
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+SUB	to
+EXT	have
+EXS	caused
+PRO	you
+INT	so
+QUV	much
+CON	trouble
+NIL	.

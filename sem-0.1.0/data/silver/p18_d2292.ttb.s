@@ -1,0 +1,9 @@
+PRO	He
+EPS	changed
+DEF	the
+CON	number
+CON	plate
+AND	of
+HAS	his
+CON	vehicle
+NIL	.

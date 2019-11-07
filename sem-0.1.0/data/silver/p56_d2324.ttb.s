@@ -1,0 +1,17 @@
+SUB	When
+PRO	you
+NOW	return
+REL	to
+HAS	your
+CON	company
+NIL	,
+NOW	do
+NOT	n't
+EXS	forget
+SUB	to
+EXS	keep
+REL	in
+CON	touch
+REL	with
+PRO	me
+NIL	.

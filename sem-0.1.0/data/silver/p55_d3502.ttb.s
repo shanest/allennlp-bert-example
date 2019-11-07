@@ -1,0 +1,13 @@
+NOW	Do
+PRO	I
+ENS	want
+SUB	to
+EXS	be
+IST	able
+SUB	to
+EXS	continue
+EXS	working
+AND	as
+DIS	a
+CON	teacher
+QUE	?

@@ -1,0 +1,12 @@
+UNK	There
+PST	were
+QUC	two
+IST	red
+CON	hats
+REL	on
+PRX	this
+CON	table
+QUC	two
+CON	hours
+PST	ago
+NIL	.

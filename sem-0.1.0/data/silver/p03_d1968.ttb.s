@@ -1,0 +1,10 @@
+QUE	What
+NOW	do
+PRO	you
+EXS	want
+PRO	me
+SUB	to
+EXS	help
+PRO	you
+REL	with
+QUE	?

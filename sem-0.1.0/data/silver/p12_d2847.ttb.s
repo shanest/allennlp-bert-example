@@ -1,0 +1,9 @@
+QUE	What
+NOW	do
+PRO	you
+EXS	know
+AND	about
+PER	Mary
+HAS	's
+CON	boyfriend
+QUE	?

@@ -1,0 +1,12 @@
+PER	Jill
+PST	was
+DIS	a
+IST	great
+CON	comfort
+REL	to
+PRO	me
+SUB	when
+PRO	I
+PST	was
+EXS	ill
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+CON	sound
+AND	of
+CON	jets
+EXG	taking
+REL	off
+NOW	gets
+REL	on
+HAS	my
+CON	nerves
+NIL	.

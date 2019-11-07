@@ -1,0 +1,13 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+CON	hummingbirds
+POS	could
+IST	even
+EXS	fly
+AND	upside
+IST	down
+SUB	when
+EXS	frightened
+NIL	.

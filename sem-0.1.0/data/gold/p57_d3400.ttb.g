@@ -1,0 +1,10 @@
+PRO	He
+EPS	lifted
+DEF	the
+CON	trunk
+NIL	to
+EXS	show
+REL	off
+HAS	his
+CON	strength
+NIL	.

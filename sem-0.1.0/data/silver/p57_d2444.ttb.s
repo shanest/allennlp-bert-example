@@ -1,0 +1,13 @@
+DEF	The
+CON	job
+PST	looked
+INT	quite
+EXS	simple
+NIL	,
+BUT	but
+PRO	it
+EPS	took
+PRO	me
+DIS	a
+CON	week
+NIL	.

@@ -1,0 +1,9 @@
+ORG	Interest
+CON	rates
+NOW	have
+PFT	been
+EXS	fixed
+REL	at
+QUC	5
+UOM	%
+NIL	.

@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+EXS	getting
+EXS	sick
+COO	and
+EXS	tired
+AND	of
+ROL	Ms
+PER	Maruta
+COO	and
+HAS	her
+IST	noisy
+CON	friends
+NIL	.

@@ -1,0 +1,16 @@
+NIL	"
+PRO	I
+ENS	need
+DIS	some
+CON	money
+NIL	,
+NIL	"
+PER	Dima
+EPS	said
+NIL	,
+REL	with
+DIS	a
+CON	tone
+AND	of
+CON	embarrassment
+NIL	.

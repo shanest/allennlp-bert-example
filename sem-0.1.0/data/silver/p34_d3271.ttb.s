@@ -1,0 +1,12 @@
+TIM	Yesterday
+NIL	,
+PER	Mary
+EPS	gave
+PRO	me
+DIS	a
+CON	book
+REL	with
+DIS	a
+COL	blue
+CON	cover
+NIL	.

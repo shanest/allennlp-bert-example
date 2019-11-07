@@ -1,0 +1,15 @@
+AND	Once
+REL	upon
+DIS	a
+CON	time
+NIL	,
+UNK	there
+EPS	lived
+DIS	a
+IST	poor
+CON	man
+AND	and
+DIS	a
+IST	rich
+CON	woman
+NIL	.

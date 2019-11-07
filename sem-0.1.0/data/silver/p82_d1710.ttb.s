@@ -1,0 +1,9 @@
+DEF	The
+CON	solution
+AND	of
+DEF	the
+CON	problem
+EPS	took
+QUC	three
+CON	years
+NIL	.

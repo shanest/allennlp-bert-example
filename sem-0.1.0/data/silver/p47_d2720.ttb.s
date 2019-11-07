@@ -1,0 +1,11 @@
+AND	So
+NIL	,
+DEF	the
+ROL	assistant
+EPS	returned
+UOM	$
+QUC	1
+REL	to
+AND	each
+CON	man
+NIL	.

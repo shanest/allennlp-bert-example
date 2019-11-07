@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+IST	out
+AND	of
+HAS	his
+CON	mind
+NIL	,
+NOW	is
+NOT	n't
+PRO	he
+QUE	?

@@ -1,0 +1,10 @@
+ROL	Mr
+PER	Kato
+PST	was
+INT	too
+DEG	old
+REL	to
+CON	work
+AND	any
+IST	longer
+NIL	.

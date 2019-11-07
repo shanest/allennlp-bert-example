@@ -1,0 +1,17 @@
+NIL	"
+PRO	I
+EPS	sat
+IST	down
+AND	next
+REL	to
+PER	Tom
+NIL	.
+NIL	"
+NIL	"
+PRO	I
+NOW	do
+NOT	n't
+EXS	believe
+PRO	you
+NIL	.
+NIL	"

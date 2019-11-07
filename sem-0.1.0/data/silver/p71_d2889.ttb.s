@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	busy
+EXS	preparing
+REL	for
+DEF	the
+IST	next
+CON	exam
+NIL	.

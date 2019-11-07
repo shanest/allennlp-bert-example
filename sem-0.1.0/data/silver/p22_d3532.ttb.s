@@ -1,0 +1,14 @@
+DST	That
+CON	box
+NOW	is
+INT	too
+EXS	big
+SUB	to
+EXS	put
+REL	in
+DEF	the
+CON	trunk
+AND	of
+DEF	the
+CON	car
+NIL	.

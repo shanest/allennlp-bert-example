@@ -1,0 +1,11 @@
+PER	Tom
+NOW	has
+DIS	a
+IST	big
+CON	box
+AND	of
+CON	stuff
+REL	in
+HAS	my
+CON	attic
+NIL	.

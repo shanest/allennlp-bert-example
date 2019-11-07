@@ -1,0 +1,15 @@
+GRE	Hurry
+IST	up
+EQU	,
+CON	kid
+NIL	,
+PRO	we
+NOW	've
+EXS	got
+DIS	a
+CON	lot
+AND	of
+EXS	travelling
+SUB	to
+EXS	do
+NIL	.

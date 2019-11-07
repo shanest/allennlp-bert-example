@@ -1,0 +1,9 @@
+GPE	Armenia
+NOW	is
+EXS	called
+NIL	"
+GEO	Hayastan
+NIL	"
+REL	in
+GPO	Armenian
+NIL	.

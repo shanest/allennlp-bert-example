@@ -1,0 +1,10 @@
+PRX	Here
+NOW	's
+DIS	a
+IST	comfortable
+CON	chair
+PRO	you
+POS	can
+EXS	sit
+REL	in
+NIL	.

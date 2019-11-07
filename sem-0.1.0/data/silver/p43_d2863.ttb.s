@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+IST	far
+REL	from
+EXG	winning
+DEF	the
+IST	first
+CON	prize
+NIL	.

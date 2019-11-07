@@ -1,0 +1,10 @@
+QUE	What
+CON	group
+EPS	sang
+DEF	the
+CON	song
+NIL	"
+AND	Happy
+ART	Together
+NIL	"
+QUE	?

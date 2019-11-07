@@ -1,0 +1,10 @@
+PRO	She
+IST	finally
+EPS	made
+IST	up
+HAS	her
+CON	mind
+SUB	to
+EXS	go
+IST	abroad
+NIL	.

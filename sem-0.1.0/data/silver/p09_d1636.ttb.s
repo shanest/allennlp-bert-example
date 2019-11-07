@@ -1,0 +1,13 @@
+XCL	Only
+SUB	after
+EXG	leaving
+CON	school
+PRO	I
+EPS	realized
+QUE	how
+IST	important
+PRO	it
+ENS	is
+SUB	to
+EXS	study
+NIL	.

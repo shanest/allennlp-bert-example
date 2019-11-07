@@ -1,0 +1,12 @@
+QUC	Two
+CON	weeks
+PST	ago
+NIL	,
+PRO	I
+EPS	visited
+CON	Disneyland
+REL	for
+DEF	the
+IST	first
+CON	time
+NIL	.

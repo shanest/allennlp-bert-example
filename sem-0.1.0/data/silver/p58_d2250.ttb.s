@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	tired
+COO	and
+PRO	I
+ENS	want
+SUB	to
+EXS	go
+REL	to
+CON	bed
+NIL	.

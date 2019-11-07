@@ -1,0 +1,13 @@
+PRO	I
+EPS	stayed
+CON	home
+AND	last
+CON	night
+SUB	to
+EXS	be
+IST	able
+SUB	to
+EXS	receive
+HAS	your
+CON	call
+NIL	.

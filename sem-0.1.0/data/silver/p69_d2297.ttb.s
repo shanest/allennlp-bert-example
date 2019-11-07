@@ -1,0 +1,13 @@
+GPE	China
+NOW	is
+DEF	the
+TOP	largest
+CON	producer
+AND	and
+CON	consumer
+AND	of
+CON	coal
+REL	in
+DEF	the
+CON	world
+NIL	.

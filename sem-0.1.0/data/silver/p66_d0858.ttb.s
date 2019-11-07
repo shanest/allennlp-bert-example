@@ -1,0 +1,10 @@
+REL	In
+GPE	Japan
+EQU	,
+DEF	the
+IST	new
+CON	semester
+ENS	begins
+REL	in
+MOY	April
+NIL	.

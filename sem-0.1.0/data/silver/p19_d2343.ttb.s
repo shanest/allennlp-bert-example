@@ -1,0 +1,10 @@
+PER	Tom
+HAS	's
+REL	in
+CON	love
+REL	with
+PER	Mary
+HAS	's
+MOR	younger
+ROL	sister
+NIL	.

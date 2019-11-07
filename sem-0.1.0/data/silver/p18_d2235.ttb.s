@@ -1,0 +1,9 @@
+ITJ	Honestly
+NIL	,
+PRO	I
+ALT	also
+ENS	want
+SUB	to
+EXS	learn
+GPO	Japanese
+NIL	.

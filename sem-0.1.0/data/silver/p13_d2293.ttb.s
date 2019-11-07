@@ -1,0 +1,11 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	deny
+PRO	it
+NIL	.
+PRO	You
+NOW	've
+EXS	got
+CON	style
+NIL	.

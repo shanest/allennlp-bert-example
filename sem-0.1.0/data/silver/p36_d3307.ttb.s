@@ -1,0 +1,16 @@
+PRO	I
+FUT	wo
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	meet
+PRO	you
+FUT	tomorrow
+AND	because
+DIS	something
+IST	unexpected
+NOW	has
+EXS	come
+IST	up
+NIL	.

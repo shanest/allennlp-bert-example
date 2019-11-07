@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	useless
+SUB	to
+EXS	keep
+REL	on
+CON	thinking
+AND	any
+CON	more
+NIL	.

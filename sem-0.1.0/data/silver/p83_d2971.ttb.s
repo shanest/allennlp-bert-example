@@ -1,0 +1,13 @@
+PRX	This
+NOW	is
+DEF	the
+IST	first
+CON	time
+PRO	I
+NOW	've
+IST	ever
+EXS	wasted
+INT	so
+QUC	much
+CON	time
+NIL	.

@@ -1,0 +1,14 @@
+ITJ	Wow
+NIL	,
+PRO	we
+NOW	're
+IST	finally
+REL	in
+GEO	Paris
+NIL	.
+QUE	Where
+NEC	should
+PRO	we
+EXS	visit
+IST	first
+QUE	?

@@ -1,0 +1,11 @@
+PRX	This
+CON	man
+NOW	has
+PFT	been
+EXS	blind
+REL	for
+QUC	five
+UOM	years
+REL	at
+TOP	least
+NIL	.

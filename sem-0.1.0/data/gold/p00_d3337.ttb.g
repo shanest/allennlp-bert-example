@@ -1,0 +1,13 @@
+EXS	Let
+PRO	's
+EXS	play
+CON	tennis
+NIL	.
+PRO	I
+NOW	've
+EXT	booked
+DIS	a
+CON	court
+REL	for
+CLO	10:30
+NIL	.

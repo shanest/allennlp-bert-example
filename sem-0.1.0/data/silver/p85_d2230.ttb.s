@@ -1,0 +1,9 @@
+PRO	I
+PST	had
+CON	things
+PRO	I
+NEC	had
+SUB	to
+EXS	deal
+REL	with
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	sun
+EPS	went
+IST	down
+NIL	,
+COO	so
+PRO	they
+ENS	quit
+EXS	working
+NIL	.

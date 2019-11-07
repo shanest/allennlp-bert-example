@@ -1,0 +1,9 @@
+PRO	I
+ENS	think
+PRO	I
+POS	might
+EXS	be
+DIS	a
+IST	little
+IST	late
+NIL	.

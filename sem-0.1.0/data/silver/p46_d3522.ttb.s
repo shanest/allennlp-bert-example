@@ -1,0 +1,15 @@
+HAS	His
+CON	novels
+NIL	,
+EXT	having
+PFT	been
+EXS	translated
+REL	into
+GPO	English
+NIL	,
+NOW	are
+IST	widely
+EXS	read
+REL	in
+GEO	America
+NIL	.

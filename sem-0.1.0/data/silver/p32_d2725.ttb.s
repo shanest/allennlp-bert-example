@@ -1,0 +1,13 @@
+ITJ	Hey
+CON	boys
+EQU	,
+EXS	stop
+EXS	fighting
+NIL	.
+EXS	Come
+REL	on
+NIL	,
+EXS	break
+PRO	it
+IST	up
+NIL	!

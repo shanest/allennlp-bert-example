@@ -1,0 +1,9 @@
+DEF	The
+ORG	Euro
+NOW	is
+IST	worth
+APX	approximately
+QUC	one
+UOM	dollar
+NOW	today
+NIL	.

@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	impossible
+SUB	to
+EXS	put
+DEF	the
+CON	plan
+REL	into
+CON	practice
+NIL	.

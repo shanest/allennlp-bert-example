@@ -1,0 +1,9 @@
+HAS	Her
+CON	manners
+EQU	are
+NOT	not
+PRO	those
+REL	of
+DIS	a
+CON	lady
+NIL	.

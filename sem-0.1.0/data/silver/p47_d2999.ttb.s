@@ -1,0 +1,17 @@
+CON	Virtues
+NIL	!
+QUE	Who
+ENS	knows
+QUE	what
+CON	virtues
+NOW	are
+QUE	?
+NOT	Not
+PRO	you
+NIL	.
+NOT	Not
+PRO	I
+NIL	.
+NOT	Not
+AND	anyone
+NIL	.

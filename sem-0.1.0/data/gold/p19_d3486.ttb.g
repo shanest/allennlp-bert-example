@@ -1,0 +1,11 @@
+PER	Tom
+EPS	died
+REL	after
+EXS	stepping
+REL	on
+DIS	a
+CON	scorpion
+REL	in
+DEF	the
+CON	desert
+NIL	.

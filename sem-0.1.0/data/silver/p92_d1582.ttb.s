@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+IST	so
+EXS	tired
+SUB	that
+PRO	I
+NOW	do
+NOT	n't
+EXS	feel
+AND	like
+EXS	studying
+CON	tonight
+NIL	.

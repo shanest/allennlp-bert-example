@@ -1,0 +1,11 @@
+DEF	The
+IST	little
+CON	boy
+PST	was
+EXS	frightened
+COO	and
+EPS	sprang
+REL	from
+DEF	the
+CON	chair
+NIL	.

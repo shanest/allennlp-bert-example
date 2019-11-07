@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+NOW	guys
+EXS	want
+SUB	to
+EXS	read
+QUE	what
+PRO	I
+EPS	wrote
+QUE	?

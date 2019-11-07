@@ -1,0 +1,13 @@
+PRX	This
+NOW	is
+AND	like
+EXS	fighting
+DIS	someone
+REL	with
+QUC	one
+CON	arm
+EPS	tied
+AND	behind
+HAS	your
+IST	back
+NIL	.

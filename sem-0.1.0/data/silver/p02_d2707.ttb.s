@@ -1,0 +1,17 @@
+DEF	The
+CON	man
+HAS	's
+CON	statement
+REL	to
+DEF	the
+IST	pretty
+CON	girl
+SUB	that
+PRO	he
+PST	was
+DIS	a
+ROL	millionaire
+PST	was
+AND	all
+EXS	eye-wash
+NIL	.

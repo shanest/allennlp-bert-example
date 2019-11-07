@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+IST	still
+NOT	not
+EXS	booked
+HAS	my
+CON	flights
+REL	to
+GPE	Germany
+NIL	.

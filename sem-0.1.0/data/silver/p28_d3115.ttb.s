@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXT	having
+CON	lunch
+REL	in
+DEF	the
+CON	cafeteria
+NIL	.

@@ -1,0 +1,10 @@
+ROL	Mr.
+PER	Soarez
+NOW	has
+PFT	been
+HAS	my
+IST	close
+CON	friend
+REL	for
+CON	years
+NIL	.

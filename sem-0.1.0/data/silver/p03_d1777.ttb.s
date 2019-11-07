@@ -1,0 +1,12 @@
+REL	In
+DEF	the
+GPE	Palatinate
+DEF	the
+CON	pastor
+ENS	goes
+REL	to
+CON	church
+REL	with
+DIS	a
+CON	pipe
+NIL	.

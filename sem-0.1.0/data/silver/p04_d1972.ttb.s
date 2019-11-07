@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+EXG	coming
+IST	back
+IST	here
+AND	as
+IST	quick
+SUB	as
+PRO	he
+POS	can
+NIL	.

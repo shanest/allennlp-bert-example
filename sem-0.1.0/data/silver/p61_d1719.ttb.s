@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	invited
+PRO	me
+REL	to
+HAS	their
+CON	wedding
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+CON	fog
+EPS	prevented
+DEF	the
+CON	planes
+REL	from
+EXG	taking
+REL	off
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+EPS	lived
+REL	in
+DST	that
+IST	small
+CON	house
+REL	for
+DIS	a
+CON	little
+MOR	over
+QUC	ten
+CON	years
+NIL	.

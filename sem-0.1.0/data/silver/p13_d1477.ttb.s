@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	spent
+AND	all
+DOW	Saturday
+CON	morning
+IST	together
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+ENS	wonder
+AND	who
+DEF	the
+CON	people
+PRO	I
+EPS	saw
+PRO	her
+REL	with
+PST	were
+NIL	.

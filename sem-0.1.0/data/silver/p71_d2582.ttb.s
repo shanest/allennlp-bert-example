@@ -1,0 +1,11 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	introduce
+PRO	you
+REL	to
+HAS	my
+CON	parents
+AND	next
+DOW	Saturday
+NIL	.

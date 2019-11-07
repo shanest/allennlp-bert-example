@@ -1,0 +1,10 @@
+QUC	Six
+CON	men
+EPS	came
+REL	forward
+NIL	to
+EXS	volunteer
+REL	for
+DEF	the
+CON	work
+NIL	.

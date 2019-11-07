@@ -1,0 +1,13 @@
+PRO	I
+EPS	needed
+SUB	to
+EXS	justify
+QUE	why
+PRO	I
+PST	was
+EXS	earning
+AND	such
+DIS	a
+IST	large
+CON	salary
+NIL	.

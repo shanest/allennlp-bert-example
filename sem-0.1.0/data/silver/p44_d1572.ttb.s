@@ -1,0 +1,10 @@
+NOW	Do
+NOT	n't
+PRO	you
+FUT	dare
+EXS	talk
+REL	to
+PRO	me
+ENS	like
+SUB	that
+NIL	.

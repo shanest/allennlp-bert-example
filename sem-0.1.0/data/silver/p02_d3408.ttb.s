@@ -1,0 +1,12 @@
+REL	Since
+CON	spring
+NIL	,
+PRO	she
+NOW	has
+EXS	been
+DEF	the
+ROL	president
+AND	of
+DEF	the
+CON	country
+NIL	.

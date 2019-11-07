@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+DEF	the
+CON	stupidest
+CON	thing
+PRO	I
+NOW	've
+IST	ever
+EXS	heard
+NIL	.

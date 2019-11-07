@@ -1,0 +1,10 @@
+EXS	Let
+PRO	's
+ENS	try
+SUB	to
+EXS	speed
+CON	things
+IST	up
+NIL	,
+EXS	okay
+QUE	?

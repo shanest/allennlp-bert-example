@@ -1,0 +1,30 @@
+AND	Earlier
+PRX	this
+CON	year
+ROL	reporter
+PER	Judith Miller
+PST	was
+EXS	jailed
+REL	for
+EXS	refusing
+NIL	to
+EXS	name
+DEF	the
+CON	US-government
+CON	source
+AND	who
+EXS	identified
+DIS	a
+CON	member
+AND	of
+DEF	the
+ORG	US
+ORG	Central Intelligence
+ORG	Agency
+SUB	(
+ORG	CIA
+NIL	)
+NIL	,
+ORG	Valerie
+PER	Plame
+NIL	.

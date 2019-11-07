@@ -1,0 +1,10 @@
+PRO	He
+PST	was
+EXS	promoted
+REL	to
+DEF	the
+CON	position
+AND	of
+CON	head
+ROL	teacher
+NIL	.

@@ -1,0 +1,9 @@
+PRO	She
+EPS	gave
+PRO	me
+CON	permission
+SUB	to
+EXS	use
+HAS	her
+CON	dictionary
+NIL	.

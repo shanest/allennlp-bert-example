@@ -1,0 +1,9 @@
+PRO	She
+EPS	advised
+PRO	him
+NOT	not
+SUB	to
+EXS	drink
+INT	too
+QUC	much
+NIL	.

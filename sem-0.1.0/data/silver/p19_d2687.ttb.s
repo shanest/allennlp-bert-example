@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+EXS	alive
+AND	all
+CON	right
+NIL	,
+BUT	but
+NOW	do
+NOT	n't
+EXS	ask
+SUB	where
+DIS	or
+QUE	how
+NIL	.

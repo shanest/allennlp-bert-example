@@ -1,0 +1,11 @@
+PRO	He
+EPS	broke
+HAS	his
+CON	promise
+NIL	,
+UNK	which
+PST	was
+DIS	a
+IST	big
+CON	mistake
+NIL	.

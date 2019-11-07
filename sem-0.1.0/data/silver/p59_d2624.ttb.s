@@ -1,0 +1,15 @@
+AND	Just
+EXS	tell
+PRO	me
+QUE	what
+PRO	you
+ENS	want
+PRO	me
+SUB	to
+EXS	do
+COO	and
+PRO	I
+FUT	'll
+EXS	do
+PRO	it
+NIL	.

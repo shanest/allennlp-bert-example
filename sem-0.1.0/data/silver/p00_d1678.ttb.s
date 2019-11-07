@@ -1,0 +1,10 @@
+PRO	I
+ENS	wish
+PRO	I
+POS	could
+EXS	take
+IST	back
+QUE	what
+PRO	I
+EPS	said
+NIL	.

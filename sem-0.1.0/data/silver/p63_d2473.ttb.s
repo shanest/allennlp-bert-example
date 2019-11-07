@@ -1,0 +1,9 @@
+PRO	She
+NOW	is
+DEF	the
+TOP	oldest
+AND	of
+DEF	the
+QUC	three
+ROL	sisters
+NIL	.

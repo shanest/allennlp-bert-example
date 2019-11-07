@@ -1,0 +1,9 @@
+PRO	I
+EPS	watched
+CON	TV
+SUB	after
+PRO	I
+EPS	washed
+DEF	the
+CON	dishes
+NIL	.

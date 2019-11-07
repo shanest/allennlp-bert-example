@@ -1,0 +1,13 @@
+PRO	I
+PST	had
+PFT	been
+EXS	studying
+CON	music
+REL	in
+GPE	Boston
+SUB	before
+PRO	I
+EPS	returned
+REL	to
+GPE	Japan
+NIL	.

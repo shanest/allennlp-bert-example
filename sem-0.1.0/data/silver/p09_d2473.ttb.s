@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	she
+NOW	does
+NOT	n't
+EXS	know
+AND	who
+PRO	I
+NOW	am
+NIL	.

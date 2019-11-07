@@ -1,0 +1,10 @@
+PER	Tom
+EPS	died
+IST	just
+DIS	a
+IST	few
+CON	hours
+REL	after
+PER	Mary
+EPS	died
+NIL	.

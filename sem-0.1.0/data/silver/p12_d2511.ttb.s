@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	never
+EXS	seen
+AND	such
+DIS	a
+IST	beautiful
+CON	girl
+NIL	.

@@ -1,0 +1,11 @@
+ROL	Mr.
+PER	Tanaka
+EPS	showed
+PRO	us
+QUV	many
+CON	pictures
+AND	of
+HAS	his
+IST	newborn
+CON	baby
+NIL	.

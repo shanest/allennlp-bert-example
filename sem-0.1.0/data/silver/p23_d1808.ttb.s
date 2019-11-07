@@ -1,0 +1,9 @@
+PRO	I
+NEC	must
+EXS	finish
+EXG	reading
+SUB	that
+CON	book
+REL	by
+FUT	tomorrow
+NIL	.

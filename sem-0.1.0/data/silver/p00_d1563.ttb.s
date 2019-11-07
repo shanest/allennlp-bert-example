@@ -1,0 +1,9 @@
+PER	Tom
+EPS	found
+PRO	me
+DIS	a
+IST	good
+CON	place
+NIL	to
+EXS	live
+NIL	.

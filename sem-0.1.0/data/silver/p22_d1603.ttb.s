@@ -1,0 +1,10 @@
+AND	Every
+CON	cop
+REL	in
+GEO	Boston
+NOW	is
+NOW	now
+EXS	looking
+REL	for
+PER	Tom
+NIL	.

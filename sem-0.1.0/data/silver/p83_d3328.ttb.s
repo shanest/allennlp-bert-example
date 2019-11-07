@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+XCL	only
+QUC	thirteen
+SUB	when
+PRO	they
+IST	first
+EPS	met
+NIL	.

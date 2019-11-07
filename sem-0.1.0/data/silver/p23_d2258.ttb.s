@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n’t
+EXS	push
+PRO	me
+INT	too
+IST	hard
+NIL	.
+PRO	It
+NOW	’s
+EXS	dangerous
+NIL	.

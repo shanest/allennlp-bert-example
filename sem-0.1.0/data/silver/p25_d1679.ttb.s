@@ -1,0 +1,12 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	what
+PER	Mary
+ENS	wants
+SUB	to
+EXS	eat
+REL	for
+CON	dinner
+NIL	.

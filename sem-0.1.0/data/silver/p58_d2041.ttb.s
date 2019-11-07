@@ -1,0 +1,14 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	tell
+PRO	you
+AND	any
+CON	particulars
+NIL	.
+PRO	I
+NOW	am
+EXS	bound
+REL	to
+CON	secrecy
+NIL	.

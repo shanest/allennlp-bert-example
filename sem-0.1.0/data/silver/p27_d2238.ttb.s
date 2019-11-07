@@ -1,0 +1,11 @@
+PER	Tom
+ENS	says
+PRO	he
+NOW	has
+NOT	no
+CON	idea
+QUE	what
+EPS	happened
+REL	to
+PER	Mary
+NIL	.

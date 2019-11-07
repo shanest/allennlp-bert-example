@@ -1,0 +1,13 @@
+PRX	This
+CON	town
+NOW	is
+IST	quite
+EXS	different
+REL	from
+QUE	what
+PRO	it
+PST	was
+QUC	ten
+CON	years
+PST	ago
+NIL	.

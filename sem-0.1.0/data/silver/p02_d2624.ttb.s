@@ -1,0 +1,14 @@
+PER	Mary
+PST	was
+EXS	jealous
+SUB	that
+PER	Tom
+EPS	spent
+INT	so
+QUV	much
+CON	time
+REL	with
+HAS	her
+ROL	friend
+PER	Conchita
+NIL	.

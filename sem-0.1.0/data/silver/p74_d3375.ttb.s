@@ -1,0 +1,14 @@
+IST	Please
+NOW	do
+NOT	n't
+EXS	make
+INT	so
+QUC	much
+CON	noise
+NIL	.
+PRO	I
+NOW	'm
+EXS	trying
+SUB	to
+EXS	work
+NIL	.

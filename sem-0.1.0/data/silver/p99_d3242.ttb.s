@@ -1,0 +1,11 @@
+PER	Tom
+ENS	says
+SUB	that
+PRO	he
+NOW	's
+NOT	never
+EXS	tried
+EXG	eating
+CON	dog
+CON	food
+NIL	.

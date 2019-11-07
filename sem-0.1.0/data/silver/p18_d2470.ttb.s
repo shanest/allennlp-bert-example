@@ -1,0 +1,10 @@
+HAS	My
+INT	very
+EXT	educated
+ROL	mother
+IST	just
+EPS	showed
+PRO	us
+QUC	nine
+CON	planets
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+EPS	knew
+PRX	this
+PST	was
+EXS	going
+NIL	to
+EXS	happen
+NIL	,
+CON	right
+QUE	?

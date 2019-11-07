@@ -1,0 +1,13 @@
+DEF	The
+CON	man
+EPS	put
+DEF	the
+CON	gun
+AND	against
+HAS	his
+CON	forehead
+COO	and
+EPS	squeezed
+DEF	the
+EXS	trigger
+NIL	.

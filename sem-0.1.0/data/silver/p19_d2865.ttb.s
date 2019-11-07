@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	buy
+EMP	myself
+DIS	a
+IST	new
+CON	camera
+EQU	,
+IST	digital
+PRX	this
+CON	time
+NIL	.

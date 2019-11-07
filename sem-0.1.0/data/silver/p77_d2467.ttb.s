@@ -1,0 +1,11 @@
+AND	Why
+NOW	have
+PRO	you
+EPS	bought
+DEF	the
+IST	same
+CON	camera
+AND	as
+PRO	I
+NOW	have
+QUE	?

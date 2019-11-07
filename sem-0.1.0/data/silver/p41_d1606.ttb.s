@@ -1,0 +1,10 @@
+PRO	He
+EPS	gave
+PRO	me
+QUE	what
+CON	money
+PRO	he
+PST	had
+REL	with
+PRO	him
+NIL	.

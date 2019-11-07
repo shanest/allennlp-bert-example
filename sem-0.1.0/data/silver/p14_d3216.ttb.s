@@ -1,0 +1,12 @@
+QUE	Which
+NOW	do
+PRO	you
+EXS	like
+COM	better
+NIL	,
+COL	white
+CON	rice
+DIS	or
+COL	brown
+CON	rice
+QUE	?

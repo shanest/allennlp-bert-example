@@ -1,0 +1,9 @@
+PER	Tom
+ENS	lives
+IST	just
+IST	down
+DEF	the
+CON	street
+REL	from
+PER	Mary
+NIL	.

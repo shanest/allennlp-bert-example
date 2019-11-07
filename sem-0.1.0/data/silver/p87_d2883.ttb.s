@@ -1,0 +1,10 @@
+EXS	Take
+REL	off
+HAS	your
+CON	jacket
+SUB	because
+PRO	it
+NOW	's
+INT	very
+EXS	hot
+NIL	.

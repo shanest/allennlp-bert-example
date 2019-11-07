@@ -1,0 +1,9 @@
+GPE	Japan
+NOW	is
+EXS	called
+NIL	"
+ORG	Nippon
+NIL	"
+REL	in
+GPO	Japanese
+NIL	.

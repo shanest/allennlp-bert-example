@@ -1,0 +1,11 @@
+QUV	Many
+CON	workers
+NOW	are
+EXG	facing
+DEF	the
+CON	ax
+REL	in
+DEF	the
+CON	assembly
+CON	department
+NIL	.

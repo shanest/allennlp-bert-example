@@ -1,0 +1,13 @@
+PER	Tom
+PST	was
+EXS	born
+REL	in
+DIS	a
+IST	small
+CON	town
+NOT	not
+INT	too
+IST	far
+REL	from
+GPE	Boston
+NIL	.

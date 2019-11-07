@@ -1,0 +1,11 @@
+PRO	She
+ENS	thinks
+SUB	that
+PRO	she
+HAS	's
+DEF	the
+CON	center
+AND	of
+DEF	the
+CON	universe
+NIL	.

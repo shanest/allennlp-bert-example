@@ -1,0 +1,12 @@
+PER	Tom
+PST	was
+EXS	looking
+REL	for
+CON	place
+SUB	to
+EXS	eat
+DST	that
+PST	had
+EXS	reasonable
+CON	prices
+NIL	.

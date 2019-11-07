@@ -1,0 +1,15 @@
+PRO	She
+NOW	has
+QUC	two
+CON	cats
+NIL	.
+CON	One
+NOW	is
+COL	black
+NIL	,
+COO	and
+DEF	the
+CON	other
+NOW	is
+COL	white
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+EXS	going
+SUB	to
+EXS	come
+IST	up
+AND	against
+IST	fierce
+CON	competition
+NIL	.

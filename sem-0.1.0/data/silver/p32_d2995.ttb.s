@@ -1,0 +1,15 @@
+DEF	The
+ROL	burglar
+EPS	gained
+CON	entry
+AND	through
+DEF	the
+CON	front
+CON	door
+NIL	,
+UNK	which
+PST	had
+PFT	been
+EXS	left
+IST	unlocked
+NIL	.

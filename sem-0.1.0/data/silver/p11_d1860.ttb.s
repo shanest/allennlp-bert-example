@@ -1,0 +1,13 @@
+PRO	He
+NOW	is
+DIS	a
+IST	nice
+CON	man
+NIL	,
+NOT	except
+SUB	that
+PRO	he
+NOW	talks
+INT	too
+QUV	much
+NIL	.

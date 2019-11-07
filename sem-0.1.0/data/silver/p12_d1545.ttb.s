@@ -1,0 +1,12 @@
+NOW	Now
+SUB	that
+PRO	it
+NOW	has
+EXS	stopped
+EXS	raining
+NIL	,
+PRO	we
+POS	can
+EXS	go
+CON	home
+NIL	.

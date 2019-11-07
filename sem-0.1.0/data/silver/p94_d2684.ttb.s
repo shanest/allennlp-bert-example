@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	I
+EPS	ate
+DIS	a
+IST	little
+INT	too
+QUC	much
+CON	today
+NIL	.

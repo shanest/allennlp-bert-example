@@ -1,0 +1,9 @@
+UNK	There
+HAS	's
+DIS	something
+PRO	I
+EPS	forgot
+SUB	to
+EXS	tell
+PRO	you
+NIL	.

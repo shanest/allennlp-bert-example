@@ -1,0 +1,9 @@
+EXS	Let
+PRO	's
+NOT	not
+EXS	talk
+AND	about
+SUB	that
+EXS	right
+NOW	now
+NIL	.

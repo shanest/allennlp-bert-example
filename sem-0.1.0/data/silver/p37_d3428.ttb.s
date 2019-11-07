@@ -1,0 +1,13 @@
+EXS	Let
+PRO	's
+ENS	go
+REL	to
+DEF	the
+CON	zoo
+SUB	to
+EXS	watch
+PRO	them
+EXS	feed
+DEF	the
+CON	seals
+NIL	.

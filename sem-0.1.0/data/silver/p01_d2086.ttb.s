@@ -1,0 +1,9 @@
+NIL	There
+NOW	is
+NOT	no
+EXS	telling
+SUB	when
+PRO	they
+FUT	will
+EXS	come
+NIL	.

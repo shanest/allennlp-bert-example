@@ -1,0 +1,9 @@
+PRO	She
+PST	did
+NOT	not
+EXS	promise
+SUB	to
+EXS	come
+PRX	here
+ALT	again
+NIL	.

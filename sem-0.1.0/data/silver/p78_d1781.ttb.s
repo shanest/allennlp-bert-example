@@ -1,0 +1,10 @@
+PRO	It
+ENS	seems
+SUB	to
+PRO	me
+SUB	that
+PRO	he
+NOW	is
+REL	from
+GPE	England
+NIL	.

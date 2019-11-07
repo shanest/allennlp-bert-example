@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+QUE	what
+PRO	it
+NOW	's
+EXS	like
+SUB	to
+EXS	be
+EXS	alone
+NIL	.

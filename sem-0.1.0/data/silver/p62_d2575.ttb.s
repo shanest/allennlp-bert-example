@@ -1,0 +1,12 @@
+SUB	To
+EXS	make
+DIS	a
+IST	long
+CON	story
+IST	short
+NIL	,
+PRO	we
+EPS	buried
+DEF	the
+CON	hatchet
+NIL	.

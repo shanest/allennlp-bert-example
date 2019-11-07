@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	want
+PER	Mary
+NIL	to
+EXS	babysit
+HAS	his
+CON	children
+NIL	.

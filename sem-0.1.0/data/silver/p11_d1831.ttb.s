@@ -1,0 +1,16 @@
+CON	Newspapers
+AND	and
+CON	television
+CON	stations
+AND	around
+DEF	the
+CON	world
+EPS	told
+DEF	the
+CON	story
+AND	of
+PER	Koko
+AND	and
+HAS	her
+CON	kitten
+NIL	.

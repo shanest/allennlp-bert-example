@@ -1,0 +1,10 @@
+PRO	He
+NOW	has
+DIS	a
+CON	faculty
+REL	for
+EXG	making
+ALT	other
+CON	people
+EXS	happy
+NIL	.

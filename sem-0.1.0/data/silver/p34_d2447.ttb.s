@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PER	Tom
+ENS	hangs
+IST	out
+REL	with
+PER	Mary
+INT	too
+QUC	much
+NIL	.

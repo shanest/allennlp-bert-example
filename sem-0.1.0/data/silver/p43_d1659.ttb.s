@@ -1,0 +1,10 @@
+PRX	Here
+NOW	's
+DEF	the
+CON	house
+PRO	she
+EPS	used
+SUB	to
+EXS	live
+REL	in
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+ENS	need
+ALT	another
+CON	can
+AND	of
+EXS	paint
+SUB	to
+EXS	finish
+CON	painting
+DEF	the
+CON	ceiling
+NIL	.

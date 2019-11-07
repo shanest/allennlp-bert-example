@@ -1,0 +1,14 @@
+QUE	How
+IST	long
+NOW	do
+PRO	you
+NOW	think
+PRO	it
+ENS	takes
+SUB	to
+EXS	go
+REL	from
+PRX	here
+REL	to
+GPE	Tokyo
+QUE	?

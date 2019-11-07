@@ -1,0 +1,9 @@
+PER	Wo
+NOT	n't
+PRO	you
+EXS	get
+REL	in
+CON	trouble
+REL	for
+PRX	this
+QUE	?

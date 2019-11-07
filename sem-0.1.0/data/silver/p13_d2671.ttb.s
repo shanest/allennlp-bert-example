@@ -1,0 +1,13 @@
+DEF	The
+XCL	only
+CON	thing
+SUB	that
+PRO	I
+ENS	know
+REL	for
+IST	certain
+NOW	is
+SUB	that
+PRO	I
+ENS	exist
+NIL	.

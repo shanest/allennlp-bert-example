@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+DIS	a
+CON	brand
+IST	new
+CON	pair
+AND	of
+CON	socks
+NIL	.

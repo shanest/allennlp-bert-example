@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+IST	already
+EPS	told
+PRO	you
+PRO	I
+NOW	'm
+EXS	busy
+NIL	.

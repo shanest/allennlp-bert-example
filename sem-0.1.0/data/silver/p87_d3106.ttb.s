@@ -1,0 +1,13 @@
+PRO	I
+NOW	've
+EXS	put
+DIS	a
+CON	slice
+AND	of
+CON	cake
+REL	on
+DEF	the
+CON	table
+NIL	.
+AND	Enjoy
+NIL	!

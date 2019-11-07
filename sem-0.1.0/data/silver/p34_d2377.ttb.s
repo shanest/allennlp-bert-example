@@ -1,0 +1,11 @@
+EXS	Let
+PRO	me
+EXS	know
+DEF	the
+CON	result
+AND	as
+IST	soon
+SUB	as
+PRO	you
+POS	can
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+PST	had
+NOT	no
+CON	choice
+BUT	but
+NIL	to
+EXS	follow
+PER	Mary
+NIL	.

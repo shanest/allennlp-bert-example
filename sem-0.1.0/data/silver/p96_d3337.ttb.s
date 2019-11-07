@@ -1,0 +1,9 @@
+DEF	The
+CON	hair-dressing
+CON	liquid
+EPS	gave
+REL	off
+DIS	a
+IST	strong
+CON	smell
+NIL	.

@@ -1,0 +1,17 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+IMP	if
+PRO	I
+NOW	've
+IST	ever
+EXT	told
+PRO	you
+NIL	,
+COO	but
+PRO	you
+NOW	have
+IST	beautiful
+CON	eyes
+NIL	.

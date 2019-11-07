@@ -1,0 +1,14 @@
+NIL	"
+PER	Tom
+NOW	does
+NOT	n't
+EXS	love
+PRO	me
+NIL	.
+NIL	"
+NIL	"
+ITJ	Well
+NIL	,
+CON	boohoo
+NIL	.
+NIL	"

@@ -1,0 +1,11 @@
+ORG	Management
+EPS	tried
+SUB	to
+EXS	appease
+CON	labor
+REL	by
+EXG	offering
+PRO	them
+DIS	a
+CON	bonus
+NIL	.

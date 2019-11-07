@@ -1,0 +1,10 @@
+PRO	We
+NOW	have
+ALT	another
+QUC	ten
+CON	miles
+NIL	to
+EXS	walk
+REL	before
+CON	sunset
+NIL	.

@@ -1,0 +1,17 @@
+DEF	The
+IST	young
+CON	man
+NEC	must
+EXT	have
+EXS	felt
+INT	very
+EXS	desperate
+SUB	when
+PRO	he
+EPS	resorted
+SUB	to
+AND	such
+DIS	a
+IST	terrible
+CON	act
+NIL	.

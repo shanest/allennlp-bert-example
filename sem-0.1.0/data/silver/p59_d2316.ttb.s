@@ -1,0 +1,13 @@
+AND	Once
+REL	in
+DIS	a
+SUB	while
+PRO	I
+ENS	go
+REL	to
+GPE	Sweden
+SUB	to
+EXS	visit
+HAS	my
+CON	boyfriend
+NIL	.

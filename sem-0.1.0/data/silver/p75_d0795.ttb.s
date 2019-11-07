@@ -1,0 +1,10 @@
+PER	Jane
+EPS	wore
+DEF	the
+IST	same
+CON	ribbon
+AND	as
+HAS	her
+CON	mother
+PST	did
+NIL	.

@@ -1,0 +1,10 @@
+REL	In
+INT	about
+QUC	20
+CON	minutes
+PRO	she
+EPS	made
+IST	up
+HAS	her
+CON	face
+NIL	.

@@ -1,0 +1,12 @@
+HAS	My
+ROL	father
+NOW	is
+AND	always
+EXG	poking
+HAS	his
+CON	nose
+REL	into
+HAS	my
+IST	private
+CON	life
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+POS	might
+EXS	be
+DIS	a
+IST	long
+CON	time
+SUB	before
+PRO	we
+NOW	meet
+ALT	again
+NIL	.

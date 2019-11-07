@@ -1,0 +1,13 @@
+PER	Tom
+NOW	is
+DEF	the
+CON	kind
+AND	of
+CON	man
+AND	who
+ENS	knows
+QUE	how
+SUB	to
+EXS	make
+CON	money
+NIL	.

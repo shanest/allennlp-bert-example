@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+IST	so
+EXS	sorry
+SUB	that
+PER	Paul
+PER	Walker
+EPS	died
+REL	in
+DIS	a
+CON	car
+CON	crash
+NIL	.

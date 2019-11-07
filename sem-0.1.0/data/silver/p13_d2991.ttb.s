@@ -1,0 +1,11 @@
+POS	May
+PRO	I
+EXS	be
+AND	so
+IST	bold
+AND	as
+SUB	to
+EXS	request
+HAS	your
+CON	assistance
+QUE	?

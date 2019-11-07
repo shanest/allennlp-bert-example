@@ -1,0 +1,11 @@
+PRO	It
+FUT	would
+EXS	be
+EXS	nice
+IMP	if
+PRO	I
+POS	could
+EXS	travel
+REL	to
+GPE	Japan
+NIL	.

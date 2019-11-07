@@ -1,0 +1,10 @@
+IMP	If
+PRO	it
+ENS	rains
+FUT	tomorrow
+NIL	,
+PRO	we
+FUT	wo
+NOT	n't
+EXS	go
+NIL	.

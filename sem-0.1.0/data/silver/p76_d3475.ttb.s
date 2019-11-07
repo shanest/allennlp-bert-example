@@ -1,0 +1,13 @@
+PRO	I
+EPS	asked
+PER	Tom
+IMP	if
+PRO	he
+EPS	wanted
+SUB	to
+EXS	go
+REL	to
+GPE	Boston
+REL	with
+PRO	me
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	never
+EXT	tried
+NIL	to
+EXS	translate
+DIS	a
+CON	book
+NIL	.

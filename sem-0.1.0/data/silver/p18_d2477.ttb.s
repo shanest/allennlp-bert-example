@@ -1,0 +1,15 @@
+PRO	I
+NOW	am
+IST	always
+EXS	pleased
+SUB	when
+PRO	I
+NOW	find
+DIS	a
+CON	reason
+SUB	to
+EXS	say
+GRE	hello
+REL	to
+PRO	you
+NIL	.

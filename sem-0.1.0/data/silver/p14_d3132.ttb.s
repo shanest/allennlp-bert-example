@@ -1,0 +1,15 @@
+PRX	This
+CON	movie
+NOW	is
+INT	so
+EXS	beautiful
+NIL	,
+PRO	I
+NOW	'm
+EXG	watching
+PRO	it
+REL	for
+DEF	the
+IST	third
+CON	time
+NIL	.

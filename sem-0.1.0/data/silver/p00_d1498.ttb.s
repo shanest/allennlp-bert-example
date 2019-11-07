@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+EXS	happy
+REL	about
+DEF	the
+CON	progress
+PRO	he
+NOW	has
+IST	recently
+EPS	made
+NIL	.

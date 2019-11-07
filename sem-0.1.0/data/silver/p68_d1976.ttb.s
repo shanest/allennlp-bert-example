@@ -1,0 +1,13 @@
+PER	Tom
+EPS	said
+PRO	he
+PST	'd
+EXS	kill
+PRO	me
+IMP	if
+PRO	he
+IST	ever
+EPS	saw
+PRO	me
+ALT	again
+NIL	.

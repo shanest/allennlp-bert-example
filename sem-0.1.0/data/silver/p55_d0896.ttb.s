@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	going
+REL	to
+GEO	Spain
+REL	in
+DEF	the
+CON	fall
+NIL	.

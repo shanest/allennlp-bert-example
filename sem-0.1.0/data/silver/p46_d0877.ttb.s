@@ -1,0 +1,9 @@
+PRO	I
+IST	finally
+ENS	understand
+DEF	the
+IST	basic
+CON	principles
+AND	of
+CON	calculus
+NIL	.

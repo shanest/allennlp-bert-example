@@ -1,0 +1,10 @@
+TOP	At
+AND	last
+PRO	she
+EPS	got
+DIS	a
+CON	job
+AND	as
+DIS	a
+CON	stewardess
+NIL	.

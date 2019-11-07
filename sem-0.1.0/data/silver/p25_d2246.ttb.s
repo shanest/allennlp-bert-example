@@ -1,0 +1,9 @@
+GPE	Japan
+NOW	is
+EXS	bounded
+REL	by
+CON	water
+REL	on
+AND	every
+CON	side
+NIL	.

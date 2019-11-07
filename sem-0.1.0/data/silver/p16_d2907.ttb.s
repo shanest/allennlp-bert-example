@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	easy
+SUB	to
+EXS	be
+IST	brave
+REL	from
+DIS	a
+IST	safe
+CON	distance
+NIL	.

@@ -1,0 +1,10 @@
+PER	Dan
+AND	and
+PER	Linda
+EPS	adopted
+DIS	a
+IST	young
+CON	boy
+REL	from
+GPE	Cambodia
+NIL	.

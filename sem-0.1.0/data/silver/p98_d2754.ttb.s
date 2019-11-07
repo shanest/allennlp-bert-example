@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+SUB	where
+IST	exactly
+CON	Hannibal
+EPS	crossed
+DEF	the
+CON	Alps
+QUE	?

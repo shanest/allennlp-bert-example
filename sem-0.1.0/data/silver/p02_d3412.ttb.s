@@ -1,0 +1,9 @@
+EXS	Tell
+PRO	him
+PRO	he
+NEC	should
+EXS	submit
+HAS	his
+IST	immediate
+CON	resignation
+NIL	.

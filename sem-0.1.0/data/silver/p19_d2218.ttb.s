@@ -1,0 +1,14 @@
+PRO	You
+EXS	lean
+REL	on
+HAS	your
+CON	parents
+IST	too
+QUV	much
+NIL	.
+PRO	You
+NEC	must
+EXS	be
+MOR	more
+IST	independent
+NIL	.

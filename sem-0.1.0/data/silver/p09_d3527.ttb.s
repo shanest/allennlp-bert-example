@@ -1,0 +1,17 @@
+SUB	Since
+PRO	he
+NOW	is
+INT	very
+IST	late
+NIL	,
+PRO	he
+POS	may
+EXT	have
+EXS	met
+REL	with
+DIS	an
+CON	accident
+REL	on
+HAS	his
+CON	way
+NIL	.

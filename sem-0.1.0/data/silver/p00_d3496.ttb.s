@@ -1,0 +1,11 @@
+DEF	The
+CON	storm
+EPS	caused
+DIS	a
+CON	lot
+NIL	of
+CON	damage
+REL	to
+DEF	the
+CON	crop
+NIL	.

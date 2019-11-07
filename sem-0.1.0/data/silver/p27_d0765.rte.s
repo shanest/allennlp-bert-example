@@ -1,0 +1,13 @@
+CON	Tolkien
+EPS	wrote
+DEF	the
+CON	fantasy
+IST	epic
+EPS	called
+NIL	"
+ORG	Lord
+AND	of
+DEF	the
+CON	Rings
+NIL	"
+NIL	.

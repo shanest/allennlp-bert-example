@@ -1,0 +1,13 @@
+NIL	"
+QUE	What
+CON	time
+NOW	is
+PRO	it
+QUE	?
+NIL	"
+NIL	"
+PRO	It
+NOW	is
+CLO	ten-thirty
+NIL	.
+NIL	"

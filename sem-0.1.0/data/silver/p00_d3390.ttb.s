@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+COO	but
+PRO	it
+NOW	's
+NOT	no
+IST	longer
+EXS	available
+NIL	.

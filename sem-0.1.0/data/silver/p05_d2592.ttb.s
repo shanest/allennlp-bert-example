@@ -1,0 +1,11 @@
+SUB	When
+PRO	I
+EPS	forgot
+HAS	my
+CON	promise
+NIL	,
+PRO	he
+PST	got
+IST	really
+EXS	angry
+NIL	.

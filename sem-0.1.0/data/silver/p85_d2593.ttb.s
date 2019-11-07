@@ -1,0 +1,11 @@
+PRO	You
+NEC	should
+EXT	've
+EXS	tried
+DIS	some
+AND	of
+PER	Tom
+HAS	's
+IST	homemade
+CON	pie
+NIL	.

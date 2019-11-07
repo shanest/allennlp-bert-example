@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PRO	you
+NEC	have
+SUB	to
+EXS	pay
+REL	for
+DEF	the
+IST	extra
+CON	weight
+NIL	.

@@ -1,0 +1,11 @@
+HAS	My
+CON	neighborhood
+NOW	has
+DIS	a
+CON	parade
+REL	on
+DEF	the
+DOM	4th
+EQU	of
+MOY	July
+NIL	.

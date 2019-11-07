@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	working
+REL	for
+PRO	us
+AND	about
+QUC	three
+CON	years
+NIL	.

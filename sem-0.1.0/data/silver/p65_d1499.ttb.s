@@ -1,0 +1,11 @@
+REL	In
+GPE	Japan
+NIL	,
+NOW	are
+CON	nurses
+EXS	high
+REL	on
+DEF	the
+IST	social
+CON	scale
+QUE	?

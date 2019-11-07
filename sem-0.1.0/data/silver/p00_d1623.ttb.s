@@ -1,0 +1,16 @@
+AND	Like
+DIS	a
+CON	bolt
+REL	of
+CON	lightning
+EQU	,
+DIS	a
+CON	haiku
+EPS	struck
+PRO	me
+PRX	this
+CON	morning
+NIL	,
+AND	then
+EPS	vanished
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PRO	we
+ENS	need
+SUB	to
+EXS	wait
+REL	for
+PER	Tom
+NIL	.

@@ -1,0 +1,15 @@
+SUB	While
+PRO	I
+PST	was
+EXG	cleaning
+REL	out
+HAS	my
+CON	desk
+NIL	,
+PRO	I
+EPS	came
+REL	across
+PRX	this
+IST	old
+CON	picture
+NIL	.

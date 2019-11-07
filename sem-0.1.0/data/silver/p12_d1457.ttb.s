@@ -1,0 +1,15 @@
+PRO	I
+ENS	know
+DIS	a
+CON	woman
+HAS	whose
+IST	first
+AND	and
+IST	last
+CON	names
+NOW	are
+DEF	the
+CON	same
+AND	as
+HAS	mine
+NIL	.

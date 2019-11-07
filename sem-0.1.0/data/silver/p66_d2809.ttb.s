@@ -1,0 +1,17 @@
+REL	In
+HAS	her
+CON	time
+NIL	,
+PER	Mary
+PST	was
+EXS	considered
+QUC	one
+AND	of
+DEF	the
+INT	most
+IST	beautiful
+CON	women
+REL	in
+DEF	the
+CON	world
+NIL	.

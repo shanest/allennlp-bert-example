@@ -1,0 +1,10 @@
+CON	Time
+POS	can
+NOT	not
+EXS	be
+PST	deciphered
+REL	in
+HAS	its
+IST	condensed
+CON	form
+NIL	.

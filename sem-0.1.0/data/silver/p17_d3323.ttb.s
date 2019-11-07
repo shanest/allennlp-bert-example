@@ -1,0 +1,10 @@
+GPE	Germany
+EPS	adopted
+DIS	a
+IST	social
+CON	security
+CON	system
+REL	in
+DEF	the
+DEC	1880's
+NIL	.

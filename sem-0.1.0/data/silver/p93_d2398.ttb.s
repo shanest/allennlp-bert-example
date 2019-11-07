@@ -1,0 +1,14 @@
+PRO	It
+NOW	's
+EXS	useless
+SUB	to
+EXS	translate
+CON	things
+AND	that
+CON	people
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	say
+NIL	.

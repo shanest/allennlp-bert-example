@@ -1,0 +1,9 @@
+PRO	He
+ENS	thinks
+PRO	it
+HAS	's
+DIS	a
+CON	waste
+AND	of
+CON	time
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+AND	both
+REL	from
+GPE	Boston
+NIL	,
+NOW	are
+NOT	n't
+PRO	you
+QUE	?

@@ -1,0 +1,11 @@
+PER	Tom
+ENS	says
+PER	Mary
+ENS	needs
+IST	more
+CON	time
+SUB	to
+EXS	finish
+HAS	her
+CON	report
+NIL	.

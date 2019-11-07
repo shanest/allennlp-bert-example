@@ -1,0 +1,13 @@
+AND	Why
+NOW	is
+HAS	my
+CON	memory
+INT	so
+IST	bad
+QUE	?
+PRO	I
+NOW	'm
+AND	always
+EXG	forgetting
+CON	things
+NIL	!

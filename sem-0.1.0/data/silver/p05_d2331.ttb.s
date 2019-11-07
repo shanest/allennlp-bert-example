@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+DIS	something
+IST	important
+SUB	to
+EXS	discuss
+REL	with
+PER	Tom
+NIL	.

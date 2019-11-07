@@ -1,0 +1,14 @@
+UNK	There
+HAS	's
+DIS	a
+IST	new
+CON	console
+IST	out
+NIL	.
+PRO	It
+HAS	's
+EPS	called
+DEF	the
+IST	Nintendo
+UOM	64
+NIL	!

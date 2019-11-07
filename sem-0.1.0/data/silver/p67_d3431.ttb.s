@@ -1,0 +1,10 @@
+PRO	It
+FUT	'll
+EXS	cost
+INT	about
+QUC	2,000
+UOM	yen
+SUB	to
+EXS	fix
+PRO	it
+NIL	.

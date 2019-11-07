@@ -1,0 +1,14 @@
+PRO	She
+EPS	sang
+DIS	a
+CON	song
+NIL	,
+DEF	the
+CON	title
+AND	of
+UNK	which
+PRO	I
+PST	did
+NOT	not
+EXS	know
+NIL	.

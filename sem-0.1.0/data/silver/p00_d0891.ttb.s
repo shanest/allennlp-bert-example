@@ -1,0 +1,13 @@
+PRO	She
+EPS	told
+PRO	me
+NOT	not
+NIL	to
+EXS	tell
+DIS	anyone
+NIL	,
+SUB	so
+PRO	I
+PST	did
+NOT	n't
+NIL	.

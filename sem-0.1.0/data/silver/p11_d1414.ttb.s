@@ -1,0 +1,12 @@
+UNK	There
+NOW	are
+CON	lots
+AND	of
+CON	things
+PRO	I
+NOW	have
+NOT	n't
+EXS	told
+PRO	you
+IST	yet
+NIL	.

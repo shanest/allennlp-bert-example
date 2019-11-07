@@ -1,0 +1,14 @@
+QUE	What
+NOW	has
+EXS	become
+AND	of
+DEF	the
+CON	book
+PRO	I
+EPS	put
+AND	here
+DIS	a
+IST	few
+CON	minutes
+PST	ago
+QUE	?

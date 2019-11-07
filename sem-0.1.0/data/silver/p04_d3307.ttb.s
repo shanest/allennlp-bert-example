@@ -1,0 +1,11 @@
+QUE	Who
+NOW	's
+EXG	having
+DIS	a
+CON	problem
+PRX	here
+NIL	,
+PRO	you
+DIS	or
+PER	Tom
+QUE	?

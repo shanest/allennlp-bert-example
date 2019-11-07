@@ -1,0 +1,15 @@
+PRO	It
+FUT	would
+EXS	be
+TOP	best
+SUB	to
+EXS	leave
+PRO	it
+REL	to
+DIS	a
+CON	man
+AND	who
+ENS	knows
+DEF	the
+CON	ropes
+NIL	.

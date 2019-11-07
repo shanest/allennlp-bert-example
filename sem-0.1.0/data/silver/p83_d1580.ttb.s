@@ -1,0 +1,10 @@
+CON	Time
+HAS	's
+IST	up
+NIL	.
+IST	Please
+EXS	pass
+REL	in
+HAS	your
+CON	exams
+NIL	.

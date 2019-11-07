@@ -1,0 +1,11 @@
+PRO	You
+NOW	've
+PFT	been
+EXS	high
+REL	on
+CON	drugs
+SUB	since
+PRO	you
+PST	were
+EXS	born
+NIL	.

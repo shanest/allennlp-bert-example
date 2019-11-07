@@ -1,0 +1,17 @@
+EXS	Being
+IST	able
+SUB	to
+EXS	make
+REF	onself
+EXS	understood
+REL	in
+GPO	English
+NOW	is
+INT	vastly
+EXS	different
+SUB	from
+EXG	mastering
+DEF	the
+CON	language
+IST	perfectly
+NIL	.

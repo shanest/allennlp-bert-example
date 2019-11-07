@@ -1,0 +1,10 @@
+PRO	She
+PST	was
+EXS	playing
+REL	with
+HAS	her
+ROL	sister
+REL	at
+DST	that
+CON	time
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	bumped
+HAS	his
+CON	head
+REL	on
+DEF	the
+CON	roof
+REL	of
+DEF	the
+CON	car
+NIL	.

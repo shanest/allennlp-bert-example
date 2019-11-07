@@ -1,0 +1,9 @@
+NIL	Beyoncé
+AND	and
+PER	Jay-Z
+EPS	called
+HAS	their
+CON	daughter
+ORG	Blue
+PER	Ivy
+NIL	.

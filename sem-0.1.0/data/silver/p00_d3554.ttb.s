@@ -1,0 +1,10 @@
+PER	Tom
+EPS	babysat
+PER	John
+AND	and
+PER	Mary
+HAS	's
+CON	children
+PST	yesterday
+CON	evening
+NIL	.

@@ -1,0 +1,14 @@
+PRO	I
+NOW	have
+IST	finally
+EXS	finished
+HAS	my
+CON	homework
+COO	;
+NOW	now
+PRO	I
+POS	can
+EXS	go
+REL	to
+CON	bed
+NIL	.

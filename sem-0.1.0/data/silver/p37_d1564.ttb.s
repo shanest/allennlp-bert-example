@@ -1,0 +1,14 @@
+PRO	We
+EPS	spent
+DIS	a
+IST	few
+CON	days
+IST	together
+REL	in
+GEO	Paris
+SUB	before
+EXS	coming
+IST	back
+REL	to
+GPE	Boston
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+HAS	's
+PFT	been
+IST	delicate
+SUB	since
+PRO	he
+PST	was
+DIS	a
+CON	boy
+NIL	.

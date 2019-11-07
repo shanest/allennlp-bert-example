@@ -1,0 +1,10 @@
+DEF	The
+IST	new
+CON	bridge
+FUT	will
+EXT	have
+PFT	been
+EXS	completed
+REL	by
+MOY	March
+NIL	.

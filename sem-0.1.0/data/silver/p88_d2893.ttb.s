@@ -1,0 +1,11 @@
+PER	Senpai
+NIL	,
+FUT	would
+PRO	you
+EXS	buy
+PRO	me
+DIS	some
+IST	soft
+CON	ice
+CON	cream
+QUE	?

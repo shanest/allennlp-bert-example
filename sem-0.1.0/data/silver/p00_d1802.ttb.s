@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+QUE	what
+PRO	he
+NOW	's
+EXS	intending
+NIL	to
+EXS	do
+NIL	.

@@ -1,0 +1,10 @@
+HAS	My
+PST	ex
+CON	husband
+NOT	no
+MOR	longer
+ENS	lives
+REL	in
+PRX	this
+CON	city
+NIL	.

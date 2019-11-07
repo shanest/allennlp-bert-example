@@ -1,0 +1,15 @@
+PRO	I
+PST	'd
+EXS	be
+XCL	only
+INT	too
+IST	happy
+SUB	to
+EXS	help
+REL	with
+EXS	getting
+DEF	the
+CON	kids
+REL	to
+CON	school
+NIL	.

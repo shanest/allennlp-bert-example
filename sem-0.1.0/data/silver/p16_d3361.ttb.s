@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+EPS	retired
+SUB	to
+EXS	make
+CON	way
+REL	for
+MOR	younger
+CON	people
+NIL	.

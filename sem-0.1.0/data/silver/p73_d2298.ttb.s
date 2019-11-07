@@ -1,0 +1,11 @@
+DEF	The
+CON	rate
+AND	of
+CON	exchange
+NOW	is
+QUC	145
+UOM	yen
+REL	to
+DEF	the
+CON	dollar
+NIL	.

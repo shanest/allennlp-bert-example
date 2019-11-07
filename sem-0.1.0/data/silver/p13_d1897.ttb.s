@@ -1,0 +1,15 @@
+PRO	I
+NOW	hope
+PRO	it
+PST	was
+AND	as
+QUV	much
+CON	fun
+REL	for
+PRO	you
+SUB	as
+PRO	it
+PST	was
+REL	for
+PRO	me
+NIL	.

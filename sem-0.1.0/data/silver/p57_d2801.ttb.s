@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	seen
+AND	such
+DIS	a
+IST	beautiful
+CON	flower
+NIL	.

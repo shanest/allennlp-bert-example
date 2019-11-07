@@ -1,0 +1,14 @@
+PRO	I
+ENS	love
+HAS	my
+IST	new
+CON	apartment
+SUB	because
+PRO	it
+NOW	's
+INT	very
+EXS	close
+REL	to
+DEF	the
+CON	station
+NIL	.

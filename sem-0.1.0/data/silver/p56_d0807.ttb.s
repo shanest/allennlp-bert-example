@@ -1,0 +1,9 @@
+PRO	I
+FUT	will
+EXS	come
+REL	to
+PRO	you
+REL	in
+DIS	an
+CON	hour
+NIL	.

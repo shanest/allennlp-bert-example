@@ -1,0 +1,11 @@
+FUT	Someday
+NIL	,
+PRO	you
+FUT	'll
+EXS	wake
+IST	up
+COO	and
+EXS	find
+REF	yourself
+EXS	dead
+NIL	.

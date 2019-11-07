@@ -1,0 +1,9 @@
+DEF	The
+CON	stew
+NOW	is
+NOT	n't
+IST	ready
+SUB	to
+EXS	eat
+ALT	yet
+NIL	.

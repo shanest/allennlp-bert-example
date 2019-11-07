@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+EXS	going
+REL	to
+DEF	the
+CON	airport
+SUB	to
+EXS	pick
+PER	Mary
+IST	up
+NIL	.

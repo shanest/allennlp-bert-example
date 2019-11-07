@@ -1,0 +1,11 @@
+NOT	No
+CON	one
+ENS	has
+SUB	to
+EXS	help
+NIL	.
+AND	And
+NOT	no
+CON	one
+ENS	helps
+NIL	.

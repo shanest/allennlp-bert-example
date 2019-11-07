@@ -1,0 +1,10 @@
+UNK	There
+HAS	's
+DIS	something
+IST	about
+PER	Mary
+SUB	that
+NOW	makes
+HAS	her
+IST	irresistible
+NIL	.

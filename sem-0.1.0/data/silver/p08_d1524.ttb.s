@@ -1,0 +1,11 @@
+PRO	You
+CON	guys
+NOW	are
+IST	really
+EXS	starting
+SUB	to
+EXS	get
+REL	on
+HAS	my
+CON	nerves
+NIL	.

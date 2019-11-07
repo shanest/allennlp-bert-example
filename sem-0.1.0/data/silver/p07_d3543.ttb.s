@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	looking
+IST	forward
+SUB	to
+EXS	hearing
+REL	from
+PRO	you
+IST	soon
+NIL	.

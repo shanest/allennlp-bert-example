@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+EXS	trying
+INT	very
+IST	hard
+SUB	to
+EXS	get
+SUB	that
+EXS	done
+REL	before
+CLO	2:30
+NIL	.

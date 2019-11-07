@@ -1,0 +1,9 @@
+PRO	I
+POS	could
+EXS	go
+REL	for
+DIS	some
+CON	pizza
+AND	right
+NOW	now
+NIL	.

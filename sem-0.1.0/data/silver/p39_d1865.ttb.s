@@ -1,0 +1,10 @@
+POS	May
+PRO	I
+CON	exchange
+PRX	this
+CON	shirt
+REL	for
+DIS	a
+MOR	smaller
+CON	size
+QUE	?

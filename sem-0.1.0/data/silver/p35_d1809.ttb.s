@@ -1,0 +1,10 @@
+PER	Tom
+ENS	stays
+IST	up
+REL	until
+REL	after
+CLO	midnight
+AND	almost
+AND	every
+CON	night
+NIL	.

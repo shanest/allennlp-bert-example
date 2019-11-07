@@ -1,0 +1,12 @@
+PER	Tom
+EPS	hugged
+PER	Mary
+IST	tightly
+COO	and
+IST	never
+EPS	wanted
+SUB	to
+EXS	let
+HAS	her
+EXS	go
+NIL	.

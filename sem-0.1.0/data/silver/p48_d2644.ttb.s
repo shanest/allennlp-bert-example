@@ -1,0 +1,11 @@
+REL	In
+DEF	the
+CON	course
+AND	of
+CON	time
+NIL	,
+PRO	he
+EPS	changed
+HAS	his
+CON	mind
+NIL	.

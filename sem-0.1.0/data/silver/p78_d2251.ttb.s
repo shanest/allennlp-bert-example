@@ -1,0 +1,11 @@
+DIS	A
+ROL	merchant
+NOW	is
+DIS	a
+CON	person
+AND	who
+ENS	buys
+COO	and
+ENS	sells
+CON	goods
+NIL	.

@@ -1,0 +1,22 @@
+CON	Man
+NOW	is
+DIS	a
+CON	vertebrate
+AND	and
+NOW	has
+DIS	an
+IST	immortal
+CON	soul
+ALT	as well as
+DIS	a
+ROL	fatherland
+NIL	,
+AND	so
+SUB	that
+PRO	he
+NOW	does
+NOT	n't
+EXS	get
+INT	too
+CON	cocky
+NIL	.

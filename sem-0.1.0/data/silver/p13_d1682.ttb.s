@@ -1,0 +1,14 @@
+UNK	There
+PST	was
+DIS	a
+CON	banner
+REL	on
+DEF	the
+CON	wall
+SUB	that
+EPS	said
+NIL	"
+AND	Happy
+TIM	Birthday
+NIL	.
+NIL	"

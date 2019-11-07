@@ -1,0 +1,14 @@
+PRO	I
+EPS	made
+HAS	my
+CON	brother
+HAS	my
+CON	agent
+SUB	while
+PRO	I
+PST	was
+IST	out
+AND	of
+DEF	the
+CON	city
+NIL	.

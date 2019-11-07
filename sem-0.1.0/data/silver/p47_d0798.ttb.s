@@ -1,0 +1,12 @@
+DEF	The
+IST	last
+CON	time
+PRO	I
+EPS	went
+REL	to
+GPE	China
+NIL	,
+PRO	I
+EPS	visited
+GEO	Shanghai
+NIL	.

@@ -1,0 +1,11 @@
+EXS	Eat
+QUE	what
+PRO	you
+NOW	are
+EXS	served
+NIL	,
+NOT	no
+NIL	buts
+AND	about
+PRO	it
+NIL	.

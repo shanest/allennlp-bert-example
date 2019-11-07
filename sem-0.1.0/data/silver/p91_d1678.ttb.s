@@ -1,0 +1,10 @@
+PRO	We
+EPS	picked
+CON	apples
+AND	so
+AND	as
+SUB	to
+EXS	make
+DIS	a
+CON	pie
+NIL	.

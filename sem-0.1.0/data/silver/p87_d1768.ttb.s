@@ -1,0 +1,12 @@
+PER	Tom
+ENS	puts
+DIS	a
+CON	lot
+AND	of
+CON	sugar
+AND	and
+CON	cream
+REL	in
+HAS	his
+CON	coffee
+NIL	.

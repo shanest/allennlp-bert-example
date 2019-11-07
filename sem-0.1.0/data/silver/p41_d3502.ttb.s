@@ -1,0 +1,16 @@
+NIL	"
+PRO	We
+NOW	have
+DIS	a
+CON	lot
+AND	of
+CON	things
+NOW	do
+REL	to
+NIL	.
+NIL	"
+NIL	"
+AND	Such
+AND	as
+QUE	?
+NIL	"

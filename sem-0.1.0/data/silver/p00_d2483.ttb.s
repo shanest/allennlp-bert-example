@@ -1,0 +1,10 @@
+PRO	I
+ENS	like
+NIL	to
+EXS	cut
+IST	up
+CON	wood
+REL	in
+HAS	my
+CON	backyard
+NIL	.

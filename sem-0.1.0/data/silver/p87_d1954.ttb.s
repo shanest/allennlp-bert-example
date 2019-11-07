@@ -1,0 +1,15 @@
+DEF	The
+ROL	lawyer
+EPS	asked
+DEF	the
+CON	judge
+SUB	to
+EXS	make
+CON	allowance
+REL	for
+DEF	the
+CON	age
+AND	of
+DEF	the
+EXS	accused
+NIL	.

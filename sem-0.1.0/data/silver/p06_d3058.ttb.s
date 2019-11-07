@@ -1,0 +1,12 @@
+PRO	It
+PST	was
+NOT	n't
+PRO	me
+AND	that
+EPS	ate
+DEF	the
+IST	last
+CON	piece
+AND	of
+CON	cake
+NIL	.

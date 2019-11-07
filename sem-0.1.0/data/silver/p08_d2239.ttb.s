@@ -1,0 +1,14 @@
+SUB	When
+PRO	I
+EPS	got
+CON	home
+NIL	,
+PRO	I
+EPS	noticed
+SUB	that
+PRO	I
+PST	had
+EXS	lost
+HAS	my
+CON	wallet
+NIL	.

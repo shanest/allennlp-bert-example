@@ -1,0 +1,11 @@
+QUE	What
+EPS	surprised
+PRO	me
+EPS	was
+SUB	that
+PER	Tom
+PST	did
+NOT	n't
+EXS	know
+PER	Mary
+NIL	.

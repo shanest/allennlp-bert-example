@@ -1,0 +1,15 @@
+PRO	I
+NOW	miss
+PRO	you
+NIL	,
+PRO	it
+HAS	's
+EXS	been
+DIS	a
+CON	week
+REL	since
+PRO	I
+IST	last
+EPS	saw
+PRO	you
+NIL	.

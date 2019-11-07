@@ -1,0 +1,13 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+PRO	he
+NOW	is
+DEF	the
+TOP	richest
+CON	man
+REL	in
+DEF	the
+CON	world
+NIL	.

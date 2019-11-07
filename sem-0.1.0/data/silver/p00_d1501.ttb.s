@@ -1,0 +1,10 @@
+HAS	His
+CON	story
+PST	was
+INT	too
+EXS	ridiculous
+REL	for
+DIS	anyone
+NIL	to
+EXS	believe
+NIL	.

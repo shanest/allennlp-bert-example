@@ -1,0 +1,10 @@
+HAS	My
+CON	son
+NOW	is
+NOW	now
+AND	as
+IST	tall
+SUB	as
+PRO	I
+NOW	am
+NIL	.

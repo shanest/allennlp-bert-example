@@ -1,0 +1,11 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	whether
+PRO	she
+EPS	planned
+SUB	to
+EXS	swim
+DIS	or
+NOT	not
+NIL	.

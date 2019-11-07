@@ -1,0 +1,10 @@
+PRO	She
+NOT	never
+EPS	dreamed
+SUB	that
+PRO	she
+POS	could
+EXS	win
+IST	first
+CON	prize
+NIL	.

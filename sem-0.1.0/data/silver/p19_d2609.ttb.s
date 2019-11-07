@@ -1,0 +1,11 @@
+SUB	After
+EXG	slapping
+PER	Tom
+NIL	,
+PER	Mary
+EPS	ran
+IST	out
+AND	of
+DEF	the
+CON	room
+NIL	.

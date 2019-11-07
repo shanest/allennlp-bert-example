@@ -1,0 +1,17 @@
+DEF	The
+CON	Titanic
+HAS	's
+CON	lifeboats
+AND	only
+PST	had
+IST	enough
+CON	space
+NIL	to
+EXS	carry
+REL	about
+CON	half
+AND	of
+DST	those
+REL	on
+CON	board
+NIL	.

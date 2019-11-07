@@ -1,0 +1,11 @@
+PER	Tom
+EPS	asked
+PER	Mary
+QUE	what
+PRO	her
+ENS	plans
+REL	for
+DEF	the
+CON	future
+PST	were
+NIL	.

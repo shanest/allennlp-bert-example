@@ -1,0 +1,9 @@
+PRO	I
+EPS	bought
+DIS	a
+IST	few
+CON	books
+REL	from
+DEF	the
+CON	bookstore
+NIL	.

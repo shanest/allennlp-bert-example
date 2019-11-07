@@ -1,0 +1,16 @@
+IMP	If
+CON	actions
+ENS	mean
+MOR	more
+MOR	than
+CON	words
+NIL	,
+QUE	why
+NOW	is
+DEF	the
+CON	pen
+AND	mightier
+AND	than
+DEF	the
+CON	sword
+QUE	?

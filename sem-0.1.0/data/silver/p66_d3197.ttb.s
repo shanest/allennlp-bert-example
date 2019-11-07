@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+IST	hard
+SUB	to
+EXS	tell
+SUB	whether
+PER	Tom
+REL	dyes
+HAS	his
+CON	hair
+DIS	or
+NOT	not
+NIL	.

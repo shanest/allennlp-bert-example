@@ -1,0 +1,14 @@
+PER	Tom
+EPS	said
+PRO	he
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	go
+REL	to
+DEF	the
+CON	park
+REL	with
+PRO	us
+NIL	.

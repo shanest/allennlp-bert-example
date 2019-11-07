@@ -1,0 +1,9 @@
+PRO	I
+NOW	think
+PER	Kate
+NOW	is
+ALT	also
+DIS	a
+IST	clever
+CON	person
+NIL	.

@@ -1,0 +1,14 @@
+REL	In
+YOC	1994
+NIL	,
+UNK	there
+PST	was
+DIS	a
+CON	shortage
+AND	of
+CON	water
+AND	and
+CON	rice
+REL	in
+GPE	Japan
+NIL	.

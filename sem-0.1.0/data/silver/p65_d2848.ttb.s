@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	do
+NOT	n't
+EXS	have
+AND	any
+CON	children
+NIL	.

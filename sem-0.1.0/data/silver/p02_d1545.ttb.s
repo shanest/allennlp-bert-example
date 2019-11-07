@@ -1,0 +1,9 @@
+NOW	Are
+PRO	you
+EXG	planning
+REL	on
+EXG	taking
+PER	Tom
+REL	with
+PRO	you
+QUE	?

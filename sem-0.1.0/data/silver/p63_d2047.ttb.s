@@ -1,0 +1,11 @@
+PRO	He
+NOW	has
+PFT	been
+EXS	engaged
+REL	in
+PRX	this
+CON	study
+INT	nearly
+QUC	ten
+CON	years
+NIL	.

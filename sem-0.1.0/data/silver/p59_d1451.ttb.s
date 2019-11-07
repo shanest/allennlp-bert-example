@@ -1,0 +1,12 @@
+EXS	Stop
+EXS	inhaling
+HAS	your
+CON	food
+NIL	.
+PRO	You
+FUT	'd
+MOR	better
+EXS	eat
+MOR	more
+IST	slowly
+NIL	.

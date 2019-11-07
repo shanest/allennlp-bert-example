@@ -1,0 +1,12 @@
+PER	Tom
+NIL	,
+EXS	apologize
+REL	to
+HAS	your
+ROL	sister
+NIL	.
+PRO	You
+EPS	made
+HAS	her
+CON	cry
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+EPS	read
+DEF	the
+CON	book
+SUB	after
+PRO	I
+PST	had
+EXS	finished
+HAS	my
+CON	homework
+NIL	.

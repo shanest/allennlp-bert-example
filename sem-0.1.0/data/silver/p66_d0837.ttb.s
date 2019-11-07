@@ -1,0 +1,16 @@
+PRO	You
+POS	can
+NOT	not
+EXS	expect
+PRO	him
+SUB	to
+EXS	know
+DEF	the
+CON	story
+EXG	seeing
+PRO	he
+NOW	has
+NOT	not
+EXS	read
+PRO	it
+NIL	.

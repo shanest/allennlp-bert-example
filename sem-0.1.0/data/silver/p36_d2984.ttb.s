@@ -1,0 +1,10 @@
+PRO	We
+EPS	invited
+HAS	our
+IST	new
+CON	neighbors
+AND	over
+REL	for
+DIS	a
+CON	drink
+NIL	.

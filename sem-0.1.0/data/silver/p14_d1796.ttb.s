@@ -1,0 +1,9 @@
+PRO	I
+FUT	will
+EXS	explain
+REL	to
+PRO	him
+SUB	until
+PRO	he
+ENS	understands
+NIL	.

@@ -1,0 +1,14 @@
+SUB	When
+PER	Tom
+PST	was
+REL	in
+CON	kindergarten
+NIL	,
+PRO	he
+EPS	drew
+DIS	a
+CON	picture
+AND	of
+HAS	his
+CON	family
+NIL	.

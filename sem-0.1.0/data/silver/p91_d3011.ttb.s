@@ -1,0 +1,9 @@
+PRO	I
+EPS	suggested
+SUB	that
+PRO	he
+ENS	go
+IST	there
+REL	at
+QUC	once
+NIL	.

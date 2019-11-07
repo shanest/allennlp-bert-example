@@ -1,0 +1,10 @@
+PRO	I
+FUT	would
+EXT	've
+PFT	been
+EXS	happy
+SUB	to
+EXS	go
+REL	with
+PRO	you
+NIL	.

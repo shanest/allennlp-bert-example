@@ -1,0 +1,14 @@
+PRO	He
+PST	had
+NOT	not
+PFT	been
+IST	abroad
+REL	for
+QUC	one
+CON	month
+SUB	before
+PRO	he
+PST	was
+EXS	taken
+EXS	ill
+NIL	.

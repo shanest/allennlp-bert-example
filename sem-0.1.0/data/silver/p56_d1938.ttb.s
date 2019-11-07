@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+EXS	going
+SUB	to
+EXS	stay
+PRX	here
+REL	till
+DEF	the
+CON	day
+REL	after
+FUT	tomorrow
+NIL	.

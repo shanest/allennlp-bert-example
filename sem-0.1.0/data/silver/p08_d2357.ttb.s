@@ -1,0 +1,9 @@
+GPE	Cameroon
+NOW	is
+EXS	called
+NIL	"
+GEO	Cameroun
+NIL	"
+REL	in
+GPO	French
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+INT	very
+EXS	insecure
+COO	and
+ENS	needs
+IST	constant
+CON	reassurance
+AND	and
+CON	approval
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+ENS	says
+PRO	he
+ENS	needs
+SUB	to
+EXS	talk
+REL	to
+PER	Mary
+AND	about
+DIS	something
+NIL	.

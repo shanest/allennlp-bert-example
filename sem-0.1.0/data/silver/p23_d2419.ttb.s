@@ -1,0 +1,11 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	be
+INT	too
+EXS	careful
+REL	in
+CON	situations
+AND	like
+PRX	this
+NIL	.

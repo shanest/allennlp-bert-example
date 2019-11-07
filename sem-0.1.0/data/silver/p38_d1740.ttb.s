@@ -1,0 +1,13 @@
+PRO	We
+EPS	saw
+DIS	an
+IST	old
+CON	hut
+EXS	standing
+REL	at
+DEF	the
+CON	margin
+AND	of
+DEF	the
+CON	forest
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	looking
+REL	for
+CON	textbooks
+REL	on
+CON	feminist
+CON	sociology
+NIL	.

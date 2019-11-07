@@ -1,0 +1,11 @@
+NOW	Do
+PRO	I
+ENS	need
+SUB	to
+EXS	be
+REL	at
+DEF	the
+CON	meeting
+REL	on
+DOM	Monday
+QUE	?

@@ -1,0 +1,16 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	see
+AND	anything
+REL	from
+HAS	my
+CON	room
+REL	since
+PRO	I
+AND	always
+EXS	keep
+HAS	my
+CON	curtains
+EPS	closed
+NIL	.

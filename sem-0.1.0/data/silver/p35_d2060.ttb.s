@@ -1,0 +1,9 @@
+NOT	No
+CON	one
+ENS	wants
+SUB	to
+EXS	talk
+REL	to
+PER	Tom
+CON	anymore
+NIL	.

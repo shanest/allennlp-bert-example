@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	thank
+PRO	you
+ALT	again
+REL	for
+EXS	believing
+PRO	me
+NIL	.

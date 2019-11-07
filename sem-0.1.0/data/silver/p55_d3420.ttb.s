@@ -1,0 +1,11 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	playing
+DEF	the
+CON	guitar
+SUB	since
+PRO	I
+PST	was
+QUC	thirteen
+NIL	.

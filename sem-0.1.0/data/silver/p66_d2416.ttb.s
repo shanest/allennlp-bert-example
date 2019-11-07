@@ -1,0 +1,17 @@
+PRO	We
+NOW	're
+EXS	going
+IST	up
+REL	into
+DEF	the
+CON	mountains
+NIL	,
+AND	so
+QUE	why
+NOW	do
+NOT	n't
+PRO	you
+EXS	come
+REL	with
+PRO	us
+QUE	?

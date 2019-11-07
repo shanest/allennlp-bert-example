@@ -1,0 +1,13 @@
+HAS	My
+CON	cat
+NOW	is
+EXS	gone
+NIL	,
+PRO	it
+NOW	's
+IST	already
+EXS	missing
+REL	for
+QUC	three
+CON	days
+NIL	.

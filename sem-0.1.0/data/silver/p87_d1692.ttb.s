@@ -1,0 +1,10 @@
+POS	Perhaps
+PRO	I
+NEC	should
+NOT	n't
+EXS	go
+REL	to
+GPE	Boston
+PRX	this
+CON	weekend
+NIL	.

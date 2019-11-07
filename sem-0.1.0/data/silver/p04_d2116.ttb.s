@@ -1,0 +1,9 @@
+XCL	Only
+DIS	a
+IST	few
+CON	people
+EPS	showed
+IST	up
+REL	on
+CON	time
+NIL	.

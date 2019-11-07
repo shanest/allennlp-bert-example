@@ -1,0 +1,9 @@
+CON	Stand
+IST	up
+SUB	when
+PRO	I
+NOW	'm
+EXS	talking
+REL	to
+PRO	you
+NIL	!

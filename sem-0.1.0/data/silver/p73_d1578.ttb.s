@@ -1,0 +1,10 @@
+AND	Last
+CON	winter
+NIL	,
+PRO	I
+EPS	went
+REL	to
+GPE	Canada
+REL	to
+CON	ski
+NIL	.

@@ -1,0 +1,9 @@
+PER	Mary
+EPS	blamed
+PER	Jack
+REL	for
+EXG	leaving
+HAS	their
+CON	children
+IST	unattended
+NIL	.

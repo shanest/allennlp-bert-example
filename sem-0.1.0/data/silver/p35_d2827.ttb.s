@@ -1,0 +1,15 @@
+SUB	While
+PRO	I
+NOW	'm
+EXS	translating
+CON	sentences
+REL	on
+PRX	Tatoeba
+NIL	,
+HAS	my
+CON	wife
+NOW	is
+EXS	weeding
+DEF	the
+CON	garden
+NIL	.

@@ -1,0 +1,11 @@
+PER	Rie
+PER	Kawada
+FUT	will
+EXS	do
+HAS	my
+CON	job
+SUB	while
+PRO	I
+NOW	'm
+EXS	gone
+NIL	.

@@ -1,0 +1,15 @@
+ITJ	Yes
+NIL	,
+PRO	I
+NOW	'm
+PER	Tom
+HAS	's
+ROL	sister
+NIL	,
+BUT	but
+PRO	I
+NOW	'm
+NOT	not
+EXS	like
+PRO	him
+NIL	!

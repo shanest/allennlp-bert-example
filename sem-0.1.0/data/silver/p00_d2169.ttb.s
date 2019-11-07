@@ -1,0 +1,11 @@
+PRO	We
+NOW	do
+NOT	n't
+EXS	know
+QUE	what
+DEF	the
+IST	next
+CON	day
+FUT	will
+EXS	bring
+NIL	.

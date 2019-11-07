@@ -1,0 +1,16 @@
+PRO	It
+NOW	's
+EXS	possible
+SUB	that
+PRO	we
+FUT	wo
+NOT	n't
+EXS	be
+POS	able
+NIL	to
+EXS	eat
+CON	tuna
+REL	in
+DEF	the
+CON	future
+NIL	.

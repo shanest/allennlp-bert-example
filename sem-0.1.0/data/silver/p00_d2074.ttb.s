@@ -1,0 +1,12 @@
+PRO	I
+EPS	called
+PRO	you
+SUB	because
+PRO	I
+ENS	need
+NIL	to
+EXS	ask
+PRO	you
+DIS	a
+CON	question
+NIL	.

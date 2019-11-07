@@ -1,0 +1,10 @@
+ART	Next
+REL	to
+GPE	China
+EQU	,
+GEO	Switzerland
+NOW	is
+DIS	an
+IST	abandoned
+CON	village
+NIL	.

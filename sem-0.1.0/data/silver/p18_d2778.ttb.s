@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	make
+PRO	him
+DIS	an
+CON	offer
+PRO	he
+POS	ca
+NOT	n't
+EXS	refuse
+NIL	.

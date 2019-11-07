@@ -1,0 +1,17 @@
+ITJ	Wow
+NIL	,
+PRO	you
+NOW	have
+QUC	2
+CON	girlfriends
+QUE	?
+NOW	Do
+NOT	n't
+EXS	let
+QUC	one
+EXS	see
+PRO	you
+REL	with
+DEF	the
+ALT	other
+NIL	.

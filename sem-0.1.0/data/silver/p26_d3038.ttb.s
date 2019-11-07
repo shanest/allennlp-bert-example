@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+DIS	a
+COL	white
+CON	bird
+REL	on
+HAS	my
+CON	way
+CON	home
+NIL	.

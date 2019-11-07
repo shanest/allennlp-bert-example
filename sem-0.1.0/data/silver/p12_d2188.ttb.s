@@ -1,0 +1,13 @@
+PER	Tom
+EPS	flipped
+DEF	the
+CON	coin
+COO	and
+EPS	said
+NIL	,
+NIL	"
+CON	Heads
+DIS	or
+CON	Tails
+QUE	?
+NIL	"

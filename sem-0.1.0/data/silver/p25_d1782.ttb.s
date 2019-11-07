@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+INT	too
+EXS	cheap
+SUB	to
+EXS	play
+AND	anything
+COO	but
+EPS	homebrew
+CON	PC
+CON	games
+NIL	.

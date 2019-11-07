@@ -1,0 +1,12 @@
+PER	Tom
+ENS	says
+SUB	that
+PRO	he
+NOW	is
+IST	able
+SUB	to
+EXS	communicate
+REL	with
+DEF	the
+CON	dead
+NIL	.

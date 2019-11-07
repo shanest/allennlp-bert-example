@@ -1,0 +1,15 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	that
+COO	and
+PRO	I
+ENS	know
+PRO	you
+NOW	do
+NOT	n't
+EXS	want
+SUB	that
+AND	either
+NIL	.

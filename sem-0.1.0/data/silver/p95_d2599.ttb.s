@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	know
+SUB	that
+PER	Mary
+PST	was
+REL	in
+CON	town
+NIL	.

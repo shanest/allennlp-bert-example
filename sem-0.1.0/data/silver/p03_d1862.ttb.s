@@ -1,0 +1,9 @@
+DEF	The
+ROL	enemy
+EPS	kept
+IST	up
+HAS	their
+CON	attack
+AND	all
+CON	day
+NIL	.

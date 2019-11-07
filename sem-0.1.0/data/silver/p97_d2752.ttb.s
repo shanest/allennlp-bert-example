@@ -1,0 +1,11 @@
+PRO	It
+NOW	has
+PFT	been
+QUC	two
+CON	months
+REL	since
+HAS	my
+CON	arrival
+REL	in
+GEO	Tokyo
+NIL	.

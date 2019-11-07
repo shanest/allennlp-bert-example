@@ -1,0 +1,10 @@
+PRO	She
+NOW	is
+NOT	not
+HAS	my
+CON	mother
+AND	but
+HAS	my
+TOP	oldest
+ROL	sister
+NIL	.

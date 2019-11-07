@@ -1,0 +1,13 @@
+QUE	Why
+NOW	have
+PRO	you
+PFT	been
+IST	so
+EXS	angry
+REL	with
+PRO	me
+REL	for
+DEF	the
+IST	last
+CON	week
+QUE	?

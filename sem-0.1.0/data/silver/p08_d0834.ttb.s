@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	true
+SUB	that
+PRO	he
+ENS	goes
+IST	abroad
+AND	every
+CON	year
+NIL	.

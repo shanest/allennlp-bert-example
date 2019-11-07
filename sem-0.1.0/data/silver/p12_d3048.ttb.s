@@ -1,0 +1,11 @@
+QUE	How
+QUV	much
+CON	money
+NOW	does
+DIS	a
+CON	basement
+CON	window
+AND	like
+DST	that
+CON	cost
+QUE	?

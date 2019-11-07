@@ -1,0 +1,10 @@
+PRO	She
+NOW	is
+NOT	not
+XCL	only
+EXS	honest
+NIL	,
+BUT	but
+ALT	also
+IST	wise
+NIL	.

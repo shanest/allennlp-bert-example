@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+NOT	not
+EXG	asking
+PRO	you
+NIL	.
+PRO	I
+NOW	'm
+EXG	begging
+PRO	you
+NIL	.

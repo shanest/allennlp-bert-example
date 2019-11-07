@@ -1,0 +1,17 @@
+REL	On
+DEF	the
+IST	last
+CON	page
+NIL	,
+PER	Mary
+EPS	wrote
+AND	:
+NIL	"
+CON	Where
+PST	did
+PRO	I
+EXS	leave
+HAS	my
+CON	glasses
+QUE	?
+NIL	"

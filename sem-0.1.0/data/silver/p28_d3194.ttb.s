@@ -1,0 +1,14 @@
+PER	Tom
+IST	finally
+EPS	mustered
+IST	up
+DEF	the
+CON	courage
+SUB	to
+EXS	tell
+PER	Mary
+SUB	that
+PRO	he
+EPS	loved
+PRO	her
+NIL	.

@@ -1,0 +1,13 @@
+NOW	Now
+SUB	that
+PRO	you
+NOW	're
+DIS	a
+CON	college
+CON	student
+NIL	,
+PRO	you
+NEC	should
+EXS	study
+COM	harder
+NIL	.

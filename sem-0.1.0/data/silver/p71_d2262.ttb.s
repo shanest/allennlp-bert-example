@@ -1,0 +1,9 @@
+PRO	We
+NOW	're
+IST	ready
+SUB	to
+EXS	begin
+EXS	loading
+DEF	the
+CON	truck
+NIL	.

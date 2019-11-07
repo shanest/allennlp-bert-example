@@ -1,0 +1,9 @@
+QUE	What
+CON	time
+FUT	will
+PRO	you
+EXS	be
+IST	ready
+SUB	to
+EXS	leave
+QUE	?

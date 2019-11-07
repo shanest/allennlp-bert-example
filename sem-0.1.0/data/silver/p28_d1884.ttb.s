@@ -1,0 +1,13 @@
+CON	Liberty
+NOW	consists
+AND	of
+EXS	being
+IST	able
+SUB	to
+EXS	make
+AND	everything
+AND	as
+IST	harmless
+SUB	as
+EXS	possible
+NIL	.

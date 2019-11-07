@@ -1,0 +1,10 @@
+AND	Whoever
+NOW	is
+EXS	born
+REL	in
+GPE	Austria
+NIL	,
+NOW	is
+DIS	an
+GPO	Austrian
+NIL	.

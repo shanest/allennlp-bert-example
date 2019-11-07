@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+NOT	no
+EXS	use
+EXG	waiting
+REL	for
+PRO	him
+SUB	to
+EXS	come
+NIL	.

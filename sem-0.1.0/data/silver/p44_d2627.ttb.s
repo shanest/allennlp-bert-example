@@ -1,0 +1,11 @@
+DIS	Someone
+NOW	is
+EXS	standing
+AND	behind
+DEF	the
+CON	bushes
+EXS	taking
+CON	pictures
+AND	of
+PRO	us
+NIL	.

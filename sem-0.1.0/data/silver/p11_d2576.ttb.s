@@ -1,0 +1,11 @@
+PER	Tom
+EPS	became
+IST	aware
+SUB	that
+PRO	he
+PST	was
+NOT	no
+IST	longer
+AND	alone
+CON	anymore
+NIL	.

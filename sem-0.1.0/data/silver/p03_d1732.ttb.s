@@ -1,0 +1,15 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+EPS	decided
+NOT	not
+SUB	to
+EXS	talk
+REL	to
+HAS	their
+CON	children
+REL	in
+GPO	French
+CON	anymore
+NIL	.

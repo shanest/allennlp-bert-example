@@ -1,0 +1,12 @@
+MOR	More
+AND	and
+IST	more
+CON	doctors
+NOW	have
+EXS	begun
+SUB	to
+EXS	use
+DEF	the
+IST	new
+CON	medicine
+NIL	.

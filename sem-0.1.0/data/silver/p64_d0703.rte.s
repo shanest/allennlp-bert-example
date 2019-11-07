@@ -1,0 +1,32 @@
+DEF	The
+CON	Crathes
+CON	castle
+EPS	served
+AND	as
+DEF	the
+IST	ancestral
+CON	seat
+AND	of
+DEF	the
+CON	Burnetts
+AND	of
+CON	Leys
+REL	until
+IST	gifted
+REL	to
+DEF	the
+ORG	National Trust
+REL	for
+GPE	Scotland
+REL	by
+DEF	the
+NIL	13th
+ORG	Baronet
+AND	of
+ORG	Leys
+EQU	,
+ROL	Sir
+PER	James Burnett
+REL	in
+CON	1951
+NIL	.

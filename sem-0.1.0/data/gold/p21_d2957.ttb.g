@@ -1,0 +1,11 @@
+PER	Tom
+EPS	claimed
+SUB	that
+PRO	he
+PST	had
+NOT	not
+EXT	eaten
+REL	for
+QUC	three
+UOM	weeks
+NIL	.

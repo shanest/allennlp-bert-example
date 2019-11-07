@@ -1,0 +1,12 @@
+DEF	The
+ROL	farmer
+EPS	dug
+DIS	a
+CON	hole
+AND	so
+PRO	he
+POS	could
+EXS	plant
+DIS	a
+CON	tree
+NIL	.

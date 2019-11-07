@@ -1,0 +1,16 @@
+PRO	I
+NOW	'm
+IST	ashamed
+AND	of
+QUE	what
+HAS	my
+IST	fellow
+CON	professionals
+COO	and
+PRO	I
+NOW	have
+EXT	done
+AND	during
+DEF	the
+CON	past
+NIL	.

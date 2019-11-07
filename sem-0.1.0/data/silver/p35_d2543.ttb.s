@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+IST	already
+EXS	paid
+REL	for
+DEF	the
+IST	first
+CON	lesson
+NIL	.

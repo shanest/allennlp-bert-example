@@ -1,0 +1,10 @@
+SUB	When
+PRO	I
+EPS	saw
+HAS	her
+CON	son
+NIL	,
+PRO	I
+EPS	remembered
+PRO	her
+NIL	.

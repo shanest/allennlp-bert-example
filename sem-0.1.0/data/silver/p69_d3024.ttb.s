@@ -1,0 +1,14 @@
+PRO	You
+NEC	should
+EXT	have
+EXS	done
+PRO	it
+AND	earlier
+NIL	.
+PRO	It
+POS	can
+NOT	not
+EXS	be
+PST	helped
+NOW	now
+NIL	.

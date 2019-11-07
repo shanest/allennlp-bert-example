@@ -1,0 +1,11 @@
+HAS	His
+CON	name
+NOW	is
+PER	Tom
+COO	and
+PRO	he
+HAS	's
+PER	Mary
+HAS	's
+CON	husband
+NIL	.

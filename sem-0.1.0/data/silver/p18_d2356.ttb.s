@@ -1,0 +1,11 @@
+PER	Mary
+PST	was
+DIS	a
+IST	good-hearted
+CON	girl
+AND	who
+EPS	helped
+SUB	wherever
+PRO	she
+POS	could
+NIL	.

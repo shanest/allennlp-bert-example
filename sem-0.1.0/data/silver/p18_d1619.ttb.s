@@ -1,0 +1,12 @@
+POS	Maybe
+PRO	we
+POS	can
+EXS	find
+CON	someplace
+SUB	to
+EXS	park
+IST	further
+IST	up
+DEF	the
+CON	street
+NIL	.

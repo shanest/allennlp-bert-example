@@ -1,0 +1,10 @@
+PER	John
+EPS	went
+IST	away
+NOT	without
+AND	so
+QUV	much
+SUB	as
+EXS	saying
+GRE	good-by
+NIL	.

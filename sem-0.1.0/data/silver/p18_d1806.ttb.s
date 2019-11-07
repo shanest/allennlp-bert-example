@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+PRO	you
+EXS	driving
+REL	by
+HAS	my
+CON	house
+PRX	this
+CON	morning
+NIL	.

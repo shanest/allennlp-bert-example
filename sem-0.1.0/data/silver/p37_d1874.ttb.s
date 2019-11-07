@@ -1,0 +1,9 @@
+DIS	A
+ROL	captain
+NOW	controls
+HAS	his
+CON	ship
+AND	and
+HAS	its
+CON	crew
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	do
+NOT	n't
+EXS	seem
+INT	too
+IST	busy
+NIL	.

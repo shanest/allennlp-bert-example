@@ -1,0 +1,11 @@
+PRO	It
+PST	was
+EXS	hard
+REL	for
+PER	Tom
+SUB	to
+EXS	keep
+DIS	a
+IST	straight
+CON	face
+NIL	.

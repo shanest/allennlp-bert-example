@@ -1,0 +1,14 @@
+PER	Sven
+PST	was
+IST	so
+EXS	verbose
+SUB	that
+HAS	his
+CON	friends
+EPS	resorted
+SUB	to
+EXG	calling
+PRO	him
+DIS	a
+CON	chatterbox
+NIL	.

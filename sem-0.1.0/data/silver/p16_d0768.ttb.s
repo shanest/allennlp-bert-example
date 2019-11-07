@@ -1,0 +1,15 @@
+ITJ	Hey
+NIL	,
+PRO	I
+POS	may
+EXS	have
+NOT	no
+CON	money
+NIL	,
+BUT	but
+PRO	I
+IST	still
+NOW	have
+HAS	my
+CON	pride
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	professor
+HAS	's
+IST	boring
+CON	lecture
+EPS	put
+PRO	me
+SUB	to
+EXS	sleep
+NIL	.

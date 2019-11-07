@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXS	going
+REL	to
+DEF	the
+IST	post
+CON	office
+SUB	to
+EXS	buy
+CON	stamps
+NIL	.

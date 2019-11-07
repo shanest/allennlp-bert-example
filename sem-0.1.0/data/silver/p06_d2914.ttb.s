@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+REL	from
+DEF	the
+IST	same
+CON	city
+NIL	.

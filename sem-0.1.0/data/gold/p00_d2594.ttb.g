@@ -1,0 +1,9 @@
+PER	Tom
+PST	was
+EXS	given
+IST	full
+CON	custody
+REL	of
+DEF	the
+CON	children
+NIL	.

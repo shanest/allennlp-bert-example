@@ -1,0 +1,14 @@
+PRO	I
+EPS	wanted
+SUB	to
+EXS	catch
+DEF	the
+CON	bird
+NIL	,
+BUT	but
+PRO	I
+EPS	found
+PRO	it
+IST	too
+EXS	difficult
+NIL	.

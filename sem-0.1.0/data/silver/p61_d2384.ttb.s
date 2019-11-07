@@ -1,0 +1,13 @@
+PRO	You
+NOW	're
+EXS	welcome
+SUB	to
+EXS	stay
+REL	with
+PRO	us
+AND	as
+IST	long
+SUB	as
+PRO	you
+ENS	want
+NIL	.

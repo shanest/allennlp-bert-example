@@ -1,0 +1,9 @@
+PER	Tom
+EPS	told
+PRO	me
+PRO	you
+PST	were
+IST	allergic
+REL	to
+CON	cats
+NIL	.

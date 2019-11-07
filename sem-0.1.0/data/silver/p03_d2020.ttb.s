@@ -1,0 +1,11 @@
+AND	Anyone
+AND	over
+QUC	eighteen
+UOM	years
+AND	of
+CON	age
+ENS	counts
+AND	as
+DIS	an
+IST	adult
+NIL	.

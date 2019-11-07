@@ -1,0 +1,16 @@
+PRO	I
+NOW	've
+EXS	played
+SUB	that
+CON	song
+AND	so
+QUV	many
+CON	times
+PRO	I
+POS	could
+EXS	do
+PRO	it
+REL	in
+HAS	my
+CON	sleep
+NIL	.

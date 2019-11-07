@@ -1,0 +1,10 @@
+HAS	His
+CON	joke
+EPS	made
+AND	all
+DEF	the
+CON	class
+EPS	burst
+REL	into
+CON	laughter
+NIL	.

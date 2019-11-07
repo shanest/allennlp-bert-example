@@ -1,0 +1,9 @@
+PRO	I
+NOT	never
+NOW	have
+EXT	had
+CON	occasion
+NIL	to
+EXS	use
+PRO	it
+NIL	.

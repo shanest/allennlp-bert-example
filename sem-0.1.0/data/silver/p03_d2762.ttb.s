@@ -1,0 +1,10 @@
+CON	Time
+NOW	is
+NOT	not
+CON	money
+NIL	.
+AND	-
+CON	Time
+NOW	is
+CON	life
+NIL	.

@@ -1,0 +1,17 @@
+DEF	The
+ORG	USA
+COO	and
+GEO	Cuba
+NOW	are
+EXS	set
+SUB	to
+EXS	mend
+HAS	their
+CON	relationship
+REL	after
+CON	half
+DIS	a
+CON	century
+AND	of
+CON	hostilities
+NIL	.

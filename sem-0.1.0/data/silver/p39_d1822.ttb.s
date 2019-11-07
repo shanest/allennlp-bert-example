@@ -1,0 +1,11 @@
+CON	People
+QUC	once
+EPS	mocked
+DEF	the
+CON	idea
+AND	that
+DEF	the
+CON	earth
+NOW	is
+CON	round
+NIL	.

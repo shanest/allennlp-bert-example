@@ -1,0 +1,13 @@
+NOW	Do
+PRO	I
+NOT	not
+EXS	destroy
+HAS	my
+ROL	enemies
+SUB	when
+PRO	I
+NOW	make
+PRO	them
+HAS	my
+CON	friends
+QUE	?

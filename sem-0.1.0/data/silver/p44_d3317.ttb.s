@@ -1,0 +1,12 @@
+PRO	We
+PST	had
+PFT	been
+EXS	talking
+REL	about
+PER	Jim
+SUB	when
+PRO	he
+EPS	entered
+DEF	the
+CON	room
+NIL	.

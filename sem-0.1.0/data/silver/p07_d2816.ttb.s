@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+ALT	other
+CON	things
+REL	on
+HAS	his
+CON	mind
+CON	right
+NOW	now
+NIL	.

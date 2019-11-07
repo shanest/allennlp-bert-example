@@ -1,0 +1,13 @@
+UNK	There
+NOW	is
+NOT	no
+CON	way
+AND	of
+EXG	reaching
+DEF	the
+CON	island
+ALT	other
+MOR	than
+REL	by
+CON	boat
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	communication
+IST	recently
+NOW	has
+PFT	been
+EXS	lost
+REL	with
+DEF	the
+CON	team
+NIL	.

@@ -1,0 +1,16 @@
+PRO	He
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	be
+EXS	cheated
+ALT	again
+NIL	,
+COO	and
+PST	was
+IST	always
+REL	on
+DEF	the
+CON	alert
+NIL	.

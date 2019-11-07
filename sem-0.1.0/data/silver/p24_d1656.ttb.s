@@ -1,0 +1,10 @@
+DEF	The
+CON	inmate
+PST	was
+EXG	doing
+CON	time
+REL	for
+DIS	a
+IST	burglary
+CON	conviction
+NIL	.

@@ -1,0 +1,10 @@
+PER	Markku
+EPS	ran
+IST	up
+AND	against
+IST	strong
+CON	opposition
+REL	with
+HAS	his
+CON	proposal
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	what
+CON	kind
+AND	of
+CON	person
+PER	Mary
+NOW	is
+NIL	.

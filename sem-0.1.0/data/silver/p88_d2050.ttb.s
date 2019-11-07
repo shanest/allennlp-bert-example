@@ -1,0 +1,10 @@
+PRO	I
+EPS	heard
+SUB	that
+PRO	you
+PST	helped
+PER	Tom
+EXS	find
+DIS	a
+CON	job
+NIL	.

@@ -1,0 +1,9 @@
+PRO	She
+ENS	puts
+HAS	her
+IST	own
+CON	interests
+REL	above
+AND	everything
+AND	else
+NIL	.

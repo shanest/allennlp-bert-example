@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	have
+AND	any
+CON	reason
+NOT	not
+SUB	to
+EXS	believe
+PER	Mary
+NIL	.

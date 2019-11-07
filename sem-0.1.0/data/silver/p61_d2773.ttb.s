@@ -1,0 +1,12 @@
+PER	Tom
+EPS	opened
+DEF	the
+CON	refrigerator
+COO	and
+EPS	took
+IST	out
+QUC	one
+AND	of
+DEF	the
+CON	bottles
+NIL	.

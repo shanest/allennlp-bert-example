@@ -1,0 +1,10 @@
+DEF	The
+CON	professor
+NOW	is
+EXS	noted
+REL	for
+HAS	his
+CON	study
+AND	of
+PER	Shakespeare
+NIL	.

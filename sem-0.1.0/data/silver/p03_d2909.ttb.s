@@ -1,0 +1,10 @@
+QUE	How
+PST	did
+PRO	you
+EXS	come
+REL	by
+DST	that
+IST	fine
+CON	gold
+CON	watch
+QUE	?

@@ -1,0 +1,12 @@
+PRO	I
+EPS	listened
+BUT	but
+POS	could
+NOT	n't
+EXS	make
+IST	out
+QUE	what
+PRO	they
+PST	were
+EXG	saying
+NIL	.

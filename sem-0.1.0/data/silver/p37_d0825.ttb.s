@@ -1,0 +1,12 @@
+DEF	The
+CON	fact
+NOW	is
+SUB	that
+PRO	I
+NOW	have
+NOT	n't
+EXS	read
+DEF	the
+CON	book
+ALT	yet
+NIL	.

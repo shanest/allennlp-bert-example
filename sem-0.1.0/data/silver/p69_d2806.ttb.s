@@ -1,0 +1,10 @@
+PRO	I
+PST	had
+HAS	my
+CON	brother
+EPS	put
+PRX	this
+CON	room
+REL	in
+CON	order
+NIL	.

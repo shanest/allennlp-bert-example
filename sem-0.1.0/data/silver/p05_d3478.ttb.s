@@ -1,0 +1,12 @@
+PRO	You
+NEC	must
+EXS	get
+EXS	rid
+AND	of
+DEF	the
+CON	habit
+AND	of
+EXG	biting
+HAS	your
+CON	nails
+NIL	.

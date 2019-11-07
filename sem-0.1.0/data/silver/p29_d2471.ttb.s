@@ -1,0 +1,13 @@
+PRO	I
+NOW	have
+IST	just
+PFT	been
+REL	to
+GEO	Sapporo
+GEO	Station
+SUB	to
+EXS	see
+HAS	my
+CON	mother
+REL	off
+NIL	.

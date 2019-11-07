@@ -1,0 +1,13 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+PER	Kazu
+NOW	is
+DEF	the
+TOP	best
+CON	soccer
+CON	player
+REL	in
+GPE	Japan
+NIL	.

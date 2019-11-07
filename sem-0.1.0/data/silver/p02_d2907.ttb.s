@@ -1,0 +1,10 @@
+PST	Did
+PRO	you
+EXS	invite
+PER	Tom
+REL	to
+CON	dinner
+NOT	without
+EXG	telling
+PRO	me
+QUE	?

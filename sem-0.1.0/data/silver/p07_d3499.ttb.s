@@ -1,0 +1,9 @@
+PRO	She
+EPS	chatted
+REL	with
+PRO	me
+SUB	while
+EXG	drinking
+HAS	her
+CON	tea
+NIL	.

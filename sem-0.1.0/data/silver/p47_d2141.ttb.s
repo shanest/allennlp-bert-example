@@ -1,0 +1,11 @@
+PER	Lucy
+EQU	,
+DIS	an
+IST	aristocratic
+NIL	,
+FUT	becomes
+DIS	a
+ROL	victim
+REL	of
+PER	Dracula
+NIL	.

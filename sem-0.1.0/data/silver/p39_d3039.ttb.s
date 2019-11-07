@@ -1,0 +1,9 @@
+PRO	I
+PST	was
+EXG	leaving
+REL	for
+GPE	Paris
+DEF	the
+IST	next
+CON	morning
+NIL	.

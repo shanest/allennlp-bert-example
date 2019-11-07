@@ -1,0 +1,9 @@
+PRO	I
+IST	never
+EPS	claimed
+SUB	that
+PRO	I
+POS	could
+EXS	speak
+GPO	French
+NIL	.

@@ -1,0 +1,12 @@
+DEF	The
+CON	researchers
+NOW	have
+EXS	created
+CON	kittens
+AND	that
+POS	can
+EXS	glow
+REL	in
+DEF	the
+CON	dark
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	.
+PRO	I
+NEC	should
+EXT	've
+EXS	delivered
+PRX	this
+PST	yesterday
+NIL	.

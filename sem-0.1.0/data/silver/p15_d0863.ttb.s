@@ -1,0 +1,14 @@
+NIL	"
+EXS	Whom
+DEF	the
+CON	gods
+NOW	love
+EXS	die
+IST	young
+NIL	"
+NIL	,
+PST	was
+EPS	said
+AND	of
+CON	yore
+NIL	.

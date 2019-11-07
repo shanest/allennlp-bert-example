@@ -1,0 +1,12 @@
+PER	Tom
+EPS	attempted
+SUB	to
+EXS	persuade
+PER	Mary
+SUB	to
+EXS	go
+REL	to
+CON	church
+REL	with
+PRO	him
+NIL	.

@@ -1,0 +1,15 @@
+DIS	A
+ROL	politician
+AND	who
+ENS	makes
+CON	lots
+NIL	of
+CON	promises
+NOW	is
+DIS	something
+ALT	different
+AND	than
+DIS	a
+IST	promising
+ROL	politician
+NIL	.

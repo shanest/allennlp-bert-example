@@ -1,0 +1,9 @@
+DEF	The
+IST	sick
+CON	boy
+NOW	is
+EXS	growing
+COM	stronger
+AND	each
+CON	day
+NIL	.

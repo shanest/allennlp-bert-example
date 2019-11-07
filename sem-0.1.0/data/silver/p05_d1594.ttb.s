@@ -1,0 +1,10 @@
+DEF	The
+CON	baby
+PST	did
+NOT	nothing
+BUT	but
+ENS	cry
+AND	all
+IST	last
+CON	night
+NIL	.

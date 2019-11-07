@@ -1,0 +1,14 @@
+AND	Even
+SUB	though
+DEF	the
+CON	light
+PST	was
+COL	red
+NIL	,
+SUB	that
+CON	car
+IST	just
+EPS	drove
+IST	right
+AND	through
+NIL	.

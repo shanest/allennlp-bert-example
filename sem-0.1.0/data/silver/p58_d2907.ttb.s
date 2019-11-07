@@ -1,0 +1,9 @@
+PER	Tom
+EPS	said
+PRO	he
+NEC	had
+SUB	to
+EXS	work
+REL	on
+DOW	Saturday
+NIL	.

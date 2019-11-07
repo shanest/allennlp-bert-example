@@ -1,0 +1,32 @@
+QUC	Two
+ALT	other
+CON	marines
+NIL	,
+PER	Tyler Jackson
+AND	and
+PER	John Jodka III
+NIL	,
+NOW	have
+IST	already
+EPS	pleaded
+EXS	guilty
+SUB	to
+EXS	aggravated
+CON	assault
+AND	and
+CON	conspiracy
+SUB	to
+EXS	obstruct
+CON	justice
+AND	and
+PST	were
+EXS	sentenced
+REL	to
+QUC	21
+CON	months
+AND	and
+QUC	18
+CON	months
+NIL	,
+AND	respectively
+NIL	.

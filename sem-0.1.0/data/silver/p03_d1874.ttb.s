@@ -1,0 +1,14 @@
+PER	Tom
+EPS	jumped
+IST	out
+AND	of
+CON	bed
+AND	as
+IST	soon
+AND	as
+DEF	the
+CON	alarm
+CON	clock
+EPS	went
+IST	off
+NIL	.

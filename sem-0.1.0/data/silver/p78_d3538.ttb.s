@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	interested
+REL	in
+DEF	the
+CON	cello
+AND	and
+DEF	the
+CON	piano
+NIL	.

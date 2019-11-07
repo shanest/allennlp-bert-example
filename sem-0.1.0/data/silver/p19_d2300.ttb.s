@@ -1,0 +1,25 @@
+IST	Simply
+EXS	follow
+DEF	the
+CON	instructions
+REL	below
+NIL	,
+AND	and
+REL	in
+NOT	no
+CON	time
+PRO	you
+FUT	will
+EXS	be
+EXG	printing
+IST	full
+CON	color
+CON	documents
+IST	just
+AND	as
+IST	easily
+AND	and
+IST	quickly
+AND	as
+COL	black and white
+NIL	.

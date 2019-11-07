@@ -1,0 +1,16 @@
+PRO	I
+ENS	need
+SUB	to
+EXS	put
+DIS	some
+CON	gas
+REL	in
+DEF	the
+CON	car
+NIL	,
+AND	as
+PRO	it
+NOW	's
+INT	almost
+EXS	empty
+NIL	.

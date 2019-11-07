@@ -1,0 +1,10 @@
+CON	Fax
+PRX	this
+REL	to
+PRX	this
+CON	number
+REL	in
+GPE	Tokyo
+NIL	,
+IST	please
+NIL	.

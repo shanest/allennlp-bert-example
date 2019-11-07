@@ -1,0 +1,14 @@
+DEF	The
+CON	tree
+PST	had
+PFT	been
+EXS	blown
+IST	down
+REL	by
+DEF	the
+CON	typhoon
+AND	of
+DEF	the
+CON	day
+REL	before
+NIL	.

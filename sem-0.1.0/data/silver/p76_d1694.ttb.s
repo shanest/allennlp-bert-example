@@ -1,0 +1,13 @@
+DEF	The
+CON	engineer
+EPS	put
+HAS	his
+CON	eye
+REL	to
+DEF	the
+CON	transit
+COO	and
+EPS	looked
+AND	through
+PRO	it
+NIL	.

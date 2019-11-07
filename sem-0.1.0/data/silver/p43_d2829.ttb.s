@@ -1,0 +1,17 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	seen
+PRO	him
+PRX	this
+CON	morning
+NIL	.
+POS	Maybe
+PRO	he
+HAS	's
+IST	already
+CON	left
+REL	for
+DEF	the
+CON	meeting
+NIL	.

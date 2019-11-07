@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+REL	in
+HAS	his
+CON	car
+EXG	waiting
+REL	for
+PER	Mary
+NIL	.

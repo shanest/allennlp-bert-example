@@ -1,0 +1,14 @@
+PRO	You
+NOW	do
+NOT	n't
+EXS	know
+QUE	why
+PER	Tom
+PST	did
+NOT	n't
+EXS	come
+PST	yesterday
+NIL	,
+NOW	do
+PRO	you
+QUE	?

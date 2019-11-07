@@ -1,0 +1,10 @@
+EXS	Come
+REL	on
+NIL	,
+PRO	you
+IST	really
+NOW	do
+NOT	n't
+EXS	mean
+DST	that
+NIL	!

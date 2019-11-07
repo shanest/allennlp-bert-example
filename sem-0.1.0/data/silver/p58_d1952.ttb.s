@@ -1,0 +1,9 @@
+EXS	Come
+REL	on
+NIL	,
+PER	Tom
+EQU	,
+NOW	think
+AND	about
+PRO	it
+NIL	.

@@ -1,0 +1,14 @@
+PRO	It
+NOW	goes
+NOT	without
+EXG	saying
+DST	that
+CON	camels
+NOW	are
+INT	very
+EXS	useful
+REL	in
+DEF	the
+GEO	Middle
+GEO	East
+NIL	.

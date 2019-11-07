@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXG	waiting
+REL	for
+PRO	her
+SUB	to
+EXS	come
+PRX	here
+NIL	.

@@ -1,0 +1,11 @@
+PER	Mary
+EPS	saw
+QUC	much
+IST	worth
+EXS	imitating
+AND	during
+HAS	her
+EXS	stay
+REL	in
+GPE	Japan
+NIL	.

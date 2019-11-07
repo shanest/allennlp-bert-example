@@ -1,0 +1,11 @@
+ORG	Right
+REL	after
+DEF	the
+CON	teacher
+EPS	finished
+DEF	the
+CON	class
+DEF	the
+CON	bell
+EPS	rang
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	eat
+DIS	something
+SUB	that
+PRO	I
+POS	can
+XCL	only
+EXS	eat
+PRX	here
+NIL	.

@@ -1,0 +1,12 @@
+DIS	A
+CON	time
+CON	bomb
+EPS	went
+IST	off
+REL	in
+DEF	the
+CON	airport
+EXS	killing
+QUC	thirteen
+CON	people
+NIL	.

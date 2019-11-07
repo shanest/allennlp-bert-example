@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+DIS	a
+CON	risk
+PRO	we
+NOW	're
+AND	all
+EXS	prepared
+SUB	to
+EXS	take
+NIL	.

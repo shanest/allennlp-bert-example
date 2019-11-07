@@ -1,0 +1,10 @@
+SUB	Although
+PRO	I
+EPS	trusted
+DEF	the
+CON	map
+NIL	,
+PRO	it
+PST	was
+EXS	mistaken
+NIL	.

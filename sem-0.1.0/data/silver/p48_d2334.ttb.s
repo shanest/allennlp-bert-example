@@ -1,0 +1,13 @@
+PER	Tom
+EPS	said
+PRO	he
+EPS	wanted
+SUB	to
+EXS	show
+QUE	what
+PRO	he
+PST	'd
+EXS	made
+REL	to
+PER	Mary
+NIL	.

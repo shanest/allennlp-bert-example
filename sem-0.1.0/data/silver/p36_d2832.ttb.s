@@ -1,0 +1,9 @@
+PRO	He
+EPS	made
+DIS	a
+IST	premature
+CON	decision
+REL	on
+DEF	the
+CON	matter
+NIL	.

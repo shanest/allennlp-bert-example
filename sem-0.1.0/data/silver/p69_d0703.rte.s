@@ -1,0 +1,26 @@
+REL	In
+QUE	1929
+PRO	he
+EPS	founded
+DEF	the
+ORG	Institute
+AND	of
+ORG	Mathematics
+SUB	(
+GEO	Istituto
+GEO	di
+GEO	Matematica
+NIL	)
+REL	at
+DEF	the
+CON	University of Milan
+NIL	,
+AND	along
+REL	with
+ROL	Gian
+PER	Antonio
+PER	Maggi
+AND	and
+PER	Giulio
+PER	Vivanti
+NIL	.

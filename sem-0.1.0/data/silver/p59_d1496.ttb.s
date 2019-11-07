@@ -1,0 +1,10 @@
+DEF	The
+CON	sentence
+ENS	counts
+REL	on
+PRX	this
+CON	page
+NOW	have
+PFT	been
+EXS	updated
+NIL	.

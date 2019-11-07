@@ -1,0 +1,12 @@
+PER	Tom
+EPS	showed
+PRO	me
+DIS	a
+CON	picture
+AND	of
+DEF	the
+CON	food
+PRO	they
+PST	had
+EXS	eaten
+NIL	.

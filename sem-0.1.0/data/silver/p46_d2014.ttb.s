@@ -1,0 +1,16 @@
+PRO	You
+NOW	're
+DEF	the
+XCL	only
+CON	person
+PRO	I
+ENS	know
+AND	besides
+IST	myself
+AND	who
+NOW	does
+NOT	n't
+EXS	like
+EXG	watching
+CON	baseball
+NIL	.

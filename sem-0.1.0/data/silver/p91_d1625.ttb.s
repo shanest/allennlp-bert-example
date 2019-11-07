@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+PRO	I
+NOW	'm
+NOT	not
+EXS	paid
+IST	enough
+SUB	to
+EXS	give
+DIS	a
+CON	damn
+NIL	.

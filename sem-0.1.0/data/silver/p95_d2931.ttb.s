@@ -1,0 +1,14 @@
+PRO	You
+NOW	look
+EXS	tired
+NIL	.
+PRO	You
+NEC	ought
+SUB	to
+EXS	rest
+REL	for
+DIS	an
+CON	hour
+DIS	or
+QUC	two
+NIL	.

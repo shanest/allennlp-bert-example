@@ -1,0 +1,9 @@
+PER	Tom
+EPS	took
+DIS	a
+NOW	sip
+AND	of
+PER	Mary
+HAS	's
+CON	drink
+NIL	.

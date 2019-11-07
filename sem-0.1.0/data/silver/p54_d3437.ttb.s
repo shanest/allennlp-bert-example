@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+EXS	spent
+HAS	my
+IST	whole
+CON	life
+EXS	looking
+REL	for
+DIS	someone
+AND	like
+PRO	you
+NIL	.

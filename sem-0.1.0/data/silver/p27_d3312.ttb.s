@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	played
+REL	in
+DEF	the
+CON	park
+AND	all
+CON	day
+NIL	.

@@ -1,0 +1,10 @@
+NIL	There
+NOW	is
+DIS	an
+IST	urgent
+CON	need
+REL	for
+IST	improved
+CON	living
+CON	conditions
+NIL	.

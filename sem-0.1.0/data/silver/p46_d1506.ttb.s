@@ -1,0 +1,10 @@
+POS	Perhaps
+PRO	you
+NOW	are
+EXS	right
+NIL	,
+PRO	I
+NOW	have
+PFT	been
+EXS	selfish
+NIL	.

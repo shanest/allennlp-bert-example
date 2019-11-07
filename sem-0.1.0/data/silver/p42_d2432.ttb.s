@@ -1,0 +1,16 @@
+AND	Sometimes
+NIL	,
+PRO	it
+NOW	's
+COM	easier
+SUB	to
+EXS	ask
+REL	for
+CON	forgiveness
+NIL	,
+AND	than
+SUB	to
+EXS	ask
+REL	for
+CON	permission
+NIL	.

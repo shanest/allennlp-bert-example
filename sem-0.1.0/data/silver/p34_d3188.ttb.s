@@ -1,0 +1,11 @@
+NOW	Have
+PRO	you
+EXS	seen
+HAS	my
+CON	wife
+QUE	?
+NOW	Have
+PRO	you
+EXS	seen
+PER	Mary
+QUE	?

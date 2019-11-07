@@ -1,0 +1,10 @@
+QUE	How
+QUV	many
+CON	guests
+NOW	are
+PRO	we
+EXS	going
+SUB	to
+EXS	have
+CON	tonight
+QUE	?

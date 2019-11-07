@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+AND	all
+AND	alone
+REL	with
+NOT	no
+CON	one
+SUB	to
+EXS	talk
+SUB	to
+NIL	.

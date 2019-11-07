@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	busy
+REL	writing
+DIS	a
+IST	short
+CON	story
+NIL	.

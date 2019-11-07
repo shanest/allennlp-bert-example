@@ -1,0 +1,14 @@
+DIS	A
+CON	lot
+AND	of
+IST	small
+CON	businesses
+NOW	have
+EXS	gone
+CON	bust
+REL	in
+DEF	the
+IST	last
+QUC	twelve
+CON	months
+NIL	.

@@ -1,0 +1,11 @@
+QUC	One
+POS	can
+NOT	not
+EXS	overestimate
+DEF	the
+CON	importance
+AND	of
+EXG	getting
+IST	up
+IST	early
+NIL	.

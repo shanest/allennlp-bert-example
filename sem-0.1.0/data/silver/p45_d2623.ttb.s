@@ -1,0 +1,20 @@
+AND	Despite
+EXT	having
+EXS	signed
+DIS	a
+IST	secret
+CON	pact
+NIL	,
+GPE	Italy
+EPS	failed
+SUB	to
+EXS	enforce
+AND	all
+HAS	its
+CON	claims
+REL	on
+IST	foreign
+CON	territories
+REL	after
+GEO	World War I
+NIL	.

@@ -1,0 +1,10 @@
+QUE	How
+QUV	many
+CON	kilometers
+NOW	is
+PRO	it
+REL	to
+DEF	the
+IST	next
+CON	town
+QUE	?

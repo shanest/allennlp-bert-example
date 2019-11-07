@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+IMP	if
+PRO	it
+NOW	is
+EXS	true
+NIL	.

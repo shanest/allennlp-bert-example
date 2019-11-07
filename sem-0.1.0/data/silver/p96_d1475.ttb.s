@@ -1,0 +1,11 @@
+AND	Would
+DIS	somebody
+IST	please
+EXS	tell
+PRO	me
+QUE	what
+HAS	's
+EXS	going
+REL	on
+PRX	here
+QUE	?

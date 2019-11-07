@@ -1,0 +1,9 @@
+PRO	I
+EPS	intended
+SUB	to
+EXS	go
+NIL	,
+BUT	but
+EPS	forgot
+SUB	to
+NIL	.

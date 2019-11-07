@@ -1,0 +1,11 @@
+PER	Jane
+NOW	has
+PFT	been
+EXG	acting
+REL	in
+CON	films
+SUB	since
+PRO	she
+PST	was
+QUC	eleven
+NIL	.

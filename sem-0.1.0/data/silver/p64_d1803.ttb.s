@@ -1,0 +1,10 @@
+PRO	It
+EPS	took
+PRO	him
+QUC	three
+CON	years
+SUB	to
+EXS	write
+DEF	the
+CON	novel
+NIL	.

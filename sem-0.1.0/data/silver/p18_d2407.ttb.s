@@ -1,0 +1,13 @@
+UNK	There
+EPS	being
+NOT	no
+CON	train
+NIL	,
+PRO	we
+NEC	had
+SUB	to
+EXS	walk
+AND	all
+DEF	the
+CON	way
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	playing
+DEF	the
+CON	violin
+REL	for
+MOR	more
+MOR	than
+QUC	thirty
+CON	years
+NIL	.

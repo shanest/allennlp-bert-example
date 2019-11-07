@@ -1,0 +1,14 @@
+PRO	It
+HAS	's
+NOT	not
+INT	very
+EXS	clever
+AND	of
+PRO	you
+SUB	that
+PRO	you
+EPS	threw
+IST	away
+AND	that
+CON	note
+NIL	.

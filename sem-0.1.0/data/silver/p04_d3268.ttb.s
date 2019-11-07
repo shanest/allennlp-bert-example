@@ -1,0 +1,12 @@
+PRO	It
+PST	was
+QUC	one
+AND	of
+DEF	the
+TOP	most
+IST	incredible
+CON	experiences
+AND	of
+HAS	my
+CON	life
+NIL	.

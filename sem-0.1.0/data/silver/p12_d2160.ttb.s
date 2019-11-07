@@ -1,0 +1,13 @@
+PRO	We
+PST	'd
+IST	better
+EXS	get
+IST	ready
+IST	early
+SUB	because
+DEF	the
+CON	train
+FUT	wo
+NOT	n't
+EXS	wait
+NIL	.

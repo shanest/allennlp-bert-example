@@ -1,0 +1,11 @@
+PRO	I
+EPS	thought
+PRO	we
+PST	were
+EXS	supposed
+SUB	to
+EXS	meet
+PER	Tom
+REL	at
+CLO	2:30
+NIL	.

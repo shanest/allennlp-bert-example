@@ -1,0 +1,14 @@
+GPO	Syrian
+CON	troops
+NOW	have
+PFT	been
+EXS	withdrawn
+REL	from
+GEO	Lebanon
+REL	after
+DEF	the
+CON	murder
+AND	of
+PER	Rafik
+PER	Hariri
+NIL	.

@@ -1,0 +1,13 @@
+CON	Warning
+AND	:
+IST	unsupported
+CON	characters
+NOW	are
+EXS	displayed
+EXS	using
+DEF	the
+HAS	'
+CON	_
+HAS	'
+CON	character
+NIL	.

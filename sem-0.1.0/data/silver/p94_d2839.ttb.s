@@ -1,0 +1,9 @@
+NOW	Today
+NOW	is
+DOW	Saturday
+AND	and
+FUT	tomorrow
+FUT	will
+EXS	be
+DOW	Sunday
+NIL	.

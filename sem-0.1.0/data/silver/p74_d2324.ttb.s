@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	overwhelmed
+REL	with
+AND	all
+PRX	this
+QUC	much
+CON	work
+NIL	.

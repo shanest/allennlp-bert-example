@@ -1,0 +1,14 @@
+PRO	You
+NOW	're
+EXS	going
+SUB	to
+EXS	catch
+CON	hell
+REL	from
+HAS	your
+CON	wife
+IMP	if
+PRO	she
+NOW	finds
+IST	out
+NIL	.

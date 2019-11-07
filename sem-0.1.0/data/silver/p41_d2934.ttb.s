@@ -1,0 +1,10 @@
+PER	Marika
+NOW	looks
+AND	like
+DIS	a
+GPO	Japanese
+CON	woman
+REL	on
+PRX	this
+CON	picture
+NIL	.

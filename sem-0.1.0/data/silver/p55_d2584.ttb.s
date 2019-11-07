@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+INT	most
+IST	delicious
+CON	pizza
+PRO	I
+NOW	've
+IST	ever
+EXS	eaten
+NIL	.

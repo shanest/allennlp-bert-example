@@ -1,0 +1,15 @@
+QUE	What
+NOW	makes
+PRO	you
+NOW	think
+SUB	that
+PER	Tom
+NOW	is
+EXS	planning
+SUB	to
+EXS	ask
+PER	Mary
+SUB	to
+EXS	marry
+PRO	him
+QUE	?

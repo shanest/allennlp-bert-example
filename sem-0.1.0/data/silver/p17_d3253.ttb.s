@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	leaving
+REL	on
+DIS	a
+CON	trip
+REL	at
+DEF	the
+CON	beginning
+AND	of
+CON	winter
+NIL	.

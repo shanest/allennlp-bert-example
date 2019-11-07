@@ -1,0 +1,10 @@
+PRO	I
+EPS	met
+PRO	him
+REL	at
+DEF	the
+CON	end
+AND	of
+DEF	the
+CON	platform
+NIL	.

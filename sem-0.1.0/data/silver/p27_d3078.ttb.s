@@ -1,0 +1,16 @@
+AND	Yes
+NIL	,
+REL	in
+GEO	Osaka
+IST	too
+PRO	we
+NOW	say
+NIL	"
+CON	idiot
+NIL	"
+SUB	when
+PRO	we
+NOW	are
+CON	insulting
+DIS	someone
+NIL	.

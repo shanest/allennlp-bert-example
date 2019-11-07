@@ -1,0 +1,23 @@
+PER	Christopher Columbus
+QUC	once
+EPS	cut
+REF	himself
+REL	with
+DIS	a
+CON	knife
+NIL	.
+PRO	It
+EPS	made
+PRO	him
+SUB	so
+EXS	angry
+SUB	that
+PRO	he
+IST	then
+EPS	cut
+DEF	the
+CON	knife
+NIL	...
+REL	with
+REF	himself
+NIL	.

@@ -1,0 +1,12 @@
+PRO	We
+EPS	won
+CON	hands
+IST	down
+NIL	,
+SUB	because
+DEF	the
+ALT	other
+CON	players
+PST	were
+EXS	weak
+NIL	.

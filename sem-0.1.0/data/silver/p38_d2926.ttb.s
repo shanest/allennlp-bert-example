@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+IST	always
+EXS	play
+CON	tennis
+REL	on
+DOW	Saturday
+CON	morning
+NIL	.

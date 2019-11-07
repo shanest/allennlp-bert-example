@@ -1,0 +1,9 @@
+PRO	He
+PST	was
+EXS	familiar
+REL	with
+DEF	the
+CON	roads
+AND	of
+GPE	Tokyo
+NIL	.

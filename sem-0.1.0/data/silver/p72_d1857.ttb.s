@@ -1,0 +1,11 @@
+AND	Far
+REL	from
+EXS	stopping
+NIL	,
+DEF	the
+CON	storm
+EPS	became
+QUC	much
+MOR	more
+IST	intense
+NIL	.

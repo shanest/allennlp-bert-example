@@ -1,0 +1,9 @@
+DEF	The
+CON	war
+REL	in
+GEO	Iraq
+EPS	happened
+QUC	ten
+CON	years
+PST	ago
+NIL	.

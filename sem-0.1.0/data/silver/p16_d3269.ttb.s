@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+PST	was
+SUB	to
+EXS	be
+EXS	seen
+REL	on
+DEF	the
+CON	street
+NIL	.

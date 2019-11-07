@@ -1,0 +1,11 @@
+PRO	They
+NOW	've
+PFT	been
+EXS	dance
+CON	partners
+REL	for
+MOR	more
+MOR	than
+QUC	60
+CON	years
+NIL	.

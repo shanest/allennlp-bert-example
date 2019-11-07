@@ -1,0 +1,10 @@
+PRO	I
+PST	had
+NOT	never
+EXS	heard
+AND	anyone
+EXS	speak
+AND	of
+PRO	him
+REL	before
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	found
+DEF	the
+CON	key
+PRO	he
+PST	had
+PFT	been
+EXS	looking
+REL	for
+NIL	.

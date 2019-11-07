@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	heard
+SUB	that
+GPO	French
+NOW	is
+DIS	a
+IST	difficult
+CON	language
+NIL	.

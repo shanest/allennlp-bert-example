@@ -1,0 +1,13 @@
+PRO	I
+EPS	fed
+HAS	my
+CON	dog
+QUE	what
+PRO	I
+EPS	thought
+PST	was
+IST	good
+CON	quality
+CON	dog
+CON	food
+NIL	.

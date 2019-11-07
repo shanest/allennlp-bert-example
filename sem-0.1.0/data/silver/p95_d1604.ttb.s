@@ -1,0 +1,9 @@
+PRO	I
+EPS	saw
+PRO	you
+EXS	making
+CON	eyes
+REL	at
+ROL	Mr
+GEO	Nagashima
+NIL	.

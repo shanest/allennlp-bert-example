@@ -1,0 +1,14 @@
+HAS	My
+ROL	father
+EPS	used
+SUB	to
+EXS	read
+PRO	me
+CON	stories
+SUB	when
+PRO	I
+PST	was
+DIS	a
+IST	little
+CON	boy
+NIL	.

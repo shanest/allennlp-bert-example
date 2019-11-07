@@ -1,0 +1,12 @@
+PRO	I
+NOW	understand
+NOW	now
+QUE	why
+PRO	he
+PST	did
+NOT	n't
+EXS	go
+REL	to
+DIS	a
+CON	university
+NIL	.

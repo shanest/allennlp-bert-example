@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	suspicious
+SUB	that
+PRX	this
+NOW	is
+DIS	an
+IST	illegal
+CON	taxi
+NIL	.

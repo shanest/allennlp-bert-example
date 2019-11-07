@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	you
+NOW	feel
+DIS	something
+REL	for
+PRO	me
+NIL	.

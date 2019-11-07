@@ -1,0 +1,10 @@
+AND	Why
+NOW	are
+PRO	you
+EXS	wearing
+DIS	a
+COL	pink
+CON	T-shirt
+EQU	,
+PER	Tom
+QUE	?

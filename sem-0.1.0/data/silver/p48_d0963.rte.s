@@ -1,0 +1,9 @@
+DOW	Tuesday
+NIL	,
+IST	preliminary
+IST	quarterly
+CON	results
+FUT	will
+EXS	be
+EXS	announced
+NIL	.

@@ -1,0 +1,10 @@
+CON	Life
+ENS	begins
+SUB	when
+PRO	you
+NOW	're
+IST	ready
+SUB	to
+EXS	live
+PRO	it
+NIL	.

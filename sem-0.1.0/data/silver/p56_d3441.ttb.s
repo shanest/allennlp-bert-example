@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	find
+PRO	you
+SUB	wherever
+PRO	you
+NOW	are
+AND	and
+EXS	kill
+PRO	you
+NIL	.

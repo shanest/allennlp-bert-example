@@ -1,0 +1,17 @@
+PRO	I
+NOW	'm
+EXS	surprised
+PRO	you
+EXS	find
+PER	Tom
+EXS	unfriendly
+NIL	.
+PRO	He
+HAS	's
+IST	always
+PFT	been
+IST	perfectly
+EXS	friendly
+REL	to
+PRO	me
+NIL	.

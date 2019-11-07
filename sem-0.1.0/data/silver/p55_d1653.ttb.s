@@ -1,0 +1,13 @@
+PER	Tom
+EPS	put
+DEF	the
+CON	gun
+REL	to
+HAS	his
+IST	own
+CON	head
+COO	and
+EPS	pulled
+DEF	the
+EXS	trigger
+NIL	.

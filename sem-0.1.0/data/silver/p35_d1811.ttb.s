@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	no
+CON	clue
+QUE	what
+PRO	you
+NOW	're
+EXS	talking
+IST	about
+NIL	.

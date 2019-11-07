@@ -1,0 +1,11 @@
+AND	Just
+NOW	think
+QUE	what
+PRO	we
+POS	could
+EXS	do
+REL	with
+DST	that
+QUV	much
+CON	money
+NIL	.

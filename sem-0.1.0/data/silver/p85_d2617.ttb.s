@@ -1,0 +1,14 @@
+CON	Go
+AND	and
+EXS	see
+QUE	what
+PER	Mary
+NOW	is
+EXS	doing
+COO	and
+EXS	tell
+PRO	her
+SUB	to
+EXS	stop
+PRO	it
+NIL	.

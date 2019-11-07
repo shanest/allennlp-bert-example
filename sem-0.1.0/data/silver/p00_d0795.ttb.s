@@ -1,0 +1,13 @@
+PER	John
+EPS	ran
+REL	to
+DEF	the
+CON	station
+SUB	so
+AND	as
+NIL	to
+EXS	catch
+DEF	the
+IST	last
+CON	train
+NIL	.

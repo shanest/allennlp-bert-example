@@ -1,0 +1,12 @@
+DEF	The
+MOR	more
+PRO	you
+ENS	know
+PRO	him
+NIL	,
+DEF	the
+MOR	more
+PRO	you
+EXS	like
+PRO	him
+NIL	.

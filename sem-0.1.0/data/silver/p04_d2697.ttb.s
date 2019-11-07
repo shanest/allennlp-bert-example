@@ -1,0 +1,9 @@
+PER	Tom
+EPS	showed
+PER	Mary
+DEF	the
+CON	picture
+PRO	he
+PST	was
+EXG	drawing
+NIL	.

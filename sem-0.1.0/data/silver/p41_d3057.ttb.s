@@ -1,0 +1,17 @@
+DEF	The
+CON	pastor
+EPS	gave
+DIS	a
+IST	fiery
+CON	sermon
+SUB	that
+EXS	left
+DEF	the
+CON	sinners
+AND	among
+PRO	them
+EXS	shaking
+REL	in
+HAS	their
+CON	boots
+NIL	.

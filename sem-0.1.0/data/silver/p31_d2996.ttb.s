@@ -1,0 +1,9 @@
+PRO	I
+ENS	wish
+PRO	I
+PST	had
+IST	more
+CON	money
+REL	with
+PRO	me
+NIL	.

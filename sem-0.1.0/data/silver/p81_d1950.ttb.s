@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+IST	afraid
+PRO	I
+POS	ca
+NOT	n't
+EXS	help
+PRO	you
+NIL	.
+PRO	You
+NEC	must
+EXS	ask
+DIS	someone
+AND	else
+NIL	.

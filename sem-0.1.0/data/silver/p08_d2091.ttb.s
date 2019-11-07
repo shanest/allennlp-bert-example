@@ -1,0 +1,10 @@
+DST	That
+ROL	politician
+NOW	has
+EXS	been
+REL	trafficking
+REL	in
+CON	drugs
+REL	for
+CON	years
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+PER	Tom
+ENS	says
+PRO	he
+NOW	does
+NOT	n't
+EXS	like
+PRO	me
+NIL	.

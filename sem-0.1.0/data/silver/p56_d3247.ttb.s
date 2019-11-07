@@ -1,0 +1,10 @@
+AND	Would
+PRO	you
+EXS	know
+DIS	a
+IST	cheap
+CON	hotel
+REL	in
+DEF	the
+IST	near
+QUE	?

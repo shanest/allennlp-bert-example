@@ -1,0 +1,10 @@
+PRO	She
+EPS	went
+REL	to
+GPE	France
+REL	in
+CON	order
+SUB	to
+EXS	study
+CON	art
+NIL	.

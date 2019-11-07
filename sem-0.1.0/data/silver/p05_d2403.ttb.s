@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+IST	ashamed
+AND	of
+HAS	his
+ROL	father
+EXS	being
+IST	poor
+NIL	.

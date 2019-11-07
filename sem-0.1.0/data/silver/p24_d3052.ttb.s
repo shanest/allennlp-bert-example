@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+IST	willing
+SUB	to
+EXS	help
+PRO	us
+ALT	again
+PRX	this
+CON	time
+NIL	.

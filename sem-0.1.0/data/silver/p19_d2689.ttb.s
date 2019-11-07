@@ -1,0 +1,16 @@
+PRO	It
+ENS	seems
+EXS	OK
+REL	on
+CON	paper
+NIL	,
+BUT	but
+PRO	I
+NOW	wonder
+IMP	if
+PRO	it
+NOW	's
+EXS	going
+SUB	to
+EXS	work
+NIL	.

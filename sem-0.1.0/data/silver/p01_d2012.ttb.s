@@ -1,0 +1,14 @@
+QUE	What
+NOW	do
+PRO	you
+EXS	believe
+NOW	is
+EXS	true
+AND	even
+SUB	though
+PRO	you
+POS	can
+NOT	not
+EXS	prove
+PRO	it
+QUE	?

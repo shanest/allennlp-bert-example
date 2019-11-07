@@ -1,0 +1,11 @@
+PRO	I
+EPS	got
+IST	up
+NOW	today
+REL	with
+DIS	a
+CON	pain
+REL	in
+HAS	my
+CON	neck
+NIL	.

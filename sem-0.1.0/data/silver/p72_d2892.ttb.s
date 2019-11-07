@@ -1,0 +1,17 @@
+PRO	It
+NOW	's
+INT	very
+EXS	difficult
+REL	to
+CON	transport
+PRO	them
+CON	overland
+NIL	,
+BUT	but
+IST	simple
+SUB	to
+EXS	do
+IST	so
+REL	by
+CON	sea
+NIL	.

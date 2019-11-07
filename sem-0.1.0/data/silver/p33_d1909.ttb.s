@@ -1,0 +1,11 @@
+PER	Tom
+ENS	reminds
+PRO	me
+AND	of
+DIS	a
+CON	boy
+PRO	I
+EPS	used
+SUB	to
+EXS	know
+NIL	.

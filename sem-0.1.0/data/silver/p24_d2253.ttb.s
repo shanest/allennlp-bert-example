@@ -1,0 +1,10 @@
+PER	Tom
+ENS	says
+SUB	that
+PRO	he
+POS	can
+EXS	read
+DIS	a
+GPO	French
+CON	book
+NIL	.

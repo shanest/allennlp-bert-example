@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+EXT	told
+PRO	us
+IST	quite
+DIS	a
+CON	bit
+AND	about
+PRO	you
+NIL	.

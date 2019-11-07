@@ -1,0 +1,11 @@
+PER	Tom
+ENS	thinks
+PRO	he
+HAS	's
+EXS	being
+EXS	shadowed
+REL	by
+DIS	a
+IST	private
+CON	detective
+NIL	.

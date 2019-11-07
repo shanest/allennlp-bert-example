@@ -1,0 +1,14 @@
+AND	Because
+AND	of
+IST	modern
+CON	communication
+AND	and
+CON	transportation
+CON	systems
+NIL	,
+DEF	the
+CON	world
+NOW	is
+EXS	getting
+COM	smaller
+NIL	.

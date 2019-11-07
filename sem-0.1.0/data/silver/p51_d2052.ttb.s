@@ -1,0 +1,11 @@
+PRO	I
+NEC	should
+EXT	've
+EXS	known
+PER	Tom
+FUT	would
+EXS	be
+PRX	here
+NIL	,
+ALT	too
+NIL	.

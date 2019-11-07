@@ -1,0 +1,14 @@
+DEF	The
+CON	detective
+EPS	took
+IST	down
+HAS	his
+CON	testimony
+REL	on
+DEF	the
+CON	spot
+NIL	,
+CON	word
+REL	for
+CON	word
+NIL	.

@@ -1,0 +1,15 @@
+NOW	Do
+PRO	you
+NOW	think
+PRO	you
+POS	could
+EXS	describe
+DEF	the
+CON	man
+PRO	you
+EPS	saw
+REL	to
+DIS	a
+CON	sketch
+ROL	artist
+QUE	?

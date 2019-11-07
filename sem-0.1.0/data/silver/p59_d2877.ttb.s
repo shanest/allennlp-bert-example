@@ -1,0 +1,12 @@
+EXS	Tell
+PER	Tom
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	eat
+REL	at
+DST	that
+CON	restaurant
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	stop
+DIS	someone
+SUB	from
+EXS	lying
+REL	to
+PRO	you
+NIL	.

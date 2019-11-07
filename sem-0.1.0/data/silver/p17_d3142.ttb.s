@@ -1,0 +1,11 @@
+GPE	Japan
+NOW	is
+NIL	,
+SUB	as
+PRO	it
+PST	were
+NIL	,
+HAS	his
+IST	second
+CON	home
+NIL	.

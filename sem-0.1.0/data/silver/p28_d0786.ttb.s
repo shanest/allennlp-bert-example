@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+EXS	true
+PRO	she
+NOW	is
+IST	young
+NIL	,
+BUT	but
+PRO	she
+NOW	is
+IST	wise
+NIL	.

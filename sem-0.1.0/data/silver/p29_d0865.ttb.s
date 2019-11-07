@@ -1,0 +1,11 @@
+CON	Waiting
+DIS	a
+IST	long
+CON	time
+REL	for
+DIS	a
+CON	friend
+NOW	makes
+PRO	me
+IST	nervous
+NIL	.

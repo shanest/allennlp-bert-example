@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	suppose
+PRO	it
+NOW	's
+EXS	going
+SUB	to
+CON	rain
+NIL	.

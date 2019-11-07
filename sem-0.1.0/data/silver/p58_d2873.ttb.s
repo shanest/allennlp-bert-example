@@ -1,0 +1,14 @@
+PER	Tom
+EPS	asked
+PRO	me
+QUE	how
+IST	long
+HAS	my
+CON	parents
+PST	had
+PFT	been
+EXS	married
+SUB	before
+PRO	they
+EPS	separated
+NIL	.

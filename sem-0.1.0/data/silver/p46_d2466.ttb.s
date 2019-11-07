@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+NOT	not
+QUE	what
+PRO	he
+PST	was
+QUC	ten
+CON	years
+PST	ago
+NIL	.

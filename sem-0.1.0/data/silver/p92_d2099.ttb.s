@@ -1,0 +1,12 @@
+PER	Tom
+EPS	walked
+REL	into
+DEF	the
+CON	pub
+COO	and
+EPS	ordered
+DIS	a
+CON	pint
+AND	of
+CON	beer
+NIL	.

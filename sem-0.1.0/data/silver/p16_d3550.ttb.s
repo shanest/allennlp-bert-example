@@ -1,0 +1,12 @@
+PER	Tom
+NIL	,
+POS	can
+PRO	you
+NOW	show
+PER	Mary
+QUE	how
+SUB	to
+EXS	use
+DEF	the
+CON	scanner
+QUE	?

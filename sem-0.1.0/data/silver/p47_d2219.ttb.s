@@ -1,0 +1,12 @@
+PER	Tom
+PST	was
+DIS	an
+CON	astute
+ROL	businessman
+AND	who
+EPS	made
+DIS	a
+CON	lot
+AND	of
+CON	money
+NIL	.

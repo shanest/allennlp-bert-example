@@ -1,0 +1,9 @@
+DIS	Somebody
+ENS	needs
+SUB	to
+EXS	be
+PRX	here
+REL	for
+DEF	the
+CON	children
+NIL	.

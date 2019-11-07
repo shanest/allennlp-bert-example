@@ -1,0 +1,10 @@
+PRO	I
+NOW	enjoy
+EXG	climbing
+CON	trees
+AND	every
+QUC	once
+REL	in
+DIS	a
+CON	while
+NIL	.

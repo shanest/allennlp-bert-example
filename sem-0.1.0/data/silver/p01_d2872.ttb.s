@@ -1,0 +1,10 @@
+IMP	If
+PRO	you
+ENS	ask
+PRO	me
+EQU	,
+PER	Tom
+NOW	is
+DEF	the
+CON	problem
+NIL	.

@@ -1,0 +1,16 @@
+PER	Tom
+NOW	is
+IST	able
+SUB	to
+EXS	say
+NIL	"
+PRO	I
+POS	can
+XCL	only
+EXS	speak
+GPO	French
+NIL	"
+REL	in
+QUC	thirty
+CON	languages
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+CON	people
+REL	in
+GPE	Brazil
+PST	were
+EXS	proud
+AND	of
+PRO	him
+NIL	.

@@ -1,0 +1,12 @@
+REL	At
+DST	that
+CON	time
+NIL	,
+PER	Tom
+PST	was
+EXS	sitting
+REL	between
+PER	Mary
+AND	and
+PER	John
+NIL	.

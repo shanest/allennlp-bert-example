@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	sure
+PRO	he
+EPS	mistook
+PRO	me
+REL	for
+HAS	my
+ROL	sister
+NIL	.

@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+NOW	has
+NOT	never
+PFT	been
+EXS	sick
+REL	in
+HAS	his
+CON	life
+NIL	.

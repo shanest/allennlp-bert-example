@@ -1,0 +1,12 @@
+QUE	Who
+ENS	sends
+CON	letters
+REL	by
+CON	mail
+QUE	?
+PRX	These
+CON	days
+PRO	we
+NOW	have
+CON	e-mail
+NIL	.

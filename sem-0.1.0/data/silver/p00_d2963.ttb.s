@@ -1,0 +1,10 @@
+QUE	How
+IST	long
+NOW	is
+DEF	the
+CON	flight
+REL	from
+GPE	Tokyo
+REL	to
+GPE	Hawaii
+QUE	?

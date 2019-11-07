@@ -1,0 +1,9 @@
+QUE	How
+ENS	dare
+PRO	you
+EXS	speak
+REL	to
+PRO	me
+ENS	like
+SUB	that
+QUE	?

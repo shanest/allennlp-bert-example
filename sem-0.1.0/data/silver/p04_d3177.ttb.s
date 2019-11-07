@@ -1,0 +1,10 @@
+PER	Tom
+EPS	said
+PRO	he
+PST	was
+EXS	going
+SUB	to
+EXS	talk
+REL	to
+PER	Mary
+NIL	.

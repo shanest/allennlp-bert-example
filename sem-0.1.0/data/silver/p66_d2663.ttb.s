@@ -1,0 +1,10 @@
+PER	Tom
+PST	helped
+PER	Mary
+EXS	hang
+DEF	the
+CON	clothes
+REL	on
+DEF	the
+CON	clothesline
+NIL	.

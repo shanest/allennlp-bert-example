@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+NOT	not
+DIS	a
+CON	discovery
+NIL	,
+AND	everybody
+ENS	knows
+PRO	it
+NIL	!

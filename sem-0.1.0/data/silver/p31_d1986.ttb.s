@@ -1,0 +1,10 @@
+DEF	The
+CON	offer
+NOW	is
+INT	too
+EXS	good
+SUB	to
+EXS	be
+EXS	turned
+IST	down
+NIL	.

@@ -1,0 +1,15 @@
+PRO	I
+ENS	owe
+HAS	my
+CON	brother
+DEF	the
+QUC	ten
+UOM	dollars
+SUB	that
+PRO	he
+EPS	lent
+PRO	me
+DIS	a
+CON	week
+AND	ago
+NIL	.

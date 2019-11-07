@@ -1,0 +1,9 @@
+PRO	We
+NOW	're
+EXS	going
+NIL	to
+EXS	have
+DIS	a
+CON	test
+NOW	today
+NIL	.

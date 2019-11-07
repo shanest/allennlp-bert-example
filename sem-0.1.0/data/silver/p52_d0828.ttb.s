@@ -1,0 +1,14 @@
+PRO	I
+EPS	recognized
+DEF	the
+CON	teacher
+REL	at
+QUC	once
+NIL	,
+SUB	because
+PRO	I
+PST	had
+EXS	met
+PRO	him
+REL	before
+NIL	.

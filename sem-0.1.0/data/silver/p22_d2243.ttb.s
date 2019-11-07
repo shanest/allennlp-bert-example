@@ -1,0 +1,12 @@
+PRO	I
+EPS	told
+PER	Tom
+PRO	you
+FUT	would
+IST	probably
+EXS	like
+SUB	to
+EXS	see
+DST	that
+CON	movie
+NIL	.

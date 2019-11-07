@@ -1,0 +1,10 @@
+PER	Tom
+EPS	encouraged
+PER	Mary
+SUB	to
+EXS	learn
+QUE	how
+SUB	to
+EXS	speak
+GPO	French
+NIL	.

@@ -1,0 +1,17 @@
+IMP	If
+PRO	you
+ENS	listen
+REL	to
+GPO	English
+CON	programs
+REL	on
+DEF	the
+CON	radio
+NIL	,
+PRO	you
+POS	can
+EXS	learn
+ART	English
+REL	for
+NOT	nothing
+NIL	.

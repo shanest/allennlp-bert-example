@@ -1,0 +1,9 @@
+PRO	I
+PST	had
+NOT	never
+EXS	been
+REL	on
+DIS	a
+CON	plane
+REL	before
+NIL	.

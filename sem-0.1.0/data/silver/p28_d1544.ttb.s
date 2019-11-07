@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+EXS	unlikely
+SUB	that
+PER	Tom
+FUT	will
+EXS	get
+IST	out
+AND	of
+CON	prison
+AND	anytime
+IST	soon
+NIL	.

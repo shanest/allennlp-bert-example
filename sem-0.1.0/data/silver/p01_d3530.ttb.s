@@ -1,0 +1,10 @@
+EXS	Let
+PRO	's
+EXS	bury
+DEF	the
+CON	hatchet
+AND	and
+EXS	be
+CON	friends
+ALT	again
+NIL	!

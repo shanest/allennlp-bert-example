@@ -1,0 +1,10 @@
+QUE	What
+DIS	a
+IST	cute
+CON	baby
+NIL	!
+POS	May
+PRO	I
+NOW	hold
+PRO	her
+QUE	?

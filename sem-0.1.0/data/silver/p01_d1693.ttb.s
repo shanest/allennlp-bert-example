@@ -1,0 +1,10 @@
+EXS	Let
+HAS	's
+CON	hurry
+SUB	so
+AND	as
+NOT	not
+NIL	to
+EXS	waste
+CON	time
+NIL	.

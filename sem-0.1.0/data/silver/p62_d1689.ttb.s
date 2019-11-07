@@ -1,0 +1,10 @@
+PER	Tom
+EPS	picked
+IST	up
+DEF	the
+CON	cards
+COO	and
+EPS	began
+CON	shuffling
+PRO	them
+NIL	.

@@ -1,0 +1,10 @@
+PRO	We
+NOW	are
+EXS	grateful
+REL	for
+DEF	the
+CON	music
+PRO	he
+EPS	left
+IST	behind
+NIL	.

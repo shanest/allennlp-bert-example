@@ -1,0 +1,12 @@
+PER	Tom
+EPS	told
+PER	Mary
+PRO	he
+FUT	'd
+NOT	never
+EXS	been
+REL	to
+DIS	a
+CON	nude
+CON	beach
+NIL	.

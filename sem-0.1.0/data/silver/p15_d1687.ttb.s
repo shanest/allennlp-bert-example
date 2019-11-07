@@ -1,0 +1,13 @@
+DIS	Some
+AND	of
+DEF	the
+CON	photos
+NOW	have
+PFT	been
+EXS	taken
+REL	at
+DEF	the
+CON	risk
+AND	of
+CON	life
+NIL	.

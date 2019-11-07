@@ -1,0 +1,9 @@
+PRO	She
+EPS	walked
+IST	past
+PRO	him
+NOT	without
+IST	even
+EXG	noticing
+PRO	him
+NIL	.

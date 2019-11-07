@@ -1,0 +1,12 @@
+AND	Could
+PRO	you
+NOW	do
+PRO	me
+DIS	a
+CON	favor
+COO	and
+EXS	babysit
+HAS	my
+CON	kids
+CON	tonight
+QUE	?

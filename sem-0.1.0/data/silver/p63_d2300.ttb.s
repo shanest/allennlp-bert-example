@@ -1,0 +1,10 @@
+PER	Tom
+EPS	explained
+DEF	the
+CON	purpose
+AND	of
+DEF	the
+CON	project
+REL	to
+PER	Mary
+NIL	.

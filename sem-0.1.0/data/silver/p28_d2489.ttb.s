@@ -1,0 +1,11 @@
+REL	At
+CLO	noon
+PRO	they
+EPS	lay
+IST	down
+REL	in
+DIS	a
+CON	forest
+REL	to
+CON	rest
+NIL	.

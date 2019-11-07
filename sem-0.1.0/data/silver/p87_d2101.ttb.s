@@ -1,0 +1,13 @@
+DEF	The
+IST	old
+CON	man
+EPS	drew
+DIS	a
+IST	large
+CON	crowd
+AND	around
+PRO	him
+REL	by
+HAS	his
+CON	music
+NIL	.

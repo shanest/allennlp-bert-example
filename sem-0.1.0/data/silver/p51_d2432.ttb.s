@@ -1,0 +1,14 @@
+PER	Brian
+NOW	is
+IST	mad
+SUB	because
+PER	Chris
+IST	obviously
+NOW	does
+NOT	not
+EXS	intend
+SUB	to
+EXS	return
+DEF	the
+CON	money
+NIL	.

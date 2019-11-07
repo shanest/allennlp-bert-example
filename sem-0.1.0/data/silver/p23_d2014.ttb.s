@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+IST	hard
+SUB	to
+EXS	imagine
+DIS	a
+CON	family
+MOR	more
+IST	dysfunctional
+MOR	than
+CON	ours
+NIL	.

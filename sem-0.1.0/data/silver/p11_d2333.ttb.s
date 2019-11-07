@@ -1,0 +1,15 @@
+REL	On
+DEF	the
+IST	last
+CON	page
+NIL	,
+PER	Mary
+EPS	wrote
+AND	:
+NIL	"
+DEF	The
+CON	ship
+NOW	is
+EXG	sinking
+NIL	.
+NIL	"

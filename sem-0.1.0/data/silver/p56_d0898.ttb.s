@@ -1,0 +1,11 @@
+PRO	I
+EPS	found
+PRO	it
+UNK	necessary
+SUB	to
+EXS	get
+IST	up
+AND	early
+AND	every
+CON	morning
+NIL	.

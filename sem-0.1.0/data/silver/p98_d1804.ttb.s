@@ -1,0 +1,11 @@
+ITJ	Wow
+NIL	,
+AND	that
+HAS	's
+IST	pretty
+NIL	.
+DEF	The
+CON	sea
+NOW	is
+EXS	shining
+NIL	.

@@ -1,0 +1,10 @@
+PRO	They
+EPS	chose
+PER	John
+AND	as
+DEF	the
+ROL	captain
+AND	of
+DEF	the
+CON	team
+NIL	.

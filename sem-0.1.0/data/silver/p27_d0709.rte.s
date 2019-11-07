@@ -1,0 +1,22 @@
+GEO	Iran
+HAS	's
+CON	population
+CON	growth
+CON	rate
+AND	of
+INT	3.9
+UOM	per cent
+DIS	a
+CON	year
+REL	in
+DEF	the
+IST	early
+DEC	1980s
+PST	was
+AND	among
+DEF	the
+TOP	highest
+REL	in
+DEF	the
+CON	world
+NIL	.

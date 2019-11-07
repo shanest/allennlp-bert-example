@@ -1,0 +1,13 @@
+PRO	I
+NOW	think
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	going
+SUB	to
+EXS	be
+SUB	so
+EXS	happy
+IST	together
+NIL	.

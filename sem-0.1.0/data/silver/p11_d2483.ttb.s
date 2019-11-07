@@ -1,0 +1,10 @@
+QUE	How
+QUV	many
+CON	animal
+CON	species
+NOW	are
+IST	there
+REL	in
+DEF	the
+CON	world
+QUE	?

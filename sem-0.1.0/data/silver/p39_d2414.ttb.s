@@ -1,0 +1,9 @@
+PRX	This
+NOW	is
+QUE	what
+PRO	I
+NOW	have
+PFT	been
+EXG	looking
+REL	for
+NIL	.

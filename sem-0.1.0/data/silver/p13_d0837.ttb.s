@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+AND	always
+EXS	giving
+NOW	presents
+REL	to
+HAS	his
+CON	wife
+NIL	.

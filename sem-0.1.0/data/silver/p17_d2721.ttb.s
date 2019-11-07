@@ -1,0 +1,14 @@
+PER	Tom
+EPS	shared
+DEF	the
+CON	food
+AND	that
+HAS	his
+ROL	mother
+PST	had
+EXS	given
+PRO	him
+REL	with
+HAS	his
+CON	friends
+NIL	.

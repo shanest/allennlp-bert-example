@@ -1,0 +1,13 @@
+NOT	No
+CON	justice
+DIS	or
+CON	freedom
+NOW	is
+EXS	possible
+SUB	when
+CON	money
+AND	always
+NOW	takes
+DEF	the
+CON	crown
+NIL	.

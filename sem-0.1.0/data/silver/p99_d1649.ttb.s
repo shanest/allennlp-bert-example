@@ -1,0 +1,11 @@
+NOW	Are
+PRO	you
+IST	sure
+SUB	that
+PER	Tom
+NOW	is
+EXS	going
+SUB	to
+EXS	be
+IST	there
+QUE	?

@@ -1,0 +1,10 @@
+PRO	I
+EPS	thought
+PRO	you
+EPS	said
+PER	Tom
+PST	did
+NOT	n't
+EXS	like
+PRO	you
+NIL	.

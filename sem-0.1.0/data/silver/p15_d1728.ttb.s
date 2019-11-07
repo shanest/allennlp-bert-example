@@ -1,0 +1,16 @@
+NIL	"
+QUE	What
+CON	color
+NOW	is
+HAS	your
+CON	underwear
+QUE	?
+NIL	"
+NIL	"
+PRO	I
+NOW	'm
+NOT	not
+EXG	wearing
+AND	any
+NIL	.
+NIL	"

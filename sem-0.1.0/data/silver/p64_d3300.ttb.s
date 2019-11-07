@@ -1,0 +1,27 @@
+PRO	She
+NOW	has
+DIS	a
+CON	boyfriend
+PRO	she
+HAS	's
+PFT	been
+EXS	going
+IST	out
+REL	with
+REL	since
+CON	high school
+COO	but
+NOW	feels
+HAS	their
+CON	relationship
+NOW	has
+EXS	become
+DIS	a
+CON	matter
+AND	of
+CON	habit
+AND	and
+NOW	is
+INT	increasingly
+EXS	dissatisfied
+NIL	.

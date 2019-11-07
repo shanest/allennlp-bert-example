@@ -1,0 +1,10 @@
+PRO	She
+EPS	skipped
+CON	class
+NIL	to
+EXS	hang
+IST	out
+REL	with
+HAS	her
+ROL	friends
+NIL	.

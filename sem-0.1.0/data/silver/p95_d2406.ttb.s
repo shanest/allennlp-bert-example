@@ -1,0 +1,9 @@
+PER	Tom
+EPS	wrote
+PRO	me
+MOR	more
+MOR	than
+QUC	thirty
+CON	messages
+PST	yesterday
+NIL	.

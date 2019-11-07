@@ -1,0 +1,12 @@
+DST	Those
+CON	oysters
+PRO	I
+EPS	ate
+IST	last
+CON	night
+PST	did
+NOT	n't
+EXS	agree
+REL	with
+PRO	me
+NIL	.

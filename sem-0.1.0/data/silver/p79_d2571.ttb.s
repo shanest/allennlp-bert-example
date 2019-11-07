@@ -1,0 +1,10 @@
+DEF	The
+CON	car
+EPS	pulled
+REL	up
+REL	in
+CON	front
+AND	of
+DEF	the
+CON	bank
+NIL	.

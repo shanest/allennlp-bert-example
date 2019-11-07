@@ -1,0 +1,14 @@
+DEF	The
+CON	surgeon
+AND	who
+EPS	did
+PER	Tom
+HAS	's
+CON	operation
+NOW	is
+INT	very
+EXS	experienced
+AND	and
+INT	highly
+EXS	regarded
+NIL	.

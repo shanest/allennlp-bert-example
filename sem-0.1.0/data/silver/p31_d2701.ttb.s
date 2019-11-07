@@ -1,0 +1,14 @@
+DEF	The
+CON	child
+EPS	remained
+EXS	unfazed
+NIL	,
+AND	even
+SUB	after
+EXS	being
+EXS	laughed
+REL	at
+REL	by
+HAS	his
+CON	classmates
+NIL	.

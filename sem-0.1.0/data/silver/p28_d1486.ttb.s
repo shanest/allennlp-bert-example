@@ -1,0 +1,11 @@
+PER	Tom
+EPS	thought
+SUB	that
+PER	Mary
+FUT	would
+NOT	n't
+NEC	have
+SUB	to
+EXS	do
+DST	that
+NIL	.

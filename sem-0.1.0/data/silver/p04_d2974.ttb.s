@@ -1,0 +1,11 @@
+DIS	A
+CON	bunch
+AND	of
+CON	people
+EPS	told
+PRO	me
+NOT	not
+SUB	to
+EXS	eat
+IST	there
+NIL	.

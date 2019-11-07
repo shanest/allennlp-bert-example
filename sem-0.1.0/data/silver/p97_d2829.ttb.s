@@ -1,0 +1,11 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	imagine
+EXS	living
+NOT	without
+PER	Mary
+REL	by
+HAS	his
+CON	side
+NIL	.

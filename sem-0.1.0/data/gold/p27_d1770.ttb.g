@@ -1,0 +1,12 @@
+PER	Tom
+EPS	bought
+DIS	a
+CON	squirrel
+CON	magnet
+COO	and
+EPS	put
+PRO	it
+REL	on
+DEF	the
+CON	fridge
+NIL	.

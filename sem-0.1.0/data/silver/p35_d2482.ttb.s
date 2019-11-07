@@ -1,0 +1,16 @@
+PRO	He
+NOW	is
+GPO	French
+REL	by
+CON	birth
+NIL	,
+BUT	but
+PRO	he
+NOW	is
+NOW	now
+DIS	a
+CON	citizen
+AND	of
+DEF	the
+ORG	USA
+NIL	.

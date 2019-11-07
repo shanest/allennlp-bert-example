@@ -1,0 +1,15 @@
+QUE	What
+HAS	's
+IST	up
+NIL	,
+PRO	you
+CON	boozer
+QUE	?
+NOW	Have
+PRO	you
+PST	had
+DIS	some
+CON	cough
+CON	syrup
+ALT	again
+QUE	?

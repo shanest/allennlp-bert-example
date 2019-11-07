@@ -1,0 +1,11 @@
+DEF	The
+CON	queen
+ENS	reigns
+NIL	,
+BUT	but
+NOW	does
+NOT	not
+EXS	rule
+REL	in
+GPE	England
+NIL	.

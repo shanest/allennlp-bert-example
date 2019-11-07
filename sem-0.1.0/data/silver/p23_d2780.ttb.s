@@ -1,0 +1,12 @@
+ITJ	Hey
+PRO	you
+NIL	!
+QUE	What
+NOW	do
+PRO	you
+NOW	have
+REL	in
+DST	that
+COL	green
+CON	bag
+QUE	?

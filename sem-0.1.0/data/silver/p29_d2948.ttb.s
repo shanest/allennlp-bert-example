@@ -1,0 +1,13 @@
+PRO	I
+POS	can
+NOT	not
+EXS	hug
+PER	Taninna
+NIL	.
+PRO	She
+NOW	does
+NOT	n't
+EXS	love
+PRO	me
+CON	anymore
+NIL	.

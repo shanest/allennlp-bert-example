@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+AND	about
+DEF	the
+IST	same
+CON	age
+NIL	.

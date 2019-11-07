@@ -1,0 +1,9 @@
+PRO	She
+EPS	took
+DEF	the
+CON	pen
+COO	and
+EPS	wrote
+DEF	the
+CON	address
+NIL	.

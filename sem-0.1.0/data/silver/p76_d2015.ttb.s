@@ -1,0 +1,12 @@
+PRO	She
+EPS	showed
+PRO	me
+DIS	a
+CON	picture
+AND	of
+HAS	her
+CON	mother
+AND	as
+DIS	a
+ROL	schoolgirl
+NIL	.

@@ -1,0 +1,9 @@
+PRO	She
+NOW	is
+IST	willing
+SUB	to
+EXS	do
+AND	anything
+REL	for
+PRO	me
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXS	hoping
+SUB	to
+EXS	get
+QUC	two
+CON	copies
+AND	of
+PRX	this
+CON	book
+NIL	.

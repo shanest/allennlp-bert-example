@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+PRX	this
+CON	movie
+DIS	a
+INT	very
+IST	long
+CON	time
+PST	ago
+NIL	.

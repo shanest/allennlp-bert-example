@@ -1,0 +1,10 @@
+PER	Tom
+EPS	said
+PRO	he
+EPS	wanted
+SUB	to
+EXS	be
+IST	there
+REL	before
+CLO	2:30
+NIL	.

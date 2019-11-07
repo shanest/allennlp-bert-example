@@ -1,0 +1,13 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	contact
+PRO	him
+NIL	.
+NOW	Do
+PRO	you
+EXS	know
+HAS	his
+CON	phone
+CON	number
+QUE	?

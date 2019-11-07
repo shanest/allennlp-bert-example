@@ -1,0 +1,10 @@
+PRO	I
+FUT	'd
+EXS	hate
+NIL	to
+EXS	be
+REL	in
+PER	Tom
+HAS	's
+CON	shoes
+NIL	.

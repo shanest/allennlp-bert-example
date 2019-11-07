@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	interesting
+SUB	that
+NOT	no
+CON	one
+EPS	noticed
+SUB	that
+CON	mistake
+NIL	.

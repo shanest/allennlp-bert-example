@@ -1,0 +1,17 @@
+PER	Tom
+ENS	loves
+EXS	coming
+PRX	here
+SUB	since
+PRO	he
+ENS	thinks
+PRX	this
+CON	place
+NOW	serves
+DEF	the
+XCL	only
+IST	fast
+CON	food
+IST	worth
+EXS	eating
+NIL	.

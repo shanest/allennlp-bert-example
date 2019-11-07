@@ -1,0 +1,9 @@
+PRO	She
+PST	was
+EXS	absent
+IST	simply
+SUB	because
+PRO	she
+EPS	caught
+IST	cold
+NIL	.

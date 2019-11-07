@@ -1,0 +1,12 @@
+PRO	He
+NOW	is
+DEF	the
+CON	boy
+AND	of
+UNK	whom
+PRO	we
+EPS	spoke
+DEF	the
+ALT	other
+CON	day
+NIL	.

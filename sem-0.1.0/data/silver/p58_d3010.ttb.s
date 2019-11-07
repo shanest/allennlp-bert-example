@@ -1,0 +1,11 @@
+PRO	He
+IST	never
+ENS	listens
+REL	to
+QUE	what
+PRO	I
+NOW	am
+EXS	trying
+SUB	to
+EXS	say
+NIL	.

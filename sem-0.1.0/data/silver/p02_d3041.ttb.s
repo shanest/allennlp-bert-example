@@ -1,0 +1,9 @@
+PRO	I
+ENS	consider
+PRO	you
+QUC	one
+AND	of
+HAS	my
+TOP	closest
+CON	friends
+NIL	.

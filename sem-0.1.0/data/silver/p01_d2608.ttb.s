@@ -1,0 +1,13 @@
+PER	Tom
+ENS	walks
+HAS	his
+CON	dog
+AND	every
+CON	afternoon
+AND	as
+IST	soon
+SUB	as
+PRO	he
+ENS	gets
+CON	home
+NIL	.

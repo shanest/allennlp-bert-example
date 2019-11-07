@@ -1,0 +1,13 @@
+DIS	Some
+CON	men
+NOW	make
+DEF	the
+CON	mistake
+AND	of
+EXG	naming
+HAS	their
+CON	boats
+REL	after
+HAS	their
+CON	girlfriends
+NIL	.

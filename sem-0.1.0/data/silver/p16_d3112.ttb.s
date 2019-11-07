@@ -1,0 +1,12 @@
+PRO	You
+IST	really
+NEC	should
+EXT	've
+PFT	been
+IST	more
+EXS	clear
+AND	about
+QUE	what
+PRO	you
+EPS	wanted
+NIL	.

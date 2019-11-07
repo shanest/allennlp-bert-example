@@ -1,0 +1,16 @@
+NIL	"
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+EXS	broken
+IST	up
+NIL	.
+NIL	"
+NIL	"
+DST	That
+HAS	's
+IST	ancient
+CON	history
+NIL	.
+NIL	"

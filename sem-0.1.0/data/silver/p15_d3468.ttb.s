@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+AND	about
+SUB	to
+EXS	leave
+SUB	when
+PER	John
+EPS	arrived
+NIL	.

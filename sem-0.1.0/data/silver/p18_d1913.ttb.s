@@ -1,0 +1,12 @@
+PRX	This
+CON	problem
+NOW	is
+INT	too
+EXS	difficult
+REL	for
+IST	primary
+CON	school
+CON	children
+SUB	to
+EXS	solve
+NIL	.

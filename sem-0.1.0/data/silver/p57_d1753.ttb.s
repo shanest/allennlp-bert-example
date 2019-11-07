@@ -1,0 +1,14 @@
+REL	In
+CON	summer
+PRO	it
+NOW	is
+EXS	essential
+SUB	to
+EXS	drink
+CON	lots
+AND	of
+CON	water
+SUB	when
+PRO	we
+CON	sweat
+NIL	.

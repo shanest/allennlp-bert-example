@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	what
+HAS	's
+PFT	been
+EXS	happening
+PRX	here
+NIL	.

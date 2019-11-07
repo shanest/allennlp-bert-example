@@ -1,0 +1,10 @@
+PRO	He
+ENS	comes
+SUB	to
+EXS	visit
+PRO	us
+AND	every
+NOW	now
+AND	and
+IST	then
+NIL	.

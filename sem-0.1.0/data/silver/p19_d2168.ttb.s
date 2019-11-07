@@ -1,0 +1,17 @@
+NOT	Not
+AND	just
+HAS	'
+CON	child
+HAS	's
+CON	independence
+HAS	'
+NIL	.
+CON	Parents
+NEC	must
+ALT	also
+EXS	become
+IST	independent
+AND	of
+HAS	their
+CON	children
+NIL	.

@@ -1,0 +1,16 @@
+PRO	You
+NOW	do
+NOT	n't
+NEC	have
+SUB	to
+EXS	tell
+PRO	it
+REL	to
+PRO	me
+IMP	if
+PRO	you
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+NIL	.

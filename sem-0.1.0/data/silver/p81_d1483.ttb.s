@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+EXS	spending
+INT	too
+QUC	much
+CON	time
+REL	on
+DEF	the
+CON	computer
+NIL	.

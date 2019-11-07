@@ -1,0 +1,9 @@
+PRO	It
+ENS	seems
+SUB	that
+PER	Tom
+NOW	is
+NOT	not
+DIS	a
+CON	man
+NIL	.

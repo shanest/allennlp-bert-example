@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+EXS	accustomed
+SUB	to
+EXS	calling
+IST	up
+CON	girls
+REL	on
+DEF	the
+CON	telephone
+NIL	.

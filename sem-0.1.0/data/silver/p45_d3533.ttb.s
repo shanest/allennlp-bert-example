@@ -1,0 +1,10 @@
+PER	Faith
+NOW	is
+EXS	believing
+QUE	what
+PRO	you
+ENS	know
+POS	ai
+NOT	n't
+EXS	true
+NIL	.

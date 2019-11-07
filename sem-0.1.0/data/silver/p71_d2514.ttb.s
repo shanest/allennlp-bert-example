@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+INT	very
+EXS	unlikely
+SUB	that
+PER	Tom
+EPS	wrote
+PRX	this
+CON	report
+NIL	.

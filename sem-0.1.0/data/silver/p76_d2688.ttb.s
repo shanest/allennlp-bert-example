@@ -1,0 +1,13 @@
+PRO	She
+EPS	asked
+PRO	him
+SUB	to
+EXS	call
+HAS	her
+IST	later
+NIL	,
+BUT	but
+PRO	he
+EPS	forgot
+SUB	to
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+PST	was
+EXS	compelled
+SUB	to
+EXS	do
+PRX	this
+REL	against
+HAS	my
+FUT	will
+NIL	.

@@ -1,0 +1,10 @@
+PRO	She
+IST	still
+EPS	hated
+PRO	him
+NIL	,
+AND	even
+SUB	after
+PRO	he
+EPS	died
+NIL	.

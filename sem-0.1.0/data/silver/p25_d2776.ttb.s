@@ -1,0 +1,9 @@
+PRO	I
+EXS	like
+QUE	what
+PRO	I
+NOW	've
+EXS	seen
+AND	so
+IST	far
+NIL	.

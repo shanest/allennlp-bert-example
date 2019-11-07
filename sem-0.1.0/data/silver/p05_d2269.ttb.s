@@ -1,0 +1,15 @@
+PRO	I
+POS	may
+EXT	have
+EXS	met
+PRO	him
+DIS	somewhere
+REL	before
+NIL	,
+BUT	but
+PRO	I
+POS	ca
+NOT	n't
+EXS	recall
+SUB	where
+NIL	.

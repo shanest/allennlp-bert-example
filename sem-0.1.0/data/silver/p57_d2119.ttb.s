@@ -1,0 +1,9 @@
+QUE	What
+NOW	have
+PRO	you
+PST	got
+UNK	there
+REL	in
+HAS	your
+CON	pocket
+QUE	?

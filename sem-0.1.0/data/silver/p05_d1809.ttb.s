@@ -1,0 +1,10 @@
+PRO	She
+NOW	is
+NOT	no
+LES	less
+IST	beautiful
+AND	than
+HAS	her
+MOR	older
+ROL	sister
+NIL	.

@@ -1,0 +1,10 @@
+SUB	Who
+ENS	speaks
+HAS	your
+CON	language
+COM	better
+NIL	,
+CON	men
+DIS	or
+CON	women
+QUE	?

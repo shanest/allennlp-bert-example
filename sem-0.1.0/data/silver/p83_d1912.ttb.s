@@ -1,0 +1,15 @@
+PER	Tom
+EPS	saw
+PER	Mary
+EXG	standing
+REL	by
+DEF	the
+CON	fireplace
+COO	and
+EPS	went
+IST	over
+SUB	to
+EXS	talk
+REL	to
+PRO	her
+NIL	.

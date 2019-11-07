@@ -1,0 +1,10 @@
+PRO	He
+EPS	smiled
+REL	at
+PRO	me
+COO	and
+EPS	got
+REL	on
+DEF	the
+CON	train
+NIL	.

@@ -1,0 +1,9 @@
+ROL	Mr.
+PER	Yamada
+ENS	lives
+REL	in
+DEF	the
+CON	suburbs
+AND	of
+GPE	Tokyo
+NIL	.

@@ -1,0 +1,10 @@
+PRO	It
+EPS	looked
+AND	like
+PER	Tom
+PST	was
+EXS	getting
+IST	ready
+SUB	to
+EXS	leave
+NIL	.

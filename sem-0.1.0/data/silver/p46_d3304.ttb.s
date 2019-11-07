@@ -1,0 +1,12 @@
+EXS	Let
+HAS	's
+EXS	see
+QUE	how
+DEF	the
+CON	negotiations
+CON	pan
+AND	out
+SUB	before
+PRO	we
+ENS	decide
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PRO	I
+IST	just
+EPS	wanted
+SUB	to
+EXS	help
+NIL	.

@@ -1,0 +1,9 @@
+HAS	My
+ROL	sister
+NOW	takes
+CON	piano
+CON	lessons
+QUC	twice
+DIS	a
+CON	week
+NIL	.

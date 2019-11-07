@@ -1,0 +1,13 @@
+PER	Tom
+EPS	pretended
+NOT	not
+SUB	to
+EXS	know
+QUE	how
+SUB	to
+EXS	get
+REL	to
+PER	Mary
+HAS	's
+CON	school
+NIL	.

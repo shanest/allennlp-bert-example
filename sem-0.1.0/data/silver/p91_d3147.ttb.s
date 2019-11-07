@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+NOW	now
+EXS	married
+REL	to
+PER	John
+HAS	's
+PST	ex
+ROL	wife
+NIL	.

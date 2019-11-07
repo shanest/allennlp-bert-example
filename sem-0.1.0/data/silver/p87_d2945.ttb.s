@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+EXS	having
+CON	trouble
+EXS	dealing
+REL	with
+HAS	his
+CON	son
+HAS	's
+CON	suicide
+NIL	.

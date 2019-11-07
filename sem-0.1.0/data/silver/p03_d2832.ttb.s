@@ -1,0 +1,9 @@
+PER	Tom
+IST	often
+CON	munches
+REL	on
+CON	snacks
+SUB	while
+EXG	watching
+CON	TV
+NIL	.

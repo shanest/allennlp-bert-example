@@ -1,0 +1,11 @@
+PRO	He
+EPS	committed
+CON	suicide
+REL	by
+EXG	jumping
+IST	out
+AND	of
+DIS	a
+IST	high
+CON	window
+NIL	.

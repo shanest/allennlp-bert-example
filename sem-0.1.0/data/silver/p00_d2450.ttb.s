@@ -1,0 +1,9 @@
+PRO	We
+FUT	'll
+EXS	go
+REL	on
+DIS	a
+CON	picnic
+AND	next
+DOW	Sunday
+NIL	.

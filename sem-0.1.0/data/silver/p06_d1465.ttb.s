@@ -1,0 +1,9 @@
+PRO	He
+EPS	wanted
+SUB	to
+EXS	absent
+REF	himself
+REL	from
+DEF	the
+CON	class
+NIL	.

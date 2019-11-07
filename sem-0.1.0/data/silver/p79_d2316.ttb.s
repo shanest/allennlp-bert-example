@@ -1,0 +1,9 @@
+PRO	I
+EPS	forgot
+QUE	how
+IST	good
+PRO	you
+PST	were
+REL	at
+CON	golf
+NIL	.

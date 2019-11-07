@@ -1,0 +1,10 @@
+PRO	She
+EPS	asked
+PER	Bob
+SUB	to
+EXS	teach
+PRO	her
+QUE	how
+SUB	to
+EXS	ski
+NIL	.

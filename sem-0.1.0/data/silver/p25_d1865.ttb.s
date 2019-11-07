@@ -1,0 +1,11 @@
+PER	Tom
+EPS	put
+IST	down
+HAS	his
+CON	spoon
+COO	and
+EPS	picked
+IST	up
+DIS	a
+CON	fork
+NIL	.

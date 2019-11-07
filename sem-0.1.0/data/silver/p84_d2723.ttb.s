@@ -1,0 +1,10 @@
+PRO	I
+ENS	wish
+PRO	I
+PST	was
+IST	able
+SUB	to
+EXS	tell
+DEF	the
+CON	difference
+NIL	.

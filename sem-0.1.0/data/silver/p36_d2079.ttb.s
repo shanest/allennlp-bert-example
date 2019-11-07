@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	getting
+EXS	tired
+AND	of
+EXS	driving
+REL	on
+PRX	this
+IST	winding
+CON	road
+NIL	.

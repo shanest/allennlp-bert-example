@@ -1,0 +1,9 @@
+PRO	We
+EPS	adjourned
+DEF	the
+CON	meeting
+REL	until
+DEF	the
+IST	following
+DOW	Friday
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NEC	should
+NOT	n't
+EXT	have
+EXS	brought
+PRX	this
+IST	up
+NIL	.
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	.

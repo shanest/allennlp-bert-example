@@ -1,0 +1,10 @@
+CON	Lack
+AND	of
+CON	food
+PST	had
+EXS	left
+PRO	him
+IST	weak
+AND	and
+EXS	exhausted
+NIL	.

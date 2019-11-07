@@ -1,0 +1,11 @@
+PRO	He
+EPS	paid
+DIS	an
+IST	eternal
+CON	life
+REL	for
+AND	each
+QUC	one
+AND	of
+PRO	us
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+IST	warm
+NOW	today
+SUB	so
+PRO	you
+POS	can
+EXS	swim
+REL	in
+DEF	the
+CON	sea
+NIL	.

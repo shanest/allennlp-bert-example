@@ -1,0 +1,15 @@
+EXS	Inspired
+REL	by
+HAS	her
+CON	teachers
+NIL	,
+PER	Pharamp
+NOW	is
+EXS	going
+SUB	to
+EXS	start
+HAS	her
+IST	solar
+CON	career
+FUT	tomorrow
+NIL	.

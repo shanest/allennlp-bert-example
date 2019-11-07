@@ -1,0 +1,9 @@
+PRO	You
+NEC	should
+EXS	take
+EXS	care
+AND	of
+HAS	your
+IST	sick
+ROL	mother
+NIL	.

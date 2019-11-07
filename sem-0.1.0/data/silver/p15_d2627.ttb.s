@@ -1,0 +1,10 @@
+PRO	He
+NOW	has
+QUC	two
+CON	aunts
+REL	on
+HAS	his
+ROL	mother
+HAS	's
+CON	side
+NIL	.

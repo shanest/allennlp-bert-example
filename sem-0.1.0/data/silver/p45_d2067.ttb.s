@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+IST	legal
+REL	for
+CON	citizens
+SUB	to
+EXS	carry
+CON	guns
+REL	in
+QUV	many
+CON	states
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tides
+NOW	are
+EXS	caused
+REL	by
+DEF	the
+CON	moon
+HAS	's
+CON	gravity
+NIL	.

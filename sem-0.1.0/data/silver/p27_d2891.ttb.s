@@ -1,0 +1,9 @@
+NIL	There
+PST	was
+DIS	a
+CON	bus
+CON	schedule
+REL	on
+DEF	the
+CON	wall
+NIL	.

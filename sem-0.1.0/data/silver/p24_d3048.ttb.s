@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+PRX	this
+NOW	does
+NOT	n't
+EXS	make
+QUV	much
+CON	sense
+NIL	.

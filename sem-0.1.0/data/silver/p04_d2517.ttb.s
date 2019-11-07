@@ -1,0 +1,11 @@
+PRO	She
+PST	was
+NIL	fatter
+QUC	ten
+CON	years
+REL	ago
+AND	than
+PRO	she
+NOW	is
+NOW	now
+NIL	.

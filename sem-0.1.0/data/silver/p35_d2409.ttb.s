@@ -1,0 +1,15 @@
+QUE	What
+QUE	?
+PRO	You
+EPS	played
+REL	with
+PER	Jim
+QUE	?
+ITJ	Eww
+NIL	,
+PRO	you
+NOW	're
+FUT	gonna
+EXS	get
+CON	cooties
+NIL	.

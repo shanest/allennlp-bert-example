@@ -1,0 +1,11 @@
+PER	Tom
+EPS	decided
+SUB	to
+EXS	sell
+QUC	one
+AND	of
+HAS	his
+CON	cars
+REL	to
+PER	Mary
+NIL	.

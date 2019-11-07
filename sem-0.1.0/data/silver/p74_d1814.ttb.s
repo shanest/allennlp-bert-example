@@ -1,0 +1,9 @@
+PER	Tom
+EPS	said
+PRO	he
+PST	was
+EXS	going
+SUB	to
+EXS	kill
+PER	Mary
+NIL	.

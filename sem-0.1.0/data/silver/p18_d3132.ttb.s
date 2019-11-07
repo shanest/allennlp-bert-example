@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+IST	ever
+EXS	been
+REL	on
+DIS	a
+CON	cruise
+CON	ship
+QUE	?

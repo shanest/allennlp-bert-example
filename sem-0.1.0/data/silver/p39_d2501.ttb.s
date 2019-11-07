@@ -1,0 +1,9 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	talk
+AND	about
+PRO	it
+NOW	now
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+EPS	started
+SUB	to
+EXS	show
+DIS	an
+CON	interest
+REL	in
+PER	Mary
+NIL	.

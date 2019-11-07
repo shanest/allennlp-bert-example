@@ -1,0 +1,14 @@
+PRO	I
+ENS	know
+QUE	what
+PRO	I
+ENS	want
+NIL	.
+PRO	I
+IST	just
+NOW	have
+NOT	n't
+EXS	found
+PRO	it
+ALT	yet
+NIL	.

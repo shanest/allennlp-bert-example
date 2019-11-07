@@ -1,0 +1,12 @@
+PRO	He
+NOW	is
+NOT	not
+IST	so
+QUV	much
+DIS	a
+CON	scholar
+AND	as
+DIS	a
+CON	TV
+CON	personality
+NIL	.

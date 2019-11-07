@@ -1,0 +1,10 @@
+DEF	The
+CON	ship
+EPS	stopped
+DIS	a
+IST	little
+CON	way
+REL	off
+DEF	the
+CON	shore
+NIL	.

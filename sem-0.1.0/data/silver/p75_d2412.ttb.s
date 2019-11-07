@@ -1,0 +1,13 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	understand
+IMP	if
+PRO	I
+NOW	'm
+IST	afraid
+DIS	or
+IST	happy
+SUB	to
+EXS	go
+NIL	!

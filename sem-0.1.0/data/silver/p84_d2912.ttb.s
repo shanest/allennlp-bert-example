@@ -1,0 +1,14 @@
+HAS	My
+ROL	grandfather
+REL	on
+HAS	my
+CON	father
+HAS	's
+CON	side
+NOW	is
+EXG	celebrating
+HAS	his
+IST	88th
+CON	birthday
+FUT	tomorrow
+NIL	.

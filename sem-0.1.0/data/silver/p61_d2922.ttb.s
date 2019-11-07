@@ -1,0 +1,9 @@
+AND	Why
+PST	did
+NOT	n't
+IST	modern
+CON	technology
+EXS	develop
+REL	in
+GPE	China
+QUE	?

@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+DEF	the
+CON	man
+ENS	goes
+REL	to
+HAS	his
+CON	house
+NIL	.

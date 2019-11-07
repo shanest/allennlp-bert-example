@@ -1,0 +1,11 @@
+PER	Sabrina
+EPS	slipped
+COO	and
+EPS	spilled
+CON	coffee
+AND	all
+AND	over
+PER	Mary
+HAS	's
+CON	dress
+NIL	.

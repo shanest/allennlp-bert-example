@@ -1,0 +1,9 @@
+QUE	Who
+ENS	's
+SUB	that
+REL	in
+DEF	the
+CON	corner
+AND	over
+IST	there
+QUE	?

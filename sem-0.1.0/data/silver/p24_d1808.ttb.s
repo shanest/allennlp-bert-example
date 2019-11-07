@@ -1,0 +1,11 @@
+PRO	She
+PST	had
+EXS	forgotten
+HAS	her
+CON	umbrella
+SUB	so
+PRO	I
+EPS	lent
+PRO	her
+HAS	mine
+NIL	.

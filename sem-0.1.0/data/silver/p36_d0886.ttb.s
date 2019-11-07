@@ -1,0 +1,12 @@
+GEO	Lake
+GEO	Baikal
+REL	in
+GPE	Russia
+NOW	is
+DEF	the
+TOP	deepest
+CON	lake
+REL	in
+DEF	the
+CON	world
+NIL	.

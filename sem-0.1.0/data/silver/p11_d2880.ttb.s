@@ -1,0 +1,13 @@
+PRO	You
+ENS	seem
+SUB	to
+EXT	have
+EXS	made
+IST	considerable
+CON	progress
+SUB	since
+PRO	I
+EPS	saw
+PRO	you
+IST	last
+NIL	.

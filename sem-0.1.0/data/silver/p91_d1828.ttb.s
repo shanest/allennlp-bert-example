@@ -1,0 +1,10 @@
+PRO	He
+ENS	owes
+QUC	much
+AND	of
+HAS	his
+CON	success
+REL	to
+HAS	his
+CON	wife
+NIL	.

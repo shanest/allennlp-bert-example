@@ -1,0 +1,9 @@
+NIL	There
+NOW	are
+INT	very
+IST	few
+CON	passengers
+REL	in
+DEF	the
+CON	train
+NIL	.

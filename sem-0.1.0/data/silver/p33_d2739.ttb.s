@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	true
+SUB	that
+PRO	he
+NOW	is
+EXS	good
+REL	at
+EXS	playing
+CON	golf
+NIL	.

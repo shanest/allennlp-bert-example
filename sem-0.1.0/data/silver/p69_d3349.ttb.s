@@ -1,0 +1,10 @@
+HAS	His
+CON	humanness
+NOW	is
+NOT	not
+SUB	to
+EXS	be
+AND	compared
+REL	with
+HAS	yours
+NIL	.

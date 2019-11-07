@@ -1,0 +1,11 @@
+DEF	The
+IST	old
+CON	man
+EPS	freed
+DEF	the
+IST	little
+CON	fox
+REL	from
+DEF	the
+CON	trap
+NIL	.

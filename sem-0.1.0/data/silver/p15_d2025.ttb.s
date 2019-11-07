@@ -1,0 +1,14 @@
+PRO	They
+AND	all
+EPS	called
+PRO	him
+PER	Penguin
+NIL	,
+AND	due
+REL	to
+PRO	him
+EXS	being
+IST	short
+AND	and
+CON	fat
+NIL	.

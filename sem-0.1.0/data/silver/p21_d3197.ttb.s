@@ -1,0 +1,13 @@
+PRO	It
+NOW	is
+IST	entirely
+IST	up
+REL	to
+PRO	him
+SUB	whether
+PRO	he
+NOW	does
+PRO	it
+DIS	or
+NOT	not
+NIL	.

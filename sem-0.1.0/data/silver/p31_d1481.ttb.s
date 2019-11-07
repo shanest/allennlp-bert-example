@@ -1,0 +1,14 @@
+PER	Tom
+NEC	should
+EXT	have
+EXS	done
+PRO	it
+DEF	the
+CON	way
+PER	Mary
+EPS	told
+PRO	him
+SUB	to
+EXS	do
+PRO	it
+NIL	.

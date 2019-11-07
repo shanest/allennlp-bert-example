@@ -1,0 +1,14 @@
+GEO	North
+GPE	China
+NOW	is
+IST	cold
+REL	in
+CON	spring
+NIL	,
+AND	so
+CON	flowers
+NOW	do
+NOT	n't
+EXS	bloom
+IST	outdoors
+NIL	.

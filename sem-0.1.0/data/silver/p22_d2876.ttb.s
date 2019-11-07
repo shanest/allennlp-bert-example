@@ -1,0 +1,12 @@
+PER	Tom
+EPS	drew
+DIS	a
+IST	happy
+CON	face
+REL	on
+DEF	the
+CON	cover
+AND	of
+HAS	his
+CON	notebook
+NIL	.

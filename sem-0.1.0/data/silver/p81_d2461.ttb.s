@@ -1,0 +1,10 @@
+HAS	My
+ROL	sister
+FUT	will
+EXS	be
+QUC	thirteen
+CON	years
+COM	old
+AND	next
+CON	summer
+NIL	.

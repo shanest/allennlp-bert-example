@@ -1,0 +1,12 @@
+NIL	"
+PRO	She
+ENS	likes
+CON	music
+NIL	.
+NIL	"
+NIL	"
+PRO	So
+NOW	do
+PRO	I
+NIL	.
+NIL	"

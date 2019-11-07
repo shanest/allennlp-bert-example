@@ -1,0 +1,9 @@
+PRO	We
+NOW	're
+EXS	going
+SUB	to
+EXS	get
+EXS	married
+PRX	this
+CON	summer
+NIL	.

@@ -1,0 +1,12 @@
+PRO	We
+POS	can
+EXS	survive
+NOT	without
+CON	food
+NIL	...
+AND	just
+NOT	not
+REL	for
+INT	too
+IST	long
+NIL	.

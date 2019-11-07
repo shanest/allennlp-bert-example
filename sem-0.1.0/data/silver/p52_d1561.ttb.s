@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+EPS	put
+HAS	your
+CON	mind
+REL	into
+HAS	your
+CON	foot
+NIL	,
+PRO	it
+NOW	becomes
+DEF	the
+CON	foot
+NIL	.

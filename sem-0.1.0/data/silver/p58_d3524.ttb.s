@@ -1,0 +1,14 @@
+REL	In
+DEF	the
+CON	absence
+AND	of
+HAS	my
+CON	travel
+CON	partner
+NIL	,
+PRO	I
+EPS	took
+QUV	several
+CON	solo
+CON	trips
+NIL	.

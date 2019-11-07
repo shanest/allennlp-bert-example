@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+DIS	a
+IST	good
+ROL	lawyer
+AND	who
+POS	can
+EXS	help
+PRO	you
+NIL	.

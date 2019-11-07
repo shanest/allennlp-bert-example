@@ -1,0 +1,15 @@
+PRX	This
+NOW	is
+DEF	the
+IST	first
+CON	time
+PRO	I
+NOW	've
+IST	ever
+EXS	had
+DIS	a
+CON	nap
+REL	in
+DEF	the
+CON	classroom
+NIL	.

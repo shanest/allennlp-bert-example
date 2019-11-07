@@ -1,0 +1,10 @@
+AND	Generally
+EXS	speaking
+NIL	,
+DEF	the
+CON	climate
+AND	of
+GPE	Japan
+NOW	is
+EXS	mild
+NIL	.

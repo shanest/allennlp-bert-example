@@ -1,0 +1,10 @@
+DEF	The
+CON	news
+AND	of
+DEF	the
+CON	accident
+PST	was
+XCL	only
+INT	too
+CON	true
+NIL	.

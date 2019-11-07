@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+EXS	go
+IST	away
+NIL	.
+PRO	You
+NOW	're
+NOT	not
+EXG	bothering
+PRO	us
+NIL	.

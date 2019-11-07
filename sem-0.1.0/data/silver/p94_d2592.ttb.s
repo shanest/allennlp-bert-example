@@ -1,0 +1,12 @@
+PRO	She
+EPS	took
+DIS	an
+IST	active
+CON	part
+REL	in
+DEF	the
+CON	women
+HAS	's
+CON	lib
+CON	movement
+NIL	.

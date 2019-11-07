@@ -1,0 +1,9 @@
+PRO	She
+NOW	is
+EXS	getting
+COM	worse
+AND	and
+COM	worse
+AND	every
+CON	day
+NIL	.

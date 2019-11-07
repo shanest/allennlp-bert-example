@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	good
+SUB	to
+EXS	be
+CON	kind
+REL	to
+IST	old
+CON	people
+NIL	.

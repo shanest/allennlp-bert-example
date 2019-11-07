@@ -1,0 +1,10 @@
+NOW	Do
+NOT	n't
+EXS	worry
+NIL	.
+PRO	I
+FUT	'll
+EXS	talk
+REL	to
+PER	Tom
+NIL	.

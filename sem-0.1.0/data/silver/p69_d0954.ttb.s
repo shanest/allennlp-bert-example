@@ -1,0 +1,15 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	how
+SUB	to
+EXS	demonstrate
+PRO	it
+NIL	,
+SUB	since
+PRO	it
+NOW	's
+INT	too
+EXS	obvious
+NIL	!

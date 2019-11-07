@@ -1,0 +1,14 @@
+REL	For
+PRO	him
+NIL	,
+PRO	it
+AND	always
+ENS	goes
+REL	in
+QUC	one
+CON	ear
+AND	and
+AND	out
+DEF	the
+ALT	other
+NIL	.

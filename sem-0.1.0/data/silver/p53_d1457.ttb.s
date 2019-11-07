@@ -1,0 +1,12 @@
+PRO	We
+NOW	have
+NOT	not
+PFT	been
+IST	able
+SUB	to
+EXS	contact
+DIS	anyone
+REL	on
+HAS	our
+CON	list
+NIL	.

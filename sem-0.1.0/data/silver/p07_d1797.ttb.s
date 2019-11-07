@@ -1,0 +1,14 @@
+PER	Mary
+EPS	made
+DIS	a
+IST	cute
+CON	snowman
+AND	out
+AND	of
+CON	styrofoam
+CON	balls
+AND	and
+DIS	an
+IST	old
+CON	sock
+NIL	.

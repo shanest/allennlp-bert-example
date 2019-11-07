@@ -1,0 +1,10 @@
+UNK	There
+NOW	is
+IST	little
+CON	hope
+AND	of
+HAS	his
+EXG	winning
+DEF	the
+CON	election
+NIL	.

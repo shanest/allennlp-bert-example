@@ -1,0 +1,13 @@
+PER	Tom
+EPS	took
+HAS	his
+CON	glasses
+IST	off
+COO	and
+EPS	put
+PRO	the
+REL	on
+DEF	the
+CON	bedside
+CON	table
+NIL	.

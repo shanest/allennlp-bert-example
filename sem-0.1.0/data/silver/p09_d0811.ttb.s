@@ -1,0 +1,12 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	go
+REL	with
+PRO	you
+SUB	because
+PRO	I
+NOW	'm
+INT	very
+IST	busy
+NIL	.

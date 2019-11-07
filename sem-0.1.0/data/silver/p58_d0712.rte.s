@@ -1,0 +1,13 @@
+DIS	A
+CON	bomb
+CON	attack
+EPS	took
+CON	place
+REL	near
+DEF	the
+CON	Shepherd
+HAS	's
+PER	Bush
+CON	subway
+CON	station
+NIL	.

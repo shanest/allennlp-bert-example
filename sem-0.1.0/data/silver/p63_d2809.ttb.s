@@ -1,0 +1,12 @@
+ROL	Thieves
+EPS	broke
+REL	into
+DEF	the
+CON	palace
+COO	and
+EPS	stole
+DEF	the
+ROL	princess
+HAS	's
+CON	diamonds
+NIL	.

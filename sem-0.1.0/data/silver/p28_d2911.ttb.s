@@ -1,0 +1,10 @@
+PER	Tom
+EPS	wanted
+SUB	to
+EXS	know
+MOR	more
+AND	about
+PER	Mary
+HAS	's
+CON	family
+NIL	.

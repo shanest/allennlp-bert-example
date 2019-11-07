@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+CON	man
+AND	who
+PRO	they
+NOW	say
+EPS	stole
+DEF	the
+CON	car
+NIL	.

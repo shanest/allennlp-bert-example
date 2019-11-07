@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	gotten
+REL	on
+DIS	a
+CON	plane
+ALT	yet
+NIL	.

@@ -1,0 +1,14 @@
+DEF	The
+CON	mouse
+PST	was
+EXS	lured
+REL	into
+DEF	the
+CON	trap
+REL	by
+DIS	a
+IST	big
+CON	piece
+AND	of
+CON	cheese
+NIL	.

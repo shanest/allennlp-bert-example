@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+FUT	will
+EXS	play
+CON	tennis
+FUT	tomorrow
+CON	afternoon
+NIL	.

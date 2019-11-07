@@ -1,0 +1,10 @@
+DEF	The
+CON	power
+NOW	has
+PFT	been
+EXS	cut
+REL	off
+REL	since
+PRX	this
+CON	morning
+NIL	.

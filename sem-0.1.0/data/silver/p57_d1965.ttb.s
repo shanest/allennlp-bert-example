@@ -1,0 +1,17 @@
+INT	About
+QUC	65
+UOM	%
+AND	of
+GPO	American
+CON	adults
+NOW	are
+EXS	overweight
+NIL	,
+UNK	which
+NOW	is
+NOT	n't
+EXS	good
+REL	for
+HAS	their
+CON	health
+NIL	.

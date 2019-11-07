@@ -1,0 +1,11 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	he
+PST	had
+PRG	been
+EXS	abducted
+REL	by
+CON	aliens
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+ROL	burglar
+EPS	shut
+DEF	the
+CON	child
+REL	in
+DEF	the
+CON	closet
+NIL	.

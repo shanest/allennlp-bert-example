@@ -1,0 +1,13 @@
+PRO	I
+FUT	will
+EXS	tell
+PRO	you
+QUE	what
+CON	love
+NOW	is
+NIL	.
+PRO	It
+NOW	's
+INT	very
+EXS	embarrassing
+NIL	.

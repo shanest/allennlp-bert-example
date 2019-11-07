@@ -1,0 +1,14 @@
+PER	Mary
+HAS	's
+TOP	biggest
+CON	disappointment
+REL	in
+CON	life
+NOW	is
+NOT	not
+EXS	being
+IST	able
+SUB	to
+EXS	have
+CON	children
+NIL	.

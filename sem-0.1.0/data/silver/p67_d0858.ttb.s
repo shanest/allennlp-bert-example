@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+ENS	know
+SUB	whether
+DIS	or
+NOT	not
+PER	Grace
+NOW	is
+REL	at
+CON	home
+QUE	?

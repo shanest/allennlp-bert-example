@@ -1,0 +1,9 @@
+XCL	Only
+IST	high
+CON	officials
+PST	had
+EXS	access
+REL	to
+DEF	the
+ROL	President
+NIL	.

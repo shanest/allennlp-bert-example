@@ -1,0 +1,9 @@
+PER	Tom
+EPS	said
+PRO	he
+PST	did
+NOT	n't
+EXS	have
+DIS	a
+CON	choice
+NIL	.

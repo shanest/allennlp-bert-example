@@ -1,0 +1,10 @@
+PRO	He
+PST	had
+DEF	the
+CON	ambition
+SUB	to
+EXS	be
+DIS	a
+IST	great
+ROL	politician
+NIL	.

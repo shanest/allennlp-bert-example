@@ -1,0 +1,9 @@
+PRO	She
+EPS	showed
+PRO	me
+DIS	a
+CON	letter
+EXS	written
+REL	in
+GPO	English
+NIL	.

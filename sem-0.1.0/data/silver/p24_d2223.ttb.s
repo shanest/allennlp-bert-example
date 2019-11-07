@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+IST	human
+SUB	to
+EXS	make
+ENS	slips
+AND	and
+CON	mistakes
+REL	in
+CON	translation
+NIL	.

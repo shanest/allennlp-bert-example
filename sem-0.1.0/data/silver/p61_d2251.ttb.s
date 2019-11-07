@@ -1,0 +1,12 @@
+PRX	This
+CON	song
+NOW	sounds
+AND	like
+QUC	one
+PRO	I
+EPS	heard
+DIS	a
+IST	few
+CON	minutes
+PST	ago
+NIL	.

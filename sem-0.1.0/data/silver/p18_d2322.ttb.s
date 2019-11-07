@@ -1,0 +1,10 @@
+PRO	I
+IST	often
+EPS	fell
+NIL	,
+COO	but
+PRO	I
+NOT	never
+EPS	gave
+IST	up
+NIL	.

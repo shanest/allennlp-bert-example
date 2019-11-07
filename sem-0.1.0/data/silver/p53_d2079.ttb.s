@@ -1,0 +1,9 @@
+NOT	Nobody
+ENS	writes
+REL	in
+GPO	Russian
+CON	more
+MOR	than
+PRO	you
+NOW	do
+NIL	.

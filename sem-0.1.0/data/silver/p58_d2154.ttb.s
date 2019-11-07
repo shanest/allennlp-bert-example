@@ -1,0 +1,15 @@
+DEF	The
+GPO	German
+CON	athletes
+EPS	won
+QUC	four
+CON	gold
+CON	medals
+REL	at
+DEF	the
+IST	luge
+CON	world
+CON	championship
+REL	in
+GPE	Canada
+NIL	.

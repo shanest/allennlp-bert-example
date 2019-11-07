@@ -1,0 +1,13 @@
+PRO	They
+PST	were
+AND	all
+IST	so
+EXS	tired
+SUB	that
+PRO	they
+POS	could
+EXS	do
+NOT	nothing
+BUT	but
+EXS	yawn
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+EPS	met
+HAS	my
+CON	friend
+REL	in
+DEF	the
+CON	library
+AND	last
+CON	night
+NIL	.

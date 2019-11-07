@@ -1,0 +1,12 @@
+DEF	The
+CON	battle
+AND	of
+GEO	Waterloo
+PST	was
+DEF	the
+IST	last
+CON	battle
+AND	of
+PER	Napoleon
+PER	Bonaparte
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	planning
+DIS	a
+CON	birthday
+CON	party
+REL	for
+PER	Mary
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+HAS	's
+CON	father
+EPS	sold
+HAS	his
+CON	Buick
+COO	and
+EPS	bought
+DIS	a
+CON	Cadillac
+NIL	.

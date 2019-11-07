@@ -1,0 +1,12 @@
+UNK	There
+PST	were
+QUV	many
+AND	who
+POS	could
+NOT	n't
+EXS	recognize
+PRO	him
+REL	in
+DST	that
+CON	disguise
+NIL	.

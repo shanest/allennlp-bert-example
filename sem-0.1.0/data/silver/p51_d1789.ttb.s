@@ -1,0 +1,12 @@
+PER	Tom
+NOW	has
+EPS	devoted
+HAS	his
+CON	life
+REL	to
+DEF	the
+CON	movement
+AND	against
+IST	nuclear
+CON	energy
+NIL	.

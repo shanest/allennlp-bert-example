@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	pleased
+REL	with
+HAS	my
+IST	new
+CON	bathing
+CON	suit
+NIL	.

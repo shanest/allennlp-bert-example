@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+TOP	best
+SUB	to
+EXS	steer
+EXS	clear
+AND	of
+PRO	him
+NIL	.

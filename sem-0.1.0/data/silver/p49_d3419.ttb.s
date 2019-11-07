@@ -1,0 +1,13 @@
+PER	Lord
+NIL	,
+PRO	I
+NOW	wonder
+QUE	what
+CON	fool
+PRO	it
+EPS	was
+SUB	that
+IST	first
+PST	invented
+EXG	kissing
+NIL	.

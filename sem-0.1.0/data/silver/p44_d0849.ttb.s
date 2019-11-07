@@ -1,0 +1,10 @@
+PRO	She
+PST	was
+NOT	not
+IST	ashamed
+SUB	to
+EXS	ask
+PRO	me
+DIS	a
+CON	question
+NIL	.

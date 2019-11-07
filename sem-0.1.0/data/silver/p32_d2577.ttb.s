@@ -1,0 +1,10 @@
+DEF	The
+CON	company
+NOW	is
+INT	51
+UOM	%
+EPS	owned
+REL	by
+GPO	American
+CON	capital
+NIL	.

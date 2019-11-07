@@ -1,0 +1,9 @@
+AND	Could
+PRO	you
+EPS	put
+PRX	this
+CON	bag
+REL	in
+ALT	another
+CON	place
+QUE	?

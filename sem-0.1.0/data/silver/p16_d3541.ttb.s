@@ -1,0 +1,9 @@
+AND	Worse
+CON	things
+NOW	have
+EXS	happened
+REL	to
+AND	both
+AND	of
+PRO	us
+NIL	.

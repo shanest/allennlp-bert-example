@@ -1,0 +1,9 @@
+PRO	He
+EPS	came
+IST	back
+REL	at
+APX	about
+CLO	nine
+IST	last
+CON	night
+NIL	.

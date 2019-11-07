@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NEC	have
+SUB	to
+EXS	get
+HAS	their
+CON	car
+EPS	painted
+NIL	.

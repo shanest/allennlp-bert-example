@@ -1,0 +1,10 @@
+HAS	Her
+CON	wishes
+NIL	,
+PRO	it
+ENS	seems
+NIL	,
+NEC	have
+EXS	come
+EXS	true
+NIL	.

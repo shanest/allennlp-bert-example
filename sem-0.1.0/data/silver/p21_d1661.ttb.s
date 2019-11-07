@@ -1,0 +1,10 @@
+HAS	My
+NOW	guess
+NOW	is
+SUB	that
+PER	Tom
+NOW	is
+EXS	looking
+REL	for
+PRO	you
+NIL	.

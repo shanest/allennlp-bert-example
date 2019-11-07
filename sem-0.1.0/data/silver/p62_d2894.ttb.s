@@ -1,0 +1,13 @@
+PER	Tom
+EXS	spoiled
+DEF	the
+CON	movie
+REL	for
+PER	Mary
+REL	by
+EXS	telling
+HAS	her
+QUE	how
+PRO	it
+ENS	ends
+NIL	.

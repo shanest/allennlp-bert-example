@@ -1,0 +1,11 @@
+PRO	I
+PST	considered
+EXG	leaving
+CON	school
+NIL	,
+COO	but
+EPS	thought
+COM	better
+AND	of
+PRO	it
+NIL	.

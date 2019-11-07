@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+EXS	interesting
+SUB	to
+EXS	learn
+DIS	a
+IST	foreign
+CON	language
+NIL	.

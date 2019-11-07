@@ -1,0 +1,10 @@
+AND	Why
+NOW	do
+NOT	n't
+PRO	you
+EXS	spend
+DIS	some
+CON	time
+REL	with
+PER	Tom
+QUE	?

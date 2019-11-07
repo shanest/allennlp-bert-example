@@ -1,0 +1,10 @@
+PER	Tom
+PST	had
+IST	long
+CON	hair
+SUB	when
+PRO	I
+IST	first
+EPS	met
+PRO	him
+NIL	.

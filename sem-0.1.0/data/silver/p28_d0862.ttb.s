@@ -1,0 +1,12 @@
+IMP	If
+PRO	I
+EPS	saw
+PER	Anca
+NIL	,
+PRO	I
+FUT	would
+IST	probably
+NOT	not
+EXS	recognize
+PRO	her
+NIL	.

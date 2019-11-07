@@ -1,0 +1,11 @@
+DEF	“
+ORG	Yandex
+NIL	”
+CON	search
+CON	engine
+EPS	started
+EXS	supporting
+DEF	Tatar
+CON	language
+ALT	too
+NIL	.

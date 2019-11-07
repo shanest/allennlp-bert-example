@@ -1,0 +1,13 @@
+IMP	If
+DEF	the
+CON	text
+NOW	does
+NOT	n't
+EXS	make
+CON	sense
+NIL	,
+PRO	it
+NOW	is
+NOT	n't
+IST	coherent
+NIL	.

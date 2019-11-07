@@ -1,0 +1,9 @@
+DEF	The
+CON	girl
+EPS	kissed
+HAS	her
+ROL	father
+REL	on
+DEF	the
+CON	cheek
+NIL	.

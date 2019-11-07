@@ -1,0 +1,11 @@
+DEF	The
+CON	number
+AND	of
+CON	students
+EXS	going
+IST	overseas
+NOW	has
+PFT	been
+EXS	increasing
+IST	lately
+NIL	.

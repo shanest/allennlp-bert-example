@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+IST	quite
+UNK	difficult
+SUB	to
+EXS	master
+GPO	French
+REL	in
+QUC	2
+DIS	or
+QUC	3
+CON	years
+NIL	.

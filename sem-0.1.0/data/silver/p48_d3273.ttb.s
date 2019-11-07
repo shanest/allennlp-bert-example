@@ -1,0 +1,9 @@
+POS	Can
+PRO	you
+EXS	tell
+PRO	us
+QUE	what
+PRO	you
+NOW	're
+EXS	wearing
+QUE	?

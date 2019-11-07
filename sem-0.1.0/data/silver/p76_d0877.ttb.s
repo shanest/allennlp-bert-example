@@ -1,0 +1,16 @@
+QUE	What
+CON	children
+NIL	!
+PRO	You
+ENS	send
+PRO	them
+SUB	to
+EXS	get
+CON	candy
+COO	and
+PRO	they
+EXS	return
+REL	with
+DIS	a
+CON	dog
+NIL	!

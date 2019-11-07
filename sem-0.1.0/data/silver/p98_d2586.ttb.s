@@ -1,0 +1,13 @@
+PRO	You
+NOW	've
+EXS	got
+QUE	what
+PRO	it
+ENS	takes
+SUB	to
+EXS	do
+IST	well
+REL	in
+PRX	this
+CON	job
+NIL	.

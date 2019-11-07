@@ -1,0 +1,9 @@
+GEO	China
+NOW	is
+QUC	twenty
+CON	times
+AND	as
+IST	large
+AND	as
+GPE	Japan
+NIL	.

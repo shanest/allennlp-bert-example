@@ -1,0 +1,9 @@
+GPO	Germans
+NOW	have
+PFT	been
+EXS	warned
+NOT	not
+SUB	to
+EXS	eat
+CON	cucumbers
+NIL	.

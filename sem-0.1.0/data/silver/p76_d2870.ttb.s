@@ -1,0 +1,10 @@
+QUE	What
+FUT	will
+EXS	happen
+IMP	if
+UNK	there
+HAS	's
+CON	power
+CON	failure
+NOW	now
+QUE	?

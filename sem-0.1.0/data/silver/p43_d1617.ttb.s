@@ -1,0 +1,9 @@
+EXS	Let
+PRO	's
+EPS	put
+DEF	the
+CON	basses
+REL	on
+DEF	the
+CON	left
+NIL	.

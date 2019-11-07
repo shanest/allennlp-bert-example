@@ -1,0 +1,11 @@
+PRO	I
+ENS	think
+PRO	we
+NEC	should
+EXT	have
+PER	Tom
+NOW	do
+SUB	that
+REL	for
+PRO	us
+NIL	.

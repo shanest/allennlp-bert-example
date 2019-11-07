@@ -1,0 +1,9 @@
+PRX	This
+NOW	is
+IST	exactly
+QUE	what
+PRO	you
+EPS	said
+FUT	would
+EXS	happen
+NIL	.

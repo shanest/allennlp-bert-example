@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXS	going
+IST	out
+REL	with
+DIS	a
+GPO	Chinese
+CON	exchange
+CON	student
+NIL	.

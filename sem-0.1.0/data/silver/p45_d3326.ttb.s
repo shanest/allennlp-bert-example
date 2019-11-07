@@ -1,0 +1,10 @@
+HAS	Your
+CON	way
+AND	of
+CON	thinking
+NOW	is
+IST	quite
+EXS	distinct
+REL	from
+HAS	mine
+NIL	.

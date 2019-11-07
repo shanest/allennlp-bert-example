@@ -1,0 +1,10 @@
+REL	In
+AND	any
+CON	case
+NIL	,
+PRO	I
+NOW	have
+EXS	fulfilled
+HAS	my
+CON	duty
+NIL	.

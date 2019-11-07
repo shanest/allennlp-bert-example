@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+NOW	remember
+DEF	the
+CON	earthquake
+SUB	that
+EPS	struck
+GPE	Armenia
+REL	in
+CON	1988
+QUE	?

@@ -1,0 +1,14 @@
+PRO	He
+EPS	went
+REL	to
+GEO	Rome
+NIL	,
+SUB	where
+PRO	he
+EPS	saw
+DIS	a
+CON	lot
+AND	of
+IST	old
+CON	buildings
+NIL	.

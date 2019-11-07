@@ -1,0 +1,11 @@
+EXS	Let
+PRO	me
+EXS	know
+IMP	if
+PRO	you
+NOW	are
+REL	in
+CON	need
+AND	of
+AND	anything
+NIL	.

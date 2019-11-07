@@ -1,0 +1,11 @@
+PRO	I
+NOW	look
+IST	forward
+SUB	to
+EXG	hearing
+HAS	your
+CON	thoughts
+REL	on
+PRX	this
+CON	matter
+NIL	.

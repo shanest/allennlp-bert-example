@@ -1,0 +1,14 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+NOW	'm
+EXS	concerned
+NIL	,
+PRO	they
+POS	could
+EXS	do
+IST	away
+REL	with
+TIM	Christmas
+NIL	!

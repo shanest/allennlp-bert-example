@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+IST	then
+SUB	that
+PRO	I
+PST	had
+DIS	a
+IST	good
+CON	idea
+NIL	.

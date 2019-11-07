@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	expected
+SUB	that
+PRO	he
+FUT	will
+EXS	succeed
+REL	in
+DEF	the
+CON	examination
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	spilled
+COL	red
+CON	wine
+AND	all
+AND	over
+PER	Mary
+ENS	's
+COL	white
+CON	dress
+NIL	.

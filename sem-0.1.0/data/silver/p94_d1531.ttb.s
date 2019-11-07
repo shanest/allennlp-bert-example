@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+EXS	know
+AND	which
+QUC	one
+AND	of
+DST	those
+CON	boys
+NOW	is
+PER	Tom
+QUE	?

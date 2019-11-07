@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	used
+SUB	to
+EXS	sitting
+IST	up
+IST	late
+REL	at
+CON	night
+NIL	.

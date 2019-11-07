@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+NOW	now
+IST	old
+IST	enough
+SUB	to
+EXS	travel
+REL	by
+REF	himself
+NIL	.

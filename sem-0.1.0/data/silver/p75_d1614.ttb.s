@@ -1,0 +1,13 @@
+ITJ	Honestly
+NIL	,
+PRO	I
+FUT	would
+EXS	think
+EXG	driving
+UNK	there
+IST	daily
+NOW	is
+MOR	better
+MOR	than
+EXS	moving
+NIL	.

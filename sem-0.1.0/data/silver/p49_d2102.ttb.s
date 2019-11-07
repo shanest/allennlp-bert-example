@@ -1,0 +1,11 @@
+QUC	Thirty
+CON	years
+PST	ago
+NIL	,
+CON	timber
+PST	was
+DEF	the
+IST	main
+CON	industry
+PRX	here
+NIL	.

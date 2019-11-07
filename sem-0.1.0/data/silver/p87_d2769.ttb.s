@@ -1,0 +1,13 @@
+REL	After
+CON	dinner
+NIL	,
+PRO	we
+EPS	took
+DIS	a
+CON	spin
+AND	around
+CON	town
+REL	in
+HAS	my
+CON	car
+NIL	.

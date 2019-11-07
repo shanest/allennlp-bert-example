@@ -1,0 +1,13 @@
+PER	Tom
+EPS	digitized
+DIS	an
+IST	old
+CON	family
+CON	photo
+COO	and
+PST	emailed
+PRO	it
+REL	to
+HAS	his
+ROL	mother
+NIL	.

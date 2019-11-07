@@ -1,0 +1,11 @@
+DST	Those
+NOW	are
+DEF	the
+INT	most
+IST	expensive
+CON	shoes
+PRO	I
+NOW	've
+IST	ever
+EXS	seen
+NIL	.

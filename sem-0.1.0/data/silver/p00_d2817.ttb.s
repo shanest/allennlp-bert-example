@@ -1,0 +1,10 @@
+PRO	He
+NOW	has
+EXT	made
+DEF	the
+CON	company
+QUE	what
+PRO	it
+NOW	is
+NOW	today
+NIL	.

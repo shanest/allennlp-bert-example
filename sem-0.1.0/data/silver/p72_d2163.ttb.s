@@ -1,0 +1,14 @@
+DIS	A
+CON	friend
+AND	of
+HAS	mine
+EPS	showed
+PRO	me
+AND	all
+DEF	the
+CON	dolls
+PRO	he
+PST	had
+EXS	bought
+IST	abroad
+NIL	.

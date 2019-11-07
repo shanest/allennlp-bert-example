@@ -1,0 +1,10 @@
+PER	Mary
+PST	was
+EXG	wearing
+DIS	a
+COL	pink
+CON	blouse
+REL	with
+EXS	matching
+CON	miniskirt
+NIL	.

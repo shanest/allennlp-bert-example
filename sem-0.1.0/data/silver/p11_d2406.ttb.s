@@ -1,0 +1,10 @@
+CON	Thanks
+CON	God
+NIL	,
+ORG	Apple
+NOW	is
+EXG	dumping
+SUB	that
+CON	Flash
+CON	crap
+NIL	!

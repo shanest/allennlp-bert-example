@@ -1,0 +1,9 @@
+PRO	He
+AND	who
+NOW	is
+EXS	born
+REL	in
+GPE	Sweden
+NOW	is
+GPO	Swedish
+NIL	.

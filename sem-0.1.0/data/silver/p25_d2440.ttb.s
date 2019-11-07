@@ -1,0 +1,9 @@
+EXS	Ask
+PRO	him
+SUB	whether
+PRO	they
+IST	still
+ENS	live
+REL	in
+GPE	Tokyo
+NIL	.

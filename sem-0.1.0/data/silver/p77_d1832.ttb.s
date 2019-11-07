@@ -1,0 +1,16 @@
+SUB	When
+PRO	I
+EPS	saw
+AND	all
+SUB	that
+NIL	,
+PRO	I
+POS	could
+XCL	only
+EXS	shake
+HAS	my
+CON	head
+REL	in
+IST	silent
+CON	resignation
+NIL	.

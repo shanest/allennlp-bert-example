@@ -1,0 +1,9 @@
+PRO	She
+PST	was
+INT	too
+EXS	tired
+SUB	to
+EXS	keep
+REL	on
+EXS	working
+NIL	.

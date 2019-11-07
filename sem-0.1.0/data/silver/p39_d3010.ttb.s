@@ -1,0 +1,9 @@
+IST	Please
+EXS	tell
+PRO	me
+SUB	where
+DEF	the
+CON	bus
+EXS	stop
+NOW	is
+NIL	.

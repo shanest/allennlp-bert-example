@@ -1,0 +1,13 @@
+PRO	I
+NOW	have
+EXS	taken
+CON	care
+AND	of
+PRX	this
+CON	child
+IST	ever
+REL	since
+HAS	his
+CON	parents
+EPS	died
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+ENS	's
+DIS	a
+IST	great
+CON	pity
+PRO	you
+NOW	do
+NOT	n't
+EXS	know
+PRO	him
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+ENS	admit
+PRX	this
+POS	may
+NOT	not
+EXS	be
+DEF	the
+TOP	best
+CON	way
+AND	of
+EXS	doing
+PRO	it
+NIL	.

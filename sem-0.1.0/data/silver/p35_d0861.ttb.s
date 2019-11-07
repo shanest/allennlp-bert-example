@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+EXS	pay
+AND	any
+CON	attention
+REL	to
+QUE	what
+HAS	your
+ROL	father
+ENS	says
+NIL	.

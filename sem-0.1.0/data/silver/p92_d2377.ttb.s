@@ -1,0 +1,9 @@
+PRO	I
+EPS	wrote
+REL	to
+HAS	my
+GPO	French
+CON	teacher
+REL	in
+GPO	French
+NIL	.

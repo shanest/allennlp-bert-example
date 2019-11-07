@@ -1,0 +1,9 @@
+PER	Tom
+EPS	took
+DIS	an
+CON	apple
+REL	from
+DEF	the
+CON	fruit
+CON	bowl
+NIL	.

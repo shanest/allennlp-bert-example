@@ -1,0 +1,12 @@
+DEF	The
+MOR	older
+QUC	one
+NOW	grows
+NIL	,
+DEF	the
+MOR	weaker
+QUC	one
+HAS	's
+CON	memory
+ENS	becomes
+NIL	.

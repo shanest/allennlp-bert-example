@@ -1,0 +1,12 @@
+PER	Tom
+EPS	remained
+REL	in
+HAS	his
+CON	car
+SUB	while
+PER	Mary
+PST	was
+REL	in
+DEF	the
+CON	supermarket
+NIL	.

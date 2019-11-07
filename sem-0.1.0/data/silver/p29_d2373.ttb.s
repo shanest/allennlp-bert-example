@@ -1,0 +1,11 @@
+PRO	It
+PST	was
+NOT	n't
+PER	Tom
+HAS	's
+DIS	or
+PER	Mary
+HAS	's
+IST	first
+CON	sentence
+NIL	.

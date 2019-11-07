@@ -1,0 +1,10 @@
+PER	Tom
+IST	always
+NOW	keeps
+PER	Mary
+HAS	's
+CON	picture
+REL	in
+HAS	his
+CON	wallet
+NIL	.

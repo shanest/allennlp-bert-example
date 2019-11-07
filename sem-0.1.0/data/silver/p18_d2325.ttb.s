@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+NOT	not
+AND	such
+DIS	a
+CON	fool
+COO	but
+PRO	he
+ENS	knows
+PRO	it
+NIL	.

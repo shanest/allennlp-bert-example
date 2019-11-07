@@ -1,0 +1,9 @@
+PRO	I
+EPS	felt
+DIS	a
+IST	certain
+CON	anxiety
+REL	in
+HAS	my
+CON	chest
+NIL	.

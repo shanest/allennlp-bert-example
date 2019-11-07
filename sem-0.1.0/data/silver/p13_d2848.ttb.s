@@ -1,0 +1,9 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	know
+EQU	exactly
+QUE	how
+PER	Tom
+EPS	died
+NIL	.

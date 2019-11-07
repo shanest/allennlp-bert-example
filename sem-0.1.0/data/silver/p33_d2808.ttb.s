@@ -1,0 +1,11 @@
+PER	Tom
+IST	often
+ENS	eats
+CON	popcorn
+SUB	when
+PRO	he
+NOW	's
+EXG	watching
+DIS	a
+CON	movie
+NIL	.

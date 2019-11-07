@@ -1,0 +1,11 @@
+PER	Mary
+ENS	lives
+REL	in
+DIS	a
+IST	one-bedroom
+CON	apartment
+REL	near
+DEF	the
+CON	train
+CON	station
+NIL	.

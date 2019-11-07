@@ -1,0 +1,11 @@
+DEF	The
+CON	boy
+FUT	will
+EXS	wait
+REL	for
+PRO	you
+REL	till
+PRO	you
+ENS	come
+IST	back
+NIL	.

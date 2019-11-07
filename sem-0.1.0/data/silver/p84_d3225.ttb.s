@@ -1,0 +1,9 @@
+PRX	This
+NOW	is
+DIS	a
+CON	flamethrower
+NIL	.
+PRO	It
+ENS	throws
+CON	flames
+NIL	.

@@ -1,0 +1,9 @@
+HAS	My
+ROL	driver
+REL	's
+CON	license
+FUT	will
+EXS	expire
+IST	next
+CON	week
+NIL	.

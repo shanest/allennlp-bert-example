@@ -1,0 +1,9 @@
+DEF	The
+CON	air
+CON	conditioner
+NOW	has
+EXS	got
+IST	out
+AND	of
+CON	order
+NIL	.

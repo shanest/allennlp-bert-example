@@ -1,0 +1,13 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	dead
+REL	before
+NIL	,
+COO	and
+PRO	it
+PST	was
+NOT	n't
+INT	too
+EXS	bad
+NIL	.

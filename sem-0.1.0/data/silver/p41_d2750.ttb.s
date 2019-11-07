@@ -1,0 +1,10 @@
+PRO	I
+ENS	love
+PRO	her
+NIL	,
+COO	but
+PRO	she
+ENS	loves
+DIS	someone
+AND	else
+NIL	.

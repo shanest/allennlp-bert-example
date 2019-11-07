@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+DEF	the
+XCL	only
+CON	person
+SUB	that
+POS	can
+EXS	persuade
+PRO	him
+NIL	.

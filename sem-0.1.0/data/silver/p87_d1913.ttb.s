@@ -1,0 +1,12 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	believe
+SUB	that
+PER	Mary
+NOW	has
+PFT	been
+EXS	faithful
+REL	to
+PRO	him
+NIL	.

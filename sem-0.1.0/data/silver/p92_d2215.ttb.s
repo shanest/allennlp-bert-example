@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	like
+CON	Esperanto
+NIL	,
+SUB	because
+PRO	it
+NOW	is
+INT	too
+EXS	difficult
+NIL	.

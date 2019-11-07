@@ -1,0 +1,12 @@
+PRO	I
+PST	'd
+IST	completely
+EXS	forgotten
+SUB	that
+PER	Tom
+NIL	used
+NIL	to
+PST	be
+DIS	a
+ROL	vegetarian
+NIL	.

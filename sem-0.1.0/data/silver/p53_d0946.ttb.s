@@ -1,0 +1,10 @@
+IMP	If
+PRO	you
+ENS	prick
+PRO	us
+NIL	,
+NOW	do
+PRO	we
+NOT	not
+CON	bleed
+QUE	?

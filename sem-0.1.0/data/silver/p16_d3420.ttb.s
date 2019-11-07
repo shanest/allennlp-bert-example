@@ -1,0 +1,13 @@
+PRO	You
+POS	can
+EXS	save
+REF	yourself
+DIS	a
+CON	lot
+AND	of
+CON	trouble
+REL	by
+EXG	selling
+PRX	this
+CON	car
+NIL	.

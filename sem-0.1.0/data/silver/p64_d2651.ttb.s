@@ -1,0 +1,10 @@
+AND	Even
+DIS	a
+EPS	stopped
+CON	clock
+NOW	is
+IST	right
+QUC	twice
+DIS	a
+CON	day
+NIL	.

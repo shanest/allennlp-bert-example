@@ -1,0 +1,11 @@
+PRO	I
+NOW	spend
+INT	too
+QUV	much
+CON	time
+REL	in
+CON	front
+AND	of
+HAS	my
+CON	computer
+NIL	.

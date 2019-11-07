@@ -1,0 +1,13 @@
+TOP	Most
+AND	of
+DEF	the
+CON	clothes
+AND	that
+GPE	Americans
+CON	wear
+NOW	are
+EXS	made
+AND	outside
+AND	of
+GEO	America
+NIL	.

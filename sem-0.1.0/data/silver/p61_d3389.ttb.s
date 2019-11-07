@@ -1,0 +1,10 @@
+PRO	I
+NOW	confess
+PRO	I
+NOW	'm
+IST	afraid
+SUB	to
+EXS	go
+REL	by
+EMP	myself
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NOT	never
+EPS	liked
+DEF	the
+CON	way
+PRO	I
+PST	did
+CON	things
+NIL	.

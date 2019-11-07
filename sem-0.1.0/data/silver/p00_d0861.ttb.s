@@ -1,0 +1,10 @@
+DIS	Some
+CON	people
+NOW	are
+IST	good
+NIL	,
+DIS	some
+CON	people
+NOW	are
+IST	bad
+NIL	.

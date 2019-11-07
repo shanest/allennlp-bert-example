@@ -1,0 +1,11 @@
+QUE	What
+HAS	's
+CON	love
+REL	to
+PRO	you
+NOW	is
+DIS	a
+CON	scandal
+REL	to
+ALT	another
+NIL	.

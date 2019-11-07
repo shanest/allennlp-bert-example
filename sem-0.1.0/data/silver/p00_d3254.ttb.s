@@ -1,0 +1,10 @@
+AND	Both
+AND	of
+DST	those
+CON	students
+PST	did
+NOT	n't
+EXS	pass
+DEF	the
+CON	test
+NIL	.

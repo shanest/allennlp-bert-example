@@ -1,0 +1,9 @@
+PST	Yesterday
+PRO	I
+EPS	bought
+DIS	a
+CON	pig
+REL	in
+DIS	a
+EXS	poke
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+HAS	's
+CON	house
+NEC	must
+EXS	be
+AND	around
+PRX	here
+DIS	somewhere
+NIL	.

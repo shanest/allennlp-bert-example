@@ -1,0 +1,14 @@
+REL	In
+CON	places
+SUB	where
+PRO	it
+ENS	snows
+DIS	a
+CON	lot
+NIL	,
+CON	kerosene
+NOW	is
+DIS	an
+IST	indispensable
+CON	item
+NIL	.

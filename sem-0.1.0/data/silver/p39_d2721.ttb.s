@@ -1,0 +1,17 @@
+PRO	You
+ENS	know
+DIS	a
+IST	great
+CON	deal
+AND	about
+PRO	me
+NIL	,
+BUT	but
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+AND	anything
+AND	about
+PRO	you
+NIL	.

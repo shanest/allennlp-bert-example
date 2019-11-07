@@ -1,0 +1,12 @@
+DEF	The
+CON	flowers
+NOW	are
+EXS	beginning
+SUB	to
+EXS	grow
+AND	and
+AND	everything
+NOW	is
+EXS	becoming
+COL	green
+NIL	.

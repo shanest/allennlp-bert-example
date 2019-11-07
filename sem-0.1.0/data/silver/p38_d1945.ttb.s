@@ -1,0 +1,10 @@
+AND	All
+PRO	you
+NEC	have
+SUB	to
+EXS	do
+NOW	is
+EXS	make
+DIS	a
+CON	choice
+NIL	.

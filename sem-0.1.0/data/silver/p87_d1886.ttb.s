@@ -1,0 +1,10 @@
+PRO	I
+POS	can
+EXS	tell
+PRX	this
+NOW	has
+PFT	been
+EXS	difficult
+REL	for
+PRO	you
+NIL	.

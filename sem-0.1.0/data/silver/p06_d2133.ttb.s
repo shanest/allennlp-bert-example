@@ -1,0 +1,9 @@
+QUE	Where
+FUT	would
+PRO	you
+EXS	like
+SUB	to
+EXS	go
+AND	next
+DOW	Sunday
+QUE	?

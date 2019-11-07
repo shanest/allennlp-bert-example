@@ -1,0 +1,16 @@
+REL	In
+DEF	the
+CON	light
+AND	of
+PRX	these
+CON	facts
+NIL	,
+PRO	it
+POS	may
+EXS	be
+IST	necessary
+SUB	to
+EXS	revise
+HAS	our
+CON	theory
+NIL	.

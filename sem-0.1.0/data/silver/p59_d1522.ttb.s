@@ -1,0 +1,9 @@
+PER	Tom
+PST	was
+IST	probably
+EXS	happy
+REL	with
+PER	Mary
+HAS	's
+CON	gift
+NIL	.

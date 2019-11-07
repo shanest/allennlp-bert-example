@@ -1,0 +1,15 @@
+PRO	It
+PST	was
+AND	last
+DOW	Friday
+SUB	that
+PRO	I
+EPS	ate
+CON	dinner
+REL	with
+HAS	my
+CON	girlfriend
+REL	in
+DIS	a
+CON	restaurant
+NIL	.

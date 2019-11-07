@@ -1,0 +1,12 @@
+PER	Tom
+IST	suddenly
+EPS	realised
+SUB	that
+QUE	what
+PRO	he
+PST	was
+EXS	doing
+PST	was
+INT	very
+EXS	dangerous
+NIL	.

@@ -1,0 +1,22 @@
+ROL	Col.
+PER	Gadaffi
+NOW	has
+IST	separately
+EXS	opened
+DIS	an
+CON	action
+AND	against
+DEF	the
+ORG	US
+AND	and
+GPE	Britain
+REL	at
+DEF	the
+CON	World Court
+PST	accusing
+PRO	them
+AND	of
+EXS	breaking
+IST	international
+CON	law
+NIL	.

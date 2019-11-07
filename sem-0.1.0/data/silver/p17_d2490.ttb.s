@@ -1,0 +1,13 @@
+GPE	Japan
+NOW	is
+DEF	the
+XCL	only
+CON	nation
+SUB	to
+EXT	have
+PFT	been
+EXS	hit
+REL	by
+IST	nuclear
+CON	bombs
+NIL	.

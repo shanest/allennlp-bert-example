@@ -1,0 +1,9 @@
+PER	Tom
+XCL	only
+ENS	has
+IST	faint
+CON	memories
+AND	of
+HAS	his
+ROL	grandfather
+NIL	.

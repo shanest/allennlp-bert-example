@@ -1,0 +1,12 @@
+PRO	You
+NOW	think
+PRO	I
+NOW	'm
+EXS	making
+DIS	a
+CON	mistake
+NIL	,
+NOW	do
+NOT	n't
+PRO	you
+QUE	?

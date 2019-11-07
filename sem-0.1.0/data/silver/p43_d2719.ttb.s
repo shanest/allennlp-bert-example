@@ -1,0 +1,15 @@
+SUB	Before
+PRO	you
+POS	can
+EXS	love
+ALT	others
+NIL	,
+PRO	you
+ENS	need
+SUB	to
+EXS	be
+IST	able
+SUB	to
+EXS	love
+REF	yourself
+NIL	.

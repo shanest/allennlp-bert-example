@@ -1,0 +1,9 @@
+NOW	Do
+NOT	n't
+EXS	tell
+AND	anyone
+QUE	what
+PRO	we
+NOW	're
+EXS	doing
+NIL	.

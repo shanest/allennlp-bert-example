@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+INT	very
+EXS	sorry
+REL	for
+QUE	what
+PRO	I
+EPS	said
+NIL	.

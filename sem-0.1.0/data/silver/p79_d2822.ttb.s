@@ -1,0 +1,10 @@
+QUE	How
+NOW	do
+PRO	you
+EXS	know
+PRO	it
+HAS	's
+NOT	not
+DIS	a
+CON	trap
+QUE	?

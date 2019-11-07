@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+CON	brother
+AND	and
+ROL	sister
+NIL	.

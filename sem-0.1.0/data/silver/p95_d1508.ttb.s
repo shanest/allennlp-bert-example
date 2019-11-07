@@ -1,0 +1,13 @@
+DEF	The
+CON	women
+PST	were
+IST	so
+EXS	surprised
+AND	as
+NOT	not
+SUB	to
+EXS	be
+IST	able
+SUB	to
+EXS	speak
+NIL	.

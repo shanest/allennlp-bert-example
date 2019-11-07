@@ -1,0 +1,11 @@
+NOT	No
+ALT	other
+CON	singer
+REL	in
+GPE	Japan
+NOW	is
+AND	as
+IST	popular
+AND	as
+PRO	she
+NIL	.

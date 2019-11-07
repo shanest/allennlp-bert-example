@@ -1,0 +1,17 @@
+PRO	I
+NOW	think
+PRO	it
+HAS	's
+INT	highly
+EXS	unlikely
+SUB	that
+PRO	we
+FUT	'll
+EXS	be
+IST	able
+SUB	to
+EXS	escape
+REL	from
+PRX	this
+CON	prison
+NIL	.

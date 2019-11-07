@@ -1,0 +1,13 @@
+PER	Mary
+EPS	shut
+REF	herself
+IST	up
+REL	in
+DEF	the
+CON	room
+AND	and
+EXS	closed
+AND	all
+DEF	the
+CON	windows
+NIL	.

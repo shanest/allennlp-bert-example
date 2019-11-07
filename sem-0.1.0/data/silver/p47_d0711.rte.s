@@ -1,0 +1,12 @@
+PER	Wetherill
+PST	was
+DEF	the
+ROL	inventor
+AND	of
+DEF	the
+CON	concept
+AND	of
+DEF	the
+ORG	Concordia
+ORG	Diagram
+NIL	.

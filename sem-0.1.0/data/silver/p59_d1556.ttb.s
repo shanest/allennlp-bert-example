@@ -1,0 +1,9 @@
+DEF	The
+CON	government
+NOW	are
+EXS	being
+EXS	criticised
+REL	from
+AND	all
+CON	sides
+NIL	.

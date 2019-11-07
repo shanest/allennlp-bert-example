@@ -1,0 +1,10 @@
+PER	Tom
+EPS	needed
+HAS	our
+CON	help
+NIL	,
+COO	so
+PRO	we
+EPS	helped
+PRO	him
+NIL	.

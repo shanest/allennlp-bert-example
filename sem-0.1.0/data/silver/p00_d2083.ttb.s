@@ -1,0 +1,11 @@
+PER	Tom
+EPS	tried
+NIL	to
+EXS	pry
+EXS	open
+DEF	the
+CON	window
+REL	with
+DIS	a
+CON	screwdriver
+NIL	.

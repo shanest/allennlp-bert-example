@@ -1,0 +1,11 @@
+HAS	My
+ROL	father
+PST	had
+PRO	me
+EXS	change
+DIS	a
+CON	tire
+REL	on
+HAS	his
+CON	car
+NIL	.

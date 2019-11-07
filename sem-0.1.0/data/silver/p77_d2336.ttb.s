@@ -1,0 +1,9 @@
+PRO	He
+EPS	went
+IST	out
+NOT	without
+EXS	saying
+GRE	goodbye
+REL	to
+PRO	me
+NIL	.

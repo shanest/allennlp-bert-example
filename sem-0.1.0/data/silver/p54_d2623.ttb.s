@@ -1,0 +1,12 @@
+DEF	The
+CON	lady
+NIL	,
+AND	whom
+PRO	you
+EPS	talked
+REL	to
+NIL	,
+NOW	is
+HAS	my
+ROL	sister
+NIL	.

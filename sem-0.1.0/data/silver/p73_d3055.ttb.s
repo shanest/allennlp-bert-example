@@ -1,0 +1,12 @@
+REL	Before
+DEF	the
+CON	cock
+ENS	crows
+NIL	,
+PRO	you
+FUT	will
+EXS	deny
+PRO	me
+QUC	three
+CON	times
+NIL	.

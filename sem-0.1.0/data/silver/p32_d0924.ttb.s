@@ -1,0 +1,9 @@
+REL	On
+DOW	Mondays
+NIL	,
+PRO	he
+NOW	's
+IST	always
+REL	at
+CON	home
+NIL	.

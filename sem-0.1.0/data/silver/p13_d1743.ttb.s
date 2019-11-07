@@ -1,0 +1,11 @@
+PER	Tom
+ENS	loves
+PER	Mary
+NIL	,
+COO	but
+PRO	she
+NOW	does
+NOT	n't
+EXS	love
+PRO	him
+NIL	.

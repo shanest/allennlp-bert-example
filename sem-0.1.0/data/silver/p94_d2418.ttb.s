@@ -1,0 +1,9 @@
+NOW	Do
+NOT	n't
+EXS	tell
+PRO	me
+PRO	you
+IST	still
+EXS	trust
+PER	Tom
+NIL	.

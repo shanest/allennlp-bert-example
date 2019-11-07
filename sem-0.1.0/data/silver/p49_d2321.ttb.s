@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	we
+NEC	should
+EXS	keep
+DIS	an
+CON	eye
+REL	on
+PER	Tom
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+NEC	have
+SUB	to
+EXS	turn
+REL	in
+DEF	the
+CON	reports
+REL	on
+DOW	Monday
+NIL	.

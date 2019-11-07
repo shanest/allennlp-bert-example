@@ -1,0 +1,10 @@
+PRO	She
+EPS	killed
+CON	time
+EXS	reading
+DIS	a
+CON	magazine
+SUB	while
+PRO	she
+EPS	waited
+NIL	.

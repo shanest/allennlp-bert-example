@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+IST	sore
+CON	muscles
+AND	all
+AND	over
+HAS	my
+CON	body
+NIL	.

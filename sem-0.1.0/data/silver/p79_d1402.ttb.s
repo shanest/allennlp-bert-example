@@ -1,0 +1,10 @@
+PRO	I
+FUT	'd
+EXS	be
+IST	glad
+SUB	to
+EXS	go
+REL	in
+HAS	your
+CON	place
+NIL	.

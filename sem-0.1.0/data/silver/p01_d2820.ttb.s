@@ -1,0 +1,9 @@
+DEF	The
+CON	factory
+EPS	produced
+QUC	ten
+IST	finished
+CON	articles
+DIS	an
+CON	hour
+NIL	.

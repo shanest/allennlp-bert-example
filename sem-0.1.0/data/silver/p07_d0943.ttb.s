@@ -1,0 +1,9 @@
+PRO	I
+NOW	hate
+PRO	it
+SUB	when
+CON	hair
+ENS	clogs
+DEF	the
+EXS	drain
+NIL	.

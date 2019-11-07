@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+DEF	the
+QUC	one
+AND	who
+HAS	's
+EXS	been
+EPS	lied
+REL	to
+NIL	.

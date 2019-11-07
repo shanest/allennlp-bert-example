@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+EXS	read
+AND	any
+AND	and
+AND	every
+CON	book
+REL	in
+PRX	this
+CON	library
+NIL	.

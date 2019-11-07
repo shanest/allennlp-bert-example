@@ -1,0 +1,11 @@
+PRO	He
+EPS	got
+HAS	his
+ROL	sister
+SUB	to
+EXS	help
+PRO	him
+EXS	paint
+HAS	his
+CON	room
+NIL	.

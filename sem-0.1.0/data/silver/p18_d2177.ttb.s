@@ -1,0 +1,10 @@
+PRO	He
+EPS	claimed
+SUB	that
+PRO	he
+PST	had
+EXS	discovered
+DIS	a
+IST	new
+CON	comet
+NIL	.

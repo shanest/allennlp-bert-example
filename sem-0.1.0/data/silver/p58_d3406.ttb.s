@@ -1,0 +1,10 @@
+ITJ	Ouch
+NIL	!!
+PRO	I
+NOT	've
+PFT	been
+EXS	stung
+REL	by
+DIS	a
+CON	bee
+NIL	!!

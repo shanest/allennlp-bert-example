@@ -1,0 +1,13 @@
+IMP	If
+PRO	you
+NOW	're
+NOT	not
+EXS	careful
+NIL	,
+PRO	you
+FUT	'll
+EXS	make
+DIS	a
+CON	mistake
+ALT	again
+NIL	.

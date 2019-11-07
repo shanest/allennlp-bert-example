@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+INT	very
+EXS	happy
+PRO	you
+FUT	'll
+EXS	be
+EXS	visiting
+GPE	Tokyo
+AND	next
+CON	month
+NIL	.

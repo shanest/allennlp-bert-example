@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+SUB	that
+HAS	's
+AND	all
+PRO	we
+NOW	have
+EXS	right
+NOW	now
+NIL	.

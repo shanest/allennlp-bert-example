@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	sure
+HAS	yours
+NOW	does
+NOT	n't
+IST	quite
+EXS	compare
+HAS	mine
+NIL	.

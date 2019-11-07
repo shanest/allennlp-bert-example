@@ -1,0 +1,12 @@
+NOW	Do
+PRO	you
+ENS	want
+SUB	to
+EXS	go
+IST	out
+REL	on
+DIS	a
+CON	date
+REL	with
+PER	Tom
+QUE	?

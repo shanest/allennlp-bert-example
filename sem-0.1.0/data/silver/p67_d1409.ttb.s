@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+EXS	beginning
+SUB	to
+EXS	doubt
+SUB	whether
+PER	Tom
+POS	can
+IST	really
+EXS	understand
+GPO	French
+AND	all
+SUB	that
+IST	well
+NIL	.

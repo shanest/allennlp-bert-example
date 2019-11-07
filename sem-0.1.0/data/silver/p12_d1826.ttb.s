@@ -1,0 +1,10 @@
+DEF	The
+CON	truck
+EPS	made
+DIS	a
+IST	sharp
+CON	turn
+REL	to
+DEF	the
+CON	left
+NIL	.

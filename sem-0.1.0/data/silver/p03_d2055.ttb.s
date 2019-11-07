@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	see
+PRO	you
+ALT	again
+NIL	.

@@ -1,0 +1,12 @@
+PRO	She
+EPS	caught
+CON	hold
+AND	of
+HAS	my
+CON	arm
+COO	so
+PRO	she
+FUT	would
+NOT	n't
+EXS	fall
+NIL	.

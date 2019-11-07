@@ -1,0 +1,10 @@
+PRO	You
+FUT	will
+NEC	have
+SUB	to
+EXS	go
+REL	to
+GPE	England
+AND	next
+CON	year
+NIL	.

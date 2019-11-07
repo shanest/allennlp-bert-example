@@ -1,0 +1,13 @@
+PRO	You
+NEC	should
+NOT	n't
+EXS	depend
+INT	too
+QUC	much
+REL	on
+ALT	other
+CON	people
+SUB	to
+EXS	help
+PRO	you
+NIL	.

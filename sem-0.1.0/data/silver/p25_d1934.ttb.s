@@ -1,0 +1,11 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	bring
+DIS	a
+CON	salad
+REL	to
+DEF	the
+CON	party
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	suffering
+REL	from
+DIS	a
+CON	headache
+AND	all
+CON	day
+NIL	.

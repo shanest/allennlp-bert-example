@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	got
+CON	mosquito
+ENS	bites
+AND	all
+AND	over
+HAS	my
+CON	arm
+NIL	.

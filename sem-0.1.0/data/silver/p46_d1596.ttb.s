@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	scared
+AND	of
+IST	big
+EQU	,
+IST	black
+EQU	,
+IST	hairy
+CON	tarantulas
+NIL	!

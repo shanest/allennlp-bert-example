@@ -1,0 +1,17 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	use
+SUB	to
+EXS	like
+CON	wine
+NIL	,
+BUT	but
+NOW	now
+PRO	I
+NOW	'm
+IST	quite
+IST	fond
+AND	of
+PRO	it
+NIL	.

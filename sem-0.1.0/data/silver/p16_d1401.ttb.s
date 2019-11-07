@@ -1,0 +1,9 @@
+EXG	Sing
+DIS	a
+CON	song
+REL	in
+HAS	your
+CON	language
+NIL	,
+IST	please
+NIL	!

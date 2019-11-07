@@ -1,0 +1,10 @@
+PER	Tom
+FUT	will
+EXS	assist
+PRO	you
+REL	in
+HAS	your
+CON	search
+REL	for
+PER	Mary
+NIL	.

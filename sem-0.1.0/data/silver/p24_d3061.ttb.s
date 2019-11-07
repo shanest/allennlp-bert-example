@@ -1,0 +1,14 @@
+PRX	This
+CON	letter
+NOW	is
+INT	too
+IST	long
+SUB	to
+NOW	have
+PRO	it
+EPS	translated
+REL	at
+DIS	a
+IST	reasonable
+CON	price
+NIL	.

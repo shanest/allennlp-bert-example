@@ -1,0 +1,12 @@
+NOT	Not
+IST	merely
+PRO	I
+COO	but
+ALT	also
+PRO	he
+NOW	is
+EXS	invited
+REL	to
+DEF	the
+CON	party
+NIL	.

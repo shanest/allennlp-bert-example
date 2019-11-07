@@ -1,0 +1,14 @@
+PER	Tom
+NOW	has
+QUC	two
+CON	cats
+NIL	.
+CON	One
+NOW	is
+COL	white
+COO	and
+DEF	the
+CON	other
+NOW	is
+COL	black
+NIL	.

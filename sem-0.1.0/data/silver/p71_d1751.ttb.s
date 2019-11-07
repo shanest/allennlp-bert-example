@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+NOT	n't
+EXS	listening
+REL	to
+CON	music
+NIL	.

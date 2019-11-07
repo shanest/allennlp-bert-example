@@ -1,0 +1,12 @@
+DIS	A
+IST	lonely
+CON	man
+NOW	is
+EXS	lonely
+SUB	because
+PRO	he
+NOW	is
+IST	afraid
+AND	of
+ALT	others
+NIL	.

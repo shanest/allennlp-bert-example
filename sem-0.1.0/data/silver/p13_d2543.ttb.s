@@ -1,0 +1,10 @@
+DEF	The
+CON	trees
+NOW	are
+EXS	barren
+DIS	or
+CON	bear
+AND	only
+IST	small
+CON	fruit
+NIL	.

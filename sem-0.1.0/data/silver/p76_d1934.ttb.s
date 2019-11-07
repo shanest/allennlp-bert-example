@@ -1,0 +1,14 @@
+PER	Tom
+PST	was
+REL	with
+PRO	me
+REL	in
+HAS	my
+CON	apartment
+REL	at
+DEF	the
+CON	time
+PER	Mary
+PST	was
+EXS	murdered
+NIL	.

@@ -1,0 +1,10 @@
+EXS	Did
+NOT	n't
+PRO	you
+IST	just
+EXS	repair
+SUB	that
+QUC	three
+CON	days
+PST	ago
+QUE	?

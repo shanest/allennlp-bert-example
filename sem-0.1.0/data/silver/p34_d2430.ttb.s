@@ -1,0 +1,21 @@
+PER	Christopher Columbus
+PST	was
+NOT	n't
+DIS	an
+CON	explorer
+SUB	because
+PRO	he
+EPS	loved
+DEF	the
+CON	sea
+NIL	.
+PRO	He
+PST	was
+DIS	an
+CON	explorer
+SUB	because
+PRO	he
+EPS	hated
+GPO	Spanish
+CON	jails
+NIL	.

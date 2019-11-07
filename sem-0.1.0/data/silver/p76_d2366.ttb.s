@@ -1,0 +1,12 @@
+PER	Tom
+EPS	wrote
+PER	Mary
+HAS	's
+CON	phone
+CON	number
+REL	in
+HAS	his
+IST	little
+COL	black
+CON	book
+NIL	.

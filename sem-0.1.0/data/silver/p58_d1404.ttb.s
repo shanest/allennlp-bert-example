@@ -1,0 +1,14 @@
+PRO	I
+NOW	have
+EXS	work
+SUB	to
+EXS	do
+NIL	,
+SUB	so
+EXS	go
+IST	away
+COO	and
+EXS	leave
+PRO	me
+AND	alone
+NIL	.

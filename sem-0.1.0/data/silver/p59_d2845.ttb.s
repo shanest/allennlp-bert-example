@@ -1,0 +1,12 @@
+QUE	Which
+NOW	is
+IST	longer
+NIL	,
+DEF	the
+NTH	Shinano
+CON	River
+DIS	or
+DEF	the
+NTH	Agano
+CON	River
+QUE	?

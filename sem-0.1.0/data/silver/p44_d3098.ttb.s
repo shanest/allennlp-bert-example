@@ -1,0 +1,9 @@
+PRO	I
+FUT	'll
+NOT	never
+EXS	go
+IST	out
+REL	with
+PER	Tom
+ALT	again
+NIL	.

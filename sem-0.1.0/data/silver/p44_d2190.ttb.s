@@ -1,0 +1,14 @@
+SUB	Since
+PRO	I
+PST	had
+EXS	met
+PRO	him
+QUC	once
+AND	before
+NIL	,
+PRO	I
+EPS	recognized
+PRO	him
+EXS	right
+IST	away
+NIL	.

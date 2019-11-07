@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	tired
+AND	of
+CON	museums
+NIL	,
+AND	-
+CON	graveyards
+AND	of
+DEF	the
+CON	arts
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+IST	financial
+CON	situation
+NOW	is
+EXS	getting
+COM	worse
+CON	week
+REL	by
+CON	week
+NIL	.

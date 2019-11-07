@@ -1,0 +1,10 @@
+XCL	Only
+QUC	one
+AND	who
+ENS	lives
+PRX	here
+NIL	,
+ENS	knows
+DEF	the
+CON	coldness
+NIL	.

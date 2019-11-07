@@ -1,0 +1,14 @@
+PRO	She
+EPS	refused
+NIL	to
+EXS	play
+REL	with
+PRO	it
+NIL	,
+COO	and
+IST	just
+EPS	sat
+COO	and
+EPS	looked
+EXS	angry
+NIL	.

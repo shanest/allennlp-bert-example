@@ -1,0 +1,10 @@
+AND	Each
+CON	member
+ENS	has
+SUB	to
+EXS	pay
+QUC	10,000
+UOM	yen
+DIS	a
+CON	month
+NIL	.

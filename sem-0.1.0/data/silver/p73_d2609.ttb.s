@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+QUC	one
+AND	of
+DEF	the
+INT	most
+IST	disagreeable
+CON	people
+PRO	I
+ENS	know
+NIL	.

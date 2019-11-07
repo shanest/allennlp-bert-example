@@ -1,0 +1,12 @@
+PRX	This
+NOW	is
+DEF	the
+IST	same
+CON	purse
+SUB	that
+PRO	I
+EPS	lost
+DIS	a
+CON	week
+PST	ago
+NIL	.

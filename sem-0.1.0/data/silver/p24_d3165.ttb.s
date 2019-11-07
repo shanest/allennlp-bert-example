@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+INT	too
+EXS	busy
+SUB	to
+EXS	have
+CON	time
+SUB	to
+EXS	enjoy
+IST	myself
+NIL	.

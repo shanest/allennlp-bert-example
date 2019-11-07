@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+PRO	you
+AND	and
+PER	Tom
+NOW	have
+PST	had
+DIS	some
+CON	problems
+NIL	.

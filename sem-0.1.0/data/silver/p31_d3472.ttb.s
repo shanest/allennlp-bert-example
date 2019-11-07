@@ -1,0 +1,11 @@
+PER	Tom
+NOT	never
+NEC	should
+EXT	've
+EXS	told
+PER	Mary
+SUB	that
+PRO	he
+EPS	loved
+PRO	her
+NIL	.

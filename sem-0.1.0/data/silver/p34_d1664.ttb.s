@@ -1,0 +1,9 @@
+PRO	She
+EPS	followed
+PRO	him
+CON	home
+COO	;
+IST	then
+EPS	killed
+PRO	him
+NIL	.

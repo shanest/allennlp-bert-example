@@ -1,0 +1,11 @@
+PST	Thank
+PRO	you
+REL	for
+DEF	the
+CON	dinner
+NIL	,
+PRO	it
+HAS	's
+INT	so
+IST	delicious
+NIL	.

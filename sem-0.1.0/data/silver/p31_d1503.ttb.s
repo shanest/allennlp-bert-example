@@ -1,0 +1,13 @@
+UNK	There
+HAS	's
+NOT	no
+EXS	need
+SUB	to
+EXS	get
+SUB	so
+EXS	angry
+NIL	.
+EXS	Keep
+HAS	your
+CON	temper
+NIL	.

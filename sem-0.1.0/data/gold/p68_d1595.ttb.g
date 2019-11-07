@@ -1,0 +1,10 @@
+DEF	The
+CON	village
+EPS	tried
+NIL	to
+EXS	do
+REL	away
+REL	with
+CON	school
+CON	meals
+NIL	.

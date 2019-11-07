@@ -1,0 +1,12 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	he
+PST	did
+NOT	n't
+EXS	say
+IST	good
+CON	things
+AND	about
+PRO	me
+NIL	.

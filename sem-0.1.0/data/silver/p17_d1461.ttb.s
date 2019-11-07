@@ -1,0 +1,10 @@
+PRX	This
+CON	desk
+PST	was
+INT	too
+EXS	heavy
+REL	for
+PER	Patty
+SUB	to
+EXS	lift
+NIL	.

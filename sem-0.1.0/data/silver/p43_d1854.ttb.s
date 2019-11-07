@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	refusing
+SUB	to
+EXS	tell
+PRO	us
+QUE	what
+EPS	happened
+NIL	.

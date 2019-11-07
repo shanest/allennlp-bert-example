@@ -1,0 +1,11 @@
+PRO	We
+EPS	did
+NOT	nothing
+EXS	wrong
+NIL	.
+PRO	It
+PST	was
+XCL	only
+DIS	a
+CON	kiss
+NIL	.

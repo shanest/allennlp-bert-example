@@ -1,0 +1,11 @@
+PER	Tom
+NOW	has
+EXS	written
+IST	quite
+DIS	a
+IST	few
+CON	love
+CON	letters
+REL	to
+PER	Mary
+NIL	.

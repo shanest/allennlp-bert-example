@@ -1,0 +1,11 @@
+DEF	The
+EXS	threatening
+CON	floods
+EPS	made
+PRO	it
+UNK	necessary
+SUB	to
+EXS	evacuate
+DEF	the
+CON	town
+NIL	.

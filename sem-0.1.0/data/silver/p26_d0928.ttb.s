@@ -1,0 +1,14 @@
+PRO	I
+EPS	saw
+DIS	a
+IST	big
+CON	dog
+EXS	lying
+REL	in
+CON	front
+AND	of
+ROL	Mr.
+PER	Hill
+HAS	's
+CON	house
+NIL	.

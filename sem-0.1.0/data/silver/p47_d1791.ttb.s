@@ -1,0 +1,11 @@
+DEF	The
+ROL	ambassador
+FUT	will
+EXS	be
+EXS	recalled
+REL	from
+HAS	his
+IST	present
+CON	post
+IST	soon
+NIL	.

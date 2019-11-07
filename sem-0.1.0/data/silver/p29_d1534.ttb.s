@@ -1,0 +1,10 @@
+PRO	We
+NOW	are
+EXS	busy
+EXS	preparing
+REL	for
+HAS	our
+CON	wedding
+AND	and
+CON	honeymoon
+NIL	.

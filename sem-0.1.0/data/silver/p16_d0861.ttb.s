@@ -1,0 +1,11 @@
+GPO	Belarusian
+ROL	President
+PER	Alexander
+PER	Lukashenko
+EPS	congratulated
+PER	Alexei
+PER	Dudarev
+REL	upon
+HAS	his
+CON	birthday
+NIL	.

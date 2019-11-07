@@ -1,0 +1,12 @@
+PER	Tom
+ENS	says
+PRO	he
+NOW	's
+INT	too
+EXS	tired
+SUB	to
+EXS	do
+AND	any
+IST	more
+CON	work
+NIL	.

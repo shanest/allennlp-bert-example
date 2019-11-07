@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+DEF	the
+ROL	mother
+REL	of
+DIS	a
+CON	son
+REL	of
+DIS	a
+CON	bitch
+NIL	.

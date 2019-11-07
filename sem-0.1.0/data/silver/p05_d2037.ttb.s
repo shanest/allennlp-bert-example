@@ -1,0 +1,11 @@
+PRO	I
+ENS	need
+SUB	to
+EXS	find
+IST	out
+AND	who
+EPS	gave
+PER	Tom
+SUB	that
+CON	advice
+NIL	.

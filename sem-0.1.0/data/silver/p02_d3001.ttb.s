@@ -1,0 +1,10 @@
+PRO	I
+ENS	presume
+SUB	that
+PRO	he
+NOW	has
+EXS	paid
+DEF	the
+CON	money
+IST	back
+NIL	.

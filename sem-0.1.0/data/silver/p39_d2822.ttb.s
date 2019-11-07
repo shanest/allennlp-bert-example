@@ -1,0 +1,10 @@
+PRO	You
+ENS	need
+NOT	n't
+EXS	go
+IST	too
+IST	early
+NIL	,
+EXS	need
+PRO	you
+QUE	?

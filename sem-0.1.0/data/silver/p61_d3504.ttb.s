@@ -1,0 +1,9 @@
+HAS	My
+ROL	father
+PST	got
+PRO	me
+SUB	to
+EXS	wash
+DEF	the
+CON	car
+NIL	.

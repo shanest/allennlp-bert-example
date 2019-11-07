@@ -1,0 +1,11 @@
+GRE	Hello
+NIL	.
+POS	May
+PRO	I
+NOW	speak
+REL	to
+ROL	Mr
+PER	Johnson
+NIL	,
+IST	please
+QUE	?

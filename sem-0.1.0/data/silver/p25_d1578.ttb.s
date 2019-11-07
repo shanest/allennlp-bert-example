@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	promised
+PER	Tom
+SUB	that
+PRO	I
+PST	'd
+EXS	be
+IST	there
+NIL	.

@@ -1,0 +1,9 @@
+PRO	It
+PST	was
+EXS	built
+MOR	more
+MOR	than
+QUC	500
+CON	years
+PST	ago
+NIL	.

@@ -1,0 +1,10 @@
+SUB	When
+PRO	she
+PST	was
+EXS	young
+NIL	,
+PRO	she
+PST	was
+INT	very
+EXS	beautiful
+NIL	.

@@ -1,0 +1,9 @@
+PRO	We
+EPS	made
+DIS	a
+CON	promise
+SUB	to
+EXS	meet
+REL	at
+CON	school
+NIL	.

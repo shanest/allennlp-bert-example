@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+SUB	where
+PER	Mary
+EPS	graduated
+REL	from
+NIL	.

@@ -1,0 +1,10 @@
+ROL	Mr
+PER	Iuchi
+NOW	has
+NOT	no
+CON	one
+SUB	to
+EXS	fall
+IST	back
+REL	on
+NIL	.

@@ -1,0 +1,12 @@
+CON	Prophets
+NOW	have
+PFT	been
+EXS	forecasting
+DEF	the
+CON	end
+AND	of
+DEF	the
+CON	world
+REL	for
+CON	centuries
+NIL	.

@@ -1,0 +1,11 @@
+QUE	How
+QUV	many
+CON	times
+DIS	a
+CON	month
+NOW	do
+PRO	you
+EXS	write
+HAS	your
+ROL	mother
+QUE	?

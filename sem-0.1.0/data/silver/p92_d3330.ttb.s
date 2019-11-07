@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+PER	Tom
+COO	and
+HAS	his
+CON	dog
+REL	in
+DEF	the
+CON	park
+NIL	.

@@ -1,0 +1,16 @@
+PRO	I
+EPS	put
+DEF	the
+CON	report
+CON	card
+REL	in
+DEF	the
+CON	drawer
+AND	so
+HAS	my
+CON	mother
+FUT	would
+NOT	n't
+EXS	see
+PRO	it
+NIL	.

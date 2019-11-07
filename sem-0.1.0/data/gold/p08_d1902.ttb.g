@@ -1,0 +1,10 @@
+DEF	The
+CON	boy
+EPS	threw
+DIS	a
+CON	paper
+CON	airplane
+REL	at
+DEF	the
+ROL	teacher
+NIL	.

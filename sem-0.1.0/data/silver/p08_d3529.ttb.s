@@ -1,0 +1,12 @@
+AND	Why
+NOW	do
+NOT	n't
+PRO	you
+EXS	stay
+REL	with
+PRO	me
+REL	for
+DIS	a
+IST	few
+CON	days
+QUE	?

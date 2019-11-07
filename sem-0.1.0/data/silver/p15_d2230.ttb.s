@@ -1,0 +1,12 @@
+REL	In
+GPE	Spain
+AND	and
+GPE	France
+NIL	,
+PRO	we
+NOW	buy
+IST	fresh
+CON	bread
+AND	every
+CON	day
+NIL	.

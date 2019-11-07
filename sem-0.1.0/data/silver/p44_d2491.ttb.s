@@ -1,0 +1,14 @@
+PRO	It
+NOW	's
+IST	hard
+SUB	to
+EXS	live
+REL	with
+DEF	the
+CON	knowledge
+SUB	that
+PRO	you
+NOW	are
+DIS	a
+CON	failure
+NIL	.

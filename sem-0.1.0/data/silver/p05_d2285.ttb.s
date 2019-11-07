@@ -1,0 +1,14 @@
+PER	Tom
+EPS	found
+PRO	it
+IST	difficult
+SUB	to
+EXS	finish
+AND	all
+DEF	the
+CON	work
+REL	in
+INT	just
+QUC	one
+CON	day
+NIL	.

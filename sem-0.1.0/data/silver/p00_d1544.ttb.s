@@ -1,0 +1,17 @@
+PRO	I
+ENS	know
+NIL	!
+AND	And
+EXS	let
+PRO	me
+ALT	also
+EXS	say
+SUB	that
+PER	Keiko
+NOW	is
+DIS	a
+IST	SECOND
+CON	cousin
+AND	of
+HAS	mine
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+IST	always
+EXS	fighting
+SUB	when
+PRO	they
+PST	were
+EXS	younger
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+EPS	stood
+IST	up
+COO	and
+EPS	took
+DIS	a
+IST	deep
+CON	breath
+NIL	.

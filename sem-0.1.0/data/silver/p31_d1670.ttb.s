@@ -1,0 +1,11 @@
+PER	Tom
+EPS	moved
+DIS	a
+IST	little
+IST	closer
+SUB	to
+EXS	see
+QUE	what
+PST	was
+EXS	happening
+NIL	.

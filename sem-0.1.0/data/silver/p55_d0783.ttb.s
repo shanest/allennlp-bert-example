@@ -1,0 +1,13 @@
+AND	Quite
+REL	by
+CON	chance
+NIL	,
+PRO	I
+EPS	met
+HAS	my
+IST	old
+CON	friend
+REL	in
+DEF	the
+CON	airport
+NIL	.

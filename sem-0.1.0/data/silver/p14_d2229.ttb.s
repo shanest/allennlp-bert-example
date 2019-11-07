@@ -1,0 +1,10 @@
+PRO	I
+EPS	said
+NOT	nothing
+NIL	,
+AND	which
+EPS	made
+PRO	him
+IST	more
+EXS	furious
+NIL	.

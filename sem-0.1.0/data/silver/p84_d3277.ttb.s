@@ -1,0 +1,16 @@
+PER	Charles
+PER	Moore
+EPS	created
+CON	Forth
+REL	in
+DIS	an
+CON	attempt
+SUB	to
+EXS	increase
+CON	programmer
+CON	productivity
+NOT	without
+EXS	sacrificing
+CON	machine
+CON	efficiency
+NIL	.

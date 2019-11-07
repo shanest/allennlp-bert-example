@@ -1,0 +1,12 @@
+PER	Tom
+EPS	took
+HAS	his
+CON	coat
+REL	off
+DEF	the
+CON	hanger
+COO	and
+EPS	put
+PRO	it
+REL	on
+NIL	.

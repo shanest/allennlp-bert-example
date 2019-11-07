@@ -1,0 +1,12 @@
+QUE	How
+QUV	many
+CON	people
+NOW	do
+PRO	you
+NOW	think
+EXS	die
+REL	from
+CON	cancer
+AND	every
+CON	year
+QUE	?

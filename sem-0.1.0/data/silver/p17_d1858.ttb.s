@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	meet
+PER	Tom
+REL	in
+DEF	the
+CON	lobby
+REL	at
+CLO	2:30
+NIL	.

@@ -1,0 +1,11 @@
+HAS	My
+CON	partner
+COO	and
+PRO	I
+NOW	have
+PFT	been
+EXG	winning
+AND	every
+CON	game
+NOW	today
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+IST	marvelous
+SUB	that
+PRO	he
+NEC	should
+EXT	have
+EXS	done
+AND	such
+DIS	a
+CON	thing
+NIL	.

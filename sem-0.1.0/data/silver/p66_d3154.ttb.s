@@ -1,0 +1,14 @@
+DIS	A
+CON	couple
+AND	of
+CON	years
+PST	ago
+NIL	,
+PRX	this
+CON	book
+PST	was
+EXS	exposed
+AND	as
+DIS	a
+CON	fraud
+NIL	.

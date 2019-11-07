@@ -1,0 +1,10 @@
+PER	Tom
+EPS	started
+EXS	screaming
+EXS	like
+DIS	a
+QUC	15
+UOM	years
+IST	old
+CON	girl
+NIL	.

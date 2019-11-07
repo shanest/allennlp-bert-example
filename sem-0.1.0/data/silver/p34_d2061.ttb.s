@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+NOT	not
+EXG	saying
+PRO	I
+NOW	'm
+MOR	better
+MOR	than
+PER	Tom
+NIL	.

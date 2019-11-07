@@ -1,0 +1,9 @@
+SUB	When
+PRO	he
+EPS	saw
+PRO	me
+NIL	,
+PRO	he
+EPS	ran
+IST	away
+NIL	.

@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+NOT	no
+EXS	use
+EXS	trying
+SUB	to
+EXS	fix
+PRO	it
+NOW	now
+NIL	.

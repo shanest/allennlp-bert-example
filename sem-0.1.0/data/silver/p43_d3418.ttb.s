@@ -1,0 +1,10 @@
+PER	Tom
+ENS	says
+SUB	that
+PRO	he
+HAS	's
+NOT	never
+EPS	lied
+REL	to
+PER	Mary
+NIL	.

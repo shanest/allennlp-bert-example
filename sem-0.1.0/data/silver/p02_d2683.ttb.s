@@ -1,0 +1,10 @@
+PRO	I
+CON	respect
+AND	all
+AND	who
+AND	always
+EXS	give
+PRO	it
+HAS	their
+TOP	best
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	she
+NEC	should
+EXS	be
+EXS	nicer
+REL	to
+PER	John
+NIL	.

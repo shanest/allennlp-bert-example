@@ -1,0 +1,10 @@
+PRO	I
+PST	was
+REL	about
+NIL	to
+EXS	ask
+PRO	you
+DEF	the
+IST	same
+CON	thing
+NIL	.

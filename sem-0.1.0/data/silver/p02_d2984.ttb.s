@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+NOW	is
+QUC	two
+CON	years
+COM	younger
+AND	than
+HAS	my
+ROL	mother
+NIL	.

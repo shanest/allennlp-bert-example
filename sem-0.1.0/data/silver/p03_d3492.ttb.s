@@ -1,0 +1,11 @@
+NIL	"
+PRO	You
+NOW	are
+GEO	Israel
+HAS	's
+ROL	teacher
+NIL	,
+NIL	"
+EPS	said
+PER	Jesus
+NIL	.

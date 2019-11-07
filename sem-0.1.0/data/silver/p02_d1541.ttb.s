@@ -1,0 +1,12 @@
+DIS	A
+IST	farewell
+CON	party
+PST	was
+EXS	held
+REL	in
+CON	honor
+AND	of
+ROL	Mr
+PER	Jones
+PST	yesterday
+NIL	.

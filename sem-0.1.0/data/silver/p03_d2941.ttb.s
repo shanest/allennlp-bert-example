@@ -1,0 +1,10 @@
+PER	Tom
+ENS	knows
+PRO	he
+POS	ca
+NOT	n't
+EXS	change
+PER	Mary
+HAS	's
+CON	mind
+NIL	.

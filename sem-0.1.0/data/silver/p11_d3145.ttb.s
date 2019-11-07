@@ -1,0 +1,15 @@
+CON	Scientists
+FUT	will
+EXS	come
+IST	up
+REL	with
+IST	new
+CON	methods
+AND	of
+EXG	increasing
+DEF	the
+CON	world
+HAS	's
+CON	food
+CON	supply
+NIL	.

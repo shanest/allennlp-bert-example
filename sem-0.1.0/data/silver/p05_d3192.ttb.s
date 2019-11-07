@@ -1,0 +1,12 @@
+PRO	You
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	make
+PER	Tom
+IST	mad
+NIL	,
+NOW	do
+PRO	you
+QUE	?

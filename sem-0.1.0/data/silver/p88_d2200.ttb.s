@@ -1,0 +1,10 @@
+NOW	Do
+NOT	n't
+EXS	worry
+NIL	.
+PRO	It
+FUT	wo
+NOT	n't
+EXS	happen
+ALT	again
+NIL	.

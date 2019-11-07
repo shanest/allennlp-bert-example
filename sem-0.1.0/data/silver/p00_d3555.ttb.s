@@ -1,0 +1,13 @@
+REL	In
+HAS	your
+CON	position
+NIL	,
+PRO	I
+PST	'd
+IST	probably
+EXT	have
+EXT	done
+DEF	the
+IST	same
+CON	thing
+NIL	.

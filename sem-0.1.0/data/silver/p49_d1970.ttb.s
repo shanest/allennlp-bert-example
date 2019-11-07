@@ -1,0 +1,14 @@
+PER	Tom
+IST	finally
+EPS	overcame
+HAS	his
+CON	shyness
+COO	and
+EPS	asked
+PER	Mary
+SUB	to
+EXS	go
+IST	out
+REL	with
+PRO	him
+NIL	.

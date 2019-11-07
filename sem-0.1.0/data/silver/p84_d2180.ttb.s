@@ -1,0 +1,9 @@
+PRO	I
+FUT	would
+NOT	n't
+EXS	say
+PRO	it
+PST	was
+NOT	un
+IST	important
+NIL	.

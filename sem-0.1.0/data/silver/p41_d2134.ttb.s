@@ -1,0 +1,9 @@
+PRO	I
+EPS	found
+PRO	it
+UNK	difficult
+SUB	to
+EXS	use
+DEF	the
+CON	machine
+NIL	.

@@ -1,0 +1,9 @@
+GRE	Hello
+NIL	.
+NOW	Is
+PRX	this
+DEF	the
+ORG	Gotos
+HAS	'
+CON	residence
+QUE	?

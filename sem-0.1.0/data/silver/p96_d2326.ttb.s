@@ -1,0 +1,9 @@
+PRO	She
+ENS	thinks
+AND	of
+REF	herself
+AND	as
+DIS	an
+IST	intelligent
+CON	person
+NIL	.

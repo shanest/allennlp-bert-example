@@ -1,0 +1,16 @@
+DEF	The
+CON	train
+EPS	left
+REL	at
+CLO	ten
+NIL	,
+COO	so
+PRO	it
+NEC	should
+EXT	have
+EXS	arrived
+REL	in
+GEO	Osaka
+REL	by
+NOW	now
+NIL	.

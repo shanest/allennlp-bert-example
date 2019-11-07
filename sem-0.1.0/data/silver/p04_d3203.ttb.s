@@ -1,0 +1,12 @@
+QUE	What
+IMP	if
+DEF	the
+CON	Statue
+AND	of
+CON	Liberty
+PST	was
+EXS	made
+IST	out
+AND	of
+CON	gold
+QUE	?

@@ -1,0 +1,13 @@
+HAS	My
+ROL	sister
+NOW	has
+EXS	traced
+HAS	our
+CON	family
+CON	tree
+IST	back
+REL	to
+DEF	the
+ORD	16th
+CON	century
+NIL	.

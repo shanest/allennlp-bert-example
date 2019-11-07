@@ -1,0 +1,9 @@
+PRO	I
+PST	felt
+COM	better
+AND	after
+PRO	I
+EPS	took
+DIS	a
+CON	rest
+NIL	.

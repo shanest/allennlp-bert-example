@@ -1,0 +1,12 @@
+PER	Tom
+EPS	wrote
+IST	down
+NOT	without
+EXS	fail
+AND	every
+QUC	one
+AND	of
+PER	Mary
+HAS	's
+CON	words
+NIL	.

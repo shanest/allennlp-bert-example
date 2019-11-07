@@ -1,0 +1,14 @@
+AND	Every
+CON	one
+AND	who
+ENS	maintains
+DEF	the
+CON	ability
+NIL	to
+EXS	discover
+CON	beauty
+FUT	will
+NOT	never
+EXS	become
+IST	old
+NIL	.

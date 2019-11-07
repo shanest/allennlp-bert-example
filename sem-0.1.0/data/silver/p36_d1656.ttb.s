@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+NOT	n't
+EXS	surprised
+SUB	when
+PER	Mary
+EPS	showed
+IST	up
+IST	early
+NIL	.

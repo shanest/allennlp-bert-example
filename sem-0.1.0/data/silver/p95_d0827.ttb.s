@@ -1,0 +1,10 @@
+PRO	He
+EPS	gave
+PRO	me
+DIS	a
+CON	ride
+REL	to
+DEF	the
+GEO	Narita
+CON	airport
+NIL	.

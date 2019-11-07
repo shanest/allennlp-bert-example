@@ -1,0 +1,10 @@
+PER	Tom
+EPS	wrote
+DIS	a
+CON	message
+REL	on
+DIS	a
+CON	slip
+AND	of
+CON	paper
+NIL	.

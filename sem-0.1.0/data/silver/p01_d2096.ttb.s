@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	like
+NIL	to
+EXS	go
+AND	outside
+SUB	when
+PRO	it
+NOW	's
+EXG	raining
+NIL	.

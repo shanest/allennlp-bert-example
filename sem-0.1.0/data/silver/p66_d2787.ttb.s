@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+EXS	dangerous
+SUB	to
+EXS	play
+REL	in
+DEF	the
+CON	street
+NIL	.

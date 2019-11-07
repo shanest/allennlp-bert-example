@@ -1,0 +1,9 @@
+NOW	Do
+NOT	n't
+EXS	play
+EXS	dumb
+NIL	.
+PRO	I
+ENS	know
+PRO	you
+NIL	.

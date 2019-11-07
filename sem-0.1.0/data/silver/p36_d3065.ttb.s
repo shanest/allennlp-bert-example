@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	go
+COO	and
+EXS	get
+HAS	my
+ROL	driver
+HAS	's
+CON	license
+NIL	.

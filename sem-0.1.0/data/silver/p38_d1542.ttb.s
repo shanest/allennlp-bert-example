@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	going
+REL	for
+DIS	a
+CON	run
+NIL	.
+NOW	Do
+PRO	you
+ENS	want
+SUB	to
+EXS	come
+QUE	?

@@ -1,0 +1,17 @@
+DIS	A
+CON	drunkard
+NOW	is
+DIS	somebody
+PRO	you
+NOW	do
+NOT	n't
+EXS	like
+AND	and
+AND	who
+CON	drinks
+AND	as
+QUC	much
+AND	as
+PRO	you
+NOW	do
+NIL	.

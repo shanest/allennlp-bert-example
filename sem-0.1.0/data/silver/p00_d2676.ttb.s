@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+IST	nice
+SUB	that
+PER	Tom
+IST	finally
+ENS	has
+DIS	a
+CON	hobby
+NIL	.

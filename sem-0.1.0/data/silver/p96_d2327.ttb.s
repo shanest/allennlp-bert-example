@@ -1,0 +1,11 @@
+PER	Tom
+EPS	lay
+EXS	awake
+REL	for
+DIS	a
+IST	long
+CON	time
+EXS	thinking
+REL	about
+PER	Mary
+NIL	.

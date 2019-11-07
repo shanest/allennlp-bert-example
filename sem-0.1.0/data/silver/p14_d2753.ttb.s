@@ -1,0 +1,11 @@
+PRO	I
+NOW	spend
+TOP	at
+EXS	least
+QUC	three
+CON	hours
+DIS	a
+CON	week
+EXG	studying
+GPO	French
+NIL	.

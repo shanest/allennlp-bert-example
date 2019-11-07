@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+SUB	when
+DEF	the
+CON	musician
+FUT	will
+EXS	come
+PRX	here
+QUE	?

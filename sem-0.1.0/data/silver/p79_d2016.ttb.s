@@ -1,0 +1,9 @@
+PRO	He
+EPS	admitted
+SUB	that
+PRO	he
+PST	had
+EXS	committed
+DEF	the
+CON	crime
+NIL	.

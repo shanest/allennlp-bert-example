@@ -1,0 +1,11 @@
+QUE	How
+QUV	many
+CON	people
+EPS	drowned
+SUB	when
+DEF	the
+ART	Estonia
+EPS	capsized
+AND	and
+EXS	sunk
+QUE	?

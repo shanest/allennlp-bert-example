@@ -1,0 +1,13 @@
+DEF	The
+GPO	Italian
+EPS	paid
+REL	for
+HAS	his
+CON	coffee
+REL	in
+GPE	Germany
+REL	with
+GPO	Greek
+CON	euro
+CON	coins
+NIL	.

@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+PST	was
+IST	ever
+IST	able
+SUB	to
+EXS	solve
+DEF	the
+CON	riddle
+NIL	.

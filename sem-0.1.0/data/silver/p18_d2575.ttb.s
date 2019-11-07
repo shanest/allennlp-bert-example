@@ -1,0 +1,12 @@
+NIL	"
+DIS	Someone
+EPS	farted
+NIL	.
+NIL	"
+NIL	"
+PRO	It
+PST	was
+NOT	n't
+PRO	me
+NIL	!
+NIL	"

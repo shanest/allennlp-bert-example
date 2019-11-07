@@ -1,0 +1,11 @@
+PRO	I
+EPS	thought
+PRO	you
+NIL	,
+AND	of
+AND	all
+CON	people
+NIL	,
+FUT	would
+EXS	understand
+NIL	.

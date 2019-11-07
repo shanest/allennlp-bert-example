@@ -1,0 +1,12 @@
+PRO	We
+GPE	Germans
+NOW	fear
+CON	God
+NIL	,
+BUT	but
+NOT	nothing
+AND	else
+REL	in
+DEF	the
+CON	world
+NIL	.

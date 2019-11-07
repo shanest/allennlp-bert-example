@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+IST	hard
+SUB	to
+EXS	imagine
+DIS	a
+CON	life
+NOT	without
+CON	pets
+NIL	.

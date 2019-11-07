@@ -1,0 +1,9 @@
+PRO	I
+ENS	wish
+NIL	to
+EXS	become
+DIS	a
+ROL	dentist
+REL	in
+FUT	future
+NIL	.

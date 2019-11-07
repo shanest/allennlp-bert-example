@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	got
+EXS	married
+DIS	a
+IST	few
+CON	years
+PST	ago
+NIL	.

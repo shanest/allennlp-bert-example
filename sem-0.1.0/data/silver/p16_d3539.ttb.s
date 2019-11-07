@@ -1,0 +1,14 @@
+PER	Mary
+IST	usually
+NOW	gives
+PER	Tom
+DEF	the
+IST	silent
+CON	treatment
+SUB	after
+PRO	they
+NOW	've
+EXS	had
+DIS	an
+CON	argument
+NIL	.

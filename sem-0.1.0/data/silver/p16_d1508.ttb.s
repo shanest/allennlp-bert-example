@@ -1,0 +1,10 @@
+QUE	Which
+NOW	is
+TOP	best
+NIL	,
+COL	white
+EXS	thread
+DIS	or
+IST	red
+CON	thread
+QUE	?

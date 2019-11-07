@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+EXS	dying
+SUB	to
+EXS	see
+QUE	what
+HAS	's
+AND	inside
+PRX	this
+CON	box
+NIL	.

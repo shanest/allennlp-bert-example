@@ -1,0 +1,9 @@
+PER	Tom
+ENS	wants
+SUB	to
+EXS	take
+PER	Mary
+IST	out
+FUT	tomorrow
+CON	night
+NIL	.

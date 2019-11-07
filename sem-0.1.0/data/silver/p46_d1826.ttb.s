@@ -1,0 +1,10 @@
+PER	Jane
+EPS	lent
+PRO	me
+PRX	this
+CON	book
+AND	of
+HAS	hers
+IST	last
+CON	week
+NIL	.

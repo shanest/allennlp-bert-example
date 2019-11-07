@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	had
+DIS	a
+CON	reply
+REL	to
+HAS	my
+CON	letter
+NIL	.

@@ -1,0 +1,10 @@
+PRO	They
+EPS	took
+PRO	him
+REL	to
+DEF	the
+CON	hospital
+REL	for
+HAS	his
+CON	fever
+NIL	.

@@ -1,0 +1,11 @@
+EXS	Let
+PRO	's
+NOT	not
+EXS	forget
+DEF	the
+IST	real
+CON	reason
+PRO	we
+NOW	're
+PRX	here
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+NOW	goes
+NOT	without
+EXG	saying
+DST	that
+CON	smoking
+NOW	is
+EXS	bad
+REL	for
+DEF	the
+CON	health
+NIL	.

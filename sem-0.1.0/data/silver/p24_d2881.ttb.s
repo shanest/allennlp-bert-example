@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+EXS	foolish
+SUB	to
+EXS	equate
+CON	money
+REL	with
+CON	happiness
+NIL	.

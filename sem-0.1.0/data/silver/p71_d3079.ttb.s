@@ -1,0 +1,11 @@
+AND	Even
+NOW	today
+NIL	,
+PRO	I
+IST	still
+NOW	think
+AND	of
+HAS	my
+PST	ex
+ROL	husband
+NIL	.

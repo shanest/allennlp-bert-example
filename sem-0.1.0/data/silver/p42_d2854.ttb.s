@@ -1,0 +1,15 @@
+DEF	The
+XCL	only
+CON	time
+HAS	my
+CON	son
+ENS	talks
+REL	to
+PRO	me
+NOW	is
+SUB	when
+PRO	he
+ENS	needs
+DIS	some
+CON	money
+NIL	.

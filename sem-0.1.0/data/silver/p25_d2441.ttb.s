@@ -1,0 +1,14 @@
+AND	Last
+DOW	Saturday
+NIL	,
+HAS	my
+CON	family
+EPS	went
+REL	to
+DEF	the
+CON	zoo
+SUB	to
+EXS	see
+DEF	the
+CON	pandas
+NIL	.

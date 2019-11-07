@@ -1,0 +1,11 @@
+UNK	There
+NOW	are
+XCL	only
+DIS	a
+IST	few
+CON	consequences
+AND	of
+EXG	closing
+DEF	the
+CON	canteen
+NIL	.

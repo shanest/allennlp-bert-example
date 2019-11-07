@@ -1,0 +1,13 @@
+PER	Tom
+EPS	advised
+PER	Mary
+SUB	to
+EXS	go
+REL	to
+DEF	the
+CON	doctor
+AND	about
+HAS	her
+CON	stomach
+CON	cramps
+NIL	.

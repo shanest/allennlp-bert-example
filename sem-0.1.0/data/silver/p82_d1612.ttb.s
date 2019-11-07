@@ -1,0 +1,9 @@
+QUE	What
+PRO	he
+EPS	thought
+PST	was
+EXS	bound
+IST	up
+REL	with
+CON	Buddhism
+NIL	.

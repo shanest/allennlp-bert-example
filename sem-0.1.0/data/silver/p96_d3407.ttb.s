@@ -1,0 +1,10 @@
+PST	Thank
+PRO	you
+REL	for
+DEF	the
+CON	chocolate
+NIL	.
+PRO	It
+PST	was
+IST	delicious
+NIL	.

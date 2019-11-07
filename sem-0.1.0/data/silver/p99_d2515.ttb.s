@@ -1,0 +1,9 @@
+CON	Being
+EPS	kissed
+REL	on
+DEF	the
+CON	lips
+NOW	makes
+PRO	me
+EXS	happy
+NIL	.

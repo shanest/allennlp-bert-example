@@ -1,0 +1,11 @@
+UNK	There
+NOW	are
+QUV	many
+ROL	politicians
+AND	who
+NOW	do
+NOT	n't
+EXS	keep
+HAS	their
+CON	promises
+NIL	.

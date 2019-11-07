@@ -1,0 +1,11 @@
+DEF	The
+CON	game
+EPS	ended
+REL	in
+DIS	a
+CON	draw
+REL	with
+DIS	a
+CON	score
+SCO	6-6
+NIL	.

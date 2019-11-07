@@ -1,0 +1,9 @@
+ITJ	Oh
+CON	shit
+NIL	!
+PRO	I
+NOW	've
+EXS	lost
+HAS	my
+CON	keys
+NIL	!

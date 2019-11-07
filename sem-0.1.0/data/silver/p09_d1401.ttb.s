@@ -1,0 +1,9 @@
+FUT	Will
+PRO	you
+EXS	be
+EXG	taking
+DIS	a
+CON	holiday
+PRX	this
+CON	year
+QUE	?

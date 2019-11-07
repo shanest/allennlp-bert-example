@@ -1,0 +1,13 @@
+CON	Sorry
+NIL	,
+PRO	I
+IST	still
+NOW	do
+NOT	n't
+EXS	know
+IST	enough
+REL	to
+CON	reply
+REL	in
+CON	Esperanto
+NIL	.

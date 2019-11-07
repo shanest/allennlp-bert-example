@@ -1,0 +1,13 @@
+IMP	If
+DEF	the
+CON	shop
+NOW	is
+EXS	closed
+NOW	today
+NIL	,
+PRO	I
+FUT	'll
+EXS	try
+ALT	again
+FUT	tomorrow
+NIL	.

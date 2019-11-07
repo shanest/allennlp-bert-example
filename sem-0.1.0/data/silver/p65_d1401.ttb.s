@@ -1,0 +1,13 @@
+PER	Tom
+EPS	took
+CON	half
+AND	of
+DEF	the
+CON	cookies
+COO	and
+EPS	put
+PRO	them
+REL	on
+HAS	his
+CON	plate
+NIL	.

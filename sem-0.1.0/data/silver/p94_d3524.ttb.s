@@ -1,0 +1,12 @@
+QUC	One
+AND	of
+PER	Tom
+HAS	's
+CON	friends
+PST	was
+EXS	killed
+REL	in
+DIS	a
+CON	traffic
+CON	accident
+NIL	.

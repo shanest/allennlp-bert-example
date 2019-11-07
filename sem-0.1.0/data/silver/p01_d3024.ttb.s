@@ -1,0 +1,17 @@
+NIL	There
+NOW	is
+NOT	no
+ALT	other
+CON	country
+REL	in
+DEF	the
+CON	world
+SUB	where
+CON	earthquakes
+NOW	are
+AND	as
+IST	frequent
+AND	as
+REL	in
+GPE	Japan
+NIL	.

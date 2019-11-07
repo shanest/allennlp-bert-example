@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	afraid
+SUB	that
+PRO	she
+FUT	'll
+EXS	refuse
+HAS	my
+CON	request
+NIL	.

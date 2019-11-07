@@ -1,0 +1,10 @@
+REL	By
+DEF	the
+CON	way
+NIL	,
+HAS	my
+GPO	English
+NOW	is
+IST	absolutely
+EXS	hopeless
+NIL	.

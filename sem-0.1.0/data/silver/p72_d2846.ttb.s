@@ -1,0 +1,10 @@
+PRO	He
+HAS	's
+PFT	been
+EXS	waiting
+PRX	here
+REL	for
+IST	quite
+DIS	a
+CON	while
+NIL	.

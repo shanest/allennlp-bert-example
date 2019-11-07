@@ -1,0 +1,15 @@
+PRO	I
+NOW	respect
+HAS	my
+ROL	uncle
+NIL	,
+COO	so
+PRO	I
+EPS	named
+HAS	my
+ORD	first
+ROL	son
+PER	John
+REL	after
+PRO	him
+NIL	.

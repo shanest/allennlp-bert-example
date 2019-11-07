@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+SUB	when
+PRO	we
+NOW	're
+EXS	supposed
+SUB	to
+EXS	be
+IST	there
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+ROL	lawyer
+PST	recommended
+HAS	his
+CON	client
+SUB	to
+EXS	take
+IST	legal
+CON	action
+NIL	.

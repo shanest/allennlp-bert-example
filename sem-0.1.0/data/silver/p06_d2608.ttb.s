@@ -1,0 +1,10 @@
+PRO	He
+POS	ca
+NOT	n't
+EXS	read
+GPO	English
+NIL	,
+QUV	much
+IST	less
+GPO	German
+NIL	.

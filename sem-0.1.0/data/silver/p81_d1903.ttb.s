@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	what
+PRO	's
+EXG	bothering
+PER	Mary
+NIL	.

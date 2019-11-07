@@ -1,0 +1,11 @@
+PER	Tom
+EPS	wanted
+PRO	me
+SUB	to
+EXS	find
+IST	out
+SUB	where
+PRO	you
+NOW	've
+EXS	been
+NIL	.

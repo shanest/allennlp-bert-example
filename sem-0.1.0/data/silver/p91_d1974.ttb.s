@@ -1,0 +1,9 @@
+PER	Markku
+EPS	went
+REL	with
+DIS	a
+CON	neighbor
+REL	to
+DIS	a
+CON	nightclub
+NIL	.

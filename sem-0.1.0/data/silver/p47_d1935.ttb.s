@@ -1,0 +1,13 @@
+PRO	I
+EPS	paid
+QUC	2,000
+UOM	yen
+REL	for
+DEF	the
+CON	parcel
+SUB	to
+EXS	be
+EXS	sent
+REL	by
+CON	air
+NIL	.

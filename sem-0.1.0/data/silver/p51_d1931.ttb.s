@@ -1,0 +1,10 @@
+HAS	Your
+IST	poor
+CON	memory
+NOW	is
+IST	due
+REL	to
+EXS	poor
+EXS	listening
+CON	habits
+NIL	.

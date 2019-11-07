@@ -1,0 +1,9 @@
+PRX	This
+NOW	is
+DEF	the
+CON	letter
+EXS	written
+REL	by
+ROL	Mr.
+PER	Brown
+NIL	.

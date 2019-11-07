@@ -1,0 +1,10 @@
+HAS	My
+CON	friend
+EPS	invited
+PRO	me
+REL	to
+CON	dinner
+REL	at
+DEF	the
+CON	restaurant
+NIL	.

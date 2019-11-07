@@ -1,0 +1,13 @@
+QUE	How
+IST	long
+PST	were
+PRO	you
+EXS	planning
+SUB	on
+EXG	keeping
+PRX	this
+DIS	a
+CON	secret
+REL	from
+PRO	me
+QUE	?

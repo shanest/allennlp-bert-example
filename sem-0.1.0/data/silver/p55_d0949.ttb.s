@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	living
+CON	proof
+AND	that
+CON	death
+POS	can
+EXS	be
+EXS	overcome
+NIL	.

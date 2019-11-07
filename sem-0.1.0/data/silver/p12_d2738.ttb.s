@@ -1,0 +1,17 @@
+SUB	When
+NEC	shall
+PRO	we
+QUC	three
+ENS	meet
+ALT	again
+QUE	?
+REL	In
+CON	thunder
+NIL	,
+REL	in
+CON	lightning
+EQU	,
+DIS	or
+REL	in
+CON	rain
+QUE	?

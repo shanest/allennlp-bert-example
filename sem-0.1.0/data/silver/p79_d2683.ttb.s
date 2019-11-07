@@ -1,0 +1,11 @@
+PRO	You
+NOW	're
+AND	just
+DEF	the
+CON	person
+PRO	we
+NOW	've
+PFT	been
+EXG	looking
+REL	for
+NIL	.

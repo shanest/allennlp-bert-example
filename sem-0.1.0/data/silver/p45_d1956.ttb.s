@@ -1,0 +1,9 @@
+HAS	My
+ROL	sister
+NOW	has
+PFT	been
+EXS	knitting
+REL	since
+PRX	this
+CON	morning
+NIL	.

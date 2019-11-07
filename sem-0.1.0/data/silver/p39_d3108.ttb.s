@@ -1,0 +1,14 @@
+NIL	"
+ORG	Nature
+NOW	is
+IST	cruel
+AND	and
+IST	beautiful
+NIL	...
+AND	like
+PRO	me
+NIL	,
+NIL	"
+EPS	said
+PER	Mary
+NIL	.

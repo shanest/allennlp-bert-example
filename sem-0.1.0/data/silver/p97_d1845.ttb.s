@@ -1,0 +1,15 @@
+SUB	When
+PRO	I
+EPS	came
+REL	into
+DEF	the
+CON	room
+NIL	,
+PRO	I
+EPS	found
+PER	Tom
+EXS	unconscious
+REL	on
+DEF	the
+CON	floor
+NIL	.

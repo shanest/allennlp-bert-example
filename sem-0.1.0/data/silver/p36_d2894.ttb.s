@@ -1,0 +1,13 @@
+PRO	We
+EPS	spent
+DEF	the
+IST	whole
+CON	day
+IST	there
+NIL	.
+AND	Just
+DEF	the
+QUC	two
+AND	of
+PRO	us
+NIL	.

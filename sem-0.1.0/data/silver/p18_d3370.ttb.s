@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+EXS	got
+DIS	a
+CON	feeling
+PER	Tom
+NOW	is
+IST	still
+PRX	here
+REL	in
+GPE	Boston
+NIL	.

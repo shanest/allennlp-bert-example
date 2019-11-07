@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	got
+EXS	rid
+AND	of
+HAS	my
+CON	cold
+ALT	yet
+NIL	.

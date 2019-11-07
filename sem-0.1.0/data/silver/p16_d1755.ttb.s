@@ -1,0 +1,15 @@
+PRO	I
+EPS	told
+PRO	her
+SUB	to
+EXS	tell
+PRO	me
+DEF	the
+CON	truth
+NIL	,
+BUT	but
+PRO	she
+EPS	shook
+HAS	her
+CON	head
+NIL	.

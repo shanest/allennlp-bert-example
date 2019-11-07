@@ -1,0 +1,11 @@
+SUB	Since
+PRO	I
+PST	was
+EXS	cold
+NIL	,
+PRO	I
+EPS	put
+REL	on
+HAS	my
+CON	coat
+NIL	.

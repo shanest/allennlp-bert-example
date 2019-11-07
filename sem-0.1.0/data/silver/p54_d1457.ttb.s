@@ -1,0 +1,12 @@
+PER	Tom
+EPS	looked
+AND	like
+PRO	he
+PST	was
+IST	ready
+SUB	to
+EXS	jump
+AND	out
+DIS	a
+CON	window
+NIL	.

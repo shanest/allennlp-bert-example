@@ -1,0 +1,9 @@
+PRO	It
+HAS	's
+NOT	never
+INT	too
+IST	late
+SUB	to
+EXS	say
+NOT	no
+NIL	.

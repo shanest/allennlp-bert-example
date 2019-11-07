@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	need
+PRO	me
+SUB	to
+EXS	give
+PRO	you
+DIS	some
+CON	money
+QUE	?

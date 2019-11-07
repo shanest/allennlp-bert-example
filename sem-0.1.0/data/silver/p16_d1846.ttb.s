@@ -1,0 +1,13 @@
+NIL	"
+PRO	I
+EPS	fixed
+DEF	the
+CON	computer
+NIL	.
+NIL	"
+NIL	"
+ITJ	Yeah
+NIL	,
+CON	right
+NIL	.
+NIL	"

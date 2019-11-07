@@ -1,0 +1,11 @@
+PRO	I
+FUT	'll
+EXS	save
+PRO	him
+NIL	!
+PRO	I
+FUT	'll
+EXS	save
+HAS	my
+ROL	father
+NIL	!

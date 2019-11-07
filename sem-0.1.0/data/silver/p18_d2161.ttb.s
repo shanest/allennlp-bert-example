@@ -1,0 +1,12 @@
+PRO	They
+EPS	stopped
+EXS	talking
+AND	as
+IST	soon
+SUB	as
+PRO	I
+EPS	came
+REL	into
+DEF	the
+CON	room
+NIL	.

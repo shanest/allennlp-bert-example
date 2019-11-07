@@ -1,0 +1,9 @@
+DST	That
+CON	man
+PRO	's
+EXT	helped
+HAS	my
+CON	family
+DIS	a
+CON	lot
+NIL	.

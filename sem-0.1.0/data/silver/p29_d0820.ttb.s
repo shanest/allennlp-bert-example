@@ -1,0 +1,16 @@
+PRO	I
+NOW	have
+EXS	lost
+HAS	my
+CON	umbrella
+DIS	somewhere
+REL	in
+DEF	the
+CON	park
+NIL	.
+PRO	I
+NEC	have
+SUB	to
+EXS	buy
+QUC	one
+NIL	.

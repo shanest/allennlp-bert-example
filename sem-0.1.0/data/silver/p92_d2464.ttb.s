@@ -1,0 +1,9 @@
+HAS	My
+IST	little
+ROL	sister
+POS	can
+EXS	read
+CON	books
+NIL	well
+NOW	now
+NIL	.

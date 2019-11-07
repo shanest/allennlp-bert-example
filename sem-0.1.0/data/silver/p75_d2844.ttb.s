@@ -1,0 +1,10 @@
+DEF	The
+CON	pen
+PRO	I
+NOW	am
+EXS	writing
+REL	with
+NOW	belongs
+REL	to
+PER	Tom
+NIL	.

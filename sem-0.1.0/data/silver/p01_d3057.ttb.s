@@ -1,0 +1,10 @@
+NIL	There
+NOW	is
+DIS	a
+IST	small
+COL	brown
+CON	dog
+REL	under
+DST	that
+CON	table
+NIL	.

@@ -1,0 +1,9 @@
+PRX	This
+NOW	is
+DIS	a
+CON	doll
+AND	which
+PRO	she
+EPS	made
+REF	herself
+NIL	.

@@ -1,0 +1,14 @@
+PRO	I
+EPS	got
+IST	up
+REL	at
+CLO	six
+NIL	,
+EPS	ate
+CON	breakfast
+COO	and
+IST	then
+EPS	went
+REL	to
+CON	school
+NIL	.

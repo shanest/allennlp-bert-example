@@ -1,0 +1,12 @@
+PER	Tom
+PST	persuaded
+DEF	the
+CON	store
+CON	manager
+SUB	to
+EXS	give
+PRO	him
+IST	back
+HAS	his
+CON	money
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+ENS	want
+NIL	to
+EXS	see
+DIS	a
+CON	picture
+AND	of
+PER	Tom
+QUE	?

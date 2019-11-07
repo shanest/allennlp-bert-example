@@ -1,0 +1,13 @@
+PRO	I
+EPS	intended
+SUB	to
+EXS	go
+REL	with
+PRO	her
+NIL	,
+BUT	but
+PRO	I
+PST	was
+INT	too
+IST	busy
+NIL	.

@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+REL	by
+CON	smithing
+SUB	that
+CON	one
+NOW	becomes
+DIS	a
+CON	blacksmith
+NIL	.

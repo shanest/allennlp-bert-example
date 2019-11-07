@@ -1,0 +1,11 @@
+NIL	There
+NOW	are
+NOT	n't
+AND	any
+CON	fish
+EXG	living
+REL	in
+PRX	this
+CON	river
+CON	anymore
+NIL	.

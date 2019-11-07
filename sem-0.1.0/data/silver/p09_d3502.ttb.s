@@ -1,0 +1,31 @@
+PER	Kamui no Ken
+PST	was
+DIS	a
+CON	sort
+AND	of
+DEF	samurai
+IST	/
+CON	ninja
+CON	story
+EXS	set
+AND	during
+DEF	the
+CON	transition
+AND	of
+DEF	the
+CON	fall
+AND	of
+DEF	the
+ORG	Tokugawa Shogunate
+AND	and
+DEF	the
+CON	re-establishment
+AND	of
+GPE	Japan
+REL	under
+DEF	the
+PER	Emperor
+ORG	Meiji
+REL	in
+YOC	1868
+NIL	.

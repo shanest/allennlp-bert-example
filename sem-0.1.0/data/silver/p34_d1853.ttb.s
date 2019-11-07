@@ -1,0 +1,10 @@
+PRO	We
+FUT	will
+FUT	someday
+EXS	make
+DEF	the
+CON	world
+DIS	a
+IST	better
+CON	place
+NIL	.

@@ -1,0 +1,12 @@
+PRO	You
+NOW	are
+DEF	the
+XCL	only
+CON	person
+SUB	that
+PRO	I
+ENS	know
+PRX	here
+REL	in
+GPE	Boston
+NIL	.

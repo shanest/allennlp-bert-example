@@ -1,0 +1,15 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	read
+PRX	this
+IST	new
+CON	novel
+NIL	,
+COO	and
+HAS	my
+ROL	sister
+NOW	has
+NOT	n't
+IST	either
+NIL	.

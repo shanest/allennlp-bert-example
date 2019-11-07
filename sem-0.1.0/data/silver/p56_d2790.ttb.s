@@ -1,0 +1,10 @@
+PRX	This
+CON	novel
+NOW	has
+PFT	been
+EXS	published
+REL	in
+GPO	French
+AND	as
+IST	well
+NIL	.

@@ -1,0 +1,11 @@
+PRO	You
+NEC	have
+SUB	to
+EXS	make
+IST	up
+DEF	the
+CON	time
+PRO	you
+NOW	have
+EXS	lost
+NIL	.

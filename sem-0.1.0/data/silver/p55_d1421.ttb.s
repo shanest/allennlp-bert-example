@@ -1,0 +1,10 @@
+PRO	It
+EPS	took
+PRO	me
+DIS	a
+IST	long
+CON	time
+SUB	to
+EXS	fall
+EXS	asleep
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+EPS	threw
+DIS	something
+REL	at
+PRO	me
+COO	and
+PRO	I
+EPS	ducked
+NIL	.

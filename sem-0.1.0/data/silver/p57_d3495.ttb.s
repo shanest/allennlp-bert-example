@@ -1,0 +1,11 @@
+CON	Thanks
+EQU	,
+PER	Tom
+NIL	.
+PRO	You
+NOW	've
+EXS	been
+DIS	a
+IST	big
+CON	help
+NIL	!

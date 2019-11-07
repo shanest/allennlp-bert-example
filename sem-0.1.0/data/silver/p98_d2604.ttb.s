@@ -1,0 +1,15 @@
+AND	Out
+AND	of
+DIS	a
+QUC	hundred
+CON	soldiers
+NIL	,
+QUC	ten
+EPS	returned
+NOT	un
+EXS	harmed
+NIL	,
+DEF	the
+CON	rest
+EPS	died
+NIL	.

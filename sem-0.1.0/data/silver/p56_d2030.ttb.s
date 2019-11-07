@@ -1,0 +1,13 @@
+REL	On
+DOW	Friday
+CON	nights
+NIL	,
+PRO	I
+IST	often
+ENS	go
+EXS	eat
+CON	pizza
+REL	with
+HAS	my
+CON	friends
+NIL	.

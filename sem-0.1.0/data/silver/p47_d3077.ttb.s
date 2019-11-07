@@ -1,0 +1,10 @@
+POS	May
+PRO	I
+NOW	have
+DIS	a
+CON	glass
+AND	of
+CON	milk
+NIL	,
+IST	please
+QUE	?

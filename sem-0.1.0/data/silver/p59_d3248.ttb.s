@@ -1,0 +1,10 @@
+PRX	This
+EPS	meant
+GEO	Florida
+NEC	had
+SUB	to
+EXS	count
+DEF	the
+CON	votes
+ALT	again
+NIL	.

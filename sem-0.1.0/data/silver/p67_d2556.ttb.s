@@ -1,0 +1,11 @@
+PRO	It
+NOW	does
+NOT	n't
+EXS	look
+AND	like
+PRO	it
+NOW	's
+EXS	going
+SUB	to
+CON	rain
+NIL	.

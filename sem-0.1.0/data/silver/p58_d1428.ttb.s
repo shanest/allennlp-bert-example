@@ -1,0 +1,11 @@
+PRO	They
+EPS	paid
+PRO	him
+SUB	to
+EXS	write
+DIS	a
+CON	letter
+REL	to
+DEF	the
+ROL	president
+NIL	.

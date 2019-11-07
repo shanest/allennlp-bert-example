@@ -1,0 +1,10 @@
+PRO	He
+EPS	beat
+REL	on
+DIS	a
+IST	drunken
+CON	man
+REL	with
+HAS	his
+CON	stick
+NIL	.

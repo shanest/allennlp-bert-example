@@ -1,0 +1,9 @@
+DEF	The
+CON	river
+ENS	flows
+INT	too
+IST	fast
+NIL	to
+EXS	swim
+REL	in
+NIL	.

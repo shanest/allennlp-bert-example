@@ -1,0 +1,11 @@
+PRO	They
+EPS	killed
+PER	Tom
+AND	as
+DIS	an
+CON	example
+REL	to
+DEF	the
+ALT	other
+CON	prisoners
+NIL	.

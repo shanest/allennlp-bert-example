@@ -1,0 +1,16 @@
+EXS	Let
+PRO	me
+EXS	reassure
+PRO	you
+NIL	.
+PRO	I
+IST	myself
+NOW	do
+NOT	n't
+IST	always
+EXS	understand
+QUE	what
+PRO	I
+NOW	've
+EXS	written
+NIL	.

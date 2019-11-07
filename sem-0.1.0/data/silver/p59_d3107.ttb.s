@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	tried
+SUB	to
+EXS	learn
+ALT	another
+CON	language
+QUE	?

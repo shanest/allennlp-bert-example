@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	thinking
+AND	of
+EXS	going
+REL	to
+DEF	the
+CON	States
+AND	during
+DEF	the
+CON	summer
+CON	vacation
+NIL	.

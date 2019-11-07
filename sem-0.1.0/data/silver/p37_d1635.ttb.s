@@ -1,0 +1,11 @@
+CON	Parents
+NOW	teach
+HAS	their
+CON	children
+SUB	that
+PRO	it
+NOW	's
+EXS	wrong
+SUB	to
+EXS	lie
+NIL	.

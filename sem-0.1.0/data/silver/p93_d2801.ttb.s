@@ -1,0 +1,10 @@
+GRE	Hi
+NIL	,
+PRO	I
+FUT	'd
+EXS	like
+DIS	a
+IST	deep-fried
+CON	pizza
+EXS	roll
+NIL	.

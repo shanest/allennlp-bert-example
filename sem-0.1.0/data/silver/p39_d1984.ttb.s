@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	used
+SUB	to
+EXS	going
+REL	to
+CON	bed
+INT	very
+IST	late
+NIL	.

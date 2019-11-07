@@ -1,0 +1,11 @@
+PER	Mary
+NOT	never
+ENS	wears
+DEF	the
+IST	same
+CON	clothes
+QUC	twice
+REL	in
+DIS	a
+CON	week
+NIL	.

@@ -1,0 +1,10 @@
+FUT	Will
+PRO	you
+EXS	listen
+REL	to
+PRO	me
+REL	for
+DIS	a
+IST	few
+CON	minutes
+QUE	?

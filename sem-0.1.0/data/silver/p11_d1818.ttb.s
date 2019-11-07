@@ -1,0 +1,11 @@
+PER	Tom
+FUT	wo
+NOT	n't
+EXS	tell
+PRO	me
+EQU	exactly
+QUE	why
+PRO	he
+PST	was
+IST	late
+NIL	.

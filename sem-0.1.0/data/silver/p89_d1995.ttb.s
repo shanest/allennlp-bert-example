@@ -1,0 +1,10 @@
+PRO	I
+NOW	see
+PRO	him
+REL	in
+DEF	the
+CON	library
+NOW	now
+AND	and
+IST	then
+NIL	.

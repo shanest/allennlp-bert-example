@@ -1,0 +1,10 @@
+PER	Tom
+EPS	lay
+EXS	awake
+AND	almost
+AND	all
+CON	night
+EXS	thinking
+REL	about
+PER	Mary
+NIL	.

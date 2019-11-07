@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	understand
+DIS	a
+CON	word
+AND	of
+QUE	what
+PRO	he
+ENS	says
+NIL	.

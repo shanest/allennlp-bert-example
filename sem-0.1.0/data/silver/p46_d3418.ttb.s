@@ -1,0 +1,11 @@
+PRO	I
+PST	was
+EXS	told
+SUB	that
+PRO	you
+ENS	know
+PER	Tom
+HAS	's
+CON	telephone
+CON	number
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+PST	was
+EXS	born
+REL	in
+GPE	Italy
+NIL	,
+AND	therefore
+PRO	I
+NOW	am
+INT	very
+EXS	handsome
+NIL	.

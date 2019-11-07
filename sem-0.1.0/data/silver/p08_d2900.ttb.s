@@ -1,0 +1,10 @@
+PRO	I
+ENS	wish
+PRO	I
+PST	had
+EXS	studied
+COM	harder
+REL	in
+HAS	my
+CON	youth
+NIL	.

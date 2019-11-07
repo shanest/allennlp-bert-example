@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+EXS	visited
+DEF	the
+CON	place
+CON	time
+REL	after
+CON	time
+NIL	.

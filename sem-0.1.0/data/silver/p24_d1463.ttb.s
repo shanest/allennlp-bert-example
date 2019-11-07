@@ -1,0 +1,11 @@
+PRO	I
+IST	really
+NOW	do
+NOT	n't
+EXS	want
+AND	anything
+SUB	to
+EXS	eat
+IST	right
+NOW	now
+NIL	.

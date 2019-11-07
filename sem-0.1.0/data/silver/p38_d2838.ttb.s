@@ -1,0 +1,12 @@
+QUE	Why
+NOW	are
+PRO	you
+EXG	giving
+PRO	me
+CON	money
+QUE	?
+DST	That
+HAS	's
+NOT	not
+IST	normal
+NIL	.

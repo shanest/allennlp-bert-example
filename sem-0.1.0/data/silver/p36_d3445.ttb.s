@@ -1,0 +1,10 @@
+PRO	I
+EPS	bought
+DIS	some
+IST	new
+CON	wife-beaters
+REL	at
+DEF	the
+CON	mall
+NOW	today
+NIL	.

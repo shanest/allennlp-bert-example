@@ -1,0 +1,10 @@
+UNK	There
+NOW	is
+ALT	another
+CON	question
+ALT	too
+SUB	that
+PRO	we
+NEC	must
+EXS	discuss
+NIL	.

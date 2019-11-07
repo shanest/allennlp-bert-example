@@ -1,0 +1,9 @@
+QUE	What
+NOW	is
+GPE	Albania
+HAS	's
+IST	former
+CON	secret
+CON	service
+EPS	called
+QUE	?

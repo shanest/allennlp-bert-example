@@ -1,0 +1,15 @@
+NOW	Now
+SUB	that
+PRO	I
+NOW	have
+CON	children
+NIL	,
+PRO	I
+FUT	will
+EXS	hold
+IST	out
+NIL	,
+DEF	the
+CON	woman
+EPS	said
+NIL	.

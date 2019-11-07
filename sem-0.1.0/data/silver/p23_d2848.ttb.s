@@ -1,0 +1,10 @@
+PER	Tom
+EPS	kept
+AND	every
+CON	love
+CON	letter
+PER	Mary
+IST	ever
+EPS	wrote
+PRO	him
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	looking
+REL	for
+PRO	you
+AND	all
+CON	day
+NIL	.

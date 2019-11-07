@@ -1,0 +1,12 @@
+QUE	How
+QUV	many
+CON	times
+NOW	do
+PRO	I
+NEC	have
+SUB	to
+EXS	explain
+PRX	this
+REL	to
+PRO	you
+QUE	?

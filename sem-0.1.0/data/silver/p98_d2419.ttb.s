@@ -1,0 +1,10 @@
+PRO	I
+EPS	drank
+INT	too
+QUC	much
+CON	wine
+NIL	,
+COO	and
+EPS	became
+IST	dizzy
+NIL	.

@@ -1,0 +1,13 @@
+NIL	"
+PER	Tom
+NIL	,
+PRO	I
+NOW	'm
+EXS	hungry
+NIL	.
+NIL	"
+NIL	"
+PRO	Me
+ALT	too
+NIL	.
+NIL	"

@@ -1,0 +1,9 @@
+GEO	Hungary
+NOW	is
+EXS	called
+NIL	"
+ORG	Magyarország
+NIL	"
+REL	in
+GPO	Hungarian
+NIL	.

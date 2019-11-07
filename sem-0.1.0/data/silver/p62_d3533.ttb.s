@@ -1,0 +1,13 @@
+UNK	There
+PRO	you
+NOW	are
+NIL	!
+PRO	I
+NOW	have
+PFT	been
+EXS	looking
+AND	all
+AND	over
+REL	for
+PRO	you
+NIL	.

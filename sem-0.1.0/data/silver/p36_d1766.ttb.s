@@ -1,0 +1,10 @@
+DEF	The
+CON	hair
+CON	style
+AND	of
+DEF	the
+CON	Beatles
+EPS	created
+DIS	a
+CON	sensation
+NIL	.

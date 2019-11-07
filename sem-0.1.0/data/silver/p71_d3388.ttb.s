@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PRO	I
+PST	did
+NOT	n't
+EXS	mean
+SUB	to
+EXS	hurt
+HAS	your
+CON	feelings
+NIL	.

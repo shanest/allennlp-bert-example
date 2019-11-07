@@ -1,0 +1,10 @@
+PRO	We
+AND	all
+ENS	know
+QUE	how
+PRX	this
+NOW	is
+EXS	going
+REL	to
+CON	end
+NIL	.

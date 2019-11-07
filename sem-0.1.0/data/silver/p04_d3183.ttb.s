@@ -1,0 +1,13 @@
+IMP	If
+PRO	you
+NOW	have
+AND	any
+CON	doubts
+NIL	,
+EXS	let
+PRO	me
+ENS	know
+NOT	without
+AND	any
+CON	hesitation
+NIL	.

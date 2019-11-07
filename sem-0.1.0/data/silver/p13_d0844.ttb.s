@@ -1,0 +1,9 @@
+PRO	He
+EPS	died
+AND	of
+IST	old
+CON	age
+QUC	two
+CON	years
+PST	ago
+NIL	.

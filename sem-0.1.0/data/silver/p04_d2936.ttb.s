@@ -1,0 +1,11 @@
+IST	Please
+EXS	let
+PRO	me
+EXS	pick
+IST	up
+HAS	your
+ROL	sister
+REL	at
+DEF	the
+CON	station
+NIL	.

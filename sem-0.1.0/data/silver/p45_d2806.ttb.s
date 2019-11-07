@@ -1,0 +1,13 @@
+EXS	Let
+PRO	's
+ENS	go
+IST	out
+COO	and
+EXS	eat
+CON	dinner
+IST	together
+REL	from
+CON	time
+REL	to
+CON	time
+NIL	.

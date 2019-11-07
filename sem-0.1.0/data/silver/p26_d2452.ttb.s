@@ -1,0 +1,13 @@
+QUC	Three
+AND	out
+AND	of
+QUC	four
+GPE	Americans
+ENS	believe
+REL	in
+DEF	the
+CON	existence
+AND	of
+IST	paranormal
+CON	phenomena
+NIL	.

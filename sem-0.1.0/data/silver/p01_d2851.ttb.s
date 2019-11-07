@@ -1,0 +1,11 @@
+PRO	I
+EPS	used
+NIL	to
+EXS	play
+CON	tennis
+SUB	when
+PRO	I
+PST	was
+DIS	a
+CON	student
+NIL	.

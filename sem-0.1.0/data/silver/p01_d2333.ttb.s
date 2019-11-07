@@ -1,0 +1,12 @@
+PER	Tom
+EPS	wanted
+NIL	to
+EXS	talk
+REL	to
+PER	Mary
+NIL	,
+COO	but
+PRO	she
+EPS	walked
+IST	away
+NIL	.

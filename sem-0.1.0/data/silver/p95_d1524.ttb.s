@@ -1,0 +1,11 @@
+PER	Tom
+PST	had
+NOT	no
+EXS	right
+SUB	to
+EXS	treat
+PER	Mary
+AND	like
+PRO	he
+PST	did
+NIL	.

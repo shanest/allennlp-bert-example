@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+SUB	that
+PRO	you
+NEC	ought
+SUB	to
+EXS	apologize
+REL	to
+PRO	her
+NIL	.

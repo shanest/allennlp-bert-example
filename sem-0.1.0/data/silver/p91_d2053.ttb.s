@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+EXS	know
+IMP	if
+PRO	he
+POS	can
+EXS	come
+SUB	to
+PRO	us
+FUT	tomorrow
+QUE	?

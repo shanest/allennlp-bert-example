@@ -1,0 +1,9 @@
+PRO	He
+EPS	applied
+REL	for
+DEF	the
+CON	job
+COO	and
+EPS	got
+PRO	it
+NIL	.

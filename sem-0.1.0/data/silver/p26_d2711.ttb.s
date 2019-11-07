@@ -1,0 +1,11 @@
+PRX	This
+CON	dictionary
+NOW	is
+INT	very
+EXS	expensive
+NIL	,
+BUT	but
+NOW	is
+IST	worth
+EXS	buying
+NIL	.

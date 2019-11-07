@@ -1,0 +1,14 @@
+PRO	It
+EPS	took
+PRO	me
+DIS	a
+CON	while
+SUB	to
+EXS	understand
+QUE	what
+PRO	she
+PST	was
+EXS	trying
+SUB	to
+EXS	say
+NIL	.

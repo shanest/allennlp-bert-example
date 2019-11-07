@@ -1,0 +1,9 @@
+PER	Tom
+EPS	sat
+REL	on
+DEF	the
+CON	grass
+AND	next
+REL	to
+PER	Mary
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	understand
+QUE	what
+PRO	she
+PST	was
+EXS	talking
+IST	about
+NIL	.

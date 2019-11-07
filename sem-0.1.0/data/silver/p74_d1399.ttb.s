@@ -1,0 +1,9 @@
+DST	That
+ROL	artist
+EPS	created
+DIS	a
+CON	lot
+AND	of
+IST	beautiful
+CON	pictures
+NIL	.

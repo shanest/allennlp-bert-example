@@ -1,0 +1,10 @@
+AND	As
+REL	to
+PRO	me
+NIL	,
+PRO	I
+NOW	agree
+REL	to
+DEF	the
+CON	plan
+NIL	.

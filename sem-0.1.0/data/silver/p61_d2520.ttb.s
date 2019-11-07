@@ -1,0 +1,13 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	tell
+PRO	you
+QUE	how
+QUV	many
+CON	times
+PRO	I
+NOW	've
+PFT	been
+UNK	there
+NIL	.

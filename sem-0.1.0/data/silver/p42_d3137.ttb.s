@@ -1,0 +1,15 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXS	plotting
+SUB	to
+EXS	kill
+PER	Tom
+HAS	's
+CON	father
+REL	for
+DEF	the
+CON	life
+CON	insurance
+NIL	.

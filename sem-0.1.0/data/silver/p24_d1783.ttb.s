@@ -1,0 +1,10 @@
+PER	Tom
+EPS	looked
+INT	very
+EXS	tired
+SUB	when
+PRO	I
+EPS	saw
+PRO	him
+PST	yesterday
+NIL	.

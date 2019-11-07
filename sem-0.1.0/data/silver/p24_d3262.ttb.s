@@ -1,0 +1,9 @@
+DEF	The
+CON	scar
+REL	on
+HAS	his
+CON	cheek
+IST	hardly
+NOW	shows
+NOW	now
+NIL	.

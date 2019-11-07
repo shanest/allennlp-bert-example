@@ -1,0 +1,10 @@
+PER	Tom
+EPS	took
+IST	out
+DIS	a
+CON	pencil
+COO	and
+EPS	started
+SUB	to
+EXS	write
+NIL	.

@@ -1,0 +1,10 @@
+NOT	Nobody
+ENS	sings
+AND	as
+IST	beautifully
+REL	in
+DEF	the
+CON	shower
+AND	as
+PER	Anna
+NIL	!

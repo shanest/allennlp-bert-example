@@ -1,0 +1,12 @@
+DEF	The
+IST	old
+CON	man
+NOW	is
+EXS	wise
+COO	and
+ENS	knows
+QUC	many
+CON	things
+AND	about
+CON	life
+NIL	.

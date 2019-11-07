@@ -1,0 +1,11 @@
+PRO	You
+NEC	should
+NOT	not
+EXT	have
+EXS	gone
+REL	to
+AND	such
+DIS	a
+IST	dangerous
+CON	place
+NIL	.

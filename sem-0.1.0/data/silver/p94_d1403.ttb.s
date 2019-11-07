@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+EPS	missed
+CON	work
+CON	way
+INT	too
+QUC	many
+CON	times
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+IST	never
+EPS	used
+SUB	to
+EXS	smoke
+NIL	,
+BUT	but
+PRO	he
+NOW	does
+NOW	now
+NIL	.

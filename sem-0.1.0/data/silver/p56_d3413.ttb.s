@@ -1,0 +1,10 @@
+AND	So
+PRO	they
+NEC	ought
+SUB	to
+EXT	have
+EXS	arrived
+PRX	here
+REL	by
+NOW	now
+NIL	.

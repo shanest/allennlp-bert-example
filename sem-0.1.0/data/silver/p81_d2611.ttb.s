@@ -1,0 +1,9 @@
+PRO	We
+NOW	've
+EXS	taken
+INT	very
+IST	good
+CON	care
+AND	of
+PER	Tom
+NIL	.

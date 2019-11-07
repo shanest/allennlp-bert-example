@@ -1,0 +1,10 @@
+PER	Tom
+EPS	expected
+PER	Mary
+SUB	to
+EXS	be
+DIS	a
+IST	little
+IST	more
+EXS	helpful
+NIL	.

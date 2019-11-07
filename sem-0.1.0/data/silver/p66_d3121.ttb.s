@@ -1,0 +1,11 @@
+PRO	We
+PST	were
+IST	glad
+SUB	to
+EXS	hear
+SUB	that
+PRO	he
+PST	got
+IST	back
+IST	safely
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	dating
+PER	Mary
+REL	for
+INT	about
+QUC	three
+CON	years
+NIL	.

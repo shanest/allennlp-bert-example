@@ -1,0 +1,12 @@
+PER	Tom
+ENS	knows
+DIS	a
+CON	woman
+AND	who
+NOW	does
+NOT	n't
+EXS	like
+SUB	to
+EXS	eat
+CON	chocolate
+NIL	.

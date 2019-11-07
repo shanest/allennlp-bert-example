@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+DEF	the
+CON	man
+PRO	you
+EPS	met
+DEF	the
+ALT	other
+CON	day
+NIL	.

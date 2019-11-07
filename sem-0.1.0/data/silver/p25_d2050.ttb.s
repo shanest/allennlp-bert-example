@@ -1,0 +1,13 @@
+REL	For
+AND	all
+PER	Tom
+EPS	knew
+NIL	,
+PER	Mary
+POS	might
+EXS	be
+REL	in
+GEO	Boston
+REL	with
+PER	John
+NIL	.

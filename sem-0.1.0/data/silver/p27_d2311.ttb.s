@@ -1,0 +1,15 @@
+HAS	My
+QUC	five
+CON	year
+IST	old
+CON	daughter
+IST	always
+ENS	goes
+REL	to
+REL	kindergarten
+IST	happy
+AND	and
+IST	full
+AND	of
+CON	energy
+NIL	.

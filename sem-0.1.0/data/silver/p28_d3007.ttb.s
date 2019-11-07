@@ -1,0 +1,16 @@
+GPE	Japan
+HAS	's
+IST	foreign
+CON	aid
+NOW	is
+EXS	decreasing
+REL	in
+CON	part
+AND	because
+AND	of
+DIS	an
+IST	economic
+CON	slowdown
+REL	at
+CON	home
+NIL	.

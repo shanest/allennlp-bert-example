@@ -1,0 +1,15 @@
+PRO	She
+ENS	wants
+SUB	to
+EXS	see
+QUE	what
+CON	kind
+AND	of
+CON	student
+PRO	you
+NOW	have
+EXS	been
+REL	in
+PRX	these
+CON	years
+NIL	.

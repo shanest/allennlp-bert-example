@@ -1,0 +1,10 @@
+PER	Tom
+EPS	saw
+PER	Mary
+EXS	waiting
+REL	in
+CON	front
+AND	of
+DEF	the
+CON	warehouse
+NIL	.

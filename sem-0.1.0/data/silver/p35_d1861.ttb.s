@@ -1,0 +1,16 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	studying
+GPO	Chinese
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	,
+BUT	but
+PRO	I
+NOW	'm
+NOT	not
+IST	fluent
+NIL	.

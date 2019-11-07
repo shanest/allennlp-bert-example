@@ -1,0 +1,12 @@
+DEF	The
+XCL	only
+CON	place
+PER	Tom
+NOW	has
+IST	ever
+EPS	wanted
+NIL	to
+EXS	live
+NOW	is
+GPE	Boston
+NIL	.

@@ -1,0 +1,9 @@
+AND	Everybody
+REL	in
+DEF	the
+CON	village
+NOW	looks
+IST	up
+REL	to
+PRO	him
+NIL	.

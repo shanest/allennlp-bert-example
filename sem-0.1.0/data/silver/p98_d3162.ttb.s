@@ -1,0 +1,13 @@
+QUE	What
+FUT	would
+PRO	you
+NOW	do
+IMP	if
+PRO	you
+EPS	saw
+DIS	a
+CON	man
+REL	from
+ALT	another
+CON	planet
+QUE	?

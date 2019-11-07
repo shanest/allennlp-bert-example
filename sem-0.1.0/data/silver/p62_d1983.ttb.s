@@ -1,0 +1,9 @@
+DEF	The
+CON	children
+NOW	are
+EXS	making
+DIS	a
+CON	lot
+AND	of
+CON	noise
+NIL	.

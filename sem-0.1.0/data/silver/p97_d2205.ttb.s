@@ -1,0 +1,11 @@
+PER	Tom
+EPS	enjoyed
+DEF	the
+CON	time
+PRO	he
+EPS	spent
+REL	in
+GEO	Boston
+REL	with
+PER	Mary
+NIL	.

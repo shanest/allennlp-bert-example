@@ -1,0 +1,9 @@
+HAS	My
+ROL	father
+EPS	lived
+REL	in
+GEO	Nagoya
+REL	for
+QUC	30
+CON	years
+NIL	.

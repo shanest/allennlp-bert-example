@@ -1,0 +1,10 @@
+PER	Tom
+EPS	found
+DIS	a
+INT	very
+IST	old
+CON	coin
+REL	in
+DEF	the
+CON	garden
+NIL	.

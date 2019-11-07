@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+EXS	made
+DIS	a
+CON	lot
+AND	of
+CON	friends
+SUB	since
+PRO	I
+EPS	entered
+CON	college
+NIL	.

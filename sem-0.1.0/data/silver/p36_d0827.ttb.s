@@ -1,0 +1,11 @@
+AND	Everyone
+NEC	ought
+SUB	to
+EXS	be
+DIS	a
+CON	master
+AND	of
+HAS	his
+IST	own
+CON	destiny
+NIL	.

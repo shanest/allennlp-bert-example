@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+DEF	the
+CON	guy
+AND	who
+EPS	showed
+PER	Tom
+QUE	how
+SUB	to
+EXS	make
+CON	tomato
+CON	sauce
+NIL	.

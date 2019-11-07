@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXS	walking
+CON	side
+REL	by
+CON	side
+NIL	.

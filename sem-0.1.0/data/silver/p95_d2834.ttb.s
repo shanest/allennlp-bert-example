@@ -1,0 +1,14 @@
+REL	For
+DEF	the
+CON	time
+EXS	being
+NIL	,
+PRO	I
+NOW	am
+EXS	studying
+GPO	French
+REL	at
+PRX	this
+CON	language
+CON	school
+NIL	.

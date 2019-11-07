@@ -1,0 +1,12 @@
+PER	Tom
+PST	was
+IST	unable
+SUB	to
+EXS	produce
+AND	any
+CON	evidence
+SUB	to
+EXS	support
+HAS	his
+CON	statement
+NIL	.

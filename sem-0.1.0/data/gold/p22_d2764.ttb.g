@@ -1,0 +1,11 @@
+PER	Tom
+PST	was
+EXS	offered
+DIS	a
+IST	leading
+CON	role
+REL	in
+DIS	a
+CON	horror
+CON	movie
+NIL	.

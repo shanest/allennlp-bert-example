@@ -1,0 +1,11 @@
+ROL	Dr.
+PER	Jackson
+NOW	is
+QUC	one
+AND	of
+DEF	the
+EXG	leading
+CON	cardiologists
+REL	in
+GPE	Boston
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+EXS	happy
+DEF	the
+CON	ointment
+DEF	the
+CON	doctor
+NOW	has
+EXS	recommended
+IST	really
+CON	works
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	went
+REL	for
+DIS	a
+CON	walk
+REL	along
+DEF	the
+CON	beach
+NIL	.

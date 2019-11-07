@@ -1,0 +1,11 @@
+AND	Could
+PRO	you
+EPS	put
+DST	those
+CON	bags
+REL	in
+DEF	the
+CON	car
+REL	for
+PRO	me
+QUE	?

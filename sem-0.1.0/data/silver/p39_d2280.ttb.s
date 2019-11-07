@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+DEF	the
+TOP	ugliest
+CON	snowman
+PRO	I
+NOW	've
+IST	ever
+EXS	seen
+NIL	!

@@ -1,0 +1,9 @@
+DIS	A
+CON	friend
+AND	of
+HAS	mine
+EPS	came
+SUB	to
+EXS	see
+PRO	me
+NIL	.

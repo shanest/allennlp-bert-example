@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+NOT	not
+REL	in
+DEF	the
+TOP	least
+CON	bit
+EXS	happy
+NOW	now
+NIL	.

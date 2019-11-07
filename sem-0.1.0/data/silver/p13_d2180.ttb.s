@@ -1,0 +1,13 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	believe
+SUB	that
+PER	Tom
+POS	could
+EXT	have
+EXS	said
+AND	such
+DIS	a
+CON	thing
+NIL	.

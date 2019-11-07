@@ -1,0 +1,12 @@
+EXS	Did
+GPO	Pakistani
+CON	intelligence
+IST	really
+ENS	know
+NOT	nothing
+AND	about
+DEF	the
+IST	terrorist
+HAS	's
+CON	whereabouts
+QUE	?

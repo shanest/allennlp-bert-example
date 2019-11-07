@@ -1,0 +1,12 @@
+ROL	Dr.
+PER	Patterson
+EQU	,
+DIS	a
+CON	psychologist
+NIL	,
+NOW	has
+EXS	tested
+PER	Koko
+HAS	's
+CON	IQ
+NIL	.

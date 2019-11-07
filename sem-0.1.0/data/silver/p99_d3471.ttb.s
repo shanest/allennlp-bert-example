@@ -1,0 +1,9 @@
+AND	Now
+PRO	it
+NOW	's
+CON	time
+SUB	to
+EXS	say
+IST	good
+CON	night
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	what
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	do
+NIL	.

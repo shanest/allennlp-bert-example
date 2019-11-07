@@ -1,0 +1,13 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	what
+SUB	to
+EXS	say
+SUB	to
+EXS	make
+PER	Mary
+NOW	feel
+COM	better
+NIL	.

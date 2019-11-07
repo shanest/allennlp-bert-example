@@ -1,0 +1,11 @@
+SUB	When
+PER	Mary
+EPS	entered
+DEF	the
+CON	room
+NIL	,
+PER	Jack
+IST	suddenly
+EPS	stopped
+EXS	talking
+NIL	.

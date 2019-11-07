@@ -1,0 +1,12 @@
+NIL	"
+ART	Superman
+NIL	"
+NOW	is
+EXS	showing
+REL	at
+DEF	the
+CON	movie
+CON	theatre
+PRX	this
+CON	month
+NIL	.

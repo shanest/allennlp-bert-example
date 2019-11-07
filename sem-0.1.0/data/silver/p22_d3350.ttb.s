@@ -1,0 +1,16 @@
+DEF	The
+ROL	woodcutter
+EPS	led
+DEF	the
+CON	children
+REL	into
+DEF	the
+TOP	deepest
+CON	part
+AND	of
+DEF	the
+CON	forest
+COO	and
+EPS	abandoned
+PRO	them
+NIL	.

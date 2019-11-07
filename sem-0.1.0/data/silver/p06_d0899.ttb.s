@@ -1,0 +1,10 @@
+QUE	How
+QUV	many
+CON	letters
+NOW	are
+IST	there
+REL	in
+DEF	the
+GPO	English
+CON	alphabet
+QUE	?

@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+DEF	the
+ALT	other
+ROL	farmers
+EPS	prayed
+REL	for
+CON	rain
+NIL	.

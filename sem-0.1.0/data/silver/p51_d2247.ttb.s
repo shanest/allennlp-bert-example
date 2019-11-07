@@ -1,0 +1,16 @@
+IMP	If
+PRO	you
+ENS	want
+SUB	to
+EXS	find
+CON	people
+AND	who
+EXS	speak
+GPO	French
+REL	in
+GPE	Canada
+NIL	,
+EXS	go
+REL	to
+GEO	Quebec
+NIL	.

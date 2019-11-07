@@ -1,0 +1,9 @@
+PER	Tom
+ENS	sends
+HAS	his
+CON	regards
+REL	from
+DEF	the
+ALT	other
+CON	side
+NIL	.

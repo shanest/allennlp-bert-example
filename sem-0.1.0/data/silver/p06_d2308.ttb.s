@@ -1,0 +1,9 @@
+QUE	How
+QUV	many
+CON	people
+NOW	are
+REL	in
+CON	space
+CON	right
+NOW	now
+QUE	?

@@ -1,0 +1,16 @@
+PRO	We
+EPS	took
+DEF	the
+TOP	fastest
+CON	train
+REL	in
+DEF	the
+CON	world
+REL	from
+DEF	the
+CON	airport
+REL	to
+DEF	the
+CON	city
+CON	center
+NIL	.

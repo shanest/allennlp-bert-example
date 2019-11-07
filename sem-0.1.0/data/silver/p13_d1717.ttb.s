@@ -1,0 +1,10 @@
+IST	Eventually
+DEF	the
+CON	doctor
+HAS	's
+CON	receptionist
+EPS	called
+PER	Tom
+HAS	's
+CON	name
+NIL	.

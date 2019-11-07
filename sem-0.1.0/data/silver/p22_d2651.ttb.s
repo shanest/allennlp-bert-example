@@ -1,0 +1,10 @@
+EXG	Maintaining
+DIS	a
+IST	criminal
+REL	in
+DEF	the
+CON	jail
+NOW	is
+INT	very
+EXS	expensive
+NIL	.

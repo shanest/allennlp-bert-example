@@ -1,0 +1,13 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	figure
+IST	out
+QUE	what
+PRO	you
+NOW	're
+EXS	trying
+SUB	to
+EXS	tell
+PRO	me
+NIL	.

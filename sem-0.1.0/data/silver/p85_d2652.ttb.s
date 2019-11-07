@@ -1,0 +1,13 @@
+PRO	I
+NOW	have
+DEF	the
+CON	feeling
+SUB	that
+PRO	I
+NOW	've
+EXS	seen
+PRX	these
+CON	shoes
+DIS	somewhere
+REL	before
+NIL	.

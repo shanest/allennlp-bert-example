@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+QUE	how
+IST	deep
+DEF	the
+CON	water
+NOW	is
+PRX	here
+QUE	?

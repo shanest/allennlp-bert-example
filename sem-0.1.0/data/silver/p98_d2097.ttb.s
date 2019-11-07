@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	fond
+AND	of
+CON	adventure
+SUB	since
+PRO	I
+PST	was
+DIS	a
+CON	child
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+DEF	the
+XCL	only
+CON	student
+REL	at
+PRX	this
+CON	school
+SUB	that
+PER	Mary
+ENS	knows
+NIL	.

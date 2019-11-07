@@ -1,0 +1,11 @@
+AND	But
+HAS	my
+MOR	older
+ROL	sister
+ENS	knows
+QUE	how
+SUB	to
+EXS	swim
+IST	quite
+IST	well
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	parked
+DEF	the
+CON	car
+REL	across
+REL	from
+PER	Mary
+HAS	's
+CON	house
+NIL	.

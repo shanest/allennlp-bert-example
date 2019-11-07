@@ -1,0 +1,12 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	expect
+SUB	to
+EXS	hear
+IST	back
+REL	from
+PER	Mary
+AND	so
+IST	soon
+NIL	.

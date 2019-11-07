@@ -1,0 +1,10 @@
+IST	Please
+EXS	write
+REL	to
+PRO	me
+AND	as
+IST	soon
+SUB	as
+PRO	you
+POS	can
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXG	turning
+IST	up
+DEF	the
+CON	sound
+REL	of
+DEF	the
+CON	TV
+NIL	.

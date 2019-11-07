@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	help
+PRO	you
+SUB	because
+PRO	I
+NOW	'm
+EXS	busy
+NIL	.

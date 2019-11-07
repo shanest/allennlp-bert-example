@@ -1,0 +1,11 @@
+PER	Tom
+EPS	asked
+PER	Mary
+IMP	if
+PRO	she
+POS	could
+EXS	make
+PRO	him
+DIS	a
+CON	sandwich
+NIL	.

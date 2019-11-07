@@ -1,0 +1,12 @@
+PER	Tom
+ENS	seems
+SUB	to
+EXS	be
+QUV	much
+COM	taller
+AND	than
+PRO	he
+EPS	used
+SUB	to
+EXS	be
+NIL	.

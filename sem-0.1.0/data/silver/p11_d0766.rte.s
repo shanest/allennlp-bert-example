@@ -1,0 +1,19 @@
+DIS	A
+CON	man
+PST	suspected
+AND	of
+EXG	stealing
+DIS	a
+CON	million-dollar
+CON	collection
+AND	of
+GPO	Nepalese
+AND	and
+GPO	Tibetan
+CON	art
+CON	objects
+REL	in
+GPE	New York
+PST	was
+EXS	arrested
+NIL	.

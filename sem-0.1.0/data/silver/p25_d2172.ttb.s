@@ -1,0 +1,27 @@
+PER	Tom Miller
+EPS	worked
+AND	through
+HAS	his
+CON	experiences
+REL	in
+CON	childhood
+AND	and
+CON	youth
+REL	in
+HAS	his
+CON	three-part
+IST	autobiographical
+CON	novel
+NIL	"
+PER	Tom
+AND	and
+PER	Mary
+NIL	"
+NIL	,
+UNK	which
+NOW	is
+ALT	also
+HAS	his
+IST	main
+CON	work
+NIL	.

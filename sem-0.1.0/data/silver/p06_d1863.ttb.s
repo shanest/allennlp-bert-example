@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+EXS	got
+SUB	to
+EXS	go
+REL	to
+ALT	another
+IST	dreary
+CON	meeting
+FUT	tomorrow
+NIL	.

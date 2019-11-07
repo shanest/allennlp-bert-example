@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+PST	promised
+NOT	never
+SUB	to
+EXS	be
+IST	late
+ALT	again
+NIL	.

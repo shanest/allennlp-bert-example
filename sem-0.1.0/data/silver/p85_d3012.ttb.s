@@ -1,0 +1,11 @@
+SUB	After
+PER	Tom
+EPS	ate
+DIS	a
+IST	little
+CON	food
+NIL	,
+HAS	his
+CON	strength
+EPS	returned
+NIL	.

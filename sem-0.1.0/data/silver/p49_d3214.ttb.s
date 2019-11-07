@@ -1,0 +1,9 @@
+PER	Tom
+EPS	felt
+PER	Mary
+HAS	's
+CON	hand
+REL	on
+HAS	his
+CON	shoulder
+NIL	.

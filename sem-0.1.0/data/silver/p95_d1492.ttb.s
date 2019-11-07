@@ -1,0 +1,10 @@
+PER	Tom
+EPS	took
+IST	out
+HAS	his
+CON	camera
+COO	and
+EPS	started
+EXS	taking
+CON	pictures
+NIL	.

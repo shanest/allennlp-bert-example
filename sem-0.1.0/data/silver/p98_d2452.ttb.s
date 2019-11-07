@@ -1,0 +1,10 @@
+PRO	It
+EPS	took
+PRO	me
+QUC	2
+CON	hours
+SUB	to
+EXS	finish
+DEF	the
+CON	essay
+NIL	.

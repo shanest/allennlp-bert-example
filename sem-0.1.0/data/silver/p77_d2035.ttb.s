@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+DIS	some
+CON	answers
+COO	and
+PRO	I
+ENS	want
+PRO	them
+NOW	now
+NIL	.

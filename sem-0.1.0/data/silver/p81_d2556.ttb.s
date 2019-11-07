@@ -1,0 +1,15 @@
+PRO	You
+NEC	should
+EXS	apologize
+REL	to
+HAS	your
+ROL	father
+REL	for
+NOT	not
+EXS	getting
+CON	home
+REL	in
+CON	time
+REL	for
+CON	dinner
+NIL	.

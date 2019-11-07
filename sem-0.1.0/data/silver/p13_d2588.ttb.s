@@ -1,0 +1,10 @@
+EXS	Leave
+NOW	now
+NIL	,
+DIS	or
+PRO	you
+FUT	'll
+EXS	miss
+DEF	the
+CON	train
+NIL	.

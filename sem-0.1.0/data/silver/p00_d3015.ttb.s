@@ -1,0 +1,10 @@
+PER	Tom
+EPS	looked
+AND	as
+IMP	if
+PRO	he
+PST	'd
+EXS	seen
+DIS	a
+CON	ghost
+NIL	.

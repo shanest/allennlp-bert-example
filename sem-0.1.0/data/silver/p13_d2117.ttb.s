@@ -1,0 +1,13 @@
+REL	In
+YOC	1642
+NIL	,
+PER	Abel
+PER	Tasman
+EPS	became
+DEF	the
+IST	first
+IST	European
+SUB	to
+EXS	see
+CON	Tasmania
+NIL	.

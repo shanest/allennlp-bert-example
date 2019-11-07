@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	send
+HAS	my
+CON	mother
+DIS	some
+CON	flowers
+NIL	.

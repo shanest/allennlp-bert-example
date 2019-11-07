@@ -1,0 +1,11 @@
+PER	Tom
+EPS	took
+DEF	the
+CON	loaves
+AND	of
+CON	bread
+AND	out
+AND	of
+DEF	the
+CON	oven
+NIL	.

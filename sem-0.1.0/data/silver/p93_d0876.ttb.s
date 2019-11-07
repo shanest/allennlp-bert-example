@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PRO	I
+EPS	forgot
+SUB	to
+EXS	do
+HAS	my
+CON	homework
+NIL	.

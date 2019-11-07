@@ -1,0 +1,11 @@
+REL	In
+DEF	the
+CON	beginning
+CON	God
+EPS	created
+DEF	the
+CON	heavens
+AND	and
+DEF	the
+CON	earth
+NIL	.

@@ -1,0 +1,10 @@
+HAS	My
+CON	wife
+NOW	is
+REL	from
+GPE	Algeria
+NIL	.
+PRO	She
+NOW	is
+GPO	Algerian
+NIL	.

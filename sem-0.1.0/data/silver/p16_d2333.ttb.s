@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+IST	aware
+AND	of
+QUE	how
+QUV	much
+PRO	she
+ENS	loves
+PRO	you
+QUE	?

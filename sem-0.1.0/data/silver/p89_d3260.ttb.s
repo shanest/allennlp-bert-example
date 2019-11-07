@@ -1,0 +1,11 @@
+PRO	I
+EPS	agreed
+SUB	to
+EXS	have
+DIS	a
+CON	drink
+REL	with
+PER	Tom
+REL	after
+CON	work
+NIL	.

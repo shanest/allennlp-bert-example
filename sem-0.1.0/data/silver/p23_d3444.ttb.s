@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	thinking
+REL	about
+PER	Tom
+HAS	's
+CON	plan
+NIL	.

@@ -1,0 +1,10 @@
+PRO	We
+POS	ca
+NOT	n't
+EXS	have
+DIS	a
+CON	press
+CON	conference
+REL	on
+DOW	Friday
+NIL	.

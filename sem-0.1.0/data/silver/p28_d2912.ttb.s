@@ -1,0 +1,11 @@
+PRO	We
+EPS	learned
+REL	at
+CON	school
+SUB	that
+PER	Shakespeare
+PST	was
+EXS	born
+REL	in
+YOC	1564
+NIL	.

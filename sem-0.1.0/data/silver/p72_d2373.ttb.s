@@ -1,0 +1,10 @@
+PER	Tom
+EPS	called
+PER	Mary
+NIL	,
+COO	but
+DEF	the
+CON	line
+PST	was
+EXS	busy
+NIL	.

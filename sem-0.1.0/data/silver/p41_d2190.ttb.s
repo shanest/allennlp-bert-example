@@ -1,0 +1,10 @@
+NOW	Now
+SUB	that
+PRO	I
+NOW	see
+PRX	these
+CON	pictures
+NIL	,
+PRO	I
+NOW	remember
+NIL	.

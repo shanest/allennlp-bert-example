@@ -1,0 +1,16 @@
+HAS	His
+CON	mother
+EPS	got
+IST	up
+QUC	much
+MOR	earlier
+MOR	than
+EXS	usual
+COO	and
+EPS	started
+CON	cooking
+AND	as
+IST	early
+AND	as
+CLO	8am
+NIL	.

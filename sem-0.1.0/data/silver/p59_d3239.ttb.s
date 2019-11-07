@@ -1,0 +1,12 @@
+PER	Tom
+EPS	looked
+IST	everywhere
+REL	for
+PER	Mary
+NIL	,
+BUT	but
+POS	could
+NOT	n't
+EXS	find
+PRO	her
+NIL	.

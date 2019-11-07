@@ -1,0 +1,16 @@
+DIS	Some
+NOW	say
+SUB	that
+AND	every
+CON	hour
+REL	in
+CON	bed
+REL	before
+CLO	midnight
+NOW	is
+IST	worth
+QUC	two
+CON	hours
+REL	after
+CLO	midnight
+NIL	.

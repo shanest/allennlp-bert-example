@@ -1,0 +1,15 @@
+PRO	I
+EPS	knew
+AND	as
+CON	little
+REL	about
+HAS	his
+CON	past
+SUB	as
+PRO	I
+PST	did
+REL	about
+HAS	my
+CON	parents
+HAS	'
+NIL	.

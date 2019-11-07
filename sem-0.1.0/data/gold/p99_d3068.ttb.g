@@ -1,0 +1,11 @@
+PER	Tom
+EPS	stared
+REL	into
+DEF	the
+IST	impenetrable
+CON	blackness
+REL	of
+DEF	the
+CON	night
+CON	sky
+NIL	.

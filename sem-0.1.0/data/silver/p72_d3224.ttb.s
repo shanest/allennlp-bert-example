@@ -1,0 +1,11 @@
+QUE	What
+DIS	a
+IST	small
+CON	television
+CON	set
+NIL	!
+NOW	Does
+PRO	it
+IST	really
+CON	work
+QUE	?

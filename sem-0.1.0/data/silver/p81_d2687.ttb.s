@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+EXS	come
+REL	under
+CON	pressure
+REL	from
+HAS	my
+CON	boss
+NIL	.

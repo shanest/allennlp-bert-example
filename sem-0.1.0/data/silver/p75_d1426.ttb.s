@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+PFT	been
+INT	very
+EXS	cold
+NIL	,
+AND	so
+DEF	the
+CON	lake
+NOW	is
+EXS	frozen
+NIL	.

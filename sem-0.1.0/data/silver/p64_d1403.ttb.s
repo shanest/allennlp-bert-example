@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	he
+NOW	is
+NOT	not
+EXS	going
+SUB	to
+EXS	pay
+PRO	me
+NIL	.

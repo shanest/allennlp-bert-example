@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+EXS	been
+MOR	more
+MOR	than
+DIS	a
+CON	year
+REL	since
+PER	Tom
+NOW	has
+EPS	visited
+GPE	Boston
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+CON	shop
+PST	had
+EXS	sold
+IST	out
+HAS	its
+CON	stock
+AND	of
+DST	that
+CON	magazine
+NIL	.

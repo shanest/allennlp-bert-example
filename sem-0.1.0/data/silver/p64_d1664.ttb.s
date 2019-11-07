@@ -1,0 +1,10 @@
+PER	Tom
+HAS	's
+IST	broken
+CON	arm
+EPS	took
+QUV	several
+CON	weeks
+SUB	to
+EXS	heal
+NIL	.

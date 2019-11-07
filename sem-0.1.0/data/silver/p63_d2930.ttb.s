@@ -1,0 +1,10 @@
+PRX	This
+CON	bike
+NOW	is
+EXS	awful
+COO	;
+PRO	it
+NOW	's
+INT	too
+EXS	heavy
+NIL	.

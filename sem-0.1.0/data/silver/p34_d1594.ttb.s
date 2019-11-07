@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	hit
+PRO	it
+IST	off
+REL	from
+DEF	the
+CON	beginning
+NIL	.

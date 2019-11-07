@@ -1,0 +1,10 @@
+HAS	His
+CON	plane
+NOW	has
+NOT	not
+EXS	arrived
+REL	at
+DEF	the
+CON	airport
+ALT	yet
+NIL	.

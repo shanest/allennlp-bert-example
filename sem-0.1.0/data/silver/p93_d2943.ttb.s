@@ -1,0 +1,12 @@
+PER	Mary
+HAS	's
+IST	constant
+CON	nagging
+IST	really
+PST	got
+REL	to
+PER	Tom
+REL	after
+DIS	a
+CON	while
+NIL	.

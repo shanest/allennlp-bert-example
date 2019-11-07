@@ -1,0 +1,13 @@
+PER	Tom
+NOW	is
+NOT	never
+EXS	going
+SUB	to
+EXS	let
+PRO	you
+ENS	go
+REL	to
+GEO	Boston
+REL	with
+PER	Mary
+NIL	.

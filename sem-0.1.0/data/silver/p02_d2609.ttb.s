@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+DEF	the
+CON	picture
+PRO	you
+EPS	took
+AND	of
+AND	that
+CON	fish
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	write
+DIS	a
+CON	sentence
+REL	in
+GPO	German
+NIL	.

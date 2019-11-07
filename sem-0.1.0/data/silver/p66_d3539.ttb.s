@@ -1,0 +1,12 @@
+DEF	The
+CON	lion
+EPS	put
+DIS	an
+CON	end
+REL	to
+HAS	his
+CON	prey
+REL	with
+QUC	one
+CON	stroke
+NIL	.

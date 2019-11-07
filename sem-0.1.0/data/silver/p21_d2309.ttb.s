@@ -1,0 +1,12 @@
+PRO	She
+NOW	looks
+IST	young
+NIL	.
+AND	But
+IST	actually
+NIL	,
+PRO	she
+HAS	's
+INT	over
+QUC	forty
+NIL	.

@@ -1,0 +1,13 @@
+QUV	Many
+ROL	miners
+NOW	are
+IST	afraid
+SUB	that
+DEF	the
+HAS	mine
+FUT	will
+EXS	be
+EXS	closed
+IST	down
+IST	soon
+NIL	.

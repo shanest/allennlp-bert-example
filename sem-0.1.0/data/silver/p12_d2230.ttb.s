@@ -1,0 +1,10 @@
+PRO	He
+NEC	had
+SUB	to
+EXS	go
+AND	through
+DIS	a
+CON	lot
+AND	of
+CON	hardships
+NIL	.

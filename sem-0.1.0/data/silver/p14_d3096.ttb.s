@@ -1,0 +1,9 @@
+PRO	It
+NOW	looks
+AND	like
+PRO	you
+NOW	've
+IST	already
+PFT	been
+EXS	replaced
+NIL	.

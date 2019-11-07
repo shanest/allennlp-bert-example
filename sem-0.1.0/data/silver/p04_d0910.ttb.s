@@ -1,0 +1,13 @@
+REL	In
+DEF	the
+GPO	English
+CON	language
+QUV	many
+CON	words
+NOW	contain
+CON	letters
+UNK	which
+NOW	are
+NOT	not
+EXS	pronounced
+NIL	.

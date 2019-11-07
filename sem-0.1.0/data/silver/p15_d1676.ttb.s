@@ -1,0 +1,11 @@
+AND	Every
+CON	day
+REL	at
+CON	school
+PRO	I
+NOW	have
+CON	lunch
+REL	with
+HAS	my
+CON	friends
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+QUE	how
+QUC	much
+PRO	you
+CON	care
+AND	about
+PER	Tom
+NIL	.

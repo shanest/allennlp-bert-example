@@ -1,0 +1,11 @@
+PER	Emily
+ENS	wants
+SUB	to
+EXS	go
+IST	out
+NIL	,
+SUB	because
+PRO	she
+NOW	's
+EXS	bored
+NIL	.

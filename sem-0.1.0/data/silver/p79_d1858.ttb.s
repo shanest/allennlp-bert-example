@@ -1,0 +1,14 @@
+CON	Rumor
+NOW	has
+PRO	it
+SUB	that
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	going
+SUB	to
+EXS	be
+EXS	married
+IST	soon
+NIL	.

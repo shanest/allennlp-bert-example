@@ -1,0 +1,10 @@
+PRO	I
+FUT	'll
+EXS	let
+PRO	you
+EXS	know
+SUB	when
+PRO	it
+NOW	's
+EXS	done
+NIL	.

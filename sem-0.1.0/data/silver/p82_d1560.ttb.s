@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+PFT	been
+QUC	forty
+CON	years
+SUB	since
+PRO	I
+EPS	began
+SUB	to
+EXS	study
+GPO	Japanese
+NIL	.

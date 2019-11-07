@@ -1,0 +1,9 @@
+HAS	Her
+CON	success
+AND	as
+DIS	a
+ROL	singer
+EPS	made
+HAS	her
+IST	famous
+NIL	.

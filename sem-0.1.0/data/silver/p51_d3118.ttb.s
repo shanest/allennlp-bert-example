@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+PRO	me
+IMP	if
+PRO	I
+PST	had
+EXS	found
+DEF	the
+CON	keys
+NIL	.

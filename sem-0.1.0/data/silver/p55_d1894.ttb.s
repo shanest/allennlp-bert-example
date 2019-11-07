@@ -1,0 +1,12 @@
+NOW	Do
+NOT	n't
+IST	just
+EXS	eat
+CON	fish
+NIL	.
+EXS	Eat
+DIS	some
+CON	meat
+NIL	,
+ALT	too
+NIL	.

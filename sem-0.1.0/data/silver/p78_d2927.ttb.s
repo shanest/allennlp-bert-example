@@ -1,0 +1,16 @@
+DEF	The
+CON	man
+PRO	I
+EPS	thought
+PST	was
+DEF	the
+CON	criminal
+PST	did
+NOT	n't
+EXS	have
+AND	any
+CON	connection
+REL	to
+DEF	the
+CON	incident
+NIL	.

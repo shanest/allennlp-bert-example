@@ -1,0 +1,14 @@
+HAS	My
+CON	dad
+NOW	is
+EXS	complaining
+COO	;
+PRO	he
+HAS	's
+PFT	been
+IST	constantly
+EXS	busy
+REL	since
+IST	last
+CON	week
+NIL	.

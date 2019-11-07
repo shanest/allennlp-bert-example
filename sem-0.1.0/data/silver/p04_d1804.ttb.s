@@ -1,0 +1,14 @@
+PRO	It
+POS	could
+EXS	take
+PRO	me
+QUC	ten
+CON	years
+SUB	to
+IST	fully
+EXS	understand
+QUE	what
+PRO	I
+NOW	have
+EXS	achieved
+NIL	.

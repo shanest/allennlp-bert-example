@@ -1,0 +1,11 @@
+EXS	Make
+IST	sure
+PRO	you
+NOW	have
+EXS	reserved
+DIS	a
+CON	room
+REL	at
+DEF	the
+CON	hotel
+NIL	.

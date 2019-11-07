@@ -1,0 +1,14 @@
+DEF	The
+CON	head
+CON	groundsman
+ENS	has
+DIS	a
+CON	cottage
+CON	right
+REL	in
+DEF	the
+CON	middle
+AND	of
+DEF	the
+CON	grounds
+NIL	.

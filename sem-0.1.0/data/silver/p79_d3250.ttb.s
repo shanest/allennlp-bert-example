@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+FUT	will
+IST	probably
+EXS	get
+EXS	married
+QUC	one
+CON	day
+NIL	.

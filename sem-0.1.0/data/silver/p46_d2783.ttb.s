@@ -1,0 +1,12 @@
+PRO	I
+EPS	borrowed
+HAS	my
+CON	father
+HAS	's
+CON	hammer
+SUB	to
+EXS	build
+DIS	a
+CON	dog
+CON	house
+NIL	.

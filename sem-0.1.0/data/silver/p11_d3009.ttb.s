@@ -1,0 +1,15 @@
+AND	Just
+REL	between
+DEF	the
+QUC	two
+AND	of
+PRO	us
+NIL	;
+NOW	are
+PRO	you
+REL	in
+CON	love
+REL	with
+HAS	my
+ROL	sister
+QUE	?

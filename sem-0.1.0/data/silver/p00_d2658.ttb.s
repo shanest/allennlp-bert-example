@@ -1,0 +1,10 @@
+PRO	I
+FUT	will
+EXS	remove
+DEF	the
+CON	labels
+EXG	tagging
+DEF	the
+REL	above
+CON	sentences
+NIL	.

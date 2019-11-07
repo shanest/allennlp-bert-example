@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	witnessed
+INT	so
+QUC	much
+CON	debauchery
+REL	in
+HAS	my
+IST	entire
+CON	life
+NIL	.

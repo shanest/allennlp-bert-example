@@ -1,0 +1,15 @@
+DIS	Someone
+EPS	called
+ROL	Mr
+ORG	Dell
+NOW	is
+EXS	waiting
+REL	for
+PRO	you
+REL	in
+HAS	your
+CON	office
+NIL	,
+ROL	Mrs
+PER	Stevens
+NIL	.

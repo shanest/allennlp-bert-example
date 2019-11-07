@@ -1,0 +1,9 @@
+QUE	Who
+EPS	told
+PRO	you
+PRO	I
+PST	was
+EXS	talking
+REL	about
+PRO	you
+QUE	?

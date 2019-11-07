@@ -1,0 +1,9 @@
+DEF	The
+CON	fire
+EPS	reduced
+DEF	the
+IST	whole
+CON	village
+REL	to
+CON	ashes
+NIL	.

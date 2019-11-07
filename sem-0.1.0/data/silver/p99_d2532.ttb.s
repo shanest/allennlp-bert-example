@@ -1,0 +1,14 @@
+PER	Tom
+EPS	got
+REL	into
+DIS	a
+CON	fight
+REL	with
+PER	Mary
+HAS	's
+CON	brother
+COO	and
+EPS	broke
+HAS	his
+CON	nose
+NIL	.

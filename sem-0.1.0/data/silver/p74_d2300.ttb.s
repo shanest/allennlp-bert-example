@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+EXS	alone
+SUB	when
+PER	Mary
+AND	and
+PER	John
+EPS	walked
+REL	in
+NIL	.

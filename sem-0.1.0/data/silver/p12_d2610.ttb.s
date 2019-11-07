@@ -1,0 +1,14 @@
+PRO	I
+ENS	like
+PRO	it
+SUB	when
+DIS	someone
+NOW	tells
+PRO	me
+SUB	that
+PRO	I
+FUT	would
+NOT	never
+EXS	learn
+DIS	something
+NIL	.

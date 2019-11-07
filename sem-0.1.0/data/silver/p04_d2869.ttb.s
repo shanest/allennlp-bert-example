@@ -1,0 +1,11 @@
+PRO	I
+ENS	want
+DEF	the
+CON	recipe
+REL	for
+PRX	this
+NIL	.
+PRO	It
+HAS	's
+IST	delicious
+NIL	.

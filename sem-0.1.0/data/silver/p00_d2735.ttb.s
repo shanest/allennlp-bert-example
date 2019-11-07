@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	worried
+REL	about
+QUE	what
+FUT	'll
+EXS	happen
+IMP	if
+PER	Tom
+ENS	comes
+NIL	.

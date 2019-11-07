@@ -1,0 +1,13 @@
+IMP	If
+PRO	you
+IST	ever
+ENS	need
+DIS	someone
+SUB	to
+EXS	talk
+SUB	to
+NIL	,
+PRO	I
+NOW	'm
+PRX	here
+NIL	.

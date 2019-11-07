@@ -1,0 +1,10 @@
+PRO	I
+POS	can
+NOT	not
+EXS	speak
+GPO	English
+NIL	,
+QUV	much
+IST	less
+GPO	Spanish
+NIL	.

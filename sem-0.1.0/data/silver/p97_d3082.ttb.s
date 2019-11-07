@@ -1,0 +1,12 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	you
+PST	had
+CON	problems
+SUB	when
+PRO	you
+PST	were
+DIS	a
+CON	kid
+NIL	.

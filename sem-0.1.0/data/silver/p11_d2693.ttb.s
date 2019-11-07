@@ -1,0 +1,15 @@
+AND	Without
+HAS	your
+CON	help
+NIL	,
+PRO	we
+FUT	would
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	carry
+IST	out
+HAS	our
+CON	plan
+NIL	.

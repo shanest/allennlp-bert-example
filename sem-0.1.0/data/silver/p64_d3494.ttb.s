@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	going
+SUB	to
+EXS	send
+HAS	my
+CON	son
+REL	to
+CON	college
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+PST	was
+EXS	given
+DIS	a
+CON	gold
+CON	watch
+REL	from
+DEF	the
+ROL	teacher
+NIL	.

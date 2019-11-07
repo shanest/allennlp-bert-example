@@ -1,0 +1,11 @@
+PRO	He
+EPS	asked
+HAS	his
+ROL	father
+SUB	to
+EXS	take
+PRO	him
+REL	to
+DEF	the
+CON	store
+NIL	.

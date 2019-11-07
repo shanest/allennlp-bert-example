@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	want
+PRO	me
+SUB	to
+EXS	call
+DEF	the
+CON	police
+QUE	?

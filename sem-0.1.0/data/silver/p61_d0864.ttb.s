@@ -1,0 +1,11 @@
+PRO	He
+ENS	knows
+DEF	the
+CON	area
+AND	like
+DEF	the
+IST	back
+AND	of
+HAS	his
+CON	hand
+NIL	.

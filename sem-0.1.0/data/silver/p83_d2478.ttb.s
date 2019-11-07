@@ -1,0 +1,13 @@
+ITJ	Ah
+NIL	,
+NOW	hold
+DIS	a
+CON	mo
+NIL	.
+HAS	My
+CON	shoe
+CON	lace
+NOW	's
+EXS	come
+EXS	undone
+NIL	.

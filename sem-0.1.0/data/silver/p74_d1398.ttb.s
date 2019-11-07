@@ -1,0 +1,16 @@
+PRO	She
+EPS	cut
+DEF	the
+CON	cake
+REL	into
+QUC	six
+CON	pieces
+COO	and
+EPS	gave
+QUC	one
+REL	to
+AND	each
+AND	of
+DEF	the
+CON	children
+NIL	.

@@ -1,0 +1,12 @@
+NIL	"
+NOW	Does
+NOT	n't
+SUB	that
+EXS	smell
+IST	fantastic
+QUE	?
+NIL	"
+NIL	"
+ITJ	Yeah
+NIL	!
+NIL	"

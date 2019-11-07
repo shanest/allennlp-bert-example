@@ -1,0 +1,16 @@
+QUE	What
+NOW	do
+PRO	you
+ENS	intend
+SUB	to
+EXS	do
+REL	from
+NOW	now
+REL	on
+QUE	?
+NOW	Do
+PRO	you
+NOW	have
+DIS	an
+CON	objective
+QUE	?

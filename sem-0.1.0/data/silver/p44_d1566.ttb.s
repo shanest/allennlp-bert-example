@@ -1,0 +1,10 @@
+PRO	You
+NOW	've
+EXS	got
+DIS	a
+CON	lot
+AND	of
+EXS	explaining
+SUB	to
+EXS	do
+NIL	.

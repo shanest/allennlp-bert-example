@@ -1,0 +1,11 @@
+IMP	If
+PRX	this
+CON	sentence
+NOW	is
+EXS	true
+NIL	,
+AND	then
+GPE	Germany
+ENS	borders
+GPE	China
+NIL	.

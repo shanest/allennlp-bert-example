@@ -1,0 +1,13 @@
+PRO	They
+FUT	wo
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	do
+AND	anything
+AND	about
+DST	that
+CON	problem
+NOW	today
+NIL	.

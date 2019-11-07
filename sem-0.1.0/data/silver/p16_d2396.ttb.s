@@ -1,0 +1,10 @@
+DEF	The
+ROL	enemy
+HAS	's
+CON	forces
+EPS	outnumber
+PRO	us
+QUC	ten
+REL	to
+QUC	one
+NIL	.

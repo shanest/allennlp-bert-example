@@ -1,0 +1,9 @@
+CON	Traditions
+EXS	help
+SUB	to
+EXS	recreate
+DEF	the
+CON	home
+HAS	's
+CON	atmosphere
+NIL	.

@@ -1,0 +1,10 @@
+AND	All
+DEF	the
+CON	cars
+REL	in
+PRX	this
+CON	garage
+NOW	belong
+REL	to
+PER	Tom
+NIL	.

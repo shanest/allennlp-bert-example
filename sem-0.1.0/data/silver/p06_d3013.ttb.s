@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+AND	always
+EXS	suspicious
+SUB	when
+DIS	a
+GPO	German
+ENS	asks
+REL	for
+DIS	a
+CON	comma
+NIL	.

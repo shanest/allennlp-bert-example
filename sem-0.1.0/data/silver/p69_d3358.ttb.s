@@ -1,0 +1,14 @@
+PER	Tom
+EPS	said
+PRO	he
+EPS	saw
+DIS	something
+CON	weird
+REL	on
+DEF	the
+ALT	other
+CON	side
+AND	of
+DST	that
+CON	mountain
+NIL	.

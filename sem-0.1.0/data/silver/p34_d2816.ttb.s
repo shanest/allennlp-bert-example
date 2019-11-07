@@ -1,0 +1,11 @@
+DEF	The
+IST	brave
+CON	fireman
+EPS	rescued
+DIS	a
+CON	boy
+REL	from
+DEF	the
+IST	burning
+CON	house
+NIL	.

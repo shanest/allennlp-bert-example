@@ -1,0 +1,10 @@
+PRO	She
+EPS	said
+SUB	that
+PRO	she
+ENS	takes
+DIS	a
+CON	shower
+AND	every
+CON	morning
+NIL	.

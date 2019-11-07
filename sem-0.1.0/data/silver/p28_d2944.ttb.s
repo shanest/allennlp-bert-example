@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+PFT	been
+CON	ages
+REL	since
+PRO	I
+EPS	saw
+PRO	you
+IST	last
+NIL	.

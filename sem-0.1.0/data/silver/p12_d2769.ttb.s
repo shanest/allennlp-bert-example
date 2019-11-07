@@ -1,0 +1,15 @@
+DEF	The
+CON	death
+NOT	never
+CON	surprises
+DIS	a
+IST	wise
+CON	man
+COO	:
+PRO	it
+NOW	's
+AND	always
+IST	ready
+SUB	to
+EXS	cede
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	afraid
+SUB	that
+HAS	's
+IST	out
+AND	of
+DEF	the
+CON	question
+NIL	.

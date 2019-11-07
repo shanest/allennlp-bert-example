@@ -1,0 +1,15 @@
+PRO	I
+NOW	've
+EXS	made
+IST	up
+HAS	my
+CON	mind
+SUB	to
+EXS	give
+IST	back
+AND	all
+DEF	the
+CON	money
+PRO	I
+EPS	stole
+NIL	.

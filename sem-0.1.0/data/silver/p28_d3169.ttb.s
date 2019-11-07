@@ -1,0 +1,9 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	he
+EPS	wanted
+SUB	to
+EXS	eat
+NIL	.

@@ -1,0 +1,11 @@
+SUB	When
+PRO	you
+ENS	go
+NIL	,
+PRO	I
+FUT	'll
+EXS	miss
+PRO	you
+INT	very
+QUV	much
+NIL	.

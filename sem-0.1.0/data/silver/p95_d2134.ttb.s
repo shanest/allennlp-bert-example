@@ -1,0 +1,13 @@
+DEF	The
+CON	windows
+PST	were
+IST	too
+EXS	steamed
+IST	up
+SUB	to
+EXS	be
+IST	able
+SUB	to
+EXS	recognize
+DIS	something
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+PRX	this
+NEC	must
+EXS	be
+INT	very
+EXS	difficult
+REL	for
+PRO	you
+NIL	.

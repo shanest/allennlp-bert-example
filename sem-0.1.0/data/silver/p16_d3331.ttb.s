@@ -1,0 +1,11 @@
+PER	Gonzales
+NOW	offers
+DIS	a
+CON	bike
+REL	to
+AND	all
+HAS	his
+ROL	employees
+REL	in
+GEO	Europe
+NIL	.

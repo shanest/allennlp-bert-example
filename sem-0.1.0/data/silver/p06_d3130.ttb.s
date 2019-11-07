@@ -1,0 +1,10 @@
+HAS	My
+CON	brother
+ENS	eats
+QUC	twice
+AND	as
+QUV	much
+AND	as
+PRO	I
+NOW	do
+NIL	.

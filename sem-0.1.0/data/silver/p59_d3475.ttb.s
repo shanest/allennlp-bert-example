@@ -1,0 +1,10 @@
+PRO	We
+EPS	named
+HAS	our
+XCL	only
+CON	son
+PER	Tom
+REL	after
+HAS	my
+ROL	grandfather
+NIL	.

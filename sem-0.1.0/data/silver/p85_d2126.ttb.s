@@ -1,0 +1,10 @@
+ITJ	Oh
+NIL	,
+PRO	it
+HAS	's
+CON	cool
+NIL	.
+PRO	I
+ENS	like
+PRO	it
+NIL	.

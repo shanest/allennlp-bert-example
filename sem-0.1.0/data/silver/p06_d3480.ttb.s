@@ -1,0 +1,13 @@
+CON	Beekeepers
+ENS	believe
+SUB	that
+ORG	GM
+CON	crops
+IST	adversely
+EXS	affect
+DEF	the
+CON	health
+AND	of
+HAS	their
+CON	bees
+NIL	.

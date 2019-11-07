@@ -1,0 +1,9 @@
+DEF	The
+CON	garrison
+EPS	saw
+NOT	no
+CON	choice
+BUT	but
+SUB	to
+EXS	surrender
+NIL	.

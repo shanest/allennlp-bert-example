@@ -1,0 +1,14 @@
+PRX	This
+NOW	is
+DEF	the
+IST	first
+CON	time
+PRO	I
+NOW	've
+IST	ever
+EXS	attended
+PRX	these
+CON	kind
+AND	of
+CON	meetings
+NIL	.

@@ -1,0 +1,10 @@
+QUE	Introverts
+IST	often
+NOW	find
+PRO	it
+IST	difficult
+SUB	to
+EXS	make
+IST	new
+CON	friends
+NIL	.

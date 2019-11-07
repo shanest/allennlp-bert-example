@@ -1,0 +1,11 @@
+DST	Those
+AND	who
+ENS	know
+PRO	me
+NIL	,
+ENS	know
+SUB	that
+PRO	I
+NOW	am
+IST	Catholic
+NIL	.

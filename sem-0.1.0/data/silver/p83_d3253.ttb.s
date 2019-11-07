@@ -1,0 +1,11 @@
+PRO	It
+EPS	was
+REL	in
+GEO	Tokyo
+SUB	that
+PRO	I
+IST	first
+EPS	met
+HAS	her
+CON	father
+NIL	.

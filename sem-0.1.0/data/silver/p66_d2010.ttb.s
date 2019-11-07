@@ -1,0 +1,10 @@
+REL	For
+PRO	us
+ALT	too
+DIS	one
+CON	day
+DEF	the
+CON	sun
+FUT	will
+EXS	shine
+NIL	.

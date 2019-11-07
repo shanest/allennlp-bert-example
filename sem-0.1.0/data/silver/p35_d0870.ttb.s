@@ -1,0 +1,12 @@
+EXS	Get
+PRO	it
+QUE	?
+PRO	You
+NOW	've
+EXS	got
+SUB	to
+EXS	study
+DIS	a
+IST	foreign
+CON	language
+NIL	.

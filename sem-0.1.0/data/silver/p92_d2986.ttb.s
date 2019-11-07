@@ -1,0 +1,13 @@
+PRO	He
+NOW	has
+PFT	been
+EXS	working
+REL	for
+DEF	the
+ORG	Banque
+PER	de
+GEO	France
+REL	for
+QUC	ten
+CON	years
+NIL	.

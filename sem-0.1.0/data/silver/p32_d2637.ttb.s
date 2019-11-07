@@ -1,0 +1,13 @@
+PER	Tom
+EPS	decided
+SUB	that
+PRO	he
+FUT	would
+NOT	n't
+EXS	tell
+PER	Mary
+AND	anything
+AND	about
+DEF	the
+CON	incident
+NIL	.

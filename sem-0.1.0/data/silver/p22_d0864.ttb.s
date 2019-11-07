@@ -1,0 +1,14 @@
+CON	Gentlemen
+NIL	,
+EXS	lift
+DEF	the
+CON	toilet
+CON	seat
+NIL	!
+CON	Ladies
+ALT	also
+ENS	like
+SUB	to
+EXS	sit
+IST	dry
+NIL	.

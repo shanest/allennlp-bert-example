@@ -1,0 +1,9 @@
+DEF	The
+CON	train
+REL	for
+GEO	Birmingham
+ENS	leaves
+REL	from
+CON	platform
+NTH	3
+NIL	.

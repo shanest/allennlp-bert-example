@@ -1,0 +1,10 @@
+PRO	He
+EPS	threw
+DIS	a
+CON	piece
+AND	of
+CON	meat
+REL	to
+DIS	a
+CON	dog
+NIL	.

@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+ENS	know
+SUB	whether
+PER	Tom
+POS	can
+EXS	speak
+GPO	French
+QUE	?

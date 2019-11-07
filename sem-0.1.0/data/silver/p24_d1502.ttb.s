@@ -1,0 +1,12 @@
+DEF	The
+ROL	captain
+PST	was
+DEF	the
+IST	last
+CON	person
+SUB	to
+EXS	leave
+DEF	the
+EXG	sinking
+CON	ship
+NIL	.

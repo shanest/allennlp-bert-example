@@ -1,0 +1,9 @@
+PRO	I
+NOW	think
+PER	Tom
+NOW	is
+IST	just
+DIS	a
+IST	little
+EXS	scared
+NIL	.

@@ -1,0 +1,9 @@
+AND	Right
+PRX	here
+NOW	is
+SUB	where
+PRO	we
+ENS	need
+SUB	to
+EXS	search
+NIL	.

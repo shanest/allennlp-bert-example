@@ -1,0 +1,10 @@
+PRO	I
+EPS	heard
+QUE	what
+PRO	you
+EPS	said
+REL	to
+PER	Tom
+REL	at
+CON	school
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+EPS	claimed
+SUB	that
+DEF	the
+IST	enormous
+CON	property
+PST	was
+REL	at
+HAS	his
+CON	disposal
+NIL	.

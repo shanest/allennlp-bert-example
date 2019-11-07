@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+EXS	trapped
+REL	in
+DEF	the
+CON	cave
+REL	for
+QUC	three
+UOM	days
+NIL	.

@@ -1,0 +1,16 @@
+DIS	Some
+CON	time
+PST	ago
+PRO	I
+PST	was
+EXS	married
+NIL	.
+NOW	Now
+PRO	I
+NOW	do
+NOT	n't
+EXS	have
+CON	anymore
+AND	any
+CON	certainty
+NIL	.

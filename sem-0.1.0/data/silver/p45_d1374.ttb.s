@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+AND	who
+EPS	wrote
+PRX	this
+CON	letter
+NIL	.

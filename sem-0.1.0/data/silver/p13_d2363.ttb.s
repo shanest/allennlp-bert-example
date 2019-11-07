@@ -1,0 +1,12 @@
+PER	Mary
+EPS	resembles
+HAS	her
+ROL	mother
+REL	in
+CON	appearance
+NIL	,
+BUT	but
+NOT	not
+REL	in
+CON	character
+NIL	.

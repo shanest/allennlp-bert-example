@@ -1,0 +1,15 @@
+NOT	No
+CON	one
+AND	who
+NOW	owns
+DIS	a
+CON	pet
+NOW	is
+EXS	allowed
+SUB	to
+EXS	live
+REL	in
+PRX	this
+CON	apartment
+CON	building
+NIL	.

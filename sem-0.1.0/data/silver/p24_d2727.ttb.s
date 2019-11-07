@@ -1,0 +1,10 @@
+UNK	There
+PST	was
+COL	green
+IST	slime
+CON	oozing
+AND	out
+AND	of
+DEF	the
+CON	pipe
+NIL	.

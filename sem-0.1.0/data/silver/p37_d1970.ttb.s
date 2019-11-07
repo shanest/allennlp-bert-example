@@ -1,0 +1,14 @@
+QUC	One
+CON	day
+NIL	,
+PRO	they
+NOW	're
+EXS	going
+SUB	to
+EXS	take
+IST	away
+HAS	your
+ROL	driver
+HAS	's
+CON	license
+NIL	.

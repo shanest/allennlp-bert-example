@@ -1,0 +1,11 @@
+PRO	I
+PST	was
+EXS	tired
+NIL	,
+SUB	so
+PRO	I
+EPS	went
+IST	straight
+REL	to
+CON	bed
+NIL	.

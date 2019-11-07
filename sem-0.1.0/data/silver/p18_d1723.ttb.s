@@ -1,0 +1,9 @@
+PRO	I
+NOW	wonder
+IMP	if
+QUE	what
+PRO	I
+EPS	wrote
+PST	was
+EXS	correct
+NIL	.

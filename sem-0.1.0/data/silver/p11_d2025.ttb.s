@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	read
+DEF	the
+IST	final
+CON	page
+AND	of
+DEF	the
+CON	novel
+ALT	yet
+NIL	.

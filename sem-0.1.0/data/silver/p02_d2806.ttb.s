@@ -1,0 +1,17 @@
+PRO	I
+AND	always
+EPS	dreamed
+AND	of
+CON	meeting
+DIS	a
+CON	unicorn
+DST	that
+FUT	would
+EXS	tell
+PRO	me
+DEF	the
+CON	secrets
+AND	of
+DEF	the
+CON	night
+NIL	.

@@ -1,0 +1,10 @@
+PER	Hope
+AND	of
+EXS	finding
+DEF	the
+CON	child
+EXS	alive
+NOW	is
+EXS	fading
+IST	rapidly
+NIL	.

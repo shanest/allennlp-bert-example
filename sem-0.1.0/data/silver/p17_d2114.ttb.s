@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	flirting
+REL	with
+PER	Mary
+AND	all
+CON	night
+NIL	.

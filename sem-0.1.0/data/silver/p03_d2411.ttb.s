@@ -1,0 +1,16 @@
+PRX	Below
+NIL	,
+PRO	you
+POS	can
+EXS	read
+DEF	the
+CON	instructions
+PRO	you
+FUT	will
+EXS	be
+EXS	given
+REL	during
+DEF	the
+IST	final
+CON	exam
+NIL	.

@@ -1,0 +1,12 @@
+DEF	The
+CON	children
+PST	were
+EXS	sitting
+REL	on
+DEF	the
+CON	floor
+REL	in
+CON	front
+AND	of
+PER	Tom
+NIL	.

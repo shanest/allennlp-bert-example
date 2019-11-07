@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	concerned
+SUB	that
+HAS	your
+CON	friends
+NOW	are
+EXS	poor
+NIL	.

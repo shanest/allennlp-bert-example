@@ -1,0 +1,11 @@
+PRO	I
+NOW	think
+EXS	being
+IST	poor
+NOW	is
+NOT	nothing
+SUB	to
+EXS	be
+IST	ashamed
+AND	of
+NIL	.

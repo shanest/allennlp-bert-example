@@ -1,0 +1,13 @@
+NOW	Now
+SUB	that
+PRO	you
+NOW	are
+REL	in
+GPE	Italy
+NIL	,
+PRO	you
+NEC	must
+IST	absolutely
+EXS	see
+GEO	Naples
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+PRO	I
+NEC	have
+SUB	to
+EXS	go
+CON	home
+NIL	.

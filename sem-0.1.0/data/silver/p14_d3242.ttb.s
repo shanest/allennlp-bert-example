@@ -1,0 +1,11 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	see
+PRO	you
+REL	in
+HAS	my
+CON	office
+CON	right
+NOW	now
+NIL	.

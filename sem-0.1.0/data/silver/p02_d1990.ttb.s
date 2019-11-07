@@ -1,0 +1,11 @@
+PER	Tom
+EPS	returned
+REL	from
+DEF	the
+CON	kitchen
+EXG	carrying
+DIS	a
+CON	pot
+AND	of
+CON	coffee
+NIL	.

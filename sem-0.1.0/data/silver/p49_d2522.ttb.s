@@ -1,0 +1,13 @@
+EXS	Let
+PRO	's
+EXS	take
+DIS	a
+CON	pause
+NIL	.
+PRO	I
+POS	can
+NOT	not
+EXS	continue
+AND	any
+IST	longer
+NIL	.

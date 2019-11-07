@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	sorry
+SUB	to
+EXT	have
+EXS	kept
+PRO	you
+EXS	waiting
+NIL	.

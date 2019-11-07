@@ -1,0 +1,11 @@
+PER	Tom
+ENS	has
+NOT	no
+CON	intention
+AND	of
+EXS	going
+REL	to
+PER	Mary
+HAS	's
+CON	wedding
+NIL	.

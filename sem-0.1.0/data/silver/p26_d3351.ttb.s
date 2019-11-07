@@ -1,0 +1,10 @@
+PRO	We
+FUT	'll
+EXS	leave
+AND	as
+IST	soon
+SUB	as
+PRO	you
+NOW	're
+EXS	ready
+NIL	.

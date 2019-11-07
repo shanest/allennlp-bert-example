@@ -1,0 +1,17 @@
+AND	Even
+SUB	though
+CON	student
+CON	numbers
+NOW	are
+EXS	increasing
+NIL	,
+REL	on
+DEF	the
+CON	whole
+EQU	,
+MOR	fewer
+CON	scholarships
+NOW	have
+PFT	been
+EXS	granted
+NIL	.

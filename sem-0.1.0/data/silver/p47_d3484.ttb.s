@@ -1,0 +1,16 @@
+NOW	Do
+NOT	n't
+PRO	you
+EXS	think
+PRX	this
+CON	computer
+CON	game
+POS	may
+EXS	be
+DIS	a
+IST	little
+IST	too
+EXS	difficult
+REL	for
+PER	Tom
+QUE	?

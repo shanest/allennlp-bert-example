@@ -1,0 +1,12 @@
+DEF	The
+IST	fourteenth
+INT	most
+IST	common
+CON	letter
+REL	in
+CON	Esperanto
+NOW	is
+NIL	"
+IST	m
+NIL	"
+NIL	.

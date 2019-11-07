@@ -1,0 +1,9 @@
+DEF	The
+CON	game
+PST	was
+EXS	put
+REL	off
+REL	till
+AND	next
+CON	week
+NIL	.

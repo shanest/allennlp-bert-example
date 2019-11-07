@@ -1,0 +1,12 @@
+SUB	When
+PRO	you
+EPS	put
+CON	money
+REL	in
+DEF	the
+CON	bank
+NIL	,
+PRO	you
+EXS	deposit
+PRO	it
+NIL	.

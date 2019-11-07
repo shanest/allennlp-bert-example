@@ -1,0 +1,9 @@
+ORG	Blend
+DEF	the
+COL	blue
+CON	paint
+REL	with
+DEF	the
+COL	yellow
+CON	paint
+NIL	.

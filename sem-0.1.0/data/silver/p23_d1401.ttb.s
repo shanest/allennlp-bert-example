@@ -1,0 +1,14 @@
+PRO	I
+NOW	hear
+DEF	the
+CON	message
+AND	just
+IST	fine
+COO	;
+PRO	it
+NOW	's
+CON	faith
+SUB	that
+PRO	I
+NOW	lack
+NIL	.

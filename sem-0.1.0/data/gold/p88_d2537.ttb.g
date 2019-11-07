@@ -1,0 +1,15 @@
+CON	Water
+NOW	is
+EXG	leaking
+REL	into
+HAS	my
+CON	goggles
+NIL	.
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PRO	they
+EXS	fit
+IST	right
+NIL	.

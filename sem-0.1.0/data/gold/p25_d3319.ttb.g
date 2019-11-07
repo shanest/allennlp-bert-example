@@ -1,0 +1,10 @@
+DEF	The
+IST	whole
+CON	audience
+EPS	got
+REL	up
+COO	and
+EPS	started
+NIL	to
+EXS	applaud
+NIL	.

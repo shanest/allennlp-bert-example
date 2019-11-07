@@ -1,0 +1,11 @@
+DEF	The
+CON	girl
+AND	who
+NOW	is
+EXS	dressed
+REL	in
+COL	white
+ENS	is
+HAS	my
+ROL	fiancee
+NIL	.

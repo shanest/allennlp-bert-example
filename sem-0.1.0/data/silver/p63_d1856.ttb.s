@@ -1,0 +1,11 @@
+PRO	I
+QUC	once
+EPS	saw
+DIS	a
+CON	man
+EXS	walk
+IST	barefoot
+AND	over
+IST	hot
+CON	coals
+NIL	.

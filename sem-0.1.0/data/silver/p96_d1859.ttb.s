@@ -1,0 +1,14 @@
+PRO	We
+ENS	know
+SUB	that
+PRO	you
+EPS	lied
+SUB	to
+PRO	us
+DEF	the
+IST	last
+CON	time
+PRO	we
+EPS	spoke
+IST	together
+NIL	.

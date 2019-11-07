@@ -1,0 +1,12 @@
+CON	Wait
+REL	for
+DEF	the
+CON	bread
+NIL	to
+IST	completely
+EXS	cool
+IST	down
+REL	before
+EXG	eating
+PRO	it
+NIL	.

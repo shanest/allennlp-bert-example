@@ -1,0 +1,10 @@
+PRO	I
+PST	had
+NOT	not
+EXS	waited
+IST	long
+REL	before
+DEF	the
+CON	bus
+EPS	came
+NIL	.

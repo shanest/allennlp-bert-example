@@ -1,0 +1,17 @@
+PRO	I
+ENS	need
+NOT	n't
+EXT	have
+EXS	watered
+DEF	the
+CON	flowers
+NIL	.
+AND	Just
+SUB	after
+PRO	I
+EPS	finished
+NIL	,
+PRO	it
+EPS	started
+EXS	raining
+NIL	.

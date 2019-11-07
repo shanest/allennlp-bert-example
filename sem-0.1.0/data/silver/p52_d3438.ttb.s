@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+APX	about
+QUC	four
+CON	blocks
+REL	from
+HAS	my
+CON	house
+NIL	.

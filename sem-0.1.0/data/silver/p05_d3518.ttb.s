@@ -1,0 +1,10 @@
+NOW	Do
+NOT	n't
+PRO	you
+NOW	think
+PRO	we
+ENS	deserve
+PER	Tom
+HAS	's
+CON	respect
+QUE	?

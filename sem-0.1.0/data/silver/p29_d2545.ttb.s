@@ -1,0 +1,10 @@
+CON	Looking
+REL	at
+PRX	this
+CON	hat
+QUE	what
+ENS	comes
+REL	to
+HAS	your
+CON	mind
+QUE	?

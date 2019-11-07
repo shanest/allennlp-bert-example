@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	clear
+SUB	that
+PER	Tom
+NOW	is
+NOT	n't
+ALT	yet
+EXS	persuaded
+NIL	.

@@ -1,0 +1,15 @@
+ORG	Traffic
+PST	was
+ALT	also
+EXS	disrupted
+AND	including
+DEF	the
+CON	suspension
+AND	of
+DEF	the
+GEO	Akita
+EQU	,
+GEO	Tohoku
+CON	bullet
+CON	train
+NIL	.

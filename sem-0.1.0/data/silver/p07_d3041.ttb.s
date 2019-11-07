@@ -1,0 +1,12 @@
+PRO	I
+EPS	broke
+IST	open
+DEF	the
+CON	door
+SUB	because
+PRO	I
+PST	had
+EXS	lost
+DEF	the
+CON	key
+NIL	.

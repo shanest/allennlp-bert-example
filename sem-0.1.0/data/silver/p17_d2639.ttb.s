@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	tired
+AND	of
+EXG	eating
+DEF	the
+IST	same
+CON	thing
+AND	every
+CON	day
+NIL	.

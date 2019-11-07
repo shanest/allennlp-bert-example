@@ -1,0 +1,10 @@
+QUE	How
+PST	did
+PRO	you
+EXS	get
+NIL	to
+EXS	know
+PRO	she
+PST	was
+EXS	ill
+QUE	?

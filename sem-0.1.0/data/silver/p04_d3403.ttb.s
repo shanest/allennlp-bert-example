@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+DIS	a
+CON	habit
+AND	of
+EXG	getting
+IST	up
+IST	early
+NIL	.

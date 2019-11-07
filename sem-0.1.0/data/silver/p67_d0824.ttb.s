@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+UNK	difficult
+SUB	to
+EXS	translate
+DIS	a
+CON	poem
+REL	into
+ALT	another
+CON	language
+NIL	.

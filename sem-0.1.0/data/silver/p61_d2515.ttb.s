@@ -1,0 +1,9 @@
+ITJ	Hey
+NIL	,
+QUE	what
+HAS	's
+EXS	going
+REL	on
+IST	out
+IST	there
+QUE	?

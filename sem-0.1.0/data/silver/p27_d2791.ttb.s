@@ -1,0 +1,9 @@
+PER	Degas
+PST	was
+EXS	born
+MOR	more
+MOR	than
+QUC	150
+CON	years
+PST	ago
+NIL	.

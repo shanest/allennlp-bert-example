@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	expecting
+SUB	to
+EXS	reach
+GEO	Boston
+REL	in
+AND	about
+DIS	an
+CON	hour
+NIL	.

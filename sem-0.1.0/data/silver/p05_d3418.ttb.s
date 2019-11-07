@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+INT	very
+IST	late
+NIL	,
+NOW	is
+NOT	n't
+PRO	he
+QUE	?

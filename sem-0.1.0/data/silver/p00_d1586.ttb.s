@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	understand
+QUE	how
+NIL	to
+EXS	use
+DIS	a
+CON	computer
+NIL	.

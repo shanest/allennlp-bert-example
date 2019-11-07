@@ -1,0 +1,12 @@
+DEF	The
+IST	last
+CON	time
+PRO	I
+EPS	saw
+PER	Kent
+NIL	,
+PRO	he
+PST	was
+INT	very
+IST	well
+NIL	.

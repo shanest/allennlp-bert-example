@@ -1,0 +1,9 @@
+PER	Tom
+NIL	,
+PRO	you
+FUT	would
+EXS	make
+DIS	a
+IST	great
+ROL	father
+NIL	.

@@ -1,0 +1,10 @@
+PER	Mary
+ENS	thinks
+SUB	that
+NOW	looks
+NOW	are
+MOR	more
+EXS	important
+MOR	than
+CON	personality
+NIL	.

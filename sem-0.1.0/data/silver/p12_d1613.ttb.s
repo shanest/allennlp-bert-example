@@ -1,0 +1,15 @@
+PER	Tom
+NOW	is
+INT	quite
+IST	absent-minded
+AND	and
+DIS	sometimes
+ENS	forgets
+SUB	to
+EXS	pick
+DEF	the
+CON	kids
+IST	up
+REL	from
+CON	school
+NIL	.

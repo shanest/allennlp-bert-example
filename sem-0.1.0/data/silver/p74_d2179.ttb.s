@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	stand
+EXS	being
+EXS	laughed
+REL	at
+REL	in
+CON	public
+NIL	.

@@ -1,0 +1,12 @@
+HAS	My
+ROL	father
+EPS	gave
+PRO	me
+DIS	a
+CON	watch
+NIL	,
+BUT	but
+PRO	I
+EPS	lost
+PRO	it
+NIL	.

@@ -1,0 +1,11 @@
+DIS	A
+IST	long
+CON	time
+PST	ago
+NIL	,
+NIL	there
+PST	was
+DIS	a
+CON	bridge
+PRX	here
+NIL	.

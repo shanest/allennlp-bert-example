@@ -1,0 +1,11 @@
+DEF	The
+CON	premier
+EPS	paid
+DIS	a
+IST	formal
+CON	visit
+REL	to
+DEF	the
+ORG	White
+ORG	House
+NIL	.

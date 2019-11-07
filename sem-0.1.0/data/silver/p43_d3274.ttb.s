@@ -1,0 +1,10 @@
+SUB	When
+PRO	we
+EPS	entered
+DEF	the
+CON	room
+NIL	,
+PRO	he
+EPS	stood
+IST	up
+NIL	.

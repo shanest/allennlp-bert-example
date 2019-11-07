@@ -1,0 +1,12 @@
+DEF	The
+CON	bridge
+REL	between
+GEO	Denmark
+AND	and
+GPE	Sweden
+NOW	is
+INT	almost
+QUC	five
+UOM	miles
+IST	long
+NIL	.

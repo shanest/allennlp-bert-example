@@ -1,0 +1,17 @@
+AND	Why
+FUT	would
+PRO	I
+ENS	want
+SUB	to
+EXS	be
+CON	friends
+REL	with
+DIS	someone
+AND	who
+NOW	has
+QUC	4,387
+AND	of
+PRO	them
+REL	on
+ART	Facebook
+QUE	?

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	offered
+PRO	me
+DIS	a
+CON	cookie
+NIL	,
+BUT	but
+PRO	I
+EPS	refused
+NIL	.

@@ -1,0 +1,13 @@
+EXS	Give
+DEF	the
+CON	book
+IST	back
+REL	to
+PRO	me
+SUB	when
+PRO	you
+NOW	have
+EXS	done
+REL	with
+PRO	it
+NIL	.

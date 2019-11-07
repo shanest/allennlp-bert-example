@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	invited
+PRO	us
+SUB	to
+EXS	spend
+DEF	the
+CON	weekend
+REL	with
+PRO	them
+NIL	.

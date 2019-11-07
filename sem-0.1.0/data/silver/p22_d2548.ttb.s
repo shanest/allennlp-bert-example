@@ -1,0 +1,12 @@
+PRO	I
+AND	like
+CON	children
+NIL	.
+DST	That
+HAS	's
+QUE	why
+PRO	I
+EPS	became
+DIS	a
+CON	teacher
+NIL	.

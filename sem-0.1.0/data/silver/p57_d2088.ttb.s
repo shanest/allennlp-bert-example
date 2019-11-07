@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+DEF	the
+INT	very
+TOP	best
+ROL	inventor
+REL	in
+DEF	the
+CON	class
+NIL	.

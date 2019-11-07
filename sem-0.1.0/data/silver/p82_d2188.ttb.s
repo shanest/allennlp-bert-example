@@ -1,0 +1,9 @@
+ITJ	Oh
+HAS	my
+CON	God
+NIL	,
+PRO	they
+NOW	're
+INT	so
+EXS	cute
+NIL	!

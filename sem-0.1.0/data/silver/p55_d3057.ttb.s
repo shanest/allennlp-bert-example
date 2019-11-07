@@ -1,0 +1,14 @@
+DIS	A
+IST	few
+CON	years
+PST	ago
+NIL	,
+UNK	there
+PST	was
+DIS	a
+IST	huge
+CON	scandal
+REL	at
+HAS	my
+CON	school
+NIL	.

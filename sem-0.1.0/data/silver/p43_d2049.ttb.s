@@ -1,0 +1,12 @@
+NOW	Now
+SUB	that
+DEF	the
+CON	weather
+NOW	is
+EXS	warmer
+NIL	,
+PRO	I
+POS	can
+EXS	go
+IST	outdoors
+NIL	.

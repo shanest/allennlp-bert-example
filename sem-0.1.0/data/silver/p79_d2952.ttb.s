@@ -1,0 +1,11 @@
+PRO	He
+EPS	took
+REL	off
+HAS	his
+CON	coat
+COO	and
+EPS	put
+PRO	it
+REL	on
+ALT	again
+NIL	.

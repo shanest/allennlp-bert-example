@@ -1,0 +1,15 @@
+UNK	There
+NOW	is
+CON	milk
+AND	all
+AND	over
+DEF	the
+CON	kitchen
+CON	floor
+AND	because
+HAS	my
+CON	wife
+EPS	broke
+DEF	the
+CON	bottle
+NIL	.

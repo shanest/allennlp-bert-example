@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+EXS	going
+SUB	to
+EXS	be
+UNK	difficult
+SUB	to
+EXS	remove
+PRX	this
+CON	stain
+NIL	.

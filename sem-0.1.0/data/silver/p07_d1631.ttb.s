@@ -1,0 +1,10 @@
+EXS	Stop
+EXS	beating
+AND	around
+DEF	the
+CON	bush
+COO	and
+EXS	answer
+HAS	my
+CON	question
+NIL	!

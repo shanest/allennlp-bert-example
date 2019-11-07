@@ -1,0 +1,10 @@
+EXS	Come
+REL	on
+NIL	,
+PRO	you
+POS	can
+EXS	do
+COM	better
+AND	than
+PRX	this
+NIL	!

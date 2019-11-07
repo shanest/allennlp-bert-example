@@ -1,0 +1,15 @@
+PER	Mary
+EPS	took
+DIS	a
+CON	picture
+AND	of
+REF	herself
+REL	on
+HAS	her
+CON	phone
+COO	and
+EPS	sent
+PRO	it
+REL	to
+PER	Tom
+NIL	.

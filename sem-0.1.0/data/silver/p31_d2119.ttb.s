@@ -1,0 +1,12 @@
+UNK	There
+NOW	are
+CON	plenty
+AND	of
+CON	places
+AND	around
+PRX	here
+REL	for
+DIS	someone
+SUB	to
+EXS	hide
+NIL	.

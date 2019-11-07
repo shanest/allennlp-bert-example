@@ -1,0 +1,14 @@
+PER	Tom
+EPS	ate
+DIS	some
+AND	of
+HAS	my
+CON	rice
+SUB	while
+PRO	I
+PST	was
+IST	away
+REL	from
+DEF	the
+CON	table
+NIL	.

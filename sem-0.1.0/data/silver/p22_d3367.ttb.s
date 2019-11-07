@@ -1,0 +1,10 @@
+PER	Tom
+EPS	liked
+SUB	to
+EXS	listen
+REL	to
+PER	Mary
+NOW	play
+DEF	the
+CON	piano
+NIL	.

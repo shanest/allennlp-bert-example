@@ -1,0 +1,15 @@
+DEF	The
+CON	name
+AND	of
+PER	Tom
+HAS	's
+CON	wife
+NOW	is
+PER	Mary
+AND	and
+HAS	his
+CON	son
+HAS	's
+NOW	is
+CON	Horace
+NIL	.

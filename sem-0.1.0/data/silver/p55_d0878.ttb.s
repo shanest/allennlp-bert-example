@@ -1,0 +1,11 @@
+REL	In
+MOY	April
+UNK	there
+PST	were
+NOT	not
+QUV	many
+CON	holidayers
+REL	on
+DEF	the
+CON	island
+NIL	.

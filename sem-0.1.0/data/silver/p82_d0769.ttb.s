@@ -1,0 +1,16 @@
+ITJ	Ah
+NIL	!
+IMP	If
+PRO	I
+PST	were
+EXS	rich
+NIL	,
+PRO	I
+FUT	'd
+EXS	buy
+EMP	myself
+DIS	a
+CON	house
+REL	in
+GEO	Spain
+NIL	.

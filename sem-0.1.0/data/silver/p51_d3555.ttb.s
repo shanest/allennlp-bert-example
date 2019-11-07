@@ -1,0 +1,10 @@
+DEF	The
+CON	rules
+CON	drivers
+NEC	ought
+SUB	to
+EXS	keep
+NOW	are
+SUB	as
+EXS	follows
+NIL	.

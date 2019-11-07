@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+IST	never
+PST	had
+MOR	more
+MOR	than
+UOM	$
+QUC	500
+REL	in
+HAS	my
+CON	possession
+NIL	.

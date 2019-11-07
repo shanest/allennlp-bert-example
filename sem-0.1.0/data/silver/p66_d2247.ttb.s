@@ -1,0 +1,10 @@
+PRO	I
+FUT	'll
+NOT	never
+EXS	forget
+EXS	going
+REL	to
+GPE	Hawaii
+REL	with
+PRO	her
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+EPS	broke
+IST	up
+DEF	the
+IST	concrete
+CON	block
+REL	with
+DIS	a
+CON	hammer
+NIL	.

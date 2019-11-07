@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	having
+DIS	a
+IST	hard
+CON	time
+EXS	understanding
+PRO	you
+NIL	.

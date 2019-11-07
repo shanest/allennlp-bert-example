@@ -1,0 +1,12 @@
+PRO	He
+EPS	said
+REL	to
+REF	himself
+NIL	,
+NIL	"
+PRO	I
+FUT	will
+EXS	do
+PRO	it
+NIL	.
+NIL	"

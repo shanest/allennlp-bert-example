@@ -1,0 +1,11 @@
+PER	Bob
+NOW	has
+PFT	been
+EXS	engaged
+REL	to
+PER	Mary
+REL	for
+AND	over
+DIS	a
+CON	year
+NIL	.

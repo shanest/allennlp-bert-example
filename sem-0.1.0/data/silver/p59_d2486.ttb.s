@@ -1,0 +1,14 @@
+DIS	A
+CON	plethora
+AND	of
+IST	ineffective
+CON	education
+CON	programs
+EPS	made
+DEF	the
+ROL	president
+IST	unpopular
+AND	amongst
+IST	fiscal
+CON	conservatives
+NIL	.

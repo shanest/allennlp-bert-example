@@ -1,0 +1,15 @@
+PRO	We
+NEC	have
+NIL	to
+EXS	abolish
+AND	all
+IST	nuclear
+CON	weapons
+NIL	,
+SUB	because
+PRO	they
+NOW	are
+IST	deadly
+REL	to
+CON	mankind
+NIL	.

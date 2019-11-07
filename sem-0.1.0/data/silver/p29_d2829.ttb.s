@@ -1,0 +1,10 @@
+PRO	I
+PST	had
+AND	all
+HAS	my
+CON	clothes
+EPS	washed
+REL	by
+HAS	my
+CON	mother
+NIL	.

@@ -1,0 +1,11 @@
+PRO	We
+EPS	used
+SUB	to
+EXS	go
+REL	to
+DEF	the
+CON	movies
+REL	on
+DOW	Saturday
+CON	evening
+NIL	.

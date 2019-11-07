@@ -1,0 +1,15 @@
+DEF	The
+CON	judge
+EPS	said
+PRO	he
+PST	had
+NOT	never
+EXS	seen
+AND	such
+DIS	an
+IST	amicable
+AND	and
+INT	mutually
+IST	agreed
+CON	divorce
+NIL	.

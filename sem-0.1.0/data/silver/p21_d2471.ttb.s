@@ -1,0 +1,14 @@
+PRO	He
+AND	who
+ENS	reads
+IST	often
+COO	and
+ENS	walks
+IST	often
+NIL	,
+ENS	sees
+QUV	much
+AND	and
+ENS	knows
+QUV	much
+NIL	.

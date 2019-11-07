@@ -1,0 +1,9 @@
+IMP	If
+XCL	only
+PRO	I
+PST	had
+EXS	known
+DEF	the
+CON	answer
+PST	yesterday
+NIL	!

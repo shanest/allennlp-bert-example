@@ -1,0 +1,10 @@
+DEF	The
+IST	ambitious
+CON	man
+EPS	became
+EXS	intoxicated
+REL	with
+HAS	his
+IST	own
+CON	success
+NIL	.

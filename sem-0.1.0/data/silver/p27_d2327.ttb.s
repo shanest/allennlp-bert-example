@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	taking
+PRX	these
+CON	sheep
+REL	to
+DEF	the
+CON	market
+NIL	.

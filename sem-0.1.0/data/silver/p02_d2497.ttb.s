@@ -1,0 +1,12 @@
+AND	All
+AND	of
+DEF	the
+CON	children
+PST	were
+IST	completely
+EXS	asleep
+REL	before
+PRO	it
+PST	got
+EXS	dark
+NIL	.

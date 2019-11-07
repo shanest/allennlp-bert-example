@@ -1,0 +1,9 @@
+PRO	I
+PST	had
+DIS	a
+INT	very
+EXS	stimulating
+CON	conversation
+REL	with
+PER	Tom
+NIL	.

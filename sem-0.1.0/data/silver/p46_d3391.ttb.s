@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+PER	Mary
+IMP	if
+PRO	she
+EPS	enjoyed
+EXS	reading
+CON	murder
+CON	mysteries
+NIL	.

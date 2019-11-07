@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	got
+EXS	married
+REL	in
+GPE	Boston
+QUC	three
+CON	years
+PST	ago
+NIL	.

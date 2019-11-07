@@ -1,0 +1,12 @@
+IST	Political
+CON	pundits
+NOW	have
+EXS	begun
+EXS	weighing
+REL	in
+REL	on
+DEF	the
+ROL	president
+HAS	's
+CON	speech
+NIL	.

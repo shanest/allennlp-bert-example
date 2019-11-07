@@ -1,0 +1,9 @@
+PER	Tom
+GRP	and
+PER	Mary
+EPS	adopted
+DIS	a
+CON	child
+REL	from
+GPE	Russia
+NIL	.

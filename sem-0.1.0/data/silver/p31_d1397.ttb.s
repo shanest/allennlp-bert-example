@@ -1,0 +1,9 @@
+PRO	I
+EPS	saw
+DEF	the
+CON	children
+EXS	walk
+REL	across
+DEF	the
+CON	street
+NIL	.

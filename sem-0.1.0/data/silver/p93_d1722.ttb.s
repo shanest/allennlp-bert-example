@@ -1,0 +1,9 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	send
+DIS	a
+CON	parcel
+REL	to
+GPE	Japan
+NIL	.

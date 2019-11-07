@@ -1,0 +1,12 @@
+UNK	There
+NOW	has
+PFT	been
+NOT	no
+EXS	rain
+PRX	here
+REL	for
+DEF	the
+IST	past
+QUC	two
+CON	weeks
+NIL	.

@@ -1,0 +1,10 @@
+REL	In
+GEO	Soviet
+GPE	Russia
+NIL	,
+DEF	the
+CON	computer
+NOW	uses
+DEF	the
+CON	user
+NIL	!

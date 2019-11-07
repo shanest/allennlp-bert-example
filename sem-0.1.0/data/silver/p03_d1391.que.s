@@ -1,0 +1,11 @@
+QUE	How
+IST	long
+PST	did
+PER	Mark
+PER	Kauffman
+ENS	work
+REL	for
+DEF	the
+CON	Life
+CON	magazine
+QUE	?

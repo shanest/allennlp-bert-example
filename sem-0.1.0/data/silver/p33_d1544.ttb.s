@@ -1,0 +1,16 @@
+PER	Tom
+NOW	has
+NOT	n't
+ALT	yet
+EXS	heard
+DIS	anything
+IST	definite
+AND	about
+SUB	whether
+PRO	he
+EPS	got
+REL	into
+ORG	Harvard
+DIS	or
+NOT	not
+NIL	.

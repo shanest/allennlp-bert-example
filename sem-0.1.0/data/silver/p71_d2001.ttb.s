@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+NIL	to
+EXS	buy
+DIS	a
+CON	box
+AND	of
+CON	matches
+NIL	.

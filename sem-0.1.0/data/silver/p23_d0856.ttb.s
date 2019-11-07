@@ -1,0 +1,11 @@
+PER	Lucy
+COO	and
+PRO	I
+NOW	have
+AND	about
+DEF	the
+IST	same
+CON	number
+AND	of
+CON	friends
+NIL	.

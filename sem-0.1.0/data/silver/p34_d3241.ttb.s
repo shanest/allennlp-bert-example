@@ -1,0 +1,9 @@
+PRO	It
+ENS	seems
+PRO	we
+NOW	are
+REL	in
+DEF	the
+IST	same
+CON	boat
+NIL	.

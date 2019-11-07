@@ -1,0 +1,9 @@
+PER	Mary
+EPS	took
+CON	sides
+REL	with
+PRO	me
+AND	against
+HAS	my
+CON	teacher
+NIL	.

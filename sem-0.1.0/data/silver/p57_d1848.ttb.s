@@ -1,0 +1,16 @@
+PER	Dirndl
+NOW	is
+DIS	a
+CON	type
+AND	of
+IST	traditional
+CON	dress
+AND	that
+NOW	is
+EXS	worn
+REL	in
+GEO	Southern
+GPE	Germany
+AND	and
+GEO	Austria
+NIL	.

@@ -1,0 +1,11 @@
+AND	Just
+SUB	so
+PRO	you
+ENS	know
+NIL	,
+PRO	I
+NOW	'm
+DIS	an
+ORG	FBI
+CON	agent
+NIL	.

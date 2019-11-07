@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+EXS	been
+DIS	a
+ROL	teacher
+REL	for
+QUC	15
+CON	years
+NIL	.

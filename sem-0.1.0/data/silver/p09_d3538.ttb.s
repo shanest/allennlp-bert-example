@@ -1,0 +1,12 @@
+PER	Tom
+EPS	noticed
+PER	Mary
+HAS	's
+CON	car
+EPS	parked
+REL	in
+CON	front
+AND	of
+DEF	the
+CON	library
+NIL	.

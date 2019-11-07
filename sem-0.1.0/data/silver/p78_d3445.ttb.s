@@ -1,0 +1,10 @@
+AND	During
+CON	summer
+CON	breaks
+NIL	,
+PRO	I
+EPS	ate
+CON	dinner
+REL	at
+CLO	midnight
+NIL	.

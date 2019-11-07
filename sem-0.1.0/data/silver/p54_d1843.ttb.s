@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+EXS	be
+IST	afraid
+SUB	because
+PRO	I
+FUT	'll
+EXS	be
+REL	with
+PRO	you
+NIL	.

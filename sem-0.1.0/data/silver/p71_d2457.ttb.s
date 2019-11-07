@@ -1,0 +1,9 @@
+PST	Excuse
+PRO	me
+NIL	,
+PRO	I
+NOW	'm
+EXS	looking
+REL	for
+PER	Tom
+NIL	.

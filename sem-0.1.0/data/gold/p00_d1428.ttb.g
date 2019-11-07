@@ -1,0 +1,10 @@
+NIL	There
+NOW	is
+DIS	a
+CON	library
+REL	in
+AND	every
+CON	city
+REL	in
+GPE	America
+NIL	.

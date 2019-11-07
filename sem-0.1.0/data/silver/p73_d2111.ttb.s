@@ -1,0 +1,11 @@
+PRO	You
+POS	can
+EXS	count
+REL	on
+PRO	me
+SUB	to
+EXS	be
+IST	there
+REL	by
+CLO	10:00
+NIL	.

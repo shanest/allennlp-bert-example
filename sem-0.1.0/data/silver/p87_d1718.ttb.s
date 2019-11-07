@@ -1,0 +1,15 @@
+PER	Tom
+HAS	's
+CON	leg
+PST	had
+EXS	gone
+SUB	to
+EXS	sleep
+SUB	so
+PRO	he
+PST	was
+IST	unable
+SUB	to
+EXS	stand
+IST	up
+NIL	.

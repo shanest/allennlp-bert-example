@@ -1,0 +1,11 @@
+DEF	The
+CON	boy
+EPS	put
+REL	on
+HAS	his
+IST	athletic
+CON	shoes
+COO	and
+EPS	ran
+IST	outside
+NIL	.

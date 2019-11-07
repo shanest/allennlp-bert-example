@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+DEF	the
+CON	book
+NOW	is
+DIS	a
+CON	bestseller
+REL	in
+GPE	Britain
+NIL	.

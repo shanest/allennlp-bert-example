@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+NOW	has
+DEF	the
+IST	same
+CON	car
+AND	as
+ROL	Mr
+PER	Kimura's
+NIL	.

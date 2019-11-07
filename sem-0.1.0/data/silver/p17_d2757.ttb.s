@@ -1,0 +1,11 @@
+DEF	The
+CON	decision
+NOW	has
+DIS	something
+SUB	to
+EXS	do
+REL	with
+QUE	what
+PRO	you
+EPS	said
+NIL	.

@@ -1,0 +1,11 @@
+AND	As
+AND	of
+NOW	now
+PRO	I
+FUT	'll
+EXS	be
+IST	able
+SUB	to
+EXS	sleep
+IST	peacefully
+NIL	.

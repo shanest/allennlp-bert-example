@@ -1,0 +1,14 @@
+PRO	You
+ENS	need
+NOT	not
+EXT	have
+EXS	come
+AND	all
+DEF	the
+CON	way
+REL	from
+AND	such
+DIS	a
+IST	distant
+CON	place
+NIL	.

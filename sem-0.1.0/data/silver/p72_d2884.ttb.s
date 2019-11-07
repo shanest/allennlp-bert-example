@@ -1,0 +1,16 @@
+PRO	We
+NOW	've
+EXS	got
+QUC	two
+CON	cats
+AND	-
+CON	one
+NOW	is
+COL	white
+NIL	,
+COO	and
+DEF	the
+CON	other
+HAS	's
+COL	black
+NIL	.

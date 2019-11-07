@@ -1,0 +1,12 @@
+PRO	You
+NOW	look
+AND	like
+PRO	you
+NOW	've
+PFT	been
+EXS	doing
+DIS	something
+PRO	you
+NEC	should
+NOT	n't
+NIL	.

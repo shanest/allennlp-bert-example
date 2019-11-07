@@ -1,0 +1,10 @@
+HAS	My
+CON	mother
+EPS	gave
+PRO	me
+AND	all
+DEF	the
+CON	love
+PRO	I
+EPS	needed
+NIL	.

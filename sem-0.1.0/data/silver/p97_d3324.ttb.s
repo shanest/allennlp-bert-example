@@ -1,0 +1,9 @@
+NOT	No
+CON	one
+NOW	is
+EXS	allowed
+SUB	to
+EXS	translate
+PRX	this
+CON	sentence
+NIL	.

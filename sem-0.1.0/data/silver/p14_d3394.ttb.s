@@ -1,0 +1,10 @@
+PER	Tom
+EPS	stuck
+HAS	his
+CON	nose
+SUB	where
+PRO	it
+PST	did
+NOT	n't
+EXS	belong
+NIL	.

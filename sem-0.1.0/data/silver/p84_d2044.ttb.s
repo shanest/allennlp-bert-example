@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+DIS	a
+CON	girl
+AND	who
+ENS	speaks
+GPO	English
+IST	well
+NIL	.

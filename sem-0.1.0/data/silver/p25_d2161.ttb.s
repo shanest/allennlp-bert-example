@@ -1,0 +1,10 @@
+ROL	Mr.
+PER	Clinton
+PST	was
+ROL	governor
+AND	of
+GEO	Arkansas
+REL	at
+DEF	the
+CON	time
+NIL	.

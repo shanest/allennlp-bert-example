@@ -1,0 +1,11 @@
+PER	Tom
+ENS	says
+SUB	that
+PRO	he
+FUT	'll
+EXS	pick
+PER	Mary
+IST	up
+REL	at
+CLO	2:30
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+EPS	thought
+PER	Tom
+PST	had
+EXS	convinced
+PER	Mary
+NOT	not
+SUB	to
+EXS	buy
+DST	that
+NIL	.

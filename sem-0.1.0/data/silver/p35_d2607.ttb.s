@@ -1,0 +1,12 @@
+PRO	I
+ENS	need
+IST	more
+CON	information
+AND	about
+QUE	how
+SUB	to
+EXS	use
+PRX	this
+IST	new
+CON	software
+NIL	.

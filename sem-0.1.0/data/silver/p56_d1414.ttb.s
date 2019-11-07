@@ -1,0 +1,10 @@
+DEF	The
+CON	rain
+NOW	has
+NOT	n't
+EXS	stopped
+ALT	yet
+NIL	,
+NOW	has
+PRO	it
+QUE	?

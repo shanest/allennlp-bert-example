@@ -1,0 +1,10 @@
+PRO	We
+NOW	look
+IST	up
+REL	to
+PRO	him
+AND	because
+AND	of
+HAS	his
+CON	politeness
+NIL	.

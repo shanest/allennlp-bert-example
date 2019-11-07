@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+SUB	where
+PER	Tom
+HAS	's
+CON	office
+NOW	is
+NIL	.

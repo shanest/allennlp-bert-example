@@ -1,0 +1,10 @@
+QUE	How
+NOW	do
+PRO	you
+EXS	say
+NIL	"
+CON	pig
+NIL	"
+REL	in
+GPO	Spanish
+QUE	?

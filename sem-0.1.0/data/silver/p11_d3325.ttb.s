@@ -1,0 +1,11 @@
+HAS	My
+CON	brother
+EPS	ran
+IST	out
+AND	of
+DEF	the
+CON	room
+NOT	without
+EXG	saying
+AND	anything
+NIL	.

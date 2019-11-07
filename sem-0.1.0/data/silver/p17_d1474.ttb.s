@@ -1,0 +1,15 @@
+DEF	The
+CON	dragon
+EPS	flew
+DIS	a
+CON	dragon
+CON	kite
+AND	:
+DEF	the
+CON	kite
+PST	was
+EXS	flown
+REL	by
+DEF	the
+CON	dragon
+NIL	.

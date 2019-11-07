@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PRO	I
+NOW	've
+IST	ever
+EXS	heard
+SUB	that
+CON	joke
+REL	before
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	no
+CON	hesitation
+REL	in
+EXG	telling
+DEF	the
+CON	truth
+NIL	.

@@ -1,0 +1,14 @@
+AND	Both
+PER	Bush
+AND	and
+PER	Clinton
+EPS	helped
+EXS	raise
+CON	funds
+REL	for
+DEF	the
+CON	recovery
+REL	from
+CON	Hurricane
+NTH	Katrina
+NIL	.

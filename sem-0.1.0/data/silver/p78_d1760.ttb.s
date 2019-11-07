@@ -1,0 +1,10 @@
+PRO	I
+PST	was
+NOT	n't
+IST	sure
+IMP	if
+PER	Tom
+PST	had
+EXS	eaten
+ALT	yet
+NIL	.

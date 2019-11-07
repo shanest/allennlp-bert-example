@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+NOT	not
+AND	all
+INT	too
+IST	certain
+AND	of
+HAS	my
+CON	position
+NIL	.

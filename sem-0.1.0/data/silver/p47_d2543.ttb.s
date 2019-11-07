@@ -1,0 +1,16 @@
+IMP	If
+CON	people
+AND	who
+CON	smoke
+NOW	are
+EXS	deprived
+AND	of
+HAS	their
+CON	cigarettes
+NIL	,
+PRO	they
+NOW	get
+IST	nervous
+AND	and
+IST	irritable
+NIL	.

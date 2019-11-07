@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	go
+REL	to
+DEF	the
+CON	doctor
+PRX	this
+CON	afternoon
+NIL	.

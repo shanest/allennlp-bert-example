@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+IST	hard
+SUB	to
+EXS	figure
+IST	out
+QUE	what
+PER	Tom
+ENS	wants
+NIL	.

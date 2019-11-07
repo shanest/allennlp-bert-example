@@ -1,0 +1,10 @@
+AND	Everyone
+ENS	knows
+SUB	that
+PER	Jessie
+NOW	has
+DIS	a
+CON	thing
+REL	for
+PRO	you
+NIL	.

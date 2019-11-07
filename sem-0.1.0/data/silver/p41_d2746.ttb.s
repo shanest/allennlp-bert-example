@@ -1,0 +1,13 @@
+PRO	It
+NOW	does
+NOT	n't
+EXS	matter
+REL	to
+PRO	me
+SUB	whether
+PRO	she
+ENS	comes
+AND	here
+DIS	or
+NOT	not
+NIL	.

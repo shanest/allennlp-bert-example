@@ -1,0 +1,11 @@
+PRO	He
+AND	who
+NOW	has
+DEF	the
+CON	money
+NIL	,
+ALT	also
+NOW	has
+DEF	the
+CON	power
+NIL	.

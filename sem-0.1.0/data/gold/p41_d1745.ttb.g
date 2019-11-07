@@ -1,0 +1,9 @@
+DEF	The
+CON	meeting
+EPS	began
+REL	at
+CLO	five
+REL	in
+DEF	the
+CON	afternoon
+NIL	.

@@ -1,0 +1,15 @@
+REL	In
+CON	honour
+AND	of
+DEF	the
+CON	day
+PER	Liisa
+COO	and
+PER	Markku
+EPS	cracked
+DIS	a
+CON	bottle
+AND	of
+CON	champagne
+IST	together
+NIL	.

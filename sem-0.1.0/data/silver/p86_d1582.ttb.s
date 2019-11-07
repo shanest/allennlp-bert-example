@@ -1,0 +1,11 @@
+DEF	The
+CON	police
+NOW	are
+NOW	now
+EXS	investigating
+DEF	the
+CON	cause
+AND	of
+DEF	the
+CON	accident
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+GPO	American
+AND	and
+GPO	Japanese
+ROL	ambassadors
+EPS	met
+REL	at
+DIS	a
+CON	conference
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+EPS	suggested
+SUB	that
+PRO	they
+EXS	convert
+DEF	the
+IST	old
+CON	church
+REL	into
+DIS	a
+CON	concert
+CON	hall
+NIL	.

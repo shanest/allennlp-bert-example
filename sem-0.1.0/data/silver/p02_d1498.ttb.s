@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+IST	hard
+SUB	to
+EXS	combine
+CON	business
+REL	with
+CON	pleasure
+NIL	.

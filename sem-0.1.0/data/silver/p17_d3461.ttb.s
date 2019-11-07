@@ -1,0 +1,17 @@
+PRO	I
+NOW	imagine
+SUB	that
+PER	Tom
+FUT	will
+IST	eventually
+EXS	find
+IST	out
+SUB	that
+PER	Mary
+NOW	has
+PFT	been
+EXS	talking
+AND	behind
+HAS	his
+IST	back
+NIL	.

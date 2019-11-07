@@ -1,0 +1,16 @@
+PRO	We
+NOW	're
+EXS	going
+SUB	to
+EXS	have
+DIS	a
+CON	lot
+AND	of
+CON	fun
+NIL	.
+PRO	I
+NOW	'm
+IST	sure
+AND	of
+PRO	it
+NIL	.

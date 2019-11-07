@@ -1,0 +1,9 @@
+PER	White-collar
+CON	criminals
+NOW	are
+EXS	treated
+DEF	the
+CON	same
+AND	as
+ALT	others
+NIL	.

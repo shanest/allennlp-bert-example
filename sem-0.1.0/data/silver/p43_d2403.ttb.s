@@ -1,0 +1,14 @@
+PRO	It
+HAS	's
+PFT	been
+QUC	five
+CON	years
+REL	since
+DST	that
+CON	book
+PST	was
+EXS	made
+REL	into
+DIS	a
+CON	movie
+NIL	.

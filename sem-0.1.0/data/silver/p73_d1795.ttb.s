@@ -1,0 +1,10 @@
+DEF	The
+CON	waitress
+EPS	put
+DIS	a
+COL	white
+CON	tablecloth
+REL	on
+DEF	the
+CON	table
+NIL	.

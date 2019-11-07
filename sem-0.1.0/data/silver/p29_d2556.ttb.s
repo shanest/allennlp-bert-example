@@ -1,0 +1,13 @@
+SUB	When
+NOW	are
+PRO	you
+EXS	going
+SUB	to
+EXS	start
+DEF	the
+CON	translation
+AND	of
+PER	Mary
+HAS	's
+CON	article
+QUE	?

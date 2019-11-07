@@ -1,0 +1,15 @@
+PER	Tom
+NOW	is
+DEF	the
+CON	kind
+AND	of
+CON	person
+AND	who
+AND	always
+ENS	has
+SUB	to
+EXS	have
+DEF	the
+IST	last
+CON	word
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	caught
+CON	malaria
+SUB	while
+PRO	he
+PST	was
+EXS	travelling
+REL	in
+GEO	Africa
+NIL	.

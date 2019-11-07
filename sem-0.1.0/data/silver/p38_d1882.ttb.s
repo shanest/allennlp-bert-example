@@ -1,0 +1,11 @@
+PRX	This
+CON	car
+NOW	has
+PFT	been
+EXS	used
+REL	for
+DEF	the
+IST	past
+QUC	ten
+CON	years
+NIL	.

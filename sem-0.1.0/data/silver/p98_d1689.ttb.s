@@ -1,0 +1,11 @@
+PER	Jessie
+EPS	shook
+PER	Joseph
+HAS	's
+CON	hand
+COO	and
+EPS	greeted
+PRO	him
+REL	with
+CON	affection
+NIL	.

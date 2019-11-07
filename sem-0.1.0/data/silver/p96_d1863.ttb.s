@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	surprised
+SUB	that
+PRO	he
+EPS	accepted
+DEF	the
+CON	offer
+NIL	.

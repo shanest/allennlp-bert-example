@@ -1,0 +1,10 @@
+PER	Pedro
+NOW	has
+DIS	a
+CON	motorcycle
+AND	and
+ENS	loves
+SUB	to
+EXS	ride
+PRO	it
+NIL	.

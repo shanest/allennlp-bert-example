@@ -1,0 +1,15 @@
+NIL	"
+QUE	How
+QUV	much
+NOW	is
+PRX	this
+CON	handkerchief
+QUE	?
+NIL	"
+NIL	"
+PRO	It
+NOW	is
+QUC	ninety-five
+CON	cents
+NIL	.
+NIL	"

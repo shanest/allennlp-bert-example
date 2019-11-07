@@ -1,0 +1,9 @@
+PRO	He
+ENS	thinks
+PRO	I
+NOW	'm
+REL	in
+CON	love
+REL	with
+PRO	her
+NIL	.

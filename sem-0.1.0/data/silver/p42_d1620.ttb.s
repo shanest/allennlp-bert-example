@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+NOT	not
+DEF	the
+CON	end
+AND	of
+DEF	the
+CON	story
+ALT	yet
+NIL	.

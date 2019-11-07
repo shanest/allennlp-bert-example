@@ -1,0 +1,14 @@
+DEF	The
+CON	police
+CON	officer
+REL	on
+CON	duty
+EPS	sensed
+DIS	an
+IST	elderly
+CON	man
+EXS	coming
+IST	up
+AND	behind
+PRO	him
+NIL	.

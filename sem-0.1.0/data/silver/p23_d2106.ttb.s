@@ -1,0 +1,14 @@
+AND	As
+GPO	Ralph
+CON	Waldo
+PER	Emerson
+ENS	puts
+PRO	it
+NIL	,
+NIL	"
+CON	language
+NOW	is
+REL	fossil
+CON	poetry
+NIL	"
+NIL	.

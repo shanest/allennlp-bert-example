@@ -1,0 +1,14 @@
+DEF	The
+CON	cat
+NOW	is
+EXG	licking
+DEF	the
+CON	candle
+ENS	stand
+IST	out
+AND	of
+CON	love
+REL	for
+DEF	the
+CON	candle
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+IST	sure
+PRO	we
+NOW	're
+EXS	allowed
+SUB	to
+EXS	do
+DST	that
+QUE	?

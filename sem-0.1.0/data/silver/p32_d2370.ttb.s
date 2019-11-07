@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	have
+DIS	a
+CON	part-time
+CON	job
+NIL	,
+ALT	too
+NIL	.

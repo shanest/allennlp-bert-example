@@ -1,0 +1,9 @@
+UNK	There
+NOW	are
+QUV	many
+IST	interesting
+CON	people
+REL	in
+DEF	the
+CON	world
+NIL	.

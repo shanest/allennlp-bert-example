@@ -1,0 +1,14 @@
+NOT	No
+CON	one
+POS	can
+EXS	deny
+DEF	the
+SUB	fact
+SUB	that
+UNK	there
+NOW	is
+NOT	no
+EXS	smoke
+NOT	without
+CON	fire
+NIL	.

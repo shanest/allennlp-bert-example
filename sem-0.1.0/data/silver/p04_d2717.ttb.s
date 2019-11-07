@@ -1,0 +1,14 @@
+HAS	My
+CON	wife
+NOW	has
+EXS	had
+PRO	it
+REL	in
+REL	for
+PRO	me
+SUB	since
+PRO	I
+EPS	forgot
+HAS	her
+CON	birthday
+NIL	.

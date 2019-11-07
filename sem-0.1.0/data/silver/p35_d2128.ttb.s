@@ -1,0 +1,14 @@
+IMP	If
+PRO	I
+PST	had
+EXS	known
+AND	about
+PRO	it
+NIL	,
+PRO	I
+FUT	would
+EXT	have
+EXS	changed
+HAS	my
+CON	plan
+NIL	.

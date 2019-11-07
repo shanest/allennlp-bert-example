@@ -1,0 +1,11 @@
+PER	Tom
+NEC	should
+EXS	apologize
+REL	to
+PER	Mary
+REL	for
+NOT	not
+EXS	arriving
+REL	on
+CON	time
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+CON	moment
+PRO	he
+PST	was
+EXS	alone
+NIL	,
+PRO	he
+EPS	opened
+DEF	the
+CON	letter
+NIL	.

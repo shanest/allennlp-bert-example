@@ -1,0 +1,11 @@
+PRO	It
+PST	was
+EXS	said
+SUB	that
+DEF	the
+CON	lady
+PST	had
+EXS	been
+DIS	an
+ROL	actress
+NIL	.

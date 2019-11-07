@@ -1,0 +1,11 @@
+PER	Juan
+EPS	gave
+PRO	me
+DIS	a
+CON	trip
+REL	to
+CON	Cariló
+REL	for
+HAS	my
+CON	birthday
+NIL	.

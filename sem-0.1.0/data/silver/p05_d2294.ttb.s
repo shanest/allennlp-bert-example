@@ -1,0 +1,11 @@
+PER	Tom
+EPS	called
+PER	Mary
+SUB	to
+EXS	tell
+HAS	her
+PRO	he
+PST	'd
+EXS	be
+IST	late
+NIL	.

@@ -1,0 +1,17 @@
+PRO	We
+NOW	're
+IST	always
+EXS	going
+IST	there
+NIL	!
+EXS	Let
+HAS	's
+ENS	go
+REL	to
+DIS	a
+GPO	French
+CON	restaurant
+REL	for
+DIS	a
+CON	change
+NIL	.

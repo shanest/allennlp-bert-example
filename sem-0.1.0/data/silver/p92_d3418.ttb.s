@@ -1,0 +1,11 @@
+DEF	The
+CON	doctors
+NOW	do
+NOT	n't
+EXS	know
+QUE	what
+HAS	's
+EXS	wrong
+REL	with
+PER	Tom
+NIL	.

@@ -1,0 +1,17 @@
+AND	Even
+IMP	if
+SUB	that
+CON	restaurant
+PST	did
+INT	very
+CON	tasty
+CON	food
+NIL	,
+PRO	I
+FUT	would
+NOT	n't
+EXS	like
+NIL	to
+EXS	eat
+IST	there
+NIL	.

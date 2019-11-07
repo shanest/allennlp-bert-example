@@ -1,0 +1,11 @@
+EXS	Put
+DEF	the
+CON	margarine
+REL	in
+DIS	a
+CON	bowl
+AND	and
+CON	mix
+REL	until
+IST	creamy
+NIL	.

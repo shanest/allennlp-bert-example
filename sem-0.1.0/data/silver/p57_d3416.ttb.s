@@ -1,0 +1,14 @@
+AND	Afterward
+NIL	,
+EXS	bake
+REL	in
+CON	oven
+EXS	preheated
+REL	to
+QUC	350
+UOM	ºF
+REL	for
+INT	about
+QUC	1
+UOM	hour
+NIL	.

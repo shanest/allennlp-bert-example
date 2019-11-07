@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+IST	really
+EXS	happy
+SUB	to
+EXT	have
+EXS	had
+AND	such
+DIS	a
+IST	great
+CON	time
+NIL	.

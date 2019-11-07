@@ -1,0 +1,12 @@
+PRO	I
+IST	still
+NOW	think
+PRO	we
+NEC	should
+EXT	've
+EXS	gone
+REL	to
+GEO	Boston
+REL	with
+PER	Tom
+NIL	.

@@ -1,0 +1,14 @@
+PRO	It
+PST	was
+PER	Tom
+HAS	's
+CON	idea
+NIL	,
+NOT	not
+HAS	mine
+NIL	.
+NOW	Do
+NOT	n't
+EXS	blame
+PRO	me
+NIL	.

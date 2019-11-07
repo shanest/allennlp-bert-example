@@ -1,0 +1,10 @@
+CON	Children
+IST	instinctively
+ENS	know
+QUE	what
+ENS	goes
+REL	on
+REL	between
+HAS	their
+CON	parents
+NIL	.

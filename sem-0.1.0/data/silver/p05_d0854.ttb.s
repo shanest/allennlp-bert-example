@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+EXS	been
+REL	to
+DEF	the
+CON	airport
+SUB	to
+EXS	see
+HAS	my
+CON	friend
+REL	off
+NIL	.

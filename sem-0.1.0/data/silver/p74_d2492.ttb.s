@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+NOW	now
+EXS	alone
+REL	in
+DEF	the
+CON	classroom
+NIL	.

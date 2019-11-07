@@ -1,0 +1,11 @@
+PER	Tom
+EPS	realized
+SUB	that
+PRO	he
+PST	had
+EXS	fallen
+REL	in
+CON	love
+REL	with
+PER	Mary
+NIL	.

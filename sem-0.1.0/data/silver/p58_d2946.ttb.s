@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	talk
+AND	about
+CON	pollution
+AND	and
+HAS	its
+CON	effects
+NIL	.

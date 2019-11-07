@@ -1,0 +1,14 @@
+PER	Tom
+NOW	's
+DIS	a
+IST	moderate
+CON	drinker
+NIL	,
+BUT	but
+HAS	his
+ROL	father
+ENS	drinks
+AND	like
+DIS	a
+CON	fish
+NIL	.

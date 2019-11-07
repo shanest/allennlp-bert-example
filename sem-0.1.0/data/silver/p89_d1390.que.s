@@ -1,0 +1,12 @@
+QUE	Who
+EPS	won
+DEF	the
+CON	Oscar
+REL	for
+NIL	"
+CON	Beauty
+AND	and
+DEF	the
+GEO	Beast
+NIL	"
+QUE	?

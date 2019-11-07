@@ -1,0 +1,11 @@
+PRO	I
+NOW	think
+PRO	it
+NOW	's
+EXS	important
+SUB	to
+EXS	tell
+PRO	him
+DEF	the
+CON	facts
+NIL	.

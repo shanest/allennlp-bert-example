@@ -1,0 +1,11 @@
+PER	Tom
+ENS	knows
+QUE	where
+SUB	to
+EXS	go
+SUB	to
+EXS	get
+DEF	the
+TOP	best
+CON	prices
+NIL	.

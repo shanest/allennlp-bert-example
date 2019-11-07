@@ -1,0 +1,11 @@
+DEF	The
+CON	food
+PST	was
+IST	so
+EXS	good
+SUB	that
+PRO	I
+EPS	ate
+INT	too
+QUV	much
+NIL	.

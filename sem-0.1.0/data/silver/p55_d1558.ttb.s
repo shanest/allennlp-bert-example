@@ -1,0 +1,12 @@
+EXS	Did
+PER	Marika
+EXS	take
+PRO	you
+REL	to
+HAS	her
+CON	father
+HAS	's
+CON	farm
+REL	in
+GEO	Iisalmi
+QUE	?

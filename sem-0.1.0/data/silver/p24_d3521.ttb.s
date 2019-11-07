@@ -1,0 +1,9 @@
+PER	Tom
+EPS	waited
+REL	for
+PER	Mary
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

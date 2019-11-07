@@ -1,0 +1,9 @@
+QUE	What
+NOW	have
+PRO	you
+EPS	bought
+HAS	your
+CON	girlfriend
+REL	for
+TIM	Christmas
+QUE	?

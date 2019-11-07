@@ -1,0 +1,10 @@
+PRO	I
+EXS	figure
+PRO	it
+HAS	's
+INT	about
+CON	time
+PRO	we
+NOW	're
+EXS	going
+NIL	.

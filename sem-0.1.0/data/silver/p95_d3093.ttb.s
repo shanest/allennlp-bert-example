@@ -1,0 +1,9 @@
+PER	Tom
+ENS	puts
+INT	too
+QUC	much
+CON	sugar
+REL	in
+HAS	his
+CON	tea
+NIL	.

@@ -1,0 +1,12 @@
+PRO	You
+NOW	're
+NOT	not
+EXG	telling
+PRO	me
+AND	anything
+PRO	I
+NOW	have
+NOT	n't
+IST	already
+EXS	heard
+NIL	.

@@ -1,0 +1,10 @@
+NOT	Nothing
+IST	great
+NOW	has
+PFT	been
+EXS	achieved
+REL	by
+EXS	playing
+PRO	it
+EXS	safe
+NIL	.

@@ -1,0 +1,11 @@
+PRO	She
+EPS	became
+DIS	a
+ROL	mother
+SUB	when
+PRO	she
+PST	was
+QUC	fifteen
+UOM	years
+DEG	old
+NIL	.

@@ -1,0 +1,10 @@
+PER	Mary
+EPS	ran
+HAS	her
+IST	perfectly
+IST	manicured
+CON	nails
+AND	through
+HAS	her
+CON	hair
+NIL	.

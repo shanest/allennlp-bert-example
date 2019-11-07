@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+IST	next
+SUB	to
+EXS	impossible
+SUB	to
+EXS	make
+PRO	him
+EXS	stop
+CON	smoking
+NIL	.

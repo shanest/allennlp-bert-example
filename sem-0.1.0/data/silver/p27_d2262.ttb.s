@@ -1,0 +1,10 @@
+PRO	I
+IST	sometimes
+EXS	hear
+HAS	my
+ROL	father
+EXS	singing
+REL	in
+DEF	the
+CON	bathroom
+NIL	.

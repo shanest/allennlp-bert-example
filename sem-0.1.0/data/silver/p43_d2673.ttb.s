@@ -1,0 +1,11 @@
+PRO	She
+FUT	'll
+IST	certainly
+EXS	keep
+DEF	the
+CON	promise
+PRO	she
+EPS	made
+REL	to
+PRO	him
+NIL	.

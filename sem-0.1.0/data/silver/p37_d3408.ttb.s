@@ -1,0 +1,9 @@
+PRO	They
+IST	probably
+EPS	saw
+HAS	our
+CON	ship
+ENS	come
+REL	into
+CON	port
+NIL	.

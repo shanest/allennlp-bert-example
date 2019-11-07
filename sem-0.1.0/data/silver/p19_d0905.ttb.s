@@ -1,0 +1,12 @@
+AND	Would
+PRO	you
+EXS	tell
+DEF	the
+CON	head
+ROL	chef
+SUB	that
+PRO	it
+PST	was
+INT	very
+IST	delicious
+QUE	?

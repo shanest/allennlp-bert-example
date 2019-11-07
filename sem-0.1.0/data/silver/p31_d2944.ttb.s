@@ -1,0 +1,11 @@
+NOW	Does
+NOT	n't
+PRO	he
+EXS	know
+PRO	I
+NOW	'm
+EXG	going
+IST	out
+REL	with
+PER	Tom
+QUE	?

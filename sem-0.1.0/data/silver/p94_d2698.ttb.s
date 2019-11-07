@@ -1,0 +1,23 @@
+CON	Experience
+NOW	shows
+SUB	that
+SUB	to
+EXS	love
+NOW	does
+NOT	n't
+EXS	mean
+SUB	to
+EXS	look
+REL	at
+REF	each other
+NIL	,
+BUT	but
+IST	rather
+SUB	to
+EXS	look
+IST	together
+REL	into
+DEF	the
+IST	same
+CON	direction
+NIL	.

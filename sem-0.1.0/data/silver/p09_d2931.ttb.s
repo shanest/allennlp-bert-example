@@ -1,0 +1,12 @@
+PRO	He
+NOW	is
+EXS	ill
+NIL	.
+DST	That
+NOW	is
+QUE	why
+PRO	he
+NOW	is
+NOT	not
+PRX	here
+NIL	.

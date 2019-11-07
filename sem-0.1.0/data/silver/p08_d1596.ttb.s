@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+EPS	found
+DIS	any
+CON	clues
+REL	to
+DEF	the
+CON	problem
+QUE	?

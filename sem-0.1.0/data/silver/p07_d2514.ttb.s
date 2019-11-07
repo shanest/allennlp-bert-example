@@ -1,0 +1,10 @@
+PER	George
+NOW	is
+EXS	poor
+NIL	,
+COO	but
+PRO	he
+NOW	's
+AND	always
+EXS	happy
+NIL	.

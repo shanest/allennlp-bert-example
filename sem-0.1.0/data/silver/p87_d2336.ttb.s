@@ -1,0 +1,14 @@
+PER	Tom
+EPS	saw
+DIS	a
+IST	homeless
+CON	man
+EXS	scavenging
+AND	through
+DIS	a
+CON	rubbish
+CON	bin
+EXS	looking
+REL	for
+CON	food
+NIL	.

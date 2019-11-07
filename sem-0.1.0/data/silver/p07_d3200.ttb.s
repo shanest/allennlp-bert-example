@@ -1,0 +1,9 @@
+PRO	I
+EPS	wanted
+PRO	you
+SUB	to
+EXS	know
+QUE	how
+PRO	I
+PST	felt
+NIL	.

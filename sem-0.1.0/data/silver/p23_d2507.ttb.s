@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	ill
+REL	in
+CON	bed
+REL	since
+IST	last
+DOW	Friday
+NIL	.

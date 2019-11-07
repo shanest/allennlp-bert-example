@@ -1,0 +1,14 @@
+PRO	I
+NOW	have
+NOT	n't
+EPS	met
+PRO	him
+REL	in
+CON	person
+NIL	,
+BUT	but
+PRO	I
+NOW	know
+AND	of
+PRO	him
+NIL	.

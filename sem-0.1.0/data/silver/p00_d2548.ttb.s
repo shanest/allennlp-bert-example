@@ -1,0 +1,12 @@
+DEF	The
+CON	plot
+NIL	to
+EXS	assassinate
+DEF	the
+ROL	president
+PST	was
+EXS	discovered
+IST	just
+REL	in
+CON	time
+NIL	.

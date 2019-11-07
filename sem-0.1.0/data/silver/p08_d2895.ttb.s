@@ -1,0 +1,10 @@
+FUT	Will
+PRO	you
+EXS	give
+PRO	me
+DIS	a
+CON	ride
+REL	to
+HAS	my
+CON	hotel
+QUE	?

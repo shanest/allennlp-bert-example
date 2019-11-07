@@ -1,0 +1,11 @@
+PER	Tom
+EPS	noticed
+SUB	that
+PRO	he
+AND	and
+PER	Mary
+PST	were
+IST	finally
+AND	alone
+IST	together
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	saving
+IST	up
+CON	money
+AND	so
+PRO	he
+POS	can
+EXS	go
+REL	to
+GPE	Boston
+NIL	.

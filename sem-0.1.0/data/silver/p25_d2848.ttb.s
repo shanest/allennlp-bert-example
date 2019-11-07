@@ -1,0 +1,13 @@
+PER	Tom
+EPS	took
+REL	off
+HAS	his
+CON	shirt
+COO	and
+EPS	threw
+PRO	it
+REL	into
+DEF	the
+CON	washing
+CON	machine
+NIL	.

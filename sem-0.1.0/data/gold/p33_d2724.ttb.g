@@ -1,0 +1,10 @@
+ITJ	Ouch
+NIL	!
+HAS	My
+CON	finger
+PST	got
+EXS	caught
+REL	in
+DEF	the
+CON	door
+NIL	.

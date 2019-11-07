@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	having
+DIS	a
+IST	hard
+CON	time
+REL	with
+GPO	French
+CON	grammar
+NIL	.

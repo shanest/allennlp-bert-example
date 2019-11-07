@@ -1,0 +1,13 @@
+PRO	I
+NOW	have
+DIS	a
+CON	part-time
+CON	job
+EXG	working
+AND	as
+DIS	a
+PER	Santa
+REL	at
+DEF	the
+CON	mall
+NIL	.

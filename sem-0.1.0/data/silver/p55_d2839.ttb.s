@@ -1,0 +1,11 @@
+AND	How
+QUV	many
+UOM	litres
+AND	of
+CON	oil
+NOW	are
+IST	there
+REL	in
+DIS	a
+CON	barrel
+QUE	?

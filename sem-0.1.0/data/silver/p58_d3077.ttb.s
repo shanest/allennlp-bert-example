@@ -1,0 +1,9 @@
+PRO	I
+IST	just
+EPS	bought
+DIS	an
+INT	extremely
+IST	expensive
+CON	cabin
+CON	boat
+NIL	.

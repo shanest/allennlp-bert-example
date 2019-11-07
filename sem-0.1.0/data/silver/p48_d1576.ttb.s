@@ -1,0 +1,14 @@
+EXS	Turn
+DEF	the
+CON	corner
+COO	and
+PRO	you
+FUT	'll
+EXS	see
+DEF	the
+CON	store
+PRO	you
+NOW	're
+EXS	looking
+REL	for
+NIL	.

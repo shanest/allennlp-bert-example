@@ -1,0 +1,9 @@
+PRO	I
+NOT	never
+POS	could
+EXS	stand
+DEF	the
+CON	sight
+AND	of
+CON	blood
+NIL	.

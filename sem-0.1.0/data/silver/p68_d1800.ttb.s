@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+DEF	the
+CON	girl
+PRO	you
+PST	were
+EXS	talking
+REL	to
+PST	yesterday
+NIL	.

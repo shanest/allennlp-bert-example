@@ -1,0 +1,10 @@
+EXS	Let
+PRO	's
+EXS	find
+IST	out
+QUE	what
+HAS	's
+EXS	going
+REL	on
+IST	first
+NIL	.

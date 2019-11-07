@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	being
+IST	silly
+NIL	,
+NOW	is
+NOT	n't
+PRO	he
+QUE	?

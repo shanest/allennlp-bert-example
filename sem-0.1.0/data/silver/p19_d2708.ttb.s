@@ -1,0 +1,9 @@
+PRO	I
+EPS	spent
+DEF	the
+IST	whole
+CON	day
+EXG	reading
+SUB	that
+CON	novel
+NIL	.

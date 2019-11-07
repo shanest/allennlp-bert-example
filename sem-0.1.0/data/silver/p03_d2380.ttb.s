@@ -1,0 +1,13 @@
+SUB	When
+PRO	he
+EPS	smiled
+NIL	,
+DEF	the
+CON	children
+EPS	saw
+HAS	his
+IST	long
+AND	,
+COL	gray
+CON	teeth
+NIL	.

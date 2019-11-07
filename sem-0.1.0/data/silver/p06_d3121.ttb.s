@@ -1,0 +1,12 @@
+PRO	I
+EPS	saw
+DIS	a
+CON	man
+EXG	holding
+DIS	a
+CON	rabbit
+REL	in
+HAS	his
+CON	arms
+PST	yesterday
+NIL	.

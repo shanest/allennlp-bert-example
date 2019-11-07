@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXG	finding
+SUB	that
+PER	Tom
+ENS	expects
+INT	too
+QUV	much
+REL	from
+PRO	us
+NIL	.

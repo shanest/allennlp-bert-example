@@ -1,0 +1,12 @@
+PRX	This
+NOW	is
+DEF	the
+TOP	most
+CON	fun
+PRO	I
+NOW	've
+EXS	had
+REL	in
+HAS	my
+CON	life
+NIL	.

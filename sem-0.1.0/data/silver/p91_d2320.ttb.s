@@ -1,0 +1,11 @@
+ITJ	Ah
+NIL	,
+DIS	someone
+EPS	made
+PRO	me
+DIS	a
+CON	sandwich
+NIL	.
+INT	Very
+EXS	nice
+NIL	.

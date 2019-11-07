@@ -1,0 +1,10 @@
+PER	Jody
+NOW	looks
+AND	as
+IMP	if
+PRO	she
+PST	had
+EXS	seen
+DIS	a
+CON	ghost
+NIL	.

@@ -1,0 +1,14 @@
+PRO	It
+HAS	's
+NOT	not
+DIS	a
+CON	secret
+AND	that
+PER	Tom
+HAS	's
+CON	opinion
+NOW	is
+EXS	different
+AND	than
+HAS	yours
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	trying
+SUB	to
+EXS	get
+IST	back
+REL	into
+CON	shape
+NIL	.

@@ -1,0 +1,12 @@
+FUT	Someday
+PRO	she
+FUT	'll
+NEC	have
+SUB	to
+EXS	pay
+REL	for
+QUE	what
+PRO	she
+HAS	's
+EXS	done
+NIL	.

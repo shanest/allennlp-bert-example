@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+XCL	only
+EXS	doing
+PRO	it
+SUB	because
+PRO	I
+NOW	'm
+EXS	forced
+SUB	to
+NIL	.

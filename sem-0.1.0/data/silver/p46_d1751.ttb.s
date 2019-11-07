@@ -1,0 +1,13 @@
+PRO	It
+PST	was
+IST	out
+AND	of
+DEF	the
+IST	ordinary
+REL	for
+PER	Chris
+SUB	to
+EXS	behave
+IST	so
+APX	roughly
+NIL	.

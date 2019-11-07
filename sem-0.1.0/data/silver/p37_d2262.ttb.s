@@ -1,0 +1,10 @@
+PER	Tom
+NEC	should
+EXT	've
+EXS	told
+PER	Mary
+SUB	that
+PRO	he
+PST	was
+EXS	married
+NIL	.

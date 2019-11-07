@@ -1,0 +1,13 @@
+AND	According
+REL	to
+PER	Tom
+HAS	's
+FUT	will
+NIL	,
+PER	Mary
+FUT	will
+EXS	inherit
+HAS	his
+IST	entire
+CON	estate
+NIL	.

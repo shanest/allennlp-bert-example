@@ -1,0 +1,10 @@
+NOW	Has
+PER	Tom
+IST	ever
+EPS	asked
+PRO	you
+NIL	to
+EXS	loan
+PRO	him
+CON	money
+QUE	?

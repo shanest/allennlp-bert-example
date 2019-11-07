@@ -1,0 +1,11 @@
+PRO	You
+NOW	're
+REL	by
+HAS	my
+CON	side
+COO	;
+AND	everything
+HAS	's
+IST	fine
+NOW	now
+NIL	.

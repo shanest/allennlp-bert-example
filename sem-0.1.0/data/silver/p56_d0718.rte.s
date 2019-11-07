@@ -1,0 +1,15 @@
+CON	Campfire
+NOW	helps
+IST	rural
+CON	communities
+NOW	make
+CON	money
+REL	from
+CON	animals
+AND	which
+PST	had
+PFT	been
+EXS	poached
+AND	as
+CON	pests
+NIL	.

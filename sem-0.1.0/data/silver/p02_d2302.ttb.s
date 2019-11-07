@@ -1,0 +1,13 @@
+QUV	Many
+CON	people
+REL	in
+GEO	Fiji
+NOW	do
+NOT	n't
+EXT	have
+EXS	access
+REL	to
+EXS	clean
+CON	drinking
+CON	water
+NIL	.

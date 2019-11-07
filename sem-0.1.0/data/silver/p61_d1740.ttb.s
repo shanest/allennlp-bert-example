@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+DIS	an
+CON	expert
+SUB	when
+PRO	it
+ENS	comes
+REL	to
+EXS	cooking
+NIL	.

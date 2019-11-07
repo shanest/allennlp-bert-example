@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+PRO	I
+POS	can
+NOT	not
+EXS	go
+REL	with
+PRO	you
+NIL	.

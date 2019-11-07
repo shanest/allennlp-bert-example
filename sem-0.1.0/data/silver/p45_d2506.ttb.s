@@ -1,0 +1,17 @@
+NIL	"
+NOT	No
+CON	one
+FUT	will
+IST	ever
+EXS	believe
+SUB	that
+NIL	.
+NIL	"
+NIL	"
+ITJ	Well
+NIL	,
+PER	Tom
+EPS	believed
+PRO	it
+NIL	.
+NIL	"

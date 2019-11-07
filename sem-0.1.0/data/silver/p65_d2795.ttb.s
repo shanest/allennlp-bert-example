@@ -1,0 +1,12 @@
+AND	According
+REL	to
+DEF	the
+CON	newspaper
+NIL	,
+PRO	it
+NOW	's
+EXS	going
+SUB	to
+CON	rain
+NOW	today
+NIL	.

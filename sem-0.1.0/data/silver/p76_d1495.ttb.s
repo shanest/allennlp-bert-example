@@ -1,0 +1,14 @@
+QUE	What
+CON	kind
+AND	of
+CON	costume
+NOW	are
+PRO	you
+EXS	planning
+REL	on
+EXG	wearing
+REL	to
+DEF	the
+HAP	Halloween
+CON	party
+QUE	?

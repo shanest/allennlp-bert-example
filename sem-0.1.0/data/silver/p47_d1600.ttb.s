@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	looking
+REL	for
+DIS	someone
+AND	who
+ENS	knows
+GPO	French
+NIL	.

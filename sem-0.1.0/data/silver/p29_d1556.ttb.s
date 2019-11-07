@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+NOW	think
+PRO	you
+POS	could
+EXS	make
+PRO	it
+REL	at
+CLO	9:30
+QUE	?

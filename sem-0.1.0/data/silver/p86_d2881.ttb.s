@@ -1,0 +1,9 @@
+DEF	The
+CON	novel
+NOW	has
+PFT	been
+EXS	translated
+REL	into
+QUV	many
+CON	languages
+NIL	.

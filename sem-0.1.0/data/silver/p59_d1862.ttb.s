@@ -1,0 +1,13 @@
+DEF	The
+CON	salary
+AND	of
+DIS	a
+CON	teacher
+NOW	is
+COM	lower
+AND	than
+DST	that
+AND	of
+DIS	a
+ROL	lawyer
+NIL	.

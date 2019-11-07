@@ -1,0 +1,16 @@
+NOT	Nothing
+REL	in
+PRX	this
+CON	world
+NOW	is
+COM	harder
+AND	than
+EXG	speaking
+DEF	the
+CON	truth
+NIL	,
+NOT	nothing
+COM	easier
+MOR	than
+CON	flattery
+NIL	.

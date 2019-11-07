@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	looking
+AND	all
+AND	over
+REL	for
+PRO	you
+NIL	.

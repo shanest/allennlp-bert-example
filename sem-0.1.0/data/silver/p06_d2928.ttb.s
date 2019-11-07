@@ -1,0 +1,14 @@
+AND	Against
+AND	all
+CON	expectations
+EQU	,
+DEF	the
+GEO	Apollo
+CON	spacecraft
+EPS	made
+PRO	it
+IST	safely
+IST	back
+REL	to
+GEO	Earth
+NIL	.

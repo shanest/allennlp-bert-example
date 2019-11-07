@@ -1,0 +1,9 @@
+EXS	Let
+PRO	me
+EXS	know
+SUB	when
+PRO	you
+NOW	get
+DEF	the
+CON	package
+NIL	.

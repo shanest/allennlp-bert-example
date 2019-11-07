@@ -1,0 +1,12 @@
+PER	Tom
+EPS	made
+PRO	me
+NOW	promise
+NOT	not
+SUB	to
+EXS	tell
+PER	Mary
+HAS	his
+CON	phone
+CON	number
+NIL	.

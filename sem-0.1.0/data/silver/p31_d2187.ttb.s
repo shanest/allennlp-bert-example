@@ -1,0 +1,13 @@
+PRO	I
+FUT	'll
+EXS	call
+PRO	you
+IST	back
+SUB	when
+PRO	I
+NOW	get
+REL	to
+DEF	the
+CON	bus
+EXS	stop
+NIL	.

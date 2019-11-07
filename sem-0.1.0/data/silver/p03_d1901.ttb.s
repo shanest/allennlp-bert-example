@@ -1,0 +1,11 @@
+PRO	She
+EPS	came
+REL	to
+GPE	Japan
+REL	for
+DEF	the
+CON	purpose
+AND	of
+EXG	studying
+CON	Japanese
+NIL	.

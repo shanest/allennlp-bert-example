@@ -1,0 +1,9 @@
+PER	Tom
+EPS	told
+PRO	me
+SUB	that
+PRO	he
+FUT	would
+EXS	help
+PRO	us
+NIL	.

@@ -1,0 +1,17 @@
+PRO	I
+NOW	'm
+NOT	not
+IST	sure
+QUE	what
+HAS	's
+EXS	wrong
+NIL	.
+PRO	We
+NEC	should
+EXT	have
+EXS	heard
+REL	from
+PER	Tom
+REL	by
+NOW	now
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+EPS	picked
+IST	up
+HAS	his
+CON	stuff
+COO	and
+EPS	put
+PRO	it
+REL	in
+HAS	his
+CON	briefcase
+NIL	.

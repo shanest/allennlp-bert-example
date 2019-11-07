@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+IST	back
+REL	to
+GPE	Australia
+REL	in
+MOY	October
+NIL	.

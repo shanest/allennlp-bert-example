@@ -1,0 +1,9 @@
+DST	That
+HAS	's
+INT	too
+CON	much
+AND	of
+DIS	a
+IST	good
+CON	thing
+NIL	.

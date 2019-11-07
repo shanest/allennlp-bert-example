@@ -1,0 +1,9 @@
+PER	Tom
+EPS	suggested
+SUB	that
+PER	Ann
+NEC	should
+EXS	sell
+DEF	the
+CON	house
+NIL	.

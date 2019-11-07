@@ -1,0 +1,11 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	live
+REL	in
+DEF	the
+CON	suburbs
+AND	of
+GPE	Kobe
+NIL	.

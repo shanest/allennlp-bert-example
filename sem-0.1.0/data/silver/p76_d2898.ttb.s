@@ -1,0 +1,9 @@
+PRO	We
+EPS	sang
+NIL	,
+EPS	danced
+COO	and
+EPS	chatted
+REL	after
+CON	dinner
+NIL	.

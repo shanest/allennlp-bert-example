@@ -1,0 +1,14 @@
+DIS	Some
+IST	brave
+CON	passengers
+EPS	caught
+DEF	the
+CON	pickpocket
+COO	and
+EPS	turned
+PRO	him
+AND	over
+SUB	to
+DEF	the
+CON	police
+NIL	.

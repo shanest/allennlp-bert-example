@@ -1,0 +1,15 @@
+PRO	We
+NOW	are
+EXS	sorry
+NIL	,
+DEF	the
+CON	person
+PRO	you
+NOW	are
+EXS	trying
+SUB	to
+CON	contact
+NOW	is
+NOT	not
+EXS	available
+NIL	.

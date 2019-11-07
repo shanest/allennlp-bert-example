@@ -1,0 +1,15 @@
+SUB	Since
+PRO	she
+HAS	's
+PFT	been
+EXS	gone
+NIL	,
+PRO	I
+NOW	want
+NOT	no
+CON	one
+SUB	to
+EXS	talk
+REL	to
+PRO	me
+NIL	.

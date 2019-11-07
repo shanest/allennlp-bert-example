@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	went
+REL	on
+DIS	a
+CON	picnic
+REL	with
+PER	John
+AND	and
+PER	Alice
+NIL	.

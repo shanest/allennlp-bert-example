@@ -1,0 +1,11 @@
+DEF	The
+IST	extra
+CON	room
+EPS	proved
+INT	very
+IST	useful
+SUB	when
+PRO	we
+PST	had
+CON	visitors
+NIL	.

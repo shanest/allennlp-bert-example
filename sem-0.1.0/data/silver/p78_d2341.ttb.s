@@ -1,0 +1,15 @@
+PER	Tom
+EPS	flipped
+AND	over
+DEF	the
+CON	card
+COO	and
+EPS	saw
+SUB	that
+PRO	it
+PST	was
+DEF	the
+CON	ace
+AND	of
+CON	spades
+NIL	.

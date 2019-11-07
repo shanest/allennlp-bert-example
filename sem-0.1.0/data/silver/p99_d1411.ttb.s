@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+DIS	a
+CON	centaur
+AND	and
+PER	Mary
+NOW	is
+DIS	a
+CON	nymph
+NIL	.

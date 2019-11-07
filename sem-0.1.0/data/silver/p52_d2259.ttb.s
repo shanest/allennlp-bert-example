@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	invest
+CON	money
+REL	in
+PRX	this
+CON	business
+NIL	.

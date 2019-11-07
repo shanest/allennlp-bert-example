@@ -1,0 +1,10 @@
+AND	Why
+NOW	is
+PER	Mary
+EXS	going
+REL	with
+PRO	him
+REL	to
+DEF	the
+CON	picnic
+QUE	?

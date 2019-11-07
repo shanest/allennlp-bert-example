@@ -1,0 +1,9 @@
+PRO	We
+PST	were
+EXS	watching
+CON	TV
+SUB	when
+DEF	the
+CON	bell
+EPS	rang
+NIL	.

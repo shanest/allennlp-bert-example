@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+EXS	amazing
+SUB	that
+PRO	you
+EPS	won
+DEF	the
+CON	prize
+NIL	.

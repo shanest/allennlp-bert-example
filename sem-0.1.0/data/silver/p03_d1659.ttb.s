@@ -1,0 +1,12 @@
+PRO	You
+NOW	are
+INT	so
+EXS	beautiful
+NIL	.
+QUE	What
+NOW	are
+PRO	you
+EXG	doing
+PRX	this
+CON	evening
+QUE	?

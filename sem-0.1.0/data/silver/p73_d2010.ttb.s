@@ -1,0 +1,11 @@
+HAS	My
+IST	native
+CON	language
+NOW	is
+DIS	a
+IST	foreign
+CON	language
+REL	for
+DIS	someone
+AND	else
+NIL	.

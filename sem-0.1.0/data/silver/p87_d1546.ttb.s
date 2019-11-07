@@ -1,0 +1,11 @@
+PRO	I
+FUT	'll
+EXS	read
+PRO	you
+DEF	the
+CON	poem
+PRO	I
+EPS	wrote
+IST	just
+NOW	now
+NIL	.

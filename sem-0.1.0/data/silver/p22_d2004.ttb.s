@@ -1,0 +1,11 @@
+PER	Bob
+EPS	expressed
+CON	words
+AND	of
+CON	thanks
+REL	on
+CON	behalf
+AND	of
+HAS	his
+CON	classmates
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+INT	too
+EXS	tired
+REL	to
+IST	even
+CON	smile
+REL	at
+PER	Mary
+NIL	.

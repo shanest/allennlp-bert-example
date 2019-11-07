@@ -1,0 +1,17 @@
+IST	Radioactive
+CON	cesium
+REL	in
+CON	amounts
+EXG	exceeding
+CON	limits
+NOW	has
+PFT	been
+EXS	measured
+REL	on
+IST	young
+CON	lancefish
+EPS	caught
+REL	in
+GEO	Fukushima
+CON	prefecture
+NIL	.

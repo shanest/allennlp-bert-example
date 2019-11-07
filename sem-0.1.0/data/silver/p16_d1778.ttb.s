@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	know
+SUB	when
+PER	Tom
+EPS	began
+EXG	studying
+GPO	French
+NIL	.

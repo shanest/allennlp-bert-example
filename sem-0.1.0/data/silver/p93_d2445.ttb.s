@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+PRO	it
+NOW	's
+EXS	impossible
+NIL	.

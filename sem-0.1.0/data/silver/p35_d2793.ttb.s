@@ -1,0 +1,10 @@
+REL	In
+DST	that
+CON	case
+NIL	,
+PRO	we
+NOW	've
+EXS	got
+DIS	a
+CON	problem
+NIL	...

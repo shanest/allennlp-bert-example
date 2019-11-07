@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	going
+REL	to
+DEF	the
+CON	concert
+REL	with
+PER	Mary
+NIL	.

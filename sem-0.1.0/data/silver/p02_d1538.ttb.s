@@ -1,0 +1,14 @@
+PRO	They
+EPS	called
+IST	down
+DEF	the
+CON	wrath
+AND	of
+CON	God
+REL	upon
+DEF	the
+CON	heads
+AND	of
+HAS	their
+ROL	enemies
+NIL	.

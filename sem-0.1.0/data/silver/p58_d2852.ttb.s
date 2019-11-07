@@ -1,0 +1,9 @@
+EXS	Let
+HAS	's
+EXS	eat
+NOW	now
+NIL	.
+PRO	I
+NOW	'm
+EXS	starving
+NIL	.

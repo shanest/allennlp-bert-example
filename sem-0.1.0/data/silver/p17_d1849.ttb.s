@@ -1,0 +1,11 @@
+PER	Plato
+EPS	thought
+SUB	that
+DEF	the
+CON	universe
+PST	was
+EXS	made
+IST	up
+AND	of
+CON	triangles
+NIL	.

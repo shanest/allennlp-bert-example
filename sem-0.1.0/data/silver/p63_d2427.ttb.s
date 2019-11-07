@@ -1,0 +1,11 @@
+PER	Tom
+EPS	said
+GRE	goodbye
+COO	and
+IST	then
+EPS	walked
+IST	out
+DEF	the
+CON	front
+CON	door
+NIL	.

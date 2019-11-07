@@ -1,0 +1,11 @@
+PER	Tom
+EPS	told
+PER	Mary
+AND	everything
+PRO	he
+EPS	knew
+IST	about
+QUE	what
+PST	had
+EXS	happened
+NIL	.

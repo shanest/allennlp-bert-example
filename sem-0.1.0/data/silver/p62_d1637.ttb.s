@@ -1,0 +1,13 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+AND	such
+DIS	a
+CON	function
+NOW	does
+NOT	n't
+EXS	exist
+NIL	.

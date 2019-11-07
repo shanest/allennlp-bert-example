@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+EXS	surprised
+REL	by
+QUE	how
+NIL	well
+PER	Mary
+EPS	spoke
+GPO	French
+NIL	.

@@ -1,0 +1,13 @@
+NOW	Have
+PRO	you
+IST	ever
+EXT	had
+DIS	a
+EPS	pulled
+CON	ligament
+QUE	?
+PRO	It
+ENS	hurts
+AND	like
+CON	hell
+NIL	.

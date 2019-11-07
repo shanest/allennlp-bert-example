@@ -1,0 +1,11 @@
+PER	Tom
+EPS	decided
+SUB	that
+PRO	it
+PST	was
+NOT	n't
+IST	necessary
+SUB	to
+EXS	take
+CON	vitamins
+NIL	.

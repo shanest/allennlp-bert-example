@@ -1,0 +1,11 @@
+AND	Why
+NOW	do
+PRO	you
+ENS	want
+SUB	to
+EXS	know
+QUE	what
+PRO	I
+NOW	'm
+EXS	thinking
+QUE	?

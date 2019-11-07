@@ -1,0 +1,9 @@
+PRO	I
+PST	was
+EXS	burned
+IST	up
+REL	by
+QUE	what
+PRO	he
+EPS	said
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+EXS	got
+NOT	nothing
+SUB	to
+EXS	say
+REL	to
+PER	Tom
+NIL	.

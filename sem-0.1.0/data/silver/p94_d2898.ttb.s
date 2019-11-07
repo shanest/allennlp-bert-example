@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+IST	rich
+ALT	yet
+PRO	he
+ENS	lives
+AND	like
+DIS	a
+CON	beggar
+NIL	.

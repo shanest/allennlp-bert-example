@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+ENS	knows
+SUB	when
+DEF	the
+CON	Earth
+EPS	came
+REL	into
+EXS	being
+NIL	.

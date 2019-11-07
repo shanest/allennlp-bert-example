@@ -1,0 +1,10 @@
+PRO	I
+EPS	met
+PRO	him
+QUC	once
+SUB	when
+PRO	I
+PST	was
+DIS	a
+CON	student
+NIL	.

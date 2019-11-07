@@ -1,0 +1,17 @@
+DEF	The
+CON	city
+CON	library
+EPS	underwent
+IST	extensive
+CON	renovations
+COO	and
+POS	can
+NOW	now
+EXS	accommodate
+QUC	twice
+AND	as
+QUV	many
+CON	books
+AND	as
+REL	before
+NIL	.

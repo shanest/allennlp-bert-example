@@ -1,0 +1,9 @@
+PRO	I
+ENS	have
+DIS	a
+CON	mosquito
+CON	bite
+REL	on
+HAS	my
+CON	elbow
+NIL	.

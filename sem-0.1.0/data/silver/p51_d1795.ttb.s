@@ -1,0 +1,12 @@
+PRO	It
+FUT	would
+NOT	n't
+EXS	do
+AND	any
+IST	good
+SUB	to
+EXS	complain
+AND	about
+PRO	it
+NOW	now
+NIL	.

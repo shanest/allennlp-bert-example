@@ -1,0 +1,12 @@
+DST	That
+NOW	is
+HAS	mine
+NIL	.
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+SUB	where
+HAS	his
+NOW	is
+NIL	.

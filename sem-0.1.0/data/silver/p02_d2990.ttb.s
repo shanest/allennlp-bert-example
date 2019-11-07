@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+NOW	is
+EXS	expecting
+PRO	you
+REL	to
+CON	phone
+PRO	him
+FUT	tomorrow
+NIL	.

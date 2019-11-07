@@ -1,0 +1,13 @@
+DEF	The
+CON	police
+CON	officer
+EPS	put
+DIS	a
+CON	piece
+AND	of
+CON	paper
+REL	in
+CON	front
+AND	of
+PRO	him
+NIL	.

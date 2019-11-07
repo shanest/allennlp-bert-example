@@ -1,0 +1,11 @@
+PRO	He
+EPS	trod
+REL	on
+HAS	my
+CON	foot
+REL	on
+CON	purpose
+REL	in
+DEF	the
+CON	train
+NIL	.

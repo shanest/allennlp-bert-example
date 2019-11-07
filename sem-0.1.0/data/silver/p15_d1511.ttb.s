@@ -1,0 +1,12 @@
+PRO	He
+EPS	went
+REL	on
+EXG	reading
+DEF	the
+CON	book
+AND	as
+IMP	if
+NOT	nothing
+EXS	had
+EXS	happened
+NIL	.

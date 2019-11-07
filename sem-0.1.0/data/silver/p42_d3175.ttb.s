@@ -1,0 +1,11 @@
+UNK	There
+NOW	is
+NOT	no
+EXG	going
+IST	out
+REL	on
+AND	such
+DIS	a
+IST	cold
+CON	day
+NIL	.

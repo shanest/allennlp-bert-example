@@ -1,0 +1,12 @@
+PER	Bill
+NOT	never
+ENS	fails
+SUB	to
+EXS	send
+DIS	a
+CON	birthday
+EXS	present
+REL	to
+HAS	his
+ROL	mother
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+FUT	wo
+NOT	n't
+EXS	be
+REL	in
+CON	town
+PRX	this
+DOW	Sunday
+NIL	.

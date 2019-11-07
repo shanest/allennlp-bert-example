@@ -1,0 +1,12 @@
+UNK	There
+NOW	is
+CON	evidence
+SUB	that
+CON	water
+PST	was
+EXS	abundant
+REL	on
+GEO	Mars
+CON	eons
+PST	ago
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+IST	able
+SUB	to
+EXS	get
+CON	home
+REL	before
+PER	Mary
+PST	did
+NIL	.

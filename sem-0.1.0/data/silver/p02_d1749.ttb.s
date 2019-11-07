@@ -1,0 +1,12 @@
+PRO	She
+NOW	has
+EXS	been
+REL	on
+HAS	her
+CON	own
+REL	since
+DEF	the
+CON	age
+AND	of
+QUC	eighteen
+NIL	.

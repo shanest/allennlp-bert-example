@@ -1,0 +1,12 @@
+AND	Next
+CON	thing
+PRO	you
+ENS	know
+NIL	,
+PRO	you
+FUT	'll
+EXS	be
+REL	in
+DEF	the
+CON	papers
+NIL	.

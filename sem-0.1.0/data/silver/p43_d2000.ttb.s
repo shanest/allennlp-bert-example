@@ -1,0 +1,12 @@
+FUT	Tomorrow
+NIL	,
+CON	God
+IST	willing
+NIL	,
+PRO	we
+FUT	'll
+EXS	be
+REL	with
+HAS	your
+CON	parents
+NIL	.

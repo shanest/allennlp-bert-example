@@ -1,0 +1,13 @@
+PER	Tom
+EPS	grew
+IST	up
+EXG	thinking
+SUB	that
+PRO	he
+EPS	needed
+SUB	to
+EXS	eat
+CON	meat
+AND	every
+CON	day
+NIL	.

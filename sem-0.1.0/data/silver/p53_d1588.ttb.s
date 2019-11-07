@@ -1,0 +1,11 @@
+AND	Now
+SUB	that
+PRO	we
+NOW	're
+EXS	alone
+NIL	,
+EXS	let
+HAS	's
+EXT	have
+CON	fun
+NIL	.

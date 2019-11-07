@@ -1,0 +1,17 @@
+PER	Roger
+EPS	liked
+EXS	writing
+CON	songs
+NIL	.
+PRO	He
+ALT	also
+EPS	liked
+SUB	to
+EXS	perform
+HAS	his
+IST	own
+CON	songs
+REL	on
+DEF	the
+CON	stage
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+NEC	have
+SUB	to
+EXS	stay
+REL	in
+CON	bed
+REL	until
+IST	next
+DOW	Monday
+NIL	.

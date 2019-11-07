@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+SUB	that
+PRX	this
+NOW	is
+DEF	the
+CON	beginning
+AND	of
+DEF	the
+CON	end
+NIL	.

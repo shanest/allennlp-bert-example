@@ -1,0 +1,15 @@
+NIL	"
+EXS	Lead
+PRO	me
+NOT	not
+REL	into
+CON	temptation
+NIL	,
+NIL	"
+EPS	said
+DEF	the
+CON	frog
+REL	to
+DEF	the
+CON	fly
+NIL	.

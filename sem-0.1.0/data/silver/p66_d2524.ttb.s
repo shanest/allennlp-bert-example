@@ -1,0 +1,10 @@
+PRO	You
+EXS	scratch
+HAS	my
+IST	back
+COO	and
+PRO	I
+FUT	'll
+EXS	scratch
+HAS	yours
+NIL	.

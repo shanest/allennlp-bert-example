@@ -1,0 +1,11 @@
+PRO	She
+EPS	talked
+HAS	her
+CON	husband
+REL	into
+EXG	having
+DIS	a
+CON	holiday
+REL	in
+GPE	France
+NIL	.

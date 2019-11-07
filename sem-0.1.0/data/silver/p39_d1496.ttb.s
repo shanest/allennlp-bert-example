@@ -1,0 +1,9 @@
+QUE	How
+QUV	many
+CON	milligrams
+NOW	are
+PRO	you
+EXS	taking
+IST	right
+NOW	now
+QUE	?

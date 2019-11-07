@@ -1,0 +1,13 @@
+PRO	He
+EPS	lent
+PRO	me
+DIS	a
+CON	book
+NIL	,
+UNK	which
+PST	was
+INT	too
+EXS	difficult
+REL	for
+PRO	me
+NIL	.

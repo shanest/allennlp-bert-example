@@ -1,0 +1,12 @@
+PER	Tom
+EPS	made
+IST	sure
+SUB	that
+HAS	his
+CON	children
+EPS	ate
+AND	everything
+REL	on
+HAS	their
+CON	plates
+NIL	.

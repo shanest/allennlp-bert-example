@@ -1,0 +1,15 @@
+PRO	He
+NOW	seems
+NOT	not
+SUB	to
+EXS	be
+IST	aware
+AND	of
+DEF	the
+CON	conflict
+REL	between
+HAS	my
+ROL	father
+AND	and
+PRO	me
+NIL	.

@@ -1,0 +1,14 @@
+PRO	I
+NOW	assume
+SUB	that
+CON	boy
+AND	who
+NOW	looks
+IST	so
+QUV	much
+AND	like
+PRO	you
+NOW	is
+HAS	your
+CON	brother
+NIL	.

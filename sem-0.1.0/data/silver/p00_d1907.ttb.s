@@ -1,0 +1,11 @@
+DEF	The
+CON	widow
+NEC	had
+NIL	to
+EXS	get
+AND	through
+DIS	a
+CON	lot
+NIL	of
+CON	hardships
+NIL	.

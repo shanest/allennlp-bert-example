@@ -1,0 +1,15 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	be
+IST	old
+IST	enough
+SUB	to
+EXS	have
+DIS	a
+CON	daughter
+AND	as
+IST	old
+AND	as
+PER	Mary
+NIL	.

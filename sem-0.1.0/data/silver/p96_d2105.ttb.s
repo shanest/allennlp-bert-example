@@ -1,0 +1,11 @@
+HAS	My
+CON	back
+ENS	hurts
+SUB	because
+PRO	I
+NOW	've
+PFT	been
+CON	fishing
+AND	all
+CON	day
+NIL	.

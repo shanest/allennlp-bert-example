@@ -1,0 +1,13 @@
+ART	Together
+REL	with
+GPE	Britain
+EQU	,
+GEO	France
+POS	may
+EXS	ban
+CON	imports
+AND	of
+CON	waste
+REL	from
+GEO	Germany
+NIL	.

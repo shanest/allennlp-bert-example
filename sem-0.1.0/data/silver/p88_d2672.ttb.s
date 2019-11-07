@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	say
+SUB	that
+PRO	they
+NOW	have
+DEF	the
+IST	perfect
+CON	marriage
+NIL	.

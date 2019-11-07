@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	working
+REL	on
+DIS	something
+IST	together
+NIL	.

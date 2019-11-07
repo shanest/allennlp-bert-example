@@ -1,0 +1,10 @@
+PRO	He
+PST	was
+IST	always
+IST	ready
+SUB	to
+EXS	help
+CON	people
+REL	in
+CON	trouble
+NIL	.

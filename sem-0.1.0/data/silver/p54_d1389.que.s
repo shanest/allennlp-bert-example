@@ -1,0 +1,10 @@
+QUE	What
+NOW	has
+PFT	been
+EXS	called
+DEF	the
+TOP	biggest
+CON	show
+REL	on
+CON	earth
+QUE	?

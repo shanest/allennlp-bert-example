@@ -1,0 +1,9 @@
+PRO	I
+NOW	think
+PRO	she
+NOW	's
+EXS	going
+SUB	to
+EXS	be
+EXS	sick
+NIL	.

@@ -1,0 +1,17 @@
+DIS	A
+CON	lot
+AND	of
+CON	companies
+NOW	are
+EXG	going
+REL	under
+IST	lately
+SUB	because
+CON	banks
+NOW	are
+INT	so
+EXS	tight
+REL	with
+HAS	their
+CON	money
+NIL	.

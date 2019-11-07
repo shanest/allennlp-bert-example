@@ -1,0 +1,16 @@
+PRO	I
+ENS	go
+AND	through
+CON	Chinatown
+COO	and
+ENS	admire
+DEF	the
+IST	beautiful
+CON	signs
+SUB	that
+PRO	I
+IST	still
+NOW	do
+NOT	not
+EXS	understand
+NIL	.

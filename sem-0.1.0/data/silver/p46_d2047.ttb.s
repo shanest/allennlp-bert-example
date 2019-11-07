@@ -1,0 +1,12 @@
+PER	Tom
+ENS	says
+SUB	that
+PRO	he
+NOW	has
+NOT	no
+CON	trouble
+CON	understanding
+PER	Mary
+HAS	's
+GPO	French
+NIL	.

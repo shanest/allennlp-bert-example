@@ -1,0 +1,16 @@
+HAS	My
+CON	father
+EPS	made
+HAS	my
+CON	mother
+DIS	a
+CON	cup
+AND	of
+CON	coffee
+AND	just
+DEF	the
+CON	way
+PRO	she
+ENS	likes
+PRO	it
+NIL	.

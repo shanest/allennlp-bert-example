@@ -1,0 +1,17 @@
+NOW	Do
+NOT	n't
+EXS	let
+CON	mistakes
+EXS	demoralise
+PRO	you
+NIL	.
+EXS	Put
+PRO	them
+IST	down
+REL	to
+CON	experience
+COO	and
+EXS	learn
+REL	from
+PRO	them
+NIL	.

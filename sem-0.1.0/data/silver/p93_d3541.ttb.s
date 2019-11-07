@@ -1,0 +1,10 @@
+PRO	She
+ENS	knows
+PRO	she
+NOW	does
+NOT	not
+EXS	have
+AND	any
+ALT	other
+CON	choices
+NIL	.

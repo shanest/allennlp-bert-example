@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	know
+DEF	the
+CON	people
+AND	who
+ENS	live
+PRX	here
+QUE	?

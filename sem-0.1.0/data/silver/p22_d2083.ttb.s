@@ -1,0 +1,11 @@
+PRO	I
+NOW	find
+PRO	it
+UNK	difficult
+SUB	to
+EXS	express
+HAS	my
+CON	thoughts
+REL	with
+CON	words
+NIL	.

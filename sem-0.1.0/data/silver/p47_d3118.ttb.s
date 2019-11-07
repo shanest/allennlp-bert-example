@@ -1,0 +1,10 @@
+HAS	My
+CON	book
+ENS	has
+SUB	to
+EXS	be
+DIS	somewhere
+REL	in
+DEF	the
+CON	room
+NIL	.

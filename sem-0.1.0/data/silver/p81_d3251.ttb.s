@@ -1,0 +1,10 @@
+PRO	We
+NOW	have
+PFT	been
+EXS	good
+CON	friends
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

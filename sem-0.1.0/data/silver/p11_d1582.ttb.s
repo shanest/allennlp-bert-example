@@ -1,0 +1,13 @@
+PRO	You
+NOW	do
+NOT	n't
+EXS	think
+PRO	I
+NOW	have
+DIS	anything
+IST	better
+SUB	to
+EXS	do
+REL	in
+CON	life
+QUE	?

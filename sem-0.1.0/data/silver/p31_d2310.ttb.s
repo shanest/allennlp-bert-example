@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+INT	very
+IST	proud
+AND	of
+DEF	the
+CON	job
+PRO	I
+EPS	chose
+EMP	myself
+NIL	.

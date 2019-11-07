@@ -1,0 +1,12 @@
+PER	Tom
+ENS	wants
+SUB	to
+EXS	make
+IST	sure
+DST	that
+AND	that
+NOW	does
+NOT	n't
+EXS	happen
+ALT	again
+NIL	.

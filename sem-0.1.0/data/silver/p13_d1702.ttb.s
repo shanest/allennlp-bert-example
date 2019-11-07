@@ -1,0 +1,12 @@
+PRO	He
+EPS	put
+HAS	his
+IST	eldest
+CON	daughter
+REL	in
+CON	charge
+AND	of
+HAS	his
+IST	second
+CON	restaurant
+NIL	.

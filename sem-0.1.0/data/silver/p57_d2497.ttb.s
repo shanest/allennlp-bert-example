@@ -1,0 +1,11 @@
+PER	Tom
+ENS	wants
+SUB	to
+EXS	get
+EXS	married
+NIL	,
+BUT	but
+NOT	not
+REL	to
+PER	Mary
+NIL	.

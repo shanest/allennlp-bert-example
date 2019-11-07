@@ -1,0 +1,15 @@
+PER	Tom
+NOW	uses
+DIS	a
+CON	spoon
+SUB	to
+EXS	eat
+CON	rice
+NIL	,
+COO	but
+PER	Mary
+ENS	prefers
+SUB	to
+EXS	use
+CON	chopsticks
+NIL	.

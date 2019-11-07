@@ -1,0 +1,11 @@
+DEF	The
+IST	first
+CON	one
+ENS	leaves
+REL	at
+CLO	17.30
+COO	and
+ENS	arrives
+REL	at
+CLO	20.25
+NIL	.

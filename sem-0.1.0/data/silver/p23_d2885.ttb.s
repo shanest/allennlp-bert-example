@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	impressed
+REL	with
+QUE	how
+IST	well
+PRO	you
+NOW	speak
+GPO	French
+NIL	.

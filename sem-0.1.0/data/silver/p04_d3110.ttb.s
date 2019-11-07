@@ -1,0 +1,12 @@
+CON	Half
+DEF	the
+CON	pool
+PST	was
+EPS	cordoned
+REL	off
+REL	for
+CON	use
+REL	by
+CON	lap
+CON	swimmers
+NIL	.

@@ -1,0 +1,10 @@
+PRO	It
+EPS	took
+PRO	us
+QUC	two
+CON	hours
+SUB	to
+EXS	get
+REL	to
+GEO	Athens
+NIL	.

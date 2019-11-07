@@ -1,0 +1,10 @@
+PRO	I
+FUT	'll
+EXS	tell
+PER	Tom
+PRO	you
+NOW	're
+EXS	looking
+REL	for
+PRO	him
+NIL	.

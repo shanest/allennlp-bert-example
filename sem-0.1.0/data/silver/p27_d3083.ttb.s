@@ -1,0 +1,9 @@
+AND	Yes
+NIL	,
+DEF	the
+CON	milk
+FUT	will
+EXS	last
+REL	till
+DOW	Friday
+NIL	.

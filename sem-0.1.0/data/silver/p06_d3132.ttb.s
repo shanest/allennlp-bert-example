@@ -1,0 +1,13 @@
+PRO	It
+PST	was
+INT	very
+EXS	expensive
+COO	;
+REL	in
+CON	fact
+NIL	,
+PRO	I
+EPS	paid
+QUC	100
+UOM	dollars
+NIL	.

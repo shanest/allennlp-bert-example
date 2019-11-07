@@ -1,0 +1,15 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	kissed
+HAS	your
+CON	children
+QUE	?
+PRO	You
+NOW	do
+NOT	n't
+IST	even
+EXS	look
+REL	at
+PRO	them
+NIL	!

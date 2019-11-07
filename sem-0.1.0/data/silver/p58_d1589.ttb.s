@@ -1,0 +1,11 @@
+PER	Tom
+EPS	promised
+SUB	that
+PRO	he
+FUT	would
+NOT	never
+EXS	lie
+REL	to
+PRO	me
+ALT	again
+NIL	.

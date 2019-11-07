@@ -1,0 +1,10 @@
+AND	How
+REL	in
+DEF	the
+CON	world
+POS	could
+PRO	I
+IST	ever
+NOW	hate
+PER	Tom
+QUE	?

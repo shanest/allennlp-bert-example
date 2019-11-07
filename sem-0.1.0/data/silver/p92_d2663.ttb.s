@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+DIS	a
+CON	doctor
+AND	and
+ALT	also
+DIS	a
+CON	novelist
+NIL	.

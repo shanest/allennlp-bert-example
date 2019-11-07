@@ -1,0 +1,11 @@
+PER	Tom
+ENS	seems
+SUB	to
+IST	always
+EXS	be
+EXS	running
+REL	into
+CON	people
+PRO	he
+ENS	knows
+NIL	.

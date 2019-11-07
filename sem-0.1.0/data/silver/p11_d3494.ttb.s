@@ -1,0 +1,10 @@
+PRO	I
+NEC	must
+EXS	get
+PRX	this
+CON	work
+EXS	finished
+REL	by
+IST	next
+DOW	Tuesday
+NIL	.

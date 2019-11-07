@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+NOT	not
+IST	sure
+PRO	I
+NOW	follow
+QUE	what
+PRO	you
+NOW	're
+EXS	saying
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+EPS	went
+REL	to
+GPE	Italy
+REL	for
+DEF	the
+IST	second
+CON	time
+REL	in
+YOC	1980
+NIL	.

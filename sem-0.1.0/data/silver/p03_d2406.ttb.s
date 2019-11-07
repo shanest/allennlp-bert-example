@@ -1,0 +1,10 @@
+PRO	I
+NOT	never
+EPS	wanted
+PER	Tom
+AND	here
+REL	in
+DEF	the
+IST	first
+CON	place
+NIL	.

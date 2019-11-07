@@ -1,0 +1,10 @@
+PER	Liisa
+NOW	has
+DEF	the
+CON	run
+AND	of
+HAS	her
+CON	friend
+HAS	's
+CON	flat
+NIL	.

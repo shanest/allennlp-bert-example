@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	surprising
+QUE	how
+IST	little
+PRO	she
+ENS	knows
+AND	of
+DEF	the
+CON	world
+NIL	.

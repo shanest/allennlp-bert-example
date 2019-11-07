@@ -1,0 +1,16 @@
+PRO	She
+EPS	stood
+REL	on
+CON	tip-toe
+COO	and
+EPS	whispered
+DIS	something
+REL	in
+HAS	his
+CON	ear
+NIL	,
+COO	and
+IST	then
+EPS	went
+IST	away
+NIL	.

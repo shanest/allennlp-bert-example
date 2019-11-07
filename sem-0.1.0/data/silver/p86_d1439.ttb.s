@@ -1,0 +1,9 @@
+ITJ	Hey
+NIL	,
+CON	rust
+NOW	is
+EXG	eating
+AND	away
+DEF	the
+CON	metal
+NIL	.

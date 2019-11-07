@@ -1,0 +1,14 @@
+PER	Mary
+NOW	does
+NOT	n't
+EXS	understand
+QUE	why
+PER	Tom
+EPS	chose
+DIS	a
+CON	cat
+AND	as
+HAS	his
+IST	online
+CON	avatar
+NIL	.

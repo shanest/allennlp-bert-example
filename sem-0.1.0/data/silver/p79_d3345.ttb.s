@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	glad
+SUB	to
+EXS	see
+PRO	you
+REL	in
+QUC	one
+CON	piece
+NIL	.

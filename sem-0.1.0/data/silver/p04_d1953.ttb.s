@@ -1,0 +1,13 @@
+PRO	I
+EPS	thought
+PRO	I
+PST	had
+DEF	the
+CON	right
+REL	to
+CON	fire
+AND	anyone
+PRO	I
+EPS	wanted
+SUB	to
+NIL	.

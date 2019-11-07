@@ -1,0 +1,11 @@
+PER	Tom
+EPS	wanted
+NIL	to
+EXS	kill
+PER	Mary
+NIL	,
+BUT	but
+PER	John
+EPS	stopped
+PRO	him
+NIL	.

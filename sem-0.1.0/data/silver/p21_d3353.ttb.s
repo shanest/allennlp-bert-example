@@ -1,0 +1,12 @@
+DEF	The
+CON	village
+NOW	is
+NOW	now
+EXS	different
+REL	from
+QUE	what
+PRO	it
+EPS	used
+SUB	to
+EXS	be
+NIL	.

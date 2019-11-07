@@ -1,0 +1,10 @@
+DST	That
+CON	story
+EQU	is
+DIS	a
+IST	famous
+CON	one
+AND	that
+AND	everyone
+ENS	knows
+NIL	.

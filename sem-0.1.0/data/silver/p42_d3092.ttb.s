@@ -1,0 +1,13 @@
+SUB	When
+DIS	somebody
+NOW	runs
+DIS	a
+COL	red
+CON	light
+NIL	,
+PRO	they
+NOW	risk
+EXS	causing
+DIS	an
+CON	accident
+NIL	.

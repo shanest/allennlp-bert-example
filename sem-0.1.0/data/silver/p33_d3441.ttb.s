@@ -1,0 +1,11 @@
+PER	Tom
+PST	was
+EXS	stabbed
+REL	to
+CON	death
+REL	by
+DIS	someone
+REL	on
+DEF	the
+CON	subway
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+EPS	gave
+HAS	my
+CON	word
+REL	to
+PER	Tom
+SUB	that
+PRO	I
+FUT	would
+NOT	n't
+EXS	do
+DST	that
+NIL	.

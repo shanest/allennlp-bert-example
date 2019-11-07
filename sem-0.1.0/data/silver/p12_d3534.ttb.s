@@ -1,0 +1,15 @@
+PRO	It
+NOW	's
+NOT	not
+EXS	important
+QUE	what
+PRO	you
+NOW	say
+NIL	,
+PRO	it
+NOW	's
+IST	important
+QUE	what
+CON	people
+ENS	understand
+NIL	.

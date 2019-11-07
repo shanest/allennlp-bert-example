@@ -1,0 +1,9 @@
+PRO	I
+POS	might
+EXS	be
+IST	able
+SUB	to
+EXS	answer
+DST	that
+CON	question
+NIL	.

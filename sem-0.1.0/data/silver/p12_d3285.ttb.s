@@ -1,0 +1,10 @@
+DEF	The
+CON	girl
+EPS	wore
+DIS	a
+COL	yellow
+CON	ribbon
+REL	in
+HAS	her
+CON	hair
+NIL	.

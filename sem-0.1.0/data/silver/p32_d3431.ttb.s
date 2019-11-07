@@ -1,0 +1,10 @@
+PRO	He
+PST	was
+EXS	having
+CON	lunch
+SUB	when
+PRO	I
+EPS	entered
+DEF	the
+CON	room
+NIL	.

@@ -1,0 +1,16 @@
+REL	In
+CON	order
+SUB	to
+EXS	keep
+HAS	his
+IST	original
+CON	idea
+REL	from
+EXS	being
+EXS	copied
+COO	,
+PER	Henry
+EPS	resorted
+REL	to
+CON	reticence
+NIL	.

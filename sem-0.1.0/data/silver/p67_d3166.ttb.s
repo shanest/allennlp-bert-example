@@ -1,0 +1,17 @@
+ROL	Miss
+PER	Tanaka
+NIL	!
+PRO	You
+NOW	are
+EXS	living
+REL	with
+CON	gentlemen
+CON	house
+CON	mates
+NIL	!
+IST	Please
+EXS	refrain
+REL	from
+EXS	being
+IST	pantless
+NIL	!

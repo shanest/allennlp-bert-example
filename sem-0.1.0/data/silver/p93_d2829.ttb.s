@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+QUC	five
+CON	copies
+NIL	,
+BUT	but
+PRO	I
+ENS	need
+QUC	twice
+AND	as
+QUC	many
+NIL	.

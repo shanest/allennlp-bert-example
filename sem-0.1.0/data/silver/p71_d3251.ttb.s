@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	know
+PRO	it
+PST	was
+IST	already
+REL	after
+CLO	2:30
+NIL	.

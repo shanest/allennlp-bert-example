@@ -1,0 +1,9 @@
+PRO	I
+EPS	found
+PRO	it
+UNK	impossible
+SUB	to
+EXS	win
+DEF	the
+CON	championship
+NIL	.

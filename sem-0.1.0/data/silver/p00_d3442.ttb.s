@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+DEF	the
+IST	last
+CON	person
+NIL	to
+EXS	betray
+HAS	his
+CON	friends
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+FUT	'll
+EXS	get
+IST	back
+REL	to
+PRO	you
+AND	as
+IST	soon
+SUB	as
+PRO	I
+NOW	hear
+DIS	anything
+NIL	.

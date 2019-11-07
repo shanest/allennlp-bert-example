@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	said
+SUB	that
+DIS	some
+CON	Englishmen
+AND	like
+IST	Japanese-style
+CON	rooms
+NIL	.

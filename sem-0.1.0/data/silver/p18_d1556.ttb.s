@@ -1,0 +1,11 @@
+QUE	How
+QUV	much
+FUT	will
+PRO	it
+EXS	cost
+PRO	you
+SUB	to
+EXS	go
+REL	by
+CON	air
+QUE	?

@@ -1,0 +1,10 @@
+PRO	I
+PST	was
+INT	very
+IST	ashamed
+AND	of
+QUE	what
+PRO	I
+PST	had
+EXS	done
+NIL	.

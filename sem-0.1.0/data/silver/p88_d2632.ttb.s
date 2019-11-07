@@ -1,0 +1,10 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	persuade
+PER	Mary
+SUB	to
+EXS	accept
+DEF	the
+CON	money
+NIL	.

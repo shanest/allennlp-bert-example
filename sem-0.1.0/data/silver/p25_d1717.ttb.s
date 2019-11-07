@@ -1,0 +1,10 @@
+PRO	He
+ENS	knows
+QUE	how
+SUB	to
+CON	fish
+REL	with
+DIS	a
+CON	fishing
+CON	rod
+NIL	.

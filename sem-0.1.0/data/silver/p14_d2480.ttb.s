@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+DEF	the
+CON	dog
+EXS	running
+IST	quickly
+REL	in
+DEF	the
+CON	park
+NIL	.

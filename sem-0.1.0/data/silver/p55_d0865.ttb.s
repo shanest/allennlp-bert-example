@@ -1,0 +1,13 @@
+PST	Yesterday
+PRO	I
+EPS	met
+QUC	one
+AND	of
+DEF	the
+INT	most
+IST	popular
+CON	actors
+REL	in
+DEF	the
+CON	world
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	still
+NOT	not
+EXS	used
+NIL	to
+EXS	getting
+IST	up
+AND	so
+IST	early
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+EPS	confessed
+SUB	that
+PRO	he
+PST	had
+EXS	fallen
+REL	in
+CON	love
+REL	with
+PRO	me
+NIL	.

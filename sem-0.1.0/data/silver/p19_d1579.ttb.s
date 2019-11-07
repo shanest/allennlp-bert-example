@@ -1,0 +1,15 @@
+REL	In
+DEF	the
+IST	postbiological
+CON	era
+EQU	,
+IST	synthetic
+CON	bodies
+EPS	became
+DEF	the
+IST	new
+CON	home
+AND	of
+IST	human
+CON	minds
+NIL	.

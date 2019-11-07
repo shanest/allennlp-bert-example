@@ -1,0 +1,13 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	know
+SUB	when
+PER	Mary
+PST	was
+EXS	planning
+SUB	to
+EXS	go
+REL	to
+GPE	Boston
+NIL	.

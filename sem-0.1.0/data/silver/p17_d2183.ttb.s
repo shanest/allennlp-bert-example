@@ -1,0 +1,14 @@
+PER	Tom
+EPS	paid
+REL	for
+DEF	the
+CON	shirt
+COO	and
+DEF	the
+ROL	salesgirl
+EPS	put
+PRO	it
+REL	into
+DIS	a
+CON	bag
+NIL	.

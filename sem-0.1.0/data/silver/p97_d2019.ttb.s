@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+UNK	which
+AND	of
+PRX	these
+QUC	two
+CON	girls
+PRO	you
+ENS	like
+NIL	.

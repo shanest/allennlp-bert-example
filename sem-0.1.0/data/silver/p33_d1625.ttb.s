@@ -1,0 +1,11 @@
+PRO	We
+NOW	have
+DEF	the
+CON	boots
+REL	in
+COL	green
+NIL	,
+IST	blue
+AND	and
+COL	yellow
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+CON	kidnappers
+EPS	showed
+NOT	no
+CON	sign
+AND	of
+EXG	giving
+IST	up
+NIL	.

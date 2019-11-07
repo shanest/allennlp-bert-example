@@ -1,0 +1,9 @@
+PER	Tom
+EPS	put
+DIS	some
+CON	flowers
+REL	on
+PER	Mary
+HAS	's
+CON	grave
+NIL	.

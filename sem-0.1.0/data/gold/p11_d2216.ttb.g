@@ -1,0 +1,10 @@
+DEF	The
+CON	flight
+REL	to
+GPE	Boston
+NEC	should
+EXS	take
+APX	about
+QUC	ninety
+UOM	minutes
+NIL	.

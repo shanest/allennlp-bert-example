@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+PFT	been
+CON	friends
+SUB	since
+PRO	they
+PST	were
+CON	kids
+NIL	.

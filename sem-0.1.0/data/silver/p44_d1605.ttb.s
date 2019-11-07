@@ -1,0 +1,11 @@
+CON	Look
+EQU	,
+DIS	a
+CON	tomato
+AND	which
+EPS	grew
+IST	up
+EXS	listening
+REL	to
+CON	Mozart
+NIL	!

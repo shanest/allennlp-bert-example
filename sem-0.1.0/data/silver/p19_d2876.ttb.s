@@ -1,0 +1,10 @@
+AND	Why
+NOW	are
+PRO	you
+IST	always
+AND	so
+INT	damn
+IST	proud
+AND	of
+REF	yourself
+QUE	?

@@ -1,0 +1,16 @@
+PRO	She
+EPS	wished
+REL	for
+DIS	a
+IST	more
+REL	relaxing
+CON	life
+NIL	,
+BUT	but
+DST	that
+PST	was
+EXS	impossible
+REL	under
+DEF	the
+CON	circumstances
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+CON	student
+EPS	became
+INT	very
+IST	nervous
+REL	with
+DEF	the
+CON	teacher
+EXS	watching
+PRO	him
+NIL	.

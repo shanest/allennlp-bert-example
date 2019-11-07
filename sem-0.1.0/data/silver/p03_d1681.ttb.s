@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	do
+QUE	what
+PRO	he
+NOW	's
+EXS	being
+EXS	punished
+REL	for
+NIL	.

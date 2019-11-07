@@ -1,0 +1,11 @@
+PER	Tom
+EPS	picked
+IST	up
+DIS	a
+CON	napkin
+COO	and
+EPS	wiped
+PER	Mary
+HAS	's
+CON	chin
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+NEC	have
+SUB	to
+EXS	go
+REL	to
+CON	market
+NIL	,
+ALT	too
+QUE	?

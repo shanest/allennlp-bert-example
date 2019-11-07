@@ -1,0 +1,13 @@
+PRO	You
+EPS	cheated
+PRO	me
+QUC	once
+NIL	,
+BUT	but
+PRO	you
+FUT	will
+NOT	never
+EXS	catch
+PRO	me
+ALT	again
+NIL	.

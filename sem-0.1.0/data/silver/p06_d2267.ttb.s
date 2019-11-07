@@ -1,0 +1,10 @@
+PRX	This
+CON	book
+NOW	is
+INT	too
+EXS	difficult
+REL	for
+PRO	you
+SUB	to
+EXS	read
+NIL	.

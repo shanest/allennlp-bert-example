@@ -1,0 +1,9 @@
+ORG	Vivisection
+NOW	is
+IST	largely
+EXS	forbidden
+REL	in
+GEO	Europe
+EQU	and
+GPE	Italy
+NIL	.

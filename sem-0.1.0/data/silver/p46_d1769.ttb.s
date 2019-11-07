@@ -1,0 +1,12 @@
+PRO	You
+FUT	will
+IST	able
+SUB	to
+EXS	drive
+DIS	a
+CON	car
+REL	in
+DIS	a
+IST	few
+CON	days
+NIL	.

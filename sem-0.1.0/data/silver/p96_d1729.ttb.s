@@ -1,0 +1,13 @@
+CON	Walking
+REL	along
+DEF	the
+CON	street
+NIL	,
+PRO	I
+EPS	met
+DIS	an
+IST	old
+CON	friend
+AND	of
+HAS	mine
+NIL	.

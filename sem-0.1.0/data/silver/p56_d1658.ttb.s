@@ -1,0 +1,11 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	buy
+HAS	my
+CON	children
+AND	everything
+PRO	I
+NOT	never
+PST	had
+NIL	.

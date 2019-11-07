@@ -1,0 +1,10 @@
+IST	Luckily
+NIL	,
+DIS	someone
+EPS	gave
+PRO	me
+DIS	a
+CON	jacket
+SUB	to
+EXS	wear
+NIL	.

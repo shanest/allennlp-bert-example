@@ -1,0 +1,9 @@
+QUE	How
+IST	long
+NOW	have
+PRO	you
+PFT	been
+EXG	playing
+DEF	the
+CON	violin
+QUE	?

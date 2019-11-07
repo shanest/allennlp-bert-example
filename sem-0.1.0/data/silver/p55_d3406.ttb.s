@@ -1,0 +1,9 @@
+EXS	Tell
+HAS	her
+PRO	she
+NEC	should
+EXS	present
+HAS	her
+IST	immediate
+CON	resignation
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	think
+PER	Mary
+POS	can
+EXS	speak
+GPO	French
+NIL	.

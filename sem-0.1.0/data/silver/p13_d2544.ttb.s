@@ -1,0 +1,12 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	trust
+PER	Mary
+AND	as
+QUC	much
+AND	as
+PRO	she
+EPS	trusted
+PRO	him
+NIL	.

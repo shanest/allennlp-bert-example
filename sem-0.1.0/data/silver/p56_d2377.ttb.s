@@ -1,0 +1,14 @@
+HAS	My
+ROL	son
+PST	had
+PFT	been
+EXS	writing
+REL	for
+QUV	several
+CON	hours
+SUB	when
+PRO	I
+EPS	entered
+DEF	the
+CON	room
+NIL	.

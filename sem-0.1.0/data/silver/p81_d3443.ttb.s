@@ -1,0 +1,13 @@
+AND	Why
+NOW	do
+PRO	you
+NOW	think
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	planning
+SUB	to
+EXS	get
+EXS	divorced
+QUE	?

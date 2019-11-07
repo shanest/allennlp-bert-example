@@ -1,0 +1,12 @@
+PRO	She
+EPS	died
+SUB	after
+PRO	she
+PST	had
+PFT	been
+EXS	ill
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

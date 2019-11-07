@@ -1,0 +1,19 @@
+PER	Tom
+EPS	gave
+DIS	a
+IST	famous
+ROL	singer
+QUC	ten thousand
+UOM	dollars
+SUB	to
+EXS	come
+REL	to
+DEF	the
+CON	restaurant
+SUB	to
+EXS	sing
+NIL	"
+AND	Happy
+TIM	Birthday
+NIL	.
+NIL	"

@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+AND	and
+ROL	mother
+NOW	have
+DIS	a
+IST	big
+CON	farm
+IST	there
+NIL	.

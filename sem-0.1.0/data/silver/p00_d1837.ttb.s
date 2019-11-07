@@ -1,0 +1,14 @@
+PRO	We
+ENS	think
+PRO	it
+NOW	is
+INT	very
+EXS	dangerous
+SUB	that
+PRO	you
+NOW	're
+EXG	climbing
+DEF	the
+CON	mountain
+AND	alone
+NIL	.

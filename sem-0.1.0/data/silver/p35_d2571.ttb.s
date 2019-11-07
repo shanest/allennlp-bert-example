@@ -1,0 +1,12 @@
+PER	Tom
+PST	bet
+PER	Mary
+SUB	that
+PRO	he
+POS	could
+EXS	beat
+HAS	her
+REL	at
+CON	arm
+CON	wrestling
+NIL	.

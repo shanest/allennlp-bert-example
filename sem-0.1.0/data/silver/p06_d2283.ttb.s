@@ -1,0 +1,15 @@
+PRO	He
+NOW	is
+INT	so
+EXS	crazy
+AND	about
+HAS	his
+IST	new
+CON	car
+SUB	that
+PRO	he
+NOW	goes
+EXS	driving
+AND	every
+DOW	Sunday
+NIL	.

@@ -1,0 +1,9 @@
+PRO	We
+FUT	'll
+EXS	be
+UNK	there
+SUB	before
+PRO	you
+ENS	know
+PRO	it
+NIL	.

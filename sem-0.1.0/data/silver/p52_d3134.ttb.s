@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+NOW	now
+IST	middle
+CON	age
+AND	and
+NOW	has
+IST	serious
+CON	health
+CON	problems
+NIL	.

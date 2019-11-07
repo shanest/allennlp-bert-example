@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+QUC	one
+AND	of
+PER	Mary
+HAS	's
+SST	favorite
+CON	students
+NIL	.

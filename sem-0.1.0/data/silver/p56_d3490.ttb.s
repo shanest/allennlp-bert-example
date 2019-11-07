@@ -1,0 +1,9 @@
+PRO	They
+EPS	drove
+DEF	the
+CON	car
+CON	one
+REL	after
+DEF	the
+ALT	other
+NIL	.

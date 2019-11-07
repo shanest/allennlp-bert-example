@@ -1,0 +1,14 @@
+AND	Of
+AND	all
+PRX	these
+CON	books
+NIL	,
+PRX	this
+NOW	is
+REL	by
+IST	far
+DEF	the
+TOP	best
+REL	on
+GPE	China
+NIL	.

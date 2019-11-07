@@ -1,0 +1,13 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+PER	Mary
+BUT	but
+PRO	he
+FUT	'd
+EXS	like
+NIL	to
+EXS	meet
+PRO	her
+NIL	.

@@ -1,0 +1,11 @@
+POS	May
+PRO	I
+NOW	ask
+PRO	you
+SUB	to
+EXS	take
+DIS	a
+CON	photo
+AND	of
+PRO	us
+QUE	?

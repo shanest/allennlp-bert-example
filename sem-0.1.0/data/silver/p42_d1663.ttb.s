@@ -1,0 +1,11 @@
+REL	For
+AND	all
+PRO	we
+ENS	know
+EQU	,
+PER	Tom
+POS	could
+EXS	be
+REL	in
+GPE	Boston
+NIL	.

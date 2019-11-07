@@ -1,0 +1,13 @@
+PER	Tom
+EPS	drew
+DIS	a
+CON	revolver
+COO	and
+EPS	shot
+PER	John
+HAS	's
+CON	hat
+REL	off
+HAS	his
+CON	head
+NIL	.

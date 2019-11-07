@@ -1,0 +1,11 @@
+PRO	We
+NOW	're
+REL	in
+DEF	the
+CON	process
+AND	of
+EXS	writing
+DEF	the
+CON	report
+NOW	now
+NIL	.

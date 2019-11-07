@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+EXS	worry
+NIL	.
+PRO	He
+ENS	knows
+QUE	what
+PRO	he
+HAS	's
+EXS	doing
+NIL	.

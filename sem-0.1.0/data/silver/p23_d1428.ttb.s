@@ -1,0 +1,11 @@
+PRO	I
+ENS	wish
+PRO	you
+PST	'd
+EXS	quit
+EXG	doing
+QUE	what
+PRO	you
+NOW	're
+EXG	doing
+NIL	.

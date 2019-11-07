@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+ENS	love
+PRO	me
+AND	just
+SUB	when
+PRO	I
+NOW	'm
+EXS	absent
+QUE	?

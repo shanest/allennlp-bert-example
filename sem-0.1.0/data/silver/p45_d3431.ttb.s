@@ -1,0 +1,12 @@
+PRO	You
+ENS	need
+SUB	to
+EXS	be
+EXS	careful
+SUB	when
+PRO	you
+NOW	're
+EXS	driving
+DIS	a
+CON	car
+NIL	.

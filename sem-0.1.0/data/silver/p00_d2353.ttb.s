@@ -1,0 +1,9 @@
+PRO	You
+EPS	made
+DEF	the
+IST	same
+CON	mistake
+AND	as
+IST	last
+CON	time
+NIL	.

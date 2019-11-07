@@ -1,0 +1,16 @@
+IMP	If
+PRO	you
+ENS	need
+DIS	some
+CON	money
+NIL	,
+QUE	why
+NOW	do
+NOT	n't
+PRO	you
+EXS	borrow
+DIS	some
+REL	from
+HAS	your
+CON	mother
+QUE	?

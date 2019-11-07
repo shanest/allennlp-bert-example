@@ -1,0 +1,17 @@
+PRO	It
+HAS	's
+NOT	not
+DEF	the
+IST	first
+CON	time
+SUB	that
+PER	Tom
+NOW	has
+EXS	dated
+QUC	two
+CON	girls
+REL	at
+DEF	the
+IST	same
+CON	time
+NIL	.

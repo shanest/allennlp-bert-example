@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	real
+EXS	sorry
+PRO	I
+PST	was
+NOT	n't
+IST	able
+SUB	to
+EXS	help
+NIL	.

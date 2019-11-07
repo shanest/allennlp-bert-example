@@ -1,0 +1,11 @@
+PER	Tom
+POS	could
+EXT	've
+EXS	figured
+SUB	that
+AND	out
+NOT	without
+PER	Mary
+HAS	's
+CON	help
+NIL	.

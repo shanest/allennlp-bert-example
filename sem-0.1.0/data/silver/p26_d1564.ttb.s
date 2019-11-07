@@ -1,0 +1,10 @@
+PRO	I
+ENS	cry
+AND	every
+CON	time
+PRO	I
+ENS	listen
+REL	to
+PRX	this
+CON	song
+NIL	.

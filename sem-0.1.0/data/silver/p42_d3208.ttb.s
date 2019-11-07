@@ -1,0 +1,13 @@
+PRO	I
+ENS	like
+SUB	that
+CON	university
+NIL	,
+COO	but
+PRO	it
+NOW	's
+ALT	too
+REL	near
+HAS	my
+CON	home
+NIL	.

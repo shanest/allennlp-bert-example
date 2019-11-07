@@ -1,0 +1,10 @@
+QUE	How
+QUV	much
+FUT	will
+PRO	it
+EXS	cost
+SUB	to
+EXS	fix
+DEF	the
+CON	car
+QUE	?

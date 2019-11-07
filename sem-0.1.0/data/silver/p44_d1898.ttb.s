@@ -1,0 +1,13 @@
+NOW	Are
+PRO	you
+IST	aware
+SUB	that
+GEO	Okinawa
+NOW	is
+IST	closer
+REL	to
+GPE	China
+AND	than
+REL	to
+GEO	Honshu
+QUE	?

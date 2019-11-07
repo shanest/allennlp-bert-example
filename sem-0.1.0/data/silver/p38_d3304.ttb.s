@@ -1,0 +1,10 @@
+HAS	My
+CON	teacher
+EPS	put
+REL	in
+DIS	a
+IST	good
+CON	word
+REL	for
+PRO	me
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+EPS	went
+SUB	to
+EXS	sleep
+AND	as
+IST	soon
+SUB	as
+PRO	I
+EPS	got
+CON	home
+NIL	.

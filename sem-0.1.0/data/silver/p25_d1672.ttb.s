@@ -1,0 +1,13 @@
+PRO	It
+EPS	started
+EXS	raining
+IST	hard
+NIL	.
+AND	Because
+AND	of
+DST	that
+NIL	,
+PRO	we
+EPS	played
+IST	inside
+NIL	.

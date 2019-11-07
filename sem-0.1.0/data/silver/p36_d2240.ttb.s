@@ -1,0 +1,11 @@
+NOW	Is
+UNK	there
+DIS	something
+REL	in
+IST	particular
+SUB	that
+PRO	you
+NOW	're
+EXS	looking
+REL	for
+QUE	?

@@ -1,0 +1,12 @@
+CON	Newspapers
+EQU	,
+CON	television
+NIL	,
+COO	and
+CON	radio
+NOW	are
+EXS	called
+DEF	the
+CON	mass
+CON	media
+NIL	.

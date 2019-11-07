@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXG	hoping
+PER	Tom
+ENS	learns
+REL	from
+HAS	his
+CON	mistakes
+NIL	.

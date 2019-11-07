@@ -1,0 +1,12 @@
+PRO	He
+EPS	gave
+PRO	us
+DIS	a
+IST	detailed
+CON	account
+AND	of
+HAS	his
+CON	experiences
+REL	in
+GEO	Africa
+NIL	.

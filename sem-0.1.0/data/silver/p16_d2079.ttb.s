@@ -1,0 +1,12 @@
+MOR	More
+MOR	than
+QUC	40
+UOM	percent
+AND	of
+DEF	the
+CON	students
+EXS	go
+REL	on
+REL	to
+CON	university
+NIL	.

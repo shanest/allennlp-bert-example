@@ -1,0 +1,13 @@
+PER	Tom
+EPS	wanted
+SUB	to
+EXS	kiss
+PER	Mary
+GRE	goodbye
+NIL	,
+BUT	but
+EPS	knew
+PRO	he
+NEC	should
+NOT	n't
+NIL	.

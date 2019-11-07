@@ -1,0 +1,11 @@
+PER	Tom
+EPS	found
+PRO	it
+UNK	difficult
+SUB	to
+EXS	make
+REF	himself
+EXS	understood
+REL	in
+GPO	French
+NIL	.

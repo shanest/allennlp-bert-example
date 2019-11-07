@@ -1,0 +1,13 @@
+PRO	I
+FUT	would
+IST	rather
+EXS	be
+IST	poor
+AND	than
+EXS	make
+CON	money
+REL	by
+NOT	dis
+IST	honest
+CON	means
+NIL	.

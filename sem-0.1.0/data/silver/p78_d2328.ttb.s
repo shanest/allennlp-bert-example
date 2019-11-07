@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+EXS	drunk
+IST	enough
+SUB	to
+EXS	speak
+GPO	German
+AND	once
+ALT	again
+QUE	?

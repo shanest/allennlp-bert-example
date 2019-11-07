@@ -1,0 +1,15 @@
+PRO	I
+POS	can
+NOT	not
+EXS	stand
+PRO	you
+EXG	telling
+PRO	me
+AND	all
+DEF	the
+CON	time
+QUE	what
+HAS	my
+CON	faults
+NOW	are
+NIL	.

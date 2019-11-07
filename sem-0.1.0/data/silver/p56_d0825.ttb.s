@@ -1,0 +1,12 @@
+PRO	I
+PST	was
+IST	unable
+SUB	to
+EXS	write
+IST	down
+DEF	the
+CON	number
+AND	of
+DEF	the
+CON	car
+NIL	.

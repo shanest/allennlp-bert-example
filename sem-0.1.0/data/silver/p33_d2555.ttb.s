@@ -1,0 +1,13 @@
+AND	All
+DEF	the
+CON	students
+AND	of
+DEF	the
+CON	university
+NOW	have
+EXS	access
+REL	to
+DEF	the
+CON	university
+CON	library
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+PST	used
+NIL	to
+EXS	hate
+PER	Mary
+NIL	.
+NOW	Now
+PRO	he
+ENS	loves
+PRO	her
+NIL	.

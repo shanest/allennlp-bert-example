@@ -1,0 +1,10 @@
+EXS	Let
+PRO	's
+NOW	have
+DIS	a
+CON	tea
+EXS	break
+DIS	somewhere
+INT	around
+IST	there
+NIL	.

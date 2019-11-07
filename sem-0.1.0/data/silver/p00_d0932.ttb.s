@@ -1,0 +1,11 @@
+PRO	I
+ENS	need
+DIS	a
+IST	new
+CON	broom
+NIL	.
+PRX	This
+QUC	one
+NOW	's
+CON	shot
+NIL	.

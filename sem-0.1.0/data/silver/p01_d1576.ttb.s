@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+DIS	a
+CON	pity
+PRO	you
+NOW	do
+NOT	n't
+EXS	know
+QUE	how
+NIL	to
+EXS	dance
+NIL	.

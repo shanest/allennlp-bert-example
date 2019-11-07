@@ -1,0 +1,17 @@
+AND	Same
+CON	sex
+CON	marriage
+NOW	is
+NOW	now
+IST	legal
+REL	in
+QUC	20
+CON	countries
+IST	worldwide
+NIL	,
+AND	including
+GPE	Ireland
+AND	as
+AND	of
+PST	yesterday
+NIL	.

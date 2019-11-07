@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	feel
+AND	like
+EXS	doing
+SUB	that
+NOW	now
+NIL	.

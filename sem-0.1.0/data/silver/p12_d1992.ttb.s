@@ -1,0 +1,11 @@
+ITJ	Oh
+HAS	my
+CON	gosh
+NIL	.
+PRO	I
+FUT	will
+EXS	be
+IST	late
+REL	for
+CON	lessons
+NIL	.

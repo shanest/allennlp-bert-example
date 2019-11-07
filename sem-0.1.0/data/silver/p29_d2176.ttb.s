@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+HAS	my
+ROL	sister
+NIL	.
+PRO	She
+NOW	is
+EXS	called
+PER	Julia
+NIL	.

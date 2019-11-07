@@ -1,0 +1,13 @@
+PRX	These
+CON	grapes
+NOW	do
+NOT	n't
+CON	taste
+IST	good
+NIL	.
+QUE	Where
+NOW	have
+PRO	you
+EPS	bought
+PRO	them
+QUE	?

@@ -1,0 +1,15 @@
+AND	Why
+PST	did
+NOT	n't
+PRO	you
+EXS	come
+PST	yesterday
+QUE	?
+PRO	I
+EPS	waited
+DIS	a
+IST	long
+CON	time
+REL	for
+PRO	you
+NIL	.

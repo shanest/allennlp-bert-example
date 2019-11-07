@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+PER	Ken
+NIL	.
+PRO	He
+IST	really
+ENS	likes
+HAS	his
+CON	dog
+NIL	.

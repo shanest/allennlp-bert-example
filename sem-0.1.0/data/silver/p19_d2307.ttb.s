@@ -1,0 +1,11 @@
+UNK	There
+NOW	has
+PFT	been
+ALT	another
+CON	case
+AND	of
+CON	cholera
+REL	in
+DEF	the
+CON	neighborhood
+NIL	.

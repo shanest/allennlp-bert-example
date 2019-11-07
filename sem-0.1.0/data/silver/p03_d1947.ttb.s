@@ -1,0 +1,9 @@
+QUE	What
+NOW	do
+PRO	you
+EXS	think
+AND	of
+DEF	the
+IST	new
+CON	movie
+QUE	?

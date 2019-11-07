@@ -1,0 +1,10 @@
+PRO	It
+ENS	seems
+PRO	she
+NOW	is
+MOR	more
+MOR	than
+QUC	thirty
+CON	years
+COM	old
+NIL	.

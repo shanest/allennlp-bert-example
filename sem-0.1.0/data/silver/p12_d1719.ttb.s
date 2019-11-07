@@ -1,0 +1,11 @@
+PER	Tom
+EPS	took
+MOR	more
+MOR	than
+QUC	one
+CON	picture
+NIL	,
+PST	did
+NOT	n't
+PRO	he
+QUE	?

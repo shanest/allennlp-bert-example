@@ -1,0 +1,10 @@
+REL	In
+ALT	another
+CON	paragraph
+NIL	,
+PRO	he
+EPS	put
+REL	in
+DIS	a
+CON	comma
+NIL	.

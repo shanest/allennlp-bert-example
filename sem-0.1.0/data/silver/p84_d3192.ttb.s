@@ -1,0 +1,12 @@
+PRO	They
+PST	did
+NOT	not
+EXS	oppose
+DEF	the
+CON	project
+SUB	because
+PRO	they
+EPS	feared
+IST	public
+CON	opinion
+NIL	.

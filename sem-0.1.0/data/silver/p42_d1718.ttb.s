@@ -1,0 +1,9 @@
+PRO	I
+FUT	'll
+EXS	see
+PRX	this
+NOW	does
+NOT	n't
+EXS	happen
+ALT	again
+NIL	.

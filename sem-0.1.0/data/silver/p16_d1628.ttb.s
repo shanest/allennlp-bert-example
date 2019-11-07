@@ -1,0 +1,14 @@
+PRO	She
+EPS	said
+EMP	herself
+SUB	that
+PRO	she
+FUT	wo
+NOT	n't
+EXS	fall
+REL	in
+CON	love
+REL	with
+DIS	anyone
+CON	anymore
+NIL	.

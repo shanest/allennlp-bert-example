@@ -1,0 +1,10 @@
+FUT	Tomorrow
+NIL	,
+DEF	the
+CON	verdict
+REL	for
+PER	Tom
+FUT	will
+EXS	be
+EXS	announced
+NIL	.

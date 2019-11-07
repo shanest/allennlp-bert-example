@@ -1,0 +1,13 @@
+AND	As
+DIS	a
+CON	pensioner
+NIL	,
+PRO	I
+NOW	'm
+HAS	my
+IST	own
+CON	boss
+NOW	now
+NIL	,
+IST	finally
+NIL	.

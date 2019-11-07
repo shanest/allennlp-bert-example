@@ -1,0 +1,10 @@
+PRO	He
+EPS	showed
+PRO	me
+DEF	the
+CON	manuscript
+AND	of
+HAS	his
+IST	new
+CON	play
+NIL	.

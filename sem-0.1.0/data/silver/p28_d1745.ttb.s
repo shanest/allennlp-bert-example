@@ -1,0 +1,10 @@
+PRO	I
+PST	got
+PRX	here
+AND	about
+DEF	the
+IST	same
+CON	time
+AND	as
+PER	Tom
+NIL	.

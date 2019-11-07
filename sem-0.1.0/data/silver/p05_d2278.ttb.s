@@ -1,0 +1,11 @@
+PRO	We
+NOW	do
+NOT	n't
+EXS	need
+DIS	a
+CON	visa
+SUB	to
+EXS	go
+REL	to
+GPE	France
+NIL	.

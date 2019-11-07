@@ -1,0 +1,13 @@
+HAS	His
+CON	hand
+PST	was
+EXS	trembling
+SUB	as
+PRO	he
+EPS	picked
+IST	up
+HAS	his
+CON	pen
+SUB	to
+EXS	sign
+NIL	.

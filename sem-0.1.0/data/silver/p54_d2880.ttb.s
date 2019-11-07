@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+DEF	the
+CON	picture
+PRO	I
+EPS	took
+REL	in
+HAS	my
+CON	house
+NIL	.

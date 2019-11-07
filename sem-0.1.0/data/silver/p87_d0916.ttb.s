@@ -1,0 +1,13 @@
+PRO	It
+NOW	is
+NOT	never
+IST	too
+IST	late
+SUB	to
+EXS	be
+QUE	what
+PRO	you
+POS	could
+EXT	have
+PFT	been
+NIL	.

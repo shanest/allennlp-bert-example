@@ -1,0 +1,10 @@
+PRO	It
+NOW	goes
+NOT	without
+EXG	saying
+DST	that
+CON	pets
+NOW	are
+NOT	not
+EXS	allowed
+NIL	.

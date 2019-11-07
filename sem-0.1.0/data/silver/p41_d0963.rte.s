@@ -1,0 +1,10 @@
+PER	Bush
+NOW	is
+EXS	scheduled
+SUB	to
+EXS	visit
+DEF	the
+CON	city
+AND	of
+CON	Bogor
+NIL	.

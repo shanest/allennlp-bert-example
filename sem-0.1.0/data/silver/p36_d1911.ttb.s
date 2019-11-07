@@ -1,0 +1,11 @@
+PRO	He
+EPS	sat
+IST	back
+COO	and
+EPS	watched
+PRO	us
+NOW	do
+AND	all
+DEF	the
+CON	work
+NIL	.

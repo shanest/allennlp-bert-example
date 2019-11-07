@@ -1,0 +1,10 @@
+PER	Tom
+ENS	knows
+SUB	that
+PER	Mary
+NOW	does
+NOT	n't
+EXS	like
+IST	raw
+CON	eggs
+NIL	.

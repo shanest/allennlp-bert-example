@@ -1,0 +1,10 @@
+PRO	I
+FUT	would
+EXS	like
+PRO	it
+IMP	if
+PRO	we
+PST	had
+IST	more
+CON	money
+NIL	.

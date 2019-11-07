@@ -1,0 +1,9 @@
+PER	Tom
+ENS	's
+DIS	a
+INT	very
+IST	practical
+NIL	,
+AND	down-to-earth
+CON	person
+NIL	.

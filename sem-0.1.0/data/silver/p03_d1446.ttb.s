@@ -1,0 +1,11 @@
+NOT	No
+CON	one
+ENS	seems
+SUB	to
+EXS	have
+AND	any
+CON	idea
+SUB	where
+PER	John
+NOW	is
+NIL	.

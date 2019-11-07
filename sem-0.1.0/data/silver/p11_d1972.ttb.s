@@ -1,0 +1,10 @@
+PER	Maria
+NOW	has
+NOT	n't
+EXS	eaten
+DIS	or
+EPS	drank
+DEF	the
+IST	whole
+CON	day
+NIL	.

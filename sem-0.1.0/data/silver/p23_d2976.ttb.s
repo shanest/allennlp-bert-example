@@ -1,0 +1,13 @@
+PRO	I
+NOW	wonder
+IMP	if
+PRO	I
+POS	can
+EXS	ask
+PRO	you
+DIS	a
+IST	few
+CON	questions
+AND	about
+PER	Tom
+NIL	.

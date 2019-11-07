@@ -1,0 +1,11 @@
+PRO	Whoever
+ENS	wants
+SUB	to
+EXS	marry
+PRO	her
+NEC	must
+IST	first
+EXS	convince
+HAS	her
+ROL	father
+NIL	.

@@ -1,0 +1,19 @@
+DEF	The
+ORG	World Health
+ORG	Organization
+ENS	says
+CON	alcohol
+CON	abuse
+NOW	is
+DEF	the
+IST	third
+EXG	leading
+CON	cause
+AND	of
+CON	death
+AND	and
+CON	disability
+REL	in
+DEF	the
+CON	world
+NIL	.

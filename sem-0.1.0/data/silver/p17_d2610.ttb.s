@@ -1,0 +1,10 @@
+PRO	He
+EPS	gave
+PRO	me
+DIS	some
+CON	bread
+NIL	,
+ALT	also
+DIS	some
+CON	milk
+NIL	.

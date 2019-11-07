@@ -1,0 +1,10 @@
+PRO	You
+FUT	'll
+NOT	never
+EXS	guess
+SUB	where
+PRO	we
+NOW	've
+IST	just
+EXS	been
+NIL	.

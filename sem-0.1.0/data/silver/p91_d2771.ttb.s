@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+UNK	there
+FUT	will
+EXS	be
+DIS	an
+CON	election
+IST	soon
+NIL	.

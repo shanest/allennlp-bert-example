@@ -1,0 +1,11 @@
+CON	Children
+ENS	walk
+AND	around
+REL	from
+CON	door
+REL	to
+CON	door
+REL	on
+HAP	Halloween
+CON	night
+NIL	.

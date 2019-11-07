@@ -1,0 +1,13 @@
+DEF	The
+CON	setting
+AND	of
+DEF	the
+CON	story
+NOW	is
+GPE	Japan
+REL	in
+DEF	the
+IST	late
+ORG	Meiji
+CON	period
+NIL	.

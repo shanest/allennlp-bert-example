@@ -1,0 +1,9 @@
+CON	Man
+NOW	has
+PFT	been
+EXG	writing
+REL	for
+APX	about
+QUC	6000
+UOM	years
+NIL	.

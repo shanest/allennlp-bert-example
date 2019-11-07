@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	always
+EXS	going
+SUB	to
+EXS	be
+PRX	here
+REL	for
+PRO	you
+NIL	.

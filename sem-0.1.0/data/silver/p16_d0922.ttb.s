@@ -1,0 +1,9 @@
+FUT	Will
+PRO	you
+EXS	sing
+DIS	some
+GPO	English
+CON	songs
+REL	for
+PRO	us
+QUE	?

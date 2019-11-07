@@ -1,0 +1,10 @@
+PRO	I
+IST	just
+ENS	wish
+PRO	I
+EPS	knew
+QUE	how
+SUB	to
+EXS	speak
+GPO	French
+NIL	.

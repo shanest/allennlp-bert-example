@@ -1,0 +1,9 @@
+PRO	I
+NOT	never
+EXS	prevent
+HAS	my
+ROL	enemies
+REL	from
+EXG	hanging
+REF	themselves
+NIL	.

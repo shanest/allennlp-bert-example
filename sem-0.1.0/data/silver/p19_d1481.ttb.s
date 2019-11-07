@@ -1,0 +1,10 @@
+PRO	He
+NOW	has
+PFT	been
+EXS	ill
+REL	in
+CON	bed
+REL	for
+DIS	a
+CON	week
+NIL	.

@@ -1,0 +1,11 @@
+AND	So
+UNK	difficult
+PST	was
+DEF	the
+CON	question
+SUB	that
+NOT	no
+CON	one
+POS	could
+EXS	answer
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+DIS	a
+GPO	British
+ROL	teacher
+AND	who
+ENS	teaches
+PRO	us
+CON	English
+NIL	.

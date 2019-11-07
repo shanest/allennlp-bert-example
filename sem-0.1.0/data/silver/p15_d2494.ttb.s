@@ -1,0 +1,9 @@
+SUB	To
+EXS	tell
+DEF	the
+CON	truth
+NIL	,
+PRO	I
+IST	completely
+EPS	forgot
+NIL	.

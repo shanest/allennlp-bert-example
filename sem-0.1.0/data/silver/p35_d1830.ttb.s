@@ -1,0 +1,12 @@
+NOW	Are
+PRO	you
+EXS	telling
+PRO	me
+SUB	that
+PRO	you
+NOW	've
+NOT	never
+EXS	had
+DIS	a
+CON	nightmare
+QUE	?

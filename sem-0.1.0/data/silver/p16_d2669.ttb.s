@@ -1,0 +1,11 @@
+PRO	You
+NEC	should
+EXS	go
+REL	to
+CON	bed
+NIL	.
+PRO	It
+HAS	's
+AND	almost
+CLO	midnight
+NIL	.

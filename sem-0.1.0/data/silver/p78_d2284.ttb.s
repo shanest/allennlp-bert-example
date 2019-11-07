@@ -1,0 +1,13 @@
+PER	Tom
+EPS	accused
+PER	Mary
+AND	of
+EXS	stealing
+HAS	his
+CON	money
+NIL	,
+BUT	but
+PRO	she
+EPS	denied
+PRO	it
+NIL	.

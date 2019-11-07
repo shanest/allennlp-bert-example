@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+SUB	whether
+PRO	it
+NOW	is
+EXS	true
+DIS	or
+NOT	not
+NIL	.

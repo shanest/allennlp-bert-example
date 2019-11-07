@@ -1,0 +1,13 @@
+AND	As
+QUC	much
+AND	as
+PER	Tom
+EPS	tried
+SUB	to
+EXS	forget
+PER	Mary
+NIL	,
+PRO	he
+POS	could
+NOT	n't
+NIL	.

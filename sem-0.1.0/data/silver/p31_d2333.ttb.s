@@ -1,0 +1,14 @@
+PER	Maria
+EPS	left
+PER	Tom
+SUB	after
+PRO	she
+EPS	found
+AND	out
+PRO	she
+PST	was
+AND	just
+HAS	his
+IST	second
+CON	choice
+NIL	.

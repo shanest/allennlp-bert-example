@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+NOT	n't
+PER	Mary
+HAS	's
+CON	brother
+NIL	.
+PRO	He
+HAS	's
+HAS	her
+CON	cousin
+NIL	.

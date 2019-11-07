@@ -1,0 +1,9 @@
+PRX	This
+CON	soup
+ENS	needs
+IST	just
+DIS	a
+CON	touch
+AND	of
+CON	salt
+NIL	.

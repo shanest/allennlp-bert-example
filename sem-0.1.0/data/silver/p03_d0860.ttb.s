@@ -1,0 +1,10 @@
+AND	Apparently
+DEF	the
+CON	wound
+REF	itself
+XCL	only
+ENS	needs
+DIS	a
+IST	few
+CON	stitches
+NIL	.

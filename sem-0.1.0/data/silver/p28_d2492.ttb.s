@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+PFT	been
+PRX	here
+REL	for
+INT	about
+QUC	three
+CON	weeks
+NIL	.

@@ -1,0 +1,10 @@
+QUE	How
+QUV	many
+CON	maids
+NOW	does
+SUB	that
+CON	lady
+ENS	want
+SUB	to
+EXS	employ
+QUE	?

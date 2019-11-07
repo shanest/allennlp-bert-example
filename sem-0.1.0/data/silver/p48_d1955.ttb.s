@@ -1,0 +1,9 @@
+HAS	My
+ROL	father
+EPS	abandoned
+PRO	me
+SUB	when
+PRO	I
+PST	was
+EXS	young
+NIL	.

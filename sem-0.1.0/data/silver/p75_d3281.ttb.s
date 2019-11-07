@@ -1,0 +1,10 @@
+PRO	I
+EPS	wondered
+QUE	why
+PER	Tom
+PST	did
+NOT	n't
+EXS	have
+DIS	a
+CON	girlfriend
+NIL	.

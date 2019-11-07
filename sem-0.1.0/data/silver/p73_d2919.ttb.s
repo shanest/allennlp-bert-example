@@ -1,0 +1,16 @@
+NOW	Feels
+DIS	a
+CON	bit
+IST	weird
+EXS	having
+DIS	a
+CON	king
+NIL	,
+HAS	whose
+CON	IQ
+NOW	is
+CON	half
+AND	compared
+REL	to
+HAS	yours
+NIL	.

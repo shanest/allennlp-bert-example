@@ -1,0 +1,12 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+PRX	this
+NOW	is
+NOT	not
+DEF	the
+CON	case
+NIL	.

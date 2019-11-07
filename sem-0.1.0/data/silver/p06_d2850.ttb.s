@@ -1,0 +1,9 @@
+PER	Tom
+EPS	said
+HAS	his
+CON	dictionary
+PST	was
+REL	in
+HAS	his
+CON	bag
+NIL	.

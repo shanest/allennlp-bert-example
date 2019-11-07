@@ -1,0 +1,10 @@
+PRO	He
+EPS	took
+HAS	her
+CON	hand
+COO	and
+EPS	sat
+IST	down
+AND	beside
+PRO	her
+NIL	.

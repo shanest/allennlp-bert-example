@@ -1,0 +1,11 @@
+HAS	My
+ROL	friend
+PER	Amastan
+IST	often
+ENS	writes
+AND	about
+HAS	his
+CON	friends
+REL	on
+PRX	Tatoeba
+NIL	.

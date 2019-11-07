@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+INT	very
+CON	book
+SUB	that
+PRO	I
+ENS	want
+SUB	to
+EXS	read
+NIL	.

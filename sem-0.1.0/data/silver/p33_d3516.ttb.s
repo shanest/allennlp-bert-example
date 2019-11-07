@@ -1,0 +1,10 @@
+PER	Tom
+EPS	got
+REL	into
+HAS	his
+CON	car
+COO	and
+IST	quickly
+EPS	drove
+IST	off
+NIL	.

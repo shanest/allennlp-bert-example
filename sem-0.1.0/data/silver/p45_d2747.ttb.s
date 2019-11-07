@@ -1,0 +1,9 @@
+PER	Tom
+EPS	donated
+DIS	a
+CON	lot
+AND	of
+CON	money
+REL	to
+PRO	us
+NIL	.

@@ -1,0 +1,13 @@
+AND	As
+IST	soon
+SUB	as
+PRO	she
+EPS	got
+HAS	her
+CON	salary
+NIL	,
+PRO	she
+EPS	spent
+PRO	it
+AND	all
+NIL	.

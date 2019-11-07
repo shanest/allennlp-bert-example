@@ -1,0 +1,14 @@
+PRO	I
+PST	had
+NOT	no
+CON	intention
+AND	of
+EXG	living
+REL	in
+DIS	a
+IST	large
+CON	city
+REL	from
+DEF	the
+CON	start
+NIL	.

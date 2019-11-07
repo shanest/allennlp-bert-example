@@ -1,0 +1,9 @@
+POS	May
+PRO	I
+NOW	write
+REL	on
+PRX	this
+CON	sheet
+AND	of
+CON	paper
+QUE	?

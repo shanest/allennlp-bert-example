@@ -1,0 +1,11 @@
+HAS	My
+IST	dear
+IST	little
+CON	cat
+NOW	has
+PFT	been
+EXS	missing
+REL	for
+DIS	a
+CON	week
+NIL	.

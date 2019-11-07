@@ -1,0 +1,12 @@
+PER	Tom
+EPS	opened
+HAS	his
+CON	suitcase
+ALT	again
+COO	and
+EPS	put
+DIS	some
+IST	more
+CON	things
+REL	in
+NIL	.

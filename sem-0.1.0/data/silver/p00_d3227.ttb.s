@@ -1,0 +1,10 @@
+DEF	The
+CON	station
+NOW	is
+DIS	a
+QUC	ten
+CON	minute
+EXS	drive
+REL	from
+PRX	here
+NIL	.

@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+IST	important
+SUB	that
+PRO	you
+NOW	learn
+DIS	a
+IST	foreign
+CON	language
+NIL	.

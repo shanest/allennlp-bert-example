@@ -1,0 +1,14 @@
+NIL	"
+NOW	Do
+PRO	you
+EXS	know
+PER	Tom
+QUE	?
+NIL	"
+NIL	"
+PRO	I
+ENS	know
+AND	of
+PRO	him
+NIL	.
+NIL	"

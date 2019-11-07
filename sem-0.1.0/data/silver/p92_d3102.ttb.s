@@ -1,0 +1,12 @@
+GEO	Pinocchio
+EPS	understood
+SUB	that
+DEF	the
+CON	boys
+PST	had
+EXS	played
+DIS	a
+CON	trick
+REL	on
+PRO	him
+NIL	.

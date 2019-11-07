@@ -1,0 +1,15 @@
+DEF	The
+ROL	teacher
+NOW	is
+EXS	angry
+NIL	,
+COO	so
+IST	please
+NOW	do
+NOT	not
+EXS	make
+CON	noise
+REL	in
+DEF	the
+CON	classroom
+NIL	!

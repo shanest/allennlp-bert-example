@@ -1,0 +1,13 @@
+PER	Tom
+EPS	fired
+HAS	his
+CON	revolver
+REL	at
+DEF	the
+CON	man
+AND	who
+PST	had
+IST	just
+EXS	killed
+PER	Mary
+NIL	.

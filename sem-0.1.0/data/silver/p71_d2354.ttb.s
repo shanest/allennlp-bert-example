@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXS	supposed
+SUB	to
+EXS	meet
+PRO	us
+PRX	here
+NIL	.

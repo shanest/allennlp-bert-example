@@ -1,0 +1,14 @@
+IST	Several
+CON	processes
+REL	for
+EXS	making
+CON	soap
+NOW	have
+PFT	been
+EXS	invented
+AND	over
+DEF	the
+CON	course
+AND	of
+CON	history
+NIL	.

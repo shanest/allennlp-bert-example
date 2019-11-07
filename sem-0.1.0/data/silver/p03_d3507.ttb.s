@@ -1,0 +1,12 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	figure
+IST	out
+SUB	whether
+PRO	you
+NOW	're
+EXS	stubborn
+DIS	or
+IST	stupid
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+EPS	drank
+DIS	a
+CON	glass
+AND	of
+CON	milk
+PRX	this
+CON	morning
+NIL	.

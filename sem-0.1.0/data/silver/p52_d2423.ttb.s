@@ -1,0 +1,17 @@
+DIS	A
+IST	new
+CON	study
+NOW	shows
+SUB	that
+AND	everything
+PRO	we
+PST	thought
+PRO	we
+EPS	knew
+IST	up
+REL	to
+NOW	now
+NIL	,
+NOW	is
+EXS	wrong
+NIL	.

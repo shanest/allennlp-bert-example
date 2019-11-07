@@ -1,0 +1,15 @@
+PRO	You
+IST	always
+EPS	said
+PRO	you
+EPS	wanted
+SUB	to
+EXS	become
+DIS	a
+ROL	scientist
+NIL	.
+AND	Why
+PST	did
+NOT	n't
+PRO	you
+QUE	?

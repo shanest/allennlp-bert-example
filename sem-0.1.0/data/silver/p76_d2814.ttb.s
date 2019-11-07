@@ -1,0 +1,9 @@
+PRO	I
+EPS	assumed
+PRO	you
+PST	'd
+EXS	want
+PRO	me
+SUB	to
+EXS	pay
+NIL	.

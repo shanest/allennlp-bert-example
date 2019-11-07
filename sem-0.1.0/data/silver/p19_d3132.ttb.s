@@ -1,0 +1,12 @@
+IMP	If
+PRO	you
+EPS	won
+DIS	a
+QUC	million
+UOM	yen
+NIL	,
+QUE	what
+FUT	would
+PRO	you
+EXS	do
+QUE	?

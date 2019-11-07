@@ -1,0 +1,14 @@
+PRO	I
+NOW	have
+DIS	a
+CON	dog
+NIL	.
+PRO	He
+NOW	is
+COL	black
+COO	and
+HAS	his
+CON	name
+NOW	is
+CON	Tiki
+NIL	.

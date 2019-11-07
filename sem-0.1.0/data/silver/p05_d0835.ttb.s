@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+IST	quite
+EXS	understand
+QUE	what
+PRO	he
+ENS	says
+NIL	.

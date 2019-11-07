@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+PRO	him
+REL	in
+DEF	the
+CON	street
+AND	just
+PRX	this
+CON	minute
+NIL	.

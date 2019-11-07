@@ -1,0 +1,10 @@
+PER	Tom
+ENS	plays
+CON	tennis
+REL	after
+CON	school
+QUC	three
+CON	days
+DIS	a
+CON	week
+NIL	.

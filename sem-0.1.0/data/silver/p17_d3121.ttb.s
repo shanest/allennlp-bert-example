@@ -1,0 +1,9 @@
+PER	Tom
+POS	could
+EXS	tell
+SUB	that
+PER	Mary
+PST	had
+PFT	been
+EXS	crying
+NIL	.

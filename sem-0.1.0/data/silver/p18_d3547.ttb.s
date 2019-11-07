@@ -1,0 +1,13 @@
+PRO	I
+EPS	gave
+PRO	him
+DIS	a
+CON	warning
+NIL	,
+REL	to
+UNK	which
+PRO	he
+EPS	paid
+NOT	no
+CON	attention
+NIL	.

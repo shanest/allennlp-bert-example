@@ -1,0 +1,11 @@
+QUE	How
+NOW	do
+PRO	you
+EXS	know
+SUB	that
+PER	Tom
+NOW	does
+NOT	n't
+EXS	like
+PER	Mary
+QUE	?

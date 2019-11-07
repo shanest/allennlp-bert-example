@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PER	Tom
+NIL	,
+PRO	I
+NOW	've
+EXS	got
+SUB	to
+EXS	go
+NIL	.

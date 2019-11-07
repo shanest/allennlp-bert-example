@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+IST	willing
+SUB	to
+EXS	help
+PRO	me
+REL	with
+DST	that
+CON	work
+QUE	?

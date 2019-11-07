@@ -1,0 +1,14 @@
+PRO	I
+ENS	think
+PRO	it
+PST	was
+QUC	one
+AND	of
+DST	those
+CON	men
+SUB	that
+EPS	stole
+PER	Tom
+HAS	's
+CON	camera
+NIL	.

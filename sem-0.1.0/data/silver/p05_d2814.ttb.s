@@ -1,0 +1,9 @@
+HAS	Our
+CON	team
+NOW	has
+EXS	topped
+DEF	the
+CON	league
+PRX	this
+CON	season
+NIL	.

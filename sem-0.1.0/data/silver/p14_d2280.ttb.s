@@ -1,0 +1,9 @@
+UNK	There
+NOW	is
+NOT	n't
+QUV	much
+CON	nutrition
+REL	in
+CON	potato
+CON	chips
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+AND	who
+PST	was
+REL	in
+PER	Tom
+HAS	's
+CON	office
+REL	at
+CLO	2:30
+NIL	.

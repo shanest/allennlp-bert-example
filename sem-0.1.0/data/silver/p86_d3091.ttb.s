@@ -1,0 +1,15 @@
+PRO	I
+PST	thought
+INT	about
+EXG	writing
+PRO	you
+DIS	a
+CON	message
+NIL	,
+BUT	but
+NOT	never
+EXS	got
+AND	around
+REL	to
+PRO	it
+NIL	.

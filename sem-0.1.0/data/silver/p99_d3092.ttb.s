@@ -1,0 +1,16 @@
+NIL	"
+GRE	Hi
+NIL	,
+NOW	is
+PRX	this
+PRO	you
+QUE	?
+NIL	"
+NIL	"
+AND	Yes
+NIL	,
+PRX	this
+NOW	is
+PRO	me
+NIL	.
+NIL	"

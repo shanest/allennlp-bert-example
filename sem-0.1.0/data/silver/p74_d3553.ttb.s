@@ -1,0 +1,10 @@
+PRO	You
+EPS	heard
+QUE	what
+PER	Tom
+EPS	said
+NIL	,
+PST	did
+NOT	n't
+PRO	you
+QUE	?

@@ -1,0 +1,13 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	you
+NOW	're
+DEF	the
+CON	editor
+AND	of
+DIS	a
+IST	popular
+IST	scientific
+CON	magazine
+NIL	.

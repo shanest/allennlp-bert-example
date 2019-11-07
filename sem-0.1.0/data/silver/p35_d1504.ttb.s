@@ -1,0 +1,16 @@
+TIM	Yesterday
+NIL	,
+PRO	I
+PST	was
+REL	on
+HAS	my
+CON	way
+CON	home
+SUB	when
+PRO	I
+IST	unexpectedly
+EPS	met
+HAS	my
+PST	ex
+ROL	girlfriend
+NIL	.

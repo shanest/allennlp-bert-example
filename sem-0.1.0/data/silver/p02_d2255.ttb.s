@@ -1,0 +1,14 @@
+DIS	Sometimes
+PRO	I
+ENS	wish
+PRO	I
+PST	had
+DIS	a
+IST	twin
+CON	brother
+NIL	.
+DST	That
+FUT	'd
+EXS	be
+CON	fun
+NIL	.

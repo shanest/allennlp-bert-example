@@ -1,0 +1,12 @@
+PER	Melanie
+NOW	has
+DIS	an
+CON	idea
+AND	of
+QUE	how
+SUB	to
+EXS	create
+DIS	an
+IST	artificial
+CON	language
+NIL	.

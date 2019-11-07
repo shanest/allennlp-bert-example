@@ -1,0 +1,11 @@
+PRO	She
+EPS	took
+DIS	a
+CON	job
+REL	in
+DIS	a
+CON	store
+REL	for
+DEF	the
+CON	summer
+NIL	.

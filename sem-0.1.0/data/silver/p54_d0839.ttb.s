@@ -1,0 +1,11 @@
+PRO	He
+EPS	put
+CON	salt
+REL	into
+HAS	his
+CON	cup
+AND	of
+CON	coffee
+REL	by
+CON	mistake
+NIL	.

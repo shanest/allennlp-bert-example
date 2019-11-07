@@ -1,0 +1,9 @@
+EXS	Call
+PRO	me
+REL	up
+REL	at
+CLO	seven
+REL	in
+DEF	the
+CON	morning
+NIL	.

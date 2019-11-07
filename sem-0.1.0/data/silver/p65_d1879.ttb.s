@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+EXS	sorry
+SUB	to
+EXS	interrupt
+PRO	you
+NIL	,
+COO	but
+UNK	there
+HAS	's
+DIS	something
+PRO	you
+NEC	should
+EXS	see
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+PST	assured
+PRO	me
+SUB	that
+PRX	this
+CON	kind
+AND	of
+CON	problem
+FUT	would
+NOT	n't
+EXS	happen
+ALT	again
+NIL	.

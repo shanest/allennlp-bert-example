@@ -1,0 +1,12 @@
+DEF	The
+CON	twin
+ROL	sisters
+NOW	are
+EXS	alike
+AND	as
+QUC	two
+CON	peas
+REL	in
+DIS	a
+CON	pod
+NIL	.

@@ -1,0 +1,9 @@
+PRO	You
+POS	could
+EXS	learn
+DIS	a
+IST	few
+CON	things
+REL	from
+PER	Tom
+NIL	.

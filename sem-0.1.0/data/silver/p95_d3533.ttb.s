@@ -1,0 +1,10 @@
+DIS	Some
+CON	day
+PRO	we
+FUT	'll
+EXS	take
+DIS	a
+CON	trip
+REL	to
+GPE	India
+NIL	.

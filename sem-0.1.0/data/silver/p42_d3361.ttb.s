@@ -1,0 +1,11 @@
+EXS	Let
+PRO	me
+EXS	tell
+PRO	you
+AND	about
+DIS	a
+CON	girl
+PRO	I
+EPS	met
+PST	yesterday
+NIL	.

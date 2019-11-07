@@ -1,0 +1,11 @@
+PER	Tom
+NOW	's
+PFT	been
+EXS	living
+REL	in
+GPE	Boston
+SUB	since
+PRO	he
+PST	was
+CLO	six
+NIL	.

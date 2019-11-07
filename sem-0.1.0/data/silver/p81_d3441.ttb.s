@@ -1,0 +1,10 @@
+REL	By
+DEF	the
+CON	way
+NIL	,
+NOW	have
+PRO	you
+EPS	heard
+AND	about
+PER	Suzuki
+QUE	?

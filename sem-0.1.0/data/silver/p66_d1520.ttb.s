@@ -1,0 +1,16 @@
+EXS	Frustrated
+AND	of
+NOT	not
+EXS	being
+DEF	the
+IST	exclusive
+CON	object
+AND	of
+HAS	her
+CON	desires
+CON	anymore
+NIL	,
+PER	Tom
+EPS	relegated
+PER	Mary
+NIL	.

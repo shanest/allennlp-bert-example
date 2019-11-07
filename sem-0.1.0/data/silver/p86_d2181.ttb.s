@@ -1,0 +1,10 @@
+CON	Really
+QUE	?
+PRO	It
+EPS	took
+PRO	me
+DIS	an
+CON	hour
+REL	by
+CON	train
+NIL	.

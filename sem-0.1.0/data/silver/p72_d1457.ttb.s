@@ -1,0 +1,12 @@
+POS	Can
+PRO	we
+EXS	drive
+REL	to
+GPE	Miami
+REL	on
+QUC	half
+DIS	a
+CON	tank
+AND	of
+CON	gas
+QUE	?

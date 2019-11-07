@@ -1,0 +1,10 @@
+PRO	You
+AND	always
+NOW	have
+DEF	the
+CON	honor
+AND	of
+EXG	being
+DEF	the
+IST	first
+NIL	.

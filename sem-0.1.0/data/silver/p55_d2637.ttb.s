@@ -1,0 +1,17 @@
+AND	How
+QUV	many
+UOM	liters
+AND	of
+CON	water
+PST	did
+PRO	you
+EXS	use
+SUB	to
+EXS	dilute
+DEF	the
+CON	acid
+REL	in
+DEF	the
+CON	test
+CON	tube
+QUE	?

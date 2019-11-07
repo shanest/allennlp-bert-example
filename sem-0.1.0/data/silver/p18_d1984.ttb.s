@@ -1,0 +1,13 @@
+NOW	Have
+PRO	you
+CON	guys
+EXS	seen
+HAS	my
+CON	glasses
+QUE	?
+PRO	I
+POS	ca
+NOT	n't
+EXS	find
+PRO	them
+NIL	.

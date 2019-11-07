@@ -1,0 +1,16 @@
+PER	Malcom
+EPS	killed
+PER	Tom
+SUB	because
+PRO	he
+PST	was
+EXS	tired
+AND	of
+EXS	seeing
+HAS	his
+CON	name
+REL	in
+CON	lots
+AND	of
+CON	prayers
+NIL	.

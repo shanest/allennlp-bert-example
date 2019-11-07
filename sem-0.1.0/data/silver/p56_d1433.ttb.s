@@ -1,0 +1,9 @@
+REL	Since
+DOW	Sunday
+NIL	,
+DEF	the
+CON	shop
+NOW	has
+PFT	been
+EXS	closed
+NIL	.

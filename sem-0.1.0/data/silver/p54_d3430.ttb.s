@@ -1,0 +1,10 @@
+QUE	What
+NOW	are
+PRO	you
+EXS	going
+SUB	to
+EXS	talk
+REL	to
+PER	Tom
+AND	about
+QUE	?

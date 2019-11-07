@@ -1,0 +1,10 @@
+ROL	Mr.
+AND	and
+ROL	Mrs.
+PER	Ikeda
+EPS	talked
+REL	to
+PER	Ken
+HAS	's
+ROL	teacher
+NIL	.

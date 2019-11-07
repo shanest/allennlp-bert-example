@@ -1,0 +1,10 @@
+DST	That
+CON	boy
+EXG	speaking
+CON	English
+NOW	is
+COM	taller
+MOR	than
+PRO	I
+NOW	am
+NIL	.

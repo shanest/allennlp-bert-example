@@ -1,0 +1,9 @@
+DEF	The
+CON	blood
+REL	on
+DEF	the
+CON	road
+NEC	must
+EXS	be
+HAS	mine
+NIL	.

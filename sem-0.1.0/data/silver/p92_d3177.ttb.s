@@ -1,0 +1,10 @@
+PRO	You
+IST	already
+ENS	know
+PRO	it
+COO	:
+PRO	I
+EPS	married
+DIS	a
+CON	widow
+NIL	.

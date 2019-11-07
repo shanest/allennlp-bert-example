@@ -1,0 +1,17 @@
+HAS	My
+IST	total
+CON	income
+NOW	is
+IST	far
+IST	short
+AND	of
+AND	300,000
+UOM	yen
+DIS	a
+CON	month
+NIL	,
+IST	inclusive
+AND	of
+IST	extra
+CON	earnings
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+NOW	assure
+PRO	you
+PRO	we
+NOW	're
+EXS	doing
+AND	everything
+PRO	we
+POS	can
+SUB	to
+EXS	find
+PER	Tom
+NIL	.

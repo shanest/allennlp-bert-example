@@ -1,0 +1,11 @@
+PER	Tom
+AND	always
+ENS	makes
+CON	fun
+AND	of
+PER	John
+AND	because
+AND	of
+HAS	his
+CON	dialect
+NIL	.

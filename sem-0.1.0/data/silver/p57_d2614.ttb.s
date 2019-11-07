@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+EXS	got
+DIS	a
+IST	little
+CON	job
+REL	for
+PRO	you
+NIL	.

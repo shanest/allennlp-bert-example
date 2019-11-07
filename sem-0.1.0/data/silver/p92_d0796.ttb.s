@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+DEF	the
+CON	person
+REL	to
+UNK	whom
+PRO	I
+EPS	gave
+HAS	my
+CON	dictionary
+NIL	.

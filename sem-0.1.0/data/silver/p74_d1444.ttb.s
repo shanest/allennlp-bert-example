@@ -1,0 +1,9 @@
+EXS	Let
+PRO	me
+EXS	know
+SUB	when
+PRO	you
+FUT	'll
+EXS	be
+EXS	ready
+NIL	.

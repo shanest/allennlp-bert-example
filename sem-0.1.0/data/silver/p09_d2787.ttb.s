@@ -1,0 +1,9 @@
+PRO	I
+NOW	think
+PRO	you
+ENS	need
+DIS	someone
+SUB	to
+EXS	talk
+SUB	to
+NIL	.

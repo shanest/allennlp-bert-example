@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	getting
+EXS	tired
+AND	of
+EXS	looking
+REL	at
+DEF	the
+CON	furniture
+PRO	we
+POS	ca
+NOT	n't
+EXS	afford

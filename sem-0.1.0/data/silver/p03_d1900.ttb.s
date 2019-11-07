@@ -1,0 +1,14 @@
+DEF	The
+ROL	mother
+EPS	told
+DEF	the
+CON	girl
+SUB	that
+PRO	she
+NEC	should
+NOT	n't
+EXS	fall
+REL	by
+DEF	the
+CON	wayside
+NIL	.

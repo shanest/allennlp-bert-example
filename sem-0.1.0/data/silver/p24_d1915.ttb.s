@@ -1,0 +1,9 @@
+PRO	He
+EPS	showed
+PRO	me
+DEF	the
+CON	way
+REL	to
+DEF	the
+CON	station
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+EPS	glared
+REL	at
+PER	Mary
+REL	with
+CON	hatred
+AND	and
+CON	disgust
+NIL	.

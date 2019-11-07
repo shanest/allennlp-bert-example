@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+AND	who
+SUB	to
+EXS	call
+SUB	when
+PRO	I
+ENS	need
+EXS	help
+NIL	.

@@ -1,0 +1,9 @@
+HAS	My
+CON	legs
+NOW	are
+EXG	getting
+COM	better
+CON	day
+REL	by
+CON	day
+NIL	.

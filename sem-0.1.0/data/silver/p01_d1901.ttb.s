@@ -1,0 +1,9 @@
+AND	Surely
+NOT	no
+CON	one
+FUT	will
+EXS	look
+REL	for
+PRX	this
+CON	sentence
+NIL	.

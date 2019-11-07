@@ -1,0 +1,10 @@
+PRO	She
+HAS	's
+PFT	been
+EXS	learning
+GPO	German
+REL	for
+DIS	a
+CON	year
+NOW	now
+NIL	.

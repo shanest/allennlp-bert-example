@@ -1,0 +1,9 @@
+PRO	You
+NEC	ought
+NOT	not
+SUB	to
+EXS	have
+IST	disclosed
+DEF	the
+CON	secret
+NIL	.

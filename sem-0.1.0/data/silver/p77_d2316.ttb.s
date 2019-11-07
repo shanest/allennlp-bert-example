@@ -1,0 +1,12 @@
+IMP	If
+PRO	I
+ENS	come
+IST	down
+NIL	,
+PRO	I
+NOW	'm
+EXG	giving
+PRO	you
+DIS	a
+CON	headbutt
+NIL	!

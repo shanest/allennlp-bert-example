@@ -1,0 +1,14 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	trying
+SUB	to
+EXS	find
+IST	out
+AND	who
+PST	was
+IST	responsible
+REL	for
+DEF	the
+CON	accident
+NIL	.

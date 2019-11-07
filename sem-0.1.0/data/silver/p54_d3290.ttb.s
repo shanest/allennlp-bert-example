@@ -1,0 +1,12 @@
+ROL	Ms.
+PER	White
+EPS	spoke
+IST	slowly
+IST	enough
+REL	for
+PRO	me
+SUB	to
+EXS	catch
+HAS	her
+CON	meaning
+NIL	.

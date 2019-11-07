@@ -1,0 +1,10 @@
+DST	That
+ROL	poet
+EPS	lived
+AND	here
+DIS	a
+CON	little
+MOR	over
+QUC	20
+CON	years
+NIL	.

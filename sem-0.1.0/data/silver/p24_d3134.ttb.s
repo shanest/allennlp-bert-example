@@ -1,0 +1,11 @@
+PER	Tom
+ENS	knows
+SUB	that
+PER	Mary
+NOW	does
+NOT	n't
+EXS	know
+QUE	how
+SUB	to
+EXS	drive
+NIL	.

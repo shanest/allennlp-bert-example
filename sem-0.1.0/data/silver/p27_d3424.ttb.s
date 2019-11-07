@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+SUB	when
+PRO	he
+FUT	'll
+EXS	come
+ALT	again
+NIL	.

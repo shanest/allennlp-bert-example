@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	.
+PRO	I
+EPS	got
+PRO	you
+QUC	two
+IST	mixed
+IST	up
+NIL	.

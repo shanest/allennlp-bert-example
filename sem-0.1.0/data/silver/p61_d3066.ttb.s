@@ -1,0 +1,9 @@
+PST	Yesterday
+PRO	we
+EPS	met
+REL	with
+DEF	the
+UNK	Minister
+AND	of
+ORG	Education
+NIL	.

@@ -1,0 +1,12 @@
+AND	Why
+FUT	would
+NOT	n't
+PRO	you
+EXS	let
+PRO	me
+ENS	go
+REL	to
+PER	Tom
+HAS	's
+CON	party
+QUE	?

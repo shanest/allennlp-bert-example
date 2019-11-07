@@ -1,0 +1,10 @@
+PRO	Harajuku
+NOW	is
+QUC	one
+AND	of
+DEF	the
+TOP	hottest
+CON	places
+REL	in
+GPE	Tokyo
+NIL	.

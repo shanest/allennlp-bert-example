@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXG	putting
+PRX	this
+CON	sentence
+REL	on
+PRX	Tatoeba
+AND	and
+NOT	nobody
+POS	can
+EXS	stop
+PRO	me
+NIL	!

@@ -1,0 +1,17 @@
+PER	Mary
+PST	asked
+PER	Tom
+SUB	to
+EXS	open
+DEF	the
+CON	wine
+CON	bottle
+COO	and
+IST	then
+EPS	kissed
+PRO	him
+SUB	while
+PRO	he
+PST	was
+EXS	busy
+NIL	.

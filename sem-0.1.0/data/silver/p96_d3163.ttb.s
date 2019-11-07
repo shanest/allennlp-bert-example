@@ -1,0 +1,10 @@
+PER	Tom
+EPS	wished
+SUB	that
+PRO	he
+EPS	knew
+PER	Mary
+HAS	's
+CON	telephone
+CON	number
+NIL	.

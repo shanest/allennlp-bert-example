@@ -1,0 +1,14 @@
+PRO	I
+ENS	believe
+PRO	he
+PST	was
+IST	half
+EXS	cut
+SUB	because
+PRO	he
+PST	kept
+EXS	acting
+AND	like
+DIS	a
+CON	fool
+NIL	.

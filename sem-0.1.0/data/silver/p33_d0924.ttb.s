@@ -1,0 +1,12 @@
+PST	Were
+PRO	you
+EXS	going
+REL	to
+DEF	the
+CON	train
+CON	station
+SUB	when
+PRO	I
+EPS	saw
+PRO	you
+QUE	?

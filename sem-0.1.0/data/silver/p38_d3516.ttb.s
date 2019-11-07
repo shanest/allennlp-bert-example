@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+EXS	rumored
+SUB	that
+PRO	they
+NOW	are
+EXS	going
+SUB	to
+EXS	get
+EXS	married
+NIL	.

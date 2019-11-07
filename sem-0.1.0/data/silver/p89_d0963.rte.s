@@ -1,0 +1,12 @@
+ROL	Mr
+PER	Calderon
+NOW	is
+IST	able
+SUB	to
+EXS	create
+DIS	a
+IST	mass
+IST	civil
+CON	disobedience
+CON	movement
+NIL	.

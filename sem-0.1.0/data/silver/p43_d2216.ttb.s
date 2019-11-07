@@ -1,0 +1,11 @@
+REL	In
+GPE	France
+EQU	,
+DEF	the
+IST	first
+CON	name
+ENS	goes
+REL	before
+DEF	the
+CON	surname
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	hear
+QUE	what
+PER	Tom
+PST	was
+EXS	saying
+NIL	.

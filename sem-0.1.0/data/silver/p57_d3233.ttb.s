@@ -1,0 +1,12 @@
+PER	Tom
+EPS	got
+REL	into
+DEF	the
+CON	car
+REL	with
+PER	Mary
+COO	and
+PRO	they
+EPS	drove
+IST	away
+NIL	.

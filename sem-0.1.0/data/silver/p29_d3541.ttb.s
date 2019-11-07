@@ -1,0 +1,10 @@
+QUV	Many
+CON	improvements
+NOW	have
+PFT	been
+EXS	made
+REL	since
+PRX	this
+CON	century
+EPS	began
+NIL	.

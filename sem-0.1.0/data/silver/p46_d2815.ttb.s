@@ -1,0 +1,11 @@
+NOT	No
+ALT	other
+CON	city
+REL	in
+GPE	Japan
+NOW	is
+AND	as
+IST	large
+AND	as
+GEO	Tokyo
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+EPS	amused
+DEF	the
+CON	children
+REL	by
+EXG	showing
+PRO	them
+DIS	some
+CON	magic
+NIL	.

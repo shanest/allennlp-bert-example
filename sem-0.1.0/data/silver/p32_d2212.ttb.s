@@ -1,0 +1,9 @@
+NOT	Nothing
+EXS	like
+PRX	this
+NOW	has
+EXS	happened
+REL	before
+REL	in
+GPE	Germany
+NIL	.

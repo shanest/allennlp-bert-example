@@ -1,0 +1,10 @@
+AND	Why
+NOW	do
+NOT	n't
+PRO	you
+NOW	have
+CON	dinner
+REL	with
+PRO	me
+CON	tonight
+QUE	?

@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+INT	most
+IST	massive
+CON	structure
+PRO	I
+NOW	have
+IST	ever
+EXS	seen
+NIL	.

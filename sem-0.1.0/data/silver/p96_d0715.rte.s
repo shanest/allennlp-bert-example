@@ -1,0 +1,9 @@
+PER	Gabriel
+PER	Garcia
+PER	Marquez
+EPS	won
+DEF	the
+ORG	Nobel
+REL	for
+ORG	Literature
+NIL	.

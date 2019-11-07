@@ -1,0 +1,10 @@
+PRO	She
+EPS	replied
+SUB	that
+PRO	she
+FUT	would
+EXS	be
+IST	happy
+SUB	to
+EXS	come
+NIL	.

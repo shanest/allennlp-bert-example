@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	sorry
+PRO	I
+NOW	'm
+AND	such
+DIS	a
+CON	dumbass
+NIL	.

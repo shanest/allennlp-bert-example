@@ -1,0 +1,11 @@
+PRO	We
+EPS	went
+REL	from
+GPE	France
+REL	to
+GEO	Spain
+REL	by
+EXS	crossing
+DEF	the
+CON	Pyrenees
+NIL	.

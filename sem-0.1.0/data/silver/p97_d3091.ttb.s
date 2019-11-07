@@ -1,0 +1,9 @@
+PER	Tom
+FUT	will
+EXS	be
+EXS	asking
+PER	Mary
+REL	to
+DEF	the
+CON	prom
+NIL	.

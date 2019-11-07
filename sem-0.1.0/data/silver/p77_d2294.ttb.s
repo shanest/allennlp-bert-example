@@ -1,0 +1,13 @@
+PER	Tom
+ENS	knows
+IST	just
+AND	about
+AND	all
+UNK	there
+NOW	is
+SUB	to
+EXS	know
+AND	about
+EXG	growing
+CON	vegetables
+NIL	.

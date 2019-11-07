@@ -1,0 +1,14 @@
+PER	Tom
+EPS	said
+PRO	he
+EPS	saw
+DIS	a
+CON	shark
+DEF	the
+ALT	other
+CON	day
+SUB	when
+PRO	he
+PST	was
+EXS	swimming
+NIL	.

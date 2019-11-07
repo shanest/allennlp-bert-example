@@ -1,0 +1,13 @@
+PRO	I
+EPS	met
+PER	Roy
+NIL	,
+AND	who
+EPS	asked
+PRO	me
+SUB	to
+EXS	give
+PRO	you
+PRX	this
+CON	one
+NIL	.

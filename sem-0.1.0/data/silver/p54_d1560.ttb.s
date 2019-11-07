@@ -1,0 +1,10 @@
+AND	And
+DST	that
+HAS	's
+QUE	how
+HAS	my
+CON	dad
+EPS	met
+HAS	my
+CON	mom
+NIL	.

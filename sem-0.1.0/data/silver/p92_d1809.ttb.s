@@ -1,0 +1,16 @@
+ORG	Google
+NOW	has
+PFT	been
+EXS	accused
+AND	of
+EXS	blocking
+CON	competitors
+NIL	,
+AND	like
+ORG	Microsoft
+NIL	,
+REL	from
+HAS	its
+CON	search
+CON	results
+NIL	.

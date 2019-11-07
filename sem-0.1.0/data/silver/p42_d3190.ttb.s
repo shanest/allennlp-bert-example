@@ -1,0 +1,11 @@
+DST	That
+CON	house
+REL	with
+DIS	a
+IST	red
+CON	roof
+NOW	is
+HAS	my
+ROL	uncle
+HAS	's
+NIL	.

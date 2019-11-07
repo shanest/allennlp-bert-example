@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	afraid
+DEF	the
+CON	story
+FUT	will
+EXS	give
+PRO	him
+DIS	a
+IST	wrong
+CON	impression
+NIL	.

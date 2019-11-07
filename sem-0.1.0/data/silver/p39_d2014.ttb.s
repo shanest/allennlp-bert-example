@@ -1,0 +1,14 @@
+PRO	I
+NOW	've
+EXS	kept
+PRO	you
+EXS	waiting
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.
+IST	Please
+EXS	forgive
+PRO	me
+NIL	.

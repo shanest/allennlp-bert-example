@@ -1,0 +1,12 @@
+PER	Tom
+ENS	speaks
+GPO	French
+AND	as
+IST	well
+AND	as
+AND	anybody
+AND	else
+REL	in
+PRX	this
+CON	room
+NIL	.

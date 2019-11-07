@@ -1,0 +1,11 @@
+PRO	He
+PST	was
+INT	so
+EXS	frightened
+SUB	that
+PRO	he
+EPS	ran
+REL	for
+HAS	his
+CON	life
+NIL	.

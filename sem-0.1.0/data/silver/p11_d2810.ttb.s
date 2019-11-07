@@ -1,0 +1,9 @@
+PRO	I
+IST	certainly
+EPS	had
+NOT	no
+CON	idea
+PER	Tom
+PST	was
+EXS	angry
+NIL	.

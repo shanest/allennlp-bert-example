@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	decided
+NOT	not
+SUB	to
+EXS	keep
+DIS	a
+CON	dog
+ALT	again
+NIL	.

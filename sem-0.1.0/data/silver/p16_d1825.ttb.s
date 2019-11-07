@@ -1,0 +1,10 @@
+PRO	She
+EPS	drank
+QUC	two
+CON	glasses
+AND	of
+CON	wine
+REL	at
+DEF	the
+CON	party
+NIL	.

@@ -1,0 +1,10 @@
+DIS	Someone
+ENS	needs
+SUB	to
+EXS	talk
+REL	to
+PER	Tom
+AND	about
+QUE	what
+EPS	happened
+NIL	.

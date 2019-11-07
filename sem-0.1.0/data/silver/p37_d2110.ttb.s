@@ -1,0 +1,14 @@
+PRO	You
+NOW	're
+QUC	one
+AND	of
+PER	Tom
+HAS	's
+CON	friends
+REL	from
+CON	school
+NIL	,
+NOW	are
+NOT	n't
+PRO	you
+QUE	?

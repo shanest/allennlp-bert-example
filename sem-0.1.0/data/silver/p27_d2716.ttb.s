@@ -1,0 +1,10 @@
+IMP	If
+PER	Tom
+ENS	goes
+NIL	,
+PRO	I
+FUT	'll
+EXS	go
+NIL	,
+ALT	too
+NIL	.

@@ -1,0 +1,12 @@
+CON	Mining
+NOW	is
+QUC	one
+AND	of
+DEF	the
+IST	main
+CON	sources
+AND	of
+CON	wealth
+REL	in
+GPE	Chile
+NIL	.

@@ -1,0 +1,10 @@
+DST	That
+NOW	is
+DEF	the
+CON	restaurant
+SUB	where
+PRO	we
+EPS	had
+CON	dinner
+PST	yesterday
+NIL	.

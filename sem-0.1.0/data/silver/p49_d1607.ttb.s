@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	asking
+PRO	you
+SUB	to
+EXS	trust
+HAS	my
+CON	judgment
+NIL	.

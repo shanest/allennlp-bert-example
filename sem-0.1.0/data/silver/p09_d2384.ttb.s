@@ -1,0 +1,15 @@
+AND	Would
+PRO	you
+CON	mind
+IMP	if
+PRO	I
+EPS	shut
+DEF	the
+CON	window
+QUE	?
+PRO	I
+NOW	have
+DIS	a
+IST	slight
+CON	cold
+NIL	.

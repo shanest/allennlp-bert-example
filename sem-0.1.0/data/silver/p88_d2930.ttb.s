@@ -1,0 +1,14 @@
+PRO	It
+NOW	looks
+AND	like
+PER	Tom
+NOW	has
+DIS	an
+CON	alibi
+REL	for
+DEF	the
+CON	night
+PER	Mary
+PST	was
+EXS	murdered
+NIL	.

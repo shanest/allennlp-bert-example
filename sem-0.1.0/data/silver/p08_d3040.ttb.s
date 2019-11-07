@@ -1,0 +1,11 @@
+DEF	The
+CON	nurse
+EPS	handed
+PER	Tom
+DIS	some
+CON	pills
+COO	and
+PRO	he
+EPS	took
+PRO	them
+NIL	.

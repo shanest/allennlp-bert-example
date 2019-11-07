@@ -1,0 +1,12 @@
+PRO	I
+ENS	know
+PRO	it
+NIL	,
+BUT	but
+PRO	I
+POS	ca
+NOT	n't
+EXS	hit
+REL	on
+PRO	it
+NIL	.

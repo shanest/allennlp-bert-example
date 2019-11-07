@@ -1,0 +1,13 @@
+DEF	The
+CON	ears
+REL	of
+DIS	a
+CON	rabbit
+NOW	are
+COM	longer
+REL	than
+DST	those
+REL	of
+DIS	a
+CON	fox
+NIL	.

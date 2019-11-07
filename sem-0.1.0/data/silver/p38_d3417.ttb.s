@@ -1,0 +1,13 @@
+PRO	I
+ENS	owe
+PRO	it
+IST	entirely
+REL	to
+PRO	you
+SUB	that
+PRO	I
+NOW	have
+EXS	succeeded
+IST	thus
+IST	far
+NIL	.

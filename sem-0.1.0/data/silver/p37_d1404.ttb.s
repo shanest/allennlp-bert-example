@@ -1,0 +1,16 @@
+PRO	I
+NOW	imagine
+SUB	that
+PER	Tom
+FUT	will
+IST	eventually
+EXS	convince
+PER	Mary
+SUB	to
+EXS	let
+PRO	him
+EXS	buy
+DIS	a
+IST	new
+CON	motorcycle
+NIL	.

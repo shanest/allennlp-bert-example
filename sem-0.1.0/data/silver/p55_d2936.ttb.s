@@ -1,0 +1,12 @@
+PER	Tom
+EPS	solved
+DEF	the
+CON	puzzle
+REL	after
+PER	Mary
+EPS	gave
+PRO	him
+DIS	a
+IST	few
+CON	hints
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+PFT	been
+EXG	waiting
+REL	for
+PRX	this
+CON	moment
+AND	all
+HAS	my
+CON	life
+NIL	.

@@ -1,0 +1,10 @@
+PRO	She
+PST	was
+EXG	mimicking
+DEF	the
+IST	various
+CON	people
+REL	in
+HAS	our
+CON	office
+NIL	.

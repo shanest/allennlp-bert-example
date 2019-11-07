@@ -1,0 +1,11 @@
+DEF	The
+IST	blind
+CON	nurse
+EPS	devoted
+REF	herself
+REL	to
+EXG	caring
+REL	for
+DEF	the
+CON	elderly
+NIL	.

@@ -1,0 +1,12 @@
+EXS	Tell
+PER	Tom
+SUB	to
+EXS	get
+IST	back
+IST	here
+AND	as
+IST	soon
+SUB	as
+PRO	he
+POS	can
+NIL	.

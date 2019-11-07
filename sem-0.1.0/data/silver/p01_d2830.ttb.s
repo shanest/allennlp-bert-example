@@ -1,0 +1,10 @@
+PRO	We
+NOW	're
+INT	too
+IST	busy
+NIL	to
+EXS	attend
+REL	to
+AND	such
+CON	detail
+NIL	.

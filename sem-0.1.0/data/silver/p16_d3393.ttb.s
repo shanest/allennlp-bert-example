@@ -1,0 +1,11 @@
+PRO	You
+POS	ca
+NOT	n't
+IST	seriously
+EXS	expect
+PRO	me
+SUB	to
+EXS	go
+CON	home
+NOW	now
+NIL	.

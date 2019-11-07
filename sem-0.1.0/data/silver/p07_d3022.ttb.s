@@ -1,0 +1,13 @@
+PRO	You
+ENS	need
+NOT	not
+EXS	work
+AND	so
+IST	hard
+REL	in
+CON	order
+SUB	to
+EXS	pass
+DEF	the
+CON	examination
+NIL	.

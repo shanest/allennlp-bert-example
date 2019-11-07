@@ -1,0 +1,11 @@
+PRO	We
+EPS	carried
+IST	out
+DEF	the
+ROL	captain
+HAS	's
+CON	order
+REL	to
+DEF	the
+CON	letter
+NIL	.

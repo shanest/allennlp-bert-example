@@ -1,0 +1,13 @@
+DEF	The
+CON	planning
+CON	committee
+EPS	met
+QUC	six
+CON	times
+AND	over
+DEF	the
+CON	course
+AND	of
+QUC	ten
+CON	months
+NIL	.

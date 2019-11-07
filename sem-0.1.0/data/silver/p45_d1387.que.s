@@ -1,0 +1,11 @@
+REL	Under
+QUE	what
+ALT	other
+CON	name
+NOW	is
+DEF	the
+CON	EFA
+CON	project
+ALT	also
+EXS	known
+QUE	?

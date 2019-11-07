@@ -1,0 +1,10 @@
+QUC	Two
+CON	girls
+PST	were
+EXS	hanging
+REL	on
+REL	to
+PER	Tom
+HAS	's
+CON	arms
+NIL	.

@@ -1,0 +1,10 @@
+POS	May
+PRO	I
+NOW	ask
+PRO	you
+REL	for
+HAS	your
+CON	name
+AND	and
+CON	address
+QUE	?

@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	not
+EXT	vomited
+ALT	yet
+COO	and
+PRO	I
+NOW	feel
+NIL	nauseous
+NIL	.

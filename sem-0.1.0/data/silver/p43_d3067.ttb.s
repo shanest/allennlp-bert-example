@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	having
+DIS	a
+IST	hard
+CON	time
+EXS	answering
+HAS	your
+CON	question
+NIL	.

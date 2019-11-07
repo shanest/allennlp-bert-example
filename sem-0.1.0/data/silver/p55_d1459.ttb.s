@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	sorry
+PRO	I
+EPS	dragged
+PRO	you
+REL	into
+PRX	this
+NIL	.

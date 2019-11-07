@@ -1,0 +1,16 @@
+IMP	If
+PRO	I
+PST	had
+EXS	known
+SUB	that
+PRO	you
+PST	were
+PRX	here
+NIL	,
+PRO	I
+FUT	would
+EXT	have
+EXS	come
+REL	at
+QUC	once
+NIL	.

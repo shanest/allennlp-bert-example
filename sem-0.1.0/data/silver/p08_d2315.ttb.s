@@ -1,0 +1,13 @@
+PRO	You
+NOW	're
+NOT	not
+EXS	thinking
+AND	of
+EXG	taking
+PER	Tom
+REL	with
+PRO	you
+NIL	,
+NOW	are
+PRO	you
+QUE	?

@@ -1,0 +1,9 @@
+DEF	The
+ROL	farmers
+PST	did
+NOT	n't
+EXS	know
+QUE	what
+SUB	to
+EXS	do
+NIL	.

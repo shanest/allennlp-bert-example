@@ -1,0 +1,10 @@
+PER	Mary
+NOW	is
+MOR	prettier
+COO	and
+NOW	has
+MOR	better
+CON	grades
+AND	than
+PER	Kate
+NIL	.

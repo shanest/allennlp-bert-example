@@ -1,0 +1,10 @@
+DEF	The
+IST	new
+CON	students
+EPS	entered
+DEF	the
+CON	hall
+IST	full
+AND	of
+CON	hope
+NIL	.

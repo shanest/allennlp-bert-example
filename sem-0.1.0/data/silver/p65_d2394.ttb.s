@@ -1,0 +1,9 @@
+PRO	We
+EPS	took
+DIS	an
+CON	airplane
+REL	from
+GEO	Mexico
+REL	to
+GEO	Madrid
+NIL	.

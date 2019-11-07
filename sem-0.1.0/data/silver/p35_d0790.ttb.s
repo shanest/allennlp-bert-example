@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	like
+EXS	looking
+REL	for
+DIS	a
+CON	needle
+REL	in
+DIS	a
+CON	haystack
+NIL	.

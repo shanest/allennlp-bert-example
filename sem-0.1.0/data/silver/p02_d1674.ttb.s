@@ -1,0 +1,14 @@
+REL	With
+HAS	his
+CON	interest
+REL	in
+PER	Justin
+PER	Bieber
+NIL	,
+PRO	I
+IST	just
+POS	could
+NOT	n't
+EXS	love
+PRO	him
+NIL	.

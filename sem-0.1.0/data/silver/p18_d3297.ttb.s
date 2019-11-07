@@ -1,0 +1,15 @@
+NIL	"
+QUE	Where
+HAS	's
+PER	Tom
+QUE	?
+NIL	"
+NIL	"
+PRO	He
+NOW	's
+EXG	playing
+CON	tennis
+REL	with
+PER	Mary
+NIL	.
+NIL	"

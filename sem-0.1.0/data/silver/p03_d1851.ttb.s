@@ -1,0 +1,15 @@
+PRO	I
+EPS	found
+DEF	the
+CON	book
+AND	so
+IST	interesting
+SUB	that
+PRO	I
+EPS	kept
+REL	on
+EXG	reading
+PRO	it
+REL	until
+CON	daybreak
+NIL	.

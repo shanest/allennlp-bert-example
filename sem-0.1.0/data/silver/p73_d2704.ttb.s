@@ -1,0 +1,9 @@
+HAS	His
+IST	pale
+CON	face
+EPS	showed
+DIS	a
+REL	flush
+AND	of
+CON	excitement
+NIL	.

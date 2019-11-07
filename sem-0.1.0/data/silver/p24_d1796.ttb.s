@@ -1,0 +1,13 @@
+PRO	I
+ENS	understand
+SUB	that
+ROL	Mr.
+PER	Collins
+NOW	has
+EXT	made
+PRO	you
+DIS	an
+CON	offer
+AND	of
+CON	marriage
+NIL	.

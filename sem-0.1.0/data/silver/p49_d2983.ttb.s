@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXT	been
+DIS	a
+CON	ski
+ROL	instructor
+REL	for
+QUC	three
+UOM	years
+NIL	.

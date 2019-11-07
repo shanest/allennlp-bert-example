@@ -1,0 +1,11 @@
+AND	Next
+CON	week
+NIL	,
+PRO	I
+NOW	'm
+EXS	taking
+DEF	the
+CON	plane
+REL	to
+GPE	Chicago
+NIL	.

@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+HAS	's
+ROL	sister
+HAS	's
+CON	husband
+NOW	is
+HAS	my
+ROL	uncle
+NIL	.

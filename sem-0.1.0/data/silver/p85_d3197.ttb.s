@@ -1,0 +1,11 @@
+PRO	He
+NOW	hopes
+PRO	he
+FUT	'll
+EXS	win
+COO	and
+PRO	I
+NOW	hope
+INT	so
+ALT	too
+NIL	.

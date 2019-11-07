@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	lucky
+SUB	that
+DEF	the
+CON	weather
+NEC	should
+EXS	be
+SUB	so
+EXS	nice
+NIL	.

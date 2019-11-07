@@ -1,0 +1,11 @@
+NOT	Nobody
+ENS	knows
+AND	as
+QUC	many
+CON	stories
+AND	as
+DEF	the
+CON	god
+AND	of
+CON	sleep
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+PRO	me
+SUB	where
+PRO	I
+PST	had
+EXS	bought
+HAS	my
+CON	bicycle
+NIL	.

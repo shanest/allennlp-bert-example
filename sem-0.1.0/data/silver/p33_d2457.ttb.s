@@ -1,0 +1,13 @@
+PRO	He
+NOW	is
+EXG	fuming
+SUB	that
+PRO	they
+FUT	will
+EXS	be
+EXS	sorry
+REL	for
+PRO	it
+DIS	some
+CON	day
+NIL	.

@@ -1,0 +1,9 @@
+HAS	My
+ROL	father
+IST	always
+ENS	sleeps
+SUB	while
+EXS	watching
+DEF	the
+CON	TV
+NIL	.

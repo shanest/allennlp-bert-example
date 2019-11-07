@@ -1,0 +1,9 @@
+AND	Just
+SUB	where
+DEF	the
+CON	hell
+NOW	have
+PRO	you
+EXT	been
+PER	Mary
+QUE	?

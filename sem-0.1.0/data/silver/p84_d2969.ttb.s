@@ -1,0 +1,10 @@
+DEF	The
+CON	book
+CON	shop
+ALT	also
+NOW	looks
+AND	like
+PRO	it
+ENS	closes
+IST	late
+NIL	.

@@ -1,0 +1,11 @@
+FUT	Shall
+PRO	I
+EXS	buy
+PRX	this
+CON	dictionary
+AND	just
+SUB	because
+PRO	it
+NOW	's
+IST	cheap
+QUE	?

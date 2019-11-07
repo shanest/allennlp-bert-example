@@ -1,0 +1,10 @@
+GRE	Hi
+EQU	,
+PER	Fred
+NIL	,
+QUE	how
+IST	about
+CON	badminton
+REL	on
+DOW	Thursday
+QUE	?

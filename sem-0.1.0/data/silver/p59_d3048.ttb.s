@@ -1,0 +1,12 @@
+PRO	They
+NOW	're
+EXS	indecisive
+NIL	.
+PRO	They
+NOW	do
+NOT	n't
+EXS	know
+QUE	what
+PRO	they
+ENS	want
+NIL	.

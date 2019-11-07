@@ -1,0 +1,12 @@
+PRO	We
+NOW	do
+NOT	n't
+EXS	have
+IST	enough
+CON	information
+ALT	yet
+SUB	to
+EXS	make
+DIS	a
+CON	decision
+NIL	.

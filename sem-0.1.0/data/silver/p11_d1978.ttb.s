@@ -1,0 +1,11 @@
+PRO	I
+EPS	saw
+PER	Tom
+AND	and
+PER	Mary
+EXG	playing
+DIS	a
+CON	game
+AND	of
+CON	dominoes
+NIL	.

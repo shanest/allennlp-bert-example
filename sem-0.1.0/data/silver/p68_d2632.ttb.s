@@ -1,0 +1,10 @@
+PRO	I
+ENS	wish
+SUB	that
+PRO	I
+PST	had
+NOT	never
+EXS	sent
+PRX	this
+CON	e-mail
+NIL	.

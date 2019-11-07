@@ -1,0 +1,13 @@
+PRO	We
+NEC	should
+EXS	leave
+IST	out
+PRX	this
+CON	data
+NIL	.
+PRO	It
+NOW	's
+IST	far
+SUB	from
+EXS	accurate
+NIL	.

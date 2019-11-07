@@ -1,0 +1,10 @@
+PRO	I
+EPS	put
+DEF	the
+CON	bag
+REL	on
+DIS	or
+AND	beside
+DEF	the
+CON	chair
+NIL	.

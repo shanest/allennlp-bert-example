@@ -1,0 +1,12 @@
+DEF	The
+CON	division
+AND	of
+GPE	Germany
+PST	was
+EXS	considered
+DIS	an
+EXS	accomplished
+CON	fact
+REL	until
+YOC	1990
+NIL	.

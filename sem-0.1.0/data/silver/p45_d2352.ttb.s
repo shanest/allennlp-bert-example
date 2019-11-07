@@ -1,0 +1,11 @@
+PRO	You
+NEC	should
+EXS	be
+IST	able
+SUB	to
+EXS	walk
+REL	in
+DIS	a
+IST	few
+CON	days
+NIL	.

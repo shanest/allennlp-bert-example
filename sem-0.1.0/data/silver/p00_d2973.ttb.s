@@ -1,0 +1,14 @@
+EXG	Working
+REL	in
+DEF	the
+CON	garden
+NOW	is
+DIS	a
+CON	struggle
+CON	nature
+NOW	is
+IST	eventually
+EXS	going
+NIL	to
+EXS	win
+NIL	.

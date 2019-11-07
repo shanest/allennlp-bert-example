@@ -1,0 +1,11 @@
+PER	Tom
+EPS	picked
+PER	Mary
+IST	up
+COO	and
+EPS	put
+PRO	her
+REL	in
+HAS	her
+CON	highchair
+NIL	.

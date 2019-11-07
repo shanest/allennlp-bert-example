@@ -1,0 +1,10 @@
+PER	Tom
+EPS	wondered
+QUE	how
+QUV	many
+CON	pairs
+AND	of
+CON	shoes
+PER	Mary
+EPS	owned
+NIL	.

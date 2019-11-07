@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+INT	quite
+EXS	distinct
+REL	from
+DEF	the
+CON	smell
+AND	of
+CON	burning
+NIL	.

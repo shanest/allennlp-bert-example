@@ -1,0 +1,15 @@
+PER	Tom
+NOW	is
+EXS	speaking
+REL	in
+GPO	Dutch
+NIL	!
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+PRO	he
+EPS	knew
+PRX	this
+CON	language
+NIL	.

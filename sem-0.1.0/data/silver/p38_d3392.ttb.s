@@ -1,0 +1,15 @@
+AND	According
+REL	to
+DIS	some
+CON	scholars
+NIL	,
+DIS	a
+IST	major
+CON	earthquake
+POS	could
+EXS	occur
+REL	at
+AND	any
+CON	moment
+NOW	now
+NIL	.

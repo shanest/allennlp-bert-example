@@ -1,0 +1,9 @@
+HAS	My
+CON	friends
+EPS	started
+DEF	the
+CON	trip
+QUC	three
+CON	days
+PST	ago
+NIL	.

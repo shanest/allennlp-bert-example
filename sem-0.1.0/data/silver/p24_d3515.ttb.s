@@ -1,0 +1,9 @@
+POS	Maybe
+PER	Tom
+PST	was
+IST	just
+EXS	trying
+SUB	to
+EXS	help
+PRO	you
+NIL	.

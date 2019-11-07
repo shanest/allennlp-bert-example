@@ -1,0 +1,12 @@
+PRO	I
+NOW	suppose
+PER	Tom
+FUT	would
+EXT	have
+PFT	been
+INT	about
+QUC	sixty
+SUB	when
+PRO	he
+EPS	died
+NIL	.

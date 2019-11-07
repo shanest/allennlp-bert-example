@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+PRO	I
+NEC	had
+NIL	to
+EXS	lie
+REL	to
+PRO	you
+NIL	.

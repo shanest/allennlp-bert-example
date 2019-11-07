@@ -1,0 +1,13 @@
+PRO	I
+ENS	want
+HAS	my
+IST	own
+CON	house
+NIL	,
+AND	even
+IMP	if
+PRO	it
+HAS	's
+DIS	a
+CON	shack
+NIL	.

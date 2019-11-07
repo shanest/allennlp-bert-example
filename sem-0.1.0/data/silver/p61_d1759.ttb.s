@@ -1,0 +1,9 @@
+PRO	I
+ENS	wish
+PRO	I
+PST	had
+EXS	learned
+PRX	this
+REL	in
+CON	school
+NIL	.

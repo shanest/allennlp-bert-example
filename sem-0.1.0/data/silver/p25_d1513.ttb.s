@@ -1,0 +1,15 @@
+PRO	I
+EPS	talked
+DIS	a
+IST	long
+CON	time
+NIL	,
+COO	and
+PRO	I
+EPS	managed
+SUB	to
+EXS	make
+PRO	her
+EXS	believe
+PRO	me
+NIL	.

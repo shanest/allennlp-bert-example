@@ -1,0 +1,10 @@
+PER	Tom
+EPS	grabbed
+HAS	his
+CON	guitar
+COO	and
+EPS	headed
+REL	for
+DEF	the
+CON	door
+NIL	.

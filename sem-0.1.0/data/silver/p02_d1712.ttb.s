@@ -1,0 +1,11 @@
+NIL	Declarations
+AND	of
+CON	variables
+NOW	are
+INT	extremely
+EXS	important
+REL	in
+CON	C
+AND	and
+CON	C++
+NIL	.

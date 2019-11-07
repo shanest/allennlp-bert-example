@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	uncertain
+SUB	whether
+PRO	he
+FUT	will
+EXS	agree
+DIS	or
+NOT	not
+NIL	.

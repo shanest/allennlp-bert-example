@@ -1,0 +1,15 @@
+PRO	I
+EPS	told
+PRO	her
+PRO	she
+EPS	looked
+EXS	pale
+NIL	,
+COO	and
+EXS	asked
+IMP	if
+PRO	she
+PST	was
+AND	all
+CON	right
+NIL	.

@@ -1,0 +1,13 @@
+HAS	My
+CON	mom
+EPS	bought
+PRO	me
+PRX	this
+CON	toy
+SUB	when
+PRO	I
+PST	was
+QUC	eight
+CON	years
+COM	old
+NIL	.

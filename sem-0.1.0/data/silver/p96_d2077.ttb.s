@@ -1,0 +1,13 @@
+PRO	I
+NOW	've
+EXS	looked
+AND	through
+HAS	your
+CON	report
+COO	and
+EPS	made
+DIS	some
+CON	notes
+REL	on
+PRO	it
+NIL	.

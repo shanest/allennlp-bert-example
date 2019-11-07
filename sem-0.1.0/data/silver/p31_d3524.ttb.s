@@ -1,0 +1,11 @@
+DEF	The
+IST	last
+CON	dart
+PRO	he
+EPS	threw
+NIL	,
+EPS	bounced
+REL	off
+DEF	the
+CON	board
+NIL	.

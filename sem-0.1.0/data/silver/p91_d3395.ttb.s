@@ -1,0 +1,10 @@
+PRO	You
+ENS	need
+IST	great
+CON	endurance
+SUB	to
+EXS	run
+QUC	ten
+QUC	thousand
+UOM	meters
+NIL	.

@@ -1,0 +1,9 @@
+PER	Mary
+COO	and
+PRO	I
+EPS	remained
+IST	good
+CON	friends
+REL	for
+CON	years
+NIL	.

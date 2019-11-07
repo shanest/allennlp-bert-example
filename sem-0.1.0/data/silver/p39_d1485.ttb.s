@@ -1,0 +1,10 @@
+PRO	You
+PST	had
+IST	better
+NOT	not
+EXS	play
+REL	on
+HAS	his
+IST	generous
+CON	nature
+NIL	.

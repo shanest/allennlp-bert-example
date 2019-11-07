@@ -1,0 +1,10 @@
+PRO	I
+ENS	bet
+QUC	five
+UOM	dollars
+SUB	that
+PRO	he
+FUT	will
+NOT	not
+EXS	come
+NIL	.

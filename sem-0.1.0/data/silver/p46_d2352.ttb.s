@@ -1,0 +1,10 @@
+DEF	The
+IST	great
+CON	critic
+AND	and
+DEF	the
+ROL	poet
+NOW	are
+EXS	traveling
+IST	together
+NIL	.

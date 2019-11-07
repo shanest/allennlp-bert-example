@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	have
+PER	Mary
+HAS	's
+CON	address
+REL	with
+PRO	him
+NIL	.

@@ -1,0 +1,9 @@
+EXS	Did
+PER	Tom
+EXS	find
+QUE	what
+PRO	he
+PST	was
+EXG	looking
+REL	for
+QUE	?

@@ -1,0 +1,11 @@
+PRO	He
+ENS	smokes
+AND	like
+DIS	a
+CON	chimney
+AND	and
+CON	drinks
+AND	like
+DIS	a
+CON	fish
+NIL	.

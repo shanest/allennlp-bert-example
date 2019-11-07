@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	got
+DIS	a
+CON	message
+REL	for
+PRO	you
+REL	from
+PER	Tom
+NIL	.

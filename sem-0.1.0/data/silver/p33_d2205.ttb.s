@@ -1,0 +1,17 @@
+DEF	The
+IST	sudden
+CON	increase
+AND	of
+CON	ultraviolet
+CON	rays
+EPS	made
+DEF	the
+CON	researchers
+EXS	believe
+REL	in
+DEF	the
+CON	existence
+AND	of
+CON	ozone
+CON	holes
+NIL	.

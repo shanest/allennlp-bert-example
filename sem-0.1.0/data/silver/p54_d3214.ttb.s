@@ -1,0 +1,11 @@
+PRO	I
+NOW	have
+NOT	no
+CON	intention
+AND	of
+IST	ever
+EXS	coming
+IST	back
+AND	here
+ALT	again
+NIL	.

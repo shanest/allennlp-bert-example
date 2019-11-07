@@ -1,0 +1,14 @@
+PRO	I
+EPS	ran
+REL	across
+DIS	an
+PST	ex
+ROL	boyfriend
+AND	of
+HAS	mine
+REL	in
+CON	town
+DEF	the
+ALT	other
+CON	day
+NIL	.

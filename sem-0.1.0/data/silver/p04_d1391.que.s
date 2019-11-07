@@ -1,0 +1,12 @@
+QUE	Who
+EPS	played
+DEF	the
+CON	title
+CON	role
+REL	in
+DEF	the
+CON	movie
+NIL	"
+PER	Ben-Hur
+NIL	"
+QUE	?

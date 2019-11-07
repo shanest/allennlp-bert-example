@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	I
+NOW	'm
+EXS	falling
+REL	in
+CON	love
+REL	with
+PER	Tom
+NIL	.

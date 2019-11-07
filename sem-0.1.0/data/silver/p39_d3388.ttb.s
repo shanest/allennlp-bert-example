@@ -1,0 +1,9 @@
+PER	Tom
+EPS	passed
+DEF	the
+CON	test
+PRO	he
+EPS	took
+AND	last
+DOW	Monday
+NIL	.

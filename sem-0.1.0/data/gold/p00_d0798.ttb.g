@@ -1,0 +1,10 @@
+PRO	It
+EPS	took
+PRO	me
+QUC	two
+UOM	hours
+REL	to
+EXS	memorize
+PRX	this
+CON	sentence
+NIL	.

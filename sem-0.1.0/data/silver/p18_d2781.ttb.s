@@ -1,0 +1,12 @@
+PRO	We
+IST	usually
+EXS	eat
+HAS	our
+TOP	biggest
+CON	meal
+AND	of
+DEF	the
+CON	day
+REL	at
+CLO	noon
+NIL	.

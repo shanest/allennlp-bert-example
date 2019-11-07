@@ -1,0 +1,13 @@
+PER	Tom
+EPS	began
+SUB	to
+EXS	sing
+HAS	his
+IST	favorite
+CON	song
+AND	and
+PER	Mary
+EPS	harmonized
+REL	with
+PRO	him
+NIL	.

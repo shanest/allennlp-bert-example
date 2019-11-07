@@ -1,0 +1,9 @@
+SUB	To
+EXS	see
+PRO	you
+NOW	is
+IST	always
+DIS	a
+IST	great
+CON	pleasure
+NIL	.

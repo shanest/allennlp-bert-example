@@ -1,0 +1,17 @@
+AND	As
+AND	of
+DOW	Friday
+NIL	,
+MOY	January
+DOM	12
+NIL	,
+QUC	three
+CON	people
+REL	in
+GEO	Saskatchewan
+PST	had
+EXS	succumbed
+REL	to
+DEF	the
+CON	storm
+NIL	.

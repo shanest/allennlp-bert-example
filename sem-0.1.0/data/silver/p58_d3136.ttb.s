@@ -1,0 +1,11 @@
+IST	Please
+EXS	tell
+PRO	me
+SUB	when
+DEF	the
+IST	next
+CON	meeting
+FUT	will
+EXS	be
+EXS	held
+NIL	.

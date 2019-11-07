@@ -1,0 +1,11 @@
+DIS	A
+CON	skull
+EPS	shaped
+CON	asteroid
+EPS	flew
+REL	by
+DEF	the
+GEO	Earth
+REL	on
+HAP	Halloween
+NIL	.

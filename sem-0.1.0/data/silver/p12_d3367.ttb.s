@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+QUV	many
+CON	books
+SUB	that
+PRO	I
+NOW	have
+NOT	n't
+EXS	read
+NIL	.

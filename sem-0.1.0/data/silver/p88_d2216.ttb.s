@@ -1,0 +1,12 @@
+PER	Tom
+ENS	says
+PRO	he
+ENS	knows
+DIS	someone
+AND	who
+HAS	's
+DIS	a
+IST	good
+CON	sketch
+ROL	artist
+NIL	.

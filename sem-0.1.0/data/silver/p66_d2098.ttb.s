@@ -1,0 +1,10 @@
+PRO	You
+NOW	remember
+PER	Tom
+AND	and
+PER	Mary
+NIL	,
+NOW	do
+NOT	n't
+PRO	you
+QUE	?

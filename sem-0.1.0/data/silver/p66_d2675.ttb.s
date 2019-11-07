@@ -1,0 +1,17 @@
+DEF	The
+CON	address
+PRO	you
+NOW	are
+EXS	looking
+REL	for
+NOW	is
+AND	within
+DIS	a
+CON	stone
+HAS	's
+CON	throw
+AND	of
+DEF	the
+CON	city
+CON	hall
+NIL	.

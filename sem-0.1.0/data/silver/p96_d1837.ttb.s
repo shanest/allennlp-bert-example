@@ -1,0 +1,14 @@
+NOW	Do
+NOT	n't
+EXS	speak
+SUB	to
+PRO	me
+AND	about
+PER	Tom
+NIL	.
+PRO	We
+NOW	're
+REL	on
+IST	bad
+CON	terms
+NIL	.

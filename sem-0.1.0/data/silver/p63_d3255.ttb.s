@@ -1,0 +1,10 @@
+PRO	She
+EPS	spread
+DEF	the
+CON	margarine
+REL	in
+CON	place
+AND	of
+DEF	the
+CON	butter
+NIL	.

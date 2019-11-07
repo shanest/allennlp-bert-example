@@ -1,0 +1,9 @@
+DIS	Some
+AND	of
+DEF	the
+CON	luggage
+NOW	has
+NOT	not
+EXS	arrived
+ALT	yet
+NIL	.

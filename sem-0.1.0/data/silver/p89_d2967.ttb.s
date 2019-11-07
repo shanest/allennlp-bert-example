@@ -1,0 +1,11 @@
+DEF	The
+CON	situation
+NOW	is
+EXS	getting
+COM	worse
+AND	and
+COM	worse
+CON	day
+REL	by
+CON	day
+NIL	.

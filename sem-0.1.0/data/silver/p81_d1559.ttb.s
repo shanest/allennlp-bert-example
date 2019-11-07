@@ -1,0 +1,11 @@
+PRO	I
+EPS	found
+DEF	the
+INT	very
+CON	thing
+PRO	you
+PST	had
+PFT	been
+EXS	looking
+REL	for
+NIL	.

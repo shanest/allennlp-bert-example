@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	eat
+AND	as
+QUC	much
+AND	as
+PER	Mary
+NIL	.

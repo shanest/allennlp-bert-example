@@ -1,0 +1,14 @@
+DEF	The
+CON	cock
+ENS	crows
+NIL	.
+DEF	The
+CON	sound
+EXS	made
+REL	by
+PRO	him
+EQU	is
+NIL	"
+LIT	cock-a-doodle-doo
+NIL	.
+NIL	"

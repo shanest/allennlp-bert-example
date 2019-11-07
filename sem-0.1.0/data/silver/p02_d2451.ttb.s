@@ -1,0 +1,9 @@
+PRO	I
+NEC	should
+NOT	n't
+EXT	have
+EXT	stayed
+IST	away
+AND	so
+IST	long
+NIL	.

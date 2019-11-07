@@ -1,0 +1,12 @@
+DEF	The
+QUC	two
+INT	most
+IST	famous
+CON	volcanoes
+AND	of
+GPE	Italy
+NOW	are
+GPE	Vesuvius
+EQU	and
+GEO	Etna
+NIL	.

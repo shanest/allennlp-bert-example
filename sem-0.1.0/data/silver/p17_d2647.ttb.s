@@ -1,0 +1,10 @@
+PRO	She
+ENS	seems
+SUB	to
+EXS	be
+IST	nervous
+AND	about
+HAS	her
+IST	first
+CON	class
+NIL	.

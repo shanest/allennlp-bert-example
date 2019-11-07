@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	sad
+SUB	to
+EXS	see
+PER	Mary
+IST	so
+NOT	un
+EXS	happy
+NIL	.

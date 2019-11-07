@@ -1,0 +1,12 @@
+QUC	Many
+NIL	,
+QUC	many
+CON	years
+PST	ago
+NIL	,
+UNK	there
+EPS	lived
+DIS	an
+IST	old
+CON	man
+NIL	.

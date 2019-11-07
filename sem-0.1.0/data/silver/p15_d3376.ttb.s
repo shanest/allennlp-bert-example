@@ -1,0 +1,10 @@
+PRO	She
+PST	was
+EXS	indignant
+SUB	when
+PRO	I
+EPS	said
+PRO	she
+PST	was
+EXS	lying
+NIL	.

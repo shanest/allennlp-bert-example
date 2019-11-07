@@ -1,0 +1,16 @@
+NOW	Now
+EXS	let
+HAS	's
+CON	talk
+AND	about
+QUE	what
+PRO	we
+NOW	're
+EXS	going
+SUB	to
+EXS	do
+AND	during
+DEF	the
+IST	new
+CON	semester
+NIL	.

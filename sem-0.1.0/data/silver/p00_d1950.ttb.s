@@ -1,0 +1,10 @@
+PER	Tom
+REL	's
+CON	meeting
+REL	with
+HAS	his
+CON	boss
+PST	was
+INT	very
+EXS	tense
+NIL	.

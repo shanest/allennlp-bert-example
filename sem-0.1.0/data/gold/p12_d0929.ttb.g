@@ -1,0 +1,10 @@
+PRO	I
+EPS	took
+DIS	a
+CON	taxi
+NIL	,
+SUB	because
+NIL	it
+PST	was
+EXG	raining
+NIL	.

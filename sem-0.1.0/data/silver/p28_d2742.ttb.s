@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+IST	difficult
+SUB	to
+EXS	keep
+CON	traditions
+REL	in
+ALT	different
+CON	contexts
+NIL	.

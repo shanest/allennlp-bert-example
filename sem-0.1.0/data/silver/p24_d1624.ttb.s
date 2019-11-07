@@ -1,0 +1,10 @@
+PER	Mary
+EPS	told
+DEF	the
+CON	police
+SUB	that
+PRO	she
+PST	had
+EXS	seen
+PER	Tom
+NIL	.

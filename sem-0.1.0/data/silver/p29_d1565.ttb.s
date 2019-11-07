@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+EXS	coming
+SUB	to
+EXS	see
+PRO	me
+FUT	tomorrow
+CON	afternoon
+NIL	.

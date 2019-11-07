@@ -1,0 +1,9 @@
+DEF	The
+IST	utmost
+CON	God
+NOW	has
+EXS	forgotten
+SUB	to
+EXS	be
+CON	God
+NIL	.

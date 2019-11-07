@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+EXS	saying
+QUE	what
+PRO	I
+NOW	think
+PRO	you
+NOW	're
+EXS	saying
+QUE	?

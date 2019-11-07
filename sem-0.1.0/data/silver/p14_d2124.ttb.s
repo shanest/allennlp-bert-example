@@ -1,0 +1,11 @@
+PER	Tom
+EPS	picked
+IST	up
+DEF	the
+IST	remote
+COO	and
+EPS	started
+EXS	flipping
+AND	through
+CON	channels
+NIL	.

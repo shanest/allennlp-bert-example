@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+NOT	n't
+IST	here
+ALT	yet
+NIL	,
+BUT	but
+PRO	we
+NOW	expect
+PRO	him
+IST	soon
+NIL	.

@@ -1,0 +1,9 @@
+DST	That
+HAS	's
+AND	all
+PRO	we
+POS	can
+EXS	do
+REL	for
+NOW	now
+NIL	.

@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	make
+DIS	some
+CON	coffee
+NIL	.
+AND	Would
+PRO	you
+AND	like
+DIS	some
+NIL	,
+ALT	too
+QUE	?

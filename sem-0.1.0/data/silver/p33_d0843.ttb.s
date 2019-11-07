@@ -1,0 +1,9 @@
+PRO	He
+EPS	put
+DIS	a
+CON	hand
+IST	gently
+REL	on
+HAS	her
+CON	shoulder
+NIL	.

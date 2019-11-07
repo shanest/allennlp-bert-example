@@ -1,0 +1,14 @@
+PRO	It
+EPS	caught
+PRO	me
+REL	off
+CON	guard
+COO	;
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+QUE	what
+SUB	to
+EXS	do
+NIL	.

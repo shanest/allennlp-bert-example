@@ -1,0 +1,11 @@
+PRO	I
+NOW	think
+PRO	it
+FUT	will
+EXS	be
+IST	easy
+SUB	to
+EXS	do
+DEF	the
+CON	job
+NIL	.

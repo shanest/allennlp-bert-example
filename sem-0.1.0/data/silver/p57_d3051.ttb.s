@@ -1,0 +1,16 @@
+PRO	I
+NOW	am
+INT	most
+EXS	grateful
+REL	for
+AND	all
+DEF	the
+CON	help
+PRO	I
+NOW	have
+PFT	been
+EXS	given
+REL	in
+EXG	translating
+CON	sentences
+NIL	.

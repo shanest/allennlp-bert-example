@@ -1,0 +1,12 @@
+NIL	"
+PRO	I
+IST	really
+ENS	need
+DIS	some
+IST	new
+CON	clothes
+NIL	,
+NIL	"
+EPS	thought
+PER	Dima
+NIL	.

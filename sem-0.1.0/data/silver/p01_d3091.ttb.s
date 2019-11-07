@@ -1,0 +1,12 @@
+PRO	He
+ENS	likes
+NIL	to
+EXS	boast
+REL	about
+HAS	his
+ROL	father
+HAS	's
+IST	successful
+CON	automobile
+CON	business
+NIL	.

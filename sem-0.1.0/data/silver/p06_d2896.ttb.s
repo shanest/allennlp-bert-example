@@ -1,0 +1,11 @@
+NIL	"
+NOW	Do
+NOT	n't
+EXS	stop
+NIL	,
+PER	Tony
+NIL	,
+NIL	"
+EPS	said
+PER	Linda
+NIL	.

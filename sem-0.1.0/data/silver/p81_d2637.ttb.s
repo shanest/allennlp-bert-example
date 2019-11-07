@@ -1,0 +1,15 @@
+IMP	If
+PRO	you
+PST	had
+EXS	left
+CON	home
+DIS	a
+CON	little
+AND	earlier
+PRO	you
+FUT	would
+EXT	have
+EXS	been
+REL	in
+CON	time
+NIL	.

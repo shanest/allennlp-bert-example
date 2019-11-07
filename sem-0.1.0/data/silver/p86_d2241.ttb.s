@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+AND	just
+DEF	the
+CON	book
+PRO	I
+PST	was
+EXG	looking
+REL	for
+NIL	.

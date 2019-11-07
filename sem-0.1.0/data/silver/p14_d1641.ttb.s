@@ -1,0 +1,12 @@
+PER	María
+EQU	,
+GEO	Marcelina
+AND	and
+ROL	father
+NIL	José
+ENS	want
+SUB	to
+EXS	go
+REL	to
+CON	town
+NIL	.

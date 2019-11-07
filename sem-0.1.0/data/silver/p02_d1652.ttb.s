@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+EXS	have
+AND	any
+CON	idea
+AND	who
+POS	could
+EXS	be
+AND	behind
+PRX	this
+QUE	?

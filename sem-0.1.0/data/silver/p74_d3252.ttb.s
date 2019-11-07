@@ -1,0 +1,11 @@
+PER	Tom
+EPS	tried
+SUB	to
+EXS	warn
+PER	Mary
+NIL	,
+COO	but
+PRO	she
+EPS	ignored
+PRO	him
+NIL	.

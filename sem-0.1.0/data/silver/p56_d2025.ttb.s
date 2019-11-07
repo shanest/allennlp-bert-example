@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+IST	proud
+AND	of
+IST	never
+EXT	having
+PFT	been
+EXS	beaten
+REL	in
+CON	ping-pong
+NIL	.

@@ -1,0 +1,12 @@
+NIL	"
+PRO	I
+EPS	saw
+PRO	her
+QUC	five
+CON	days
+PST	ago
+NIL	"
+NIL	,
+PRO	he
+EPS	said
+NIL	.

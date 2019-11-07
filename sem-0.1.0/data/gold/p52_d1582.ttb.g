@@ -1,0 +1,9 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+PRO	you
+HAS	had
+DIS	a
+ROL	sister
+NIL	.

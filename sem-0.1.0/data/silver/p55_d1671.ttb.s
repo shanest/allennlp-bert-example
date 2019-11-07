@@ -1,0 +1,13 @@
+IMP	If
+PRO	you
+ENS	run
+DIS	a
+COL	red
+CON	light
+NIL	,
+PRO	you
+NOW	risk
+EXS	causing
+DIS	an
+CON	accident
+NIL	.

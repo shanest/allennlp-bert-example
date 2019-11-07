@@ -1,0 +1,10 @@
+PRO	I
+NOW	hate
+DEF	the
+CON	way
+SUB	that
+PRO	he
+ENS	speaks
+REL	to
+PRO	me
+NIL	.

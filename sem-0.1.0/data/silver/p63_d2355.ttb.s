@@ -1,0 +1,13 @@
+IMP	If
+PRO	I
+FUT	'll
+EXS	make
+PRO	it
+NIL	,
+PRO	we
+FUT	'll
+EXS	see
+ALT	again
+REL	in
+MOY	February
+NIL	!

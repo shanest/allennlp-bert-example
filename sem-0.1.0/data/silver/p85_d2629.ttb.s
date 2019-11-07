@@ -1,0 +1,10 @@
+AND	Recently
+PRO	I
+EPS	found
+IST	new
+CON	dictionaries
+NIL	,
+REL	in
+ALT	other
+CON	languages
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+IST	vain
+SUB	to
+EXS	argue
+REL	with
+PRO	them
+AND	about
+DEF	the
+CON	problem
+NIL	.

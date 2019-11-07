@@ -1,0 +1,9 @@
+PRX	This
+CON	fact
+ENS	shows
+PRO	us
+SUB	that
+PRO	he
+NOW	is
+EXS	innocent
+NIL	.

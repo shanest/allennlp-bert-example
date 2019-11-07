@@ -1,0 +1,9 @@
+PER	Tom
+ENS	says
+PRO	he
+PST	was
+EXS	asked
+SUB	to
+EXS	come
+PRX	here
+NIL	.

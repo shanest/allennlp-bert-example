@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+CON	mind
+IMP	if
+PRO	I
+ENS	go
+IST	back
+SUB	to
+EXS	sleep
+NOW	now
+QUE	?

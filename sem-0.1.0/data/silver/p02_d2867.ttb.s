@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	marry
+DEF	the
+ROL	farmer
+HAS	's
+CON	daughter
+NIL	.

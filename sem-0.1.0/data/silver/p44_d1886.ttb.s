@@ -1,0 +1,14 @@
+PRX	This
+NOW	is
+ALT	also
+CON	part
+AND	of
+HAS	your
+CON	work
+NIL	,
+SUB	as
+PRO	I
+EPS	told
+PRO	you
+REL	before
+NIL	.

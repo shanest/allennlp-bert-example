@@ -1,0 +1,13 @@
+SUB	When
+PRO	I
+EPS	got
+CON	home
+NIL	,
+PRO	I
+EPS	noticed
+SUB	that
+HAS	my
+CON	wallet
+PST	was
+EXS	missing
+NIL	.

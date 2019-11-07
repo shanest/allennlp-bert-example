@@ -1,0 +1,10 @@
+PER	Bigamy
+NOW	is
+SUB	when
+PRO	you
+NOW	have
+QUC	one
+CON	wife
+INT	too
+QUV	many
+NIL	.

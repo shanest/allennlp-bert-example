@@ -1,0 +1,10 @@
+DEF	The
+CON	immigrants
+EPS	entered
+DEF	the
+CON	country
+REL	in
+DIS	a
+IST	steady
+CON	flow
+NIL	.

@@ -1,0 +1,10 @@
+POS	May
+PRO	I
+NOW	visit
+HAS	your
+CON	home
+QUC	one
+AND	of
+PRX	these
+CON	days
+QUE	?

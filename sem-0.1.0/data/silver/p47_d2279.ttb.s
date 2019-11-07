@@ -1,0 +1,9 @@
+EXS	Tell
+PER	Tom
+PRO	I
+NOW	do
+NOT	n't
+EXS	have
+HAS	his
+CON	keys
+NIL	.

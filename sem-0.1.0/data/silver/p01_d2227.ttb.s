@@ -1,0 +1,12 @@
+PER	Tom
+ENS	keeps
+DIS	a
+CON	hunting
+CON	knife
+REL	in
+DEF	the
+CON	trunk
+AND	of
+HAS	his
+CON	car
+NIL	.

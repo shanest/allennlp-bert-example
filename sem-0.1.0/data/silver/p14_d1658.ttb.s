@@ -1,0 +1,10 @@
+SUB	Although
+PRO	I
+IST	really
+ENS	hate
+CON	grammar
+NIL	,
+PRO	it
+NOW	's
+EXS	useful
+NIL	.

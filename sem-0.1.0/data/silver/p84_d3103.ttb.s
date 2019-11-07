@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	charging
+PRX	this
+CON	amount
+REL	to
+HAS	your
+CON	bill
+NIL	.

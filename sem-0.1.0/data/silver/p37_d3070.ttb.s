@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	what
+PER	Tom
+NOW	is
+EXS	planning
+SUB	to
+EXS	do
+NIL	.

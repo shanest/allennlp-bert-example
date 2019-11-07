@@ -1,0 +1,10 @@
+REL	In
+GEO	Denmark
+NIL	,
+UNK	there
+NOW	are
+NOT	n't
+AND	any
+COL	yellow
+CON	postboxes
+NIL	.

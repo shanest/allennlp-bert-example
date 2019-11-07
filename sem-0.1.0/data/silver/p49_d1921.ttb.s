@@ -1,0 +1,9 @@
+PRO	I
+EPS	bought
+SUB	that
+CON	scarf
+PRO	we
+EPS	looked
+REL	at
+PST	yesterday
+NIL	.

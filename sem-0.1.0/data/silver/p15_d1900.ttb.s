@@ -1,0 +1,9 @@
+PRO	He
+PST	had
+DIS	a
+IST	hard
+CON	time
+EXG	making
+DIS	a
+CON	living
+NIL	.

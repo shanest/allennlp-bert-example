@@ -1,0 +1,10 @@
+CON	Pick
+REL	on
+DIS	somebody
+HAS	your
+IST	own
+CON	size
+NIL	,
+PRO	you
+ENS	bully
+NIL	.

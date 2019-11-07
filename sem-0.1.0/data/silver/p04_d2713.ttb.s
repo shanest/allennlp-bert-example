@@ -1,0 +1,9 @@
+PRO	I
+PST	did
+AND	everything
+PRO	I
+POS	could
+SUB	to
+EXS	save
+PER	Tom
+NIL	.

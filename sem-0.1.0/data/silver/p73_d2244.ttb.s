@@ -1,0 +1,9 @@
+PER	Tom
+EPS	showed
+PER	Mary
+QUE	where
+SUB	to
+EXS	put
+DEF	the
+CON	boxes
+NIL	.

@@ -1,0 +1,10 @@
+EPS	Excuse
+PRO	me
+NIL	,
+BUT	but
+NOW	are
+NOT	n't
+PRO	you
+ROL	Dr.
+PER	White
+QUE	?

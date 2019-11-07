@@ -1,0 +1,15 @@
+DEF	The
+CON	accident
+EPS	happened
+SUB	because
+DIS	a
+IST	small
+CON	child
+PST	had
+PFT	been
+EXS	left
+AND	alone
+REL	in
+DEF	the
+CON	street
+NIL	.

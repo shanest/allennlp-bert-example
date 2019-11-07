@@ -1,0 +1,10 @@
+HAS	Our
+CON	school
+PST	was
+NOT	not
+DEF	the
+IST	same
+CON	size
+AND	as
+HAS	yours
+NIL	.

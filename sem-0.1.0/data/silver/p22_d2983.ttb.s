@@ -1,0 +1,11 @@
+AND	As
+DEF	the
+CON	proverb
+ENS	says
+NIL	,
+NIL	"
+CON	Time
+NOW	is
+CON	money
+NIL	.
+NIL	"

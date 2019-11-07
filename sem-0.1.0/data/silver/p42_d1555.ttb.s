@@ -1,0 +1,10 @@
+PRO	I
+IST	carefully
+EPS	took
+IST	down
+AND	everything
+AND	that
+HAS	my
+CON	teacher
+EPS	said
+NIL	.

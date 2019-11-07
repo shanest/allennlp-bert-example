@@ -1,0 +1,12 @@
+PRO	It
+EPS	took
+HAS	my
+CON	eyes
+DIS	a
+CON	moment
+SUB	to
+EXS	adjust
+REL	to
+DEF	the
+CON	darkness
+NIL	.

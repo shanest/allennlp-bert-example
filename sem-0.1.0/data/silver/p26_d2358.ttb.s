@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+EXS	know
+IMP	if
+PRO	he
+NOW	's
+EXS	coming
+REL	to
+DEF	the
+CON	party
+QUE	?

@@ -1,0 +1,10 @@
+DEF	The
+CON	room
+NOW	has
+PFT	been
+EXS	empty
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

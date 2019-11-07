@@ -1,0 +1,9 @@
+NOW	Is
+PRX	this
+DEF	the
+CON	boy
+PRO	you
+PST	were
+EXS	talking
+IST	about
+QUE	?

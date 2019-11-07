@@ -1,0 +1,11 @@
+PRO	They
+NOW	have
+IST	scarcely
+EXS	gone
+IST	out
+REL	since
+DEF	the
+CON	baby
+PST	was
+EXS	born
+NIL	.

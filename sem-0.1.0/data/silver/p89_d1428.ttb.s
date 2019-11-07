@@ -1,0 +1,15 @@
+NIL	"
+PRO	It
+HAS	's
+INT	very
+IST	pretty
+NIL	.
+NIL	"
+NIL	"
+PRO	I
+EPS	bought
+PRO	it
+REL	in
+GPE	Japan
+NIL	.
+NIL	"

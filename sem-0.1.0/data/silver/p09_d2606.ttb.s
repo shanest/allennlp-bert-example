@@ -1,0 +1,16 @@
+DEF	The
+ROL	politician
+EPS	said
+PRO	he
+PST	was
+IST	deeply
+EXS	indebted
+SUB	to
+AND	everyone
+REL	for
+HAS	their
+CON	support
+REL	in
+DEF	the
+CON	election
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+NOT	not
+IST	sure
+QUE	what
+PER	Tom
+NOW	is
+EXS	trying
+SUB	to
+EXS	say
+NIL	.

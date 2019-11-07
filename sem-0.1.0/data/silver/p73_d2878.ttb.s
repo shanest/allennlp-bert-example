@@ -1,0 +1,9 @@
+PRO	He
+POS	might
+EXT	have
+PFT	been
+EXS	sleeping
+REL	at
+DST	that
+CON	time
+NIL	.

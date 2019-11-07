@@ -1,0 +1,10 @@
+PRO	He
+NOW	's
+IST	rich
+NIL	.
+PRO	He
+NOW	does
+NOT	n't
+EXS	need
+CON	money
+NIL	!

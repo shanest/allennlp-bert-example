@@ -1,0 +1,12 @@
+GEO	Slovakia
+HAS	's
+IST	economic
+CON	difficulties
+AND	during
+DEF	the
+CON	reforms
+EPS	fueled
+DIS	an
+IST	emerging
+CON	nationalism
+NIL	.

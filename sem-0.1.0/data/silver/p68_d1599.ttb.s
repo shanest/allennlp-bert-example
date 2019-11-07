@@ -1,0 +1,9 @@
+PER	Mary
+NOW	is
+DEF	the
+CON	girl
+EXS	wearing
+DEF	the
+COL	yellow
+CON	dress
+NIL	.

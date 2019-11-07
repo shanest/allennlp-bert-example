@@ -1,0 +1,12 @@
+NOT	No
+CON	one
+EPS	wanted
+SUB	to
+EXS	play
+REL	with
+GPE	Tango
+NOT	except
+DEF	the
+IST	little
+CON	boy
+NIL	.

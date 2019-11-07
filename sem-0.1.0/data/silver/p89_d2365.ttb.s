@@ -1,0 +1,13 @@
+PRO	I
+ENS	understand
+PRO	it
+NIL	,
+BUT	but
+PRO	I
+IST	still
+NOW	do
+NOT	n't
+EXS	agree
+REL	with
+PRO	it
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	going
+SUB	to
+EXS	explain
+PRO	it
+REL	to
+PRO	me
+NIL	.

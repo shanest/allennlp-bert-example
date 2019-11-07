@@ -1,0 +1,10 @@
+ROL	Mr
+PER	Wilson
+EPS	made
+PRO	us
+EXS	repeat
+DEF	the
+CON	sentence
+QUV	several
+CON	times
+NIL	.

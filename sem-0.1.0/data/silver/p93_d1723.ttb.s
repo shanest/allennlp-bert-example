@@ -1,0 +1,13 @@
+PER	Tom
+NOW	is
+NOT	n't
+SUB	as
+EXS	good
+REL	at
+GPO	French
+SUB	as
+PRO	he
+ENS	thinks
+PRO	he
+NOW	is
+NIL	.

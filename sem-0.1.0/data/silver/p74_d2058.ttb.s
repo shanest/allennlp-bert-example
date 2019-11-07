@@ -1,0 +1,10 @@
+PRO	I
+EPS	broke
+DIS	a
+CON	bone
+REL	in
+HAS	my
+CON	foot
+SUB	while
+EXS	exercising
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Has
+PRO	he
+EPS	paid
+IST	back
+DEF	the
+CON	money
+PRO	you
+EPS	lent
+PRO	him
+QUE	?

@@ -1,0 +1,12 @@
+UNK	There
+NOW	are
+QUV	many
+CON	sentences
+AND	about
+CON	DNA
+NIL	,
+BUT	but
+CON	none
+AND	about
+CON	RNA
+NIL	.

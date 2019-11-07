@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+PRO	I
+EXS	speak
+HAS	your
+IST	beautiful
+CON	language
+AND	so
+IST	poorly
+NIL	!

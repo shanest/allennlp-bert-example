@@ -1,0 +1,10 @@
+PRO	You
+NOW	do
+NOT	n't
+EXS	look
+AND	like
+PRO	you
+NOW	're
+EXS	enjoying
+REF	yourself
+NIL	.

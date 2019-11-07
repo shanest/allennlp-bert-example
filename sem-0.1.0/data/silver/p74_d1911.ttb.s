@@ -1,0 +1,12 @@
+DIS	A
+IST	cursory
+CON	examination
+AND	of
+HAS	his
+CON	teeth
+EPS	indicated
+SUB	that
+PRO	he
+PST	had
+CON	gingivitis
+NIL	.

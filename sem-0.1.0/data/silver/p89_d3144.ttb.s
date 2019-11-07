@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+QUC	one
+AND	of
+DEF	the
+TOP	richest
+CON	guys
+PRO	I
+NOW	've
+IST	ever
+EXS	met
+NIL	.

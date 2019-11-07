@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXG	remembering
+DEF	the
+CON	names
+AND	of
+HAS	his
+CON	friends
+NIL	.

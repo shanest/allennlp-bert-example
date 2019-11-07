@@ -1,0 +1,10 @@
+HAS	My
+TOP	greatest
+CON	desire
+PST	was
+SUB	to
+EXS	meet
+HAS	my
+IST	biological
+ROL	father
+NIL	.

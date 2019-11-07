@@ -1,0 +1,10 @@
+CON	Locks
+NOW	are
+EXS	being
+EPS	searched
+REL	for
+NIL	,
+POS	possibly
+REL	for
+CON	gates
+NIL	.

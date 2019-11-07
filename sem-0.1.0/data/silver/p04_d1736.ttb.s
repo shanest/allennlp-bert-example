@@ -1,0 +1,10 @@
+DEF	The
+IST	whole
+CON	village
+PST	was
+EXT	laid
+IST	flat
+REL	by
+DEF	the
+CON	earthquake
+NIL	.

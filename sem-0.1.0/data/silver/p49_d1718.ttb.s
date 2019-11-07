@@ -1,0 +1,9 @@
+PRO	He
+ENS	plays
+ART	Minecraft
+CON	day
+REL	in
+NIL	,
+CON	day
+IST	out
+NIL	.

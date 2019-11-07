@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+QUC	much
+MOR	more
+IST	relaxed
+SUB	when
+PER	Mary
+NOW	is
+NOT	n't
+IST	around
+NIL	.

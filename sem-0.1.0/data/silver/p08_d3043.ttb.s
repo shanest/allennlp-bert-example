@@ -1,0 +1,11 @@
+DEF	The
+CON	stores
+PST	were
+EXS	alive
+REL	with
+CON	people
+DEF	the
+DOW	Saturday
+REL	before
+TIM	Christmas
+NIL	.

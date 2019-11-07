@@ -1,0 +1,9 @@
+DIS	Some
+CON	animals
+NIL	,
+REL	as
+CON	tigers
+NIL	,
+EXS	eat
+CON	meat
+NIL	.

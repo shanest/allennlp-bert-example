@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+EPS	tried
+SUB	to
+EXS	commit
+CON	suicide
+QUV	several
+CON	times
+NIL	.

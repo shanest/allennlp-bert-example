@@ -1,0 +1,9 @@
+PRO	I
+ENS	see
+NOT	no
+CON	reason
+SUB	to
+EXS	continue
+PRX	this
+CON	discussion
+NIL	.

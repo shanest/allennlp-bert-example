@@ -1,0 +1,11 @@
+NOW	Are
+PRO	you
+IST	sure
+PER	Tom
+NOW	does
+NOT	n't
+EXS	mind
+PRO	me
+EXG	tagging
+REL	along
+QUE	?

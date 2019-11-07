@@ -1,0 +1,10 @@
+PRX	This
+CON	coffee
+NOW	is
+DIS	a
+CON	blend
+AND	of
+GEO	Java
+AND	and
+GPE	Brazil
+NIL	.

@@ -1,0 +1,9 @@
+NOW	Is
+DEF	the
+CON	capital
+CON	city
+AND	of
+GPE	Russia
+NOT	not
+GEO	Moscow
+QUE	?

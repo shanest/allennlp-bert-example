@@ -1,0 +1,11 @@
+PER	Natsume
+PER	Soseki
+NOW	is
+QUC	one
+AND	of
+DEF	the
+TOP	best
+ROL	writers
+REL	in
+GPE	Japan
+NIL	.

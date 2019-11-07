@@ -1,0 +1,10 @@
+PRO	He
+EPS	won
+DEF	the
+IST	first
+CON	prize
+REL	at
+DEF	the
+CON	chess
+CON	tournament
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+EXS	going
+REL	to
+HAS	my
+CON	room
+NIL	,
+SUB	where
+PRO	I
+POS	can
+EXS	study
+NIL	.

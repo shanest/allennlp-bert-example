@@ -1,0 +1,12 @@
+PER	Tom
+PST	was
+EXS	surprised
+REL	by
+QUE	what
+PRO	he
+EPS	learned
+REL	in
+CON	sex
+CON	education
+CON	class
+NIL	.

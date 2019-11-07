@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	imperative
+SUB	that
+PRO	you
+NOW	follow
+DEF	the
+CON	instructions
+IST	carefully
+NIL	.

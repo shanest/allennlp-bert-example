@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+NOT	not
+EXS	worried
+AND	about
+PRO	you
+EQU	,
+PER	Tom
+NIL	.
+PRO	I
+NOW	'm
+EXS	worried
+REL	about
+PER	Mary
+NIL	.

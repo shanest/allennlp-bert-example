@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+QUE	why
+PRO	you
+PST	had
+EXS	spent
+CON	time
+REL	in
+CON	prison
+NIL	.

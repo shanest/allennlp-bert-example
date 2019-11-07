@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+IST	proud
+SUB	that
+PRO	he
+NOW	is
+DIS	an
+ROL	artist
+NIL	.

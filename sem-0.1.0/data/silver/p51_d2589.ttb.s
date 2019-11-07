@@ -1,0 +1,10 @@
+PRO	They
+NOW	say
+SUB	that
+CON	animals
+NOW	are
+NOT	n't
+IST	able
+SUB	to
+EXS	hate
+NIL	.

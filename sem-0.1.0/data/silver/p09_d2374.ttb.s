@@ -1,0 +1,12 @@
+PRO	We
+FUT	wo
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	get
+IST	out
+AND	of
+PRX	this
+CON	cell
+NIL	.

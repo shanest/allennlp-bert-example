@@ -1,0 +1,9 @@
+PRO	I
+NOW	hope
+DEF	the
+CON	weather
+FUT	will
+EXS	hold
+REL	until
+DOW	Sunday
+NIL	.

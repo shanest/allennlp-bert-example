@@ -1,0 +1,13 @@
+PER	Tom
+EPS	bought
+DIS	a
+CON	piece
+AND	of
+CON	land
+NOT	not
+IST	far
+REL	from
+QUE	where
+PER	Mary
+ENS	lives
+NIL	.

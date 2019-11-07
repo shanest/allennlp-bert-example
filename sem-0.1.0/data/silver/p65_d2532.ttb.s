@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+IST	really
+EXS	happy
+PRO	I
+EPS	ran
+REL	into
+PRO	you
+NIL	.

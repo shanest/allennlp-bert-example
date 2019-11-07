@@ -1,0 +1,10 @@
+EXS	Put
+DEF	the
+CON	box
+REL	on
+DEF	the
+CON	table
+REL	in
+DEF	the
+CON	kitchen
+NIL	.

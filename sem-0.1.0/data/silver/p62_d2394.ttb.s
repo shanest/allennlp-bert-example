@@ -1,0 +1,11 @@
+PER	Tom
+EPS	caught
+DIS	a
+CON	mosquito
+REL	between
+HAS	his
+CON	thumb
+AND	and
+IST	first
+CON	finger
+NIL	.

@@ -1,0 +1,11 @@
+PRO	You
+NOW	need
+NOT	n't
+EXS	be
+IST	ashamed
+SUB	because
+PRO	you
+EPS	failed
+DEF	the
+CON	exam
+NIL	.

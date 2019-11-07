@@ -1,0 +1,14 @@
+PRO	I
+EPS	found
+DIS	a
+CON	book
+REL	with
+DIS	a
+COL	red
+CON	cover
+COO	and
+EPS	decided
+NIL	to
+EXS	borrow
+PRO	it
+NIL	.

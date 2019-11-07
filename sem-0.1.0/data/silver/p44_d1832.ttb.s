@@ -1,0 +1,12 @@
+REL	On
+HAS	my
+CON	way
+SUB	to
+EXS	work
+NIL	,
+PRO	I
+EPS	ran
+REL	into
+HAS	my
+ROL	uncle
+NIL	.

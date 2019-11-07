@@ -1,0 +1,17 @@
+SUB	When
+PRO	I
+EPS	saw
+DEF	the
+CON	ghost
+NIL	,
+PRO	I
+PST	was
+IST	so
+EXS	frightened
+SUB	that
+HAS	my
+CON	hair
+EPS	stood
+REL	on
+CON	end
+NIL	.

@@ -1,0 +1,11 @@
+PER	Mother
+NOW	gets
+IST	up
+MOR	earlier
+MOR	than
+AND	anybody
+AND	else
+REL	in
+HAS	my
+CON	family
+NIL	.

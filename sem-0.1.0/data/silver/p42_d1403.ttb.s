@@ -1,0 +1,10 @@
+PER	Tom
+EPS	said
+PRO	he
+PST	did
+NOT	n't
+EXS	know
+QUE	what
+PST	was
+EXS	wrong
+NIL	.

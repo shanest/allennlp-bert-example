@@ -1,0 +1,12 @@
+PRO	I
+IST	just
+ENS	wish
+PRO	I
+POS	could
+EXS	have
+DIS	some
+IST	alone
+CON	time
+REL	with
+PER	Tom
+NIL	.

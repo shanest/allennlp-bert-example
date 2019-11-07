@@ -1,0 +1,12 @@
+PER	Tom
+EPS	said
+PRO	he
+PST	had
+EXS	seen
+PER	Mary
+DIS	a
+CON	couple
+AND	of
+CON	months
+PST	ago
+NIL	.

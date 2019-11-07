@@ -1,0 +1,12 @@
+PRO	We
+NOW	're
+EXS	getting
+IST	out
+AND	of
+PRX	here
+NIL	.
+DEF	The
+CON	storm
+NOW	is
+EXS	coming
+NIL	.

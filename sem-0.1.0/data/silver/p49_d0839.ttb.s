@@ -1,0 +1,9 @@
+PRO	He
+POS	can
+EXS	invest
+DIS	a
+QUC	million
+UOM	yen
+REL	in
+CON	stocks
+NIL	.

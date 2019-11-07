@@ -1,0 +1,11 @@
+PRO	I
+EPS	went
+REL	to
+GPE	Kobe
+NIL	,
+SUB	where
+PRO	I
+IST	first
+EPS	met
+PRO	her
+NIL	.

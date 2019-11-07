@@ -1,0 +1,13 @@
+PER	Mary
+EPS	took
+HAS	her
+CON	key
+AND	out
+AND	of
+HAS	her
+CON	purse
+COO	and
+EPS	unlocked
+DEF	the
+CON	door
+NIL	.

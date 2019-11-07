@@ -1,0 +1,9 @@
+PER	Tom
+EPS	showed
+PER	Mary
+QUE	how
+SUB	to
+CON	gut
+DIS	a
+CON	fish
+NIL	.

@@ -1,0 +1,11 @@
+ITJ	Oh
+NIL	,
+NOT	no
+NIL	!
+PRO	We
+NOW	're
+EXS	running
+IST	out
+AND	of
+CON	gas
+NIL	.

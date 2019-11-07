@@ -1,0 +1,11 @@
+PRO	I
+EPS	saw
+HAS	his
+CON	car
+NOW	make
+DIS	a
+CON	turn
+REL	to
+DEF	the
+CON	right
+NIL	.

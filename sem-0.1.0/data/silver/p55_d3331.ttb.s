@@ -1,0 +1,9 @@
+PRO	He
+HAS	's
+EXG	sleeping
+REL	off
+IST	last
+CON	night
+HAS	's
+CON	bender
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+PRO	you
+NOW	have
+NOT	n't
+EXS	done
+PRO	it
+ALT	yet
+NIL	.

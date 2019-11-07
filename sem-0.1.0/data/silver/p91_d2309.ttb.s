@@ -1,0 +1,15 @@
+PER	Tom
+EPS	stole
+DIS	some
+CON	alcohol
+REL	from
+HAS	his
+CON	parents
+COO	and
+EPS	thought
+SUB	that
+PRO	they
+FUT	would
+NOT	n't
+EXS	notice
+NIL	.

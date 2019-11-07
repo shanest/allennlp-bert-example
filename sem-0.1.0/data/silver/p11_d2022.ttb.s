@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	get
+REL	on
+IST	back
+AND	of
+PER	Mary
+HAS	's
+CON	motorcycle
+NIL	.

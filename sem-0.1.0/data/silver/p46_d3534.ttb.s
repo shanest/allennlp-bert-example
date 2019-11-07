@@ -1,0 +1,11 @@
+ORG	Organic
+CON	vegetables
+NOW	are
+EXS	popular
+SUB	because
+PRO	they
+NOW	're
+EXS	safe
+AND	and
+CON	tasty
+NIL	.

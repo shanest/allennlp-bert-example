@@ -1,0 +1,9 @@
+DEF	The
+QUC	two
+CON	generals
+EPS	met
+ALT	again
+DEF	the
+IST	next
+CON	day
+NIL	.

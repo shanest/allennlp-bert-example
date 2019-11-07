@@ -1,0 +1,14 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+SUB	that
+DST	those
+IST	damn
+CON	batteries
+NOW	are
+REL	in
+PRX	this
+IST	damn
+CON	drawer
+NIL	.

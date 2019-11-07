@@ -1,0 +1,13 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	leave
+SUB	until
+PRO	I
+NOW	've
+EXS	found
+IST	out
+QUE	how
+PER	Tom
+NOW	is
+NIL	.

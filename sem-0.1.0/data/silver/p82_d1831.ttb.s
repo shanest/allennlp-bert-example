@@ -1,0 +1,15 @@
+PER	Tom
+POS	might
+EXT	have
+EXS	visited
+PER	Mary
+REL	in
+GPE	Boston
+AND	last
+CON	week
+NIL	.
+PRO	I
+NOW	'm
+NOT	not
+IST	sure
+NIL	.

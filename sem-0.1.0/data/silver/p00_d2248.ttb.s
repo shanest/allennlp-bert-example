@@ -1,0 +1,9 @@
+PER	Tom
+EPS	got
+REL	off
+REL	at
+DEF	the
+IST	next
+CON	bus
+EXS	stop
+NIL	.

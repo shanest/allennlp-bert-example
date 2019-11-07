@@ -1,0 +1,9 @@
+AND	And
+HAS	his
+CON	disciples
+EPS	put
+HAS	their
+CON	faith
+REL	in
+PRO	him
+NIL	.

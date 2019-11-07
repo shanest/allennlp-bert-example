@@ -1,0 +1,10 @@
+EXS	Leave
+PRO	her
+NIL	.
+PRO	She
+ENS	needs
+DIS	a
+IST	few
+CON	minutes
+AND	alone
+NIL	.

@@ -1,0 +1,10 @@
+PRO	We
+NOW	are
+EXS	used
+SUB	to
+EXS	living
+REL	in
+DIS	a
+IST	big
+CON	city
+NIL	.

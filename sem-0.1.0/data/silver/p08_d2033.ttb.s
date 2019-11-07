@@ -1,0 +1,11 @@
+PER	Tom
+EPS	told
+PRO	me
+SUB	that
+PRO	he
+POS	could
+NOT	n't
+IST	really
+EXS	trust
+ORG	Microsoft
+NIL	.

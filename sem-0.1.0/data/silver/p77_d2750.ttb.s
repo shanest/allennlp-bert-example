@@ -1,0 +1,9 @@
+PER	Jeff
+ENS	thinks
+PRO	he
+FUT	will
+NOT	never
+EXS	fall
+REL	in
+CON	love
+NIL	.

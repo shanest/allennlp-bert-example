@@ -1,0 +1,13 @@
+PER	Tom
+EPS	knew
+PRO	it
+PST	was
+DIS	a
+CON	possibility
+SUB	that
+PER	Mary
+FUT	would
+EXS	show
+IST	up
+IST	late
+NIL	.

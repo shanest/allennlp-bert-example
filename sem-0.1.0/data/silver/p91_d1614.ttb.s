@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+PRO	you
+NOW	do
+NOT	n't
+EXS	have
+CON	time
+SUB	to
+EXS	help
+PRO	us
+NIL	.

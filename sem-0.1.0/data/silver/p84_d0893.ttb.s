@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+POS	could
+EXS	be
+IST	sure
+QUE	what
+FUT	would
+EXS	happen
+IST	then
+NIL	.

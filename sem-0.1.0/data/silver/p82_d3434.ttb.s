@@ -1,0 +1,12 @@
+NOW	Do
+NOT	n't
+EXS	take
+PRO	it
+IST	literally
+NIL	.
+PRO	He
+NOW	is
+UNK	inclined
+SUB	to
+EXS	exaggerate
+NIL	.

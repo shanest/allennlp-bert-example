@@ -1,0 +1,13 @@
+PER	Tom
+EPS	realized
+SUB	that
+PRO	he
+PST	was
+NOT	n't
+SUB	as
+EXS	smart
+AND	as
+DEF	the
+ALT	other
+CON	kids
+NIL	.

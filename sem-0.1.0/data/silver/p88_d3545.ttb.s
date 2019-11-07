@@ -1,0 +1,13 @@
+PRO	I
+FUT	'll
+EXT	have
+CON	time
+SUB	to
+EXS	file
+HAS	my
+CON	nails
+SUB	while
+PRO	you
+NOW	're
+EXS	dressing
+NIL	.

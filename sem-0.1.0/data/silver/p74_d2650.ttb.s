@@ -1,0 +1,16 @@
+PRO	It
+PST	was
+EXS	lucky
+PRO	I
+PST	was
+IST	able
+SUB	to
+EXS	speak
+REL	to
+PER	Tom
+SUB	before
+PRO	he
+EPS	left
+REL	for
+GPE	Boston
+NIL	.

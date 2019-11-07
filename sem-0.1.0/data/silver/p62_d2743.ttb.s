@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+IST	completely
+IST	natural
+REL	for
+PRO	her
+SUB	to
+EXS	be
+IST	mad
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+SUB	that
+NIL	there
+PST	was
+DIS	a
+CON	swimming
+CON	pool
+PRX	here
+NIL	.

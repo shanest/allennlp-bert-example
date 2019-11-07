@@ -1,0 +1,10 @@
+EXS	Did
+PRO	you
+ENS	go
+SUB	to
+PER	Tom
+HAS	's
+CON	party
+AND	last
+DOW	Saturday
+QUE	?

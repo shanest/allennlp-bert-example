@@ -1,0 +1,15 @@
+PRO	I
+PST	had
+DIS	a
+IST	bad
+CON	headache
+NIL	.
+DST	That
+HAS	's
+QUE	why
+PRO	I
+EPS	went
+REL	to
+CON	bed
+IST	early
+NIL	.

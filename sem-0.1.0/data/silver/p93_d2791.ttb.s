@@ -1,0 +1,10 @@
+PRO	I
+EPS	took
+PRO	it
+REL	for
+EXS	granted
+SUB	that
+PRO	he
+FUT	would
+EXS	consent
+NIL	.

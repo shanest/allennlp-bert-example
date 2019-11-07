@@ -1,0 +1,16 @@
+PRO	I
+NOW	'm
+IST	still
+EXG	feeling
+DIS	a
+IST	little
+EXS	homesick
+AND	and
+INT	so
+QUV	many
+CON	things
+ENS	seem
+EXS	strange
+REL	to
+PRO	me
+NIL	.

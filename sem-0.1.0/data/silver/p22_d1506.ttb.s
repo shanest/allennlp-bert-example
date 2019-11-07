@@ -1,0 +1,9 @@
+PRO	He
+EPS	kept
+PRO	me
+SUB	from
+EXG	making
+DIS	a
+IST	big
+CON	mistake
+NIL	.

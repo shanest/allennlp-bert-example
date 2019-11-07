@@ -1,0 +1,10 @@
+PRO	You
+POS	might
+EXS	want
+SUB	to
+EXS	save
+DIS	some
+CON	cake
+REL	for
+PER	Tom
+NIL	.

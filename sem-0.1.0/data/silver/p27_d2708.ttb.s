@@ -1,0 +1,10 @@
+PER	Yumi
+AND	and
+PER	Emi
+PST	were
+EXS	studying
+REL	for
+HAS	their
+ART	English
+CON	test
+NIL	.

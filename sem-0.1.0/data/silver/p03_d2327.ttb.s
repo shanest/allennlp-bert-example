@@ -1,0 +1,10 @@
+ROL	Mr.
+PER	Smith
+NOW	does
+NOT	n't
+EXS	speak
+CON	English
+NIL	,
+NOW	does
+PRO	he
+QUE	?

@@ -1,0 +1,13 @@
+AND	Once
+REL	upon
+DIS	a
+CON	time
+NIL	,
+UNK	there
+EPS	lived
+DIS	a
+IST	great
+CON	king
+REL	in
+GPE	Greece
+NIL	.

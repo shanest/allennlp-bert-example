@@ -1,0 +1,11 @@
+PRO	I
+ENS	doubt
+PER	Tom
+FUT	would
+EXS	be
+IST	interested
+REL	in
+EXG	joining
+DEF	the
+CON	army
+NIL	.

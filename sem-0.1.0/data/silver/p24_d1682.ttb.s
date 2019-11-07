@@ -1,0 +1,12 @@
+HAS	My
+ROL	mother
+ENS	likes
+CON	tulips
+INT	very
+QUV	much
+COO	and
+IST	so
+NOW	does
+HAS	my
+ROL	sister
+NIL	.

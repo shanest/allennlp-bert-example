@@ -1,0 +1,15 @@
+PER	Tom
+NEC	should
+NEC	definitely
+EXS	visit
+DIS	an
+CON	art
+CON	museum
+DIS	or
+QUC	two
+SUB	while
+PRO	he
+ENS	's
+REL	in
+GPE	France
+NIL	.

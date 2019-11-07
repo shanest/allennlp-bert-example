@@ -1,0 +1,12 @@
+QUE	What
+IST	female
+CON	leader
+EPS	succeeded
+PER	Ferdinand
+PER	Marcos
+EQU	as
+ROL	president
+AND	of
+DEF	the
+GEO	Philippines
+QUE	?

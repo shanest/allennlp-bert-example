@@ -1,0 +1,12 @@
+PER	Tom
+EPS	stepped
+IST	forward
+SUB	to
+EXS	kiss
+PER	Mary
+NIL	,
+COO	but
+PRO	she
+EPS	stepped
+IST	back
+NIL	.

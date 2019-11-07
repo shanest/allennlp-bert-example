@@ -1,0 +1,11 @@
+DEF	The
+CON	man
+SUB	that
+PRO	you
+EPS	saw
+UNK	there
+PST	yesterday
+PST	was
+ROL	Mr
+PER	Brown
+NIL	.

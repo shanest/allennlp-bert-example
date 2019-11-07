@@ -1,0 +1,13 @@
+PRO	It
+EPS	took
+PRO	me
+DIS	some
+CON	time
+SUB	to
+EXS	learn
+QUE	how
+SUB	to
+EXS	drive
+DIS	a
+CON	car
+NIL	.

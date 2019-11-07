@@ -1,0 +1,15 @@
+PRO	I
+NOW	am
+EXS	sorry
+PRO	I
+PST	did
+NOT	not
+EXS	write
+REL	to
+PRO	you
+REL	for
+AND	such
+DIS	a
+IST	long
+CON	time
+NIL	.

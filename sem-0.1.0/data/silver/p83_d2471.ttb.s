@@ -1,0 +1,11 @@
+PRO	I
+NOW	have
+EXS	written
+QUV	many
+CON	plays
+NIL	,
+BUT	but
+NOT	never
+DIS	a
+CON	poem
+NIL	.

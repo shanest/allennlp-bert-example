@@ -1,0 +1,12 @@
+PRO	I
+EPS	thought
+NIL	,
+NIL	"
+ITJ	Wow
+NIL	,
+QUE	what
+DIS	a
+IST	small
+CON	world
+NIL	!
+NIL	"

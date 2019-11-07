@@ -1,0 +1,10 @@
+PRO	It
+PST	was
+HAS	her
+IST	little
+ROL	sister
+SUB	that
+EPS	broke
+HAS	her
+CON	toy
+NIL	.

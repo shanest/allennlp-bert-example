@@ -1,0 +1,11 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	to
+EXS	give
+PRO	him
+DIS	a
+CON	call
+REL	after
+CON	dinner
+NIL	.

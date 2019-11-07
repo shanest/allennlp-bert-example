@@ -1,0 +1,9 @@
+PER	Tom
+NIL	,
+PRO	I
+IST	still
+ENS	love
+PRO	you
+INT	very
+QUV	much
+NIL	.

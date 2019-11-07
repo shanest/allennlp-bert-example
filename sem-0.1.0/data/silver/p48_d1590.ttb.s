@@ -1,0 +1,11 @@
+PRO	He
+EPS	gave
+PRO	me
+AND	all
+DEF	the
+CON	money
+PRO	he
+PST	had
+REL	on
+PRO	him
+NIL	.

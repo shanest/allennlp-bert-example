@@ -1,0 +1,9 @@
+PER	Laura
+NOW	is
+REL	from
+GPE	Brazil
+NIL	.
+PRO	She
+NOW	is
+GPO	Brazilian
+NIL	.

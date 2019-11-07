@@ -1,0 +1,11 @@
+PRO	She
+PST	was
+IST	ready
+SUB	to
+EXS	give
+PRO	him
+IST	back
+AND	all
+HAS	his
+CON	money
+NIL	.

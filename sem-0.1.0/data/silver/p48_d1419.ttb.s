@@ -1,0 +1,10 @@
+DEF	The
+GPO	German
+CON	team
+EPS	lost
+COO	and
+NOW	now
+PRO	I
+NOW	am
+EXS	sad
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+EXS	had
+PRO	it
+REL	with
+PRO	you
+AND	and
+HAS	your
+IST	stupid
+CON	ideas
+NIL	.

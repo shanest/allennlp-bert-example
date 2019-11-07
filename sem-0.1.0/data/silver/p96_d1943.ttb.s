@@ -1,0 +1,12 @@
+DEF	The
+ROL	farmer
+EPS	caught
+DEF	the
+CON	boy
+EXS	stealing
+DEF	the
+CON	apples
+REL	in
+HAS	his
+CON	orchard
+NIL	.

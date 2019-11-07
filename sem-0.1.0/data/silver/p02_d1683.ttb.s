@@ -1,0 +1,10 @@
+DIS	A
+CON	spark
+AND	of
+CON	hope
+PST	was
+EXG	shining
+REL	in
+HAS	his
+CON	eyes
+NIL	.

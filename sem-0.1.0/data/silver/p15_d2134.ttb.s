@@ -1,0 +1,11 @@
+PER	Paul
+NOW	is
+NOT	not
+IST	so
+QUV	much
+DIS	a
+ROL	singer
+AND	as
+DIS	a
+ROL	composer
+NIL	.

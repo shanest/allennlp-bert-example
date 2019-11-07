@@ -1,0 +1,11 @@
+HAS	My
+IST	first
+CON	impression
+EPS	was
+SUB	that
+PRO	he
+PST	was
+DIS	a
+REL	tactful
+ROL	politician
+NIL	.

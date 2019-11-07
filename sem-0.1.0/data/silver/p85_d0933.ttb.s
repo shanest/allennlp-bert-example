@@ -1,0 +1,9 @@
+PRO	She
+NOW	is
+EXS	buying
+DIS	a
+CON	toy
+REL	for
+HAS	her
+CON	child
+NIL	.

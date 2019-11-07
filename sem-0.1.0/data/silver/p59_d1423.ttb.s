@@ -1,0 +1,16 @@
+PRO	I
+NOW	'm
+EXS	sorry
+SUB	to
+EXS	disturb
+PRO	you
+NIL	,
+COO	but
+UNK	there
+HAS	's
+DIS	a
+CON	phone
+EXS	call
+REL	for
+PRO	you
+NIL	.

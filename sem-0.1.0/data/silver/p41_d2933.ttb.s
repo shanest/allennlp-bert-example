@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+DEF	the
+CON	man
+PER	Mary
+EPS	met
+DEF	the
+ALT	other
+CON	day
+NIL	.

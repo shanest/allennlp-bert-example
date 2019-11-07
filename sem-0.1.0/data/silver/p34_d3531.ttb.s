@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	going
+SUB	to
+EXS	speed
+IST	up
+DEF	the
+CON	video
+NIL	.

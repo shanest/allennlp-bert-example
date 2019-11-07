@@ -1,0 +1,24 @@
+AND	So
+IST	far
+UNK	there
+PST	was
+XCL	only
+QUC	one
+CON	participant
+AND	who
+EPS	won
+QUC	one million
+GPO	Israeli
+CON	Shekels
+REL	in
+NIL	"
+SUB	Who
+CON	Wants
+SUB	to
+EXS	Be
+DIS	a
+ROL	Millionaire
+NIL	"
+REL	in
+GEO	Israel
+NIL	.

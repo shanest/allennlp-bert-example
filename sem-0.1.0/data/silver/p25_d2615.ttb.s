@@ -1,0 +1,9 @@
+GPE	Eritrea
+NOW	is
+EXS	called
+NIL	"
+GEO	Erta
+NIL	"
+REL	in
+GEO	Tigrinya
+NIL	.

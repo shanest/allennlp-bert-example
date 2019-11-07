@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	prefer
+DIS	an
+CON	apple
+DIS	or
+DIS	a
+CON	pear
+QUE	?

@@ -1,0 +1,10 @@
+DEF	The
+CON	bus
+EPS	stopped
+NIL	,
+BUT	but
+NOT	no
+CON	one
+PST	got
+IST	out
+NIL	.

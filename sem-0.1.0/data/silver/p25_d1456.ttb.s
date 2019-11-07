@@ -1,0 +1,10 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+PRO	you
+PST	were
+EXS	related
+REL	to
+PER	Tom
+NIL	.

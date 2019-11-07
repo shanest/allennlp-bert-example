@@ -1,0 +1,10 @@
+DEF	The
+CON	pigs
+NOW	are
+EXS	coming
+NIL	!
+EXS	Let
+PRO	's
+EPS	beat
+PRO	it
+NIL	!

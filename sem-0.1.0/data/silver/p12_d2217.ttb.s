@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+IST	sure
+SUB	that
+PER	Midori
+ENS	plays
+DEF	the
+CON	violin
+IST	well
+QUE	?

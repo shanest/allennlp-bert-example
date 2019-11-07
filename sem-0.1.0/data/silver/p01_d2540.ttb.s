@@ -1,0 +1,13 @@
+PRO	I
+EPS	spoke
+REL	in
+DIS	a
+CON	voice
+IST	loud
+IST	enough
+NIL	to
+EXS	be
+EXS	heard
+REL	by
+AND	everyone
+NIL	.

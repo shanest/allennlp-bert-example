@@ -1,0 +1,12 @@
+PER	Tom
+ENS	picks
+PRO	me
+IST	up
+AND	every
+CON	morning
+REL	on
+HAS	his
+CON	way
+SUB	to
+EXS	work
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+EPS	gave
+PER	Mary
+AND	every
+CON	thing
+PRO	she
+EPS	asked
+REL	for
+NIL	.

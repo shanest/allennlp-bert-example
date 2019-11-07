@@ -1,0 +1,13 @@
+AND	Even
+SUB	when
+PRO	she
+NOW	's
+NOT	not
+EXS	wearing
+CON	makeup
+NIL	,
+PRO	she
+NOW	's
+INT	very
+EXS	beautiful
+NIL	.

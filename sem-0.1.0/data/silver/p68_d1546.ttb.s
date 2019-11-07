@@ -1,0 +1,14 @@
+PRO	I
+ENS	wish
+AND	everybody
+FUT	would
+EXS	stop
+EXG	telling
+PRO	me
+PRO	I
+ENS	need
+SUB	to
+EXS	be
+IST	more
+EXS	careful
+NIL	.

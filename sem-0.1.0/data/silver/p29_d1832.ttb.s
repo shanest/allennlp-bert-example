@@ -1,0 +1,11 @@
+PER	Ellen
+PST	was
+IST	so
+EXS	tired
+SUB	that
+PRO	she
+EPS	went
+REL	to
+CON	bed
+IST	early
+NIL	.

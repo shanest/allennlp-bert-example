@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	take
+SUB	that
+AND	as
+DIS	a
+CON	yes
+NIL	.

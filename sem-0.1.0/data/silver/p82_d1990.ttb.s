@@ -1,0 +1,9 @@
+ITJ	Yikes
+NIL	,
+PRO	we
+NOW	are
+REL	in
+DEF	the
+CON	soup
+NOW	now
+NIL	!

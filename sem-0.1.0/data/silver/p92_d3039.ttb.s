@@ -1,0 +1,10 @@
+DEF	The
+CON	car
+NOW	is
+EXS	equipped
+REL	with
+IST	digitally
+IST	controlled
+CON	air
+CON	conditioning
+NIL	.

@@ -1,0 +1,16 @@
+DIS	A
+CON	philosopher
+NOW	is
+DIS	a
+CON	man
+AND	who
+POS	can
+EXS	solve
+AND	all
+CON	problems
+NIL	,
+NOT	except
+REL	for
+HAS	his
+CON	own
+NIL	.

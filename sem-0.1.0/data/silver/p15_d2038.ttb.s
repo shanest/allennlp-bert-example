@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	seen
+PER	Tom
+NOW	wear
+DIS	a
+CON	hat
+NIL	.

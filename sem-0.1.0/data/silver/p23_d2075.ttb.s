@@ -1,0 +1,11 @@
+PRO	I
+EPS	took
+DIS	a
+CON	taxi
+REL	from
+DEF	the
+CON	station
+REL	to
+DEF	the
+CON	hotel
+NIL	.

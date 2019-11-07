@@ -1,0 +1,11 @@
+REL	With
+DEF	the
+CON	wig
+REL	on
+NIL	,
+PRO	he
+EPS	looked
+AND	like
+DIS	a
+CON	woman
+NIL	.

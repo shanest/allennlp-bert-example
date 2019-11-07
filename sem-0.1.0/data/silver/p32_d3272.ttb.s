@@ -1,0 +1,10 @@
+EXS	Let
+PRO	's
+EXS	take
+DIS	a
+CON	picture
+REL	for
+CON	memory
+HAS	's
+CON	sake
+NIL	.

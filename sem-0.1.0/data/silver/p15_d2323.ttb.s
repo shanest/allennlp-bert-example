@@ -1,0 +1,15 @@
+PRO	We
+EPS	heard
+DEF	the
+CON	echo
+AND	of
+HAS	our
+CON	voices
+REL	from
+DEF	the
+ALT	other
+CON	side
+AND	of
+DEF	the
+CON	valley
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+ENS	feel
+AND	like
+EXG	taking
+DIS	a
+CON	day
+REL	off
+FUT	tomorrow
+NIL	.

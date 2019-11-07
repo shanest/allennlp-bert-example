@@ -1,0 +1,10 @@
+PRO	It
+FUT	would
+EXS	be
+IST	great
+IMP	if
+PRO	we
+POS	could
+EXS	meet
+ALT	again
+NIL	.

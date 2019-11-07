@@ -1,0 +1,11 @@
+NOW	Have
+PRO	you
+EPS	made
+IST	up
+HAS	your
+CON	mind
+SUB	to
+EXS	come
+REL	with
+PRO	me
+QUE	?

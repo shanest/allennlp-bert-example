@@ -1,0 +1,16 @@
+PRO	I
+NEC	had
+SUB	to
+EXS	think
+AND	about
+DEF	the
+CON	problem
+REL	for
+IST	quite
+DIS	a
+SUB	while
+SUB	before
+PRO	I
+EPS	saw
+CON	daylight
+NIL	.

@@ -1,0 +1,9 @@
+EXS	Did
+PER	Tom
+IST	ever
+EXS	mention
+DIS	a
+IST	Canadian
+EPS	named
+PER	Mary
+QUE	?

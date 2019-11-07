@@ -1,0 +1,11 @@
+NOT	No
+CON	one
+PST	was
+REL	in
+DIS	a
+CON	hurry
+SUB	to
+EXS	leave
+DEF	the
+CON	party
+NIL	.

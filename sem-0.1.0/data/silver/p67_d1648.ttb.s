@@ -1,0 +1,12 @@
+PRO	I
+PST	was
+EXS	told
+SUB	that
+PRO	we
+ENS	need
+SUB	to
+EXS	be
+IST	there
+REL	by
+CLO	2:30
+NIL	.

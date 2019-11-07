@@ -1,0 +1,10 @@
+NOW	Is
+PRO	it
+EXS	true
+QUE	what
+PRO	they
+NOW	're
+EXS	saying
+REL	about
+PER	Tom
+QUE	?

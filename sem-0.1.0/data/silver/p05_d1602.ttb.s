@@ -1,0 +1,14 @@
+PRO	We
+ENS	know
+SUB	that
+PRO	you
+NOW	're
+IST	superficial
+IST	enough
+SUB	to
+EXS	be
+EXS	happy
+AND	about
+PRX	this
+CON	gift
+NIL	.

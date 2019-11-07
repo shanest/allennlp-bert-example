@@ -1,0 +1,9 @@
+PER	Joan
+EPS	broke
+HAS	her
+IST	left
+CON	arm
+REL	in
+DEF	the
+CON	accident
+NIL	.

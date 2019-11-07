@@ -1,0 +1,12 @@
+QUE	How
+QUV	many
+CON	students
+NOW	have
+PFT	been
+EXS	admitted
+REL	to
+DEF	the
+CON	school
+PRX	this
+CON	year
+QUE	?

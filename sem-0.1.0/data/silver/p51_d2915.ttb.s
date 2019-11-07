@@ -1,0 +1,10 @@
+UNK	B
+NIL	.
+PER	Franklin
+PST	was
+DIS	an
+GPO	American
+ROL	statesman
+AND	and
+ROL	inventor
+NIL	.

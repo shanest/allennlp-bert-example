@@ -1,0 +1,11 @@
+AND	All
+DEF	the
+CON	men
+PST	were
+EXS	wearing
+IST	dark
+CON	suits
+AND	and
+COL	white
+CON	shirts
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+ENS	seems
+SUB	to
+EXS	be
+EXS	angry
+NIL	,
+BUT	but
+NOT	not
+AND	as
+EXS	angry
+AND	as
+PER	Mary
+NIL	.

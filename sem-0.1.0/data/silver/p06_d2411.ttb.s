@@ -1,0 +1,16 @@
+PRO	It
+NOW	takes
+APX	approximately
+QUC	4.6
+CON	Earth
+CON	years
+REL	for
+GEO	Ceres
+SUB	to
+EXS	make
+QUC	one
+CON	revolution
+AND	around
+DEF	the
+CON	Sun
+NIL	.

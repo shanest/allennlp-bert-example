@@ -1,0 +1,9 @@
+PRO	I
+EPS	made
+CON	hotel
+CON	reservations
+QUC	one
+CON	month
+REL	in
+CON	advance
+NIL	.

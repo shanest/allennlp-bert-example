@@ -1,0 +1,12 @@
+HAS	My
+CON	wife
+EPS	used
+SUB	to
+EXS	stay
+CON	home
+NIL	,
+COO	but
+PRO	she
+ENS	works
+NOW	now
+NIL	.

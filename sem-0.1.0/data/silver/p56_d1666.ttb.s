@@ -1,0 +1,11 @@
+DEF	The
+QUC	two
+EPS	felt
+DEF	the
+IST	pressing
+CON	necessity
+AND	of
+EXS	earning
+DIS	a
+CON	livelihood
+NIL	.

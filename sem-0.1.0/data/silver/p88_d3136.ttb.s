@@ -1,0 +1,10 @@
+PRO	It
+ENS	's
+DIS	a
+CON	custom
+NIL	to
+EXS	have
+CON	turkey
+REL	at
+TIM	Thanksgiving
+NIL	.

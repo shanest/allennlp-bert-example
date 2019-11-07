@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+NOT	nothing
+SUB	to
+EXS	fear
+REL	from
+DIS	someone
+SUB	as
+EXS	pigeon-livered
+AND	as
+PRO	him
+NIL	.

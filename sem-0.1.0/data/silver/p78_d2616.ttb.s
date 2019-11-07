@@ -1,0 +1,11 @@
+CON	Look
+NIL	,
+HAS	my
+CON	house
+NOW	is
+NOT	not
+SUB	as
+EXS	dirty
+AND	as
+HAS	yours
+NIL	.

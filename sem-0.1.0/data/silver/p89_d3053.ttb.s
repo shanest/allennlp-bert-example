@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+DEF	the
+TOP	tallest
+CON	tree
+SUB	that
+PRO	I
+IST	ever
+EPS	saw
+NIL	.

@@ -1,0 +1,9 @@
+EXS	Did
+PRO	you
+EXS	ask
+PER	Tom
+SUB	where
+PRO	he
+PST	'd
+PFT	been
+QUE	?

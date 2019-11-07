@@ -1,0 +1,9 @@
+PRO	She
+NOW	's
+NOT	not
+MOR	more
+EXS	beautiful
+AND	than
+HAS	their
+ROL	mother
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+CON	woman
+REL	on
+DEF	the
+CON	bench
+NOW	is
+ROL	Mrs.
+PER	Brown
+NIL	.

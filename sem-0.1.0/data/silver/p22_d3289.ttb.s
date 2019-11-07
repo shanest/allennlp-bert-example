@@ -1,0 +1,17 @@
+EXS	Let
+PRO	's
+NOW	have
+DIS	a
+CON	contest
+NIL	.
+DEF	The
+CON	side
+SUB	to
+EXS	come
+IST	up
+REL	with
+DEF	the
+BOT	worst
+CON	insult
+ENS	wins
+NIL	.

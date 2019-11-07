@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+NIL	to
+EXS	hear
+AND	about
+AND	all
+HAS	your
+PST	ex
+ROL	boyfriends
+NIL	.

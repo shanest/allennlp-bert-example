@@ -1,0 +1,12 @@
+PRO	She
+EPS	came
+IST	out
+AND	of
+DEF	the
+CON	shower
+REL	with
+XCL	only
+DIS	a
+CON	towel
+REL	on
+NIL	.

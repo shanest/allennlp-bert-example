@@ -1,0 +1,11 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	singing
+DIS	a
+CON	lot
+AND	of
+IST	sad
+CON	songs
+IST	recently
+NIL	.

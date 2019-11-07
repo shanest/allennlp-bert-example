@@ -1,0 +1,10 @@
+PRO	I
+EPS	took
+DIS	a
+CON	shower
+AND	and
+IST	then
+EPS	went
+REL	to
+CON	bed
+NIL	.

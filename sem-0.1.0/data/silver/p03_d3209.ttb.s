@@ -1,0 +1,12 @@
+PER	Tom
+NOW	has
+PFT	been
+EXG	sitting
+REL	in
+DST	that
+CON	room
+AND	alone
+REL	for
+QUC	five
+UOM	hours
+NIL	.

@@ -1,0 +1,13 @@
+DEF	The
+CON	village
+EPS	lay
+REL	in
+DIS	a
+CON	valley
+APX	about
+CON	half
+DIS	a
+UOM	mile
+REL	in
+CON	breadth
+NIL	.

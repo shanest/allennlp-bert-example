@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	still
+INT	too
+IST	weak
+SUB	to
+EXS	get
+IST	out
+AND	of
+CON	bed
+NIL	.

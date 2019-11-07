@@ -1,0 +1,10 @@
+DEF	The
+CON	money
+PST	was
+AND	all
+IST	there
+NIL	.
+NOT	Nobody
+EPS	touched
+PRO	it
+NIL	.

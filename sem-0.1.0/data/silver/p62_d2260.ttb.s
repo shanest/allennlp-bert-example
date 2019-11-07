@@ -1,0 +1,9 @@
+PRO	I
+EPS	forgot
+SUB	to
+EXS	tell
+PRO	you
+HAS	my
+CON	phone
+CON	number
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	starving
+NIL	!
+GRE	Hurry
+EQU	and
+EXS	give
+PRO	me
+DIS	something
+SUB	to
+EXS	eat
+NIL	.

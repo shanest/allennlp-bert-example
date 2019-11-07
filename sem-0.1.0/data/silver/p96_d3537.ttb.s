@@ -1,0 +1,11 @@
+DEF	The
+CON	queen
+EPS	shook
+CON	hands
+REL	with
+AND	each
+CON	player
+REL	after
+DEF	the
+CON	game
+NIL	.

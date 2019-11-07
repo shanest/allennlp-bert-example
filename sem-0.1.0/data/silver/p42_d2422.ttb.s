@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	had
+PFT	been
+EXS	married
+REL	for
+QUC	three
+CON	years
+REL	by
+IST	then
+NIL	.

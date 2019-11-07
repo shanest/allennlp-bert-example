@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+EXT	caused
+PRO	me
+DIS	a
+CON	lot
+AND	of
+CON	trouble
+NIL	.

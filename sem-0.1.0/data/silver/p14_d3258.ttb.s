@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+CON	lots
+AND	of
+GEO	acquaintances
+BUT	but
+INT	very
+IST	few
+CON	friends
+NIL	.

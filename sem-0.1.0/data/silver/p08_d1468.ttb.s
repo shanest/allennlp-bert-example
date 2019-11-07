@@ -1,0 +1,10 @@
+POS	May
+CON	God
+EXS	protect
+PRO	you
+REL	from
+DST	those
+AND	who
+NOW	hate
+PRO	you
+NIL	!

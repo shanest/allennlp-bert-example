@@ -1,0 +1,9 @@
+FUT	Will
+PRO	you
+EXS	help
+PRO	me
+REL	with
+HAS	my
+GPO	French
+CON	homework
+QUE	?

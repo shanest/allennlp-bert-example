@@ -1,0 +1,14 @@
+PRO	You
+EPS	blocked
+PRO	me
+REL	on
+ART	Facebook
+NIL	,
+COO	and
+NOW	now
+PRO	you
+NOW	're
+EXS	going
+SUB	to
+EXS	die
+NIL	.

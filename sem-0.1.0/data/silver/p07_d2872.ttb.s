@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	appear
+SUB	to
+EXS	be
+EXG	paying
+CON	attention
+NIL	.

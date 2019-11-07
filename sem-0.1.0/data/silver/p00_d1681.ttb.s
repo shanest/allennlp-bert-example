@@ -1,0 +1,10 @@
+EXS	Let
+PRO	's
+EXS	build
+DEF	the
+CON	country
+REL	with
+CON	actions
+AND	and
+CON	words
+NIL	.

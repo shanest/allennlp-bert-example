@@ -1,0 +1,11 @@
+ROL	Dr.
+PER	Kevorkian
+EXS	assisted
+PER	Janet
+PER	Adkins
+SUB	to
+EXS	use
+HAS	his
+CON	suicide
+CON	device
+NIL	.

@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+IST	good
+SUB	that
+DEF	the
+CON	horse
+PST	did
+NOT	n't
+EXS	suffer
+NIL	.

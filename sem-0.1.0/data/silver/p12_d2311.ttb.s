@@ -1,0 +1,12 @@
+IST	Please
+EXS	lend
+PRO	me
+DEF	the
+CON	book
+SUB	when
+PRO	you
+NEC	have
+EXS	finished
+EXG	reading
+PRO	it
+NIL	.

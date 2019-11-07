@@ -1,0 +1,11 @@
+PRO	She
+ENS	reads
+REL	on
+IST	average
+QUC	three
+DIS	or
+QUC	four
+CON	books
+DIS	a
+CON	week
+NIL	.

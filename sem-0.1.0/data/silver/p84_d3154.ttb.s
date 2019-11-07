@@ -1,0 +1,16 @@
+PRO	He
+EPS	escaped
+REL	from
+CON	prison
+QUC	thirty
+CON	years
+AND	ago
+AND	and
+NOW	has
+EXS	been
+REL	on
+DEF	the
+CON	lam
+IST	ever
+REL	since
+NIL	.

@@ -1,0 +1,12 @@
+QUE	What
+PST	did
+PRO	you
+EXS	say
+QUE	?
+AND	Could
+PRO	you
+IST	please
+NOW	say
+PRO	it
+ALT	again
+QUE	?

@@ -1,0 +1,13 @@
+HAS	Your
+IST	elder
+CON	brother
+NOW	is
+EXS	doing
+HAS	his
+CON	homework
+NIL	,
+PRO	you
+POS	can
+XCL	only
+EXS	play
+NIL	!

@@ -1,0 +1,9 @@
+PER	Tom
+EPS	wished
+PRO	he
+EPS	knew
+MOR	more
+MOR	than
+QUC	one
+CON	language
+NIL	.

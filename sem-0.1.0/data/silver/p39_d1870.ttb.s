@@ -1,0 +1,10 @@
+CON	Work
+CON	pace
+NOW	is
+EXS	left
+IST	up
+REL	to
+DEF	the
+IST	individual
+ROL	employee
+NIL	.

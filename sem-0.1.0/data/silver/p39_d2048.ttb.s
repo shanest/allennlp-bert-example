@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	understood
+DIS	something
+AND	of
+QUE	what
+PRO	he
+ENS	says
+QUE	?

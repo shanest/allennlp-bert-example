@@ -1,0 +1,16 @@
+NIL	"
+UNK	There
+NOW	are
+NOT	no
+IST	more
+CON	cakes
+QUE	?
+NIL	"
+NIL	"
+PRO	I
+EPS	ate
+AND	both
+AND	of
+PRO	them
+NIL	.
+NIL	"

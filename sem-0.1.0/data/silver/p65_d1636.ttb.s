@@ -1,0 +1,12 @@
+PER	Tom
+EPS	flipped
+DEF	the
+CON	coin
+REL	in
+DEF	the
+CON	air
+AND	and
+IST	then
+EPS	caught
+PRO	it
+NIL	.

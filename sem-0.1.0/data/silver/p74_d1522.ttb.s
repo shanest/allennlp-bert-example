@@ -1,0 +1,13 @@
+PRO	I
+PST	had
+NOT	never
+EXS	seen
+HAS	my
+CON	father
+SUB	so
+EXS	angry
+NIL	.
+PRO	He
+PST	was
+EXS	shouting
+NIL	.

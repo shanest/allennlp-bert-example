@@ -1,0 +1,11 @@
+CON	Ca
+NOT	n't
+PRO	you
+EXS	see
+PER	Tom
+NOW	is
+EXS	trying
+SUB	to
+EXS	help
+PRO	you
+QUE	?

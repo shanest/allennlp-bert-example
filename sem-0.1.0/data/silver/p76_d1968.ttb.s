@@ -1,0 +1,11 @@
+PRO	I
+EPS	talked
+HAS	my
+CON	wife
+AND	out
+AND	of
+EXS	buying
+DIS	a
+IST	new
+CON	car
+NIL	.

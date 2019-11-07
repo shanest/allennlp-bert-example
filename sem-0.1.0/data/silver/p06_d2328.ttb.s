@@ -1,0 +1,17 @@
+PRO	We
+NEC	must
+CON	respect
+AND	each
+AND	of
+CON	God
+HAS	's
+CON	creatures
+AND	and
+CON	respect
+DEF	the
+CON	environment
+REL	in
+UNK	which
+PRO	we
+ENS	live
+NIL	.

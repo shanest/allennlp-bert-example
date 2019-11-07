@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+EXS	decided
+SUB	to
+EXS	write
+QUC	20
+CON	sentences
+AND	every
+CON	day
+REL	on
+PRX	Tatoeba
+NIL	.

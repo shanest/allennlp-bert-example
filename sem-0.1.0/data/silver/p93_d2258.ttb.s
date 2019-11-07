@@ -1,0 +1,14 @@
+PRO	You
+ENS	know
+CON	times
+NOW	have
+EXS	changed
+SUB	when
+CON	rivals
+AND	like
+GEO	Hitachi
+AND	and
+ORG	NEC
+NOW	get
+IST	together
+NIL	.

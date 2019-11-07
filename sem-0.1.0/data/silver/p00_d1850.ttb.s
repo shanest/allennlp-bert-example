@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+IST	even
+EXS	offer
+PER	Mary
+DIS	a
+CON	cup
+REL	of
+CON	coffee
+NIL	.

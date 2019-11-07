@@ -1,0 +1,10 @@
+QUE	How
+PST	did
+PRO	you
+EXS	know
+SUB	that
+PER	Tom
+FUT	would
+EXS	be
+IST	late
+QUE	?

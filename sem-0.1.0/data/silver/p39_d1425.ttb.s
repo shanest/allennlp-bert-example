@@ -1,0 +1,11 @@
+PRO	He
+EPS	took
+CON	advantage
+AND	of
+DEF	the
+CON	opportunity
+SUB	to
+EXS	visit
+DEF	the
+CON	museum
+NIL	.

@@ -1,0 +1,12 @@
+GPE	London
+NIL	,
+DEF	the
+CON	capital
+AND	of
+GPE	England
+NIL	,
+NOW	is
+REL	on
+DEF	the
+GEO	Thames
+NIL	.

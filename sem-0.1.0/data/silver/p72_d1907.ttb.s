@@ -1,0 +1,14 @@
+PER	Tom
+ENS	reads
+GPO	French
+IST	quite
+IST	well
+NIL	,
+BUT	but
+NOW	is
+NOT	n't
+IST	able
+SUB	to
+EXS	speak
+PRO	it
+NIL	.

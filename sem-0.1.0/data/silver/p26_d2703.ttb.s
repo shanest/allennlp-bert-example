@@ -1,0 +1,13 @@
+PER	Tom
+IST	just
+EPS	took
+DIS	a
+CON	chance
+COO	and
+EPS	called
+PER	Mary
+SUB	to
+EXS	ask
+HAS	her
+IST	out
+NIL	.

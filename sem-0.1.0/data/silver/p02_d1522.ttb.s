@@ -1,0 +1,11 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	go
+SUB	when
+PRO	I
+NOW	have
+NOT	n't
+PFT	been
+EXS	invited
+NIL	.

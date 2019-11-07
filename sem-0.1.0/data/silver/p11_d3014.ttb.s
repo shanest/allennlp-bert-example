@@ -1,0 +1,13 @@
+DEF	The
+CON	children
+EPS	rode
+DIS	a
+CON	toboggan
+AND	down
+DEF	the
+CON	hill
+REL	in
+DEF	the
+IST	snowy
+CON	weather
+NIL	.

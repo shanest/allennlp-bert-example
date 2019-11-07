@@ -1,0 +1,10 @@
+PRO	I
+FUT	will
+EXS	teach
+PRO	you
+QUE	how
+SUB	to
+CON	fish
+AND	next
+DOW	Sunday
+NIL	.

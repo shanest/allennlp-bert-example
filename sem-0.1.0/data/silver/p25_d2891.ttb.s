@@ -1,0 +1,13 @@
+PRO	You
+NOW	're
+QUC	one
+AND	of
+DEF	the
+INT	most
+IST	interesting
+CON	women
+PRO	I
+NOW	've
+IST	ever
+EXS	met
+NIL	!

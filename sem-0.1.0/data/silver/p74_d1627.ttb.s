@@ -1,0 +1,12 @@
+DST	That
+HAS	's
+DEF	the
+CON	man
+PRO	I
+NOW	've
+PFT	been
+EXS	waiting
+REL	for
+DIS	a
+CON	week
+NIL	.

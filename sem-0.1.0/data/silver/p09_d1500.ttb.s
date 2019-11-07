@@ -1,0 +1,13 @@
+NOW	Do
+PRO	you
+ENS	want
+SUB	to
+EXS	go
+DIS	somewhere
+QUE	?
+PER	Tom
+NOW	's
+EXS	coming
+NIL	,
+ALT	too
+NIL	.

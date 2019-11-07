@@ -1,0 +1,16 @@
+PER	Mary
+NOW	's
+NOT	not
+IST	always
+EXS	like
+SUB	that
+NIL	.
+PRO	You
+IST	just
+EPS	caught
+PRO	her
+REL	on
+DIS	a
+IST	bad
+CON	day
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+REL	on
+DEF	the
+IST	same
+CON	team
+NIL	.

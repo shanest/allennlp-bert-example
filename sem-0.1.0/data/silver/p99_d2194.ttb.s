@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+DIS	a
+CON	river
+AND	that
+NOW	has
+NOT	never
+PFT	been
+EXS	explored
+NIL	.

@@ -1,0 +1,9 @@
+REL	Since
+YOC	2006
+PER	Montenegro
+NOW	is
+DIS	an
+IST	independent
+CON	state
+ALT	again
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+EPS	wanted
+SUB	to
+EXS	be
+REL	on
+IST	equal
+CON	footing
+REL	with
+HAS	his
+ROL	mother
+NIL	.

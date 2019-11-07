@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	shaking
+CON	hands
+REL	with
+HAS	my
+BOT	worst
+ROL	enemy
+NIL	.

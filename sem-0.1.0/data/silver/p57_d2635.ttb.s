@@ -1,0 +1,13 @@
+IMP	If
+PRO	you
+ENS	know
+DEF	the
+CON	answer
+REL	to
+PRX	this
+CON	question
+NIL	,
+IST	please
+EXS	tell
+PRO	me
+NIL	.

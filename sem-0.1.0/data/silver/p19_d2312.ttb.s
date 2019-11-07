@@ -1,0 +1,11 @@
+AND	Why
+PST	did
+CON	God
+EXS	make
+DEF	the
+CON	world
+DEF	the
+CON	way
+PRO	He
+PST	did
+QUE	?

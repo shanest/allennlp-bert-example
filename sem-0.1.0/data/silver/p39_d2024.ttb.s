@@ -1,0 +1,11 @@
+PRO	He
+EPS	told
+PRO	me
+SUB	that
+PRO	he
+EPS	liked
+SUB	to
+EXS	work
+REL	in
+GPE	Chad
+NIL	.

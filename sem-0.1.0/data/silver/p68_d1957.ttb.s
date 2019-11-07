@@ -1,0 +1,9 @@
+PRO	You
+NOW	're
+DEF	the
+XCL	only
+QUC	one
+AND	who
+EPS	bought
+PRO	it
+NIL	.

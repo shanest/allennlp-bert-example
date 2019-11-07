@@ -1,0 +1,13 @@
+NOW	Do
+NOT	n't
+EXS	step
+REL	on
+DST	that
+CON	rock
+NIL	.
+PRO	It
+NOW	's
+EXS	going
+SUB	to
+EXS	fall
+NIL	.

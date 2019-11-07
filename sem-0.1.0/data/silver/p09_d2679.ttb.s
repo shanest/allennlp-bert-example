@@ -1,0 +1,15 @@
+DEF	The
+CON	meeting
+CON	room
+NEC	must
+EXS	be
+IST	able
+SUB	to
+EXS	receive
+AND	all
+DEF	the
+CON	workers
+AND	of
+DEF	the
+CON	company
+NIL	.

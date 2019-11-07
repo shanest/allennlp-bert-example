@@ -1,0 +1,11 @@
+PRO	I
+AND	always
+EXS	drink
+DIS	a
+CON	cup
+AND	of
+CON	coffee
+REL	in
+DEF	the
+CON	morning
+NIL	.

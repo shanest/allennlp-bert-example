@@ -1,0 +1,10 @@
+PRO	I
+IST	usually
+EPS	got
+IST	up
+REL	at
+CLO	five
+REL	in
+DST	those
+CON	days
+NIL	.

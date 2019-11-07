@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	told
+PRO	you
+AND	all
+AND	of
+PRX	this
+QUC	once
+IST	already
+NIL	.

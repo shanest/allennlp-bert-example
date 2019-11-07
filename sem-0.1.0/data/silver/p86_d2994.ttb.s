@@ -1,0 +1,12 @@
+PER	Tom
+EPS	gave
+PER	Mary
+DIS	some
+CON	advice
+REL	on
+QUE	how
+SUB	to
+EXS	pass
+CON	multiple-choice
+CON	tests
+NIL	.

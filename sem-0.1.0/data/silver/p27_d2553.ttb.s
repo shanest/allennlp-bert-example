@@ -1,0 +1,9 @@
+NIL	There
+NOW	are
+XCL	only
+QUC	three
+CON	maids
+REL	in
+PRX	this
+CON	hotel
+NIL	.

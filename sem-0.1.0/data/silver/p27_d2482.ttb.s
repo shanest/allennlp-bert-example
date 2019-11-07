@@ -1,0 +1,10 @@
+PRO	We
+FUT	would
+NOW	now
+EXS	like
+SUB	to
+EXS	have
+DIS	some
+CON	sample
+CON	flashlights
+NIL	.

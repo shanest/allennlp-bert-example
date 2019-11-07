@@ -1,0 +1,11 @@
+NOW	Today
+NOW	is
+EXS	hot
+SUB	so
+PRO	we
+POS	can
+EXS	swim
+REL	in
+DEF	the
+CON	ocean
+NIL	.

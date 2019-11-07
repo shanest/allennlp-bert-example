@@ -1,0 +1,15 @@
+PER	Tom
+EPS	gave
+PRO	me
+DIS	a
+CON	couple
+AND	of
+CON	slices
+AND	of
+CON	toast
+AND	and
+DIS	a
+CON	glass
+AND	of
+CON	milk
+NIL	.

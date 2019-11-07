@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	trust
+DIS	any
+CON	one
+NOT	except
+PRO	myself
+NIL	.

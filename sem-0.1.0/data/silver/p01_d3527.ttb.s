@@ -1,0 +1,10 @@
+AND	Everything
+ENS	has
+QUC	two
+CON	sides
+NIL	.
+CON	Fanatics
+XCL	only
+ENS	see
+QUC	one
+NIL	.

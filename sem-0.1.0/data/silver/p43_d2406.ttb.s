@@ -1,0 +1,10 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+SUB	that
+DIS	someone
+PST	was
+EXS	watching
+PRO	me
+NIL	.

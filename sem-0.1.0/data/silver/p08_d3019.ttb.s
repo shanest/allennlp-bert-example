@@ -1,0 +1,13 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PRO	I
+EXS	let
+PER	Tom
+EXS	talk
+PRO	me
+REL	into
+EXG	doing
+PRX	this
+NIL	.

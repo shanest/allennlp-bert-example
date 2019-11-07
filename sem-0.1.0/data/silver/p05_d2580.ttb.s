@@ -1,0 +1,12 @@
+QUE	How
+QUV	many
+CON	people
+FUT	will
+EXS	be
+EXS	living
+REL	on
+GEO	Earth
+REL	in
+QUC	one
+CON	century
+QUE	?

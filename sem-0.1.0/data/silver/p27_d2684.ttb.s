@@ -1,0 +1,12 @@
+EXS	Tell
+PRO	them
+PRO	I
+FUT	wo
+NOT	n't
+EXS	allow
+PER	Mary
+SUB	to
+EXS	leave
+DEF	the
+CON	country
+NIL	.

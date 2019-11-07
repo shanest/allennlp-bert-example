@@ -1,0 +1,11 @@
+PRO	I
+ENS	wish
+PRO	I
+EPS	had
+IST	enough
+CON	money
+SUB	to
+EXS	buy
+DEF	the
+CON	car
+NIL	.

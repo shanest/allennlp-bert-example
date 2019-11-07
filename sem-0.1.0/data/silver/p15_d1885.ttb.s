@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	lost
+NIL	.
+AND	Could
+PRO	you
+EXS	direct
+PRO	me
+REL	to
+DEF	the
+CON	station
+QUE	?

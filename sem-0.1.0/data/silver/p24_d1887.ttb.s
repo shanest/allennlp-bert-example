@@ -1,0 +1,10 @@
+PRO	I
+EPS	watched
+PRO	them
+CON	skin
+DIS	a
+IST	human
+EXS	being
+SUB	that
+CON	day
+NIL	.

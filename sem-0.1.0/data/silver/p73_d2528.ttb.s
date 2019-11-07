@@ -1,0 +1,12 @@
+QUC	Much
+NOW	has
+IST	already
+PFT	been
+EPS	said
+AND	about
+DEF	the
+CON	difficulty
+AND	of
+EXS	translating
+CON	poetry
+NIL	.

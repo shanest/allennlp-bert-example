@@ -1,0 +1,17 @@
+SUB	To
+EXS	err
+NOW	is
+IST	human
+NIL	.
+SUB	To
+EXS	blame
+DIS	someone
+AND	else
+REL	for
+HAS	your
+CON	mistakes
+NOW	is
+AND	even
+MOR	more
+IST	human
+NIL	.

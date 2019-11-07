@@ -1,0 +1,17 @@
+DEF	The
+CON	morning
+SUB	after
+PRO	I
+EPS	arrived
+IST	there
+NIL	,
+PRO	I
+EPS	took
+DIS	a
+CON	walk
+REL	into
+DEF	the
+CON	woods
+AND	of
+CON	oaks
+NIL	.

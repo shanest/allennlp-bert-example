@@ -1,0 +1,9 @@
+PRO	I
+PST	was
+REL	in
+CON	hospital
+DIS	a
+IST	few
+CON	days
+PST	ago
+NIL	.

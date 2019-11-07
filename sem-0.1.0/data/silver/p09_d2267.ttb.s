@@ -1,0 +1,11 @@
+PER	Tom
+NOW	has
+DIS	a
+CON	room
+REL	at
+DEF	the
+CON	hotel
+REL	near
+DEF	the
+CON	river
+NIL	.

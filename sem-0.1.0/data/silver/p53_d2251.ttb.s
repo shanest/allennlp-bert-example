@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+IST	left-handed
+NIL	,
+BUT	but
+PRO	he
+ENS	writes
+REL	with
+HAS	his
+IST	right
+CON	hand
+NIL	.

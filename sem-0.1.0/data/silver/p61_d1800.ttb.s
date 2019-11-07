@@ -1,0 +1,10 @@
+PER	Rich
+CON	mineral
+CON	deposits
+NOW	have
+PFT	been
+EXS	discovered
+IST	recently
+REL	in
+GEO	Afghanistan
+NIL	.

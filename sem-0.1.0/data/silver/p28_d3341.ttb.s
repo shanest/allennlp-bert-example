@@ -1,0 +1,17 @@
+PER	Bolas
+NOW	are
+EXS	made
+IST	up
+AND	of
+DIS	a
+IST	long
+CON	cord
+REL	with
+QUC	two
+CON	stone
+CON	balls
+REL	at
+DEF	the
+IST	free
+CON	ends
+NIL	.

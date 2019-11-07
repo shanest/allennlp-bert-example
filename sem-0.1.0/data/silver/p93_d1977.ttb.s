@@ -1,0 +1,17 @@
+QUC	Three
+CON	boys
+EPS	came
+REL	in
+NIL	.
+PRO	I
+EPS	spoke
+REL	to
+DEF	the
+CON	boy
+AND	who
+EPS	seemed
+SUB	to
+EXS	be
+DEF	the
+TOP	oldest
+NIL	.

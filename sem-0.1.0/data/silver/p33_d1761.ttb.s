@@ -1,0 +1,15 @@
+QUE	What
+CON	kind
+AND	of
+CON	music
+NOW	do
+PRO	you
+ENS	like
+SUB	to
+EXS	listen
+REL	to
+SUB	when
+PRO	you
+NOW	're
+EXS	driving
+QUE	?

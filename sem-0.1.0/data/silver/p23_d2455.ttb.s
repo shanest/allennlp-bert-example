@@ -1,0 +1,12 @@
+AND	Last
+CON	summer
+NIL	,
+PRO	I
+IST	always
+EPS	took
+DIS	a
+CON	walk
+REL	in
+DEF	the
+CON	morning
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOT	never
+PST	had
+DEF	the
+CON	courage
+SUB	to
+EXS	open
+PRO	it
+NIL	.

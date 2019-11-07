@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	have
+AND	anything
+SUB	to
+EXS	say
+REL	to
+PER	Tom
+NIL	.

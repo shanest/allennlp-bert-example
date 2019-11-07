@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+DOW	Saturday
+NIL	.
+PRO	You
+ENS	need
+NOT	not
+EXT	have
+EXS	woken
+PRO	me
+IST	up
+NIL	.

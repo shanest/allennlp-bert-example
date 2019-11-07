@@ -1,0 +1,9 @@
+REL	In
+CON	case
+AND	of
+DIS	an
+CON	emergency
+NIL	,
+EXS	dial
+CTC	110
+NIL	.

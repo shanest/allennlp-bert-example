@@ -1,0 +1,12 @@
+PRX	This
+CON	letter
+ENS	says
+PRO	he
+NOW	is
+EXS	going
+SUB	to
+EXS	marry
+PER	Grace
+IST	next
+CON	month
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NEC	ought
+SUB	to
+EXT	have
+EXS	told
+PER	Mary
+DEF	the
+CON	truth
+NIL	.

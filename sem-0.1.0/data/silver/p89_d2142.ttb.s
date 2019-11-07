@@ -1,0 +1,13 @@
+IMP	If
+PER	Tom
+PST	had
+PFT	been
+EXS	careful
+NIL	,
+PRO	he
+FUT	would
+NOT	n't
+EXT	have
+EXS	gotten
+EXS	killed
+NIL	.

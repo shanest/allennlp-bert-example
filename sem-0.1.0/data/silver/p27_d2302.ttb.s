@@ -1,0 +1,11 @@
+PRO	He
+HAS	's
+PFT	been
+EXS	looking
+REL	for
+DEF	the
+IST	missing
+CON	cat
+AND	all
+CON	day
+NIL	.

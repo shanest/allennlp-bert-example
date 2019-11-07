@@ -1,0 +1,14 @@
+REL	For
+DIS	some
+IST	strange
+CON	reason
+PRO	I
+EXS	talk
+REL	to
+HAS	me
+CON	dogs
+REL	with
+DIS	an
+GPO	Irish
+CON	accent
+NIL	.

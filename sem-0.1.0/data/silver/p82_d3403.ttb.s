@@ -1,0 +1,9 @@
+NOW	Are
+PRO	they
+EXS	coming
+REL	at
+CLO	six
+DIS	or
+REL	at
+CLO	seven
+QUE	?

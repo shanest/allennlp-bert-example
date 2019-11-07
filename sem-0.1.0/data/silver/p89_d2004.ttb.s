@@ -1,0 +1,10 @@
+PRO	He
+EPS	put
+IST	up
+HAS	his
+CON	hand
+SUB	to
+EXS	catch
+DEF	the
+CON	ball
+NIL	.

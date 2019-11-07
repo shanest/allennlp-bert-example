@@ -1,0 +1,10 @@
+PER	Tom
+HAS	's
+CON	book
+NOW	has
+PFT	been
+EXS	translated
+REL	into
+QUV	many
+CON	languages
+NIL	.

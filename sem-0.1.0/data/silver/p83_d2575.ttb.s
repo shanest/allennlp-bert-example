@@ -1,0 +1,10 @@
+PRO	You
+ENS	need
+NOT	not
+EXT	have
+EXS	come
+REL	in
+AND	such
+DIS	a
+CON	hurry
+NIL	.

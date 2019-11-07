@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+IST	eager
+SUB	to
+EXS	go
+REL	to
+DEF	the
+CON	hospital
+NIL	.

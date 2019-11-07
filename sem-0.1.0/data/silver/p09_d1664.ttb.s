@@ -1,0 +1,13 @@
+IMP	If
+PRO	you
+ENS	disagree
+REL	with
+PRO	him
+NIL	,
+PRO	he
+NOW	is
+IST	liable
+SUB	to
+EXS	get
+EXS	angry
+NIL	.

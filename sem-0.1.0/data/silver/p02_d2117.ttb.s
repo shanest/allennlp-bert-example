@@ -1,0 +1,9 @@
+PST	Did
+PRO	you
+EPS	read
+DEF	the
+CON	book
+PRO	I
+EPS	gave
+PRO	you
+QUE	?

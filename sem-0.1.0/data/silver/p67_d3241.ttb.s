@@ -1,0 +1,16 @@
+PER	Tom
+EPS	wrote
+PER	Mary
+DIS	a
+IST	soppy
+CON	love
+CON	letter
+COO	and
+PRO	she
+EPS	kept
+EXS	reading
+PRO	it
+AND	over
+AND	and
+IST	over
+NIL	.

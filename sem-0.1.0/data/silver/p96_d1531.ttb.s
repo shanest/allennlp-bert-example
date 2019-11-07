@@ -1,0 +1,11 @@
+PRO	She
+POS	may
+EXT	have
+PFT	been
+EXS	surprised
+SUB	when
+PRO	she
+EPS	received
+HAS	my
+CON	letter
+NIL	.

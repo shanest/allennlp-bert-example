@@ -1,0 +1,12 @@
+EXS	Excuse
+PRO	me
+NIL	.
+QUE	What
+CON	time
+NOW	is
+DEF	the
+IST	next
+CON	train
+REL	to
+GEO	Taejon
+QUE	?

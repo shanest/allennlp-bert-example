@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+NOT	not
+EXS	going
+NIL	to
+EXS	sleep
+REL	with
+PRO	you
+NIL	.

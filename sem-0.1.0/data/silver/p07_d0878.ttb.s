@@ -1,0 +1,20 @@
+NIL	"
+AND	But
+QUC	three million
+NOW	is
+AND	all
+PRO	I
+NOW	have
+NIL	,
+NIL	"
+PER	Dima
+EPS	said
+NIL	.
+NIL	"
+NOT	No
+CON	more
+NIL	,
+NOT	no
+LES	less
+NIL	.
+NIL	"

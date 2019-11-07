@@ -1,0 +1,10 @@
+PRO	I
+NEC	have
+SUB	to
+EXS	give
+IST	back
+DEF	the
+CON	book
+REL	before
+DOW	Saturday
+NIL	.

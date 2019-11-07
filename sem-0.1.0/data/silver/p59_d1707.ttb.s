@@ -1,0 +1,13 @@
+PRO	We
+NOW	've
+EXS	come
+REL	to
+DEF	the
+CON	conclusion
+AND	that
+PRX	this
+NOW	is
+DIS	a
+IST	true
+CON	story
+NIL	.

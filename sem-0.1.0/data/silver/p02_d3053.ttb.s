@@ -1,0 +1,10 @@
+DEF	The
+CON	committee
+EXS	inquired
+REL	into
+DEF	the
+CON	cause
+AND	of
+DEF	the
+CON	accident
+NIL	.

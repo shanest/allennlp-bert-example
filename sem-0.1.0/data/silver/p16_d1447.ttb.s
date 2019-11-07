@@ -1,0 +1,14 @@
+NOW	Is
+PRO	it
+EXS	true
+SUB	that
+PRO	you
+EPS	called
+PER	Taninna
+REL	in
+DEF	the
+CON	middle
+AND	of
+DEF	the
+CON	night
+QUE	?

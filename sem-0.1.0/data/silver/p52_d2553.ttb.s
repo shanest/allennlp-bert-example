@@ -1,0 +1,13 @@
+PER	Dima
+IST	actually
+EPS	thought
+SUB	that
+IST	midget
+CON	porn
+NOW	is
+DIS	some
+CON	subtype
+AND	of
+CON	child
+CON	porn
+NIL	.

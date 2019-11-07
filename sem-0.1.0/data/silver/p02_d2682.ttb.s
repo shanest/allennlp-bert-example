@@ -1,0 +1,11 @@
+DIS	A
+CON	lot
+AND	of
+IST	young
+CON	people
+EPS	went
+REL	to
+GPE	Hawaii
+PRX	this
+CON	summer
+NIL	.

@@ -1,0 +1,16 @@
+PRX	This
+NOW	is
+DEF	the
+IST	first
+CON	time
+PRO	I
+NOW	've
+IST	ever
+EXS	told
+PER	Taninna
+NIL	"
+PRO	I
+ENS	love
+PRO	you
+NIL	.
+NIL	"

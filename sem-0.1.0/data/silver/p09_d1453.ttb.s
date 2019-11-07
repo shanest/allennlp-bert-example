@@ -1,0 +1,11 @@
+PER	Mary
+PST	felt
+AND	like
+PER	Tom
+PST	was
+EXG	undressing
+PRO	her
+REL	with
+HAS	his
+CON	eyes
+NIL	.

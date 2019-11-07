@@ -1,0 +1,13 @@
+NIL	Tatoeba
+AND	:
+NOW	Do
+NOT	n't
+EXS	wander
+REL	by
+PRX	here
+REL	on
+DOW	Friday
+CON	nights
+NIL	,
+CON	kids
+NIL	.

@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+IST	certain
+SUB	that
+PRO	he
+NOW	is
+REL	in
+GEO	Hawaii
+NOW	now
+NIL	.

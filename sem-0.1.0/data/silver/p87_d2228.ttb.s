@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	trying
+SUB	to
+EXS	find
+IST	out
+SUB	where
+PRO	it
+EPS	happened
+NIL	.

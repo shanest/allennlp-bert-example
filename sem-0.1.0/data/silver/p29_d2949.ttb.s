@@ -1,0 +1,11 @@
+PER	Tom
+ENS	knows
+PRX	this
+CON	area
+AND	like
+DEF	the
+IST	back
+AND	of
+HAS	his
+CON	hand
+NIL	.

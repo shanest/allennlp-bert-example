@@ -1,0 +1,11 @@
+REL	In
+CON	winter
+NIL	,
+PRO	I
+IST	always
+EXS	sleep
+REL	with
+CON	wool
+CON	socks
+REL	on
+NIL	.

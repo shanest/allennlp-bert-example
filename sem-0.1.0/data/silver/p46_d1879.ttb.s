@@ -1,0 +1,9 @@
+CON	Money
+POS	can
+NOT	not
+EXS	make
+IST	up
+REL	for
+IST	lost
+CON	time
+NIL	.

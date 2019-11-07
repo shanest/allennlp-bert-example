@@ -1,0 +1,13 @@
+HAS	My
+CON	grandmother
+PST	had
+PFT	been
+EXS	sick
+REL	for
+DIS	a
+CON	week
+SUB	when
+PRO	I
+EPS	visited
+PRO	her
+NIL	.

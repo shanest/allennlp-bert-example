@@ -1,0 +1,13 @@
+PER	Tom
+ENS	says
+SUB	that
+PRO	he
+NOW	does
+NOT	n't
+EXS	remember
+EXS	having
+EXS	made
+AND	such
+DIS	a
+CON	promise
+NIL	.

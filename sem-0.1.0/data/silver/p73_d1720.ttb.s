@@ -1,0 +1,10 @@
+PRO	I
+NOW	prefer
+EXG	listening
+REL	to
+DEF	the
+CON	radio
+SUB	to
+EXS	watching
+CON	television
+NIL	.

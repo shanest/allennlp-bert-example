@@ -1,0 +1,10 @@
+DEF	The
+CON	man
+PST	was
+INT	too
+EXS	fat
+SUB	to
+EXS	move
+REL	by
+REF	himself
+NIL	.

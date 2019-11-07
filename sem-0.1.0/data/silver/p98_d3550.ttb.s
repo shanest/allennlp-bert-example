@@ -1,0 +1,9 @@
+HAS	My
+CON	house
+NOW	is
+IST	big
+AND	,
+COL	pink
+AND	and
+IST	white
+NIL	.

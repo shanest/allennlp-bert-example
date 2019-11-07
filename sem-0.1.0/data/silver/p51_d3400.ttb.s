@@ -1,0 +1,14 @@
+PRO	You
+POS	can
+NOT	not
+EXS	appreciate
+DEF	the
+CON	poem
+SUB	until
+PRO	you
+NOW	have
+EXS	read
+PRO	it
+QUC	many
+CON	times
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+EPS	ran
+REL	to
+DEF	the
+CON	station
+COO	and
+EPS	caught
+DEF	the
+CON	train
+NIL	.

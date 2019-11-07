@@ -1,0 +1,9 @@
+NOW	Does
+PER	Tom
+IST	still
+EXS	keep
+REL	in
+CON	touch
+REL	with
+PER	Mary
+QUE	?

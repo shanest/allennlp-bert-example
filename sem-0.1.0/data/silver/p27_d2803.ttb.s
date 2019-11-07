@@ -1,0 +1,12 @@
+PRX	This
+NOW	is
+DEF	the
+CON	man
+AND	of
+UNK	whom
+PRO	I
+EPS	spoke
+DEF	the
+ALT	other
+CON	day
+NIL	.

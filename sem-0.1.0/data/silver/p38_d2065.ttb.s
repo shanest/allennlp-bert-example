@@ -1,0 +1,16 @@
+PRO	I
+NOW	'm
+EXS	batching
+PRO	it
+PRX	this
+CON	weekend
+AND	because
+HAS	my
+CON	wife
+NOW	is
+EXS	visiting
+HAS	her
+CON	brother
+REL	in
+GEO	Frankfurt
+NIL	.

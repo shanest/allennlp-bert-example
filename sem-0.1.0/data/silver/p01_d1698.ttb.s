@@ -1,0 +1,10 @@
+DEF	The
+GPO	English
+NOW	are
+EPS	said
+NIL	to
+EXS	be
+DIS	a
+IST	practical
+CON	people
+NIL	.

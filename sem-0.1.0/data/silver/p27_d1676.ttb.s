@@ -1,0 +1,13 @@
+DST	That
+HAS	's
+EXS	true
+NOT	not
+XCL	only
+REL	for
+CON	children
+NIL	,
+BUT	but
+ALT	also
+REL	for
+CON	adults
+NIL	.

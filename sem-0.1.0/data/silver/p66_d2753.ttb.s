@@ -1,0 +1,12 @@
+AND	Last
+TIM	Sunday
+EQU	,
+PER	Mary
+COO	and
+PRO	I
+EPS	went
+REL	to
+DEF	the
+CON	library
+IST	together
+NIL	.

@@ -1,0 +1,16 @@
+HAS	His
+CON	decision
+SUB	to
+EXS	quit
+HAS	his
+IST	old
+CON	job
+COO	and
+EXS	start
+HAS	his
+IST	own
+CON	business
+IST	really
+EPS	paid
+IST	off
+NIL	.

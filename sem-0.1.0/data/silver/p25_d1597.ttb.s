@@ -1,0 +1,11 @@
+PRO	I
+EPS	saw
+DEF	the
+CON	baby
+EPS	carried
+IST	out
+AND	of
+DEF	the
+EXG	burning
+CON	house
+NIL	.

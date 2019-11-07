@@ -1,0 +1,9 @@
+NOW	Are
+PRO	you
+IST	sure
+PRO	you
+POS	ca
+NOT	n't
+EXS	stay
+PRX	here
+QUE	?

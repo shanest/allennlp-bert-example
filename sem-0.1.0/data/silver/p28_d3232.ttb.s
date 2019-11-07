@@ -1,0 +1,11 @@
+DEF	The
+CON	priest
+AND	who
+ENS	speaks
+GPO	French
+FUT	will
+EXS	be
+PRX	here
+IST	next
+CON	week
+NIL	.

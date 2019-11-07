@@ -1,0 +1,11 @@
+PRO	I
+ENS	want
+PRO	you
+SUB	to
+EXS	stay
+PRX	here
+SUB	until
+PRO	I
+NOW	get
+IST	back
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+EXS	got
+DIS	a
+IST	good
+CON	reason
+NOT	not
+SUB	to
+EXS	like
+PER	Tom
+NIL	.

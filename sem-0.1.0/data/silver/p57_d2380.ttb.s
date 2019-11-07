@@ -1,0 +1,15 @@
+PRO	I
+NOW	've
+EXS	heard
+SUB	that
+PRO	you
+POS	can
+EXS	kill
+CON	werewolves
+REL	by
+EXS	shooting
+PRO	them
+REL	with
+IST	silver
+CON	bullets
+NIL	.

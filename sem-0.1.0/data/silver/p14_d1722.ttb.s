@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+DEF	the
+CON	one
+AND	who
+EPS	asked
+PER	Tom
+SUB	to
+EXS	help
+QUE	?

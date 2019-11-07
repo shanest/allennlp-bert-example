@@ -1,0 +1,9 @@
+PRO	I
+PST	thought
+PER	Tom
+FUT	would
+EXS	say
+GRE	hello
+REL	to
+PER	Mary
+NIL	.

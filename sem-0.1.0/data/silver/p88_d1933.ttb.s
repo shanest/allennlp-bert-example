@@ -1,0 +1,15 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	go
+REL	to
+DEF	the
+IST	same
+CON	school
+SUB	that
+PER	Tom
+ENS	plans
+SUB	to
+EXS	go
+SUB	to
+NIL	.

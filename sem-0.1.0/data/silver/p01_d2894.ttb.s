@@ -1,0 +1,10 @@
+PER	Gabriel
+NOW	is
+XCL	only
+QUC	one
+AND	of
+DEF	the
+CON	angels
+AND	of
+CON	God
+NIL	.

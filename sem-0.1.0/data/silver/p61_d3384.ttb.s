@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	just
+EXG	saying
+PRO	you
+NEC	should
+NOT	n't
+EXS	trust
+PER	Tom
+NIL	.

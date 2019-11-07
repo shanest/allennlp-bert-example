@@ -1,0 +1,10 @@
+PRO	He
+PST	was
+EXS	put
+REL	in
+CON	jail
+REL	for
+EXG	writing
+DEF	the
+CON	book
+NIL	.

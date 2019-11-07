@@ -1,0 +1,13 @@
+PRO	We
+AND	both
+ENS	know
+PRO	you
+NOW	do
+NOT	n't
+EXS	live
+SUB	where
+PRO	you
+NOW	say
+PRO	you
+NOW	do
+NIL	.

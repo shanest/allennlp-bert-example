@@ -1,0 +1,16 @@
+DIS	A
+IST	pretty
+CON	girl
+EPS	came
+IST	up
+REL	to
+PER	Tom
+REL	in
+DEF	the
+CON	street
+COO	and
+EPS	started
+EXS	talking
+REL	to
+PRO	him
+NIL	.

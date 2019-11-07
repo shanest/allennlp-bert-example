@@ -1,0 +1,12 @@
+EXS	Did
+PRO	you
+ENS	come
+REL	across
+DIS	anyone
+PRO	you
+ENS	know
+REL	on
+HAS	your
+CON	way
+PRX	here
+QUE	?

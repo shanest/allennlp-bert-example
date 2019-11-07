@@ -1,0 +1,9 @@
+PER	Julian
+ENS	wears
+CON	round
+CON	glasses
+AND	like
+PER	John
+PER	Lennon
+HAS	's
+NIL	.

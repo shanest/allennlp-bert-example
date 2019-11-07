@@ -1,0 +1,14 @@
+PRO	He
+PST	had
+AND	such
+DIS	a
+IST	bad
+CON	headache
+SUB	that
+PRO	he
+NEC	had
+SUB	to
+EXS	cancel
+DEF	the
+CON	meeting
+NIL	.

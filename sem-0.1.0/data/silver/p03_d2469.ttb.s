@@ -1,0 +1,12 @@
+PRO	You
+ENS	need
+DIS	a
+IST	Nintendo
+UNK	DS
+SUB	to
+EXS	play
+DEF	the
+TOP	latest
+CON	Pokemon
+CON	game
+NIL	.

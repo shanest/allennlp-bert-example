@@ -1,0 +1,10 @@
+UNK	There
+PST	was
+DIS	a
+CON	curtain
+AND	which
+PST	was
+EXG	covering
+DEF	the
+CON	door
+NIL	.

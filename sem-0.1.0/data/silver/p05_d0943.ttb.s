@@ -1,0 +1,10 @@
+TOP	Most
+CON	students
+NOW	do
+NOT	n't
+EXS	read
+DEF	the
+CON	syllabus
+INT	very
+IST	carefully
+NIL	.

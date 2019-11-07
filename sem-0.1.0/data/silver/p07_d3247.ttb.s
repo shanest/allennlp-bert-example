@@ -1,0 +1,13 @@
+REL	At
+QUE	Tatoeba
+PRO	you
+POS	can
+ALT	also
+EXS	learn
+DIS	a
+CON	lot
+AND	about
+HAS	your
+IST	own
+CON	language
+NIL	.

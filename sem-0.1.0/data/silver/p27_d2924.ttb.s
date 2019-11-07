@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+PRO	he
+NOW	is
+IST	still
+EXS	alive
+NIL	.

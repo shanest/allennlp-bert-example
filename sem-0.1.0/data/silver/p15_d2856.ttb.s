@@ -1,0 +1,10 @@
+PER	Jane
+EPS	liked
+SUB	to
+EXS	make
+EXS	believe
+PRO	she
+PST	was
+DIS	a
+CON	teacher
+NIL	.

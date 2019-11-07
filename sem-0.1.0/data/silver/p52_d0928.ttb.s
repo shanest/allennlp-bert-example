@@ -1,0 +1,10 @@
+DST	That
+CON	girl
+NOW	is
+NOT	n't
+IST	able
+SUB	to
+EXS	ride
+DIS	a
+CON	bicycle
+NIL	.

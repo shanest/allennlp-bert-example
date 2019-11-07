@@ -1,0 +1,12 @@
+DST	That
+PST	was
+DEF	the
+IST	first
+CON	time
+PRO	I
+PST	was
+IST	ever
+EXS	alone
+REL	with
+PER	Tom
+NIL	.

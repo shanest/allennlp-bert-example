@@ -1,0 +1,12 @@
+EXS	Try
+REL	on
+DST	that
+CON	shirt
+NIL	.
+PRO	It
+NOW	's
+EXS	made
+AND	of
+IST	fine
+CON	cotton
+NIL	.

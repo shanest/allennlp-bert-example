@@ -1,0 +1,13 @@
+PER	Toki
+PER	Pona
+NOW	is
+DIS	a
+IST	minimalist
+IST	constructed
+CON	language
+EXG	consisting
+XCL	only
+AND	of
+IST	123
+CON	words
+NIL	.

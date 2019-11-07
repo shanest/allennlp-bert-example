@@ -1,0 +1,14 @@
+DEF	The
+CON	game
+EPS	ended
+REL	in
+DIS	a
+CON	draw
+NIL	,
+AND	and
+DEF	the
+IST	final
+CON	score
+PST	was
+SCO	2-2
+NIL	.

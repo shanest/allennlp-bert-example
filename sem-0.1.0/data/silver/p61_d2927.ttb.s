@@ -1,0 +1,13 @@
+PRO	I
+PST	thought
+AND	maybe
+PRO	you
+PST	'd
+EXS	changed
+HAS	your
+CON	mind
+AND	about
+EXG	going
+REL	to
+GPE	Boston
+NIL	.

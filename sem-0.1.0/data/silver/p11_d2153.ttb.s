@@ -1,0 +1,10 @@
+PRO	He
+PST	was
+IST	eager
+SUB	to
+EXS	return
+REL	to
+CON	school
+REL	in
+MOY	September
+NIL	.

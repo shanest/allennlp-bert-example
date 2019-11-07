@@ -1,0 +1,9 @@
+PRO	It
+EPS	happened
+REL	to
+PRO	me
+AND	about
+DIS	a
+CON	year
+PST	ago
+NIL	.

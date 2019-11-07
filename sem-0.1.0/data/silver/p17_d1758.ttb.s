@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+IST	glad
+SUB	to
+EXS	help
+PRO	you
+SUB	whenever
+PRO	you
+ENS	need
+PRO	me
+NIL	.

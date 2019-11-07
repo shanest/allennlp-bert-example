@@ -1,0 +1,10 @@
+PRX	This
+CON	attempt
+NOW	has
+PFT	been
+LES	less
+MOR	than
+DIS	a
+IST	complete
+CON	success
+NIL	.

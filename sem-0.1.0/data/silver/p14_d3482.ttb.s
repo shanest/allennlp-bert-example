@@ -1,0 +1,10 @@
+QUE	What
+NOW	have
+PRO	we
+EXS	done
+SUB	to
+EXS	be
+EXS	punished
+AND	like
+PRX	this
+QUE	?

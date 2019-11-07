@@ -1,0 +1,13 @@
+PRO	We
+NOW	're
+EXS	going
+SUB	to
+EXS	invite
+PER	Tom
+AND	and
+PER	Mary
+REL	to
+HAS	our
+HAP	Halloween
+CON	party
+NIL	.

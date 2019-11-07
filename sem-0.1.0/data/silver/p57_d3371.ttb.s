@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	afraid
+PRO	you
+NOW	have
+PST	dialed
+DIS	a
+IST	wrong
+CON	number
+NIL	.

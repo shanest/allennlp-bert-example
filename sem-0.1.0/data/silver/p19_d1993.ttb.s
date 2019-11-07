@@ -1,0 +1,10 @@
+PRO	We
+NEC	should
+EXS	do
+REL	away
+REL	with
+AND	such
+DIS	a
+IST	bad
+CON	custom
+NIL	.

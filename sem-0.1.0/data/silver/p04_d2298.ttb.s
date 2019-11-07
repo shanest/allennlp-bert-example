@@ -1,0 +1,11 @@
+NOW	Now
+NOW	is
+SUB	when
+PRO	you
+NEC	have
+SUB	to
+EXS	make
+IST	up
+HAS	your
+CON	mind
+NIL	.

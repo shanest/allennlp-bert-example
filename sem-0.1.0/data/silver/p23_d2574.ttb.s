@@ -1,0 +1,10 @@
+QUE	How
+NOW	is
+CON	one
+IST	able
+SUB	to
+EXS	sleep
+AND	inside
+DIS	an
+CON	airplane
+QUE	?

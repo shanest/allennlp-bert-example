@@ -1,0 +1,11 @@
+REL	After
+QUC	eight
+CON	months
+NIL	,
+PRO	he
+IST	eventually
+EPS	started
+EXS	dating
+CON	girls
+ALT	again
+NIL	.

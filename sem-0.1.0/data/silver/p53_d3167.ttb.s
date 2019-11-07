@@ -1,0 +1,9 @@
+PRO	I
+NOW	hope
+PRO	it
+PST	was
+NOT	n't
+INT	too
+QUC	much
+CON	trouble
+NIL	.

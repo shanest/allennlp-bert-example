@@ -1,0 +1,13 @@
+PER	Tom
+NOW	's
+DIS	a
+IST	natural
+SUB	when
+PRO	it
+ENS	comes
+SUB	to
+CON	games
+EXG	involving
+REL	hand-eye
+CON	coordination
+NIL	.

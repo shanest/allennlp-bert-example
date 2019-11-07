@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	show
+PER	Tom
+QUE	how
+SUB	to
+EXS	do
+PRO	it
+NIL	.

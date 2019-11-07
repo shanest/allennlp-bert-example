@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+SUB	whether
+PRO	they
+NOW	've
+EXS	hired
+DIS	some
+CON	janitors
+NIL	.

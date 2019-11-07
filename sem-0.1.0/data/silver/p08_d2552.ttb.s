@@ -1,0 +1,11 @@
+DIS	Sometimes
+NIL	,
+DIS	a
+IST	small
+CON	change
+POS	can
+EXS	make
+DIS	a
+IST	big
+CON	difference
+NIL	.

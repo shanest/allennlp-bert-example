@@ -1,0 +1,13 @@
+NIL	"
+PER	Tom
+ENS	likes
+PER	Mary
+NIL	.
+NIL	"
+NIL	"
+ITJ	Yeah
+NIL	,
+PRO	I
+ENS	know
+NIL	.
+NIL	"

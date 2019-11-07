@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+IST	strange
+SUB	that
+PRO	we
+NOW	've
+IST	never
+EXT	met
+SUB	before
+NIL	.

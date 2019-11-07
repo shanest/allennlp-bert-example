@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	having
+CON	lunch
+REL	with
+HAS	my
+ROL	sister
+IST	right
+NOW	now
+NIL	.

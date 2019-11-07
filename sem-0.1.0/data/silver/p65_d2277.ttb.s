@@ -1,0 +1,12 @@
+PER	Tom
+EPS	wrote
+PER	Mary
+HAS	's
+CON	name
+AND	and
+CON	phone
+CON	number
+REL	in
+HAS	his
+CON	notebook
+NIL	.

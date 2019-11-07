@@ -1,0 +1,11 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	imagine
+QUE	what
+PRO	it
+NEC	must
+EXT	've
+PFT	been
+EXS	like
+NIL	.

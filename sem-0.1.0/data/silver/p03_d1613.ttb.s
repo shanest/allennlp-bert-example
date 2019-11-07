@@ -1,0 +1,10 @@
+QUE	What
+PST	did
+PRO	you
+ENS	want
+SUB	to
+EXS	talk
+REL	to
+PER	Tom
+REL	about
+QUE	?

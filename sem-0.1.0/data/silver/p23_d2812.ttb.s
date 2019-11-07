@@ -1,0 +1,11 @@
+PRO	I
+EPS	saw
+PRO	you
+EXS	kiss
+PRO	him
+NIL	.
+NOW	Do
+NOT	not
+EXS	deny
+PRO	it
+NIL	!

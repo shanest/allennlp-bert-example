@@ -1,0 +1,10 @@
+DIS	A
+CON	lot
+AND	of
+CON	people
+PST	were
+EXS	killed
+REL	in
+DEF	the
+CON	war
+NIL	.

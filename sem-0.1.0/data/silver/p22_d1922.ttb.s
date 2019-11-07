@@ -1,0 +1,12 @@
+PRO	I
+PST	was
+EXS	born
+REL	in
+GEO	Osaka
+NIL	,
+COO	but
+EPS	brought
+IST	up
+REL	in
+GPE	Tokyo
+NIL	.

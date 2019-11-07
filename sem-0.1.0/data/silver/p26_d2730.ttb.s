@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+XCL	only
+IST	illegal
+IMP	if
+PRO	you
+NOW	get
+EXS	caught
+NIL	.

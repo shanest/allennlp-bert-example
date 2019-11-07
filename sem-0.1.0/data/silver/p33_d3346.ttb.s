@@ -1,0 +1,10 @@
+NOW	Do
+PRO	we
+ENS	know
+SUB	when
+PRO	they
+FUT	'll
+EXS	make
+HAS	their
+CON	decision
+QUE	?

@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+DEF	the
+CON	poor
+NOW	are
+NOT	not
+IST	always
+NOT	un
+EXS	happy
+NIL	.

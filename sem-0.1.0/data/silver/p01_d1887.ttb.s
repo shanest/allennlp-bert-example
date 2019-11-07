@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXS	rich
+IST	enough
+NIL	to
+EXS	buy
+QUE	whatever
+PRO	he
+ENS	wants
+NIL	.

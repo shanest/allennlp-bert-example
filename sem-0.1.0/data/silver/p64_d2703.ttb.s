@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+PRO	I
+NOW	have
+DIS	a
+IST	prior
+CON	engagement
+NIL	.

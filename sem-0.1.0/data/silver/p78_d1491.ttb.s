@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+DEF	the
+CON	impression
+SUB	that
+PRO	he
+ENS	knows
+DEF	the
+CON	secret
+NIL	.

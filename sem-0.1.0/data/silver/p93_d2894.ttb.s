@@ -1,0 +1,9 @@
+PER	Tom
+EPS	suggested
+SUB	that
+PRO	I
+NOW	write
+PER	Mary
+DIS	a
+CON	letter
+NIL	.

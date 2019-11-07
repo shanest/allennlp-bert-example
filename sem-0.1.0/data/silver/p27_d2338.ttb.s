@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	have
+SUB	to
+EXS	dye
+HAS	my
+CON	hair
+NIL	.

@@ -1,0 +1,16 @@
+DEF	The
+CON	boy
+EPS	fainted
+NIL	,
+COO	but
+PRO	he
+EPS	came
+NIL	to
+SUB	when
+PRO	we
+EPS	threw
+CON	water
+REL	on
+HAS	his
+CON	face
+NIL	.

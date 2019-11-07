@@ -1,0 +1,10 @@
+PRO	I
+EPS	came
+REL	to
+GEO	Toronto
+REL	at
+DEF	the
+CON	beginning
+AND	of
+MOY	June
+NIL	.

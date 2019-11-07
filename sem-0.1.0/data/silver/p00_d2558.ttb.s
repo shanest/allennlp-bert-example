@@ -1,0 +1,10 @@
+PRO	I
+ENS	have
+QUC	five
+CON	copies
+COO	but
+PRO	I
+ENS	need
+IST	double
+SUB	that
+NIL	.

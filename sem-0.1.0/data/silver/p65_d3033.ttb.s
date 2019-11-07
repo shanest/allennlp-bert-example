@@ -1,0 +1,10 @@
+PRO	He
+ENS	likes
+SUB	to
+EXS	travel
+NIL	.
+PRO	I
+NOW	do
+NIL	,
+ALT	too
+NIL	.

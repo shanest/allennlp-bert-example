@@ -1,0 +1,13 @@
+NIL	"
+NOW	Do
+NOT	n't
+EXS	go
+IST	out
+NOW	now
+NIL	.
+NIL	"
+NIL	"
+AND	Why
+NOT	not
+QUE	?
+NIL	"

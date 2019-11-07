@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	important
+SUB	to
+EXS	remember
+AND	who
+HAS	your
+CON	friends
+NOW	are
+NIL	.

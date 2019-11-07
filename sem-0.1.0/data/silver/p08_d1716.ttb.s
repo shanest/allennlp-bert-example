@@ -1,0 +1,10 @@
+PRO	I
+FUT	will
+EXS	ask
+PRO	him
+SUB	where
+PRO	he
+EPS	went
+AND	last
+DOW	Sunday
+NIL	.

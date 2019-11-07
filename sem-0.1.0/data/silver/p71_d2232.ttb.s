@@ -1,0 +1,11 @@
+QUE	What
+NEC	must
+EXS	be
+EXS	done
+IMP	if
+DEF	the
+CON	plan
+NOW	proves
+NOT	un
+EXS	workable
+QUE	?

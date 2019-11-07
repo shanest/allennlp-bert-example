@@ -1,0 +1,9 @@
+PRO	I
+NOW	think
+PRO	I
+EXS	know
+QUE	what
+HAS	's
+EXS	happening
+NOW	now
+NIL	.

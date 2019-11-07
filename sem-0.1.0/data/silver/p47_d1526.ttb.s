@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+EXS	learned
+DIS	a
+CON	lot
+REL	from
+PRO	you
+AND	over
+DEF	the
+IST	past
+CON	year
+NIL	.

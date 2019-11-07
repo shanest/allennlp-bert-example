@@ -1,0 +1,9 @@
+PRO	It
+FUT	would
+EXS	be
+EXS	sad
+IMP	if
+DST	that
+EPS	happened
+ALT	again
+NIL	.

@@ -1,0 +1,12 @@
+PER	Mary
+ENS	has
+REL	on
+DEF	the
+IST	same
+COL	green
+CON	dress
+PRO	she
+PST	was
+EXG	wearing
+PST	yesterday
+NIL	.

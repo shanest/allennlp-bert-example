@@ -1,0 +1,14 @@
+PRO	It
+NOW	's
+NOT	not
+UNK	likely
+SUB	that
+PER	Tom
+FUT	will
+IST	ever
+EXS	admit
+SUB	that
+PRO	he
+NOW	's
+EXS	wrong
+NIL	.

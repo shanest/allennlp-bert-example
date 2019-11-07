@@ -1,0 +1,9 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	run
+AND	as
+IST	fast
+AND	as
+PER	Mary
+NIL	.

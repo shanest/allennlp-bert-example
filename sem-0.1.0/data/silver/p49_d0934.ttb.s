@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	disappointed
+SUB	that
+HAS	my
+CON	friends
+NOW	are
+NOT	not
+PRX	here
+NIL	.

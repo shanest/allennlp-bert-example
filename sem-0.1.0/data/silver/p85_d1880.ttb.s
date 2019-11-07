@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	know
+SUB	where
+PER	Tom
+EPS	bought
+HAS	his
+CON	bicycle
+QUE	?

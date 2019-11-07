@@ -1,0 +1,17 @@
+GPE	Argentina
+EQU	,
+GPE	Chile
+EQU	,
+GEO	Uruguay
+EQU	,
+GPE	Paraguay
+AND	and
+GEO	Southern
+GEO	Brazil
+NOW	are
+CON	part
+AND	of
+DEF	the
+IST	Southern
+CON	Cone
+NIL	.

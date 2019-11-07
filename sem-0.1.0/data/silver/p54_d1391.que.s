@@ -1,0 +1,11 @@
+REL	By
+QUE	what
+CON	abbreviation
+NOW	is
+DEF	the
+ORG	U.N.
+CON	Children
+HAS	's
+ORG	Fund
+EXS	known
+QUE	?

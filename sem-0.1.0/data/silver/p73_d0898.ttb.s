@@ -1,0 +1,15 @@
+AND	Instead
+AND	of
+EXS	eating
+CON	vegetables
+NIL	,
+PRO	he
+ENS	puts
+PRO	them
+REL	in
+DIS	a
+CON	blender
+AND	and
+ENS	drinks
+PRO	them
+NIL	.

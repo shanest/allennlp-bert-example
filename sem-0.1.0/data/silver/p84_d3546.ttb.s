@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+EXT	helped
+PRO	me
+DIS	a
+CON	lot
+NIL	.

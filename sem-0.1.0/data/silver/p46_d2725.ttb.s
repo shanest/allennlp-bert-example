@@ -1,0 +1,10 @@
+DIS	A
+CON	friend
+REL	to
+AND	all
+NOW	is
+DIS	a
+CON	friend
+REL	to
+CON	none
+NIL	.

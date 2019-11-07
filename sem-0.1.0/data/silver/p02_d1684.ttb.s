@@ -1,0 +1,10 @@
+NOW	Is
+NOT	n't
+SUB	that
+QUE	what
+PRO	we
+PST	were
+EXS	supposed
+SUB	to
+EXS	do
+QUE	?

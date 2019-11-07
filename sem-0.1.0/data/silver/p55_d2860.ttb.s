@@ -1,0 +1,11 @@
+PER	Tom
+EPS	saw
+SUB	that
+PER	Mary
+PST	was
+IST	fast
+EXS	asleep
+REL	in
+DEF	the
+CON	hammock
+NIL	.

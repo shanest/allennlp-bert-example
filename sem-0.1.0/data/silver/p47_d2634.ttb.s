@@ -1,0 +1,14 @@
+DEF	The
+CON	picture
+AND	of
+PER	Mary
+AND	that
+PER	Tom
+PST	had
+EXS	drawn
+EPS	took
+PER	John
+HAS	's
+CON	breath
+IST	away
+NIL	.

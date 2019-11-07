@@ -1,0 +1,10 @@
+DEF	The
+CON	manufacturer
+EPS	guaranteed
+DEF	the
+IST	new
+CON	machine
+REL	for
+QUC	5
+CON	years
+NIL	.

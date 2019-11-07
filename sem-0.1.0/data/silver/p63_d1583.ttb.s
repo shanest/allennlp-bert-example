@@ -1,0 +1,11 @@
+PRO	He
+EPS	wore
+DIS	a
+CON	mask
+AND	so
+NOT	no
+QUC	one
+FUT	would
+EXS	recognize
+PRO	him
+NIL	.

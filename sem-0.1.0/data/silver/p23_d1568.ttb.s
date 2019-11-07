@@ -1,0 +1,10 @@
+PRO	I
+IST	just
+ENS	want
+SUB	to
+EXS	look
+REL	at
+QUE	what
+PER	Tom
+EPS	wrote
+NIL	.

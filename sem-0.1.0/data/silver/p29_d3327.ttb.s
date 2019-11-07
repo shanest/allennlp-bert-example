@@ -1,0 +1,11 @@
+PRO	She
+EPS	promised
+HAS	her
+ROL	father
+SUB	to
+EXS	be
+REL	in
+CON	time
+REL	for
+CON	lunch
+NIL	.

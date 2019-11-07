@@ -1,0 +1,13 @@
+PRO	We
+PST	were
+EXG	reading
+DIS	a
+CON	book
+COO	and
+PRO	it
+PST	was
+DIS	a
+INT	very
+IST	good
+CON	one
+NIL	.

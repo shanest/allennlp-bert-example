@@ -1,0 +1,23 @@
+NIL	"
+SUB	Since
+SUB	when
+NOW	are
+PRO	they
+EXS	working
+QUE	?
+NIL	"
+NIL	"
+PRO	They
+NOW	've
+PFT	been
+EXS	working
+REL	since
+AND	eight o'
+CON	clock
+COO	and
+PRO	they
+NOW	're
+INT	very
+EXS	tired
+NIL	.
+NIL	"

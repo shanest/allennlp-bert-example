@@ -1,0 +1,10 @@
+PRO	He
+EPS	took
+DEF	the
+CON	trouble
+SUB	to
+EXS	assist
+DEF	the
+IST	poor
+CON	man
+NIL	.

@@ -1,0 +1,10 @@
+PER	George
+HAS	's
+ROL	sister
+EPS	buttered
+DIS	a
+IST	few
+CON	sandwiches
+REL	for
+PRO	me
+NIL	.

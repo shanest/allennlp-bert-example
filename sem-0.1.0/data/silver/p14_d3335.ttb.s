@@ -1,0 +1,14 @@
+PER	Tom
+EPS	waited
+REL	for
+PER	Mary
+SUB	to
+EXS	sit
+COO	and
+IST	then
+EPS	sat
+IST	down
+AND	next
+REL	to
+PRO	her
+NIL	.

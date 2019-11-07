@@ -1,0 +1,17 @@
+NOT	Nothing
+ENS	seems
+IST	so
+CON	tender
+REL	to
+PRO	me
+AND	as
+DIS	an
+IST	old
+CON	couple
+EXG	walking
+IST	down
+DEF	the
+CON	street
+EXG	holding
+CON	hands
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	you
+ENS	know
+SUB	where
+PRO	I
+ENS	want
+SUB	to
+EXS	go
+NIL	.

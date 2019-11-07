@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+ENS	knows
+QUE	what
+FUT	will
+EXS	happen
+REL	in
+DEF	the
+DEC	1990's
+NIL	.

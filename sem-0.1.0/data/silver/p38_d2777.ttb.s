@@ -1,0 +1,12 @@
+QUE	What
+EPS	happened
+REL	to
+DEF	the
+CON	girl
+PRO	you
+PST	were
+EXS	sharing
+DEF	the
+CON	bedroom
+REL	with
+QUE	?

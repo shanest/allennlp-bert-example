@@ -1,0 +1,10 @@
+PRO	She
+IST	always
+NOW	takes
+IST	good
+CON	care
+AND	of
+HAS	her
+IST	old
+ROL	father
+NIL	.

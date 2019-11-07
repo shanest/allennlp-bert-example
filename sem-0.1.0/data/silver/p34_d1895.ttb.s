@@ -1,0 +1,13 @@
+REL	In
+CON	regard
+REL	to
+DEF	the
+CON	schedule
+NIL	,
+PRO	I
+FUT	'll
+EXS	let
+PRO	you
+EXS	know
+IST	later
+NIL	.

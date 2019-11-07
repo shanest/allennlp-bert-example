@@ -1,0 +1,10 @@
+PER	Tom
+IST	really
+EPS	wanted
+SUB	to
+EXS	go
+REL	to
+GEO	Boston
+REL	with
+PER	Mary
+NIL	.

@@ -1,0 +1,15 @@
+AND	Now
+PRO	it
+NOW	's
+IST	hard
+SUB	to
+EXS	get
+DIS	a
+IST	good
+CON	advice
+COO	:
+QUE	where
+NEC	should
+PRO	I
+EXS	go
+QUE	?

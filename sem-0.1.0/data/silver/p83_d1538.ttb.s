@@ -1,0 +1,10 @@
+PER	Tom
+POS	could
+EXS	hear
+PER	Mary
+EXG	sobbing
+REL	in
+DEF	the
+IST	next
+CON	room
+NIL	.

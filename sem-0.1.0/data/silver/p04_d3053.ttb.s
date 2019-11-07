@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	desirable
+SUB	that
+PRO	she
+NEC	should
+EXS	apologize
+REL	to
+PRO	him
+EMP	herself
+NIL	.

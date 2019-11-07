@@ -1,0 +1,10 @@
+QUE	What
+NOW	do
+PRO	you
+NOW	think
+AND	about
+GPE	Japan
+HAS	's
+IST	educational
+CON	system
+QUE	?

@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	how
+QUV	much
+DEF	the
+CON	ticket
+FUT	will
+EXS	cost
+NIL	.

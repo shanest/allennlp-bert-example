@@ -1,0 +1,12 @@
+QUE	What
+CON	substance
+PST	did
+PER	Charles
+ORG	Best
+AND	and
+PER	Frederick
+NIL	Banting
+EXS	discover
+REL	in
+YOC	1922
+NIL	?

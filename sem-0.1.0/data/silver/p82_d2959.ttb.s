@@ -1,0 +1,11 @@
+HAS	My
+CON	daughter
+HAS	's
+CON	homework
+NOW	is
+IST	always
+DIS	someone
+AND	else
+HAS	's
+CON	job
+NIL	.

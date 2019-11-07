@@ -1,0 +1,12 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	like
+PRO	it
+SUB	when
+PER	Mary
+ENS	criticizes
+PRO	him
+REL	in
+CON	public
+NIL	.

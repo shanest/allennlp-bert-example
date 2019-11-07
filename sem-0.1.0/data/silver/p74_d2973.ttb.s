@@ -1,0 +1,15 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+GPO	Japanese
+CON	people
+NOW	do
+NOT	n't
+EXS	celebrate
+REL	Christmas
+DEF	the
+CON	way
+GPE	Americans
+NOW	do
+NIL	.

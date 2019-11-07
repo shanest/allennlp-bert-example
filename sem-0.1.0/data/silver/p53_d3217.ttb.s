@@ -1,0 +1,11 @@
+QUE	What
+PER	Tom
+EPS	said
+EPS	made
+PRO	you
+EXS	angry
+NIL	,
+PST	did
+NOT	n't
+PRO	it
+QUE	?

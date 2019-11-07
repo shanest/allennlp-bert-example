@@ -1,0 +1,12 @@
+PRO	He
+NOW	is
+DIS	a
+GPO	Japanese
+ROL	businessman
+NIL	,
+COO	but
+PRO	he
+ENS	lives
+REL	in
+GPE	Finland
+NIL	.

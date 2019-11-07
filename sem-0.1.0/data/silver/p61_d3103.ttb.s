@@ -1,0 +1,11 @@
+PRO	He
+EPS	told
+PRO	me
+SUB	that
+UNK	there
+PST	were
+QUV	many
+CON	foreigners
+REL	in
+GPE	Eritrea
+NIL	.

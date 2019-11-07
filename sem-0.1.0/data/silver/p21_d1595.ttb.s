@@ -1,0 +1,10 @@
+PRO	It
+NOW	looks
+AND	as
+IMP	if
+PRO	it
+NOW	's
+EXS	going
+SUB	to
+CON	rain
+NIL	.

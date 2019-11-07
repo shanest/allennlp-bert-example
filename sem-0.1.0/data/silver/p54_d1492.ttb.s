@@ -1,0 +1,13 @@
+PER	Tom
+NOW	hopes
+SUB	that
+PER	Mary
+FUT	will
+EXS	like
+DEF	the
+CON	present
+PRO	he
+EPS	bought
+REL	for
+PRO	her
+NIL	.

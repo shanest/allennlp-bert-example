@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+NOW	is
+IST	so
+COM	old
+COO	but
+PRO	he
+POS	can
+EXS	learn
+NIL	.

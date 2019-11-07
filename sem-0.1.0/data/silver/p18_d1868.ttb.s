@@ -1,0 +1,17 @@
+QUV	Many
+ROL	farmers
+EPS	had
+SUB	to
+EXS	divest
+REF	themselves
+AND	of
+CON	stock
+AND	during
+DEF	the
+CON	drought
+SUB	to
+EXS	save
+REL	on
+CON	feeding
+CON	costs
+NIL	.

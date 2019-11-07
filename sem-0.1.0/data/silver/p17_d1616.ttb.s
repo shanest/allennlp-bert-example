@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	speak
+GPO	French
+AND	as
+IST	well
+AND	as
+PER	Mary
+NIL	.

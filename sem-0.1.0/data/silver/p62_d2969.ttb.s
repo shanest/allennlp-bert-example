@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+DIS	a
+CON	man
+EPS	knocked
+IST	down
+REL	by
+DIS	a
+CON	car
+NIL	.

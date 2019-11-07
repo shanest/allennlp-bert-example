@@ -1,0 +1,10 @@
+AND	All
+PRO	I
+EPS	wanted
+PST	was
+DIS	a
+IST	little
+CON	bit
+IST	more
+CON	attention
+NIL	.

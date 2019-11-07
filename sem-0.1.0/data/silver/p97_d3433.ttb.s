@@ -1,0 +1,9 @@
+PRO	I
+PST	was
+INT	extremely
+EXS	surprised
+SUB	when
+PRO	I
+EPS	saw
+PRX	this
+NIL	.

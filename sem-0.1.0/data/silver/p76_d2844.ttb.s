@@ -1,0 +1,15 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	need
+SUB	to
+EXS	think
+INT	very
+IST	long
+SUB	before
+PRO	he
+EPS	gave
+PER	Mary
+HAS	his
+CON	answer
+NIL	.

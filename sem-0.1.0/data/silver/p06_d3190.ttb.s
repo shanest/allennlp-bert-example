@@ -1,0 +1,12 @@
+DEF	The
+CON	police
+NOW	have
+QUV	few
+CON	clues
+SUB	to
+EXS	go
+REL	on
+REL	in
+PRX	this
+CON	case
+NIL	.

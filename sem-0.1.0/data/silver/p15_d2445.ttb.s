@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+EXS	gone
+EXS	swimming
+IST	together
+DIS	a
+CON	number
+AND	of
+CON	times
+NIL	.

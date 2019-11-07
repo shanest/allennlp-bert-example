@@ -1,0 +1,12 @@
+PER	John
+NOW	is
+NOT	not
+DEF	the
+CON	man
+SUB	that
+PRO	he
+PST	was
+QUC	three
+CON	years
+PST	ago
+NIL	.

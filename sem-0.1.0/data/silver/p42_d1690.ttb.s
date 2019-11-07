@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	understand
+QUE	what
+PRO	you
+NOW	are
+EXS	talking
+IST	about
+NIL	.

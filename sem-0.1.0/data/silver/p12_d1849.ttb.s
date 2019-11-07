@@ -1,0 +1,10 @@
+PRO	We
+NEC	ought
+SUB	to
+CON	sort
+DEF	the
+CON	students
+HAS	'
+CON	names
+CON	alphabetically
+NIL	.

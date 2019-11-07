@@ -1,0 +1,12 @@
+ITJ	Fifthly
+NIL	,
+PRO	I
+IST	just
+EPS	forgot
+QUE	what
+DEF	the
+IST	first
+QUC	four
+CON	things
+PST	were
+NIL	.

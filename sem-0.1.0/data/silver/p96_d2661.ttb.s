@@ -1,0 +1,10 @@
+EXS	Did
+PRO	you
+CON	guys
+EXS	hear
+QUE	what
+PER	Tom
+EPS	said
+REL	on
+CON	TV
+QUE	?

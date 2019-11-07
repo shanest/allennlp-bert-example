@@ -1,0 +1,10 @@
+PER	Tom
+COO	and
+PRO	I
+EPS	ate
+IST	together
+REL	in
+DEF	the
+CON	school
+CON	cafeteria
+NIL	.

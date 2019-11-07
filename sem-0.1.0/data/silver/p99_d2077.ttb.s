@@ -1,0 +1,13 @@
+REL	On
+DEF	the
+CON	wedding
+CON	day
+REF	itself
+NIL	,
+PER	Tom
+EPS	showed
+PER	Mary
+HAS	his
+IST	true
+CON	face
+NIL	.

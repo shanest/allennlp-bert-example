@@ -1,0 +1,11 @@
+PER	Love
+NOW	is
+NOT	n't
+EXS	blind
+NIL	,
+COO	but
+PRO	it
+NOW	's
+IST	often
+EXS	stupid
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	racking
+HAS	my
+CON	brains
+SUB	to
+EXS	find
+DIS	a
+CON	solution
+NIL	.

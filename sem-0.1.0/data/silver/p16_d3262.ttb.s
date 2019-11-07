@@ -1,0 +1,12 @@
+PRO	She
+EPS	said
+IST	absolutely
+NOT	nothing
+NIL	,
+COO	and
+ALT	yet
+PRO	I
+EPS	guessed
+PRO	it
+AND	all
+NIL	.

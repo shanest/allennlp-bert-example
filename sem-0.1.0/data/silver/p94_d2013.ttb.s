@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+IST	hard
+REL	for
+PRO	me
+SUB	to
+EXS	live
+REL	on
+HAS	my
+IST	small
+CON	income
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+ENS	like
+CON	music
+NIL	,
+BUT	but
+PRO	I
+ALT	also
+ENS	like
+CON	paintings
+NIL	.

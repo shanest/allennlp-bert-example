@@ -1,0 +1,11 @@
+PRO	I
+EPS	met
+DEF	the
+CON	man
+NIL	,
+AND	who
+EPS	showed
+PRO	me
+DEF	the
+CON	way
+NIL	.

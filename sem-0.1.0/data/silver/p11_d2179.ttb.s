@@ -1,0 +1,13 @@
+DIS	Some
+EPS	said
+IST	openly
+SUB	that
+PRO	they
+PST	did
+NOT	not
+EXS	care
+AND	who
+EPS	won
+DEF	the
+CON	war
+NIL	.

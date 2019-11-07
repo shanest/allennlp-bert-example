@@ -1,0 +1,14 @@
+DEF	The
+CON	bath
+PST	was
+NOT	not
+EXS	hot
+IST	enough
+COO	and
+PRO	I
+PST	was
+IST	unable
+SUB	to
+EXS	enjoy
+PRO	it
+NIL	.

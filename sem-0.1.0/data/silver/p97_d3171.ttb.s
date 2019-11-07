@@ -1,0 +1,10 @@
+PRO	I
+IST	really
+NOW	do
+NOT	n't
+EXS	feel
+AND	like
+EXS	talking
+IST	right
+NOW	now
+NIL	.

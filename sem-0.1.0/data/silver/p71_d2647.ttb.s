@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	living
+REL	in
+PRX	this
+CON	house
+REL	since
+IST	last
+CON	month
+NIL	.

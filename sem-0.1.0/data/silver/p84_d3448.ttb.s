@@ -1,0 +1,16 @@
+PRO	I
+ENS	know
+PRO	her
+NIL	,
+BUT	but
+PRO	I
+NOW	'm
+NOT	not
+EXS	acquainted
+REL	with
+DEF	the
+CON	rest
+AND	of
+DEF	the
+CON	family
+NIL	.

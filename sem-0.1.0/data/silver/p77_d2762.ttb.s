@@ -1,0 +1,15 @@
+PRO	You
+EPS	stole
+HAS	my
+CON	bike
+NIL	,
+COO	and
+NOW	now
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	break
+HAS	your
+CON	face
+NIL	.

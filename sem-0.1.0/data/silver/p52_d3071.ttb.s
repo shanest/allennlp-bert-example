@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+CON	camera
+SUB	that
+PER	Tom
+EPS	took
+DEF	the
+CON	pictures
+REL	with
+NIL	.

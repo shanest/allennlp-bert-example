@@ -1,0 +1,11 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	stop
+PER	Mary
+SUB	from
+EXS	saying
+QUE	what
+PRO	she
+ENS	thinks
+NIL	.

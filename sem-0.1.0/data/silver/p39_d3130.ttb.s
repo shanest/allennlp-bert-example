@@ -1,0 +1,9 @@
+PRO	I
+NEC	have
+SUB	to
+EXS	give
+PRX	this
+CON	book
+REL	to
+PER	Mary
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+ENS	meet
+PER	Mihaela
+AND	every
+CON	morning
+REL	at
+DEF	the
+CON	subway
+NIL	.

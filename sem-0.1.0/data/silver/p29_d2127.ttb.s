@@ -1,0 +1,10 @@
+PRO	He
+NOW	's
+IST	back
+REL	from
+HAS	his
+CON	travels
+REL	in
+GEO	Central
+GEO	Asia
+NIL	.

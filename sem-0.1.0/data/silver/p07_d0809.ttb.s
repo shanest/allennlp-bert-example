@@ -1,0 +1,11 @@
+IST	Please
+EXS	lend
+PRO	me
+DEF	the
+CON	video
+SUB	when
+PRO	you
+NOW	have
+EXS	seen
+PRO	it
+NIL	.

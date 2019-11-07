@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXS	sorry
+NIL	,
+CON	sir
+NIL	.
+PRO	We
+NOW	're
+EXS	closing
+IST	early
+NIL	.

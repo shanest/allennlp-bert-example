@@ -1,0 +1,14 @@
+ORG	Right
+NOW	now
+NIL	,
+PRO	I
+ENS	want
+PRO	you
+SUB	to
+EXS	tell
+PRO	me
+QUE	what
+EPS	happened
+REL	to
+PER	Tom
+NIL	.

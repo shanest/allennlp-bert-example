@@ -1,0 +1,11 @@
+NOT	No
+CON	one
+PST	was
+EXS	interested
+REL	in
+DIS	anything
+PRO	I
+NEC	had
+SUB	to
+EXS	say
+NIL	.

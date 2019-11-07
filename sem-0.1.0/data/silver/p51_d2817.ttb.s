@@ -1,0 +1,11 @@
+PER	Tom
+EPS	asked
+PER	Mary
+QUE	how
+PRO	she
+PST	had
+EXS	lost
+AND	so
+QUC	much
+CON	weight
+NIL	.

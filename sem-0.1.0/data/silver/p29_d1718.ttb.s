@@ -1,0 +1,17 @@
+DEF	The
+IST	newly-elected
+ROL	politician
+EPS	flew
+REL	in
+REL	on
+HAS	his
+IST	private
+CON	jet
+SUB	to
+EXS	attend
+HAS	his
+IST	first
+EXS	sitting
+AND	of
+CON	parliament
+NIL	.

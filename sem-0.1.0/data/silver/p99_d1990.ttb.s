@@ -1,0 +1,16 @@
+IMP	If
+PER	Tom
+POS	can
+EXS	do
+PRO	it
+NIL	,
+PRO	I
+NOW	'm
+IST	sure
+PRO	I
+POS	can
+EXS	do
+PRO	it
+NIL	,
+ALT	too
+NIL	.

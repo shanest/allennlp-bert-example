@@ -1,0 +1,15 @@
+SUB	When
+PRO	I
+EPS	entered
+DEF	the
+CON	room
+NIL	,
+PRO	I
+POS	could
+EXS	hear
+CON	Mozart
+EXG	playing
+REL	on
+DEF	the
+CON	radio
+NIL	.

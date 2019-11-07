@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	know
+IMP	if
+PER	Grace
+NOW	is
+REL	at
+CON	home
+QUE	?

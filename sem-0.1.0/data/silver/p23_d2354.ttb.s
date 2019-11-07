@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+IST	already
+EXS	lost
+CON	hope
+AND	of
+HAS	her
+EXG	losing
+CON	weight
+NIL	.

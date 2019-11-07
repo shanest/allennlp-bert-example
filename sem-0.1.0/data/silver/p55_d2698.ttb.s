@@ -1,0 +1,13 @@
+AND	How
+POS	can
+PRO	I
+EXS	tell
+PRO	it
+IST	just
+REL	to
+PER	Tom
+NOT	without
+EXS	telling
+AND	everybody
+AND	else
+QUE	?

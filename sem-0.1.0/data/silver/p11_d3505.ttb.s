@@ -1,0 +1,12 @@
+EXS	Did
+NOT	n't
+PRO	you
+EXS	know
+SUB	that
+PRO	he
+EPS	passed
+IST	away
+QUC	two
+CON	years
+PST	ago
+QUE	?

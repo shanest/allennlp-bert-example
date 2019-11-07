@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+NOT	no
+EXS	use
+EXS	blaming
+PRO	him
+REL	for
+DEF	the
+CON	accident
+NOW	now
+NIL	.

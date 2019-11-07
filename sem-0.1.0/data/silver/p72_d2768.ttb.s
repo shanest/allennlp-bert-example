@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+PRO	you
+NOW	have
+MOR	more
+IST	important
+CON	things
+SUB	to
+EXS	do
+NIL	.

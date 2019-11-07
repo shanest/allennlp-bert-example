@@ -1,0 +1,10 @@
+PRO	He
+EPS	told
+PRO	me
+SUB	that
+PRO	I
+PST	had
+DIS	a
+IST	nice
+CON	smile
+NIL	.

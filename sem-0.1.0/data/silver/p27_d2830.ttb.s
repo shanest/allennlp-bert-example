@@ -1,0 +1,9 @@
+NIL	There
+PST	was
+DIS	a
+EXS	momentary
+CON	pause
+REL	in
+DEF	the
+CON	talk
+NIL	.

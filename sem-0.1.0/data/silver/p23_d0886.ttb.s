@@ -1,0 +1,11 @@
+ORG	Forests
+CON	cover
+AND	around
+UNK	9.4
+UOM	%
+AND	of
+DEF	the
+CON	earth
+HAS	's
+CON	surface
+NIL	.

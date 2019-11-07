@@ -1,0 +1,10 @@
+PRO	He
+PST	did
+NOT	n't
+EXS	know
+PER	Shakespeare
+EPS	wrote
+PER	Romeo
+AND	and
+PER	Juliet
+NIL	.

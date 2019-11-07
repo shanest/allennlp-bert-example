@@ -1,0 +1,10 @@
+PRO	She
+EPS	stirred
+HAS	her
+CON	tea
+REL	with
+DIS	a
+IST	little
+IST	gold
+CON	spoon
+NIL	.

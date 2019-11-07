@@ -1,0 +1,9 @@
+PRO	I
+EPS	calculated
+SUB	that
+PRO	it
+FUT	would
+EXS	cost
+QUC	300
+UOM	dollars
+NIL	.

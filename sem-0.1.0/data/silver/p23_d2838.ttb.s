@@ -1,0 +1,13 @@
+EXS	Take
+NOT	no
+CON	account
+AND	of
+QUE	what
+PRO	he
+EPS	said
+NIL	,
+PRO	he
+PST	was
+XCL	only
+EXG	joking
+NIL	.

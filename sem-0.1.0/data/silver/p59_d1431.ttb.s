@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	impressed
+REL	with
+QUE	how
+QUC	much
+PRO	you
+NOW	've
+EXS	improved
+NIL	.

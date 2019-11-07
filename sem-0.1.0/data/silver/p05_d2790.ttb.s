@@ -1,0 +1,12 @@
+DEF	The
+ORG	Great
+ORG	Wall
+AND	of
+GPE	China
+NOW	is
+MOR	more
+MOR	than
+QUC	5,500
+UOM	miles
+IST	long
+NIL	.

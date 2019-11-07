@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	need
+HAS	your
+CON	help
+NIL	,
+BUT	but
+PRO	you
+NOW	need
+HAS	mine
+NIL	.

@@ -1,0 +1,9 @@
+QUE	How
+NOW	do
+PRO	you
+EXS	know
+PER	Tom
+NOW	is
+NOT	n't
+EXS	lying
+QUE	?

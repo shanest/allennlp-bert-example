@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+NOW	think
+PRO	you
+FUT	'll
+IST	ever
+EXS	get
+EXS	married
+ALT	again
+QUE	?

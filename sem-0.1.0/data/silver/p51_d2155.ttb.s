@@ -1,0 +1,14 @@
+DEF	The
+CON	number
+AND	of
+CON	students
+AND	who
+EXS	come
+IST	late
+REL	to
+CON	class
+NOW	has
+IST	lately
+PFT	been
+EXS	increasing
+NIL	.

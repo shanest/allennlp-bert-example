@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+REL	in
+DEF	the
+CON	car
+EXS	waiting
+REL	for
+PRO	us
+NIL	.

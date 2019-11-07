@@ -1,0 +1,12 @@
+PRO	He
+NOW	's
+EXS	learning
+GPO	French
+SUB	so
+PRO	he
+POS	can
+EXS	get
+DIS	a
+IST	better
+CON	salary
+NIL	.

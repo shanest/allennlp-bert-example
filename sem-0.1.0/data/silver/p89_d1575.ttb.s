@@ -1,0 +1,10 @@
+NIL	There
+NOW	is
+DIS	a
+IST	little
+CON	time
+REL	before
+DEF	the
+CON	train
+EFS	departs
+NIL	.

@@ -1,0 +1,10 @@
+REL	With
+HAS	her
+CON	heart
+CON	pounding
+NIL	,
+PRO	she
+EPS	opened
+DEF	the
+CON	door
+NIL	.

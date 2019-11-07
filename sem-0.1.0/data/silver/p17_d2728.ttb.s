@@ -1,0 +1,16 @@
+PER	Jim
+EPS	wrote
+REL	to
+PRO	me
+IST	last
+CON	week
+COO	and
+EPS	said
+PRO	he
+PST	had
+EXS	come
+IST	back
+QUC	two
+CON	months
+REL	before
+NIL	.

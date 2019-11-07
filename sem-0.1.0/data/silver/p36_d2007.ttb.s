@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+HAS	my
+CON	dog
+GEO	Fido
+NIL	.
+PRO	I
+ENS	love
+PRO	him
+NIL	.

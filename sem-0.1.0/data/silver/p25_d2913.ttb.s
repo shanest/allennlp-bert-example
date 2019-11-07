@@ -1,0 +1,9 @@
+PRO	We
+NOW	've
+EXS	created
+CON	life
+REL	in
+HAS	our
+IST	own
+CON	image
+NIL	.

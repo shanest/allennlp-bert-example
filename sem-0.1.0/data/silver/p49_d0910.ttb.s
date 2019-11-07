@@ -1,0 +1,9 @@
+DEF	The
+CON	soup
+REL	in
+DEF	the
+CON	bowl
+PST	was
+INT	very
+IST	delicious
+NIL	.

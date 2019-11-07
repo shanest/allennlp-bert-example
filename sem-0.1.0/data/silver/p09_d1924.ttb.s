@@ -1,0 +1,9 @@
+HAS	His
+IST	negative
+CON	attitude
+EPS	rendered
+AND	all
+HAS	my
+CON	efforts
+IST	useless
+NIL	.

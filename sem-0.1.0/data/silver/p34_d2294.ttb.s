@@ -1,0 +1,12 @@
+PER	Tom
+IST	just
+POS	could
+NOT	n't
+EXS	say
+NOT	no
+REL	to
+DIS	an
+CON	offer
+SUB	that
+EXS	good
+NIL	.

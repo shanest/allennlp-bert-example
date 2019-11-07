@@ -1,0 +1,16 @@
+PRO	It
+PST	was
+NOT	not
+SUB	until
+PER	Chikako
+EPS	left
+PRO	me
+SUB	that
+PRO	I
+EPS	realized
+QUE	how
+QUC	much
+PRO	I
+EPS	loved
+PRO	her
+NIL	.

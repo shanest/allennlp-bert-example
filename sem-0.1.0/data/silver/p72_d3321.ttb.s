@@ -1,0 +1,9 @@
+DEF	The
+ROL	scientists
+NOW	are
+EXS	working
+REL	on
+DIS	a
+IST	new
+CON	experiment
+NIL	.

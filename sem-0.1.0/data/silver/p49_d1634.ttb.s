@@ -1,0 +1,12 @@
+PRO	He
+EPS	took
+DIS	a
+CON	taxi
+REL	in
+CON	order
+NOT	not
+SUB	to
+EXS	miss
+DEF	the
+CON	train
+NIL	.

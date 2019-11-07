@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+NOW	has
+CON	time
+REL	for
+DST	that
+CON	sort
+AND	of
+CON	thing
+NIL	.

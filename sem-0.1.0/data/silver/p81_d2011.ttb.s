@@ -1,0 +1,12 @@
+PER	Tom
+HAS	's
+FUT	will
+NOW	is
+EXS	going
+SUB	to
+EXS	be
+EXS	read
+FUT	tomorrow
+REL	at
+CLO	2:30
+NIL	.

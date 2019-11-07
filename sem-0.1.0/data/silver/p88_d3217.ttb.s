@@ -1,0 +1,9 @@
+HAS	My
+CON	aunt
+NOW	has
+PFT	been
+EXS	dead
+REL	for
+QUC	two
+CON	years
+NIL	.

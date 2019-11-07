@@ -1,0 +1,10 @@
+PER	Tom
+ENS	has
+NOT	no
+CON	idea
+SUB	where
+PRO	he
+EPS	left
+HAS	his
+CON	keys
+NIL	.

@@ -1,0 +1,13 @@
+DEF	The
+CON	consequence
+EPS	was
+SUB	that
+NIL	,
+PRO	she
+EPS	lost
+DIS	a
+IST	considerable
+CON	amount
+AND	of
+CON	money
+NIL	.

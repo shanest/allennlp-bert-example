@@ -1,0 +1,10 @@
+NIL	There
+HAS	's
+DIS	a
+IST	long
+CON	line
+REL	at
+AND	every
+CON	cash
+CON	register
+NIL	.

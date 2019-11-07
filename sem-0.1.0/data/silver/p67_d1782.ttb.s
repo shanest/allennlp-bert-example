@@ -1,0 +1,12 @@
+GEO	Constantinople
+EPS	fell
+REL	to
+DEF	the
+CON	hands
+AND	of
+DEF	the
+IST	Ottoman
+GPE	Turks
+REL	in
+YOC	1453
+NIL	.

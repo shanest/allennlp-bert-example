@@ -1,0 +1,10 @@
+PRO	You
+NEC	should
+EXT	have
+EXS	told
+PRO	me
+DIS	a
+IST	long
+CON	time
+PST	ago
+NIL	.

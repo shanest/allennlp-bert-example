@@ -1,0 +1,9 @@
+QUE	What
+HAS	's
+PER	Tom
+EXS	like
+SUB	when
+PRO	he
+NOW	's
+EXS	angry
+QUE	?

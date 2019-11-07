@@ -1,0 +1,11 @@
+DEF	The
+CON	world
+HAS	's
+TOP	largest
+CON	zoo
+NOW	is
+REL	in
+GEO	Berlin
+EQU	,
+GPE	Germany
+NIL	.

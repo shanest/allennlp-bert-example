@@ -1,0 +1,17 @@
+DEF	The
+ROL	teacher
+EPS	said
+COO	:
+NIL	"
+REL	Above
+AND	all
+NIL	,
+QUE	what
+NOW	is
+EXS	necessary
+REL	for
+CON	success
+NOW	is
+CON	perseverance
+NIL	.
+NIL	"

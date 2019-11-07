@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	remember
+QUE	what
+PRO	you
+PST	did
+IST	last
+DOW	Friday
+QUE	?

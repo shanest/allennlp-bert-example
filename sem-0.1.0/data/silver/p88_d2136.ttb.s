@@ -1,0 +1,12 @@
+AND	Cover
+HAS	your
+CON	mouth
+SUB	when
+PRO	you
+CON	cough
+NIL	,
+EPS	sneeze
+NIL	,
+DIS	or
+EXS	yawn
+NIL	.

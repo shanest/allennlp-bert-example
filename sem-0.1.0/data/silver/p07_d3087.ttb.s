@@ -1,0 +1,9 @@
+DEF	The
+CON	news
+CON	report
+EPS	spread
+AND	all
+AND	over
+DEF	the
+CON	country
+NIL	.

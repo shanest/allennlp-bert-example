@@ -1,0 +1,12 @@
+SUB	When
+PRO	I
+EPS	returned
+CON	home
+NIL	,
+HAS	my
+CON	brother
+PST	had
+EXS	done
+HAS	his
+CON	homework
+NIL	.

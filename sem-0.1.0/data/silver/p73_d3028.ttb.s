@@ -1,0 +1,9 @@
+IST	Please
+EPS	put
+DEF	the
+CON	table
+AND	next
+REL	to
+DEF	the
+CON	wall
+NIL	.

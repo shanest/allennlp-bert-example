@@ -1,0 +1,12 @@
+DEF	The
+CON	art
+CON	historian
+EPS	wrote
+DIS	an
+CON	essay
+REL	about
+DEF	the
+IST	ancient
+GPO	Greek
+CON	vase
+NIL	.

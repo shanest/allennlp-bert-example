@@ -1,0 +1,9 @@
+AND	Why
+NOW	do
+NOT	n't
+PRO	you
+ENS	want
+SUB	to
+EXS	go
+IST	first
+QUE	?

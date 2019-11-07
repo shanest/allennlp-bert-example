@@ -1,0 +1,15 @@
+PRO	He
+EPS	said
+PRO	he
+PST	had
+NOT	n't
+PFT	been
+AND	inside
+DEF	the
+CON	room
+NIL	.
+DST	That
+NOW	is
+DIS	a
+CON	lie
+NIL	.

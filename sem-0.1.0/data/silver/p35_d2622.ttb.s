@@ -1,0 +1,10 @@
+GEO	Poyang
+GEO	Lake
+NOW	is
+DEF	the
+TOP	largest
+CON	freshwater
+CON	lake
+REL	in
+GPE	China
+NIL	.

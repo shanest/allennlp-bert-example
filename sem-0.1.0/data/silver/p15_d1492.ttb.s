@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+NOT	not
+DIS	a
+CON	baby
+NIL	,
+PRO	you
+ENS	know
+NIL	!

@@ -1,0 +1,14 @@
+DEF	The
+IST	difficult
+PRO	we
+NOW	do
+REL	at
+QUC	once
+NIL	.
+DEF	The
+UNK	impossible
+NOW	takes
+DIS	a
+IST	little
+IST	longer
+NIL	.

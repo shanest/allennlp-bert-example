@@ -1,0 +1,11 @@
+PRO	We
+NEC	ought
+SUB	to
+EXS	look
+DEF	the
+CON	world
+AND	straight
+REL	in
+DEF	the
+CON	face
+NIL	.

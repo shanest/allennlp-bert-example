@@ -1,0 +1,9 @@
+DEF	The
+CON	kids
+NOW	are
+EXS	picking
+CON	flowers
+REL	in
+DEF	the
+CON	garden
+NIL	.

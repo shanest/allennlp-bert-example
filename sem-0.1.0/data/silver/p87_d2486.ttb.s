@@ -1,0 +1,12 @@
+PRO	You
+NEC	have
+SUB	to
+EXS	work
+IST	harder
+SUB	to
+EXS	make
+IST	up
+REL	for
+IST	lost
+CON	time
+NIL	.

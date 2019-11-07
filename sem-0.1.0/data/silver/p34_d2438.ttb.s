@@ -1,0 +1,11 @@
+PER	Yoko
+NOW	is
+REL	in
+GPE	London
+NOW	now
+NIL	.
+PRO	She
+NOW	's
+EXG	studying
+ART	English
+NIL	.

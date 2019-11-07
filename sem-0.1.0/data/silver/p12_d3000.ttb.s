@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	felt
+SUB	so
+EXS	happy
+REL	in
+HAS	my
+CON	life
+NIL	.

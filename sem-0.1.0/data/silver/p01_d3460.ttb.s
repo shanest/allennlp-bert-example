@@ -1,0 +1,16 @@
+PER	Tom
+EPS	ate
+DIS	some
+CON	food
+NIL	,
+EPS	drank
+DIS	some
+CON	beer
+NIL	,
+COO	and
+IST	then
+EPS	went
+IST	right
+NIL	to
+EXS	sleep
+NIL	.

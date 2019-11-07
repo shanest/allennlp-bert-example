@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	thought
+SUB	about
+EXG	writing
+DIS	a
+CON	book
+QUE	?

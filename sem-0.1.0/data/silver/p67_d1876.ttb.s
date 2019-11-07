@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+PFT	been
+PRX	here
+REL	for
+IST	quite
+DIS	a
+IST	long
+CON	time
+NIL	.

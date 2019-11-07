@@ -1,0 +1,11 @@
+PER	Tom
+EQU	,
+PER	Mary
+AND	and
+PER	John
+NOW	are
+EXS	sitting
+AND	around
+DEF	the
+CON	table
+NIL	.

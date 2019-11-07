@@ -1,0 +1,12 @@
+PRO	You
+IST	probably
+NOW	do
+NOT	n't
+EXS	understand
+DIS	a
+CON	word
+PRO	I
+NOW	'm
+EXS	saying
+NOW	today
+NIL	.

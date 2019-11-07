@@ -1,0 +1,10 @@
+PRO	He
+EPS	explained
+REL	to
+PRO	me
+SUB	that
+PRO	he
+EPS	had
+NOT	no
+CON	money
+NIL	.

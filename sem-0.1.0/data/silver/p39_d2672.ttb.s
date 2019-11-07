@@ -1,0 +1,11 @@
+PER	Marika
+NOW	is
+GPO	Finnish
+NIL	,
+BUT	but
+PRO	she
+NOW	is
+IST	fluent
+REL	in
+GPO	German
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+ENS	like
+SUB	to
+EXS	spend
+HAS	my
+CON	holidays
+REL	in
+GPE	Germany
+NIL	.

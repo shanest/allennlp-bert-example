@@ -1,0 +1,10 @@
+PRO	I
+EPS	forgot
+DEF	the
+CON	key
+COO	and
+EPS	went
+IST	back
+REL	for
+PRO	it
+NIL	.

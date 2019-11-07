@@ -1,0 +1,11 @@
+PRO	He
+EPS	wondered
+REL	to
+REF	himself
+QUE	why
+HAS	his
+CON	wife
+PST	had
+EXS	left
+PRO	him
+NIL	.

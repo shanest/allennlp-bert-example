@@ -1,0 +1,10 @@
+PER	Tom
+EPS	looked
+IST	deeply
+REL	into
+PER	Mary
+HAS	's
+CON	eyes
+COO	and
+EPS	smiled
+NIL	.

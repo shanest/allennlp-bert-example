@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+EXG	looking
+REL	for
+DIS	someone
+SUB	to
+EXS	help
+PRO	him
+EXS	build
+DIS	a
+CON	wall
+NIL	.

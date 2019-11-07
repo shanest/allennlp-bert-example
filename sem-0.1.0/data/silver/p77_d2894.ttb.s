@@ -1,0 +1,10 @@
+PER	Mary
+HAS	's
+ROL	father
+EPS	left
+HAS	her
+AND	all
+AND	of
+HAS	his
+CON	money
+NIL	.

@@ -1,0 +1,14 @@
+PRO	He
+EPS	went
+REL	to
+GPE	Italy
+QUC	ten
+CON	years
+PST	ago
+AND	and
+NOW	has
+EXT	lived
+NIL	there
+IST	ever
+SUB	since
+NIL	.

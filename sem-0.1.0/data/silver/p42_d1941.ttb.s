@@ -1,0 +1,9 @@
+PER	Tom
+EPS	broke
+HAS	his
+CON	collarbone
+SUB	when
+PRO	he
+PST	was
+QUC	thirteen
+NIL	.

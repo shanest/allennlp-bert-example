@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+IST	definite
+SUB	that
+PRO	he
+FUT	will
+EXS	go
+REL	to
+GEO	America
+NIL	.

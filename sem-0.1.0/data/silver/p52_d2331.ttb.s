@@ -1,0 +1,11 @@
+PRO	She
+NOW	is
+NOT	no
+IST	longer
+QUE	what
+PRO	she
+PST	was
+QUC	five
+CON	years
+PST	ago
+NIL	.

@@ -1,0 +1,15 @@
+PRO	She
+NOW	has
+DIS	a
+IST	good
+CON	command
+AND	of
+GPO	English
+SUB	though
+PRO	she
+PST	was
+EXS	brought
+IST	up
+REL	in
+GPE	Japan
+NIL	.

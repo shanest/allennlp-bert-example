@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+INT	very
+EXS	hot
+NOW	today
+NIL	,
+NOW	is
+NOT	n't
+PRO	it
+QUE	?

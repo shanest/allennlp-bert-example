@@ -1,0 +1,17 @@
+PRO	I
+NOW	'm
+EXS	fine
+NIL	,
+CON	thanks
+NIL	.
+ITJ	Oh
+NIL	,
+PER	Laura
+NIL	,
+PRX	this
+NOW	is
+HAS	my
+CON	friend
+EQU	,
+PER	Ayako
+NIL	.

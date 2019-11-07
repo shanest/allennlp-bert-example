@@ -1,0 +1,9 @@
+PRX	This
+CON	offer
+EFS	expires
+REL	on
+MOY	August
+DOM	15
+NIL	,
+YOC	1999
+NIL	.

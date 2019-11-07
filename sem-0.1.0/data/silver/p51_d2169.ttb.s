@@ -1,0 +1,14 @@
+PER	Jeff
+EPS	wore
+DEF	the
+CON	tie
+SUB	that
+PER	Kim
+PST	had
+EXS	given
+PRO	him
+REL	for
+DIS	a
+CON	birthday
+CON	present
+NIL	.

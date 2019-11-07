@@ -1,0 +1,10 @@
+DEF	The
+ROL	captain
+NOW	is
+IST	responsible
+REL	for
+DEF	the
+CON	safety
+AND	of
+CON	passengers
+NIL	.

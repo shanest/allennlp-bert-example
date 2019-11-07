@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	bored
+NIL	,
+CON	home
+AND	alone
+NIL	,
+NOT	without
+CON	cartoons
+DIS	or
+DIS	a
+CON	computer
+NIL	.

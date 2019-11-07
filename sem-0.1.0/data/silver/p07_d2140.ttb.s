@@ -1,0 +1,10 @@
+SUB	Since
+PRO	it
+PST	was
+EXS	raining
+NIL	,
+PRO	I
+EPS	took
+DIS	a
+CON	taxi
+NIL	.

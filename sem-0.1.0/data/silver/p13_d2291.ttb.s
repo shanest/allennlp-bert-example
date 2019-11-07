@@ -1,0 +1,11 @@
+PRO	I
+FUT	will
+EXT	have
+PFT	been
+EXS	studying
+REL	for
+QUC	five
+UOM	years
+AND	next
+MOY	February
+NIL	.

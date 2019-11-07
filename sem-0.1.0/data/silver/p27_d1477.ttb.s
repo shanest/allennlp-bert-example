@@ -1,0 +1,13 @@
+AND	Because
+AND	of
+DEF	the
+CON	fog
+NIL	,
+DEF	the
+CON	airplane
+NOW	has
+PFT	been
+EXS	rerouted
+REL	to
+GEO	Munich
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+PST	invited
+PER	Mary
+COO	and
+HAS	her
+ROL	sister
+REL	to
+HAS	his
+CON	party
+NIL	.

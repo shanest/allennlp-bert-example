@@ -1,0 +1,10 @@
+PER	Bob
+EPS	charged
+QUC	3
+UOM	dollars
+DIS	an
+CON	hour
+REL	for
+REL	mowing
+CON	lawns
+NIL	.

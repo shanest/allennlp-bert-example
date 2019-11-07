@@ -1,0 +1,12 @@
+EXS	Did
+PRO	you
+ENS	know
+NIL	"
+IST	credulous
+NIL	"
+NOW	is
+NOT	not
+REL	in
+DEF	the
+CON	dictionary
+QUE	?

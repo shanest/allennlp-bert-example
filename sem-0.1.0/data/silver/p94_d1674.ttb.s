@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+EXS	welcome
+SUB	to
+EXS	join
+PRO	us
+IMP	if
+PRO	you
+ENS	want
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+CON	guys
+EXS	seem
+SUB	to
+EXS	be
+EXS	having
+DIS	a
+IST	good
+CON	time
+NIL	.

@@ -1,0 +1,10 @@
+HAS	Our
+CON	records
+NOW	show
+SUB	that
+PRO	you
+NOW	have
+NOT	n't
+EXS	paid
+ALT	yet
+NIL	.

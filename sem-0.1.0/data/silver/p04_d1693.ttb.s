@@ -1,0 +1,12 @@
+IMP	If
+DIS	anyone
+NOW	has
+DIS	a
+CON	problem
+NIL	,
+EXS	tell
+PRO	them
+SUB	to
+EXS	call
+PRO	me
+NIL	.

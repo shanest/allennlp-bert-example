@@ -1,0 +1,11 @@
+DEF	The
+CON	city
+REL	in
+UNK	which
+PRO	I
+PST	was
+EXS	born
+NOW	is
+GEO	Tel
+GEO	Aviv
+NIL	.

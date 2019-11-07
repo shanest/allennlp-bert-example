@@ -1,0 +1,17 @@
+PER	Tom
+EPS	wanted
+SUB	to
+EXS	drive
+NIL	,
+BUT	but
+SUB	since
+PRO	he
+PST	was
+EXS	drunk
+NIL	,
+PER	Mary
+FUT	would
+NOT	n't
+EXS	let
+PRO	him
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+FUT	will
+EXS	ask
+PER	Mary
+SUB	to
+EXS	type
+DEF	the
+CON	letters
+FUT	tomorrow
+NIL	.

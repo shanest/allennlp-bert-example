@@ -1,0 +1,25 @@
+PER	Pinkerton
+NOW	is
+DIS	an
+IST	active
+CON	member
+AND	of
+ORG	St. Bernard Church
+AND	and
+NOW	has
+EXS	worked
+REL	in
+DIS	a
+CON	variety
+AND	of
+CON	ministries
+AND	including
+IST	religious
+CON	education
+EQU	,
+CON	music
+AND	and
+DEF	the
+CON	jail
+CON	ministry
+NIL	.

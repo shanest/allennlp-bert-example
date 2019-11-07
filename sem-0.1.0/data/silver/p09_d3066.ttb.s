@@ -1,0 +1,10 @@
+NOW	Do
+NOT	n't
+EXS	keep
+CON	company
+REL	with
+AND	such
+DIS	a
+IST	bad
+CON	boy
+NIL	.

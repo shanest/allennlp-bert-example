@@ -1,0 +1,12 @@
+EXG	Being
+DIS	a
+IST	wiry
+CON	person
+NIL	,
+PRO	he
+NOW	is
+IST	thin
+COO	but
+IST	still
+ENS	looks
+IST	strong

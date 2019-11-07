@@ -1,0 +1,9 @@
+PRO	She
+EPS	wrote
+PRX	this
+CON	novel
+REL	after
+DIS	a
+IST	long
+CON	research
+NIL	.

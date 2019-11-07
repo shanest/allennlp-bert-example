@@ -1,0 +1,10 @@
+PRO	I
+NOW	take
+PRO	it
+PRO	you
+NOW	have
+NOT	n't
+EXS	heard
+REL	from
+PER	Tom
+NIL	.

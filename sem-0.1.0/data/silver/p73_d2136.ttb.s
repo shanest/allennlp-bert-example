@@ -1,0 +1,10 @@
+EXS	Did
+PRO	you
+ENS	know
+SUB	that
+CON	men
+POS	can
+EXS	get
+REL	breast
+CON	cancer
+QUE	?

@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXS	going
+SUB	to
+EXS	take
+QUC	two
+CON	days
+REL	off
+IST	next
+CON	week
+NIL	.

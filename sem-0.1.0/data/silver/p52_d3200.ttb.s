@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	looking
+IST	forward
+REL	to
+DEF	the
+IST	next
+CON	month
+NIL	.

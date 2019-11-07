@@ -1,0 +1,15 @@
+ROL	Uncle
+PER	Ted
+EPS	took
+PRO	us
+REL	to
+DEF	the
+CON	zoo
+REL	in
+CON	order
+SUB	to
+EXS	show
+PRO	us
+DEF	the
+CON	pandas
+NIL	.

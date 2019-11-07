@@ -1,0 +1,12 @@
+REL	At
+DST	that
+CON	time
+NIL	,
+GEO	Mexico
+PST	was
+NOT	not
+ALT	yet
+EXS	independent
+AND	of
+GEO	Spain
+NIL	.

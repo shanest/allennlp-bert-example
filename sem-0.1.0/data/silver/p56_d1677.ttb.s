@@ -1,0 +1,10 @@
+PER	Tom
+EPS	sketched
+DIS	a
+CON	picture
+AND	of
+DIS	an
+CON	elephant
+REL	for
+PER	Mary
+NIL	.

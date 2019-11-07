@@ -1,0 +1,11 @@
+PRO	I
+EPS	saw
+PRO	him
+ENS	go
+IST	out
+AND	of
+DEF	the
+CON	room
+AND	just
+NOW	now
+NIL	.

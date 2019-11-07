@@ -1,0 +1,13 @@
+DIS	A
+IST	miniscule
+CON	proportion
+AND	of
+DEF	the
+CON	population
+ENS	understand
+QUE	what
+CON	neutrons
+AND	and
+CON	protons
+NOW	are
+NIL	.

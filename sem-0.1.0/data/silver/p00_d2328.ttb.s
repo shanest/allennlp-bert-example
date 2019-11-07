@@ -1,0 +1,13 @@
+PRO	You
+POS	could
+EXS	learn
+DIS	a
+CON	lot
+REL	from
+PRO	them
+IMP	if
+PRO	you
+PST	'd
+XCL	only
+EXS	listen
+NIL	.

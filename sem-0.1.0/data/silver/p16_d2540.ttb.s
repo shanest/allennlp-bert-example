@@ -1,0 +1,9 @@
+DEF	The
+CON	fact
+NOW	is
+NIL	,
+PRO	he
+EPS	broke
+DEF	the
+CON	window
+NIL	.

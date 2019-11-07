@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+NOT	n't
+SUB	as
+EXS	clever
+SUB	as
+PRO	he
+ENS	thinks
+PRO	he
+NOW	is
+NIL	.

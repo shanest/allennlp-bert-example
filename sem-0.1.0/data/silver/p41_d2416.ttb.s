@@ -1,0 +1,13 @@
+NOW	Do
+PRO	you
+IST	really
+ENS	want
+PRO	me
+SUB	to
+EXS	tell
+PER	Tom
+AND	about
+PER	you
+AND	and
+PER	Mary
+QUE	?

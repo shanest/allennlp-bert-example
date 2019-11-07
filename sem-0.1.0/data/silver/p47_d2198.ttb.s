@@ -1,0 +1,10 @@
+PER	Tom
+EPS	rode
+HAS	his
+CON	bicycle
+AND	down
+DIS	a
+IST	quiet
+IST	residential
+CON	street
+NIL	.

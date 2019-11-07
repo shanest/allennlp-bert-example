@@ -1,0 +1,12 @@
+EXS	Let
+PRO	's
+ENS	go
+REL	to
+DEF	the
+CON	park
+SUB	where
+PRO	it
+NOW	is
+NOT	not
+EXS	noisy
+NIL	.

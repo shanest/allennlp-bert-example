@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	you
+AND	and
+PER	Tom
+NOW	are
+CON	friends
+NIL	.

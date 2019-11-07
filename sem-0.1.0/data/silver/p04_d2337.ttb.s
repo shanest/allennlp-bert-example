@@ -1,0 +1,11 @@
+NOW	Are
+NOT	n't
+PRO	you
+IST	too
+DIS	a
+IST	little
+CON	bit
+IST	romantic
+EQU	,
+PER	Mary
+QUE	?

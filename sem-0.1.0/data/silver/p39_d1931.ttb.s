@@ -1,0 +1,10 @@
+EXS	Let
+PRO	's
+NOT	not
+EXS	wash
+HAS	our
+IST	dirty
+CON	linen
+REL	in
+CON	public
+NIL	.

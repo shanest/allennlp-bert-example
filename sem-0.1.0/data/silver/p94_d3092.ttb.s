@@ -1,0 +1,11 @@
+NOW	Have
+PRO	you
+EPS	told
+PER	Tom
+QUE	why
+PRO	you
+NOW	do
+NOT	n't
+EXS	like
+PRO	him
+QUE	?

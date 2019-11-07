@@ -1,0 +1,9 @@
+PRO	I
+IST	just
+ENS	want
+SUB	to
+EXS	be
+AND	alone
+IST	right
+NOW	now
+NIL	.

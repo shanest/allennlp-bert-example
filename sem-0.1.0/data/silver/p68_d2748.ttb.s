@@ -1,0 +1,12 @@
+PER	Tom
+PST	was
+EXS	shocked
+SUB	to
+EXS	hear
+SUB	that
+PER	Mary
+PST	had
+EXT	gotten
+REL	into
+ORG	Harvard
+NIL	.

@@ -1,0 +1,9 @@
+PRO	We
+NOW	're
+EXS	working
+AND	as
+IST	fast
+SUB	as
+PRO	we
+POS	can
+NIL	.

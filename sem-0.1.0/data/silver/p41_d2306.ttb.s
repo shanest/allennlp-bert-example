@@ -1,0 +1,10 @@
+PRO	She
+NOW	is
+EXS	attractive
+NIL	,
+BUT	but
+PRO	she
+NOW	talks
+INT	too
+QUC	much
+NIL	.

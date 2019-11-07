@@ -1,0 +1,10 @@
+DEF	The
+CON	more
+PRO	you
+ENS	read
+NIL	,
+DEF	the
+MOR	more
+PRO	you
+ENS	know
+NIL	.

@@ -1,0 +1,17 @@
+DEF	The
+CON	girl
+PST	did
+NOT	not
+EXS	like
+SUB	to
+EXS	wash
+CON	dishes
+NIL	,
+BUT	but
+PRO	she
+EPS	made
+DEF	the
+TOP	best
+AND	of
+PRO	it
+NIL	.

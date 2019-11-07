@@ -1,0 +1,12 @@
+PRO	I
+ENS	want
+NIL	to
+EXS	eat
+DIS	some
+GPO	Korean
+CON	food
+AND	that
+NOW	is
+NOT	n't
+IST	spicy
+NIL	.

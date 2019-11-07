@@ -1,0 +1,9 @@
+EXS	Tell
+PRO	her
+SUB	that
+PRO	I
+NOW	am
+EXG	breast-feeding
+HAS	my
+CON	baby
+NIL	.

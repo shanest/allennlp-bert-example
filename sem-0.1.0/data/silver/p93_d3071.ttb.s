@@ -1,0 +1,14 @@
+DEF	The
+XCL	only
+CON	thing
+AND	that
+CON	matters
+REL	to
+PER	Tom
+NOW	is
+QUE	how
+QUC	much
+CON	money
+PRO	he
+NOW	makes
+NIL	.

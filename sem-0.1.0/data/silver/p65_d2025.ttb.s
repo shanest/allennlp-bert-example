@@ -1,0 +1,17 @@
+PRO	I
+PST	was
+EXS	going
+SUB	to
+EXS	write
+REL	to
+PRO	you
+NIL	,
+BUT	but
+PRO	I
+EPS	started
+EXS	doing
+ALT	other
+CON	things
+COO	and
+EPS	forgot
+NIL	.

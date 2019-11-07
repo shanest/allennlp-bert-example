@@ -1,0 +1,13 @@
+PER	Tom
+EPS	carved
+DIS	a
+CON	pipe
+REL	for
+PER	Mary
+NIL	,
+BUT	but
+PRO	she
+NOW	does
+NOT	n't
+EXS	smoke
+NIL	.

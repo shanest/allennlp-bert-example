@@ -1,0 +1,11 @@
+AND	Why
+NOW	do
+NOT	n't
+PRO	you
+EXS	give
+HAS	your
+CON	wife
+DIS	a
+IST	little
+CON	thanks
+QUE	?

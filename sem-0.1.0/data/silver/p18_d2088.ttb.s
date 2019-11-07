@@ -1,0 +1,12 @@
+GPO	Europeans
+NOT	never
+EXS	colonized
+GPE	Ethiopia
+NIL	,
+BUT	but
+NOT	not
+REL	for
+CON	lack
+AND	of
+EXS	trying
+NIL	.

@@ -1,0 +1,9 @@
+PER	Darwin
+EPS	changed
+DEF	the
+CON	way
+PRO	we
+NOW	see
+DEF	the
+CON	world
+NIL	.

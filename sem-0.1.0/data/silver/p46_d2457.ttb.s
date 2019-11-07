@@ -1,0 +1,17 @@
+PER	Liisa
+PST	was
+IST	completely
+EXS	overwhelmed
+NIL	,
+COO	but
+UNK	there
+PST	was
+NOT	no
+CON	one
+UNK	there
+AND	who
+POS	could
+EXT	've
+EXS	helped
+PRO	her
+NIL	.

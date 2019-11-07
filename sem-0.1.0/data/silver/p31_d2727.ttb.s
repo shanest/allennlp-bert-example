@@ -1,0 +1,11 @@
+NOT	No
+NIL	,
+EXS	thank
+PRO	you
+NIL	.
+PRO	I
+NOW	'm
+IST	just
+EXS	looking
+IST	around
+NIL	.

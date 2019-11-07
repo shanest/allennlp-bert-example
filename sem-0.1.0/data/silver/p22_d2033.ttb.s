@@ -1,0 +1,12 @@
+PRO	I
+EPS	saw
+DIS	something
+IST	strange
+REL	on
+HAS	my
+CON	way
+SUB	to
+EXS	work
+PRX	this
+CON	morning
+NIL	.

@@ -1,0 +1,9 @@
+AND	How
+ENS	come
+PRO	you
+ENS	know
+INT	so
+QUV	much
+REL	about
+PER	Tom
+QUE	?

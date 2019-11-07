@@ -1,0 +1,10 @@
+AND	Why
+PST	did
+PRO	you
+EXS	turn
+IST	away
+SUB	when
+PRO	you
+EPS	met
+PRO	him
+QUE	?

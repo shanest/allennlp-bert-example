@@ -1,0 +1,13 @@
+PRX	This
+CON	book
+NOW	is
+HAS	mine
+COO	;
+PRO	I
+EPS	wrote
+HAS	my
+CON	name
+REL	in
+PRO	it
+EMP	myself
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+INT	too
+EXS	scared
+SUB	to
+EXS	go
+IST	there
+REL	by
+REF	myself
+NIL	.

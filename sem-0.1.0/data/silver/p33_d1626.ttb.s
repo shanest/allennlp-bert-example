@@ -1,0 +1,16 @@
+SUB	Until
+NOW	now
+DEF	the
+CON	city
+AND	of
+GEO	Bilbao
+NOW	has
+PFT	been
+EXS	characterized
+AND	as
+DIS	a
+CON	place
+AND	of
+IST	international
+CON	renown
+NIL	.

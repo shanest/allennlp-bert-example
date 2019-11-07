@@ -1,0 +1,10 @@
+DEF	The
+CON	road
+REL	to
+CON	recovery
+ENS	goes
+IST	downhill
+AND	all
+DEF	the
+CON	way
+NIL	.

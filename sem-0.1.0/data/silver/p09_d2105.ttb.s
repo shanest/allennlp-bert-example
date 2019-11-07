@@ -1,0 +1,12 @@
+EXS	Tell
+PRO	me
+QUE	why
+PRO	you
+NOW	have
+EXS	told
+REL	on
+PRO	me
+REL	to
+DEF	the
+ROL	teacher
+NIL	.

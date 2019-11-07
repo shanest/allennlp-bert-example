@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	understand
+QUE	why
+PER	Mary
+NOW	is
+INT	so
+EXS	popular
+NIL	.

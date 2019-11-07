@@ -1,0 +1,10 @@
+PRO	He
+EPS	put
+REL	in
+QUC	ten
+UOM	hours
+AND	of
+CON	overtime
+PRX	this
+CON	week
+NIL	.

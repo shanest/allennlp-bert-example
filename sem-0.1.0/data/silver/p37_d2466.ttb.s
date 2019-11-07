@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	proud
+AND	of
+HAS	my
+ROL	father
+EXS	being
+DIS	a
+IST	good
+CON	cook
+NIL	.

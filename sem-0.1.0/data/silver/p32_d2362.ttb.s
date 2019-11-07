@@ -1,0 +1,11 @@
+ROL	Grandfather
+EPS	talked
+REL	to
+PRO	me
+REL	with
+DIS	a
+CON	pipe
+REL	in
+HAS	his
+CON	mouth
+NIL	.

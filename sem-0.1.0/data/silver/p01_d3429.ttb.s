@@ -1,0 +1,11 @@
+PRO	I
+PST	had
+DIS	a
+IST	hard
+CON	time
+EXG	putting
+DEF	the
+CON	kid
+REL	to
+CON	bed
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PER	Tom
+EPS	made
+DIS	a
+CON	mistake
+AND	like
+DST	that
+NIL	.

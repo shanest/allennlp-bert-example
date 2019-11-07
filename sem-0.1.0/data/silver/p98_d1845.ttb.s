@@ -1,0 +1,13 @@
+PER	Tom
+EPS	took
+HAS	his
+CON	coat
+AND	out
+AND	of
+DEF	the
+CON	closet
+COO	and
+EPS	put
+PRO	it
+REL	on
+NIL	.

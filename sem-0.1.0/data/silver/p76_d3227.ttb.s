@@ -1,0 +1,9 @@
+PRO	You
+EPS	gave
+DEF	the
+CON	documents
+REL	to
+DEF	the
+IST	wrong
+CON	person
+NIL	.

@@ -1,0 +1,13 @@
+PRX	This
+NOW	is
+DEF	the
+CON	house
+SUB	where
+HAS	my
+ROL	father
+PST	was
+EXS	born
+COO	and
+EPS	brought
+IST	up
+NIL	.

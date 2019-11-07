@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+CON	grandpa
+QUC	two
+DIS	or
+QUC	three
+CON	times
+DIS	a
+CON	week
+NIL	.

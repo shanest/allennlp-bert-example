@@ -1,0 +1,17 @@
+PER	Tom
+NIL	,
+NIL	there
+NOW	are
+DIS	a
+CON	lot
+AND	of
+CON	girls
+DST	that
+FUT	would
+EXS	love
+SUB	to
+EXS	go
+IST	out
+REL	with
+PRO	you
+NIL	.

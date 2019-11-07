@@ -1,0 +1,10 @@
+PER	Tom
+EPS	slapped
+DEF	the
+CON	ball
+AND	out
+AND	of
+PER	Mary
+HAS	's
+CON	hand
+NIL	.

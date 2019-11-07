@@ -1,0 +1,14 @@
+PER	Tom
+ENS	thinks
+PER	Mary
+NOW	does
+NOT	n't
+EXS	have
+DIS	an
+CON	inkling
+AND	of
+QUE	what
+HAS	's
+EXS	going
+REL	on
+NIL	.

@@ -1,0 +1,11 @@
+SUB	As
+PRO	he
+EPS	stood
+UNK	there
+PRO	he
+POS	might
+EXT	have
+EXS	been
+DIS	a
+CON	fiend
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+EPS	ironed
+REL	out
+DEF	the
+CON	wrinkles
+REL	in
+HAS	my
+CON	pants
+NIL	.

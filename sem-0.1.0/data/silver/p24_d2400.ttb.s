@@ -1,0 +1,9 @@
+PRX	This
+NOW	is
+EXS	getting
+DIS	a
+IST	little
+CON	silly
+NIL	,
+NOW	now
+NIL	.

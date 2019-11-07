@@ -1,0 +1,9 @@
+DEF	The
+ROL	king
+PST	had
+IST	clearly
+EXT	overstepped
+HAS	his
+IST	constitutional
+CON	role
+NIL	.

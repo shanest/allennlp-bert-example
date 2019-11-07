@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+EXS	annoying
+SUB	to
+EXS	hear
+CON	people
+EXS	talking
+IST	loudly
+REL	in
+DIS	a
+CON	library
+NIL	.

@@ -1,0 +1,11 @@
+PST	Yesterday
+PRO	I
+EPS	met
+QUC	two
+GPE	Americans
+AND	who
+NOW	're
+EXG	bicycling
+AND	through
+GPE	Japan
+NIL	.

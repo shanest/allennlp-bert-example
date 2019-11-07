@@ -1,0 +1,11 @@
+PRO	I
+EPS	took
+DEF	the
+CON	cake
+AND	out
+AND	of
+DEF	the
+CON	oven
+IST	too
+IST	early
+NIL	.

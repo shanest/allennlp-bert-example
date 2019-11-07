@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	had
+DEF	the
+CON	honor
+AND	of
+EXS	meeting
+PRO	him
+NIL	.

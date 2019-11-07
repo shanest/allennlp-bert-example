@@ -1,0 +1,11 @@
+PRO	She
+NOW	is
+NOT	not
+DIS	an
+GPO	American
+NIL	,
+BUT	but
+PRO	she
+ENS	loves
+GEO	America
+NIL	.

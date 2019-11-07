@@ -1,0 +1,10 @@
+PRO	I
+FUT	will
+EXT	have
+EXS	finished
+PRX	this
+CON	task
+REL	by
+IST	next
+DOW	Friday
+NIL	.

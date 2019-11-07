@@ -1,0 +1,12 @@
+PRX	This
+GPO	Turkish
+CON	delight
+PST	was
+EXS	made
+REL	in
+GPE	China
+COO	and
+EXS	assembled
+REL	in
+GPE	Mexico
+NIL	.

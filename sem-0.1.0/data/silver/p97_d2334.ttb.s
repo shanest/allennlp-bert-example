@@ -1,0 +1,12 @@
+PRO	We
+NOW	consider
+NOW	now
+IST	pairwise
+IST	non-isomorphic
+CON	factor
+CON	modules
+AND	of
+PRX	this
+IST	faithful
+CON	module
+NIL	.

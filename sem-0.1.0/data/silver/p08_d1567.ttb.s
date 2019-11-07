@@ -1,0 +1,17 @@
+AND	Along
+REL	with
+PRX	this
+CON	increase
+NIL	,
+UNK	there
+NOW	has
+EXS	been
+DIS	a
+CON	change
+REL	in
+DEF	the
+CON	world
+HAS	's
+IST	economic
+CON	organization
+NIL	.

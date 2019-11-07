@@ -1,0 +1,10 @@
+UNK	There
+HAS	's
+DIS	a
+IST	small
+COL	brown
+CON	dog
+REL	under
+PRX	this
+CON	table
+NIL	.

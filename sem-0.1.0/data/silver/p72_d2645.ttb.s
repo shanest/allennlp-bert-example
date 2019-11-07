@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	unlikely
+SUB	that
+PER	Tom
+FUT	will
+IST	ever
+EXS	return
+CON	home
+NIL	.

@@ -1,0 +1,10 @@
+PRO	They
+NOW	are
+EXS	leaving
+GEO	Cairo
+NOW	today
+EXS	heading
+REL	for
+GEO	Tel
+GEO	Aviv
+NIL	.

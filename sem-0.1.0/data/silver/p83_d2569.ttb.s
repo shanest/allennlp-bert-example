@@ -1,0 +1,11 @@
+HAS	My
+QUC	thirteen
+CON	year
+IST	old
+CON	girl
+ENS	loves
+SUB	to
+EXS	watch
+CON	romance
+CON	movies
+NIL	.

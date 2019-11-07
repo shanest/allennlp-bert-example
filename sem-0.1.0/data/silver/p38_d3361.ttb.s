@@ -1,0 +1,10 @@
+PER	Jim
+EPS	awoke
+COO	and
+EPS	found
+REF	himself
+AND	alone
+REL	in
+DEF	the
+CON	room
+NIL	.

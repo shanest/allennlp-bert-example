@@ -1,0 +1,11 @@
+PRO	He
+HAS	's
+PFT	been
+EXS	taught
+SUB	to
+EXS	accept
+CON	things
+AND	as
+PRO	they
+NOW	are
+NIL	.

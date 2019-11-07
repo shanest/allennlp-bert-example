@@ -1,0 +1,12 @@
+NOW	Do
+NOT	n't
+EXS	expose
+HAS	your
+CON	skin
+REL	to
+DEF	the
+CON	sun
+REL	for
+INT	too
+IST	long
+NIL	.

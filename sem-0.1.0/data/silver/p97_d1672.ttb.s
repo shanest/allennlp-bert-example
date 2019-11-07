@@ -1,0 +1,12 @@
+PRO	I
+FUT	would
+EXS	buy
+PRX	this
+CON	watch
+NIL	,
+NOT	except
+PRO	it
+NOW	's
+INT	too
+EXS	expensive
+NIL	.

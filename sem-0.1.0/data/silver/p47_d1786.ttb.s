@@ -1,0 +1,10 @@
+DEF	The
+CON	island
+NOW	is
+INT	about
+QUC	two
+UOM	miles
+REL	off
+DEF	the
+CON	coast
+NIL	.

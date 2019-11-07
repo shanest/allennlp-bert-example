@@ -1,0 +1,14 @@
+PRO	You
+NOW	are
+EXS	going
+SUB	to
+EXS	play
+DIS	a
+CON	trick
+REL	on
+PER	Liisa
+QUE	?
+PER	Count
+PRO	me
+IST	out
+NIL	!

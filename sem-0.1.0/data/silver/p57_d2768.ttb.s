@@ -1,0 +1,9 @@
+QUV	Many
+DIS	a
+CON	quarrel
+ENS	comes
+AND	about
+AND	through
+DIS	a
+CON	misunderstanding
+NIL	.

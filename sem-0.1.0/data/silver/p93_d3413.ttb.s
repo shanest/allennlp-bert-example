@@ -1,0 +1,17 @@
+SUB	Until
+NOW	now
+DEF	the
+CON	city
+AND	of
+GEO	Bilbao
+NOW	has
+PFT	been
+EXS	characterized
+AND	as
+DIS	a
+EXS	showcase
+REL	for
+CON	arts
+AND	and
+CON	culture
+NIL	.

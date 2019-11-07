@@ -1,0 +1,10 @@
+PER	Tom
+PST	had
+NOT	no
+CON	idea
+AND	who
+PER	Mary
+HAS	's
+ROL	father
+PST	was
+NIL	.

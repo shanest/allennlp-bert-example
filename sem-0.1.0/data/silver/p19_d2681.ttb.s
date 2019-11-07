@@ -1,0 +1,9 @@
+EXS	Thank
+PRO	you
+REL	for
+EXG	decorating
+PRX	this
+CON	glass
+REL	for
+PRO	me
+NIL	.

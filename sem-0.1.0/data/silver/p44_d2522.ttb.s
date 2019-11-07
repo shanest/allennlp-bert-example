@@ -1,0 +1,13 @@
+PRO	You
+NEC	ought
+NOT	not
+SUB	to
+EXS	have
+EXS	spent
+AND	so
+QUC	much
+CON	money
+REL	on
+HAS	your
+CON	hobby
+NIL	.

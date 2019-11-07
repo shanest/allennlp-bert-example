@@ -1,0 +1,12 @@
+PRO	She
+POS	can
+EXS	tell
+DEF	the
+TOP	most
+IST	outrageous
+CON	lie
+NOT	without
+EXG	batting
+DIS	an
+CON	eye
+NIL	.

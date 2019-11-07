@@ -1,0 +1,11 @@
+IMP	If
+PRO	I
+PST	had
+EXS	known
+NIL	,
+PRO	I
+FUT	would
+NOT	not
+EXT	have
+EXS	come
+NIL	.

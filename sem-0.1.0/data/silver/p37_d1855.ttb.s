@@ -1,0 +1,17 @@
+UNK	There
+NOW	are
+DIS	a
+CON	lot
+AND	of
+IST	old
+CON	cities
+REL	in
+GPE	Italy
+NIL	.
+GEO	Rome
+EQU	and
+GEO	Venice
+EQU	,
+REL	for
+CON	example
+NIL	.

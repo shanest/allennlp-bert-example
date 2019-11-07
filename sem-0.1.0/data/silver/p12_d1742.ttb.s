@@ -1,0 +1,10 @@
+PER	Tom
+EPS	put
+HAS	his
+CON	ear
+REL	to
+DEF	the
+CON	door
+COO	and
+EPS	listened
+NIL	.

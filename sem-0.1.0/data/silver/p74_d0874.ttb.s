@@ -1,0 +1,12 @@
+REL	On
+DEF	the
+CON	fifteenth
+REL	of
+MOY	August
+NIL	,
+CON	thousands
+REL	of
+CON	people
+EXS	fly
+CON	kites
+NIL	.

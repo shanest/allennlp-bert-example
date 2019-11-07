@@ -1,0 +1,14 @@
+ITJ	Oh
+NIL	,
+PRO	I
+NOW	have
+NOT	n't
+EXS	decided
+QUE	what
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	do
+ALT	yet
+NIL	.

@@ -1,0 +1,12 @@
+PRO	You
+FUT	will
+NEC	have
+SUB	to
+EXS	take
+REL	on
+DIS	someone
+SUB	to
+EXS	do
+PRX	this
+CON	work
+NIL	.

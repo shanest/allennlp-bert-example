@@ -1,0 +1,13 @@
+IST	Political
+CON	questions
+NOW	are
+IST	far
+IST	too
+IST	serious
+SUB	to
+EXS	be
+EXS	left
+REL	to
+DEF	the
+ROL	politicians
+NIL	.

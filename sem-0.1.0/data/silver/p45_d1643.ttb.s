@@ -1,0 +1,17 @@
+PER	Tom
+PST	thought
+PRO	it
+PST	was
+NOT	n't
+DIS	a
+IST	good
+CON	idea
+SUB	to
+EXS	leave
+PER	Mary
+REL	at
+CON	home
+NOT	without
+DIS	a
+CON	babysitter
+NIL	.

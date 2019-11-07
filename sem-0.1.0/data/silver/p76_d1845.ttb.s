@@ -1,0 +1,13 @@
+QUE	What
+ENS	need
+PRO	you
+EXS	care
+NIL	,
+PER	Sir
+EQU	,
+HAS	whose
+CON	dunghill
+PRO	you
+CON	shit
+REL	on
+NIL	!

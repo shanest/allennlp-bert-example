@@ -1,0 +1,9 @@
+PER	Tom
+EPS	put
+DIS	a
+CON	pillow
+REL	under
+PER	Mary
+HAS	's
+CON	head
+NIL	.

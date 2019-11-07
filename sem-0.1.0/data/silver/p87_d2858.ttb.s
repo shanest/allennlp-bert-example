@@ -1,0 +1,10 @@
+DIS	Someone
+NEC	should
+EXS	tell
+PER	Tom
+SUB	that
+DEF	the
+CON	meeting
+PST	was
+EXS	canceled
+NIL	.

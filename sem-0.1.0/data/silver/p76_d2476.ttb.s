@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+IST	up
+SUB	to
+PRO	you
+QUE	how
+PRO	you
+NOW	spend
+HAS	your
+IST	free
+CON	time
+NIL	.

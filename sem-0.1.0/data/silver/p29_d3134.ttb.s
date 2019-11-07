@@ -1,0 +1,13 @@
+IMP	If
+PRO	you
+ENS	go
+DIS	anywhere
+NIL	,
+PRO	you
+PST	had
+IST	better
+EXS	tell
+HAS	your
+CON	mother
+IST	first
+NIL	.

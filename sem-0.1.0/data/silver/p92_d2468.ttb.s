@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+NOT	not
+EXS	impressed
+REL	with
+DIS	anything
+PRO	I
+NOW	've
+EXS	seen
+AND	so
+IST	far
+NIL	.

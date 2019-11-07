@@ -1,0 +1,10 @@
+QUE	How
+FUT	would
+PRO	you
+EXS	know
+DIS	an
+GPO	American
+REL	from
+DIS	an
+CON	Englishman
+QUE	?

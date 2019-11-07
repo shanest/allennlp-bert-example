@@ -1,0 +1,10 @@
+PER	Tom
+EPS	took
+QUC	one
+AND	of
+DEF	the
+CON	books
+REL	off
+DEF	the
+CON	shelf
+NIL	.

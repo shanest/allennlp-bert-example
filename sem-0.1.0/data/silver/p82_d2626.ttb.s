@@ -1,0 +1,10 @@
+PRO	I
+FUT	'll
+EXS	be
+CON	home
+REL	by
+CLO	midnight
+REL	at
+DEF	the
+TOP	latest
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+EPS	farted
+REL	in
+CON	class
+AND	and
+DEF	the
+ROL	teacher
+EPS	threw
+PRO	me
+REL	out
+NIL	.

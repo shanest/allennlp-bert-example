@@ -1,0 +1,11 @@
+AND	And
+PRO	I
+ENS	know
+PRO	you
+PST	did
+NOT	n't
+EXS	do
+PRO	it
+REL	for
+PRO	me
+NIL	.

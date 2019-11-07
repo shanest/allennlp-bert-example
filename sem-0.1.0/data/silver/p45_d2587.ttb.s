@@ -1,0 +1,14 @@
+PRO	They
+NOW	are
+EXS	leaving
+REL	in
+QUC	three
+CON	days
+NIL	,
+AND	that
+NOW	is
+SUB	to
+EXS	say
+MOY	June
+NIL	10th
+NIL	.

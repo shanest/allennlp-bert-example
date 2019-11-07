@@ -1,0 +1,11 @@
+PER	Tom
+NEC	should
+NOT	n't
+EXT	have
+EXS	borrowed
+AND	so
+QUC	much
+CON	money
+REL	from
+PER	Mary
+NIL	.

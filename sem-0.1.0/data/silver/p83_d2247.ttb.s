@@ -1,0 +1,14 @@
+PRO	I
+EPS	inferred
+REL	from
+HAS	our
+CON	conversation
+SUB	that
+PRO	he
+PST	was
+NOT	un
+EXS	happy
+REL	with
+HAS	his
+CON	job
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+EPS	wrote
+DIS	a
+CON	book
+NIL	,
+BUT	but
+PRO	it
+PST	was
+NOT	n't
+INT	very
+EXS	good
+NIL	.

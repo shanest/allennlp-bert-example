@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	surprised
+NOT	no
+CON	one
+AND	else
+EPS	heard
+DEF	the
+CON	gunshots
+NIL	.

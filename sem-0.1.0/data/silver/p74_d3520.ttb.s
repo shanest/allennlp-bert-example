@@ -1,0 +1,12 @@
+DIS	Someone
+NEC	should
+EXS	talk
+REL	to
+PRO	him
+COO	and
+EXS	tell
+PRO	him
+QUE	what
+HAS	's
+QUE	what
+NIL	.

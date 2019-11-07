@@ -1,0 +1,11 @@
+EXS	Give
+PRO	her
+PRX	these
+CON	roses
+NIL	,
+COO	and
+PRO	she
+FUT	will
+EXS	be
+EXS	pleased
+NIL	.

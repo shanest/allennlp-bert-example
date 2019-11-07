@@ -1,0 +1,10 @@
+PRO	She
+NOW	has
+NOT	never
+EXS	gone
+REL	on
+DIS	a
+CON	date
+REL	with
+PRO	him
+NIL	.

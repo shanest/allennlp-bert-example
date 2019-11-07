@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	absent
+REL	from
+CON	school
+REL	for
+QUC	three
+CON	days
+NIL	.

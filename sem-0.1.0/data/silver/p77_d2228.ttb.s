@@ -1,0 +1,9 @@
+PRO	I
+PST	thought
+PRO	you
+IST	always
+EPS	played
+CON	football
+REL	on
+DOW	Saturday
+NIL	.

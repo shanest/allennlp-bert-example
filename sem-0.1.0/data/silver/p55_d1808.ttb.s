@@ -1,0 +1,10 @@
+EXS	Did
+PRO	you
+EXS	talk
+REL	to
+HAS	your
+ROL	lawyer
+AND	about
+PRX	this
+CON	problem
+QUE	?

@@ -1,0 +1,11 @@
+NOW	Have
+PRO	you
+IST	already
+EPS	told
+PER	Tom
+AND	about
+QUE	what
+EPS	happened
+REL	to
+PER	Mary
+QUE	?

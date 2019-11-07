@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	working
+SUB	when
+PRO	I
+FUT	'll
+EXS	finish
+DEF	the
+CON	school
+NIL	.

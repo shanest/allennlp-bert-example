@@ -1,0 +1,15 @@
+PRO	It
+NOW	is
+COM	easier
+SUB	to
+EXS	hit
+REL	on
+CON	people
+REL	on
+DEF	the
+UNK	Internet
+AND	than
+REL	in
+DEF	the
+CON	street
+NIL	.

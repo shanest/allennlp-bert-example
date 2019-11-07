@@ -1,0 +1,12 @@
+HAS	My
+CON	mother
+IST	always
+ENS	says
+PRO	she
+NOW	's
+EXS	going
+SUB	to
+EXS	visit
+PRO	me
+IST	soon
+NIL	.

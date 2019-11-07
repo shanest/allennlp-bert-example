@@ -1,0 +1,10 @@
+CON	Children
+IST	often
+ENS	rub
+HAS	their
+CON	eyes
+SUB	when
+PRO	they
+NOW	are
+EXS	tired
+NIL	.

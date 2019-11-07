@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+DIS	a
+CON	lot
+MOR	more
+CON	experience
+AND	than
+PER	Tom
+NOW	does
+NIL	.

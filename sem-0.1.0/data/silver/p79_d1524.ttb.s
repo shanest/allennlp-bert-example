@@ -1,0 +1,9 @@
+PRO	I
+NOW	look
+IST	forward
+SUB	to
+EXS	seeing
+PRO	you
+ALT	again
+IST	soon
+NIL	.

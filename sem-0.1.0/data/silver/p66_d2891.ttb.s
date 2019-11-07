@@ -1,0 +1,12 @@
+NOW	Have
+PRO	they
+EPS	received
+AND	any
+CON	reports
+AND	of
+CON	lives
+EPS	lost
+REL	in
+DEF	the
+CON	earthquake
+QUE	?

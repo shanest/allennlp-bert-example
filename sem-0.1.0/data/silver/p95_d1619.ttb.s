@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	good
+SUB	to
+EXS	keep
+EXS	studying
+AND	all
+HAS	your
+CON	life
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+GPO	Welsh
+CON	government
+NOW	has
+EXS	delayed
+AND	any
+CON	legislation
+EXG	regarding
+EXT	proposed
+CON	changes
+NIL	.

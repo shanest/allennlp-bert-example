@@ -1,0 +1,16 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+PRO	he
+NOW	is
+QUC	one
+AND	of
+DEF	the
+TOP	best
+CON	doctors
+REL	in
+CON	town
+NIL	.

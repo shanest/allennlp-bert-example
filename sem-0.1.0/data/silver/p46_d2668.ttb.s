@@ -1,0 +1,9 @@
+PRO	I
+NEC	have
+SUB	to
+EXS	introduce
+PER	Mary
+REL	to
+DEF	the
+CON	manager
+NIL	.

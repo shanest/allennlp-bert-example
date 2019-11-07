@@ -1,0 +1,14 @@
+IMP	If
+PER	Bob
+PST	had
+EXS	taken
+HAS	my
+CON	advice
+NIL	,
+AND	everything
+FUT	would
+EXS	be
+AND	all
+IST	right
+NOW	now
+NIL	.

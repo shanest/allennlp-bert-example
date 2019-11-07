@@ -1,0 +1,9 @@
+GPE	France
+PST	had
+EXS	signed
+DIS	a
+IST	secret
+CON	treaty
+REL	with
+GEO	Spain
+NIL	.

@@ -1,0 +1,17 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	taking
+CON	ballet
+CON	lessons
+SUB	since
+PRO	I
+PST	was
+QUC	three
+AND	and
+ENS	hope
+SUB	to
+EXS	be
+DIS	a
+CON	ballerina
+NIL	.

@@ -1,0 +1,17 @@
+PRO	He
+EPS	gave
+PRO	her
+DIS	a
+CON	gift
+DST	that
+FUT	would
+EXS	remind
+PRO	her
+AND	of
+DEF	the
+IST	happy
+CON	days
+PRO	they
+EPS	experienced
+IST	together
+NIL	.

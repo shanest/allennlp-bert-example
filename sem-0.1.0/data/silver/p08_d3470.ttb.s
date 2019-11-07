@@ -1,0 +1,10 @@
+NIL	It
+EPS	snowed
+REL	in
+DEF	the
+CON	morning
+NIL	,
+PST	did
+NOT	n't
+PRO	it
+QUE	?

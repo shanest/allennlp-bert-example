@@ -1,0 +1,11 @@
+IMP	If
+PRO	you
+EPS	knew
+DEF	the
+CON	truth
+NIL	,
+PRO	you
+FUT	'd
+EXS	be
+EXS	surprised
+NIL	.

@@ -1,0 +1,9 @@
+EXS	Bathe
+HAS	your
+CON	feet
+SUB	to
+EXS	get
+DEF	the
+CON	dirt
+REL	off
+NIL	.

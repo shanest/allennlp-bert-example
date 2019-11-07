@@ -1,0 +1,10 @@
+PRO	You
+PST	had
+MOR	better
+EXS	keep
+PRX	this
+CON	food
+REL	under
+QUC	ten
+UOM	degrees
+NIL	.

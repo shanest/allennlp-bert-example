@@ -1,0 +1,12 @@
+PER	Mary
+PST	had
+NOT	no
+CON	reason
+REL	to
+CON	suspect
+SUB	that
+PER	Tom
+PST	was
+EXS	two-timing
+PRO	her
+NIL	.

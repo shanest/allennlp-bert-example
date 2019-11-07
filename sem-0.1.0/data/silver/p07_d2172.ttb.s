@@ -1,0 +1,10 @@
+DEF	The
+CON	matres
+NOW	lectionis
+EXS	assist
+PRO	us
+REL	in
+EXG	reading
+DEF	the
+CON	words
+NIL	.

@@ -1,0 +1,15 @@
+PRO	I
+NOW	have
+NOT	n't
+ALT	yet
+PST	had
+CON	time
+SUB	to
+EXS	see
+AND	about
+DIS	a
+CON	hotel
+REL	for
+DEF	the
+CON	night
+NIL	.

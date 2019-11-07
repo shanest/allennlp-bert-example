@@ -1,0 +1,13 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	speak
+CON	French
+NIL	.
+PER	Tom
+POS	ca
+NOT	n't
+EXS	speak
+CON	Spanish
+ALT	either
+NIL	.

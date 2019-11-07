@@ -1,0 +1,10 @@
+CON	Lots
+AND	of
+CON	companies
+NOW	have
+EXS	implemented
+DIS	an
+CON	eight-hour
+IST	working
+CON	day
+NIL	.

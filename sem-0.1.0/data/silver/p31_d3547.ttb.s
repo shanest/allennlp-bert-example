@@ -1,0 +1,11 @@
+PRO	I
+IST	just
+ENS	want
+SUB	to
+EXS	improve
+AND	as
+QUV	much
+AND	as
+PRO	I
+POS	can
+NIL	.

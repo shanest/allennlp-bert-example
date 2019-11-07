@@ -1,0 +1,12 @@
+QUE	Who
+PST	was
+ORG	IBM
+REL	's
+IST	chief
+CON	executive
+CON	officer
+REL	between
+GEO	1956
+AND	and
+PRX	1971
+QUE	?

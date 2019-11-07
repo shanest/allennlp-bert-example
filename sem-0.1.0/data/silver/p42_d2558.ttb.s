@@ -1,0 +1,9 @@
+PRO	I
+EPS	did
+AND	everything
+PER	Tom
+EPS	told
+PRO	me
+SUB	to
+EXS	do
+NIL	.

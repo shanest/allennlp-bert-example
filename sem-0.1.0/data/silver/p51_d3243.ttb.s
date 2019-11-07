@@ -1,0 +1,11 @@
+PRO	You
+NOW	're
+DEF	the
+IST	first
+CON	woman
+PRO	I
+NOW	've
+IST	ever
+IST	really
+EXS	loved
+NIL	.

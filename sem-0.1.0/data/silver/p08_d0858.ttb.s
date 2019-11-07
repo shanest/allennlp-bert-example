@@ -1,0 +1,10 @@
+AND	Unfortunately
+NIL	,
+HAS	my
+CON	birthday
+NOW	is
+XCL	only
+QUC	once
+DIS	a
+CON	year
+NIL	.

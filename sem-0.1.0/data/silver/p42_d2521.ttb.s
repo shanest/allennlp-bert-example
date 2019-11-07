@@ -1,0 +1,14 @@
+PER	Tom
+EPS	had
+HAS	his
+IST	wisdom
+CON	teeth
+EXT	taken
+IST	out
+REL	by
+DIS	a
+QUC	twenty-four
+UOM	year
+IST	old
+ROL	dentist
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	talk
+REL	to
+PRO	you
+REL	for
+DIS	a
+CON	minute
+AND	about
+PER	Tom
+NIL	.

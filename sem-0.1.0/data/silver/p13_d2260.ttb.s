@@ -1,0 +1,9 @@
+PRO	I
+EPS	forgot
+SUB	to
+EXS	tell
+PRO	you
+SUB	where
+PRO	I
+ENS	live
+NIL	.

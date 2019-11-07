@@ -1,0 +1,11 @@
+SUB	To
+EXS	tell
+DEF	the
+CON	truth
+NIL	,
+PRO	I
+NOW	am
+NOT	not
+HAS	your
+ROL	father
+NIL	.

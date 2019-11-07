@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PRO	I
+NOW	have
+PFT	been
+CON	friends
+DIS	a
+IST	long
+CON	time
+NIL	.

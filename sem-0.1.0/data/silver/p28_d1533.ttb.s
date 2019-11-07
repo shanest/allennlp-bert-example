@@ -1,0 +1,16 @@
+IMP	If
+PRO	you
+POS	can
+EXS	see
+HAS	your
+CON	breath
+SUB	when
+PRO	you
+CON	exhale
+NIL	,
+PRO	you
+ENS	know
+PRO	it
+HAS	's
+CON	cold
+NIL	.

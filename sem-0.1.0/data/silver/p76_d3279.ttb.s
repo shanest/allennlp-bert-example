@@ -1,0 +1,11 @@
+AND	Why
+NOW	are
+PRO	you
+IST	ashamed
+SUB	to
+EXS	speak
+HAS	your
+CON	language
+REL	in
+CON	public
+QUE	?

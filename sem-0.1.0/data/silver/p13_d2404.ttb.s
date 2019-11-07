@@ -1,0 +1,15 @@
+SUB	When
+PRO	we
+EPS	saw
+DEF	the
+CON	animal
+AND	so
+REL	near
+PRO	us
+NIL	,
+PRO	we
+EPS	ran
+IST	away
+REL	in
+CON	terror
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+INT	pretty
+IST	sure
+PER	Tom
+EPS	lied
+REL	to
+PER	Mary
+NIL	.

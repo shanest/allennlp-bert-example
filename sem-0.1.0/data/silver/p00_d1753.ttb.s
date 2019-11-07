@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	remember
+QUE	what
+PRO	I
+EPS	ate
+IST	last
+CON	night
+NIL	.

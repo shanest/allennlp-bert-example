@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+EXS	know
+DEF	the
+CON	man
+AND	who
+HAS	's
+CON	staring
+REL	at
+PRO	you
+QUE	?

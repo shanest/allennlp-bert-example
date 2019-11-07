@@ -1,0 +1,13 @@
+PER	Tom
+ENS	says
+SUB	that
+PER	Mary
+POS	can
+EXS	go
+NIL	,
+BUT	but
+SUB	that
+PRO	he
+POS	ca
+NOT	n't
+NIL	.

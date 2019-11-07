@@ -1,0 +1,9 @@
+PRO	We
+ENS	need
+IST	few
+CON	words
+SUB	to
+EXS	express
+DEF	the
+IST	essential
+NIL	.

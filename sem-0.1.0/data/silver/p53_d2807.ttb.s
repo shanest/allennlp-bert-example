@@ -1,0 +1,9 @@
+PRO	She
+NOW	is
+INT	economically
+IST	independent
+AND	of
+HAS	her
+CON	parents
+NOW	now
+NIL	.

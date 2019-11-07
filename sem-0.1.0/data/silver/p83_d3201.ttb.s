@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PRO	it
+NOW	's
+UNK	necessary
+SUB	to
+EXS	do
+DST	that
+NIL	.

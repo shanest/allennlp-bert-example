@@ -1,0 +1,14 @@
+HAS	My
+ROL	father
+PST	was
+CON	son
+AND	of
+CON	Argentines
+AND	and
+HAS	my
+ROL	mother
+PST	was
+CON	daughter
+AND	of
+GPE	Brazilians
+NIL	.

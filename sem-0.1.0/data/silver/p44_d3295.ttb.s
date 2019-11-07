@@ -1,0 +1,10 @@
+CON	Football
+PST	was
+EXS	played
+REL	in
+GPE	China
+REL	in
+DEF	the
+IST	second
+CON	century
+NIL	.

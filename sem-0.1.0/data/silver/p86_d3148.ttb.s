@@ -1,0 +1,9 @@
+PRO	He
+EPS	wrote
+REL	on
+DEF	the
+IST	social
+CON	evolution
+AND	of
+GPE	Japan
+NIL	.

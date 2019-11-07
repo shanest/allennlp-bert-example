@@ -1,0 +1,17 @@
+PRO	It
+HAS	's
+NOT	not
+CON	uncommon
+REL	for
+CON	people
+SUB	to
+EXS	give
+PRI	fake
+IST	personal
+CON	information
+SUB	when
+EXS	registering
+SUB	to
+EXS	use
+CON	websites
+NIL	.

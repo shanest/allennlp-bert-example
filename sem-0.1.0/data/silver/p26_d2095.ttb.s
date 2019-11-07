@@ -1,0 +1,10 @@
+AND	Would
+PRO	you
+SUB	mind
+EXG	buying
+PRO	me
+DIS	some
+CON	bread
+NIL	,
+IST	please
+QUE	?

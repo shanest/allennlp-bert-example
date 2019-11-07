@@ -1,0 +1,11 @@
+PRO	I
+EPS	knew
+PRO	it
+FUT	would
+NOT	never
+EXS	work
+REL	between
+PER	Tom
+AND	and
+PRO	me
+NIL	.

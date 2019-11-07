@@ -1,0 +1,11 @@
+PRO	He
+HAS	's
+EXS	honest
+NIL	,
+SUB	so
+PRO	he
+NOW	does
+NOT	n't
+EXS	tell
+ENS	lies
+NIL	.

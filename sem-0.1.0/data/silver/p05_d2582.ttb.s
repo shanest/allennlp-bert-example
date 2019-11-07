@@ -1,0 +1,9 @@
+PRO	She
+FUT	will
+EXS	care
+REL	for
+PRO	you
+REL	from
+NOW	now
+REL	on
+NIL	.

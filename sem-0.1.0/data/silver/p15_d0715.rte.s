@@ -1,0 +1,10 @@
+PER	Nick
+PER	Leeson
+PST	was
+EXS	arrested
+REL	for
+CON	collapse
+AND	of
+NIL	Barings
+ORG	Bank
+NIL	.

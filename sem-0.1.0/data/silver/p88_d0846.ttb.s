@@ -1,0 +1,10 @@
+PRO	She
+EPS	told
+PRO	me
+AND	about
+QUE	what
+PRO	she
+EPS	saw
+REL	in
+GPE	Australia
+NIL	.

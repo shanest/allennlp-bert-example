@@ -1,0 +1,9 @@
+NOW	Has
+DEF	the
+CON	pain
+PFT	been
+PRX	this
+IST	bad
+AND	all
+CON	week
+QUE	?

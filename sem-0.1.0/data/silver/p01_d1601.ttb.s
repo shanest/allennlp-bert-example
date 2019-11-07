@@ -1,0 +1,9 @@
+XCL	Only
+CON	vodka
+REL	from
+GPE	Russia
+NOW	is
+IST	genuine
+GPO	Russian
+CON	vodka
+NIL	!

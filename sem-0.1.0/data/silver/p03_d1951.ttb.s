@@ -1,0 +1,11 @@
+PRO	I
+ENS	want
+HAS	your
+CON	answer
+REL	by
+DEF	the
+CON	end
+AND	of
+DEF	the
+CON	day
+NIL	.

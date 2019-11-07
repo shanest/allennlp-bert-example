@@ -1,0 +1,16 @@
+DIS	A
+CON	woman
+EPS	wrote
+QUC	30
+CON	books
+AND	about
+QUE	how
+SUB	to
+EXS	become
+EXS	happy
+NIL	,
+COO	and
+IST	then
+EXS	committed
+CON	suicide
+NIL	.

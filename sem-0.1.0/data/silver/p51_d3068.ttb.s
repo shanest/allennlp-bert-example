@@ -1,0 +1,11 @@
+PRO	She
+NOW	is
+DEF	the
+CON	woman
+REL	to
+UNK	whom
+PRO	I
+EPS	gave
+DEF	the
+CON	gift
+NIL	.

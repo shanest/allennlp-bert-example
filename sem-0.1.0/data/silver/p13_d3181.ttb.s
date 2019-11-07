@@ -1,0 +1,12 @@
+PRO	It
+NOW	seems
+IST	so
+REL	to
+PRO	me
+SUB	that
+PRX	this
+NOW	is
+NOT	not
+IST	entirely
+EXS	wrong
+NIL	.

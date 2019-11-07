@@ -1,0 +1,10 @@
+PRO	She
+ENS	loves
+PRO	me
+COO	and
+PRO	I
+ENS	love
+PRO	her
+NIL	,
+ALT	too
+NIL	.

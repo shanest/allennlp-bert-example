@@ -1,0 +1,13 @@
+NIL	"
+AND	How
+COM	old
+NOW	are
+PRO	you
+QUE	?
+NIL	"
+NIL	"
+PRO	I
+NOW	'm
+QUC	sixteen
+NIL	.
+NIL	"

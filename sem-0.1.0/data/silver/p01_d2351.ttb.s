@@ -1,0 +1,10 @@
+HAS	My
+ROL	grandmother
+PST	was
+INT	nearly
+QUC	sixty
+SUB	when
+PRO	she
+EPS	entered
+CON	menopause
+NIL	.

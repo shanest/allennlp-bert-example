@@ -1,0 +1,11 @@
+NIL	"
+CON	Where
+NOW	is
+GEO	Thessaloniki
+QUE	?
+NIL	"
+NIL	"
+REL	In
+GPE	Greece
+NIL	.
+NIL	"

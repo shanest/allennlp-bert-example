@@ -1,0 +1,11 @@
+AND	Everyone
+NOW	asks
+PRO	me
+QUE	what
+PRO	it
+NOW	's
+EXS	like
+SUB	to
+EXS	be
+EXS	colour-blind
+NIL	.

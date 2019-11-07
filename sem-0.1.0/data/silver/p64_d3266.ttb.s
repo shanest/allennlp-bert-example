@@ -1,0 +1,11 @@
+AND	Double
+EXS	click
+DEF	the
+CON	map
+REL	to
+CON	zoom
+REL	in
+REL	on
+DIS	a
+CON	place
+NIL	.

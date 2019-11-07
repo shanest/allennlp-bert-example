@@ -1,0 +1,10 @@
+NOW	Do
+NOT	n't
+PRO	you
+NOW	think
+PER	Tom
+ENS	has
+DIS	a
+IST	beautiful
+CON	smile
+QUE	?

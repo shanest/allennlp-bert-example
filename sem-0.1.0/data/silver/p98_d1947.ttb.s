@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PER	Tom
+ENS	knows
+MOR	more
+MOR	than
+PRO	he
+NOW	's
+EXS	admitting
+NIL	.

@@ -1,0 +1,10 @@
+PRO	She
+EPS	taught
+PRO	me
+TOP	most
+AND	of
+DEF	the
+CON	things
+PRO	I
+ENS	know
+NIL	.

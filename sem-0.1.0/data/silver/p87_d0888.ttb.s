@@ -1,0 +1,15 @@
+PRO	We
+NOW	're
+EXS	releasing
+AND	all
+DEF	the
+CON	sentences
+PRO	we
+ENS	collect
+REL	under
+DEF	the
+ORG	Creative
+ORG	Commons
+ORG	Attribution
+CON	license
+NIL	.

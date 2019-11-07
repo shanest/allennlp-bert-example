@@ -1,0 +1,11 @@
+PRO	You
+NEC	should
+NOT	n't
+CON	respect
+DIS	someone
+IST	just
+SUB	because
+PRO	they
+NOW	're
+EXS	rich
+NIL	.

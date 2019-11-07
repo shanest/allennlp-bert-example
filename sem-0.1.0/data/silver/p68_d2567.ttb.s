@@ -1,0 +1,15 @@
+PER	Tom
+FUT	would
+EXT	've
+PFT	been
+PRX	here
+REL	by
+NOW	now
+IMP	if
+HAS	his
+CON	car
+PST	had
+NOT	n't
+EXS	broken
+IST	down
+NIL	.

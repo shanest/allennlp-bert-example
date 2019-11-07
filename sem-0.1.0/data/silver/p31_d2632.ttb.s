@@ -1,0 +1,9 @@
+FUT	Will
+PRO	we
+EXS	be
+REL	in
+CON	time
+REL	for
+DEF	the
+CON	train
+QUE	?

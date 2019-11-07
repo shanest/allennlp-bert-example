@@ -1,0 +1,10 @@
+PER	Tom
+EPS	opened
+DEF	the
+CON	windows
+REL	to
+CON	air
+AND	out
+DEF	the
+CON	room
+NIL	.

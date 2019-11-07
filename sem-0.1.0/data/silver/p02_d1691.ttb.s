@@ -1,0 +1,10 @@
+PRO	I
+ENS	thank
+PRO	you
+REL	for
+DEF	the
+CON	trust
+EPS	expressed
+REL	in
+PRO	me
+NIL	.

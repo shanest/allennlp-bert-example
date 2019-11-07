@@ -1,0 +1,10 @@
+AND	Each
+QUC	one
+AND	of
+DEF	the
+QUC	three
+CON	kids
+EPS	got
+DIS	a
+CON	prize
+NIL	.

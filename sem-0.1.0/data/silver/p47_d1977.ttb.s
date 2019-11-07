@@ -1,0 +1,11 @@
+PER	Tom
+EPS	showed
+PRO	me
+DEF	the
+CON	pictures
+PRO	he
+EPS	took
+REL	at
+DEF	the
+CON	wedding
+NIL	.

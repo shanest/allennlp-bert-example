@@ -1,0 +1,11 @@
+PRO	He
+EPS	insulted
+PRO	her
+NIL	.
+DST	That
+NOW	is
+QUE	why
+PRO	she
+PST	got
+EXS	angry
+NIL	.

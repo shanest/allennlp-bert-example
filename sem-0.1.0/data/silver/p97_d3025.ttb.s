@@ -1,0 +1,11 @@
+REL	In
+IST	most
+CON	parts
+AND	of
+GEO	Israel
+NIL	,
+CON	snow
+NOW	is
+INT	extremely
+EXS	rare
+NIL	.

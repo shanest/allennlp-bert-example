@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	unfamiliar
+REL	with
+DEF	the
+CON	customs
+AND	of
+PRX	this
+CON	country
+NIL	.

@@ -1,0 +1,9 @@
+ORG	Society
+NOW	has
+EXS	seen
+DIS	a
+CON	lot
+AND	of
+EXS	change
+IST	recently
+NIL	.

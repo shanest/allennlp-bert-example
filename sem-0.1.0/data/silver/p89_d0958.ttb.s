@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+SUB	whether
+DIS	or
+NOT	not
+PRO	he
+NOW	is
+DIS	an
+ROL	enemy
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	sure
+PRO	you
+NOW	're
+EXS	going
+EXS	make
+DIS	a
+IST	good
+CON	impression
+NIL	.

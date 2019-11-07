@@ -1,0 +1,10 @@
+GPE	India
+NOW	is
+DEF	the
+IST	seventh
+TOP	largest
+CON	country
+REL	in
+DEF	the
+CON	world
+NIL	.

@@ -1,0 +1,9 @@
+POS	Can
+PRO	we
+NOT	not
+EXS	talk
+AND	about
+PRX	this
+IST	just
+NOW	now
+QUE	?

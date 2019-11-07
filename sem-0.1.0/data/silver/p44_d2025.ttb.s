@@ -1,0 +1,12 @@
+SUB	When
+PER	Tom
+PST	was
+EXS	young
+NIL	,
+PRO	he
+EPS	ate
+QUC	three
+CON	eggs
+AND	every
+CON	day
+NIL	.

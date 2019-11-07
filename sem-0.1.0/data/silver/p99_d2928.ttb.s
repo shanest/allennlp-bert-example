@@ -1,0 +1,11 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	trying
+SUB	to
+EXS	get
+REL	in
+CON	touch
+REL	with
+PRO	you
+NIL	.

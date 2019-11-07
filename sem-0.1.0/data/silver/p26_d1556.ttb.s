@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	rude
+SUB	to
+CON	whisper
+REL	in
+CON	front
+AND	of
+ALT	others
+NIL	.

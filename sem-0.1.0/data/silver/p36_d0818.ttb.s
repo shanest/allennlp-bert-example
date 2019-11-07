@@ -1,0 +1,12 @@
+PRO	I
+EPS	met
+PRO	him
+AND	just
+SUB	as
+PRO	he
+PST	was
+EXS	coming
+IST	out
+AND	of
+CON	school
+NIL	.

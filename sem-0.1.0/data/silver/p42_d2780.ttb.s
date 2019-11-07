@@ -1,0 +1,14 @@
+EXT	Having
+PFT	been
+EXS	written
+REL	in
+CON	haste
+NIL	,
+DEF	the
+CON	book
+NOW	has
+DIS	a
+CON	lot
+AND	of
+CON	errors
+NIL	.

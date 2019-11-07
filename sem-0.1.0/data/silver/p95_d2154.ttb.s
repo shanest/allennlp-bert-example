@@ -1,0 +1,9 @@
+PRO	I
+EPS	found
+DEF	the
+IST	lost
+CON	ball
+REL	in
+DEF	the
+CON	park
+NIL	.

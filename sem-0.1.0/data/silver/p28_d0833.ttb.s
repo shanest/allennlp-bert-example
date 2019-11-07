@@ -1,0 +1,12 @@
+PRO	It
+NOW	makes
+NOT	no
+CON	difference
+REL	to
+PRO	me
+SUB	whether
+PRO	he
+ENS	comes
+DIS	or
+NOT	not
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+EPS	opened
+DEF	the
+CON	door
+SUB	before
+PER	Mary
+PST	had
+DIS	a
+CON	chance
+SUB	to
+EXS	knock
+NIL	.

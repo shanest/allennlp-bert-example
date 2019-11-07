@@ -1,0 +1,16 @@
+PRO	I
+EPS	left
+DIS	some
+CON	scallions
+AND	out
+REL	on
+DEF	the
+CON	veranda
+REL	for
+INT	too
+IST	long
+COO	and
+PRO	they
+IST	dried
+IST	out
+NIL	.

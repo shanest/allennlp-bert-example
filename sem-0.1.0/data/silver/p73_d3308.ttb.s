@@ -1,0 +1,14 @@
+PRO	It
+HAS	's
+EXS	been
+DIS	a
+IST	long
+CON	time
+SUB	since
+PRO	I
+PST	had
+AND	such
+DIS	a
+IST	pleasant
+CON	surprise
+NIL	.

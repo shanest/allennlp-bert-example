@@ -1,0 +1,16 @@
+PRX	This
+NOW	is
+NOT	n't
+DIS	a
+IST	big
+CON	farm
+NIL	,
+COO	but
+PRO	it
+NOW	's
+IST	enough
+SUB	to
+EXS	provide
+IST	fresh
+CON	air
+NIL	.

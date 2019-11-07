@@ -1,0 +1,10 @@
+QUE	How
+IST	big
+NOW	is
+HAS	your
+CON	dog
+QUE	?
+HAS	Mine
+NOW	is
+IST	small
+NIL	.

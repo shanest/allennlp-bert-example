@@ -1,0 +1,12 @@
+PER	Tom
+EPS	wanted
+SUB	to
+EXS	know
+DEF	the
+CON	reason
+PER	Mary
+PST	did
+NOT	n't
+EXS	like
+PRO	him
+NIL	.

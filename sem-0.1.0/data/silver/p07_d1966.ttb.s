@@ -1,0 +1,12 @@
+PRO	We
+ENS	need
+MOR	more
+MOR	than
+QUC	ten
+CON	cases
+AND	of
+CON	beer
+REL	for
+HAS	our
+CON	party
+NIL	.

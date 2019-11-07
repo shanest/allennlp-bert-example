@@ -1,0 +1,10 @@
+PRO	I
+EPS	gave
+HAS	my
+CON	mother
+CON	carnations
+REL	on
+PER	Mother
+ENS	's
+HAP	Day
+NIL	.

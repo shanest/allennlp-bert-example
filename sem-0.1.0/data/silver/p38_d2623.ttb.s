@@ -1,0 +1,13 @@
+PER	Tom
+DEF	bad-mouthed
+PER	Mary
+REL	to
+AND	all
+HAS	his
+CON	friends
+AND	and
+CON	family
+REL	after
+HAS	their
+CON	breakup
+NIL	.

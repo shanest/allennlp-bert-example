@@ -1,0 +1,9 @@
+PER	Tom
+EPS	said
+PRO	he
+EPS	saw
+DEF	the
+EXS	invisible
+CON	man
+NOW	today
+NIL	.

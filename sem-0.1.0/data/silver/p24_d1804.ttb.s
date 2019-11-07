@@ -1,0 +1,10 @@
+REL	On
+CON	TV
+PRO	we
+EPS	saw
+PER	Mummy
+HAS	's
+CON	office
+REL	in
+CON	flames
+NIL	.

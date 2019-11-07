@@ -1,0 +1,14 @@
+CON	People
+PST	were
+AND	against
+PER	Mother
+PER	Teresa
+REL	at
+IST	first
+NIL	,
+BUT	but
+PRO	she
+IST	never
+EPS	gave
+IST	up
+NIL	.

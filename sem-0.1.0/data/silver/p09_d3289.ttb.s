@@ -1,0 +1,9 @@
+PRO	I
+EPS	thought
+AND	about
+DEF	the
+CON	meaning
+AND	of
+HAS	his
+CON	painting
+NIL	.

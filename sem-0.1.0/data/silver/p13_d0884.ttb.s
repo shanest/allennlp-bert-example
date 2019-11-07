@@ -1,0 +1,17 @@
+PRO	I
+NOW	wonder
+IMP	if
+DIS	a
+CON	day
+FUT	will
+EXS	come
+SUB	when
+CON	money
+FUT	will
+EXS	be
+DIS	something
+EXS	found
+XCL	only
+REL	in
+CON	museums
+NIL	.

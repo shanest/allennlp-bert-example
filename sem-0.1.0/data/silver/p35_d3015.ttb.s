@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+IST	little
+CON	chance
+AND	of
+EXG	winning
+DEF	the
+CON	election
+NIL	.

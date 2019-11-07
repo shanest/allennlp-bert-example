@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+INT	nearly
+CLO	noon
+COO	and
+PRO	he
+NOW	's
+IST	still
+REL	in
+CON	bed
+NIL	.

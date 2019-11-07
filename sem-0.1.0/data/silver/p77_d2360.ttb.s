@@ -1,0 +1,13 @@
+NOW	Is
+PRO	it
+EXS	true
+SUB	that
+PRO	you
+EPS	alluded
+REL	to
+DIS	an
+CON	intention
+REL	to
+CON	divorce
+PER	Taninna
+QUE	?

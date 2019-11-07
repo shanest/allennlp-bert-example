@@ -1,0 +1,9 @@
+PRO	I
+PST	was
+EXS	told
+SUB	that
+PRO	you
+EPS	witnessed
+DEF	the
+CON	murder
+NIL	.

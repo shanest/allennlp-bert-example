@@ -1,0 +1,9 @@
+PRO	I
+FUT	'll
+EXS	set
+IST	out
+REL	for
+GPE	China
+AND	next
+CON	week
+NIL	.

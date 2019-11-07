@@ -1,0 +1,12 @@
+IMP	If
+PRO	you
+ENS	want
+SUB	to
+EXS	go
+REL	to
+CON	college
+NIL	,
+EXS	study
+GPO	English
+COM	harder
+NIL	.

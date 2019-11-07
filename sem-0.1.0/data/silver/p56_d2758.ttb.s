@@ -1,0 +1,14 @@
+PRO	He
+PST	had
+EXS	used
+IST	up
+AND	all
+DEF	the
+CON	money
+AND	which
+HAS	his
+CON	friend
+PST	had
+EXT	lent
+PRO	him
+NIL	.

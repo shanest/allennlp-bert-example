@@ -1,0 +1,10 @@
+PRO	You
+NEC	must
+EXS	do
+SUB	as
+PRO	you
+NOW	are
+EXS	told
+SUB	to
+EXS	do
+NIL	.

@@ -1,0 +1,9 @@
+PRO	We
+EPS	took
+DIS	a
+CON	rest
+CON	one
+REL	after
+DEF	the
+ALT	other
+NIL	.

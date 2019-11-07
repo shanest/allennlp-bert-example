@@ -1,0 +1,10 @@
+PRO	I
+IST	narrowly
+EPS	escaped
+EXS	being
+EXS	run
+AND	over
+REL	by
+DIS	a
+CON	car
+NIL	.

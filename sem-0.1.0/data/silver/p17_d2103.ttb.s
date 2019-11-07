@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+DIS	a
+CON	house
+UNK	which
+NOW	has
+QUC	two
+CON	rooms
+NIL	.

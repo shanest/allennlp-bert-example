@@ -1,0 +1,13 @@
+DEF	The
+CON	ship
+FUT	will
+EXS	be
+IST	ready
+SUB	to
+EXS	sail
+NIL	,
+IMP	if
+DEF	the
+CON	weather
+CON	permits
+NIL	.

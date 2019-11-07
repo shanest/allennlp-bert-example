@@ -1,0 +1,15 @@
+QUC	One
+AND	of
+HAS	my
+CON	neighbors
+EPS	called
+COO	and
+EPS	said
+PRO	I
+EPS	left
+QUC	one
+AND	of
+HAS	my
+CON	windows
+EXS	open
+NIL	.

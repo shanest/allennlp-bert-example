@@ -1,0 +1,9 @@
+AND	As
+ALT	yet
+NIL	,
+AND	everything
+NOW	has
+PFT	been
+EXS	going
+IST	well
+NIL	.

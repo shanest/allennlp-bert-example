@@ -1,0 +1,15 @@
+PER	Tom
+EPS	wanted
+NIL	to
+EXS	find
+DIS	a
+IST	creative
+CON	way
+NIL	to
+EXS	tell
+PER	Mary
+SUB	that
+PRO	he
+EPS	loved
+PRO	her
+NIL	.

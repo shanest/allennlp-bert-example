@@ -1,0 +1,10 @@
+AND	Because
+AND	of
+DEF	the
+CON	victory
+NIL	,
+PRO	he
+EPS	became
+DIS	a
+CON	hero
+NIL	.

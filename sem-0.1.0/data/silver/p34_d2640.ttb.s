@@ -1,0 +1,11 @@
+PRO	It
+NOW	feels
+AND	like
+DIS	somebody
+HAS	's
+EPS	turned
+REL	on
+DEF	the
+CON	air
+CON	conditioning
+NIL	.

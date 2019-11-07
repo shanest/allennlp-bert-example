@@ -1,0 +1,11 @@
+REL	For
+NOW	now
+NIL	,
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	concentrate
+REL	on
+PRX	this
+NIL	.

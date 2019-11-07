@@ -1,0 +1,9 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	know
+QUE	how
+NIL	to
+EXS	answer
+PER	Mary
+NIL	.

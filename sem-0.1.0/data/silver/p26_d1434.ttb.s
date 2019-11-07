@@ -1,0 +1,11 @@
+CON	Go
+ENS	see
+PRO	it
+IMP	if
+PRO	you
+NOT	never
+ENS	want
+SUB	to
+EXS	sleep
+ALT	again
+NIL	!

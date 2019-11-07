@@ -1,0 +1,10 @@
+DIS	A
+IST	young
+CON	girl
+NOW	is
+EXS	chased
+REL	by
+DIS	an
+IST	old
+CON	man
+NIL	.

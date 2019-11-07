@@ -1,0 +1,14 @@
+PRO	He
+EPS	went
+REL	to
+GPE	Paris
+NIL	,
+SUB	where
+PRO	he
+EPS	met
+PRO	me
+REL	for
+DEF	the
+IST	first
+CON	time
+NIL	.

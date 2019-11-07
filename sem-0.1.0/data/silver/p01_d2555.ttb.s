@@ -1,0 +1,9 @@
+PRO	He
+EPS	took
+DIS	a
+CON	key
+REL	from
+HAS	his
+CON	coat
+CON	pocket
+NIL	.

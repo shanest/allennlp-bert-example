@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	decide
+QUE	whether
+NIL	to
+EXS	join
+DST	that
+CON	club
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	staying
+REL	with
+HAS	my
+CON	aunt
+REL	for
+DEF	the
+CON	time
+EXS	being
+NIL	.

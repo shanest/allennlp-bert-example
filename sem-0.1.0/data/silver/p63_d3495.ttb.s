@@ -1,0 +1,11 @@
+PER	Tom
+PST	was
+EXG	kissing
+PER	Mary
+SUB	when
+PRO	I
+EPS	walked
+REL	into
+DEF	the
+CON	classroom
+NIL	.

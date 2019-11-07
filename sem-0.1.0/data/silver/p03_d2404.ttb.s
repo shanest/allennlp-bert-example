@@ -1,0 +1,13 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	met
+AND	any
+CON	woman
+PRO	I
+EPS	wanted
+SUB	to
+EXS	be
+EXS	married
+REL	to
+NIL	.

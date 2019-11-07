@@ -1,0 +1,15 @@
+PRO	It
+HAS	's
+PER	Tom
+HAS	's
+CON	party
+CON	tonight
+COO	and
+PRO	I
+NOW	have
+NOT	n't
+EXS	got
+AND	anything
+SUB	to
+EXS	wear
+NIL	!

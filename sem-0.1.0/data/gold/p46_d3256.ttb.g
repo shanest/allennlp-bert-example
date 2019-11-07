@@ -1,0 +1,9 @@
+PRO	They
+EPS	sent
+PER	Lucy
+REL	to
+CON	prison
+REL	for
+QUC	ten
+UOM	years
+NIL	.

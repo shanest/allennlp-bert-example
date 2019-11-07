@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	studying
+CON	voice
+REL	at
+DIS	a
+CON	college
+AND	of
+CON	music
+NIL	.

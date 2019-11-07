@@ -1,0 +1,16 @@
+NIL	“
+PRO	I
+POS	’m
+EXG	dying
+NOT	without
+PRO	you
+NIL	.
+NIL	”
+NIL	“
+PRO	I
+POS	’ll
+EXS	come
+REL	to
+HAS	your
+CON	funeral
+NIL	.

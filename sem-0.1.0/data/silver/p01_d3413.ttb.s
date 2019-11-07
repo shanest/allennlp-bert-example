@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+PER	Mary
+QUV	many
+CON	questions
+REL	about
+CON	life
+REL	in
+GPE	Boston
+NIL	.

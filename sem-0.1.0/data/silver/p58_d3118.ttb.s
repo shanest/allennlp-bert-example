@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+UNK	difficult
+SUB	to
+EXS	understand
+QUE	what
+PER	Tom
+NOW	means
+NIL	.

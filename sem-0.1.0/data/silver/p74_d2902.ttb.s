@@ -1,0 +1,9 @@
+PRO	She
+EPS	accused
+PRO	him
+AND	of
+EXS	having
+EPS	lied
+REL	to
+PRO	her
+NIL	.

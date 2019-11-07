@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXG	having
+DIS	a
+CON	problem
+EXG	deleting
+QUC	one
+AND	of
+HAS	my
+CON	files
+NIL	.

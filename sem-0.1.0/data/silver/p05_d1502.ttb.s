@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+TOP	largest
+CON	temple
+SUB	that
+PRO	I
+NOW	have
+IST	ever
+EXS	seen
+NIL	.

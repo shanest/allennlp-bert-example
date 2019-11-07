@@ -1,0 +1,9 @@
+PER	Tom
+EPS	baked
+DIS	a
+CON	cake
+REL	for
+PER	Mary
+HAS	's
+CON	birthday
+NIL	.

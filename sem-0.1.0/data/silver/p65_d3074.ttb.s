@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	talk
+REL	to
+PER	John
+NIL	.

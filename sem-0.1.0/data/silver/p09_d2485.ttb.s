@@ -1,0 +1,17 @@
+NIL	"
+NOW	Is
+SUB	that
+PER	Mary
+HAS	's
+CON	umbrella
+QUE	?
+NIL	"
+NIL	"
+ITJ	Yes
+NIL	,
+SUB	that
+HAS	's
+HAS	her
+CON	umbrella
+NIL	.
+NIL	"

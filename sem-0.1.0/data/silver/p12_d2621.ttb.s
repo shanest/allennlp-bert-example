@@ -1,0 +1,10 @@
+PRO	We
+EPS	put
+IST	up
+DIS	a
+IST	good
+CON	fight
+COO	but
+PRO	we
+EPS	lost
+NIL	.

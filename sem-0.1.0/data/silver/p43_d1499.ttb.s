@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+PRO	it
+HAS	's
+NOT	not
+SUB	as
+EXS	easy
+SUB	as
+PRO	it
+NOW	looks
+NIL	.

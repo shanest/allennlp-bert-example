@@ -1,0 +1,9 @@
+NOW	Do
+HAS	your
+CON	parents
+ENS	know
+SUB	that
+PRO	you
+NOW	're
+EXS	pregnant
+QUE	?

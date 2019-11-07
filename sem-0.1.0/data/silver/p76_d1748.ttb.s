@@ -1,0 +1,10 @@
+PRO	I
+IST	just
+EPS	ran
+REL	into
+PER	Tom
+REL	in
+DEF	the
+CON	dining
+CON	hall
+NIL	.

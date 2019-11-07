@@ -1,0 +1,12 @@
+PER	Tom
+IST	really
+NOW	does
+NOT	n't
+EXS	want
+SUB	to
+EXS	tell
+PER	Mary
+SUB	where
+PRO	he
+PST	was
+NIL	.

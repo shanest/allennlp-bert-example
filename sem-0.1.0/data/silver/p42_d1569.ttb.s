@@ -1,0 +1,12 @@
+EXG	Crying
+IST	out
+NIL	,
+DEF	the
+IST	little
+CON	girl
+PST	was
+EXS	looking
+REL	for
+HAS	her
+CON	mother
+NIL	.

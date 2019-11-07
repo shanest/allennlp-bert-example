@@ -1,0 +1,11 @@
+REL	At
+DST	that
+CON	point
+DEF	the
+CON	mistake
+FUT	will
+NOW	have
+IST	already
+PFT	been
+EXS	made
+NIL	.

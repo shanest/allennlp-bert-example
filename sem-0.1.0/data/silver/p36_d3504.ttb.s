@@ -1,0 +1,12 @@
+CON	Nail
+CON	polish
+NOW	is
+EXS	useless
+COO	:
+NOT	no
+CON	one
+NOW	looks
+REL	at
+CON	nails
+IST	anyway
+NIL	.

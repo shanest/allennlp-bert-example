@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+EXS	seen
+PER	Tom
+REL	in
+DEF	the
+IST	last
+QUC	three
+CON	hours
+QUE	?

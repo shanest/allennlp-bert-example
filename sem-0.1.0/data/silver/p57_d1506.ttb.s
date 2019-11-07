@@ -1,0 +1,16 @@
+PRO	I
+NOW	have
+CON	ulcers
+REL	in
+HAS	my
+CON	mouth
+NIL	,
+COO	so
+PRO	it
+NOW	's
+INT	very
+EXS	painful
+SUB	when
+PRO	I
+ENS	eat
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+ROL	thief
+PST	was
+EPS	marched
+REL	off
+REL	to
+DEF	the
+CON	police
+CON	station
+NIL	.

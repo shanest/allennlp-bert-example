@@ -1,0 +1,17 @@
+SUB	Since
+PRO	I
+PST	had
+NOT	n't
+EXS	seen
+PER	Martha
+REL	for
+IST	several
+CON	months
+NIL	,
+PRO	I
+EPS	went
+SUB	to
+EXS	visit
+PRO	her
+PST	yesterday
+NIL	.

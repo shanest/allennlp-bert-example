@@ -1,0 +1,9 @@
+EXS	Tell
+PRO	me
+DEF	the
+CON	reason
+QUE	why
+PER	Tom
+PST	was
+EXS	fired
+NIL	.

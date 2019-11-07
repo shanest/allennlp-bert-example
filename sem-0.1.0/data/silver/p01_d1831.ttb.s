@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	headed
+REL	off
+REL	in
+DEF	the
+IST	same
+CON	direction
+NIL	.

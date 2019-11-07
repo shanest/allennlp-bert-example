@@ -1,0 +1,11 @@
+AND	As
+DIS	a
+CON	child
+PRO	I
+IST	often
+EPS	went
+CON	fishing
+REL	with
+HAS	my
+ROL	father
+NIL	.

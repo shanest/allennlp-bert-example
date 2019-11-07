@@ -1,0 +1,10 @@
+PER	Mary
+EPS	broke
+REL	into
+PER	Tom
+HAS	's
+CON	room
+EXS	using
+DIS	a
+CON	lockpick
+NIL	.

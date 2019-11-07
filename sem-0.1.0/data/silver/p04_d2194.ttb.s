@@ -1,0 +1,10 @@
+UNK	There
+NOW	are
+INT	so
+QUV	many
+CON	places
+PRO	I
+ENS	want
+SUB	to
+EXS	visit
+NIL	.

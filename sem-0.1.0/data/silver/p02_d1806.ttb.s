@@ -1,0 +1,12 @@
+QUC	Three
+CON	months
+NOW	is
+INT	too
+IST	short
+DIS	a
+CON	time
+SUB	to
+EXS	finish
+DEF	the
+CON	experiment
+NIL	.

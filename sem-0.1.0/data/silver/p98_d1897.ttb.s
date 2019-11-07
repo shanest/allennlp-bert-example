@@ -1,0 +1,10 @@
+DEF	The
+CON	doctor
+EPS	recommended
+SUB	that
+PRO	you
+NEC	should
+EXS	give
+IST	up
+CON	smoking
+NIL	.

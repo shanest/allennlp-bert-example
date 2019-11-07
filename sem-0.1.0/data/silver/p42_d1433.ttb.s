@@ -1,0 +1,9 @@
+PRO	You
+NEC	must
+EXS	do
+QUE	what
+ENS	seems
+EXS	right
+REL	to
+PRO	you
+NIL	.

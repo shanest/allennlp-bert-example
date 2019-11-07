@@ -1,0 +1,13 @@
+REL	In
+GPE	Scotland
+PRO	you
+POS	can
+EXS	get
+DIS	a
+IST	deep-fried
+CON	Mars
+CON	bar
+REL	in
+DIS	a
+CON	chippy
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+EPS	forgot
+SUB	to
+EXS	write
+HAS	my
+CON	name
+REL	on
+DEF	the
+CON	exam
+NIL	.

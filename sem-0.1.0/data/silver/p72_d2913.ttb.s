@@ -1,0 +1,10 @@
+PER	Tom
+NOW	's
+DIS	a
+ROL	bully
+NIL	,
+AND	just
+AND	like
+PER	John
+NOW	is
+NIL	.

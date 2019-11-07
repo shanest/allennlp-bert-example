@@ -1,0 +1,13 @@
+QUE	What
+NOW	do
+PRO	you
+EXS	think
+PER	Tom
+HAS	's
+CON	chances
+REL	of
+EXG	getting
+REL	into
+ORG	Harvard
+NOW	are
+QUE	?

@@ -1,0 +1,10 @@
+APX	About
+QUC	seven
+UOM	percent
+REL	of
+GPE	Guyana
+HAS	's
+CON	population
+NOW	is
+IST	Muslim
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+NOT	not
+EXG	saying
+PRO	it
+HAS	's
+PER	Tom
+HAS	's
+CON	fault
+NIL	.

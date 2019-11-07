@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+INT	too
+EXS	young
+SUB	to
+EXS	die
+NIL	,
+HAS	my
+CON	friend
+NIL	.

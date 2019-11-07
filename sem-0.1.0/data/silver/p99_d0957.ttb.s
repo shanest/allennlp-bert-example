@@ -1,0 +1,11 @@
+PRO	He
+EPS	worked
+QUC	one
+UOM	year
+AND	and
+DIS	a
+CON	half
+REL	in
+DEF	the
+GPE	Netherlands
+NIL	.

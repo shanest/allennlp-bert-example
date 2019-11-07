@@ -1,0 +1,10 @@
+PER	Tom
+EPS	closed
+HAS	his
+CON	briefcase
+COO	and
+EPS	handed
+PRO	it
+REL	to
+PER	Mary
+NIL	.

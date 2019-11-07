@@ -1,0 +1,10 @@
+NOW	Do
+NOT	n't
+PRO	you
+IST	even
+NOW	think
+AND	of
+EXG	eating
+HAS	my
+CON	chocolate
+NIL	!

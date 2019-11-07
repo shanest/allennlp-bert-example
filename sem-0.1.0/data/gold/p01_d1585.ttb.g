@@ -1,0 +1,13 @@
+PER	Tom
+EPS	took
+DIS	a
+CON	picture
+AND	of
+HAS	his
+CON	dog
+COO	and
+EPS	sent
+PRO	it
+REL	to
+PER	Mary
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+EPS	took
+DIS	a
+CON	bath
+COO	and
+IST	then
+PST	had
+DIS	a
+CON	glass
+AND	of
+CON	beer
+NIL	.

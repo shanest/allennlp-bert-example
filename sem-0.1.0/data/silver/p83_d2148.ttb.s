@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	rude
+SUB	to
+EXS	speak
+REL	with
+HAS	your
+CON	mouth
+IST	full
+NIL	.

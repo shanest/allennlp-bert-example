@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PRO	I
+NOW	'm
+EXS	agreeing
+REL	with
+PRO	you
+NIL	.

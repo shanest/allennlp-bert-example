@@ -1,0 +1,12 @@
+PER	Tom
+EPS	bragged
+REL	about
+QUE	how
+IST	well
+HAS	his
+ROL	son
+PST	was
+EXG	doing
+REL	at
+CON	school
+NIL	.

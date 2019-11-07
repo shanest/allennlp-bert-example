@@ -1,0 +1,11 @@
+DEF	The
+CON	obstacles
+REL	to
+HAS	our
+CON	progress
+NOW	have
+PFT	been
+EXS	removed
+REL	at
+IST	last
+NIL	.

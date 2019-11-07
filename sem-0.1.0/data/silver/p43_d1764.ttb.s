@@ -1,0 +1,9 @@
+DEF	The
+CON	fairy
+EPS	changed
+DEF	the
+CON	prince
+REL	into
+DIS	a
+CON	cat
+NIL	.

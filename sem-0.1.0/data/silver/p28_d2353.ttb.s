@@ -1,0 +1,11 @@
+PER	Shakespeare
+NOW	is
+DEF	the
+TOP	greatest
+ROL	poet
+AND	that
+GPE	England
+NOW	has
+IST	ever
+EXS	produced
+NIL	.

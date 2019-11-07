@@ -1,0 +1,10 @@
+PRO	They
+NOW	have
+EXT	charged
+PRO	me
+QUC	30
+UOM	pounds
+REL	for
+DEF	the
+CON	shoes
+NIL	.

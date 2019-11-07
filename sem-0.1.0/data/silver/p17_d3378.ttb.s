@@ -1,0 +1,10 @@
+PRX	This
+CON	book
+NOW	is
+NOT	not
+XCL	only
+IST	interesting
+COO	but
+ALT	also
+IST	instructive
+NIL	.

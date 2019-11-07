@@ -1,0 +1,10 @@
+PRO	He
+EPS	put
+DEF	the
+CON	key
+REL	on
+DEF	the
+CON	desk
+AND	as
+EXS	usual
+NIL	.

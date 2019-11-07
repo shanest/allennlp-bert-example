@@ -1,0 +1,11 @@
+PRO	I
+EPS	caught
+DIS	a
+CON	cold
+NIL	,
+COO	and
+PRO	I
+NOW	have
+DIS	a
+CON	fever
+NIL	.

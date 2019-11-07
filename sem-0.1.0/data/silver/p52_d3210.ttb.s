@@ -1,0 +1,9 @@
+QUE	What
+NEC	should
+PRO	we
+EXS	do
+REL	with
+PRX	these
+IST	holey
+CON	socks
+QUE	?

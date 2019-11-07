@@ -1,0 +1,13 @@
+PER	Tom
+AND	and
+PER	Mary
+AND	both
+PST	had
+NOT	no
+CON	idea
+QUE	what
+PER	John
+PST	was
+EXS	talking
+IST	about
+NIL	.

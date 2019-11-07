@@ -1,0 +1,13 @@
+IMP	If
+PRO	you
+PST	had
+EXS	left
+AND	earlier
+NIL	,
+PRO	you
+FUT	would
+EXT	have
+EXS	caught
+DEF	the
+CON	train
+NIL	.

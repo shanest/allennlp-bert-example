@@ -1,0 +1,17 @@
+NIL	"
+NOW	Is
+PER	Tom
+HAS	your
+CON	boyfriend
+QUE	?
+NIL	"
+NIL	"
+NOT	No
+NIL	,
+PRO	he
+HAS	's
+IST	just
+DIS	a
+CON	friend
+NIL	.
+NIL	"

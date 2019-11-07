@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	get
+DIS	a
+IST	straight
+CON	answer
+REL	from
+PER	Tom
+NIL	.

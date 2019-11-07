@@ -1,0 +1,9 @@
+PRO	I
+EPS	asked
+PER	Tom
+SUB	to
+EXS	talk
+REL	to
+HAS	his
+CON	parents
+NIL	.

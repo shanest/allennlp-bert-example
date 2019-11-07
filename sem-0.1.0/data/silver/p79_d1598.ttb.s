@@ -1,0 +1,10 @@
+PER	Tom
+ENS	appreciates
+AND	everything
+SUB	that
+PER	Mary
+NOW	has
+EXS	done
+REL	for
+PRO	him
+NIL	.

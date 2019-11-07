@@ -1,0 +1,11 @@
+NOT	No
+ALT	other
+CON	girl
+REL	in
+HAS	my
+CON	class
+NOW	is
+MOR	prettier
+AND	than
+PER	Linda
+NIL	.

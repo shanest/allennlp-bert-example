@@ -1,0 +1,9 @@
+DEF	The
+CON	street
+PST	was
+EXS	blocked
+REL	by
+DIS	a
+IST	huge
+CON	truck
+NIL	.

@@ -1,0 +1,10 @@
+PRO	She
+EPS	took
+REL	out
+HAS	her
+CON	knife
+COO	and
+EPS	sliced
+DEF	the
+CON	tomato
+NIL	.

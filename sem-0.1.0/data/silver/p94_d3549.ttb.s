@@ -1,0 +1,11 @@
+AND	Everyone
+NOW	is
+EXG	hoping
+NOT	nothing
+IST	bad
+FUT	will
+IST	ever
+EXS	happen
+REL	in
+GPE	Japan
+NIL	.

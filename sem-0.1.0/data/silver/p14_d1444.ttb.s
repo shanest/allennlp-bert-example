@@ -1,0 +1,10 @@
+PRO	I
+FUT	will
+EXS	finish
+EXG	reading
+DEF	the
+CON	book
+REL	in
+DIS	a
+CON	week
+NIL	.

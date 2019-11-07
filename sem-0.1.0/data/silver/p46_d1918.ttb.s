@@ -1,0 +1,10 @@
+CON	Scientists
+NOW	have
+NOT	n't
+EXS	found
+DIS	a
+CON	cure
+REL	for
+CON	cancer
+ALT	yet
+NIL	.

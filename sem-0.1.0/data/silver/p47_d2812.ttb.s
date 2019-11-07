@@ -1,0 +1,11 @@
+PRO	I
+EPS	saw
+REL	at
+QUC	once
+SUB	that
+PRO	he
+PST	was
+EXS	ill
+REL	at
+CON	ease
+NIL	.

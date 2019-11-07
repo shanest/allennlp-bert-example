@@ -1,0 +1,9 @@
+PRO	It
+EPS	was
+PST	yesterday
+SUB	that
+PER	Mary
+EPS	bought
+PRX	this
+CON	skirt
+NIL	.

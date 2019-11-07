@@ -1,0 +1,11 @@
+PRX	This
+CON	guy
+EXS	sitting
+IST	next
+REL	to
+PRO	me
+REL	on
+DEF	the
+CON	train
+ENS	stinks
+NIL	!

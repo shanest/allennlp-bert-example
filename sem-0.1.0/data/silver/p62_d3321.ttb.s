@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+EXS	got
+DIS	a
+CON	newspaper
+CON	article
+PRO	I
+ENS	want
+SUB	to
+EXS	show
+PRO	you
+NIL	.

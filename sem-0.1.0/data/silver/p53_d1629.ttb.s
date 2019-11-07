@@ -1,0 +1,14 @@
+PRO	I
+IST	finally
+EPS	found
+IST	out
+QUE	what
+PST	had
+PFT	been
+EXS	causing
+DEF	the
+CON	pain
+REL	in
+HAS	my
+CON	leg
+NIL	.

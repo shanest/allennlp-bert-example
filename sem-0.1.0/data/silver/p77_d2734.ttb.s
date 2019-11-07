@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+PFT	been
+QUC	three
+CON	weeks
+REL	since
+PER	Mark
+EPS	broke
+HAS	his
+CON	arm
+NIL	.

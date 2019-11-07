@@ -1,0 +1,9 @@
+PER	Tom
+IST	never
+POS	could
+EXS	hide
+DIS	a
+CON	secret
+REL	from
+PER	Mary
+NIL	.

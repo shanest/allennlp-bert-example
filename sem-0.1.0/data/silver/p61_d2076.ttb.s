@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	remember
+AND	who
+PRO	I
+EPS	gave
+PRO	it
+REL	to
+NIL	.

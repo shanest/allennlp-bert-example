@@ -1,0 +1,11 @@
+AND	Soon
+NOT	no
+CON	one
+FUT	will
+EXT	have
+DIS	anything
+SUB	to
+EXS	do
+REL	with
+PRO	you
+NIL	.

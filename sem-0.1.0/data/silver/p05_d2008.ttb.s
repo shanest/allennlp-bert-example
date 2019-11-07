@@ -1,0 +1,11 @@
+ORG	Research
+NOW	has
+EXS	shown
+QUE	how
+EXS	polluted
+DEF	the
+CON	rivers
+NOW	are
+PRX	these
+CON	days
+NIL	.

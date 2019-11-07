@@ -1,0 +1,14 @@
+PRO	We
+EPS	came
+REL	into
+DEF	the
+CON	office
+SUB	to
+EXS	find
+PER	Emet
+AND	and
+PER	Erkin
+EXS	wiping
+DEF	the
+CON	windows
+NIL	.

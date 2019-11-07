@@ -1,0 +1,12 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+AND	who
+EPS	wrote
+DEF	the
+CON	graffiti
+REL	on
+DEF	the
+CON	wall
+NIL	.

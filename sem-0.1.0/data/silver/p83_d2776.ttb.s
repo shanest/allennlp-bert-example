@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	like
+DEF	the
+CON	way
+PER	Mary
+NOW	treats
+HAS	her
+CON	dog
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	match
+NOW	has
+PFT	been
+EXS	canceled
+IST	due
+REL	to
+IST	heavy
+CON	rain
+NIL	.

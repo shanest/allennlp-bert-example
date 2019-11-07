@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+POS	could
+EXS	predict
+DEF	the
+CON	outcome
+AND	of
+PRX	this
+CON	cooperation
+NIL	.

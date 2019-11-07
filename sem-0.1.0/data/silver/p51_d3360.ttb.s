@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	believed
+SUB	that
+PER	Mary
+NOW	is
+EXS	good
+REL	at
+CON	tennis
+NIL	.

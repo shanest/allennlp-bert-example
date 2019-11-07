@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	afraid
+SUB	that
+PRO	I
+POS	might
+EXS	make
+PRO	you
+EXS	angry
+NIL	.

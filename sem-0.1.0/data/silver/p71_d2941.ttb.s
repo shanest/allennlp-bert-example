@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+EXS	unmarried
+COO	and
+HAS	has
+NOT	no
+ROL	brothers
+DIS	or
+ROL	sisters
+NIL	.

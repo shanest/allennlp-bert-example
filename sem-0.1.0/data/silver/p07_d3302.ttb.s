@@ -1,0 +1,11 @@
+PRO	He
+EPS	came
+REL	to
+GPE	Japan
+SUB	when
+PRO	he
+PST	was
+QUC	10
+CON	years
+COM	old
+NIL	.

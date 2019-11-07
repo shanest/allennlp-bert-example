@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	got
+DIS	a
+IST	funny
+CON	feeling
+AND	about
+DST	that
+CON	guy
+NIL	.

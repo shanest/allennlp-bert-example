@@ -1,0 +1,10 @@
+PER	Tom
+PST	had
+CON	dreams
+AND	of
+EXG	becoming
+DIS	a
+IST	famous
+CON	tennis
+CON	player
+NIL	.

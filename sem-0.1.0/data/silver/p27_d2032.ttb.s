@@ -1,0 +1,9 @@
+DST	That
+NOW	is
+EQU	exactly
+QUE	what
+PRO	I
+EPS	wanted
+SUB	to
+EXS	buy
+NIL	.

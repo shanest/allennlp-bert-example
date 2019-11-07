@@ -1,0 +1,9 @@
+ITJ	Boy
+NIL	,
+DST	that
+CON	sentence
+IST	sure
+EPS	caused
+DIS	a
+CON	kerfuffle
+NIL	.

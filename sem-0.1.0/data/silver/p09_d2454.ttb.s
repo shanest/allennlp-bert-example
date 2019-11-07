@@ -1,0 +1,13 @@
+PRO	He
+NOW	is
+EXS	said
+SUB	to
+EXT	have
+PFT	been
+DEF	the
+TOP	richest
+CON	man
+REL	in
+DEF	the
+CON	village
+NIL	.

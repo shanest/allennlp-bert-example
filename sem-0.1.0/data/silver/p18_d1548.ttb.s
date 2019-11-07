@@ -1,0 +1,13 @@
+SUB	When
+PRO	they
+EPS	got
+REL	to
+DEF	the
+CON	station
+NIL	,
+DEF	the
+CON	train
+PST	had
+IST	already
+EXS	left
+NIL	.

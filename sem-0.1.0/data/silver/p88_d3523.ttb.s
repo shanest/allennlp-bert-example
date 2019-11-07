@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+DEF	the
+CON	medicine
+PRO	I
+PST	was
+EXS	telling
+PRO	you
+IST	about
+NIL	.

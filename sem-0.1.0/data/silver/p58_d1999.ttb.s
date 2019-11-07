@@ -1,0 +1,13 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	find
+IST	out
+QUE	how
+SUB	to
+EXS	apply
+REL	for
+DIS	a
+CON	visa
+NIL	.

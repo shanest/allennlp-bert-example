@@ -1,0 +1,12 @@
+QUC	Ten
+CON	years
+PST	ago
+NIL	,
+AND	such
+CON	business
+FUT	would
+EXT	have
+EXS	been
+DIS	a
+CON	success
+NIL	.

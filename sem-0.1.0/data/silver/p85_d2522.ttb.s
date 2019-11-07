@@ -1,0 +1,11 @@
+ITJ	Oh
+NIL	,
+HAS	my
+IST	white
+CON	pants
+NIL	!
+AND	And
+PRO	they
+PST	were
+IST	new
+NIL	.

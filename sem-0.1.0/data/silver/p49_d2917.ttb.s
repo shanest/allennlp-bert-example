@@ -1,0 +1,10 @@
+EXS	Put
+DST	that
+CON	medicine
+AND	out
+AND	of
+DEF	the
+CON	baby
+NOW	's
+EXS	reach
+NIL	.

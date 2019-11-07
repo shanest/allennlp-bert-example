@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+DIS	a
+CON	dog
+CON	person
+DIS	or
+DIS	a
+CON	cat
+CON	person
+QUE	?

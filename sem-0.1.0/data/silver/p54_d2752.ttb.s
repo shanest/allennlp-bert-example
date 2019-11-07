@@ -1,0 +1,10 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+EQU	,
+PER	Tom
+NOW	is
+EXS	happy
+NIL	.

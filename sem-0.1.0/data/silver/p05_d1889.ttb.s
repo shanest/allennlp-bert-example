@@ -1,0 +1,12 @@
+PER	Tom
+POS	could
+NOT	n't
+IST	just
+EXS	sit
+REL	by
+COO	and
+EXS	watch
+PER	Mary
+EXS	being
+EXS	bullied
+NIL	.

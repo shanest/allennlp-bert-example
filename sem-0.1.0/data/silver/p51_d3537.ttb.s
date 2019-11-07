@@ -1,0 +1,13 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	like
+PRO	him
+SUB	because
+PRO	he
+NOW	is
+IST	sly
+AND	as
+DIS	a
+CON	fox
+NIL	.

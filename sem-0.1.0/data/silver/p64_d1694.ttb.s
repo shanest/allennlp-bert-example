@@ -1,0 +1,11 @@
+PRO	She
+EPS	looked
+AND	like
+PRO	she
+PST	was
+EXS	going
+SUB	to
+EXS	start
+EXS	crying
+ALT	again
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+DIS	some
+INT	most
+IST	respectable
+CON	people
+REL	in
+DEF	the
+CON	town
+NIL	.

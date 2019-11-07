@@ -1,0 +1,10 @@
+PRO	She
+EPS	taught
+CON	French
+REL	in
+GPE	Italy
+SUB	before
+EXS	moving
+REL	to
+GEO	Paris
+NIL	.

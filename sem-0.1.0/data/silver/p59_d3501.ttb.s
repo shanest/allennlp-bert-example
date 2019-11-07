@@ -1,0 +1,13 @@
+PRO	They
+EPS	shut
+HAS	his
+CON	water
+REL	off
+SUB	because
+PRO	he
+PST	did
+NOT	n't
+EXS	pay
+DEF	the
+CON	bill
+NIL	.

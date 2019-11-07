@@ -1,0 +1,11 @@
+DIS	A
+CON	lot
+AND	of
+CON	people
+NOW	are
+EXS	dealing
+REL	with
+CON	hay
+CON	fever
+NOW	now
+NIL	.

@@ -1,0 +1,9 @@
+HAS	Her
+ROL	grandmother
+EPS	lived
+SUB	to
+EXS	be
+NIL	88
+CON	years
+IST	old
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+NOT	not
+UNK	likely
+SUB	that
+PRO	he
+EPS	did
+PRO	it
+REL	on
+CON	purpose
+NIL	.

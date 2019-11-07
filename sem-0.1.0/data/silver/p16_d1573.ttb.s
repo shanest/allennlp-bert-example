@@ -1,0 +1,10 @@
+DIS	Sometimes
+PRO	you
+EXS	save
+CON	time
+REL	by
+EXG	taking
+DEF	the
+IST	longer
+CON	road
+NIL	.

@@ -1,0 +1,9 @@
+PRO	They
+ENS	eat
+DIS	a
+CON	lot
+AND	of
+CON	rice
+REL	in
+GPE	Japan
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+EPS	threw
+DEF	the
+CON	car
+CON	keys
+REL	to
+PER	Mary
+COO	and
+PRO	she
+EPS	caught
+PRO	them
+NIL	.

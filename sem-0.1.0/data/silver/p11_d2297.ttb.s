@@ -1,0 +1,12 @@
+DEF	The
+CON	train
+EPS	arrived
+IST	safely
+REL	at
+DEF	the
+CON	station
+DIS	a
+IST	few
+CON	minutes
+PST	ago
+NIL	.

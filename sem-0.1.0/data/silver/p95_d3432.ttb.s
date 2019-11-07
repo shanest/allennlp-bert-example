@@ -1,0 +1,12 @@
+PER	Tom
+NOW	has
+NOT	n't
+EXS	heard
+REL	from
+PER	Mary
+SUB	since
+PRO	she
+EPS	moved
+REL	to
+GPE	Boston
+NIL	.

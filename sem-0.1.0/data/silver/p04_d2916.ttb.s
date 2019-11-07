@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	she
+NOW	's
+PST	had
+DIS	a
+IST	few
+CON	Botox
+CON	injections
+NIL	.

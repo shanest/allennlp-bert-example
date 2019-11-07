@@ -1,0 +1,10 @@
+PRO	They
+NOW	are
+EXS	looking
+REL	for
+DIS	a
+CON	house
+SUB	to
+EXS	live
+REL	in
+NIL	.

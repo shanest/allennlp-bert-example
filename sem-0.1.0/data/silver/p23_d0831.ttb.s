@@ -1,0 +1,13 @@
+NOT	No
+IST	sooner
+PST	had
+PRO	I
+EPS	hung
+IST	up
+AND	than
+DEF	the
+CON	phone
+EPS	started
+EXS	ringing
+ALT	again
+NIL	.

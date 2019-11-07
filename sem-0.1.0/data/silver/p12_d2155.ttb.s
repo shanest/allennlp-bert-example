@@ -1,0 +1,11 @@
+EXT	Having
+PFT	been
+IST	wrongly
+EXS	addressed
+NIL	,
+DEF	the
+CON	letter
+NOT	never
+EPS	reached
+PRO	him
+NIL	.

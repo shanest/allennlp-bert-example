@@ -1,0 +1,10 @@
+NOT	No
+CON	matter
+QUE	what
+PRO	I
+NOW	do
+EQU	,
+PER	Tom
+IST	always
+ENS	complains
+NIL	.

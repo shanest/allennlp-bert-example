@@ -1,0 +1,17 @@
+PER	Tom
+ENS	loves
+DIS	a
+IST	good
+CON	laugh
+AND	and
+NOW	avoids
+CON	people
+AND	who
+NOW	have
+NOT	n't
+EXS	got
+DIS	a
+CON	sense
+AND	of
+CON	humour
+NIL	.

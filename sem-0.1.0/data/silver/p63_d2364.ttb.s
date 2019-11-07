@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+EXS	wasting
+HAS	your
+CON	time
+EXS	trying
+SUB	to
+EXS	convince
+PRO	him
+NIL	.

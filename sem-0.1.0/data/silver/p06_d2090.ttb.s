@@ -1,0 +1,16 @@
+DEF	The
+ROL	enemy
+NOW	is
+EXS	stupid
+COO	:
+PRO	they
+NOW	think
+PRO	we
+NOW	're
+DEF	the
+ROL	enemy
+NIL	,
+SUB	when
+PRO	they
+NOW	are
+NIL	!

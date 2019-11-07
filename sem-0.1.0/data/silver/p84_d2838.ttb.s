@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+NEC	have
+SUB	to
+EXS	go
+REL	to
+CON	school
+AND	next
+DOW	Monday
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+FUT	will
+EXS	be
+EXG	watching
+CON	television
+IMP	if
+PRO	you
+NOW	visit
+PRO	him
+NOW	now
+NIL	.

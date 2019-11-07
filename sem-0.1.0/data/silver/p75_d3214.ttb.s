@@ -1,0 +1,11 @@
+PRO	I
+POS	can
+NOT	not
+EXS	mime
+PER	Ken
+REL	in
+CON	presence
+AND	of
+DEF	the
+CON	teacher
+NIL	.

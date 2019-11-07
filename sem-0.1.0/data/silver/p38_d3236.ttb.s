@@ -1,0 +1,15 @@
+PER	Tom
+EPS	called
+PRO	me
+AND	about
+QUC	thirty
+UOM	minutes
+AND	ago
+AND	and
+PST	said
+PRO	he
+PST	was
+REL	on
+HAS	his
+CON	way
+NIL	.

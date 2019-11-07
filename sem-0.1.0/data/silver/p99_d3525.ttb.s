@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+EXS	going
+SUB	to
+EXS	be
+CON	OK
+NIL	,
+NOW	is
+NOT	n't
+PRO	he
+QUE	?

@@ -1,0 +1,17 @@
+ORG	Youth
+NOW	is
+DEF	the
+CON	springtime
+AND	of
+CON	life
+NIL	,
+COO	but
+UNK	there
+NOW	are
+ALT	also
+CON	springtimes
+AND	that
+NOW	are
+EXS	rained
+IST	out
+NIL	.

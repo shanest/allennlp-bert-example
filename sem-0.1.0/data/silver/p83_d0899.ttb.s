@@ -1,0 +1,10 @@
+DEF	The
+CON	climate
+REL	in
+GPE	Japan
+NOW	is
+COM	milder
+AND	than
+REL	in
+GPE	England
+NIL	.

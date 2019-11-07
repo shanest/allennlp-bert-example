@@ -1,0 +1,14 @@
+AND	All
+AND	of
+DIS	a
+CON	sudden
+NIL	,
+PRO	I
+EPS	felt
+DIS	a
+IST	sharp
+CON	pain
+REL	in
+HAS	my
+CON	stomach
+NIL	.

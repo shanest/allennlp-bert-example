@@ -1,0 +1,10 @@
+PRO	He
+EPS	took
+DIS	a
+CON	mirror
+COO	and
+IST	carefully
+EPS	examined
+HAS	his
+CON	tongue
+NIL	.

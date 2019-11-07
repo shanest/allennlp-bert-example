@@ -1,0 +1,15 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	say
+SUB	whether
+PRO	he
+FUT	would
+EXS	go
+REL	to
+PER	Mary
+HAS	's
+CON	party
+DIS	or
+NOT	not
+NIL	.

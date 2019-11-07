@@ -1,0 +1,10 @@
+PRO	I
+NEC	should
+EXT	've
+EXS	done
+PRX	this
+DIS	a
+IST	long
+CON	time
+PST	ago
+NIL	.

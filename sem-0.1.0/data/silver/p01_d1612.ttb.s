@@ -1,0 +1,14 @@
+PRO	I
+EPS	asked
+QUC	twenty
+CON	people
+REL	to
+HAS	my
+CON	party
+BUT	but
+NOT	not
+AND	all
+AND	of
+PRO	them
+EPS	came
+NIL	.

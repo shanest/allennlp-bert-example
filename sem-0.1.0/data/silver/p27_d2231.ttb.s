@@ -1,0 +1,10 @@
+PER	Returnees
+NOW	have
+CON	trouble
+EXS	getting
+EXS	used
+REL	to
+CON	life
+REL	in
+GPE	Japan
+NIL	.

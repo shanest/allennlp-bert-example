@@ -1,0 +1,10 @@
+PRO	She
+NOW	is
+EXS	said
+SUB	to
+EXS	be
+REL	in
+CON	love
+REL	with
+PRO	him
+NIL	.

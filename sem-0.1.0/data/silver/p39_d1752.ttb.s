@@ -1,0 +1,11 @@
+NOT	Never
+EXS	deal
+REL	with
+DIS	a
+CON	dragon
+AND	and
+NOT	never
+EXS	trust
+DIS	an
+CON	elf
+NIL	!

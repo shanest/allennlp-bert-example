@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+ENS	like
+NIL	,
+PRO	I
+FUT	'll
+EXS	tell
+PRO	you
+AND	about
+QUE	what
+EPS	happened
+REL	to
+PER	Tom
+NIL	.

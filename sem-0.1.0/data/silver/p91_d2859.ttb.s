@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+IST	afraid
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	have
+SUB	to
+EXS	ask
+PRO	you
+SUB	to
+EXS	leave
+NOW	now
+NIL	.

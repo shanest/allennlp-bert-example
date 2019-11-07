@@ -1,0 +1,10 @@
+PRO	They
+NOW	are
+EXS	trying
+SUB	to
+EXS	organize
+DIS	a
+IST	new
+IST	political
+CON	party
+NIL	.

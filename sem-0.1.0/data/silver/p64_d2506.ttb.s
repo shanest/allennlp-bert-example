@@ -1,0 +1,15 @@
+PER	Tom
+AND	and
+PER	Mary
+HAS	's
+IST	little
+CON	girl
+NOW	is
+EXS	starting
+SUB	to
+EXS	take
+HAS	her
+IST	first
+CON	tentative
+CON	steps
+NIL	.

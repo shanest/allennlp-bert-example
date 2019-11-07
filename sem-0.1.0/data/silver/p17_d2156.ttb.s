@@ -1,0 +1,13 @@
+QUE	What
+PRO	you
+NOW	're
+EXG	saying
+NOW	now
+NOW	has
+NOT	nothing
+SUB	to
+EXS	do
+REL	with
+DEF	the
+CON	question
+NIL	.

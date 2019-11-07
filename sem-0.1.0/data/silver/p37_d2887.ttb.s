@@ -1,0 +1,14 @@
+PRO	It
+PST	was
+EXS	close
+REL	to
+CLO	2:30
+REL	by
+DEF	the
+CON	time
+PER	Tom
+EPS	reached
+PER	Mary
+HAS	's
+CON	house
+NIL	.

@@ -1,0 +1,13 @@
+IST	Black
+CON	people
+REL	in
+GEO	America
+QUC	once
+EPS	said
+NIL	,
+NIL	"
+EXS	Give
+PRO	us
+CON	freedom
+NIL	"
+NIL	.

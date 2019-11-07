@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+IST	sure
+PER	Tom
+FUT	wo
+NOT	n't
+EXS	be
+IST	willing
+SUB	to
+EXS	work
+IST	late
+NIL	.

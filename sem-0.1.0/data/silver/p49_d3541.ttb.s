@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+AND	both
+MOR	older
+MOR	than
+PER	John
+NIL	.

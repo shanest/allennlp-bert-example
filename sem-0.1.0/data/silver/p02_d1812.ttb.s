@@ -1,0 +1,12 @@
+AND	Everybody
+ENS	knows
+REL	for
+IST	sure
+SUB	that
+PRO	it
+PST	was
+PRO	he
+AND	who
+PST	did
+PRO	it
+NIL	.

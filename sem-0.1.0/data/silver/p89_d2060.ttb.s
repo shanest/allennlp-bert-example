@@ -1,0 +1,10 @@
+PRO	I
+ENS	bet
+PRO	I
+POS	can
+EXS	quit
+CON	smoking
+REL	from
+NOW	now
+REL	on
+NIL	.

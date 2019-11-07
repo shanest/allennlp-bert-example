@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+PER	Tom
+ENS	talks
+AND	about
+PER	Mary
+DIS	a
+CON	lot
+NIL	.

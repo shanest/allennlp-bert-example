@@ -1,0 +1,12 @@
+PRO	I
+EPS	spent
+QUC	three
+UOM	hours
+REL	in
+DEF	the
+CON	lab
+REL	with
+PER	Tom
+PRX	this
+CON	afternoon
+NIL	.

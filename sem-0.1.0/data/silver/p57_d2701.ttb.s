@@ -1,0 +1,12 @@
+PER	Ted
+AND	and
+PRO	I
+NOW	are
+EXS	taking
+HAS	our
+CON	girlfriends
+REL	to
+DEF	the
+CON	movies
+NOW	now
+NIL	.

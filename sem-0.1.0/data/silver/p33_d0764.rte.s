@@ -1,0 +1,12 @@
+DEF	The
+CON	movie
+HAS	'
+ART	Speed
+CON	'
+PST	was
+EXS	directed
+REL	by
+PER	Jan
+PER	De
+PER	Bont
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	done
+PRO	it
+AND	like
+SUB	that
+SUB	before
+NIL	.

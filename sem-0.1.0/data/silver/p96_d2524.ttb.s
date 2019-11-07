@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+HAS	my
+TOP	best
+CON	friends
+REL	in
+CON	college
+NIL	.

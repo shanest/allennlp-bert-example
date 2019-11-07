@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	dying
+SUB	to
+EXS	learn
+IST	more
+AND	about
+PRO	you
+NIL	.

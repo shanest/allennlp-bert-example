@@ -1,0 +1,10 @@
+PRO	I
+ENS	wish
+PRO	you
+FUT	would
+EXS	do
+SUB	as
+PRO	you
+NOW	're
+EXS	told
+NIL	.

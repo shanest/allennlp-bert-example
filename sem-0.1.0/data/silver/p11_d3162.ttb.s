@@ -1,0 +1,13 @@
+AND	Without
+CON	air
+AND	and
+CON	water
+NIL	,
+PRO	we
+FUT	would
+NOT	not
+EXS	be
+IST	able
+SUB	to
+EXS	live
+NIL	.

@@ -1,0 +1,12 @@
+NOW	Do
+PRO	you
+NOW	think
+PER	Mary
+NOW	is
+INT	too
+EXS	fat
+SUB	to
+EXS	be
+DIS	a
+CON	cheerleader
+QUE	?

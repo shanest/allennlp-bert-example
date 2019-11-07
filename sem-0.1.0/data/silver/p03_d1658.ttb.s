@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	thought
+REL	about
+PER	Tom
+REL	in
+CON	years
+NIL	.

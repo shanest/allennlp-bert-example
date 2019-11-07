@@ -1,0 +1,9 @@
+AND	Every
+CON	day
+PRO	I
+ENS	come
+REL	to
+CON	university
+REL	by
+CON	bus
+NIL	.

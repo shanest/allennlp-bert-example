@@ -1,0 +1,13 @@
+DEF	The
+CON	view
+REL	from
+DEF	the
+CON	top
+AND	of
+DEF	the
+CON	mountain
+EPS	took
+HAS	my
+CON	breath
+IST	away
+NIL	.

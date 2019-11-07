@@ -1,0 +1,12 @@
+PRO	We
+EPS	thought
+SUB	that
+PRO	we
+FUT	would
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	stop
+PRO	him
+NIL	.

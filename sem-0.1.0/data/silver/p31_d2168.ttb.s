@@ -1,0 +1,11 @@
+PER	Tom
+NOW	's
+PFT	been
+IST	out
+AND	of
+CON	work
+REL	for
+QUC	half
+DIS	a
+UOM	year
+NIL	.

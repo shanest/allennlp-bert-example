@@ -1,0 +1,14 @@
+DEF	The
+CON	border
+CON	dispute
+REL	between
+GPE	Chad
+AND	and
+GEO	Libya
+PST	was
+EXS	ruled
+REL	in
+GPE	Chad
+HAS	's
+CON	favour
+NIL	.

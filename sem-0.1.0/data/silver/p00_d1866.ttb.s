@@ -1,0 +1,10 @@
+DEF	The
+CON	bridge
+NOW	is
+EXS	designed
+NIL	to
+EXS	open
+REL	in
+DEF	the
+CON	middle
+NIL	.

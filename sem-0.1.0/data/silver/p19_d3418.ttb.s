@@ -1,0 +1,9 @@
+DEF	The
+TOP	best
+CON	dreams
+EXS	happen
+SUB	when
+PRO	you
+NOW	're
+EXS	awake
+NIL	.

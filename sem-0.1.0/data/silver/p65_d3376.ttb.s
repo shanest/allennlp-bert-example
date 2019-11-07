@@ -1,0 +1,9 @@
+DEF	The
+CON	nurse
+EPS	took
+HAS	her
+CON	temperature
+REL	with
+DEF	the
+CON	thermometer
+NIL	.

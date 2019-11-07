@@ -1,0 +1,10 @@
+AND	Everyone
+NEC	must
+EXS	learn
+REL	on
+HAS	their
+CON	own
+REL	in
+DEF	the
+CON	end
+NIL	.

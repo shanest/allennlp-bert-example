@@ -1,0 +1,10 @@
+DEF	The
+CON	coach
+EPS	accused
+PRO	us
+AND	of
+NOT	not
+EXG	doing
+HAS	our
+TOP	best
+NIL	.

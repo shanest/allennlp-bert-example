@@ -1,0 +1,10 @@
+ROL	Mr
+PER	Yamada
+NOW	is
+REL	in
+CON	charge
+AND	of
+DEF	the
+CON	personnel
+CON	section
+NIL	.

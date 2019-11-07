@@ -1,0 +1,10 @@
+PRO	She
+EPS	remained
+AND	behind
+SUB	because
+PRO	she
+PST	was
+EXS	walking
+INT	very
+IST	slowly
+NIL	.

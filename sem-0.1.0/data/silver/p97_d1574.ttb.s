@@ -1,0 +1,10 @@
+DEF	The
+CON	magazine
+EPS	acquired
+DIS	a
+CON	lot
+AND	of
+CON	readers
+PRX	this
+CON	year
+NIL	.

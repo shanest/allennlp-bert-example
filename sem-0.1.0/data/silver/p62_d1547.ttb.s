@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PRX	this
+CON	painting
+NOW	is
+NOT	not
+REL	for
+CON	sale
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+NOW	has
+PFT	been
+EXS	engaged
+REL	in
+IST	foreign
+CON	trade
+REL	for
+QUC	twenty
+CON	years
+NIL	.

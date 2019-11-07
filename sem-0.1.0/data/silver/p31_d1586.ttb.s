@@ -1,0 +1,14 @@
+PER	Tom
+COO	and
+PRO	I
+PST	had
+DIS	a
+IST	long
+CON	conversation
+SUB	while
+PRO	we
+PST	were
+EXS	waiting
+REL	for
+PER	Mary
+NIL	.

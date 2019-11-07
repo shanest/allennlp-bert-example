@@ -1,0 +1,9 @@
+PRO	He
+EPS	called
+HAS	his
+ROL	mother
+IST	up
+REL	from
+DEF	the
+CON	airport
+NIL	.

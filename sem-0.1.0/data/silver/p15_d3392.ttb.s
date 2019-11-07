@@ -1,0 +1,13 @@
+NIL	"
+PRX	This
+NOW	is
+QUE	what
+PRO	I
+PST	was
+EXG	looking
+REL	for
+NIL	!
+NIL	"
+PRO	he
+EPS	exclaimed
+NIL	.

@@ -1,0 +1,12 @@
+DEF	The
+IST	severely
+IST	injured
+CON	man
+PST	was
+EXS	dead
+REL	on
+CON	arrival
+REL	at
+DEF	the
+CON	hospital
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+EPS	took
+PRO	him
+REL	to
+DEF	the
+INT	most
+IST	expensive
+CON	restaurant
+REL	on
+CON	campus
+NIL	.

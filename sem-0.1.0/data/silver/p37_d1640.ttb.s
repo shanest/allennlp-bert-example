@@ -1,0 +1,11 @@
+PRX	This
+CON	book
+NOW	is
+INT	too
+UNK	difficult
+SUB	to
+EXS	read
+REL	in
+DIS	a
+CON	week
+NIL	.

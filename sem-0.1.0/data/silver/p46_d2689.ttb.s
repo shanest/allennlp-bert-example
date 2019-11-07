@@ -1,0 +1,10 @@
+PRO	You
+NEC	must
+NOT	n't
+EXS	be
+IST	nervous
+REL	about
+FUT	tomorrow
+HAS	's
+CON	exam
+NIL	.

@@ -1,0 +1,12 @@
+DEF	The
+CON	children
+EPS	spent
+DIS	a
+CON	lot
+AND	of
+CON	time
+REL	in
+DEF	the
+IST	open
+CON	air
+NIL	.

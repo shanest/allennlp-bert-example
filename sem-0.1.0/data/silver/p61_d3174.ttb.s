@@ -1,0 +1,10 @@
+PRO	I
+ENS	leave
+HAS	my
+CON	house
+REL	at
+CLO	8:00
+REL	in
+DEF	the
+CON	morning
+NIL	.

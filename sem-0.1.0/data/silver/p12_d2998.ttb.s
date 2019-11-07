@@ -1,0 +1,10 @@
+PER	Tom
+AND	always
+ENS	urges
+HAS	his
+CON	children
+SUB	to
+EXS	try
+IST	new
+CON	things
+NIL	.

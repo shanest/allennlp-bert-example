@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	cancel
+REL	in
+ALT	another
+QUC	two
+CON	days
+NIL	.

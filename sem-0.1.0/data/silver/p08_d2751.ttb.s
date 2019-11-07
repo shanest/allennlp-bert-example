@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+NOT	n't
+EXG	watching
+CON	TV
+NOW	now
+NIL	.
+PRO	He
+HAS	's
+EXS	sleeping
+NIL	.

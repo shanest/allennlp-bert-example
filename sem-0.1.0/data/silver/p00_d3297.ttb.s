@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+NIL	to
+EXS	go
+IST	out
+REL	with
+PER	Tom
+NIL	.

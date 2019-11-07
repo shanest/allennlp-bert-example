@@ -1,0 +1,12 @@
+PRO	You
+NEC	must
+EXS	pay
+CON	attention
+REL	to
+AND	every
+CON	minute
+CON	detail
+REL	from
+NOW	now
+REL	on
+NIL	.

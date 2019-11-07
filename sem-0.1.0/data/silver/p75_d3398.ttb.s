@@ -1,0 +1,13 @@
+PRX	This
+CON	dog
+AND	and
+DST	that
+CON	fish
+NOW	are
+HAS	mine
+NIL	,
+COO	but
+DST	that
+CON	bird
+NOT	not
+NIL	.

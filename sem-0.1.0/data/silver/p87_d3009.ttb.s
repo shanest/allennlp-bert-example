@@ -1,0 +1,11 @@
+PRO	I
+NOW	think
+PER	Tom
+NOW	is
+INT	too
+EXS	young
+SUB	to
+IST	really
+EXS	understand
+CON	women
+NIL	.

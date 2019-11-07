@@ -1,0 +1,11 @@
+PRO	She
+NOW	's
+EXS	meant
+SUB	to
+EXS	practice
+DEF	the
+CON	piano
+REL	for
+QUC	two
+UOM	hours
+NIL	.

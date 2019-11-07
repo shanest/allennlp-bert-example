@@ -1,0 +1,11 @@
+PER	Tom
+EPS	said
+SUB	that
+PRO	he
+COO	and
+PER	Mary
+PST	had
+EXS	had
+DIS	a
+CON	fight
+NIL	.

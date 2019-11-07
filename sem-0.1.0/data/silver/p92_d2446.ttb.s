@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+EXS	decided
+QUE	what
+SUB	to
+EXS	cook
+REL	for
+CON	dinner
+NIL	.

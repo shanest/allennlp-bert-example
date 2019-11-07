@@ -1,0 +1,12 @@
+EXS	Kill
+PRO	them
+NIL	,
+REL	for
+DEF	the
+ORG	Lord
+ENS	knows
+DST	those
+AND	who
+NOW	are
+HAS	His
+NIL	.

@@ -1,0 +1,11 @@
+DIS	Someone
+EPS	said
+DIS	something
+NIL	,
+BUT	but
+PRO	I
+POS	could
+NOT	not
+EXS	understand
+PRO	it
+NIL	.

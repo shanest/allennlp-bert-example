@@ -1,0 +1,9 @@
+PRO	He
+EPS	put
+IST	down
+HAS	his
+CON	thoughts
+REL	in
+HAS	his
+CON	notebook
+NIL	.

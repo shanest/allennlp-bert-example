@@ -1,0 +1,11 @@
+PER	Tom
+EPS	filled
+HAS	his
+CON	glass
+COO	and
+IST	then
+EPS	filled
+QUC	one
+REL	for
+PER	Mary
+NIL	.

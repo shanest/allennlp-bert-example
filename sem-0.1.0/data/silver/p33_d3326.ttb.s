@@ -1,0 +1,10 @@
+CON	Apples
+NOW	are
+IST	usually
+COL	green
+NIL	,
+COL	yellow
+NIL	,
+DIS	or
+IST	red
+NIL	.

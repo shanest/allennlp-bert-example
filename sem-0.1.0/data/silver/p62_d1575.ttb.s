@@ -1,0 +1,9 @@
+PER	Kate
+PER	Middleton
+NOW	is
+NOW	now
+DEF	the
+CON	duchess
+AND	of
+GEO	Cambridge
+NIL	.

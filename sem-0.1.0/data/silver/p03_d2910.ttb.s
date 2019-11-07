@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+EXS	feeling
+INT	very
+EXS	sleepy
+NIL	,
+NOW	are
+NOT	n't
+PRO	you
+QUE	?

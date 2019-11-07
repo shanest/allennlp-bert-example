@@ -1,0 +1,11 @@
+DEF	The
+CON	Yangtze
+REL	at
+QUC	6,380
+UOM	km
+NOW	is
+GEO	Asia
+HAS	's
+TOP	longest
+CON	river
+NIL	.

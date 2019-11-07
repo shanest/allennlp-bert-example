@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	doing
+PRX	this
+CON	job
+SUB	to
+EXS	help
+DIS	a
+CON	friend
+NIL	.

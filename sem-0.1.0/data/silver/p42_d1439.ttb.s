@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	they
+NOW	have
+PFT	been
+EXS	married
+REL	for
+QUC	five
+CON	years
+NIL	.

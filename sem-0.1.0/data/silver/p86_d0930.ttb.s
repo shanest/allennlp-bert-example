@@ -1,0 +1,15 @@
+PRO	He
+NOW	has
+QUC	two
+CON	pencils
+NIL	.
+CON	One
+NOW	is
+IST	long
+AND	and
+DEF	the
+ALT	other
+QUC	one
+NOW	is
+IST	short
+NIL	.

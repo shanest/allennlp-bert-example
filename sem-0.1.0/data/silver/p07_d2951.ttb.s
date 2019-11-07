@@ -1,0 +1,10 @@
+AND	Everyone
+HAS	's
+EXS	waiting
+PER	nervously
+SUB	to
+EXS	see
+QUE	what
+FUT	'll
+EXS	happen
+NIL	.

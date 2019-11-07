@@ -1,0 +1,12 @@
+PRO	She
+NOW	does
+NOT	n't
+AND	always
+EXS	take
+DIS	a
+CON	trip
+REL	to
+GPE	France
+REL	in
+CON	summer
+NIL	.

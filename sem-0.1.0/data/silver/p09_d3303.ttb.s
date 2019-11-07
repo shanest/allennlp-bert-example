@@ -1,0 +1,13 @@
+PRO	He
+EPS	left
+DEF	the
+CON	room
+NOT	without
+AND	so
+QUV	much
+SUB	as
+EXG	saying
+GRE	good-bye
+REL	to
+PRO	me
+NIL	.

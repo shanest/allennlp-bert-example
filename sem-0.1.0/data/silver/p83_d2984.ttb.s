@@ -1,0 +1,13 @@
+PRO	I
+EPS	saw
+PER	Mary
+EXS	talking
+REL	with
+DIS	a
+IST	young
+CON	man
+AND	who
+PST	had
+IST	long
+CON	hair
+NIL	.

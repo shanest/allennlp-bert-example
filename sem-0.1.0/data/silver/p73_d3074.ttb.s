@@ -1,0 +1,9 @@
+CON	One
+NOW	is
+IST	new
+NIL	,
+DEF	the
+ALT	other
+NOW	is
+IST	old
+NIL	.

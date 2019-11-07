@@ -1,0 +1,12 @@
+PRO	I
+IST	never
+EPS	saw
+PRO	him
+ALT	again
+NIL	,
+QUE	nor
+PST	did
+PRO	I
+ENS	regret
+PRO	it
+NIL	.

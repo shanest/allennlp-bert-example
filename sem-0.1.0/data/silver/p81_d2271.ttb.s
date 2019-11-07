@@ -1,0 +1,10 @@
+PRO	I
+IST	only
+NOW	do
+QUE	what
+PRO	I
+NOW	'm
+EXS	paid
+SUB	to
+EXS	do
+NIL	.

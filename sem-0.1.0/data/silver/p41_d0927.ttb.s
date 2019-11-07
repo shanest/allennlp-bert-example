@@ -1,0 +1,13 @@
+PRO	I
+PST	had
+DIS	a
+IST	slight
+CON	headache
+NIL	,
+COO	so
+PRO	I
+EPS	went
+REL	to
+CON	bed
+IST	early
+NIL	.

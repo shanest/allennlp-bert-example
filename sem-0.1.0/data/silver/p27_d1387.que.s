@@ -1,0 +1,12 @@
+QUE	What
+CON	city
+EXS	hosted
+DEF	the
+IST	final
+CON	match
+AND	of
+DEF	the
+ORG	World
+CON	Football
+NIL	Championship
+QUE	?

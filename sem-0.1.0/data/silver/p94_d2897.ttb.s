@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	assembled
+DIS	a
+CON	computer
+REL	by
+REF	yourself
+QUE	?

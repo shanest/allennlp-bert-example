@@ -1,0 +1,12 @@
+DEF	The
+IST	rich
+ROL	merchant
+EPS	adopted
+DEF	the
+CON	boy
+COO	and
+EPS	made
+PRO	him
+HAS	his
+CON	heir
+NIL	.

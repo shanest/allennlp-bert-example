@@ -1,0 +1,11 @@
+PRO	We
+ENS	need
+DIS	a
+IST	large
+CON	amount
+AND	of
+CON	money
+REL	for
+PRX	this
+CON	project
+NIL	.

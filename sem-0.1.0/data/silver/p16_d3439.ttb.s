@@ -1,0 +1,16 @@
+PRO	I
+ENS	hope
+SUB	that
+PER	Emi
+FUT	will
+EXS	appear
+IST	soon
+NIL	.
+PRO	I
+NOW	'm
+EXS	tired
+AND	of
+EXS	waiting
+REL	for
+PRO	her
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+NOW	have
+QUC	5,000
+UOM	yen
+PRO	you
+POS	could
+EXS	lend
+PRO	me
+QUE	?

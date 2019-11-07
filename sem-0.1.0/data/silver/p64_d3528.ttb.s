@@ -1,0 +1,16 @@
+HAS	My
+ROL	father
+EPS	believed
+SUB	that
+DIS	anyone
+AND	who
+POS	could
+NOT	not
+EXS	make
+DIS	a
+CON	living
+REL	in
+GPE	Japan
+PST	was
+EXS	lazy
+NIL	.

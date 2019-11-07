@@ -1,0 +1,11 @@
+PER	Bill
+ENS	boasts
+REL	of
+EXG	owning
+DEF	the
+TOP	biggest
+CON	car
+REL	in
+DEF	the
+CON	neighborhood
+NIL	.

@@ -1,0 +1,9 @@
+PRO	You
+NOW	've
+EXS	got
+SUB	to
+EXS	be
+REL	on
+HAS	your
+CON	toes
+NIL	.

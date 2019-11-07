@@ -1,0 +1,11 @@
+EXS	Speaking
+AND	of
+GEO	Nagoya
+NIL	,
+NOW	have
+PRO	you
+IST	ever
+EXS	been
+REL	to
+GEO	Seto
+QUE	?

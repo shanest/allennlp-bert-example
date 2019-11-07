@@ -1,0 +1,10 @@
+PRX	Here
+NOW	's
+DIS	a
+CON	restaurant
+PRO	I
+ENS	eat
+REL	at
+DIS	a
+CON	lot
+NIL	.

@@ -1,0 +1,13 @@
+QUC	Three
+CON	months
+REL	before
+PER	Tom
+PST	was
+NIL	to
+EXS	graduate
+REL	from
+CON	college
+NIL	,
+PRO	he
+EPS	died
+NIL	.

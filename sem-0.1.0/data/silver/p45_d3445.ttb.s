@@ -1,0 +1,10 @@
+DIS	Some
+CON	salt
+ENS	comes
+REL	from
+HAS	mines
+EQU	,
+DIS	some
+REL	from
+CON	water
+NIL	.

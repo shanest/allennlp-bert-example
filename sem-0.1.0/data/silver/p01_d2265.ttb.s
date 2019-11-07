@@ -1,0 +1,10 @@
+PRO	I
+ENS	have
+QUC	three
+CON	times
+AND	as
+QUV	many
+CON	books
+AND	as
+PRO	him
+NIL	.

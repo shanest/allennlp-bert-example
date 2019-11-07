@@ -1,0 +1,10 @@
+DEF	The
+CON	baby
+NOW	is
+EXS	crying
+SUB	because
+PRO	it
+NOW	is
+EXS	hungry
+NOW	now
+NIL	.

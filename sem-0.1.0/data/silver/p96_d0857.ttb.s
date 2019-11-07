@@ -1,0 +1,11 @@
+DEF	The
+CON	sun
+NOW	has
+PFT	been
+EXS	shining
+AND	over
+HAS	our
+CON	country
+REL	for
+CON	ages
+NIL	.

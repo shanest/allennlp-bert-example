@@ -1,0 +1,9 @@
+PRO	They
+PST	had
+DIS	a
+IST	high
+CON	opinion
+AND	of
+ROL	Dr.
+PER	Schweitzer
+NIL	.

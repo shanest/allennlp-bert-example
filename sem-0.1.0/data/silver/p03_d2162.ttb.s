@@ -1,0 +1,10 @@
+PRO	I
+EPS	spoke
+SUB	to
+PRO	him
+REL	about
+PRO	it
+REL	on
+DEF	the
+CON	telephone
+NIL	.

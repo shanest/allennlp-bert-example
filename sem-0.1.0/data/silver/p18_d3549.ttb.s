@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	fly
+REL	to
+DEF	the
+CON	moon
+NIL	.

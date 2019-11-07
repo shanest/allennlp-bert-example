@@ -1,0 +1,10 @@
+IMP	If
+XCL	only
+PRO	I
+PST	had
+EXS	left
+CON	home
+QUC	five
+UOM	minutes
+AND	earlier
+NIL	.

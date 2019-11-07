@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+IST	hard
+SUB	to
+EXS	steal
+REL	from
+DIS	a
+CON	thief
+NIL	.

@@ -1,0 +1,10 @@
+PRO	She
+AND	always
+ENS	wears
+CON	clothes
+AND	which
+NOW	are
+IST	out
+AND	of
+CON	fashion
+NIL	.

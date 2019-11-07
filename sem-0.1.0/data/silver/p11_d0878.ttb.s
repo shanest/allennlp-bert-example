@@ -1,0 +1,12 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+PRO	she
+NOW	has
+NOT	not
+ALT	yet
+EXS	married
+NIL	.

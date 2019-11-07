@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+IST	usually
+ENS	goes
+REL	to
+HAS	his
+CON	office
+REL	by
+CON	bus
+NIL	.

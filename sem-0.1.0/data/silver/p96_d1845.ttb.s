@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+AND	which
+CON	child
+NOW	is
+HAS	yours
+NIL	.

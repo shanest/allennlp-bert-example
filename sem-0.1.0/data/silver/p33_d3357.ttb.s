@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+EXS	decided
+SUB	to
+EXS	make
+DIS	something
+REL	for
+PRO	us
+SUB	to
+EXS	eat
+NIL	.

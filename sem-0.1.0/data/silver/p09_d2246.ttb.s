@@ -1,0 +1,11 @@
+HAS	My
+CON	girl
+CON	friend
+NEC	ought
+SUB	to
+EXS	be
+PRX	here
+REL	by
+PRX	this
+CON	time
+NIL	.

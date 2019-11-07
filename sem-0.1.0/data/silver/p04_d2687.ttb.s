@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+EXG	waving
+REL	at
+PRO	her
+NIL	,
+BUT	but
+PRO	she
+NOW	's
+NOT	not
+EXG	looking
+NIL	.

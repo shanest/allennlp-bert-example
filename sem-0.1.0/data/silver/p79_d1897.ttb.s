@@ -1,0 +1,13 @@
+PRO	I
+NOW	remember
+INT	very
+IST	clearly
+SUB	that
+PRO	he
+EPS	threw
+QUC	two
+CON	pistols
+REL	into
+DEF	the
+CON	river
+NIL	.

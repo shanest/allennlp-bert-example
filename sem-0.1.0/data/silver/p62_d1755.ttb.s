@@ -1,0 +1,14 @@
+DEF	The
+IST	last
+CON	time
+PRO	you
+EPS	saw
+PRO	her
+NIL	,
+PRO	she
+PST	was
+AND	just
+DIS	a
+IST	tiny
+CON	baby
+NIL	.

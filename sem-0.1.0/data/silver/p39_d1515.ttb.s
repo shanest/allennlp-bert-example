@@ -1,0 +1,9 @@
+PRO	I
+EPS	found
+PRO	it
+UNK	difficult
+SUB	to
+EXS	read
+DEF	the
+CON	book
+NIL	.

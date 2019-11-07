@@ -1,0 +1,10 @@
+DEF	The
+CON	police
+NOW	are
+EXG	checking
+IST	up
+REL	on
+DEF	the
+CON	bomb
+CON	threats
+NIL	.

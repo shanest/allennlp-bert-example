@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	so
+EXS	proud
+SUB	to
+EXS	know
+SUB	that
+PRO	she
+HAS	's
+HAS	mine
+NIL	.

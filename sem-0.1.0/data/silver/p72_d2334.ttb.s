@@ -1,0 +1,12 @@
+PRO	You
+POS	can
+NOT	not
+EXS	count
+REL	on
+PRO	her
+SUB	because
+PRO	she
+NOW	's
+INT	too
+EXS	irresponsible
+NIL	.

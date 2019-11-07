@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	we
+NOW	're
+EXS	going
+SUB	to
+EXS	need
+IST	more
+CON	time
+NIL	.

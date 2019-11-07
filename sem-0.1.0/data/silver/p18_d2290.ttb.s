@@ -1,0 +1,10 @@
+AND	Each
+EXS	passing
+CON	car
+EPS	threw
+IST	up
+DIS	a
+CON	cloud
+AND	of
+CON	dust
+NIL	.

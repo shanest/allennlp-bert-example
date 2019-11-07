@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+PER	Mary
+IMP	if
+PRO	she
+PST	had
+PFT	been
+REL	to
+GPE	Boston
+NIL	.

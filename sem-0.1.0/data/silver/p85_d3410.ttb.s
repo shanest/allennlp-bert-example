@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXS	sitting
+REL	on
+DIS	a
+CON	bench
+AND	near
+DEF	the
+CON	pond
+NIL	.

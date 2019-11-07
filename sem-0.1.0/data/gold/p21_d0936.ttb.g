@@ -1,0 +1,9 @@
+PRO	I
+ENS	’m
+REL	on
+DIS	a
+CON	diet
+REL	at
+DEF	the
+NOW	moment
+NIL	.

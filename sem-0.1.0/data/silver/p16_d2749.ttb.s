@@ -1,0 +1,10 @@
+CON	Yup
+NIL	!
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	give
+IST	up
+CON	cigarettes
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+NOW	've
+PFT	been
+IST	properly
+EXS	led
+IST	up
+DEF	the
+CON	garden
+CON	path
+NIL	.

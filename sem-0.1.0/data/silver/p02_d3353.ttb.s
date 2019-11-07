@@ -1,0 +1,10 @@
+CON	Man
+NOW	is
+DEF	the
+ROL	hunter
+NIL	,
+CON	woman
+NOW	is
+HAS	his
+CON	game
+NIL	.

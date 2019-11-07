@@ -1,0 +1,17 @@
+DEF	The
+CON	doctor
+EPS	told
+PER	Tom
+SUB	to
+EXS	stay
+REL	in
+CON	bed
+AND	and
+EXS	get
+AND	as
+QUV	much
+CON	rest
+AND	as
+PRO	he
+POS	could
+NIL	.

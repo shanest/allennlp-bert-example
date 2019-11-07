@@ -1,0 +1,13 @@
+NOW	Do
+NOT	n't
+PRO	you
+NOW	think
+PRO	it
+NOW	's
+IST	strange
+SUB	that
+PRO	he
+NOW	's
+NOT	not
+PRX	here
+QUE	?

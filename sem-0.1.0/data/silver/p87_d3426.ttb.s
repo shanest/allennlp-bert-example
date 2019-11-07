@@ -1,0 +1,15 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	going
+REL	to
+DST	that
+CON	beach
+AND	every
+CON	summer
+SUB	since
+PRO	he
+PST	was
+INT	very
+EXS	young
+NIL	.

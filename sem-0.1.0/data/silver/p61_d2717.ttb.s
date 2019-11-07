@@ -1,0 +1,16 @@
+PER	Tom
+PST	was
+REL	on
+DIS	a
+CON	diet
+NIL	,
+AND	so
+AND	all
+PRO	he
+EPS	ate
+REL	for
+CON	dessert
+PST	was
+QUC	one
+CON	strawberry
+NIL	.

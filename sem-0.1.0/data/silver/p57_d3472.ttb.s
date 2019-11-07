@@ -1,0 +1,9 @@
+PER	Tom
+ENS	wants
+SUB	to
+EXS	talk
+REL	to
+AND	all
+AND	of
+PRO	us
+NIL	.

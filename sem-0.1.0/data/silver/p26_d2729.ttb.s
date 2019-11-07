@@ -1,0 +1,13 @@
+PRO	I
+EPS	liked
+HAS	your
+CON	hair
+COM	better
+SUB	when
+PRO	you
+EPS	parted
+PRO	it
+REL	on
+DEF	the
+CON	right
+NIL	.

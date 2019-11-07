@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+IST	only
+PFT	been
+EXS	married
+QUC	three
+CON	weeks
+NIL	.

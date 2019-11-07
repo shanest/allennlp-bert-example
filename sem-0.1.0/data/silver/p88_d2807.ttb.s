@@ -1,0 +1,12 @@
+DEF	The
+CON	goods
+EPS	ordered
+REL	from
+GPE	England
+IST	last
+CON	month
+NOW	have
+NOT	not
+EXS	arrived
+ALT	yet
+NIL	.

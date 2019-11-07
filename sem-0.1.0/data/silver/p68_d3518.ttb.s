@@ -1,0 +1,10 @@
+PRO	She
+EPS	completed
+DEF	the
+CON	trip
+REL	in
+LES	less
+MOR	than
+QUC	20
+UOM	hours
+NIL	.

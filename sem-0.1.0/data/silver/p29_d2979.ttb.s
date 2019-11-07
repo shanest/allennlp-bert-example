@@ -1,0 +1,9 @@
+PRX	Here
+NOW	's
+DIS	a
+CON	restaurant
+PRO	I
+IST	often
+EXS	eat
+REL	at
+NIL	.

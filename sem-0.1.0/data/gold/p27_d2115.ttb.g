@@ -1,0 +1,10 @@
+DEF	The
+ROL	prisoner
+EPS	dug
+DIS	a
+CON	hole
+REL	under
+DEF	the
+CON	prison
+CON	wall
+NIL	.

@@ -1,0 +1,10 @@
+AND	Seeing
+HAS	her
+ROL	mother
+NIL	,
+DEF	the
+CON	girl
+EPS	burst
+REL	into
+CON	tears
+NIL	.

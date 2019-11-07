@@ -1,0 +1,13 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+NOT	no
+CON	one
+NOW	has
+IST	ever
+EXS	done
+PRO	it
+NIL	.

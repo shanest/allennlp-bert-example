@@ -1,0 +1,11 @@
+AND	And
+PRO	I
+ENS	testify
+SUB	that
+PRX	this
+NOW	is
+DEF	the
+CON	Son
+AND	of
+GEO	God
+NIL	.

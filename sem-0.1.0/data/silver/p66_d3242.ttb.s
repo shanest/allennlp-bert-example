@@ -1,0 +1,9 @@
+DEF	The
+CON	couple
+EPS	put
+HAS	their
+CON	house
+REL	on
+DEF	the
+CON	market
+NIL	.

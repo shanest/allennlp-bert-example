@@ -1,0 +1,11 @@
+DEF	The
+CON	bell
+EPS	rang
+NIL	,
+COO	and
+DEF	the
+CON	train
+EPS	began
+NIL	to
+EXS	move
+NIL	.

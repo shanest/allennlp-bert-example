@@ -1,0 +1,16 @@
+DEF	The
+CON	leader
+AND	of
+HAS	our
+CON	party
+EPS	met
+REL	with
+DEF	the
+ALT	other
+CON	leaders
+COO	and
+EPS	talked
+AND	about
+DEF	the
+CON	problem
+NIL	.

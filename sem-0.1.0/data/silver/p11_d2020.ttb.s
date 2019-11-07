@@ -1,0 +1,10 @@
+PRO	He
+PST	was
+IST	easily
+EXS	deceived
+COO	and
+EPS	gave
+PRO	her
+DIS	some
+CON	money
+NIL	.

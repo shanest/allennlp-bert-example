@@ -1,0 +1,10 @@
+CON	Really
+QUE	?
+NIL	!
+CON	Man
+NIL	,
+PRO	you
+NOW	're
+EXS	kidding
+CON	right
+QUE	?

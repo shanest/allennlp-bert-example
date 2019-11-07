@@ -1,0 +1,11 @@
+NOW	Now
+EXS	remember
+NIL	,
+PRO	you
+NEC	must
+NOT	not
+EXS	smoke
+REL	in
+HAS	her
+CON	car
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NEC	shall
+NOT	never
+EXS	follow
+NOW	links
+EXS	posted
+REL	by
+NIL	Muiriel
+ALT	again
+NIL	.

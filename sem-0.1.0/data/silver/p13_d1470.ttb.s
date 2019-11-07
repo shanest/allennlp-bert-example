@@ -1,0 +1,9 @@
+NOW	Have
+NOT	n't
+PRO	you
+PST	thought
+AND	of
+EXG	consulting
+DIS	a
+CON	psychologist
+QUE	?

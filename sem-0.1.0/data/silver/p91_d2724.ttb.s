@@ -1,0 +1,10 @@
+HAS	My
+CON	wife
+EPS	showed
+IST	excellent
+CON	taste
+REL	in
+EXS	decorating
+DEF	the
+CON	room
+NIL	.

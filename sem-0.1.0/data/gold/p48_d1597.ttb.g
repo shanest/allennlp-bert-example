@@ -1,0 +1,9 @@
+PRO	He
+EPS	drove
+REL	in
+DIS	a
+CON	nail
+REL	with
+HAS	his
+CON	hammer
+NIL	.

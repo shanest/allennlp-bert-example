@@ -1,0 +1,9 @@
+PER	Tom
+EPS	picked
+DEF	the
+CON	lock
+COO	and
+EPS	entered
+DEF	the
+CON	room
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+PFT	been
+EXG	reading
+PRX	this
+REL	for
+DIS	a
+IST	few
+CON	hours
+NIL	.

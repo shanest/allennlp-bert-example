@@ -1,0 +1,9 @@
+NOT	No
+CON	one
+POS	could
+EXS	solve
+DEF	the
+CON	problem
+REL	after
+AND	all
+NIL	.

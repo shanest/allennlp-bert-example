@@ -1,0 +1,16 @@
+ORG	Police
+NOW	have
+EXS	advised
+SUB	that
+DEF	the
+CON	man
+AND	who
+EPS	stole
+DEF	the
+CON	bike
+EPS	spoke
+REL	with
+DIS	a
+IST	strong
+CON	accent
+NIL	.

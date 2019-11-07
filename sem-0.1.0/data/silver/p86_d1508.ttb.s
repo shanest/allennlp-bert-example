@@ -1,0 +1,11 @@
+DEF	The
+CON	ships
+EPS	left
+DEF	the
+CON	port
+NOT	never
+SUB	to
+EXS	be
+EXS	seen
+ALT	again
+NIL	.

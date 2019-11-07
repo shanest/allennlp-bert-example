@@ -1,0 +1,10 @@
+PER	Tom
+EPS	said
+PRO	you
+PST	'd
+EXS	be
+IST	able
+SUB	to
+EXS	help
+PRO	me
+NIL	.

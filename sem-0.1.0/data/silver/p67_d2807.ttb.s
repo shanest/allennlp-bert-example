@@ -1,0 +1,16 @@
+PRX	This
+CON	problem
+ENS	seems
+SUB	to
+EXS	be
+EXS	easy
+REL	on
+DEF	the
+CON	surface
+NIL	,
+COO	but
+PRO	it
+NOW	's
+IST	really
+EXS	difficult
+NIL	.

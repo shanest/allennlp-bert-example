@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	looking
+IST	forward
+SUB	to
+EXS	watching
+DEF	the
+CON	movie
+REL	with
+PRO	her
+NIL	.

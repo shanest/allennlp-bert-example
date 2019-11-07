@@ -1,0 +1,9 @@
+PRO	She
+NOW	has
+EXT	kept
+DIS	a
+CON	diary
+REL	for
+QUC	3
+UOM	years
+NIL	.

@@ -1,0 +1,9 @@
+GPE	China
+NOW	is
+EXS	called
+NIL	"
+GEO	Zhongguo
+NIL	"
+REL	in
+GPO	Chinese
+NIL	.

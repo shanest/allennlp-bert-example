@@ -1,0 +1,10 @@
+AND	Any
+CON	chance
+AND	of
+DEF	the
+CON	parcel
+EXS	getting
+IST	there
+REL	by
+DOW	Saturday
+QUE	?

@@ -1,0 +1,9 @@
+PRO	It
+ENS	looks
+AND	like
+CON	winter
+NOW	is
+PRX	here
+SUB	to
+EXS	stay
+NIL	.

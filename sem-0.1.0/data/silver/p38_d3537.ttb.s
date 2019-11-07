@@ -1,0 +1,10 @@
+IST	Due
+REL	to
+DEF	the
+CON	storm
+NIL	,
+PRO	he
+PST	did
+NOT	n't
+EXS	arrive
+NIL	.

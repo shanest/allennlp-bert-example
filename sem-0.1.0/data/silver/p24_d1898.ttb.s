@@ -1,0 +1,14 @@
+PER	Tom
+EPS	took
+DIS	a
+CON	picture
+AND	of
+DIS	a
+CON	squirrel
+SUB	while
+PRO	it
+PST	was
+EXG	eating
+DIS	a
+CON	nut
+NIL	.

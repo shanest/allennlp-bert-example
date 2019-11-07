@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+NOW	is
+NOT	not
+DIS	a
+CON	teacher
+AND	but
+DIS	a
+CON	doctor
+NIL	.

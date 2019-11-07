@@ -1,0 +1,12 @@
+PRO	I
+EPS	asked
+DEF	the
+CON	student
+QUE	what
+CON	image
+PRO	he
+EPS	had
+AND	of
+COL	black
+CON	people
+NIL	.

@@ -1,0 +1,10 @@
+PRO	She
+EPS	devoted
+HAS	her
+CON	time
+REL	to
+DEF	the
+CON	study
+AND	of
+CON	music
+NIL	.

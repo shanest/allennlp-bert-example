@@ -1,0 +1,11 @@
+GRE	Okay
+EQU	,
+PER	Tom
+NIL	,
+PRO	you
+POS	can
+EXS	open
+HAS	your
+CON	eyes
+NOW	now
+NIL	!

@@ -1,0 +1,13 @@
+PER	Tom
+ENS	wishes
+PER	Mary
+FUT	would
+EXS	pay
+IST	more
+CON	attention
+REL	to
+PRO	him
+SUB	when
+PRO	he
+ENS	talks
+NIL	.

@@ -1,0 +1,10 @@
+EXS	Open
+DIS	a
+CON	book
+COO	and
+PRO	it
+FUT	will
+EXS	open
+HAS	your
+CON	soul
+NIL	.

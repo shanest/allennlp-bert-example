@@ -1,0 +1,10 @@
+EXS	Let
+PRO	's
+EXS	take
+DIS	a
+IST	little
+CON	rest
+REL	under
+DEF	the
+CON	tree
+NIL	.

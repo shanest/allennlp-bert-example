@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+PER	Tom
+ENS	wants
+PRO	us
+SUB	to
+EXS	go
+EXS	swimming
+REL	with
+PRO	him
+NIL	.

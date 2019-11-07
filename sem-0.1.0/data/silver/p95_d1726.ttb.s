@@ -1,0 +1,12 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	spend
+AND	any
+IST	more
+CON	time
+REL	with
+PER	Mary
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+EPS	took
+DIS	a
+CON	taxi
+SUB	to
+EXS	get
+IST	there
+REL	in
+CON	time
+NIL	.

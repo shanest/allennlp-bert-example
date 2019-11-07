@@ -1,0 +1,9 @@
+HAS	My
+CON	name
+NOW	is
+PER	Mary
+AND	and
+PRX	this
+NOW	is
+PER	Tom
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+IST	almost
+EPS	dropped
+HAS	my
+CON	cellphone
+REL	into
+DEF	the
+CON	pool
+NIL	.

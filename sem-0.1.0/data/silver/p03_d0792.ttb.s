@@ -1,0 +1,10 @@
+DEF	The
+CON	fault
+NOW	is
+REL	on
+DEF	the
+CON	part
+AND	of
+HAS	my
+ROL	father
+NIL	.

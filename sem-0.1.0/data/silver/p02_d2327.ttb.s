@@ -1,0 +1,10 @@
+PRO	We
+NOW	've
+EXS	waited
+DIS	a
+IST	long
+CON	time
+REL	for
+PRX	this
+CON	day
+NIL	.

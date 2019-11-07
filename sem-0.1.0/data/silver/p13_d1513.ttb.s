@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	foolish
+AND	of
+PRO	him
+SUB	to
+EXS	pay
+REL	for
+PRO	it
+ALT	again
+NIL	.

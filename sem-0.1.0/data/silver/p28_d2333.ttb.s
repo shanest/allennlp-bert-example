@@ -1,0 +1,9 @@
+PRO	They
+NOW	are
+EXS	looking
+REL	for
+CON	chairs
+SUB	to
+EXS	sit
+REL	on
+NIL	.

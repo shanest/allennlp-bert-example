@@ -1,0 +1,12 @@
+DEF	The
+ALT	other
+CON	day
+PRO	I
+EPS	discovered
+DIS	a
+CON	book
+EXS	written
+REL	by
+HAS	my
+ROL	father
+NIL	.

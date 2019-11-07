@@ -1,0 +1,9 @@
+PER	Mary
+EPS	left
+AND	about
+DIS	an
+CON	hour
+PST	ago
+REL	with
+PER	Tom
+NIL	.

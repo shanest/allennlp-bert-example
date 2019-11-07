@@ -1,0 +1,9 @@
+PRO	We
+NOW	're
+EXS	thinking
+AND	of
+EXS	moving
+IST	back
+REL	to
+GPE	Boston
+NIL	.

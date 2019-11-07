@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+NOT	no
+CON	idea
+QUE	what
+PER	John
+ENS	intends
+SUB	to
+EXS	do
+NIL	.

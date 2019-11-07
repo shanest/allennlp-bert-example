@@ -1,0 +1,10 @@
+PER	Osamu
+PER	Dazai
+EPS	killed
+REF	himself
+REL	at
+DEF	the
+CON	age
+AND	of
+PRO	thirty-nine
+NIL	.

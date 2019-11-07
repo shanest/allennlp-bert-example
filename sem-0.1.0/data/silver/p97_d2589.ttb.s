@@ -1,0 +1,12 @@
+XCL	Only
+REL	in
+AND	every
+IST	third
+GPO	German
+CON	household
+CON	meals
+NOW	are
+EXS	cooked
+IST	daily
+ALT	yet
+NIL	.

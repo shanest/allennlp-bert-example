@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	no
+CON	idea
+QUE	what
+PER	Tom
+PST	was
+EXS	looking
+REL	for
+NIL	.

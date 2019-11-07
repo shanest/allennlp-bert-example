@@ -1,0 +1,10 @@
+PRO	I
+NOW	wonder
+IMP	if
+PER	Tom
+ENS	realizes
+QUE	how
+IST	lonely
+PRO	I
+NOW	am
+NIL	.

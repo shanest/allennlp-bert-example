@@ -1,0 +1,16 @@
+NOW	Today
+NOW	is
+DOW	Friday
+NIL	,
+PST	yesterday
+PST	was
+DOW	Thursday
+NIL	,
+FUT	tomorrow
+NOW	is
+DOW	Saturday
+AND	and
+AND	then
+ENS	comes
+DOW	Sunday
+NIL	.

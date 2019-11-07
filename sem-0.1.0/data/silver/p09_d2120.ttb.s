@@ -1,0 +1,11 @@
+PER	Tom
+PST	had
+QUV	several
+CON	photos
+AND	of
+PER	Mary
+EXS	hanging
+REL	on
+HAS	his
+CON	wall
+NIL	.

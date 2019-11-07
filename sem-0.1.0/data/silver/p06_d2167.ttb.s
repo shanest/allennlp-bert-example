@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PER	Tom
+NOW	is
+XCL	only
+EXS	pretending
+SUB	to
+EXS	be
+EXS	asleep
+NIL	.

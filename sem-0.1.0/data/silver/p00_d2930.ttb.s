@@ -1,0 +1,12 @@
+AND	Of
+HAS	your
+QUC	two
+CON	suggestions
+NIL	,
+PRO	I
+ENS	think
+PRO	I
+EXS	prefer
+DEF	the
+PST	former
+NIL	.

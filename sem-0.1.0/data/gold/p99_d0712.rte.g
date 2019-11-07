@@ -1,0 +1,9 @@
+DIS	A
+CON	tsunami
+EPS	hit
+DEF	the
+IST	north-eastern
+CON	coast
+REL	of
+GPE	Hokkaido
+NIL	.

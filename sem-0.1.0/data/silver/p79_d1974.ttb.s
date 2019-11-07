@@ -1,0 +1,13 @@
+PRO	I
+POS	can
+NOT	not
+EXS	switch
+DEF	the
+CON	lamp
+REL	on
+NIL	.
+DEF	The
+CON	baby
+NOW	is
+EXG	sleeping
+NIL	.

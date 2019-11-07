@@ -1,0 +1,15 @@
+HAS	My
+CON	heart
+NOW	is
+CON	pounding
+AND	so
+IST	hard
+PRO	it
+NOW	feels
+AND	like
+PRO	it
+NOW	's
+EXS	going
+SUB	to
+CON	explode
+NIL	.

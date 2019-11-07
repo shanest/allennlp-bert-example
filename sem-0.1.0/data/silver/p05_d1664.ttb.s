@@ -1,0 +1,15 @@
+HAS	Our
+CON	vacation
+PST	was
+INT	so
+QUV	much
+CON	fun
+SUB	that
+PRO	we
+EPS	decided
+SUB	to
+EXS	stay
+DIS	an
+IST	extra
+CON	week
+NIL	.

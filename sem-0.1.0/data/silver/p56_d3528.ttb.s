@@ -1,0 +1,13 @@
+DEF	The
+CON	airplane
+EPS	took
+IST	off
+AND	as
+IST	soon
+SUB	as
+PRO	I
+EPS	arrived
+REL	at
+DEF	the
+CON	airport
+NIL	.

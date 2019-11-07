@@ -1,0 +1,9 @@
+PRO	I
+NEC	have
+SUB	to
+EXS	admit
+SUB	that
+PRO	you
+NOW	're
+EXS	right
+NIL	.

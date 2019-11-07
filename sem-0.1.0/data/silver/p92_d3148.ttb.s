@@ -1,0 +1,13 @@
+IMP	If
+DIS	something
+ENS	happens
+NIL	,
+PRO	it
+HAS	's
+PER	Tom
+HAS	's
+CON	fault
+NIL	,
+NOT	not
+HAS	mine
+NIL	.

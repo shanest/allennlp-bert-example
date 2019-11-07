@@ -1,0 +1,9 @@
+PRO	We
+NOW	have
+PFT	been
+EXS	studying
+GPO	French
+REL	for
+QUC	three
+CON	years
+NIL	.

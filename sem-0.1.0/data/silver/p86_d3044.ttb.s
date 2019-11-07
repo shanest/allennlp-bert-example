@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+DEF	the
+IST	little
+CON	brother
+PRO	I
+NOT	never
+PST	had
+NIL	.

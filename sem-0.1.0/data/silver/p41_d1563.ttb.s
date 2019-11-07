@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	obvious
+QUE	what
+PRO	he
+NOW	's
+EXS	trying
+SUB	to
+EXS	do
+NIL	.

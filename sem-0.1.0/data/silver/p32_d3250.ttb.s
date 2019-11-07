@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+PRO	I
+NOW	have
+DIS	a
+CON	lot
+SUB	to
+EXS	learn
+NIL	.

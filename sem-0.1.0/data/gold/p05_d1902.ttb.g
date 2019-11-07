@@ -1,0 +1,10 @@
+IMP	If
+DEF	the
+CON	car
+ENS	breaks
+REL	down
+NIL	,
+PRO	we
+FUT	'll
+EXS	walk
+NIL	.

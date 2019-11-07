@@ -1,0 +1,11 @@
+PRO	We
+NOW	are
+SUB	to
+EXS	meet
+ALT	again
+REL	at
+DEF	the
+CON	park
+FUT	tomorrow
+CON	afternoon
+NIL	.

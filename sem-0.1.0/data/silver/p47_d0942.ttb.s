@@ -1,0 +1,11 @@
+PRO	I
+EPS	got
+SUB	so
+EXS	mad
+PRO	I
+PST	was
+NOT	n't
+IST	able
+SUB	to
+EXS	speak
+NIL	.

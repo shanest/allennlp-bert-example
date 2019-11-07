@@ -1,0 +1,10 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	it
+PST	was
+EXS	wrong
+SUB	to
+EXS	lie
+NIL	.

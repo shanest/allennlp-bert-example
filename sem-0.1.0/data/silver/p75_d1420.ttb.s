@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	seeking
+DIS	an
+CON	answer
+REL	to
+HAS	your
+CON	question
+NIL	.

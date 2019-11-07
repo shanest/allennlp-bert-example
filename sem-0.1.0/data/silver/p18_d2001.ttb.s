@@ -1,0 +1,13 @@
+PER	Tom
+IST	hardly
+IST	ever
+NOW	lifts
+DIS	a
+CON	finger
+SUB	to
+EXS	help
+PER	Mary
+REL	in
+DEF	the
+CON	house
+NIL	.

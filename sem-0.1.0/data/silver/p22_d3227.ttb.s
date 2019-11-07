@@ -1,0 +1,9 @@
+AND	All
+HAS	my
+CON	pains
+NOW	are
+NOT	nothing
+AND	compared
+REL	to
+HAS	yours
+NIL	.

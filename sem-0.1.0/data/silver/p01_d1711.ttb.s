@@ -1,0 +1,9 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+HAS	their
+CON	relationship
+PST	was
+IST	over
+NIL	.

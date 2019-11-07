@@ -1,0 +1,13 @@
+IST	Please
+EXS	let
+PRO	me
+EXS	know
+IMP	if
+PRO	you
+NOW	find
+AND	any
+CON	typos
+DIS	or
+IST	missing
+CON	words
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+EXS	said
+SUB	to
+IST	still
+EXS	be
+REL	in
+GEO	Paris
+NIL	.

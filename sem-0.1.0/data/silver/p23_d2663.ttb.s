@@ -1,0 +1,9 @@
+NOT	Nobody
+ENS	knows
+QUE	why
+PRO	he
+NOW	turns
+IST	down
+HAS	my
+CON	help
+NIL	.

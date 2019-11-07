@@ -1,0 +1,11 @@
+DEF	The
+IST	crescent
+CON	moon
+AND	and
+CON	star
+NOW	is
+DIS	a
+CON	symbol
+REL	of
+CON	Islam
+NIL	.

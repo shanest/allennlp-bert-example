@@ -1,0 +1,10 @@
+PRO	She
+PST	was
+XCL	only
+QUC	18
+SUB	when
+PRO	she
+EPS	graduated
+REL	from
+CON	university
+NIL	.

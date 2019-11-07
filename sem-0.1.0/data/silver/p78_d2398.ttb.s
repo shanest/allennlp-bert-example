@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+IST	sure
+PRO	they
+NOW	're
+EXS	talking
+AND	about
+PRO	us
+NIL	.

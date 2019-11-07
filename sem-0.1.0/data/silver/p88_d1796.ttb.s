@@ -1,0 +1,10 @@
+NOT	Either
+EXS	turn
+IST	down
+DST	that
+CON	noise
+DIS	or
+EXS	turn
+PRO	it
+IST	off
+NIL	.

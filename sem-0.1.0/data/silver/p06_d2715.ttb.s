@@ -1,0 +1,12 @@
+IST	Please
+EXS	get
+REL	in
+CON	touch
+REL	with
+PRO	me
+SUB	when
+PRO	you
+ENS	come
+REL	to
+GPE	Tokyo
+NIL	.

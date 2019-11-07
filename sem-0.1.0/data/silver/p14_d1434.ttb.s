@@ -1,0 +1,10 @@
+DEF	The
+IST	poor
+IST	young
+CON	man
+IST	finally
+EPS	became
+DIS	a
+IST	great
+ROL	artist
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+ENS	wants
+PRO	you
+NIL	to
+EXS	take
+PRO	us
+REL	to
+CON	school
+NIL	.

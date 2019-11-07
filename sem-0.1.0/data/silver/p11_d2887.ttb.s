@@ -1,0 +1,13 @@
+SUB	Before
+EXS	going
+REL	to
+GPE	France
+EQU	,
+HAS	my
+CON	son
+NOW	is
+EXS	going
+SUB	to
+EXS	study
+GPO	French
+NIL	.

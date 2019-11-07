@@ -1,0 +1,9 @@
+QUE	How
+NOW	do
+PRO	you
+AND	like
+DEF	the
+CON	climate
+AND	of
+GPE	Japan
+QUE	?

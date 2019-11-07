@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXG	arriving
+IST	soon
+NIL	.
+PRO	You
+NEC	should
+EXS	get
+EXS	ready
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+ENS	think
+PRX	this
+CON	dictionary
+FUT	will
+EXS	be
+AND	of
+IST	great
+EXS	help
+REL	to
+PRO	me
+NIL	.

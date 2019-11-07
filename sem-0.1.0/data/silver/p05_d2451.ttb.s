@@ -1,0 +1,10 @@
+QUE	What
+CON	kind
+AND	of
+CON	music
+NOW	do
+PRO	you
+IST	usually
+ENS	listen
+REL	to
+QUE	?

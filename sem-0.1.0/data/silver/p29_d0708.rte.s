@@ -1,0 +1,16 @@
+GPO	French
+NOW	is
+ALT	also
+IST	widely
+EXS	spoken
+REL	in
+GPE	Canada
+SUB	where
+PRO	it
+NOW	is
+DEF	the
+IST	co-official
+CON	language
+REL	with
+GPO	English
+NIL	.

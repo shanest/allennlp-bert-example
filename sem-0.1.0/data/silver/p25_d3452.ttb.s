@@ -1,0 +1,14 @@
+DEF	The
+CON	dinner
+PST	was
+EXS	superior
+REL	in
+CON	quality
+REL	to
+DEF	the
+QUC	one
+PRO	he
+EPS	ate
+PRX	this
+CON	evening
+NIL	.

@@ -1,0 +1,9 @@
+PRX	This
+CON	town
+EPS	gave
+CON	birth
+REL	to
+QUV	several
+IST	great
+CON	men
+NIL	.

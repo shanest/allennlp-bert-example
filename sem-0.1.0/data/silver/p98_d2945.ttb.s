@@ -1,0 +1,10 @@
+PER	Tom
+EPS	picked
+IST	up
+DEF	the
+CON	saltshaker
+AND	and
+IST	salted
+HAS	his
+CON	eggs
+NIL	.

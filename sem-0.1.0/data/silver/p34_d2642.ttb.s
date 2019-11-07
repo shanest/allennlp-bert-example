@@ -1,0 +1,13 @@
+REL	At
+PRX	this
+CON	point
+NIL	,
+PRO	I
+NOW	'm
+IST	unable
+SUB	to
+EXS	comment
+REL	on
+DST	that
+CON	problem
+NIL	.

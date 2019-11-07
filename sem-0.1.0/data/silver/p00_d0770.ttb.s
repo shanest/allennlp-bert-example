@@ -1,0 +1,12 @@
+IMP	If
+PRO	I
+EPS	gave
+NOT	no
+CON	answer
+NIL	,
+PRO	I
+FUT	would
+NOT	not
+EXT	have
+EXT	spoken
+NIL	.

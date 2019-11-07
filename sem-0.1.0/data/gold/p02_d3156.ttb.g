@@ -1,0 +1,12 @@
+PRO	I
+FUT	will
+EXS	call
+PRO	you
+REL	up
+NIL	,
+IMP	provided
+SUB	that
+PRO	I
+ENS	have
+CON	time
+NIL	.

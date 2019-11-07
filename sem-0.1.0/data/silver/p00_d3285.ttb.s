@@ -1,0 +1,9 @@
+DEF	The
+CON	suit
+NOW	's
+EXS	made
+AND	of
+INT	very
+IST	rough
+CON	material
+NIL	.

@@ -1,0 +1,11 @@
+PRX	This
+CON	year
+NIL	,
+HAS	my
+ORG	Grade-Point
+ORG	Average
+NOW	is
+MOR	better
+MOR	than
+HAS	yours
+NIL	!

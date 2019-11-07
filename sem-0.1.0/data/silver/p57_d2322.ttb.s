@@ -1,0 +1,9 @@
+REL	With
+AND	such
+CON	friends
+NIL	,
+UNK	one
+ENS	needs
+NOT	no
+CON	enemies
+NIL	.

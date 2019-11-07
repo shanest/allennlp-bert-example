@@ -1,0 +1,11 @@
+DIS	A
+CON	newspaper
+ENS	tells
+PRO	us
+QUE	what
+NOW	is
+EXG	happening
+REL	in
+DEF	the
+CON	world
+NIL	.

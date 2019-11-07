@@ -1,0 +1,12 @@
+NOT	Not
+XCL	only
+DEF	the
+CON	balls
+COO	;
+DEF	the
+CON	bat
+PST	was
+ALT	also
+EXS	stolen
+PST	yesterday
+NIL	.

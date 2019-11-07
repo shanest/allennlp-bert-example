@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+EXS	studying
+ART	English
+REL	for
+DEF	the
+IST	next
+CON	exam
+NIL	.

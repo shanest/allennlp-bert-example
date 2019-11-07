@@ -1,0 +1,11 @@
+REL	After
+HAS	his
+CON	accident
+NIL	,
+PRO	he
+NOW	is
+IST	happy
+SUB	to
+EXS	be
+EXS	alive
+NIL	.

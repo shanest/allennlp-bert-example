@@ -1,0 +1,9 @@
+HAS	Our
+CON	destination
+NOW	is
+IST	still
+DIS	a
+IST	long
+CON	way
+REL	off
+NIL	.

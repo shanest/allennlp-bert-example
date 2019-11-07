@@ -1,0 +1,10 @@
+PER	Tom
+EPS	told
+PRO	me
+SUB	that
+PRO	he
+ENS	likes
+PER	Mary
+DIS	a
+CON	lot
+NIL	.

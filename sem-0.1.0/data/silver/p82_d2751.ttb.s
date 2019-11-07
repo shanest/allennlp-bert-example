@@ -1,0 +1,12 @@
+DEF	The
+IST	adopted
+CON	child
+EPS	lived
+DIS	a
+IST	happy
+CON	life
+REL	with
+HAS	her
+IST	new
+CON	family
+NIL	.

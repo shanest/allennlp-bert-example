@@ -1,0 +1,9 @@
+PER	Tom
+PST	had
+DIS	a
+IST	little
+INT	too
+CON	much
+SUB	to
+EXS	drink
+NIL	.

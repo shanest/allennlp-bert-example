@@ -1,0 +1,13 @@
+PRO	I
+NEC	had
+SUB	to
+EXS	pay
+DEF	the
+CON	bill
+REL	to
+DEF	the
+CON	tune
+AND	of
+QUC	ten
+UOM	dollars
+NIL	.

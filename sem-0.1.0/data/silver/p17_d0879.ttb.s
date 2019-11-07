@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	worry
+AND	so
+QUV	much
+AND	about
+HAS	my
+CON	resume
+NIL	.

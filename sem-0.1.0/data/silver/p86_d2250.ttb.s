@@ -1,0 +1,10 @@
+PRO	I
+EPS	lost
+HAS	my
+CON	temper
+COO	and
+EPS	kicked
+DEF	the
+REL	vending
+CON	machine
+NIL	.

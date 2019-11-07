@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	looking
+REL	for
+HAS	my
+CON	keys
+NIL	.
+NOW	Have
+PRO	you
+EXS	seen
+PRO	them
+QUE	?

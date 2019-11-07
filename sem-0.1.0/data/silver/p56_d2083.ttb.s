@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+DEF	the
+CON	disease
+NOW	has
+PFT	been
+EXS	spreading
+NIL	.

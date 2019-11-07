@@ -1,0 +1,13 @@
+SUB	Although
+PRO	he
+PST	was
+EXS	born
+REL	in
+GPE	England
+NIL	,
+PRO	he
+ENS	speaks
+GPO	English
+IST	very
+IST	badly
+NIL	.

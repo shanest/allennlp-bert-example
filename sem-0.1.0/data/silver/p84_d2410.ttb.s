@@ -1,0 +1,11 @@
+DEF	The
+IST	first
+CON	time
+PRO	I
+EPS	met
+PER	Betty
+NIL	,
+PRO	I
+PST	was
+IST	nervous
+NIL	.

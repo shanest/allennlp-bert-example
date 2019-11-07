@@ -1,0 +1,14 @@
+PER	Tom
+IST	really
+ENS	loves
+EXS	playing
+DEF	the
+CON	guitar
+NIL	,
+BUT	but
+PRO	he
+NOW	does
+NOT	n't
+EXS	like
+EXS	singing
+NIL	.

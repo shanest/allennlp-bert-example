@@ -1,0 +1,9 @@
+PRO	You
+NEC	must
+EXT	have
+DIS	a
+CON	reason
+REL	for
+EXG	telling
+PRO	me
+NIL	.

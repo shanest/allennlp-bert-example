@@ -1,0 +1,13 @@
+REL	In
+GPE	Japan
+NIL	,
+CON	people
+IST	legally
+EXS	become
+CON	adults
+REL	at
+DEF	the
+CON	age
+AND	of
+QUC	twenty
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+ENS	knows
+DEF	the
+CON	situation
+COM	better
+MOR	than
+PRO	I
+NOW	do
+NIL	.

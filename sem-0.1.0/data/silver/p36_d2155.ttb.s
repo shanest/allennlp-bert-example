@@ -1,0 +1,16 @@
+UNK	There
+HAS	's
+DIS	something
+AND	about
+PRX	this
+CON	bookstore
+SUB	that
+IST	just
+NOW	makes
+CON	people
+ENS	want
+SUB	to
+EXS	come
+IST	back
+ALT	again
+NIL	.

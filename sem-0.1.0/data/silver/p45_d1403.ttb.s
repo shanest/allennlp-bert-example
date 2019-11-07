@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	see
+SUB	that
+CON	house
+QUE	?
+PRO	It
+HAS	's
+HAS	mine
+NIL	.

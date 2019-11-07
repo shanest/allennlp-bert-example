@@ -1,0 +1,11 @@
+PER	Tom
+PST	was
+IST	quite
+IST	inexperienced
+REL	with
+CON	girls
+REL	before
+PRO	he
+EPS	met
+PER	Mary
+NIL	.

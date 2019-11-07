@@ -1,0 +1,11 @@
+PRO	I
+EPS	took
+CON	advantage
+AND	of
+DIS	a
+CON	sale
+COO	and
+EPS	bought
+QUC	three
+CON	sweaters
+NIL	.

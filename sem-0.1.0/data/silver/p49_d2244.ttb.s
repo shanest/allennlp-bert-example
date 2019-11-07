@@ -1,0 +1,14 @@
+PRO	It
+NOW	's
+EXS	OK
+SUB	to
+EXS	eat
+DEF	the
+CON	rest
+AND	of
+DEF	the
+CON	cake
+IMP	if
+PRO	you
+ENS	want
+NIL	.

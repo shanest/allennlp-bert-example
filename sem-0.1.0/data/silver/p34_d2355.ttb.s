@@ -1,0 +1,16 @@
+PRO	I
+EPS	bought
+QUC	ten
+CON	pencils
+EQU	,
+CON	half
+AND	of
+UNK	which
+PST	were
+SUB	to
+EXS	be
+EXS	given
+REL	to
+HAS	my
+CON	brother
+NIL	.

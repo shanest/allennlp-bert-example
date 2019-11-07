@@ -1,0 +1,10 @@
+QUE	How
+QUV	many
+CON	bridges
+NOW	are
+IST	there
+REL	across
+DEF	the
+CON	River
+NTH	Thames
+QUE	?

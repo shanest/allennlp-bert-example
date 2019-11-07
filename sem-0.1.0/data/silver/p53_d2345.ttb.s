@@ -1,0 +1,13 @@
+PRO	We
+NOW	are
+EXS	planning
+SUB	to
+EXS	organise
+DIS	a
+CON	party
+REL	for
+PER	M.
+NIL	Osa
+AND	next
+CON	summer
+NIL	.

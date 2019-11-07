@@ -1,0 +1,10 @@
+PER	Tom
+ENS	seems
+SUB	to
+EXS	be
+MOR	more
+IST	nervous
+AND	than
+PRO	I
+NOW	am
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	waiting
+PRX	here
+REL	for
+PRO	him
+REL	since
+PRX	this
+CON	morning
+NIL	.

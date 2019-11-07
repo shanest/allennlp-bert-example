@@ -1,0 +1,9 @@
+HAS	My
+ROL	mother
+HAS	's
+ROL	father
+NOW	is
+HAS	my
+IST	maternal
+ROL	grandfather
+NIL	.

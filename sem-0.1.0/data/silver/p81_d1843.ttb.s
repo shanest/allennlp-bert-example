@@ -1,0 +1,10 @@
+UNK	There
+NOW	are
+DIS	a
+CON	lot
+AND	of
+IST	beautiful
+CON	places
+REL	in
+GPE	Japan
+NIL	.

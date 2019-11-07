@@ -1,0 +1,10 @@
+NOW	Is
+SUB	that
+DEF	the
+CON	picture
+PRO	you
+EPS	took
+AND	of
+PER	Tom
+PST	yesterday
+QUE	?

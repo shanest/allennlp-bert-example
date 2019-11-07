@@ -1,0 +1,11 @@
+PRO	I
+NEC	must
+EXS	work
+IST	hard
+SUB	to
+EXS	make
+IST	up
+REL	for
+EXT	lost
+CON	time
+NIL	.

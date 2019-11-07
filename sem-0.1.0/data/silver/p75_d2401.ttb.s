@@ -1,0 +1,10 @@
+AND	Sometimes
+PRO	it
+NOW	's
+IST	hard
+SUB	to
+EXS	persuade
+CON	children
+SUB	to
+EXS	eat
+NIL	.

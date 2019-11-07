@@ -1,0 +1,16 @@
+SUB	When
+PRO	I
+PST	was
+EXS	small
+NIL	,
+HAS	my
+ROL	father
+EPS	used
+SUB	to
+EXS	throw
+PRO	me
+IST	up
+REL	in
+DEF	the
+CON	air
+NIL	.

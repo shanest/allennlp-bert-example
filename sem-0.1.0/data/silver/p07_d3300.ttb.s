@@ -1,0 +1,9 @@
+PRO	He
+PST	was
+EXG	playing
+CON	football
+REL	with
+DIS	an
+IST	empty
+CON	can
+NIL	.

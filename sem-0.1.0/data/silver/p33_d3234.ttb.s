@@ -1,0 +1,16 @@
+PRO	I
+IST	never
+EPS	suggested
+DIS	or
+IST	even
+EPS	hinted
+SUB	that
+PRO	it
+PST	was
+PER	Tom
+AND	who
+EPS	stole
+PER	Mary
+HAS	's
+CON	necklace
+NIL	.

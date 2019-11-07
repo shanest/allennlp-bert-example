@@ -1,0 +1,13 @@
+PER	Tom
+EPS	parked
+SUB	as
+EXS	close
+REL	to
+PER	Mary
+HAS	's
+CON	apartment
+CON	building
+SUB	as
+PRO	he
+POS	could
+NIL	.

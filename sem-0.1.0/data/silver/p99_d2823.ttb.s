@@ -1,0 +1,15 @@
+PRO	It
+ENS	's
+NOT	not
+DIS	a
+CON	crow
+NIL	,
+NOT	nor
+DIS	a
+CON	raven
+NIL	.
+PRO	It
+ENS	's
+DIS	a
+CON	magpie
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	recognized
+PER	Mary
+DEF	the
+CON	moment
+PRO	she
+EPS	entered
+DEF	the
+CON	room
+NIL	.

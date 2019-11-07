@@ -1,0 +1,17 @@
+PER	Tom
+EPS	saw
+DIS	a
+CON	girl
+EXS	sitting
+AND	all
+AND	alone
+NIL	,
+SUB	so
+PRO	he
+EPS	went
+IST	over
+SUB	to
+EXS	talk
+REL	to
+PRO	her
+NIL	.

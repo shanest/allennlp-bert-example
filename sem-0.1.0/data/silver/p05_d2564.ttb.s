@@ -1,0 +1,11 @@
+AND	Why
+NOW	do
+PRO	you
+EXS	care
+AND	so
+QUV	much
+AND	about
+QUE	what
+PER	Tom
+ENS	thinks
+QUE	?

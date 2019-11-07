@@ -1,0 +1,11 @@
+DST	That
+ROL	sister
+AND	of
+HAS	yours
+NOW	is
+IST	always
+EXS	complaining
+AND	of
+HAS	her
+CON	husband
+NIL	.

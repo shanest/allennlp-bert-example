@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	important
+NIL	to
+EXS	take
+CON	care
+AND	of
+HAS	your
+CON	skin
+NIL	.

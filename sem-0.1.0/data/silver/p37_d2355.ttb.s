@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+DEF	the
+CON	story
+REL	from
+CON	beginning
+REL	to
+CON	end
+NIL	.

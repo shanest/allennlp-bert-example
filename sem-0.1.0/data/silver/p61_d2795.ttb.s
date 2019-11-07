@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+EXS	assuming
+SUB	that
+DEF	the
+CON	gunshot
+PRO	I
+EPS	heard
+PST	was
+DEF	the
+CON	one
+SUB	that
+EPS	killed
+PER	Tom
+NIL	.

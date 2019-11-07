@@ -1,0 +1,11 @@
+PRO	I
+NOW	have
+REL	at
+TOP	least
+QUC	five
+CON	friends
+AND	who
+POS	can
+EXS	speak
+GPO	English
+NIL	.

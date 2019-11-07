@@ -1,0 +1,13 @@
+HAS	My
+ROL	parents
+EPS	threw
+PRO	me
+AND	out
+AND	of
+DEF	the
+CON	house
+SUB	when
+PRO	I
+PST	was
+QUC	16
+NIL	.

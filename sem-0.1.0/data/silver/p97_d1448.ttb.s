@@ -1,0 +1,12 @@
+PRO	He
+PST	was
+IST	eager
+SUB	to
+EXS	display
+HAS	his
+IST	new
+CON	bicycle
+REL	to
+HAS	his
+CON	friends
+NIL	.

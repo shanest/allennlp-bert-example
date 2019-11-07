@@ -1,0 +1,15 @@
+PRO	It
+PST	was
+AND	such
+DIS	a
+IST	fine
+CON	day
+AND	that
+QUV	many
+CON	children
+PST	were
+EXS	playing
+REL	in
+DEF	the
+CON	park
+NIL	.

@@ -1,0 +1,9 @@
+PRO	They
+EPS	saw
+PER	Pedro
+EXG	talking
+REL	to
+DEF	the
+CON	art
+CON	teacher
+NIL	.

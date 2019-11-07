@@ -1,0 +1,17 @@
+DEF	The
+CON	eye
+REL	with
+UNK	which
+PRO	I
+ENS	see
+CON	God
+NOW	is
+DEF	the
+IST	same
+CON	eye
+REL	with
+UNK	which
+CON	God
+ENS	sees
+PRO	me
+NIL	.

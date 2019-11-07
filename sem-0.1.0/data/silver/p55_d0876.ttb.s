@@ -1,0 +1,14 @@
+NIL	"
+NOW	Do
+PRO	you
+EXS	know
+DEF	the
+CON	country
+CON	code
+REL	for
+GEO	Lebanon
+QUE	?
+NIL	"
+PER	Dima
+EPS	asked
+NIL	.

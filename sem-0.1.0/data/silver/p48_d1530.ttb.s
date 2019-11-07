@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+NOT	n't
+PFT	been
+QUC	much
+AND	of
+DIS	a
+CON	friend
+NIL	,
+NOW	have
+PRO	I
+QUE	?

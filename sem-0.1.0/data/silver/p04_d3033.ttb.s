@@ -1,0 +1,11 @@
+NOT	No
+CON	baseball
+CON	player
+NOW	has
+PFT	been
+IST	as
+EXS	deified
+AND	as
+PRX	this
+CON	man
+NIL	.

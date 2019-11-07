@@ -1,0 +1,12 @@
+GRE	Congratulations
+NIL	,
+PRO	you
+NOW	've
+IST	just
+EXT	won
+DIS	a
+CON	cruise
+REL	to
+DEF	the
+GPO	Caribbean
+NIL	.

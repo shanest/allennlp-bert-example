@@ -1,0 +1,10 @@
+DEF	The
+CON	sun
+PST	had
+IST	already
+EXT	risen
+SUB	when
+PRO	I
+EPS	woke
+IST	up
+NIL	.

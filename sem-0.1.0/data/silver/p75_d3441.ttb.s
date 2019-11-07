@@ -1,0 +1,9 @@
+PRO	We
+PST	had
+CON	lunch
+REL	at
+DIS	a
+IST	little
+CON	coffee
+CON	shop
+NIL	.

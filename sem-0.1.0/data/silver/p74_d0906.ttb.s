@@ -1,0 +1,10 @@
+PER	Tom
+EPS	promised
+PER	Mary
+SUB	that
+PRO	he
+PST	'd
+NOT	never
+EXS	leave
+PRO	her
+NIL	.

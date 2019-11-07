@@ -1,0 +1,9 @@
+PER	Tom
+POS	could
+NOT	n't
+EXT	have
+EXS	done
+PRO	it
+NOT	without
+PER	Mary
+NIL	.

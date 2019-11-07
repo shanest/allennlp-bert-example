@@ -1,0 +1,12 @@
+SUB	When
+PRO	I
+EPS	heard
+SUB	that
+NIL	,
+PRO	I
+EPS	put
+QUC	two
+AND	and
+QUC	two
+IST	together
+NIL	.

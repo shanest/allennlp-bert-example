@@ -1,0 +1,11 @@
+QUC	One
+CON	morning
+NIL	,
+PRO	she
+IST	unexpectedly
+EPS	met
+PRO	him
+REL	on
+DEF	the
+CON	street
+NIL	.

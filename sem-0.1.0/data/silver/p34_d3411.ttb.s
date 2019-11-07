@@ -1,0 +1,12 @@
+PRO	I
+IST	really
+NOW	do
+NOT	n't
+EXS	feel
+AND	like
+EXS	talking
+REL	to
+PER	Tom
+CON	right
+NOW	now
+NIL	.

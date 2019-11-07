@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+DOM	18th
+MOY	June
+NOW	today
+NIL	,
+AND	and
+ALT	also
+NIL	Muiriel
+HAS	's
+CON	birthday
+NIL	!

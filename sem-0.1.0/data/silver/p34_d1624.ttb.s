@@ -1,0 +1,12 @@
+PER	Mary
+EPS	liked
+DEF	the
+IST	cute
+CON	penguin
+CON	picture
+REL	in
+PER	Tom
+HAS	's
+CON	user
+CON	profile
+NIL	.

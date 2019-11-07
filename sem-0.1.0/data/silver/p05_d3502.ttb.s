@@ -1,0 +1,17 @@
+DEF	The
+IST	true
+CON	secret
+AND	of
+EXG	writing
+DIS	a
+IST	good
+CON	letter
+NOW	is
+SUB	to
+EXS	write
+AND	as
+IMP	if
+PRO	you
+PST	were
+EXS	talking
+NIL	.

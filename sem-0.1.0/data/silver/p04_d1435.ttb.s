@@ -1,0 +1,14 @@
+PRO	It
+ENS	seems
+SUB	as
+IMP	if
+AND	anything
+PRO	I
+AND	like
+NOW	is
+IST	illegal
+NIL	,
+REL	immoral
+DIS	or
+CON	fattening
+NIL	.

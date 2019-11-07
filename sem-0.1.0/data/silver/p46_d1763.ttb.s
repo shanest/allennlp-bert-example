@@ -1,0 +1,10 @@
+PER	Ben
+ALT	also
+NOW	has
+DIS	something
+SUB	to
+EXS	do
+REL	with
+DEF	the
+CON	matter
+NIL	.

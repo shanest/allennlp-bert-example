@@ -1,0 +1,13 @@
+CON	Thanks
+REL	to
+DEF	the
+CON	opportunity
+NIL	,
+PRO	we
+PST	were
+IST	able
+SUB	to
+EXS	avoid
+IST	substantial
+CON	effort
+NIL	.

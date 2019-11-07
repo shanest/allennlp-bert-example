@@ -1,0 +1,11 @@
+DST	That
+HAS	's
+DEF	the
+CON	computer
+REL	on
+UNK	which
+PRO	he
+ENS	writes
+HAS	his
+CON	articles
+NIL	.

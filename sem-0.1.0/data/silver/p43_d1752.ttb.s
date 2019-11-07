@@ -1,0 +1,15 @@
+EXS	Turn
+IST	down
+DEF	the
+CON	radio
+NIL	.
+PRO	I
+POS	ca
+NOT	n't
+EXS	hear
+DIS	a
+CON	word
+PRO	you
+NOW	're
+EXS	saying
+NIL	.

@@ -1,0 +1,23 @@
+PER	Tom
+NOW	has
+EPS	downloaded
+DIS	a
+CON	GPS
+EXS	tracking
+CON	app
+AND	onto
+PER	Mary
+HAS	's
+CON	mobile phone
+AND	so
+SUB	that
+PRO	he
+POS	can
+EXS	know
+SUB	where
+PRO	she
+NOW	is
+REL	at
+AND	all
+CON	times
+NIL	.

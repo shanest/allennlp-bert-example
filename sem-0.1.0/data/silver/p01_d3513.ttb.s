@@ -1,0 +1,21 @@
+PRO	I
+PST	was
+EXG	looking
+IST	forward
+SUB	to
+EXG	seeing
+DIS	a
+IST	scenic
+CON	view
+AND	of
+GEO	Mt. Fuji
+NIL	,
+COO	but
+IST	unfortunately
+PRO	it
+PST	was
+IST	completely
+EXS	hidden
+AND	behind
+CON	clouds
+NIL	.

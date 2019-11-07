@@ -1,0 +1,9 @@
+PRO	We
+NOW	've
+EXS	got
+SUB	to
+EXS	catch
+DEF	the
+CON	lion
+EXS	alive
+NIL	.

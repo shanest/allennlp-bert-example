@@ -1,0 +1,13 @@
+PER	Young
+CON	men
+NOW	are
+IST	apt
+SUB	to
+EXS	fall
+DIS	a
+CON	victim
+REL	to
+HAS	their
+IST	own
+CON	avarice
+NIL	.

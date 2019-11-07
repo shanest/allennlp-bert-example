@@ -1,0 +1,14 @@
+SUB	When
+PRO	I
+IST	first
+EPS	met
+PRO	him
+NIL	,
+PRO	I
+PST	thought
+PRO	he
+PST	was
+EXS	putting
+REL	on
+CON	airs
+NIL	.

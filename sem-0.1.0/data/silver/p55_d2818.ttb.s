@@ -1,0 +1,16 @@
+PRO	I
+PST	was
+EXG	wondering
+NIL	,
+FUT	would
+PRO	you
+EXS	like
+SUB	to
+EXS	go
+REL	to
+DIS	a
+CON	movie
+REL	with
+PRO	me
+CON	tonight
+QUE	?

@@ -1,0 +1,16 @@
+AND	Even
+SUB	when
+PRO	you
+NOW	're
+IST	old
+AND	and
+COL	gray
+NIL	,
+PRO	you
+NEC	should
+EXS	be
+IST	able
+SUB	to
+EXS	enjoy
+CON	life
+NIL	.

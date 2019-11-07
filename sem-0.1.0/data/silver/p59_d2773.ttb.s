@@ -1,0 +1,9 @@
+PER	Tom
+EPS	stood
+EXS	looking
+IST	out
+QUC	one
+AND	of
+DEF	the
+CON	windows
+NIL	.

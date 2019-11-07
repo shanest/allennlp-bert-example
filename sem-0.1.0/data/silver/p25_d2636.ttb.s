@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+NOW	make
+CON	photocopies
+QUE	?
+PRO	I
+ENS	need
+QUC	ten
+AND	of
+PRO	them
+NIL	.

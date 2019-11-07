@@ -1,0 +1,12 @@
+PRO	He
+PST	was
+EXS	attacked
+SUB	as
+PRO	he
+PST	was
+EXG	returning
+CON	home
+AND	late
+REL	at
+CON	night
+NIL	.

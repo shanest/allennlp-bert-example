@@ -1,0 +1,16 @@
+PRO	I
+NOW	have
+NOT	not
+EXS	failed
+NIL	.
+PRO	I
+NOW	've
+IST	just
+EXS	found
+REL	10,000
+CON	ways
+DST	that
+FUT	wo
+NOT	n't
+EXS	work
+NIL	.

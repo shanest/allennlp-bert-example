@@ -1,0 +1,22 @@
+REL	At
+GEO	Wall Street
+EQU	,
+DIS	some
+CON	insiders
+EPS	made
+DIS	a
+CON	killing
+REL	by
+EXS	going
+IST	short
+NIL	,
+SUB	when
+AND	everyone
+PST	had
+PFT	been
+EXS	sucked
+REL	into
+DIS	an
+IST	unsustainable
+CON	uptrend
+NIL	.

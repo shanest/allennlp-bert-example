@@ -1,0 +1,11 @@
+PRO	You
+NOW	do
+NOT	n't
+EXS	expect
+DIS	an
+CON	answer
+NOW	now
+NIL	,
+NOW	do
+PRO	you
+QUE	?

@@ -1,0 +1,13 @@
+DEF	The
+CON	child
+HAS	whose
+CON	toy
+PRO	I
+NOW	am
+EXS	looking
+REL	for
+NIL	,
+NOW	is
+HAS	my
+CON	son
+NIL	.

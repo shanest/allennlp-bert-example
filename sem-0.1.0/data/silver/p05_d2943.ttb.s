@@ -1,0 +1,11 @@
+AND	Why
+NOW	do
+NOT	n't
+PRO	we
+EXS	go
+REL	to
+DEF	the
+CON	bookstore
+REL	on
+CON	foot
+QUE	?

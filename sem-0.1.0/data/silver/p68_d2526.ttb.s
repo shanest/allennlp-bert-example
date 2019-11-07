@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+DEF	the
+CON	photographer
+AND	who
+EPS	took
+PRX	this
+CON	picture
+NIL	.

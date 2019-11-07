@@ -1,0 +1,6 @@
+PER	Tom
+NOW	is
+DIS	an
+IST	excellent
+ROL	tennis player
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	said
+SUB	that
+PRO	he
+PST	had
+EXS	eaten
+CON	lunch
+REL	with
+HAS	his
+CON	friends
+NIL	.

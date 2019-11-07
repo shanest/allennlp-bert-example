@@ -1,0 +1,10 @@
+PRO	He
+EPS	advocated
+REL	to
+PRO	us
+SUB	that
+DEF	the
+CON	changes
+EXS	be
+EXS	made
+NIL	.

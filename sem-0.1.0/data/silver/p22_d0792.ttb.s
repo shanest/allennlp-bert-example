@@ -1,0 +1,10 @@
+DEF	The
+CON	boy
+EPS	rode
+DIS	a
+CON	horse
+REL	for
+DEF	the
+IST	first
+CON	time
+NIL	.

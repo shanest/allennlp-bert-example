@@ -1,0 +1,15 @@
+ORG	Deal
+NOW	is
+REL	in
+DEF	the
+IST	southeast
+AND	of
+GPE	England
+NIL	,
+AND	about
+QUC	110
+UOM	kilometers
+IST	away
+REL	from
+GPE	London
+NIL	.

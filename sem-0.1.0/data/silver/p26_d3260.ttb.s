@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+IST	hard
+SUB	to
+EXS	translate
+DIS	a
+CON	joke
+REL	into
+ALT	another
+CON	language
+NIL	.

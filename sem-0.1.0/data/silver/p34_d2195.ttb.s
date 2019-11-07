@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	buy
+DIS	a
+CON	leather
+CON	belt
+NIL	.

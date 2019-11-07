@@ -1,0 +1,9 @@
+PRO	You
+ENS	know
+QUE	why
+PRO	I
+NOW	'm
+PRX	here
+NIL	,
+CON	right
+QUE	?

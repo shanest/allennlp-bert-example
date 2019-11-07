@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+INT	too
+IST	small
+NIL	to
+EXS	fit
+REL	on
+HAS	your
+CON	head
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+EPS	saw
+DEF	the
+CON	accident
+REL	on
+HAS	his
+CON	way
+REL	to
+CON	school
+NIL	.

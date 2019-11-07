@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PST	did
+PRO	you
+EXS	say
+DIS	something
+QUE	?

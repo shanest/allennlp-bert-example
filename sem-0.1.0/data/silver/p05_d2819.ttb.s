@@ -1,0 +1,11 @@
+PRO	You
+NOW	're
+QUC	one
+AND	of
+DEF	the
+TOP	most
+EXS	brilliant
+CON	people
+PRO	I
+ENS	know
+NIL	.

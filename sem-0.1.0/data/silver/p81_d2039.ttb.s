@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	try
+SUB	to
+EXS	quit
+EXS	drinking
+NIL	.

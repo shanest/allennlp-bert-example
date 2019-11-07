@@ -1,0 +1,11 @@
+PRO	It
+FUT	will
+EXS	be
+EXG	quitting
+CON	time
+REL	before
+PRO	you
+EXS	get
+SUB	that
+EXS	done
+NIL	.

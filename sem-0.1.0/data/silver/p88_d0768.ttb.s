@@ -1,0 +1,13 @@
+DEF	The
+CON	witnesses
+PST	were
+IST	able
+SUB	to
+EXS	refute
+DEF	the
+IST	false
+CON	testimony
+AND	of
+DEF	the
+CON	suspect
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	going
+REL	with
+PER	Jane
+REL	for
+AND	almost
+DIS	a
+CON	year
+NOW	now
+NIL	.

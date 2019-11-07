@@ -1,0 +1,11 @@
+PRO	I
+NOW	experience
+EXS	nausea
+SUB	when
+PRO	I
+ENS	go
+REL	on
+INT	too
+QUV	many
+ENS	rides
+NIL	.

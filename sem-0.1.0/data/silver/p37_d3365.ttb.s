@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+IST	always
+EPS	wanted
+SUB	to
+EXS	be
+DIS	a
+ROL	father
+NIL	.

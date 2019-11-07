@@ -1,0 +1,11 @@
+PRO	I
+EPS	saw
+DEF	the
+CON	person
+PRO	I
+EPS	expected
+SUB	to
+EXS	be
+EXS	standing
+IST	there
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+XCL	only
+ENS	wish
+PRO	I
+PST	'd
+EXS	been
+IST	able
+SUB	to
+EXS	do
+IST	more
+REL	for
+PER	Tom
+NIL	.

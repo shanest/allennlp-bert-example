@@ -1,0 +1,14 @@
+CON	Children
+EXS	enjoying
+EXS	making
+DIS	a
+CON	splash
+REL	in
+CON	water
+AND	as
+PRO	they
+ENS	come
+REL	off
+DIS	a
+CON	waterslide
+NIL	.

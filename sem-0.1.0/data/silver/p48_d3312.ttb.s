@@ -1,0 +1,11 @@
+ORG	Main
+ORG	Street
+PST	was
+EXS	blocked
+REL	off
+AND	all
+CON	morning
+REL	for
+DEF	the
+CON	parade
+NIL	.

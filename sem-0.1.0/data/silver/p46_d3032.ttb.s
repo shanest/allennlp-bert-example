@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+UNK	necessary
+SUB	to
+EXS	make
+DIS	a
+CON	distinction
+REL	between
+DEF	the
+QUC	two
+CON	sounds
+NIL	.

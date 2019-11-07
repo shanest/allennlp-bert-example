@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	drink
+CON	coffee
+NIL	,
+COO	but
+PRO	he
+ENS	smokes
+CON	cigarettes
+NIL	.

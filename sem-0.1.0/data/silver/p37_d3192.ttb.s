@@ -1,0 +1,12 @@
+PRO	It
+ENS	seems
+REL	to
+PRO	me
+SUB	that
+PRO	you
+NOW	're
+EXS	making
+CON	fun
+AND	of
+PRO	me
+NIL	.

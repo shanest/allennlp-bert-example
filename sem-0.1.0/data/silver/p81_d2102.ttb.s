@@ -1,0 +1,14 @@
+PER	Tom
+EPS	found
+PER	Mary
+HAS	's
+CON	diary
+NIL	,
+BUT	but
+XCL	only
+DEF	the
+IST	last
+QUC	three
+CON	pages
+EPS	remained
+NIL	.

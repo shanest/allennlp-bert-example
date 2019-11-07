@@ -1,0 +1,9 @@
+UNK	There
+HAS	's
+DIS	a
+CON	rumor
+SUB	that
+PER	Tom
+NOW	is
+IST	gay
+NIL	.

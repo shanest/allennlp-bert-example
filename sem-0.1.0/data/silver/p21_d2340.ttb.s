@@ -1,0 +1,17 @@
+PRO	He
+EPS	told
+PRO	me
+SUB	that
+NIL	,
+NOT	without
+PRO	me
+NIL	,
+PRX	this
+CON	life
+EPS	had
+NOT	nothing
+AND	of
+CON	interest
+REL	for
+PRO	him
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	afford
+SUB	to
+EXS	buy
+PER	Mary
+AND	anything
+IST	nice
+NIL	.

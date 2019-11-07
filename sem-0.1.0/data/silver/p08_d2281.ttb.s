@@ -1,0 +1,9 @@
+PRO	He
+EPS	gave
+DIS	a
+IST	detailed
+CON	description
+AND	of
+DEF	the
+CON	accident
+NIL	.

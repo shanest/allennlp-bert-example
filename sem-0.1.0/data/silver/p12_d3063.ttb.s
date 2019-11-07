@@ -1,0 +1,9 @@
+PRO	I
+ENS	speak
+GPO	French
+QUV	much
+COM	better
+AND	than
+PER	Tom
+NOW	does
+NIL	.

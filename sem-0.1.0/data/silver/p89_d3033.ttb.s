@@ -1,0 +1,12 @@
+PRX	This
+CON	company
+COO	and
+PRO	I
+NOW	have
+EXS	signed
+DIS	a
+CON	contract
+AND	of
+QUC	three
+CON	years
+NIL	.

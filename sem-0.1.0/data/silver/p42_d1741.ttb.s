@@ -1,0 +1,11 @@
+UNK	There
+NOW	have
+EXS	been
+DIS	a
+CON	lot
+AND	of
+CON	complaints
+AND	about
+DST	that
+CON	policy
+NIL	.

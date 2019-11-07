@@ -1,0 +1,10 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	make
+PRO	it
+REL	to
+PER	Mary
+HAS	's
+CON	party
+NIL	.

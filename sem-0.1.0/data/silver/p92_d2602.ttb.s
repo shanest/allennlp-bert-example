@@ -1,0 +1,9 @@
+PRO	You
+NOW	're
+EXS	lucky
+PRO	you
+PST	did
+NOT	n't
+EXS	get
+EXS	shot
+NIL	.

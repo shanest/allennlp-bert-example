@@ -1,0 +1,14 @@
+DEF	The
+CON	doctor
+EPS	suggested
+SUB	that
+PRO	she
+NOW	drink
+IST	more
+CON	water
+SUB	to
+EXS	keep
+SUB	from
+EXS	being
+EXS	dehydrated
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+FUT	will
+EXS	be
+IST	out
+AND	of
+DEF	the
+CON	office
+REL	until
+IST	next
+DOW	Monday
+NIL	.

@@ -1,0 +1,10 @@
+HAS	My
+ROL	mother
+EPS	put
+QUC	thirteen
+CON	candles
+REL	on
+HAS	my
+CON	birthday
+CON	cake
+NIL	.

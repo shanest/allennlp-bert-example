@@ -1,0 +1,12 @@
+PER	Tom
+EPS	tried
+SUB	to
+EXS	persuade
+PER	Mary
+SUB	to
+EXS	go
+REL	to
+PER	John
+HAS	's
+CON	party
+NIL	.

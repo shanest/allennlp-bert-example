@@ -1,0 +1,10 @@
+PRO	We
+NOW	've
+EXS	had
+DIS	a
+CON	lot
+AND	of
+CON	storms
+PRX	this
+CON	winter
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+DIS	an
+IST	important
+CON	project
+PRO	I
+NOW	'm
+EXS	working
+REL	on
+IST	right
+NOW	now
+NIL	.

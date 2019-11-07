@@ -1,0 +1,13 @@
+HAS	My
+CON	parents
+NOW	keep
+EXS	arguing
+AND	about
+IST	stupid
+CON	things
+NIL	.
+PRO	It
+NOW	's
+INT	so
+EXS	annoying
+NIL	!

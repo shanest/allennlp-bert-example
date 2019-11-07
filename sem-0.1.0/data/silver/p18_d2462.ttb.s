@@ -1,0 +1,14 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+NOT	n't
+ALT	yet
+EXS	told
+AND	anyone
+PRO	they
+ENS	plan
+SUB	to
+EXS	get
+EXS	married
+NIL	.

@@ -1,0 +1,13 @@
+HAS	Her
+ROL	father
+NOT	never
+EXS	let
+PRO	her
+EXS	go
+REL	into
+DEF	the
+CON	city
+REL	with
+HAS	her
+CON	friends
+NIL	.

@@ -1,0 +1,11 @@
+CON	Anyway
+NIL	,
+PRO	I
+NOW	've
+NEC	definitely
+EXS	got
+SUB	to
+EXS	see
+HAS	her
+ALT	again
+NIL	.

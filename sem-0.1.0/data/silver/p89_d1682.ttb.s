@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+DIS	an
+GPO	American
+CON	girl
+AND	who
+ENS	speaks
+GPO	Japanese
+IST	very
+IST	well
+NIL	.

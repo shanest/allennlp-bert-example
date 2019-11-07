@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+IMP	if
+PER	Mary
+NOW	is
+EXS	dead
+DIS	or
+EXS	alive
+NIL	.

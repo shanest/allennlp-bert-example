@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	convinced
+SUB	that
+HAS	my
+CON	son
+NOW	is
+EXS	innocent
+NIL	.

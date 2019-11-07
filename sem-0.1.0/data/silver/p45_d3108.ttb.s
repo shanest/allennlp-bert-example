@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	supposed
+SUB	to
+EXS	help
+PER	Tom
+EXS	clean
+HAS	his
+CON	room
+NIL	.

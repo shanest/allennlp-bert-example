@@ -1,0 +1,11 @@
+PRO	She
+EPS	took
+DIS	a
+IST	ten-day
+CON	trip
+REL	to
+GEO	Europe
+REL	with
+HAS	her
+CON	friends
+NIL	.

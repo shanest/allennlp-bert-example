@@ -1,0 +1,17 @@
+IMP	If
+PRO	I
+NOW	'm
+NOT	not
+EXS	mistaken
+NIL	,
+PRO	I
+NOW	think
+PRO	I
+IST	already
+EPS	paid
+PRO	you
+REL	for
+PRO	it
+IST	last
+CON	week
+NIL	.

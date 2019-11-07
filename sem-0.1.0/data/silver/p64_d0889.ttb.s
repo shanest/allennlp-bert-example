@@ -1,0 +1,14 @@
+PRO	He
+HAS	's
+EXS	talking
+INT	so
+IST	loudly
+SUB	that
+PRO	we
+NOW	're
+EXS	going
+SUB	to
+EXS	get
+REL	in
+CON	trouble
+NIL	.

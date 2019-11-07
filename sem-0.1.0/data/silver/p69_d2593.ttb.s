@@ -1,0 +1,10 @@
+QUE	How
+QUV	many
+CON	operations
+NOW	has
+ROL	Dr.
+PER	Jackson
+EPS	performed
+PRX	this
+CON	month
+QUE	?

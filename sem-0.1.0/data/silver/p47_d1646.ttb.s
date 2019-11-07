@@ -1,0 +1,10 @@
+QUE	What
+CON	area
+AND	of
+GPE	China
+NOW	do
+PRO	you
+AND	like
+DEF	the
+TOP	best
+QUE	?

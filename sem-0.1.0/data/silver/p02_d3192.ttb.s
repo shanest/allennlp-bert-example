@@ -1,0 +1,13 @@
+DEF	The
+CON	forest
+NOW	is
+CON	home
+REL	to
+QUV	many
+ALT	different
+CON	kinds
+AND	of
+CON	plants
+AND	and
+CON	animals
+NIL	.

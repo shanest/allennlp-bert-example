@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+DEF	the
+XCL	only
+CON	one
+AND	who
+POS	can
+EXS	help
+PRO	you
+NOW	do
+SUB	that
+NIL	.

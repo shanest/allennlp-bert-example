@@ -1,0 +1,12 @@
+AND	And
+QUE	why
+NEC	should
+PRO	I
+EXS	believe
+REL	in
+DEF	the
+CON	existence
+AND	of
+PRX	this
+CON	study
+QUE	?

@@ -1,0 +1,11 @@
+PER	Tom
+IST	soon
+EPS	realized
+SUB	that
+PER	Mary
+PST	had
+EXS	stolen
+AND	all
+HAS	his
+CON	money
+NIL	.

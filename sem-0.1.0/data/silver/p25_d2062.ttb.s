@@ -1,0 +1,14 @@
+PRO	I
+EPS	laid
+IST	down
+REL	for
+DIS	a
+IST	short
+CON	nap
+COO	and
+EPS	fell
+IST	asleep
+REL	for
+QUC	two
+UOM	hours
+NIL	.

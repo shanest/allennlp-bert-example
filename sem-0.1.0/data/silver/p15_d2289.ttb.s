@@ -1,0 +1,9 @@
+PRO	They
+NOW	're
+EXS	going
+SUB	to
+EXS	knock
+IST	down
+AND	that
+CON	monument
+NIL	.

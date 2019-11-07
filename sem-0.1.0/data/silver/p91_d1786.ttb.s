@@ -1,0 +1,12 @@
+AND	So
+IST	far
+SUB	as
+PRO	I
+ENS	know
+QUE	what
+PRO	he
+NOW	has
+EXS	said
+NOW	is
+EXS	true
+NIL	.

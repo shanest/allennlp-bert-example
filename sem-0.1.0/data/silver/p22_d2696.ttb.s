@@ -1,0 +1,11 @@
+QUE	Who
+EPS	took
+CON	care
+AND	of
+DEF	the
+CON	dog
+SUB	while
+PRO	you
+PST	were
+IST	away
+QUE	?

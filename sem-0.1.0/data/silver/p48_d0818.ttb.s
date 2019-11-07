@@ -1,0 +1,10 @@
+SUB	After
+PRO	I
+EPS	watched
+CON	TV
+NIL	,
+PRO	I
+EPS	went
+REL	to
+CON	bed
+NIL	.

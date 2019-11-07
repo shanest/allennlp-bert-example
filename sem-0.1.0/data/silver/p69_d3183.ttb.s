@@ -1,0 +1,9 @@
+PRO	You
+NOW	are
+EXS	expected
+SUB	to
+EXS	do
+DIS	a
+IST	good
+CON	job
+NIL	.

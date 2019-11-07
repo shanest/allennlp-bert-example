@@ -1,0 +1,14 @@
+DEF	The
+CON	train
+PST	was
+INT	so
+IST	crowded
+SUB	that
+PRO	I
+NEC	had
+NIL	to
+EXS	stand
+AND	all
+DEF	the
+CON	way
+NIL	.

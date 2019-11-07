@@ -1,0 +1,11 @@
+PRO	She
+ENS	's
+DIS	a
+IST	good
+ROL	actress
+COO	and
+PRO	she
+NOW	's
+IST	really
+IST	pretty
+NIL	.

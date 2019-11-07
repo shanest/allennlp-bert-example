@@ -1,0 +1,11 @@
+PRO	I
+PST	was
+EXS	born
+REL	in
+GPE	Barcelona
+REL	on
+MOY	March
+DOM	23
+NIL	,
+YOC	1969
+NIL	.

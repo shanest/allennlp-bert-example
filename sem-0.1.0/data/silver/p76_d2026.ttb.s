@@ -1,0 +1,11 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	make
+DIS	a
+CON	reservation
+REL	for
+IST	next
+DOM	Monday
+NIL	.

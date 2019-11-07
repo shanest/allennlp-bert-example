@@ -1,0 +1,9 @@
+PER	Tom
+EPS	declined
+DEF	the
+CON	invitation
+REL	to
+PER	Mary
+HAS	's
+CON	party
+NIL	.

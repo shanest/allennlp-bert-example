@@ -1,0 +1,9 @@
+PRO	He
+EPS	made
+IST	up
+HAS	his
+CON	mind
+SUB	to
+EXS	marry
+PRO	her
+NIL	.

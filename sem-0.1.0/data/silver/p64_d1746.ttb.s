@@ -1,0 +1,12 @@
+NOT	No
+ENS	need
+SUB	to
+EXS	be
+IST	able
+SUB	to
+EXS	fly
+SUB	to
+EXS	catch
+DIS	a
+CON	bird
+NIL	.

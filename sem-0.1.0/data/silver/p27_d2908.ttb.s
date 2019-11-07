@@ -1,0 +1,16 @@
+REL	At
+DEF	the
+IST	sudden
+CON	appearance
+AND	of
+DIS	a
+CON	bear
+NIL	,
+DEF	the
+CON	kids
+EPS	made
+EXS	believe
+PRO	they
+PST	were
+EXS	dead
+NIL	.

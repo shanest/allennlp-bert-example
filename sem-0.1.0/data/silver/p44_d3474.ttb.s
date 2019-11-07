@@ -1,0 +1,9 @@
+IST	Please
+EXS	ask
+PER	Tom
+SUB	to
+EXS	call
+PRO	me
+REL	before
+CLO	2:30
+NIL	.

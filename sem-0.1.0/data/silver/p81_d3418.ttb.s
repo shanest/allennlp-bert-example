@@ -1,0 +1,9 @@
+PRO	We
+NOW	're
+EXS	coming
+IST	back
+REL	to
+GEO	Europe
+REL	in
+MOY	June
+NIL	!

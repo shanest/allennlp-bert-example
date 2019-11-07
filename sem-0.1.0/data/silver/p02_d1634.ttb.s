@@ -1,0 +1,10 @@
+PRO	I
+EPS	stayed
+REL	at
+HAS	my
+ROL	uncle
+REL	's
+AND	during
+DEF	the
+CON	summer
+NIL	.

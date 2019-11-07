@@ -1,0 +1,9 @@
+PRO	We
+NOW	have
+NOT	n't
+EXS	heard
+REL	from
+HAS	her
+REL	since
+CON	then
+NIL	.

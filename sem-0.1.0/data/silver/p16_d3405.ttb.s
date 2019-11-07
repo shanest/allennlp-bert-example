@@ -1,0 +1,10 @@
+QUC	One
+AND	of
+DEF	the
+CON	things
+PER	Tom
+NOW	enjoys
+EXG	doing
+NOW	is
+EXS	swimming
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+EXG	thinking
+PRO	he
+FUT	would
+EXS	like
+SUB	to
+EXS	visit
+GEO	Paris
+NIL	.

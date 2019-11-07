@@ -1,0 +1,9 @@
+PRO	She
+EPS	lost
+HAS	her
+CON	son
+REL	in
+DIS	a
+CON	car
+CON	accident
+NIL	.

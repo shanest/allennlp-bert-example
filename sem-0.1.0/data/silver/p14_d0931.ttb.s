@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+QUE	what
+SUB	to
+EXS	expect
+REL	from
+DST	that
+CON	lot
+NIL	.

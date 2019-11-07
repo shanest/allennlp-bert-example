@@ -1,0 +1,11 @@
+EXS	Did
+PRO	you
+ENS	know
+SUB	that
+PRO	he
+NOW	's
+EXS	good
+SUB	at
+EXS	making
+CON	coffee
+QUE	?

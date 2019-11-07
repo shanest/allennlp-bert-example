@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+DIS	an
+INT	extraordinarily
+IST	happy
+CON	marriage
+NIL	.

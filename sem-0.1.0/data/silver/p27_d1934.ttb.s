@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	working
+REL	with
+PER	Tom
+REL	for
+QUC	three
+CON	months
+NIL	.

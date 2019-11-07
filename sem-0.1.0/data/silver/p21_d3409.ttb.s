@@ -1,0 +1,11 @@
+PRO	I
+PST	was
+NOT	n't
+IST	able
+SUB	to
+EXS	go
+REL	to
+HAS	his
+CON	birthday
+CON	party
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+EPS	noticed
+SUB	that
+SUB	that
+CON	man
+EXS	talking
+REL	to
+PER	Mary
+PST	had
+DIS	a
+CON	finger
+EXS	missing
+NIL	.

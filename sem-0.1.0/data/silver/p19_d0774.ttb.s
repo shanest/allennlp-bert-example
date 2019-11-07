@@ -1,0 +1,14 @@
+DEF	The
+IST	local
+CON	school
+CON	board
+FUT	would
+EXS	go
+REL	to
+AND	any
+CON	length
+SUB	to
+EXS	ban
+DST	that
+CON	book
+NIL	.

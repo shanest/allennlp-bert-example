@@ -1,0 +1,12 @@
+SUB	When
+PST	was
+DEF	the
+IST	last
+CON	time
+PER	Tom
+EPS	took
+PER	Mary
+IST	out
+REL	to
+CON	dinner
+QUE	?

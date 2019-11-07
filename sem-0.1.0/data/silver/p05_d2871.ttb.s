@@ -1,0 +1,10 @@
+DEF	The
+ROL	captain
+EPS	ordered
+HAS	his
+CON	men
+SUB	to
+EXS	gather
+REL	at
+QUC	once
+NIL	.

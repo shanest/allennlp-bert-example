@@ -1,0 +1,16 @@
+PRO	I
+NOW	'm
+INT	pretty
+IST	sure
+SUB	that
+PER	Tom
+NOW	does
+NOT	n't
+EXS	want
+SUB	to
+EXS	go
+REL	to
+GEO	Boston
+REL	with
+PER	Mary
+NIL	.

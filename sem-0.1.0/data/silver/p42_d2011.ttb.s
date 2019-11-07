@@ -1,0 +1,12 @@
+PRO	We
+NOW	've
+EXS	received
+IST	just
+MOR	over
+NIL	3,000
+UOM	dollars
+REL	in
+CON	donations
+AND	so
+IST	far
+NIL	.

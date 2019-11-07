@@ -1,0 +1,9 @@
+PRO	I
+PST	thought
+PRO	you
+POS	might
+EXS	be
+IST	mad
+REL	at
+PRO	me
+NIL	.

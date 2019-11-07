@@ -1,0 +1,12 @@
+AND	Even
+CON	gods
+ENS	die
+SUB	when
+NOT	no
+CON	one
+ENS	believes
+REL	in
+PRO	them
+AND	any
+IST	longer
+NIL	.

@@ -1,0 +1,9 @@
+HAS	My
+CON	friend
+HAS	's
+ROL	father
+NOW	is
+DIS	a
+IST	famous
+CON	novelist
+NIL	.

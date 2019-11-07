@@ -1,0 +1,13 @@
+DEF	The
+CON	baby
+EPS	tried
+NIL	to
+EXS	get
+REL	at
+DEF	the
+IST	red
+CON	candle
+REL	on
+DEF	the
+CON	table
+NIL	.

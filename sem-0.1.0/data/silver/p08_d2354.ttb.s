@@ -1,0 +1,12 @@
+SUB	As
+PRO	we
+ENS	need
+IST	fresh
+CON	air
+NIL	,
+AND	so
+CON	fish
+ENS	need
+IST	clean
+CON	water
+NIL	.

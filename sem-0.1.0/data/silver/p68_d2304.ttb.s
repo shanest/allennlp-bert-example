@@ -1,0 +1,11 @@
+PER	Love
+NOW	has
+PFT	been
+EXS	described
+AND	as
+DIS	an
+CON	affection
+NIL	curable
+REL	by
+CON	marriage
+NIL	.

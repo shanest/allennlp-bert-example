@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	know
+IMP	if
+PRO	he
+NOW	has
+DIS	a
+CON	girlfriend
+QUE	?

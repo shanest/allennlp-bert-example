@@ -1,0 +1,15 @@
+QUC	Twenty-five
+CON	years
+REL	from
+NOW	now
+UNK	there
+FUT	will
+EXS	be
+QUC	one
+IST	retired
+CON	person
+REL	for
+AND	each
+QUC	two
+EXS	working
+NIL	.

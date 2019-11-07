@@ -1,0 +1,12 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	help
+BUT	but
+NOW	think
+PRO	you
+NOW	're
+EXG	making
+DIS	a
+CON	mistake
+NIL	.

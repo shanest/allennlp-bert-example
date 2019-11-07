@@ -1,0 +1,10 @@
+DEF	The
+CON	house
+PST	was
+IST	completely
+EXS	burnt
+REL	down
+REL	by
+DIS	a
+CON	fire
+NIL	.

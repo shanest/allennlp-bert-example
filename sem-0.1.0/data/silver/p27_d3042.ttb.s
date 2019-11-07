@@ -1,0 +1,14 @@
+NOW	Are
+PRO	you
+EXG	telling
+PRO	me
+PRO	you
+NOW	do
+NOT	n't
+EXS	know
+QUE	how
+SUB	to
+EXS	cook
+IST	hard-boiled
+CON	eggs
+QUE	?

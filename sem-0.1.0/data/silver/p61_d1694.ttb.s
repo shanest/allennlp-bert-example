@@ -1,0 +1,10 @@
+QUE	How
+PST	did
+PER	Tom
+EXS	know
+SUB	that
+PER	Mary
+FUT	would
+EXS	be
+PRX	here
+QUE	?

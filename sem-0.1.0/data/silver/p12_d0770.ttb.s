@@ -1,0 +1,15 @@
+CON	Mathematicians
+NOW	are
+ROL	poets
+NIL	,
+NOT	except
+SUB	that
+PRO	they
+NEC	have
+SUB	to
+EXS	prove
+QUE	what
+HAS	their
+CON	fantasy
+NOW	creates
+NIL	.

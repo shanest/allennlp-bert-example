@@ -1,0 +1,12 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	lose
+HAS	my
+CON	job
+NIL	.

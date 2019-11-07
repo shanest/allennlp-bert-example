@@ -1,0 +1,9 @@
+EXS	Tell
+PER	Tom
+PRO	I
+NOW	do
+NOT	n't
+EXS	need
+HAS	his
+CON	help
+NIL	.

@@ -1,0 +1,16 @@
+PST	Yesterday
+DEF	the
+CON	students
+EPS	finished
+CON	Chapter
+NTH	1
+IST	so
+NOW	now
+PRO	they
+FUT	'll
+EXS	move
+REL	on
+REL	to
+CON	Chapter
+NTH	2
+NIL	.

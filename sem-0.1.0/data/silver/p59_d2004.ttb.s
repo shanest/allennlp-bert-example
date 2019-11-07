@@ -1,0 +1,11 @@
+DIS	A
+CON	ship
+AND	which
+NOW	conveys
+CON	oil
+NOW	is
+EXS	called
+DIS	an
+CON	oil
+CON	tanker
+NIL	.

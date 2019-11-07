@@ -1,0 +1,10 @@
+PER	Tom
+EPS	gave
+DEF	the
+CON	impression
+SUB	that
+PRO	he
+PST	was
+NOT	n't
+EXS	happy
+NIL	.

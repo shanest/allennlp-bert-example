@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	ask
+PRO	you
+DIS	something
+NIL	,
+ROL	Ms.
+PER	Ionescu
+NIL	.

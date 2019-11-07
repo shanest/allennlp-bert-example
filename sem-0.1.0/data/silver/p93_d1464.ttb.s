@@ -1,0 +1,10 @@
+PRO	You
+ENS	need
+DIS	a
+IST	large
+CON	vocabulary
+SUB	to
+EXS	read
+DST	that
+CON	book
+NIL	.

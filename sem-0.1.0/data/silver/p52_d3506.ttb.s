@@ -1,0 +1,10 @@
+DEF	The
+CON	attractiveness
+AND	of
+HAS	his
+CON	charisma
+EPS	made
+ALT	other
+CON	people
+EXS	listen
+NIL	.

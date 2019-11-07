@@ -1,0 +1,11 @@
+PRO	I
+EPS	ran
+REL	into
+DIS	a
+CON	friend
+AND	of
+HAS	mine
+REL	on
+DEF	the
+CON	bus
+NIL	.

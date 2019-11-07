@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+DEF	the
+XCL	only
+QUC	one
+PRO	I
+ENS	know
+AND	who
+POS	can
+EXS	do
+PRX	this
+NIL	.

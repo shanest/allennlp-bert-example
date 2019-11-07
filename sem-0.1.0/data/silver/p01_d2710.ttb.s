@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+IST	ever
+NOW	do
+EXS	come
+REL	to
+GPE	Boston
+NIL	,
+NEC	definitely
+EXS	give
+PRO	me
+DIS	a
+CON	call
+NIL	.

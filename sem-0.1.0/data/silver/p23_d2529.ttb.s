@@ -1,0 +1,9 @@
+DEF	The
+CON	news
+EPS	made
+HAS	my
+CON	hair
+ENS	stand
+REL	on
+CON	end
+NIL	.

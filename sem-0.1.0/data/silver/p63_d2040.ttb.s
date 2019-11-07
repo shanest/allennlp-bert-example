@@ -1,0 +1,12 @@
+PRO	I
+FUT	'd
+EXS	open
+DEF	the
+CON	window
+COO	:
+PRO	I
+ENS	need
+DIS	some
+IST	fresh
+CON	air
+NIL	.

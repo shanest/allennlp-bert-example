@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	go
+AND	through
+REL	with
+PRO	it
+REL	in
+CON	spite
+AND	of
+HAS	her
+CON	opposition
+NIL	.

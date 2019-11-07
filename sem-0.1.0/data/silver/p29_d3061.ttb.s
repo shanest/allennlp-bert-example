@@ -1,0 +1,17 @@
+XCL	Only
+SUB	when
+PRO	it
+ENS	comes
+REL	to
+CON	tenses
+AND	and
+IST	phrasal
+CON	verbs
+NOW	is
+GPO	English
+CON	grammar
+MOR	more
+IST	difficult
+AND	than
+GPO	German
+NIL	.

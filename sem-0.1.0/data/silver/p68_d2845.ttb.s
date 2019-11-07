@@ -1,0 +1,13 @@
+PRO	You
+PST	had
+IST	better
+EXG	take
+DIS	an
+CON	umbrella
+REL	with
+PRO	you
+REL	in
+CON	case
+PRO	it
+CON	rains
+NIL	.

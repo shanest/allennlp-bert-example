@@ -1,0 +1,9 @@
+PER	Tom
+EPS	removed
+DEF	the
+CON	bandages
+REL	from
+PER	Mary
+HAS	's
+CON	leg
+NIL	.

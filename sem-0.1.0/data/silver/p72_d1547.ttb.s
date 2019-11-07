@@ -1,0 +1,14 @@
+ITJ	Hey
+NIL	,
+PST	did
+PRO	you
+EXS	hear
+QUE	?
+PER	Susan
+NOW	has
+DIS	a
+CON	bun
+REL	in
+DEF	the
+CON	oven
+NIL	.

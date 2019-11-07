@@ -1,0 +1,11 @@
+DST	That
+CON	company
+ENS	puts
+AND	out
+DIS	a
+CON	magazine
+NIL	,
+NOW	does
+NOT	n't
+PRO	it
+QUE	?

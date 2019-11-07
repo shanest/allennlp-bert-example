@@ -1,0 +1,10 @@
+AND	Why
+FUT	would
+PRO	I
+ENS	want
+NIL	to
+EXS	have
+CON	dinner
+REL	with
+PER	Tom
+QUE	?

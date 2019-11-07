@@ -1,0 +1,9 @@
+PRO	I
+EPS	wondered
+QUE	why
+CON	people
+PST	were
+EXS	staring
+REL	at
+PRO	me
+NIL	.

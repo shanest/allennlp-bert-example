@@ -1,0 +1,13 @@
+PRO	You
+EPS	said
+NIL	there
+PST	were
+QUC	three
+NIL	,
+BUT	but
+PRO	I
+POS	could
+XCL	only
+EXS	find
+QUC	two
+NIL	.

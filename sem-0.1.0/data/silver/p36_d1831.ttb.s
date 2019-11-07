@@ -1,0 +1,13 @@
+UNK	There
+NOW	is
+DIS	a
+CON	rumor
+SUB	that
+CON	gold
+NOW	has
+PFT	been
+EXS	found
+REL	in
+DEF	the
+CON	valley
+NIL	.

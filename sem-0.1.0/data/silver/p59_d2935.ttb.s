@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+EPS	decided
+REL	on
+DIS	a
+CON	name
+REL	for
+DEF	the
+CON	cat
+QUE	?

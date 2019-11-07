@@ -1,0 +1,10 @@
+DEF	The
+IST	illiterate
+CON	man
+PST	was
+IST	eager
+SUB	to
+EXS	increase
+HAS	his
+CON	vocabulary
+NIL	.

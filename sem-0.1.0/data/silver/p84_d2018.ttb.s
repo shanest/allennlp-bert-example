@@ -1,0 +1,10 @@
+HAS	Your
+CON	advice
+NOW	has
+IST	always
+PFT	been
+INT	very
+EXS	helpful
+REL	to
+PRO	me
+NIL	.

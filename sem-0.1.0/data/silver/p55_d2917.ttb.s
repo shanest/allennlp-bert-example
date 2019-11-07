@@ -1,0 +1,12 @@
+PRO	He
+HAS	's
+DIS	a
+GPO	British
+CON	citizen
+NIL	,
+COO	but
+PRO	he
+ENS	lives
+REL	in
+GPE	India
+NIL	.

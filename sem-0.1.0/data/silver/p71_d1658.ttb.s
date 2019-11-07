@@ -1,0 +1,13 @@
+AND	As
+DEF	the
+CON	train
+EPS	pulled
+REL	out
+NIL	,
+PRO	they
+EPS	waved
+CON	goodbye
+REL	to
+HAS	their
+ROL	parents
+NIL	.

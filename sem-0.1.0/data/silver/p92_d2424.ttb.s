@@ -1,0 +1,10 @@
+PRO	I
+IST	almost
+EPS	died
+DIS	a
+CON	year
+AND	and
+DIS	a
+CON	half
+PST	ago
+NIL	.

@@ -1,0 +1,10 @@
+REL	At
+DEF	the
+IST	present
+CON	time
+NIL	,
+PRO	he
+NOW	's
+REL	in
+GPE	Boston
+NIL	.

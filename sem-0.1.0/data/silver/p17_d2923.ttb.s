@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+DEF	the
+CON	book
+SUB	that
+PER	Mary
+ENS	wants
+SUB	to
+EXS	read
+NIL	.

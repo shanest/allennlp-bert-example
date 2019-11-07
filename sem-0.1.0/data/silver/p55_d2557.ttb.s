@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	dated
+PRO	her
+NIL	.
+PRO	It
+HAS	's
+IST	just
+CON	friendship
+NIL	.

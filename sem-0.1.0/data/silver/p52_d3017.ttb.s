@@ -1,0 +1,16 @@
+DEF	The
+CON	refugees
+REL	in
+DST	that
+CON	camp
+NOW	have
+PFT	been
+EXS	living
+REL	from
+CON	hand
+REL	to
+CON	mouth
+REL	for
+DIS	a
+CON	month
+NIL	.

@@ -1,0 +1,13 @@
+SUB	When
+PRO	I
+EPS	bumped
+REL	into
+PER	Tom
+PST	yesterday
+NIL	,
+PRO	he
+PST	looked
+INT	pretty
+EXS	worn
+IST	out
+NIL	.

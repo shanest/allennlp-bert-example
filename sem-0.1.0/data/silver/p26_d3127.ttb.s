@@ -1,0 +1,9 @@
+DEF	The
+CON	newspaper
+NOW	has
+NOT	n't
+EXS	published
+HAS	our
+CON	article
+ALT	yet
+NIL	.

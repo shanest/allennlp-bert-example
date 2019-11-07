@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+DEF	the
+IST	old
+CON	chapel
+NOW	is
+EXS	haunted
+NIL	.

@@ -1,0 +1,12 @@
+PER	Corporate
+REL	IT
+CON	departments
+NOW	use
+CON	robots
+REL	for
+CON	loading
+COO	and
+EXG	unloading
+CON	memory
+CON	tapes
+NIL	.

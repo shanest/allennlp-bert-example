@@ -1,0 +1,10 @@
+QUE	How
+IST	long
+NOW	have
+PRO	you
+PFT	been
+REL	in
+CON	love
+REL	with
+PER	Tom
+QUE	?

@@ -1,0 +1,9 @@
+PER	Mom
+AND	,
+PER	Tom
+FUT	wo
+NOT	n't
+EXS	share
+REL	with
+PRO	me
+NIL	!

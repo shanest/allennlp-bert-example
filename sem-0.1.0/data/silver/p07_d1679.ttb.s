@@ -1,0 +1,11 @@
+PER	Tom
+EPS	wanted
+PRO	me
+SUB	to
+EXS	be
+DIS	something
+PRO	I
+POS	could
+NOT	never
+EXS	be
+NIL	.

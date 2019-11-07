@@ -1,0 +1,11 @@
+PRO	She
+NOW	has
+PFT	been
+EXG	studying
+GPO	English
+REL	since
+DEF	the
+CON	age
+AND	of
+QUC	ten
+NIL	.

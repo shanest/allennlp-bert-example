@@ -1,0 +1,11 @@
+PER	Tom
+EPS	caught
+PER	Mary
+EXG	stealing
+HAS	his
+CON	money
+REL	from
+DEF	the
+CON	cash
+CON	register
+NIL	.

@@ -1,0 +1,13 @@
+DEF	The
+CON	hurricane
+CON	survivors
+PST	were
+EXS	allotted
+IST	adequate
+CON	food
+CON	provisions
+REL	for
+HAS	their
+IST	basic
+CON	nourishment
+NIL	.

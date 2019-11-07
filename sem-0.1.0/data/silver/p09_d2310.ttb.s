@@ -1,0 +1,11 @@
+NOT	Never
+EPS	put
+REL	off
+REL	till
+FUT	tomorrow
+QUE	what
+PRO	you
+POS	can
+EXS	do
+NOW	today
+NIL	.

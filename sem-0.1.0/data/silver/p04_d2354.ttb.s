@@ -1,0 +1,13 @@
+PER	Tom
+EPS	picked
+IST	up
+HAS	his
+CON	coffee
+CON	cup
+COO	and
+EPS	started
+CON	drinking
+AND	out
+AND	of
+PRO	it
+NIL	.

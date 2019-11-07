@@ -1,0 +1,9 @@
+HAS	My
+IST	first
+CON	son
+PST	was
+EXS	named
+REL	after
+HAS	my
+ROL	uncle
+NIL	.

@@ -1,0 +1,13 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	keep
+PER	Tom
+SUB	from
+EXG	doing
+QUE	whatever
+PRO	he
+ENS	wants
+SUB	to
+EXS	do
+NIL	.

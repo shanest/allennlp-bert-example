@@ -1,0 +1,10 @@
+ITJ	Wow
+NIL	!
+NOW	Is
+SUB	that
+PRO	you
+QUE	?
+PRO	You
+NOW	look
+IST	wonderful
+NIL	.

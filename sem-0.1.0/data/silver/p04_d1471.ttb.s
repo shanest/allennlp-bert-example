@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+EXS	get
+DIS	an
+IST	upset
+CON	stomach
+REL	by
+EXG	eating
+IST	too
+QUC	much
+NIL	.

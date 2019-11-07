@@ -1,0 +1,14 @@
+PRO	We
+NOW	have
+NOT	n't
+PFT	been
+IST	able
+SUB	to
+EXS	find
+IST	out
+QUE	what
+DEF	the
+IST	real
+CON	problem
+PST	was
+NIL	.

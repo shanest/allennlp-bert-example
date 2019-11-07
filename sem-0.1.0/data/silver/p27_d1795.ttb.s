@@ -1,0 +1,11 @@
+PRO	You
+EPS	made
+DEF	the
+CON	mistake
+REL	on
+CON	purpose
+NIL	,
+PST	did
+NOT	n't
+PRO	you
+QUE	?

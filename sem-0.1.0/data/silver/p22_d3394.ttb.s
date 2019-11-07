@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+AND	both
+EXS	seem
+IST	unable
+SUB	to
+EXS	do
+DST	that
+NIL	.

@@ -1,0 +1,11 @@
+QUE	How
+NOW	do
+PRO	you
+EXS	know
+SUB	that
+CON	light
+NOW	travels
+MOR	faster
+MOR	than
+CON	sound
+QUE	?

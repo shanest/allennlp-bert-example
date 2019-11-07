@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+ROL	Professor
+PER	López
+NIL	,
+REL	by
+AND	any
+CON	chance
+QUE	?

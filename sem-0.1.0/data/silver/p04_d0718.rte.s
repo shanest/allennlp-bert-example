@@ -1,0 +1,16 @@
+XCL	Only
+QUC	5
+UOM	%
+REL	to
+QUC	10
+UOM	%
+REL	of
+EXT	stolen
+CON	art
+IST	ever
+NOW	gets
+EXS	returned
+REL	to
+DEF	the
+CON	owners
+NIL	.

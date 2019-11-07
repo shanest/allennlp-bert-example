@@ -1,0 +1,14 @@
+PER	Tom
+PST	seemed
+EXS	preoccupied
+COO	and
+IST	clearly
+PST	was
+NOT	n't
+EXS	listening
+REL	to
+QUE	what
+PER	Mary
+PST	was
+EXS	saying
+NIL	.

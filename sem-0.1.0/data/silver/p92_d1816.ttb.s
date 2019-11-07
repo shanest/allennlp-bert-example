@@ -1,0 +1,10 @@
+PRO	He
+EPS	left
+GPE	Japan
+REL	at
+DEF	the
+CON	end
+AND	of
+DEF	the
+CON	year
+NIL	.

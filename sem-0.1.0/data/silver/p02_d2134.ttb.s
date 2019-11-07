@@ -1,0 +1,14 @@
+PER	Tom
+EPS	bought
+DIS	a
+IST	new
+IST	swivel
+CON	chair
+SUB	to
+EXS	go
+REL	with
+HAS	his
+IST	new
+CON	computer
+CON	desk
+NIL	.

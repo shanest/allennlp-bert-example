@@ -1,0 +1,11 @@
+ORG	Am
+PRO	I
+EXS	supposed
+SUB	to
+EXS	be
+REL	at
+DEF	the
+CON	meeting
+REL	on
+DOW	Monday
+QUE	?

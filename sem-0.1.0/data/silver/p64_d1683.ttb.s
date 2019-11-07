@@ -1,0 +1,13 @@
+PRO	I
+PST	'd
+IST	just
+EXS	like
+SUB	to
+EXS	know
+IMP	if
+PRO	you
+NOW	are
+EXS	coming
+DIS	or
+NOT	not
+NIL	.

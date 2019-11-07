@@ -1,0 +1,11 @@
+NOW	Now
+EXS	stop
+EXG	asking
+CON	questions
+EQU	,
+PER	Pip
+NIL	.
+PRO	I
+NOW	'm
+IST	busy
+NIL	.

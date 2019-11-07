@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	have
+DIS	an
+CON	alibi
+REL	for
+DOW	Monday
+CON	night
+NIL	.

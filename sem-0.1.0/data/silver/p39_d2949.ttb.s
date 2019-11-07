@@ -1,0 +1,16 @@
+PRO	I
+EPS	read
+DEF	the
+CON	paper
+AND	every
+CON	day
+SUB	to
+EXS	keep
+REL	in
+CON	touch
+REL	with
+QUE	what
+HAS	's
+EXG	going
+REL	on
+NIL	.

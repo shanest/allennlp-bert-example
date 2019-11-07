@@ -1,0 +1,10 @@
+PRO	I
+EPS	met
+DIS	a
+IST	young
+CON	man
+HAS	whose
+CON	name
+PST	was
+PER	Tom
+NIL	.

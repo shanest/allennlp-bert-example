@@ -1,0 +1,14 @@
+AND	Even
+EXS	given
+QUE	what
+PRO	you
+NOW	say
+NIL	,
+PRO	I
+IST	still
+NOW	think
+PRO	you
+NOW	are
+REL	to
+EXS	blame
+NIL	.

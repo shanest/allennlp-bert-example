@@ -1,0 +1,11 @@
+EXS	Understood
+QUE	why
+PRO	I
+NOW	am
+EXS	opposed
+REL	to
+CON	women
+REL	on
+DEF	the
+CON	tatami
+QUE	?

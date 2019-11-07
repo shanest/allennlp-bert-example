@@ -1,0 +1,9 @@
+HAS	My
+CON	brother
+EPS	took
+DIS	a
+CON	job
+EPS	offered
+REL	in
+GPE	Boston
+NIL	.

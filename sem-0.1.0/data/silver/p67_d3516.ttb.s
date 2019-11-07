@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PRO	I
+NOT	never
+IST	quite
+EPS	saw
+CON	eye
+REL	to
+CON	eye
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+EPS	used
+SUB	to
+EXS	go
+REL	to
+CON	school
+REL	with
+PER	Mary
+NIL	.

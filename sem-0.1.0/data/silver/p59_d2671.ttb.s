@@ -1,0 +1,14 @@
+PER	Tom
+NOW	has
+IST	finally
+EXS	realized
+SUB	that
+PRO	he
+HAS	's
+PFT	been
+EXS	doing
+PRO	it
+DEF	the
+IST	wrong
+CON	way
+NIL	.

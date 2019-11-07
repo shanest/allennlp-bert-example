@@ -1,0 +1,10 @@
+PRO	She
+EPS	took
+DIS	a
+CON	book
+REL	at
+IST	random
+REL	from
+DEF	the
+CON	shelf
+NIL	.

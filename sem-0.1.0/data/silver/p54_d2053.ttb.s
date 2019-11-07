@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+NOT	not
+EXG	saying
+HAS	his
+CON	music
+NOW	is
+EXS	bad
+NIL	.

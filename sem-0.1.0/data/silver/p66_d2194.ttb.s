@@ -1,0 +1,10 @@
+PER	Tom
+ENS	cooks
+CON	chicken
+AND	just
+DEF	the
+CON	way
+PER	Mary
+ENS	likes
+PRO	it
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+AND	always
+EXG	complaining
+AND	of
+PRX	this
+AND	and
+DST	that
+NIL	.

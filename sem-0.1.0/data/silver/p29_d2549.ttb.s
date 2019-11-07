@@ -1,0 +1,16 @@
+PRO	I
+NOW	think
+PRO	I
+NOW	've
+EXS	figured
+IST	out
+AND	which
+CON	horse
+NOW	is
+INT	most
+IST	likely
+SUB	to
+EXS	win
+DEF	the
+CON	race
+NIL	.

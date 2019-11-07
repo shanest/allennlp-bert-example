@@ -1,0 +1,13 @@
+PRO	He
+EPS	said
+NIL	"
+ITJ	Yeah
+NIL	"
+SUB	when
+PRO	she
+EPS	asked
+IMP	if
+PRO	he
+PST	was
+EXS	tired
+NIL	.

@@ -1,0 +1,20 @@
+REL	In
+GPE	Brazil
+EQU	,
+DEF	the
+GEO	Amazon
+CON	basin
+NOW	covers
+QUC	2 million
+IST	square
+CON	miles
+EQU	,
+DIS	a
+CON	region
+QUC	12
+CON	times
+AND	as
+IST	large
+AND	as
+GEO	California
+NIL	.

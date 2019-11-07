@@ -1,0 +1,9 @@
+PER	Tom
+EPS	hoped
+DIS	somebody
+FUT	would
+EXS	buy
+HAS	his
+IST	old
+CON	bicycle
+NIL	.

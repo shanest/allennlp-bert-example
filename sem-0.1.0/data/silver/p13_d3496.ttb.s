@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+SUB	because
+PRO	he
+NOW	is
+EXS	honest
+SUB	that
+PRO	I
+ENS	like
+PRO	him
+NIL	.

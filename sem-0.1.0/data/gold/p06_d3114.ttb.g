@@ -1,0 +1,9 @@
+PER	Dan
+EPS	confessed
+REL	to
+PER	Linda
+SUB	that
+PRO	he
+PST	was
+EXG	dying
+NIL	.

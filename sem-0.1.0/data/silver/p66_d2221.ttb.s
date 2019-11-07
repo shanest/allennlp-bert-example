@@ -1,0 +1,12 @@
+IMP	If
+PRO	he
+NOW	makes
+SUB	that
+EXS	face
+PRO	it
+ENS	's
+SUB	because
+PRO	he
+HAS	's
+IST	nervous
+NIL	.

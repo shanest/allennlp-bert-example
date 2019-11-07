@@ -1,0 +1,15 @@
+PRO	We
+NOW	are
+EXS	living
+REL	on
+CON	average
+NOW	today
+IST	thirtie
+QUC	four
+CON	years
+IST	longer
+AND	than
+HAS	our
+CON	great-grandparents
+PST	did
+NIL	.

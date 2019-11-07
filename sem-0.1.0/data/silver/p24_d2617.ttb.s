@@ -1,0 +1,9 @@
+PER	Tom
+EPS	knew
+SUB	that
+PER	Mary
+POS	could
+EXS	be
+INT	very
+IST	persuasive
+NIL	.

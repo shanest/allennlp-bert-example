@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	know
+QUE	what
+PER	Mary
+HAS	's
+IST	last
+CON	name
+PST	was
+NIL	.

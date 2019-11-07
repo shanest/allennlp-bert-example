@@ -1,0 +1,10 @@
+PER	Tom
+ENS	knows
+PRO	you
+NOW	're
+DEF	the
+QUC	one
+AND	that
+EPS	started
+PRX	this
+NIL	.

@@ -1,0 +1,14 @@
+PRO	I
+NOW	assure
+PRO	you
+PRO	we
+FUT	'll
+EXS	be
+IST	able
+SUB	to
+EXS	pay
+DEF	the
+CON	rent
+REL	on
+CON	time
+NIL	.

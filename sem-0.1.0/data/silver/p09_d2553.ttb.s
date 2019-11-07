@@ -1,0 +1,9 @@
+PRO	I
+EPS	put
+HAS	my
+CON	hand
+REL	on
+PER	Tom
+HAS	's
+CON	shoulder
+NIL	.

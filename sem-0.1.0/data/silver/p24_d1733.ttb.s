@@ -1,0 +1,9 @@
+PRO	I
+NOW	think
+PRO	you
+NOW	're
+EXG	making
+DIS	a
+IST	big
+CON	mistake
+NIL	.

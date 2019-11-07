@@ -1,0 +1,16 @@
+PER	Mary
+EPS	went
+IST	crazy
+REL	with
+CON	excitement
+SUB	when
+PRO	she
+EPS	saw
+DEF	the
+IST	squirrel-shaped
+CON	cookies
+SUB	that
+PER	Tom
+PST	had
+EPS	baked
+NIL	.

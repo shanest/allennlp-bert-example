@@ -1,0 +1,9 @@
+PRO	I
+NOW	believe
+PRO	I
+NOW	have
+NOW	now
+EXS	told
+PRO	you
+AND	everything
+NIL	.

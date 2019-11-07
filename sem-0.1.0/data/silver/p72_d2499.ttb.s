@@ -1,0 +1,12 @@
+CON	Virtue
+NIL	,
+POS	perhaps
+NIL	,
+NOW	is
+NOT	nothing
+MOR	more
+MOR	than
+CON	politeness
+AND	of
+CON	soul
+NIL	.

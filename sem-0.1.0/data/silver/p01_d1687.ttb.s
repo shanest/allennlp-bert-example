@@ -1,0 +1,16 @@
+PRO	I
+EPS	used
+NIL	to
+EXS	be
+IST	really
+CON	cis
+NIL	,
+BUT	but
+AND	by
+NOW	now
+PRO	I
+NOW	've
+EXS	become
+IST	pretty
+CON	genderqueer
+NIL	.

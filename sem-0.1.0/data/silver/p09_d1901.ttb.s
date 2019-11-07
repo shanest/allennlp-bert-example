@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+EXG	having
+CON	trouble
+REL	with
+HAS	my
+CON	roommate
+NIL	.
+PRO	He
+ENS	eats
+AND	all
+HAS	my
+CON	food
+NIL	.

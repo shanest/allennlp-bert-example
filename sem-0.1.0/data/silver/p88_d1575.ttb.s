@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	putting
+HAS	my
+CON	baby
+REL	into
+DEF	the
+CON	bed
+NIL	.

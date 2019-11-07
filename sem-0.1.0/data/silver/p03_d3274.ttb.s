@@ -1,0 +1,17 @@
+PRO	He
+NOW	's
+NOT	not
+EXS	lazy
+NIL	.
+REL	On
+DEF	the
+CON	contrary
+NIL	,
+PRO	I
+ENS	think
+PRO	he
+HAS	's
+DIS	a
+IST	hard
+CON	worker
+NIL	.

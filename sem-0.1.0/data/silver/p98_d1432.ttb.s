@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	looking
+REL	for
+DIS	someone
+SUB	to
+EXS	learn
+GPO	English
+IST	together
+NIL	.

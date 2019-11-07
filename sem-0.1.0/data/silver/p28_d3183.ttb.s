@@ -1,0 +1,9 @@
+PRO	I
+EPS	met
+PRO	her
+REL	on
+DIS	a
+IST	certain
+CON	winter
+CON	day
+NIL	.

@@ -1,0 +1,12 @@
+PRO	She
+EPS	became
+EXS	famous
+SUB	after
+EXT	having
+EXS	written
+DEF	the
+CON	screenplay
+REL	for
+DST	that
+CON	movie
+NIL	.

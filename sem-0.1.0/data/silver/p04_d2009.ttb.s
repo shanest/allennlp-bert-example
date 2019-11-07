@@ -1,0 +1,10 @@
+PRO	I
+EPS	watched
+PER	John
+AND	and
+PER	Mary
+EXS	walking
+CON	hand
+REL	in
+CON	hand
+NIL	.

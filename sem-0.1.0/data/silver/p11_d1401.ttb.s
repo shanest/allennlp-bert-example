@@ -1,0 +1,10 @@
+PRO	I
+FUT	'll
+EXS	miss
+PRO	you
+INT	very
+QUV	much
+IMP	if
+PRO	you
+ENS	go
+NIL	.

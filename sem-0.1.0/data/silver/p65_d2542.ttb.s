@@ -1,0 +1,9 @@
+HAS	My
+ROL	sister
+EPS	saw
+PRO	it
+REL	with
+HAS	her
+IST	own
+CON	eyes
+NIL	.

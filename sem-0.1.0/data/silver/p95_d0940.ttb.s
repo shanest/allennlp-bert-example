@@ -1,0 +1,9 @@
+PER	Tom
+ENS	believes
+SUB	that
+PER	Mary
+NOW	is
+HAS	his
+TOP	best
+CON	friend
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+DEF	the
+XCL	only
+QUC	one
+EXG	missing
+REL	for
+PRX	this
+CON	movie
+NIL	.

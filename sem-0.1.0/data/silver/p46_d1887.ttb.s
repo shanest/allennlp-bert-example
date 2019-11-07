@@ -1,0 +1,14 @@
+PRX	These
+CON	days
+NOT	no
+CON	one
+NOW	's
+EXS	got
+IST	enough
+AND	because
+AND	everyone
+HAS	's
+EPS	got
+INT	too
+QUC	much
+NIL	.

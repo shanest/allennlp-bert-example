@@ -1,0 +1,16 @@
+IMP	If
+PRO	you
+ENS	need
+HAS	my
+CON	advice
+NIL	,
+PRO	I
+FUT	'd
+EXS	be
+IST	glad
+SUB	to
+EXS	give
+PRO	it
+REL	to
+PRO	you
+NIL	.

@@ -1,0 +1,14 @@
+IMP	If
+PRO	I
+PST	had
+EXS	known
+HAS	her
+CON	address
+NIL	,
+PRO	I
+FUT	would
+EXT	have
+EXS	written
+REL	to
+PRO	her
+NIL	.

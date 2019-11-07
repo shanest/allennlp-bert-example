@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+EXS	going
+SUB	to
+CON	rain
+NIL	.
+CON	Look
+REL	at
+DST	those
+IST	dark
+CON	clouds
+NIL	.

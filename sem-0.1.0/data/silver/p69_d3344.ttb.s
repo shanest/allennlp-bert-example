@@ -1,0 +1,15 @@
+PER	Stratford-on-Avon
+NIL	,
+SUB	where
+PER	Shakespeare
+PST	was
+EXS	born
+NIL	,
+NOW	is
+EXS	visited
+REL	by
+QUV	many
+CON	tourists
+AND	every
+CON	year
+NIL	.

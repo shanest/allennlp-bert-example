@@ -1,0 +1,9 @@
+QUV	Many
+CON	people
+CON	disagreed
+REL	with
+DEF	the
+CON	judge
+HAS	's
+CON	decision
+NIL	.

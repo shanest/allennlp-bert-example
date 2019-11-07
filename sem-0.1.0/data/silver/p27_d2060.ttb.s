@@ -1,0 +1,11 @@
+PER	Tom
+PST	persuaded
+PRO	her
+REL	into
+EXS	going
+REL	to
+DEF	the
+CON	movies
+REL	with
+PRO	him
+NIL	.

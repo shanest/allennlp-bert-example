@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+AND	all
+DEF	the
+CON	money
+SUB	that
+PRO	I
+NOW	have
+NOW	now
+NIL	.

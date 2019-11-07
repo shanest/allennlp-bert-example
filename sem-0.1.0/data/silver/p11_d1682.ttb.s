@@ -1,0 +1,14 @@
+PER	Tom
+EPS	left
+HAS	his
+CON	car
+REL	in
+DEF	the
+IST	long-stay
+CON	car
+CON	park
+SUB	before
+EXG	catching
+HAS	his
+CON	flight
+NIL	.

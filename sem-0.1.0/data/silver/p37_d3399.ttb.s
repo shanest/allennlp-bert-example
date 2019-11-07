@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+NOT	n't
+PFT	been
+IST	able
+SUB	to
+EXS	find
+IST	out
+AND	anything
+AND	about
+PRO	it
+NIL	.

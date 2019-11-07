@@ -1,0 +1,9 @@
+GPE	France
+EPS	used
+SUB	to
+EXT	have
+QUV	many
+CON	colonies
+REL	in
+GEO	Africa
+NIL	.

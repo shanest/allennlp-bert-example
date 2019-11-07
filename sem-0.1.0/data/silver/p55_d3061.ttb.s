@@ -1,0 +1,10 @@
+PER	Dan
+NOW	is
+DEF	the
+TOP	best
+CON	flight
+CON	instructor
+PRO	we
+NOW	've
+EXS	got
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	send
+PRX	these
+REL	to
+GPE	Japan
+NIL	.

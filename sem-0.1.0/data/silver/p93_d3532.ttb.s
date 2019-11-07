@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+PFT	been
+TOP	best
+CON	friends
+REL	for
+CON	years
+NIL	.

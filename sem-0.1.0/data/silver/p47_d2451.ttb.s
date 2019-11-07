@@ -1,0 +1,13 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	tell
+PER	Tom
+AND	everything
+PER	Mary
+EPS	asked
+PRO	me
+SUB	to
+EXS	tell
+PRO	him
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	hit
+PRO	it
+REL	off
+REL	from
+CON	day
+QUC	one
+NIL	.

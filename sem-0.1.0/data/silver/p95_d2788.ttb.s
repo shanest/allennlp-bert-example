@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	introduce
+PRO	you
+REL	to
+HAS	my
+CON	mother-in-law
+NIL	.

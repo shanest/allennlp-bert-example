@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXS	trying
+SUB	to
+EXS	understand
+DEF	the
+CON	politics
+AND	of
+HAS	my
+CON	country
+NIL	.

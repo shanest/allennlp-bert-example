@@ -1,0 +1,16 @@
+QUE	What
+CON	band
+PST	did
+DEF	the
+CON	music
+REL	for
+DEF	the
+CON	1970
+HAS	's
+CON	film
+NIL	"
+DOW	Saturday
+CON	Night
+CON	Fever
+NIL	"
+QUE	?

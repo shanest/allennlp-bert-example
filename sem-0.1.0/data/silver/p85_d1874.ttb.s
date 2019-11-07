@@ -1,0 +1,17 @@
+NIL	"
+NOW	Have
+PRO	you
+PFT	been
+EXS	crying
+QUE	?
+NIL	"
+NIL	"
+ITJ	Yes
+NIL	,
+HAS	my
+CON	eyes
+NOW	are
+AND	all
+COL	red
+NIL	.
+NIL	"

@@ -1,0 +1,10 @@
+PER	Tom
+PST	seemed
+EXS	surprised
+SUB	when
+PRO	he
+EPS	saw
+PER	Mary
+EXG	kissing
+PER	John
+NIL	.

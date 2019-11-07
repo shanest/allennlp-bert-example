@@ -1,0 +1,11 @@
+PRO	It
+EPS	became
+EXS	clear
+SUB	that
+DEF	the
+EXT	stolen
+CON	bicycle
+EPS	belonged
+REL	to
+PRO	him
+NIL	.

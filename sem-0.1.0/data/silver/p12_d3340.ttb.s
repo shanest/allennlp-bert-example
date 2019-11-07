@@ -1,0 +1,15 @@
+ROL	Feminists
+ENS	believe
+REL	in
+DEF	the
+IST	political
+NIL	,
+IST	social
+NIL	,
+AND	and
+IST	economic
+CON	equality
+AND	of
+AND	all
+CON	genders
+NIL	.

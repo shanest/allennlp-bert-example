@@ -1,0 +1,9 @@
+PRO	I
+FUT	'll
+EXS	go
+AND	even
+IMP	if
+PRO	it
+ENS	rains
+IST	heavily
+NIL	.

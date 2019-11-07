@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	mean
+AND	of
+PRO	you
+SUB	to
+EXS	talk
+DST	that
+CON	way
+NIL	.

@@ -1,0 +1,10 @@
+SUB	When
+PRO	I
+EPS	got
+CON	home
+NIL	,
+PRO	I
+PST	was
+INT	very
+EXS	hungry
+NIL	.

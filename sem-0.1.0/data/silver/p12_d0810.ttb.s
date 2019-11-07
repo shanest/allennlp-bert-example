@@ -1,0 +1,19 @@
+PER	Abraham
+PER	Lincoln
+EQU	,
+DEF	the
+ORD	16th
+ROL	president
+AND	of
+DEF	the
+CON	United States
+NIL	,
+PST	was
+EXS	born
+REL	in
+DIS	a
+CON	log
+CON	cabin
+REL	in
+PER	Kentucky
+NIL	.

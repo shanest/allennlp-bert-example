@@ -1,0 +1,10 @@
+PRO	I
+FUT	would
+NOT	n't
+EXT	have
+EXS	succeeded
+NOT	without
+PER	Tom
+HAS	's
+CON	help
+NIL	.

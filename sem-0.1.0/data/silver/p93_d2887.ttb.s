@@ -1,0 +1,15 @@
+PRO	It
+NOW	's
+NOT	not
+UNK	necessary
+SUB	to
+EXS	speak
+AND	like
+DIS	a
+IST	native
+CON	speaker
+REL	in
+CON	order
+SUB	to
+EXS	communicate
+NIL	.

@@ -1,0 +1,10 @@
+NOT	Without
+DIS	a
+CON	wife
+NIL	,
+DIS	a
+CON	man
+NOW	is
+IST	worth
+NOT	nothing
+NIL	.

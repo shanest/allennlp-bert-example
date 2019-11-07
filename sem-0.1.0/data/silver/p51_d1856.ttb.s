@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+EXS	loved
+PRO	you
+REL	since
+DEF	the
+CON	day
+PRO	I
+IST	first
+EPS	saw
+PRO	you
+NIL	.

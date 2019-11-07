@@ -1,0 +1,15 @@
+IMP	If
+PRO	I
+NEC	should
+EXS	die
+NIL	,
+IST	please
+EXS	offer
+HAS	my
+CON	heart
+REL	to
+DIS	someone
+AND	who
+ENS	needs
+PRO	it
+NIL	.

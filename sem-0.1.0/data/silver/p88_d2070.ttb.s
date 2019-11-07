@@ -1,0 +1,9 @@
+QUE	What
+PRO	he
+ENS	needs
+INT	most
+NOW	is
+DIS	a
+IST	good
+CON	job
+NIL	.

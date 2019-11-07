@@ -1,0 +1,17 @@
+PRO	She
+EPS	kissed
+HAS	her
+IST	little
+CON	daughter
+REL	on
+DEF	the
+CON	forehead
+NIL	,
+EXS	blessed
+PRO	her
+NIL	,
+COO	and
+IST	shortly
+SUB	after
+EXS	died
+NIL	.

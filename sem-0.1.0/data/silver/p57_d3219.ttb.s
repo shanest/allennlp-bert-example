@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+REL	to
+GEO	Berlin
+SUB	to
+EXS	visit
+HAS	my
+CON	friend
+NIL	.

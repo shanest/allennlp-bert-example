@@ -1,0 +1,11 @@
+PER	Tom
+EPS	ate
+DIS	a
+CON	piece
+AND	of
+DEF	the
+CON	cake
+SUB	that
+PER	Mary
+EPS	baked
+NIL	.

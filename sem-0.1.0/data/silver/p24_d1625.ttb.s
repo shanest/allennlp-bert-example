@@ -1,0 +1,12 @@
+PRO	I
+ENS	love
+CON	cats
+AND	so
+QUV	much
+NIL	.
+PRO	They
+IST	just
+NOW	drive
+PRO	me
+EXS	nuts
+NIL	.

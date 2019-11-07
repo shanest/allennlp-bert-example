@@ -1,0 +1,10 @@
+DEF	The
+CON	weather
+CON	report
+ENS	says
+PRO	it
+FUT	will
+EXS	rain
+FUT	tomorrow
+CON	afternoon
+NIL	.

@@ -1,0 +1,12 @@
+EXS	Did
+PRO	you
+ENS	know
+UNK	there
+PST	was
+ALT	another
+PER	Tom
+PER	Jackson
+REL	at
+PRX	this
+CON	school
+QUE	?

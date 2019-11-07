@@ -1,0 +1,11 @@
+EXS	Tell
+PER	Tom
+PRO	I
+ENS	want
+SUB	to
+EXS	talk
+SUB	to
+PRO	him
+IST	right
+IST	away
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	do
+NOT	n't
+EXS	sleep
+REL	in
+DEF	the
+IST	same
+CON	room
+NIL	.

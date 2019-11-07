@@ -1,0 +1,14 @@
+PER	Tom
+EPS	put
+DEF	the
+CON	food
+REL	on
+DEF	the
+CON	table
+COO	and
+EPS	told
+AND	everyone
+SUB	to
+EXS	start
+EXS	eating
+NIL	.

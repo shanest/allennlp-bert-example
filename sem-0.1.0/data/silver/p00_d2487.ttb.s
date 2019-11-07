@@ -1,0 +1,10 @@
+PRO	You
+PST	had
+MOR	better
+EXS	go
+COO	and
+EXS	thank
+PRO	her
+REL	in
+CON	person
+NIL	.

@@ -1,0 +1,14 @@
+REL	With
+PRX	this
+QUV	much
+CON	money
+NIL	,
+PRO	I
+POS	could
+EXS	buy
+DIS	a
+INT	very
+IST	decent
+EXS	used
+CON	car
+NIL	.

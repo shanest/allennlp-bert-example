@@ -1,0 +1,11 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	talk
+SUB	to
+PER	Tom
+SUB	until
+PRO	he
+NOW	gets
+IST	back
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	impatient
+SUB	to
+EXS	see
+DEF	the
+IST	new
+CON	version
+AND	of
+PRX	Tatoeba
+NIL	.

@@ -1,0 +1,11 @@
+PRO	You
+NEC	should
+EXS	do
+AND	anything
+SUB	that
+NOW	is
+IST	necessary
+SUB	to
+EXS	be
+EXS	happy
+NIL	.

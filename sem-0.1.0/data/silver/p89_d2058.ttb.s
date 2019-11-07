@@ -1,0 +1,11 @@
+PRO	She
+ENS	seems
+SUB	to
+EXT	have
+PFT	been
+EXS	offended
+REL	by
+QUE	what
+PRO	he
+EPS	said
+NIL	.

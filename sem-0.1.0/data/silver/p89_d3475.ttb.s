@@ -1,0 +1,9 @@
+DEF	The
+ROL	lawyer
+EPS	explained
+DEF	the
+IST	new
+CON	law
+REL	to
+PRO	us
+NIL	.

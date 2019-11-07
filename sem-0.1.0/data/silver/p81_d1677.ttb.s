@@ -1,0 +1,11 @@
+PER	Tom
+EPS	claimed
+SUB	that
+PRO	he
+PST	'd
+IST	already
+EXS	given
+PER	Mary
+DEF	the
+CON	money
+NIL	.

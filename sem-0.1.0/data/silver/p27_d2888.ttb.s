@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+ENS	want
+PRO	me
+SUB	to
+EXS	say
+SUB	that
+PRO	I
+NOW	'm
+EXS	sorry
+QUE	?

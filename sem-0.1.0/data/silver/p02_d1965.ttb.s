@@ -1,0 +1,22 @@
+XCL	Only
+INT	about
+QUC	15
+UOM	per cent
+AND	of
+CON	people
+REL	with
+CON	autism
+NOW	are
+REL	in
+DEF	the
+CON	workforce
+NIL	,
+AND	mainly
+SUB	because
+CON	people
+NOW	are
+INT	so
+IST	judgemental
+REL	about
+PRO	them
+NIL	.

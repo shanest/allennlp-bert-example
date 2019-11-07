@@ -1,0 +1,14 @@
+DEF	The
+CON	weather
+NOW	is
+EXG	clearing
+IST	up
+NIL	.
+PRO	I
+ENS	need
+NOT	n't
+EXT	have
+EXS	brought
+DIS	an
+CON	umbrella
+NIL	.

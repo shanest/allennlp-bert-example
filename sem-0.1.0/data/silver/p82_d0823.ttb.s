@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	buy
+DIS	a
+CON	camera
+REL	for
+HAS	my
+CON	daughter
+NIL	.

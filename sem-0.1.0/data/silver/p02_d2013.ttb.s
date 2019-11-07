@@ -1,0 +1,10 @@
+PER	Tom
+EPS	fell
+REL	in
+CON	love
+REL	with
+PER	Mary
+REL	at
+IST	first
+CON	sight
+NIL	.

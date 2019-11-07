@@ -1,0 +1,11 @@
+PER	Tom
+EPS	gave
+PER	Mary
+DIS	a
+CON	diamond
+CON	bracelet
+REL	for
+HAS	their
+CON	wedding
+CON	anniversary
+NIL	.

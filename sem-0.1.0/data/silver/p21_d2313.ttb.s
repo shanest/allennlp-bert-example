@@ -1,0 +1,13 @@
+QUC	Three
+CON	months
+PST	ago
+UNK	there
+PST	were
+IST	so
+IST	few
+CON	students
+PRO	we
+EPS	stopped
+DEF	the
+CON	class
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+PST	was
+INT	too
+EXS	intent
+REL	on
+EXS	studying
+SUB	to
+EXS	hear
+HAS	my
+CON	call
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Is
+AND	everything
+DST	that
+NOW	belongs
+REL	to
+PRO	you
+REL	in
+DST	that
+CON	chest
+QUE	?

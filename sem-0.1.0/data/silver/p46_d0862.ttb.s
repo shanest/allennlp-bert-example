@@ -1,0 +1,10 @@
+HAS	My
+CON	car
+NOW	is
+DIS	a
+CON	Ford
+NIL	,
+AND	just
+AND	like
+HAS	yours
+NIL	.

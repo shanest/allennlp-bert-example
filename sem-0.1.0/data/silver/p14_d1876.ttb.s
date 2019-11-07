@@ -1,0 +1,11 @@
+SUB	When
+DEF	the
+CON	bell
+EPS	rang
+NIL	,
+DEF	the
+CON	audience
+EPS	took
+HAS	their
+CON	seats
+NIL	.

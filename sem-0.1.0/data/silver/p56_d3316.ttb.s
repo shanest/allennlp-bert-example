@@ -1,0 +1,15 @@
+HAS	My
+ROL	sister
+NIL	,
+DIS	a
+CON	university
+CON	student
+NIL	,
+EPS	won
+IST	first
+CON	prize
+REL	in
+DEF	the
+CON	speech
+CON	contest
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	look
+QUC	much
+MOR	older
+MOR	than
+PER	Mary
+NIL	.

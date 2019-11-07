@@ -1,0 +1,10 @@
+AND	Would
+PRO	you
+EXS	be
+IST	willing
+SUB	to
+EXS	do
+PRO	me
+DIS	a
+CON	favor
+QUE	?

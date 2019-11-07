@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+IST	quite
+EXS	believe
+QUE	what
+PRO	he
+ENS	says
+NIL	.

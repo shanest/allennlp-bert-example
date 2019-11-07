@@ -1,0 +1,17 @@
+DIS	A
+CON	lie
+POS	can
+EXS	travel
+AND	halfway
+AND	around
+DEF	the
+CON	world
+AND	while
+DEF	the
+CON	truth
+NOW	is
+EXG	putting
+REL	on
+HAS	its
+CON	shoes
+NIL	.

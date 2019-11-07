@@ -1,0 +1,11 @@
+NIL	There
+NOW	is
+DIS	a
+IST	big
+CON	stack
+AND	of
+CON	mail
+REL	on
+DEF	the
+CON	table
+NIL	.

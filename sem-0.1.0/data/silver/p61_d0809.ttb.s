@@ -1,0 +1,17 @@
+PRO	I
+EPS	saw
+DIS	a
+IST	young
+CON	man
+EXS	lying
+REL	on
+DEF	the
+CON	bench
+REL	under
+DEF	the
+CON	cherry
+CON	tree
+REL	in
+DEF	the
+CON	park
+NIL	.

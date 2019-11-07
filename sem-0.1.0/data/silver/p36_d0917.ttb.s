@@ -1,0 +1,10 @@
+PRO	She
+HAS	's
+PFT	been
+EXS	absent
+REL	from
+CON	school
+REL	for
+QUC	five
+CON	days
+NIL	.

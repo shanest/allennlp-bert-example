@@ -1,0 +1,15 @@
+PER	Tom
+HAS	's
+CON	family
+IST	often
+ENS	runs
+IST	out
+AND	of
+CON	food
+REL	near
+DEF	the
+CON	end
+AND	of
+DEF	the
+CON	month
+NIL	.

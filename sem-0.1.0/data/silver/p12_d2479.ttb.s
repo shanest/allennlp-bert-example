@@ -1,0 +1,11 @@
+DEF	The
+CON	professor
+REL	with
+UNK	whom
+PRO	I
+EPS	had
+CON	lunch
+NOW	is
+EXS	named
+PER	Peter
+NIL	.

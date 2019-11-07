@@ -1,0 +1,11 @@
+PER	Tom
+EPS	wondered
+QUE	how
+IST	long
+PER	John
+COO	and
+PER	Mary
+PST	had
+PFT	been
+EXS	dating
+NIL	.

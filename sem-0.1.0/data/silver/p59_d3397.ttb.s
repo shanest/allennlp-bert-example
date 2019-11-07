@@ -1,0 +1,13 @@
+REL	In
+GPE	Hawaii
+NIL	,
+QUC	one
+POS	can
+EXS	enjoy
+CON	sea
+CON	bathing
+AND	all
+DEF	the
+CON	year
+CON	round
+NIL	.

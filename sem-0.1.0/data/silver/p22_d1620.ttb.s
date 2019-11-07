@@ -1,0 +1,9 @@
+PRO	It
+EPS	took
+PRO	her
+QUC	two
+CON	hours
+SUB	to
+EXS	get
+IST	ready
+NIL	.

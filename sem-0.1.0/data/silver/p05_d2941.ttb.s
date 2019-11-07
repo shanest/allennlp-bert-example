@@ -1,0 +1,9 @@
+CON	Puritanism
+ENS	comes
+REL	from
+GPE	England
+REL	by
+DEF	the
+IST	first
+CON	settlers
+NIL	.

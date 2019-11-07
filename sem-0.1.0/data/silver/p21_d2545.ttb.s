@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+NOT	not
+CON	magic
+EQU	,
+PER	Tom
+NIL	,
+PRO	it
+HAS	's
+CON	science
+NIL	!

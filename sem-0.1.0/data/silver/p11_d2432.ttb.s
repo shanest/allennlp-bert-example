@@ -1,0 +1,15 @@
+SUB	To
+EXS	make
+CON	matters
+COM	worse
+NIL	,
+PRO	he
+NOW	is
+NOT	n't
+IST	even
+EXS	conscious
+AND	of
+EXG	annoying
+HAS	his
+CON	neighbors
+NIL	.

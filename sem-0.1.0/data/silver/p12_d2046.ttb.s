@@ -1,0 +1,11 @@
+AND	Even
+IMP	if
+PRO	I
+EPS	knew
+NIL	,
+PRO	I
+FUT	would
+NOT	n't
+EXS	tell
+PRO	you
+NIL	.

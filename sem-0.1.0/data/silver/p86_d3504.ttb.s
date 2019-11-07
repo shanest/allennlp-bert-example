@@ -1,0 +1,11 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	keep
+PER	Tom
+SUB	from
+EXS	going
+SUB	to
+EXS	work
+NOW	today
+NIL	.

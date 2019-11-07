@@ -1,0 +1,10 @@
+AND	Sometimes
+PRO	I
+NOW	'm
+EXS	right
+COO	and
+IST	sometimes
+PRO	I
+NOW	'm
+EXS	wrong
+NIL	.

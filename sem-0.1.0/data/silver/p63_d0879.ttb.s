@@ -1,0 +1,12 @@
+NOW	Have
+PRO	you
+EXS	given
+AND	any
+IST	more
+EPS	thought
+REL	to
+QUE	what
+PRO	I
+EPS	told
+PRO	you
+QUE	?

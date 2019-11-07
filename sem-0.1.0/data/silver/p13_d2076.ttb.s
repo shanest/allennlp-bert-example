@@ -1,0 +1,13 @@
+PRO	I
+NOW	wonder
+IMP	if
+PER	Tom
+NOW	is
+EQU	as
+IST	interested
+REL	in
+PRX	this
+AND	as
+PER	Mary
+NOW	is
+NIL	.

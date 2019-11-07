@@ -1,0 +1,11 @@
+PRO	I
+EPS	asked
+PER	Tom
+IMP	if
+PRO	he
+POS	could
+EXS	recommend
+DIS	a
+IST	good
+ROL	lawyer
+NIL	.

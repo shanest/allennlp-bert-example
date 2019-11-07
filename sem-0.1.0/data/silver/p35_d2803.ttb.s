@@ -1,0 +1,12 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+UNK	there
+NOW	is
+NOT	no
+AND	such
+CON	function
+NIL	.

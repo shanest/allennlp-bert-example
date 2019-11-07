@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	happy
+DEF	the
+CON	apple
+PRO	I
+NOW	'm
+EXG	eating
+NOW	is
+COL	green
+NIL	!

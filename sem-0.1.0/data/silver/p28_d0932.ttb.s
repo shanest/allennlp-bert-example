@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	getting
+EXS	dressed
+IST	right
+SUB	after
+PRO	I
+ENS	eat
+CON	breakfast
+NIL	.

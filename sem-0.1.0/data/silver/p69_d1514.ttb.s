@@ -1,0 +1,9 @@
+QUC	Seven
+NOW	is
+EXS	believed
+SUB	to
+EXS	be
+DIS	a
+IST	lucky
+CON	number
+NIL	.

@@ -1,0 +1,10 @@
+PRO	She
+ENS	knows
+QUC	ten
+CON	times
+IST	more
+GPO	English
+CON	words
+AND	than
+PRO	me
+NIL	.

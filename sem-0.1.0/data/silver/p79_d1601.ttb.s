@@ -1,0 +1,9 @@
+DEF	The
+CON	doctor
+EPS	prescribed
+DIS	some
+CON	medicine
+REL	for
+HAS	her
+CON	cold
+NIL	.

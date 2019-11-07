@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EPS	danced
+INT	so
+QUC	much
+SUB	that
+PRO	I
+NOW	'm
+IST	dizzy
+NIL	.

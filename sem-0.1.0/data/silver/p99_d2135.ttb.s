@@ -1,0 +1,9 @@
+PRO	I
+EPS	watched
+DEF	the
+CON	news
+REL	on
+CON	TV
+REL	after
+CON	supper
+NIL	.

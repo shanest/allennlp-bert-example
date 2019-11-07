@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+NOT	not
+UNK	possible
+SUB	to
+EXS	study
+REL	with
+INT	so
+QUC	much
+CON	noise
+NIL	!

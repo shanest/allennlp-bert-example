@@ -1,0 +1,10 @@
+PRO	He
+EPS	saw
+DIS	something
+AND	behind
+DIS	a
+CON	lot
+AND	of
+IST	old
+CON	boxes
+NIL	.

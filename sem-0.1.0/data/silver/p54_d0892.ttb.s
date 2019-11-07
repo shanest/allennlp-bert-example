@@ -1,0 +1,11 @@
+REL	At
+AND	last
+NIL	,
+DEF	the
+ORG	Government
+NOW	are
+EXG	listening
+REL	to
+DEF	the
+CON	people
+NIL	.

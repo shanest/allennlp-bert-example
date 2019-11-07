@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	have
+DIS	a
+IST	good
+CON	feeling
+REL	about
+PRX	this
+NIL	.

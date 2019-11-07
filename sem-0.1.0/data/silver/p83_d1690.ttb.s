@@ -1,0 +1,14 @@
+PRO	I
+NOW	've
+EXS	lost
+HAS	my
+CON	ball-point
+CON	pen
+AND	and
+NOW	am
+NOW	now
+EXS	writing
+REL	with
+DIS	a
+CON	pencil
+NIL	.

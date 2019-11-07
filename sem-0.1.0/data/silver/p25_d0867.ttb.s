@@ -1,0 +1,11 @@
+PER	Contador
+EPS	won
+DEF	the
+CON	maillot
+CON	jaune
+REL	in
+DEF	the
+ORG	Tour
+ORG	de
+GPE	France
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	looking
+REL	for
+DIS	a
+CON	mango
+SUB	to
+EXS	eat
+NIL	.

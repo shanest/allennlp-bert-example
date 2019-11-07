@@ -1,0 +1,11 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	stand
+PRO	it
+SUB	that
+PRO	she
+NOW	's
+EXS	suffering
+SUB	so
+NIL	.

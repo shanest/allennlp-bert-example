@@ -1,0 +1,9 @@
+PRO	We
+POS	may
+EXS	meet
+ALT	again
+REL	in
+DEF	the
+IST	near
+CON	future
+NIL	.

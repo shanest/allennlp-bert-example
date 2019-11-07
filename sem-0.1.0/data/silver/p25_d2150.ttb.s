@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+EXS	going
+SUB	to
+EXS	stay
+PRX	here
+REL	for
+DIS	a
+CON	couple
+AND	of
+CON	days
+NIL	.

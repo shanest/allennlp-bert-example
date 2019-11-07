@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+DIS	a
+CON	son
+NOT	not
+QUV	much
+COM	older
+AND	than
+PER	Mary
+NIL	.

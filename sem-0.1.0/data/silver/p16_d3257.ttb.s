@@ -1,0 +1,11 @@
+PRO	He
+EPS	left
+GPE	Japan
+REL	on
+DEF	the
+IST	same
+CON	day
+SUB	that
+PRO	we
+EPS	arrived
+NIL	.

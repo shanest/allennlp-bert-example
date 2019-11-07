@@ -1,0 +1,11 @@
+PRO	You
+PST	had
+DIS	a
+CON	beard
+DEF	the
+IST	last
+CON	time
+PRO	I
+EPS	saw
+PRO	you
+NIL	.

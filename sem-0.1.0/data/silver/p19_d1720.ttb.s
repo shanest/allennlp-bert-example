@@ -1,0 +1,17 @@
+SUB	To
+EXS	avoid
+EXS	spoiling
+NIL	,
+CON	fish
+EPS	caught
+IST	far
+IST	out
+REL	at
+CON	sea
+NOW	are
+IST	immediately
+EXS	cooled
+DIS	or
+IST	even
+EXS	frozen
+NIL	.

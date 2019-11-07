@@ -1,0 +1,9 @@
+PRO	He
+NOW	has
+PFT	been
+EXS	like
+DIS	a
+ROL	father
+REL	to
+PRO	me
+NIL	.

@@ -1,0 +1,9 @@
+GPE	Greece
+POS	can
+NOT	no
+IST	longer
+EXS	pay
+REL	off
+HAS	its
+CON	debts
+NIL	.

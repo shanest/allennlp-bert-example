@@ -1,0 +1,14 @@
+REL	At
+DEF	the
+CON	sound
+REL	of
+HAS	my
+CON	voice
+NIL	,
+HAS	my
+CON	dog
+REL	pricked
+IST	up
+HAS	his
+CON	ears
+NIL	.

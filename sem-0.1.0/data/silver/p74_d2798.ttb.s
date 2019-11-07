@@ -1,0 +1,14 @@
+PER	Tom
+EPS	put
+DEF	the
+CON	twenty-dollar
+CON	bill
+SUB	that
+PER	Mary
+EPS	gave
+PRO	him
+REL	in
+HAS	his
+CON	shirt
+CON	pocket
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+HAS	's
+CON	leg
+PST	had
+EXS	fallen
+EXS	asleep
+SUB	so
+PRO	he
+POS	could
+NOT	n't
+EXS	stand
+IST	up
+NIL	.

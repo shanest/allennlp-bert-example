@@ -1,0 +1,9 @@
+IMP	If
+PRO	he
+ENS	comes
+NIL	,
+PRO	I
+FUT	'll
+EXS	go
+ALT	too
+NIL	.

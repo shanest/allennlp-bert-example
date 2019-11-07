@@ -1,0 +1,13 @@
+NOW	Do
+PRO	you
+NOW	have
+AND	any
+CON	pictures
+AND	of
+PER	Tom
+SUB	when
+PRO	he
+PST	was
+DIS	a
+CON	kid
+QUE	?

@@ -1,0 +1,12 @@
+NIL	There
+PST	were
+CON	rows
+AND	of
+CON	trees
+REL	on
+AND	either
+CON	side
+AND	of
+DEF	the
+CON	road
+NIL	.

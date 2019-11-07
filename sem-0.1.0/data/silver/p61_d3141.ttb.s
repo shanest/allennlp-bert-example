@@ -1,0 +1,16 @@
+DOW	Monday
+ENS	is
+DEF	the
+IST	first
+CON	day
+NIL	,
+DOW	Tuesday
+ENS	is
+DEF	the
+ORD	second
+CON	day
+NIL	,
+AND	and
+AND	so
+REL	on
+NIL	.

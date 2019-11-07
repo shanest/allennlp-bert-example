@@ -1,0 +1,10 @@
+ITJ	OK
+CON	guys
+NIL	,
+PRO	I
+IST	really
+ENS	need
+DIS	something
+SUB	to
+EXS	drink
+NIL	.

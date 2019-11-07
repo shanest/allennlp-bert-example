@@ -1,0 +1,12 @@
+PRO	It
+NOW	does
+NOT	n't
+EXS	matter
+SUB	whether
+PRO	she
+ENS	admits
+HAS	her
+CON	guilt
+DIS	or
+NOT	not
+NIL	.

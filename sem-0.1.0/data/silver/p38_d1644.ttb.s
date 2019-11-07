@@ -1,0 +1,16 @@
+AND	Because
+AND	of
+DEF	the
+IST	bad
+CON	weather
+NIL	,
+HAS	my
+CON	piano
+CON	teacher
+EPS	suggested
+SUB	that
+PRO	I
+ENS	go
+CON	home
+IST	early
+NIL	.

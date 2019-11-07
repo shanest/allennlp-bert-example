@@ -1,0 +1,15 @@
+REL	On
+DEF	the
+CON	days
+PRO	he
+NOW	does
+NOT	n't
+EXS	take
+DIS	a
+CON	nap
+NIL	,
+PRO	he
+NOW	's
+IST	bad
+EXS	tempered
+NIL	.

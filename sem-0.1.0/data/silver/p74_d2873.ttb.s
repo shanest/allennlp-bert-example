@@ -1,0 +1,12 @@
+AND	Why
+NOW	do
+NOT	n't
+PRO	you
+EXS	tell
+PRO	me
+QUE	what
+PRO	you
+NOW	're
+EXS	doing
+PRX	here
+QUE	?

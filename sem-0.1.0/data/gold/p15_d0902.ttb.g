@@ -1,0 +1,12 @@
+IMP	If
+DEF	the
+CON	phone
+ENS	rings
+ALT	again
+NIL	,
+PRO	I
+ENS	plan
+NIL	to
+EXS	ignore
+PRO	it
+NIL	.

@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+EXS	listen
+REL	to
+PRO	him
+NIL	.
+PRO	He
+NOW	's
+INT	just
+EXS	kidding
+NIL	.

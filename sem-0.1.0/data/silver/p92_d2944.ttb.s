@@ -1,0 +1,9 @@
+YOC	1980
+PST	was
+DEF	the
+CON	year
+SUB	when
+PRO	I
+PST	was
+EXS	born
+NIL	.

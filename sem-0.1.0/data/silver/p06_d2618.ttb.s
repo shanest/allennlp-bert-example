@@ -1,0 +1,10 @@
+DEF	The
+CON	master
+AND	of
+QUE	thriller
+NOW	has
+EXS	left
+DEF	the
+CON	scenario
+IST	forever
+NIL	.

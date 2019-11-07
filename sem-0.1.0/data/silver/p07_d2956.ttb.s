@@ -1,0 +1,10 @@
+AND	How
+POS	can
+PRO	I
+NOW	make
+DIS	a
+CON	telephone
+EXS	call
+REL	to
+GPE	Japan
+QUE	?

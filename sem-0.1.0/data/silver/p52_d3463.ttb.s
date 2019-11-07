@@ -1,0 +1,10 @@
+PRO	We
+NOW	believe
+SUB	that
+PRO	it
+PST	was
+PER	Tom
+SUB	that
+EPS	killed
+PER	Mary
+NIL	.

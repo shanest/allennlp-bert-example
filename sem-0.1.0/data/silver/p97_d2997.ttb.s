@@ -1,0 +1,10 @@
+PRO	It
+PST	was
+SUB	because
+PRO	she
+PST	had
+CON	faith
+REL	in
+HAS	his
+CON	capabilities
+NIL	.

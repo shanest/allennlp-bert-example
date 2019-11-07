@@ -1,0 +1,10 @@
+DEF	The
+ROL	mother
+NOW	is
+EXS	leading
+HAS	her
+CON	child
+REL	by
+DEF	the
+CON	hand
+NIL	.

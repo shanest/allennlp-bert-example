@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	asking
+PRO	you
+SUB	to
+EXS	do
+PRX	this
+SUB	because
+PRO	I
+NOW	trust
+PRO	you
+NIL	.

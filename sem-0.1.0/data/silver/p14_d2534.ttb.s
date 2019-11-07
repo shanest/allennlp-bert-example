@@ -1,0 +1,10 @@
+DIS	Sometimes
+DEF	the
+IST	first
+CON	symptom
+AND	of
+IST	cardiovascular
+CON	disease
+NOW	is
+CON	death
+NIL	.

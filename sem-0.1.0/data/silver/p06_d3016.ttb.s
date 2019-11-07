@@ -1,0 +1,12 @@
+PER	Tom
+EPS	offered
+DIS	a
+CON	reward
+REL	for
+DEF	the
+CON	return
+AND	of
+HAS	his
+IST	lost
+CON	dog
+NIL	.

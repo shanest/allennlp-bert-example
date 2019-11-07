@@ -1,0 +1,12 @@
+PRO	I
+ENS	need
+SUB	to
+EXS	know
+QUE	why
+PER	Tom
+PST	was
+EXS	absent
+REL	from
+CON	school
+NOW	today
+NIL	.

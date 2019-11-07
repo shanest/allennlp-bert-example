@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	talk
+AND	about
+SUB	that
+EXS	right
+NOW	now
+NIL	.

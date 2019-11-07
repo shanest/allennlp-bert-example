@@ -1,0 +1,14 @@
+PRX	This
+NOW	is
+DEF	the
+IST	first
+CON	time
+PRO	I
+NOW	've
+IST	ever
+EXS	received
+DIS	a
+CON	letter
+REL	from
+PER	Marika
+NIL	.

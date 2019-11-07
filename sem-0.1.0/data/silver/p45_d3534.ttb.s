@@ -1,0 +1,13 @@
+DEF	The
+IST	good
+CON	news
+NOW	is
+SUB	that
+PRO	we
+FUT	'll
+EXS	be
+IST	able
+SUB	to
+EXS	help
+PRO	you
+NIL	.

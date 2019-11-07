@@ -1,0 +1,10 @@
+CON	Round
+AND	about
+CLO	noon
+DIS	a
+CON	friend
+AND	of
+HAS	mine
+EPS	popped
+REL	in
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+EPS	stuck
+HAS	his
+CON	head
+REL	in
+DEF	the
+CON	sand
+AND	like
+DIS	an
+CON	ostrich
+NIL	.

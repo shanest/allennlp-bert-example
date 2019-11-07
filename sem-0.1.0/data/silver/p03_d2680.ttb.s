@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+INT	too
+IST	short
+SUB	to
+EXS	reach
+DEF	the
+IST	top
+CON	shelf
+NIL	.

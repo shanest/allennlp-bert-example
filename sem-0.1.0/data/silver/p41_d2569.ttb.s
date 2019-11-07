@@ -1,0 +1,14 @@
+PRO	He
+EPS	met
+HAS	his
+CON	demise
+REL	at
+DEF	the
+CON	hands
+AND	of
+DIS	a
+CON	crowd
+AND	of
+IST	jealous
+CON	husbands
+NIL	.

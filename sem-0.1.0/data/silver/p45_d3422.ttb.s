@@ -1,0 +1,12 @@
+PRO	It
+FUT	'd
+EXS	be
+EXS	nice
+IMP	if
+PRO	we
+PST	had
+EXS	curry
+REL	for
+CON	dinner
+CON	tonight
+NIL	.

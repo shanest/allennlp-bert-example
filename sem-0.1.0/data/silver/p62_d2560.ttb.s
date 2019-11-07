@@ -1,0 +1,12 @@
+PRO	It
+ENS	seems
+AND	like
+DEF	the
+CON	cat
+EPS	caught
+DEF	the
+CON	scent
+AND	of
+DIS	a
+CON	mouse
+NIL	.

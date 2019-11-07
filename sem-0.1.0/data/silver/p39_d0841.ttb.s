@@ -1,0 +1,10 @@
+PRO	He
+EPS	made
+PRO	it
+EXS	known
+SUB	where
+DEF	the
+ROL	president
+PST	had
+EXS	gone
+NIL	.

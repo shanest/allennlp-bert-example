@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	still
+EXS	waiting
+REL	for
+DIS	an
+CON	answer
+REL	to
+HAS	my
+CON	question
+NIL	.

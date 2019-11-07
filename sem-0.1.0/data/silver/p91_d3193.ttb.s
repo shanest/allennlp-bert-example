@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+NOT	not
+IST	even
+IST	sure
+SUB	whether
+PER	Tom
+FUT	will
+EXS	come
+DIS	or
+NOT	not
+NIL	.

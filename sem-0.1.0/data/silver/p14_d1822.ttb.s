@@ -1,0 +1,9 @@
+EXS	Let
+PRO	's
+EXS	take
+DIS	a
+CON	walk
+REL	for
+DIS	a
+CON	change
+NIL	.

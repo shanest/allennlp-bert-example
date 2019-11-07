@@ -1,0 +1,12 @@
+PRO	He
+ENS	thinks
+PRO	he
+NOW	is
+DIS	somebody
+NIL	,
+COO	but
+IST	really
+PRO	he
+NOW	is
+NOT	nobody
+NIL	.

@@ -1,0 +1,10 @@
+HAS	My
+CON	son
+POS	can
+EXS	count
+IST	up
+REL	to
+DIS	a
+QUC	hundred
+NOW	now
+NIL	.

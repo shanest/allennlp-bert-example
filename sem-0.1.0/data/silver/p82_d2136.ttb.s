@@ -1,0 +1,10 @@
+DEF	The
+CON	bough
+EPS	bent
+REL	under
+DEF	the
+CON	weight
+REL	of
+DEF	the
+CON	snow
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	saving
+AND	as
+QUC	much
+AND	as
+PRO	I
+POS	can
+NIL	.

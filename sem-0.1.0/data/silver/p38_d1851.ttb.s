@@ -1,0 +1,13 @@
+PRO	I
+ENS	know
+QUE	what
+PRO	you
+ENS	think
+NIL	,
+BUT	but
+PRO	she
+NOW	's
+NOT	not
+EXS	like
+DST	that
+NIL	.

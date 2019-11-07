@@ -1,0 +1,16 @@
+PRO	You
+NOW	have
+IST	never
+EXT	said
+GRE	hello
+REL	to
+PRO	me
+REL	in
+AND	all
+DEF	the
+CON	years
+PRO	I
+NOW	've
+EXS	known
+PRO	you
+NIL	.

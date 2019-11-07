@@ -1,0 +1,15 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+PRX	this
+IST	hot
+CON	water
+NOW	brings
+DIS	a
+CON	balance
+REL	between
+CON	body
+AND	and
+CON	mind
+NIL	.

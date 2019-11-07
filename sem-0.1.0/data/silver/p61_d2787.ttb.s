@@ -1,0 +1,15 @@
+PER	Tom
+EPS	saw
+CON	people
+EXS	starting
+SUB	to
+EXS	leave
+NIL	,
+COO	so
+PRO	he
+EPS	decided
+SUB	to
+EXS	leave
+NIL	,
+ALT	too
+NIL	.

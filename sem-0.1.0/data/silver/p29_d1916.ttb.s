@@ -1,0 +1,10 @@
+PER	Tom
+HAS	's
+CON	face
+CON	lights
+IST	up
+SUB	whenever
+PRO	he
+ENS	sees
+PER	Mary
+NIL	.

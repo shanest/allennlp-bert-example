@@ -1,0 +1,14 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+GPE	Japan
+NOW	is
+DEF	the
+TOP	greatest
+IST	economic
+CON	power
+REL	in
+DEF	the
+CON	world
+NIL	.

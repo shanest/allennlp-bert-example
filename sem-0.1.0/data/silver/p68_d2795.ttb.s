@@ -1,0 +1,10 @@
+GPE	Australia
+NOW	is
+INT	about
+QUC	twenty
+CON	times
+AND	as
+IST	large
+AND	as
+GPE	Japan
+NIL	.

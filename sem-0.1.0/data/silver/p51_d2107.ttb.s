@@ -1,0 +1,13 @@
+PRO	I
+FUT	'll
+EXS	arrange
+REL	for
+DIS	someone
+SUB	to
+EXS	pick
+PRO	you
+IST	up
+REL	at
+HAS	your
+CON	home
+NIL	.

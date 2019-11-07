@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	counting
+REL	on
+PRO	you
+NOT	not
+SUB	to
+EXS	back
+IST	out
+NIL	.

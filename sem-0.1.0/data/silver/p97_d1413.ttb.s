@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	invited
+PER	Tom
+REL	to
+HAS	your
+CON	parties
+QUE	?

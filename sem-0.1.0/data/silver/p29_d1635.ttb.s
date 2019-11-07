@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+DIS	a
+CON	man
+COO	;
+NOT	no
+IST	human
+NOW	is
+EXS	strange
+REL	to
+PRO	me
+NIL	.

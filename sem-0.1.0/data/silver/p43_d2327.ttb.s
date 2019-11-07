@@ -1,0 +1,13 @@
+PRO	It
+NOW	is
+IST	illegal
+REL	for
+CON	bicycles
+SUB	to
+EXS	pass
+REL	on
+DEF	the
+CON	right
+AND	of
+CON	cars
+NIL	.

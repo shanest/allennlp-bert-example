@@ -1,0 +1,10 @@
+SUB	When
+PRO	I
+EPS	came
+IST	back
+NIL	,
+HAS	my
+CON	car
+PST	was
+EXS	gone
+NIL	.

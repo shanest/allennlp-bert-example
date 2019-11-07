@@ -1,0 +1,10 @@
+ORG	Dear
+PER	Santa
+NIL	,
+PRO	I
+ENS	want
+DIS	a
+ROL	girlfriend
+REL	for
+HAP	Christmas
+NIL	.

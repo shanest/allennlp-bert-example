@@ -1,0 +1,11 @@
+PRO	He
+EPS	asked
+PRO	me
+SUB	whether
+PRO	I
+PST	had
+EXS	slept
+IST	well
+IST	last
+CON	night
+NIL	.

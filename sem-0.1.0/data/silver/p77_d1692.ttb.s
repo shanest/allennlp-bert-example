@@ -1,0 +1,11 @@
+PRO	I
+NOW	have
+NOT	never
+PFT	been
+EXS	sick
+SUB	since
+PRO	I
+PST	was
+DIS	a
+CON	child
+NIL	.

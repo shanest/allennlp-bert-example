@@ -1,0 +1,11 @@
+PRO	I
+PST	thought
+PER	Tom
+FUT	would
+EXS	be
+INT	too
+EXS	busy
+SUB	to
+EXS	help
+PRO	us
+NIL	.

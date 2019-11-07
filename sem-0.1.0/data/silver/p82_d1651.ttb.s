@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+IST	strange
+SUB	that
+PRO	he
+NOW	has
+NOT	not
+EXS	come
+ALT	yet
+NIL	.

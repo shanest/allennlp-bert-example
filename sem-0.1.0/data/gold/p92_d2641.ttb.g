@@ -1,0 +1,10 @@
+PER	Tom
+EQU	's
+DIS	a
+IST	nice
+CON	guy
+NIL	.
+AND	Everyone
+ENS	likes
+PRO	him
+NIL	.

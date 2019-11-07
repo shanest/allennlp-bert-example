@@ -1,0 +1,10 @@
+NOW	Is
+PRO	it
+EXS	true
+SUB	that
+PRO	you
+EPS	broke
+PER	Taninna
+HAS	's
+CON	computer
+QUE	?

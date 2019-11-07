@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+EXS	forbidden
+SUB	to
+EXS	use
+PRX	this
+CON	information
+IST	commercially
+NIL	.

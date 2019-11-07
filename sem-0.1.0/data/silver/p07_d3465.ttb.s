@@ -1,0 +1,9 @@
+PRO	I
+FUT	will
+EXS	start
+EXS	working
+REL	on
+MOY	July
+EQU	the
+DOM	first
+NIL	.

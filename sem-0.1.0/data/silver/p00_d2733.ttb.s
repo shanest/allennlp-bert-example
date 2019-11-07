@@ -1,0 +1,10 @@
+PRO	I
+POS	've
+NOW	done
+AND	everything
+PER	Tom
+EPS	asked
+PRO	me
+NIL	to
+EXS	do
+NIL	.

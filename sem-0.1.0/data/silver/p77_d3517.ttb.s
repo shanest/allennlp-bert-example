@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+DEF	the
+CON	boy
+AND	whom
+PRO	I
+EPS	met
+UNK	there
+PST	yesterday
+NIL	.

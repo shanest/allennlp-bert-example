@@ -1,0 +1,17 @@
+NIL	"
+CON	Where
+NOW	is
+PER	Tom
+QUE	?
+NIL	"
+NIL	"
+PRO	He
+HAS	's
+IST	out
+CON	drinking
+REL	at
+DEF	the
+ORG	Laughing
+ORG	Boar
+NIL	.
+NIL	"

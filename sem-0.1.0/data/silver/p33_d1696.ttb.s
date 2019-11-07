@@ -1,0 +1,10 @@
+IST	Please
+EXS	wait
+REL	till
+QUC	five
+NIL	,
+SUB	when
+PRO	he
+FUT	will
+IST	back
+NIL	.

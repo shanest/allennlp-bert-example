@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+ENS	believe
+QUE	what
+ROL	politicians
+NOW	say
+NIL	,
+PRO	it
+HAS	's
+IST	really
+HAS	your
+IST	own
+CON	fault
+NIL	.

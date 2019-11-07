@@ -1,0 +1,11 @@
+EXS	Tell
+PER	Tom
+SUB	that
+PRO	he
+ENS	needs
+SUB	to
+EXS	wear
+DIS	a
+CON	tie
+FUT	tomorrow
+NIL	.

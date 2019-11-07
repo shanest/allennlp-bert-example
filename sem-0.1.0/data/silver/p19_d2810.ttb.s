@@ -1,0 +1,12 @@
+DEF	The
+ROL	politician
+IST	first
+EPS	made
+DIS	a
+CON	name
+REL	for
+REF	himself
+AND	as
+DIS	an
+ROL	actor
+NIL	.

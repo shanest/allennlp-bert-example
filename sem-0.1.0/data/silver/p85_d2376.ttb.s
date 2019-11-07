@@ -1,0 +1,15 @@
+PRX	This
+CON	article
+NOW	is
+IST	critical
+AND	of
+DEF	the
+CON	way
+CON	investigations
+NOW	are
+EXS	being
+EXS	made
+REL	into
+DEF	the
+CON	matter
+NIL	.

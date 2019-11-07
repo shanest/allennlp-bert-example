@@ -1,0 +1,10 @@
+PRO	They
+NOW	are
+EXS	opposed
+REL	to
+PER	Darwin
+HAS	's
+CON	theory
+AND	of
+CON	evolution
+NIL	.

@@ -1,0 +1,11 @@
+AND	Everyone
+PST	was
+EXS	dressed
+REL	in
+DIS	a
+IST	beautiful
+CON	kimono
+REL	at
+DEF	the
+CON	party
+NIL	.

@@ -1,0 +1,9 @@
+PER	Kate
+HAS	's
+ROL	father
+ENS	walks
+CON	home
+REL	from
+DEF	the
+CON	station
+NIL	.

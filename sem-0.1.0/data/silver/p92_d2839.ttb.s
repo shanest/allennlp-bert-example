@@ -1,0 +1,11 @@
+PRO	It
+EPS	occurred
+REL	to
+PRO	me
+SUB	that
+PRO	he
+PST	was
+DEF	the
+IST	right
+CON	man
+NIL	.

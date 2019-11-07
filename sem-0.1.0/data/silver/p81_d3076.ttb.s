@@ -1,0 +1,15 @@
+IMP	If
+PRO	it
+PST	were
+NOT	n't
+REL	for
+HAS	her
+CON	help
+NIL	,
+PRO	I
+FUT	would
+NOT	not
+EXS	be
+EXS	alive
+NOW	now
+NIL	.

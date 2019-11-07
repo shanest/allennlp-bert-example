@@ -1,0 +1,10 @@
+QUE	What
+NOW	do
+PRO	you
+NOW	think
+PRO	I
+NOW	'm
+EXS	thinking
+IST	right
+NOW	now
+QUE	?

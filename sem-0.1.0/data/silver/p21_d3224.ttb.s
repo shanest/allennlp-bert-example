@@ -1,0 +1,10 @@
+PRO	I
+NOW	spend
+DIS	a
+CON	lot
+AND	of
+CON	time
+EXG	practicing
+DEF	the
+CON	guitar
+NIL	.

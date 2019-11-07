@@ -1,0 +1,12 @@
+PRO	You
+NOW	're
+IST	still
+INT	too
+IST	young
+SUB	to
+EXS	get
+DIS	a
+ROL	driver
+HAS	's
+CON	license
+NIL	.

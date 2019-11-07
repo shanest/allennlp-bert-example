@@ -1,0 +1,13 @@
+PRO	I
+EPS	looked
+AND	through
+DEF	the
+CON	garage
+CON	window
+COO	;
+QUE	what
+PRO	I
+EPS	saw
+EXS	surprised
+PRO	me
+NIL	.

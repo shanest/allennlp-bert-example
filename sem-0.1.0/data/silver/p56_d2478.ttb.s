@@ -1,0 +1,11 @@
+HAS	His
+CON	father
+FUT	wo
+NOT	n't
+EXS	come
+NIL	,
+PRO	he
+NOW	's
+INT	very
+EXS	busy
+NIL	.

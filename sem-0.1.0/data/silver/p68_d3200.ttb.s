@@ -1,0 +1,9 @@
+PRX	These
+CON	types
+AND	of
+CON	books
+NOW	have
+IST	almost
+NOT	no
+CON	value
+NIL	.

@@ -1,0 +1,10 @@
+PRO	They
+PST	were
+IST	able
+SUB	to
+EXS	do
+PRO	it
+REL	on
+HAS	their
+CON	own
+NIL	.

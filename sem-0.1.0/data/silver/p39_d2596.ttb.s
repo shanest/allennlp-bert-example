@@ -1,0 +1,11 @@
+PRO	She
+EPS	spent
+NOT	no
+LES	less
+MOR	than
+QUC	1,000
+UOM	dollars
+REL	on
+HAS	her
+CON	clothes
+NIL	.

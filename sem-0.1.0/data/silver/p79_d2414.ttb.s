@@ -1,0 +1,12 @@
+PRO	He
+ENS	speaks
+GPO	French
+COO	and
+AND	of
+CON	course
+PRO	he
+ENS	speaks
+GPO	English
+NIL	,
+ALT	too
+NIL	.

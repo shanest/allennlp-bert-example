@@ -1,0 +1,11 @@
+PRO	We
+NOW	're
+EXS	going
+SUB	to
+EXS	try
+SUB	to
+EXS	get
+PRO	you
+IST	full
+CON	custody
+NIL	.

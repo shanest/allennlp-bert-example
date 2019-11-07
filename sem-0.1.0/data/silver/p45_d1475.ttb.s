@@ -1,0 +1,9 @@
+PRO	I
+EPS	bought
+DIS	some
+CON	cheese
+AND	and
+DIS	a
+IST	little
+CON	milk
+NIL	.

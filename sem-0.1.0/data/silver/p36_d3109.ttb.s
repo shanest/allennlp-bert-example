@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	you
+NOW	're
+DEF	the
+QUC	one
+AND	who
+ENS	needs
+EXS	help
+NIL	.

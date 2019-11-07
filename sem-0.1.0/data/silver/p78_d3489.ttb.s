@@ -1,0 +1,15 @@
+IMP	If
+PRO	he
+PST	had
+NOT	not
+EXS	picked
+PRO	me
+IST	up
+NIL	,
+PRO	I
+FUT	would
+NOT	not
+EXS	be
+PRX	here
+NOW	now
+NIL	.

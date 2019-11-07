@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+AND	both
+AND	of
+DEF	the
+ROL	sisters
+NIL	.

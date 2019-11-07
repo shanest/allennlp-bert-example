@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	what
+SUB	to
+EXS	do
+REL	from
+NOW	now
+REL	on
+NIL	.

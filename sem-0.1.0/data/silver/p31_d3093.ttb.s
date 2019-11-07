@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXG	hoping
+SUB	that
+PER	Tom
+IST	never
+NOW	does
+DST	that
+ALT	again
+NIL	.

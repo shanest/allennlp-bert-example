@@ -1,0 +1,13 @@
+AND	And
+IMP	if
+DEF	the
+CON	vacuum
+EPS	explodes
+NIL	,
+PRO	it
+NOW	is
+EXS	called
+DIS	a
+COL	black
+CON	hole
+NIL	.

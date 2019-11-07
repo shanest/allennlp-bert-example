@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRX	this
+NOW	is
+QUE	what
+PRO	you
+NOW	're
+EXS	looking
+REL	for
+NIL	.

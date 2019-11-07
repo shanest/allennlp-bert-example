@@ -1,0 +1,14 @@
+PER	Tom
+EPS	proposed
+REL	to
+PER	Mary
+REL	on
+DEF	the
+CON	aforementioned
+CON	afternoon
+NIL	,
+BUT	but
+PRO	she
+EPS	rejected
+PRO	him
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+CON	neighbors
+HAS	'
+CON	son
+EPS	won
+DEF	the
+CON	spelling
+CON	bee
+REL	at
+CON	school
+NIL	.

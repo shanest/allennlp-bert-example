@@ -1,0 +1,15 @@
+AND	Last
+CON	month
+NIL	,
+PRO	they
+NEC	had
+SUB	to
+EXS	lay
+REL	off
+QUV	several
+QUC	hundred
+ROL	employees
+REL	in
+DEF	the
+CON	factory
+NIL	.

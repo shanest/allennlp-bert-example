@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXG	going
+NIL	to
+EXS	pick
+PRO	me
+REL	up
+REL	at
+CLO	2:30
+NIL	.

@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	empty
+PRX	this
+CON	cabinet
+AND	so
+SUB	that
+PRO	you
+POS	can
+EXS	use
+PRO	it
+NIL	.

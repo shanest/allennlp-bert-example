@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+AND	like
+DIS	a
+CON	parrot
+AND	that
+ENS	says
+AND	everything
+PRO	I
+NOW	say
+NIL	.

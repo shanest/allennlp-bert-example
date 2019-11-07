@@ -1,0 +1,10 @@
+EXS	Forgive
+PRO	me
+IMP	if
+PRO	I
+NOW	have
+NOT	n't
+EXT	cooked
+CON	supper
+IST	well
+NIL	.

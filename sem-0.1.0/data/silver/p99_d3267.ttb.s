@@ -1,0 +1,16 @@
+PER	Tom
+PST	had
+DIS	a
+IST	drunken
+CON	blackout
+COO	and
+POS	ca
+NOT	n't
+EXS	remember
+QUE	how
+PRO	he
+EPS	got
+CON	home
+AND	last
+CON	night
+NIL	.

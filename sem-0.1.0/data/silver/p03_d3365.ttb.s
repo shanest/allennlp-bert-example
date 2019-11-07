@@ -1,0 +1,13 @@
+DEF	The
+CON	child
+AND	who
+EPS	ate
+AND	almost
+AND	all
+PRX	this
+CON	cake
+NEC	must
+EXS	be
+INT	very
+EXS	fat
+NIL	.

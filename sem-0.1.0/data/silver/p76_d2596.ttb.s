@@ -1,0 +1,10 @@
+AND	As
+ALT	yet
+NIL	,
+PRO	I
+NOW	have
+NOT	not
+EXS	completed
+DEF	the
+CON	work
+NIL	.

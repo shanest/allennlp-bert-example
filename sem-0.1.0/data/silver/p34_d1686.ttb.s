@@ -1,0 +1,16 @@
+PER	Tom
+NEC	had
+SUB	to
+EXS	have
+HAS	his
+CON	locks
+EPS	rekeyed
+REL	after
+DIS	someone
+EPS	stole
+HAS	his
+CON	briefcase
+EXS	containing
+HAS	his
+CON	keys
+NIL	.

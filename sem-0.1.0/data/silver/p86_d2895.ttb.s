@@ -1,0 +1,10 @@
+QUE	What
+DEF	the
+CON	hell
+NOW	does
+DIS	a
+CON	priest
+ENS	know
+IST	about
+CON	marriage
+QUE	?

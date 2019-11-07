@@ -1,0 +1,12 @@
+DEF	The
+CON	pirates
+NOW	are
+EXG	hiding
+DEF	the
+CON	booty
+PRO	they
+EPS	got
+REL	from
+DEF	the
+CON	attack
+NIL	.

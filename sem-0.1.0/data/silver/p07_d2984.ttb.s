@@ -1,0 +1,10 @@
+DST	That
+PST	was
+DIS	an
+IST	exciting
+CON	game
+NIL	.
+AND	Everybody
+PST	was
+EXS	excited
+NIL	.

@@ -1,0 +1,13 @@
+HAS	Your
+CON	tea
+FUT	will
+EXS	get
+EXS	cold
+IMP	if
+PRO	you
+NOW	do
+NOT	n't
+EXS	drink
+PRO	it
+NOW	now
+NIL	.

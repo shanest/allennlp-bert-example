@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	.
+PRO	I
+EXS	overestimated
+HAS	my
+CON	abilities
+NIL	.

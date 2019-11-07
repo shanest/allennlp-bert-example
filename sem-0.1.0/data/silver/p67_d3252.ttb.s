@@ -1,0 +1,9 @@
+IST	Please
+EXS	tell
+PRO	me
+QUE	how
+SUB	to
+EXS	pronounce
+PRX	this
+CON	word
+NIL	.

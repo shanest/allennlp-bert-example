@@ -1,0 +1,9 @@
+PRO	I
+ENS	let
+PER	Tom
+EXS	drink
+DIS	some
+AND	of
+HAS	my
+CON	beer
+NIL	.

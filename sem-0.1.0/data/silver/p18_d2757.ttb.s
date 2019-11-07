@@ -1,0 +1,13 @@
+NOT	No
+NIL	,
+HAS	my
+CON	name
+NOW	is
+NOT	not
+PER	Maria
+NIL	.
+HAS	My
+CON	name
+NOW	is
+PER	Theresa
+NIL	.

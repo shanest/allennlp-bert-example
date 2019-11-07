@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	take
+NOW	turns
+EXG	taking
+AND	out
+DEF	the
+CON	garbage
+NIL	.

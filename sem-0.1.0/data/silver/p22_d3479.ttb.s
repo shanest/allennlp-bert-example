@@ -1,0 +1,10 @@
+IST	Strictly
+EXS	speaking
+NIL	,
+HAS	his
+CON	view
+ENS	differs
+IST	somewhat
+REL	from
+HAS	mine
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXG	serving
+DIS	a
+IST	ten-year
+CON	sentence
+REL	for
+CON	manslaughter
+NIL	.

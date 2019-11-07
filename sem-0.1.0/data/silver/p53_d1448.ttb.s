@@ -1,0 +1,20 @@
+PER	Hong Kong
+GPO	Chinese
+AND	who
+ENS	know
+XCL	only
+CON	English
+AND	as
+DIS	a
+IST	foreign
+CON	language
+NOT	never
+EXS	learn
+DEF	the
+IST	efficient
+CON	use
+AND	of
+DEF	the
+IST	Roman
+CON	alphabet
+NIL	.

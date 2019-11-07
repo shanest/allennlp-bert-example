@@ -1,0 +1,14 @@
+HAS	My
+ROL	father
+PST	was
+IST	late
+REL	for
+CON	work
+PRX	this
+CON	morning
+AND	because
+AND	of
+DIS	a
+CON	traffic
+CON	jam
+NIL	.

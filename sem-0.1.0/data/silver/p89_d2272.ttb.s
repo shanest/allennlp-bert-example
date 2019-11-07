@@ -1,0 +1,12 @@
+SUB	After
+PRO	she
+PST	had
+CON	lunch
+NIL	,
+PRO	she
+PST	got
+IST	ready
+SUB	to
+EXS	go
+IST	out
+NIL	.

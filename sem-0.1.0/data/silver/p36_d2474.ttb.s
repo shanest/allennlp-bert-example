@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	turning
+DEF	the
+CON	sound
+AND	of
+DEF	the
+CON	radio
+IST	down
+NIL	.

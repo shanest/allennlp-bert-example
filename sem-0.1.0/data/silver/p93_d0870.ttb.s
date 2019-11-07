@@ -1,0 +1,11 @@
+PRO	We
+FUT	'll
+IST	soon
+EXS	be
+IST	able
+SUB	to
+EXS	send
+PRO	you
+REL	to
+CON	jail
+NIL	.

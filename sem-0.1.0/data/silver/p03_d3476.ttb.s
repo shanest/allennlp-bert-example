@@ -1,0 +1,13 @@
+SUB	When
+PER	Tom
+EPS	left
+NIL	,
+PRO	I
+EPS	told
+PRO	him
+PRO	he
+FUT	'd
+EXS	be
+IST	back
+FUT	someday
+NIL	.

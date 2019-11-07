@@ -1,0 +1,11 @@
+AND	Last
+CON	week
+NIL	,
+PRO	I
+EPS	mailed
+PRO	him
+DIS	some
+CON	souvenirs
+REL	from
+DEF	the
+GPE	U.S.

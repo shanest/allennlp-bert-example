@@ -1,0 +1,10 @@
+CON	Version
+NTH	1.5.0
+AND	of
+DEF	the
+CON	software
+NOW	has
+IST	just
+PFT	been
+EXS	released
+NIL	.

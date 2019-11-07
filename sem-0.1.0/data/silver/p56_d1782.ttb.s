@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	meant
+SUB	to
+EXS	be
+QUC	much
+MOR	more
+MOR	than
+QUE	what
+PRO	I
+NOW	've
+EXS	become
+NIL	.

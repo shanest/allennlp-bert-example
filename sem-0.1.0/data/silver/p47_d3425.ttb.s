@@ -1,0 +1,10 @@
+QUE	What
+HAS	's
+DEF	the
+TOP	worst
+CON	tattoo
+PRO	you
+NOW	've
+IST	ever
+EXS	seen
+QUE	?

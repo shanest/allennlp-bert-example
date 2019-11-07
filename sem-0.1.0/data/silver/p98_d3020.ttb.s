@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	made
+DIS	a
+IST	first
+CON	draft
+AND	of
+HAS	my
+CON	thesis
+NIL	.

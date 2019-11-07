@@ -1,0 +1,11 @@
+PER	Tom
+PST	got
+EXS	lost
+REL	on
+HAS	his
+CON	way
+REL	to
+PER	Mary
+HAS	's
+CON	house
+NIL	.

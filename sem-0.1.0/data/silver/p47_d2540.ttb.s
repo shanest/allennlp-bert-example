@@ -1,0 +1,13 @@
+PRO	I
+IST	always
+NOW	wear
+DIS	a
+CON	watch
+AND	so
+PRO	I
+ENS	know
+QUE	what
+CON	time
+PRO	it
+NOW	is
+NIL	.

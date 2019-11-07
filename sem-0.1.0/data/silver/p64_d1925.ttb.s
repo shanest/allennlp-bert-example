@@ -1,0 +1,9 @@
+PRO	I
+EPS	worked
+QUC	three
+CON	years
+AND	as
+PER	Tom
+HAS	's
+ROL	assistant
+NIL	.

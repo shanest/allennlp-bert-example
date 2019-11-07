@@ -1,0 +1,9 @@
+PRO	I
+ENS	need
+NIL	to
+EXS	add
+CON	money
+REL	to
+HAS	my
+CON	account
+NIL	.

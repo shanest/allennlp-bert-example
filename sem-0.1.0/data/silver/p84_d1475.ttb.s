@@ -1,0 +1,9 @@
+PRO	I
+ENS	dare
+PRO	you
+SUB	to
+EXS	call
+PER	Tom
+DIS	a
+CON	sissy
+NIL	.

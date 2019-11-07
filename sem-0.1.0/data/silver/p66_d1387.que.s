@@ -1,0 +1,13 @@
+REL	At
+DEF	the
+ORG	World
+CON	Football
+NIL	Championship
+NIL	,
+REL	in
+QUE	what
+CON	place
+PST	did
+GPE	Italy
+EXS	finish
+QUE	?

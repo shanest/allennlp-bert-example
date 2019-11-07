@@ -1,0 +1,11 @@
+DIS	A
+CON	policeman
+EPS	asked
+DEF	the
+CON	girls
+IMP	if
+DEF	the
+CON	car
+PST	was
+HAS	theirs
+NIL	.

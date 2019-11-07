@@ -1,0 +1,11 @@
+UNK	There
+EPS	remained
+NOT	no
+MOR	more
+MOR	than
+QUC	20
+CON	people
+REL	in
+DEF	the
+CON	village
+NIL	.

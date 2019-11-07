@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+DIS	a
+CON	feeling
+AND	that
+PST	was
+NOT	n't
+INT	too
+UNK	difficult
+SUB	to
+EXS	do
+NIL	.

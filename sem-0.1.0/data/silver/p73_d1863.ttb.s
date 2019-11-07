@@ -1,0 +1,12 @@
+PRO	I
+POS	can
+NOT	not
+EXS	pass
+PRX	this
+CON	exam
+NIL	.
+PRO	It
+NOW	's
+INT	very
+EXS	difficult
+NIL	.

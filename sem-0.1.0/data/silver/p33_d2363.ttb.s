@@ -1,0 +1,10 @@
+NOW	Now
+SUB	that
+PER	Mary
+NOW	has
+EXS	left
+NIL	,
+PER	Tom
+NOW	is
+CON	happier
+NIL	.

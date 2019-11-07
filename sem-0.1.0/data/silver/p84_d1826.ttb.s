@@ -1,0 +1,9 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	speak
+REL	with
+HAS	my
+ROL	lawyer
+NIL	.

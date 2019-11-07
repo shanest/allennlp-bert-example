@@ -1,0 +1,12 @@
+HAS	His
+CON	suicide
+EPS	came
+AND	as
+DIS	a
+CON	result
+AND	of
+HAS	his
+CON	disappointment
+REL	in
+CON	love
+NIL	.

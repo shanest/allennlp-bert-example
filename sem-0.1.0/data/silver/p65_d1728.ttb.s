@@ -1,0 +1,15 @@
+PRO	I
+EPS	wrote
+REL	to
+PER	Tom
+DIS	a
+CON	while
+PST	ago
+NIL	,
+BUT	but
+PRO	he
+NOW	has
+NOT	n't
+EPS	replied
+ALT	yet
+NIL	.

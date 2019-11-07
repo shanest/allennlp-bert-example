@@ -1,0 +1,10 @@
+PRO	I
+EPS	bought
+DEF	the
+CON	car
+REL	at
+DIS	a
+QUC	10
+UOM	%
+CON	discount
+NIL	.

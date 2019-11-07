@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+PER	Mary
+HAS	's
+CON	boyfriend
+SUB	before
+PRO	she
+EPS	met
+PER	John
+NIL	.

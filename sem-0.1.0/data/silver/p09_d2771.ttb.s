@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	sick
+REL	for
+DIS	a
+INT	very
+IST	long
+CON	time
+NIL	.

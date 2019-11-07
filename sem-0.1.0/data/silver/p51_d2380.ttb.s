@@ -1,0 +1,15 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	speak
+DIS	a
+CON	word
+AND	of
+GPO	French
+SUB	when
+PRO	he
+IST	first
+EPS	arrived
+REL	in
+GPE	France
+NIL	.

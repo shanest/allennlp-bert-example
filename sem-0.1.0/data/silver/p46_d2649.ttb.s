@@ -1,0 +1,11 @@
+AND	All
+HAS	your
+CON	money
+FUT	wo
+NOT	n't
+EXS	get
+PRO	you
+REL	off
+PRX	this
+CON	island
+NIL	.

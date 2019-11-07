@@ -1,0 +1,10 @@
+PRO	He
+EPS	gave
+IST	up
+HAS	his
+CON	dream
+AND	of
+EXS	becoming
+DIS	a
+CON	pilot
+NIL	.

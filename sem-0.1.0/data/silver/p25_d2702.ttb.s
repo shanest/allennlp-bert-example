@@ -1,0 +1,14 @@
+PRO	He
+PST	was
+REL	in
+CON	error
+REL	in
+EXG	assuming
+SUB	that
+PRO	she
+FUT	would
+EXS	come
+SUB	to
+EXS	see
+PRO	him
+NIL	.

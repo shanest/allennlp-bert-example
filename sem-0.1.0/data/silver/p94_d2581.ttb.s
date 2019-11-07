@@ -1,0 +1,11 @@
+PRO	We
+EPS	tried
+PRO	it
+ALT	again
+NIL	,
+BUT	but
+POS	could
+NOT	n't
+EXS	do
+PRO	it
+NIL	.

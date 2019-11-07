@@ -1,0 +1,11 @@
+DST	That
+NOW	does
+NOT	n't
+EXS	mean
+SUB	that
+PRO	I
+FUT	'll
+EXS	stop
+EXG	doing
+PRO	it
+NIL	.

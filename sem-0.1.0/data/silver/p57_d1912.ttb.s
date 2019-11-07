@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXS	sitting
+REL	in
+HAS	their
+IST	usual
+CON	places
+NIL	.

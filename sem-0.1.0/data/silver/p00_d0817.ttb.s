@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	remember
+DEF	the
+CON	tune
+REL	of
+DST	that
+CON	song
+NIL	.

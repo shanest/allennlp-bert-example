@@ -1,0 +1,13 @@
+DEF	The
+IST	express
+CON	train
+EPS	went
+REL	by
+INT	so
+IST	fast
+SUB	that
+PRO	we
+IST	hardly
+EPS	saw
+PRO	it
+NIL	.

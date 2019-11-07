@@ -1,0 +1,12 @@
+PRO	I
+ENS	know
+QUE	how
+IST	difficult
+PRO	it
+NOW	is
+REL	for
+PRO	you
+SUB	to
+EXS	believe
+PRO	me
+NIL	.

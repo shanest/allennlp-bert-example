@@ -1,0 +1,6 @@
+PRO	I
+NOW	'm
+QUC	17
+NIL	,
+ALT	too
+NIL	.

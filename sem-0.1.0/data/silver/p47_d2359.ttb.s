@@ -1,0 +1,9 @@
+DEF	The
+CON	prospects
+REL	for
+GPE	Japan
+HAS	's
+CON	future
+NOW	look
+IST	dismal
+NIL	.

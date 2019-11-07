@@ -1,0 +1,10 @@
+PRO	I
+EPS	charged
+PRO	them
+INT	too
+QUV	much
+CON	money
+REL	for
+HAS	their
+CON	room
+NIL	.

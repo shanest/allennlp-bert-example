@@ -1,0 +1,10 @@
+PER	Tom
+ENS	spends
+DIS	a
+CON	lot
+AND	of
+CON	time
+REL	at
+PER	Mary
+HAS	's
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+PRO	you
+NOW	are
+EXS	hiding
+REF	yourself
+AND	behind
+DEF	the
+CON	curtain
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	waiting
+SUB	to
+EXS	see
+QUE	what
+FUT	will
+EXS	happen
+NIL	.

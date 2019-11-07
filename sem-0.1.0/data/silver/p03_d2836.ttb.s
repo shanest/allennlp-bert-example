@@ -1,0 +1,12 @@
+PRO	I
+EPS	noticed
+SUB	that
+DIS	a
+IST	small
+COL	gray
+CON	animal
+PST	was
+EXG	looking
+AND	toward
+PRO	us
+NIL	.

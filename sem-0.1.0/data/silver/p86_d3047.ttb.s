@@ -1,0 +1,9 @@
+HAS	His
+CON	army
+PST	was
+CON	west
+AND	of
+DEF	the
+NTH	Mississippi
+CON	River
+NIL	.

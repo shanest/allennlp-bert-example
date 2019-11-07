@@ -1,0 +1,12 @@
+PRO	I
+EPS	began
+SUB	to
+EXS	be
+IST	afraid
+PRO	you
+FUT	would
+NOT	never
+EXS	come
+IST	back
+ALT	again
+NIL	.

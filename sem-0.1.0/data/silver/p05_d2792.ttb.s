@@ -1,0 +1,9 @@
+HAS	My
+ROL	grandmother
+HAS	's
+CON	death
+PST	was
+DIS	a
+IST	big
+CON	shock
+NIL	.

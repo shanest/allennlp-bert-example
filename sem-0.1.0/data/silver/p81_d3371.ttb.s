@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+IST	first
+CON	time
+SUB	that
+PRO	I
+NOW	have
+EXS	been
+PRX	here
+NIL	.

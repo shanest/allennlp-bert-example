@@ -1,0 +1,10 @@
+PRO	I
+POS	could
+EXS	ask
+PER	Tom
+NIL	to
+EXS	babysit
+REL	for
+PRO	us
+CON	tonight
+NIL	.

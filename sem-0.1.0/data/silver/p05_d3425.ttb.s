@@ -1,0 +1,17 @@
+DEF	The
+CON	police
+FUT	will
+EXS	release
+DEF	the
+CON	victim
+HAS	's
+CON	name
+SUB	after
+PRO	they
+NOW	have
+EXS	notified
+HAS	his
+IST	next
+AND	of
+CON	kin
+NIL	.

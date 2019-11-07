@@ -1,0 +1,13 @@
+XCL	Only
+REL	by
+EXG	prohibiting
+IST	nuclear
+CON	weapons
+IST	altogether
+POS	can
+PRO	we
+EXS	stop
+DEF	the
+CON	arms
+CON	race
+NIL	.

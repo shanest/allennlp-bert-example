@@ -1,0 +1,13 @@
+HAS	My
+ROL	father
+NOW	is
+QUC	48
+NIL	,
+BUT	but
+PRO	he
+NOW	looks
+IST	young
+REL	for
+HAS	his
+CON	age
+NIL	.

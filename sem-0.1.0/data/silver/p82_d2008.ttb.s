@@ -1,0 +1,15 @@
+AND	Next
+DOW	Friday
+NIL	,
+PRO	I
+NOW	'm
+EXS	going
+REL	on
+DIS	a
+CON	date
+REL	with
+DIS	a
+CON	girl
+EPS	named
+PER	Mary
+NIL	.

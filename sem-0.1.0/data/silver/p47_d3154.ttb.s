@@ -1,0 +1,9 @@
+AND	Every
+CON	part
+AND	of
+DEF	the
+CON	island
+NOW	has
+PFT	been
+EXS	explored
+NIL	.

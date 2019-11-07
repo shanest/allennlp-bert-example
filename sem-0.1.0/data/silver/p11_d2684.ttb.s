@@ -1,0 +1,13 @@
+PER	Tom
+NOW	is
+REL	in
+DIS	a
+CON	meeting
+NIL	,
+COO	but
+PER	Mary
+ENS	's
+REL	in
+HAS	her
+CON	office
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	realized
+UNK	there
+PST	was
+NOT	no
+CON	point
+REL	in
+EXS	lying
+REL	to
+PER	Mary
+NIL	.

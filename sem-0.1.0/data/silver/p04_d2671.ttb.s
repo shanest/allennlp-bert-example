@@ -1,0 +1,13 @@
+PRO	I
+ENS	start
+IST	early
+FUT	tomorrow
+NIL	,
+POS	maybe
+PRO	I
+NEC	should
+EXS	go
+SUB	to
+EXS	sleep
+IST	soon
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+NOW	am
+EXS	hoping
+SUB	to
+EXS	put
+DIS	an
+CON	end
+REL	to
+HAS	our
+NOT	un
+EXS	happy
+CON	relationship
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	play
+DEF	the
+CON	ocarina
+NIL	,
+COO	but
+PER	Mary
+POS	can
+NIL	.

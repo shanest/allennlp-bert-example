@@ -1,0 +1,9 @@
+PER	Tom
+EPS	said
+PRO	he
+FUT	would
+EXS	come
+REL	to
+DEF	the
+CON	party
+NIL	.

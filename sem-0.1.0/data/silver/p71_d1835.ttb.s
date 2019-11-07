@@ -1,0 +1,10 @@
+PRO	We
+NOW	've
+IST	just
+EXS	run
+IST	out
+AND	of
+CON	salt
+AND	and
+CON	pepper
+NIL	.

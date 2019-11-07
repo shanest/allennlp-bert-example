@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+PFT	been
+SUB	to
+IST	neither
+AND	of
+DST	those
+CON	places
+NIL	.

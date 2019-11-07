@@ -1,0 +1,16 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	die
+NIL	,
+COO	and
+PRO	I
+ENS	want
+PRO	you
+SUB	to
+EXS	stay
+PRX	here
+REL	with
+PRO	me
+NIL	.

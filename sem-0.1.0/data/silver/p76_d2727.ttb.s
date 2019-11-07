@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	busy
+EXS	making
+CON	breakfast
+REL	for
+DEF	the
+CON	family
+NIL	.

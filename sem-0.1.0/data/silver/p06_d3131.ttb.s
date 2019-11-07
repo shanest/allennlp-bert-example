@@ -1,0 +1,9 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	drink
+DIS	a
+CON	Guinness
+AND	right
+NOW	now
+NIL	.

@@ -1,0 +1,12 @@
+PRO	She
+ENS	is
+REL	from
+GPE	Hokkaido
+NIL	,
+BUT	but
+NOW	is
+NOW	now
+EXG	living
+REL	in
+GPE	Tokyo
+NIL	.

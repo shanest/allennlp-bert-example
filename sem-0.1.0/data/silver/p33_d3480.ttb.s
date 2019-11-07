@@ -1,0 +1,10 @@
+PRO	They
+NOW	're
+IST	just
+EXS	jealous
+SUB	that
+PRO	we
+NOW	're
+EXS	having
+CON	fun
+NIL	.

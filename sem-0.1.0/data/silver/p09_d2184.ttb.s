@@ -1,0 +1,12 @@
+DEF	The
+ROL	politician
+PST	did
+NOT	not
+EXS	bother
+SUB	to
+EXS	apologize
+REL	for
+EXG	betraying
+HAS	our
+CON	trust
+NIL	.

@@ -1,0 +1,13 @@
+DEF	The
+CON	story
+NOW	is
+IST	good
+NOT	except
+SUB	that
+PRO	it
+NOW	is
+DIS	a
+IST	little
+INT	too
+IST	long
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+IST	often
+EXS	confuse
+PER	John
+COO	and
+HAS	his
+CON	twin
+CON	brother
+NIL	.

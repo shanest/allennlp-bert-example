@@ -1,0 +1,14 @@
+PRO	It
+NOW	is
+EXS	strange
+SUB	that
+CON	people
+REL	in
+IST	hot
+CON	climate
+EXS	eat
+IST	hot
+CON	things
+AND	like
+CON	curry
+NIL	.

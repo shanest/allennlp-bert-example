@@ -1,0 +1,11 @@
+DEF	The
+CON	radio
+NOW	is
+INT	too
+IST	loud
+NIL	.
+EXS	Turn
+DEF	the
+CON	volume
+IST	down
+NIL	.

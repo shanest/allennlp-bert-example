@@ -1,0 +1,9 @@
+PRO	I
+FUT	'll
+NOT	never
+EXS	forget
+QUE	what
+PRO	you
+EPS	told
+PRO	me
+NIL	.

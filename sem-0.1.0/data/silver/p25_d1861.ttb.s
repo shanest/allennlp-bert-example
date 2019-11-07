@@ -1,0 +1,13 @@
+ROL	Princess
+PER	Alice
+AND	of
+GPE	Greece
+PST	was
+EXS	deaf
+COO	and
+POS	could
+EXS	lip-read
+REL	in
+QUC	three
+CON	languages
+NIL	.

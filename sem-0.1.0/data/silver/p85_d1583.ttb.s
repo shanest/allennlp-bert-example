@@ -1,0 +1,10 @@
+PER	Tom
+EPS	slammed
+DEF	the
+CON	door
+EPS	shut
+IST	just
+SUB	to
+EXS	annoy
+PER	Mary
+NIL	.

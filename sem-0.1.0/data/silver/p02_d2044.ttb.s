@@ -1,0 +1,13 @@
+PRO	We
+NOW	do
+NOT	n't
+EXS	believe
+SUB	that
+PER	Tom
+FUT	will
+EXS	be
+IST	able
+SUB	to
+EXS	master
+GPO	French
+NIL	.

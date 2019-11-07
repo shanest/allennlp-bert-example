@@ -1,0 +1,13 @@
+HAS	Our
+CON	mountains
+NOW	are
+NOT	n't
+IST	really
+INT	very
+EXS	high
+NIL	.
+HAS	Yours
+NOW	are
+QUC	much
+COM	bigger
+NIL	.

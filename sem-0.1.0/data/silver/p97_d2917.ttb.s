@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+IST	ever
+EXT	stuck
+DIS	a
+CON	poster
+REL	on
+DIS	a
+CON	wall
+QUE	?

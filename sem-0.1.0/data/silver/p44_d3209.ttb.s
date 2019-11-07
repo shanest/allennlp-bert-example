@@ -1,0 +1,13 @@
+PER	Tom
+EPS	took
+DIS	a
+CON	picture
+AND	of
+HAS	his
+IST	old
+CON	camera
+REL	with
+HAS	his
+IST	new
+CON	camera
+NIL	.

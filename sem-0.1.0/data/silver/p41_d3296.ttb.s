@@ -1,0 +1,13 @@
+AND	Would
+PRO	you
+CON	mind
+IMP	if
+PRO	I
+ENS	speak
+REL	to
+PER	Tom
+AND	alone
+REL	for
+DIS	a
+CON	sec
+QUE	?

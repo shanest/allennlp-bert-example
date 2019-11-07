@@ -1,0 +1,11 @@
+DEF	The
+CON	man
+AND	who
+NOW	is
+EXG	waving
+REL	to
+PRO	me
+NOW	is
+HAS	my
+CON	uncle
+NIL	.

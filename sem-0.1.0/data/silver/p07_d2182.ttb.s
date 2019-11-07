@@ -1,0 +1,12 @@
+DEF	The
+CON	journalists
+REL	in
+GPE	Russia
+NOW	are
+NOT	not
+EXS	free
+NIL	,
+NOW	are
+NOT	not
+EXS	independent
+NIL	.

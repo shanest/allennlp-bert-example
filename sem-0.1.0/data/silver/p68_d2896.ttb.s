@@ -1,0 +1,9 @@
+GEO	Lake
+GEO	Towada
+NOW	is
+REL	in
+DEF	the
+CON	north
+AND	of
+GPE	Japan
+NIL	.

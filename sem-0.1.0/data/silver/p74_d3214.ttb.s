@@ -1,0 +1,9 @@
+PRO	We
+EPS	met
+DIS	a
+CON	traffic
+CON	jam
+REL	on
+DEF	the
+CON	way
+NIL	.

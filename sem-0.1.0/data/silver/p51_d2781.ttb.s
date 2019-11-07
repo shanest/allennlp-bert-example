@@ -1,0 +1,9 @@
+PRO	He
+EPS	asked
+PRO	me
+AND	who
+PST	had
+EXS	painted
+DEF	the
+CON	picture
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+IST	difficult
+SUB	to
+EXS	calculate
+DEF	the
+CON	results
+AND	of
+DEF	the
+CON	election
+NIL	.

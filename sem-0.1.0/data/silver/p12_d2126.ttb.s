@@ -1,0 +1,12 @@
+PER	Tom
+EPS	put
+AND	all
+HAS	his
+CON	belongings
+REL	in
+CON	boxes
+COO	and
+EPS	sent
+PRO	them
+GPE	Boston
+NIL	.

@@ -1,0 +1,9 @@
+REL	At
+QUC	five
+PRO	I
+PST	was
+IST	already
+IST	able
+SUB	to
+EXS	ski
+NIL	.

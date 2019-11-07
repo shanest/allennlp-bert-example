@@ -1,0 +1,13 @@
+NOW	Are
+PRO	you
+EXS	going
+SUB	to
+EXS	tell
+PRO	me
+SUB	that
+PRO	you
+AND	and
+PER	Tom
+NOT	never
+EXS	dated
+QUE	?

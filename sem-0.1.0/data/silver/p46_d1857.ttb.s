@@ -1,0 +1,14 @@
+DEF	The
+CON	juggler
+EPS	wowed
+DEF	the
+CON	crowd
+REL	by
+EXS	keeping
+QUC	ten
+CON	oranges
+IST	up
+REL	in
+DEF	the
+CON	air
+NIL	.

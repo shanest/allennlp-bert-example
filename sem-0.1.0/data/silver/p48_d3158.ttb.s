@@ -1,0 +1,12 @@
+PRO	I
+EPS	forgot
+SUB	to
+EXS	turn
+REL	off
+DEF	the
+CON	television
+SUB	before
+EXS	going
+SUB	to
+EXS	sleep
+NIL	.

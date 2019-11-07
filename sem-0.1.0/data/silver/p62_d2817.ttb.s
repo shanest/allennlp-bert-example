@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+EXS	believe
+CON	people
+AND	who
+ENS	claim
+SUB	that
+PRO	they
+ENS	know
+AND	everything
+NIL	.

@@ -1,0 +1,16 @@
+NIL	"
+NOW	Do
+PRO	you
+EXS	have
+DIS	anything
+NIL	to
+EXS	do
+QUE	?
+NIL	"
+NIL	"
+NOT	No
+NIL	,
+NOT	not
+IST	really
+NIL	.
+NIL	"

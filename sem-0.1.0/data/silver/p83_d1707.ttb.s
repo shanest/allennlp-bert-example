@@ -1,0 +1,10 @@
+PRO	I
+NOW	wonder
+QUE	what
+HAS	your
+CON	friend
+PER	Tom
+NOW	is
+EXS	doing
+NOW	now
+NIL	.

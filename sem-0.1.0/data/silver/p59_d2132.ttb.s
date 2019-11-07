@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+PFT	been
+EXG	waiting
+REL	for
+PRX	this
+CON	day
+SUB	to
+EXS	come
+NIL	.

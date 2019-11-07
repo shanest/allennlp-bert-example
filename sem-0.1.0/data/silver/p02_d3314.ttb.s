@@ -1,0 +1,14 @@
+PRO	I
+EPS	waited
+REL	for
+PER	Tom
+REL	for
+QUC	three
+CON	hours
+NIL	,
+BUT	but
+PRO	he
+NOT	never
+EPS	showed
+IST	up
+NIL	.

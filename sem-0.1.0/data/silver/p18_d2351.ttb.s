@@ -1,0 +1,10 @@
+PRO	We
+NOW	are
+EXG	disturbing
+PER	Tom
+SUB	because
+PRO	he
+IST	always
+ENS	disturbs
+PRO	us
+NIL	.

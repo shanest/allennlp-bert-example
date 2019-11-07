@@ -1,0 +1,9 @@
+EXS	Did
+PRO	you
+EXS	eat
+CON	chicken
+REL	for
+CON	lunch
+ALT	again
+NOW	today
+QUE	?

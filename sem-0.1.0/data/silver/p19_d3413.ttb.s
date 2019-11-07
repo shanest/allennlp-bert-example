@@ -1,0 +1,10 @@
+DEF	The
+CON	problem
+NOW	is
+COM	worse
+MOR	than
+PRO	we
+EPS	thought
+PRO	it
+PST	was
+NIL	.

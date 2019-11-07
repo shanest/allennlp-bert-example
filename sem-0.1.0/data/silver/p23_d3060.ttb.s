@@ -1,0 +1,17 @@
+HAS	His
+CON	scores
+NOW	are
+IST	always
+MOR	better
+MOR	than
+HAS	mine
+NIL	,
+AND	even
+SUB	though
+PRO	he
+NOW	does
+NOT	n't
+EXS	study
+INT	very
+QUV	much
+NIL	.

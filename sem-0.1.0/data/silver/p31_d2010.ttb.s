@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+EXS	said
+AND	that
+DOW	Friday
+DEF	the
+CON	13th
+NOW	is
+DIS	an
+IST	unlucky
+CON	day
+NIL	.

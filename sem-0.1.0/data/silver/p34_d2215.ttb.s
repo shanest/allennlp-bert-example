@@ -1,0 +1,14 @@
+PRO	It
+NOW	's
+NOW	is
+IST	so
+EXS	difficult
+SUB	that
+PRO	I
+NOW	have
+EXS	decided
+SUB	to
+EXS	give
+IST	up
+EXS	trying
+NIL	.

@@ -1,0 +1,13 @@
+PRO	They
+NOW	have
+EXS	scoured
+DEF	the
+IST	whole
+CON	desert
+REL	in
+CON	search
+AND	of
+DEF	the
+IST	hidden
+CON	treasure
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+NOT	not
+EXS	wearing
+DIS	a
+CON	diamond
+CON	ring
+NIL	,
+BUT	but
+PRO	I
+NOW	'm
+EXS	happy
+NIL	.

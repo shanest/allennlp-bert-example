@@ -1,0 +1,17 @@
+PRO	I
+NOW	've
+EXS	asked
+CON	lots
+AND	of
+CON	people
+SUB	to
+EXS	help
+NIL	,
+BUT	but
+PRO	I
+NOW	have
+NOT	n't
+AND	any
+CON	joy
+ALT	yet
+NIL	.

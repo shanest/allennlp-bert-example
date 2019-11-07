@@ -1,0 +1,9 @@
+PER	Elizabeth
+DEF	the
+PER	Second
+HAS	's
+CON	father
+PST	was
+PER	George
+PER	VI
+NIL	.

@@ -1,0 +1,12 @@
+PRO	He
+AND	always
+NOW	takes
+CON	advantage
+AND	of
+DEF	the
+CON	mistakes
+EPS	made
+REL	by
+HAS	his
+CON	rivals
+NIL	.

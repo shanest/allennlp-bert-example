@@ -1,0 +1,11 @@
+CON	Spring
+NOW	has
+EXS	arrived
+NIL	.
+PRO	It
+NOW	's
+EXS	getting
+MOR	hotter
+AND	each
+CON	day
+NIL	.

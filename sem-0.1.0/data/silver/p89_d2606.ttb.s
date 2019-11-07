@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	thinking
+AND	of
+EXS	going
+REL	to
+DEF	the
+CON	mountains
+NIL	.

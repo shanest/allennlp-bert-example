@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+NOW	think
+PER	Tom
+IST	really
+EPS	did
+PRX	this
+NOT	without
+AND	any
+EXS	help
+QUE	?

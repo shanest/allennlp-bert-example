@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	silent
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

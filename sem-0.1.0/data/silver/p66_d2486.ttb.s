@@ -1,0 +1,15 @@
+PRO	It
+NOW	's
+IST	hard
+SUB	to
+EXS	tell
+CON	Englishmen
+REL	from
+GPE	Americans
+AND	just
+REL	by
+DEF	the
+CON	way
+PRO	they
+NOW	look
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+NIL	,
+PRO	I
+NOW	have
+NOT	n't
+PFT	been
+IST	completely
+EXS	honest
+REL	with
+PRO	you
+NIL	.

@@ -1,0 +1,10 @@
+HAS	My
+CON	comment
+EPS	sparked
+REL	off
+DIS	an
+CON	argument
+REL	in
+DEF	the
+CON	group
+NIL	.

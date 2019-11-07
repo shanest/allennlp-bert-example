@@ -1,0 +1,23 @@
+GPE	China
+NOW	has
+EPS	shot
+IST	down
+QUC	one
+AND	of
+HAS	their
+IST	old
+CON	weather
+CON	satellites
+REL	with
+DIS	a
+IST	ballistic
+CON	missile
+AND	and
+DEF	the
+CON	United States
+NOW	is
+EXS	concerned
+AND	about
+DEF	the
+CON	test
+NIL	.

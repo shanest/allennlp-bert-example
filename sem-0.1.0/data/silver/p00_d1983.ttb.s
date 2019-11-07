@@ -1,0 +1,9 @@
+PER	Chris
+PST	did
+NOT	n't
+EXS	have
+DIS	a
+CON	car
+NIL	to
+EXS	drive
+NIL	.

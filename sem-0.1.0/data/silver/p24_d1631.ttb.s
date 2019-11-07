@@ -1,0 +1,12 @@
+IMP	If
+PRO	he
+NOW	is
+EXS	corrected
+INT	too
+QUV	much
+NIL	,
+PRO	he
+FUT	will
+EXS	stop
+EXS	talking
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+NOT	not
+IST	so
+QUC	much
+DIS	a
+ROL	translator
+AND	as
+DIS	a
+ROL	poet
+NIL	.

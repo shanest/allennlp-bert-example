@@ -1,0 +1,11 @@
+PER	Tom
+NOW	has
+PFT	been
+EXG	sitting
+IST	there
+REL	for
+DIS	a
+IST	really
+IST	long
+CON	time
+NIL	.

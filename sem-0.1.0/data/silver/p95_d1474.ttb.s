@@ -1,0 +1,10 @@
+ROL	Mr
+PER	Hill
+EPS	went
+REL	on
+DIS	a
+CON	journey
+REL	to
+GPE	Japan
+PST	yesterday
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+EPS	knew
+PRO	it
+PST	was
+PER	Mary
+AND	who
+EPS	translated
+PRX	this
+CON	letter
+NIL	.

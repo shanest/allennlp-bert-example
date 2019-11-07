@@ -1,0 +1,13 @@
+DEF	The
+CON	movie
+AND	that
+PER	Tom
+AND	and
+PER	Mary
+EPS	watched
+IST	together
+PST	had
+DIS	a
+IST	happy
+CON	ending
+NIL	.

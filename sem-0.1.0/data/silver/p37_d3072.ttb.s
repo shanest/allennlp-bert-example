@@ -1,0 +1,10 @@
+PER	Tom
+EPS	took
+DIS	a
+IST	deep
+CON	breath
+COO	and
+EXS	closed
+HAS	his
+CON	eyes
+NIL	.

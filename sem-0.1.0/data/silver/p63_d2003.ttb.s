@@ -1,0 +1,12 @@
+PRO	You
+EPS	won
+CON	prizes
+REL	in
+DEF	the
+CON	spelling
+CON	competition
+NIL	,
+PST	did
+NOT	n't
+PRO	you
+QUE	?

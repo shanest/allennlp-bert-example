@@ -1,0 +1,13 @@
+PRO	I
+NOW	hear
+DEF	the
+CON	grass
+REL	in
+GPE	England
+NOW	is
+COL	green
+AND	even
+REL	in
+DEF	the
+CON	winter
+NIL	.

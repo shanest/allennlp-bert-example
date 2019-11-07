@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	afraid
+DEF	the
+CON	prognosis
+NOW	is
+NOT	n't
+EXS	good
+NIL	.

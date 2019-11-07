@@ -1,0 +1,9 @@
+GEO	Libya
+EPS	requested
+DIS	an
+CON	injunction
+AND	against
+GPE	Britain
+EQU	and
+DEF	the
+GEO	U.S.

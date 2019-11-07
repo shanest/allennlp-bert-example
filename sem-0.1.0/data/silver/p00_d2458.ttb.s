@@ -1,0 +1,11 @@
+PER	Tom
+ENS	likes
+NIL	to
+EXS	stay
+CON	home
+COO	and
+EXS	read
+CON	books
+REL	on
+CON	weekends
+NIL	.

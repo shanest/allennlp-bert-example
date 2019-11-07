@@ -1,0 +1,11 @@
+HAS	Our
+CON	club
+CON	dining
+CON	room
+ALT	also
+NOW	has
+DIS	a
+CON	menu
+REL	in
+GEO	Esperanto
+NIL	.

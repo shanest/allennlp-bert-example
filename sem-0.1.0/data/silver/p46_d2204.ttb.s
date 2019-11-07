@@ -1,0 +1,10 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	she
+PST	was
+EXS	wasting
+HAS	her
+CON	time
+NIL	.

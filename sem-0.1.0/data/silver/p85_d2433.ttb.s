@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+EXS	getting
+IST	far
+IST	too
+EXS	familiar
+REL	with
+HAS	my
+CON	wife
+NIL	.

@@ -1,0 +1,10 @@
+HAS	Our
+CON	math
+CON	teacher
+EPS	drew
+DIS	a
+CON	circle
+REL	on
+DEF	the
+CON	blackboard
+NIL	.

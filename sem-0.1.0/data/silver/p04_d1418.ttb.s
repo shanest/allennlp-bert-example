@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+EXS	developed
+DIS	a
+IST	new
+CON	system
+REL	for
+EXG	learning
+GPO	English
+NIL	.

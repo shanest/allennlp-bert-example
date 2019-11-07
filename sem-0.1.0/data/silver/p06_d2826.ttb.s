@@ -1,0 +1,13 @@
+PER	Tom
+EPS	tried
+SUB	to
+EXS	convince
+PER	Mary
+SUB	that
+PRO	she
+NEC	should
+EXS	cheat
+REL	on
+HAS	her
+CON	boyfriend
+NIL	.

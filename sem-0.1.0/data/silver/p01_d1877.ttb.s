@@ -1,0 +1,11 @@
+PRO	I
+PST	had
+NOT	n't
+EXS	seen
+HAS	my
+ROL	friend
+REL	for
+MOR	over
+QUC	twenty
+UOM	years
+NIL	.

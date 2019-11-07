@@ -1,0 +1,10 @@
+PRO	I
+ENS	believe
+SUB	that
+PRO	she
+NOW	has
+NOT	never
+EXS	told
+DIS	a
+CON	lie
+NIL	.

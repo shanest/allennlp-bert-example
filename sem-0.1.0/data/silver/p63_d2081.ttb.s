@@ -1,0 +1,13 @@
+PER	Tom
+EPS	broke
+QUC	one
+AND	of
+DEF	the
+CON	rules
+AND	and
+PST	was
+EPS	kicked
+AND	out
+AND	of
+CON	school
+NIL	.

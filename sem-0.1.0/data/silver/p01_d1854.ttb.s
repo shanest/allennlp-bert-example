@@ -1,0 +1,13 @@
+PRO	I
+POS	ca
+NOT	n't
+IST	even
+EXS	speak
+GPO	English
+IST	very
+IST	well
+NIL	,
+QUV	much
+IST	less
+GPO	Spanish
+NIL	.

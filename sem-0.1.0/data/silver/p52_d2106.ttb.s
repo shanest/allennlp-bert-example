@@ -1,0 +1,13 @@
+PRO	It
+HAS	's
+DEF	the
+INT	most
+IST	idiotic
+CON	thing
+PRO	I
+NOW	've
+EXS	seen
+REL	in
+HAS	my
+CON	life
+NIL	.

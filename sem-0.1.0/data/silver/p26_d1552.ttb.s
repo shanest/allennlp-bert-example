@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+QUC	one
+AND	of
+GPE	Spain
+HAS	's
+INT	most
+IST	famous
+CON	authors
+NIL	.

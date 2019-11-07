@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+NOT	not
+IST	ashamed
+AND	of
+AND	who
+PRO	I
+NOW	am
+DIS	or
+QUE	what
+PRO	I
+PST	did
+NIL	.

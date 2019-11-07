@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+IST	often
+EPS	told
+PRO	us
+AND	about
+HAS	his
+CON	school
+CON	days
+NIL	.

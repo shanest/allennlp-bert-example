@@ -1,0 +1,10 @@
+PRO	He
+PST	had
+QUC	once
+ALT	again
+EXS	drunk
+QUC	one
+AND	over
+DEF	the
+QUC	eight
+NIL	.

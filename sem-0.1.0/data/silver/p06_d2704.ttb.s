@@ -1,0 +1,11 @@
+PER	Tom
+EPS	told
+PRO	me
+SUB	that
+PRO	you
+ENS	like
+SUB	to
+EXS	eat
+CON	spicy
+CON	food
+NIL	.

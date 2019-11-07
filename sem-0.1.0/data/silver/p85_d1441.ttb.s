@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	thinking
+AND	of
+EXS	learning
+GPO	Korean
+IST	next
+CON	semester
+NIL	.

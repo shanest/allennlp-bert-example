@@ -1,0 +1,15 @@
+NOT	Not
+XCL	only
+NOW	does
+PER	Tom
+NOW	play
+DEF	the
+CON	harmonica
+NIL	,
+PRO	he
+ENS	plays
+DEF	the
+CON	guitar
+NIL	,
+IST	too
+NIL	.

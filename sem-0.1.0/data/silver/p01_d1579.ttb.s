@@ -1,0 +1,15 @@
+PRO	I
+ENS	have
+DIS	a
+CON	lot
+AND	of
+CON	flowers
+NIL	.
+DIS	Some
+NOW	are
+COL	red
+COO	and
+ALT	others
+NOW	are
+COL	yellow
+NIL	.

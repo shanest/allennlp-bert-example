@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	looking
+REL	for
+DIS	a
+CON	bank
+NIL	.
+NOW	Is
+UNK	there
+QUC	one
+AND	near
+PRX	here
+QUE	?

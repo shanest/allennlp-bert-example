@@ -1,0 +1,11 @@
+AND	But
+DEF	the
+IST	first
+CON	thing
+PRO	we
+NOW	say
+NOW	is
+NIL	"
+GRE	hello
+NIL	.
+NIL	"

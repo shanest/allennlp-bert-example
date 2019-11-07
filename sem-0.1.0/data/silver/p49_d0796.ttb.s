@@ -1,0 +1,10 @@
+PRX	These
+CON	books
+NOW	are
+HAS	mine
+AND	and
+DST	those
+CON	books
+NOW	are
+HAS	his
+NIL	.

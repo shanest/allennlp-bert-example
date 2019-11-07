@@ -1,0 +1,11 @@
+UNK	There
+HAS	's
+NOT	no
+CON	way
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	do
+DST	that
+NIL	.

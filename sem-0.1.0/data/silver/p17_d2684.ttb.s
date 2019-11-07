@@ -1,0 +1,10 @@
+HAS	My
+ROL	grandmother
+PST	was
+EXS	sent
+REL	to
+DIS	a
+CON	hospital
+REL	in
+GPE	Germany
+NIL	.

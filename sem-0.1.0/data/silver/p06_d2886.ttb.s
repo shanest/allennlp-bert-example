@@ -1,0 +1,11 @@
+PER	Paul
+EPS	went
+REL	to
+DEF	the
+CON	party
+REL	in
+CON	place
+AND	of
+HAS	his
+ROL	father
+NIL	.

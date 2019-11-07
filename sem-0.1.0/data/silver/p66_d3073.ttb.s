@@ -1,0 +1,11 @@
+PRO	I
+NOW	see
+PRO	you
+NOW	're
+EXS	doing
+INT	very
+IST	well
+REL	in
+HAS	your
+CON	business
+NIL	.

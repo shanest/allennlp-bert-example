@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	done
+PRX	this
+REL	in
+HAS	my
+CON	life
+NIL	.

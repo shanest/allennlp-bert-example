@@ -1,0 +1,11 @@
+PRO	He
+FUT	will
+EXS	be
+IST	able
+SUB	to
+EXS	hand
+REL	in
+HAS	his
+CON	report
+FUT	tomorrow
+NIL	.

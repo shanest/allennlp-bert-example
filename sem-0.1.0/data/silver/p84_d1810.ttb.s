@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+PRO	he
+NOW	is
+NOT	n't
+CON	home
+NIL	.

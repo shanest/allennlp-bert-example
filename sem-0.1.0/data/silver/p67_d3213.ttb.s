@@ -1,0 +1,10 @@
+DEF	The
+CON	company
+PST	was
+EXS	forced
+SUB	to
+EXS	lay
+REL	off
+QUV	many
+ROL	employees
+NIL	.

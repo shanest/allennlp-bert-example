@@ -1,0 +1,11 @@
+PRO	We
+FUT	will
+EXS	be
+EXG	enjoying
+DEF	the
+CON	life
+REL	in
+GEO	Paris
+AND	next
+CON	month
+NIL	.

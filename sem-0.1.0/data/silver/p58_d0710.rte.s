@@ -1,0 +1,30 @@
+DEF	The
+CON	government
+HAS	's
+CON	plans
+REL	for
+EXS	reorganising
+IST	local
+CON	government
+REL	in
+GEO	Wales
+AND	and
+GPE	Scotland
+NEC	should
+EXS	be
+EXS	withdrawn
+NIL	,
+CON	leaders
+AND	of
+DEF	the
+ORG	Assembly
+AND	of
+CON	Welsh Counties
+AND	and
+ORG	Convention
+AND	of
+GPO	Scottish
+ORG	Local Authorities
+EPS	said
+PST	yesterday
+NIL	.

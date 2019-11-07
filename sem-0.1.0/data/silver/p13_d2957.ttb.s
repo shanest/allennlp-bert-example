@@ -1,0 +1,11 @@
+PRO	You
+NOW	do
+NOT	n't
+EXS	need
+SUB	to
+EXS	make
+DIS	a
+CON	decision
+AND	right
+NOW	now
+NIL	.

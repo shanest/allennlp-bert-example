@@ -1,0 +1,9 @@
+PER	John
+ENS	knows
+GPO	English
+CON	history
+REL	from
+DIS	A
+REL	to
+PER	Z
+NIL	.

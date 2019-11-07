@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+NOT	never
+PFT	been
+QUC	much
+AND	of
+DIS	a
+CON	talker
+NIL	.

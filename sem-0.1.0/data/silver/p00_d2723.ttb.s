@@ -1,0 +1,12 @@
+NOW	Do
+PRO	you
+EXS	have
+DIS	anyone
+REL	on
+HAS	your
+CON	staff
+AND	who
+POS	can
+EXS	speak
+CON	French
+QUE	?

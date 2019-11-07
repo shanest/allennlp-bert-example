@@ -1,0 +1,12 @@
+ITJ	Oh
+NIL	,
+EXS	take
+HAS	your
+CON	time
+NIL	.
+PRO	I
+NOW	'm
+REL	in
+NOT	no
+EXS	hurry
+NIL	.

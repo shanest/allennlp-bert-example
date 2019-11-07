@@ -1,0 +1,14 @@
+PRO	It
+PST	was
+EXS	hard
+REL	for
+PER	Tom
+SUB	to
+EXS	tell
+PER	Mary
+SUB	that
+PRO	he
+EPS	wanted
+DIS	a
+CON	divorce
+NIL	.

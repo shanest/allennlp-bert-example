@@ -1,0 +1,13 @@
+UNK	There
+HAS	's
+NOT	no
+CON	way
+SUB	that
+PER	Tom
+FUT	will
+IST	ever
+EXS	be
+IST	able
+SUB	to
+EXS	juggle
+NIL	.

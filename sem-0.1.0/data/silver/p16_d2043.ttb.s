@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	find
+PRX	this
+SUB	as
+EXS	funny
+AND	as
+PER	Mary
+NOW	does
+NIL	.

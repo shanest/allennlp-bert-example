@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	feel
+AND	like
+EXS	talking
+REL	to
+PER	Mary
+CON	tonight
+NIL	.

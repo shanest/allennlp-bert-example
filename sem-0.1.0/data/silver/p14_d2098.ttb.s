@@ -1,0 +1,10 @@
+PRO	He
+HAS	's
+CON	head
+AND	over
+CON	heels
+REL	in
+CON	love
+REL	with
+PER	Mary
+NIL	.

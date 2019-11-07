@@ -1,0 +1,14 @@
+PRO	I
+PST	thought
+PRO	you
+PST	'd
+PFT	been
+EXS	killed
+NIL	.
+PRO	I
+NOW	'm
+IST	glad
+PRO	I
+PST	was
+EXS	wrong
+NIL	.

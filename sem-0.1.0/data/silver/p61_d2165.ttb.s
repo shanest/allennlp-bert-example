@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+IST	dirty
+CON	jokes
+NIL	,
+BUT	but
+PRO	I
+IST	never
+EXS	tell
+PRO	them
+NIL	.

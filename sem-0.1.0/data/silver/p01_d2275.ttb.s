@@ -1,0 +1,12 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	want
+NIL	to
+EXS	have
+DIS	anything
+NIL	to
+EXS	do
+REL	with
+PER	Mary
+NIL	.

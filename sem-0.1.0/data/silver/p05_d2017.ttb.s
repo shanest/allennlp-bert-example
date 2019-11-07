@@ -1,0 +1,16 @@
+PRO	I
+NOW	feel
+AND	like
+PRO	I
+IST	finally
+NOW	have
+DIS	some
+CON	understanding
+AND	of
+QUE	how
+PER	Tom
+EPS	felt
+REL	in
+DST	that
+CON	moment
+NIL	.

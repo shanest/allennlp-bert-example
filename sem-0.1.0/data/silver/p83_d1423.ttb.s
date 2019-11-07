@@ -1,0 +1,11 @@
+PRO	I
+EPS	found
+DIS	a
+IST	rare
+CON	book
+PRO	I
+PST	had
+PFT	been
+EXS	looking
+REL	for
+NIL	.

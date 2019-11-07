@@ -1,0 +1,10 @@
+HAS	My
+CON	son
+NOW	is
+IST	apt
+SUB	to
+EXS	be
+EXS	absent
+REL	from
+CON	school
+NIL	.

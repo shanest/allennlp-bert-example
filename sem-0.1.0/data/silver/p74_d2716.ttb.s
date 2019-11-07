@@ -1,0 +1,10 @@
+POS	Can
+PRO	you
+NOW	remember
+DEF	the
+IST	first
+CON	time
+PRO	you
+EPS	saw
+PER	Tom
+QUE	?

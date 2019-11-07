@@ -1,0 +1,9 @@
+PRO	I
+EPS	met
+DIS	a
+CON	dog
+REL	on
+HAS	my
+CON	way
+CON	home
+NIL	.

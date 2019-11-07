@@ -1,0 +1,11 @@
+PRO	They
+NOW	have
+NOT	n't
+EXS	fixed
+DIS	a
+CON	date
+REL	for
+HAS	their
+CON	wedding
+ALT	yet
+NIL	.

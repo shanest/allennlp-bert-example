@@ -1,0 +1,10 @@
+PRO	We
+EPS	bought
+DIS	some
+CON	vegetables
+AND	and
+CON	fish
+REL	at
+DEF	the
+CON	market
+NIL	.

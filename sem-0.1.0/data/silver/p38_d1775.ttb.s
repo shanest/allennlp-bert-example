@@ -1,0 +1,12 @@
+IMP	If
+AND	anyone
+ENS	thinks
+IST	differently
+NIL	,
+PRO	they
+IST	surely
+NOW	do
+EXT	have
+DIS	a
+CON	problem
+NIL	.

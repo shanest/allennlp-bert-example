@@ -1,0 +1,10 @@
+GEO	Tokyo
+FUT	will
+EXS	run
+IST	short
+AND	of
+CON	water
+ALT	again
+PRX	this
+CON	summer
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+EPS	wrote
+HAS	his
+CON	name
+REL	on
+DEF	the
+CON	cover
+AND	of
+HAS	his
+IST	new
+CON	diary
+NIL	.

@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+NOW	does
+NOT	nothing
+BUT	but
+CON	watch
+CON	TV
+REL	on
+DOW	Sundays
+NIL	.

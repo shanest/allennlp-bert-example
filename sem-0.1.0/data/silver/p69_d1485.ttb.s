@@ -1,0 +1,9 @@
+QUE	How
+QUV	many
+CON	flowers
+PST	did
+PER	Tom
+EXS	give
+REL	to
+PER	Mary
+QUE	?

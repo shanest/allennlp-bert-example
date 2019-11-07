@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	looking
+IST	forward
+SUB	to
+EXS	seeing
+PRO	you
+REL	in
+DIS	a
+CON	wedding
+CON	dress
+NIL	.

@@ -1,0 +1,16 @@
+PRO	She
+EPS	gave
+DIS	a
+CON	tea
+CON	party
+REL	with
+DEF	the
+CON	intention
+AND	of
+EXG	introducing
+HAS	her
+CON	daughter
+REL	to
+HAS	her
+CON	friends
+NIL	.

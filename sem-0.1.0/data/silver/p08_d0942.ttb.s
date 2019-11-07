@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	give
+PER	Tom
+HAS	my
+CON	key
+NIL	.

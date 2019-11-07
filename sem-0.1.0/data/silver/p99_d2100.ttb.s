@@ -1,0 +1,11 @@
+PRO	It
+EPS	took
+PRO	me
+QUC	three
+CON	hours
+SUB	to
+EXS	get
+PRX	here
+REL	from
+GPE	Boston
+NIL	.

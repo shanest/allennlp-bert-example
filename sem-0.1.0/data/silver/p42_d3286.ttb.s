@@ -1,0 +1,10 @@
+PER	Tom
+NOT	never
+ENS	drinks
+CON	coffee
+PRX	this
+AND	late
+REL	in
+DEF	the
+CON	day
+NIL	.

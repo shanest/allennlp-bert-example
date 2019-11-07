@@ -1,0 +1,10 @@
+DEF	The
+CON	sunglasses
+EPS	made
+PRO	him
+NOW	look
+AND	like
+DIS	an
+IST	undercover
+CON	policeman
+NIL	.

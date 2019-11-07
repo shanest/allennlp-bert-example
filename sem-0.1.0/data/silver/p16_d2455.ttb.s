@@ -1,0 +1,11 @@
+DEF	The
+CON	light
+AND	that
+NOW	casts
+IST	away
+DEF	the
+CON	darkness
+ALT	also
+NOW	creates
+CON	shadows
+NIL	.

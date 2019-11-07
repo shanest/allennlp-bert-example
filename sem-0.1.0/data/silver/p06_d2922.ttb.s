@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXG	taking
+DIS	a
+CON	holiday
+REL	at
+DEF	the
+CON	beach
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+FUT	would
+EXS	like
+SUB	to
+EXS	see
+PRO	you
+ALT	again
+DIS	some
+CON	day
+NIL	.

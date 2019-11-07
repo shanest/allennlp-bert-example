@@ -1,0 +1,11 @@
+PER	Tom
+PST	had
+NOT	no
+CON	reason
+REL	to
+CON	suspect
+SUB	that
+PER	Mary
+PST	was
+EXS	lying
+NIL	.

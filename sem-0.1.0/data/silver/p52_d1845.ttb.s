@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+TOP	longest
+CON	novel
+SUB	that
+PRO	I
+NOW	have
+IST	ever
+EXS	read
+NIL	.

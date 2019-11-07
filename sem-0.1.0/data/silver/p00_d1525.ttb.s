@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+IST	sure
+PER	Tom
+FUT	will
+EXS	be
+PRX	here
+IST	soon
+NIL	.

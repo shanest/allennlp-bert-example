@@ -1,0 +1,9 @@
+PRO	You
+ENS	need
+NOT	not
+EXS	take
+CON	account
+AND	of
+DEF	the
+CON	fact
+NIL	.

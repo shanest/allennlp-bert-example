@@ -1,0 +1,10 @@
+HAS	My
+CON	nephew
+EPS	ate
+CON	bread
+REL	with
+CON	tomato
+CON	sauce
+REL	on
+PRO	it
+NIL	.

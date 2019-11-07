@@ -1,0 +1,14 @@
+PER	Tom
+EPS	drew
+DEF	the
+CON	curtains
+AND	so
+PRO	he
+POS	could
+NOT	n't
+EXS	be
+EXS	seen
+REL	from
+DEF	the
+CON	street
+NIL	.

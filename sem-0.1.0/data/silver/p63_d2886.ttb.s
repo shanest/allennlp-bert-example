@@ -1,0 +1,17 @@
+DIS	A
+IST	stocky
+CON	man
+REL	with
+DIS	a
+IST	swarthy
+CON	complexion
+EXS	snatched
+PER	Mary
+HAS	's
+CON	handbag
+COO	and
+EPS	disappeared
+REL	into
+DEF	the
+CON	crowd
+NIL	.

@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+IST	ever
+EXS	spoken
+REL	to
+PER	Tom
+REL	in
+GPO	French
+QUE	?

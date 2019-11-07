@@ -1,0 +1,9 @@
+HAS	My
+CON	brother
+NOW	has
+IST	just
+EXS	come
+CON	home
+REL	from
+GPE	Kobe
+NIL	.

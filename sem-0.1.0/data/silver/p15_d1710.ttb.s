@@ -1,0 +1,9 @@
+PRO	I
+FUT	will
+EXS	be
+EXG	seeing
+HAS	her
+ALT	again
+AND	next
+DOW	Friday
+NIL	.

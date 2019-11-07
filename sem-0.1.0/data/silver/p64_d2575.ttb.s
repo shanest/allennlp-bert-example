@@ -1,0 +1,10 @@
+PER	Tom
+EPS	ate
+QUC	one
+CON	apple
+AND	and
+PER	Mary
+EPS	ate
+DEF	the
+ALT	other
+NIL	.

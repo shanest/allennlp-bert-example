@@ -1,0 +1,11 @@
+PRO	He
+EPS	wore
+DIS	a
+CON	pullover
+CON	sweater
+SUB	to
+EXS	keep
+REL	from
+EXS	getting
+CON	cold
+NIL	.

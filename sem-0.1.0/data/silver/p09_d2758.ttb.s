@@ -1,0 +1,9 @@
+PRO	He
+EPS	got
+DIS	a
+IST	fair
+CON	mark
+REL	in
+DEF	the
+CON	examination
+NIL	.

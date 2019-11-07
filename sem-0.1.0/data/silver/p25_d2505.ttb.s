@@ -1,0 +1,10 @@
+DEF	The
+GPO	French
+ROL	president
+ENS	is
+SUB	to
+EXS	visit
+GPE	Japan
+AND	next
+CON	month
+NIL	.

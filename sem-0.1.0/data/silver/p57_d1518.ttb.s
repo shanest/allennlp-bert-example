@@ -1,0 +1,17 @@
+PRO	I
+NOW	am
+IST	sure
+PRO	I
+EPS	met
+PRO	him
+DIS	somewhere
+NIL	,
+COO	but
+PRO	I
+NOW	do
+NOT	not
+EXS	remember
+AND	who
+PRO	he
+NOW	is
+NIL	.

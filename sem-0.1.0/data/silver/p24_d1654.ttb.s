@@ -1,0 +1,11 @@
+IST	Please
+EPS	put
+DEF	the
+CON	light
+AND	out
+SUB	when
+PRO	you
+NOW	leave
+DEF	the
+CON	room
+NIL	.

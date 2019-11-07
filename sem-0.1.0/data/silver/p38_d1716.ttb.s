@@ -1,0 +1,9 @@
+DEF	The
+CON	gates
+REL	of
+DEF	the
+CON	school
+EXS	open
+REL	at
+CLO	eight
+NIL	.

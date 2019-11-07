@@ -1,0 +1,12 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	go
+IST	out
+SUB	to
+EXS	have
+CON	dinner
+REL	with
+PRO	him
+NIL	.

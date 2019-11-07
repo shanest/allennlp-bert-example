@@ -1,0 +1,11 @@
+PRO	I
+PST	spent
+QUC	three
+CON	months
+REL	in
+CON	hospital
+SUB	when
+PRO	I
+PST	was
+QUC	thirteen
+NIL	.

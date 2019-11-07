@@ -1,0 +1,15 @@
+IMP	If
+PRO	it
+PST	was
+NOT	n't
+REL	for
+IST	modern
+CON	medicine
+NIL	,
+PRO	I
+FUT	'd
+EXS	be
+EXS	dead
+IST	right
+NOW	now
+NIL	.

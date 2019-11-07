@@ -1,0 +1,12 @@
+DEF	The
+CON	weather
+PST	was
+NOT	not
+XCL	only
+CON	cold
+NIL	,
+PRO	it
+PST	was
+ALT	also
+CON	damp
+NIL	.

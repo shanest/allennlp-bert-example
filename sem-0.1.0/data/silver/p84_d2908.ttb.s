@@ -1,0 +1,14 @@
+DEF	The
+CON	man
+REL	to
+UNK	whom
+PRO	I
+EPS	spoke
+PST	was
+DIS	a
+GPO	German
+NIL	,
+NOT	not
+DIS	an
+GPO	American
+NIL	.

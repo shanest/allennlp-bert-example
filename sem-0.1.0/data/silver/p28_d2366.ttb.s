@@ -1,0 +1,14 @@
+PRO	I
+IST	suddenly
+EPS	felt
+DEF	the
+CON	urge
+SUB	to
+EXS	jump
+REL	off
+DEF	the
+CON	bridge
+REL	into
+DEF	the
+CON	river
+NIL	.

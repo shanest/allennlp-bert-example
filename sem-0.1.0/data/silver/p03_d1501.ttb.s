@@ -1,0 +1,9 @@
+AND	Why
+NOW	do
+NOT	n't
+PRO	you
+EXS	give
+PRO	me
+DIS	a
+CON	ride
+QUE	?

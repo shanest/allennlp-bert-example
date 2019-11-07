@@ -1,0 +1,15 @@
+QUE	What
+PRO	he
+EPS	said
+PST	yesterday
+NOW	is
+NOT	not
+EXS	consistent
+REL	with
+QUE	what
+PRO	he
+PST	had
+EXS	said
+IST	last
+CON	week
+NIL	.

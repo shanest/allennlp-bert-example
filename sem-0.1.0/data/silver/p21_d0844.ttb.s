@@ -1,0 +1,17 @@
+SUB	Since
+PRO	they
+EPS	had
+NOT	no
+CON	children
+AND	of
+HAS	their
+CON	own
+NIL	,
+PRO	they
+EPS	decided
+SUB	to
+EXS	adopt
+DIS	a
+IST	little
+CON	girl
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	got
+REL	in
+DEF	the
+CON	car
+COO	and
+PRO	they
+EPS	drove
+IST	off
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	know
+SUB	that
+PER	Mary
+PST	had
+IST	just
+EXS	gotten
+EXS	married
+NIL	.

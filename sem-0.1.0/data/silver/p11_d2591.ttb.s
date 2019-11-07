@@ -1,0 +1,13 @@
+PER	Mary
+NOW	is
+NOT	n't
+IST	really
+EXS	sick
+NIL	.
+PRO	She
+HAS	's
+XCL	only
+EXG	pretending
+SUB	to
+EXS	be
+NIL	.

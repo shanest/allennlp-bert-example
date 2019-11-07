@@ -1,0 +1,9 @@
+PRO	He
+PST	was
+EXS	busy
+SUB	when
+PRO	I
+EPS	called
+PRO	him
+IST	up
+NIL	.

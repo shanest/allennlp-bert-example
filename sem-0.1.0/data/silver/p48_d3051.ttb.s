@@ -1,0 +1,9 @@
+AND	Why
+NOW	do
+PRO	you
+NOW	think
+PER	Tom
+PST	was
+EXS	absent
+PST	yesterday
+QUE	?

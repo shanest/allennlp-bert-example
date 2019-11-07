@@ -1,0 +1,9 @@
+PRO	I
+EPS	had
+CON	tea
+NIL	instead
+AND	of
+CON	coffee
+PRX	this
+CON	morning
+NIL	.

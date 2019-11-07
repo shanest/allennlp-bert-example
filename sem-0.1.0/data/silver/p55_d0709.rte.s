@@ -1,0 +1,16 @@
+DEF	The
+CON	government
+HAS	's
+CON	plans
+REL	for
+EXS	reorganising
+IST	local
+CON	government
+REL	in
+GEO	Wales
+AND	and
+GPE	Scotland
+NEC	should
+EXS	be
+EXS	withdrawn
+NIL	.

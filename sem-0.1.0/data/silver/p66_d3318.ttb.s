@@ -1,0 +1,12 @@
+PER	Tom
+PST	had
+NOT	never
+EXS	seen
+DIS	a
+CON	girl
+AND	as
+IST	beautiful
+AND	as
+PER	Mary
+REL	before
+NIL	.

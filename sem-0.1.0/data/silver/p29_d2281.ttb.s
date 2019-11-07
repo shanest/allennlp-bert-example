@@ -1,0 +1,13 @@
+PRO	I
+EPS	lost
+DEF	the
+CON	watch
+HAS	my
+ROL	sister
+PST	had
+EXS	given
+PRO	me
+REL	for
+HAS	my
+CON	birthday
+NIL	.

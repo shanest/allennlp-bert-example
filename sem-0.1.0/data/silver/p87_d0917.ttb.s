@@ -1,0 +1,11 @@
+PER	Conchita
+PST	felt
+EXS	guilty
+REL	for
+EXS	ruining
+PER	Tom
+AND	and
+PER	Mary
+HAS	's
+CON	relationship
+NIL	.

@@ -1,0 +1,11 @@
+PRO	We
+NOW	're
+IST	ready
+SUB	to
+EXS	put
+DEF	the
+CON	boat
+REL	in
+DEF	the
+CON	water
+NIL	.

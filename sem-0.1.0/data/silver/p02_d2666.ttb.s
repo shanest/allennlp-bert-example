@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+EXS	grateful
+SUB	to
+PRO	you
+REL	for
+EXG	inviting
+PRO	me
+REL	to
+DEF	the
+CON	party
+NIL	.

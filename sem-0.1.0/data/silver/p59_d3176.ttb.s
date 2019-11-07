@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+EXS	dangerous
+SUB	to
+EXS	climb
+DIS	a
+CON	mountain
+REL	in
+IST	bad
+CON	weather
+NIL	.

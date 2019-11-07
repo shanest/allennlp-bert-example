@@ -1,0 +1,11 @@
+PRO	We
+NOW	've
+EXS	decided
+SUB	to
+EXS	move
+DEF	the
+CON	meeting
+REL	to
+IST	next
+DOW	Sunday
+NIL	.

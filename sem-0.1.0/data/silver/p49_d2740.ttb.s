@@ -1,0 +1,12 @@
+PRO	You
+ENS	know
+QUE	what
+PER	Tom
+EPS	said
+AND	about
+PER	Mary
+NIL	,
+NOW	do
+NOT	n't
+PRO	you
+QUE	?

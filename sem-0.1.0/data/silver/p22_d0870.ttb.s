@@ -1,0 +1,10 @@
+HAS	Your
+CON	mom
+ENS	speaks
+QUC	six
+CON	languages
+NOW	—
+SUB	that
+HAS	's
+CON	nuts
+NIL	.

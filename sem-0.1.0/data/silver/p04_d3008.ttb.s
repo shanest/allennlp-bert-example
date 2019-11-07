@@ -1,0 +1,10 @@
+FUT	Will
+PRO	you
+EXS	lend
+PRO	me
+HAS	your
+CON	bicycle
+REL	for
+DIS	an
+CON	hour
+QUE	?

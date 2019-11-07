@@ -1,0 +1,11 @@
+QUE	What
+EQU	exactly
+NOW	do
+PRO	you
+ENS	want
+SUB	to
+EXS	do
+REL	with
+PRX	this
+CON	money
+QUE	?

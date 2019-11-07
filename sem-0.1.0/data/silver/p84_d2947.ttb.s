@@ -1,0 +1,9 @@
+PER	Tom
+POS	may
+EXT	have
+PFT	been
+EXS	sleeping
+REL	at
+DEF	the
+CON	time
+NIL	.

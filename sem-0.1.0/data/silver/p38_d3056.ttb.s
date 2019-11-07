@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	want
+SUB	to
+EXS	play
+CON	tennis
+REL	on
+DOW	Sunday
+NIL	.

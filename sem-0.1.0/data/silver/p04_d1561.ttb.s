@@ -1,0 +1,9 @@
+PRO	I
+PST	was
+INT	very
+EXS	happy
+SUB	until
+PRO	I
+EPS	knew
+PRO	her
+NIL	.

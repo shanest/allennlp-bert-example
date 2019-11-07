@@ -1,0 +1,9 @@
+PRO	You
+NOW	're
+EXS	starting
+SUB	to
+EXS	get
+REL	on
+HAS	my
+CON	tits
+NIL	.

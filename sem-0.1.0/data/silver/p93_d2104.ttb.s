@@ -1,0 +1,14 @@
+PRO	You
+NEC	ought
+NOT	not
+SUB	to
+EXT	have
+EXS	kept
+PRO	her
+EXS	waiting
+REL	on
+AND	such
+DIS	a
+IST	cold
+CON	night
+NIL	.

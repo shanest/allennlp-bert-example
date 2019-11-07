@@ -1,0 +1,15 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+UNK	there
+PST	were
+NOT	no
+CON	problems
+AND	during
+DEF	the
+IST	first
+CON	semester
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	said
+PRO	you
+EPS	said
+PRO	we
+NEC	should
+EXS	be
+DST	there
+REL	by
+CLO	2:30
+NIL	.

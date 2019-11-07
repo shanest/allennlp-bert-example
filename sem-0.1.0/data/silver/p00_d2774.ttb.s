@@ -1,0 +1,9 @@
+NIL	Aiding
+COO	and
+EXG	abetting
+DEF	the
+ROL	enemy
+NOW	is
+EXS	considered
+CON	treason
+NIL	.

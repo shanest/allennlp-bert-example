@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	do
+NOT	n't
+EXS	get
+REL	along
+INT	very
+IST	well
+NIL	.

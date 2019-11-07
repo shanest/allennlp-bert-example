@@ -1,0 +1,9 @@
+PRO	I
+EPS	met
+PRO	her
+REL	by
+CON	accident
+REL	on
+ORG	Third
+CON	Avenue
+NIL	.

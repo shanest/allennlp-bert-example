@@ -1,0 +1,10 @@
+PRO	I
+NOW	hear
+PRO	he
+NOW	has
+PFT	been
+EXS	ill
+REL	since
+IST	last
+CON	month
+NIL	.

@@ -1,0 +1,11 @@
+QUE	What
+PRO	you
+NOW	are
+EXS	saying
+NOW	makes
+IST	absolutely
+NOT	no
+CON	sense
+REL	to
+PRO	me
+NIL	.

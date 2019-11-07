@@ -1,0 +1,13 @@
+PRO	They
+FUT	wo
+NOT	n't
+EXS	believe
+PRO	me
+AND	even
+IMP	if
+PRO	I
+NOW	swear
+PRO	it
+NOW	is
+EXS	true
+NIL	.

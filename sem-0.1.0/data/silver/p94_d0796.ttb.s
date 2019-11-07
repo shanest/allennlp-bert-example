@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+INT	most
+IST	wonderful
+CON	present
+PRO	I
+NOW	have
+IST	ever
+EXS	received
+NIL	.

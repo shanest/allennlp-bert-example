@@ -1,0 +1,11 @@
+PER	Napoleon
+HAS	's
+CON	army
+NOW	now
+IST	advanced
+AND	and
+DIS	a
+IST	great
+CON	battle
+ENS	begins
+NIL	.

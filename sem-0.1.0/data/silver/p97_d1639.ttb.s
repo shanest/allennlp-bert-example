@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+LES	almost
+CLO	seven
+NIL	.
+PRO	We
+NEC	have
+SUB	to
+EXS	go
+REL	to
+CON	school
+NIL	.

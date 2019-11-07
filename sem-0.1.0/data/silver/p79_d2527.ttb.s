@@ -1,0 +1,9 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	remember
+QUE	how
+IST	long
+PRO	it
+EPS	took
+NIL	.

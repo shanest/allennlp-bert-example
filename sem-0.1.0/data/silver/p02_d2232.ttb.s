@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+EXS	cry
+NIL	.
+PRO	It
+NOW	's
+EXS	going
+SUB	to
+EXS	be
+EXS	okay
+NIL	.

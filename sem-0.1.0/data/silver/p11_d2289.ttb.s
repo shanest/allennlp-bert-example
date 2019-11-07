@@ -1,0 +1,13 @@
+AND	Spending
+CON	money
+NOW	does
+NOT	n't
+EXS	make
+PRO	me
+EXS	happy
+NIL	,
+COO	but
+EXG	buying
+CON	things
+NOW	does
+NIL	.

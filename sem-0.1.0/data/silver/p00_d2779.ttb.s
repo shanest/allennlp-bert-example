@@ -1,0 +1,11 @@
+PRO	You
+NOW	do
+NOT	n't
+NEC	have
+NIL	to
+EXS	tell
+DST	that
+REL	to
+HAS	your
+CON	parents
+NIL	.

@@ -1,0 +1,9 @@
+HAS	My
+CON	client
+NOW	is
+IST	willing
+SUB	to
+EXS	make
+DIS	a
+CON	deal
+NIL	.

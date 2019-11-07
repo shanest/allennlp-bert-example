@@ -1,0 +1,10 @@
+PRO	We
+NOW	're
+EXS	going
+REL	to
+DEF	the
+CON	beach
+NIL	.
+FUT	Wanna
+EXS	come
+QUE	?

@@ -1,0 +1,13 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+SUB	that
+PER	Tom
+FUT	will
+EXS	want
+SUB	to
+EXS	go
+REL	with
+PRO	us
+NIL	.

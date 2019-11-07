@@ -1,0 +1,6 @@
+PRO	You
+ENS	owe
+PRO	me
+UOM	$
+QUC	1,000
+NIL	.

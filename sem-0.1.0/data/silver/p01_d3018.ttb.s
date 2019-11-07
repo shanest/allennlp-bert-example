@@ -1,0 +1,14 @@
+PRO	It
+PST	was
+AND	through
+DIS	a
+IST	first
+IST	short
+CON	sentence
+SUB	that
+PER	Tom
+PST	got
+EXS	acquainted
+REL	to
+PER	Mary
+NIL	.

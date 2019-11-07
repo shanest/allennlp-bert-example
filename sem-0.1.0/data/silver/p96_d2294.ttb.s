@@ -1,0 +1,9 @@
+PRO	I
+NOW	think
+PRO	I
+EPS	drank
+DIS	a
+CON	bit
+INT	too
+QUC	much
+NIL	.

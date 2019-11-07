@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXS	seeing
+ROL	Mr
+PER	Brown
+REL	at
+HAS	his
+CON	office
+PRX	this
+CON	afternoon
+NIL	.

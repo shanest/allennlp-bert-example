@@ -1,0 +1,11 @@
+PER	Tom
+EPS	closed
+DEF	the
+CON	door
+IST	quietly
+COO	and
+EPS	tiptoed
+REL	into
+DEF	the
+CON	room
+NIL	.

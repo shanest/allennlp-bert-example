@@ -1,0 +1,11 @@
+DEF	The
+CON	climate
+REL	of
+GPE	England
+NOW	is
+EXS	similar
+REL	to
+PRO	that
+REL	of
+GPE	Hokkaido
+NIL	.

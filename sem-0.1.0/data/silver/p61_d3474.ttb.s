@@ -1,0 +1,13 @@
+PRX	This
+CON	device
+EPS	made
+PRO	it
+UNK	possible
+SUB	to
+EXS	turn
+IST	sea-water
+REL	into
+IST	fresh
+CON	water
+IST	easily
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+EPS	knew
+CON	right
+REL	off
+DEF	the
+CON	bat
+SUB	that
+DIS	something
+PST	was
+EXS	wrong
+NIL	.

@@ -1,0 +1,9 @@
+PER	Meg
+NOW	is
+EXS	curious
+SUB	to
+EXS	know
+AND	everything
+AND	about
+GPE	Japan
+NIL	.

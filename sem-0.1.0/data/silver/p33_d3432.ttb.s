@@ -1,0 +1,13 @@
+PER	Tom
+PST	was
+QUC	five
+CON	years
+COM	old
+SUB	when
+PRO	I
+EPS	talked
+REL	with
+PRO	him
+IST	last
+CON	time
+NIL	.

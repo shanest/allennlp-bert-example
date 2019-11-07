@@ -1,0 +1,10 @@
+PRO	It
+NOW	goes
+NOT	without
+EXG	saying
+SUB	that
+PRO	he
+NOW	keeps
+HAS	his
+CON	promise
+NIL	.

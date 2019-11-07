@@ -1,0 +1,10 @@
+PRO	He
+FUT	'll
+EXS	go
+NIL	,
+ALT	too
+NIL	,
+FUT	wo
+NOT	n't
+PRO	he
+QUE	?

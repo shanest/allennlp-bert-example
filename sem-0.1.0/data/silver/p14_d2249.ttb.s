@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+DEF	the
+XCL	only
+CON	person
+PRO	I
+ENS	know
+REL	in
+GPE	Boston
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	looking
+IST	forward
+SUB	to
+EXS	seeing
+PRO	you
+AND	next
+DOW	Sunday
+NIL	.

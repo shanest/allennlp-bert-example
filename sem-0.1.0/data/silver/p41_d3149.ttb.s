@@ -1,0 +1,9 @@
+PRO	I
+EPS	spent
+DEF	the
+IST	whole
+CON	afternoon
+EXS	cleaning
+HAS	my
+CON	house
+NIL	.

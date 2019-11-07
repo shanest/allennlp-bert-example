@@ -1,0 +1,11 @@
+PER	Tom
+EPS	bought
+DIS	a
+CON	newspaper
+COO	and
+EXS	read
+PRO	it
+REL	on
+DEF	the
+CON	train
+NIL	.

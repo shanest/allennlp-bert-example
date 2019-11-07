@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	absolutely
+EXS	livid
+NIL	.
+DIS	Somebody
+HAS	's
+EXS	keyed
+HAS	my
+CON	car
+NIL	.

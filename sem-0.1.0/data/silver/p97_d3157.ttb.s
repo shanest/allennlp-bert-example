@@ -1,0 +1,17 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	believe
+SUB	that
+PER	Mary
+ENS	thinks
+PRO	it
+NOW	's
+EXS	OK
+SUB	to
+EXS	let
+PER	John
+NOW	take
+DEF	the
+CON	blame
+NIL	.

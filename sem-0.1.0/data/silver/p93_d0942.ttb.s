@@ -1,0 +1,16 @@
+PRO	He
+POS	could
+NOT	n't
+EXS	appreciate
+DEF	the
+CON	joke
+AND	of
+DEF	the
+IST	arrogant
+CON	girls
+NIL	,
+COO	so
+PRO	he
+EPS	took
+CON	revenge
+NIL	.

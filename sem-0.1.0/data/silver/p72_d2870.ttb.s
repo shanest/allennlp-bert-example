@@ -1,0 +1,22 @@
+NIL	"
+NOW	Have
+PRO	you
+IST	ever
+EXS	been
+REL	to
+GPE	New York
+QUE	?
+NIL	"
+NIL	"
+ITJ	Yes
+NIL	,
+PRO	I
+NOW	've
+PFT	been
+EXS	there
+DIS	a
+CON	couple
+AND	of
+CON	times
+NIL	.
+NIL	"

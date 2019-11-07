@@ -1,0 +1,17 @@
+REL	In
+DEF	the
+IST	automotive
+CON	industry
+AND	of
+DEF	the
+DEC	1970's
+NIL	,
+GPE	Japan
+EPS	beat
+DEF	the
+GEO	U.S.
+REL	at
+HAS	its
+IST	own
+CON	game
+NIL	.

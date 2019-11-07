@@ -1,0 +1,12 @@
+PER	Tom
+PST	was
+EXG	walking
+REL	in
+DEF	the
+CON	park
+AND	with
+NOT	nothing
+REL	on
+HAS	his
+CON	mind
+NIL	.

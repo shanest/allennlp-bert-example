@@ -1,0 +1,9 @@
+PER	Tom
+EPS	put
+DEF	the
+CON	letter
+REL	in
+HAS	his
+CON	coat
+CON	pocket
+NIL	.

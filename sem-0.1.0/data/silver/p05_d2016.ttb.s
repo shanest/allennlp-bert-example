@@ -1,0 +1,13 @@
+PRO	I
+ENS	thank
+PRO	you
+REL	for
+DEF	the
+CON	trust
+SUB	that
+PRO	you
+NOW	have
+EXS	expressed
+REL	in
+PRO	me
+NIL	.

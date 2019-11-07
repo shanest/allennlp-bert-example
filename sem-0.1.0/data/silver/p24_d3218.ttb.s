@@ -1,0 +1,9 @@
+REL	With
+AND	such
+CON	friends
+NIL	,
+AND	who
+ENS	needs
+CON	enemies
+QUE	?
+NIL	!

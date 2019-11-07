@@ -1,0 +1,16 @@
+PER	Tom
+EPS	put
+DEF	the
+CON	key
+REL	in
+DEF	the
+CON	lock
+COO	and
+EPS	paused
+DIS	a
+CON	moment
+SUB	before
+PRO	he
+EPS	turned
+PRO	it
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	he
+POS	can
+NOT	no
+IST	longer
+CON	work
+NIL	.

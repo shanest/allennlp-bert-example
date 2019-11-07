@@ -1,0 +1,12 @@
+DST	That
+HAS	's
+AND	all
+PRO	you
+NOW	're
+EXS	interested
+REL	in
+NIL	,
+NOW	is
+NOT	n't
+PRO	it
+QUE	?

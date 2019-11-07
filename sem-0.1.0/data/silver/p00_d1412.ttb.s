@@ -1,0 +1,9 @@
+PRO	I
+ENS	do
+NOT	n't
+EXS	want
+NIL	to
+EXS	see
+SUB	that
+EXS	happen
+NIL	.

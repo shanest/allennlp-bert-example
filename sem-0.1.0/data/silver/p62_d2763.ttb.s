@@ -1,0 +1,12 @@
+DST	That
+PST	was
+DEF	the
+INT	most
+IST	exciting
+CON	concert
+PRO	I
+NOW	have
+IST	ever
+EXT	been
+REL	to
+NIL	.

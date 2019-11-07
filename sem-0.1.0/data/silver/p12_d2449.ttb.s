@@ -1,0 +1,9 @@
+AND	Why
+NOW	do
+NOT	n't
+PRO	we
+EXS	ask
+PER	Tom
+SUB	to
+EXS	help
+QUE	?

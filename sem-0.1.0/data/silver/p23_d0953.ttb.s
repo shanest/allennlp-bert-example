@@ -1,0 +1,10 @@
+PRO	I
+PST	was
+IST	ashamed
+SUB	to
+EXS	go
+IST	out
+REL	in
+IST	old
+CON	clothes
+NIL	.

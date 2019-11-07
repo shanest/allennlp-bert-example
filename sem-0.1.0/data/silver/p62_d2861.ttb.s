@@ -1,0 +1,14 @@
+PRO	I
+PST	thought
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXS	going
+SUB	to
+EXS	use
+PRO	me
+AND	as
+DIS	a
+CON	hostage
+NIL	.

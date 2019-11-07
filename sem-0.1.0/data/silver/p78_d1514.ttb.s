@@ -1,0 +1,13 @@
+DEF	The
+IST	next
+CON	day
+PER	John
+PST	was
+UNK	there
+ALT	again
+REL	with
+QUC	two
+AND	of
+HAS	his
+CON	disciples
+NIL	.

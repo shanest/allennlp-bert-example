@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+DIS	a
+CON	pity
+SUB	that
+PRO	he
+PST	had
+EPS	died
+SUB	so
+EXS	young
+NIL	.

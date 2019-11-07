@@ -1,0 +1,9 @@
+REL	In
+GEO	Soviet
+GPE	Russia
+NIL	,
+CON	television
+NOW	watches
+DEF	the
+CON	audience
+NIL	!

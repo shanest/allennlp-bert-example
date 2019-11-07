@@ -1,0 +1,17 @@
+PRO	We
+NOW	're
+EXS	taking
+DIS	a
+CON	crash
+CON	course
+REL	in
+IST	first
+CON	aid
+REL	before
+HAS	our
+IST	two-week
+CON	trek
+AND	through
+DEF	the
+CON	mountains
+NIL	.

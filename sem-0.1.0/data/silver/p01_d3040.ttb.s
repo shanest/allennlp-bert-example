@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	want
+NIL	to
+EXS	know
+REL	about
+HAS	my
+CON	problems
+NIL	.

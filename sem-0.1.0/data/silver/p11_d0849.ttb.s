@@ -1,0 +1,14 @@
+PRO	She
+NOW	's
+REL	by
+NOT	no
+CON	means
+EXS	lacking
+REL	in
+CON	consideration
+NIL	.
+PRO	She
+NOW	's
+INT	just
+EXS	shy
+NIL	.

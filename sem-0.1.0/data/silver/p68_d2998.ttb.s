@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	sit
+IST	next
+REL	to
+PER	Mary
+NIL	.

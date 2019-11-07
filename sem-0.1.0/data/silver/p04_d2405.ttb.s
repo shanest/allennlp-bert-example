@@ -1,0 +1,9 @@
+PRO	She
+PST	got
+EXS	married
+REL	against
+HAS	her
+ROL	father
+HAS	's
+FUT	will
+NIL	.

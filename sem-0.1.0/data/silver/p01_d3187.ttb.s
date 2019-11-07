@@ -1,0 +1,10 @@
+PRO	I
+EPS	promised
+NIL	to
+EXS	help
+HAS	my
+CON	brother
+REL	with
+HAS	his
+CON	homework
+NIL	.

@@ -1,0 +1,10 @@
+IST	Please
+EXG	bring
+PRO	me
+DEF	the
+CON	book
+AND	next
+CON	time
+PRO	you
+ENS	come
+NIL	.

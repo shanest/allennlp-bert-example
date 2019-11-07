@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+EPS	lived
+REL	in
+HAS	your
+CON	carriage
+NIL	,
+PRO	you
+FUT	'd
+EXS	be
+CON	home
+REL	by
+NOW	now
+NIL	.

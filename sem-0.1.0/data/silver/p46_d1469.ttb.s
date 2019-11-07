@@ -1,0 +1,12 @@
+PER	Ken
+EPS	bought
+DIS	a
+IST	fine
+CON	wine
+REL	for
+HAS	his
+CON	father
+REL	on
+HAS	his
+CON	birthday
+NIL	.

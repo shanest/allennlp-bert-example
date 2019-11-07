@@ -1,0 +1,9 @@
+DEF	The
+CON	moment
+PRO	they
+EPS	saw
+PRO	me
+NIL	,
+PRO	they
+EPS	waved
+NIL	.

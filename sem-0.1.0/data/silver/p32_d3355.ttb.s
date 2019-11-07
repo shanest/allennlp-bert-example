@@ -1,0 +1,9 @@
+EXS	Did
+PER	Ken
+AND	and
+PER	Joe
+ENS	eat
+CON	lunch
+REL	about
+CLO	noon
+QUE	?

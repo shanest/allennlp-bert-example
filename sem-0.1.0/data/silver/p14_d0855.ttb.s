@@ -1,0 +1,16 @@
+NIL	"
+QUE	How
+PST	did
+PRO	it
+EXS	go
+QUE	?
+NIL	"
+NIL	"
+PRO	They
+EPS	said
+PRO	it
+PST	was
+IST	acute
+CON	appendicitis
+NIL	.
+NIL	"

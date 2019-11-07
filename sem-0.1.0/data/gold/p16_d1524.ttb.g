@@ -1,0 +1,9 @@
+ROL	Mr.
+PER	Smith
+NOW	is
+EXS	liked
+REL	by
+AND	all
+DEF	the
+ROL	students
+NIL	.

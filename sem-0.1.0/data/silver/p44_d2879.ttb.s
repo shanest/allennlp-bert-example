@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+COM	easier
+SUB	to
+EXS	teach
+CON	children
+AND	than
+SUB	to
+EXS	teach
+CON	adults
+NIL	.

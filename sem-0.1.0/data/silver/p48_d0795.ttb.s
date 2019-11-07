@@ -1,0 +1,9 @@
+PER	Jim
+NOW	is
+NOT	not
+DIS	a
+ROL	lawyer
+COO	but
+DIS	a
+CON	doctor
+NIL	.

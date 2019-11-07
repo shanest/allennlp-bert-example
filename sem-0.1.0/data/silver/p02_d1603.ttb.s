@@ -1,0 +1,16 @@
+REL	In
+DEF	the
+CON	past
+NIL	,
+PRO	he
+EPS	lived
+NIL	,
+SUB	as
+PRO	it
+ENS	seems
+REL	to
+PRO	me
+NIL	,
+REL	in
+GPE	Spain
+NIL	.

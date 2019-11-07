@@ -1,0 +1,12 @@
+PRO	I
+POS	can
+EXS	tell
+PRO	it
+NOW	's
+PRO	him
+REL	by
+DEF	the
+CON	way
+PRO	he
+ENS	speaks
+NIL	.

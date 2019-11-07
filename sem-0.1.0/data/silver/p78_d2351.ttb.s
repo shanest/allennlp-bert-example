@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+EXS	been
+TOP	best
+AND	of
+CON	friends
+REL	for
+CON	years
+NIL	.

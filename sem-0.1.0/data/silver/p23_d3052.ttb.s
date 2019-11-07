@@ -1,0 +1,17 @@
+AND	Suddenly
+PRO	I
+EPS	heard
+DIS	a
+CON	commotion
+REL	in
+DEF	the
+CON	alley
+COO	and
+EPS	went
+SUB	to
+EXS	see
+QUE	what
+PST	was
+EXG	going
+REL	on
+NIL	.

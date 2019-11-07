@@ -1,0 +1,14 @@
+DIS	A
+CON	dog
+ENS	runs
+REL	after
+DIS	a
+CON	cat
+NIL	,
+COO	and
+DEF	the
+CON	cat
+REL	after
+DIS	a
+CON	mouse
+NIL	.

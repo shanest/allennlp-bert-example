@@ -1,0 +1,6 @@
+PRO	It
+NOW	is
+EXS	wrong
+SUB	to
+EXS	steal
+NIL	.

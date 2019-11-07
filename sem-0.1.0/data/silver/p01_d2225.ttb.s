@@ -1,0 +1,10 @@
+DEF	The
+CON	teacher
+EPS	asked
+PER	Tom
+NIL	to
+EXS	read
+HAS	his
+CON	essay
+CON	aloud
+NIL	.

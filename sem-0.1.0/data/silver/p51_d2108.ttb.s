@@ -1,0 +1,15 @@
+SUB	Because
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	marry
+NIL	,
+HAS	my
+CON	grandmother
+EPS	called
+PRO	me
+DIS	a
+EXS	cripple
+NIL	.

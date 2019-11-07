@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+INT	quite
+EXS	clear
+SUB	that
+PER	Tom
+NOW	does
+NOT	n't
+EXS	want
+SUB	to
+EXS	be
+PRX	here
+NIL	.

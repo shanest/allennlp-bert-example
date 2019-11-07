@@ -1,0 +1,11 @@
+PRO	He
+AND	who
+ENS	knows
+QUV	several
+CON	languages
+NOW	gets
+IST	more
+REL	from
+DEF	the
+CON	world
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	trying
+SUB	to
+EXS	decode
+PRX	this
+CON	message
+NIL	.

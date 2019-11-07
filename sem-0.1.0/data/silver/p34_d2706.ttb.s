@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+PER	Tom
+EXS	making
+DEF	the
+IST	same
+CON	mistakes
+PRO	I
+EPS	made
+NIL	.

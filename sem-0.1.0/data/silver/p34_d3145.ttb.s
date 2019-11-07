@@ -1,0 +1,14 @@
+DEF	The
+CON	war
+PST	was
+INT	very
+EXS	unpopular
+NIL	,
+AND	so
+CON	recruitment
+AND	of
+IST	new
+CON	soldiers
+EPS	became
+EXS	difficult
+NIL	.

@@ -1,0 +1,14 @@
+SUB	When
+QUC	two
+NOW	are
+EXS	doing
+DEF	the
+IST	same
+CON	thing
+NIL	,
+PRO	it
+NOW	is
+NOT	not
+DEF	the
+IST	same
+NIL	.

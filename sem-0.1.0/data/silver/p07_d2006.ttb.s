@@ -1,0 +1,10 @@
+PRO	I
+ENS	believe
+SUB	that
+CON	multiculturalism
+NOW	is
+EXS	beneficial
+REL	for
+DIS	a
+CON	nation
+NIL	.

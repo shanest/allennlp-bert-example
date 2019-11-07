@@ -1,0 +1,17 @@
+PER	Tom
+FUT	would
+EXT	've
+PFT	been
+QUC	thirty
+CON	years
+COM	old
+NOW	today
+IMP	if
+PRO	he
+PST	had
+NOT	n't
+EXS	passed
+IST	away
+IST	last
+CON	year
+NIL	.

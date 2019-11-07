@@ -1,0 +1,10 @@
+PRO	It
+EPS	started
+EXS	raining
+AND	as
+IST	soon
+SUB	as
+PRO	we
+EPS	got
+CON	home
+NIL	.

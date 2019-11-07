@@ -1,0 +1,15 @@
+SUB	When
+PRO	I
+EPS	got
+CON	home
+NIL	,
+PRO	I
+EPS	realized
+SUB	that
+QUC	one
+AND	of
+HAS	my
+CON	suitcases
+PST	had
+EXS	disappeared
+NIL	.

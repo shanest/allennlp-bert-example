@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	writing
+PRX	this
+CON	manuscript
+REL	for
+DIS	a
+CON	year
+NIL	.

@@ -1,0 +1,9 @@
+CON	Elephants
+NOW	are
+QUV	several
+CON	times
+DEF	the
+CON	size
+AND	of
+CON	mice
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+EXS	read
+AND	all
+DEF	the
+CON	books
+SUB	that
+PRO	you
+EPS	recommended
+PRO	me
+NIL	.

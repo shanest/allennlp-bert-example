@@ -1,0 +1,13 @@
+PER	Tom
+NOW	is
+EXS	scheduled
+SUB	to
+EXS	give
+DIS	a
+CON	concert
+REL	in
+GPE	Boston
+REL	on
+MOY	October
+MOY	20th
+NIL	.

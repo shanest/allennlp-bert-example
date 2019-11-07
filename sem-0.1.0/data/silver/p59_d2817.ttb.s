@@ -1,0 +1,10 @@
+DEF	The
+MOR	more
+PRO	we
+EXS	learn
+NIL	,
+DEF	the
+MOR	more
+PRO	we
+ENS	know
+NIL	.

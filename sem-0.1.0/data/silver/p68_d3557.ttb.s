@@ -1,0 +1,10 @@
+PER	Tom
+EPS	gave
+PRO	us
+CON	permission
+SUB	to
+EXS	use
+HAS	his
+CON	beach
+CON	house
+NIL	.

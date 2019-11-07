@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+IMP	if
+HAS	my
+CON	money
+NOW	is
+IST	enough
+NIL	.

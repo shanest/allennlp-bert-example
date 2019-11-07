@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+DEF	the
+TOP	best
+CON	name
+PRO	I
+NOW	've
+IST	ever
+EXS	heard
+NIL	.

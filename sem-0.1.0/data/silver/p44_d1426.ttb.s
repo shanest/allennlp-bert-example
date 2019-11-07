@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+IST	sure
+SUB	that
+PRO	you
+NOW	have
+NOT	n't
+EXS	forgotten
+DIS	anything
+QUE	?

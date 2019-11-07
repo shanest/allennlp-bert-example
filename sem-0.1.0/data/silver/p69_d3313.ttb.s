@@ -1,0 +1,13 @@
+DEF	The
+IST	constant
+CON	border
+CON	wars
+REL	between
+GPE	England
+AND	and
+GPE	Scotland
+EPS	came
+REL	to
+DIS	an
+CON	end
+NIL	.

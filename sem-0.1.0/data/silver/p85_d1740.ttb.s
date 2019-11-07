@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	living
+REL	with
+HAS	my
+CON	uncle
+REL	for
+DIS	a
+CON	month
+NIL	.

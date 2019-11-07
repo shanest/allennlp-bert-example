@@ -1,0 +1,13 @@
+ROL	Parents
+IST	often
+EXS	make
+CON	sacrifices
+SUB	to
+EXS	give
+DIS	a
+IST	good
+CON	education
+REL	to
+HAS	their
+CON	children
+NIL	.

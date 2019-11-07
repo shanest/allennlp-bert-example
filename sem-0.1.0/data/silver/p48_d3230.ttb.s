@@ -1,0 +1,11 @@
+CON	Half
+DEF	the
+CON	world
+ENS	knows
+NOT	not
+QUE	how
+DEF	the
+ALT	other
+CON	half
+ENS	lives
+NIL	.

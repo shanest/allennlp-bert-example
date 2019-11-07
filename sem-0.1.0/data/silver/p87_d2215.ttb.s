@@ -1,0 +1,9 @@
+PRO	It
+HAS	's
+PER	Tom
+PRO	you
+NEC	should
+EXS	be
+EXS	angry
+REL	with
+NIL	.

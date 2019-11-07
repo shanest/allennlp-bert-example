@@ -1,0 +1,17 @@
+EXS	Explain
+PRO	it
+REL	to
+PRO	him
+AND	all
+PRO	you
+IST	like—he
+PST	was
+IST	always
+DIS	a
+CON	fool
+AND	and
+FUT	will
+EXS	be
+QUC	one
+IST	forever
+NIL	.

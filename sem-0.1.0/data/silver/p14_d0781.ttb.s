@@ -1,0 +1,11 @@
+PRO	We
+EPS	decided
+SUB	to
+EXS	put
+REL	off
+DEF	the
+CON	meeting
+REL	until
+IST	next
+DOW	Sunday
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	guess
+PRO	we
+NOW	're
+EXS	going
+SUB	to
+EXS	need
+DIS	a
+CON	doctor
+NIL	.

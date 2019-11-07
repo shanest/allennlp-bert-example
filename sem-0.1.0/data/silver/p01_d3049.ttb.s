@@ -1,0 +1,14 @@
+GPO	Europeans
+CON	drink
+NIL	,
+REL	on
+CON	average
+NIL	,
+QUC	12.5
+UOM	liters
+AND	of
+IST	pure
+CON	alcohol
+AND	per
+CON	year
+NIL	.

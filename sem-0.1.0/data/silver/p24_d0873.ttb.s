@@ -1,0 +1,11 @@
+PRO	She
+NOW	has
+EXS	got
+DEF	the
+IST	prettiest
+CON	buttocks
+PRO	I
+NOW	've
+IST	ever
+EXS	seen
+NIL	.

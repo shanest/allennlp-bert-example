@@ -1,0 +1,11 @@
+PRO	I
+EPS	took
+PRO	you
+REL	for
+CON	Roy
+SUB	when
+PRO	I
+IST	first
+EPS	saw
+PRO	you
+NIL	.

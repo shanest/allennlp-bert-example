@@ -1,0 +1,10 @@
+PRO	We
+NOW	are
+EXS	involved
+REL	in
+DIS	a
+IST	legal
+CON	wrangle
+AND	over
+CON	payments
+NIL	.

@@ -1,0 +1,9 @@
+DIS	A
+CON	mouse
+NOW	is
+EXG	running
+REL	about
+REL	in
+DEF	the
+CON	room
+NIL	.

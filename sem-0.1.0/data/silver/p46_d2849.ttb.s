@@ -1,0 +1,9 @@
+DEF	The
+IST	important
+CON	thing
+NOW	is
+SUB	that
+PRO	you
+NOW	're
+EXS	alive
+NIL	.

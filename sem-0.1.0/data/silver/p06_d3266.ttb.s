@@ -1,0 +1,13 @@
+IMP	If
+PER	John
+PST	had
+EXS	come
+NIL	,
+PRO	I
+FUT	would
+NOT	n't
+EXT	have
+EXS	had
+SUB	to
+EXS	come
+NIL	.

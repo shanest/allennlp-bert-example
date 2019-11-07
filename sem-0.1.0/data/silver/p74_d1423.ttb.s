@@ -1,0 +1,11 @@
+PER	Tom
+EPS	put
+DEF	the
+CON	calendar
+REL	on
+DEF	the
+CON	wall
+AND	behind
+HAS	his
+CON	desk
+NIL	.

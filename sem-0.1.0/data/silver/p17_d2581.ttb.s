@@ -1,0 +1,11 @@
+DEF	The
+ROL	farmer
+ENS	longs
+REL	for
+DEF	the
+CON	day
+SUB	when
+DEF	the
+CON	grain
+CON	ripens
+NIL	.

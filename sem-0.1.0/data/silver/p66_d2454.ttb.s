@@ -1,0 +1,9 @@
+PRO	You
+NOW	're
+EXS	holding
+PRO	it
+NIL	,
+NOW	are
+NOT	n't
+PRO	you
+QUE	?

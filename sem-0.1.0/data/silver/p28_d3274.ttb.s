@@ -1,0 +1,11 @@
+PRO	I
+NOW	think
+HAS	your
+ROL	father
+EPS	hoped
+PRO	you
+FUT	would
+EXS	go
+REL	to
+CON	college
+NIL	.

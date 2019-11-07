@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	trying
+SUB	to
+EXS	cut
+IST	down
+REL	on
+CON	caffeine
+NIL	.

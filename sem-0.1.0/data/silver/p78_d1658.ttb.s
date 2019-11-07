@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	having
+DIS	a
+IST	hard
+CON	time
+EXS	downloading
+CON	songs
+REL	to
+HAS	my
+CON	iPod
+NIL	.

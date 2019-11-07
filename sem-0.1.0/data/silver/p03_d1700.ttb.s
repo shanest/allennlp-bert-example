@@ -1,0 +1,12 @@
+SUB	When
+PST	was
+DEF	the
+IST	last
+CON	time
+PRO	you
+EPS	saw
+PER	Tom
+EXS	ride
+DIS	a
+CON	unicycle
+QUE	?

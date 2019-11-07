@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	prepared
+CON	eggplant
+AND	and
+CON	egg
+REL	for
+HAS	my
+CON	breakfast
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	sick
+REL	to
+CON	death
+AND	of
+DEF	the
+CON	way
+PRO	you
+CON	kids
+EXS	carry
+REL	on
+NIL	.

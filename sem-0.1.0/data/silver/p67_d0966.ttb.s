@@ -1,0 +1,11 @@
+DEF	The
+CON	number
+AND	of
+IST	wild
+CON	boars
+NOW	is
+EXS	increasing
+IST	rapidly
+REL	in
+GPE	Germany
+NIL	.

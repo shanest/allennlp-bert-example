@@ -1,0 +1,11 @@
+PER	Tom
+EPS	picked
+IST	up
+DEF	the
+CON	knife
+COO	and
+EPS	looked
+REL	at
+PRO	it
+IST	closely
+NIL	.

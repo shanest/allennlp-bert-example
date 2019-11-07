@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+IST	strange
+SUB	that
+PER	Ken
+NOW	does
+NOT	n't
+EXS	agree
+REL	with
+PRO	us
+NIL	.

@@ -1,0 +1,14 @@
+PER	Shakespeare
+HAS	's
+CON	works
+NOW	are
+IST	frequently
+EXS	considered
+AND	among
+DEF	the
+TOP	greatest
+REL	in
+DEF	the
+GPO	English
+CON	language
+NIL	.

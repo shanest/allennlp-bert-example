@@ -1,0 +1,13 @@
+DEF	The
+CON	dream
+EPS	rattled
+PER	Tom
+NIL	.
+PRO	He
+EPS	took
+PRO	it
+AND	as
+DIS	a
+CON	divine
+CON	warning
+NIL	.

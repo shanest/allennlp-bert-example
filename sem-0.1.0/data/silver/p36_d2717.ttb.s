@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+PRO	I
+NEC	have
+SUB	to
+EXS	go
+REL	to
+DEF	the
+CON	gym
+NIL	.

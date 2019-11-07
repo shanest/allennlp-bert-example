@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+POS	ca
+NOT	n't
+EXS	come
+NIL	,
+IST	please
+EXS	let
+PRO	me
+EXS	know
+AND	ahead
+AND	of
+CON	time
+NIL	.

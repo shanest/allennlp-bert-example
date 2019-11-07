@@ -1,0 +1,9 @@
+QUE	What
+CON	comedy
+CON	team
+PST	was
+PER	John
+HAS	Cleese
+CON	part
+AND	of
+QUE	?

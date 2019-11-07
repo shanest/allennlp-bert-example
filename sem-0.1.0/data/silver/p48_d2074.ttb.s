@@ -1,0 +1,10 @@
+AND	Without
+PER	Tom
+HAS	's
+CON	advice
+NIL	,
+PER	Mary
+FUT	would
+EXT	have
+EXS	failed
+NIL	.

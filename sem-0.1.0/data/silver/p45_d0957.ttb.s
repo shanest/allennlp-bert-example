@@ -1,0 +1,14 @@
+PRO	He
+EPS	became
+SUB	so
+EXS	excited
+SUB	that
+QUE	what
+PRO	he
+PST	said
+EPS	made
+NOT	no
+CON	sense
+REL	at
+AND	all
+NIL	.

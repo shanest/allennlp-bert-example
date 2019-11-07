@@ -1,0 +1,17 @@
+NOT	No
+CON	one
+CON	nation
+NIL	,
+NOT	no
+CON	matter
+QUE	how
+IST	large
+DIS	or
+IST	powerful
+NIL	,
+POS	can
+EXS	defeat
+AND	such
+CON	challenges
+AND	alone
+NIL	.

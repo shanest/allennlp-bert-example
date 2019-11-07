@@ -1,0 +1,10 @@
+REL	At
+IST	first
+CON	sight
+NIL	,
+PRO	it
+PST	seemed
+COM	larger
+REL	to
+PRO	me
+NIL	.

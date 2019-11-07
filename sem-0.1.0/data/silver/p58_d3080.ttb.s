@@ -1,0 +1,13 @@
+PRO	You
+NOW	're
+EXS	reliable
+AND	like
+DIS	a
+CON	shack
+REL	in
+DEF	the
+CON	middle
+AND	of
+DIS	a
+CON	hurricane
+NIL	.

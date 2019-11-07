@@ -1,0 +1,15 @@
+PER	Tom
+EPS	saw
+SUB	that
+PER	Mary
+PST	was
+NOT	n't
+EXS	happy
+COO	and
+EPS	went
+IST	over
+SUB	to
+EXS	cheer
+HAS	her
+IST	up
+NIL	.

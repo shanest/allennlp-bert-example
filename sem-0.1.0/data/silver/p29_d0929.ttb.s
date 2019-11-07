@@ -1,0 +1,9 @@
+DEF	The
+XCL	only
+CON	thing
+SUB	that
+PER	Tom
+ENS	drinks
+NOW	is
+CON	coffee
+NIL	.

@@ -1,0 +1,15 @@
+NOW	Do
+NOT	n't
+EXS	speak
+IST	lightly
+AND	of
+DIS	a
+IST	true
+CON	heart
+NIL	,
+UNK	which
+NOW	is
+AND	all
+HAS	your
+CON	own
+NIL	.

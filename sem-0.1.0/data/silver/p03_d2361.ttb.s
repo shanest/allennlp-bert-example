@@ -1,0 +1,14 @@
+IMP	If
+PRO	he
+PST	had
+EXS	told
+PRO	me
+DEF	the
+CON	truth
+NIL	,
+PRO	I
+FUT	would
+EXT	have
+EXS	forgiven
+PRO	him
+NIL	.

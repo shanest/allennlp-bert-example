@@ -1,0 +1,12 @@
+SUB	When
+PRO	I
+PST	was
+IST	little
+NIL	,
+PRO	I
+IST	supposedly
+EPS	ate
+NOT	nothing
+BUT	but
+ENS	peaches
+NIL	.

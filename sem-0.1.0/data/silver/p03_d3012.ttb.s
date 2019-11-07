@@ -1,0 +1,13 @@
+PER	Tom
+EPS	said
+SUB	that
+DEF	the
+CON	box
+PST	was
+INT	too
+EXS	heavy
+SUB	to
+EXS	lift
+REL	by
+REF	himself
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+PST	was
+EXS	drunk
+COO	and
+EPS	forgot
+SUB	to
+EXS	shut
+DEF	the
+IST	back
+CON	door
+NIL	.

@@ -1,0 +1,14 @@
+QUE	What
+CON	countries
+EPS	provided
+CON	troops
+DIS	or
+CON	support
+REL	to
+DEF	the
+IST	NATO-led
+CON	peacekeeping
+CON	mission
+REL	in
+GPE	Bosnia
+QUE	?

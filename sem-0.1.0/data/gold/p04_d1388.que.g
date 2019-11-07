@@ -1,0 +1,11 @@
+QUE	What
+GPO	French
+PST	ex
+ROL	minister
+PST	was
+EXS	sent
+REL	to
+CON	prison
+REL	for
+CON	corruption
+QUE	?

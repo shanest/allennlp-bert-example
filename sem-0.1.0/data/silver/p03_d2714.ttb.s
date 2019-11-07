@@ -1,0 +1,11 @@
+DEF	The
+CON	criminal
+EPS	came
+IST	out
+AND	of
+DEF	the
+CON	house
+REL	with
+CON	arms
+EXS	raised
+NIL	.

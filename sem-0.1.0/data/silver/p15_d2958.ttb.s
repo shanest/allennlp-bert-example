@@ -1,0 +1,11 @@
+DST	That
+IST	famous
+ROL	poet
+EXS	planned
+REL	on
+EXG	killing
+REF	himself
+REL	in
+HAS	his
+CON	library
+NIL	.

@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+DEF	the
+TOP	best
+CON	way
+SUB	to
+EXS	spend
+HAS	my
+DOW	Monday
+NIL	!

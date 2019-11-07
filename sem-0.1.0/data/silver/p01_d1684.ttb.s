@@ -1,0 +1,14 @@
+SUB	Since
+PRO	we
+EPS	insulated
+DEF	the
+CON	house
+PRO	we
+NOW	've
+EXS	saved
+DIS	a
+CON	lot
+REL	on
+CON	heating
+CON	oil
+NIL	.

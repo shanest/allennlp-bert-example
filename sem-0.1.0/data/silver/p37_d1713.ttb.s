@@ -1,0 +1,15 @@
+DEF	The
+CON	population
+AND	of
+GPE	China
+NOW	is
+APX	about
+QUC	eight
+CON	times
+AND	as
+IST	large
+AND	as
+DST	that
+AND	of
+GPE	Japan
+NIL	.

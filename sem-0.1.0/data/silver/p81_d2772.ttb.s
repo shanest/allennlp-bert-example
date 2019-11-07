@@ -1,0 +1,13 @@
+PRO	We
+ENS	know
+PRO	it
+HAS	's
+EXS	difficult
+NIL	,
+BUT	but
+IST	please
+NOW	do
+NOT	n't
+EXS	translate
+IST	literally
+NIL	.

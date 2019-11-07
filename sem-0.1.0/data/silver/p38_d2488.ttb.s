@@ -1,0 +1,11 @@
+PRO	She
+NOW	has
+PFT	been
+EXS	promoted
+QUC	twice
+SUB	since
+PRO	she
+EPS	joined
+PRX	this
+CON	company
+NIL	.

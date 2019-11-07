@@ -1,0 +1,12 @@
+DEF	The
+ORG	Nationalist
+CON	movements
+REL	in
+DEF	both
+CON	countries
+NOW	have
+PFT	been
+EXS	exacerbating
+DEF	the
+CON	problem
+NIL	.

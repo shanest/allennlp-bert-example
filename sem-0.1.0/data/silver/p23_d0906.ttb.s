@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+EXS	possible
+SUB	that
+PER	Tom
+EPS	lied
+REL	to
+PRO	you
+NIL	.

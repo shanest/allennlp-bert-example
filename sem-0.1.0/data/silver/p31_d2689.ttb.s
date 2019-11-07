@@ -1,0 +1,10 @@
+PRO	You
+NEC	must
+NOT	not
+EXS	despise
+DIS	someone
+SUB	because
+PRO	they
+NOW	are
+EXS	poor
+NIL	.

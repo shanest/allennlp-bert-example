@@ -1,0 +1,10 @@
+PRO	He
+EPS	went
+IST	up
+REL	to
+HAS	her
+COO	and
+PRO	they
+EPS	shook
+CON	hands
+NIL	.

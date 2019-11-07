@@ -1,0 +1,12 @@
+DST	Those
+EXS	selected
+FUT	will
+NEC	have
+NIL	to
+EXS	face
+IST	extensive
+IST	medical
+AND	and
+IST	psychological
+CON	tests
+NIL	.

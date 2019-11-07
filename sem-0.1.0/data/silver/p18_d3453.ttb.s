@@ -1,0 +1,11 @@
+EXS	Give
+PRO	me
+DIS	some
+CON	time
+SUB	to
+EXS	figure
+IST	out
+QUE	what
+EPS	went
+EXS	wrong
+NIL	.

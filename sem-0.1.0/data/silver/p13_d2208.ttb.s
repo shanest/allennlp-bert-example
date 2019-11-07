@@ -1,0 +1,9 @@
+PER	Tom
+ENS	wants
+AND	so
+QUV	much
+SUB	to
+EXS	make
+PER	Mary
+EXS	happy
+NIL	.

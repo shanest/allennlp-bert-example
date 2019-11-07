@@ -1,0 +1,11 @@
+HAS	My
+CON	father
+FUT	will
+EXS	cook
+PRO	me
+DIS	a
+IST	delicious
+CON	meal
+FUT	tomorrow
+CON	morning
+NIL	.

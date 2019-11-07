@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+EXS	wrong
+SUB	to
+EXS	deceive
+CON	people
+NIL	,
+AND	but
+COM	worse
+SUB	to
+EXS	deceive
+REF	yourself
+NIL	.

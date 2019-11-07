@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	met
+DIS	anyone
+AND	who
+NOW	does
+NOT	n't
+EXS	like
+CON	chocolate
+NIL	.

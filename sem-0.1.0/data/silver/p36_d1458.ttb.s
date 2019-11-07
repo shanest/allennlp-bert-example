@@ -1,0 +1,15 @@
+DST	Those
+AND	who
+ENS	know
+NOW	do
+NOT	n't
+EXS	talk
+NIL	,
+COO	and
+DST	those
+AND	who
+CON	talk
+NOW	do
+NOT	n't
+EXS	know
+NIL	.

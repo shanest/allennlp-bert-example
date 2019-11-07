@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	lay
+IST	aside
+AND	that
+CON	money
+REL	for
+CON	emergencies
+NIL	.

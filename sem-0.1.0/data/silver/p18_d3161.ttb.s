@@ -1,0 +1,13 @@
+PER	Mary
+HAS	's
+DEF	the
+INT	most
+IST	beautiful
+CON	girl
+PRO	I
+NOW	've
+IST	ever
+IST	actually
+EPS	talked
+REL	to
+NIL	.

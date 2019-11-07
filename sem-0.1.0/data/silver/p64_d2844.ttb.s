@@ -1,0 +1,9 @@
+PRO	She
+NOW	looks
+IST	just
+EXS	like
+DIS	a
+CON	girl
+PRO	I
+ENS	know
+NIL	.

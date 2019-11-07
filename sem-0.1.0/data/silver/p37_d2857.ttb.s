@@ -1,0 +1,11 @@
+PER	Mary
+NOW	is
+EXS	going
+SUB	to
+EXS	open
+DIS	a
+CON	gift
+REL	from
+HAS	her
+CON	boyfriend
+NIL	.

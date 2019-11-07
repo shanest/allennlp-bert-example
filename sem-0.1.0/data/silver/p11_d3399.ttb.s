@@ -1,0 +1,14 @@
+DIS	Some
+CON	people
+NOW	do
+NOT	n't
+EXS	believe
+REL	in
+CON	God
+SUB	because
+PRO	they
+POS	ca
+NOT	n't
+EXS	touch
+PRO	Him
+NIL	.

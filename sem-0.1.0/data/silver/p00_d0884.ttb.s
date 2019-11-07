@@ -1,0 +1,11 @@
+NOW	Have
+PRO	you
+EPS	put
+CON	winter
+CON	tyres
+REL	on
+HAS	your
+CON	car
+NIL	,
+ALT	yet
+QUE	?

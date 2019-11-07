@@ -1,0 +1,13 @@
+REL	In
+DEF	both
+CON	appearance
+AND	and
+CON	personality
+NIL	,
+PER	Tom
+NOW	is
+EQU	exactly
+EXS	like
+HAS	his
+ROL	father
+NIL	.

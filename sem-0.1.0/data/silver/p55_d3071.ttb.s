@@ -1,0 +1,15 @@
+PER	Mary
+NOW	is
+DIS	an
+CON	expert
+REL	in
+CON	anatomy
+AND	and
+ENS	knows
+AND	every
+CON	bone
+REL	in
+DEF	the
+IST	human
+CON	body
+NIL	.

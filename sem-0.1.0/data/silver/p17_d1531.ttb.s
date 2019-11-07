@@ -1,0 +1,11 @@
+NOT	No
+CON	matter
+AND	who
+ENS	says
+AND	so
+NIL	,
+PRO	it
+NOW	's
+NOT	not
+EXS	true
+NIL	.

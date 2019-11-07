@@ -1,0 +1,10 @@
+EXS	Come
+REL	on
+NIL	.
+EXS	Let
+PRO	's
+EXS	get
+IST	out
+AND	of
+PRX	here
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+EQU	was
+DEF	the
+CON	one
+AND	who
+EPS	said
+PRO	we
+NEC	should
+EXS	wait
+NIL	.

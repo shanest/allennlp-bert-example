@@ -1,0 +1,13 @@
+PER	Tom
+EPS	put
+REL	on
+DIS	some
+CON	rubber
+CON	gloves
+COO	so
+PRO	he
+FUT	would
+NOT	n't
+EXS	leave
+CON	fingerprints
+NIL	.

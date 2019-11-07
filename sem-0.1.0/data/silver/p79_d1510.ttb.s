@@ -1,0 +1,10 @@
+PRO	I
+FUT	'd
+EXS	be
+IST	happy
+SUB	to
+EXS	show
+PRO	it
+REL	to
+PRO	you
+NIL	.

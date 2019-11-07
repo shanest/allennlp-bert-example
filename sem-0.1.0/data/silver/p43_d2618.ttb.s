@@ -1,0 +1,10 @@
+HAS	His
+CON	house
+PST	was
+EXS	broken
+REL	into
+REL	by
+CON	burglars
+AND	last
+CON	week
+NIL	.

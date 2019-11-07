@@ -1,0 +1,10 @@
+DEF	The
+CON	phone
+EPS	rang
+SUB	while
+PRO	I
+PST	was
+EXS	taking
+DIS	a
+CON	shower
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+ENS	thinks
+SUB	that
+PER	Mary
+ENS	drinks
+REL	like
+DIS	a
+CON	fish
+NIL	.

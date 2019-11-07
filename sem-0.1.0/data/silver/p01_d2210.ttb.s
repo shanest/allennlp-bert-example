@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+IST	sure
+NIL	there
+HAS	's
+NOT	nothing
+AND	else
+NIL	to
+EXS	eat
+QUE	?

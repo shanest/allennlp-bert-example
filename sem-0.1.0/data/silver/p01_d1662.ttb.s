@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+POS	ca
+NOT	n't
+EXS	afford
+NIL	to
+EXS	buy
+DIS	a
+CON	house
+NIL	.

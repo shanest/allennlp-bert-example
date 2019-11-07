@@ -1,0 +1,10 @@
+QUV	Much
+AND	of
+GPE	London
+PST	was
+EXS	destroyed
+REL	in
+DEF	the
+IST	seventeenth
+CON	century
+NIL	.

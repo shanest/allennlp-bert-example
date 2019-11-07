@@ -1,0 +1,11 @@
+UNK	There
+PST	was
+NOT	no
+CON	one
+AND	who
+PST	did
+NOT	not
+EXS	enjoy
+DEF	the
+CON	party
+NIL	.

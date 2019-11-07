@@ -1,0 +1,9 @@
+DEF	The
+ROL	teacher
+EPS	told
+PRO	him
+SUB	to
+EXS	study
+GPO	English
+IST	hard
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+EPS	cost
+PRO	him
+QUC	50
+UOM	dollars
+SUB	to
+EXS	rent
+DIS	a
+CON	car
+REL	in
+GPE	Hawaii
+NIL	.

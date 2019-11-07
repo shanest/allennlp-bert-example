@@ -1,0 +1,13 @@
+REL	In
+GEO	Christianity
+NIL	,
+PER	Jesus
+NOW	is
+EXS	believed
+SUB	to
+EXS	be
+DEF	the
+CON	son
+AND	of
+CON	God
+NIL	.

@@ -1,0 +1,10 @@
+PRO	She
+EPS	grabbed
+HAS	her
+CON	towel
+COO	and
+EPS	headed
+REL	for
+DEF	the
+CON	beach
+NIL	.

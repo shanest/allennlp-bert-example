@@ -1,0 +1,14 @@
+REL	At
+PRX	this
+CON	school
+NIL	,
+NIL	there
+NOW	are
+NOT	no
+CON	grades
+AND	and
+CON	students
+NOW	have
+NOT	no
+CON	homework
+NIL	.

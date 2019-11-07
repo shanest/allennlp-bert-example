@@ -1,0 +1,11 @@
+PRO	I
+EPS	liked
+DEF	the
+CON	book
+AND	which
+PRO	I
+EPS	bought
+PST	yesterday
+INT	very
+QUC	much
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+ENS	says
+SUB	that
+PRO	he
+ENS	reads
+PRO	it
+REL	for
+DEF	the
+CON	articles
+NIL	.

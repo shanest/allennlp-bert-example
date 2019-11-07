@@ -1,0 +1,10 @@
+PRO	He
+EPS	tried
+SUB	to
+EXS	adapt
+REF	himself
+REL	to
+HAS	his
+IST	new
+CON	surroundings
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+IST	old
+CON	couple
+EPS	gave
+IST	up
+HAS	their
+CON	son
+REL	for
+EXS	lost
+NIL	.

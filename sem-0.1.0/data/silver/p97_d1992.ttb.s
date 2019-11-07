@@ -1,0 +1,9 @@
+NOW	Is
+PER	Tom
+DEF	the
+CON	one
+AND	who
+EPS	took
+PRO	you
+IST	there
+QUE	?

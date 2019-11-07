@@ -1,0 +1,11 @@
+QUE	What
+CON	reason
+POS	could
+PRO	I
+POS	possibly
+NEC	have
+SUB	to
+EXS	lie
+REL	to
+PRO	you
+QUE	?

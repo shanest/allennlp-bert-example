@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+INT	too
+EXS	honest
+DIS	a
+CON	boy
+SUB	to
+EXS	tell
+DIS	a
+CON	lie
+NIL	.

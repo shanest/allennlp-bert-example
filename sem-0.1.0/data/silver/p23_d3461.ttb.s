@@ -1,0 +1,9 @@
+PER	Tom
+EPS	slammed
+DEF	the
+CON	door
+REL	in
+PER	Mary
+HAS	's
+CON	face
+NIL	.

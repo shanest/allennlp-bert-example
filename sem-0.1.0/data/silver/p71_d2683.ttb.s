@@ -1,0 +1,9 @@
+PER	Tom
+EPS	paid
+NOT	no
+CON	attention
+REL	to
+PER	Mary
+HAS	's
+CON	advice
+NIL	.

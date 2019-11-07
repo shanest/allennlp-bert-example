@@ -1,0 +1,14 @@
+REL	For
+DEF	the
+IST	first
+CON	time
+NIL	,
+REL	in
+YOC	1969
+NIL	,
+CON	man
+EPS	touched
+DEF	the
+IST	lunar
+CON	surface
+NIL	.

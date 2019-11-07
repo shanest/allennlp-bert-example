@@ -1,0 +1,9 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	know
+QUE	what
+HAS	's
+EXG	going
+REL	on
+NIL	.

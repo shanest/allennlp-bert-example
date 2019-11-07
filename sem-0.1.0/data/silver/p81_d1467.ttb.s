@@ -1,0 +1,16 @@
+PRO	I
+EPS	drank
+REL	from
+DEF	the
+CON	bottle
+AND	and
+SUB	before
+PRO	I
+EPS	noticed
+NIL	,
+PRO	I
+EPS	turned
+REL	into
+DIS	a
+CON	rabbit
+NIL	.

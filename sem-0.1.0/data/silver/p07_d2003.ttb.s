@@ -1,0 +1,13 @@
+DST	That
+HAS	's
+QUE	why
+PRO	I
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	go
+IST	out
+REL	with
+PER	Tom
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+EPS	wanted
+SUB	to
+EXS	go
+DIS	somewhere
+PRO	I
+PST	'd
+NOT	never
+PFT	been
+REL	before
+NIL	.

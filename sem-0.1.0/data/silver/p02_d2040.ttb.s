@@ -1,0 +1,10 @@
+AND	Why
+NOW	do
+PRO	you
+ENS	walk
+SUB	when
+PRO	you
+ENS	have
+DIS	a
+CON	car
+QUE	?

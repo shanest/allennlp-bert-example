@@ -1,0 +1,14 @@
+REL	From
+DST	that
+CON	day
+REL	on
+NIL	,
+PRO	he
+FUT	'll
+NOT	never
+EXS	say
+GRE	hello
+REL	to
+PRO	me
+ALT	again
+NIL	.

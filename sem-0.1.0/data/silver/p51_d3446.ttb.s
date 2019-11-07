@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+NOT	not
+EXS	dead
+NIL	.
+PRO	He
+NOW	's
+EXS	alive
+AND	and
+CON	kicking
+NIL	.

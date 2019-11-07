@@ -1,0 +1,12 @@
+PRO	You
+NEC	should
+EXS	ask
+HAS	your
+ROL	father
+REL	for
+HAS	his
+CON	advice
+COO	and
+EXS	follow
+PRO	it
+NIL	.

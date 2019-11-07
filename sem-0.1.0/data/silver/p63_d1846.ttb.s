@@ -1,0 +1,11 @@
+PER	Tom
+EPS	said
+SUB	that
+PRO	he
+EPS	told
+PER	Mary
+SUB	to
+EXS	do
+HAS	her
+CON	homework
+NIL	.

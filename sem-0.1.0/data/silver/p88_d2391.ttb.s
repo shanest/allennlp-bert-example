@@ -1,0 +1,12 @@
+QUE	What
+EPS	surprised
+PRO	me
+IST	most
+EPS	was
+SUB	that
+PRO	she
+PST	did
+NOT	n't
+EXS	like
+CON	candy
+NIL	.

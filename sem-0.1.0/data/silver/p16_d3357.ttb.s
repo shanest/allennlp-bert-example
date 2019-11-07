@@ -1,0 +1,10 @@
+PRO	I
+EPS	ran
+REL	across
+DIS	an
+IST	old
+CON	friend
+REL	near
+DEF	the
+CON	bank
+NIL	.

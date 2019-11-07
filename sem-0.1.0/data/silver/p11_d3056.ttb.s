@@ -1,0 +1,15 @@
+CON	Data
+POS	can
+EXS	be
+EXS	transmitted
+REL	from
+DEF	the
+IST	main
+CON	computer
+REL	to
+HAS	yours
+NIL	,
+AND	and
+CON	vice
+CON	versa
+NIL	.

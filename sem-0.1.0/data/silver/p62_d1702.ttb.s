@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+REL	for
+IST	certain
+SUB	when
+PER	Mary
+FUT	will
+EXS	arrive
+NIL	.

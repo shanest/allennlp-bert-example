@@ -1,0 +1,9 @@
+QUE	How
+PST	did
+PRO	you
+EXS	get
+PER	Tom
+SUB	to
+EXS	say
+IST	yes
+QUE	?

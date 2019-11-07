@@ -1,0 +1,13 @@
+IST	Eventually
+PRO	it
+PST	was
+EXS	decided
+SUB	that
+DEF	the
+CON	stores
+EXS	be
+EXS	equipped
+REL	with
+CON	surveillance
+CON	cameras
+NIL	.

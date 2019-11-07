@@ -1,0 +1,10 @@
+DEF	The
+ROL	princess
+EPS	fell
+REL	in
+CON	love
+REL	with
+DEF	the
+CON	prince
+IST	instantly
+NIL	.

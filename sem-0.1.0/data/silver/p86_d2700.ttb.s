@@ -1,0 +1,14 @@
+PER	Tom
+PST	asked
+PER	Mary
+SUB	where
+PRO	she
+EPS	lived
+NIL	,
+COO	but
+PRO	she
+FUT	would
+NOT	n't
+EXS	tell
+PRO	him
+NIL	.

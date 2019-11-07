@@ -1,0 +1,11 @@
+QUC	Ninety-five
+UOM	percent
+REL	of
+CON	orphans
+NOW	are
+MOR	older
+MOR	than
+QUC	5
+CON	years
+DEG	old
+NIL	.

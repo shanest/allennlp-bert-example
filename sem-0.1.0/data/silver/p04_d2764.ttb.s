@@ -1,0 +1,10 @@
+FUT	Will
+PRO	you
+EXS	go
+REL	to
+DEF	the
+CON	party
+NIL	instead
+AND	of
+PRO	me
+QUE	?

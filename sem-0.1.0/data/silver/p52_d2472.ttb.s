@@ -1,0 +1,11 @@
+PRO	I
+EPS	paid
+PER	Tom
+DIS	a
+CON	lot
+AND	of
+CON	money
+SUB	to
+EXS	do
+DST	that
+NIL	.

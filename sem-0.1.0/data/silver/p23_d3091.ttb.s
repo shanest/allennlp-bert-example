@@ -1,0 +1,10 @@
+PRO	She
+PST	felt
+AND	as
+IMP	if
+PRO	she
+PST	had
+EXS	seen
+DIS	a
+CON	ghost
+NIL	.

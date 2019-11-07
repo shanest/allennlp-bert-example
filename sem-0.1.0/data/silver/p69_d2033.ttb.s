@@ -1,0 +1,13 @@
+NOW	Have
+PRO	you
+IST	ever
+EXS	seen
+PER	Tom
+AND	and
+PER	Mary
+REL	in
+DEF	the
+IST	same
+CON	room
+IST	together
+QUE	?

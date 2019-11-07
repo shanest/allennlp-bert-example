@@ -1,0 +1,14 @@
+EXS	Be
+IST	sure
+SUB	to
+EXS	look
+AND	over
+HAS	your
+CON	paper
+ALT	again
+SUB	before
+PRO	you
+NOW	hand
+PRO	it
+REL	in
+NIL	.

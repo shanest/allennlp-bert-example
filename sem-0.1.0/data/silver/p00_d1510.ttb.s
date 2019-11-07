@@ -1,0 +1,10 @@
+EXG	Seeing
+PRO	me
+NIL	,
+DEF	the
+CON	dog
+EPS	rushed
+IST	up
+REL	to
+PRO	me
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+IST	sure
+PRO	you
+NOW	've
+EXS	said
+SUB	that
+SUB	to
+QUV	many
+CON	girls
+REL	before
+NIL	.

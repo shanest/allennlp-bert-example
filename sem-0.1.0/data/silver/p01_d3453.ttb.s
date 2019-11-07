@@ -1,0 +1,9 @@
+DEF	The
+CON	myth
+ENS	offers
+CON	insights
+REL	into
+DEF	the
+IST	ancient
+CON	civilization
+NIL	.

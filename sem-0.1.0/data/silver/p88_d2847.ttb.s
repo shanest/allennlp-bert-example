@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+IST	certainly
+EXS	looking
+EXS	fit
+AND	as
+DIS	a
+CON	fiddle
+NOW	today
+NIL	.

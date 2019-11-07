@@ -1,0 +1,12 @@
+PRO	I
+PST	was
+EXS	wondering
+SUB	where
+HAS	your
+IST	little
+CON	camper
+PST	had
+EXS	taken
+PRO	you
+AND	both
+NIL	.

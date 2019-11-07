@@ -1,0 +1,13 @@
+SUB	When
+PRO	I
+EPS	looked
+IST	about
+NIL	,
+PRO	I
+EPS	found
+DIS	a
+CON	letter
+REL	on
+DEF	the
+CON	desk
+NIL	.

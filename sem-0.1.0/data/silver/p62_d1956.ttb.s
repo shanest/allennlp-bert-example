@@ -1,0 +1,12 @@
+AND	Finally
+PRO	she
+EPS	gave
+REL	in
+REL	to
+CON	temptation
+COO	and
+EPS	ate
+DEF	the
+IST	whole
+CON	cake
+NIL	.

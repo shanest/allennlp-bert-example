@@ -1,0 +1,10 @@
+PRO	He
+EPS	hurt
+HAS	his
+CON	ear
+SUB	while
+PRO	he
+PST	was
+EXS	shaving
+REF	himself
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	happy
+SUB	to
+NOW	have
+INT	so
+QUV	many
+IST	good
+CON	friends
+NIL	.

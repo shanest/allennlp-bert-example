@@ -1,0 +1,13 @@
+AND	Every
+NOW	now
+COO	and
+IST	then
+PRO	I
+ENS	like
+SUB	to
+EXT	have
+EXS	hot
+AND	and
+EXS	spicy
+CON	food
+NIL	.

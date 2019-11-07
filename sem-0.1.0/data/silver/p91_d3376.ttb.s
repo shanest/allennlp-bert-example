@@ -1,0 +1,13 @@
+PER	Ming
+PER	Xiao
+NOW	does
+NOT	n't
+EXS	know
+ALT	yet
+SUB	where
+PRO	he
+FUT	will
+EXS	go
+IST	next
+CON	year
+NIL	.

@@ -1,0 +1,11 @@
+SUB	When
+PRO	we
+EPS	started
+IST	out
+NIL	,
+PRO	we
+IST	only
+PST	had
+QUC	six
+ROL	employees
+NIL	.

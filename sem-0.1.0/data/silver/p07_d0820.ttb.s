@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+PRO	you
+SUB	to
+EXS	play
+DEF	the
+CON	guitar
+REL	for
+PRO	me
+NIL	.

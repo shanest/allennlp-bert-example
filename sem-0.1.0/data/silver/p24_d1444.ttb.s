@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PRO	we
+NOW	've
+EXS	got
+QUV	much
+CON	time
+NIL	.

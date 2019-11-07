@@ -1,0 +1,14 @@
+DEF	The
+ROL	boss
+EPS	called
+PER	Jim
+REL	into
+HAS	his
+CON	office
+COO	and
+EPS	gave
+PRO	him
+HAS	his
+COL	pink
+CON	slip
+NIL	.

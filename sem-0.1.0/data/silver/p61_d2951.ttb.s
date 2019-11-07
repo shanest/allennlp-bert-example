@@ -1,0 +1,10 @@
+PER	Tom
+NEC	should
+EXT	've
+EXS	finished
+REL	at
+EXS	least
+DIS	an
+CON	hour
+PST	ago
+NIL	.

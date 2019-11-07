@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	when
+PRO	she
+PST	was
+EXS	planning
+SUB	to
+EXS	leave
+NIL	.

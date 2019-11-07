@@ -1,0 +1,10 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	send
+DIS	a
+CON	cable
+REL	to
+GPE	Japan
+NIL	.

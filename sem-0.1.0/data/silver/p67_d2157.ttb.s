@@ -1,0 +1,10 @@
+DEF	The
+CON	coat
+PRO	she
+EPS	said
+PRO	she
+EPS	wanted
+PST	was
+INT	extremely
+EXS	expensive
+NIL	.

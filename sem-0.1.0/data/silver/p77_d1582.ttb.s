@@ -1,0 +1,11 @@
+PER	Tom
+EPS	pointed
+REL	to
+DEF	the
+CON	floor
+AND	near
+PER	Mary
+HAS	's
+IST	right
+CON	foot
+NIL	.

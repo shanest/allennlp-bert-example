@@ -1,0 +1,10 @@
+PRO	She
+EPS	ran
+SUB	as
+EXS	fast
+SUB	as
+PRO	she
+PST	was
+IST	able
+SUB	to
+NIL	.

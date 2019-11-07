@@ -1,0 +1,9 @@
+PRO	He
+HAS	's
+EXG	suffering
+REL	from
+DEF	the
+CON	effects
+AND	of
+CON	overwork
+NIL	.

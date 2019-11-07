@@ -1,0 +1,12 @@
+PRO	He
+AND	who
+NOW	is
+EXS	slow
+SUB	to
+CON	promise
+NOW	is
+TOP	best
+REL	in
+EXG	keeping
+PRO	them
+NIL	.

@@ -1,0 +1,9 @@
+POS	Maybe
+QUE	what
+PRO	you
+EPS	said
+AND	about
+PER	Tom
+NOW	is
+EXS	right
+NIL	.

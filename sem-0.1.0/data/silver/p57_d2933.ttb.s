@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	being
+IST	good
+REL	to
+PRO	you
+PRX	this
+CON	morning
+NIL	.

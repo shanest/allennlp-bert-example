@@ -1,0 +1,14 @@
+AND	Every
+CON	body
+REL	in
+PRX	this
+CON	world
+ENS	has
+SUB	to
+EXS	cope
+REL	with
+DIS	a
+CON	lot
+AND	of
+CON	difficulties
+NIL	.

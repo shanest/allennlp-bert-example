@@ -1,0 +1,10 @@
+PRO	We
+EPS	saw
+QUV	many
+IST	unusual
+CON	plants
+REL	in
+DEF	the
+IST	botanical
+CON	garden
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+EPS	left
+DEF	the
+CON	window
+SUB	as
+PRO	it
+PST	was
+NIL	,
+EXS	open
+NIL	.

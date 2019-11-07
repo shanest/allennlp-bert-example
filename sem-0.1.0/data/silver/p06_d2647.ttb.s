@@ -1,0 +1,13 @@
+PER	Tom
+EPS	took
+DIS	a
+CON	book
+REL	off
+DEF	the
+CON	shelf
+COO	and
+EPS	handed
+PRO	it
+REL	to
+PER	Mary
+NIL	.

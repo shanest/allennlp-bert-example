@@ -1,0 +1,17 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	planning
+NIL	to
+EXS	have
+DIS	a
+CON	house
+EXS	built
+REL	after
+PRO	they
+ENS	have
+HAS	their
+IST	first
+CON	child
+NIL	.

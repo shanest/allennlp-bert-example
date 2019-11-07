@@ -1,0 +1,10 @@
+QUE	What
+CON	year
+PST	did
+DEF	the
+GPO	Russian
+CON	troops
+EXS	withdraw
+REL	from
+GPE	Latvia
+QUE	?

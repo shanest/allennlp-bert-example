@@ -1,0 +1,11 @@
+PRO	He
+PST	was
+EXS	smiling
+AND	as
+IMP	if
+NOT	nothing
+PST	had
+EPS	happened
+REL	to
+PRO	him
+NIL	.

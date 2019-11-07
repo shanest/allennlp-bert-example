@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+NOT	n't
+DEF	the
+IST	same
+CON	age
+AND	as
+PER	Mary
+NIL	.

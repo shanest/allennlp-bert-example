@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	need
+SUB	to
+EXS	go
+REL	to
+EXS	work
+NOW	today
+NIL	.

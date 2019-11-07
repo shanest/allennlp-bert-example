@@ -1,0 +1,16 @@
+CON	Humanity
+EPS	originated
+REL	from
+GEO	Africa
+NIL	.
+AND	So
+ALT	too
+NOW	have
+QUV	many
+CON	pandemics
+NIL	,
+AND	including
+DEF	the
+IST	bubonic
+CON	plague
+NIL	.

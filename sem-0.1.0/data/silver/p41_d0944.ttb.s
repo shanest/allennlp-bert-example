@@ -1,0 +1,11 @@
+PRO	She
+NOW	's
+NOT	never
+EXS	said
+SUB	that
+NIL	,
+POS	maybe
+PRO	you
+NOW	're
+EXS	mistaken
+NIL	.

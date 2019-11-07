@@ -1,0 +1,9 @@
+PRO	We
+NEC	should
+EXS	do
+REL	away
+REL	with
+PRX	these
+IST	old
+CON	rules
+NIL	.

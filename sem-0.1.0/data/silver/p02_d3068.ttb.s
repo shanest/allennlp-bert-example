@@ -1,0 +1,10 @@
+PRO	She
+NOW	has
+PFT	been
+EXG	studying
+GPO	French
+REL	for
+DIS	a
+IST	few
+CON	years
+NIL	.

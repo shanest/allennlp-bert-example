@@ -1,0 +1,10 @@
+EXS	Give
+PRO	me
+DIS	some
+CON	coffee
+IMP	if
+UNK	there
+NOW	is
+AND	any
+EXS	left
+NIL	.

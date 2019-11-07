@@ -1,0 +1,10 @@
+HAS	His
+CON	wife
+EPS	begged
+PRO	him
+NOT	not
+NIL	to
+EXS	run
+AND	any
+CON	risk
+NIL	.

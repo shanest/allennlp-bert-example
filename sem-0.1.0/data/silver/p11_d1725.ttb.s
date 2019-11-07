@@ -1,0 +1,10 @@
+EXS	Come
+QUE	what
+POS	may
+NIL	,
+PRO	I
+FUT	will
+NOT	never
+EXS	leave
+PRO	you
+NIL	.

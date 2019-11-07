@@ -1,0 +1,9 @@
+PER	Tom
+EXS	dated
+PER	Mary
+SUB	when
+PRO	they
+PST	were
+DEF	both
+CON	teenagers
+NIL	.

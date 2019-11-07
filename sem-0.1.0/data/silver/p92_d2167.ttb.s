@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	thinking
+AND	of
+EXS	going
+IST	abroad
+IST	next
+CON	year
+NIL	.

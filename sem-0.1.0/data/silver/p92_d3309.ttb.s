@@ -1,0 +1,9 @@
+PRO	I
+EPS	heard
+SUB	that
+PRO	you
+NOW	are
+ALT	also
+EXS	collecting
+CON	stamps
+NIL	.

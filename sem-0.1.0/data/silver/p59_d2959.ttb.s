@@ -1,0 +1,9 @@
+DEF	The
+CON	meeting
+EPS	ended
+REL	at
+CLO	three
+REL	in
+DEF	the
+CON	afternoon
+NIL	.

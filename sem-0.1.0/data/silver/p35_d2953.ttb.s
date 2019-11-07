@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+ENS	thinks
+NIL	,
+BUT	but
+AND	everyone
+NOW	has
+HAS	their
+CON	opinions
+NIL	.

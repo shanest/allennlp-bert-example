@@ -1,0 +1,11 @@
+NOT	Nobody
+ENS	seems
+SUB	to
+EXT	have
+EXS	paid
+CON	attention
+REL	to
+QUE	what
+PRO	he
+EPS	said
+NIL	.

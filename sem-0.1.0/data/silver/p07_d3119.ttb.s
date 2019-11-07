@@ -1,0 +1,13 @@
+PRO	I
+FUT	'll
+EXS	pay
+PRO	you
+IST	back
+DEF	the
+CON	money
+PRO	I
+ENS	owe
+PRO	you
+IST	next
+CON	week
+NIL	.

@@ -1,0 +1,17 @@
+IMP	If
+PRO	it
+PST	were
+NOT	n't
+REL	for
+DEF	the
+CON	iPhone
+NIL	,
+PRO	I
+FUT	would
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	learn
+GPO	Japanese
+NIL	.

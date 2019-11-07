@@ -1,0 +1,9 @@
+QUE	How
+IST	long
+NOW	have
+PRO	you
+PFT	been
+REL	in
+PRX	this
+CON	country
+QUE	?

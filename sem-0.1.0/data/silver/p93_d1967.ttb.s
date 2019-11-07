@@ -1,0 +1,10 @@
+PRO	I
+NOW	guess
+PRO	I
+NEC	should
+EXT	've
+EXS	warned
+PRO	you
+AND	about
+PER	Tom
+NIL	.

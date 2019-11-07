@@ -1,0 +1,11 @@
+PRO	I
+FUT	will
+EXS	accept
+DEF	the
+CON	work
+NIL	,
+IMP	provided
+PRO	you
+EXS	help
+PRO	me
+NIL	.

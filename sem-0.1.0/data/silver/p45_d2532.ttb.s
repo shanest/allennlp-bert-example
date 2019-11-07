@@ -1,0 +1,9 @@
+AND	How
+IST	long
+PST	ago
+PST	did
+PRO	you
+ENS	start
+EXS	studying
+GPO	French
+QUE	?

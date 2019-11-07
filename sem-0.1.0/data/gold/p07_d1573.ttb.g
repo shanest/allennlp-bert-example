@@ -1,0 +1,9 @@
+PER	Tom
+EPS	managed
+NIL	to
+EXS	finish
+DEF	the
+CON	work
+REL	before
+CLO	2:30
+NIL	.

@@ -1,0 +1,11 @@
+NOT	Not
+DIS	a
+CON	soul
+PST	was
+NIL	to
+EXS	be
+EXS	seen
+REL	on
+DEF	the
+CON	street
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	mention
+QUE	why
+PRO	he
+PST	was
+EXS	looking
+REL	for
+PER	Mary
+NIL	.

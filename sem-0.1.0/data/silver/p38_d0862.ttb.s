@@ -1,0 +1,12 @@
+PRO	I
+EPS	told
+PRO	you
+SUB	to
+EXS	come
+SUB	whenever
+PRO	it
+NOW	's
+EXS	convenient
+REL	to
+PRO	you
+NIL	.

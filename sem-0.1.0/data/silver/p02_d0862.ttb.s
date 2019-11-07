@@ -1,0 +1,15 @@
+DEF	The
+CON	clock
+REL	on
+DEF	the
+GEO	Lviv
+CON	Town
+GEO	Hall
+PST	was
+IST	first
+EXT	installed
+REL	in
+DEF	the
+CON	year
+YOC	1404
+NIL	.

@@ -1,0 +1,12 @@
+MOY	March
+YOC	1995
+AND	-
+EXS	leading
+ROL	journalist
+PER	Vladislav
+PER	Listyev
+EPS	shot
+CON	dead
+REL	in
+GEO	Moscow
+NIL	.

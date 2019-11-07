@@ -1,0 +1,14 @@
+IMP	If
+PRO	I
+ENS	send
+PRO	it
+REL	by
+CON	air
+CON	mail
+NIL	,
+QUE	how
+QUV	much
+FUT	will
+PRO	it
+EXS	cost
+QUE	?

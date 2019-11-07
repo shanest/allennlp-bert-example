@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	prepared
+SUB	to
+EXS	do
+AND	anything
+REL	to
+MOR	better
+IST	myself
+NIL	.

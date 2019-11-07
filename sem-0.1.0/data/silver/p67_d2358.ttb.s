@@ -1,0 +1,14 @@
+PRO	He
+EPS	put
+HAS	his
+CON	finger
+REL	to
+HAS	his
+CON	lips
+AND	as
+DIS	a
+CON	sign
+SUB	to
+EXS	be
+EXS	quiet
+NIL	.

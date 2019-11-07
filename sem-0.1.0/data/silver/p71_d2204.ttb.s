@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+EXS	doing
+CON	business
+REL	on
+DIS	a
+IST	large
+CON	scale
+NIL	.

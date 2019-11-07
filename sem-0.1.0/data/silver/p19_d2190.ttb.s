@@ -1,0 +1,10 @@
+PRO	You
+FUT	wo
+NOT	n't
+EXS	believe
+QUE	what
+EPS	happened
+REL	to
+PRO	me
+NOW	today
+NIL	.

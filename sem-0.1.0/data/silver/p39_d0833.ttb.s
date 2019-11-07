@@ -1,0 +1,10 @@
+QUC	Two
+CON	months
+NOW	have
+EXS	passed
+SUB	since
+PRO	he
+EPS	left
+REL	for
+GPE	France
+NIL	.

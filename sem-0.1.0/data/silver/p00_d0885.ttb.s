@@ -1,0 +1,12 @@
+PRO	I
+EPS	went
+IST	out
+REL	for
+DIS	a
+CON	walk
+NIL	to
+EXS	get
+DIS	some
+IST	fresh
+CON	air
+NIL	.

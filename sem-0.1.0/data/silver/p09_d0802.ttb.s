@@ -1,0 +1,9 @@
+IMP	If
+PRO	you
+NOW	insist
+PRO	I
+FUT	'll
+EXS	have
+ALT	another
+CON	drink
+NIL	.

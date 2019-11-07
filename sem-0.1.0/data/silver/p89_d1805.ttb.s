@@ -1,0 +1,11 @@
+PER	Tom
+ENS	speaks
+GPO	Spanish
+NIL	,
+COO	and
+PER	Betty
+ENS	speaks
+GPO	Spanish
+NIL	,
+ALT	too
+NIL	.

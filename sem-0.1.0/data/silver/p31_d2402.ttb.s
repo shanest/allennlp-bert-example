@@ -1,0 +1,13 @@
+HAS	My
+ROL	grandfather
+REL	on
+HAS	my
+CON	mother
+HAS	's
+CON	side
+EPS	passed
+IST	away
+QUC	ten
+CON	years
+PST	ago
+NIL	.

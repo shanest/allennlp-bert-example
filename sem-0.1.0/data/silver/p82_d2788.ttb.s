@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	waiting
+DIS	a
+IST	long
+CON	time
+REL	for
+PRO	you
+NIL	.

@@ -1,0 +1,17 @@
+PRO	You
+NOW	are
+DEF	the
+CON	ruler
+AND	of
+HAS	your
+CON	words
+NIL	,
+BUT	but
+AND	,
+QUC	once
+EPS	said
+NIL	,
+PRO	they
+ENS	rule
+PRO	you
+NIL	.

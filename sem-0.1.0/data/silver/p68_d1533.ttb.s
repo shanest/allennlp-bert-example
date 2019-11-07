@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+SUB	where
+PER	Tom
+EPS	put
+HAS	his
+CON	suitcase
+NIL	.

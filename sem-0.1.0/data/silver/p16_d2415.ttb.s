@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	you
+POS	might
+EXS	be
+IST	able
+SUB	to
+EXS	help
+PRO	me
+NIL	.

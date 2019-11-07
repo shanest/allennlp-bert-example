@@ -1,0 +1,15 @@
+PRO	I
+PST	was
+EXS	planning
+SUB	to
+EXS	call
+PRO	him
+NIL	,
+COO	but
+EPS	changed
+HAS	my
+CON	mind
+COO	and
+PST	did
+NOT	n't
+NIL	.

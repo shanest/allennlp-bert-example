@@ -1,0 +1,15 @@
+NIL	There
+PST	was
+DIS	a
+CON	commotion
+SUB	when
+EXS	store
+CON	security
+CON	guards
+EPS	detained
+DIS	some
+IST	young
+CON	men
+REL	for
+EXS	shoplifting
+NIL	.

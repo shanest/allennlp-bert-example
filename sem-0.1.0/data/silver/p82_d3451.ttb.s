@@ -1,0 +1,12 @@
+PER	Tom
+EPS	fell
+REL	in
+CON	love
+REL	with
+DIS	a
+GPO	Russian
+CON	girl
+PRO	he
+EPS	met
+IST	online
+NIL	.

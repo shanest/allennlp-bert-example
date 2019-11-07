@@ -1,0 +1,9 @@
+CON	Mixture
+AND	of
+DEF	the
+QUC	three
+IST	primary
+CON	colors
+NOW	creates
+COL	black
+NIL	.

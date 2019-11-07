@@ -1,0 +1,11 @@
+PRO	He
+EPS	tried
+SUB	to
+EXS	comfort
+PRO	her
+NIL	,
+BUT	but
+PRO	she
+PST	kept
+EXS	crying
+NIL	.

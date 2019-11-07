@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+PRO	I
+POS	ca
+NOT	n't
+EXS	hear
+PRO	you
+IST	well
+NIL	.

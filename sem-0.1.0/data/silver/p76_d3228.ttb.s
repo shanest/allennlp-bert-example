@@ -1,0 +1,10 @@
+CON	Looks
+AND	like
+DEF	the
+CON	weather
+NOW	's
+EXS	gotten
+COM	worse
+NIL	,
+ITJ	eh
+QUE	?

@@ -1,0 +1,14 @@
+ITJ	Hey
+PER	Tom
+NIL	,
+FUT	will
+PRO	you
+EXS	get
+IST	out
+AND	of
+DEF	the
+CON	bed
+NIL	,
+DIS	or
+QUE	what
+QUE	?

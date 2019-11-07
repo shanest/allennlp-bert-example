@@ -1,0 +1,14 @@
+PER	Tom
+EPS	threw
+DIS	a
+CON	rock
+REL	at
+DEF	the
+CON	bottle
+NIL	,
+EPS	hit
+PRO	it
+COO	and
+EPS	broke
+PRO	it
+NIL	.

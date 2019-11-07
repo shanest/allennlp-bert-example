@@ -1,0 +1,14 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	he
+EPS	grew
+IST	up
+REL	in
+DIS	a
+IST	poor
+CON	neighborhood
+REL	in
+GPE	Boston
+NIL	.

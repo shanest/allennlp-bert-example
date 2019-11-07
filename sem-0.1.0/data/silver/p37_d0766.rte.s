@@ -1,0 +1,13 @@
+CON	Animals
+NOW	have
+EXS	died
+REL	by
+DEF	the
+CON	thousands
+REL	from
+CON	drinking
+REL	at
+IST	cyanide-laced
+IST	holding
+CON	ponds
+NIL	.

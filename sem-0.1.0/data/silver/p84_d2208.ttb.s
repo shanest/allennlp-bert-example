@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	give
+PER	Emi
+DIS	a
+IST	new
+CON	CD
+NIL	.

@@ -1,0 +1,14 @@
+PRO	He
+NOW	makes
+PRO	it
+DIS	a
+CON	rule
+SUB	to
+EXS	wear
+CON	glasses
+SUB	when
+PRO	he
+ENS	reads
+DIS	a
+CON	newspaper
+NIL	.

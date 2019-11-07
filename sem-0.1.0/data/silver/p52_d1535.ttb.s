@@ -1,0 +1,13 @@
+AND	Now
+SUB	that
+PRO	I
+NOW	have
+IST	enough
+CON	money
+NIL	,
+PRO	I
+POS	can
+EXS	get
+DST	that
+CON	camera
+NIL	.

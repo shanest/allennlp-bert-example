@@ -1,0 +1,11 @@
+EXS	Come
+REL	on
+NIL	,
+EXS	let
+HAS	's
+ENS	go
+REL	to
+DEF	the
+CON	market
+IST	together
+NIL	.

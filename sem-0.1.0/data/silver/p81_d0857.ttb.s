@@ -1,0 +1,15 @@
+DEF	The
+CON	boy
+EPS	stroked
+DEF	the
+CON	girl
+REL	on
+DEF	the
+CON	chin
+COO	and
+EPS	kissed
+PRO	her
+REL	on
+DEF	the
+CON	cheeks
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	think
+PRO	he
+IST	still
+ENS	looks
+REL	at
+HAS	my
+CON	pictures
+QUE	?

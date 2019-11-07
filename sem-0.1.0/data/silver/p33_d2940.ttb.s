@@ -1,0 +1,9 @@
+PRO	She
+EPS	wondered
+SUB	where
+PRO	she
+PST	had
+EXS	lost
+HAS	her
+CON	purse
+NIL	.

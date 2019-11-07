@@ -1,0 +1,10 @@
+PER	Tom
+ENS	has
+NOT	no
+CON	idea
+QUE	how
+IST	long
+PRO	it
+FUT	will
+EXS	take
+NIL	.

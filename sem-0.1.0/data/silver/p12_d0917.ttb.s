@@ -1,0 +1,10 @@
+AND	Why
+NOW	do
+PRO	you
+EXS	insist
+QUE	?
+PRO	I
+IST	already
+EPS	said
+NOT	no
+NIL	!

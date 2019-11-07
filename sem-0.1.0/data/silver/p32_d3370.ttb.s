@@ -1,0 +1,11 @@
+PRO	He
+EPS	gave
+PRO	me
+DIS	a
+CON	promise
+SUB	to
+EXS	come
+PRX	here
+REL	at
+CLO	five
+NIL	.

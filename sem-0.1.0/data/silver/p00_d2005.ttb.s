@@ -1,0 +1,11 @@
+REL	In
+YOC	1683
+DEF	the
+GPE	Turks
+EPS	attacked
+GPE	Vienna
+REL	for
+DEF	the
+ORD	second
+CON	time
+NIL	.

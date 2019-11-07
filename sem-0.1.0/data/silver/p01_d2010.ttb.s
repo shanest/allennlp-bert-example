@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	took
+NOW	turns
+EXG	taking
+CON	care
+AND	of
+PER	John
+NIL	.

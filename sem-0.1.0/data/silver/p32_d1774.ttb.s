@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+NOT	not
+IST	ashamed
+AND	of
+HAS	my
+CON	father
+EXS	being
+IST	poor
+NIL	.

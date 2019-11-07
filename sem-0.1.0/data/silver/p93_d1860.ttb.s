@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+EXS	easy
+SUB	to
+EXS	love
+NIL	,
+BUT	but
+IST	hard
+SUB	to
+EXS	be
+EXS	loved
+NIL	.

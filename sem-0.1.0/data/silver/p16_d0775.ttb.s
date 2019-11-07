@@ -1,0 +1,10 @@
+CON	Turn
+REL	off
+DEF	the
+CON	television
+NIL	.
+PRO	I
+POS	ca
+NOT	n't
+EXS	concentrate
+NIL	.

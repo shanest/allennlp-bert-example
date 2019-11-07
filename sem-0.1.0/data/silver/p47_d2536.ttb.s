@@ -1,0 +1,13 @@
+PER	Tom
+EQU	,
+PER	Mary
+EQU	,
+PER	John
+AND	and
+PER	Alice
+PST	were
+PST	seated
+AND	around
+DEF	the
+CON	table
+NIL	.

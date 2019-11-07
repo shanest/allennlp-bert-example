@@ -1,0 +1,11 @@
+PRO	It
+EPS	fell
+REL	to
+PRO	me
+SUB	to
+EXS	take
+CON	care
+AND	of
+DEF	the
+CON	baby
+NIL	.

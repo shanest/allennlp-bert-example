@@ -1,0 +1,9 @@
+QUE	What
+PST	was
+DEF	the
+IST	first
+CON	concert
+PRO	you
+EPS	went
+REL	to
+QUE	?

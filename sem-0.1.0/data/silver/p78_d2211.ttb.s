@@ -1,0 +1,10 @@
+PER	Ayumi
+HAS	's
+CON	feet
+PST	were
+EPS	fanned
+REL	by
+DEF	the
+CON	river
+CON	wind
+NIL	.

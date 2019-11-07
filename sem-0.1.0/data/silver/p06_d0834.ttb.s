@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+EXS	clear
+REL	from
+HAS	his
+CON	actions
+SUB	that
+PRO	he
+ENS	loves
+PRO	her
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	n't
+PFT	been
+EXS	sleeping
+INT	very
+QUC	much
+IST	lately
+NIL	.

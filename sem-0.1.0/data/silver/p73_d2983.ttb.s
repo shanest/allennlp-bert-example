@@ -1,0 +1,9 @@
+QUE	What
+DEF	the
+CON	hell
+NOW	does
+PRO	she
+EXS	know
+AND	about
+DST	that
+QUE	?

@@ -1,0 +1,9 @@
+PRO	He
+EPS	denied
+SUB	that
+PRO	he
+PST	had
+EXS	accepted
+DEF	the
+CON	bribe
+NIL	.

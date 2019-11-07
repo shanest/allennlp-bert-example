@@ -1,0 +1,13 @@
+PRO	She
+EPS	forgot
+HAS	her
+CON	wallet
+NIL	,
+COO	so
+PRO	she
+POS	ca
+NOT	n't
+EXS	pay
+DEF	the
+CON	bill
+NIL	.

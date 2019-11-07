@@ -1,0 +1,14 @@
+CON	Look
+IST	carefully
+NIL	.
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	show
+PRO	you
+QUE	how
+PRO	it
+HAS	's
+EXS	done
+NIL	.

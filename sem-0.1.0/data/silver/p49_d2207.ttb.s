@@ -1,0 +1,10 @@
+PRO	We
+NOW	have
+NOT	not
+EXS	heard
+REL	from
+PRO	him
+REL	since
+IST	last
+CON	year
+NIL	.

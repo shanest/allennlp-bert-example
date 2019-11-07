@@ -1,0 +1,9 @@
+CON	Rocks
+NOW	are
+IST	beautifully
+EXS	arranged
+REL	in
+DEF	the
+IST	Japanese-style
+CON	garden
+NIL	.

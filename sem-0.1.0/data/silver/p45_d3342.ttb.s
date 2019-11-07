@@ -1,0 +1,10 @@
+PRO	He
+ENS	comes
+AND	and
+ENS	sees
+PRO	me
+AND	once
+REL	in
+DIS	a
+CON	while
+NIL	.

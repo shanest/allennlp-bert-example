@@ -1,0 +1,15 @@
+PRO	He
+NOW	is
+IST	average
+CON	height
+NIL	,
+NOW	is
+CON	white
+NIL	,
+NOW	has
+COL	brown
+CON	hair
+AND	and
+COL	brown
+CON	eyes
+NIL	.

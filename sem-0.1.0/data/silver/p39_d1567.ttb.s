@@ -1,0 +1,16 @@
+PER	Mary
+NOT	no
+IST	longer
+ENS	eats
+CON	tuna
+NOW	now
+SUB	that
+PRO	she
+NOW	's
+EXS	seen
+QUE	how
+DEF	the
+CON	fish
+NOW	are
+EXS	caught
+NIL	.

@@ -1,0 +1,11 @@
+REL	In
+GPE	Germany
+EQU	,
+DEF	the
+GPO	Italian
+CON	mafia
+NOW	is
+DIS	an
+EPS	underestimated
+CON	problem
+NIL	.

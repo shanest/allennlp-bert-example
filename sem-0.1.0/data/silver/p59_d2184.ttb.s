@@ -1,0 +1,13 @@
+PRO	He
+EPS	studied
+CON	day
+AND	and
+CON	night
+REL	in
+CON	order
+REL	to
+IST	possibly
+EXS	become
+DIS	a
+ROL	lawyer
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	bring
+REF	himself
+SUB	to
+EXS	break
+PRO	it
+IST	off
+REL	with
+PER	Mary
+NIL	.

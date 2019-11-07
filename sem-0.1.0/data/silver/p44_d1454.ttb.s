@@ -1,0 +1,21 @@
+AND	Soon
+REL	after
+DEF	the
+CON	end
+AND	of
+CON	World War 1
+NIL	,
+CON	people
+NOT	never
+EPS	thought
+AND	such
+DIS	a
+IST	hateful
+AND	and
+IST	cruel
+CON	war
+FUT	would
+EXS	break
+IST	out
+ALT	again
+NIL	.

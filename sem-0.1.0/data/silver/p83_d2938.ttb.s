@@ -1,0 +1,10 @@
+UNK	There
+NOW	's
+DIS	a
+CON	fountain
+REL	in
+CON	front
+REL	of
+DEF	the
+CON	station
+NIL	.

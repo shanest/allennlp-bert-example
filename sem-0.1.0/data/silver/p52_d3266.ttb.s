@@ -1,0 +1,13 @@
+PER	Tom
+EPS	helped
+DEF	the
+IST	old
+CON	lady
+AND	onto
+DEF	the
+CON	bus
+REL	with
+HAS	her
+CON	shopping
+CON	bag
+NIL	.

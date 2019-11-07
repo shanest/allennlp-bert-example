@@ -1,0 +1,13 @@
+PRO	I
+PST	was
+EXS	wakened
+REL	by
+DIS	a
+CON	beam
+AND	of
+CON	light
+EXG	shining
+AND	through
+HAS	my
+CON	window
+NIL	.

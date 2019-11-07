@@ -1,0 +1,10 @@
+PRX	This
+CON	photo
+PST	was
+EXS	taken
+REL	in
+GPE	Boston
+QUC	three
+CON	years
+PST	ago
+NIL	.

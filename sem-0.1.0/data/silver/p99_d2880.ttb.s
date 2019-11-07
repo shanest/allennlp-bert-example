@@ -1,0 +1,10 @@
+DEF	The
+CON	meeting
+EPS	started
+REL	at
+CLO	2:30
+COO	and
+EPS	ended
+REL	at
+CLO	5:00
+NIL	.

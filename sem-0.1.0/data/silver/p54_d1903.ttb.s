@@ -1,0 +1,16 @@
+IMP	If
+DEF	the
+CON	spaghetti
+ENS	sticks
+SUB	when
+PRO	you
+EXS	throw
+PRO	it
+AND	against
+DEF	the
+CON	wall
+NIL	,
+PRO	it
+NOW	's
+EXS	done
+NIL	.

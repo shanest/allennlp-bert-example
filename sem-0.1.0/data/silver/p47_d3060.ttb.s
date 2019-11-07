@@ -1,0 +1,13 @@
+DEF	The
+CON	way
+PRO	you
+NOW	talk
+NOW	is
+EXS	going
+SUB	to
+EXS	get
+PRO	you
+REL	in
+CON	trouble
+FUT	someday
+NIL	.

@@ -1,0 +1,10 @@
+SUB	When
+PST	did
+PER	Marian
+PER	Anderson
+EXS	sing
+REL	at
+DEF	the
+PER	Lincoln
+ORG	Memorial
+QUE	?

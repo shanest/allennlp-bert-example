@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+INT	too
+EXS	good
+DIS	a
+CON	story
+SUB	to
+EXS	be
+EXS	true
+NIL	.

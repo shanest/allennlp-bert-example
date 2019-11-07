@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	seen
+DIS	a
+CON	couple
+AND	of
+GEO	Kurosawa
+HAS	's
+CON	films
+NIL	.

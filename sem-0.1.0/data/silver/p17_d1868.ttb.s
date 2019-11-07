@@ -1,0 +1,12 @@
+AND	As
+IST	soon
+SUB	as
+PRO	she
+EPS	met
+PRO	him
+NIL	,
+PRO	she
+EPS	burst
+REL	into
+CON	tears
+NIL	.

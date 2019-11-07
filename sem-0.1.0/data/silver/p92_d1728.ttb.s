@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	calling
+SUB	because
+HAS	my
+CON	credit
+CON	card
+NOW	has
+PFT	been
+EXS	stolen
+NIL	.

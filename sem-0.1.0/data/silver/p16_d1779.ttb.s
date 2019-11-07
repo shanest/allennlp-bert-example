@@ -1,0 +1,13 @@
+AND	Thus
+PRO	we
+ENS	see
+DIS	an
+IST	old
+CON	truth
+EPS	confirmed
+COO	:
+CON	war
+NOW	is
+IST	always
+EXS	useless
+NIL	.

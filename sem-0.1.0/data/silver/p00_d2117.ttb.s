@@ -1,0 +1,11 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	let
+SUB	that
+EXS	come
+REL	between
+PRO	you
+GRP	and
+PER	Tom
+NIL	.

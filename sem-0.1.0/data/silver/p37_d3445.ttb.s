@@ -1,0 +1,12 @@
+PRO	I
+EPS	wrote
+IST	down
+HAS	his
+CON	phone
+CON	number
+REL	on
+DIS	a
+CON	scrap
+AND	of
+CON	paper
+NIL	.

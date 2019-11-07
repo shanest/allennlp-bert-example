@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	planning
+SUB	to
+EXS	vote
+REL	for
+DEF	the
+IST	same
+CON	candidate
+NIL	.

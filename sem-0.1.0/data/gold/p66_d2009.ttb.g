@@ -1,0 +1,12 @@
+PRO	He
+EPS	claimed
+SUB	that
+PRO	he
+PST	had
+EXT	returned
+DEF	the
+CON	book
+REL	to
+DEF	the
+CON	library
+NIL	.

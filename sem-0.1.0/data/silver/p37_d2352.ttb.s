@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+NOT	not
+EXS	feeling
+INT	very
+EXS	hungry
+IST	right
+NOW	now
+NIL	.

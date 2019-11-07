@@ -1,0 +1,13 @@
+IMP	If
+XCL	only
+PRO	you
+PST	had
+EXS	told
+PRO	me
+DEF	the
+IST	whole
+CON	story
+REL	at
+DST	that
+CON	time
+NIL	!

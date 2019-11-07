@@ -1,0 +1,17 @@
+NOW	Do
+NOT	n't
+EXS	believe
+PRO	him
+AND	who
+ENS	speaks
+IST	nice
+CON	words
+NIL	,
+BUT	but
+PRO	him
+AND	who
+ENS	speaks
+IST	simply
+DEF	the
+CON	truth
+NIL	.

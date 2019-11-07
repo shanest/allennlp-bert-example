@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	drinking
+CON	water
+SUB	because
+PRO	I
+NOW	'm
+EXS	thirsty
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+DIS	anyone
+AND	who
+ENS	speaks
+CON	Urdu
+AND	over
+PRX	here
+QUE	?

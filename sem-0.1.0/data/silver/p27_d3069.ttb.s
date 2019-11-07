@@ -1,0 +1,10 @@
+PRO	She
+HAS	's
+NOT	not
+DIS	a
+IST	regular
+ROL	employee
+AND	of
+PRX	this
+CON	company
+NIL	.

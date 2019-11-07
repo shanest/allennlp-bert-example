@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+PRO	I
+NOW	am
+EXS	opposed
+REL	to
+PRX	this
+CON	project
+NIL	.

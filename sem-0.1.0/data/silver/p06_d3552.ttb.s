@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	love
+PRO	him
+IST	enough
+SUB	to
+EXS	marry
+PRO	him
+NIL	.

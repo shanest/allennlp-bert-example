@@ -1,0 +1,11 @@
+PRO	He
+ENS	says
+HAS	his
+CON	son
+POS	can
+EXS	count
+IST	up
+REL	to
+INT	100
+NOW	now
+NIL	.

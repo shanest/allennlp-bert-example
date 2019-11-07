@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	staying
+REL	at
+HAS	my
+CON	aunt
+ENS	's
+REL	for
+DEF	the
+CON	summer
+NIL	.

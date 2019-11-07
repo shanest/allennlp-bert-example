@@ -1,0 +1,9 @@
+QUV	Many
+CON	men
+ENS	want
+SUB	to
+EXS	be
+IST	thin
+NIL	,
+ALT	too
+NIL	.

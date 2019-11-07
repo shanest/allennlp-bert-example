@@ -1,0 +1,15 @@
+PER	Tom
+ENS	wants
+SUB	to
+EXS	learn
+EXS	boxing
+NIL	,
+BUT	but
+HAS	his
+CON	mother
+ENS	thinks
+PRO	it
+NOW	's
+INT	too
+EXS	dangerous
+NIL	.

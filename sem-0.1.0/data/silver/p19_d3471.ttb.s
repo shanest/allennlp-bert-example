@@ -1,0 +1,14 @@
+PER	Tom
+EPS	ate
+DEF	the
+CON	apple
+SUB	that
+PER	Mary
+PST	had
+EPS	left
+REL	on
+DEF	the
+CON	dining
+CON	room
+CON	table
+NIL	.

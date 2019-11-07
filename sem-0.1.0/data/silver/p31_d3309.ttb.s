@@ -1,0 +1,14 @@
+PER	Tom
+EPS	threw
+DIS	a
+CON	rock
+REL	at
+PER	Mary
+NIL	,
+COO	but
+PRO	it
+PST	did
+NOT	n't
+EXS	hit
+PRO	her
+NIL	.

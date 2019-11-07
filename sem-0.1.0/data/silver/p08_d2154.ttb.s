@@ -1,0 +1,10 @@
+DIS	A
+CON	lot
+AND	of
+CON	tobacco
+NOW	is
+EXS	grown
+REL	in
+GEO	North
+GEO	Carolina
+NIL	.

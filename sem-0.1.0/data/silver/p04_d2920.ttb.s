@@ -1,0 +1,10 @@
+PRO	He
+EPS	ended
+HAS	his
+CON	life
+REL	by
+EXG	jumping
+REL	off
+DIS	a
+CON	bridge
+NIL	.

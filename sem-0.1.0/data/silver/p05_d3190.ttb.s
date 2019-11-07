@@ -1,0 +1,10 @@
+DEF	The
+CON	mediator
+ENS	knows
+IST	better
+DEF	the
+CON	culture
+AND	of
+DEF	the
+CON	woman
+NIL	.

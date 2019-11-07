@@ -1,0 +1,11 @@
+PER	Tom
+ENS	has
+NOT	no
+CON	idea
+QUE	what
+DEF	the
+CON	fuck
+PRO	he
+NOW	's
+EXS	doing
+NIL	.

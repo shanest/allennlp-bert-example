@@ -1,0 +1,14 @@
+GPE	Argentina
+EPS	sought
+EXS	help
+REL	from
+GPE	Britain
+REL	on
+HAS	its
+CON	privatization
+CON	program
+AND	and
+EXS	encouraged
+GPO	British
+CON	investment
+NIL	.

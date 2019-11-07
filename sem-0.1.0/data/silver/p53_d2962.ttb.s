@@ -1,0 +1,12 @@
+PRO	I
+PST	had
+DIS	an
+CON	argument
+REL	with
+PER	Tom
+AND	about
+DEF	the
+CON	use
+AND	of
+REL	marijuana
+NIL	.

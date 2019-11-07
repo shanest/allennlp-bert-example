@@ -1,0 +1,11 @@
+PRO	We
+NOW	are
+EXS	collecting
+CON	sentences
+AND	and
+HAS	their
+CON	translations
+REL	into
+ALT	other
+CON	languages
+NIL	.

@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+IST	difficult
+SUB	to
+EXS	translate
+DIS	a
+CON	poem
+EXS	written
+REL	in
+DIS	a
+IST	foreign
+CON	language
+NIL	.

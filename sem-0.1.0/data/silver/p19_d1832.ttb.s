@@ -1,0 +1,14 @@
+REL	In
+CON	comparison
+REL	to
+CON	strawberries
+NIL	,
+EXS	pineapple
+ALT	also
+CON	tastes
+IST	good
+IST	out
+AND	of
+DIS	a
+CON	tin
+NIL	.

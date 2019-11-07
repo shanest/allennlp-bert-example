@@ -1,0 +1,12 @@
+PRO	I
+NOW	feel
+INT	so
+EXS	lonely
+SUB	that
+PRO	I
+NOW	want
+DIS	someone
+SUB	to
+EXS	talk
+REL	with
+NIL	.

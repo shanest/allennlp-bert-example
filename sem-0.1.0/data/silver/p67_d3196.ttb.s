@@ -1,0 +1,15 @@
+IMP	If
+PRO	you
+NOW	think
+SUB	that
+PRX	this
+NOW	is
+EXS	going
+SUB	to
+EXS	be
+EXS	easy
+NIL	,
+PRO	you
+NOW	're
+EXS	wrong
+NIL	.

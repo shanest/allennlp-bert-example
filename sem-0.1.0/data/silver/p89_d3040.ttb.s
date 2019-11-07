@@ -1,0 +1,13 @@
+PRO	They
+EPS	lost
+NOT	no
+CON	time
+REL	in
+EXS	getting
+DEF	the
+IST	sick
+CON	man
+REL	to
+DIS	a
+CON	hospital
+NIL	.

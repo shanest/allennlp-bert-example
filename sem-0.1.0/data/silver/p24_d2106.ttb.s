@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	why
+PER	Tom
+ENS	hates
+PER	Mary
+NIL	.

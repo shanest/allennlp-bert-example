@@ -1,0 +1,13 @@
+PRO	She
+IST	always
+EPS	claimed
+SUB	to
+EXT	have
+PFT	been
+INT	just
+ALT	another
+CON	one
+AND	of
+HAS	his
+CON	victims
+NIL	.

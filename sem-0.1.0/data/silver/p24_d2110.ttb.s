@@ -1,0 +1,12 @@
+SUB	Although
+PRO	she
+PST	had
+DIS	a
+IST	bad
+CON	cold
+NIL	,
+PER	Liisa
+EPS	went
+REL	to
+EXS	work
+NIL	.

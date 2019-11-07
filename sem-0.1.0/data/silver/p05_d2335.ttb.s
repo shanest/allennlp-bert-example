@@ -1,0 +1,10 @@
+AND	Why
+POS	ca
+NOT	n't
+PRO	I
+EXS	go
+REL	to
+PER	Tom
+HAS	's
+CON	party
+QUE	?

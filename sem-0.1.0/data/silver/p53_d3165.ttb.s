@@ -1,0 +1,13 @@
+PER	Tom
+PST	borrowed
+QUC	thirty
+UOM	dollars
+REL	from
+PER	Mary
+SUB	to
+EXS	buy
+PER	John
+DIS	a
+CON	birthday
+CON	present
+NIL	.

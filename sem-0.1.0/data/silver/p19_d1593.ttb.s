@@ -1,0 +1,10 @@
+PRX	This
+CON	soup
+NOW	is
+IST	really
+IST	delicious
+NIL	,
+NOW	is
+NOT	n't
+PRO	it
+QUE	?

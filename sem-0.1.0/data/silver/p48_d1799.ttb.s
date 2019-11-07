@@ -1,0 +1,11 @@
+PRO	I
+EPS	made
+CON	use
+AND	of
+AND	every
+CON	opportunity
+SUB	to
+EXS	improve
+HAS	my
+CON	English
+NIL	.

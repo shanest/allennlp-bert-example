@@ -1,0 +1,13 @@
+PRO	I
+NOW	enter
+DEF	the
+CON	room
+NIL	,
+SUB	where
+PRO	I
+EPS	found
+DIS	an
+IST	old
+CON	man
+EXS	sleeping
+NIL	.

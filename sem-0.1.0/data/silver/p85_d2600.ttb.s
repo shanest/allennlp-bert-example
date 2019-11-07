@@ -1,0 +1,9 @@
+PRO	We
+NOW	're
+EXS	safe
+NIL	,
+REL	at
+TOP	least
+REL	for
+NOW	now
+NIL	.

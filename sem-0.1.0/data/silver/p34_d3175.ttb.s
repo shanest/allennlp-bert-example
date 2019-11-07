@@ -1,0 +1,12 @@
+NOW	Is
+PRO	it
+EXS	true
+PRO	they
+NOW	're
+EXS	planning
+REL	on
+EXS	raising
+DEF	the
+IST	minimum
+CON	wage
+QUE	?

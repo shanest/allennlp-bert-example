@@ -1,0 +1,13 @@
+EXS	Let
+HAS	's
+EXS	tell
+PER	Tom
+PRO	we
+NOW	're
+IST	too
+EXS	tired
+SUB	to
+EXS	come
+IST	over
+CON	tonight
+NIL	.

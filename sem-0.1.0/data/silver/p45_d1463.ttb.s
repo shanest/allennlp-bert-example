@@ -1,0 +1,11 @@
+NOW	Now
+SUB	that
+PRO	we
+NOW	have
+EXS	eaten
+IST	up
+NIL	,
+EXS	let
+HAS	's
+EXS	go
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	ask
+PRO	you
+DIS	some
+CON	questions
+AND	about
+PER	Tom
+NIL	.

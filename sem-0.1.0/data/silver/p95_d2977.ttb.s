@@ -1,0 +1,11 @@
+PER	Tom
+ENS	seems
+SUB	to
+EXS	be
+IST	able
+SUB	to
+EXS	speak
+GPO	French
+IST	fairly
+IST	well
+NIL	.

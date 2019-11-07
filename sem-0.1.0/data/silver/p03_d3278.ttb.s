@@ -1,0 +1,12 @@
+NOW	Do
+NOT	n't
+EXS	speak
+INT	too
+IST	loud
+NIL	.
+PRO	You
+FUT	'll
+EXS	wake
+HAS	her
+IST	up
+NIL	.

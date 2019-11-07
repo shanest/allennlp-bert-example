@@ -1,0 +1,16 @@
+IMP	If
+PRO	it
+PST	had
+NOT	not
+EXS	been
+REL	for
+HAS	her
+CON	help
+NIL	,
+PRO	you
+FUT	would
+NOT	never
+EXT	have
+EXS	done
+PRO	it
+NIL	.

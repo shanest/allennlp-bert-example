@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+DIS	a
+IST	good
+CON	husband
+AND	and
+DIS	a
+IST	good
+ROL	father
+NIL	.

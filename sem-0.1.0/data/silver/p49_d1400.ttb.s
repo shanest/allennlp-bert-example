@@ -1,0 +1,9 @@
+EXS	Send
+PRO	it
+REL	to
+PRO	me
+AND	as
+DIS	a
+IST	compressed
+CON	file
+NIL	.

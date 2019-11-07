@@ -1,0 +1,9 @@
+DEF	The
+CON	dog
+EPS	chased
+DEF	the
+CON	cat
+REL	up
+DIS	a
+CON	tree
+NIL	.

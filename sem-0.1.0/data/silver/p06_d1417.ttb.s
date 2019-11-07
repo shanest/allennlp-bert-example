@@ -1,0 +1,11 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	bear
+SUB	to
+EXS	see
+PRO	him
+EXS	cry
+AND	like
+DST	that
+NIL	.

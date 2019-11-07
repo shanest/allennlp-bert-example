@@ -1,0 +1,12 @@
+SUB	Because
+HAS	my
+ROL	mother
+NOW	is
+EXS	sick
+NIL	,
+HAS	my
+ROL	father
+FUT	will
+EXS	cook
+NOW	today
+NIL	.

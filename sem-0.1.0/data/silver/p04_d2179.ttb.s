@@ -1,0 +1,14 @@
+EXG	Speaking
+REL	in
+IST	public
+NOW	is
+HAS	my
+CON	Achilles
+CON	heel
+COO	;
+PRO	I
+NOW	'm
+IST	simply
+INT	too
+EXS	shy
+NIL	.

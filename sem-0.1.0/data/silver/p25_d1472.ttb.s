@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+DIS	a
+CON	pity
+AND	that
+DEF	the
+CON	teacher
+NOW	is
+EXS	leaving
+HAS	our
+CON	school
+NIL	.

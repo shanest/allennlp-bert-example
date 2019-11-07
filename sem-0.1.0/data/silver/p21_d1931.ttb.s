@@ -1,0 +1,10 @@
+PRO	They
+EPS	went
+CON	home
+SUB	after
+PRO	they
+PST	had
+EXS	finished
+DEF	the
+CON	task
+NIL	.

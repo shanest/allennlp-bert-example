@@ -1,0 +1,9 @@
+QUE	What
+NOW	are
+HAS	your
+CON	thoughts
+AND	about
+GPE	Japan
+HAS	's
+CON	economy
+QUE	?

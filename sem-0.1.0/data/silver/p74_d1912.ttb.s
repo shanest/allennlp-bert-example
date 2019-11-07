@@ -1,0 +1,9 @@
+NOW	Are
+DEF	the
+CON	stores
+EXS	closed
+REL	on
+DOW	Sunday
+REL	in
+GPE	England
+QUE	?

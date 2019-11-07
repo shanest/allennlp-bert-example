@@ -1,0 +1,13 @@
+PRO	He
+NOW	is
+EXS	slow
+SUB	to
+EXS	decide
+NIL	,
+COO	but
+PRO	he
+NOW	is
+EXS	quick
+SUB	to
+EXS	act
+NIL	.

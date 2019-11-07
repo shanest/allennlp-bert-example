@@ -1,0 +1,11 @@
+PRO	I
+ENS	admit
+SUB	that
+DEF	the
+IST	average
+GPO	Chilean
+NOW	is
+IST	quite
+DIS	a
+CON	cheater
+NIL	.

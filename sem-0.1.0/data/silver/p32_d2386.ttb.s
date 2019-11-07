@@ -1,0 +1,11 @@
+PRO	You
+NOW	do
+NOT	n't
+EXS	want
+PER	Tom
+SUB	to
+EXS	think
+PRO	you
+NOW	're
+EXS	stupid
+NIL	.

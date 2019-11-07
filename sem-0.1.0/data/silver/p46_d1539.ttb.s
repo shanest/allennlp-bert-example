@@ -1,0 +1,10 @@
+PRO	We
+NEC	must
+NOT	not
+EXS	make
+INT	too
+QUC	much
+AND	of
+PRX	this
+CON	incident
+NIL	.

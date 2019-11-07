@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+HAS	my
+ROL	uncle
+REL	on
+DEF	the
+CON	way
+REL	to
+CON	school
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+CON	girls
+EPS	spread
+QUV	many
+IST	false
+CON	rumors
+AND	and
+ENS	lies
+AND	about
+PER	Mary
+NIL	.

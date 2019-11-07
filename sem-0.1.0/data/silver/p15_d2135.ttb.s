@@ -1,0 +1,15 @@
+QUE	Who
+HAS	's
+EXS	going
+SUB	to
+EXS	look
+REL	after
+HAS	my
+IST	sick
+ROL	grandfather
+IMP	if
+DIS	something
+ENS	happens
+REL	to
+PRO	me
+QUE	?

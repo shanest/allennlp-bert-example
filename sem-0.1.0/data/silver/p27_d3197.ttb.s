@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	taking
+DIS	a
+CON	rest
+REL	in
+HAS	my
+CON	car
+NIL	.

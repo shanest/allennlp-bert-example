@@ -1,0 +1,10 @@
+REL	With
+IST	pure
+CON	logic
+PRO	you
+POS	can
+EXS	prove
+DEF	the
+TOP	biggest
+CON	nonsense
+NIL	.

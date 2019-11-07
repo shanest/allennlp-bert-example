@@ -1,0 +1,10 @@
+QUE	What
+NOW	is
+IST	really
+EXG	going
+REL	on
+REL	between
+PER	Tom
+AND	and
+PER	Mary
+QUE	?

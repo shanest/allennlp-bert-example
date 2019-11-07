@@ -1,0 +1,12 @@
+PRO	I
+NOT	never
+REL	for
+DIS	a
+CON	moment
+EPS	imagined
+SUB	that
+PER	Tom
+FUT	would
+EXS	be
+EXS	convicted
+NIL	.

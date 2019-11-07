@@ -1,0 +1,11 @@
+PER	Allan
+ENS	works
+REL	on
+DOW	Tuesday
+AND	and
+DOW	Friday
+CON	nights
+REL	at
+DEF	the
+ORG	Konbini
+NIL	.

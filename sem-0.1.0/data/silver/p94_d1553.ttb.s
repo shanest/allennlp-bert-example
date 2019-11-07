@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+NOT	not
+AND	as
+IST	creative
+AND	as
+PER	Tom
+NOW	is
+NIL	.

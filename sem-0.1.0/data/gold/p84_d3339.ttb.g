@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	nothing
+NIL	to
+EXS	open
+DEF	the
+CON	can
+REL	with
+NIL	.

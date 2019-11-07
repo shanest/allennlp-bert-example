@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+NOT	not
+DIS	a
+CON	wizard
+NIL	,
+BUT	but
+PRO	I
+ENS	know
+QUE	what
+AND	everybody
+ENS	says
+AND	about
+PRO	me
+NIL	.

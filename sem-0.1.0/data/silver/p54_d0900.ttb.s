@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+DIS	a
+IST	good
+CON	chance
+AND	of
+EXG	winning
+DEF	the
+CON	election
+NIL	.

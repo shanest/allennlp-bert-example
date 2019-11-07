@@ -1,0 +1,12 @@
+AND	Why
+NOW	do
+NOT	n't
+PRO	we
+EXS	take
+DIS	some
+CON	time
+SUB	to
+EXS	think
+AND	about
+PRO	it
+QUE	?

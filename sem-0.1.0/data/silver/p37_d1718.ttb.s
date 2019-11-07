@@ -1,0 +1,10 @@
+PRO	I
+POS	could
+NOT	n't
+EXS	forget
+PER	Marika
+HAS	's
+CON	voice
+REL	for
+CON	days
+NIL	.

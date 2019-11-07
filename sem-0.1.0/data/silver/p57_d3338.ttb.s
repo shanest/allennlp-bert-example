@@ -1,0 +1,10 @@
+DEF	The
+CON	semicolon
+NOW	is
+DEF	the
+INT	most
+EPS	feared
+CON	punctuation
+REL	on
+CON	earth
+NIL	.

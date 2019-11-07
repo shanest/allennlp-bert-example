@@ -1,0 +1,12 @@
+DEF	The
+CON	population
+AND	of
+GPE	Japan
+NOW	is
+QUC	much
+COM	larger
+AND	than
+DST	that
+AND	of
+GPE	Australia
+NIL	.

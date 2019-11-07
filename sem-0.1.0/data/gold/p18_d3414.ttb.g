@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXG	learning
+CON	Japanese
+NIL	to
+EXS	play
+CON	mahjong
+REL	in
+GPE	Japan
+NIL	.

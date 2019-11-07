@@ -1,0 +1,14 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	living
+IST	out
+AND	of
+DIS	a
+CON	suitcase
+REL	for
+DEF	the
+IST	past
+QUC	two
+CON	months
+NIL	.

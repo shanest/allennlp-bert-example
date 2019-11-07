@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+EXS	expensive
+SUB	to
+EXS	rent
+DIS	an
+CON	office
+REL	in
+IST	downtown
+GPE	Boston
+NIL	.

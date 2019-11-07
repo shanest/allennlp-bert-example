@@ -1,0 +1,15 @@
+PRO	I
+NOW	think
+QUE	what
+PRO	you
+NOW	're
+EXS	looking
+REL	for
+NOW	is
+REL	in
+DEF	the
+CON	back
+AND	of
+DEF	the
+CON	closet
+NIL	.

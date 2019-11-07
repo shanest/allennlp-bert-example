@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	go
+EXS	take
+DIS	a
+CON	look
+AND	around
+NIL	.

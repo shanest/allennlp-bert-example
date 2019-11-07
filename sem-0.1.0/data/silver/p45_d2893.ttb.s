@@ -1,0 +1,11 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	blame
+AND	all
+HAS	your
+IST	bad
+CON	luck
+REL	on
+PER	Tom
+NIL	.

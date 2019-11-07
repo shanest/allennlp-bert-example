@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+PER	Mary
+AND	who
+PST	had
+EXS	given
+HAS	her
+DEF	the
+CON	picture
+NIL	.

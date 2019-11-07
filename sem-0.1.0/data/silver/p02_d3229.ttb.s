@@ -1,0 +1,13 @@
+PRO	It
+HAS	's
+DIS	a
+CON	secret
+COO	;
+NOW	do
+NOT	n't
+EXS	give
+PRO	it
+IST	away
+REL	to
+DIS	anyone
+NIL	.

@@ -1,0 +1,16 @@
+PRO	I
+NOW	'm
+IST	glad
+SUB	to
+EXS	hear
+SUB	that
+HAS	your
+ROL	sister
+NOW	is
+IST	out
+AND	of
+CON	danger
+REL	after
+HAS	her
+CON	operation
+NIL	.

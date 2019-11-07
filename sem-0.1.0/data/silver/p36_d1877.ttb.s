@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	writing
+DIS	a
+CON	letter
+REL	to
+HAS	my
+CON	daughter
+NIL	.

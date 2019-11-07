@@ -1,0 +1,16 @@
+PRX	This
+CON	novel
+NOW	describes
+DEF	the
+CON	life
+AND	of
+DEF	the
+GPO	Japanese
+SUB	as
+PRO	it
+PST	was
+DIS	a
+QUC	hundred
+CON	years
+PST	ago
+NIL	.

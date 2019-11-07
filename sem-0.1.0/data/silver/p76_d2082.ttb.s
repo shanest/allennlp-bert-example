@@ -1,0 +1,12 @@
+PRO	I
+PST	had
+DIS	a
+IST	few
+CON	auditions
+NIL	,
+BUT	but
+NOT	never
+EPS	got
+DIS	a
+CON	job
+NIL	.

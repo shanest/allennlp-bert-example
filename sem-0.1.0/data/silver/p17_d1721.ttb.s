@@ -1,0 +1,14 @@
+PRO	He
+EPS	said
+PRO	he
+PST	did
+NOT	not
+EXS	know
+DEF	the
+CON	man
+NIL	,
+UNK	which
+PST	was
+DIS	a
+CON	lie
+NIL	.

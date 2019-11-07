@@ -1,0 +1,11 @@
+PRO	I
+NOT	never
+EPS	got
+DIS	a
+CON	chance
+NIL	to
+EXS	say
+GRE	goodbye
+REL	to
+PER	Tom
+NIL	.

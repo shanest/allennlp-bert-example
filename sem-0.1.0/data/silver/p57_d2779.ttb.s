@@ -1,0 +1,10 @@
+GPE	Albania
+EPS	gained
+HAS	its
+CON	independence
+REL	from
+ORG	Ottoman
+ORG	State
+REL	in
+YOC	1912
+NIL	.

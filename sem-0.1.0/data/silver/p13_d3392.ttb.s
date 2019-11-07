@@ -1,0 +1,9 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	know
+QUE	what
+PRO	he
+PST	was
+EXG	doing
+NIL	.

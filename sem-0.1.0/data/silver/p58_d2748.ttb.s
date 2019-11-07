@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+REL	at
+PER	John
+HAS	's
+CON	funeral
+NIL	.

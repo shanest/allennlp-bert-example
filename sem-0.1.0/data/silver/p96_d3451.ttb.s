@@ -1,0 +1,12 @@
+PRO	I
+FUT	'll
+EXS	bet
+PRO	you
+DIS	a
+QUC	hundred
+UOM	dollars
+AND	that
+PER	Tom
+NOW	is
+IST	gay
+NIL	.

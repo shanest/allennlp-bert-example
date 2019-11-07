@@ -1,0 +1,15 @@
+DEF	The
+IST	unpopular
+ROL	politician
+PST	was
+IST	frequently
+EXS	given
+DEF	the
+CON	razz
+REL	by
+DEF	the
+CON	crowd
+AND	during
+HAS	his
+CON	speech
+NIL	.

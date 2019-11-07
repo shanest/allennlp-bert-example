@@ -1,0 +1,13 @@
+PRO	He
+EPS	broke
+HAS	his
+CON	arm
+COO	and
+PRO	they
+NEC	had
+SUB	to
+EXS	put
+CON	splints
+REL	on
+PRO	it
+NIL	.

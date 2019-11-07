@@ -1,0 +1,12 @@
+PRO	I
+EPS	asked
+IMP	if
+PRO	she
+PST	was
+IST	cold
+COO	but
+PER	Liisa
+EPS	shook
+HAS	her
+CON	head
+NIL	.

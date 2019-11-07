@@ -1,0 +1,11 @@
+PRO	I
+NOW	spend
+DIS	a
+IST	few
+CON	hours
+DIS	a
+CON	day
+EXG	maintaining
+HAS	my
+CON	website
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+NEC	must
+EXS	be
+MOR	busier
+NOW	now
+AND	than
+PRO	he
+PST	was
+IST	last
+CON	year
+NIL	.

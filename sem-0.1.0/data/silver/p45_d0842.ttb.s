@@ -1,0 +1,10 @@
+PRO	He
+EPS	took
+DEF	the
+IST	heavy
+CON	box
+IST	down
+REL	from
+DEF	the
+CON	shelf
+NIL	.

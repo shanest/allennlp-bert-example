@@ -1,0 +1,14 @@
+PRO	We
+NOW	're
+NOT	not
+EXS	going
+SUB	to
+EXS	leave
+PER	Mary
+AND	alone
+REL	with
+PER	Tom
+NIL	,
+NOW	are
+PRO	we
+QUE	?

@@ -1,0 +1,10 @@
+PRO	We
+NOW	do
+NOT	n't
+EXS	have
+CON	polygamy
+REL	in
+GPE	Japan
+NIL	,
+IST	dear
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+EPS	sat
+REL	on
+DEF	the
+CON	bench
+AND	next
+REL	to
+PER	Mary
+NIL	.

@@ -1,0 +1,10 @@
+ROL	Mr
+PER	Tanaka
+NOW	is
+NOT	not
+REL	at
+HAS	his
+CON	desk
+CON	right
+NOW	now
+NIL	.

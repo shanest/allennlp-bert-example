@@ -1,0 +1,13 @@
+QUE	What
+PRO	you
+NOW	're
+EXS	looking
+REL	for
+NOW	is
+REL	in
+DIS	a
+CON	box
+REL	in
+DEF	the
+CON	basement
+NIL	.

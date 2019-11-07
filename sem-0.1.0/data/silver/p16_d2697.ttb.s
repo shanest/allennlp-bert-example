@@ -1,0 +1,12 @@
+GEO	Quito
+EQU	,
+GPE	Ecuador
+NIL	,
+NOW	is
+DIS	a
+IST	little
+CON	south
+AND	of
+DEF	the
+CON	equator
+NIL	.

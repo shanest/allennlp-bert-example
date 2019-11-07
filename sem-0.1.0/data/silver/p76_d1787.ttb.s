@@ -1,0 +1,14 @@
+PRO	She
+HAS	's
+REL	in
+CON	trouble
+SUB	because
+PRO	she
+EPS	saw
+DIS	something
+SUB	that
+PRO	she
+NEC	should
+NOT	n't
+EXT	have
+NIL	.

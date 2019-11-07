@@ -1,0 +1,13 @@
+MOR	More
+AND	and
+MOR	more
+CON	people
+NOW	are
+EXS	becoming
+IST	aware
+AND	of
+DEF	the
+CON	dangers
+AND	of
+CON	smoking
+NIL	.

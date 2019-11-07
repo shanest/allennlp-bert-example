@@ -1,0 +1,10 @@
+NOW	Now
+NOW	is
+DEF	the
+CON	time
+SUB	when
+PRO	we
+NEC	must
+EXS	work
+IST	together
+NIL	.

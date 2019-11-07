@@ -1,0 +1,10 @@
+PER	Tom
+ENS	is
+SUB	as
+EXS	good
+DIS	a
+CON	cook
+AND	as
+PER	Mary
+NOW	is
+NIL	.

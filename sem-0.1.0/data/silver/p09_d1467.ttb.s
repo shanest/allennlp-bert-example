@@ -1,0 +1,11 @@
+EXS	Let
+HAS	's
+IST	just
+AND	all
+EXS	go
+EXS	talk
+REL	to
+PER	Tom
+NIL	,
+ITJ	OK
+QUE	?

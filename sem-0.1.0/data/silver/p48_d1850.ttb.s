@@ -1,0 +1,11 @@
+EXS	Tell
+PRO	me
+QUE	how
+IST	long
+SUB	that
+CON	boy
+NOW	has
+PFT	been
+EXS	sitting
+IST	there
+NIL	.

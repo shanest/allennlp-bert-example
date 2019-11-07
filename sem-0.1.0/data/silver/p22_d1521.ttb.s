@@ -1,0 +1,11 @@
+CON	Judging
+REL	from
+QUE	what
+AND	everyone
+ENS	says
+NIL	,
+PRO	it
+HAS	's
+DEF	the
+CON	truth
+NIL	.

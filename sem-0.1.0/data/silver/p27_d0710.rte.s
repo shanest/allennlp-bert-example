@@ -1,0 +1,25 @@
+DEF	The
+ORG	Salvation Army
+EPS	paid
+REL	for
+DEF	the
+CON	transportation
+COO	;
+PRO	it
+IST	often
+NOW	provides
+DIS	an
+CON	incentive
+CON	contribution
+REL	to
+IST	charitable
+CON	fundraisers
+REL	to
+CON	urge
+ALT	others
+SUB	to
+EXS	reach
+DIS	a
+EXS	stated
+CON	goal
+NIL	.

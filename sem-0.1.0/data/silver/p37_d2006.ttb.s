@@ -1,0 +1,11 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	do
+QUE	what
+PRO	he
+PST	was
+EXS	asked
+SUB	to
+EXS	do
+NIL	.

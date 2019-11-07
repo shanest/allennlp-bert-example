@@ -1,0 +1,12 @@
+ITJ	Oh
+NIL	!
+PRO	She
+NOW	is
+DEF	the
+INT	most
+IST	beautiful
+CON	creature
+PRO	I
+IST	ever
+EPS	beheld
+NIL	!

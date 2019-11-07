@@ -1,0 +1,11 @@
+PRO	I
+NOW	wonder
+IMP	if
+PER	Mary
+ENS	realizes
+QUE	how
+IST	poor
+PER	Tom
+IST	really
+NOW	is
+NIL	.

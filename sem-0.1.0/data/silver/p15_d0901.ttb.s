@@ -1,0 +1,15 @@
+PER	Tom
+EPS	invested
+AND	all
+HAS	his
+CON	money
+REL	in
+DEF	the
+CON	company
+AND	that
+PER	Mary
+AND	and
+HAS	her
+ROL	father
+EPS	managed
+NIL	.

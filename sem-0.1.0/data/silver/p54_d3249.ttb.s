@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	like
+PRO	it
+SUB	when
+PER	Mary
+NOW	cracks
+HAS	her
+CON	knuckles
+NIL	.

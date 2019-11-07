@@ -1,0 +1,11 @@
+NOT	Except
+REL	for
+CON	leap
+CON	years
+NIL	,
+MOY	February
+NOW	has
+XCL	only
+QUC	28
+CON	days
+NIL	.

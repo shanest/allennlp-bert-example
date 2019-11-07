@@ -1,0 +1,13 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+PRO	she
+NOW	is
+DEF	the
+TOP	best
+CON	tennis
+CON	player
+REL	in
+GPE	France
+NIL	.

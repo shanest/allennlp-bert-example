@@ -1,0 +1,10 @@
+DEF	The
+CON	coffee
+NOW	is
+INT	too
+EXS	bitter
+REL	for
+PRO	me
+SUB	to
+EXS	drink
+NIL	.

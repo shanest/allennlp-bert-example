@@ -1,0 +1,13 @@
+PRO	You
+ENS	need
+NOT	n't
+EXT	have
+EXS	gone
+SUB	to
+AND	all
+AND	that
+CON	trouble
+AND	just
+REL	for
+PRO	me
+NIL	.

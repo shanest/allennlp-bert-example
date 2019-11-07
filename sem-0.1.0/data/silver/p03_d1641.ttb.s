@@ -1,0 +1,12 @@
+FUT	Tomorrow
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	visit
+HAS	my
+ROL	mother
+REL	in
+DEF	the
+CON	hospital
+NIL	.

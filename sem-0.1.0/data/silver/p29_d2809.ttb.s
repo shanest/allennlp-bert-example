@@ -1,0 +1,15 @@
+EXS	Tell
+PRO	me
+QUE	what
+PRO	you
+NOW	're
+EXS	looking
+REL	for
+COO	and
+PRO	I
+FUT	'll
+EXS	help
+PRO	you
+EXS	find
+PRO	it
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	promised
+PRO	me
+PRO	he
+FUT	'd
+EXS	be
+PRX	here
+REL	by
+CLO	2:30
+NIL	.

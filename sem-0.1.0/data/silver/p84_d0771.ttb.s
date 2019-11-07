@@ -1,0 +1,14 @@
+AND	Now
+SUB	that
+PRO	you
+NOW	are
+QUC	eighteen
+NIL	,
+PRO	you
+POS	can
+EXS	get
+DIS	a
+ROL	driver
+HAS	's
+CON	license
+NIL	.

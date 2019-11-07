@@ -1,0 +1,9 @@
+PER	Tom
+EPS	went
+REL	to
+DEF	the
+CON	park
+SUB	to
+EXS	meet
+PER	Mary
+NIL	.

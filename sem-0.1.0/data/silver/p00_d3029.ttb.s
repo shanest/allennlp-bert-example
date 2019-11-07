@@ -1,0 +1,11 @@
+SUB	When
+POS	can
+QUC	one
+EXS	say
+SUB	that
+DIS	a
+CON	person
+ENS	has
+CON	alcohol
+CON	issues
+QUE	?

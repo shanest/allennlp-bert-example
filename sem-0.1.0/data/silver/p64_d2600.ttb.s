@@ -1,0 +1,15 @@
+DEF	The
+CON	future
+NOW	does
+NOT	not
+EXS	belong
+REL	to
+DEF	the
+EXS	faint-hearted
+NIL	,
+PRO	it
+NOW	belongs
+REL	to
+DEF	the
+CON	brave
+NIL	.

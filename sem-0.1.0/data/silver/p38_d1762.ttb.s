@@ -1,0 +1,13 @@
+QUE	What
+PRO	he
+NOW	's
+EXS	trying
+SUB	to
+EXS	say
+NOW	is
+IST	quite
+IST	sensible
+REL	in
+DIS	a
+CON	way
+NIL	.

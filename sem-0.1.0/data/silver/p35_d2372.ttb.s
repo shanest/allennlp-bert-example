@@ -1,0 +1,11 @@
+AND	Everything
+HAS	's
+EXS	going
+SUB	to
+EXS	be
+AND	all
+CON	right
+NIL	.
+EXS	Stop
+EXS	crying
+NIL	.

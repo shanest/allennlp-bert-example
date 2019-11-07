@@ -1,0 +1,9 @@
+GPE	Norway
+NOW	is
+EXS	called
+NIL	"
+GEO	Norge
+NIL	"
+REL	in
+GPO	Norwegian
+NIL	.

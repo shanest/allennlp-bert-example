@@ -1,0 +1,12 @@
+GPE	China
+NOW	allows
+DEF	the
+CON	yuan
+REL	to
+CON	trade
+XCL	only
+AND	within
+DIS	a
+IST	narrow
+CON	band
+NIL	.

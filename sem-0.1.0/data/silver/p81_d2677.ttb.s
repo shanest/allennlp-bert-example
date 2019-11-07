@@ -1,0 +1,10 @@
+PRO	She
+ENS	knows
+NOT	nothing
+AND	about
+DEF	the
+CON	birds
+AND	and
+DEF	the
+CON	bees
+NIL	.

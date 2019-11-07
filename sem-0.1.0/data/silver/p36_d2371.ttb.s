@@ -1,0 +1,12 @@
+HAS	Her
+CON	diaries
+EPS	formed
+DEF	the
+CON	basis
+AND	of
+DEF	the
+CON	book
+PRO	she
+IST	later
+EPS	wrote
+NIL	.

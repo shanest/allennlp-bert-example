@@ -1,0 +1,11 @@
+IMP	If
+PER	Tom
+NOW	is
+EXS	right
+NIL	,
+PER	Mary
+NOW	is
+REL	in
+GPE	Boston
+NOW	now
+NIL	.

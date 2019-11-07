@@ -1,0 +1,9 @@
+PRO	He
+EPS	gave
+HAS	his
+CON	blood
+SUB	to
+EXS	help
+HAS	his
+ROL	sister
+NIL	.

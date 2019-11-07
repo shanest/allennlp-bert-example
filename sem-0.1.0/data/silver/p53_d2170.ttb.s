@@ -1,0 +1,11 @@
+GPE	Italy
+NOW	is
+EXT	having
+DEF	the
+BOT	worst
+IST	economical
+CON	crisis
+REL	in
+HAS	its
+CON	history
+NIL	.

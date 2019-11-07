@@ -1,0 +1,10 @@
+PER	Jiro
+NOW	finds
+PRO	it
+UNK	difficult
+SUB	to
+EXS	make
+CON	friends
+REL	with
+PER	Ken
+NIL	.

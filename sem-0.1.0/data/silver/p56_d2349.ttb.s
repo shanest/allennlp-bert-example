@@ -1,0 +1,10 @@
+HAS	His
+CON	boat
+NOW	has
+PFT	been
+REL	at
+CON	sea
+REL	for
+QUC	two
+UOM	hours
+NIL	.

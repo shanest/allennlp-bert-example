@@ -1,0 +1,10 @@
+PRO	I
+EPS	gave
+DEF	the
+CON	beggar
+AND	all
+DEF	the
+CON	money
+PRO	I
+PST	had
+NIL	.

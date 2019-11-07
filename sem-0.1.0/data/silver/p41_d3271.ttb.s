@@ -1,0 +1,10 @@
+GPE	Japan
+ENS	imports
+INT	most
+AND	of
+DEF	the
+CON	energy
+CON	resources
+PRO	it
+ENS	needs
+NIL	.

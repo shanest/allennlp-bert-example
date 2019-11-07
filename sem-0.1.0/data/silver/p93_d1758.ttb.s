@@ -1,0 +1,10 @@
+DST	That
+CON	kind
+AND	of
+CON	machine
+NOW	is
+ALT	yet
+SUB	to
+EXS	be
+EXS	invented
+NIL	.

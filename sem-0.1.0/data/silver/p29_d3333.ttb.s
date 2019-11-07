@@ -1,0 +1,12 @@
+PRO	He
+HAS	's
+CON	able-bodied
+NIL	,
+COO	so
+PRO	he
+NOW	's
+FUT	gonna
+EXS	join
+DEF	the
+CON	army
+NIL	.

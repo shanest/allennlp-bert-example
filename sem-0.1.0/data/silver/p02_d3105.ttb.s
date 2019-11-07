@@ -1,0 +1,10 @@
+AND	Every
+CON	time
+PRO	I
+ENS	see
+PRO	him
+NIL	,
+PRO	he
+NOW	is
+EXG	smiling
+NIL	.

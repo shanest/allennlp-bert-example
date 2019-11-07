@@ -1,0 +1,9 @@
+PRO	It
+ENS	seems
+REL	to
+PRO	me
+DEF	the
+CON	flag
+NOW	is
+EXS	correct
+NIL	.

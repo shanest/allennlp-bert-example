@@ -1,0 +1,9 @@
+DEF	The
+CON	value
+AND	of
+DEF	the
+UOM	dollar
+EPS	began
+SUB	to
+EXS	drop
+NIL	.

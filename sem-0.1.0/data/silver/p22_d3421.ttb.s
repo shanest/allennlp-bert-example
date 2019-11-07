@@ -1,0 +1,12 @@
+POS	Can
+PRO	I
+NOW	have
+DEF	the
+CON	paper
+SUB	when
+PRO	you
+NOW	're
+EXS	finished
+REL	with
+PRO	it
+QUE	?

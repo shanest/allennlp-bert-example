@@ -1,0 +1,10 @@
+PER	Barcodes
+NEC	have
+EXS	made
+EXS	getting
+AND	through
+DEF	the
+CON	checkout
+QUV	much
+COM	faster
+NIL	.

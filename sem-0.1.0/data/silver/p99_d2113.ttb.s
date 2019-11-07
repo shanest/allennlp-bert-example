@@ -1,0 +1,9 @@
+DEF	The
+IST	old
+CON	woman
+EPS	gave
+PRO	me
+QUC	two
+IST	interesting
+CON	books
+NIL	.

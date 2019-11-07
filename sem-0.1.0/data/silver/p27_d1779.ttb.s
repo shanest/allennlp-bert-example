@@ -1,0 +1,15 @@
+EXS	Come
+REL	on
+NIL	,
+EXS	hurry
+IST	up
+NIL	.
+PRO	You
+FUT	'll
+EXS	be
+IST	late
+REL	for
+HAS	your
+IST	own
+CON	funeral
+NIL	.

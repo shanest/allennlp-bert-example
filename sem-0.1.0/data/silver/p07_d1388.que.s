@@ -1,0 +1,17 @@
+QUE	What
+UNK	Prime
+PER	Minister
+PST	was
+EXS	issued
+DIS	an
+CON	indictment
+REL	for
+CON	corruption
+REL	by
+DEF	the
+CON	prosecutor
+HAS	's
+CON	office
+REL	in
+GEO	Milan
+QUE	?

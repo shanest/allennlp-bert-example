@@ -1,0 +1,10 @@
+HAS	His
+CON	suit
+PST	was
+COL	gray
+AND	and
+HAS	his
+CON	tie
+PST	was
+COL	yellow
+NIL	.

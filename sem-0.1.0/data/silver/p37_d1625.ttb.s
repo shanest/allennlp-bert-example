@@ -1,0 +1,9 @@
+PRO	They
+EPS	fenced
+REL	off
+DIS	an
+CON	area
+REL	to
+CON	park
+CON	cars
+NIL	.

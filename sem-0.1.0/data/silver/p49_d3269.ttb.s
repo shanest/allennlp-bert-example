@@ -1,0 +1,12 @@
+PRO	I
+ENS	regret
+SUB	to
+EXS	inform
+PRO	you
+AND	that
+HAS	your
+CON	application
+NOW	has
+PFT	been
+EXS	refused
+NIL	.

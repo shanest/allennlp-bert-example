@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+IST	able
+SUB	to
+EXS	solve
+DEF	the
+CON	problem
+REL	by
+REF	himself
+NIL	.

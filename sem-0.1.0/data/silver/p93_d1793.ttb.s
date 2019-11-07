@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+QUE	what
+PRX	this
+CON	box
+NOW	is
+EXS	made
+AND	of
+QUE	?

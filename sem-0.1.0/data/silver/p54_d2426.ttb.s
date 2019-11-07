@@ -1,0 +1,12 @@
+AND	In
+QUV	many
+GPO	African
+CON	countries
+CON	south
+AND	of
+DEF	the
+GEO	Sahara
+NIL	,
+CON	poverty
+ENS	exists
+NIL	.

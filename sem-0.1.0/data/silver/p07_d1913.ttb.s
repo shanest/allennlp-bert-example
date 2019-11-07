@@ -1,0 +1,15 @@
+PRO	I
+ENS	wish
+PRO	I
+POS	could
+EXS	live
+HAS	my
+CON	life
+EXG	doing
+IST	only
+QUE	what
+PRO	I
+EPS	wanted
+SUB	to
+EXS	do
+NIL	.

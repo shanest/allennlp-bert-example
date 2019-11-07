@@ -1,0 +1,9 @@
+PRO	We
+ENS	know
+QUE	what
+EPS	happened
+REL	to
+PER	Tom
+HAS	's
+CON	car
+NIL	.

@@ -1,0 +1,16 @@
+PRO	It
+EPS	took
+INT	about
+QUC	five
+CON	minutes
+SUB	to
+EXS	get
+REL	to
+HAS	my
+CON	uncle
+HAS	's
+CON	house
+REL	from
+DEF	the
+CON	station
+NIL	.

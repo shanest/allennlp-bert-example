@@ -1,0 +1,10 @@
+PRO	We
+NOW	are
+EXS	concerned
+AND	about
+DEF	the
+CON	shortage
+AND	of
+DEF	the
+CON	commodities
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+DIS	a
+CON	man
+EXS	standing
+IST	naked
+REL	under
+DEF	the
+CON	waterfall
+NIL	.

@@ -1,0 +1,10 @@
+PRO	She
+ENS	has
+QUC	two
+ROL	sisters
+NIL	,
+AND	who
+ENS	live
+REL	in
+GEO	Kyoto
+NIL	.

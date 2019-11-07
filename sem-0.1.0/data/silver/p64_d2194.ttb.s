@@ -1,0 +1,11 @@
+DEF	The
+GPO	British
+EPS	defeated
+DEF	the
+CON	French
+REL	in
+GEO	North
+GEO	America
+REL	in
+YOC	1763
+NIL	.

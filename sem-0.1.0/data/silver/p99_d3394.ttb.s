@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+AND	like
+EXS	walking
+IST	together
+REL	in
+DEF	the
+CON	woods
+NIL	.

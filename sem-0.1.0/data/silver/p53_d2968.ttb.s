@@ -1,0 +1,9 @@
+AND	Everybody
+EPS	knew
+SUB	that
+PRO	she
+EPS	spoke
+INT	very
+IST	good
+GPO	English
+NIL	.

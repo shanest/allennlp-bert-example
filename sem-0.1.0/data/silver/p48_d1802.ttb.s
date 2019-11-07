@@ -1,0 +1,16 @@
+REL	After
+DIS	an
+IST	awkward
+CON	pause
+NIL	,
+PER	Bill
+EPS	took
+PRO	her
+REL	by
+DEF	the
+CON	hand
+COO	and
+EPS	dragged
+HAS	her
+CON	upstairs
+NIL	.

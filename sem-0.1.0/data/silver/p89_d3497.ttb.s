@@ -1,0 +1,15 @@
+IMP	If
+PRO	you
+PST	had
+EXS	told
+PRO	me
+DEF	the
+CON	truth
+NIL	,
+PRO	I
+FUT	would
+NOT	not
+EXS	be
+EXS	angry
+NOW	now
+NIL	.

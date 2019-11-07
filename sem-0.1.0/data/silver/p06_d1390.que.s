@@ -1,0 +1,15 @@
+QUE	Which
+CON	country
+EPS	granted
+IST	political
+CON	asylum
+REL	to
+PER	Mengistu
+PER	Haile
+PER	Mariam
+EQU	,
+DEF	the
+PST	former
+GPO	Ethiopian
+CON	dictator
+QUE	?

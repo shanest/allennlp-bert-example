@@ -1,0 +1,10 @@
+PRO	I
+EPS	said
+NOT	nothing
+NIL	,
+COO	and
+SUB	that
+EPS	made
+PRO	him
+EXS	angry
+NIL	.

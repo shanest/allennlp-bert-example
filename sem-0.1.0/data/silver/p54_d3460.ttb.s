@@ -1,0 +1,10 @@
+PER	Mary
+EPS	came
+IST	up
+REL	to
+PRO	me
+SUB	when
+PRO	she
+EPS	saw
+PRO	me
+NIL	.

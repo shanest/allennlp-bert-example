@@ -1,0 +1,9 @@
+PRX	This
+CON	story
+NOW	does
+NOT	n't
+EXS	have
+DIS	a
+IST	happy
+CON	ending
+NIL	.

@@ -1,0 +1,17 @@
+CON	One
+NOW	does
+NOT	n't
+EXS	help
+CON	people
+SUB	when
+CON	one
+NOW	does
+DIS	something
+REL	for
+PRO	them
+AND	which
+PRO	they
+REF	themselves
+POS	can
+EXS	do
+NIL	.

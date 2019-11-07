@@ -1,0 +1,13 @@
+PRO	I
+EPS	asked
+PRO	him
+SUB	to
+EXS	stop
+EXS	talking
+NIL	,
+BUT	but
+PRO	he
+IST	still
+EPS	went
+REL	on
+NIL	.

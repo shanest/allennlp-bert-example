@@ -1,0 +1,9 @@
+PER	Tom
+EPS	wondered
+QUE	where
+SUB	to
+EXS	hang
+IST	up
+HAS	his
+CON	coat
+NIL	.

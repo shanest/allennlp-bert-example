@@ -1,0 +1,15 @@
+NIL	"
+NOW	Are
+PRO	you
+EXS	angry
+REL	at
+PRO	me
+QUE	?
+NIL	"
+NIL	"
+PRO	You
+ENS	bet
+PRO	I
+NOW	am
+NIL	!
+NIL	"

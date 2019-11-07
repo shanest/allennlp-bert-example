@@ -1,0 +1,14 @@
+PRO	He
+NOW	has
+NOT	n't
+EXS	come
+ALT	yet
+NIL	.
+PRO	He
+FUT	will
+IST	certainly
+EXT	have
+EXS	missed
+DEF	the
+CON	bus
+NIL	.

@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	figure
+AND	out
+DIS	a
+CON	way
+SUB	to
+EXS	blame
+PRX	this
+REL	on
+PER	Tom
+NIL	.

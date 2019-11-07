@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+ENS	know
+DEF	the
+CON	girl
+EXG	standing
+REL	by
+DEF	the
+CON	window
+QUE	?

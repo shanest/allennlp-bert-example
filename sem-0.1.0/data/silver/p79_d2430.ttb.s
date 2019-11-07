@@ -1,0 +1,11 @@
+HAS	My
+CON	neighbor
+HAS	's
+CON	dog
+FUT	wo
+NOT	n't
+EXS	eat
+IST	dry
+CON	dog
+CON	food
+NIL	.

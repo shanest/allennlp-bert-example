@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PRO	I
+NOW	'm
+EXG	telling
+PRO	you
+PRX	this
+NIL	.

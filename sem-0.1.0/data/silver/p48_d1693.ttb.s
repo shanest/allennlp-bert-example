@@ -1,0 +1,16 @@
+QUE	What
+CON	kind
+AND	of
+CON	person
+NOW	is
+PRX	this
+GPO	Russian
+CON	woman
+QUE	?
+QUE	What
+NOW	do
+PRO	you
+EXS	know
+AND	about
+PRO	her
+QUE	?

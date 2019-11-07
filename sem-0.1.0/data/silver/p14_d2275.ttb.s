@@ -1,0 +1,10 @@
+DEF	The
+IST	last
+CON	time
+PRO	I
+EPS	saw
+PER	Tom
+PST	was
+REL	in
+GPE	Boston
+NIL	.

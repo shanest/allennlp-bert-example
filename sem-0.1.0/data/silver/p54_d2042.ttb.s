@@ -1,0 +1,12 @@
+IMP	If
+PRO	you
+NOW	have
+NOT	nothing
+SUB	to
+EXS	say
+NIL	,
+EXS	keep
+HAS	your
+CON	lips
+EPS	sealed
+NIL	.

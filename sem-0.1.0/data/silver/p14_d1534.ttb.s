@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXG	allowing
+AND	all
+CON	attacks
+NOT	except
+REL	on
+IST	vital
+CON	organs
+NIL	.

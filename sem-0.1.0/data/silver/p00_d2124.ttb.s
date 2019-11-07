@@ -1,0 +1,10 @@
+PER	Tom
+ENS	says
+PRO	he
+NOW	's
+EXT	having
+CON	trouble
+REL	with
+HAS	his
+CON	computer
+NIL	.

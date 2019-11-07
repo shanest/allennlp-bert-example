@@ -1,0 +1,9 @@
+PRO	You
+EPS	met
+PER	Tom
+PRX	here
+NIL	,
+PST	did
+NOT	n't
+PRO	you
+QUE	?

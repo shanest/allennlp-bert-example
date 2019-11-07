@@ -1,0 +1,13 @@
+REL	At
+DEF	the
+CON	station
+NIL	,
+PRO	I
+PST	had
+DEF	the
+IST	hardest
+CON	time
+EXG	finding
+HAS	my
+CON	ticket
+NIL	.

@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+NOW	speak
+IST	too
+IST	fast
+NIL	,
+PRO	I
+FUT	will
+NOT	not
+EXS	be
+IST	able
+SUB	to
+EXS	understand
+NIL	.

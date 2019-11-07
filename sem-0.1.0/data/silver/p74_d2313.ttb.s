@@ -1,0 +1,12 @@
+DEF	The
+XCL	only
+CON	girl
+AND	that
+FUT	will
+IST	even
+EXS	talk
+SUB	to
+PER	Tom
+NOW	is
+PER	Mary
+NIL	.

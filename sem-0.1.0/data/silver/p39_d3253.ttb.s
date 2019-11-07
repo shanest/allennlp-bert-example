@@ -1,0 +1,13 @@
+PER	Rice
+NOW	makes
+PRO	you
+EXS	fat
+NIL	,
+NOW	do
+NOT	n't
+EXS	eat
+INT	too
+QUC	much
+AND	of
+PRO	it
+NIL	!

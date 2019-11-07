@@ -1,0 +1,15 @@
+DEF	The
+CON	nights
+NOW	are
+IST	always
+EXS	getting
+IST	darker
+NIL	.
+PRO	They
+NOW	're
+EXS	turning
+DEF	the
+CON	lights
+REL	on
+AND	later
+NIL	.

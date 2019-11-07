@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	afraid
+HAS	your
+CON	plan
+FUT	will
+NOT	not
+EXS	work
+NIL	.

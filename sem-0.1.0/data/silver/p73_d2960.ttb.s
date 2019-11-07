@@ -1,0 +1,13 @@
+PRO	You
+ENS	need
+NOT	not
+EXS	go
+IST	there
+IMP	if
+PRO	you
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	go
+NIL	.

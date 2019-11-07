@@ -1,0 +1,11 @@
+DST	That
+CON	topic
+NOW	is
+INT	too
+IST	intimate
+SUB	to
+EXS	share
+REL	with
+IST	casual
+CON	acquaintances
+NIL	.

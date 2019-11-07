@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	getting
+EXS	married
+REL	to
+PRO	her
+REL	in
+MOY	June
+NIL	.

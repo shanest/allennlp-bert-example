@@ -1,0 +1,13 @@
+NOW	Do
+PRO	you
+EXS	know
+QUE	how
+QUV	many
+CON	people
+EPS	died
+REL	in
+PST	yesterday
+HAS	's
+CON	plane
+CON	crash
+QUE	?

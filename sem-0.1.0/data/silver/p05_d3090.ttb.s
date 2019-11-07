@@ -1,0 +1,14 @@
+UNK	There
+NOW	are
+INT	very
+QUV	many
+CON	people
+AND	who
+EXS	read
+IST	simply
+SUB	to
+EXS	prevent
+REF	themselves
+REL	from
+EXS	thinking
+NIL	.

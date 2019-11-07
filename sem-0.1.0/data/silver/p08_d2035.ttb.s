@@ -1,0 +1,9 @@
+DEF	The
+IST	European
+ORG	Games
+YOC	2015
+EPS	took
+CON	place
+REL	in
+GEO	Baku
+NIL	.

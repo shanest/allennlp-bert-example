@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	go
+IST	back
+REL	to
+DEF	the
+CON	hospital
+NIL	.

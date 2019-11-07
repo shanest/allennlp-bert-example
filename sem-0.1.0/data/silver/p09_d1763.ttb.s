@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+COO	but
+DEF	the
+CON	answer
+NOW	is
+NOT	no
+NIL	.

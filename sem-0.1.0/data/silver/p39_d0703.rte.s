@@ -1,0 +1,36 @@
+PER	Kepa
+PST	was
+EXS	married
+REL	for
+QUV	many
+CON	years
+REL	to
+GEO	Ro Teimumu Kepa
+EQU	,
+DIS	an
+CON	Adi
+SUB	(
+GPO	Fijian
+CON	chief
+NIL	)
+AND	and
+ROL	politician
+REL	in
+HAS	her
+IST	own
+CON	right
+NIL	.
+PRO	They
+PST	had
+QUC	four
+CON	children
+AND	:
+GEO	Filipe
+EQU	,
+GEO	Sailosi, Jr.
+EQU	,
+GEO	Asenaca
+NIL	,
+AND	and
+GEO	Tupoutu'a
+NIL	.

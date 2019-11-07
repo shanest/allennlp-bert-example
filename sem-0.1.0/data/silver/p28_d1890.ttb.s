@@ -1,0 +1,11 @@
+PRO	I
+XCL	only
+CON	look
+AND	like
+PER	Tom
+NIL	.
+PRO	I
+NOW	'm
+NOT	not
+PER	Tom
+NIL	.

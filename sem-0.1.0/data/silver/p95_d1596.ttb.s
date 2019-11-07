@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PRO	I
+ENS	know
+QUE	what
+PRO	I
+EPS	said
+AND	earlier
+NIL	,
+COO	but
+EXS	forget
+PRO	it
+NIL	.

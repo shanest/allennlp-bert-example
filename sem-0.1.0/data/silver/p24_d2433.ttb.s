@@ -1,0 +1,11 @@
+NOT	Either
+PRO	you
+EXS	go
+NOW	now
+DIS	or
+PRO	I
+FUT	will
+EXS	make
+PRO	you
+EXS	go
+NIL	.

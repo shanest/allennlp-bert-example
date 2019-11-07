@@ -1,0 +1,12 @@
+PRO	He
+NOW	has
+NOT	nothing
+REL	in
+IST	common
+REL	with
+HAS	her
+SUB	as
+REL	to
+HAS	their
+CON	tastes
+NIL	.

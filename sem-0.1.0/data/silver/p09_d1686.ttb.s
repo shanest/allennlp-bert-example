@@ -1,0 +1,13 @@
+QUC	One
+AND	of
+HAS	my
+CON	brothers
+NOW	is
+DIS	a
+ROL	teacher
+AND	and
+DEF	the
+ALT	others
+NOW	are
+ROL	lawyers
+NIL	.

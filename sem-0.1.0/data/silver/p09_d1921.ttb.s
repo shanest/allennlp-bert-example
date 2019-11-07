@@ -1,0 +1,13 @@
+PER	Mick
+EPS	killed
+CON	time
+REL	by
+EXG	reading
+DIS	a
+CON	magazine
+SUB	while
+EXS	waiting
+REL	for
+HAS	his
+CON	date
+NIL	.

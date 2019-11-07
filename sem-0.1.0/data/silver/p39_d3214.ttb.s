@@ -1,0 +1,9 @@
+DEF	The
+CON	vampire
+EPS	killed
+PER	Tom
+COO	and
+EPS	took
+HAS	his
+CON	form
+NIL	.

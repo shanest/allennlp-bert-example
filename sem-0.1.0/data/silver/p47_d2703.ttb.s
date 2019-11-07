@@ -1,0 +1,15 @@
+DIS	A
+IST	new
+IST	civil
+CON	marriage
+CON	law
+REL	in
+GEO	Lebanon
+ENS	allows
+CON	marriages
+REL	between
+CON	individuals
+AND	of
+ALT	different
+CON	religions
+NIL	.

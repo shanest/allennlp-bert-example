@@ -1,0 +1,9 @@
+EXS	Did
+PRO	you
+EXS	seek
+AND	out
+DEF	the
+CON	stripes
+AND	last
+CON	night
+QUE	?

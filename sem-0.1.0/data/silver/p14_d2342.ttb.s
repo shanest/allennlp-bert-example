@@ -1,0 +1,11 @@
+DEF	The
+CON	explosion
+POS	may
+EXT	have
+PFT	been
+EXS	caused
+REL	by
+DIS	a
+CON	gas
+EXS	leak
+NIL	.

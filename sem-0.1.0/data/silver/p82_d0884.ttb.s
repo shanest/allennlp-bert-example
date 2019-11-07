@@ -1,0 +1,9 @@
+PRO	I
+ENS	plan
+SUB	to
+EXS	go
+REL	to
+GPE	France
+AND	next
+CON	year
+NIL	.

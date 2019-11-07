@@ -1,0 +1,10 @@
+PRO	I
+EPS	heard
+HAS	my
+CON	name
+EPS	called
+QUC	twice
+REL	in
+DEF	the
+CON	dark
+NIL	.

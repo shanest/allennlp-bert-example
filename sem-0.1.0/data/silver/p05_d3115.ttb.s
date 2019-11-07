@@ -1,0 +1,13 @@
+HAS	My
+ROL	uncle
+EPS	kept
+REL	on
+CON	drinking
+REL	in
+CON	spite
+AND	of
+HAS	his
+CON	doctor
+HAS	's
+CON	advice
+NIL	.

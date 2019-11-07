@@ -1,0 +1,12 @@
+AND	But
+REL	in
+DEF	the
+CON	end
+PRO	he
+EPS	put
+DEF	the
+CON	book
+REL	on
+DEF	the
+CON	fire
+NIL	.

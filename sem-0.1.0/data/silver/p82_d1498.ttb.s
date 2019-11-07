@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+DIS	a
+INT	very
+IST	difficult
+CON	relationship
+REL	with
+HAS	his
+ROL	father
+NIL	.

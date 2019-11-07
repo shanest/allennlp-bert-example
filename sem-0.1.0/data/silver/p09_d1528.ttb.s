@@ -1,0 +1,11 @@
+DIS	Some
+CON	poultry
+ROL	owners
+NOW	have
+EXS	lost
+HAS	their
+IST	entire
+CON	flock
+REL	to
+CON	foxes
+NIL	.

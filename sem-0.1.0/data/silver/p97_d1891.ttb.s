@@ -1,0 +1,15 @@
+CON	Mothers
+EPS	used
+SUB	to
+EXS	tell
+HAS	their
+CON	sons
+SUB	that
+IMP	if
+PRO	they
+EPS	masturbated
+PRO	they
+FUT	would
+EXS	go
+EXS	blind
+NIL	.

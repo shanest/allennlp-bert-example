@@ -1,0 +1,13 @@
+PRO	He
+EPS	put
+DIS	a
+IST	Closed
+CON	sign
+REL	on
+DEF	the
+CON	front
+CON	door
+AND	of
+DEF	the
+CON	store
+NIL	.

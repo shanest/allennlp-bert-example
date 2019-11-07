@@ -1,0 +1,10 @@
+DEF	The
+CON	teacher
+PST	did
+NOT	n't
+EXS	mind
+EXS	explaining
+DEF	the
+CON	problem
+ALT	again
+NIL	.

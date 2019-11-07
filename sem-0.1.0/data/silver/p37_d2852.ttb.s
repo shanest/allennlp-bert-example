@@ -1,0 +1,10 @@
+QUE	What
+PST	were
+PRO	you
+EXS	doing
+SUB	when
+PRO	I
+EPS	called
+PRX	this
+CON	morning
+QUE	?

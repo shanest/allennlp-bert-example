@@ -1,0 +1,10 @@
+PER	Tom
+IST	always
+ENS	goes
+REL	to
+DEF	the
+CON	supermarket
+SUB	where
+PER	Mary
+ENS	works
+NIL	.

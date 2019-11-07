@@ -1,0 +1,16 @@
+NOW	Do
+PRO	you
+NOW	feel
+AND	like
+EXG	going
+IST	out
+REL	for
+DIS	a
+CON	drive
+REL	in
+DEF	the
+CON	country
+AND	over
+DEF	the
+CON	weekend
+QUE	?

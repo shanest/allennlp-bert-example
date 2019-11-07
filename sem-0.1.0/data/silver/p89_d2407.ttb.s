@@ -1,0 +1,13 @@
+PER	Tom
+EPS	asked
+PER	Mary
+IMP	if
+PRO	she
+PST	was
+IST	really
+EXS	happy
+REL	with
+HAS	her
+IST	new
+CON	job
+NIL	.

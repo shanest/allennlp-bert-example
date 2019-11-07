@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	go
+REL	on
+DIS	a
+CON	picnic
+REL	with
+PER	Tom
+NIL	.

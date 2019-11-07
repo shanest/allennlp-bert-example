@@ -1,0 +1,13 @@
+SUB	When
+PRO	I
+PST	was
+QUC	fifteen
+NIL	,
+PRO	I
+EPS	got
+DIS	a
+CON	room
+AND	of
+HAS	my
+CON	own
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+PST	had
+NOT	no
+CON	idea
+SUB	that
+PER	Mary
+PST	was
+DIS	a
+IST	serial
+CON	killer
+NIL	.

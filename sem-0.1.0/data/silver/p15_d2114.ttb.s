@@ -1,0 +1,11 @@
+PRO	I
+EPS	knew
+PRO	I
+NEC	should
+EXT	've
+EXS	given
+PRO	you
+DIS	a
+MOR	stronger
+CON	dose
+NIL	.

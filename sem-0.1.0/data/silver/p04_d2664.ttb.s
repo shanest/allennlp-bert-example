@@ -1,0 +1,9 @@
+HAS	My
+ROL	sister
+NOW	is
+EXT	having
+DIS	a
+CON	baby
+REL	in
+MOY	June
+NIL	.

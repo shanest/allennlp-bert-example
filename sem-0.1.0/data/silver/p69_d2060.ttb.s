@@ -1,0 +1,9 @@
+DEF	The
+CON	pirates
+EPS	buried
+DIS	a
+CON	treasure
+REL	on
+DEF	the
+CON	island
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+PST	was
+EXG	watching
+CON	TV
+REL	in
+HAS	his
+CON	underwear
+SUB	when
+PRO	I
+EPS	entered
+DEF	the
+CON	room
+NIL	.

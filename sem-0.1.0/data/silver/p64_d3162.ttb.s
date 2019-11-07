@@ -1,0 +1,10 @@
+DEF	The
+CON	police
+NOW	say
+PRO	they
+ENS	know
+PRO	you
+PST	had
+DIS	an
+CON	accomplice
+NIL	.

@@ -1,0 +1,11 @@
+AND	Every
+CON	one
+NOT	except
+PER	Tom
+GRP	and
+PER	Mary
+NOW	have
+IST	already
+EXT	gone
+CON	home
+NIL	.

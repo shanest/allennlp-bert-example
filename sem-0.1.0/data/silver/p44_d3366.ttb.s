@@ -1,0 +1,13 @@
+PRO	You
+PST	did
+NOT	n't
+EXS	eat
+PRX	this
+CON	morning
+NIL	.
+AND	Of
+CON	course
+PRO	you
+NOW	're
+EXS	hungry
+NIL	.

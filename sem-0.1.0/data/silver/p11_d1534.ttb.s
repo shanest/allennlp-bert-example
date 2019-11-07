@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	had
+AND	such
+DIS	a
+IST	large
+CON	sum
+AND	of
+CON	money
+NIL	.

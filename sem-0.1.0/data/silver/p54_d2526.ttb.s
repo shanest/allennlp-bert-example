@@ -1,0 +1,10 @@
+PRO	I
+EPS	met
+PER	Tony
+REL	on
+HAS	my
+CON	way
+CON	home
+REL	from
+CON	school
+NIL	.

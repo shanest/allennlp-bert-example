@@ -1,0 +1,10 @@
+PRO	It
+NOW	has
+PFT	been
+EXS	raining
+REL	on
+AND	and
+IST	off
+REL	since
+CLO	noon
+NIL	.

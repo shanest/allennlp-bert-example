@@ -1,0 +1,9 @@
+NIL	There
+HAS	's
+DIS	some
+IST	leftover
+CON	food
+REL	in
+DEF	the
+CON	fridge
+NIL	.

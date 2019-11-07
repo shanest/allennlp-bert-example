@@ -1,0 +1,15 @@
+PRO	I
+EPS	spoke
+REL	to
+DEF	the
+CON	boy
+NIL	,
+AND	who
+EPS	seemed
+SUB	to
+EXS	be
+COM	older
+AND	than
+DEF	the
+CON	girl
+NIL	.

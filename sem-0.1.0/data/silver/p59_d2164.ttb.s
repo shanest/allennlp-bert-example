@@ -1,0 +1,11 @@
+PRO	It
+ENS	seems
+REL	to
+PRO	me
+SUB	that
+DEF	the
+CON	pictures
+EXS	speak
+REL	for
+REF	themselves
+NIL	.

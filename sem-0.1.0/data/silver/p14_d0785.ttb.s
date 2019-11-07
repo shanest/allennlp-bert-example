@@ -1,0 +1,10 @@
+DEF	The
+CON	explanation
+AND	of
+AND	each
+CON	fact
+EPS	took
+DIS	a
+IST	long
+CON	time
+NIL	.

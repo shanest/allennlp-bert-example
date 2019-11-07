@@ -1,0 +1,10 @@
+PER	Tom
+ENS	thinks
+SUB	that
+CON	volleyball
+NOW	is
+IST	more
+CON	fun
+AND	than
+CON	basketball
+NIL	.

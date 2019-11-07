@@ -1,0 +1,14 @@
+SUB	While
+PRO	I
+PST	was
+EXS	waiting
+REL	for
+DEF	the
+CON	streetcar
+NIL	,
+PRO	I
+EPS	witnessed
+DIS	a
+CON	traffic
+CON	accident
+NIL	.

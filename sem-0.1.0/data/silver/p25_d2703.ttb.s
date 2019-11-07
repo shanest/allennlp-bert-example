@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+POS	could
+PRO	you
+EXS	repeat
+SUB	that
+EXS	please
+QUE	?

@@ -1,0 +1,9 @@
+PRO	It
+HAS	's
+PFT	been
+CON	years
+REL	since
+PRO	I
+EPS	played
+CON	tennis
+NIL	.

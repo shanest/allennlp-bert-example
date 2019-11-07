@@ -1,0 +1,12 @@
+REL	After
+DEF	the
+CON	war
+NIL	,
+DEF	the
+CON	idea
+AND	of
+CON	democracy
+CON	spread
+AND	throughout
+GPE	Japan
+NIL	.

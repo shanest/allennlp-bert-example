@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+IST	just
+EXS	trying
+SUB	to
+EXS	figure
+IST	out
+QUE	why
+DIS	someone
+FUT	would
+EXS	do
+AND	such
+DIS	a
+CON	thing
+NIL	.

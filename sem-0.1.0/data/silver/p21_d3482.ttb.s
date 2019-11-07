@@ -1,0 +1,11 @@
+IST	Practically
+AND	every
+CON	guy
+REL	in
+DEF	the
+CON	bar
+PST	was
+EXS	looking
+REL	at
+PER	Mary
+NIL	.

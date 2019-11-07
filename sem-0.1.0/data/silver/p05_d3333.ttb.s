@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+EXS	tall
+NIL	,
+COO	and
+PRO	she
+NOW	is
+IST	tall
+ALT	too
+NIL	.

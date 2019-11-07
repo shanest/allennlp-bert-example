@@ -1,0 +1,10 @@
+DEF	The
+CON	henhouse
+EPS	caught
+CON	fire
+NIL	,
+BUT	but
+DEF	the
+CON	chickens
+EPS	escaped
+NIL	.

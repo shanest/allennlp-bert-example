@@ -1,0 +1,11 @@
+DIS	Someone
+ENS	needs
+SUB	to
+EXS	save
+PRO	him
+NIL	,
+DIS	or
+PRO	he
+FUT	'll
+CON	drown
+NIL	.

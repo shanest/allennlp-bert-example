@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+HAS	his
+ROL	father
+EPS	died
+REL	in
+DIS	a
+IST	foreign
+CON	country
+NIL	.

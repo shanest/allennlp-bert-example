@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	seen
+PER	Tom
+REL	in
+AND	over
+DIS	a
+CON	week
+NIL	.

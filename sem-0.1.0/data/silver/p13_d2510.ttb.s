@@ -1,0 +1,11 @@
+DEF	The
+IST	injured
+PST	were
+QUC	many
+NIL	,
+BUT	but
+DEF	the
+IST	missing
+PST	were
+QUV	few
+NIL	.

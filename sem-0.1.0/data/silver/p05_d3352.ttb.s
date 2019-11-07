@@ -1,0 +1,14 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+DEF	the
+CON	novel
+NOW	is
+NOT	not
+EXS	translated
+REL	into
+CON	Japanese
+NIL	.

@@ -1,0 +1,15 @@
+IST	Personally
+NIL	,
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PRO	it
+NOW	makes
+AND	any
+CON	difference
+AND	who
+ENS	wins
+DEF	the
+CON	election
+NIL	.

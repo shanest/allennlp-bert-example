@@ -1,0 +1,13 @@
+PRO	I
+NOW	've
+EXS	lost
+EXS	count
+AND	of
+QUE	how
+QUV	many
+CON	times
+PRO	you
+NOW	've
+EXS	helped
+PRO	me
+NIL	.

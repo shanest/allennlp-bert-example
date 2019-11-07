@@ -1,0 +1,9 @@
+NIL	Grennan
+EPS	found
+DEF	the
+CON	translation
+REL	of
+NIL	Leopardi
+INT	very
+EXS	difficult
+NIL	.

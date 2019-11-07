@@ -1,0 +1,11 @@
+PRO	It
+ENS	says
+CON	girls
+EXS	born
+REL	under
+REL	Cancer
+NOW	are
+HAS	'
+IST	daring
+CON	'
+NIL	.

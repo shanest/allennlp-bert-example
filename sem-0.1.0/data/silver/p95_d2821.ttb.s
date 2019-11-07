@@ -1,0 +1,10 @@
+PRO	You
+AND	and
+PER	Emet
+NOW	are
+DEF	the
+XCL	only
+CON	ones
+IST	still
+PRX	here
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+EPS	took
+DEF	the
+TOP	best
+CON	part
+AND	of
+HAS	my
+CON	holiday
+SUB	to
+EXS	finish
+PRO	it
+NIL	.

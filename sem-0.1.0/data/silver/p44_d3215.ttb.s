@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	just
+EXS	trying
+SUB	to
+EXS	do
+DEF	the
+IST	right
+CON	thing
+NIL	.

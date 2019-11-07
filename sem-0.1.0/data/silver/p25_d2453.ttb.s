@@ -1,0 +1,11 @@
+ROL	Politicians
+REL	in
+GPE	Japan
+IST	sometimes
+EXS	get
+IST	away
+REL	with
+EXS	doing
+IST	illegal
+CON	things
+NIL	.

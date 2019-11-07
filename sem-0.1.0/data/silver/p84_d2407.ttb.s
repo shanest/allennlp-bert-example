@@ -1,0 +1,11 @@
+PRO	I
+PST	was
+IST	so
+EXS	happy
+SUB	that
+PRO	I
+EPS	forgot
+SUB	to
+EXS	thank
+PRO	you
+NIL	.

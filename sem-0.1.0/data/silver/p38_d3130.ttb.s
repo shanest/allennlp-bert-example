@@ -1,0 +1,13 @@
+EXS	Stop
+EXG	telling
+PRO	me
+QUE	what
+SUB	to
+EXS	do
+NIL	.
+PRO	You
+NOW	're
+NOT	not
+HAS	my
+CON	mom
+NIL	.

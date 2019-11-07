@@ -1,0 +1,17 @@
+DEF	The
+CON	River
+NTH	Severn
+NOW	is
+XCL	only
+QUC	354
+UOM	km
+NIL	,
+COO	but
+PRO	it
+NOW	is
+DEF	the
+TOP	longest
+CON	river
+REL	in
+GPE	England
+NIL	.

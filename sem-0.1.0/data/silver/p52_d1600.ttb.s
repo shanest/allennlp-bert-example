@@ -1,0 +1,9 @@
+PER	Tom
+IST	never
+EPS	had
+AND	any
+CON	intention
+AND	of
+EXS	doing
+DST	that
+NIL	.

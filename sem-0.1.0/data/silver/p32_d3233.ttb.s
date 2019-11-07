@@ -1,0 +1,11 @@
+PRO	I
+EPS	made
+PRO	it
+REL	for
+PRO	you
+NIL	.
+NOW	Do
+PRO	you
+EXS	like
+PRO	it
+QUE	?

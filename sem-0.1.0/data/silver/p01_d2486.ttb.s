@@ -1,0 +1,11 @@
+PRO	You
+NOW	've
+EXS	got
+HAS	my
+CON	computer
+COO	and
+PRO	I
+ENS	want
+PRO	it
+IST	back
+NIL	.

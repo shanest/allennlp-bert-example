@@ -1,0 +1,12 @@
+PRO	I
+ENS	want
+PRO	you
+SUB	to
+EXS	help
+PRO	us
+EXS	find
+IST	out
+AND	who
+EPS	killed
+PER	Tom
+NIL	.

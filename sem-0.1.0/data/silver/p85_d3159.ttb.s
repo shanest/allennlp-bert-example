@@ -1,0 +1,10 @@
+PER	Tom
+EPS	hated
+PER	Mary
+AND	as
+QUC	much
+AND	as
+PRO	she
+EPS	hated
+PRO	him
+NIL	.

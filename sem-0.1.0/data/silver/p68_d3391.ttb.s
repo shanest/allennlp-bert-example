@@ -1,0 +1,16 @@
+ITJ	Honestly
+NIL	,
+PRO	I
+FUT	'd
+EXS	be
+EXS	lying
+IMP	if
+PRO	I
+EPS	said
+PRO	I
+IST	never
+ENS	regret
+HAS	my
+IST	sudden
+CON	decisions
+NIL	.

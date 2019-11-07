@@ -1,0 +1,13 @@
+EXS	Favoring
+DIS	one
+CON	gender
+AND	over
+ALT	another
+FUT	wo
+NOT	n't
+EXS	win
+PRO	you
+AND	any
+CON	friends
+PRX	here
+NIL	.

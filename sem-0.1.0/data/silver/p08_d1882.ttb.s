@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	true
+SUB	that
+PRO	she
+ENS	teaches
+GPO	French
+REL	at
+CON	school
+NIL	.

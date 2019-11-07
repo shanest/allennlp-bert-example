@@ -1,0 +1,13 @@
+PRO	It
+NOW	is
+IST	illegal
+SUB	to
+EXS	copy
+REL	from
+CON	books
+NOT	without
+DEF	the
+CON	author
+HAS	's
+CON	permission
+NIL	.

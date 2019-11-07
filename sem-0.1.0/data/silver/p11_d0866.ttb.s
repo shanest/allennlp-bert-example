@@ -1,0 +1,10 @@
+REL	From
+NOW	now
+REL	on
+NIL	,
+EXS	try
+SUB	to
+EXS	arrive
+REL	on
+CON	time
+NIL	.

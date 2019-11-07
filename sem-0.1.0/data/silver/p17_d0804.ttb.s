@@ -1,0 +1,14 @@
+NOT	Something
+REL	in
+HAS	his
+CON	face
+IST	really
+EPS	reminded
+PRO	me
+AND	of
+DIS	an
+IST	old
+CON	boyfriend
+AND	of
+HAS	mine
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+EPS	forgot
+SUB	to
+EXS	put
+DIS	a
+CON	stamp
+REL	on
+DEF	the
+CON	envelope
+NIL	.

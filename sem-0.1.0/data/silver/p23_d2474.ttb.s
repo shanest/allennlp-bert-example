@@ -1,0 +1,15 @@
+REL	By
+DEF	the
+CON	age
+AND	of
+GPE	25
+EQU	,
+PRO	she
+PST	had
+EPS	lived
+REL	in
+QUC	5
+ALT	different
+CON	countries
+REL	before
+NIL	.

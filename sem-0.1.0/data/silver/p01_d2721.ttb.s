@@ -1,0 +1,9 @@
+PRO	I
+ENS	have
+IST	good
+CON	news
+REL	in
+CON	store
+REL	for
+PRO	you
+NIL	.

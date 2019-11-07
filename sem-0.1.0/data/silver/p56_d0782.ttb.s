@@ -1,0 +1,16 @@
+PRO	They
+FUT	would
+EXT	have
+EXS	gotten
+DIS	a
+IST	better
+CON	exchange
+CON	rate
+IMP	if
+PRO	they
+PST	had
+EXS	gone
+REL	to
+DIS	a
+CON	bank
+NIL	.

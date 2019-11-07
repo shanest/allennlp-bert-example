@@ -1,0 +1,10 @@
+PRO	It
+ENS	seems
+REL	to
+PRO	me
+SUB	that
+DEF	the
+CON	train
+NOW	is
+IST	late
+NIL	.

@@ -1,0 +1,12 @@
+DEF	The
+TOP	latest
+CON	issue
+AND	of
+DEF	the
+CON	magazine
+FUT	will
+EXS	come
+IST	out
+AND	next
+DOW	Monday
+NIL	.

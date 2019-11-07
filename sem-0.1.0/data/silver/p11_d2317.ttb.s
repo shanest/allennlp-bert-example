@@ -1,0 +1,11 @@
+PRO	He
+EPS	amused
+REF	himself
+REL	by
+EXG	reading
+DIS	a
+CON	detective
+CON	story
+REL	after
+CON	supper
+NIL	.

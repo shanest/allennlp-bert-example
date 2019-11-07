@@ -1,0 +1,10 @@
+EXS	Put
+CON	pressure
+REL	on
+DEF	the
+CON	wound
+NIL	to
+EXS	stop
+DEF	the
+CON	bleeding
+NIL	.

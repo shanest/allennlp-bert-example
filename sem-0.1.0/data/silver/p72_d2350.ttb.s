@@ -1,0 +1,14 @@
+PER	Tom
+EPS	put
+DIS	a
+CON	cup
+AND	of
+CON	coffee
+REL	on
+DEF	the
+CON	table
+REL	in
+CON	front
+AND	of
+PER	Mary
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+INT	very
+EXS	easy
+SUB	to
+EXS	miss
+PRX	this
+CON	kind
+AND	of
+CON	mistake
+NIL	.

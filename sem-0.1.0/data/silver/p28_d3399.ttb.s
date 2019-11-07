@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+IST	afraid
+SUB	to
+EXS	sleep
+NIL	,
+NOW	are
+NOT	n't
+PRO	you
+QUE	?

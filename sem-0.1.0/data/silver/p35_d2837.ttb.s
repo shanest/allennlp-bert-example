@@ -1,0 +1,10 @@
+PRO	You
+PST	were
+IST	there
+REL	for
+PER	Tom
+SUB	when
+PRO	he
+EPS	needed
+PRO	you
+NIL	.

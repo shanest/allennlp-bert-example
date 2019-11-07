@@ -1,0 +1,10 @@
+IMP	If
+PRO	you
+ENS	know
+SUB	where
+PER	Tom
+NOW	is
+NIL	,
+EXS	tell
+PRO	me
+NIL	.

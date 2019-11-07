@@ -1,0 +1,12 @@
+SUB	Because
+PRO	he
+PST	was
+EXS	wealthy
+NIL	,
+PRO	he
+PST	was
+IST	able
+SUB	to
+EXS	go
+IST	there
+NIL	.

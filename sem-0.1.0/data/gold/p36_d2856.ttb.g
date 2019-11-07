@@ -1,0 +1,10 @@
+DEF	The
+CON	government
+NEC	should
+EXS	do
+REL	away
+REL	with
+DST	those
+IST	old
+CON	regulations
+NIL	.

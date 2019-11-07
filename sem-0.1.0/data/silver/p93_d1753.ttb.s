@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+ROL	Mr
+PER	Yamada
+REL	at
+GEO	Shinjuku
+GEO	Station
+PRX	this
+CON	morning
+NIL	.

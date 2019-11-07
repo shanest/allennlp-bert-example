@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXG	going
+NIL	to
+EXS	leave
+DEF	the
+CON	library
+REL	at
+CLO	six-thirty
+NIL	.

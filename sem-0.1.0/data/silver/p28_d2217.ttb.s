@@ -1,0 +1,14 @@
+DEF	The
+CON	population
+AND	of
+GPE	Italy
+NOW	is
+IST	about
+CON	half
+AND	as
+IST	large
+AND	as
+DST	that
+AND	of
+GPE	Japan
+NIL	.

@@ -1,0 +1,12 @@
+HAS	My
+ROL	father
+PST	was
+IST	completely
+EXS	bald
+REL	by
+DEF	the
+CON	time
+PRO	he
+PST	was
+QUC	forty
+NIL	.

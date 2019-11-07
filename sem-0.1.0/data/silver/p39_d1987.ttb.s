@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	determined
+NOT	never
+SUB	to
+EXS	give
+CON	way
+REL	to
+CON	temptation
+NIL	.

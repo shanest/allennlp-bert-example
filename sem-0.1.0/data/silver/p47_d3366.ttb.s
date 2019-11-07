@@ -1,0 +1,10 @@
+PRO	She
+HAS	's
+NOT	not
+DIS	a
+IST	full-time
+ROL	employee
+AND	of
+PRX	this
+CON	company
+NIL	.

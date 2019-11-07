@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PER	Tom
+EPS	went
+IST	out
+REL	with
+PER	Mary
+NIL	.

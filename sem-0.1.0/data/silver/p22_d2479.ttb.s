@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PER	Mary
+NOW	is
+DEF	the
+IST	right
+CON	woman
+REL	for
+PRO	me
+NIL	.

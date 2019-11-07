@@ -1,0 +1,11 @@
+EXS	Let
+PRO	's
+NOW	hope
+PRO	it
+HAS	's
+COM	better
+AND	than
+DEF	the
+IST	first
+QUC	one
+NIL	.

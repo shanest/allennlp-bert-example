@@ -1,0 +1,11 @@
+DEF	The
+CON	house
+PRO	I
+NOW	'm
+EXS	living
+REL	in
+NOW	is
+NOT	n't
+INT	very
+IST	large
+NIL	.

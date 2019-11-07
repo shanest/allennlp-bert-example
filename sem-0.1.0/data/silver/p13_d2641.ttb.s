@@ -1,0 +1,9 @@
+PRO	I
+ENS	understand
+DIS	a
+IST	new
+CON	vaccine
+NOW	is
+EXS	being
+EXS	tested
+NIL	.

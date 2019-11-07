@@ -1,0 +1,14 @@
+PRO	I
+NOT	never
+EPS	imagined
+PRO	I
+PST	'd
+EXS	be
+IST	able
+SUB	to
+EXS	give
+DIS	a
+CON	concert
+REL	in
+GPE	Boston
+NIL	.

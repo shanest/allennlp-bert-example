@@ -1,0 +1,10 @@
+PER	Juan
+NOW	does
+NOT	n't
+EXS	know
+SUB	that
+PER	Maria
+NOW	is
+HAS	his
+CON	daughter
+NIL	.

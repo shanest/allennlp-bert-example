@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	expect
+PER	Mary
+SUB	to
+EXS	react
+AND	like
+PRO	she
+PST	did
+NIL	.

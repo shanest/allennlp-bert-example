@@ -1,0 +1,11 @@
+PRO	You
+ENS	smoke
+INT	too
+QUV	much
+NIL	.
+NOW	Do
+NOT	n't
+EXS	smoke
+IST	so
+QUV	much
+NIL	!

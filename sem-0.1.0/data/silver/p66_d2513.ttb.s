@@ -1,0 +1,10 @@
+PRO	I
+FUT	will
+EXS	study
+IST	abroad
+SUB	when
+PRO	I
+NOW	have
+EXS	finished
+CON	school
+NIL	.

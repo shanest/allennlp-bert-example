@@ -1,0 +1,11 @@
+DEF	The
+CON	men
+EPS	played
+CON	cards
+COO	and
+EPS	drank
+REL	until
+IST	late
+REL	at
+CON	night
+NIL	.

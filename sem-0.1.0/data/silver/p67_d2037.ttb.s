@@ -1,0 +1,16 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+IST	already
+EXS	planning
+SUB	to
+EXS	spend
+TIM	Christmas
+REL	with
+HAS	their
+CON	relatives
+REL	in
+DEF	the
+CON	city
+NIL	.

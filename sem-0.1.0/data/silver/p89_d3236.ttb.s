@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	go
+REL	for
+DIS	a
+IST	little
+CON	walk
+NIL	.

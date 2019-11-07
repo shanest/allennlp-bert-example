@@ -1,0 +1,13 @@
+AND	As
+IST	strange
+SUB	as
+PRO	it
+POS	may
+EXS	sound
+NIL	,
+QUE	what
+PER	Tom
+EPS	said
+NOW	is
+EXS	true
+NIL	.

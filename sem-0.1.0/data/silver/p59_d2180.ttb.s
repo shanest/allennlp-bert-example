@@ -1,0 +1,12 @@
+PRO	She
+ENS	lives
+DIS	a
+IST	solitary
+CON	life
+REL	in
+DIS	a
+IST	remote
+CON	part
+AND	of
+GPE	Scotland
+NIL	.

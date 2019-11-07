@@ -1,0 +1,11 @@
+PRO	He
+ENS	thinks
+SUB	that
+PRO	he
+HAS	's
+DEF	the
+CON	centre
+AND	of
+DEF	the
+CON	universe
+NIL	.

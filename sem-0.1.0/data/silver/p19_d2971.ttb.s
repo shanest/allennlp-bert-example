@@ -1,0 +1,11 @@
+PRO	You
+EPS	had
+MOR	better
+EXS	hurry
+AND	because
+DEF	the
+CON	banks
+FUT	will
+EXS	close
+IST	soon
+NIL	.

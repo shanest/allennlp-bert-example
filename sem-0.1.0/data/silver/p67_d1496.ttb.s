@@ -1,0 +1,10 @@
+EXS	Let
+PRO	me
+EXS	know
+IMP	if
+PRO	you
+POS	can
+EXS	make
+PRO	it
+FUT	tomorrow
+NIL	.

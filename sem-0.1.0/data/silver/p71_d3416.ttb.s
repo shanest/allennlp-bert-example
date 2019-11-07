@@ -1,0 +1,9 @@
+PRO	They
+NOW	're
+EXS	having
+DIS	a
+CON	break
+REL	at
+DEF	the
+CON	moment
+NIL	.

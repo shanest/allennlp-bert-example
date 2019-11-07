@@ -1,0 +1,11 @@
+PER	Tom
+EPS	told
+PRO	me
+PRO	he
+NOW	's
+NOT	not
+EXS	interested
+REL	in
+PRO	you
+CON	anymore
+NIL	.

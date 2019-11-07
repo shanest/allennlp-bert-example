@@ -1,0 +1,9 @@
+QUE	What
+PST	were
+PRO	you
+EXG	doing
+REL	at
+PER	Tom
+HAS	's
+CON	house
+QUE	?

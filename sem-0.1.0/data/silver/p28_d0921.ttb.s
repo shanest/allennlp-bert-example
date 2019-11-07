@@ -1,0 +1,10 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	to
+EXS	buy
+DIS	some
+CON	coffee
+AND	and
+CON	cigarettes
+NIL	.

@@ -1,0 +1,10 @@
+NOT	Nobody
+HAS	's
+EXT	found
+DIS	a
+CON	solution
+ALT	yet
+NIL	,
+NOW	have
+PRO	they
+QUE	?

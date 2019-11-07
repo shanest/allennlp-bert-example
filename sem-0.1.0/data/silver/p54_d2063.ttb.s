@@ -1,0 +1,9 @@
+PRO	He
+EPS	took
+DEF	the
+CON	eggs
+AND	out
+QUC	one
+REL	by
+QUC	one
+NIL	.

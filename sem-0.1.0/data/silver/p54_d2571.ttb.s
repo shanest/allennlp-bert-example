@@ -1,0 +1,13 @@
+NIL	"
+MOR	More
+CON	coffee
+QUE	?
+NIL	"
+NIL	"
+NOT	No
+NIL	,
+PRO	I
+NOW	'm
+EXS	good
+NIL	.
+NIL	"

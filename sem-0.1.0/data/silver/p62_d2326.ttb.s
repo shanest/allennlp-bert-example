@@ -1,0 +1,14 @@
+IMP	If
+PRO	I
+PST	were
+REL	in
+HAS	her
+CON	place
+NIL	,
+PRO	I
+FUT	would
+NOT	n't
+EXS	give
+IST	up
+ALT	yet
+NIL	.

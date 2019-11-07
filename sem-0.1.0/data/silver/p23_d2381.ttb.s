@@ -1,0 +1,10 @@
+PRO	He
+EPS	calculated
+SUB	that
+PRO	it
+FUT	would
+EXS	cost
+PRO	him
+QUC	100
+UOM	dollars
+NIL	.

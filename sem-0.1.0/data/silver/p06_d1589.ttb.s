@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXG	playing
+CON	cowboys
+AND	and
+GPE	Indians
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+PST	was
+INT	extremely
+EXS	hot
+NIL	,
+COO	so
+PRO	I
+EPS	took
+HAS	my
+CON	coat
+REL	off
+NIL	.

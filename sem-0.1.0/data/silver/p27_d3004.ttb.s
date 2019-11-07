@@ -1,0 +1,12 @@
+EXT	Having
+EXS	visited
+GEO	Rome
+QUC	many
+CON	times
+NIL	,
+PRO	he
+ENS	knows
+SUB	about
+PRO	it
+IST	well
+NIL	.

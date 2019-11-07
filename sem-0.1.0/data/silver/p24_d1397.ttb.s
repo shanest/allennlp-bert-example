@@ -1,0 +1,11 @@
+ROL	Mr
+PER	Taylor
+ENS	wishes
+PRO	he
+PST	had
+NOT	not
+EXS	come
+REL	to
+DEF	the
+CON	party
+NIL	.

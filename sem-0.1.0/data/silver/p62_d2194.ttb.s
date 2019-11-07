@@ -1,0 +1,9 @@
+PRO	She
+EPS	took
+REL	off
+DEF	the
+CON	lid
+AND	of
+DEF	the
+CON	box
+NIL	.

@@ -1,0 +1,10 @@
+PRO	She
+POS	can
+EXS	speak
+NOT	not
+XCL	only
+GPO	English
+BUT	but
+ALT	also
+GPO	French
+NIL	.

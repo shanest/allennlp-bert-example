@@ -1,0 +1,10 @@
+QUE	Who
+FUT	would
+NOT	n't
+EXS	want
+SUB	to
+EXS	go
+IST	out
+REL	with
+PER	Mary
+QUE	?

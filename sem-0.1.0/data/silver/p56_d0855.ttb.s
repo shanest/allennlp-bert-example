@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+GPO	Japanese
+NIL	,
+BUT	but
+PRO	I
+NOW	do
+NOT	n't
+EXS	live
+REL	in
+GPE	Japan
+NIL	.

@@ -1,0 +1,14 @@
+PER	Tom
+EPS	got
+DIS	a
+CON	lot
+AND	of
+CON	mosquito
+ENS	bites
+DEF	the
+IST	last
+CON	time
+PRO	he
+EPS	went
+CON	camping
+NIL	.

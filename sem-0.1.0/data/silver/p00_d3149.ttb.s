@@ -1,0 +1,13 @@
+SUB	Although
+PER	Tom
+NOW	is
+EXS	sick
+NIL	,
+PRO	he
+NOW	's
+EXG	planning
+SUB	on
+EXG	going
+REL	to
+CON	school
+NIL	.

@@ -1,0 +1,15 @@
+PRO	I
+PST	had
+CON	pizza
+REL	for
+CON	lunch
+NIL	,
+COO	so
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+CON	pizza
+REL	for
+CON	dinner
+NIL	.

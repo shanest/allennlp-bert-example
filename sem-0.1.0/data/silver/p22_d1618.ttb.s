@@ -1,0 +1,14 @@
+PER	Love
+NOW	is
+SUB	when
+DEF	both
+CON	love
+IST	mutually
+NIL	.
+SUB	When
+QUC	one
+ENS	loves
+NOW	is
+DIS	a
+CON	disease
+NIL	.

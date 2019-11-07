@@ -1,0 +1,11 @@
+PRO	I
+NOW	think
+PER	Tom
+NOW	does
+NOT	n't
+EXS	like
+PRO	me
+AND	all
+SUB	that
+QUV	much
+NIL	.

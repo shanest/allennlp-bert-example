@@ -1,0 +1,11 @@
+NIL	There
+HAS	's
+DIS	a
+CON	chance
+PRO	he
+FUT	wo
+NOT	n't
+EXS	play
+REL	on
+DOW	Friday
+NIL	.

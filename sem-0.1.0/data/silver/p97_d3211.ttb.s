@@ -1,0 +1,11 @@
+PER	Tom
+NOW	has
+NOT	n't
+EXS	taken
+DIS	a
+CON	bath
+REL	since
+QUC	three
+CON	weeks
+PST	ago
+NIL	.

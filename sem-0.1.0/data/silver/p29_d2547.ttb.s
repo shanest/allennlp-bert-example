@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+IST	even
+EXS	discuss
+DEF	the
+CON	problem
+REL	with
+PER	Mary
+NIL	.

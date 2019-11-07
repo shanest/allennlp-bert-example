@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	had
+DIS	a
+CON	friend
+IST	quite
+AND	like
+PRO	you
+NIL	.

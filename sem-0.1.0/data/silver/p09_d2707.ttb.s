@@ -1,0 +1,11 @@
+PRO	I
+NOT	never
+PST	had
+DIS	a
+CON	chance
+SUB	to
+EXS	give
+PER	Tom
+DEF	the
+CON	message
+NIL	.

@@ -1,0 +1,17 @@
+PRO	Diogenes
+FUT	would
+IST	frequently
+EXS	praise
+DST	those
+AND	who
+PST	were
+AND	about
+SUB	to
+EXS	marry
+NIL	,
+COO	and
+ALT	yet
+PST	did
+NOT	not
+EXS	marry
+NIL	.

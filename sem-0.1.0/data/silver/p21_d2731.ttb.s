@@ -1,0 +1,14 @@
+DEF	The
+CON	train
+PST	was
+EXS	derailed
+COO	and
+INT	about
+QUC	thirty
+CON	passengers
+PST	were
+IST	either
+EXS	killed
+DIS	or
+EXS	injured
+NIL	.

@@ -1,0 +1,12 @@
+XCL	Only
+SUB	to
+EXS	err
+NOW	is
+SUB	to
+EXS	live
+NIL	,
+COO	and
+CON	knowledge
+NOW	is
+CON	death
+NIL	.

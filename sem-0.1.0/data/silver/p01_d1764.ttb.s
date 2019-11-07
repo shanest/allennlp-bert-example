@@ -1,0 +1,14 @@
+NOT	Not
+LES	less
+MOR	than
+QUC	10
+CON	people
+PST	were
+EXT	arrested
+REL	for
+EXS	being
+EXS	involved
+REL	in
+DEF	the
+CON	riot
+NIL	.

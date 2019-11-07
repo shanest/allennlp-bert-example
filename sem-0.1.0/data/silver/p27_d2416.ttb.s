@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PER	Tom
+NOW	has
+EPS	met
+PER	Mary
+ALT	yet
+NIL	.

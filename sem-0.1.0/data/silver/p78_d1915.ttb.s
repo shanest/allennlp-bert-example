@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+IST	willing
+SUB	to
+EXS	drive
+PRO	me
+REL	to
+DEF	the
+CON	station
+QUE	?

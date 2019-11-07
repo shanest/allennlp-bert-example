@@ -1,0 +1,14 @@
+GPE	Boston
+NOW	is
+DIS	a
+IST	good
+CON	city
+NIL	.
+PRO	I
+FUT	would
+EXS	like
+SUB	to
+EXS	come
+EXS	visit
+ALT	again
+NIL	.

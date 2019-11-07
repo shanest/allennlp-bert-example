@@ -1,0 +1,12 @@
+PRO	You
+EPS	said
+PRO	you
+EPS	wanted
+CON	proof
+NIL	.
+ITJ	Well
+NIL	,
+AND	here
+PRO	it
+NOW	is
+NIL	.

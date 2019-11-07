@@ -1,0 +1,10 @@
+REL	For
+DIS	some
+CON	reason
+DIS	or
+ALT	other
+PRO	she
+EPS	shook
+HAS	her
+CON	head
+NIL	.

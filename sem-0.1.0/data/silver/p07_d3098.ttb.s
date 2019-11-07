@@ -1,0 +1,9 @@
+PER	Tom
+EPS	left
+DEF	the
+CON	office
+NOT	without
+IST	even
+EXG	saying
+GRE	goodbye
+NIL	.

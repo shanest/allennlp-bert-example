@@ -1,0 +1,9 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+QUE	what
+PRO	I
+PST	was
+EXG	doing
+NIL	.

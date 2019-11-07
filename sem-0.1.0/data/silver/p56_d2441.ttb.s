@@ -1,0 +1,16 @@
+PER	Mary
+ENS	fluctuates
+REL	between
+EXS	having
+DIS	an
+IST	exaggerated
+CON	sense
+AND	of
+HAS	her
+IST	own
+CON	importance
+AND	and
+DIS	an
+CON	inferiority
+CON	complex
+NIL	.

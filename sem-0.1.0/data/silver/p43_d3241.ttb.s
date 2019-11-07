@@ -1,0 +1,10 @@
+DEF	The
+CON	people
+REL	in
+DEF	the
+CON	room
+AND	all
+ENS	know
+QUC	one
+ALT	another
+NIL	.

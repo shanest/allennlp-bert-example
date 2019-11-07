@@ -1,0 +1,10 @@
+PER	Tom
+EPS	began
+SUB	to
+EXS	learn
+GPO	French
+AND	about
+QUC	three
+CON	years
+PST	ago
+NIL	.

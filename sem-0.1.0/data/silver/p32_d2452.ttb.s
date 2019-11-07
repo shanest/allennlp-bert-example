@@ -1,0 +1,9 @@
+PER	Tom
+EPS	saved
+AND	every
+CON	letter
+SUB	that
+PER	Mary
+EPS	sent
+PRO	him
+NIL	.

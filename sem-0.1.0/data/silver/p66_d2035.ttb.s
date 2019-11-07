@@ -1,0 +1,9 @@
+PRO	We
+ENS	know
+SUB	that
+PRO	she
+PST	was
+EXS	born
+REL	in
+GPE	Canada
+NIL	.

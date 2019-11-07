@@ -1,0 +1,15 @@
+PRO	It
+HAS	's
+DEF	the
+CON	way
+SUB	that
+PRO	she
+ENS	laughs
+REL	at
+REF	herself
+SUB	that
+NOW	endears
+PRO	her
+REL	to
+PRO	me
+NIL	.

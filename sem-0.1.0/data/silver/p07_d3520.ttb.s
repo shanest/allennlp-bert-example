@@ -1,0 +1,10 @@
+UNK	There
+FUT	will
+IST	allways
+EXS	be
+CON	things
+PRO	we
+FUT	'll
+NOT	never
+EXS	understand
+NIL	.

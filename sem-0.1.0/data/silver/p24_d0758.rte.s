@@ -1,0 +1,32 @@
+SUB	Although
+PER	Philip Morris
+PST	was
+EXG	selling
+HAS	its
+CON	cigarettes
+REL	at
+MOR	lower
+CON	prices
+REL	in
+DEF	the
+ORG	US
+EQU	,
+DEF	the
+IST	increased
+CON	volumes
+EPS	helped
+EXS	lift
+REL	operating
+CON	income
+REL	in
+DEF	the
+IST	domestic
+CON	tobacco
+CON	division
+REL	by
+QUC	25.1
+UOM	per cent
+REL	to
+UOM	Dollars
+QUC	858m
+NIL	.

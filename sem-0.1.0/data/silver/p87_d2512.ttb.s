@@ -1,0 +1,11 @@
+DIS	A
+CON	fanatic
+EPS	threw
+DIS	a
+CON	bomb
+REL	at
+DEF	the
+CON	king
+HAS	's
+CON	coach
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+PST	was
+EXG	thinking
+NIL	,
+FUT	would
+PRO	you
+EXS	like
+SUB	to
+EXS	get
+EXS	married
+QUE	?

@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	tired
+AND	of
+EXS	listening
+REL	to
+HAS	his
+ENS	boasts
+NIL	.

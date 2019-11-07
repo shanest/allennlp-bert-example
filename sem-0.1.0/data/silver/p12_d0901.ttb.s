@@ -1,0 +1,14 @@
+PER	Tom
+PST	kept
+EXS	talking
+COO	and
+PST	did
+NOT	n't
+EXS	let
+PER	Mary
+NOW	get
+DIS	a
+CON	word
+REL	in
+IST	edgewise
+NIL	.

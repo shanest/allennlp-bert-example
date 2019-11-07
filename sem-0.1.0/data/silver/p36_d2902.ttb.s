@@ -1,0 +1,11 @@
+PRO	You
+NEC	should
+NOT	n't
+EXT	have
+EPS	lied
+REL	to
+PRO	him
+AND	about
+DEF	the
+CON	baby
+NIL	.

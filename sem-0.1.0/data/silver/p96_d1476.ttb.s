@@ -1,0 +1,17 @@
+CON	Kangaroo
+CON	tail
+CON	soup
+NOW	is
+EXS	known
+AND	as
+DIS	an
+GPO	Australian
+CON	dish
+NIL	,
+SUB	because
+CON	kangaroos
+NOW	are
+EXS	found
+REL	in
+GPE	Australia
+NIL	.

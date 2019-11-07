@@ -1,0 +1,13 @@
+UNK	There
+PST	was
+DIS	a
+IST	strange
+AND	,
+IST	foul-smelling
+COL	brown
+CON	liquid
+REL	in
+DEF	the
+CON	waste
+CON	basket
+NIL	.

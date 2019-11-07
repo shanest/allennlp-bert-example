@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	rare
+SUB	to
+EXS	meet
+IST	nice
+CON	people
+AND	like
+PRO	you
+NIL	.

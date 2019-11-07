@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+IST	preferable
+SUB	that
+PRO	she
+NOW	do
+PRO	it
+EXS	alone
+NIL	.

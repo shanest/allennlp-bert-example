@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	associated
+REL	with
+PRO	him
+REL	for
+QUC	ten
+CON	years
+NIL	.

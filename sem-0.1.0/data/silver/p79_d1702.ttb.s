@@ -1,0 +1,17 @@
+IMP	If
+PRO	you
+NOW	keep
+CON	spending
+CON	money
+AND	like
+DST	that
+NIL	,
+PRO	you
+FUT	'll
+EXS	be
+EPS	broke
+SUB	before
+PRO	you
+ENS	know
+PRO	it
+NIL	.

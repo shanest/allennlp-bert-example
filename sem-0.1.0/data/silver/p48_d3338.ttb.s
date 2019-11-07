@@ -1,0 +1,11 @@
+PER	Tom
+EPS	lived
+REL	with
+HAS	his
+ROL	uncle
+SUB	before
+PRO	he
+EPS	came
+REL	to
+GPE	Boston
+NIL	.

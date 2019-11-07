@@ -1,0 +1,11 @@
+CON	Careful
+SUB	as
+PRO	he
+PST	was
+NIL	,
+PRO	he
+EPS	made
+DIS	an
+IST	unexpected
+CON	mistake
+NIL	.

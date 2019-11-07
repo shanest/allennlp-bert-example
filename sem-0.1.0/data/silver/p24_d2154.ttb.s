@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	possible
+SUB	that
+PRO	he
+NOW	is
+EXS	telling
+DIS	a
+CON	lie
+NIL	.

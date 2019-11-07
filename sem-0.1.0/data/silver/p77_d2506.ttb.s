@@ -1,0 +1,9 @@
+NOW	Is
+PRO	it
+EXS	true
+SUB	that
+PRO	you
+PST	were
+EXS	absent
+PST	yesterday
+QUE	?

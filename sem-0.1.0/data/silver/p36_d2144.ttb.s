@@ -1,0 +1,11 @@
+AND	Why
+NOW	is
+UNK	there
+DIS	a
+ROL	Miss
+GPE	Italy
+BUT	but
+NOT	no
+GEO	Mister
+GPE	Italy
+QUE	?

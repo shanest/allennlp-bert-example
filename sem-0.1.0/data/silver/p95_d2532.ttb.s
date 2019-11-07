@@ -1,0 +1,22 @@
+PER	Kemal Tahir
+ENS	narrates
+DEF	the
+CON	occupation
+CON	days
+AND	of
+GEO	Istanbul
+REL	in
+DEC	1920s
+REL	in
+HAS	his
+CON	book
+EPS	named
+NIL	"
+DEF	The
+CON	People
+AND	Of
+DEF	The
+ORG	Slave
+ORG	City
+NIL	"
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	.
+PRO	I
+FUT	wo
+NOT	n't
+EXS	do
+PRO	it
+IST	ever
+ALT	again
+NIL	.

@@ -1,0 +1,17 @@
+NIL	"
+AND	So
+AND	who
+PST	were
+DEF	the
+QUC	25
+QUE	?
+NIL	"
+PER	Al-Sayib
+EPS	asked
+NIL	.
+NIL	"
+CON	Friends
+AND	of
+HAS	yours
+QUE	?
+NIL	"

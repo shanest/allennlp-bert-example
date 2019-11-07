@@ -1,0 +1,15 @@
+PER	Tom
+ENS	has
+NOT	no
+CON	intention
+AND	of
+EXS	staying
+REL	in
+GPE	Boston
+REL	for
+DEF	the
+CON	rest
+AND	of
+HAS	his
+CON	life
+NIL	.

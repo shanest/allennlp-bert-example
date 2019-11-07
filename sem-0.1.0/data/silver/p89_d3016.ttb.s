@@ -1,0 +1,10 @@
+PRO	He
+EPS	spoke
+AND	about
+DEF	the
+IST	unpleasant
+CON	story
+REL	for
+QUC	two
+UOM	hours
+NIL	.

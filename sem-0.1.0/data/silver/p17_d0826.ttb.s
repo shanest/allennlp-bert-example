@@ -1,0 +1,17 @@
+REL	At
+IST	first
+NIL	,
+PRO	he
+PST	thought
+GPO	English
+INT	very
+EXS	difficult
+NIL	,
+BUT	but
+NOW	now
+PRO	he
+ENS	thinks
+PRO	it
+NOW	is
+EXS	easy
+NIL	.

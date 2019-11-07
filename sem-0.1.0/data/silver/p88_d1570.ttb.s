@@ -1,0 +1,21 @@
+DEF	The
+IST	first
+CON	item
+REL	on
+PER	Tom
+HAS	's
+CON	list
+AND	of
+CON	things
+SUB	to
+EXS	take
+REL	with
+PRO	him
+REL	on
+HAS	his
+CON	trip
+NOW	is
+HAS	his
+CON	mobile phone
+CON	recharger
+NIL	.

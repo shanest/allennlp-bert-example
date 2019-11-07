@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	sure
+SUB	that
+HAS	my
+CON	friend
+IST	already
+EPS	heard
+AND	about
+PRX	this
+NIL	.

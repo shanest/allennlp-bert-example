@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	going
+SUB	to
+EXS	break
+IST	up
+REL	with
+PER	Mary
+NIL	.

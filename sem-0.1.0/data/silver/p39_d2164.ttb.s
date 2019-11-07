@@ -1,0 +1,13 @@
+PER	Tom
+EPS	kissed
+PER	Mary
+AND	while
+PER	John
+AND	and
+PER	Alice
+PST	were
+EXS	looking
+DEF	the
+ALT	other
+CON	way
+NIL	.

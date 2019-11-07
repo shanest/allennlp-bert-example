@@ -1,0 +1,9 @@
+NOT	Never
+EXS	believe
+PRO	him
+NIL	,
+PRO	he
+HAS	's
+DIS	a
+CON	liar
+NIL	.

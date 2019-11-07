@@ -1,0 +1,12 @@
+PER	Tom
+EPS	crumpled
+IST	up
+DEF	the
+CON	paper
+COO	and
+EPS	threw
+PRO	it
+REL	in
+DEF	the
+CON	trashcan
+NIL	.

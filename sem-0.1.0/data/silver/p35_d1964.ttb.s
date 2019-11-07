@@ -1,0 +1,16 @@
+AND	Everyone
+EXS	coming
+REL	to
+DEF	the
+CON	party
+NEC	must
+EXS	bring
+HAS	their
+IST	own
+CON	contribution
+REL	to
+DEF	the
+CON	food
+AND	and
+CON	drink
+NIL	.

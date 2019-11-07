@@ -1,0 +1,9 @@
+PRO	We
+NEC	must
+IST	always
+EXS	be
+EXS	prepared
+REL	for
+DEF	the
+BOT	worst
+NIL	.

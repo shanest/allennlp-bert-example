@@ -1,0 +1,9 @@
+PRO	I
+ENS	like
+SUB	to
+EXS	call
+PER	Mary
+REL	in
+DEF	the
+CON	morning
+NIL	.

@@ -1,0 +1,15 @@
+PRX	This
+NOW	is
+DEF	the
+TOP	best
+CON	thing
+SUB	to
+EXS	tell
+REL	to
+DIS	someone
+AND	who
+ENS	tries
+SUB	to
+EXS	learn
+DIS	something
+NIL	.

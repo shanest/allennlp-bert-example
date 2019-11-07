@@ -1,0 +1,12 @@
+QUE	What
+CON	movie
+EPS	won
+DEF	the
+ORG	Academy
+ORG	Award
+REL	for
+TOP	best
+CON	picture
+REL	in
+GEO	1989
+QUE	?

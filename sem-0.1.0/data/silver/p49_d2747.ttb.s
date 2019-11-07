@@ -1,0 +1,10 @@
+PER	Bill
+EPS	put
+IST	aside
+DIS	a
+QUC	hundred
+UOM	dollars
+REL	for
+HAS	his
+CON	trip
+NIL	.

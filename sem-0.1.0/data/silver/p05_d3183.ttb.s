@@ -1,0 +1,10 @@
+PER	Markku
+IST	soon
+EPS	got
+DEF	the
+EXS	hang
+AND	of
+EXG	driving
+DEF	the
+CON	tractor
+NIL	.

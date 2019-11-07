@@ -1,0 +1,13 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	believe
+DST	that
+CON	man
+NOW	is
+IST	able
+SUB	to
+EXS	listen
+REL	to
+CON	nature
+NIL	.

@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+DIS	a
+PRI	fake
+CON	beard
+NIL	,
+NOW	is
+NOT	n't
+PRO	it
+QUE	?

@@ -1,0 +1,10 @@
+PRO	He
+EPS	made
+DIS	a
+CON	speech
+REL	on
+CON	behalf
+AND	of
+HAS	our
+CON	company
+NIL	.

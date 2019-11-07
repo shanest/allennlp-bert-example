@@ -1,0 +1,11 @@
+PRX	This
+CON	cat
+NOW	is
+COL	black
+NIL	.
+NOW	Is
+DEF	the
+CON	dog
+NIL	,
+ALT	too
+QUE	?

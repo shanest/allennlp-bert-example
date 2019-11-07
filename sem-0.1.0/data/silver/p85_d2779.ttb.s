@@ -1,0 +1,9 @@
+HAS	My
+CON	wife
+EPS	made
+PRO	me
+DIS	a
+IST	delicious
+CON	apple
+CON	cake
+NIL	.

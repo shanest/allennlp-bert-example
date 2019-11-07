@@ -1,0 +1,14 @@
+PER	Tom
+EPS	realized
+SUB	that
+PER	Mary
+PST	was
+NOT	n't
+EXS	paying
+CON	attention
+REL	to
+QUE	what
+PRO	he
+PST	was
+EXS	saying
+NIL	.

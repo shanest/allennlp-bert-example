@@ -1,0 +1,9 @@
+PRO	We
+IST	only
+NOW	do
+QUE	what
+PRO	we
+NOW	've
+PFT	been
+EXS	told
+NIL	.

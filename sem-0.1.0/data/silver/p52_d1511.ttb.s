@@ -1,0 +1,14 @@
+PRO	I
+EPS	heard
+DEF	the
+CON	news
+SUB	that
+UNK	there
+PST	had
+PFT	been
+DIS	a
+IST	big
+CON	earthquake
+REL	in
+GEO	Awaji
+NIL	.

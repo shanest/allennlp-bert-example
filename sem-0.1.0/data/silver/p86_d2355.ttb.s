@@ -1,0 +1,10 @@
+CON	Go
+DIS	somewhere
+AND	else
+NIL	.
+PRO	I
+ENS	want
+SUB	to
+EXS	be
+EXS	alone
+NIL	.

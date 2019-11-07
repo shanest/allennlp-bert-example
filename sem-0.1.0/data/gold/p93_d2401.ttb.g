@@ -1,0 +1,10 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	teach
+DIS	an
+IST	old
+CON	dog
+IST	new
+CON	tricks
+NIL	.

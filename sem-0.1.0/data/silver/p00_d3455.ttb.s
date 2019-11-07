@@ -1,0 +1,9 @@
+ITJ	Oh
+HAS	my
+CON	God
+NIL	!
+PER	Tom
+EPS	looked
+REL	at
+PRO	me
+NIL	!

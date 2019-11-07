@@ -1,0 +1,13 @@
+NOT	Never
+EXS	take
+DIS	a
+IST	blind
+CON	man
+HAS	's
+CON	arm
+NIL	.
+EXS	Let
+PRO	him
+EXS	take
+HAS	yours
+NIL	.

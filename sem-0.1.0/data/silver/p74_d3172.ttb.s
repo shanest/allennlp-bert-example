@@ -1,0 +1,14 @@
+NOT	No
+IST	sooner
+PST	had
+PER	Mary
+EXS	broken
+IST	up
+REL	with
+PER	Tom
+AND	than
+PER	John
+EPS	asked
+HAS	her
+REL	out
+NIL	.

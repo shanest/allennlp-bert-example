@@ -1,0 +1,17 @@
+NOW	Do
+PRO	you
+ENS	want
+SUB	to
+EXS	give
+IST	up
+NOW	now
+AND	after
+AND	all
+DEF	the
+CON	time
+PRO	we
+NOW	've
+EXS	put
+REL	into
+PRX	this
+QUE	?

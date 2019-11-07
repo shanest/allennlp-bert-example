@@ -1,0 +1,12 @@
+QUE	What
+CON	mountain
+NOW	do
+PRO	you
+NOW	think
+NOW	is
+DEF	the
+IST	second
+TOP	highest
+REL	in
+GPE	Japan
+QUE	?

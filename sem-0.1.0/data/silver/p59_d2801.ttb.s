@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+NOT	n't
+EXS	seen
+PER	Mary
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

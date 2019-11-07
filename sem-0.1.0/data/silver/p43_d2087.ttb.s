@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+IMP	if
+PRO	I
+EPS	hurt
+PRO	you
+NIL	.

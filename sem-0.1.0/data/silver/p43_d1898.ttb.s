@@ -1,0 +1,12 @@
+PRO	I
+POS	can
+NOT	not
+EXS	advise
+PER	Tom
+NIL	.
+PRO	He
+NOT	never
+ENS	listens
+REL	to
+PRO	me
+NIL	.

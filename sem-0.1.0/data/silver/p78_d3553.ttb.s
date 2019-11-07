@@ -1,0 +1,9 @@
+PRO	It
+PST	was
+PRX	this
+CON	boy
+SUB	that
+EPS	broke
+DEF	the
+CON	windowpane
+NIL	.

@@ -1,0 +1,9 @@
+HAS	My
+CON	room
+NOW	is
+QUC	twice
+AND	as
+IST	large
+AND	as
+HAS	yours
+NIL	.

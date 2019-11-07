@@ -1,0 +1,14 @@
+PER	Tom
+EPS	took
+DEF	the
+CON	CD
+REL	from
+HAS	its
+CON	case
+COO	and
+PST	inserted
+PRO	it
+REL	in
+DEF	the
+CON	player
+NIL	.

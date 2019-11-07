@@ -1,0 +1,10 @@
+REL	In
+MOY	June
+NIL	,
+PRO	it
+ENS	rains
+DIS	a
+CON	lot
+REL	in
+GEO	Sendai
+NIL	.

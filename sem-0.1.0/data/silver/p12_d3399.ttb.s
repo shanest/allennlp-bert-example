@@ -1,0 +1,11 @@
+PRO	You
+NOW	've
+EXS	got
+MOR	better
+CON	things
+SUB	to
+EXS	do
+REL	with
+HAS	your
+CON	time
+NIL	.

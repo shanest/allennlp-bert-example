@@ -1,0 +1,9 @@
+PRO	I
+FUT	will
+IST	always
+EXS	be
+IST	there
+SUB	to
+EXS	help
+PRO	you
+NIL	.

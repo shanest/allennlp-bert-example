@@ -1,0 +1,13 @@
+PER	Mary
+EPS	explained
+REL	to
+PER	Tom
+SUB	that
+DEF	the
+CON	joke
+EXT	relied
+REL	on
+DIS	a
+IST	double
+CON	entendre
+NIL	.

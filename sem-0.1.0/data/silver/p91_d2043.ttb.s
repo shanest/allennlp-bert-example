@@ -1,0 +1,15 @@
+REL	In
+CON	reality
+COL	black
+NOW	is
+NOT	not
+DIS	a
+CON	color
+COO	;
+PRO	it
+NOW	is
+DEF	the
+CON	absence
+AND	of
+CON	color
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+FUT	wo
+NOT	n't
+EXS	allow
+DST	that
+SUB	to
+EXS	happen
+ALT	again
+NIL	.

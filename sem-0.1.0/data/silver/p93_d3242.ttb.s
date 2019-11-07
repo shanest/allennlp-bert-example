@@ -1,0 +1,12 @@
+PRO	I
+NOW	feel
+AND	like
+PRO	I
+NOW	've
+PFT	been
+EXS	thrown
+REL	in
+DEF	the
+IST	deep
+CON	end
+NIL	.

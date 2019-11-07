@@ -1,0 +1,10 @@
+NOW	Today
+PRO	I
+EPS	picked
+IST	up
+HAS	my
+CON	four-year-old
+CON	nephew
+REL	from
+CON	kindergarten
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+ENS	love
+PRO	her
+NIL	,
+COO	but
+PRO	she
+ENS	says
+CON	ours
+NOW	is
+IST	just
+CON	friendship
+NIL	.

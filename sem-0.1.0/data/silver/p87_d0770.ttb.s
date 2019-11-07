@@ -1,0 +1,15 @@
+PRO	I
+NOW	suppose
+PRO	it
+NOW	's
+EXS	different
+SUB	when
+PRO	you
+NOW	think
+AND	about
+PRO	it
+AND	over
+DEF	the
+IST	long
+CON	term
+NIL	.

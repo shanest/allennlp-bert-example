@@ -1,0 +1,10 @@
+POS	Can
+PRO	you
+EXS	tell
+PRO	me
+QUE	why
+PER	Tom
+NOW	is
+EXS	doing
+SUB	that
+QUE	?

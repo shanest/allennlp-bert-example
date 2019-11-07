@@ -1,0 +1,11 @@
+PRO	I
+ENS	need
+DIS	a
+CON	tool
+REL	for
+EXS	pulling
+CON	weeds
+REL	in
+HAS	my
+CON	garden
+NIL	.

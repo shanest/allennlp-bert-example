@@ -1,0 +1,10 @@
+GPE	Germany
+EPS	decided
+NIL	to
+NOT	not
+EXS	use
+AND	any
+MOR	more
+IST	nuclear
+CON	energy
+NIL	.

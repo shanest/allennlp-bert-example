@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXS	having
+CON	coffee
+IST	together
+IST	out
+REL	on
+DEF	the
+CON	porch
+NIL	.

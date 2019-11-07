@@ -1,0 +1,10 @@
+DEF	The
+IST	rough
+CON	terrain
+EPS	checked
+DEF	the
+CON	progress
+AND	of
+DEF	the
+ROL	hikers
+NIL	.

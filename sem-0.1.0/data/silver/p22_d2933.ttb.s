@@ -1,0 +1,11 @@
+PER	Tom
+ENS	pays
+APX	about
+QUC	25
+UOM	%
+REL	of
+HAS	his
+CON	income
+REL	in
+CON	taxes
+NIL	.

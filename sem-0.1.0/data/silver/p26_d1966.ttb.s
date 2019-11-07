@@ -1,0 +1,15 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+SUB	whether
+PRO	I
+FUT	'll
+EXS	be
+IST	able
+SUB	to
+EXS	attend
+FUT	tomorrow
+HAS	's
+CON	meeting
+NIL	.

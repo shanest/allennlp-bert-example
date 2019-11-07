@@ -1,0 +1,9 @@
+PER	Tom
+NEC	should
+NOT	n't
+EXT	have
+EXS	borrowed
+PER	Mary
+HAS	's
+CON	car
+NIL	.

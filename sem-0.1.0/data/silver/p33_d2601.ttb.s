@@ -1,0 +1,10 @@
+PRO	He
+NOT	never
+ENS	fails
+SUB	to
+EXS	write
+CON	home
+AND	once
+DIS	a
+CON	month
+NIL	.

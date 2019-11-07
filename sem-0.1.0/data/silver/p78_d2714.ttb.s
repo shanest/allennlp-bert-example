@@ -1,0 +1,12 @@
+NOW	Have
+PRO	you
+EPS	lost
+HAS	your
+CON	tongue
+QUE	?
+AND	Why
+NOW	do
+NOT	n't
+PRO	you
+EXS	answer
+QUE	?

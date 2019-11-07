@@ -1,0 +1,11 @@
+PRO	He
+EPS	came
+IST	first
+NIL	.
+AND	Therefore
+PRO	he
+EPS	got
+DIS	a
+IST	good
+CON	seat
+NIL	.

@@ -1,0 +1,13 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	heard
+AND	of
+DIS	a
+ROL	poet
+REL	by
+DEF	the
+CON	name
+AND	of
+PER	Tom
+QUE	?

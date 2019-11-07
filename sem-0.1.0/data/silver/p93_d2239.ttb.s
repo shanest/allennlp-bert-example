@@ -1,0 +1,11 @@
+AND	How
+QUC	many
+UOM	liters
+AND	of
+CON	water
+NOW	does
+PRX	this
+CON	swimming
+CON	pool
+EXS	hold
+QUE	?

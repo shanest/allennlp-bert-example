@@ -1,0 +1,13 @@
+PRO	I
+NOW	think
+PRO	it
+NEC	must
+EXT	've
+EXS	been
+PER	Tom
+AND	who
+EPS	sent
+PER	Mary
+SUB	that
+EXS	note
+NIL	.

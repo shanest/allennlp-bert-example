@@ -1,0 +1,13 @@
+QUE	What
+IST	national
+CON	monument
+PST	was
+EXS	designated
+AND	as
+DEF	the
+IST	first
+IST	national
+CON	monument
+REL	in
+GEO	1906
+QUE	?

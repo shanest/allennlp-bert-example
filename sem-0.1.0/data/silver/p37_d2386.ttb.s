@@ -1,0 +1,15 @@
+PRO	You
+NOW	're
+EXS	working
+IST	hard
+NIL	,
+ITJ	eh
+NIL	.
+AND	But
+NOW	do
+NOT	n't
+EXS	push
+REF	yourself
+INT	too
+IST	hard
+NIL	.

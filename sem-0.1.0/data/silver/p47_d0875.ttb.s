@@ -1,0 +1,11 @@
+DEF	The
+CON	neighbours
+NOW	see
+SUB	that
+DEF	the
+CON	mailbox
+NOW	has
+NOT	n't
+PFT	been
+EXS	emptied
+NIL	.

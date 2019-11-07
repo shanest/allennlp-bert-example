@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+EXS	forbidden
+SUB	to
+EXS	make
+DEF	the
+CON	dogs
+ENS	pee
+NIL	.

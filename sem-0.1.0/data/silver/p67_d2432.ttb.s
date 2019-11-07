@@ -1,0 +1,9 @@
+PER	Liisa
+PST	had
+EXT	forgotten
+NIL	to
+EXS	turn
+REL	off
+DEF	the
+CON	light
+NIL	.

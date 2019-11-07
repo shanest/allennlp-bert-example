@@ -1,0 +1,11 @@
+IMP	If
+PRO	you
+EPS	became
+EXS	blind
+IST	suddenly
+NIL	,
+QUE	what
+FUT	would
+PRO	you
+EXS	do
+QUE	?

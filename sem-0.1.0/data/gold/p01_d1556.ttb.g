@@ -1,0 +1,10 @@
+DEF	The
+CON	war
+REL	in
+GPE	Iraq
+EPS	broke
+REL	out
+QUC	ten
+UOM	years
+PST	ago
+NIL	.

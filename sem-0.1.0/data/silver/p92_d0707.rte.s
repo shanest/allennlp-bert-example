@@ -1,0 +1,41 @@
+PER	Elizabeth II
+NOW	has
+PFT	been
+DEF	the
+GPE	United Kingdom
+HAS	's
+EXG	reigning
+ROL	monarch
+REL	since
+YOC	1952
+NIL	.
+PRO	She
+PST	was
+PST	proclaimed
+ROL	queen
+REL	on
+DOM	6
+MOY	February
+YOC	1952
+AND	following
+DEF	the
+CON	death
+AND	of
+HAS	her
+ROL	father
+NIL	,
+PER	George VI
+COO	;
+PRO	she
+PST	was
+IST	formally
+EXS	crowned
+DEF	the
+IST	next
+CON	year
+NIL	,
+REL	on
+DOM	2
+MOY	June
+YOC	1953
+NIL	.

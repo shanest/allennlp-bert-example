@@ -1,0 +1,13 @@
+PRO	He
+FUT	wo
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	come
+CON	anymore
+AND	due
+REL	to
+HAS	his
+CON	obligations
+NIL	.

@@ -1,0 +1,11 @@
+AND	And
+PRO	he
+EPS	let
+DEF	the
+QUC	two
+CON	men
+EXS	sleep
+REL	at
+HAS	his
+CON	home
+NIL	.

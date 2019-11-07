@@ -1,0 +1,15 @@
+PRO	I
+IST	just
+ENS	want
+SUB	to
+EXS	let
+PRO	you
+EXS	know
+SUB	that
+PRO	I
+FUT	'll
+EXS	be
+IST	late
+FUT	tomorrow
+CON	morning
+NIL	.

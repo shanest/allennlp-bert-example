@@ -1,0 +1,10 @@
+PRO	You
+NOW	've
+PFT	been
+DEF	the
+TOP	best
+CON	dog
+QUC	one
+POS	could
+EXS	desire
+NIL	!

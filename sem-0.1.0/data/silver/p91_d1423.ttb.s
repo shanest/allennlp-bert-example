@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	clear
+SUB	that
+PER	Mike
+EPS	took
+DEF	the
+IST	wrong
+CON	bus
+NIL	.

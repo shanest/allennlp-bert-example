@@ -1,0 +1,10 @@
+PER	Tom
+ENS	goes
+REL	to
+DEF	the
+IST	same
+CON	school
+AND	as
+PER	Mary
+NOW	does
+NIL	.

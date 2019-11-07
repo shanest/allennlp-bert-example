@@ -1,0 +1,9 @@
+PRO	You
+PST	'd
+IST	better
+NOT	not
+EXS	talk
+IST	back
+REL	to
+PER	Tom
+NIL	.

@@ -1,0 +1,14 @@
+DEF	The
+CON	difficulty
+AND	of
+DIS	a
+CON	task
+NOW	is
+NOT	no
+CON	reason
+REL	for
+CON	complacency
+AND	and
+EXG	doing
+NOT	nothing
+NIL	.

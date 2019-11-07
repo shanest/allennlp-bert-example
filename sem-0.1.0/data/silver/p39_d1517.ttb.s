@@ -1,0 +1,13 @@
+PER	Tom
+EPS	drank
+IST	heavily
+REL	in
+HAS	his
+CON	youth
+NIL	,
+BUT	but
+NOW	is
+NOW	now
+DIS	a
+CON	teetotaller
+NIL	.

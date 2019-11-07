@@ -1,0 +1,15 @@
+PRO	I
+POS	can
+NOT	not
+EXS	ask
+PER	Taninna
+IST	out
+NIL	.
+PRO	I
+NOW	do
+NOT	n't
+EXS	speak
+CON	Berber
+INT	very
+IST	well
+NIL	.

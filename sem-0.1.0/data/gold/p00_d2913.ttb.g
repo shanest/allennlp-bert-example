@@ -1,0 +1,10 @@
+DIS	A
+CON	person
+REL	like
+PER	Tom
+POS	probably
+ENS	knows
+QUE	how
+NIL	to
+EXS	swim
+NIL	.

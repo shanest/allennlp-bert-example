@@ -1,0 +1,13 @@
+PER	Tom
+EPS	insulted
+PRO	me
+IST	severely
+NIL	,
+BUT	but
+PRO	I
+EPS	gave
+PRO	him
+EXS	tit
+REL	for
+CON	tat
+NIL	.

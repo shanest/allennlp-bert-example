@@ -1,0 +1,11 @@
+PRO	I
+CON	dream
+AND	about
+EXS	going
+REL	to
+GPE	Tunisia
+REL	in
+DIS	a
+IST	few
+CON	years
+NIL	.

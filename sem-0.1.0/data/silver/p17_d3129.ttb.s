@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+QUE	what
+PER	Tom
+PST	was
+EXG	doing
+IST	last
+CON	night
+QUE	?

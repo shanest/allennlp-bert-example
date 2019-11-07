@@ -1,0 +1,10 @@
+DEF	The
+CON	paper
+EPS	published
+DIS	a
+CON	profile
+AND	of
+HAS	its
+IST	new
+CON	editor
+NIL	.

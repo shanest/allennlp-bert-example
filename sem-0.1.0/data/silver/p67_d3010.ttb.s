@@ -1,0 +1,10 @@
+PRO	He
+EPS	put
+REL	on
+HAS	his
+CON	glasses
+COO	and
+EPS	began
+SUB	to
+EXS	read
+NIL	.

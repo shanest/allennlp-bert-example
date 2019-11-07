@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	seem
+SUB	to
+EXT	have
+EXS	made
+AND	any
+ROL	enemies
+NIL	.

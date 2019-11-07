@@ -1,0 +1,13 @@
+SUB	As
+EXS	usual
+NIL	,
+PRO	he
+EPS	got
+IST	up
+AND	early
+REL	in
+DEF	the
+CON	morning
+AND	and
+IST	jogged
+NIL	.

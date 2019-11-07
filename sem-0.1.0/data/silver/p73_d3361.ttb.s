@@ -1,0 +1,11 @@
+PRO	I
+PST	was
+EXG	hoping
+PER	Tom
+FUT	would
+EXS	help
+PRO	me
+EXS	load
+DEF	the
+CON	truck
+NIL	.

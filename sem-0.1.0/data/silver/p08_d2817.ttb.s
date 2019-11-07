@@ -1,0 +1,10 @@
+DEF	The
+CON	book
+PST	was
+EXS	published
+REL	after
+DEF	the
+CON	author
+HAS	's
+CON	death
+NIL	.

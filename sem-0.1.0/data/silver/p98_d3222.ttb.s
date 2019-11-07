@@ -1,0 +1,14 @@
+AND	All
+AND	of
+DIS	a
+CON	sudden
+NIL	,
+PRO	I
+EPS	saw
+DIS	a
+CON	hare
+EXS	running
+REL	across
+DEF	the
+CON	field
+NIL	.

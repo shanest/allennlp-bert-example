@@ -1,0 +1,10 @@
+PRO	She
+EPS	gave
+PRO	me
+DIS	a
+CON	look
+REL	at
+HAS	her
+IST	new
+CON	car
+NIL	.

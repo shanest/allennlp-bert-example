@@ -1,0 +1,9 @@
+EXS	Defenestrate
+HAS	your
+CON	clock
+NIL	to
+EXS	see
+QUE	how
+CON	time
+ENS	flies
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+ROL	speaker
+EPS	banged
+DEF	the
+CON	table
+REL	with
+HAS	his
+CON	fist
+NIL	.

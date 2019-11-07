@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	not
+EXS	seen
+AND	anything
+AND	of
+PER	Elizabeth
+IST	lately
+NIL	.

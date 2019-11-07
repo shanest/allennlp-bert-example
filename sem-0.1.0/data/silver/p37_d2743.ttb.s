@@ -1,0 +1,9 @@
+NOT	No
+CON	one
+HAS	's
+IST	ever
+EXS	questioned
+HAS	my
+CON	loyalty
+REL	before
+NIL	.

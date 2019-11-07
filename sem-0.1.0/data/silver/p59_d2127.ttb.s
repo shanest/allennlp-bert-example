@@ -1,0 +1,10 @@
+EXS	Let
+HAS	's
+EXS	see
+IMP	if
+PER	Tom
+NOW	is
+REL	in
+HAS	his
+CON	office
+NIL	.

@@ -1,0 +1,12 @@
+REL	In
+HAS	his
+CON	boyhood
+EQU	,
+PER	Yasunari
+PER	Kawabata
+EPS	took
+CON	care
+AND	of
+HAS	his
+ROL	grandfather
+NIL	.

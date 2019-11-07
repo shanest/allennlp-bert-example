@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	think
+CON	people
+FUT	will
+EXS	make
+CON	fun
+AND	of
+PRO	me
+QUE	?

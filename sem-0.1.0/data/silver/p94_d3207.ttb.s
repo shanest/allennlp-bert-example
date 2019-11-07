@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+EXS	got
+SUB	to
+EXS	remember
+SUB	to
+EXS	return
+PRX	this
+CON	money
+REL	to
+PRO	him
+NIL	.

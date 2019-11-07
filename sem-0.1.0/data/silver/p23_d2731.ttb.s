@@ -1,0 +1,13 @@
+IST	Due
+REL	to
+IST	severe
+IST	educational
+CON	influence
+DEF	the
+CON	child
+EPS	became
+DIS	a
+IST	wholly
+ALT	different
+CON	person
+NIL	.

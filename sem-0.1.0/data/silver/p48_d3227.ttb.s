@@ -1,0 +1,12 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	approve
+AND	of
+DEF	the
+CON	way
+PER	Mary
+NOW	's
+PFT	been
+EXS	behaving
+NIL	.

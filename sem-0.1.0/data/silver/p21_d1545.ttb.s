@@ -1,0 +1,9 @@
+PRO	We
+ENS	need
+DIS	some
+IST	more
+CON	information
+AND	about
+DST	that
+CON	product
+NIL	.

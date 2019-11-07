@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+NOT	not
+EXS	unusual
+REL	for
+PER	Tom
+SUB	to
+EXS	go
+REL	to
+CON	bed
+REL	before
+CLO	9:00
+NIL	.

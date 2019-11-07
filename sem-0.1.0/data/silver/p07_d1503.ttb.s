@@ -1,0 +1,10 @@
+QUE	What
+CON	kind
+AND	of
+CON	deal
+PST	did
+PRO	you
+EXS	make
+REL	with
+PER	Tom
+QUE	?

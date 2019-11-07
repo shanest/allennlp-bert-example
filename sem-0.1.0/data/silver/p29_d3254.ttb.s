@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	.
+PRO	I
+NEC	should
+EXT	have
+EXS	called
+IST	first
+NIL	.

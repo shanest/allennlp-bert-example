@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+PFT	been
+PRX	here
+IST	almost
+QUC	three
+CON	years
+NOW	now
+NIL	.

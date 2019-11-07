@@ -1,0 +1,11 @@
+PRO	He
+PST	was
+EXS	caught
+REL	in
+DEF	the
+IST	very
+CON	act
+AND	of
+EXG	stealing
+PRO	it
+NIL	.

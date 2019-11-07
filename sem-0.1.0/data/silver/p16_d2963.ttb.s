@@ -1,0 +1,13 @@
+PER	Tom
+EPS	got
+SUB	so
+EXS	absorbed
+REL	in
+HAS	his
+CON	work
+SUB	that
+PRO	he
+EPS	forgot
+SUB	to
+EXS	eat
+NIL	.

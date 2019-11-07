@@ -1,0 +1,12 @@
+IMP	If
+DST	that
+CON	car
+PST	was
+NOT	n't
+COL	black
+IST	then
+QUE	what
+CON	colour
+PST	was
+PRO	it
+QUE	?

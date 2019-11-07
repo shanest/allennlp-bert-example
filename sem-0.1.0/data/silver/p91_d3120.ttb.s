@@ -1,0 +1,13 @@
+EXS	Let
+PRO	's
+NOW	see
+IMP	if
+PRO	I
+POS	can
+EXS	convince
+PER	Tom
+SUB	to
+EXS	do
+DEF	the
+CON	job
+NIL	.

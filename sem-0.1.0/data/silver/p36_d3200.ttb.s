@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	grounded
+SUB	because
+HAS	my
+CON	mum
+NOW	is
+EXS	angry
+REL	with
+PRO	me
+NIL	.

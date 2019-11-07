@@ -1,0 +1,10 @@
+EXS	Ask
+PER	Trang
+IMP	if
+PRO	he
+NOW	's
+EXG	going
+AND	out
+PRX	this
+CON	evening
+NIL	.

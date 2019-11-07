@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+NOT	not
+EXS	accountable
+REL	to
+PRO	you
+REL	for
+HAS	my
+CON	actions
+NIL	.

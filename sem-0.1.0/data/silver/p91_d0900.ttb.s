@@ -1,0 +1,9 @@
+PER	Tom
+EPS	committed
+CON	suicide
+REL	by
+EXG	jumping
+REL	off
+DIS	a
+CON	bridge
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+AND	always
+EPS	thought
+PER	Tom
+AND	and
+PER	Mary
+EPS	made
+DIS	a
+IST	good
+CON	couple
+NIL	.

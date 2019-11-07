@@ -1,0 +1,13 @@
+IMP	If
+PER	Ted
+PST	were
+PRX	here
+NIL	,
+PRO	he
+POS	could
+EXS	help
+PRO	us
+EXS	clean
+HAS	our
+CON	room
+NIL	.

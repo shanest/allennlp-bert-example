@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+DEF	the
+IST	hardest
+CON	thing
+PRO	I
+NOW	have
+IST	ever
+EXS	done
+NIL	.

@@ -1,0 +1,10 @@
+UNK	There
+HAS	's
+DIS	a
+CON	picture
+AND	of
+PER	Tom
+REL	on
+DEF	the
+CON	wall
+NIL	.

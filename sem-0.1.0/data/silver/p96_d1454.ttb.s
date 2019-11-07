@@ -1,0 +1,14 @@
+PRX	This
+CON	application
+ENS	runs
+REL	on
+PER	Tom
+HAS	's
+CON	phone
+NIL	,
+BUT	but
+NOT	not
+REL	on
+PER	Mary
+HAS	's
+NIL	.

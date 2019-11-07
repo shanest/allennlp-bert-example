@@ -1,0 +1,13 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	know
+AND	any
+AND	of
+DEF	the
+CON	details
+AND	of
+PER	Mary
+HAS	's
+CON	plan
+NIL	.

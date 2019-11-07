@@ -1,0 +1,10 @@
+AND	Would
+PRO	it
+EXS	be
+IST	possible
+SUB	to
+EXS	change
+HAS	my
+CON	reservation
+NOW	now
+QUE	?

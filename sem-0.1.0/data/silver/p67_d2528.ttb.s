@@ -1,0 +1,13 @@
+NOW	Do
+PRO	you
+NOW	think
+PRO	it
+NOW	's
+IST	worthwhile
+QUE	?
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+IST	so
+NIL	.

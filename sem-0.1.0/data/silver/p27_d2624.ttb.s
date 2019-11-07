@@ -1,0 +1,9 @@
+NIL	There
+HAS	's
+DIS	a
+CON	motion
+CON	sensor
+REL	in
+DEF	the
+CON	corner
+NIL	.

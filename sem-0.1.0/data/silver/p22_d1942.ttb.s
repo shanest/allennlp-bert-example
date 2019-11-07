@@ -1,0 +1,11 @@
+PRO	I
+EPS	laughed
+IST	so
+QUV	much
+NIL	,
+PRO	I
+PST	thought
+PRO	I
+PST	'd
+EXS	die
+NIL	.

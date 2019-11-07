@@ -1,0 +1,9 @@
+PRO	I
+EPS	forgot
+SUB	to
+EXS	bring
+HAS	my
+CON	umbrella
+REL	with
+PRO	me
+NIL	.

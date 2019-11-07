@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+IST	just
+EXS	finished
+EXS	writing
+DIS	a
+CON	letter
+REL	to
+PER	Mary
+NIL	.

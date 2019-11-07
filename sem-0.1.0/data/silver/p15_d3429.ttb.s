@@ -1,0 +1,14 @@
+PRO	He
+EPS	went
+REL	to
+GEO	Urumqi
+REL	on
+DOW	Monday
+AND	and
+EPS	came
+IST	back
+AND	here
+DEF	the
+IST	next
+CON	day
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+ENS	goes
+REL	to
+GPE	Boston
+AND	every
+QUC	once
+REL	in
+DIS	a
+CON	while
+NIL	.

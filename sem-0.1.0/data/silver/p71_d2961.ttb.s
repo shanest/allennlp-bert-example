@@ -1,0 +1,14 @@
+IMP	If
+PER	Tom
+NOW	shows
+IST	up
+NIL	,
+PRO	it
+NOW	's
+EXS	going
+SUB	to
+EXS	ruin
+PER	Mary
+HAS	's
+CON	day
+NIL	.

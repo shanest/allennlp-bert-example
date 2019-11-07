@@ -1,0 +1,10 @@
+PRO	He
+EPS	said
+SUB	that
+CON	Interlingua
+FUT	would
+EXS	be
+DIS	a
+IST	practical
+CON	language
+NIL	.

@@ -1,0 +1,11 @@
+QUE	What
+NOW	does
+DIS	a
+CON	stamp
+REL	for
+DIS	a
+CON	postcard
+REL	to
+GPE	Germany
+CON	cost
+QUE	?

@@ -1,0 +1,13 @@
+PRO	I
+POS	can
+NOT	not
+EXS	shear
+HAS	my
+CON	sheep
+NOW	now
+NIL	.
+PRO	It
+HAS	's
+IST	still
+IST	cold
+NIL	.

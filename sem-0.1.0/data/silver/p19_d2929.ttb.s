@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXS	supposed
+SUB	to
+EXS	be
+REL	in
+GPE	Boston
+REL	by
+NOW	now
+NIL	.

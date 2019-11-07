@@ -1,0 +1,9 @@
+PRO	I
+ENS	love
+SUB	to
+EXS	hear
+DIS	a
+ROL	grandfather
+CON	clock
+CON	chime
+NIL	.

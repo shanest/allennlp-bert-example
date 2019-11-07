@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	have
+AND	anything
+SUB	to
+EXS	say
+REL	to
+AND	any
+AND	of
+PRO	you
+NIL	.

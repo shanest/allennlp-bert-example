@@ -1,0 +1,10 @@
+REL	In
+CON	Esperanto
+EQU	,
+DEF	the
+IST	penultimate
+CON	syllable
+NOW	is
+AND	always
+EXS	stressed
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+CON	Nazis
+EPS	wiped
+HAS	his
+CON	name
+AND	out
+AND	of
+DEF	the
+CON	history
+CON	books
+NIL	.

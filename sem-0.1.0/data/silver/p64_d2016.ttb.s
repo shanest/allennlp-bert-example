@@ -1,0 +1,14 @@
+PRO	I
+POS	ca
+NOT	n't
+POS	possibly
+EXS	afford
+SUB	to
+EXS	pay
+REL	for
+DEF	the
+CON	operation
+HAS	my
+CON	mother
+ENS	needs
+NIL	.

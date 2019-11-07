@@ -1,0 +1,12 @@
+PRO	We
+NEC	have
+SUB	to
+EXS	do
+DIS	something
+SUB	to
+EXS	stop
+PRX	this
+REL	from
+EXS	happening
+ALT	again
+NIL	.

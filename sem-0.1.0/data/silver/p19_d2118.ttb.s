@@ -1,0 +1,9 @@
+DST	That
+HAS	's
+QUE	what
+PRO	I
+NOW	'm
+IST	really
+EXS	worried
+IST	about
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+NOW	've
+EXS	made
+IST	up
+HAS	my
+CON	mind
+SUB	to
+EXS	ask
+PER	Mary
+SUB	to
+EXS	marry
+PRO	me
+NIL	.

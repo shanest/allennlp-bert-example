@@ -1,0 +1,10 @@
+PRX	This
+CON	hat
+NOW	is
+DIS	a
+IST	little
+INT	too
+IST	small
+REL	for
+PRO	me
+NIL	.

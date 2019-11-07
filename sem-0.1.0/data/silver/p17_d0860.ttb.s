@@ -1,0 +1,10 @@
+PRO	I
+ALT	also
+ENS	hope
+REL	for
+IST	sunny
+CON	weather
+REL	at
+DEF	the
+CON	weekend
+NIL	.

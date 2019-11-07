@@ -1,0 +1,11 @@
+PRO	She
+EPS	gave
+PRO	him
+AND	all
+DEF	the
+CON	money
+SUB	that
+PRO	she
+PST	had
+IST	then
+NIL	.

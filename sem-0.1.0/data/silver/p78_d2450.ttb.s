@@ -1,0 +1,15 @@
+PER	Bush
+ENS	thinks
+SUB	that
+PRO	he
+NOW	has
+PFT	been
+EXS	sent
+REL	by
+GEO	God
+SUB	to
+EXS	establish
+CON	justice
+REL	on
+GEO	Earth
+NIL	.

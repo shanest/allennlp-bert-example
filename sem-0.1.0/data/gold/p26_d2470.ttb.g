@@ -1,0 +1,16 @@
+PER	Tom
+PST	had
+EXT	planned
+NIL	to
+EXS	ask
+HAS	his
+ROL	boss
+REL	for
+DIS	a
+CON	raise
+NIL	,
+BUT	but
+PRO	he
+EPS	chickened
+REL	out
+NIL	.

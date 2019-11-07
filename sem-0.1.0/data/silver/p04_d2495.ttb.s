@@ -1,0 +1,13 @@
+AND	Every
+CON	time
+PRO	she
+AND	coughed
+NIL	,
+PRO	she
+EPS	felt
+DIS	a
+IST	great
+CON	deal
+AND	of
+CON	pain
+NIL	.

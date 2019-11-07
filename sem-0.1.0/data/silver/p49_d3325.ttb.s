@@ -1,0 +1,13 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	when
+DEF	the
+IST	last
+CON	time
+PRO	she
+PST	had
+EXS	seen
+PER	John
+PST	was
+NIL	.

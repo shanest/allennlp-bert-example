@@ -1,0 +1,10 @@
+PER	Mary
+PST	was
+EXS	convinced
+SUB	that
+PRO	she
+FUT	would
+NOT	never
+EXS	get
+EXS	married
+NIL	.

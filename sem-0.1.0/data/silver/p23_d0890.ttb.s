@@ -1,0 +1,13 @@
+CON	Looking
+IST	back
+REL	at
+YOC	2010
+NIL	,
+PRO	I
+NOW	think
+PRO	I
+EPS	wasted
+INT	too
+QUV	much
+CON	time
+NIL	.

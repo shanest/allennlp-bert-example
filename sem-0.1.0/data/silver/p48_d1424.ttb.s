@@ -1,0 +1,10 @@
+HAS	My
+CON	wife
+NOW	is
+IST	afraid
+SUB	to
+EXS	drive
+HAS	my
+IST	new
+CON	car
+NIL	.

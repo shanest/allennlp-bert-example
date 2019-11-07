@@ -1,0 +1,11 @@
+PRO	We
+NEC	should
+EXS	love
+AND	as
+IMP	if
+PRO	we
+NOW	've
+NOT	never
+PFT	been
+EXS	hurt
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+IST	old
+CON	lady
+NOW	has
+PFT	been
+IST	rather
+EXS	feeble
+REL	since
+HAS	her
+CON	illness
+NIL	.

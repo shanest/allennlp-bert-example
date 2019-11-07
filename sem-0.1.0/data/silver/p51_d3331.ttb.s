@@ -1,0 +1,11 @@
+DST	That
+HAS	's
+DEF	the
+TOP	worst
+CON	passport
+CON	photo
+PRO	I
+NOW	've
+IST	ever
+EXS	seen
+NIL	.

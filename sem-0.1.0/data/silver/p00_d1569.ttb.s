@@ -1,0 +1,11 @@
+EXS	Stop
+EXG	telling
+PRO	me
+QUE	what
+NIL	to
+EXS	do
+AND	and
+EXS	mind
+HAS	your
+CON	business
+NIL	.

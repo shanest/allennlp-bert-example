@@ -1,0 +1,15 @@
+PRO	He
+EPS	argued
+SUB	that
+DEF	the
+IST	new
+CON	policy
+PST	was
+EXS	bound
+SUB	to
+EXS	drive
+DEF	the
+CON	economy
+REL	into
+CON	recession
+NIL	.

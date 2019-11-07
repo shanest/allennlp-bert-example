@@ -1,0 +1,12 @@
+DEF	The
+ROL	host
+EPS	showed
+REL	off
+HAS	his
+IST	rare
+CON	stamps
+REL	to
+AND	all
+HAS	his
+ROL	guests
+NIL	.

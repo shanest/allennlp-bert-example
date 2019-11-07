@@ -1,0 +1,10 @@
+HAS	Her
+QUC	one
+CON	wish
+PST	was
+SUB	to
+EXS	see
+HAS	her
+CON	son
+ALT	again
+NIL	.

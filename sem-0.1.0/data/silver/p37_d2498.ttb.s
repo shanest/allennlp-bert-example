@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	true
+SUB	that
+PRO	he
+POS	could
+NOT	n't
+EXS	know
+DEF	the
+CON	truth
+NIL	.

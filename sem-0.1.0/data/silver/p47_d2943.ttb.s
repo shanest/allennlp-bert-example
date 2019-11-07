@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+DIS	a
+IST	professional
+CON	gambler
+SUB	before
+PRO	he
+EPS	met
+PER	Mary
+NIL	.

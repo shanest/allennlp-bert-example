@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+NOW	now
+DEF	the
+CON	star
+AND	of
+DIS	a
+CON	reality
+CON	show
+NIL	.

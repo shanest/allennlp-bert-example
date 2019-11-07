@@ -1,0 +1,17 @@
+DEF	The
+IST	new
+EXS	computerised
+REL	recording
+CON	system
+EPS	experienced
+DIS	a
+CON	number
+AND	of
+DEF	teething
+CON	problems
+SUB	before
+PRO	it
+PST	was
+IST	fully
+EXS	operational
+NIL	.

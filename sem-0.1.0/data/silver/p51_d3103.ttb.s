@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	been
+REL	to
+HAS	my
+ROL	uncle
+HAS	's
+CON	house
+NIL	.

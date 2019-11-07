@@ -1,0 +1,10 @@
+ROL	Ms.
+PER	White
+EPS	ordered
+SUB	that
+PER	Tom
+NEC	should
+EXS	stay
+REL	after
+CON	school
+NIL	.

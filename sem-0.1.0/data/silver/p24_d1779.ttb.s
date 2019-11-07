@@ -1,0 +1,11 @@
+CON	Smartphones
+FUT	would
+EXS	have
+EPS	seemed
+AND	like
+CON	science
+CON	fiction
+QUC	ten
+CON	years
+PST	ago
+NIL	.

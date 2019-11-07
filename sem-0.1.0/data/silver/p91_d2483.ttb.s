@@ -1,0 +1,12 @@
+DEF	The
+ROL	President
+AND	of
+DEF	the
+GPE	U.S.
+EPS	paid
+DIS	a
+IST	formal
+CON	visit
+REL	to
+GEO	China
+NIL	.

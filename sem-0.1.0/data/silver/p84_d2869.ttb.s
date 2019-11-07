@@ -1,0 +1,9 @@
+PER	Tom
+PST	urged
+PER	Mary
+SUB	to
+EXS	tell
+PER	John
+DEF	the
+CON	truth
+NIL	.

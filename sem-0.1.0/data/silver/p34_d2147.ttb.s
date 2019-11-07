@@ -1,0 +1,13 @@
+AND	As
+IST	soon
+SUB	as
+PRO	she
+EPS	opened
+DEF	the
+CON	door
+NIL	,
+DIS	a
+CON	cat
+EPS	ran
+IST	out
+NIL	.

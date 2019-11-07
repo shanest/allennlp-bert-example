@@ -1,0 +1,11 @@
+PRO	I
+XCL	only
+ENS	know
+QUE	how
+SUB	to
+EXS	love
+NIL	,
+EXS	suffer
+AND	and
+EXS	sing
+NIL	.

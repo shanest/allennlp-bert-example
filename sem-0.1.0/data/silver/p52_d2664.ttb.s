@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+HAS	his
+CON	friends
+NOW	play
+CON	poker
+AND	almost
+AND	every
+DOW	Friday
+CON	night
+NIL	.

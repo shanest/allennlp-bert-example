@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	necessary
+SUB	that
+PRO	we
+NEC	should
+EXS	prepare
+REL	for
+DEF	the
+BOT	worst
+NIL	.

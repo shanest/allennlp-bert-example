@@ -1,0 +1,12 @@
+PRO	She
+NEC	should
+EXS	be
+UNK	there
+NOW	now
+SUB	because
+PRO	she
+EPS	left
+DIS	an
+CON	hour
+PST	ago
+NIL	.

@@ -1,0 +1,16 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	bring
+PRO	him
+IST	back
+DIS	some
+CON	toothpaste
+AND	and
+CON	toilet
+CON	paper
+REL	from
+DEF	the
+CON	supermarket
+NIL	.

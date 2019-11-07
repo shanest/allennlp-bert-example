@@ -1,0 +1,12 @@
+UNK	There
+NOW	are
+INT	too
+QUC	many
+AND	of
+PRO	us
+SUB	to
+EXS	fit
+REL	into
+QUC	one
+CON	taxi
+NIL	.

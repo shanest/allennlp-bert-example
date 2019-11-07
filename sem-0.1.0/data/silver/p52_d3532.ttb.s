@@ -1,0 +1,10 @@
+PRO	We
+EPS	called
+REL	off
+DEF	the
+CON	game
+REL	on
+CON	account
+AND	of
+CON	rain
+NIL	.

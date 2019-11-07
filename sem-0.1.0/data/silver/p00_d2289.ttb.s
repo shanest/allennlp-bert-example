@@ -1,0 +1,12 @@
+PRO	I
+FUT	would
+EXS	like
+NIL	to
+EXS	give
+PRO	him
+DIS	a
+CON	present
+REL	for
+HAS	his
+CON	birthday
+NIL	.

@@ -1,0 +1,14 @@
+PER	Tom
+ENS	knows
+QUE	why
+PER	Mary
+EPS	decided
+NOT	not
+SUB	to
+EXS	go
+REL	on
+DEF	the
+CON	picnic
+REL	with
+PRO	him
+NIL	.

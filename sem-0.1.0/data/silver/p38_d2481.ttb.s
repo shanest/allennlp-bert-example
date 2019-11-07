@@ -1,0 +1,10 @@
+PER	Tom
+PST	had
+NOT	no
+CON	intention
+AND	of
+EXG	giving
+PER	Mary
+AND	any
+CON	money
+NIL	.

@@ -1,0 +1,16 @@
+AND	Because
+AND	of
+HAS	his
+IST	great
+IST	professional
+CON	skill
+EQU	,
+DEF	the
+ROL	lawyer
+ENS	has
+DIS	a
+IST	large
+CON	number
+AND	of
+CON	clients
+NIL	.

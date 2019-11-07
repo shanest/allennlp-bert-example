@@ -1,0 +1,12 @@
+PRO	You
+ALT	also
+NEC	must
+EXS	be
+INT	very
+EXS	prudent
+NIL	,
+SUB	to
+EXS	keep
+SUB	that
+EXS	hidden
+NIL	.

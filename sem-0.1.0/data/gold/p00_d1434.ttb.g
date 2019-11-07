@@ -1,0 +1,10 @@
+NOW	Is
+PRO	it
+IST	true
+PER	Tom
+POS	ca
+NOT	n't
+ENS	read
+DIS	or
+ENS	write
+QUE	?

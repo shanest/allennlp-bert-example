@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+COM	easier
+SUB	to
+EXS	spend
+DIS	a
+CON	lot
+AND	than
+SUB	to
+EXS	save
+DIS	a
+CON	little
+NIL	.

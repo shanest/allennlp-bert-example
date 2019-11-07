@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+SUB	that
+GPE	Japan
+NOW	is
+DIS	a
+INT	very
+IST	safe
+CON	country
+NIL	.

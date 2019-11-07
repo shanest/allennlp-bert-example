@@ -1,0 +1,13 @@
+PRO	I
+ENS	know
+REL	for
+IST	certain
+SUB	that
+PRO	he
+NOW	is
+DIS	a
+CON	man
+AND	of
+IST	great
+CON	importance
+NIL	.

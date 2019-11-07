@@ -1,0 +1,11 @@
+PER	Tom
+EPS	said
+DIS	something
+REL	to
+PER	Mary
+SUB	that
+PRO	I
+POS	could
+NOT	n't
+EXS	hear
+NIL	.

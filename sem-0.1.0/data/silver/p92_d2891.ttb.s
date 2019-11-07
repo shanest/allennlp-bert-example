@@ -1,0 +1,9 @@
+PER	Tom
+EPS	took
+DIS	a
+CON	picture
+AND	of
+HAS	his
+IST	own
+CON	camera
+NIL	.

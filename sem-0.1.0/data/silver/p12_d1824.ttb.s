@@ -1,0 +1,11 @@
+NOT	Except
+REL	for
+PER	Tom
+NIL	,
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+DIS	anyone
+IST	there
+NIL	.

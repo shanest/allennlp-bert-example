@@ -1,0 +1,9 @@
+CON	Jail
+NOW	is
+SUB	where
+CON	criminals
+ENS	go
+NIL	to
+EXS	be
+EXS	punished
+NIL	.

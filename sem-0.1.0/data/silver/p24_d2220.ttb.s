@@ -1,0 +1,14 @@
+DEF	The
+GPO	Japanese
+CON	people
+NOW	appreciate
+INT	very
+QUV	much
+DEF	the
+CON	prompt
+CON	assistance
+AND	of
+QUV	many
+IST	foreign
+CON	countries
+NIL	.

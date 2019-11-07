@@ -1,0 +1,13 @@
+PER	Marcel
+PER	Kittel
+NOW	has
+EPS	won
+DEF	the
+IST	first
+CON	stage
+AND	of
+DEF	the
+ORG	Tour
+ORG	de
+GPE	France
+NIL	.

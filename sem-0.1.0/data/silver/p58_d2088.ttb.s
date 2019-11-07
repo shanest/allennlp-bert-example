@@ -1,0 +1,16 @@
+SUB	When
+PRO	you
+PST	were
+IST	able
+SUB	to
+EXS	read
+REL	on
+HAS	your
+CON	own
+NIL	,
+QUE	what
+PST	did
+PRO	you
+NOW	enjoy
+EXS	reading
+QUE	?

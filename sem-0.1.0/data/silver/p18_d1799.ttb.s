@@ -1,0 +1,11 @@
+PRO	She
+ENS	loves
+DEF	the
+CON	child
+AND	as
+IMP	if
+PRO	it
+PST	were
+HAS	her
+CON	own
+NIL	.

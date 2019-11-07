@@ -1,0 +1,11 @@
+CON	Books
+NOW	are
+REL	for
+CON	people
+AND	who
+ENS	wish
+PRO	they
+PST	were
+DIS	somewhere
+AND	else
+NIL	.

@@ -1,0 +1,10 @@
+PER	Kofi
+PER	Annan
+PST	was
+EXS	elected
+REL	in
+DEF	the
+MOY	January
+DOM	30
+CON	ballot
+NIL	.

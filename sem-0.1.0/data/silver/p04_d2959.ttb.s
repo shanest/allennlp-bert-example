@@ -1,0 +1,10 @@
+DEF	The
+CON	doctor
+EPS	advised
+HAS	my
+ROL	father
+SUB	to
+EXS	give
+IST	up
+CON	smoking
+NIL	.

@@ -1,0 +1,16 @@
+PER	Tom
+EPS	managed
+SUB	to
+EXS	escape
+REL	from
+DEF	the
+CON	room
+SUB	where
+HAS	his
+CON	kidnappers
+PST	had
+EXS	kept
+PRO	him
+EXS	locked
+IST	up
+NIL	.

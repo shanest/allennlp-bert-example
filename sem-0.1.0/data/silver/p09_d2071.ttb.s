@@ -1,0 +1,9 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	tell
+PER	Mary
+HAS	his
+IST	real
+CON	name
+NIL	.

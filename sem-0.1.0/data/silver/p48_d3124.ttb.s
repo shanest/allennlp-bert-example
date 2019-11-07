@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	know
+SUB	that
+PER	Mary
+EPS	liked
+REL	to
+EXS	cook
+NIL	.

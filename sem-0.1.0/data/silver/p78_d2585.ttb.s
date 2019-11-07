@@ -1,0 +1,10 @@
+DEF	The
+CON	Beatles
+EPS	gave
+QUC	five
+CON	concerts
+REL	in
+GEO	Tokyo
+REL	in
+YOC	1996
+NIL	.

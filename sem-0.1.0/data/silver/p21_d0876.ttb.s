@@ -1,0 +1,13 @@
+PER	Olympus
+QUE	?
+NOW	Is
+NOT	n't
+SUB	that
+SUB	where
+GPO	Greek
+CON	gods
+ENS	hang
+AND	out
+DIS	or
+DIS	something
+QUE	?

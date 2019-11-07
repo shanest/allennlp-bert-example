@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	made
+HAS	their
+CON	way
+AND	through
+DEF	the
+CON	crowd
+NIL	.

@@ -1,0 +1,14 @@
+DIS	A
+CON	polymath
+NOW	is
+DIS	someone
+AND	who
+ENS	knows
+DIS	a
+IST	whole
+CON	lot
+AND	about
+DIS	a
+IST	whole
+CON	lot
+NIL	.

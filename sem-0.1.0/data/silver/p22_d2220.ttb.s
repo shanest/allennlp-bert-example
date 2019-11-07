@@ -1,0 +1,10 @@
+PRO	He
+NEC	had
+SUB	to
+EXS	leave
+REL	for
+GPE	Tokyo
+REL	on
+IST	short
+CON	notice
+NIL	.

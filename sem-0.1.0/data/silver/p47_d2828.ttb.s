@@ -1,0 +1,11 @@
+IMP	If
+PRO	it
+ENS	rains
+FUT	tomorrow
+NIL	,
+PRO	I
+FUT	'll
+EXS	stay
+REL	at
+CON	home
+NIL	.

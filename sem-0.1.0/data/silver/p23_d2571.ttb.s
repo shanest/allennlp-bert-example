@@ -1,0 +1,9 @@
+PER	Tom
+EPS	made
+PRO	it
+IST	quite
+EXS	clear
+QUE	what
+PRO	he
+EPS	wanted
+NIL	.

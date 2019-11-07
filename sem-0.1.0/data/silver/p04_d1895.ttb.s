@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	never
+EXS	seen
+PRX	this
+CON	picture
+REL	on
+DEF	the
+CON	net
+NIL	.

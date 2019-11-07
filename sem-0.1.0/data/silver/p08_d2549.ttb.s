@@ -1,0 +1,11 @@
+SUB	As
+PRO	you
+ENS	know
+NIL	,
+CON	life
+NOW	is
+AND	compared
+REL	with
+DIS	a
+CON	voyage
+NIL	.

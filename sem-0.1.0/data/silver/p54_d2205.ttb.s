@@ -1,0 +1,9 @@
+PRO	I
+EPS	put
+REL	on
+HAS	my
+CON	clothes
+REL	in
+DIS	a
+CON	hurry
+NIL	.

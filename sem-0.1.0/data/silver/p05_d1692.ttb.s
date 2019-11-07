@@ -1,0 +1,12 @@
+PRO	I
+PST	had
+EXS	read
+XCL	only
+DIS	a
+IST	few
+CON	pages
+SUB	before
+PRO	I
+EPS	fell
+EXS	asleep
+NIL	.

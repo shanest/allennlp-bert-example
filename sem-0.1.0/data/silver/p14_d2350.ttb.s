@@ -1,0 +1,9 @@
+PRO	He
+EPS	complained
+AND	of
+DEF	the
+CON	room
+EXS	being
+INT	too
+IST	small
+NIL	.

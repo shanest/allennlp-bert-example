@@ -1,0 +1,10 @@
+PRO	You
+NOW	do
+NOT	n't
+EXS	intend
+EXG	going
+IST	there
+NIL	,
+NOW	do
+PRO	you
+QUE	?

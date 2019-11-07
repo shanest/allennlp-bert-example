@@ -1,0 +1,14 @@
+PER	Clyde
+EPS	made
+INT	very
+IST	detailed
+CON	drawings
+AND	of
+HAS	his
+IST	telescopic
+CON	observations
+AND	of
+GEO	Jupiter
+AND	and
+GEO	Mars
+NIL	.

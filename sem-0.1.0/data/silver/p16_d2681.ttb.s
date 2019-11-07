@@ -1,0 +1,11 @@
+PER	Mary
+NOW	has
+NOT	n't
+EXS	connected
+HAS	her
+CON	phone
+REL	to
+DEF	the
+UNK	Internet
+ALT	yet
+NIL	.

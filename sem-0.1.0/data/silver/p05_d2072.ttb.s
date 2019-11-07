@@ -1,0 +1,14 @@
+PRO	I
+NOW	trust
+SUB	that
+GPE	China
+FUT	will
+EXS	go
+REL	on
+SUB	to
+EXS	take
+DIS	a
+MOR	more
+IST	active
+CON	part
+NIL	.

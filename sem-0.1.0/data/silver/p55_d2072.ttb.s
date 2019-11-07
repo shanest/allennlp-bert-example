@@ -1,0 +1,10 @@
+PRO	We
+NOW	are
+EXG	giving
+PER	Tom
+DIS	a
+CON	party
+REL	on
+HAS	his
+CON	birthday
+NIL	.

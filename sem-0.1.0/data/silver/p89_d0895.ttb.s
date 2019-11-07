@@ -1,0 +1,17 @@
+DEF	The
+CON	truth
+NOW	is
+REL	at
+DEF	the
+CON	centre
+AND	of
+DIS	a
+CON	universe
+AND	of
+AND	which
+NOT	no
+CON	one
+ENS	knows
+DEF	the
+CON	borders
+NIL	.

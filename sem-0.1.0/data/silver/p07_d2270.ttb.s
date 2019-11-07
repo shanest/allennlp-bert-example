@@ -1,0 +1,10 @@
+PER	Emi
+EPS	danced
+DEF	the
+TOP	most
+IST	beautifully
+AND	of
+DEF	the
+QUC	three
+CON	girls
+NIL	.

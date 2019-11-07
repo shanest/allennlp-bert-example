@@ -1,0 +1,9 @@
+PER	Tom
+EPS	gave
+PER	Mary
+DIS	a
+CON	pair
+AND	of
+CON	diamond
+CON	earrings
+NIL	.

@@ -1,0 +1,12 @@
+XCL	Only
+QUC	16
+UOM	percent
+AND	of
+DEF	the
+CON	teachers
+AND	of
+PRX	this
+CON	school
+NOW	are
+IST	female
+NIL	.

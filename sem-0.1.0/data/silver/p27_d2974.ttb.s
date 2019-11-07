@@ -1,0 +1,10 @@
+PRO	You
+ENS	need
+NOT	n't
+EXT	have
+EXS	helped
+PRO	him
+REL	with
+HAS	his
+CON	work
+NIL	.

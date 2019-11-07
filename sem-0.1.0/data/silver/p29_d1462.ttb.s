@@ -1,0 +1,12 @@
+REL	By
+IST	next
+DOW	Sunday
+NIL	,
+PRO	I
+FUT	'll
+EXT	have
+EXS	read
+AND	through
+DEF	the
+CON	novel
+NIL	.

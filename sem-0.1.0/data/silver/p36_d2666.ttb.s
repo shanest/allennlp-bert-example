@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+NOT	n't
+EXS	told
+PRO	us
+HAS	his
+CON	opinion
+ALT	yet
+NIL	.

@@ -1,0 +1,9 @@
+PRO	She
+EPS	got
+REL	up
+REL	at
+CLO	seven
+REL	in
+DEF	the
+CON	morning
+NIL	.

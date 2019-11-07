@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	what
+PER	Mary
+HAS	's
+CON	shoe
+CON	size
+NOW	is
+NIL	.

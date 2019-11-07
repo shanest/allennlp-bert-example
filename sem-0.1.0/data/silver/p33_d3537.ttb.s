@@ -1,0 +1,12 @@
+DIS	A
+CON	friend
+AND	of
+HAS	mine
+EPS	came
+SUB	to
+EXS	see
+PRO	me
+AND	during
+DEF	the
+CON	day
+NIL	.

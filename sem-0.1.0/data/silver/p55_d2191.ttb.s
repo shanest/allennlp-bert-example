@@ -1,0 +1,11 @@
+DEF	The
+CON	gasoline
+CON	truck
+EPS	ran
+REL	into
+DEF	the
+CON	gate
+COO	and
+EPS	blew
+IST	up
+NIL	.

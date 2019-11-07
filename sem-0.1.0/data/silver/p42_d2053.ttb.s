@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+EXS	got
+SUB	to
+EXS	stop
+PER	Tom
+SUB	from
+EXS	doing
+DIS	something
+IST	stupid
+NIL	.

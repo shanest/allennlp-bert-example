@@ -1,0 +1,14 @@
+PRO	It
+NOW	has
+NOT	n't
+PFT	been
+EXS	easy
+REL	for
+PER	Tom
+SUB	to
+EXS	learn
+QUE	how
+SUB	to
+EXS	walk
+ALT	again
+NIL	.

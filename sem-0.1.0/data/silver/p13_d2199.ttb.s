@@ -1,0 +1,12 @@
+PER	Tom
+HAS	's
+CON	point
+AND	of
+CON	view
+NOW	is
+AND	almost
+DEF	the
+CON	same
+AND	as
+HAS	mine
+NIL	.

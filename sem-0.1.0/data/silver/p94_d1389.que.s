@@ -1,0 +1,10 @@
+QUE	How
+IST	often
+NOW	has
+PER	Ajax
+PFT	been
+CON	champion
+AND	of
+DEF	the
+GEO	Netherlands
+QUE	?

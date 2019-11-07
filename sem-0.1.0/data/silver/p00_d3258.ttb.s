@@ -1,0 +1,13 @@
+DIS	A
+CON	Maß
+NOW	is
+DIS	a
+CON	beer
+CON	mug
+AND	that
+ENS	contains
+QUC	1
+UOM	litre
+AND	of
+CON	beer
+NIL	.

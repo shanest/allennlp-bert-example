@@ -1,0 +1,10 @@
+IST	Hazardous
+CON	chemical
+CON	materials
+NOW	have
+PFT	been
+EXS	discovered
+REL	at
+IST	Bear
+GEO	Creek
+NIL	.

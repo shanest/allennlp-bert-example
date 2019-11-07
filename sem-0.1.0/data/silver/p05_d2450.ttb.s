@@ -1,0 +1,14 @@
+HAS	My
+CON	neighbor
+EPS	found
+DIS	a
+CON	cache
+AND	of
+IST	ancient
+IST	Roman
+CON	coins
+EXG	using
+HAS	his
+CON	metal
+CON	detector
+NIL	.

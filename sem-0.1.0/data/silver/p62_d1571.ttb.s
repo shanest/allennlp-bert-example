@@ -1,0 +1,15 @@
+REL	At
+CON	school
+NIL	,
+PER	Mary
+EPS	ignored
+PRO	me
+COO	and
+EPS	pretended
+SUB	that
+PRO	she
+PST	did
+NOT	n't
+EXS	know
+PRO	me
+NIL	.

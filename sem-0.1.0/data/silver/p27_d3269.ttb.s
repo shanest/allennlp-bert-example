@@ -1,0 +1,16 @@
+DEF	The
+CON	children
+AND	of
+GPO	American
+CON	soldiers
+EXS	staying
+REL	in
+GPE	Japan
+AND	and
+GPO	Japanese
+CON	women
+PST	were
+INT	disparagingly
+EXS	called
+CON	half-breeds
+NIL	.

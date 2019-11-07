@@ -1,0 +1,9 @@
+DEF	The
+CON	opposition
+EPS	accused
+DEF	the
+IST	prime
+CON	minister
+AND	of
+CON	negligence
+NIL	.

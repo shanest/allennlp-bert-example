@@ -1,0 +1,11 @@
+PER	Tom
+EPS	learned
+SUB	to
+EXS	accept
+DEF	the
+CON	love
+HAS	his
+CON	stepparents
+EPS	gave
+PRO	him
+NIL	.

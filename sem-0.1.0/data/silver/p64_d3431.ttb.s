@@ -1,0 +1,13 @@
+HAS	Our
+CON	train
+NEC	must
+IST	still
+EXS	wait
+REL	for
+DEF	the
+CON	arrival
+AND	of
+ALT	yet
+ALT	another
+CON	train
+NIL	.

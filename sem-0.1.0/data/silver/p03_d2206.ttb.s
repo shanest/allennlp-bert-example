@@ -1,0 +1,14 @@
+PRO	I
+PST	was
+REL	in
+DEF	the
+CON	area
+NIL	,
+COO	so
+PRO	I
+EPS	thought
+PRO	I
+PST	'd
+EXS	drop
+REL	by
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+NOW	has
+NOT	not
+EXS	written
+REL	to
+PRO	them
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

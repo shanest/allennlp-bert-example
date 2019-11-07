@@ -1,0 +1,13 @@
+ORG	Boxing
+NOW	has
+PFT	been
+EXS	defined
+AND	as
+DEF	the
+CON	art
+AND	of
+EXS	hitting
+NOT	without
+EXS	being
+EXS	hit
+NIL	.

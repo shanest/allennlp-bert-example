@@ -1,0 +1,10 @@
+IMP	If
+FUT	tomorrow
+NOW	is
+DOW	Monday
+NIL	,
+AND	then
+NOW	today
+NOW	is
+DOW	Sunday
+NIL	.

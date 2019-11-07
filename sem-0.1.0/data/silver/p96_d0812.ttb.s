@@ -1,0 +1,11 @@
+PRO	It
+EPS	was
+PST	yesterday
+SUB	that
+PRO	I
+EPS	broke
+DEF	the
+CON	window
+REL	by
+CON	mistake
+NIL	.

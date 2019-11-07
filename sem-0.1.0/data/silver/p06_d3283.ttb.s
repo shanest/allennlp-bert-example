@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+AND	as
+QUV	much
+DIS	an
+CON	art
+AND	as
+DIS	a
+CON	science
+NIL	.

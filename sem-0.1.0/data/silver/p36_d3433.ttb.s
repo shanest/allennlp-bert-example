@@ -1,0 +1,12 @@
+PRO	It
+EPS	took
+DIS	a
+CON	lot
+AND	of
+CON	effort
+SUB	to
+EXS	carry
+DEF	the
+CON	sofa
+CON	upstairs
+NIL	.

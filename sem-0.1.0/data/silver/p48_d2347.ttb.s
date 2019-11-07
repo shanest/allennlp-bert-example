@@ -1,0 +1,9 @@
+PER	Tom
+EPS	thought
+SUB	that
+PER	Mary
+PST	was
+EXS	having
+CON	money
+CON	problems
+NIL	.

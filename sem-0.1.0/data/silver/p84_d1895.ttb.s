@@ -1,0 +1,10 @@
+PRO	I
+ENS	bet
+PER	Tom
+IST	never
+EPS	spoke
+SUB	to
+PRO	you
+ENS	like
+SUB	that
+NIL	.

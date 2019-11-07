@@ -1,0 +1,9 @@
+ROL	Cardinal
+PER	Jorge
+PER	Mario
+PER	Bergoglio
+NOW	has
+PFT	been
+EXS	elected
+CON	pope
+NIL	.

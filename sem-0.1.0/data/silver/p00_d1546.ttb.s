@@ -1,0 +1,16 @@
+PRO	I
+EPS	met
+ALT	again
+DEF	the
+CON	girl
+AND	who
+PRO	I
+PST	had
+EPS	met
+REL	in
+DEF	the
+CON	park
+DEF	the
+ALT	other
+CON	day
+NIL	.

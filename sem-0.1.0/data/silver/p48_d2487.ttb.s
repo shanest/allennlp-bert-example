@@ -1,0 +1,10 @@
+PER	Tom
+ENS	thinks
+PER	Mary
+NOW	has
+EXS	fallen
+REL	to
+DEF	the
+CON	skinniness
+CON	craze
+NIL	.

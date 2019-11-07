@@ -1,0 +1,12 @@
+SUB	Whenever
+PRO	I
+NOW	find
+DIS	something
+PRO	I
+AND	like
+NIL	,
+PRO	it
+NOW	's
+INT	too
+EXS	expensive
+NIL	.

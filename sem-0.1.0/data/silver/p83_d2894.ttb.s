@@ -1,0 +1,10 @@
+PRO	You
+IST	never
+ENS	know
+SUB	when
+PRO	it
+NOW	's
+EXS	going
+SUB	to
+EXS	happen
+NIL	.

@@ -1,0 +1,12 @@
+AND	About
+QUE	how
+QUV	much
+FUT	would
+PRO	it
+EXS	cost
+SUB	to
+EXS	have
+PRX	this
+CON	chair
+EXS	repaired
+QUE	?

@@ -1,0 +1,11 @@
+EXS	Let
+HAS	's
+IST	welcome
+DEF	the
+EXS	engaged
+CON	couple
+AND	:
+PER	Tom
+AND	and
+PER	Mary
+NIL	.

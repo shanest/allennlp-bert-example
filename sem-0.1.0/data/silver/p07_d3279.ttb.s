@@ -1,0 +1,11 @@
+PER	Whoever
+ENS	calls
+NOW	now
+NIL	,
+EXS	tell
+PRO	him
+PRO	I
+NOW	'm
+NOT	not
+REL	in
+NIL	.

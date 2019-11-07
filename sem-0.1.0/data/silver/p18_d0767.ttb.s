@@ -1,0 +1,16 @@
+CON	Thanks
+REL	for
+EXT	having
+EXS	explained
+REL	to
+PRO	me
+REL	at
+IST	last
+QUE	why
+CON	people
+NOW	take
+PRO	me
+REL	for
+DIS	an
+CON	idiot
+NIL	.

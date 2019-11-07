@@ -1,0 +1,12 @@
+PRO	I
+EPS	ate
+DIS	a
+IST	large
+CON	pizza
+REL	with
+DIS	a
+CON	friend
+DIS	an
+CON	hour
+PST	ago
+NIL	.

@@ -1,0 +1,13 @@
+DEF	The
+CON	dancer
+REL	in
+DEF	the
+CON	middle
+AND	of
+DEF	the
+CON	room
+NOW	is
+IST	ready
+SUB	to
+EXS	begin
+NIL	.

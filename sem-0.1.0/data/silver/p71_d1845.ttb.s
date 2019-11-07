@@ -1,0 +1,14 @@
+GPE	Hawaii
+NOW	is
+IST	often
+EXS	referred
+REL	to
+AND	as
+NIL	"
+DEF	The
+ORG	Pearl
+AND	of
+DEF	the
+GEO	Pacific
+NIL	.
+NIL	"

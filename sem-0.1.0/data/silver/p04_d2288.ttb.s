@@ -1,0 +1,9 @@
+NOW	Is
+UNK	there
+DIS	something
+PRO	you
+NOW	're
+NOT	not
+EXG	telling
+PRO	me
+QUE	?

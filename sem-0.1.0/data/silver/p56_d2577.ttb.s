@@ -1,0 +1,9 @@
+PER	Tom
+EPS	said
+HAS	his
+CON	house
+PST	had
+PFT	been
+EXS	broken
+REL	into
+NIL	.

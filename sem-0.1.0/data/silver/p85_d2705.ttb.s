@@ -1,0 +1,12 @@
+CON	Ca
+NOT	n't
+PRO	you
+ALT	also
+NOW	use
+PRX	this
+CON	website
+CON	sort
+AND	of
+AND	like
+ART	Twitter
+QUE	?

@@ -1,0 +1,10 @@
+PER	Tom
+ENS	seems
+SUB	to
+EXS	be
+IST	unwilling
+SUB	to
+EXS	testify
+AND	against
+PER	Mary
+NIL	.

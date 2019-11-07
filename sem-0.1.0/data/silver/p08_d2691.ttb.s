@@ -1,0 +1,10 @@
+PER	Tom
+EPS	bought
+HAS	his
+CON	daughter
+DIS	a
+CON	Macintosh
+REL	for
+HAS	her
+CON	birthday
+NIL	.

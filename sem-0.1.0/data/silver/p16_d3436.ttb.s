@@ -1,0 +1,10 @@
+IST	Please
+EXS	take
+HAS	your
+CON	time
+SUB	before
+EXG	deciding
+QUE	what
+SUB	to
+EXS	do
+NIL	.

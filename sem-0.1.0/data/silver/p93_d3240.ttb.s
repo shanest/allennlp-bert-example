@@ -1,0 +1,9 @@
+EXS	Let
+PRO	us
+EXS	turn
+NOW	now
+REL	to
+DEF	the
+IST	fundamental
+CON	issue
+NIL	.

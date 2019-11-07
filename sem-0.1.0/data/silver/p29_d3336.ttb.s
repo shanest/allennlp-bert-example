@@ -1,0 +1,11 @@
+PER	Tom
+EPS	asked
+PER	Mary
+IMP	if
+PRO	she
+FUT	would
+EXS	teach
+HAS	his
+CON	son
+CON	French
+NIL	.

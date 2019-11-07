@@ -1,0 +1,10 @@
+PER	Daniel
+NIL	,
+EXS	give
+PER	Emet
+AND	and
+DEF	the
+ALT	others
+HAS	my
+CON	regards
+NIL	.

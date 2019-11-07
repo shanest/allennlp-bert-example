@@ -1,0 +1,14 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	found
+DIS	a
+IST	single
+CON	picture
+AND	which
+EPS	showed
+HAS	her
+NOT	without
+DIS	a
+CON	smile
+NIL	.

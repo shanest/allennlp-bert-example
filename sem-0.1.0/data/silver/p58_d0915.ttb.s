@@ -1,0 +1,17 @@
+INT	Too
+QUV	many
+IST	young
+CON	girls
+NOW	are
+EXS	starving
+REF	themselves
+SUB	to
+EXS	look
+AND	like
+DEF	the
+CON	models
+PRO	they
+NOW	see
+REL	in
+CON	magazines
+NIL	.

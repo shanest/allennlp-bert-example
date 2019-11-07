@@ -1,0 +1,17 @@
+DEF	The
+CON	police
+EPS	found
+CON	boxes
+SUB	that
+EXS	contained
+REL	marijuana
+AND	and
+ALT	other
+CON	drugs
+AND	inside
+DEF	the
+CON	trunk
+AND	of
+DEF	the
+CON	car
+NIL	.

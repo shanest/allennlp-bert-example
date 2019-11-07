@@ -1,0 +1,11 @@
+AND	Every
+CON	one
+AND	who
+EPS	worked
+REL	on
+DST	that
+CON	project
+EPS	became
+DIS	a
+ROL	millionaire
+NIL	.

@@ -1,0 +1,14 @@
+PRO	I
+PST	was
+EXS	going
+SUB	to
+EXS	write
+REL	to
+PRO	you
+NIL	,
+BUT	but
+PRO	I
+PST	was
+INT	too
+IST	busy
+NIL	.

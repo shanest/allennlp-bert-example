@@ -1,0 +1,14 @@
+PER	Tom
+EPS	asked
+PER	Mary
+AND	who
+PRO	she
+EPS	thought
+PST	was
+DEF	the
+IST	best-looking
+CON	guy
+REL	in
+HAS	her
+CON	class
+NIL	.

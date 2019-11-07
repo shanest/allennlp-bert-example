@@ -1,0 +1,11 @@
+PRO	He
+EPS	asked
+DEF	the
+CON	lady
+EXS	standing
+IST	next
+REL	to
+PRO	him
+DIS	some
+CON	questions
+NIL	.

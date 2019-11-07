@@ -1,0 +1,9 @@
+PRO	You
+NOW	're
+EXS	expected
+SUB	to
+EXS	be
+PRX	here
+REL	until
+CLO	2:30
+NIL	.

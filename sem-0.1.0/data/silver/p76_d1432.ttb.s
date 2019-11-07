@@ -1,0 +1,9 @@
+PRO	He
+EPS	stuck
+IST	out
+HAS	his
+CON	tongue
+REL	at
+HAS	his
+CON	teacher
+NIL	.

@@ -1,0 +1,15 @@
+IMP	If
+PRO	he
+ENS	continues
+EXS	drinking
+INT	too
+QUC	much
+NIL	,
+PRO	he
+FUT	will
+EXS	fall
+EXS	ill
+IST	sooner
+DIS	or
+IST	later
+NIL	.

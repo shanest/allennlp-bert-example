@@ -1,0 +1,9 @@
+PRO	I
+PST	was
+IST	able
+SUB	to
+EXS	play
+CON	piano
+INT	very
+IST	well
+NIL	.

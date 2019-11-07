@@ -1,0 +1,14 @@
+QUE	How
+QUV	many
+CON	pounds
+AND	of
+CON	sausage
+NOW	do
+PRO	you
+ENS	want
+NIL	,
+COO	and
+QUE	how
+QUV	much
+CON	bread
+QUE	?

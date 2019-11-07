@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	still
+EXS	trying
+SUB	to
+EXS	get
+EXS	used
+REL	to
+PRO	it
+NIL	.

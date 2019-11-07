@@ -1,0 +1,10 @@
+PRO	They
+EPS	made
+QUV	many
+CON	sacrifices
+SUB	to
+EXS	get
+HAS	their
+IST	own
+CON	house
+NIL	.

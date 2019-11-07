@@ -1,0 +1,11 @@
+PRX	These
+CON	shoes
+NOW	are
+INT	too
+EXS	small
+REL	for
+PRO	me
+SUB	to
+EXS	put
+REL	on
+NIL	.

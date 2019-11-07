@@ -1,0 +1,14 @@
+DEF	The
+ROL	lawyer
+EPS	warned
+HAS	his
+CON	client
+AND	against
+PRX	testifying
+NIL	,
+BUT	but
+PRO	he
+PST	did
+PRO	it
+IST	anyway
+NIL	.

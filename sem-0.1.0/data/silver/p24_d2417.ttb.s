@@ -1,0 +1,11 @@
+PRX	This
+CON	sentence
+NOW	has
+PFT	been
+IST	deleted
+SUB	because
+PRO	it
+PST	was
+DIS	a
+EXS	duplicate
+NIL	.

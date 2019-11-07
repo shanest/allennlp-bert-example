@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+COM	cheaper
+SUB	to
+CON	order
+CON	things
+REL	by
+DEF	the
+CON	dozen
+NIL	.

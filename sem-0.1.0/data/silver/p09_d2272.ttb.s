@@ -1,0 +1,16 @@
+SUB	To
+EXS	make
+HAS	our
+CON	house
+CON	payments
+NIL	,
+PRO	we
+NOW	're
+EXS	going
+SUB	to
+EXS	have
+SUB	to
+EXS	tighten
+HAS	our
+CON	belts
+NIL	.

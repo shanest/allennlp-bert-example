@@ -1,0 +1,11 @@
+HAS	My
+ROL	wife
+EPS	told
+PRO	me
+NIL	to
+EXS	throw
+PRX	this
+IST	old
+CON	hat
+REL	away
+NIL	.

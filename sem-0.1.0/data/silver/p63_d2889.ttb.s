@@ -1,0 +1,13 @@
+UNK	There
+NOW	is
+NOT	no
+EXS	need
+SUB	to
+EXS	be
+IST	ashamed
+AND	of
+EXS	confessing
+QUC	one
+HAS	's
+CON	mistakes
+NIL	.

@@ -1,0 +1,9 @@
+AND	Everybody
+EPS	sang
+REL	at
+DEF	the
+CON	top
+AND	of
+HAS	their
+CON	lungs
+NIL	.

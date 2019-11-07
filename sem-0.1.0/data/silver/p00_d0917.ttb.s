@@ -1,0 +1,11 @@
+PRO	He
+PST	was
+REL	about
+NIL	to
+EXS	go
+IST	out
+SUB	when
+DEF	the
+CON	telephone
+EPS	rang
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+NOT	not
+EXG	saying
+PRO	you
+NEC	have
+SUB	to
+EXS	do
+AND	everything
+PRO	I
+NOW	do
+NIL	.

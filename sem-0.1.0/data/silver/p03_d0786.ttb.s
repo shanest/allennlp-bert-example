@@ -1,0 +1,12 @@
+AND	Apart
+REL	from
+CON	carrots
+NIL	,
+UNK	there
+NOW	is
+NOT	nothing
+PRO	he
+NOW	does
+NOT	not
+EXS	eat
+NIL	.

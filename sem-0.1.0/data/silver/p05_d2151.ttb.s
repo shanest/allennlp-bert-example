@@ -1,0 +1,12 @@
+ROL	Mr
+PER	Baker
+NOW	is
+NOT	not
+IST	so
+QUV	much
+DIS	a
+ROL	teacher
+AND	as
+DIS	a
+CON	scholar
+NIL	.

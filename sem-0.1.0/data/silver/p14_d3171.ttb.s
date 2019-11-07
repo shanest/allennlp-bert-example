@@ -1,0 +1,17 @@
+DEF	The
+IST	blank
+CON	spots
+NOW	have
+EXS	vanished
+REL	from
+DEF	the
+CON	maps
+NIL	.
+PRO	They
+NOW	have
+EPS	migrated
+REL	to
+DEF	the
+CON	history
+CON	books
+NIL	.

@@ -1,0 +1,14 @@
+DEF	The
+CON	pyramids
+REL	of
+GPE	Egypt
+NOW	are
+QUC	one
+AND	of
+DEF	the
+QUC	seven
+CON	wonders
+REL	of
+DEF	the
+CON	world
+NIL	.

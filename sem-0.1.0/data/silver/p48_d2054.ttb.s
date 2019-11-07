@@ -1,0 +1,9 @@
+SUB	Before
+PER	Tom
+EPS	met
+PER	Mary
+NIL	,
+PRO	he
+EPS	drank
+IST	heavily
+NIL	.

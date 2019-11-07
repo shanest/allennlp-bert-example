@@ -1,0 +1,10 @@
+PRO	I
+IST	always
+NOW	think
+AND	of
+PRO	him
+SUB	when
+PRO	I
+NOW	'm
+EXS	alone
+NIL	.

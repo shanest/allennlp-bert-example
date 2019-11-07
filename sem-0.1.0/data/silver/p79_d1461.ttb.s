@@ -1,0 +1,14 @@
+PER	Tom
+EPS	named
+HAS	his
+CON	boat
+REL	after
+HAS	his
+CON	girlfriend
+NIL	,
+BUT	but
+IST	then
+PRO	she
+EPS	left
+PRO	him
+NIL	.

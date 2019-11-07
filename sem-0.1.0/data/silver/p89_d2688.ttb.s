@@ -1,0 +1,9 @@
+PRO	I
+NOW	think
+PRO	I
+NOW	've
+EXS	heard
+PRX	this
+CON	song
+REL	before
+NIL	.

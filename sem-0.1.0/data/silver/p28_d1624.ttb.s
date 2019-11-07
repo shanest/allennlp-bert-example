@@ -1,0 +1,10 @@
+ROL	Mr
+PER	Thomas
+FUT	will
+EXS	be
+IST	able
+SUB	to
+EXS	solve
+DEF	the
+CON	problem
+NIL	.

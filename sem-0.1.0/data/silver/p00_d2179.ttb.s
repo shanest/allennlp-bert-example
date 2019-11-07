@@ -1,0 +1,9 @@
+PRX	This
+NOW	is
+EQU	exactly
+QUE	what
+PRO	I
+EPS	wanted
+NIL	to
+EXS	see
+NIL	.

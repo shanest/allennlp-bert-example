@@ -1,0 +1,12 @@
+DEF	The
+CON	automobile
+CON	industry
+NOW	is
+QUC	one
+AND	of
+DEF	the
+IST	main
+CON	industries
+REL	in
+GPE	Japan
+NIL	.

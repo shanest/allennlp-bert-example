@@ -1,0 +1,10 @@
+PRX	This
+CON	offer
+NOW	is
+EXS	available
+REL	for
+DIS	a
+IST	limited
+CON	time
+XCL	only
+NIL	.

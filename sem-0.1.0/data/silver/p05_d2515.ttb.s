@@ -1,0 +1,10 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+HAS	your
+ROL	uncle
+EPS	lived
+REL	in
+PER	Eger
+NIL	.

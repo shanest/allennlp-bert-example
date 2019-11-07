@@ -1,0 +1,11 @@
+DEF	The
+CON	water
+NOW	's
+EXG	leaking
+REL	from
+DEF	the
+CON	elbow
+REL	of
+DEF	the
+CON	pipe
+NIL	.

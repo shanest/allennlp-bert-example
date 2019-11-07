@@ -1,0 +1,9 @@
+PRO	It
+ENS	takes
+QUC	two
+CON	hours
+SUB	to
+EXS	read
+PRX	this
+CON	book
+NIL	.

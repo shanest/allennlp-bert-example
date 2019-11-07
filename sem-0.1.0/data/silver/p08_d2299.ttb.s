@@ -1,0 +1,14 @@
+SUB	Before
+EXS	going
+REL	to
+CON	bed
+NIL	,
+PRO	I
+EPS	took
+QUC	three
+CON	pills
+SUB	to
+EXS	stop
+DIS	a
+CON	cold
+NIL	.

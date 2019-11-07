@@ -1,0 +1,15 @@
+PER	Tom
+HAS	's
+CON	pillow
+NOW	is
+COL	pink
+COO	and
+NOW	has
+DIS	a
+CON	picture
+AND	of
+DIS	a
+CON	fairy
+REL	on
+PRO	it
+NIL	.

@@ -1,0 +1,12 @@
+PRO	You
+POS	may
+NOT	not
+EXS	believe
+PRO	it
+NIL	,
+BUT	but
+PRO	it
+NOW	is
+IST	nonetheless
+EXS	true
+NIL	.

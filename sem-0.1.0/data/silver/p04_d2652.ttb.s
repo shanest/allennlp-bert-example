@@ -1,0 +1,9 @@
+PRO	We
+NOT	never
+EPS	kissed
+NIL	,
+REL	on
+DEF	the
+CON	lips
+IST	anyway
+NIL	.

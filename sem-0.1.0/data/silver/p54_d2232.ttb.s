@@ -1,0 +1,27 @@
+QUC	Seven thousand
+CON	languages
+NOW	are
+EXS	spoken
+AND	all
+AND	over
+DEF	the
+CON	world
+NIL	,
+CON	​
+PST	​and
+EXS	taken
+IST	together
+NIL	,
+PRO	they
+EXS	comprise
+DEF	the
+TOP	largest
+CON	collection
+AND	of
+IST	human
+CON	knowledge
+AND	that
+NOW	has
+IST	ever
+EXS	existed
+NIL	.

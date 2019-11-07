@@ -1,0 +1,10 @@
+PER	Tom
+EPS	tried
+SUB	to
+EXS	show
+PER	Mary
+QUE	how
+SUB	to
+EXS	do
+PRO	it
+NIL	.

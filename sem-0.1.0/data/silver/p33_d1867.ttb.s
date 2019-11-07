@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+PRO	I
+FUT	'd
+EXS	like
+REL	to
+CON	order
+NIL	.

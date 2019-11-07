@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	seen
+PRO	him
+REL	in
+DIS	a
+IST	few
+CON	days
+NIL	.

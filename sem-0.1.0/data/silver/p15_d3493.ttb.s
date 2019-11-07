@@ -1,0 +1,9 @@
+PRO	I
+XCL	only
+SUB	hope
+PRO	it
+NOW	is
+NOT	not
+INT	too
+IST	late
+NIL	.

@@ -1,0 +1,16 @@
+PRO	I
+NOW	appreciate
+QUE	what
+PRO	you
+NOW	're
+EXS	doing
+NIL	,
+BUT	but
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PRO	it
+FUT	'll
+EXS	help
+NIL	.

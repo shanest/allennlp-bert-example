@@ -1,0 +1,15 @@
+PRO	I
+FUT	wo
+NOT	n't
+EXS	go
+REL	with
+PRO	you
+SUB	unless
+PRO	you
+NOW	tell
+PRO	me
+SUB	where
+PRO	we
+NOW	're
+EXS	going
+NIL	.

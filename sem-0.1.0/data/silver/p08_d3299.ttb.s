@@ -1,0 +1,10 @@
+PRO	He
+NOW	does
+NOT	not
+EXS	like
+DEF	the
+CON	music
+PRO	I
+ENS	listen
+REL	to
+NIL	.

@@ -1,0 +1,14 @@
+PER	Tom
+EPS	volunteered
+SUB	to
+EXS	do
+AND	all
+DEF	the
+CON	things
+AND	no
+CON	one
+AND	else
+EPS	wanted
+SUB	to
+EXS	do
+NIL	.

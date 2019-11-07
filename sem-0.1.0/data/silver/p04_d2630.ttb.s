@@ -1,0 +1,10 @@
+PRO	I
+EPS	walked
+CON	softly
+REL	for
+CON	fear
+AND	of
+EXG	waking
+DEF	the
+CON	baby
+NIL	.

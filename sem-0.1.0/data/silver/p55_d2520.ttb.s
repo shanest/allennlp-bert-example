@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+NOT	n't
+PFT	been
+EXG	giving
+PRO	me
+AND	any
+CON	attention
+IST	recently
+NIL	.

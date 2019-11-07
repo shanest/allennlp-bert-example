@@ -1,0 +1,14 @@
+NOW	Is
+PRO	it
+EXS	true
+SUB	that
+PRO	you
+EPS	authorized
+DEF	the
+CON	driver
+SUB	to
+EXS	take
+DEF	the
+CON	car
+CON	home
+QUE	?

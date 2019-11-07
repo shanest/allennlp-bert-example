@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+EXS	got
+SUB	to
+EXS	head
+IST	back
+REL	to
+CON	work
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+ENS	believes
+SUB	that
+PRX	these
+CON	quartz
+CON	crystals
+NOW	have
+EXS	healing
+CON	powers
+NIL	.

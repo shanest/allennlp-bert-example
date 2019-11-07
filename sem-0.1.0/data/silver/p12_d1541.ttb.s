@@ -1,0 +1,16 @@
+QUE	What
+NOW	belongs
+REL	to
+PRO	you
+NOW	is
+REL	in
+CON	danger
+SUB	when
+HAS	your
+ROL	neighbour
+HAS	's
+CON	house
+NOW	is
+REL	on
+CON	fire
+NIL	.

@@ -1,0 +1,17 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	guarantee
+PRO	we
+FUT	'll
+EXS	be
+IST	able
+SUB	to
+EXS	get
+DEF	the
+CON	job
+EXS	done
+REL	by
+IST	next
+DOW	Monday
+NIL	.

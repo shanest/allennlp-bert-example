@@ -1,0 +1,16 @@
+IMP	If
+PRO	you
+NOW	have
+DEF	the
+CON	desire
+SUB	to
+EXS	talk
+NIL	,
+PRO	you
+ENS	know
+SUB	where
+PRO	you
+POS	can
+EXS	find
+PRO	me
+NIL	.

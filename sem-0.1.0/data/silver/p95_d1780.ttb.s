@@ -1,0 +1,9 @@
+PRO	I
+EPS	recognized
+HAS	her
+DEF	the
+CON	moment
+PRO	I
+EPS	saw
+PRO	her
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+EXS	surprising
+QUE	how
+QUV	many
+NOT	un
+EXS	happy
+CON	marriages
+UNK	there
+NOW	are
+NIL	.

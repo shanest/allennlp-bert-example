@@ -1,0 +1,12 @@
+PRO	I
+POS	can
+IST	usually
+EXS	tell
+SUB	when
+DIS	someone
+NOW	is
+EXG	hiding
+DIS	something
+REL	from
+PRO	me
+NIL	.

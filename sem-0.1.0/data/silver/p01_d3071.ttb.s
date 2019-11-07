@@ -1,0 +1,9 @@
+HAS	My
+ROL	uncle
+NOW	is
+EXS	coming
+NIL	to
+EXS	see
+PRO	us
+FUT	tomorrow
+NIL	.

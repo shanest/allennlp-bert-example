@@ -1,0 +1,10 @@
+PRO	He
+NOW	has
+IST	fully
+EXS	recovered
+COO	and
+POS	can
+IST	already
+EXS	work
+ALT	again
+NIL	.

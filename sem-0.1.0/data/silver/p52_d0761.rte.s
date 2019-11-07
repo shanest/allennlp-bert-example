@@ -1,0 +1,9 @@
+PER	Tom
+ORG	Online
+CON	revenues
+NOW	have
+EXS	risen
+REL	by
+QUC	38.5
+UOM	%
+NIL	.

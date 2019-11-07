@@ -1,0 +1,10 @@
+DST	That
+EPS	cost
+PRO	me
+DIS	a
+CON	lot
+REL	in
+DEF	the
+IST	long
+CON	run
+NIL	.

@@ -1,0 +1,10 @@
+IMP	If
+PRO	you
+ENS	want
+NIL	,
+PRO	I
+FUT	will
+EXS	come
+IST	back
+PRX	here
+NIL	.

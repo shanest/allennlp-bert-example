@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	afford
+SUB	to
+EXS	waste
+DIS	a
+IST	single
+UOM	yen
+NIL	.

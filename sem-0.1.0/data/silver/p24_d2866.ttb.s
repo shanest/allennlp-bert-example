@@ -1,0 +1,13 @@
+PRO	He
+NOW	is
+EXS	getting
+COM	old
+NIL	,
+BUT	but
+PRO	he
+NOW	is
+AND	as
+IST	healthy
+AND	as
+IST	ever
+NIL	.

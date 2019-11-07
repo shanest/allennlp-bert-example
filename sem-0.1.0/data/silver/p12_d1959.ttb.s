@@ -1,0 +1,10 @@
+SUB	When
+PRO	they
+EPS	saw
+DEF	the
+CON	star
+NIL	,
+PRO	they
+PST	were
+EXS	overjoyed
+NIL	.

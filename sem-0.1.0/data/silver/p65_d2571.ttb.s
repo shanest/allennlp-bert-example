@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+IST	really
+IST	too
+EXS	drunk
+REL	for
+PRX	this
+NOW	now
+NIL	.

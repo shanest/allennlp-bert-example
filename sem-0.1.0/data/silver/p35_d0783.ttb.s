@@ -1,0 +1,10 @@
+PRO	I
+EPS	spoke
+IST	loudly
+AND	so
+DST	that
+AND	everyone
+POS	could
+EXS	hear
+PRO	me
+NIL	.

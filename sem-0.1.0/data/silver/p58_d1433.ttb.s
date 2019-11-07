@@ -1,0 +1,13 @@
+AND	How
+POS	can
+PRO	you
+EXS	get
+PER	Tom
+SUB	to
+EXS	heed
+DEF	the
+CON	comments
+REL	with
+IST	suggested
+CON	corrections
+QUE	?

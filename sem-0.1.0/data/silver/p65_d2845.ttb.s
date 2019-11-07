@@ -1,0 +1,11 @@
+PER	Tom
+EPS	began
+REL	to
+CON	suspect
+SUB	that
+PER	Mary
+PST	was
+EXG	cheating
+REL	on
+PRO	him
+NIL	.

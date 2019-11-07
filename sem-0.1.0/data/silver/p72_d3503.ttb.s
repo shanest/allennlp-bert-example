@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+IST	afraid
+PRO	we
+NOW	're
+EXS	going
+SUB	to
+EXS	be
+IST	late
+REL	for
+CON	school
+NIL	.

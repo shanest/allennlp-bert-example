@@ -1,0 +1,15 @@
+PRO	It
+NOW	is
+IST	up
+SUB	to
+PRO	you
+SUB	to
+EXS	decide
+SUB	whether
+PRO	we
+FUT	will
+EXS	go
+IST	there
+DIS	or
+NOT	not
+NIL	.

@@ -1,0 +1,12 @@
+DEF	The
+IST	first
+CON	thing
+PRO	you
+NEC	have
+SUB	to
+EXS	do
+NOW	is
+EXS	take
+DIS	a
+CON	bath
+NIL	.

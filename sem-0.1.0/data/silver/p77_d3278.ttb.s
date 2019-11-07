@@ -1,0 +1,15 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+DEF	the
+IST	same
+IST	last
+CON	name
+NIL	,
+BUT	but
+PRO	they
+NOW	are
+NOT	n't
+EXS	related
+NIL	.

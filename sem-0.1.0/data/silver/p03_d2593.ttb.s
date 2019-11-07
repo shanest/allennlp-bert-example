@@ -1,0 +1,9 @@
+PRO	They
+FUT	will
+EXS	be
+EXS	used
+REL	for
+EXG	making
+CON	people
+EXS	happy
+NIL	.

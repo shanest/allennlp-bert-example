@@ -1,0 +1,11 @@
+REL	In
+GPO	Italian
+AND	everything
+NOW	is
+EXS	written
+DEF	the
+CON	way
+PRO	you
+EPS	pronounce
+PRO	it
+NIL	.

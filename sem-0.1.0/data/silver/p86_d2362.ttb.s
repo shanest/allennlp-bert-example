@@ -1,0 +1,10 @@
+PER	Tom
+EPS	forgot
+HAS	his
+CON	wedding
+CON	anniversary
+AND	and
+PER	Mary
+PST	was
+EXS	upset
+NIL	.

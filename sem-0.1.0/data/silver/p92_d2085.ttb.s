@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+EXS	followed
+HAS	your
+CON	advice
+NIL	,
+HAS	my
+IST	dear
+CON	colleague
+NIL	.

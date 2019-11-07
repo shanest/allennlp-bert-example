@@ -1,0 +1,9 @@
+PER	Tom
+EPS	waited
+SUB	until
+PER	Mary
+PST	was
+IST	out
+AND	of
+CON	sight
+NIL	.

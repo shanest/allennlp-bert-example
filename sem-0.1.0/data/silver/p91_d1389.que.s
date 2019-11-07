@@ -1,0 +1,12 @@
+QUE	How
+QUV	many
+CON	people
+REL	in
+DEF	the
+GEO	Netherlands
+NOW	are
+EXS	addicted
+REL	to
+IST	hard
+CON	drugs
+QUE	?

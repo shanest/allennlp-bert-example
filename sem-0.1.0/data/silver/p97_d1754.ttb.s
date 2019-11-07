@@ -1,0 +1,13 @@
+DEF	The
+CON	bus
+PST	had
+IST	already
+EXS	left
+SUB	when
+PRO	we
+EPS	got
+REL	to
+DEF	the
+CON	bus
+EXS	stop
+NIL	.

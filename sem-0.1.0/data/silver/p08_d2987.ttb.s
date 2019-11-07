@@ -1,0 +1,15 @@
+QUC	One
+AND	of
+NTH	Jupiter
+HAS	's
+CON	moons
+EQU	,
+NTH	Ganymede
+NIL	,
+NOW	is
+COM	larger
+AND	than
+DEF	the
+CON	planet
+NTH	Mercury
+NIL	.

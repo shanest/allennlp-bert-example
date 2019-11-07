@@ -1,0 +1,10 @@
+IST	Please
+EXS	let
+PRO	me
+EXS	know
+SUB	when
+PRO	I
+NEC	should
+EXS	get
+IST	off
+NIL	.

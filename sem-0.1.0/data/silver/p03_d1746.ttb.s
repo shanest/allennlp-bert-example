@@ -1,0 +1,9 @@
+QUE	What
+NOW	're
+PRO	you
+EXS	going
+SUB	to
+EXS	do
+REL	on
+DOW	Friday
+QUE	?

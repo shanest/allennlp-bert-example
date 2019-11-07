@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+IST	just
+NOT	not
+EXS	right
+NIL	,
+QUE	what
+PRO	you
+NOW	are
+EXS	saying
+NIL	!

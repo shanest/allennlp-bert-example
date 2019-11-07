@@ -1,0 +1,11 @@
+NOW	Is
+PRX	this
+DEF	the
+IST	first
+CON	time
+PRO	you
+NOW	've
+EXS	eaten
+GPO	Japanese
+CON	food
+QUE	?

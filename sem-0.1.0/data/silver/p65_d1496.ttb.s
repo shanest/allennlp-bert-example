@@ -1,0 +1,12 @@
+PRO	I
+IST	just
+EPS	realized
+SUB	that
+PRO	I
+NOW	'm
+IST	quite
+EXS	ignorant
+AND	about
+DEF	the
+CON	world
+NIL	.

@@ -1,0 +1,12 @@
+DEF	The
+CON	official
+PST	was
+EXS	suspected
+AND	of
+EXG	accepting
+CON	bribes
+REL	from
+DEF	the
+CON	construction
+CON	companies
+NIL	.

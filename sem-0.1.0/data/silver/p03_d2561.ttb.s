@@ -1,0 +1,13 @@
+PER	Tom
+IST	usually
+ENS	wakes
+IST	up
+AND	every
+CON	morning
+REL	before
+HAS	his
+CON	alarm
+CON	clock
+ENS	goes
+REL	off
+NIL	.

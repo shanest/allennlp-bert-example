@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+QUE	why
+PRO	you
+NOW	are
+EXS	sick
+AND	all
+DEF	the
+CON	time
+NIL	!

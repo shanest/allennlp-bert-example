@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	taking
+PER	Tom
+REL	on
+DIS	a
+CON	boat
+CON	trip
+FUT	tomorrow
+NIL	.

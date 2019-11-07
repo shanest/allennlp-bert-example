@@ -1,0 +1,15 @@
+PER	Tom
+EPS	closed
+HAS	his
+CON	umbrella
+COO	and
+EPS	put
+PRO	it
+REL	in
+DEF	the
+CON	umbrella
+CON	rack
+AND	near
+DEF	the
+CON	door
+NIL	.

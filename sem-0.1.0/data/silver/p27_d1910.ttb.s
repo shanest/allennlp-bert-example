@@ -1,0 +1,13 @@
+IMP	If
+PRO	I
+NOW	understand
+IST	correctly
+NIL	,
+PRO	I
+NOW	've
+PFT	been
+EXS	taken
+REL	for
+DIS	a
+CON	ride
+NIL	.

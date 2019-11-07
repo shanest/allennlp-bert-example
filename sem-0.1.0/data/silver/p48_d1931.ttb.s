@@ -1,0 +1,12 @@
+DIS	A
+CON	person
+AND	who
+NOW	is
+EXS	addicted
+REL	to
+CON	work
+NOW	is
+EXS	called
+DIS	a
+CON	workaholic
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOT	never
+EPS	meant
+SUB	to
+EXS	say
+AND	anything
+AND	about
+QUE	what
+EPS	happened
+NIL	.

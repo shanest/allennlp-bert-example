@@ -1,0 +1,13 @@
+PRO	I
+IST	just
+EPS	adopted
+PRX	this
+CON	sentence
+NIL	,
+PRO	I
+PST	did
+NOT	n't
+EXS	write
+PRO	it
+EMP	myself
+NIL	.

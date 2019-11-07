@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	hanging
+DIS	a
+CON	picture
+REL	on
+DEF	the
+CON	wall
+NIL	.

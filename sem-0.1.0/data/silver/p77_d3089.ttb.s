@@ -1,0 +1,17 @@
+IMP	If
+HAS	my
+CON	mother
+PST	had
+IST	still
+PFT	been
+EXS	alive
+NIL	,
+PRO	she
+FUT	would
+EXT	have
+EXS	helped
+PRO	me
+REL	at
+DST	that
+CON	time
+NIL	.

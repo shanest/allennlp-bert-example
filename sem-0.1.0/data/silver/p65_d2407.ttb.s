@@ -1,0 +1,9 @@
+NOT	Something
+REL	on
+DEF	the
+CON	ground
+EPS	caught
+PER	Tom
+HAS	's
+CON	eye
+NIL	.

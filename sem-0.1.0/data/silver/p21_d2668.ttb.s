@@ -1,0 +1,9 @@
+NOT	No
+CON	one
+ENS	knows
+QUE	how
+QUV	many
+CON	people
+PER	Tom
+EPS	killed
+NIL	.

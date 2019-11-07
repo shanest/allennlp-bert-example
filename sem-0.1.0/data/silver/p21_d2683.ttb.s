@@ -1,0 +1,16 @@
+PRO	I
+NOW	'm
+IST	sure
+PRO	it
+FUT	would
+NOT	n't
+EXS	be
+INT	too
+IST	hard
+SUB	to
+EXS	find
+ALT	another
+CON	place
+SUB	to
+EXS	live
+NIL	.

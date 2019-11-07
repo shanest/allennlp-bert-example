@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+DIS	something
+PRO	I
+ENS	want
+PRO	you
+SUB	to
+EXS	consider
+NIL	.

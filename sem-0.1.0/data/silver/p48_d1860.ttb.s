@@ -1,0 +1,11 @@
+PER	Tom
+ENS	thinks
+DEF	the
+CON	food
+PER	Mary
+NOW	makes
+NOW	is
+IST	usually
+IST	too
+CON	spicy
+NIL	.

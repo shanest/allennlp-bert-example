@@ -1,0 +1,10 @@
+QUE	How
+QUV	much
+CON	money
+NOW	does
+DEF	the
+GEO	U.S.
+EXS	supreme
+CON	court
+EXS	make
+QUE	?

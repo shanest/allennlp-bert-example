@@ -1,0 +1,16 @@
+PRO	I
+FUT	would
+NOT	n't
+EXT	have
+EXS	thought
+PRO	I
+FUT	would
+FUT	someday
+EXS	look
+IST	up
+NIL	"
+GEO	Viagra
+NIL	"
+REL	in
+CON	Wikipedia
+NIL	.

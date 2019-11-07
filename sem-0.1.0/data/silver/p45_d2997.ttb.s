@@ -1,0 +1,9 @@
+PRO	We
+ENS	need
+NOT	not
+EXT	have
+EXS	eaten
+CON	breakfast
+AND	so
+IST	early
+NIL	.

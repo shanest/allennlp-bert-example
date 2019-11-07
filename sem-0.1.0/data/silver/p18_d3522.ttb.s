@@ -1,0 +1,11 @@
+EXS	Becoming
+INT	too
+CON	fat
+NOW	is
+NOT	not
+EXS	good
+REL	for
+QUC	one
+HAS	's
+CON	health
+NIL	.

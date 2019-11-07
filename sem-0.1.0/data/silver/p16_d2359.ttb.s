@@ -1,0 +1,10 @@
+PRO	She
+PST	was
+DEF	the
+XCL	only
+CON	one
+SUB	to
+EXS	survive
+DEF	the
+CON	crash
+NIL	.

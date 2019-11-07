@@ -1,0 +1,9 @@
+IST	Please
+EXS	write
+REL	to
+PRO	me
+AND	as
+IST	soon
+SUB	as
+EXS	possible
+NIL	!

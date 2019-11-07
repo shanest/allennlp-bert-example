@@ -1,0 +1,15 @@
+PRO	I
+EPS	dislocated
+HAS	my
+CON	ankle
+NIL	,
+COO	and
+PRO	I
+ALT	also
+EPS	broke
+HAS	my
+CON	tibia
+AND	and
+CON	fibula
+CON	bones
+NIL	.

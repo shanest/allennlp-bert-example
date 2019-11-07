@@ -1,0 +1,10 @@
+PRO	They
+EPS	kicked
+PRO	us
+AND	out
+AND	of
+DEF	the
+CON	bar
+REL	at
+CLO	2:30
+NIL	.

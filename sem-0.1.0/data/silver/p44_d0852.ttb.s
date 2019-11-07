@@ -1,0 +1,9 @@
+PRO	I
+EPS	recognized
+PER	Mary
+DEF	the
+CON	moment
+PRO	I
+EPS	saw
+PRO	her
+NIL	.

@@ -1,0 +1,10 @@
+AND	And
+DEF	the
+IST	little
+COL	black
+CON	rabbit
+IST	never
+PST	looked
+EXS	sad
+ALT	again
+NIL	.

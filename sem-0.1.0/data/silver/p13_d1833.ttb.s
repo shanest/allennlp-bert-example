@@ -1,0 +1,9 @@
+PRO	I
+EPS	met
+PRO	him
+PST	yesterday
+REL	for
+DEF	the
+IST	first
+CON	time
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+PST	was
+IST	so
+EXS	happy
+SUB	that
+PRO	I
+EPS	forgot
+SUB	to
+EXS	offer
+HAS	my
+CON	thanks
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+DIS	a
+CON	snail
+AND	and
+CON	snails
+NOW	are
+NOT	never
+REL	in
+DIS	a
+CON	hurry
+NIL	.

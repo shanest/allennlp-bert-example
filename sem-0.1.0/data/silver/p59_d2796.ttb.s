@@ -1,0 +1,11 @@
+DEF	The
+CON	game
+FUT	will
+EXS	be
+EXS	called
+REL	off
+IMP	if
+PRO	it
+ENS	rains
+FUT	tomorrow
+NIL	.

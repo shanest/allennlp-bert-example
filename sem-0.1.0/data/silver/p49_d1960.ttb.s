@@ -1,0 +1,12 @@
+PRO	I
+PST	was
+IST	really
+EXS	flabbergasted
+SUB	when
+PRO	I
+EPS	heard
+DEF	the
+CON	news
+REL	from
+PER	Jane
+NIL	.

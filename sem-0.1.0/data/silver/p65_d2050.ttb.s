@@ -1,0 +1,9 @@
+QUE	What
+CON	kind
+AND	of
+CON	music
+NOW	does
+PER	Tom
+ENS	listen
+REL	to
+QUE	?

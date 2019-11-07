@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+EXS	seen
+PRO	him
+REL	on
+CON	TV
+BUT	but
+NOT	not
+REL	in
+DEF	the
+CON	flesh
+NIL	.

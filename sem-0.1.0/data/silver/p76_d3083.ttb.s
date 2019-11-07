@@ -1,0 +1,10 @@
+REL	At
+DEF	the
+CON	moment
+PRO	we
+NOW	are
+EXS	planning
+HAS	our
+IST	future
+CON	work
+NIL	.

@@ -1,0 +1,11 @@
+PRO	We
+EPS	took
+DIS	a
+CON	taxi
+AND	so
+PRO	we
+FUT	would
+NOT	n't
+EXS	be
+IST	late
+NIL	.

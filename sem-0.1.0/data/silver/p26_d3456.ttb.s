@@ -1,0 +1,10 @@
+DEF	The
+CON	son
+NOW	has
+EPS	betrayed
+DEF	the
+CON	trust
+AND	of
+HAS	his
+ROL	father
+NIL	.

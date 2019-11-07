@@ -1,0 +1,10 @@
+PER	Tom
+ENS	thinks
+SUB	that
+PRO	he
+HAS	's
+COM	better
+AND	than
+ALT	other
+CON	people
+NIL	.

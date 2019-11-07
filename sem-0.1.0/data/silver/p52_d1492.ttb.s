@@ -1,0 +1,14 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	reminisced
+AND	about
+DEF	the
+CON	night
+PRO	they
+EPS	met
+AND	all
+DST	those
+CON	years
+PST	ago
+NIL	.

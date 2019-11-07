@@ -1,0 +1,11 @@
+IMP	If
+PRO	I
+PST	had
+NOT	n't
+EXS	remembered
+NIL	,
+PRO	I
+FUT	would
+EXT	have
+EXS	forgotten
+NIL	.

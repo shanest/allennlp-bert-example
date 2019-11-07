@@ -1,0 +1,9 @@
+TOP	Most
+AND	of
+QUE	what
+PRO	you
+IST	just
+EPS	said
+NOW	is
+EXS	true
+NIL	.

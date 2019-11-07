@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	writing
+DIS	a
+CON	study
+AND	of
+DEF	the
+GPO	French
+CON	Revolution
+NIL	.

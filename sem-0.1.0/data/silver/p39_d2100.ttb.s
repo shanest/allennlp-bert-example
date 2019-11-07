@@ -1,0 +1,14 @@
+PRO	I
+NOW	remember
+DEF	the
+CON	event
+AND	as
+IST	clearly
+AND	as
+IMP	if
+PRO	it
+PST	had
+EXS	happened
+IST	just
+PST	yesterday
+NIL	.

@@ -1,0 +1,9 @@
+PRO	It
+NOW	looks
+AND	like
+PRO	they
+NOW	have
+EXS	made
+IST	up
+ALT	again
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	care
+SUB	whether
+PER	Mary
+NOW	does
+HAS	her
+CON	homework
+DIS	or
+NOT	not
+NIL	.

@@ -1,0 +1,12 @@
+HAS	Our
+CON	dog
+NIL	,
+AND	which
+NOW	is
+EXS	named
+LIT	John
+NIL	,
+ENS	barks
+REL	at
+AND	anybody
+NIL	.

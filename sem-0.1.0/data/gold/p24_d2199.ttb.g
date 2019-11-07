@@ -1,0 +1,11 @@
+ITJ	Hey
+NIL	,
+HAS	your
+CON	fly
+NOW	is
+IST	down
+NIL	.
+EXS	Zip
+PRO	it
+REL	up
+NIL	.

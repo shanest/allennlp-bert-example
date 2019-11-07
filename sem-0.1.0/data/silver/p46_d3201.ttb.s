@@ -1,0 +1,11 @@
+PRO	He
+EPS	went
+REL	to
+GPE	Portugal
+SUB	to
+EXS	work
+AND	as
+DIS	a
+CON	soccer
+ROL	trainer
+NIL	.

@@ -1,0 +1,11 @@
+HAS	My
+IST	usual
+CON	sleeping
+CON	time
+NOW	is
+REL	from
+QUC	seven
+REL	to
+QUC	nine
+CON	hours
+NIL	.

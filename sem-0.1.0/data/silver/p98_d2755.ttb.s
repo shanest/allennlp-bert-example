@@ -1,0 +1,11 @@
+PRO	You
+POS	can
+NOT	not
+CON	respect
+AND	such
+DIS	a
+IST	great
+CON	man
+INT	too
+QUC	much
+NIL	.

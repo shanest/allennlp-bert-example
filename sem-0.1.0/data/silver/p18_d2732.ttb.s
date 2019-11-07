@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+DIS	something
+AND	that
+HAS	's
+NOT	never
+PFT	been
+EXS	done
+REL	before
+NIL	.

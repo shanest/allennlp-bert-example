@@ -1,0 +1,11 @@
+PER	Mary
+NOW	finds
+PRO	it
+EXS	hard
+SUB	to
+EXS	live
+REL	with
+PER	Tom
+HAS	's
+CON	moods
+NIL	.

@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+IST	strange
+SUB	that
+PRO	you
+NOW	do
+NOT	n't
+EXS	know
+AND	anything
+AND	about
+DST	that
+CON	matter
+NIL	.

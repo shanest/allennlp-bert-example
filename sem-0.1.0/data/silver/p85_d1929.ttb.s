@@ -1,0 +1,9 @@
+PER	Catalina
+NOW	is
+REL	from
+GPE	Argentina
+NIL	.
+PRO	She
+EQU	is
+GPO	Argentinian
+NIL	.

@@ -1,0 +1,16 @@
+PRO	I
+NOW	'm
+IST	really
+EXS	hungry
+NIL	,
+BUT	but
+PRO	I
+POS	ca
+NOT	n't
+EXS	decide
+QUE	what
+PRO	I
+ENS	want
+SUB	to
+EXS	eat
+NIL	.

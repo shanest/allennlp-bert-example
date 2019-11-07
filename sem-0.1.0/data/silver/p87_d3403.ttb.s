@@ -1,0 +1,10 @@
+PRO	I
+ENS	brush
+HAS	my
+CON	teeth
+COO	;
+PRO	I
+EXS	comb
+HAS	my
+CON	hair
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+ENS	plans
+NIL	to
+EXS	play
+CON	poker
+REL	with
+PRO	us
+FUT	tomorrow
+CON	evening
+NIL	.

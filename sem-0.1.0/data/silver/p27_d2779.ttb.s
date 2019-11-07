@@ -1,0 +1,11 @@
+PRX	These
+QUC	four
+CON	youths
+NOW	share
+DIS	an
+CON	apartment
+REL	in
+DEF	the
+GPE	Tokyo
+CON	area
+NIL	.

@@ -1,0 +1,11 @@
+PRO	We
+EPS	played
+CON	games
+REL	for
+AND	about
+DIS	an
+CON	hour
+AND	and
+DIS	a
+CON	half
+NIL	.

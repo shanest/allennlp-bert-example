@@ -1,0 +1,10 @@
+PRO	They
+EPS	caught
+DIS	a
+CON	lot
+AND	of
+CON	fish
+REL	at
+DEF	the
+CON	river
+NIL	.

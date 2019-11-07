@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	beginning
+NIL	to
+EXS	understand
+QUE	why
+PER	Tom
+ENS	loves
+GPE	Boston
+NIL	.

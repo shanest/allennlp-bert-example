@@ -1,0 +1,11 @@
+DEF	The
+CON	family
+NOW	is
+INT	too
+EXS	poor
+SUB	to
+EXS	pay
+IST	back
+DEF	the
+CON	debts
+NIL	.

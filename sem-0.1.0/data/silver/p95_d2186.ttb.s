@@ -1,0 +1,10 @@
+PRO	I
+NOT	never
+EPS	realized
+QUE	how
+QUC	much
+PRO	I
+FUT	would
+EXS	miss
+PRO	you
+NIL	.

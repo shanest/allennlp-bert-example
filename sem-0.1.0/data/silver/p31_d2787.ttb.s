@@ -1,0 +1,10 @@
+PER	Tom
+NIL	,
+PRX	this
+NOW	is
+PER	Mary
+NIL	.
+CON	Where
+NOW	are
+PRO	you
+QUE	?

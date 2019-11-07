@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	thinking
+AND	about
+QUE	what
+PRO	you
+EPS	said
+DEF	the
+ALT	other
+CON	day
+NIL	.

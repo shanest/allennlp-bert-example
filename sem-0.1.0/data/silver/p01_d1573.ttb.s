@@ -1,0 +1,12 @@
+IST	Please
+EXS	tell
+PRO	me
+QUE	how
+PRO	I
+POS	can
+EXS	get
+REL	in
+CON	touch
+REL	with
+PRO	him
+NIL	.

@@ -1,0 +1,9 @@
+PRO	She
+EPS	sold
+HAS	her
+CON	Volkswagen
+COO	and
+EPS	bought
+DIS	a
+CON	Mercedes
+NIL	.

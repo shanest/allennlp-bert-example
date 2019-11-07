@@ -1,0 +1,9 @@
+DEF	The
+CON	cat
+EPS	pressed
+HAS	its
+CON	nose
+REL	against
+DEF	the
+CON	window
+NIL	.

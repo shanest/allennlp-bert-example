@@ -1,0 +1,12 @@
+PRO	I
+FUT	'll
+EXS	postpone
+HAS	my
+CON	trip
+REL	to
+GPE	England
+SUB	until
+PRO	it
+NOW	gets
+EXS	warmer
+NIL	.

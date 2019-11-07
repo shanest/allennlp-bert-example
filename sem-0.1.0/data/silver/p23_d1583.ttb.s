@@ -1,0 +1,14 @@
+PRO	You
+FUT	'd
+EXS	be
+EXS	amazed
+QUE	how
+QUV	much
+CON	beer
+PER	Tom
+ENS	drinks
+SUB	when
+PRO	he
+ENS	goes
+IST	out
+NIL	.

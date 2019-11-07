@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	seen
+PER	Tom
+PRX	this
+EXS	angry
+REL	in
+DIS	a
+IST	long
+CON	time
+NIL	.

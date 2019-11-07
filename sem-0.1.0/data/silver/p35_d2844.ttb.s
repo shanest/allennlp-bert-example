@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+NOT	not
+HAS	your
+CON	problem
+NIL	,
+PRO	it
+NOW	is
+HAS	mine
+NIL	.

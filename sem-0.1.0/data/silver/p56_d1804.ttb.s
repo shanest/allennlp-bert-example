@@ -1,0 +1,10 @@
+AND	Up
+SUB	until
+NOW	now
+NIL	,
+PRO	they
+NOW	've
+PFT	been
+EXS	good
+CON	neighbors
+NIL	.

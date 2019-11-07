@@ -1,0 +1,12 @@
+PRO	He
+EPS	took
+PRO	me
+IST	aside
+REL	in
+CON	order
+REL	to
+CON	whisper
+REL	in
+HAS	my
+CON	ear
+NIL	.

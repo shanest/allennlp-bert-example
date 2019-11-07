@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+REL	in
+DIS	a
+IST	better
+CON	mood
+DIS	an
+CON	hour
+PST	ago
+NIL	.

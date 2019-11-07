@@ -1,0 +1,12 @@
+DEF	The
+CON	girl
+EXG	coming
+REL	in
+REL	at
+DEF	the
+CON	door
+NOW	now
+NOW	is
+AND	always
+IST	late
+NIL	.

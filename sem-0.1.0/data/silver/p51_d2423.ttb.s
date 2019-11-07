@@ -1,0 +1,12 @@
+PRO	She
+EPS	used
+HAS	her
+CON	hand
+NIL	to
+EXS	screen
+DEF	the
+CON	sunlight
+REL	from
+HAS	her
+CON	eyes
+NIL	.

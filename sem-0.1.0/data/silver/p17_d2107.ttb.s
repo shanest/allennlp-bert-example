@@ -1,0 +1,14 @@
+PRO	I
+NOW	beg
+HAS	your
+CON	pardon
+NIL	,
+POS	could
+PRO	you
+EXS	repeat
+QUE	what
+PRO	you
+NOW	've
+IST	just
+EXT	said
+QUE	?

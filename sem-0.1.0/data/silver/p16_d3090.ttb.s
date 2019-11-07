@@ -1,0 +1,17 @@
+AND	Up
+SUB	to
+NOW	now
+NIL	,
+PRO	I
+NOW	've
+NOT	never
+PFT	been
+EXS	successful
+REL	with
+CON	languages
+REL	with
+MOR	more
+MOR	than
+QUC	four
+CON	cases
+NIL	.

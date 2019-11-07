@@ -1,0 +1,17 @@
+PRO	He
+EPS	succeeded
+NIL	,
+NOT	not
+SUB	because
+PRO	he
+EPS	made
+CON	efforts
+NIL	,
+BUT	but
+SUB	because
+PRO	he
+EPS	happened
+SUB	to
+EXS	be
+EXS	lucky
+NIL	.

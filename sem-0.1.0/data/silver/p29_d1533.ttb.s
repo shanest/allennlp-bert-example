@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	care
+QUE	how
+QUC	much
+CON	money
+PRO	you
+NOW	have
+NIL	.

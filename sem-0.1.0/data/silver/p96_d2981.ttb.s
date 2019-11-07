@@ -1,0 +1,10 @@
+PER	Tom
+EPS	put
+HAS	his
+CON	suitcase
+IST	down
+IST	next
+SUB	to
+PER	Mary
+HAS	's
+NIL	.

@@ -1,0 +1,11 @@
+AND	Both
+HAS	my
+ROL	father
+AND	and
+HAS	my
+CON	brother
+NOW	are
+IST	fond
+AND	of
+CON	gambling
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+NOW	have
+EXS	read
+QUC	sixty
+CON	pages
+NIL	,
+SUB	while
+PRO	he
+NOW	has
+EPS	read
+XCL	only
+QUC	ten
+NIL	.

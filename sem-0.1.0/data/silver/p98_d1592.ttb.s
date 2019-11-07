@@ -1,0 +1,13 @@
+QUE	What
+HAS	's
+IST	important
+NOW	now
+NOW	is
+SUB	that
+PRO	you
+ENS	listen
+SUB	to
+QUE	what
+PER	Tom
+ENS	says
+NIL	.

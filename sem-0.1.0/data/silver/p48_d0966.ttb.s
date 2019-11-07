@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+DEF	the
+IST	first
+CON	time
+PRO	I
+NOW	miss
+PER	Taninna
+AND	so
+QUC	much
+NIL	!

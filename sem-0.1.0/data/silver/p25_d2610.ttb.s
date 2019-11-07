@@ -1,0 +1,11 @@
+IMP	If
+DIS	someone
+EPS	paid
+PRO	you
+SUB	to
+EXS	kill
+PER	Tom
+NIL	,
+FUT	would
+PRO	you
+QUE	?

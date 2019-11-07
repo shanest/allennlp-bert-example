@@ -1,0 +1,10 @@
+DEF	The
+CON	doctor
+EPS	advised
+PRO	me
+NOT	not
+SUB	to
+EXS	eat
+INT	too
+QUC	much
+NIL	.

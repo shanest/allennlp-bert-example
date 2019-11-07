@@ -1,0 +1,10 @@
+PRX	Here
+NOW	's
+HAS	your
+CON	money
+NIL	.
+NOW	Now
+PRO	we
+NOW	're
+ENS	quits
+NIL	.

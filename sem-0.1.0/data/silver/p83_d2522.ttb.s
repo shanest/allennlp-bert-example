@@ -1,0 +1,9 @@
+NOT	No
+CON	one
+ENS	wants
+SUB	to
+EXS	talk
+AND	about
+CON	books
+CON	anymore
+NIL	.

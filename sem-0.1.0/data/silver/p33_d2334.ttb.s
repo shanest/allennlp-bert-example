@@ -1,0 +1,9 @@
+PRO	She
+EPS	played
+DIS	an
+IST	important
+CON	part
+REL	in
+DEF	the
+CON	drama
+NIL	.

@@ -1,0 +1,9 @@
+PRO	She
+EPS	raised
+HAS	her
+CON	hand
+NIL	to
+EXS	ask
+DIS	a
+CON	question
+NIL	.

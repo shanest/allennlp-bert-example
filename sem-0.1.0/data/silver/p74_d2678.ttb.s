@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	glad
+PRO	you
+NOW	've
+EXS	gotten
+AND	over
+HAS	your
+CON	cold
+NIL	.

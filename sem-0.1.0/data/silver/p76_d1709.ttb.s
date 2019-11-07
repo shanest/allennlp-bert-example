@@ -1,0 +1,13 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXS	invited
+NIL	,
+COO	so
+PRO	they
+PST	felt
+EXS	obligated
+SUB	to
+EXS	go
+NIL	.

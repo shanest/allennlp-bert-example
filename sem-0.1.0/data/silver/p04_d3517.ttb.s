@@ -1,0 +1,12 @@
+PRO	I
+FUT	would
+IST	just
+EXS	like
+SUB	to
+EXS	thank
+PRO	you
+REL	for
+EXG	translating
+HAS	my
+CON	sentences
+NIL	.

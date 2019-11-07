@@ -1,0 +1,15 @@
+PRO	I
+EXS	buy
+HAS	my
+CON	silver
+REL	from
+DIS	a
+CON	man
+AND	who
+NOW	has
+DIS	a
+HAS	mine
+REL	on
+HAS	his
+CON	property
+NIL	.

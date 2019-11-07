@@ -1,0 +1,12 @@
+PRO	He
+ENS	behaves
+IST	well
+REL	in
+CON	school
+COO	but
+REL	at
+CON	home
+PRO	he
+ENS	causes
+CON	problems
+NIL	.

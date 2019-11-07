@@ -1,0 +1,10 @@
+UNK	There
+NOW	is
+NOT	nothing
+PRO	you
+NEC	have
+SUB	to
+EXS	be
+IST	ashamed
+AND	of
+NIL	.

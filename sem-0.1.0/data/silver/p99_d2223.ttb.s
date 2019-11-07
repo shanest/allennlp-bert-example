@@ -1,0 +1,12 @@
+PRO	It
+EPS	took
+PRO	them
+DIS	a
+CON	month
+SUB	to
+EXS	move
+REL	to
+HAS	their
+IST	new
+CON	office
+NIL	.

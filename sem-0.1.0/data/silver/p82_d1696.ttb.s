@@ -1,0 +1,13 @@
+PRO	I
+NOW	am
+EXS	going
+SUB	to
+EXS	introduce
+PRO	you
+REL	to
+DEF	the
+CON	rest
+AND	of
+DEF	the
+CON	crew
+NIL	.

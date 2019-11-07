@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	had
+DIS	a
+CON	baby
+QUC	three
+CON	weeks
+PST	ago
+NIL	.

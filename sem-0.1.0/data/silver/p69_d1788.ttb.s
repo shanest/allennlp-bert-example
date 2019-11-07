@@ -1,0 +1,11 @@
+PER	Miki
+EPS	fell
+EXS	passionately
+REL	in
+CON	love
+REL	with
+DIS	someone
+PRO	she
+IST	just
+EPS	met
+NIL	.

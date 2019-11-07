@@ -1,0 +1,13 @@
+PER	Tom
+EPS	rolled
+IST	up
+DEF	the
+CON	poster
+COO	and
+EPS	put
+PRO	it
+REL	into
+DIS	a
+CON	cardboard
+CON	tube
+NIL	.

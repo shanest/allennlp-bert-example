@@ -1,0 +1,14 @@
+NIL	"
+AND	Why
+NOW	is
+AND	everything
+COL	white
+QUE	?
+NIL	"
+NIL	"
+AND	Because
+AND	of
+DEF	the
+CON	snow
+NIL	.
+NIL	"

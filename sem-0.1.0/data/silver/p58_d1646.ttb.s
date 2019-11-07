@@ -1,0 +1,9 @@
+PER	Tom
+EPS	escaped
+REL	from
+CON	prison
+AND	about
+DIS	a
+CON	year
+PST	ago
+NIL	.

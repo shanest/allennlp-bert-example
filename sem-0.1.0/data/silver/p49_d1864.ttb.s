@@ -1,0 +1,13 @@
+PRO	You
+NOW	're
+NOT	never
+IST	fully
+EXS	dressed
+NIL	,
+SUB	until
+PRO	you
+EPS	put
+IST	up
+DIS	a
+CON	smile
+NIL	.

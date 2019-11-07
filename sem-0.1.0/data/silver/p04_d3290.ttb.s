@@ -1,0 +1,12 @@
+PRO	She
+ENS	knows
+MOR	better
+MOR	than
+SUB	to
+EXS	spend
+AND	all
+HAS	her
+CON	money
+REL	on
+CON	clothes
+NIL	.

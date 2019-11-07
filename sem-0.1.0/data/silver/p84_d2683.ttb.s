@@ -1,0 +1,11 @@
+PER	Tom
+EPS	said
+SUB	that
+PRO	he
+PST	did
+NOT	n't
+EXS	mean
+SUB	to
+EXS	be
+IST	rude
+NIL	.

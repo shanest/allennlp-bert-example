@@ -1,0 +1,9 @@
+EXS	Bring
+DEF	the
+CON	vase
+DIS	somewhere
+SUB	where
+UNK	there
+NOW	is
+CON	sunlight
+NIL	.

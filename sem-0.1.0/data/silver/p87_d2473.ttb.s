@@ -1,0 +1,9 @@
+PER	Tom
+EPS	put
+DIS	some
+IST	old
+CON	clothes
+REL	in
+DEF	the
+CON	box
+NIL	.

@@ -1,0 +1,10 @@
+IMP	If
+PRO	you
+NOW	are
+DIS	a
+CON	man
+NIL	,
+EXS	behave
+AND	as
+AND	such
+NIL	.

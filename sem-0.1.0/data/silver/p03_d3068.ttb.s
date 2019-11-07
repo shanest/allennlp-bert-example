@@ -1,0 +1,10 @@
+PRO	I
+EPS	went
+REL	to
+GEO	Hokkaido
+SUB	to
+EXS	see
+DEF	the
+EXG	floating
+CON	ice
+NIL	.

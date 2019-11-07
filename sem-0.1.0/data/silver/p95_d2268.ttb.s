@@ -1,0 +1,9 @@
+PER	Yumi
+ENS	goes
+REL	to
+DEF	the
+CON	park
+SUB	to
+EXS	play
+CON	tennis
+NIL	.

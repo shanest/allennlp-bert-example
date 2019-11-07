@@ -1,0 +1,10 @@
+DEF	The
+CON	roar
+AND	of
+HAS	their
+IST	own
+CON	cannons
+PST	was
+INT	extremely
+EXS	loud
+NIL	.

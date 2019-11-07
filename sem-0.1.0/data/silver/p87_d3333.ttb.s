@@ -1,0 +1,11 @@
+PRO	I
+XCL	only
+EPS	found
+IST	out
+AND	about
+AND	that
+DIS	a
+IST	few
+CON	days
+PST	ago
+NIL	.

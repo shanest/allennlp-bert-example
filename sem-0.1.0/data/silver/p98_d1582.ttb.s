@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+IST	up
+SUB	to
+PRO	you
+SUB	to
+EXS	make
+DEF	the
+CON	decision
+NIL	.

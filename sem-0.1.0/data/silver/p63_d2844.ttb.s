@@ -1,0 +1,9 @@
+DOW	Friday
+DEF	the
+CON	13th
+NOW	is
+DIS	an
+GPO	American
+CON	horror
+CON	movie
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+EPS	checked
+HAS	my
+CON	watch
+COO	and
+EPS	realized
+PRO	I
+PST	was
+DIS	an
+CON	hour
+AND	early
+NIL	.

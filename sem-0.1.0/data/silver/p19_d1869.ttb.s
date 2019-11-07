@@ -1,0 +1,13 @@
+DEF	The
+IST	new
+CON	law
+NOW	is
+EXS	expected
+SUB	to
+EXS	cut
+CON	air
+CON	pollution
+REL	by
+QUC	60
+UOM	%
+NIL	.

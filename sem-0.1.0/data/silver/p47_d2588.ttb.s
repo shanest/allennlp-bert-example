@@ -1,0 +1,11 @@
+PER	Tom
+EPS	pointed
+IST	out
+QUV	several
+CON	grammar
+CON	mistakes
+REL	on
+PER	Mary
+HAS	's
+CON	essay
+NIL	.

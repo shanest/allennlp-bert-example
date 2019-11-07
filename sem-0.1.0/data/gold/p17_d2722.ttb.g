@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	want
+NIL	to
+EXS	add
+CON	avocado
+REL	to
+DEF	the
+CON	salad
+QUE	?

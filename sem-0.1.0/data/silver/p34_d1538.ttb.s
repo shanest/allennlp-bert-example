@@ -1,0 +1,13 @@
+IMP	If
+PER	Tom
+PST	had
+PFT	been
+EXS	careful
+NIL	,
+PRX	this
+CON	accident
+FUT	would
+NOT	n't
+EXT	have
+EXS	happened
+NIL	.

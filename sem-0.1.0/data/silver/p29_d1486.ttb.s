@@ -1,0 +1,13 @@
+DEF	The
+CON	room
+NOW	has
+PFT	been
+EXS	transformed
+NOW	now
+SUB	that
+DEF	the
+CON	walls
+NOW	have
+PFT	been
+EXS	painted
+NIL	.

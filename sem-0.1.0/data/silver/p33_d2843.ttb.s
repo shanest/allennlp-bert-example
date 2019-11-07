@@ -1,0 +1,17 @@
+PRO	He
+NOW	is
+EXS	known
+REL	for
+HAS	his
+CON	decency
+NIL	.
+PRO	He
+NOW	has
+NOT	never
+PFT	been
+EXS	involved
+REL	in
+DIS	a
+IST	corrupt
+CON	act
+NIL	.

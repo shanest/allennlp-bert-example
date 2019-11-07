@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+EXS	been
+REL	on
+DEF	the
+CON	city
+CON	council
+REL	for
+QUC	five
+CON	years
+NIL	.

@@ -1,0 +1,11 @@
+PRO	We
+EPS	played
+DEF	the
+CON	game
+REL	in
+CON	accordance
+REL	with
+DEF	the
+IST	new
+CON	rules
+NIL	.

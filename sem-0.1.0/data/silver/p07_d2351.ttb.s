@@ -1,0 +1,11 @@
+PRO	She
+NOW	is
+EXS	coming
+CON	home
+REL	at
+DEF	the
+CON	end
+AND	of
+PRX	this
+CON	month
+NIL	.

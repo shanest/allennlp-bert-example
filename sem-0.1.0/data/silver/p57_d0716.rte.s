@@ -1,0 +1,9 @@
+PER	Aldrich
+PER	Hazen
+PER	Ames
+HAS	's
+CON	wife
+PST	was
+EXS	called
+PER	Maria
+NIL	.

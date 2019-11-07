@@ -1,0 +1,13 @@
+PER	Rodrigo
+HAS	's
+CON	family
+EPS	went
+REL	to
+DEF	the
+CON	dog
+CON	pound
+SUB	to
+EXS	adopt
+DIS	a
+CON	dog
+NIL	.

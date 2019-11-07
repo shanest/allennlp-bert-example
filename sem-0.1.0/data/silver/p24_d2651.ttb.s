@@ -1,0 +1,9 @@
+PRO	I
+NOW	guess
+PRO	I
+NEC	should
+NOT	n't
+EXS	be
+INT	too
+EXS	surprised
+NIL	.

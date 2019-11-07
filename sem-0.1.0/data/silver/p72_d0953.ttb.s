@@ -1,0 +1,10 @@
+PRO	It
+PST	was
+NOT	not
+SUB	until
+PRO	I
+EPS	called
+SUB	that
+PRO	he
+EPS	came
+NIL	.

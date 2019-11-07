@@ -1,0 +1,13 @@
+PRO	We
+NOW	're
+EXG	playing
+CON	tag
+NIL	.
+NOW	Do
+PRO	you
+ENS	want
+SUB	to
+EXS	play
+REL	with
+PRO	us
+QUE	?

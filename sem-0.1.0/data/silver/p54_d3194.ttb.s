@@ -1,0 +1,10 @@
+PER	Tom
+EPS	wondered
+SUB	where
+PRO	he
+POS	might
+EXT	have
+EXS	put
+HAS	his
+CON	passport
+NIL	.

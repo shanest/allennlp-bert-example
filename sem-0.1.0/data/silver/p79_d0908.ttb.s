@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	studying
+PRO	it
+REL	for
+QUC	five
+CON	years
+NIL	.

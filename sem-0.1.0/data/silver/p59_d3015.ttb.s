@@ -1,0 +1,14 @@
+AND	Even
+SUB	when
+PRO	I
+PST	was
+DIS	a
+CON	child
+NIL	,
+PRO	I
+PST	was
+IST	able
+SUB	to
+EXS	swim
+IST	well
+NIL	.

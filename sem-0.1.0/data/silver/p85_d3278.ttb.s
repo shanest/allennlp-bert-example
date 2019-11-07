@@ -1,0 +1,10 @@
+DIS	A
+CON	ruler
+NOW	helps
+CON	one
+SUB	to
+EXS	draw
+DIS	a
+IST	straight
+CON	line
+NIL	.

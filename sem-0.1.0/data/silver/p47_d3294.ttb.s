@@ -1,0 +1,11 @@
+PER	Tom
+EPS	called
+SUB	to
+EXS	say
+PRO	he
+POS	could
+NOT	n't
+EXS	attend
+DEF	the
+CON	meeting
+NIL	.

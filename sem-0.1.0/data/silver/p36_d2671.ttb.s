@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	remember
+SUB	when
+AND	and
+SUB	where
+PRO	I
+EPS	met
+PRO	you
+NIL	.

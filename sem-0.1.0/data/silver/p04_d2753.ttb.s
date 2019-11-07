@@ -1,0 +1,9 @@
+PRO	I
+PST	'd
+ALT	also
+EXS	like
+SUB	to
+EXS	have
+DIS	a
+EXS	try
+NIL	.

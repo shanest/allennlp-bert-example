@@ -1,0 +1,16 @@
+PRO	It
+NOW	is
+NOW	now
+DIS	a
+IST	fully
+EXS	accepted
+CON	idea
+AND	that
+AND	all
+CON	occupations
+NEC	should
+EXS	be
+EXS	open
+REL	to
+CON	women
+NIL	.

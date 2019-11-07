@@ -1,0 +1,11 @@
+AND	Even
+IMP	if
+PRO	you
+EXS	sing
+IST	out
+AND	of
+CON	tune
+NIL	,
+EXS	join
+PRO	us
+NIL	.

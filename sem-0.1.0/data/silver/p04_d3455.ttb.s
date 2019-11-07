@@ -1,0 +1,10 @@
+FUT	Will
+PRO	you
+EXS	give
+PRO	me
+DEF	the
+CON	recipe
+REL	for
+HAS	your
+CON	salad
+QUE	?

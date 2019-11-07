@@ -1,0 +1,11 @@
+EXG	Driving
+IST	carefully
+NIL	,
+PRO	you
+FUT	'll
+EXS	be
+IST	able
+SUB	to
+EXS	avoid
+CON	accidents
+NIL	.

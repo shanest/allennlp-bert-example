@@ -1,0 +1,9 @@
+PRO	We
+EPS	spent
+DEF	the
+IST	entire
+CON	day
+REL	in
+GEO	Yoyogi
+GEO	Park
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	used
+SUB	to
+EXS	sleeping
+REL	in
+DIS	a
+CON	tent
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+PST	had
+NOT	n't
+EXS	waited
+IST	long
+SUB	before
+PRO	he
+EPS	came
+REL	along
+NIL	.

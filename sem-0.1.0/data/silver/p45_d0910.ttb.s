@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+EXS	impossible
+SUB	to
+EXS	get
+PRO	him
+SUB	to
+EXS	understand
+DEF	the
+IST	new
+CON	theory
+NIL	.

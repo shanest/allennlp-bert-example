@@ -1,0 +1,11 @@
+ITJ	Oh
+CON	Zeus
+EQU	,
+DEF	the
+CON	farm
+NOW	does
+NOT	not
+EXS	provide
+QUC	much
+CON	grain
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+IST	obvious
+SUB	that
+PRO	she
+NOW	does
+NOT	n't
+EXS	care
+AND	about
+PRO	us
+NIL	.

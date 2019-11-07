@@ -1,0 +1,9 @@
+EXS	Ask
+PER	Trang
+IMP	if
+PRO	she
+NOW	's
+EXS	going
+IST	out
+CON	tonight
+NIL	.

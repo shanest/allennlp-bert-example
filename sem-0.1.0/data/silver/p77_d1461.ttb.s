@@ -1,0 +1,9 @@
+PRO	I
+EPS	heard
+PRO	you
+NOW	are
+EXS	going
+SUB	to
+EXS	get
+EXS	married
+NIL	.

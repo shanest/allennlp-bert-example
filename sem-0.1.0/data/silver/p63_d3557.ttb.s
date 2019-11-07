@@ -1,0 +1,10 @@
+PER	Tom
+EPS	thought
+SUB	that
+PER	Mary
+FUT	would
+NOT	n't
+EXS	like
+GPO	Malaysian
+CON	food
+NIL	.

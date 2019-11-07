@@ -1,0 +1,15 @@
+DEF	The
+CON	bird
+EPS	picked
+IST	up
+DEF	the
+CON	twig
+REL	with
+HAS	its
+CON	beak
+COO	and
+EPS	flew
+REL	to
+HAS	its
+CON	nest
+NIL	.

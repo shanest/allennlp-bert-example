@@ -1,0 +1,12 @@
+PRO	I
+NOW	think
+PRO	you
+NEC	should
+EXS	tell
+HAS	your
+CON	parents
+SUB	that
+PRO	we
+NOW	're
+EXS	married
+NIL	.

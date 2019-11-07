@@ -1,0 +1,10 @@
+PRO	They
+EPS	sold
+HAS	their
+CON	farm
+COO	and
+EPS	moved
+REL	to
+DEF	the
+CON	city
+NIL	.

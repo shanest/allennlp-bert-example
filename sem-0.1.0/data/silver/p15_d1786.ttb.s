@@ -1,0 +1,10 @@
+CON	None
+AND	of
+PER	Tom
+HAS	's
+CON	classmates
+EPS	offered
+SUB	to
+EXS	help
+PRO	him
+NIL	.

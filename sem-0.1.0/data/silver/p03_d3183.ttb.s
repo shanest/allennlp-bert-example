@@ -1,0 +1,16 @@
+PRO	He
+EPS	called
+PRO	me
+REL	about
+QUC	twenty
+UOM	minutes
+PST	ago
+AND	and
+EPS	said
+SUB	that
+PRO	he
+PST	was
+REL	on
+HAS	his
+CON	way
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+IST	accidentally
+EPS	walked
+REL	into
+DIS	a
+CON	room
+IST	full
+AND	of
+CON	people
+EXG	wearing
+CON	suits
+NIL	.

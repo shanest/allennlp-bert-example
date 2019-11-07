@@ -1,0 +1,13 @@
+REL	In
+GEO	Japan
+NIL	,
+PRO	it
+NOW	is
+IST	proper
+SUB	to
+EXS	bow
+SUB	when
+PRO	you
+NOW	meet
+DIS	someone
+NIL	.

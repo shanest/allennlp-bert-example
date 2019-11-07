@@ -1,0 +1,11 @@
+PRO	She
+EPS	regretted
+IST	deeply
+SUB	when
+PRO	she
+EPS	looked
+IST	back
+REL	on
+HAS	her
+CON	life
+NIL	.

@@ -1,0 +1,16 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	what
+PRO	he
+HAS	's
+EXG	doing
+NOW	now
+NIL	,
+COO	but
+PRO	it
+HAS	's
+NOT	not
+HAS	her
+NIL	.

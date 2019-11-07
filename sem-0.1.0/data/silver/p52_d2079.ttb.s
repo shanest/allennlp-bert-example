@@ -1,0 +1,9 @@
+PRO	He
+EPS	wished
+PRO	she
+PST	had
+IST	more
+CON	time
+REL	for
+PRO	him
+NIL	.

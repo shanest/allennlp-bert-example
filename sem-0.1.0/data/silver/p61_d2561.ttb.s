@@ -1,0 +1,13 @@
+PRO	He
+NOW	is
+NOT	n't
+IST	back
+ALT	yet
+NIL	.
+PRO	He
+POS	may
+EXT	have
+EXS	had
+DIS	an
+CON	accident
+NIL	.

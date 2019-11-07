@@ -1,0 +1,12 @@
+PRO	I
+ENS	think
+PER	Beethoven
+NOW	is
+AND	as
+IST	great
+DIS	a
+CON	composer
+AND	as
+IST	ever
+EPS	lived
+NIL	.

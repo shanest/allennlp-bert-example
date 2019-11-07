@@ -1,0 +1,12 @@
+PRO	I
+NOW	think
+PER	Tom
+NOW	is
+INT	too
+IST	old
+SUB	to
+EXS	be
+EXS	dating
+HAS	my
+CON	daughter
+NIL	.

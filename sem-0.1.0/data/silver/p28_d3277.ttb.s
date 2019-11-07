@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+IST	natural
+SUB	that
+PRO	he
+NEC	should
+ENS	refuse
+SUB	that
+EXS	request
+NIL	.

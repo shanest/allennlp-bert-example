@@ -1,0 +1,13 @@
+PRO	I
+EPS	shut
+DEF	the
+CON	door
+IST	quietly
+AND	so
+AND	as
+NOT	not
+SUB	to
+EXS	wake
+DEF	the
+CON	baby
+NIL	.

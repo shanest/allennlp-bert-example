@@ -1,0 +1,9 @@
+PRO	He
+PST	was
+EXS	promoted
+REL	to
+CON	colonel
+QUC	two
+CON	years
+PST	ago
+NIL	.

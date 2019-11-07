@@ -1,0 +1,9 @@
+HAS	My
+ROL	grandfather
+ENS	goes
+REL	for
+DIS	a
+CON	walk
+AND	every
+CON	day
+NIL	.

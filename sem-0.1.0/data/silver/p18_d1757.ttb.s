@@ -1,0 +1,9 @@
+PRO	He
+EXS	amazed
+AND	everyone
+REL	by
+EXG	passing
+HAS	his
+CON	driving
+CON	test
+NIL	.

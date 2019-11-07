@@ -1,0 +1,14 @@
+AND	Even
+IMP	if
+AND	all
+ENS	goes
+IST	well
+NIL	,
+PRO	we
+IST	still
+POS	ca
+NOT	n't
+EXS	finish
+REL	before
+DOW	Saturday
+NIL	.

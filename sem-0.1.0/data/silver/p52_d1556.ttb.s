@@ -1,0 +1,12 @@
+GPE	Japan
+NOW	has
+PFT	been
+EXS	sending
+HAS	her
+CON	athletes
+REL	to
+DEF	the
+CON	Olympics
+REL	since
+YOC	1912
+NIL	.

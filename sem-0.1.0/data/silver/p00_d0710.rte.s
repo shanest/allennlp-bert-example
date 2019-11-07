@@ -1,0 +1,19 @@
+DEF	The
+ORG	World Court
+ENS	has
+NOT	no
+CON	power
+SUB	to
+EXS	enforce
+HAS	its
+CON	orders
+COO	but
+HAS	its
+CON	decisions
+NOW	have
+IST	traditionally
+EXS	carried
+DIS	some
+IST	diplomatic
+CON	weight
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+PST	was
+EXS	looking
+AND	around
+AND	as
+IMP	if
+PRO	he
+PST	was
+EXG	expecting
+DIS	someone
+NIL	.

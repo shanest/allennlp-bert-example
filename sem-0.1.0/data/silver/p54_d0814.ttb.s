@@ -1,0 +1,16 @@
+PRO	I
+NOW	have
+QUC	two
+CON	children
+NIL	.
+CON	One
+NOW	is
+DIS	a
+CON	boy
+AND	and
+DEF	the
+ALT	other
+NOW	is
+DIS	a
+CON	girl
+NIL	.

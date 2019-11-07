@@ -1,0 +1,9 @@
+SUB	When
+PST	was
+PRO	it
+SUB	that
+PRO	you
+IST	first
+EPS	met
+PRO	her
+QUE	?

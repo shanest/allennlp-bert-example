@@ -1,0 +1,9 @@
+CON	Looking
+IST	up
+NIL	,
+PRO	I
+EPS	saw
+PRO	him
+ENS	come
+REL	in
+NIL	.

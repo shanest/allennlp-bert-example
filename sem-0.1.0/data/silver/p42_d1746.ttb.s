@@ -1,0 +1,11 @@
+CON	Sorry
+NIL	,
+PRO	I
+IST	just
+EPS	got
+HAS	my
+CON	hair
+EPS	cut
+QUC	10
+UOM	cm
+NIL	.

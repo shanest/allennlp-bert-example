@@ -1,0 +1,9 @@
+DEF	The
+TOP	most
+IST	beautiful
+CON	flowers
+NOW	have
+DEF	the
+IST	sharpest
+CON	thorns
+NIL	.

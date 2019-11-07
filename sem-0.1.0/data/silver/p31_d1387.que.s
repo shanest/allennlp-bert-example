@@ -1,0 +1,12 @@
+QUE	What
+PST	was
+DEF	the
+CON	extent
+AND	of
+DEF	the
+CON	earthquake
+SUB	that
+EXS	hit
+IST	northern
+GPE	Japan
+QUE	?

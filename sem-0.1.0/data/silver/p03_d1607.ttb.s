@@ -1,0 +1,10 @@
+PRO	She
+PST	was
+EXG	approaching
+QUC	thirty
+SUB	when
+PRO	I
+IST	first
+EPS	met
+PRO	her
+NIL	.

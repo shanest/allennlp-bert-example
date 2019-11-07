@@ -1,0 +1,11 @@
+REL	For
+HAS	their
+CON	honeymoon
+PRO	they
+EPS	took
+DIS	a
+CON	voyage
+AND	around
+DEF	the
+CON	world
+NIL	.

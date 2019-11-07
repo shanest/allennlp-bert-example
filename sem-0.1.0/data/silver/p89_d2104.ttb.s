@@ -1,0 +1,12 @@
+AND	Why
+PST	did
+PRO	you
+EXS	decide
+SUB	to
+NOT	not
+EXS	go
+REL	to
+GEO	Boston
+REL	with
+PER	Tom
+QUE	?

@@ -1,0 +1,14 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	tell
+HAS	her
+NOW	now
+NIL	.
+PRO	It
+HAS	's
+NOT	not
+SUB	that
+EXS	simple
+CON	anymore
+NIL	.

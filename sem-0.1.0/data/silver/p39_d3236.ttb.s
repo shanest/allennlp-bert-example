@@ -1,0 +1,11 @@
+UNK	There
+NOW	are
+NOT	no
+CON	signs
+AND	of
+CON	trauma
+REL	on
+PER	Tom
+HAS	's
+CON	corpse
+NIL	.

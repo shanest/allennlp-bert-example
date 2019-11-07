@@ -1,0 +1,9 @@
+PRO	He
+EPS	interrupted
+HAS	his
+CON	work
+SUB	to
+EXS	answer
+DEF	the
+CON	phone
+NIL	.

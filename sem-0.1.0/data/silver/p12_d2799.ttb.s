@@ -1,0 +1,9 @@
+PRO	I
+EPS	noticed
+SUB	that
+PRO	she
+PST	was
+EXG	wearing
+IST	new
+CON	glasses
+NIL	.

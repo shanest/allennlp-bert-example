@@ -1,0 +1,12 @@
+PRO	I
+PST	had
+PFT	been
+IST	up
+AND	all
+CON	night
+EXS	trying
+SUB	to
+EXS	finish
+DEF	the
+CON	presentation
+NIL	.

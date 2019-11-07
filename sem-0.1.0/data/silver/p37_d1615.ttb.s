@@ -1,0 +1,9 @@
+AND	Both
+AND	of
+DEF	the
+CON	girls
+NOW	are
+EXS	wearing
+COL	white
+CON	suits
+NIL	.

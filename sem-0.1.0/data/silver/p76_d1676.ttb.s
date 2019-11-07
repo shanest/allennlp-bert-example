@@ -1,0 +1,10 @@
+DEF	The
+CON	woman
+EPS	suspected
+SUB	that
+HAS	her
+CON	son
+PST	was
+EXS	using
+CON	drugs
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+ENS	love
+PRO	you
+MOR	more
+MOR	than
+PRO	he
+ENS	loves
+PRO	you
+NIL	.

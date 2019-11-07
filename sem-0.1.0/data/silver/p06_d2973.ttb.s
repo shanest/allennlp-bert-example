@@ -1,0 +1,13 @@
+HAS	Our
+CON	house
+NOW	is
+IST	nice
+NIL	,
+BUT	but
+PRO	I
+IST	still
+ENS	miss
+DEF	the
+IST	old
+CON	one
+NIL	.

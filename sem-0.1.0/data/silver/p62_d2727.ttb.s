@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	thinking
+SUB	that
+PRO	I
+NEC	should
+EXS	take
+GPO	French
+IST	next
+CON	year
+NIL	.

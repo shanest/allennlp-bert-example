@@ -1,0 +1,10 @@
+POS	Maybe
+PRO	I
+POS	can
+EXS	persuade
+PER	Tom
+SUB	to
+EXS	talk
+REL	to
+PER	Mary
+NIL	.

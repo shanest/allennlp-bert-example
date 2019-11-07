@@ -1,0 +1,19 @@
+PER	Tom
+EPS	put
+IST	together
+QUC	one million
+UOM	dollars
+REL	in
+IST	unmarked
+NIL	,
+EXS	used
+CON	bills
+AND	as
+DEF	the
+CON	kidnappers
+PST	had
+EXS	told
+PRO	him
+SUB	to
+EXS	do
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sleepy
+NIL	,
+COO	so
+PRO	I
+NOW	'm
+EXS	going
+REL	to
+CON	bed
+NIL	.

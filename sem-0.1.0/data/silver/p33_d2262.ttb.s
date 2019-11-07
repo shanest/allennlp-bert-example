@@ -1,0 +1,11 @@
+PRO	We
+PST	had
+DIS	an
+IST	early
+CON	lunch
+COO	and
+EXS	set
+IST	out
+REL	at
+CLO	12:30
+NIL	.

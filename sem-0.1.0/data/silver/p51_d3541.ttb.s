@@ -1,0 +1,9 @@
+ROL	Mr.
+PER	White
+FUT	will
+EXS	arrive
+REL	in
+GPE	Tokyo
+REL	at
+CLO	10:30
+NIL	.

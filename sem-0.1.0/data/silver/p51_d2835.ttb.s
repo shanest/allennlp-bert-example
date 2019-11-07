@@ -1,0 +1,14 @@
+DEF	The
+CON	police
+NOW	have
+NOT	n't
+ALT	yet
+EXS	caught
+DEF	the
+CON	person
+AND	who
+EXS	committed
+PRX	this
+IST	hideous
+CON	crime
+NIL	.

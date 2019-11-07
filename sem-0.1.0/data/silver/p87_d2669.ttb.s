@@ -1,0 +1,15 @@
+ROL	Mr.
+PER	Smith
+EPS	spoke
+UNK	so
+IST	quickly
+SUB	that
+PRO	I
+POS	could
+NOT	n't
+EXS	understand
+QUE	what
+PRO	he
+PST	was
+EXS	saying
+NIL	.

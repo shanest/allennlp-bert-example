@@ -1,0 +1,11 @@
+QUE	What
+NOW	's
+AND	all
+DST	that
+CON	noise
+QUE	?
+QUE	What
+HAS	's
+EXG	going
+REL	on
+QUE	?

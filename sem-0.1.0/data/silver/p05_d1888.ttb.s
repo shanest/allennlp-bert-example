@@ -1,0 +1,11 @@
+ORG	Police
+CON	brutality
+NOW	has
+EXS	been
+DIS	a
+CON	problem
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

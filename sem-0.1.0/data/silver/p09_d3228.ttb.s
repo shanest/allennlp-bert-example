@@ -1,0 +1,11 @@
+PRO	It
+ENS	seems
+SUB	that
+DEF	the
+CON	computer
+PST	was
+EXS	infected
+REL	by
+DIS	a
+CON	virus
+NIL	.

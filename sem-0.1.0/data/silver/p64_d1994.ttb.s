@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	touched
+DIS	a
+CON	tennis
+CON	racket
+REL	in
+CON	years
+NIL	.

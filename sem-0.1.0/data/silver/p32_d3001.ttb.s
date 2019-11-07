@@ -1,0 +1,12 @@
+PER	Beth
+EPS	accused
+HAS	her
+ROL	sister
+EQU	,
+PER	Sally
+NIL	,
+AND	of
+EXS	tearing
+HAS	her
+CON	scarf
+NIL	.

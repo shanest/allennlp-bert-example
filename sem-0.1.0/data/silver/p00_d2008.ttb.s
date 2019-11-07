@@ -1,0 +1,17 @@
+NIL	"
+NOW	Is
+SUB	that
+DIS	a
+ORG	Ferrari
+DIS	or
+DIS	a
+CON	Lamborghini
+QUE	?
+NIL	"
+NIL	"
+PRO	It
+ENS	's
+DIS	a
+CON	Maserati
+NIL	.
+NIL	"

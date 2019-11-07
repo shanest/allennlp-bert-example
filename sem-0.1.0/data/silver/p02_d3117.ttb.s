@@ -1,0 +1,11 @@
+PER	Tom
+EPS	came
+REL	to
+GPE	Boston
+SUB	when
+PRO	he
+PST	was
+QUC	thirteen
+CON	years
+COM	old
+NIL	.

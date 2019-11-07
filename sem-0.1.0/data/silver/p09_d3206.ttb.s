@@ -1,0 +1,15 @@
+PRO	It
+NOW	's
+IST	cruel
+SUB	to
+EXS	put
+DIS	a
+IST	live
+CON	lobster
+REL	into
+DIS	a
+CON	pot
+AND	of
+EXG	boiling
+CON	water
+NIL	.

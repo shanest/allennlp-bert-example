@@ -1,0 +1,14 @@
+DEF	The
+EXS	prosecuting
+CON	attorney
+POS	ca
+NOT	n't
+EXS	prove
+SUB	that
+DIS	somebody
+AND	else
+PST	did
+NOT	n't
+EXS	do
+PRO	it
+NIL	.

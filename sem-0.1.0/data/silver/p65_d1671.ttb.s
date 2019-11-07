@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+INT	so
+IST	glad
+SUB	that
+PRO	you
+EPS	asked
+PRO	me
+SUB	to
+EXS	give
+DEF	the
+CON	opening
+CON	speech
+CON	tonight
+NIL	.

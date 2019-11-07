@@ -1,0 +1,9 @@
+PRO	He
+EPS	bought
+CON	eggs
+AND	and
+CON	milk
+REL	from
+DIS	a
+ROL	farmer
+NIL	.

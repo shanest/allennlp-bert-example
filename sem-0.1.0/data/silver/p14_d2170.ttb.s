@@ -1,0 +1,10 @@
+PER	Tom
+EPS	got
+CON	diabetes
+REL	from
+EXG	drinking
+INT	too
+QUV	many
+CON	sports
+ENS	drinks
+NIL	.

@@ -1,0 +1,14 @@
+AND	Closer
+CON	examination
+EPS	revealed
+AND	that
+DEF	the
+CON	skull
+PST	had
+PFT	been
+EXS	crushed
+REL	by
+DIS	some
+IST	heavy
+CON	blow
+NIL	.

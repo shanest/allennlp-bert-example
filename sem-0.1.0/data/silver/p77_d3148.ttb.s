@@ -1,0 +1,11 @@
+DEF	The
+ROL	lawyer
+EPS	appealed
+REL	to
+DEF	the
+CON	jury
+HAS	's
+CON	sense
+AND	of
+CON	justice
+NIL	.

@@ -1,0 +1,15 @@
+AND	All
+CON	men
+ENS	die
+NIL	.
+PER	Tom
+NOW	is
+DIS	a
+CON	man
+NIL	.
+SUB	Therefore
+NIL	,
+PER	Tom
+FUT	will
+EXS	die
+NIL	.

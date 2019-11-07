@@ -1,0 +1,12 @@
+IMP	If
+PRO	you
+POS	ca
+NOT	n't
+EXS	come
+NIL	,
+EXS	send
+DIS	someone
+REL	in
+HAS	your
+CON	stead
+NIL	.

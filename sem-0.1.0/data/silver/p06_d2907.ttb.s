@@ -1,0 +1,10 @@
+PER	Tom
+EPS	showed
+PRO	me
+DIS	a
+EXS	drawing
+PRO	he
+PST	did
+AND	of
+PER	Mary
+NIL	.

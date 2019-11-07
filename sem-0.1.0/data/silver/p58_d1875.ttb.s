@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	going
+SUB	to
+EXS	swim
+REL	in
+DEF	the
+CON	pool
+NIL	.

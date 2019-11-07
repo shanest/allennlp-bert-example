@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	gotten
+AND	over
+HAS	my
+IST	bad
+CON	cold
+ALT	yet
+NIL	.

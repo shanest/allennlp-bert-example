@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXG	looking
+REL	out
+DEF	the
+CON	window
+EQU	right
+NOW	now
+NIL	.

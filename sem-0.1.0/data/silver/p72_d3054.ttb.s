@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+IST	just
+SUB	that
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	die
+NOW	today
+NIL	.

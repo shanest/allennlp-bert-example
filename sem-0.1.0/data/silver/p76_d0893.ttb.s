@@ -1,0 +1,10 @@
+GPO	German
+CON	forces
+EPS	attacked
+GPO	British
+CON	soldiers
+AND	near
+GEO	Amiens
+EQU	,
+GPE	France
+NIL	.

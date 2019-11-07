@@ -1,0 +1,12 @@
+PER	Tom
+EPS	took
+DIS	an
+CON	umbrella
+REL	to
+CON	school
+NIL	,
+COO	but
+PER	Mary
+PST	did
+NOT	n't
+NIL	.

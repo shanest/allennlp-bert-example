@@ -1,0 +1,9 @@
+QUE	What
+EPS	happened
+REL	to
+DEF	the
+CON	money
+PRO	I
+EPS	gave
+PRO	you
+QUE	?

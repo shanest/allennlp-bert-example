@@ -1,0 +1,13 @@
+NIL	There
+NOW	is
+NOT	no
+EXG	knowing
+SUB	when
+DIS	a
+IST	severe
+CON	earthquake
+FUT	will
+EXS	happen
+REL	in
+GPE	Tokyo
+NIL	.

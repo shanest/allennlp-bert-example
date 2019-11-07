@@ -1,0 +1,14 @@
+PRO	He
+PST	was
+IST	unable
+SUB	to
+IST	completely
+EXS	give
+IST	up
+REL	on
+HAS	his
+CON	hopes
+AND	of
+EXS	marrying
+PRO	her
+NIL	.

@@ -1,0 +1,14 @@
+PRO	I
+ENS	owe
+PER	Mary
+DIS	some
+CON	money
+AND	and
+NEC	must
+EXS	pay
+HAS	her
+IST	back
+REL	by
+IST	next
+DOW	Monday
+NIL	.

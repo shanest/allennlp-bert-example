@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+EXS	going
+SUB	to
+EXS	be
+EXS	tired
+SUB	when
+PRO	he
+NOW	gets
+CON	home
+NIL	.

@@ -1,0 +1,9 @@
+PRX	This
+CON	style
+AND	of
+CON	cooking
+NOW	is
+EXS	peculiar
+REL	to
+GPE	China
+NIL	.

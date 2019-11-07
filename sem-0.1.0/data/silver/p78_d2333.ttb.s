@@ -1,0 +1,13 @@
+DEF	The
+ROL	singer
+NOW	is
+EXS	famous
+NOT	not
+XCL	only
+REL	in
+GPE	Japan
+BUT	but
+ALT	also
+REL	in
+GEO	Europe
+NIL	.

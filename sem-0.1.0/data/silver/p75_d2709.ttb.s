@@ -1,0 +1,9 @@
+PER	Tom
+EPS	slept
+QUC	much
+IST	longer
+AND	than
+PRO	he
+PST	had
+EXS	intended
+NIL	.

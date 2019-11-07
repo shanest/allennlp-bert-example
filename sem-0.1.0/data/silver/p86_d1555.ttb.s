@@ -1,0 +1,11 @@
+QUC	Two
+CON	months
+PST	ago
+PRO	I
+PST	did
+EXS	work
+CON	experience
+REL	in
+DIS	a
+CON	factory
+NIL	.

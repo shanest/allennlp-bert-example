@@ -1,0 +1,16 @@
+IMP	If
+PRO	I
+EPS	cared
+AND	about
+AND	all
+HAS	your
+CON	criticism
+NIL	,
+PRO	I
+FUT	would
+NOT	n't
+EXS	be
+SUB	where
+PRO	I
+NOW	am
+NIL	.

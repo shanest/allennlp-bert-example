@@ -1,0 +1,12 @@
+PRX	This
+NOW	is
+DEF	the
+CON	coffee
+CON	shop
+PRO	I
+IST	first
+EPS	met
+HAS	my
+CON	wife
+REL	in
+NIL	.

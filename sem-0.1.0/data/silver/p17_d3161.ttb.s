@@ -1,0 +1,9 @@
+AND	Everybody
+ENS	knows
+DEF	the
+CON	moon
+NOW	is
+EXS	made
+AND	of
+CON	cheese
+NIL	.

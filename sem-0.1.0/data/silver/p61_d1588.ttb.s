@@ -1,0 +1,11 @@
+PER	Tom
+FUT	wo
+NOT	n't
+EXS	admit
+SUB	that
+PRO	he
+NOW	's
+EXS	done
+AND	anything
+EXS	wrong
+NIL	.

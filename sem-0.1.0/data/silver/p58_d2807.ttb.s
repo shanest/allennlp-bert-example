@@ -1,0 +1,9 @@
+PRO	I
+EPS	saw
+DIS	a
+CON	figure
+EXG	approaching
+REL	in
+DEF	the
+CON	distance
+NIL	.

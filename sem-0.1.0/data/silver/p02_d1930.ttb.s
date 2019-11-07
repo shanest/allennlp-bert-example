@@ -1,0 +1,10 @@
+QUE	How
+QUV	many
+AND	of
+PRO	you
+NOW	are
+NIL	there
+REL	at
+DEF	the
+CON	base
+QUE	?

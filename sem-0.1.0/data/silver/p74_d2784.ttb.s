@@ -1,0 +1,11 @@
+EXS	Did
+PRO	you
+EXS	know
+SUB	that
+DIS	some
+CON	foxes
+EPS	lived
+REL	on
+PRX	this
+CON	mountain
+QUE	?

@@ -1,0 +1,17 @@
+PRO	He
+NOW	's
+EXS	supposed
+SUB	to
+EXS	be
+EXS	living
+REL	in
+PER	Nagano
+NIL	.
+QUE	What
+NOW	's
+PRO	he
+EXS	doing
+REL	at
+GEO	Tokyo
+CON	station
+QUE	?

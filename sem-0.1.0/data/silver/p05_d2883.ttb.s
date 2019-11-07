@@ -1,0 +1,11 @@
+DEF	The
+CON	dog
+EPS	ate
+DEF	the
+IST	stale
+CON	bread
+COO	and
+PST	did
+NOT	n't
+EXS	die
+NIL	.

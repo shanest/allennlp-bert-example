@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	got
+AND	all
+DEF	the
+CON	time
+REL	in
+DEF	the
+CON	world
+NIL	.

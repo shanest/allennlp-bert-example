@@ -1,0 +1,13 @@
+PER	Tom
+NOW	has
+NOT	n't
+PFT	been
+IST	able
+SUB	to
+EXS	go
+REL	to
+CON	school
+REL	for
+QUC	three
+CON	weeks
+NIL	.

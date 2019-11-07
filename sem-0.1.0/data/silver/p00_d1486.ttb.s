@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+IST	still
+IST	just
+AND	as
+IST	friendly
+SUB	as
+PRO	he
+EPS	used
+NIL	to
+EXS	be
+NIL	.

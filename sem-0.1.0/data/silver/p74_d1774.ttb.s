@@ -1,0 +1,13 @@
+PRO	He
+NOW	's
+INT	very
+EXS	shy
+NIL	.
+PRO	He
+ENS	says
+PRO	he
+ENS	wants
+SUB	to
+EXS	see
+PRO	you
+NIL	.

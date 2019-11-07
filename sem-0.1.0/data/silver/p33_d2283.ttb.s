@@ -1,0 +1,11 @@
+DEF	The
+CON	town
+NOW	is
+EXS	located
+REL	in
+DEF	the
+IST	extreme
+CON	north
+AND	of
+GPE	Japan
+NIL	.

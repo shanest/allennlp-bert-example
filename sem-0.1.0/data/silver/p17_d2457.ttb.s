@@ -1,0 +1,10 @@
+HAS	My
+ROL	mother
+AND	and
+ROL	father
+NOW	are
+NOT	n't
+CON	home
+AND	right
+NOW	now
+NIL	.

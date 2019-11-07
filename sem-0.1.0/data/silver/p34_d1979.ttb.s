@@ -1,0 +1,14 @@
+PRO	I
+NOW	think
+PRO	I
+NOW	have
+EXS	done
+HAS	my
+CON	bit
+COO	;
+PRO	it
+HAS	's
+HAS	your
+CON	turn
+NOW	now
+NIL	.

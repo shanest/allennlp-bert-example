@@ -1,0 +1,17 @@
+DEF	The
+CON	venom
+CON	clamours
+AND	of
+DIS	a
+IST	jealous
+CON	woman
+CON	poison
+MOR	more
+IST	deadly
+AND	than
+DIS	a
+IST	mad
+CON	dog
+AND	’s
+CON	tooth
+NIL	.

@@ -1,0 +1,11 @@
+ROL	Mr.
+PER	White
+PST	was
+DEF	the
+CON	manager
+AND	of
+DIS	a
+CON	hotel
+REL	in
+GEO	Springfield
+NIL	.

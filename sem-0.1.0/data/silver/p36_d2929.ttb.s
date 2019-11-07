@@ -1,0 +1,10 @@
+PRO	He
+EPS	gave
+DIS	an
+CON	account
+AND	of
+QUE	how
+PRO	he
+PST	had
+EXS	escaped
+NIL	.

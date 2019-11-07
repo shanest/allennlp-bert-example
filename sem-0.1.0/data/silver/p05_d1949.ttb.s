@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	learning
+SUB	to
+EXS	write
+CON	programs
+REL	in
+CON	JavaScript
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+EPS	took
+IST	quite
+DIS	a
+CON	while
+REL	to
+CON	sort
+AND	out
+AND	all
+HAS	our
+CON	luggage
+NIL	.

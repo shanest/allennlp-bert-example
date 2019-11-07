@@ -1,0 +1,16 @@
+PER	Europa
+AND	and
+PER	Enceladus
+NOW	are
+EXS	thought
+SUB	to
+EXS	have
+DIS	an
+CON	ocean
+AND	of
+IST	liquid
+CON	water
+AND	beneath
+HAS	their
+CON	surface
+NIL	.

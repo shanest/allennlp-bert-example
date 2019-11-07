@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+PFT	been
+QUC	ten
+CON	years
+SUB	since
+PRO	I
+EPS	left
+CON	college
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	seeing
+PRO	you
+REL	in
+DIS	a
+IST	new
+CON	light
+NIL	.

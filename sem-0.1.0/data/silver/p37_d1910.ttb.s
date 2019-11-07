@@ -1,0 +1,11 @@
+PRO	He
+PST	did
+NOT	not
+EXS	so
+QUC	much
+AND	as
+NOW	say
+GRE	good-by
+REL	to
+PRO	me
+NIL	.

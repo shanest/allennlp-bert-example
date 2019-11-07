@@ -1,0 +1,10 @@
+PER	Qin
+PER	Shi
+PER	Huang
+PST	was
+DEF	the
+IST	first
+ROL	Emperor
+AND	of
+GPE	China
+NIL	.

@@ -1,0 +1,14 @@
+DEF	The
+CON	audience
+EPS	shouted
+NIL	"
+GEO	Bravo
+NIL	!
+NIL	"
+REL	for
+TOP	at
+EXS	least
+DIS	a
+IST	full
+CON	minute
+NIL	.

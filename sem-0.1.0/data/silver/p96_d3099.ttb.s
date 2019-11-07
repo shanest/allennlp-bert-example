@@ -1,0 +1,14 @@
+PRO	I
+NOW	am
+EXS	alive
+AND	even
+SUB	though
+PRO	I
+NOW	am
+NOT	not
+EXS	giving
+AND	any
+CON	sign
+AND	of
+CON	life
+NIL	.

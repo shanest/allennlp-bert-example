@@ -1,0 +1,12 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	driving
+NOT	without
+DIS	a
+CON	license
+SUB	since
+PRO	he
+PST	was
+QUC	thirteen
+NIL	.

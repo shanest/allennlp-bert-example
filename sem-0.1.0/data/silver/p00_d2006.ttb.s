@@ -1,0 +1,9 @@
+PER	Tom
+NEC	should
+EXT	have
+EXT	discussed
+DEF	the
+CON	matter
+REL	with
+PRO	me
+NIL	.

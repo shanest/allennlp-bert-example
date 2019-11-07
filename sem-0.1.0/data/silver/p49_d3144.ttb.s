@@ -1,0 +1,11 @@
+DIS	A
+CON	cup
+AND	of
+CON	coffee
+PST	cost
+QUC	200
+UOM	yen
+REL	in
+DST	those
+CON	days
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+EPS	took
+PRO	us
+QUC	three
+CON	hours
+SUB	to
+EXS	come
+REL	to
+DIS	a
+CON	conclusion
+NIL	.

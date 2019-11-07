@@ -1,0 +1,10 @@
+NOW	Is
+UNK	there
+DIS	a
+CON	table
+EXS	available
+REL	for
+QUC	two
+REL	on
+DOW	Friday
+QUE	?

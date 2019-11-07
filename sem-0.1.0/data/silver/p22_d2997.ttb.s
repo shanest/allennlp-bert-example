@@ -1,0 +1,17 @@
+PRO	It
+NOW	's
+EXS	recommended
+SUB	that
+PRO	you
+NOW	do
+NOT	n't
+EXS	write
+HAS	your
+CON	passwords
+IST	down
+QUE	where
+ALT	others
+POS	might
+EXS	see
+PRO	them
+NIL	.

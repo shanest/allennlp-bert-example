@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	beginning
+SUB	to
+EXS	like
+PER	Ken
+IST	little
+REL	by
+CON	little
+NIL	.

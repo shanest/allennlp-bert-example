@@ -1,0 +1,11 @@
+PER	Tom
+EPS	knew
+QUE	what
+PER	Mary
+PST	was
+EXS	planning
+SUB	to
+EXS	buy
+REL	for
+PER	John
+NIL	.

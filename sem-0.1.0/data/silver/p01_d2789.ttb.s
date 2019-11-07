@@ -1,0 +1,11 @@
+PRO	They
+NOW	are
+EXS	used
+REL	to
+DEF	the
+EXS	humid
+CON	climate
+AND	of
+DEF	the
+CON	summer
+NIL	.

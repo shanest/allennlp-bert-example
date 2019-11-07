@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+PFT	been
+EXG	asking
+IST	stupid
+CON	questions
+AND	all
+CON	morning
+NIL	.

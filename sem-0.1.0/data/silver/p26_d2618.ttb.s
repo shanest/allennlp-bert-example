@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	trying
+SUB	to
+EXS	leave
+DIS	a
+IST	little
+CON	space
+REL	for
+CON	dessert
+NIL	.

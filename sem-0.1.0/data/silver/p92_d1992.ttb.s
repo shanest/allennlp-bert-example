@@ -1,0 +1,10 @@
+PER	Tom
+EPS	took
+PER	Mary
+REL	to
+DIS	a
+CON	beachfront
+CON	restaurant
+REL	for
+CON	dinner
+NIL	.

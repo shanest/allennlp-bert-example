@@ -1,0 +1,10 @@
+AND	Immediately
+PRO	I
+EPS	saw
+PRO	him
+NIL	,
+PRO	I
+EPS	trembled
+REL	with
+CON	fear
+NIL	.

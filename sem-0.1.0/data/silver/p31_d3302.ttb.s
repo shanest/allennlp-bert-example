@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+EXS	going
+SUB	to
+EXS	want
+SUB	to
+EXS	take
+DIS	some
+CON	notes
+NIL	.

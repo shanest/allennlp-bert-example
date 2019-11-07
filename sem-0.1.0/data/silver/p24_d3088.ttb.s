@@ -1,0 +1,13 @@
+CON	Men
+AND	of
+DEF	the
+CON	rank
+AND	of
+ROL	captain
+AND	and
+REL	below
+EXS	live
+REL	in
+PRX	this
+CON	building
+NIL	.

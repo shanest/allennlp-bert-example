@@ -1,0 +1,10 @@
+PER	Tom
+PST	had
+NOT	no
+CON	idea
+QUE	what
+PER	Mary
+PST	was
+EXS	talking
+IST	about
+NIL	.

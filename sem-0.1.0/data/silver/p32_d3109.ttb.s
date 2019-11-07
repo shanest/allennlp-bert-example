@@ -1,0 +1,17 @@
+PRO	I
+NOW	hope
+PRO	you
+EXS	realize
+SUB	that
+PRO	I
+NOW	'm
+EXS	putting
+HAS	my
+CON	reputation
+REL	on
+DEF	the
+CON	line
+REL	by
+EXS	helping
+PRO	you
+NIL	.

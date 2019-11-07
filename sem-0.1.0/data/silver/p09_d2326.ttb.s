@@ -1,0 +1,13 @@
+IST	Ancient
+GPE	Egypt
+EPS	used
+DIS	a
+IST	solar
+CON	calendar
+REL	with
+QUC	365
+CON	days
+REL	in
+DIS	a
+CON	year
+NIL	.

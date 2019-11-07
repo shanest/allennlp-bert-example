@@ -1,0 +1,10 @@
+PRO	I
+FUT	would
+EXS	like
+NIL	to
+EXS	try
+DEF	the
+COL	blue
+CON	striped
+CON	skirt
+NIL	.

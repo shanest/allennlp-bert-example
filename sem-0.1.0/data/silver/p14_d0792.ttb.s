@@ -1,0 +1,9 @@
+DEF	The
+IST	new
+CON	tunnel
+FUT	will
+EXS	link
+GPE	Britain
+AND	and
+GPE	France
+NIL	.

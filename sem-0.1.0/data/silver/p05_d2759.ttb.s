@@ -1,0 +1,14 @@
+REL	In
+EXG	copying
+PRX	this
+CON	paper
+NIL	,
+EXS	be
+IST	careful
+NOT	not
+SUB	to
+EXS	leave
+IST	out
+AND	any
+CON	words
+NIL	.

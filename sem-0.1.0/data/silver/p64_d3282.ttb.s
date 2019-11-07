@@ -1,0 +1,10 @@
+DEF	The
+CON	sun
+PST	had
+IST	already
+EXS	set
+SUB	when
+PRO	he
+EPS	got
+CON	home
+NIL	.

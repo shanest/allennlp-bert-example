@@ -1,0 +1,11 @@
+NOW	Are
+PRO	you
+EXG	sending
+PRO	me
+QUC	one
+AND	of
+HAS	your
+CON	photos
+REL	in
+IST	private
+QUE	?

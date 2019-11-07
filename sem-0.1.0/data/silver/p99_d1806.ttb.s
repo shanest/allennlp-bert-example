@@ -1,0 +1,11 @@
+DEF	The
+CON	output
+AND	of
+PRX	this
+CON	factory
+NOW	has
+EXS	increased
+REL	by
+QUC	20
+UOM	%
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	tired
+AND	of
+EXS	hearing
+HAS	your
+IST	boastful
+CON	tales
+NIL	.

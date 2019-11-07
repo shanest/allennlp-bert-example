@@ -1,0 +1,10 @@
+PER	Tom
+IST	probably
+NOW	does
+NOT	n't
+EXS	remember
+QUE	what
+PER	Mary
+NOW	looks
+EXS	like
+NIL	.

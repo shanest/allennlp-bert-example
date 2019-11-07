@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+AND	every
+CON	body
+REL	in
+PRX	this
+CON	school
+NIL	.

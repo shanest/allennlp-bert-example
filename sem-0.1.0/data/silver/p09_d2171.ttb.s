@@ -1,0 +1,12 @@
+DEF	The
+IST	last
+CON	time
+PRO	I
+EPS	saw
+PRO	him
+NIL	,
+PRO	he
+PST	was
+INT	very
+EXS	healthy
+NIL	.

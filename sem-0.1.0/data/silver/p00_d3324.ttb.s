@@ -1,0 +1,13 @@
+IMP	If
+PRO	he
+NOW	is
+EXS	innocent
+NIL	,
+PRO	it
+ENS	follows
+SUB	that
+HAS	his
+CON	wife
+NOW	is
+EXS	guilty
+NIL	.

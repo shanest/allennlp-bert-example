@@ -1,0 +1,12 @@
+PRO	I
+ENS	know
+PRO	it
+HAS	's
+IST	early
+NIL	,
+BUT	but
+EXS	let
+HAS	's
+ENS	go
+CON	home
+NIL	.

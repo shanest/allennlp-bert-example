@@ -1,0 +1,9 @@
+PRO	I
+NEC	have
+SUB	to
+EXS	say
+GRE	goodbye
+REL	to
+DIS	some
+CON	friends
+NIL	.

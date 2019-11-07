@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	n't
+PFT	been
+PRX	here
+REL	in
+DIS	a
+IST	long
+CON	time
+NIL	.

@@ -1,0 +1,12 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+PRO	he
+NOW	is
+EXG	coming
+REL	by
+CON	car
+NIL	.

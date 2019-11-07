@@ -1,0 +1,11 @@
+DEF	The
+CON	population
+AND	of
+GPE	China
+NOW	is
+QUC	8
+CON	times
+AND	that
+AND	of
+GPE	Japan
+NIL	.

@@ -1,0 +1,13 @@
+DEF	The
+CON	woman
+REL	in
+DEF	the
+GPO	Kevorkian
+CON	case
+EPS	injected
+IST	lethal
+CON	chemicals
+REL	into
+HAS	her
+CON	body
+NIL	.

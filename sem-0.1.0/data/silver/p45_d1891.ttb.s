@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+IST	odd
+SUB	that
+PRO	he
+NOW	is
+INT	so
+IST	late
+NIL	.

@@ -1,0 +1,13 @@
+UNK	There
+PST	were
+IST	white
+AND	and
+COL	yellow
+CON	flowers
+REL	at
+DEF	the
+CON	side
+AND	of
+DEF	the
+CON	road
+NIL	.

@@ -1,0 +1,13 @@
+AND	Now
+SUB	that
+PRO	you
+ENS	know
+DEF	the
+CON	truth
+NIL	,
+POS	perhaps
+PRO	you
+FUT	'll
+EXS	feel
+COM	better
+NIL	.

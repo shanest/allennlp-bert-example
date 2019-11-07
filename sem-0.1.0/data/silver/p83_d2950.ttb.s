@@ -1,0 +1,17 @@
+HAS	His
+CON	novel
+CON	ideas
+NOW	are
+CON	time
+AND	and
+ALT	again
+EXS	getting
+PRO	him
+REL	into
+CON	trouble
+REL	with
+HAS	his
+IST	more
+IST	conservative
+CON	colleagues
+NIL	.

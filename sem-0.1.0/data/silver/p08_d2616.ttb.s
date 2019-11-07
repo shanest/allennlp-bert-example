@@ -1,0 +1,13 @@
+PRO	I
+EPS	thought
+PRO	you
+EPS	said
+PRO	they
+PST	'd
+EXS	let
+EXS	sit
+REL	in
+REL	on
+DEF	the
+CON	meeting
+NIL	.

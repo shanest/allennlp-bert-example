@@ -1,0 +1,12 @@
+REL	In
+CON	addition
+SUB	to
+EXS	being
+DIS	a
+ROL	poet
+NIL	,
+PRO	he
+NOW	is
+DIS	a
+CON	scholar
+NIL	.

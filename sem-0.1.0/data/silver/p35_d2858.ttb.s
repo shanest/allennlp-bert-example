@@ -1,0 +1,13 @@
+UNK	There
+PST	was
+DIS	a
+CON	man
+EPS	sent
+REL	from
+CON	God
+EQU	,
+HAS	whose
+CON	name
+PST	was
+PER	John
+NIL	.

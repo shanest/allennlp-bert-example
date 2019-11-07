@@ -1,0 +1,10 @@
+AND	Too
+QUV	many
+CON	people
+NOW	have
+IST	serious
+CON	problems
+REL	with
+GPO	Italian
+CON	language
+NIL	.

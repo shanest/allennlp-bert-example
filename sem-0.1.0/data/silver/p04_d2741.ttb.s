@@ -1,0 +1,10 @@
+QUE	How
+QUV	many
+IST	Christmas
+CON	cards
+PST	did
+PRO	you
+EXS	write
+IST	last
+CON	year
+QUE	?

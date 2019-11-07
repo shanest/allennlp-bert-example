@@ -1,0 +1,14 @@
+PRX	This
+NOW	is
+DIS	a
+INT	very
+IST	important
+CON	meeting
+NIL	.
+PRO	You
+NEC	ought
+NOT	not
+SUB	to
+EXS	miss
+PRO	it
+NIL	.

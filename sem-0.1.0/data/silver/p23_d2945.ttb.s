@@ -1,0 +1,10 @@
+SUB	When
+PRO	I
+EPS	met
+GEO	Anka
+REL	in
+GEO	Bucharest
+PRO	she
+PST	was
+EXS	studying
+NIL	.

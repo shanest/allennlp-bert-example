@@ -1,0 +1,9 @@
+GEO	Turkey
+NOW	is
+EXS	called
+NIL	"
+ORG	Türkiye
+NIL	"
+REL	in
+GPO	Turkish
+NIL	.

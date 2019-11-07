@@ -1,0 +1,13 @@
+PER	Tom
+EPS	learned
+IST	later
+SUB	that
+PER	Mary
+PST	was
+NOT	n't
+EXS	planning
+SUB	to
+EXS	live
+REL	in
+GPE	Boston
+NIL	.

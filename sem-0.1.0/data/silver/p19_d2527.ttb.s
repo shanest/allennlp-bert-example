@@ -1,0 +1,10 @@
+NOW	Is
+NOT	n't
+PER	Tom
+EXS	supposed
+SUB	to
+EXS	be
+PRX	here
+REL	by
+NOW	now
+QUE	?

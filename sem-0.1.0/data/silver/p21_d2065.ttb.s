@@ -1,0 +1,13 @@
+PRO	He
+EPS	explained
+REL	to
+PER	Mary
+QUE	why
+PRO	he
+PST	was
+IST	late
+REL	for
+HAS	her
+CON	birthday
+CON	party
+NIL	.

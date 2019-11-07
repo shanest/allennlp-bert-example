@@ -1,0 +1,17 @@
+PER	Tom
+ENS	knows
+IST	more
+AND	about
+DEF	the
+CON	world
+AND	of
+HAS	his
+IST	favorite
+CON	video
+CON	game
+AND	than
+AND	about
+DEF	the
+IST	real
+CON	world
+NIL	.

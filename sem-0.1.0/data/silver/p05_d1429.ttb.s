@@ -1,0 +1,11 @@
+PRO	He
+EPS	told
+PRO	me
+SUB	that
+PRO	he
+FUT	would
+EXS	visit
+GEO	Nara
+AND	next
+CON	month
+NIL	.

@@ -1,0 +1,11 @@
+CON	Half
+AND	of
+AND	all
+GPO	Norwegian
+CON	women
+ENS	know
+NOT	nothing
+AND	about
+HAS	their
+CON	retirement
+NIL	.

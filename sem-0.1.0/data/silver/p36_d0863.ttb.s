@@ -1,0 +1,12 @@
+SUB	When
+PRO	I
+EPS	realized
+PRO	it
+PST	was
+EXS	raining
+NIL	,
+PRO	I
+EPS	took
+HAS	my
+CON	umbrella
+NIL	.

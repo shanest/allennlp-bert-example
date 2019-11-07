@@ -1,0 +1,16 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+SUB	when
+NIL	,
+COO	but
+PRO	it
+NOW	's
+IST	likely
+SUB	to
+EXS	happen
+REL	before
+IST	next
+DOW	Monday
+NIL	.

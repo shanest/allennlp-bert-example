@@ -1,0 +1,10 @@
+PER	Ichiro
+FUT	will
+EXS	go
+REL	to
+GEO	Nagoya
+REL	for
+DEF	the
+IST	first
+CON	time
+NIL	.

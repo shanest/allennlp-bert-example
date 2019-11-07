@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	go
+REL	to
+PER	Mary
+HAS	's
+CON	party
+NIL	.

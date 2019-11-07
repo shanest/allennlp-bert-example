@@ -1,0 +1,11 @@
+DEF	The
+CON	Diet
+NOW	is
+DEF	the
+IST	chief
+CON	organ
+AND	of
+CON	government
+REL	in
+GPE	Japan
+NIL	.

@@ -1,0 +1,10 @@
+HAS	Her
+CON	husband
+NOW	has
+PFT	been
+REL	in
+CON	prison
+REL	for
+QUC	three
+CON	years
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+NOW	swear
+PRO	you
+NOW	're
+EXG	telling
+PRO	me
+DEF	the
+CON	truth
+QUE	?

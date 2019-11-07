@@ -1,0 +1,14 @@
+PRO	They
+PST	were
+IST	unable
+SUB	to
+EXS	prise
+EXS	open
+DEF	the
+CON	box
+SUB	because
+PRO	it
+PST	was
+IST	too
+IST	rusty
+NIL	.

@@ -1,0 +1,12 @@
+HAS	Her
+CON	daughter
+NOW	is
+NOT	not
+DEF	the
+IST	same
+SUB	since
+PRO	she
+EPS	saw
+DIS	a
+CON	ghost
+NIL	.

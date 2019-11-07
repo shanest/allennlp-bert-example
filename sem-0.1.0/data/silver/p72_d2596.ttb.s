@@ -1,0 +1,12 @@
+PRO	She
+HAS	's
+HAS	my
+ROL	half-sister
+NIL	,
+BUT	but
+PRO	I
+NOW	call
+PRO	her
+HAS	my
+ROL	sister
+NIL	.

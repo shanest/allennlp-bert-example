@@ -1,0 +1,9 @@
+PRO	It
+NOW	looks
+AND	like
+PER	Tom
+EPS	bought
+DIS	a
+IST	new
+CON	car
+NIL	.

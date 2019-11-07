@@ -1,0 +1,9 @@
+DEF	The
+IST	heavy
+CON	rain
+EPS	prevented
+PRO	us
+REL	from
+EXG	going
+CON	fishing
+NIL	.

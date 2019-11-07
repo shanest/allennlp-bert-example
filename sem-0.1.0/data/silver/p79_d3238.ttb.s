@@ -1,0 +1,11 @@
+PRO	She
+NOW	is
+EXS	fighting
+REL	for
+DEF	the
+CON	liberation
+AND	of
+DEF	the
+CON	oppressed
+ROL	natives
+NIL	.

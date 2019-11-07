@@ -1,0 +1,11 @@
+PRO	I
+POS	could
+EXS	go
+REL	for
+DIS	a
+IST	nice
+IST	hot
+CON	pizza
+AND	right
+NOW	now
+NIL	.

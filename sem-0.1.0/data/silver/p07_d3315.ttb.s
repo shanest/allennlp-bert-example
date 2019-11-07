@@ -1,0 +1,10 @@
+PRO	I
+EPS	caught
+DIS	a
+CON	glimpse
+AND	of
+PRO	him
+REL	in
+DEF	the
+CON	crowd
+NIL	.

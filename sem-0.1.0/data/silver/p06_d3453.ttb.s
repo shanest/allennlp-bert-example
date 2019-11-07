@@ -1,0 +1,10 @@
+UNK	There
+HAS	's
+CON	more
+REL	to
+PER	Tom
+AND	than
+NOW	meets
+DEF	the
+CON	eye
+NIL	.

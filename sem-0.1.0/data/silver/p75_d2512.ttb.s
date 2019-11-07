@@ -1,0 +1,10 @@
+HAS	His
+CON	boyfriend
+EPS	gave
+PRO	him
+DEF	the
+CON	key
+REL	to
+HAS	his
+CON	apartment
+NIL	.

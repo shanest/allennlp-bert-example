@@ -1,0 +1,10 @@
+PRO	I
+ENS	regret
+SUB	that
+PRO	I
+POS	could
+NOT	n't
+EXS	go
+REL	with
+PRO	her
+NIL	.

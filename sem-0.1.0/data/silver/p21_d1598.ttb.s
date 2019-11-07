@@ -1,0 +1,13 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	trying
+AND	all
+CON	week
+SUB	to
+EXS	get
+REL	in
+CON	touch
+REL	with
+PER	Tom
+NIL	.

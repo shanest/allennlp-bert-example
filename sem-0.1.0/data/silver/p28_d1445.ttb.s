@@ -1,0 +1,12 @@
+PRO	I
+EPS	spent
+QUC	three
+CON	months
+REL	in
+DEF	the
+CON	hospital
+SUB	when
+PRO	I
+PST	was
+QUC	thirteen
+NIL	.

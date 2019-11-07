@@ -1,0 +1,10 @@
+PER	Tom
+HAS	's
+IST	virtually
+EPS	admitted
+SUB	that
+PRO	it
+PST	was
+HAS	his
+CON	fault
+NIL	.

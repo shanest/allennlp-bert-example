@@ -1,0 +1,10 @@
+PER	Ken
+EPS	made
+PER	Tom
+DIS	an
+CON	offer
+PRO	he
+POS	could
+NOT	n't
+EXS	refuse
+NIL	.

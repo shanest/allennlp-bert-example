@@ -1,0 +1,14 @@
+PER	Tom
+EPS	took
+DIS	a
+CON	beer
+AND	out
+AND	of
+DEF	the
+CON	fridge
+COO	and
+EPS	handed
+PRO	it
+REL	to
+PER	Mary
+NIL	.

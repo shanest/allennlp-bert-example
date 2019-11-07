@@ -1,0 +1,12 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+PRO	they
+IST	always
+EXS	keep
+HAS	their
+CON	word
+NIL	.

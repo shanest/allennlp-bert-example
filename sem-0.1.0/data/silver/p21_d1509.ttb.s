@@ -1,0 +1,9 @@
+HAS	My
+ROL	father
+NOW	makes
+IST	good
+CON	use
+AND	of
+HAS	his
+CON	time
+NIL	.

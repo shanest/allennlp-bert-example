@@ -1,0 +1,11 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	reflecting
+REL	on
+QUE	what
+PRO	you
+EPS	said
+REL	to
+PRO	me
+NIL	.

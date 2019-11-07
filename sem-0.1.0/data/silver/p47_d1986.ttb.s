@@ -1,0 +1,13 @@
+PER	Mary
+NOW	does
+NOT	n't
+EXS	like
+PRO	it
+SUB	when
+PER	Tom
+ENS	leaves
+DEF	the
+CON	toilet
+CON	seat
+IST	up
+NIL	.

@@ -1,0 +1,12 @@
+PRX	This
+NOW	is
+DEF	the
+IST	same
+CON	type
+AND	of
+CON	car
+AND	as
+HAS	my
+ROL	father
+NOW	has
+NIL	.

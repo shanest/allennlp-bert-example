@@ -1,0 +1,16 @@
+DEF	The
+QUC	one
+AND	that
+NOW	is
+IST	able
+SUB	to
+EXS	define
+DIS	a
+CON	problem
+NIL	,
+IST	already
+EXS	solved
+CON	half
+AND	of
+PRO	it
+NIL	.

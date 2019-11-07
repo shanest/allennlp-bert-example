@@ -1,0 +1,13 @@
+AND	Why
+NOW	do
+NOT	n't
+PRO	you
+EXS	believe
+PER	Tom
+SUB	when
+PRO	he
+ENS	says
+PRO	he
+NOW	's
+EXS	busy
+QUE	?

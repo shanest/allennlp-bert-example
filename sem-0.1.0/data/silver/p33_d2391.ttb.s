@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+NOT	not
+EXS	going
+SUB	to
+EXS	fall
+REL	off
+DEF	the
+CON	ladder
+NIL	,
+NOW	am
+PRO	I
+QUE	?

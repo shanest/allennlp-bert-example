@@ -1,0 +1,9 @@
+PRO	We
+NOW	have
+NOT	n't
+EXS	come
+REL	to
+DIS	a
+CON	decision
+ALT	yet
+NIL	.

@@ -1,0 +1,12 @@
+PRO	He
+HAS	's
+NOT	not
+DEF	the
+CON	kind
+AND	of
+CON	person
+AND	who
+IST	always
+ENS	criticizes
+ALT	others
+NIL	.

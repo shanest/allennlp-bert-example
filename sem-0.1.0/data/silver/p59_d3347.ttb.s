@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+EXS	heard
+SUB	that
+PER	Mary
+ENS	wants
+DIS	a
+CON	divorce
+NIL	.

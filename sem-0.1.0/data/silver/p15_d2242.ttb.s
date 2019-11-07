@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	trying
+SUB	to
+EXS	find
+HAS	my
+CON	balance
+IST	back
+NIL	.

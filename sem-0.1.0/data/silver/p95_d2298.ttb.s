@@ -1,0 +1,12 @@
+GPO	Polish
+CON	girls
+PST	did
+NOT	n't
+EXS	want
+PER	Justin
+PER	Bieber
+SUB	to
+EXS	come
+REL	to
+GPE	Poland
+NIL	.

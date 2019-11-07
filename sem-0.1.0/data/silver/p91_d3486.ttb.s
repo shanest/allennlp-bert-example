@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	had
+DIS	a
+CON	chance
+SUB	to
+EXS	see
+DEF	the
+CON	movie
+ALT	yet
+NIL	.

@@ -1,0 +1,10 @@
+NIL	To
+EXS	tell
+CON	truth
+NIL	,
+PRO	I
+PST	did
+NOT	n't
+EXS	go
+IST	there
+NIL	.

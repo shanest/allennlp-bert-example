@@ -1,0 +1,12 @@
+PRO	I
+FUT	will
+NOT	never
+EXS	forget
+DEF	the
+CON	day
+SUB	when
+PRO	I
+IST	first
+EPS	met
+PRO	him
+NIL	.

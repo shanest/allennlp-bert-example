@@ -1,0 +1,10 @@
+PRO	They
+FUT	'll
+EXS	get
+IST	out
+AND	of
+CON	class
+REL	in
+QUC	forty
+UOM	minutes
+NIL	.

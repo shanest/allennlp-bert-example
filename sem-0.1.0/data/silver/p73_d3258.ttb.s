@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+NOW	think
+SUB	that
+CON	handguns
+NEC	should
+EXS	be
+EXS	made
+IST	illegal
+QUE	?

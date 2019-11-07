@@ -1,0 +1,9 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PRO	I
+EPS	forgot
+AND	about
+SUB	that
+NIL	.

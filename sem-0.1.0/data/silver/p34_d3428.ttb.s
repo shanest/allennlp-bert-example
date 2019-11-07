@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	wax
+HAS	my
+CON	car
+FUT	tomorrow
+CON	afternoon
+NIL	.

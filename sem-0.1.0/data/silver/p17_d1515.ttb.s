@@ -1,0 +1,11 @@
+PRO	We
+EPS	got
+IST	up
+IST	early
+COO	and
+EXS	set
+SUB	about
+EXG	cleaning
+HAS	our
+CON	house
+NIL	.

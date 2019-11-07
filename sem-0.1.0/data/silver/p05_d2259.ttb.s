@@ -1,0 +1,10 @@
+PER	Tom
+ENS	says
+SUB	that
+PRO	he
+ENS	needs
+SUB	to
+EXS	talk
+REL	to
+PRO	you
+NIL	.

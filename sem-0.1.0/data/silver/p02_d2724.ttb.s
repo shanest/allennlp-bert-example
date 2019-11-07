@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	find
+QUE	what
+PRO	I
+NOW	'm
+EXG	looking
+REL	for
+NIL	.

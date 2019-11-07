@@ -1,0 +1,12 @@
+IMP	If
+PRO	I
+EPS	met
+PER	Jesus
+NIL	,
+PRO	I
+FUT	'd
+EXS	check
+IST	out
+HAS	his
+CON	abs
+NIL	.

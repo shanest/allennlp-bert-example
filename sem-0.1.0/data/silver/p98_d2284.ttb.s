@@ -1,0 +1,12 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+PRO	I
+NOW	'm
+REL	in
+IST	perfect
+CON	health
+NIL	.

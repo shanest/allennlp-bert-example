@@ -1,0 +1,10 @@
+CON	Reward
+NOW	offers
+EXT	have
+EXS	led
+REL	to
+CON	recovery
+AND	of
+EXT	stolen
+CON	art
+NIL	.

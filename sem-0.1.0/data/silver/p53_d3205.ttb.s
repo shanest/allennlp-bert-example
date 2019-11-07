@@ -1,0 +1,9 @@
+PRO	I
+EPS	made
+DIS	an
+IST	awful
+CON	mistake
+REL	in
+DEF	the
+CON	test
+NIL	.

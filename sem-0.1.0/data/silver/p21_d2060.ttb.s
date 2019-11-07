@@ -1,0 +1,12 @@
+DIS	A
+CON	lot
+AND	of
+CON	people
+NOW	are
+NOW	now
+EXS	trying
+SUB	to
+EXS	sell
+HAS	their
+CON	houses
+NIL	.

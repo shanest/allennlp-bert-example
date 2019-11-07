@@ -1,0 +1,11 @@
+NOT	No
+CON	river
+REL	in
+GPE	Japan
+NOW	is
+AND	as
+IST	long
+AND	as
+DEF	the
+CON	Shinano
+NIL	.

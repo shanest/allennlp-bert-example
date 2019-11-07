@@ -1,0 +1,16 @@
+PRO	He
+FUT	wo
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	escape
+REL	from
+IST	there
+NOT	without
+DIS	a
+CON	miracle
+NIL	,
+FUT	will
+PRO	he
+QUE	?

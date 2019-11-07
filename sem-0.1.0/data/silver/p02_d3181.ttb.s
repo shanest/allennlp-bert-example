@@ -1,0 +1,9 @@
+DEF	The
+ROL	politician
+EPS	lost
+HAS	his
+CON	position
+REL	in
+DEF	the
+CON	end
+NIL	.

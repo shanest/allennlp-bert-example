@@ -1,0 +1,15 @@
+PER	Tom
+HAS	's
+CON	handwriting
+NOW	is
+NOT	n't
+INT	very
+EXS	good
+NIL	,
+COO	but
+PRO	it
+NOW	's
+EXS	easy
+SUB	to
+EXS	read
+NIL	.

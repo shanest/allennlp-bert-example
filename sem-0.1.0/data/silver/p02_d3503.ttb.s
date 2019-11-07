@@ -1,0 +1,15 @@
+PER	Tom
+AND	for
+PER	Mary
+AND	and
+PER	Mary
+AND	for
+PER	Tom
+PST	were
+IST	alternatively
+DEF	the
+CON	subject
+AND	and
+DEF	the
+CON	object
+NIL	.

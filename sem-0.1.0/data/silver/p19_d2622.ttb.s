@@ -1,0 +1,10 @@
+HAS	My
+ROL	uncle
+EPS	gave
+PRO	me
+DIS	a
+IST	friendly
+CON	piece
+AND	of
+CON	advice
+NIL	.

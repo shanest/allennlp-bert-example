@@ -1,0 +1,10 @@
+ROL	Mr
+PER	Ou
+NOW	has
+EXS	come
+REL	to
+GPE	Japan
+SUB	to
+EXS	study
+GPO	Japanese
+NIL	.

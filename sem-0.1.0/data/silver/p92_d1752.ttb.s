@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	talk
+AND	about
+PRO	it
+NIL	.

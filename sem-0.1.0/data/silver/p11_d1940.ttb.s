@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	looking
+REL	for
+IST	erotic
+CON	science
+CON	fiction
+CON	novels
+NIL	.

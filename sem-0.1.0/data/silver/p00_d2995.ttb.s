@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+NOT	not
+DIS	an
+GPO	American
+NIL	,
+BUT	but
+PRO	he
+ENS	loves
+GPE	America
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	sing
+AND	and
+EXS	dance
+REL	on
+IST	Good
+DOW	Friday
+NIL	.

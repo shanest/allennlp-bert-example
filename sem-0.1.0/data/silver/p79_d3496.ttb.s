@@ -1,0 +1,10 @@
+DOW	Sunday
+ENS	is
+DEF	the
+CON	day
+SUB	when
+PRO	I
+NOW	am
+EXS	least
+EXS	busy
+NIL	.

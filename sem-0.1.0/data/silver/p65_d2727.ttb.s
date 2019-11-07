@@ -1,0 +1,11 @@
+PRO	I
+NOW	think
+PRO	it
+NOW	's
+IST	cruel
+SUB	to
+EXS	keep
+DIS	a
+CON	cat
+AND	inside
+NIL	.

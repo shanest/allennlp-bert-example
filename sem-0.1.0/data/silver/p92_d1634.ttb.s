@@ -1,0 +1,10 @@
+HAS	My
+CON	father
+NOW	has
+PFT	been
+REL	in
+CON	hospital
+REL	for
+QUC	two
+CON	months
+NIL	.

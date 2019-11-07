@@ -1,0 +1,9 @@
+PRX	This
+CON	medicine
+NOW	is
+NOT	not
+EXS	sold
+ALT	yet
+REL	in
+CON	pharmacies
+NIL	.

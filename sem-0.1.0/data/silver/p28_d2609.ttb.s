@@ -1,0 +1,9 @@
+ROL	Grandfather
+NOW	is
+IST	still
+INT	very
+EXS	active
+REL	for
+HAS	his
+CON	age
+NIL	.

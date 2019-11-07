@@ -1,0 +1,14 @@
+CON	Times
+NOW	are
+NOT	not
+IST	always
+DEF	the
+CON	same
+NIL	,
+DEF	the
+CON	grass
+NOW	is
+NOT	not
+IST	always
+COL	green
+NIL	.

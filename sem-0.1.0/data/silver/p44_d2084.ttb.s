@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+NOW	think
+PRO	she
+IST	still
+ENS	reads
+HAS	my
+CON	messages
+QUE	?

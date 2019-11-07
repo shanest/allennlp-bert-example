@@ -1,0 +1,9 @@
+DEF	The
+CON	football
+CON	game
+NOW	is
+NOW	now
+REL	on
+DEF	the
+CON	air
+NIL	.

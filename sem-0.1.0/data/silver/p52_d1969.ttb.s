@@ -1,0 +1,11 @@
+UNK	There
+HAS	's
+DIS	a
+CON	photo
+AND	of
+PER	Tom
+REL	on
+PER	Mary
+HAS	's
+CON	desk
+NIL	.

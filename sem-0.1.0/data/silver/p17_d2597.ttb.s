@@ -1,0 +1,12 @@
+AND	According
+REL	to
+DEF	the
+CON	weather
+CON	forecast
+PRO	it
+NOW	is
+EXS	going
+SUB	to
+EXS	snow
+FUT	tomorrow
+NIL	.

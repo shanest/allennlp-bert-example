@@ -1,0 +1,12 @@
+AND	According
+REL	to
+DEF	the
+CON	paper
+NIL	,
+UNK	there
+PST	was
+DIS	an
+CON	earthquake
+REL	in
+GPE	Peru
+NIL	.

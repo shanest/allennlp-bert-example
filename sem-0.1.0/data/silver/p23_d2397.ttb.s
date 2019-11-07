@@ -1,0 +1,9 @@
+PER	Mary
+AND	and
+PRO	I
+EXS	dated
+DIS	a
+IST	long
+CON	time
+PST	ago
+NIL	.

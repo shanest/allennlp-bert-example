@@ -1,0 +1,10 @@
+PER	Tom
+EPS	got
+DIS	a
+CON	blanket
+COO	and
+EPS	put
+PRO	it
+AND	over
+PER	Mary
+NIL	.

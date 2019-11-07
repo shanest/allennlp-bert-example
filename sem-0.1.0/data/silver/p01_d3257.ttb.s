@@ -1,0 +1,17 @@
+AND	Leave
+CON	home
+AND	early
+REL	in
+DEF	the
+CON	morning
+NIL	,
+COO	and
+PRO	you
+FUT	will
+EXS	get
+REL	to
+HAS	your
+CON	destination
+REL	before
+EXS	dark
+NIL	.

@@ -1,0 +1,14 @@
+PER	Tom
+EPS	said
+SUB	to
+PER	Mary
+SUB	that
+PRO	it
+PST	was
+INT	very
+EXS	pleasant
+SUB	to
+EXS	hear
+HAS	her
+CON	voice
+NIL	.

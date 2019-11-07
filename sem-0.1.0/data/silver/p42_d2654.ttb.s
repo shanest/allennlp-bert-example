@@ -1,0 +1,15 @@
+PER	Tom
+HAS	's
+CON	parents
+FUT	wo
+NOT	n't
+EXS	let
+PRO	him
+EXS	go
+IST	out
+REL	with
+PER	Mary
+REL	on
+CON	school
+CON	nights
+NIL	.

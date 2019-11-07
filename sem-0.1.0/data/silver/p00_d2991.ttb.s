@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+SUB	when
+PRO	I
+POS	can
+EXS	get
+IST	away
+NIL	.

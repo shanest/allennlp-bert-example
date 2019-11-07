@@ -1,0 +1,14 @@
+UNK	There
+NOW	are
+QUV	few
+CON	places
+CON	downtown
+REL	for
+CON	parking
+NIL	,
+UNK	which
+NOW	is
+DIS	a
+IST	serious
+CON	problem
+NIL	.

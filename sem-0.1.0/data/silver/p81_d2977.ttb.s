@@ -1,0 +1,14 @@
+SUB	When
+PRO	I
+ENS	grow
+IST	up
+NIL	,
+PRO	I
+ENS	want
+SUB	to
+EXS	be
+IST	just
+AND	like
+HAS	my
+ROL	father
+NIL	.

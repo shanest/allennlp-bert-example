@@ -1,0 +1,12 @@
+PRO	I
+EPS	met
+HAS	my
+ROL	teacher
+REL	on
+DEF	the
+CON	way
+REL	to
+DEF	the
+CON	railway
+CON	station
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+CON	kids
+PST	were
+EXS	gone
+SUB	when
+PRO	I
+EPS	got
+CON	home
+NIL	.

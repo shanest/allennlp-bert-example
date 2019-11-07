@@ -1,0 +1,11 @@
+PRO	I
+ENS	have
+DEF	the
+CON	feeling
+AND	that
+HAS	my
+GPO	French
+NOW	is
+EXG	improving
+IST	slowly
+NIL	.

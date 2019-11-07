@@ -1,0 +1,11 @@
+PRO	It
+EXS	being
+IST	cloudy
+NIL	,
+PRO	I
+EPS	took
+HAS	my
+CON	umbrella
+REL	with
+PRO	me
+NIL	.

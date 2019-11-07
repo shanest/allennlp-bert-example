@@ -1,0 +1,10 @@
+PER	Tom
+ENS	speaks
+GPO	French
+IST	about
+AND	as
+IST	well
+AND	as
+PER	Mary
+NOW	does
+NIL	.

@@ -1,0 +1,12 @@
+IST	Mayan
+CON	pyramids
+AND	and
+IST	large
+CON	temples
+PST	were
+EXS	built
+IST	elegantly
+EXG	using
+CON	stone
+CON	tools
+NIL	.

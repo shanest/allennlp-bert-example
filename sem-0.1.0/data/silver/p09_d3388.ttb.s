@@ -1,0 +1,9 @@
+AND	Why
+PST	did
+NOT	n't
+PRO	you
+EXS	tell
+PRO	me
+AND	about
+PRX	this
+QUE	?

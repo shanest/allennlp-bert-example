@@ -1,0 +1,11 @@
+PRO	I
+EPS	watched
+CON	baseball
+REL	on
+CON	TV
+SUB	after
+PRO	I
+EPS	finished
+HAS	my
+CON	homework
+NIL	.

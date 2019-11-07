@@ -1,0 +1,10 @@
+PER	Tom
+EPS	fell
+REL	in
+CON	love
+REL	with
+DEF	the
+ROL	captain
+HAS	's
+CON	daughter
+NIL	.

@@ -1,0 +1,11 @@
+PRO	We
+PST	had
+IST	native
+CON	guides
+REL	on
+HAS	our
+CON	trip
+REL	to
+DEF	the
+CON	mountain
+NIL	.

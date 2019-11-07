@@ -1,0 +1,14 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	like
+DEF	the
+CON	smell
+AND	of
+DEF	the
+CON	perfume
+PER	Mary
+NOW	is
+EXG	wearing
+NOW	today
+NIL	.

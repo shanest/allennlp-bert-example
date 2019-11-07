@@ -1,0 +1,11 @@
+PER	Tom
+EPS	took
+REL	off
+HAS	his
+CON	clothes
+COO	and
+EPS	got
+REL	into
+DEF	the
+CON	bathtub
+NIL	.

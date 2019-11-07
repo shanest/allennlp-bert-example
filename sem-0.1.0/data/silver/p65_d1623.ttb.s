@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXS	sitting
+SUB	when
+PRO	we
+EPS	came
+REL	in
+NIL	.

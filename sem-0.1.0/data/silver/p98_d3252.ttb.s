@@ -1,0 +1,14 @@
+AND	Sometimes
+PRO	we
+ENS	need
+SUB	to
+EXS	look
+IST	back
+SUB	to
+EXS	know
+SUB	where
+PRO	we
+NOW	are
+EXS	going
+SUB	to
+NIL	.

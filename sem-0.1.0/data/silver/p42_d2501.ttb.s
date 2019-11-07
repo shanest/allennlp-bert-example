@@ -1,0 +1,9 @@
+ITJ	Aw
+NIL	,
+HAS	my
+CON	father
+NOW	's
+EXS	going
+REL	to
+GPE	China
+NIL	.

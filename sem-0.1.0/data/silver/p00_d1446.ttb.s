@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+NOT	not
+IST	sure
+PER	Tom
+FUT	is
+NIL	going
+NIL	to
+EXS	survive
+NIL	.

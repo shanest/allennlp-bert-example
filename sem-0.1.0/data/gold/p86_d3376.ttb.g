@@ -1,0 +1,10 @@
+PER	Tom
+EPS	put
+DEF	the
+CON	bowl
+REL	of
+CON	popcorn
+REL	on
+DEF	the
+CON	table
+NIL	.

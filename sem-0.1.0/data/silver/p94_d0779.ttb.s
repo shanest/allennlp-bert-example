@@ -1,0 +1,10 @@
+PRO	I
+IST	always
+NOW	wear
+CON	boots
+SUB	when
+PRO	it
+ENS	rains
+DIS	or
+EPS	snows
+NIL	.

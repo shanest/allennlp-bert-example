@@ -1,0 +1,11 @@
+PRO	I
+EPS	heard
+PER	Tom
+EXS	speak
+CON	French
+PST	yesterday
+REL	for
+DEF	the
+IST	first
+CON	time
+NIL	.

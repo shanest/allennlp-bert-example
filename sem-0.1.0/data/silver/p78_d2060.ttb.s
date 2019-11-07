@@ -1,0 +1,10 @@
+DIS	A
+CON	lot
+NOW	has
+EXS	happened
+SUB	while
+PRO	you
+NOW	've
+PFT	been
+EXS	gone
+NIL	.

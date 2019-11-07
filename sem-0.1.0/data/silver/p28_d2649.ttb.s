@@ -1,0 +1,15 @@
+SUB	When
+PRO	I
+NOW	see
+PRO	you
+NIL	,
+HAS	my
+CON	heart
+ENS	says
+PRO	me
+SUB	that
+PRO	I
+NOW	am
+DIS	a
+CON	lover
+NIL	.

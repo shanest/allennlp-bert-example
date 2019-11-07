@@ -1,0 +1,9 @@
+HAS	My
+ROL	aunt
+ENS	speaks
+GPE	Chinese
+AND	as
+IST	well
+AND	as
+ART	English
+NIL	.

@@ -1,0 +1,16 @@
+QUE	What
+CON	kind
+AND	of
+CON	logic
+NOW	is
+PRX	this
+COO	:
+UNK	one
+HAS	's
+IST	always
+EXS	wrong
+NIL	,
+SUB	until
+EPS	proved
+IST	right
+QUE	?

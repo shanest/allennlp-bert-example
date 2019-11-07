@@ -1,0 +1,10 @@
+DEF	The
+CON	police
+NOW	are
+NOW	now
+EXG	checking
+REL	on
+PER	Tom
+HAS	's
+CON	alibi
+NIL	.

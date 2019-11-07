@@ -1,0 +1,12 @@
+ITJ	Ah
+NIL	,
+CON	crap
+NIL	.
+PRO	I
+EPS	dropped
+HAS	my
+CON	doohickey
+REL	into
+DEF	the
+CON	sink
+NIL	.

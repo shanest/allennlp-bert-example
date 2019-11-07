@@ -1,0 +1,12 @@
+ITJ	Oh
+NIL	,
+PRO	it
+HAS	's
+INT	very
+CON	kind
+AND	of
+PRO	you
+SUB	to
+EXS	say
+IST	so
+NIL	.

@@ -1,0 +1,12 @@
+PRO	They
+EPS	saw
+PRO	it
+AND	as
+DEF	the
+IST	brave
+CON	act
+AND	of
+DIS	a
+IST	strong
+CON	man
+NIL	.

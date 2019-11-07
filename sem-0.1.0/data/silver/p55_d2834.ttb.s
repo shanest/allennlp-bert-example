@@ -1,0 +1,9 @@
+DST	That
+NOW	is
+DEF	the
+CON	girl
+AND	whom
+PRO	I
+ENS	know
+IST	well
+NIL	.

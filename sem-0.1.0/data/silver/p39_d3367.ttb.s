@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+CON	footprints
+AND	of
+DIS	a
+CON	bear
+REL	in
+DEF	the
+CON	snow
+NIL	.

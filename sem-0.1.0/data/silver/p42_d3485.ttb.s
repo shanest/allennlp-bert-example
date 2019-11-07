@@ -1,0 +1,10 @@
+DIS	A
+CON	teaspoon
+AND	of
+CON	ground
+CON	cinnamon
+NOW	is
+APX	about
+QUC	two
+UOM	grams
+NIL	.

@@ -1,0 +1,11 @@
+QUE	What
+EPS	made
+PRO	you
+NOW	think
+SUB	that
+HAS	my
+IST	favorite
+CON	color
+PST	was
+COL	green
+QUE	?

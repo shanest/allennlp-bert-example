@@ -1,0 +1,13 @@
+PRO	I
+NOW	've
+EXS	made
+DIS	a
+CON	mistake
+NIL	,
+SUB	though
+PRO	I
+PST	did
+NOT	n't
+EXS	intend
+SUB	to
+NIL	.

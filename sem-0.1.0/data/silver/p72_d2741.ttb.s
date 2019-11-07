@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+XCL	only
+IST	too
+IST	glad
+SUB	to
+EXS	help
+PRO	you
+REL	with
+HAS	your
+CON	work
+NIL	.

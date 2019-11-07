@@ -1,0 +1,10 @@
+PRO	She
+EPS	made
+IST	up
+REL	for
+IST	lost
+CON	time
+REL	by
+EXS	working
+IST	hard
+NIL	.

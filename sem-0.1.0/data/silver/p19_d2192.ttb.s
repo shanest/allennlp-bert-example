@@ -1,0 +1,9 @@
+NOW	Has
+PER	Tom
+IST	ever
+EPS	asked
+PRO	you
+SUB	to
+EXS	help
+PRO	him
+QUE	?

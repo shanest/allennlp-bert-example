@@ -1,0 +1,9 @@
+PER	Tom
+ENS	knows
+SUB	that
+PRO	I
+NOW	do
+NOT	n't
+EXS	like
+PRO	him
+NIL	.

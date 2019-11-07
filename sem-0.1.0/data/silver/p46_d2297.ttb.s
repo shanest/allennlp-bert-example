@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+INT	very
+UNK	likely
+SUB	that
+DIS	someone
+FUT	will
+EXS	be
+EXS	waiting
+REL	for
+PRO	us
+NIL	.

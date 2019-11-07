@@ -1,0 +1,9 @@
+DEF	The
+CON	storm
+EPS	caused
+QUV	much
+CON	damage
+REL	to
+DEF	the
+CON	crop
+NIL	.

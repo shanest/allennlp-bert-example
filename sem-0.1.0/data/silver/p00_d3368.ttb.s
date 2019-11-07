@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	where
+PRO	he
+NEC	should
+EXS	put
+HAS	his
+CON	suitcase
+NIL	.

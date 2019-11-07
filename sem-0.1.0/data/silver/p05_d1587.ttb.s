@@ -1,0 +1,10 @@
+QUE	Who
+ENS	drives
+COM	better
+COO	,
+HAS	your
+ROL	father
+DIS	or
+HAS	your
+ROL	mother
+QUE	?

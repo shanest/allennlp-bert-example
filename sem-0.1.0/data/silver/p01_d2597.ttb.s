@@ -1,0 +1,9 @@
+REL	At
+AND	any
+CON	rate
+NIL	,
+PRO	I
+EPS	did
+HAS	my
+CON	duty
+NIL	.

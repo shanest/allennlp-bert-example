@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+EXS	working
+IST	hard
+SUB	to
+EXS	support
+HAS	his
+CON	family
+NIL	.

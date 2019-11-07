@@ -1,0 +1,9 @@
+PRO	I
+EPS	ate
+IST	fried
+CON	rice
+COO	and
+EPS	drank
+DIS	some
+CON	beer
+NIL	.

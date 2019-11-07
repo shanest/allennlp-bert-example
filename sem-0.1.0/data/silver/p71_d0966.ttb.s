@@ -1,0 +1,9 @@
+PRO	He
+FUT	will
+EXS	make
+HAS	my
+ROL	sister
+DIS	a
+IST	good
+CON	husband
+NIL	.

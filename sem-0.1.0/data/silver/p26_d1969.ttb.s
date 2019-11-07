@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+IST	difficult
+SUB	to
+EXS	shoot
+DIS	a
+CON	bird
+EXS	flying
+REL	in
+DEF	the
+CON	air
+NIL	.

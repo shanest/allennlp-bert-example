@@ -1,0 +1,12 @@
+CON	Go
+SUB	where
+PRO	you
+FUT	will
+REL	in
+GPE	Holland
+NIL	,
+PRO	you
+FUT	will
+EXS	see
+CON	windmills
+NIL	.

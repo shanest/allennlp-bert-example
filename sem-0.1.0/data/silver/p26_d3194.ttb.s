@@ -1,0 +1,11 @@
+PRO	He
+EPS	made
+NOT	no
+CON	effort
+SUB	to
+EXS	accept
+HAS	his
+CON	daughter
+HAS	's
+CON	boyfriend
+NIL	.

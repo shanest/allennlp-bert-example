@@ -1,0 +1,13 @@
+PRO	She
+ENS	buys
+AND	every
+CON	thing
+PRO	she
+ENS	wants
+NOT	without
+EXS	paying
+CON	attention
+REL	to
+DEF	the
+CON	price
+NIL	.

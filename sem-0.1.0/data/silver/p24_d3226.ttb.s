@@ -1,0 +1,10 @@
+UNK	There
+HAS	's
+EXS	been
+INT	too
+QUV	much
+CON	talk
+AND	about
+DST	that
+CON	marriage
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+CON	dog
+AND	that
+EPS	bit
+DEF	the
+CON	child
+PST	was
+EXS	caught
+IST	soon
+REL	after
+NIL	.

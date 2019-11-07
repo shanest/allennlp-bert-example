@@ -1,0 +1,10 @@
+PRO	I
+PST	thought
+PER	Tom
+FUT	would
+EXS	prepare
+DEF	the
+CON	food
+REL	for
+PRO	us
+NIL	.

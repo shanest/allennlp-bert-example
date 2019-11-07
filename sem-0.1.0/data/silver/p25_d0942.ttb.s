@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+PER	Tom
+SUB	to
+EXS	talk
+REL	to
+PER	Mary
+NIL	.

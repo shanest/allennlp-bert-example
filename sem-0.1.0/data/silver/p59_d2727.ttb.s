@@ -1,0 +1,12 @@
+NOW	Do
+NOT	n't
+EXS	trust
+DIS	a
+CON	man
+HAS	whose
+CON	past
+PRO	you
+ENS	know
+NOT	nothing
+IST	about
+NIL	.

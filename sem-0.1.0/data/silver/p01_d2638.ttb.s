@@ -1,0 +1,10 @@
+GPE	China
+NOW	is
+INT	about
+QUC	twenty-five
+CON	times
+AND	as
+IST	large
+AND	as
+GPE	Japan
+NIL	.

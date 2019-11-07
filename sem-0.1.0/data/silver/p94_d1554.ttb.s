@@ -1,0 +1,10 @@
+PRO	He
+EPS	asked
+PRO	me
+IMP	if
+PRO	I
+PST	was
+EXS	happy
+DIS	or
+NOT	not
+NIL	.

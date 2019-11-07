@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	just
+EXS	telling
+PRO	you
+SUB	to
+EXS	think
+AND	about
+PRO	it
+NIL	.

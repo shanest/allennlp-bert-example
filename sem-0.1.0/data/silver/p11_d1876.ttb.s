@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	decided
+SUB	to
+EXS	join
+DEF	the
+IST	volunteer
+CON	fire
+CON	department
+NIL	.

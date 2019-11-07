@@ -1,0 +1,11 @@
+ORG	Was
+SUB	that
+PRO	you
+PRO	I
+EPS	saw
+REL	with
+PER	Tom
+AND	near
+DEF	the
+CON	river
+QUE	?

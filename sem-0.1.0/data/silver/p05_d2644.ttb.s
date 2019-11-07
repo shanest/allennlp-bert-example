@@ -1,0 +1,14 @@
+PRO	I
+EPS	thought
+PER	Tom
+POS	could
+EXS	handle
+DEF	the
+CON	job
+IMP	if
+PRO	I
+EPS	gave
+PRO	him
+DIS	a
+CON	chance
+NIL	.

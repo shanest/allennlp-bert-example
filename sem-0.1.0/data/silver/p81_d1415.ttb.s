@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	have
+AND	as
+QUV	many
+CON	friends
+AND	as
+PER	Mary
+NOW	does
+NIL	.

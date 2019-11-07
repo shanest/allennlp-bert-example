@@ -1,0 +1,10 @@
+PRO	You
+NOW	are
+NOT	n't
+EXS	listening
+SUB	to
+QUE	what
+PRO	I
+NOW	'm
+EXS	saying
+NIL	.

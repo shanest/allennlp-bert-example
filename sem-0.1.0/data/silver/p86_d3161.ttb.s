@@ -1,0 +1,9 @@
+PRO	I
+PST	got
+EXS	acquainted
+REL	with
+PRO	him
+QUC	three
+CON	years
+PST	ago
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+XCL	only
+EPS	heard
+REL	about
+PRO	it
+EMP	myself
+DIS	a
+CON	couple
+AND	of
+CON	minutes
+PST	ago
+NIL	.

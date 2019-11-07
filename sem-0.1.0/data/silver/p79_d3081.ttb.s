@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+INT	pretty
+EXS	obvious
+SUB	that
+PRO	she
+ENS	loves
+PRO	him
+NIL	.

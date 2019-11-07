@@ -1,0 +1,15 @@
+PRO	I
+NOW	am
+EXS	looking
+REL	for
+DIS	an
+GPO	Italian
+CON	person
+AND	so
+AND	as
+SUB	to
+EXS	do
+DIS	an
+GPO	Italian-Spanish
+CON	exchange
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+NOW	has
+NOT	n't
+EXS	gone
+DIS	anywhere
+NIL	.
+PRO	He
+NOW	's
+IST	still
+REL	in
+HAS	his
+CON	room
+NIL	.

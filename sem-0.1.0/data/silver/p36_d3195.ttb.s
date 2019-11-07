@@ -1,0 +1,13 @@
+PER	Tom
+PST	did
+NOT	n’t
+EXS	notice
+DEF	the
+CON	look
+AND	of
+CON	disdain
+REL	on
+PER	Mary
+HAS	's
+CON	face
+NIL	.

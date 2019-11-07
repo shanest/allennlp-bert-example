@@ -1,0 +1,17 @@
+NOT	No
+CON	one
+HAS	's
+CON	home
+REL	at
+HAS	my
+CON	place
+NOW	today
+NIL	,
+AND	so
+NOW	do
+PRO	you
+ENS	want
+SUB	to
+EXS	come
+IST	over
+QUE	?

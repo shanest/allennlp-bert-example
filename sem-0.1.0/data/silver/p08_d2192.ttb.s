@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+DEF	the
+IST	last
+CON	person
+SUB	to
+EXS	see
+PER	Mary
+EXS	alive
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+FUT	'd
+EXS	like
+NIL	to
+EXS	look
+REL	at
+DEF	the
+CON	wine
+CON	list
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	.
+PRO	I
+PST	did
+NOT	n't
+EXS	do
+PRO	it
+REL	on
+CON	purpose
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	sat
+IST	together
+QUC	three
+CON	rows
+AND	behind
+PER	John
+NIL	.

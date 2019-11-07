@@ -1,0 +1,17 @@
+DEF	The
+CON	girl
+PST	had
+EXS	grown
+IST	up
+NOT	without
+AND	any
+CON	money
+AND	and
+SUB	when
+PRO	she
+EPS	married
+PRO	she
+EPS	became
+DIS	a
+NIL	spendthrift
+NIL	.

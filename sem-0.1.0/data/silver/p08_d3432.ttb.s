@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PER	Tom
+EPS	said
+HAS	his
+IST	last
+CON	name
+NOW	is
+PER	Jackson
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+EPS	took
+EXS	leave
+AND	of
+DEF	the
+CON	villagers
+COO	and
+EPS	made
+REL	for
+HAS	my
+IST	next
+CON	destination
+NIL	.

@@ -1,0 +1,10 @@
+AND	Nowadays
+UNK	there
+NOW	are
+NOT	no
+EXS	ninjas
+DIS	or
+CON	samurais
+REL	in
+GPE	Japan
+NIL	.

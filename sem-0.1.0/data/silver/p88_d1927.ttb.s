@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	looked
+EXS	embarrassed
+SUB	when
+PER	John
+EPS	caught
+PRO	them
+EXG	kissing
+NIL	.

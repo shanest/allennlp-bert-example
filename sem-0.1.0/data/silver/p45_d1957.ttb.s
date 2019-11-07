@@ -1,0 +1,9 @@
+DST	That
+CON	child
+EPS	stuck
+IST	out
+HAS	his
+CON	tongue
+REL	at
+PRO	me
+NIL	.

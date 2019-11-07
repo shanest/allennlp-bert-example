@@ -1,0 +1,11 @@
+PRO	He
+EPS	devoted
+AND	all
+HAS	his
+CON	time
+REL	to
+DEF	the
+CON	study
+AND	of
+CON	history
+NIL	.

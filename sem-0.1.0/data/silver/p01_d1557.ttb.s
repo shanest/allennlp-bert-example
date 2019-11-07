@@ -1,0 +1,10 @@
+AND	Almost
+AND	all
+DEF	the
+CON	workers
+EPS	objected
+NIL	to
+EXS	working
+REL	at
+CON	night
+NIL	.

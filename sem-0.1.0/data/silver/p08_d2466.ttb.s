@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+EXS	going
+SUB	to
+EXS	have
+SUB	to
+EXS	pay
+REL	in
+CON	advance
+NIL	.

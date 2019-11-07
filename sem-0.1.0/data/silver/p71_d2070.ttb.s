@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+EXS	going
+SUB	to
+EXS	stay
+REL	at
+DIS	a
+CON	friend
+HAS	's
+CON	house
+NIL	.

@@ -1,0 +1,10 @@
+EXS	Tell
+HAS	your
+CON	son
+NOT	not
+SUB	to
+EXS	harass
+HAS	my
+CON	daughter
+CON	anymore
+NIL	.

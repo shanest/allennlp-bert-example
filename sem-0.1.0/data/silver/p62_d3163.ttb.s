@@ -1,0 +1,14 @@
+PER	Tom
+EPS	ate
+DEF	the
+IST	last
+CON	slice
+AND	of
+CON	bread
+AND	so
+PER	Mary
+PST	had
+NOT	nothing
+SUB	to
+EXS	eat
+NIL	.

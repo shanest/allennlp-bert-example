@@ -1,0 +1,9 @@
+PRO	We
+EPS	made
+ROL	Mr
+PER	Grey
+ROL	chairman
+AND	of
+DEF	the
+CON	committee
+NIL	.

@@ -1,0 +1,12 @@
+PRX	This
+NOW	is
+DEF	the
+IST	final
+EXG	boarding
+EXS	call
+REL	for
+GPE	Japan
+GEO	Airlines
+ORG	Flight
+QUC	731
+NIL	.

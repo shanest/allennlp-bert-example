@@ -1,0 +1,9 @@
+PRO	She
+EPS	thought
+AND	of
+GPE	London
+AND	as
+HAS	her
+IST	new
+CON	home
+NIL	.

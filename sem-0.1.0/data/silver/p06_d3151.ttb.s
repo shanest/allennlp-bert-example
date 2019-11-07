@@ -1,0 +1,11 @@
+POS	Maybe
+PER	Tom
+PST	was
+DEF	the
+QUC	one
+AND	who
+EPS	stole
+PER	Mary
+HAS	's
+CON	necklace
+NIL	.

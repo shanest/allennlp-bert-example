@@ -1,0 +1,13 @@
+PRO	He
+IST	still
+ENS	remembers
+DEF	the
+CON	day
+HAS	his
+CON	mother
+EPS	found
+IST	out
+PRO	he
+PST	was
+EXS	smoking
+NIL	.

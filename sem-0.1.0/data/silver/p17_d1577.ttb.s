@@ -1,0 +1,12 @@
+CON	God
+POS	can
+NOT	not
+EXS	make
+DIS	a
+CON	triangle
+REL	with
+MOR	more
+MOR	than
+QUC	180
+UOM	degrees
+NIL	.

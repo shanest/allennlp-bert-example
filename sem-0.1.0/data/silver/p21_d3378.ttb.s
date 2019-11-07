@@ -1,0 +1,10 @@
+PRO	He
+EPS	spent
+DEF	the
+CON	night
+REL	at
+HAS	his
+ROL	uncle
+HAS	's
+CON	place
+NIL	.

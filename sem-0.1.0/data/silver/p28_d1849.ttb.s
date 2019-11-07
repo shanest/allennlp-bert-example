@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	take
+DIS	a
+IST	quick
+CON	shower
+NIL	.

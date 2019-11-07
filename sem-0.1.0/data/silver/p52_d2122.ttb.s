@@ -1,0 +1,10 @@
+PRO	We
+NOW	are
+QUC	forty
+UOM	kilometers
+IST	away
+REL	from
+DEF	the
+CON	capital
+CON	city
+NIL	.

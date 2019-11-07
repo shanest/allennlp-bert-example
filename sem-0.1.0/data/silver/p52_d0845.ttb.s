@@ -1,0 +1,11 @@
+DEF	The
+CON	instant
+PRO	I
+EPS	saw
+PRO	him
+PRO	I
+EPS	knew
+PRO	he
+PST	was
+EXS	angry
+NIL	.

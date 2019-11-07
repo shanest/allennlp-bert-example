@@ -1,0 +1,9 @@
+PRO	She
+EPS	came
+SUB	to
+EXS	see
+PRO	me
+DEF	the
+ALT	other
+CON	day
+NIL	.

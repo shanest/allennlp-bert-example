@@ -1,0 +1,10 @@
+PRX	This
+CON	island
+EPS	belonged
+REL	to
+GPE	France
+REL	in
+DEF	the
+IST	19th
+CON	century
+NIL	.

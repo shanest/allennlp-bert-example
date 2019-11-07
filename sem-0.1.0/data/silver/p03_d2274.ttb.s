@@ -1,0 +1,12 @@
+QUE	How
+NOW	is
+PRO	it
+SUB	that
+PRO	you
+NOW	're
+AND	always
+AND	so
+IST	full
+AND	of
+CON	energy
+QUE	?

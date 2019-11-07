@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXS	dressed
+DIS	a
+IST	little
+MOR	more
+IST	casually
+AND	than
+IST	usual
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+ENS	thinks
+PRO	it
+EXS	important
+REL	for
+PER	Mary
+SUB	to
+EXS	learn
+QUE	how
+SUB	to
+EXS	speak
+GPO	French
+NIL	.

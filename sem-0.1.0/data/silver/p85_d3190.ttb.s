@@ -1,0 +1,11 @@
+PRO	He
+NOW	has
+NOT	never
+EXS	come
+REL	on
+CON	time
+SUB	that
+PRO	I
+ENS	know
+AND	of
+NIL	.

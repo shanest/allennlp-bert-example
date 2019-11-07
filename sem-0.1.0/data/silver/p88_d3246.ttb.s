@@ -1,0 +1,12 @@
+AND	Every
+CON	student
+ENS	trusts
+ROL	Mr
+PER	Akai
+SUB	because
+PRO	he
+IST	never
+NOW	breaks
+HAS	his
+CON	word
+NIL	.

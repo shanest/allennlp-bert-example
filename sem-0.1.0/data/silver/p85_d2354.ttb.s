@@ -1,0 +1,11 @@
+PER	Tom
+POS	may
+EXT	have
+PFT	been
+UNK	there
+NIL	.
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+NIL	.

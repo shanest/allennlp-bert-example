@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+IST	willing
+SUB	to
+EXS	do
+AND	almost
+AND	anything
+REL	for
+PER	Mary
+NIL	.

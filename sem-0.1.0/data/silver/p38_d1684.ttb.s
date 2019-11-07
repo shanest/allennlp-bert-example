@@ -1,0 +1,11 @@
+PRO	She
+EPS	combed
+HAS	her
+CON	hair
+COO	and
+EXS	bound
+PRO	it
+REL	with
+DIS	a
+CON	ribbon
+NIL	.

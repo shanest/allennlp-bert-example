@@ -1,0 +1,13 @@
+PRO	I
+ENS	want
+NIL	to
+EXS	learn
+AND	all
+QUC	1,000
+CON	words
+REL	on
+PRX	this
+CON	list
+REL	by
+MOY	July
+NIL	.

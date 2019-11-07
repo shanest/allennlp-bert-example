@@ -1,0 +1,10 @@
+NOT	Nobody
+ENS	knows
+SUB	that
+PRO	I
+NOW	have
+EXS	bought
+DIS	a
+IST	new
+CON	car
+NIL	.

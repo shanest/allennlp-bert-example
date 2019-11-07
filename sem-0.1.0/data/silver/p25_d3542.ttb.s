@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	filled
+REL	with
+CON	admiration
+REL	for
+HAS	your
+CON	bravery
+NIL	.

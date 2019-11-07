@@ -1,0 +1,11 @@
+PRO	I
+EPS	bought
+DEF	the
+COL	black
+CON	bike
+NIL	instead
+AND	of
+DEF	the
+IST	red
+QUC	one
+NIL	.

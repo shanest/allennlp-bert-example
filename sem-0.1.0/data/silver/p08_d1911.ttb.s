@@ -1,0 +1,11 @@
+IMP	If
+PRO	you
+ENS	need
+DIS	an
+CON	umbrella
+PRO	I
+FUT	'll
+EXS	lend
+PRO	you
+QUC	one
+NIL	.

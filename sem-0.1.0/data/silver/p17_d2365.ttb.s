@@ -1,0 +1,10 @@
+PER	Tom
+EPS	pitched
+DEF	the
+CON	tent
+SUB	while
+PER	Mary
+EPS	started
+DEF	the
+CON	fire
+NIL	.

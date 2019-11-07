@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+IST	always
+EXS	listening
+REL	to
+CON	music
+COO	;
+PRO	I
+POS	ca
+NOT	n't
+EXS	live
+NOT	without
+PRO	it
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+EPS	noticed
+SUB	that
+PER	Mary
+PST	was
+EXG	sitting
+REL	in
+DEF	the
+CON	corner
+REL	by
+REF	herself
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	use
+AND	of
+IST	new
+CON	technology
+NOW	is
+EXG	attracting
+IST	more
+CON	costumers
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+EPS	assumed
+DEF	the
+CON	leadership
+AND	of
+DEF	the
+IST	political
+CON	party
+NIL	.

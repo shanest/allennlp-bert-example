@@ -1,0 +1,15 @@
+PRO	She
+FUT	'd
+EXS	spent
+AND	half
+DEF	the
+CON	night
+REL	with
+HAS	her
+CON	head
+REL	down
+DEF	the
+CON	toilet
+EXS	throwing
+REL	up
+NIL	.

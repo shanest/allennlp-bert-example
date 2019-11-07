@@ -1,0 +1,9 @@
+PRO	You
+NOW	've
+EXS	got
+SUB	to
+EXS	get
+DIS	a
+IST	steady
+CON	job
+NIL	.

@@ -1,0 +1,10 @@
+PRO	It
+FUT	wo
+NOT	n't
+EXS	be
+IST	long
+REL	before
+PRO	they
+NOW	get
+EXS	married
+NIL	.

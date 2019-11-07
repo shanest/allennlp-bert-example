@@ -1,0 +1,9 @@
+PRO	We
+NOW	're
+IST	already
+EXS	high
+IST	up
+REL	in
+DEF	the
+CON	sky
+NIL	.

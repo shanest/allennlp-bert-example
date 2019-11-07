@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	just
+EXS	going
+REL	across
+REL	to
+DEF	the
+CON	flower
+CON	shop
+NIL	.

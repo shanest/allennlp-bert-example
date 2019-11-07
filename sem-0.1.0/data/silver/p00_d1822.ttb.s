@@ -1,0 +1,10 @@
+PRO	I
+PST	had
+EXS	got
+HAS	my
+CON	camera
+EXS	stolen
+REL	in
+DEF	the
+CON	train
+NIL	.

@@ -1,0 +1,10 @@
+PRO	She
+EPS	regretted
+SUB	that
+PRO	she
+PST	had
+NOT	not
+EXS	followed
+HAS	his
+CON	advice
+NIL	.

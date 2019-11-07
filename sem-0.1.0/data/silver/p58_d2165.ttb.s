@@ -1,0 +1,10 @@
+PRO	I
+ENS	love
+EXS	hearing
+ENS	lies
+SUB	when
+PRO	I
+ENS	know
+DEF	the
+CON	truth
+NIL	.

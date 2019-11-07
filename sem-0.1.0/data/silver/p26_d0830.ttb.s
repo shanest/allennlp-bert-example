@@ -1,0 +1,11 @@
+UNK	There
+NOW	is
+NOT	no
+EXS	telling
+EQU	exactly
+SUB	when
+DEF	the
+CON	earth
+PST	was
+EXS	born
+NIL	.

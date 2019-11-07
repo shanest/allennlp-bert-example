@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+IST	just
+NOW	now
+EXS	finished
+EXG	doing
+HAS	my
+ART	English
+CON	homework
+NIL	.

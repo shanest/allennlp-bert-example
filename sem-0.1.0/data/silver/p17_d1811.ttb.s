@@ -1,0 +1,10 @@
+PRX	This
+IST	little
+CON	story
+NOW	is
+INT	too
+EXS	simple
+SUB	to
+EXS	explain
+AND	everything
+NIL	.

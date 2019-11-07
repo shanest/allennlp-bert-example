@@ -1,0 +1,15 @@
+PER	Tom
+EPS	watched
+INT	very
+IST	closely
+NIL	,
+BUT	but
+POS	could
+NOT	n't
+EXS	figure
+AND	out
+DEF	the
+CON	magician
+HAS	's
+CON	trick
+NIL	.

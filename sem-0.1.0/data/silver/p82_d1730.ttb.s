@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+DEF	the
+CON	camera
+PRO	he
+EPS	took
+DEF	the
+CON	picture
+REL	with
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+IST	ashamed
+AND	of
+EXT	having
+PFT	been
+EXS	idle
+REL	in
+HAS	his
+CON	youth
+NIL	.

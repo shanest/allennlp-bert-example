@@ -1,0 +1,16 @@
+EXS	Put
+HAS	your
+CON	toys
+IST	back
+REL	into
+DEF	the
+CON	box
+AND	and
+IST	then
+EPS	put
+DEF	the
+CON	box
+REL	on
+DEF	the
+CON	shelf
+NIL	.

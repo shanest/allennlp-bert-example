@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+NOT	not
+INT	too
+QUC	much
+SUB	to
+EXS	say
+IST	so
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+PST	had
+NOT	not
+EXS	gone
+IST	far
+SUB	before
+PRO	I
+EPS	met
+PRO	him
+NIL	.

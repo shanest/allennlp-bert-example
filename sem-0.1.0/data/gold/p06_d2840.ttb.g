@@ -1,0 +1,10 @@
+PER	Tom
+EPS	told
+PRO	me
+PRO	he
+PST	did
+NOT	n't
+EXS	have
+DIS	any
+ROL	enemies
+NIL	.

@@ -1,0 +1,13 @@
+EXS	Excuse
+PRO	me
+NIL	,
+CON	waiter
+NIL	.
+UNK	There
+HAS	's
+DIS	a
+CON	hair
+REL	in
+HAS	my
+CON	soup
+NIL	.

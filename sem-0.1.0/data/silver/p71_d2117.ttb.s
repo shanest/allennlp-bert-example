@@ -1,0 +1,12 @@
+QUE	How
+NOW	do
+PRO	you
+EXS	help
+DIS	someone
+AND	who
+NOW	does
+NOT	n't
+EXS	want
+HAS	your
+CON	help
+QUE	?

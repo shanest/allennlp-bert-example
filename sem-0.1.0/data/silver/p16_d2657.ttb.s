@@ -1,0 +1,13 @@
+PER	Tom
+EPS	looked
+REL	in
+DEF	the
+COL	yellow
+CON	pages
+SUB	to
+EXS	find
+DIS	a
+IST	used
+CON	car
+CON	dealer
+NIL	.

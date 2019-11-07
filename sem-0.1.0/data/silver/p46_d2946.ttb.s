@@ -1,0 +1,10 @@
+DEF	The
+CON	man
+AND	who
+EPS	shot
+PRO	him
+PST	was
+PER	Sirhan
+PER	Bishara
+PER	Sirhan
+NIL	.

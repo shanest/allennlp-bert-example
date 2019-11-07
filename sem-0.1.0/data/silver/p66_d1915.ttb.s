@@ -1,0 +1,15 @@
+PER	Mary
+EPS	wrote
+HAS	her
+CON	number
+REL	on
+DIS	a
+CON	piece
+AND	of
+CON	paper
+COO	and
+EPS	handed
+PRO	it
+REL	to
+PER	Tom
+NIL	.

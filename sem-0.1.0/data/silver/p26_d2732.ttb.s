@@ -1,0 +1,12 @@
+IMP	If
+PRO	we
+ENS	stick
+IST	together
+NIL	,
+PRO	we
+FUT	'll
+EXS	be
+IST	able
+SUB	to
+EXS	survive
+NIL	.

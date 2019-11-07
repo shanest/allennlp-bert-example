@@ -1,0 +1,15 @@
+HAS	My
+ROL	father
+PST	was
+NOT	no
+LES	less
+IST	affectionate
+AND	and
+CON	tender
+REL	to
+PRO	me
+AND	than
+HAS	my
+ROL	mother
+PST	was
+NIL	.

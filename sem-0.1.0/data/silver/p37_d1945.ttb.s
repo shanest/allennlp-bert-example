@@ -1,0 +1,16 @@
+DIS	An
+CON	astute
+CON	reader
+NEC	should
+EXS	be
+IST	willing
+SUB	to
+EXS	weigh
+AND	everything
+PRO	they
+EPS	read
+NIL	,
+AND	including
+EXS	anonymous
+CON	sources
+NIL	.

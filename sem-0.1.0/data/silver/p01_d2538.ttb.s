@@ -1,0 +1,9 @@
+QUC	One
+IST	more
+CON	person
+FUT	will
+EXS	be
+EXG	joining
+PRO	us
+IST	later
+NIL	.

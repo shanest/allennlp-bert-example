@@ -1,0 +1,11 @@
+PER	Thomas
+ENS	likes
+PER	Anna
+NIL	,
+COO	but
+PER	Anna
+NOW	does
+NOT	n't
+EXS	like
+PER	Thomas
+NIL	.

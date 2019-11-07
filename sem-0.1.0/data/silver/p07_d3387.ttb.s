@@ -1,0 +1,12 @@
+DIS	Some
+CON	dog
+CON	owners
+NOW	wonder
+IMP	if
+PRO	they
+NOW	are
+EXG	feeding
+HAS	their
+CON	dogs
+IST	enough
+NIL	.

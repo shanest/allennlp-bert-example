@@ -1,0 +1,13 @@
+PER	Tom
+EPS	knew
+SUB	that
+PRO	he
+POS	could
+NOT	n't
+EXS	get
+REL	to
+DEF	the
+CON	airport
+REL	by
+CLO	2:30
+NIL	.

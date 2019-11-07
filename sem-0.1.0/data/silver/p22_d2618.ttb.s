@@ -1,0 +1,9 @@
+PRO	He
+EXS	deemed
+PRO	it
+IST	wise
+SUB	to
+EXS	accept
+DEF	the
+CON	offer
+NIL	.

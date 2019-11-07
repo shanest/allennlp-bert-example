@@ -1,0 +1,10 @@
+PER	Tom
+NIL	,
+PRO	I
+ENS	want
+PRO	you
+SUB	to
+EXS	speak
+REL	to
+PER	Mary
+NIL	.

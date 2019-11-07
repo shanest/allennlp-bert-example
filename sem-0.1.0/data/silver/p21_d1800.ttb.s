@@ -1,0 +1,12 @@
+PER	Tom
+ENS	has
+NOT	no
+CON	recollection
+AND	of
+QUE	how
+PRO	he
+EPS	got
+HAS	his
+IST	black
+CON	eye
+NIL	.

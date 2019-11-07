@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+NOT	not
+IST	able
+SUB	to
+EXS	know
+DEF	the
+CON	truth
+NIL	.

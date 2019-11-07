@@ -1,0 +1,9 @@
+PRO	She
+EPS	met
+DIS	a
+CON	boy
+REL	at
+DEF	the
+CON	county
+IST	fair
+NIL	.

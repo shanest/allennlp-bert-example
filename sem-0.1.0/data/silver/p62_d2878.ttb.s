@@ -1,0 +1,15 @@
+PER	Tom
+IST	certainly
+FUT	would
+NOT	n't
+EXS	be
+EXS	pleased
+IMP	if
+PER	Mary
+EPS	decided
+SUB	to
+EXS	go
+IST	back
+REL	to
+CON	work
+NIL	.

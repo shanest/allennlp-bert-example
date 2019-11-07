@@ -1,0 +1,17 @@
+PER	Tom
+EPS	looked
+REL	at
+HAS	his
+CON	watch
+COO	and
+EPS	saw
+SUB	that
+PRO	he
+IST	only
+PST	had
+QUC	five
+CON	minutes
+EPS	left
+REL	until
+CON	lunchtime
+NIL	.

@@ -1,0 +1,10 @@
+PRO	She
+EPS	bought
+DIS	a
+CON	hair
+EXS	brush
+AND	and
+DIS	a
+CON	tooth
+EXS	brush
+NIL	.

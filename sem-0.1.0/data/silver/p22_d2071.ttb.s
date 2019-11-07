@@ -1,0 +1,9 @@
+PRO	We
+NOW	've
+PFT	been
+AND	over
+PRO	it
+QUC	three
+CON	times
+IST	already
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+DIS	a
+CON	friend
+AND	of
+PER	Tom
+HAS	's
+NIL	,
+ITJ	eh
+QUE	?

@@ -1,0 +1,16 @@
+SUB	When
+PRO	I
+EPS	asked
+PRO	him
+IMP	if
+PRO	he
+EPS	knew
+SUB	where
+PRO	she
+PST	was
+PRO	he
+IST	just
+EPS	shrugged
+HAS	his
+CON	shoulders
+NIL	.

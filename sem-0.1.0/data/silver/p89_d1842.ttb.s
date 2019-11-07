@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	tell
+PRO	you
+DEF	the
+CON	truth
+NIL	.

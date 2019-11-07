@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+DIS	a
+IST	good
+CON	swimmer
+AND	and
+ALT	also
+ENS	plays
+CON	tennis
+IST	well
+NIL	.

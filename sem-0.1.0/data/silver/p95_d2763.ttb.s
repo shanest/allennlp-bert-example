@@ -1,0 +1,10 @@
+PER	Tom
+EPS	waited
+REL	for
+PER	Mary
+REL	in
+CON	front
+AND	of
+DEF	the
+CON	warehouse
+NIL	.

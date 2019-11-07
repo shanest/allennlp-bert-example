@@ -1,0 +1,12 @@
+PRO	We
+NOW	do
+NOT	n't
+ALT	yet
+EXS	know
+DEF	the
+CON	side
+CON	effects
+AND	of
+DEF	the
+CON	drug
+NIL	.

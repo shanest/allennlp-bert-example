@@ -1,0 +1,14 @@
+PRO	I
+NOW	hope
+SUB	to
+IST	soon
+EXS	know
+QUC	much
+MOR	more
+MOR	than
+DIS	a
+IST	few
+CON	sentences
+REL	in
+GPO	Dutch
+NIL	.

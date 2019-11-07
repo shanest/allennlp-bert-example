@@ -1,0 +1,13 @@
+PER	Maria
+EPS	blew
+DIS	a
+CON	kiss
+REL	to
+PER	Tom
+COO	and
+EPS	hid
+IST	quiveringly
+REL	under
+DEF	the
+CON	sofa
+NIL	.

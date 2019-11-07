@@ -1,0 +1,10 @@
+PRX	This
+CON	shirt
+NOW	is
+INT	too
+EXS	small
+REL	for
+PRO	me
+SUB	to
+EXS	wear
+NIL	.

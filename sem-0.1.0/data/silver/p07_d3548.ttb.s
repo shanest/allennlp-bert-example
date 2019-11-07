@@ -1,0 +1,11 @@
+HAS	My
+CON	friend
+EPS	asked
+PRO	me
+IMP	if
+PRO	I
+PST	was
+EXG	feeling
+AND	all
+CON	right
+NIL	.

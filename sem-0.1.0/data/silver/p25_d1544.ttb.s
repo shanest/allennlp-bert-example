@@ -1,0 +1,11 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	get
+PRO	him
+DIS	a
+CON	cup
+AND	of
+CON	coffee
+NIL	.

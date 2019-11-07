@@ -1,0 +1,11 @@
+PRO	It
+EPS	cost
+DIS	a
+CON	lot
+AND	of
+CON	money
+SUB	to
+EXS	repair
+DEF	the
+CON	car
+NIL	.

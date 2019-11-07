@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+AND	all
+CON	thumbs
+SUB	when
+PRO	it
+ENS	comes
+REL	to
+CON	origami
+EQU	,
+DIS	or
+CON	paper
+REL	folding
+NIL	.

@@ -1,0 +1,9 @@
+DIS	A
+IST	few
+CON	months
+AND	later
+NIL	,
+GEO	Israel
+EPS	invaded
+GPE	Egypt
+NIL	.

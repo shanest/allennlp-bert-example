@@ -1,0 +1,10 @@
+PRO	I
+PST	was
+EXS	given
+DIS	a
+IST	nice
+CON	watch
+REL	by
+HAS	my
+ROL	uncle
+NIL	.

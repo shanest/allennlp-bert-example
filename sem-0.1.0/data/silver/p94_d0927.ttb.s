@@ -1,0 +1,10 @@
+INT	Too
+IST	little
+NOW	is
+IST	just
+AND	as
+IST	bad
+AND	as
+INT	too
+QUC	much
+NIL	.

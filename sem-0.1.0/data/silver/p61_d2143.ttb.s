@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	go
+CON	shopping
+REL	after
+CON	lunch
+NIL	.

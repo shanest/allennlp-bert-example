@@ -1,0 +1,9 @@
+PRO	It
+HAS	's
+AND	almost
+CLO	midnight
+NIL	.
+CON	Go
+REL	to
+CON	bed
+NIL	.

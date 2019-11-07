@@ -1,0 +1,10 @@
+PRO	We
+EPS	began
+SUB	to
+EXS	laugh
+SUB	when
+PRO	he
+EPS	told
+DEF	the
+CON	joke
+NIL	.

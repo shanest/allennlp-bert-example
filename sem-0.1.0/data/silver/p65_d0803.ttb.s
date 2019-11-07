@@ -1,0 +1,12 @@
+DST	That
+POS	ca
+NOT	n't
+EXS	be
+PER	Mary
+NIL	.
+PRO	She
+NOW	is
+REL	in
+CON	hospital
+NOW	now
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	suppose
+PRO	it
+NOW	's
+EXS	going
+SUB	to
+EXS	rain
+PRX	this
+CON	evening
+NIL	.

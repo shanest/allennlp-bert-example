@@ -1,0 +1,15 @@
+PER	Tom
+EPS	took
+REL	off
+HAS	his
+IST	dirty
+CON	clothes
+COO	and
+EPS	put
+PRO	them
+IST	directly
+REL	into
+DEF	the
+CON	washing
+CON	machine
+NIL	.

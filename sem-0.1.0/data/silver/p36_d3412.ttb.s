@@ -1,0 +1,11 @@
+IST	Most
+CON	people
+NOW	think
+SUB	that
+PRO	it
+NOW	's
+EXS	OK
+SUB	to
+EXS	eat
+CON	meat
+NIL	.

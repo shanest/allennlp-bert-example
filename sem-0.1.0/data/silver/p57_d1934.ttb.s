@@ -1,0 +1,12 @@
+PRO	I
+PST	had
+NOT	no
+CON	idea
+SUB	that
+PER	Tom
+COO	and
+PER	Mary
+PST	had
+EXS	split
+IST	up
+NIL	.

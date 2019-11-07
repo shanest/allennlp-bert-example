@@ -1,0 +1,11 @@
+QUE	What
+PRO	I
+ENS	have
+REL	in
+HAS	my
+CON	hand
+NOW	is
+DIS	a
+IST	fossil
+CON	seashell
+NIL	.

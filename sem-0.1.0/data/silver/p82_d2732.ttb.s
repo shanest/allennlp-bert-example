@@ -1,0 +1,9 @@
+PRO	I
+POS	could
+NOT	n't
+EXT	have
+EXS	said
+SUB	that
+MOR	better
+EMP	myself
+NIL	.

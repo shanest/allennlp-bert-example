@@ -1,0 +1,12 @@
+REL	At
+IST	first
+PRO	he
+EPS	hated
+PRO	her
+BUT	but
+IST	gradually
+EPS	came
+SUB	to
+EXS	love
+PRO	her
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	said
+SUB	that
+PRO	he
+FUT	would
+EXS	be
+PRX	here
+REL	by
+CLO	2:30
+NIL	.

@@ -1,0 +1,11 @@
+PRO	We
+AND	all
+PST	felt
+EXS	embarrassed
+SUB	to
+EXG	sing
+DIS	a
+CON	song
+REL	in
+CON	public
+NIL	.

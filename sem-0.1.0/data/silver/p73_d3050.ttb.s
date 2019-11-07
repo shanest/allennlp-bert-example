@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+EXS	dangerous
+SUB	to
+EXS	dive
+REL	in
+IST	shallow
+CON	water
+NIL	.

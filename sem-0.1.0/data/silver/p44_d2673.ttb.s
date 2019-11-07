@@ -1,0 +1,10 @@
+PER	Whoever
+EPS	made
+SUB	that
+IST	last
+CON	comment
+NIL	,
+IST	please
+EXS	leave
+NOW	now
+NIL	.

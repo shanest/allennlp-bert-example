@@ -1,0 +1,11 @@
+PRO	I
+NOW	think
+PER	Tom
+NOW	is
+EXS	going
+SUB	to
+EXS	try
+SUB	to
+EXS	kill
+PER	Mary
+NIL	.

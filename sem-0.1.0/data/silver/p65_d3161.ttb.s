@@ -1,0 +1,11 @@
+PRO	It
+NOW	looks
+AND	like
+DEF	the
+ROL	thief
+EPS	came
+REL	in
+AND	through
+DEF	the
+CON	window
+NIL	.

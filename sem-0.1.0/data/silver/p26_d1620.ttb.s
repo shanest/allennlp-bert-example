@@ -1,0 +1,13 @@
+AND	Just
+QUC	seven
+IST	more
+CON	days
+COO	—
+IST	then
+PRO	I
+FUT	'll
+EXS	see
+HAS	my
+CON	sweetie
+ALT	again
+NIL	.

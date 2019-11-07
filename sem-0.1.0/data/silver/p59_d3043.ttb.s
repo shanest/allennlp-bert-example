@@ -1,0 +1,9 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PRO	I
+NOW	'm
+EXS	doing
+PRX	this
+NIL	.

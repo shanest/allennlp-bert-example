@@ -1,0 +1,15 @@
+PER	Tom
+EPS	rented
+DIS	a
+CON	car
+REL	at
+DEF	the
+CON	airport
+COO	and
+EPS	drove
+PRO	it
+REL	to
+PER	Mary
+HAS	's
+CON	house
+NIL	.

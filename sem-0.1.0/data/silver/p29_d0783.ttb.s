@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	make
+DIS	a
+CON	cake
+REL	for
+PER	Mary
+HAS	's
+CON	birthday
+NIL	.

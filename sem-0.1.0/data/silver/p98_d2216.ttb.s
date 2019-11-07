@@ -1,0 +1,10 @@
+PRO	She
+NOW	is
+IST	happiest
+SUB	when
+PRO	she
+NOW	is
+EXS	playing
+DEF	the
+CON	piano
+NIL	.

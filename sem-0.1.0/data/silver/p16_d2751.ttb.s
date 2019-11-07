@@ -1,0 +1,11 @@
+QUE	How
+PST	did
+PER	Tom
+EXS	get
+PER	Mary
+AND	and
+PER	John
+SUB	to
+EXS	stop
+EXS	fighting
+QUE	?

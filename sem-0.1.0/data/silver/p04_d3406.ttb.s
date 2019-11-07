@@ -1,0 +1,9 @@
+DEF	The
+CON	gate
+NOW	is
+INT	too
+EXS	narrow
+REL	for
+DIS	a
+CON	car
+NIL	.

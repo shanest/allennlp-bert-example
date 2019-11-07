@@ -1,0 +1,9 @@
+PER	John
+NOW	is
+IST	senior
+REL	to
+PRO	me
+REL	by
+QUC	two
+CON	years
+NIL	.

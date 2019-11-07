@@ -1,0 +1,13 @@
+PRO	She
+EPS	took
+DIS	a
+IST	deep
+CON	breath
+COO	and
+IST	then
+EPS	started
+SUB	to
+EXS	talk
+AND	about
+REF	herself
+NIL	.

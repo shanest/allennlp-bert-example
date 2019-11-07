@@ -1,0 +1,12 @@
+PER	Tom
+EPS	took
+DIS	a
+CON	drink
+AND	and
+IST	then
+EXS	offered
+DEF	the
+CON	bottle
+REL	to
+PER	Mary
+NIL	.

@@ -1,0 +1,35 @@
+PRO	I
+EPS	bought
+DIS	an
+IST	autographed
+EXT	collected
+CON	edition
+AND	of
+DEF	the
+CON	works
+AND	of
+PER	Tom Miller
+REL	for
+DIS	a
+IST	laughable
+QUC	two hundred
+UOM	euros
+REL	at
+DIS	a
+CON	flea
+CON	market
+NIL	.
+ITJ	Oh
+NIL	,
+PRO	I
+EPS	robbed
+SUB	that
+EXS	clueless
+CON	seller
+NIL	!
+PRO	I
+NEC	should
+EXS	confess
+REL	in
+CON	church
+NIL	!

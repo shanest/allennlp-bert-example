@@ -1,0 +1,12 @@
+QUV	Many
+GPE	Americans
+IST	still
+PST	had
+CON	money
+PRO	they
+PST	had
+EXS	saved
+AND	during
+DEF	the
+CON	war
+NIL	.

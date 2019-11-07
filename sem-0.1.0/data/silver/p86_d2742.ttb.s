@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+HAS	his
+CON	mother
+NOW	is
+IST	gravely
+EXS	ill
+NIL	.

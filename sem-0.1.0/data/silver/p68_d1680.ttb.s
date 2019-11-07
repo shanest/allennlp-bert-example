@@ -1,0 +1,10 @@
+PRO	I
+EPS	thought
+SUB	that
+PER	Tom
+PST	had
+EXS	done
+SUB	that
+REL	for
+PRO	us
+NIL	.

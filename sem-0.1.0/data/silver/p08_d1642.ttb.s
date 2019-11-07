@@ -1,0 +1,9 @@
+PRO	I
+IST	completely
+EPS	forgot
+SUB	that
+UNK	there
+PST	was
+CON	class
+NOW	today
+NIL	!

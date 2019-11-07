@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+NOT	n't
+EXS	looking
+REL	for
+PER	Mary
+NIL	,
+PST	was
+PRO	he
+QUE	?

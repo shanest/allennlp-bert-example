@@ -1,0 +1,13 @@
+PRO	She
+EPS	thought
+AND	of
+DIS	a
+IST	good
+CON	way
+SUB	to
+EXS	make
+CON	money
+REL	on
+DEF	the
+CON	Internet
+NIL	.

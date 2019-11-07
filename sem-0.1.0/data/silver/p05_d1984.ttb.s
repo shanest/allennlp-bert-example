@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+IST	strange
+SUB	that
+PRO	he
+NEC	should
+EXT	have
+EXS	refused
+DEF	the
+CON	offer
+NIL	.

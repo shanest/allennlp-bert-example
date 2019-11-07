@@ -1,0 +1,10 @@
+PRO	We
+ENS	need
+DIS	a
+CON	place
+SUB	to
+EXS	stay
+REL	for
+DEF	the
+CON	night
+NIL	.

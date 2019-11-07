@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+REL	from
+GPE	Boston
+NIL	,
+BUT	but
+NOW	now
+PRO	he
+ENS	lives
+REL	in
+GPE	Chicago
+NIL	.

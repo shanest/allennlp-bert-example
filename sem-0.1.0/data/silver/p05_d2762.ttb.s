@@ -1,0 +1,10 @@
+DEF	The
+ROL	teacher
+NEC	should
+EXS	be
+INT	very
+EXS	patient
+REL	with
+HAS	her
+CON	students
+NIL	.

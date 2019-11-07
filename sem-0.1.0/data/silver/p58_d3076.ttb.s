@@ -1,0 +1,10 @@
+DEF	The
+CON	police
+EPS	threw
+QUV	many
+REL	tear-gas
+CON	grenades
+REL	at
+DEF	the
+CON	protesters
+NIL	.

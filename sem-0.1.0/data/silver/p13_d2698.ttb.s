@@ -1,0 +1,9 @@
+QUE	What
+HAS	's
+DEF	the
+CON	name
+AND	of
+PER	Tom
+HAS	's
+CON	boat
+QUE	?

@@ -1,0 +1,11 @@
+PRO	Dicaeopolis
+ENS	walks
+IST	out
+AND	of
+HAS	his
+CON	house
+COO	and
+ENS	calls
+HAS	his
+ROL	slave
+NIL	.

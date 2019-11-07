@@ -1,0 +1,13 @@
+UNK	There
+PST	were
+INT	too
+QUC	many
+CON	sights
+SUB	to
+EXS	see
+REL	in
+DIS	a
+CON	day
+DIS	or
+QUC	two
+NIL	.

@@ -1,0 +1,14 @@
+PER	Tom
+PST	kept
+EXS	trying
+SUB	to
+EXS	call
+PER	Mary
+NIL	,
+BUT	but
+PRO	she
+IST	never
+EPS	answered
+HAS	her
+CON	phone
+NIL	.

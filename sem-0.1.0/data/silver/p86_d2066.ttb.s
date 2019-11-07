@@ -1,0 +1,11 @@
+PRO	I
+NOW	feed
+HAS	my
+CON	dog
+CON	meat
+REL	at
+EXS	least
+AND	once
+DIS	a
+CON	week
+NIL	.

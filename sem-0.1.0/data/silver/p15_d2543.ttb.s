@@ -1,0 +1,13 @@
+HAS	Her
+CON	heart
+NOW	has
+PFT	been
+EXG	hardening
+AND	all
+AND	throughout
+HAS	her
+CON	string
+AND	of
+IST	bad
+CON	hookups
+NIL	.

@@ -1,0 +1,25 @@
+SUB	When
+PER	Tom
+PST	was
+EXS	working
+REL	on
+DEF	the
+CON	dairy
+CON	farm
+NIL	,
+PRO	he
+NEC	had
+SUB	to
+EXS	get
+IST	up
+REL	at
+CLO	five o'clock
+AND	every
+CON	morning
+SUB	to
+EXS	go
+AND	and
+CON	milk
+DEF	the
+CON	cows
+NIL	.

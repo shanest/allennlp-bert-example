@@ -1,0 +1,14 @@
+PRO	I
+EPS	bought
+CON	flowers
+SUB	because
+PRO	I
+NOW	am
+EXS	going
+SUB	to
+EXS	visit
+HAS	my
+CON	grandmother
+PRX	this
+CON	afternoon
+NIL	.

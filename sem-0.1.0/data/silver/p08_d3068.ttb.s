@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+IST	strange
+SUB	that
+PRO	she
+NEC	should
+EXS	say
+AND	such
+DIS	a
+CON	thing
+NIL	.

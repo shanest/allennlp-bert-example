@@ -1,0 +1,10 @@
+PRO	You
+ENS	need
+XCL	only
+EXS	ask
+PRO	him
+SUB	to
+EXS	pay
+DEF	the
+CON	debt
+NIL	.

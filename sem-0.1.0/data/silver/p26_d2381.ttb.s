@@ -1,0 +1,11 @@
+DEF	The
+EXT	proposed
+CON	method
+NOW	is
+EXS	applied
+REL	to
+QUC	three
+IST	simulated
+CON	case
+CON	studies
+NIL	.

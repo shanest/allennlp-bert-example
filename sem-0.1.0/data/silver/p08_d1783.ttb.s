@@ -1,0 +1,13 @@
+PER	Tom
+ENS	likes
+GEO	Boston
+MOR	better
+MOR	than
+AND	any
+ALT	other
+CON	place
+SUB	where
+PRO	he
+HAS	's
+EPS	lived
+NIL	.

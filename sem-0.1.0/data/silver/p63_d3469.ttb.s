@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+PRG	been
+EXG	bragging
+REL	about
+PRO	it
+AND	all
+CON	morning
+NIL	.

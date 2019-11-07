@@ -1,0 +1,15 @@
+PRO	I
+EPS	threw
+DIS	a
+CON	ball
+REL	to
+HAS	my
+CON	dog
+COO	and
+PRO	he
+EPS	caught
+PRO	it
+REL	in
+HAS	his
+CON	mouth
+NIL	.

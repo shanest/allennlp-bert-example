@@ -1,0 +1,10 @@
+PER	Tom
+HAS	has
+DIS	a
+ROL	sister
+AND	who
+ENS	likes
+NIL	to
+EXS	play
+CON	tennis
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+EPS	bought
+DIS	a
+CON	guidebook
+REL	for
+DEF	the
+CON	museums
+REL	of
+GPE	Florence
+NIL	.

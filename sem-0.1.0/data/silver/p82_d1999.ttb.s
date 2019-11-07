@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+COM	better
+SUB	to
+EXS	be
+APX	approximately
+IST	right
+AND	than
+IST	completely
+EXS	wrong
+NIL	.

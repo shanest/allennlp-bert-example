@@ -1,0 +1,9 @@
+EXS	Come
+REL	on
+NIL	,
+EXS	let
+HAS	's
+NOW	do
+SUB	that
+ALT	again
+NIL	.

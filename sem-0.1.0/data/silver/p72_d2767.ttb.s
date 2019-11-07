@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+NOT	not
+EXS	sleeping
+IST	well
+IST	currently
+AND	and
+NOW	now
+EXT	have
+CON	rings
+REL	under
+DEF	the
+CON	eyes
+NIL	.

@@ -1,0 +1,10 @@
+NIL	There
+NOW	are
+IST	over
+QUC	800,000
+GPE	Basque
+CON	speakers
+REL	in
+DEF	the
+CON	world
+NIL	.

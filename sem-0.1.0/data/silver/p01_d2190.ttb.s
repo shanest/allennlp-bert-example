@@ -1,0 +1,9 @@
+DEF	The
+CON	girl
+EXG	staring
+IST	back
+REL	at
+PRO	me
+PST	was
+EXS	angry
+NIL	.

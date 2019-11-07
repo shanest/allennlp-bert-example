@@ -1,0 +1,11 @@
+PRO	We
+EPS	abandoned
+DEF	the
+CON	project
+AND	because
+AND	of
+DIS	a
+CON	lack
+AND	of
+CON	funds
+NIL	.

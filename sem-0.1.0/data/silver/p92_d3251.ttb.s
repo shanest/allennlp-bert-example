@@ -1,0 +1,10 @@
+PRO	He
+EPS	let
+HAS	his
+CON	dog
+PST	run
+EXS	free
+REL	in
+DEF	the
+CON	field
+NIL	.

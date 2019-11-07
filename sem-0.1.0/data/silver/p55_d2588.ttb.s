@@ -1,0 +1,17 @@
+PER	Tom
+EPS	broke
+REL	into
+PER	Mary
+HAS	's
+CON	car
+COO	and
+EPS	stole
+QUE	what
+PST	was
+EXS	hidden
+REL	under
+DEF	the
+ROL	driver
+HAS	's
+CON	seat
+NIL	.

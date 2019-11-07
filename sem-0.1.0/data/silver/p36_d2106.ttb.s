@@ -1,0 +1,10 @@
+PER	Tom
+EPS	fell
+REL	off
+DEF	the
+CON	roof
+COO	and
+EPS	broke
+QUC	three
+CON	ribs
+NIL	.

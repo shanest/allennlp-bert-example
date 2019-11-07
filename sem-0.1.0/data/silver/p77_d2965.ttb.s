@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+INT	highly
+EXS	unlikely
+SUB	that
+PER	Tom
+FUT	will
+EXS	drink
+AND	any
+CON	beer
+NIL	.

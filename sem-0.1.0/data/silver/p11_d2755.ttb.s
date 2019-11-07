@@ -1,0 +1,9 @@
+PRO	I
+EPS	took
+DEF	the
+CON	radio
+AND	apart
+SUB	to
+EXS	repair
+PRO	it
+NIL	.

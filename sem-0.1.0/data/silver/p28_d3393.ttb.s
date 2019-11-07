@@ -1,0 +1,11 @@
+PER	Tom
+EPS	took
+DIS	a
+CON	pill
+REL	from
+DEF	the
+CON	bottle
+COO	and
+EPS	swallowed
+PRO	it
+NIL	.

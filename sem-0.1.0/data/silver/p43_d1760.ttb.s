@@ -1,0 +1,10 @@
+PRO	You
+ENS	need
+NOT	not
+EXT	have
+EXS	bought
+AND	such
+DIS	an
+IST	expensive
+CON	book
+NIL	.

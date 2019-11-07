@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+NOT	not
+EXS	given
+REL	to
+AND	everybody
+SUB	to
+EXS	study
+IST	abroad
+NIL	.

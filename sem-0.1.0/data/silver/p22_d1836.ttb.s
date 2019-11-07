@@ -1,0 +1,11 @@
+QUE	How
+QUV	much
+NOW	do
+PRX	these
+IST	black
+CON	pants
+AND	and
+IST	red
+CON	shirts
+CON	cost
+QUE	?

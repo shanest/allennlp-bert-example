@@ -1,0 +1,15 @@
+PER	Tom
+EPS	wanted
+SUB	to
+EXS	be
+DEF	the
+IST	first
+SUB	to
+EXS	shake
+CON	hands
+REL	with
+PER	Mary
+REL	after
+HAS	her
+CON	concert
+NIL	.

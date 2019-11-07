@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	read
+AND	any
+PER	Tennyson
+HAS	's
+CON	poems
+QUE	?

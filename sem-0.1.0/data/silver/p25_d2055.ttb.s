@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+NOT	no
+CON	secret
+SUB	that
+PER	Tom
+NOW	does
+NOT	n't
+EXS	like
+PER	Mary
+NIL	.

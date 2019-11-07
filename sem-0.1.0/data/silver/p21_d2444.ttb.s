@@ -1,0 +1,9 @@
+PRO	I
+NOW	enjoy
+DEF	the
+CON	challenge
+AND	of
+EXG	translating
+DEF	the
+CON	untranslatable
+NIL	.

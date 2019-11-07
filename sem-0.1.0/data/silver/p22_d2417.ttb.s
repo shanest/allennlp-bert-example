@@ -1,0 +1,9 @@
+DST	That
+HAS	's
+EQU	exactly
+QUE	what
+PER	Tom
+PST	was
+IST	afraid
+AND	of
+NIL	.

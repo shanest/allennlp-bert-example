@@ -1,0 +1,15 @@
+PST	Yesterday
+PRO	I
+EPS	saw
+DIS	an
+IST	old
+CON	acquaintance
+AND	whom
+PRO	I
+PST	had
+NOT	n't
+EXS	seen
+REL	in
+QUC	ten
+CON	years
+NIL	.

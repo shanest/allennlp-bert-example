@@ -1,0 +1,9 @@
+PER	Joan
+EPS	dropped
+HAS	her
+CON	husband
+AND	like
+DIS	a
+IST	hot
+CON	potato
+NIL	.

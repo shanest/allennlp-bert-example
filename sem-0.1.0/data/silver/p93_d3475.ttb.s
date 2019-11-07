@@ -1,0 +1,10 @@
+PRO	It
+ENS	seems
+REL	to
+PRO	me
+SUB	that
+PRO	he
+NOW	is
+INT	too
+EXS	careless
+NIL	.

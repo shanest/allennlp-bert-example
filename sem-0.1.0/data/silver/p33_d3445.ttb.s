@@ -1,0 +1,11 @@
+DST	That
+HAS	's
+DEF	the
+INT	most
+IST	annoying
+CON	song
+PRO	I
+NOW	've
+IST	ever
+EXS	heard
+NIL	.

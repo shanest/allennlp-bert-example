@@ -1,0 +1,11 @@
+DEF	The
+CON	polka
+NOW	is
+REL	from
+GPE	Poland
+NIL	,
+AND	as
+NOW	is
+DEF	the
+CON	polonaise
+NIL	.

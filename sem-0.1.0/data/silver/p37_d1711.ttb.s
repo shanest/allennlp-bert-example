@@ -1,0 +1,11 @@
+QUE	What
+CON	reason
+POS	could
+PER	Tom
+POS	possibly
+ENS	have
+SUB	to
+EXS	lie
+REL	to
+PRO	you
+QUE	?

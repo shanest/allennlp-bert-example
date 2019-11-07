@@ -1,0 +1,13 @@
+PRO	He
+EPS	came
+SUB	to
+EXS	see
+PRO	me
+QUC	three
+CON	days
+REL	before
+PRO	he
+EPS	left
+REL	for
+GEO	Africa
+NIL	.

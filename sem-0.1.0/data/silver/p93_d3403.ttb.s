@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+EXS	necessary
+SUB	that
+PRO	you
+NOW	follow
+DEF	the
+CON	advice
+AND	of
+HAS	your
+CON	mother
+NIL	.

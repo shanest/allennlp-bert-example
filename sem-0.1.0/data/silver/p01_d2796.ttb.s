@@ -1,0 +1,12 @@
+PRO	We
+ENS	need
+NIL	to
+EXS	make
+CON	inquiries
+REL	about
+DEF	the
+CON	date
+AND	of
+DEF	the
+CON	examination
+NIL	.

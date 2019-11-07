@@ -1,0 +1,10 @@
+PRO	I
+EPS	interpreted
+QUE	what
+PRO	he
+EPS	said
+REL	in
+GPO	French
+REL	into
+GPO	Japanese
+NIL	.

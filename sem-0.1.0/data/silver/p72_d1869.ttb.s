@@ -1,0 +1,10 @@
+AND	Early
+REL	in
+CON	life
+PRO	he
+EPS	showed
+DIS	a
+CON	talent
+REL	for
+CON	painting
+NIL	.

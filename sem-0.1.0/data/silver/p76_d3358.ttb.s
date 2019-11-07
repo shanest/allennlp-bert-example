@@ -1,0 +1,10 @@
+PER	Tom
+ENS	thinks
+SUB	that
+DEF	the
+CON	sun
+ENS	revolves
+AND	around
+DEF	the
+CON	earth
+NIL	.

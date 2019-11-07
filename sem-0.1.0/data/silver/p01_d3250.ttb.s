@@ -1,0 +1,11 @@
+QUE	How
+PST	did
+PRO	you
+NOW	find
+IST	out
+SUB	that
+HAS	your
+CON	brother
+EPS	lived
+IST	there
+QUE	?

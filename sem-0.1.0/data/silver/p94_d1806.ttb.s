@@ -1,0 +1,14 @@
+PER	Tom
+PST	was
+SUB	as
+EXS	drunk
+AND	as
+DIS	a
+CON	skunk
+AND	that
+IST	last
+CON	time
+PRO	I
+EPS	saw
+PRO	him
+NIL	.

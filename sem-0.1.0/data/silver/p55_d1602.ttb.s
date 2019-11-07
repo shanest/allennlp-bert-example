@@ -1,0 +1,10 @@
+PRO	He
+EPS	made
+DIS	a
+CON	desk
+AND	and
+QUC	two
+CON	benches
+REL	for
+PRO	us
+NIL	.

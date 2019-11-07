@@ -1,0 +1,10 @@
+PST	Thank
+PRO	you
+REL	for
+CON	braking
+NIL	.
+PRO	You
+IST	almost
+EPS	killed
+PRO	us
+NIL	!

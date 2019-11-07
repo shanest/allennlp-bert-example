@@ -1,0 +1,13 @@
+PRO	I
+PST	did
+NOT	not
+EXS	lose
+HAS	my
+CON	mind
+NIL	,
+PRO	I
+EPS	sold
+PRO	it
+REL	on
+ART	eBay
+NIL	.

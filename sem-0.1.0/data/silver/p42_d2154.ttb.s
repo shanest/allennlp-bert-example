@@ -1,0 +1,11 @@
+PER	Tom
+ENS	thinks
+SUB	that
+PRO	he
+HAS	's
+DEF	the
+CON	center
+AND	of
+DEF	the
+CON	universe
+NIL	.

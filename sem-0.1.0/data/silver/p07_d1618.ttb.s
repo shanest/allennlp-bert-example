@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	need
+DIS	a
+MOR	bigger
+CON	room
+NIL	.

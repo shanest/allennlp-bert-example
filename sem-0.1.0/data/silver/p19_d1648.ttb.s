@@ -1,0 +1,9 @@
+PRO	He
+EPS	stopped
+CON	smoking
+REL	on
+HAS	his
+CON	doctor
+HAS	's
+CON	advice
+NIL	.

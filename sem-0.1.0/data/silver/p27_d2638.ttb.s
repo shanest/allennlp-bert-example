@@ -1,0 +1,10 @@
+PRO	You
+NOW	've
+EXS	got
+SUB	to
+EXS	help
+PRO	me
+EXS	learn
+SUB	to
+EXS	drive
+NIL	.

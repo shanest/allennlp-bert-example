@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+EXS	become
+INT	very
+IST	good
+CON	friends
+NIL	.

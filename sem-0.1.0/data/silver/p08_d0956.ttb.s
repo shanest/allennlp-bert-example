@@ -1,0 +1,12 @@
+DEF	The
+IST	last
+CON	time
+PRO	I
+EPS	smoked
+PST	was
+NIL	well
+AND	over
+DIS	a
+CON	year
+PST	ago
+NIL	.

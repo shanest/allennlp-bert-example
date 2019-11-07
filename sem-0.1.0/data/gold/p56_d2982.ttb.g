@@ -1,0 +1,11 @@
+DEF	The
+CON	city
+NOW	has
+EXT	decided
+NIL	to
+EXS	do
+REL	away
+REL	with
+DEF	the
+CON	streetcar
+NIL	.

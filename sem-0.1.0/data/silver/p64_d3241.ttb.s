@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	like
+EXG	using
+CON	dildos
+NIL	,
+PRO	I
+ENS	prefer
+IST	real
+CON	cocks
+NIL	.

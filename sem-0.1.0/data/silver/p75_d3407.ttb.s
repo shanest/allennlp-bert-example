@@ -1,0 +1,16 @@
+QUC	One
+AND	of
+PRO	them
+NOW	is
+DIS	an
+ROL	actor
+NIL	,
+AND	who
+NOW	is
+EXS	going
+SUB	to
+EXS	pretend
+SUB	to
+EXS	murder
+DIS	someone
+NIL	.

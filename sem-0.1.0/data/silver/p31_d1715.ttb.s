@@ -1,0 +1,10 @@
+AND	However
+NIL	,
+PER	Lucy
+NOW	is
+IST	about
+SUB	to
+EXS	leave
+HAS	her
+CON	home
+NIL	.

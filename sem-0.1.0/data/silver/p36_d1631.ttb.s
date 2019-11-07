@@ -1,0 +1,12 @@
+QUE	How
+PST	did
+PER	Tom
+EXS	persuade
+PER	Mary
+SUB	to
+EXS	go
+REL	to
+GPE	Boston
+REL	with
+PRO	him
+QUE	?

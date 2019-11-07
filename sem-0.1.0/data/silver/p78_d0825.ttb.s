@@ -1,0 +1,11 @@
+PRO	I
+EPS	gave
+PRO	him
+QUC	three
+CON	textbooks
+REL	in
+CON	exchange
+REL	for
+HAS	his
+CON	help
+NIL	.

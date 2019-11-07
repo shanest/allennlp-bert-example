@@ -1,0 +1,10 @@
+PER	Tom
+EPS	wrapped
+DEF	the
+CON	package
+COO	and
+EPS	tied
+PRO	it
+REL	with
+CON	strings
+NIL	.

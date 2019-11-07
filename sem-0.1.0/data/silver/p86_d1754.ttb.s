@@ -1,0 +1,11 @@
+PRO	You
+FUT	wo
+NOT	n't
+EXS	be
+EXS	needing
+SUB	that
+SUB	where
+PRO	you
+NOW	're
+EXS	going
+NIL	.

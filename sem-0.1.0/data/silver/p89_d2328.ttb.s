@@ -1,0 +1,10 @@
+PER	Tom
+ROL	volunteers
+REL	at
+DIS	a
+IST	homeless
+CON	shelter
+QUC	twice
+DIS	a
+CON	week
+NIL	.

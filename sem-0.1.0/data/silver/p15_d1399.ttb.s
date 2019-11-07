@@ -1,0 +1,10 @@
+PRO	He
+POS	ca
+NOT	n't
+POS	possibly
+EXS	write
+DEF	the
+CON	letter
+REL	by
+REF	himself
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+FUT	'd
+EXS	like
+PRO	you
+SUB	to
+EXS	meet
+DIS	a
+CON	friend
+AND	of
+HAS	mine
+NIL	.

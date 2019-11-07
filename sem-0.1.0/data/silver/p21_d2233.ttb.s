@@ -1,0 +1,11 @@
+PER	Tom
+EPS	started
+SUB	to
+EXS	say
+DIS	something
+NIL	,
+COO	but
+PER	Mary
+EPS	interrupted
+PRO	him
+NIL	.

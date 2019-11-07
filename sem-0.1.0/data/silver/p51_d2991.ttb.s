@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	fix
+PRO	it
+AND	as
+IST	soon
+SUB	as
+PRO	I
+POS	can
+NIL	.

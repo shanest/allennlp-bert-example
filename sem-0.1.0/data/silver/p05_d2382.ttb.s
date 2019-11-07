@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+PFT	been
+QUC	five
+CON	years
+REL	since
+HAS	my
+ROL	father
+EPS	died
+NIL	.

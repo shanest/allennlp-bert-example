@@ -1,0 +1,14 @@
+AND	So
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+PRO	he
+EPS	used
+SUB	to
+EXS	be
+DIS	a
+IST	good
+CON	student
+NIL	.

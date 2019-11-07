@@ -1,0 +1,14 @@
+PRO	He
+PST	was
+REL	in
+AND	such
+DIS	a
+IST	good
+CON	mood
+SUB	when
+HAS	his
+CON	team
+EPS	won
+DEF	the
+CON	championship
+NIL	.

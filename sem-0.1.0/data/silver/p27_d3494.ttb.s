@@ -1,0 +1,15 @@
+NIL	Admitting
+QUE	what
+PRO	he
+ENS	says
+NIL	,
+PRO	I
+IST	still
+NOW	think
+SUB	that
+PRO	he
+NOW	is
+REL	in
+DEF	the
+CON	wrong
+NIL	.

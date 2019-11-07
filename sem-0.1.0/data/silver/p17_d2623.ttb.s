@@ -1,0 +1,14 @@
+IMP	Suppose
+PRO	you
+PST	had
+DIS	a
+QUC	thousand
+UOM	dollars
+NIL	,
+QUE	what
+FUT	would
+PRO	you
+EXS	do
+REL	with
+PRO	it
+QUE	?

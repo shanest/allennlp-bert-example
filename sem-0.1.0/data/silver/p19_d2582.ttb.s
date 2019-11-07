@@ -1,0 +1,10 @@
+PER	Tom
+NOT	never
+EPS	told
+PRO	me
+SUB	that
+PRO	you
+PST	were
+INT	so
+EXS	beautiful
+NIL	.

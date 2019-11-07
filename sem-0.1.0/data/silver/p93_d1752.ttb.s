@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+REL	on
+DEF	the
+CON	phone
+REL	with
+PER	Tom
+NOW	now
+NIL	.

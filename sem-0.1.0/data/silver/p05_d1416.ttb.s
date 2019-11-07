@@ -1,0 +1,10 @@
+DEF	The
+ROL	mother
+NOW	is
+IST	certain
+NIL	,
+DEF	the
+ROL	father
+NOW	is
+NOT	not
+NIL	.

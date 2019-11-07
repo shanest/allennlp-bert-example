@@ -1,0 +1,10 @@
+CON	Ladies
+AND	and
+CON	gentlemen
+NIL	,
+IST	please
+EXS	welcome
+PER	Tom
+AND	and
+PER	Mary
+NIL	!

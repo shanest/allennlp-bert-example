@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+CON	key
+AND	which
+PRO	I
+NOW	have
+PFT	been
+EXG	looking
+REL	for
+NIL	.

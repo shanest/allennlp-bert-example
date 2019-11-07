@@ -1,0 +1,11 @@
+PRO	He
+PST	was
+EXS	sentenced
+REL	to
+QUC	one
+CON	year
+REL	in
+CON	prison
+REL	in
+GPE	Bulgaria
+NIL	.

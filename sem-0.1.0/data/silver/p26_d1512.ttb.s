@@ -1,0 +1,12 @@
+REL	From
+CON	time
+REL	to
+CON	time
+NIL	,
+PRO	he
+ENS	goes
+REL	to
+GPE	Tokyo
+REL	on
+CON	business
+NIL	.

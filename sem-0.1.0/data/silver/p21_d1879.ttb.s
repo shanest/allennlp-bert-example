@@ -1,0 +1,9 @@
+PRO	It
+FUT	would
+EXS	be
+EXS	nice
+IMP	if
+PRO	it
+EPS	stopped
+EXS	raining
+NIL	.

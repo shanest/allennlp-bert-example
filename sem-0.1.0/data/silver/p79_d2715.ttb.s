@@ -1,0 +1,9 @@
+NIL	Gérard
+PER	de
+PER	Nerval
+EPS	wrote
+PER	Journey
+REL	to
+DEF	the
+GEO	East
+NIL	.

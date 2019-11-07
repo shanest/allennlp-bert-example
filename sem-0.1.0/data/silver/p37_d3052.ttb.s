@@ -1,0 +1,11 @@
+SUB	To
+EXS	weep
+NOW	is
+SUB	to
+EXS	make
+IST	less
+DEF	the
+CON	depth
+AND	of
+CON	grief
+NIL	.

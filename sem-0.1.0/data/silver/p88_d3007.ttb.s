@@ -1,0 +1,10 @@
+PRO	I
+IST	never
+PST	had
+DEF	the
+CON	chance
+SUB	to
+EXS	talk
+REL	with
+PER	Tom
+NIL	.

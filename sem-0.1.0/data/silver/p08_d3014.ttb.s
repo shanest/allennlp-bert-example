@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+DIS	a
+INT	very
+IST	good
+CON	way
+SUB	to
+EXS	get
+PRO	it
+EXS	done
+NIL	.

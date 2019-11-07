@@ -1,0 +1,17 @@
+PRX	This
+CON	room
+NOW	is
+INT	very
+EXS	small
+NIL	,
+COO	so
+PRO	it
+NOW	is
+EXS	impossible
+SUB	to
+EXS	put
+IST	more
+CON	furniture
+REL	in
+PRO	it
+NIL	.

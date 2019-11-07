@@ -1,0 +1,12 @@
+PRO	I
+PST	was
+REL	on
+DEF	the
+CON	phone
+REL	with
+PER	Tom
+AND	just
+QUC	five
+UOM	minutes
+PST	ago
+NIL	.

@@ -1,0 +1,15 @@
+DEF	The
+CON	wall
+REL	from
+UNK	which
+PER	Humpty
+PER	Dumpty
+EPS	fell
+NOW	is
+NOT	not
+DEF	the
+ORG	Great
+ORG	Wall
+AND	of
+GPE	China
+NIL	.

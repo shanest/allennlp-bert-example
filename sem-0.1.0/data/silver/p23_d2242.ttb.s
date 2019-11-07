@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+AND	as
+EXS	surprised
+AND	about
+PRO	it
+SUB	as
+PRO	you
+NOW	are
+NIL	.

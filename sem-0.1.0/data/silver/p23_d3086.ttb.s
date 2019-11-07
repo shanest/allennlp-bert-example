@@ -1,0 +1,10 @@
+QUE	Who
+PST	was
+REL	at
+DEF	the
+CON	party
+AND	beside
+PER	Jack
+AND	and
+PER	Mary
+QUE	?

@@ -1,0 +1,9 @@
+PRO	She
+EPS	gave
+PRO	him
+DIS	a
+CON	slap
+REL	in
+DEF	the
+CON	face
+NIL	.

@@ -1,0 +1,11 @@
+SUB	When
+PRO	I
+PST	was
+DIS	a
+CON	child
+NIL	,
+PRO	I
+EPS	took
+CON	music
+CON	lessons
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+EPS	made
+PER	Mary
+EXS	wait
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

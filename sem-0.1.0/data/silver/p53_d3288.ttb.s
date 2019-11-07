@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	dangerous
+SUB	to
+EXS	lean
+IST	out
+AND	of
+DEF	the
+CON	window
+NIL	.

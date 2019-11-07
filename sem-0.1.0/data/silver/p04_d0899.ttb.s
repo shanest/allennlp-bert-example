@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	seen
+DIS	a
+CON	whale
+SUB	that
+EXS	big
+NIL	.

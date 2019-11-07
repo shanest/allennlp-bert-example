@@ -1,0 +1,9 @@
+EXS	Let
+PRO	's
+EXS	make
+EXS	believe
+SUB	that
+PRO	we
+NOW	're
+CON	pirates
+NIL	.

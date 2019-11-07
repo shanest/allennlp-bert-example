@@ -1,0 +1,12 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	imagine
+QUE	why
+PER	Tom
+FUT	would
+EXS	do
+DIS	something
+AND	like
+DST	that
+NIL	.

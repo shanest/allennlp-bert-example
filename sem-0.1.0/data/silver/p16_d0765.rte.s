@@ -1,0 +1,11 @@
+PER	Kailash
+CON	Satyarthi
+NIL	,
+GPE	India
+HAS	's
+EXG	leading
+CON	opponent
+AND	of
+CON	child
+CON	labour
+NIL	.

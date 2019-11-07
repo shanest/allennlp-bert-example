@@ -1,0 +1,16 @@
+SUB	When
+PRO	you
+NOW	're
+EXS	trying
+SUB	to
+EXS	prove
+DIS	something
+NIL	,
+PRO	it
+ENS	helps
+SUB	to
+EXS	know
+PRO	it
+HAS	's
+EXS	true
+NIL	.

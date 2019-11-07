@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	convinced
+SUB	that
+HAS	my
+CON	daughter
+FUT	will
+EXS	pass
+DEF	the
+CON	exam
+NIL	.

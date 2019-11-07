@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+EPS	finished
+HAS	your
+CON	share
+AND	of
+DEF	the
+CON	work
+QUE	?

@@ -1,0 +1,11 @@
+DEF	The
+ROL	burglar
+EPS	broke
+REL	into
+DEF	the
+IST	post
+CON	office
+REL	in
+IST	broad
+CON	daylight
+NIL	.

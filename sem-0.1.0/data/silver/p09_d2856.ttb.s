@@ -1,0 +1,9 @@
+PER	Tom
+PST	had
+DIS	a
+CON	score
+SUB	to
+EXS	settle
+REL	with
+PER	Mary
+NIL	.

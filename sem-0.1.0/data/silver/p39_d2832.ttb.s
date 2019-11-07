@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	dangerous
+SUB	to
+EXS	jump
+REL	off
+DIS	a
+EXG	moving
+CON	train
+NIL	.

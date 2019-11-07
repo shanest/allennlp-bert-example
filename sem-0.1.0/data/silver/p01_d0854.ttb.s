@@ -1,0 +1,11 @@
+PER	John
+EQU	,
+DIS	a
+CON	friend
+AND	of
+HAS	mine
+NIL	,
+EPS	told
+PRO	me
+IST	so
+NIL	.

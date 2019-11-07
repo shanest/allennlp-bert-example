@@ -1,0 +1,12 @@
+PER	Tom
+ENS	wants
+PER	Mary
+SUB	to
+EXS	buy
+DIS	a
+IST	new
+CON	dress
+REL	for
+DEF	the
+CON	banquet
+NIL	.

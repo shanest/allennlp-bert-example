@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+NIL	to
+EXS	identify
+IST	myself
+REL	with
+DST	that
+CON	group
+NIL	.

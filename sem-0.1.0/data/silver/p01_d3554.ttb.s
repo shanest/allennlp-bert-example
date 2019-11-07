@@ -1,0 +1,12 @@
+DST	That
+CON	job
+ENS	brings
+PRO	him
+REL	in
+DIS	an
+IST	extra
+QUC	60,000
+UOM	yen
+DIS	a
+CON	month
+NIL	.

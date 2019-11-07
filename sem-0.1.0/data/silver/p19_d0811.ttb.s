@@ -1,0 +1,14 @@
+PRO	I
+NOW	hear
+IST	Latin
+CON	music
+NOW	is
+EXG	taking
+DEF	the
+CON	music
+CON	industry
+REL	by
+CON	storm
+PRX	this
+CON	year
+NIL	.

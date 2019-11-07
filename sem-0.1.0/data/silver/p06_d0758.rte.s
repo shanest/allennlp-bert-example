@@ -1,0 +1,25 @@
+GPE	Argentina
+AND	and
+GPE	Britain
+EPS	announced
+DIS	an
+CON	agreement
+DOW	Thursday
+SUB	to
+EXS	restore
+IST	full
+IST	diplomatic
+CON	ties
+INT	nearly
+QUC	eight
+CON	years
+SUB	after
+PRO	they
+EPS	fought
+DIS	a
+REL	74-day
+CON	war
+AND	over
+DEF	the
+CON	Falkland islands
+NIL	.

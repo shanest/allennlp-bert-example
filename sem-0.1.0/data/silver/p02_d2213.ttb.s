@@ -1,0 +1,14 @@
+PRX	This
+CON	cat
+NOW	is
+NIL	,
+IST	so
+SUB	to
+EXS	speak
+NIL	,
+DIS	a
+CON	member
+AND	of
+HAS	our
+CON	family
+NIL	.

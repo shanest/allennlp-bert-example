@@ -1,0 +1,17 @@
+PRO	You
+PST	had
+IST	better
+EXS	consult
+DIS	a
+CON	dictionary
+SUB	when
+PRO	you
+NOW	do
+NOT	n't
+EXS	know
+DEF	the
+CON	meaning
+AND	of
+DIS	a
+CON	word
+NIL	.

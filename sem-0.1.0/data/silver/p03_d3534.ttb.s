@@ -1,0 +1,16 @@
+AND	Why
+NOW	do
+NOT	n't
+PRO	you
+EXS	try
+PRX	this
+CON	jacket
+REL	on
+QUE	?
+PRO	It
+NOW	looks
+EXS	nice
+REL	with
+HAS	your
+CON	trousers
+NIL	.

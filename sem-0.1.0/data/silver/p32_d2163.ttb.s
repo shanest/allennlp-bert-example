@@ -1,0 +1,10 @@
+PRO	I
+FUT	'll
+EXS	give
+PRO	it
+IST	back
+AND	next
+DOW	Monday
+NOT	without
+EXS	fail
+NIL	.

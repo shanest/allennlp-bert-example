@@ -1,0 +1,14 @@
+PRO	We
+NOW	have
+NOT	n't
+PFT	been
+IST	able
+SUB	to
+EXS	find
+IST	out
+SUB	when
+DEF	the
+CON	shipment
+FUT	will
+EXS	arrive
+NIL	.

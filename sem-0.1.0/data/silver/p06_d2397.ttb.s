@@ -1,0 +1,15 @@
+PRO	It
+NOW	's
+EXS	been
+DIS	a
+IST	long
+CON	time
+SUB	since
+PRO	I
+NOW	've
+EXS	heard
+DIS	anyone
+CON	use
+AND	that
+CON	word
+NIL	.

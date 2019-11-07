@@ -1,0 +1,10 @@
+PRO	He
+ENS	thinks
+SUB	that
+HAS	his
+CON	success
+NOW	is
+IST	due
+REL	to
+CON	luck
+NIL	.

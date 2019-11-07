@@ -1,0 +1,13 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	greet
+PRO	you
+SUB	because
+PRO	I
+EPS	mistook
+PRO	you
+REL	for
+DIS	somebody
+AND	else
+NIL	.

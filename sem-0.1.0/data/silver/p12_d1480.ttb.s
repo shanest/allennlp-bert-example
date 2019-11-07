@@ -1,0 +1,11 @@
+PRO	They
+EPS	sounded
+DEF	the
+CON	alarm
+SUB	when
+PRO	they
+EPS	saw
+DEF	the
+ROL	enemy
+EXG	approaching
+NIL	.

@@ -1,0 +1,10 @@
+PRX	These
+CON	elevators
+NOW	are
+AND	each
+IST	capable
+AND	of
+EXG	carrying
+QUC	ten
+CON	persons
+NIL	.

@@ -1,0 +1,10 @@
+EXS	Come
+REL	on
+NIL	,
+EXS	hurry
+IST	up
+NIL	!
+PRO	It
+HAS	's
+IST	urgent
+NIL	.

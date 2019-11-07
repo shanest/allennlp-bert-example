@@ -1,0 +1,16 @@
+PER	Tom
+ENS	writes
+DIS	something
+REL	in
+HAS	his
+CON	diary
+AND	every
+CON	evening
+EQU	,
+NOT	no
+CON	matter
+QUE	how
+EXS	tired
+PRO	he
+NOW	is
+NIL	.

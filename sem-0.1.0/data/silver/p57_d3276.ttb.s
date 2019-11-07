@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	going
+REL	to
+DEF	the
+CON	park
+PRX	this
+CON	afternoon
+NIL	.

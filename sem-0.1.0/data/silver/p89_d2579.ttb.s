@@ -1,0 +1,12 @@
+PER	Tom
+PST	was
+IST	able
+SUB	to
+EXS	fit
+AND	everything
+PRO	he
+EPS	owned
+REL	into
+QUC	one
+CON	suitcase
+NIL	.

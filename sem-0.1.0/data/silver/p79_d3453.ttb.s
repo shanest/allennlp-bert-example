@@ -1,0 +1,12 @@
+UNK	There
+PST	were
+CON	times
+SUB	when
+PER	Tom
+EPS	wished
+PRO	he
+PST	had
+NOT	n't
+EXS	married
+PER	Mary
+NIL	.

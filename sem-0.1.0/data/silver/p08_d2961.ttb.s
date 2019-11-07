@@ -1,0 +1,11 @@
+PER	Donna
+PST	was
+EXS	born
+REL	with
+DIS	a
+CON	silver
+CON	spoon
+REL	in
+HAS	her
+CON	mouth
+NIL	.

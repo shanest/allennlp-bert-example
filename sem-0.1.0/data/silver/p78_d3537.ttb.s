@@ -1,0 +1,11 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	he
+PST	did
+NOT	n't
+EXS	have
+IST	enough
+CON	money
+NIL	.

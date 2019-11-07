@@ -1,0 +1,9 @@
+PRO	I
+NOW	think
+DEF	the
+CON	actions
+PRO	he
+EPS	took
+PST	were
+EXS	right
+NIL	.

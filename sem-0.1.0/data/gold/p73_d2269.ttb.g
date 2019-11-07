@@ -1,0 +1,10 @@
+DEF	The
+IST	new
+CON	jet
+ENS	circles
+DEF	the
+CON	globe
+REL	in
+QUC	twenty-four
+UOM	hours
+NIL	.

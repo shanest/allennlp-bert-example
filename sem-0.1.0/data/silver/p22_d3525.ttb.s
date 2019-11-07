@@ -1,0 +1,10 @@
+CON	Sorry
+NIL	!
+PRO	I
+PST	thought
+PRO	I
+PST	had
+IST	already
+EXS	answered
+PRO	you
+NIL	.

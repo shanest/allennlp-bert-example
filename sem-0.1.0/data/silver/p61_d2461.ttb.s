@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	waiting
+REL	for
+DEF	the
+CON	results
+REL	with
+CON	anxiety
+NIL	.

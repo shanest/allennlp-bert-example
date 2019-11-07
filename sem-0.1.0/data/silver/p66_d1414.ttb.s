@@ -1,0 +1,14 @@
+ROL	Mr
+PER	Sato
+EPS	ran
+DIS	a
+CON	supermarket
+REL	in
+HAS	his
+CON	hometown
+SUB	before
+PRO	he
+EPS	came
+REL	to
+GEO	Tokyo
+NIL	.

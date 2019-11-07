@@ -1,0 +1,13 @@
+PRO	He
+EPS	knew
+NOT	nothing
+EXS	bad
+AND	about
+PRO	him
+NIL	,
+BUT	but
+PRO	he
+EPS	felt
+DIS	something
+CON	evil
+NIL	.

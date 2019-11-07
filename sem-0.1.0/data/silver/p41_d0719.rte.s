@@ -1,0 +1,32 @@
+ART	Bountiful
+EPS	arrived
+REL	after
+CON	war
+HAS	's
+CON	end
+NIL	,
+EXS	sailing
+REL	into
+GEO	San Francisco Bay
+MOY	21
+MOY	August
+YOC	1945
+NIL	.
+ART	Bountiful
+PST	was
+IST	then
+EXS	assigned
+AND	as
+CON	hospital
+CON	ship
+REL	at
+GEO	Yokosuka
+EQU	,
+GPE	Japan
+NIL	,
+EXS	departing
+GPE	San Francisco
+DOM	1
+MOY	November
+YOC	1945
+NIL	.

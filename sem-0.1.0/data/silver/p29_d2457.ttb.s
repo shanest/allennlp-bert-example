@@ -1,0 +1,11 @@
+NIL	José
+EPS	showed
+REF	himself
+SUB	to
+EXS	be
+DIS	a
+CON	person
+AND	of
+IST	bad
+CON	character
+NIL	.

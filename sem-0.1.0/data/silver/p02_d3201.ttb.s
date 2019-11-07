@@ -1,0 +1,9 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	wait
+SUB	to
+EXS	visit
+HAS	my
+ROL	grandmother
+NIL	.

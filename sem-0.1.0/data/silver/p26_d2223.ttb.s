@@ -1,0 +1,9 @@
+NOT	Except
+REL	for
+QUC	one
+CON	person
+NIL	,
+AND	everybody
+EPS	went
+CON	home
+NIL	.

@@ -1,0 +1,10 @@
+PRO	They
+EPS	made
+PRO	him
+EXS	sign
+DEF	the
+CON	contract
+AND	against
+HAS	his
+FUT	will
+NIL	.

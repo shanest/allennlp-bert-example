@@ -1,0 +1,13 @@
+PRO	I
+EPS	wrote
+SUB	to
+AND	everybody
+EXS	inquiring
+REL	after
+HAS	their
+CON	health
+REL	in
+DEF	the
+IST	hot
+CON	season
+NIL	.

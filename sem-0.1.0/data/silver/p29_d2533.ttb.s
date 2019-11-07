@@ -1,0 +1,11 @@
+HAS	My
+ROL	father
+NOW	has
+DIS	a
+CON	lot
+AND	of
+CON	clout
+REL	at
+CON	city
+CON	hall
+NIL	.

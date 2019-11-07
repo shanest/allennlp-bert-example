@@ -1,0 +1,13 @@
+AND	Apparently
+DEF	the
+INT	most
+EXT	used
+CON	ATM
+REL	in
+DEF	the
+GEO	Netherlands
+NOW	is
+REL	in
+PRX	this
+CON	town
+NIL	.

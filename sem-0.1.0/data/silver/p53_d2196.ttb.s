@@ -1,0 +1,11 @@
+PRO	They
+NOW	say
+PRO	we
+NOW	are
+EXS	going
+SUB	to
+EXS	have
+DIS	a
+IST	severe
+CON	winter
+NIL	.

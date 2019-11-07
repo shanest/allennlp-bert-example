@@ -1,0 +1,11 @@
+PER	Tom
+EPS	picked
+IST	up
+HAS	his
+CON	coffee
+CON	cup
+COO	and
+EPS	took
+DIS	a
+NOW	sip
+NIL	.

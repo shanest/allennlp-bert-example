@@ -1,0 +1,16 @@
+SUB	As
+PRO	I
+EPS	entered
+DEF	the
+CON	bar
+NIL	,
+PRO	I
+EPS	heard
+DIS	a
+IST	sad
+CON	song
+EXS	playing
+REL	on
+DEF	the
+CON	jukebox
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	what
+SUB	to
+EXS	feed
+PER	Mary
+HAS	's
+CON	dog
+NIL	.

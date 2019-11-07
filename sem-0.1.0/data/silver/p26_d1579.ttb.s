@@ -1,0 +1,9 @@
+PRO	She
+EPS	put
+CON	salt
+REL	into
+HAS	her
+CON	coffee
+REL	by
+CON	mistake
+NIL	.

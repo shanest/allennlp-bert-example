@@ -1,0 +1,9 @@
+PRO	He
+EPS	said
+PRO	he
+PST	had
+PFT	been
+REL	to
+GPE	Hawaii
+REL	before
+NIL	.

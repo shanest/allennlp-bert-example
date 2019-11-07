@@ -1,0 +1,15 @@
+SUB	After
+PRO	he
+PST	had
+EPS	graduated
+REL	from
+DEF	the
+CON	university
+NIL	,
+PRO	he
+EPS	taught
+ART	English
+REL	for
+QUC	two
+CON	years
+NIL	.

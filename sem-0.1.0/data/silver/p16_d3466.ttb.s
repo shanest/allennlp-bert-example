@@ -1,0 +1,13 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+SUB	whether
+PER	Mary
+NOW	is
+EXG	telling
+DEF	the
+CON	truth
+DIS	or
+NOT	not
+NIL	.

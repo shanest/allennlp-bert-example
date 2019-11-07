@@ -1,0 +1,10 @@
+NOW	Do
+NOT	n't
+PRO	you
+NOW	have
+DIS	something
+SUB	to
+EXS	say
+REL	to
+PER	Tom
+QUE	?

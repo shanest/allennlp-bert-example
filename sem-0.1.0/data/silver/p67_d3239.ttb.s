@@ -1,0 +1,9 @@
+PER	Tom
+EPS	took
+HAS	his
+CON	wallet
+AND	out
+AND	of
+HAS	his
+CON	pocket
+NIL	.

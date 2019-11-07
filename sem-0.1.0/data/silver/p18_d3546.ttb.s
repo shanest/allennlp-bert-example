@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	seen
+DEF	the
+CON	way
+PRO	he
+NOW	looks
+REL	at
+PRO	you
+NIL	.

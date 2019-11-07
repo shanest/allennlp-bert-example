@@ -1,0 +1,12 @@
+PER	Tom
+NOW	's
+EXS	gotten
+NIL	fatter
+REL	since
+DEF	the
+IST	last
+CON	time
+PRO	I
+EPS	saw
+PRO	him
+NIL	.

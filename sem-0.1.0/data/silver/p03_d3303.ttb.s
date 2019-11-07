@@ -1,0 +1,11 @@
+PRO	He
+EPS	became
+IST	more
+EXS	mature
+REL	with
+DEF	the
+CON	passing
+AND	of
+DEF	the
+CON	years
+NIL	.

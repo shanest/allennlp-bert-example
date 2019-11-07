@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+EXS	decided
+NOT	not
+SUB	to
+EXS	swim
+PRX	this
+CON	afternoon
+NIL	.

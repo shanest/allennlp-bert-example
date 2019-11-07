@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+NOT	n't
+IST	able
+SUB	to
+EXS	do
+DIS	anything
+NIL	.

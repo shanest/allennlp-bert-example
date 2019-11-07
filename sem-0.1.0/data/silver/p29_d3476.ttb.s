@@ -1,0 +1,13 @@
+PER	Tom
+PST	had
+DEF	the
+CON	painting
+EPS	appraised
+REL	by
+DIS	an
+CON	expert
+SUB	before
+PRO	he
+EPS	bought
+PRO	it
+NIL	.

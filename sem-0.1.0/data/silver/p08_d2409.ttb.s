@@ -1,0 +1,13 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	believe
+SUB	that
+PER	Mary
+FUT	would
+IST	really
+EXS	do
+DIS	something
+SUB	that
+EXS	dumb
+NIL	.

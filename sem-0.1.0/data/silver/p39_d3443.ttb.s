@@ -1,0 +1,17 @@
+PER	Tom
+EPS	felt
+SUB	that
+PRO	it
+FUT	would
+EXS	be
+DIS	a
+CON	waste
+AND	of
+CON	time
+SUB	to
+EXS	translate
+DEF	the
+CON	letter
+REL	for
+PER	Mary
+NIL	.

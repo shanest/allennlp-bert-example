@@ -1,0 +1,11 @@
+PER	Tom
+PST	was
+IST	afraid
+SUB	that
+DEF	the
+CON	typhoon
+FUT	would
+EXS	damage
+HAS	his
+CON	house
+NIL	.

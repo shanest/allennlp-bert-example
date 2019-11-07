@@ -1,0 +1,15 @@
+REL	On
+DIS	a
+IST	good
+CON	day
+NIL	,
+PRO	you
+POS	can
+EXS	see
+DEF	the
+CON	coast
+AND	of
+GPE	Estonia
+REL	from
+GEO	Helsinki
+NIL	.

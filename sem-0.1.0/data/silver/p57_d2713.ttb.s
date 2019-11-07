@@ -1,0 +1,15 @@
+GPE	Americans
+REL	under
+DEF	the
+CON	age
+AND	of
+QUC	eighteen
+NOW	are
+NOT	n't
+EXS	allowed
+SUB	to
+EXS	vote
+REL	in
+IST	presidential
+CON	elections
+NIL	.

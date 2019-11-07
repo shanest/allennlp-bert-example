@@ -1,0 +1,16 @@
+AND	Unfortunately
+NIL	,
+DIS	a
+CON	visit
+REL	from
+ROL	Mrs
+GEO	Hobday
+EQU	,
+CON	causes
+ROL	Mr
+PER	Browne
+SUB	to
+EXS	leave
+REL	for
+GPE	London
+NIL	.

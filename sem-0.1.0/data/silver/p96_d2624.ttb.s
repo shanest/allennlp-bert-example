@@ -1,0 +1,13 @@
+PRO	We
+NOW	have
+EXS	talked
+AND	about
+AND	all
+CON	areas
+AND	of
+DEF	the
+ORG	Union
+HAS	's
+IST	external
+CON	action
+NIL	.

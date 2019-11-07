@@ -1,0 +1,13 @@
+NIL	"
+NOW	Is
+PER	Ken
+EXS	busy
+QUE	?
+NIL	"
+NIL	"
+ITJ	Yes
+NIL	,
+PRO	he
+NOW	is
+NIL	.
+NIL	"

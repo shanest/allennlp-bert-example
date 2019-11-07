@@ -1,0 +1,14 @@
+SUB	As
+EXS	usual
+NIL	,
+PER	Mike
+EPS	turned
+IST	up
+REL	on
+CON	time
+NIL	.
+PRO	He
+NOW	's
+INT	very
+EXS	punctual
+NIL	.

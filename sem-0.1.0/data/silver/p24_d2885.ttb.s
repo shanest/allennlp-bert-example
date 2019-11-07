@@ -1,0 +1,11 @@
+PRO	I
+PST	'd
+IST	rather
+EXS	get
+EPS	punched
+QUC	five
+CON	times
+AND	than
+EPS	shot
+QUC	once
+NIL	.

@@ -1,0 +1,12 @@
+PER	Jesus
+NOW	is
+EXS	said
+SUB	to
+EXT	have
+EXS	raised
+DIS	a
+CON	man
+REL	from
+DEF	the
+CON	dead
+NIL	.

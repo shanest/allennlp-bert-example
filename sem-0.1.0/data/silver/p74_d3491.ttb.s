@@ -1,0 +1,12 @@
+PRO	He
+EPS	walked
+IST	slowly
+AND	so
+DEF	the
+CON	children
+FUT	would
+EXS	be
+IST	able
+SUB	to
+EXS	follow
+NIL	.

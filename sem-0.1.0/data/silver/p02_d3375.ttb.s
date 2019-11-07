@@ -1,0 +1,9 @@
+NIL	There
+FUT	will
+EXS	be
+DIS	a
+IST	total
+IST	solar
+CON	eclipse
+FUT	tomorrow
+NIL	.

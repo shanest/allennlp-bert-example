@@ -1,0 +1,9 @@
+PRO	You
+POS	ca
+NOT	n't
+CON	seat
+PER	Tom
+AND	next
+REL	to
+PER	Mary
+NIL	.

@@ -1,0 +1,14 @@
+DEF	The
+CON	village
+NOW	is
+NOW	now
+INT	very
+EXS	different
+REL	from
+QUE	what
+PRO	it
+PST	was
+QUC	ten
+CON	years
+PST	ago
+NIL	.

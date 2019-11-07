@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+EXS	required
+SUB	to
+EXS	wear
+DIS	a
+CON	suit
+AND	and
+CON	tie
+SUB	to
+EXS	work
+NIL	.

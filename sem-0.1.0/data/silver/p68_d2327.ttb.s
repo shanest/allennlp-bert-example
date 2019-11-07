@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	name
+HAS	my
+CON	dog
+PER	Cookie
+NIL	.

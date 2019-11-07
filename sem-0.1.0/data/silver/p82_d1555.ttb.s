@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	having
+DIS	some
+CON	trouble
+REL	with
+HAS	my
+CON	computer
+NIL	.

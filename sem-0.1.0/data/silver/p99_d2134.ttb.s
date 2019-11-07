@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+DEF	the
+CON	girl
+EPS	sold
+HAS	her
+CON	body
+NIL	.

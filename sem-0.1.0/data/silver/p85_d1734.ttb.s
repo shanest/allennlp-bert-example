@@ -1,0 +1,13 @@
+PRO	It
+EPS	rained
+PST	yesterday
+SUB	after
+PRO	it
+PST	had
+PFT	been
+EXS	dry
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

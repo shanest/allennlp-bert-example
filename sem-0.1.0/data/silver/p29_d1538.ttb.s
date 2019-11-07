@@ -1,0 +1,12 @@
+PER	Mary
+HAS	's
+IST	little
+CON	squirrel
+NOW	has
+NOW	now
+EXS	learned
+QUE	how
+SUB	to
+EXS	fetch
+EXS	nuts
+NIL	.

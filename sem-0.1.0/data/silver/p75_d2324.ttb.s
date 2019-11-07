@@ -1,0 +1,12 @@
+PRO	He
+EPS	lost
+HAS	his
+CON	reason
+SUB	when
+PRO	he
+EPS	saw
+HAS	his
+CON	house
+NOW	burn
+IST	down
+NIL	.

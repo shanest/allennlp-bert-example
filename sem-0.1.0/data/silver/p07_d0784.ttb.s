@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+SUB	when
+PER	Bob
+EPS	came
+REL	to
+GPE	Japan
+NIL	.

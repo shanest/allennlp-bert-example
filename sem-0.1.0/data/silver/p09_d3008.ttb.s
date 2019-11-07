@@ -1,0 +1,10 @@
+QUE	What
+FUT	would
+PRO	you
+EXS	buy
+IMP	if
+PRO	you
+EPS	won
+DEF	the
+CON	lottery
+QUE	?

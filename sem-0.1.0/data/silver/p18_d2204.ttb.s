@@ -1,0 +1,10 @@
+PRO	I
+EPS	felt
+DIS	a
+CON	drop
+AND	of
+CON	rain
+REL	on
+HAS	my
+CON	head
+NIL	.

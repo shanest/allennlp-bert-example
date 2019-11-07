@@ -1,0 +1,9 @@
+PER	Tom
+EPS	said
+PRO	he
+PST	'd
+NOT	never
+PFT	been
+UNK	there
+SUB	before
+NIL	.

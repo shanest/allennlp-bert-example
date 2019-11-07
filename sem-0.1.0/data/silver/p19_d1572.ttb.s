@@ -1,0 +1,10 @@
+PRO	It
+EPS	was
+XCL	only
+IST	recently
+SUB	that
+PRO	she
+EPS	changed
+HAS	her
+CON	mind
+NIL	.

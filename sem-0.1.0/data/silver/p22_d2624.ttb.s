@@ -1,0 +1,10 @@
+ROL	Mr.
+PER	Mailer
+NOW	is
+EXS	scheduled
+SUB	to
+EXS	stay
+PRX	here
+REL	until
+FUT	tomorrow
+NIL	.

@@ -1,0 +1,13 @@
+IMP	If
+PRO	I
+PST	had
+EXS	taken
+SUB	that
+CON	plane
+NIL	,
+PRO	I
+FUT	would
+EXS	be
+EXS	dead
+NOW	now
+NIL	.

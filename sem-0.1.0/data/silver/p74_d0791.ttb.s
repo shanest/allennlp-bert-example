@@ -1,0 +1,12 @@
+DEF	The
+CON	secretary
+EPS	opened
+DEF	the
+CON	mail
+AND	which
+PST	had
+PFT	been
+EXS	delivered
+SUB	that
+CON	morning
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+ENS	says
+PRO	he
+NOW	's
+IST	willing
+SUB	to
+EXS	take
+DEF	the
+CON	risk
+NIL	.

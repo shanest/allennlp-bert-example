@@ -1,0 +1,10 @@
+DEF	The
+IST	little
+CON	girl
+EPS	stuck
+IST	out
+HAS	her
+CON	tongue
+REL	at
+PRO	him
+NIL	.

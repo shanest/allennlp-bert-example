@@ -1,0 +1,14 @@
+NIL	"
+NOW	Do
+PRO	you
+IST	really
+ENS	wish
+SUB	that
+QUE	?
+NIL	"
+EPS	asked
+DEF	the
+IST	little
+COL	white
+CON	rabbit
+NIL	.

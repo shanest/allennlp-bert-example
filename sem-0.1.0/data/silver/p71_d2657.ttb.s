@@ -1,0 +1,15 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	eat
+AND	anything
+AND	all
+CON	day
+NIL	,
+REL	in
+IST	short
+NIL	,
+PRO	I
+NOW	'm
+EXS	starving
+NIL	.

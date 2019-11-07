@@ -1,0 +1,12 @@
+PER	Tom
+EPS	waited
+DIS	an
+CON	hour
+REL	in
+DEF	the
+CON	hallway
+AND	outside
+PER	Mary
+HAS	's
+CON	apartment
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+ENS	seems
+SUB	to
+EXS	be
+EXS	expecting
+PER	Mary
+HAS	's
+CON	help
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+INT	about
+QUC	1
+CON	mile
+REL	from
+PRX	here
+REL	to
+DEF	the
+CON	station
+NIL	.

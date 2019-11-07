@@ -1,0 +1,14 @@
+ROL	Mr.
+PER	Darcy
+EPS	asked
+PRO	him
+QUE	why
+PRO	he
+PST	had
+NOT	not
+EXS	married
+HAS	your
+ROL	sister
+REL	at
+QUC	once
+NIL	.

@@ -1,0 +1,11 @@
+PRO	You
+NOW	've
+EXS	got
+DIS	a
+CON	nerve
+SUB	to
+EXS	say
+AND	such
+DIS	a
+CON	thing
+NIL	!

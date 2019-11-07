@@ -1,0 +1,15 @@
+SUB	Since
+SUB	when
+NOW	have
+PRO	you
+PFT	been
+EXS	waiting
+QUE	?
+NOW	Have
+PRO	you
+PFT	been
+EXS	waiting
+DIS	a
+IST	long
+CON	time
+QUE	?

@@ -1,0 +1,9 @@
+PRO	I
+NOW	think
+PRO	you
+PST	had
+IST	better
+EXS	call
+REL	on
+PRO	him
+NIL	.

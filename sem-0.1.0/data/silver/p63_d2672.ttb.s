@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	starting
+SUB	to
+EXS	lose
+HAS	my
+CON	patience
+REL	with
+PRO	you
+NIL	.

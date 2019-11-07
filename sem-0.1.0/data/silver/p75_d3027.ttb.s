@@ -1,0 +1,10 @@
+REL	In
+GPE	Japan
+NIL	,
+PRO	it
+NOW	is
+INT	very
+EXS	hot
+REL	in
+CON	summer
+NIL	.

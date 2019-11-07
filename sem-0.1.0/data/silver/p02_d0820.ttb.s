@@ -1,0 +1,12 @@
+PRO	I
+EPS	came
+REL	upon
+DIS	an
+IST	old
+CON	friend
+AND	of
+HAS	mine
+REL	on
+DEF	the
+CON	train
+NIL	.

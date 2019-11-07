@@ -1,0 +1,12 @@
+PER	Tom
+COO	and
+PER	Mary
+ENS	save
+AND	over
+CON	half
+AND	of
+HAS	their
+CON	income
+AND	each
+CON	year
+NIL	.

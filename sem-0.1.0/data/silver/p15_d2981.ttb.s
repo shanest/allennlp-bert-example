@@ -1,0 +1,12 @@
+PRO	I
+IST	never
+EPS	thought
+PRO	he
+PST	was
+IST	capable
+AND	of
+EXG	doing
+DIS	something
+INT	so
+IST	cruel
+NIL	.

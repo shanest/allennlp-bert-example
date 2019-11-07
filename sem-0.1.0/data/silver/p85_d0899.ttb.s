@@ -1,0 +1,13 @@
+AND	Everyone
+ENS	knows
+SUB	that
+PRO	she
+NOW	has
+EXS	done
+AND	everything
+PRO	she
+POS	could
+REL	for
+HAS	her
+CON	children
+NIL	.

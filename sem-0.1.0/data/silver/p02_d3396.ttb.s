@@ -1,0 +1,10 @@
+PRO	I
+FUT	will
+EXS	ask
+PRO	him
+REL	about
+PRO	it
+FUT	tomorrow
+NIL	,
+IST	then
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+EPS	got
+IST	up
+IST	early
+REL	in
+CON	order
+SUB	to
+EXS	catch
+DEF	the
+IST	first
+CON	train
+NIL	.

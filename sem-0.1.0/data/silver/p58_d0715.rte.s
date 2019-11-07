@@ -1,0 +1,9 @@
+PER	David
+PER	Cameron
+NOW	belongs
+REL	to
+DEF	the
+ORG	U.K.
+ORG	Conservative
+ORG	Party
+NIL	.

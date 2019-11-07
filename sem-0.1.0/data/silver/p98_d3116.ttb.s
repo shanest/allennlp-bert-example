@@ -1,0 +1,14 @@
+REL	For
+AND	as
+IST	long
+SUB	as
+PER	Tom
+POS	could
+EXS	remember
+NIL	,
+HAS	his
+CON	parents
+PST	had
+PFT	been
+EXS	overweight
+NIL	.

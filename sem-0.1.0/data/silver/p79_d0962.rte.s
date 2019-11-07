@@ -1,0 +1,16 @@
+DEF	The
+CON	dispute
+REL	between
+GPE	Albania
+AND	and
+DEF	the
+ORG	UK
+AND	about
+DEF	the
+GEO	Corfu
+CON	incident
+EPS	lasted
+DIS	a
+IST	long
+CON	time
+NIL	.

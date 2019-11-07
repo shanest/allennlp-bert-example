@@ -1,0 +1,13 @@
+DST	Those
+CON	pants
+NOW	are
+QUV	much
+IST	too
+IST	long
+NIL	.
+PRO	They
+AND	almost
+EXS	touch
+DEF	the
+CON	ground
+NIL	.

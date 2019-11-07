@@ -1,0 +1,10 @@
+PRO	He
+NOW	studies
+GPO	English
+NIL	,
+BUT	but
+PRO	he
+ALT	also
+NOW	studies
+GPO	German
+NIL	.

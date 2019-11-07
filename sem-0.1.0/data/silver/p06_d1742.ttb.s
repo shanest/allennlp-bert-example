@@ -1,0 +1,10 @@
+PRO	He
+EPS	suggested
+REL	to
+PRO	her
+SUB	that
+PRO	she
+NEC	should
+EXS	buy
+PRO	it
+NIL	.

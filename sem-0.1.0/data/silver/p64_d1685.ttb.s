@@ -1,0 +1,9 @@
+PRO	I
+EPS	saw
+PRO	him
+EXS	coming
+IST	out
+AND	of
+DEF	the
+CON	hotel
+NIL	.

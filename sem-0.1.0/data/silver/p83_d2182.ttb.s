@@ -1,0 +1,9 @@
+PRO	She
+EPS	broke
+REL	with
+CON	Cecil
+SUB	before
+EXS	going
+REL	to
+GEO	Greece
+NIL	.

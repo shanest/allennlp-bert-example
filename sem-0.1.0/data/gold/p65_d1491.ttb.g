@@ -1,0 +1,9 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	if
+PRO	he
+POS	could
+EXS	kiss
+PRO	her
+NIL	.

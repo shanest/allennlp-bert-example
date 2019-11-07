@@ -1,0 +1,15 @@
+DEF	The
+IST	more
+CON	people
+PRO	you
+ENS	know
+NIL	,
+DEF	the
+IST	less
+CON	time
+PRO	you
+NEC	have
+SUB	to
+EXS	see
+PRO	them
+NIL	.

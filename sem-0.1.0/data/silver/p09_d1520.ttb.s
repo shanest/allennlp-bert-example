@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	deal
+REL	with
+DEF	the
+CON	problem
+REL	in
+PRX	this
+CON	chapter
+NIL	.

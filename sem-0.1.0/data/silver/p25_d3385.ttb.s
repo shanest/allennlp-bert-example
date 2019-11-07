@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	just
+INT	too
+EXS	busy
+SUB	to
+EXS	take
+DIS	a
+CON	vacation
+NOW	now
+NIL	.

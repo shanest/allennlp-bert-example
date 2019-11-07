@@ -1,0 +1,13 @@
+SUB	To
+DEF	the
+TOP	best
+AND	of
+HAS	my
+CON	knowledge
+NIL	,
+PRO	she
+NOW	has
+NOT	n't
+EXS	left
+ALT	yet
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+NOT	never
+PFT	been
+INT	so
+IST	proud
+AND	of
+PER	Tom
+NIL	.

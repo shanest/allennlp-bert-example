@@ -1,0 +1,10 @@
+QUE	What
+CON	province
+REL	in
+GPE	Canada
+NOW	is
+GEO	Niagara
+NIL	Falls
+EXS	located
+REL	in
+QUE	?

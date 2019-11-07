@@ -1,0 +1,16 @@
+REL	At
+CON	night
+NIL	,
+PER	Mary
+POS	could
+EXS	see
+DEF	the
+CON	stars
+AND	through
+DEF	the
+CON	window
+AND	next
+REL	to
+HAS	her
+CON	bed
+NIL	.

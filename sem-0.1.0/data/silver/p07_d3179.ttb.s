@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXG	tying
+HAS	my
+CON	laces
+NIL	.
+CON	Wait
+REL	for
+PRO	me
+NIL	!

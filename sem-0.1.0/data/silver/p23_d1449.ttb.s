@@ -1,0 +1,15 @@
+SUB	When
+PRO	you
+NOW	talk
+REL	to
+ALT	others
+NIL	,
+PRO	you
+NOW	're
+EXS	doing
+PRO	it
+REL	with
+HAS	your
+CON	arms
+EPS	crossed
+NIL	.

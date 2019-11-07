@@ -1,0 +1,10 @@
+PRO	I
+NOW	remember
+DEF	the
+CON	year
+SUB	when
+PRO	he
+EPS	got
+DIS	a
+CON	job
+NIL	.

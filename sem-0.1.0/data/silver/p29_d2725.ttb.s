@@ -1,0 +1,11 @@
+AND	Everyone
+AND	of
+PRO	us
+NOW	has
+DIS	something
+SUB	to
+EXS	do
+REL	in
+DEF	the
+CON	future
+NIL	.

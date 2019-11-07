@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	sure
+PRO	you
+NOW	're
+EXS	going
+SUB	to
+EXS	like
+PRX	this
+CON	lunch
+NIL	.

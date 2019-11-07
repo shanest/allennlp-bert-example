@@ -1,0 +1,10 @@
+ALT	Older
+CON	people
+NOW	are
+IST	often
+IST	afraid
+AND	of
+EXG	trying
+IST	new
+CON	things
+NIL	.

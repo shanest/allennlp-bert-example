@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	like
+DEF	the
+CON	way
+PER	Mary
+EPS	ironed
+HAS	his
+CON	clothes
+NIL	.

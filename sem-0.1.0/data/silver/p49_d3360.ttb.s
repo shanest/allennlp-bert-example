@@ -1,0 +1,9 @@
+PRO	We
+EPS	made
+CON	friends
+REL	with
+TOP	at
+TOP	least
+QUC	ten
+ROL	Americans
+NIL	.

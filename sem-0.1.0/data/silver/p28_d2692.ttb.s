@@ -1,0 +1,10 @@
+PRO	I
+PST	thought
+UNK	there
+PST	was
+DIS	somebody
+REL	in
+DEF	the
+CON	meeting
+CON	room
+NIL	.

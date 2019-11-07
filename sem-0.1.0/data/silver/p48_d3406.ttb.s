@@ -1,0 +1,11 @@
+QUE	Who
+ENS	knows
+QUE	what
+PRO	we
+FUT	'll
+EXS	find
+IST	up
+REL	in
+DEF	the
+CON	attic
+QUE	?

@@ -1,0 +1,10 @@
+DST	That
+CON	day
+PRO	it
+PST	had
+EXS	looked
+AND	like
+CON	rain
+REL	since
+CON	morning
+NIL	.

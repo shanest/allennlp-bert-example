@@ -1,0 +1,17 @@
+PER	Tom
+ENS	thinks
+PER	Mary
+NEC	should
+EXS	apologize
+REL	to
+PER	John
+REL	for
+NOT	not
+EXG	doing
+QUE	what
+PRO	she
+EPS	said
+PRO	she
+PST	'd
+EXS	do
+NIL	.

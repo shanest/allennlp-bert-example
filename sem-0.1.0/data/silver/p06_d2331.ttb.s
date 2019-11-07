@@ -1,0 +1,10 @@
+PRO	I
+POS	can
+EXS	make
+IST	sure
+SUB	that
+NOW	does
+NOT	n't
+EXS	happen
+ALT	again
+NIL	.

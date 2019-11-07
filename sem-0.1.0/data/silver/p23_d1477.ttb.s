@@ -1,0 +1,10 @@
+AND	According
+REL	to
+PER	Mike
+NIL	,
+PER	Mac
+EPS	bought
+DIS	a
+IST	new
+CON	car
+NIL	.

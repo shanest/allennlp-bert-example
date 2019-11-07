@@ -1,0 +1,10 @@
+DEF	The
+CON	party
+CON	tickets
+EXS	go
+REL	for
+QUC	ten
+UOM	dollars
+AND	and
+IST	upward
+NIL	.

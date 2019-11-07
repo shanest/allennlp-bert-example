@@ -1,0 +1,11 @@
+PRO	He
+PST	did
+NOT	n't
+EXS	return
+SUB	until
+PRO	it
+PST	was
+IST	already
+INT	too
+IST	late
+NIL	.

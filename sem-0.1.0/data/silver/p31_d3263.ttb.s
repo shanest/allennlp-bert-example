@@ -1,0 +1,13 @@
+DST	That
+EQU	's
+CON	nonsense
+NIL	.
+NOT	No
+CON	body
+NOT	but
+DIS	a
+ROL	fool
+FUT	would
+EXS	believe
+PRO	it
+NIL	.

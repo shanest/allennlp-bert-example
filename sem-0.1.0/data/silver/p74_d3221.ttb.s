@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	dying
+SUB	to
+EXS	know
+QUE	what
+HAS	's
+REL	in
+PER	Tom
+HAS	's
+CON	suitcase
+NIL	.

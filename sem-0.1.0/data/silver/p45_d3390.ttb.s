@@ -1,0 +1,11 @@
+PRO	I
+EPS	spent
+DIS	a
+IST	whole
+CON	day
+REL	in
+EXG	cleaning
+IST	up
+HAS	my
+CON	room
+NIL	.

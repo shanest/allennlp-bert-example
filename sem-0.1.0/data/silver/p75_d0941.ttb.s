@@ -1,0 +1,14 @@
+PRO	You
+NOW	are
+EXS	living
+DIS	a
+CON	dream
+NIL	,
+COO	and
+DEF	the
+CON	dream
+NOW	is
+IST	about
+REL	to
+CON	end
+NIL	.

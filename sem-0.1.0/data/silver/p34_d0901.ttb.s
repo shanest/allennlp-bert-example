@@ -1,0 +1,13 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	wait
+REL	for
+PRO	him
+REL	in
+CON	front
+AND	of
+DEF	the
+CON	library
+NIL	.

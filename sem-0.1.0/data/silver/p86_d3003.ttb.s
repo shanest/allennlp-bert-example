@@ -1,0 +1,11 @@
+PRO	He
+EPS	opened
+DEF	the
+CON	drawer
+NIL	,
+COO	and
+EPS	took
+IST	out
+DIS	a
+CON	letter
+NIL	.

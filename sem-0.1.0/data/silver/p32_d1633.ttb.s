@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	seen
+DIS	a
+MOR	more
+IST	god-forsaken
+CON	stretch
+AND	of
+CON	desert
+NIL	.

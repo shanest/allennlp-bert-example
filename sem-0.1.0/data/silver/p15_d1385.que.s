@@ -1,0 +1,15 @@
+QUE	What
+PST	was
+DEF	the
+CON	name
+AND	of
+DEF	the
+CON	plane
+SUB	that
+EPS	dropped
+DEF	the
+IST	Atomic
+CON	Bomb
+REL	on
+GPE	Hiroshima
+QUE	?

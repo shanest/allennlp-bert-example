@@ -1,0 +1,11 @@
+PRO	He
+EPS	studied
+IST	hard
+NIL	,
+IST	hardly
+EXG	taking
+CON	time
+AND	out
+REL	for
+CON	lunch
+NIL	.

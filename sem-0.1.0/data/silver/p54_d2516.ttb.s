@@ -1,0 +1,17 @@
+SUB	When
+PRO	she
+EPS	asked
+PRO	him
+QUE	what
+PST	was
+IST	so
+EXS	unusual
+AND	about
+PRO	him
+NIL	,
+PRO	he
+EPS	showed
+HAS	her
+HAS	his
+CON	wallet
+NIL	.

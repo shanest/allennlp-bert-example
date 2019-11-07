@@ -1,0 +1,9 @@
+PER	Tom
+ENS	seems
+INT	very
+EXS	angry
+NIL	,
+NOW	does
+NOT	n't
+PRO	he
+QUE	?

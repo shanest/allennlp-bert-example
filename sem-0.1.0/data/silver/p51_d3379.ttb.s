@@ -1,0 +1,9 @@
+PRO	We
+NOW	've
+EXS	got
+SUB	to
+EXS	stop
+CON	meeting
+AND	like
+PRX	this
+NIL	.

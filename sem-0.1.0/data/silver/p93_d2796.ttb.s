@@ -1,0 +1,10 @@
+AND	Why
+NOW	do
+PRO	you
+NOW	think
+PRO	I
+NOW	'm
+EXS	thinking
+REL	about
+PRO	you
+QUE	?

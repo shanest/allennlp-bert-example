@@ -1,0 +1,14 @@
+QUE	What
+PRO	you
+NOW	're
+EXS	doing
+ENS	seems
+CON	way
+MOR	more
+IST	dangerous
+AND	than
+QUE	what
+PRO	I
+NOW	'm
+EXS	doing
+NIL	.

@@ -1,0 +1,13 @@
+PRO	You
+PST	'd
+MOR	better
+EXS	be
+INT	very
+IST	sure
+SUB	before
+PRO	you
+ENS	accuse
+PER	Tom
+AND	of
+AND	anything
+NIL	.

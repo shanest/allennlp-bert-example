@@ -1,0 +1,11 @@
+PRX	This
+CON	book
+NOW	is
+MOR	better
+MOR	than
+AND	any
+PRO	I
+NOW	have
+IST	ever
+EXS	read
+NIL	.

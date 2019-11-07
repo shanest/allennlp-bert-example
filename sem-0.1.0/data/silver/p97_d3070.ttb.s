@@ -1,0 +1,15 @@
+PRO	She
+FUT	will
+EXT	have
+PFT	been
+EXS	married
+REL	for
+QUC	six
+UOM	years
+REL	on
+MOY	June
+NIL	10th
+AND	of
+PRX	this
+CON	year
+NIL	.

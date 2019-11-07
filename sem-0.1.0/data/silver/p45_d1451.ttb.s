@@ -1,0 +1,10 @@
+DEF	The
+CON	art
+CON	exhibition
+NOW	is
+NOW	now
+EXS	being
+EXS	held
+REL	in
+GEO	Kyoto
+NIL	.

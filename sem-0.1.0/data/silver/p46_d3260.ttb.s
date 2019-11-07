@@ -1,0 +1,10 @@
+AND	Why
+NOW	do
+NOT	n't
+PRO	I
+IST	just
+EXS	go
+EXS	talk
+REL	to
+PER	Tom
+QUE	?

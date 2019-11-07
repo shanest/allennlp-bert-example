@@ -1,0 +1,13 @@
+PRO	You
+NOW	're
+EXS	young
+NIL	.
+PRO	You
+NOW	have
+HAS	your
+IST	whole
+CON	life
+AND	ahead
+AND	of
+PRO	you
+NIL	.

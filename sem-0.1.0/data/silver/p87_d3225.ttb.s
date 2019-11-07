@@ -1,0 +1,11 @@
+PRO	I
+NOW	have
+NOT	not
+EXS	had
+DIS	a
+IST	bowel
+CON	movement
+REL	for
+DIS	a
+CON	week
+NIL	.

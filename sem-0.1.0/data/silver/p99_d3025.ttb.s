@@ -1,0 +1,12 @@
+PRO	I
+POS	can
+NOT	not
+EXS	sing
+REL	in
+GPO	Chinese
+NIL	.
+PRO	It
+NOW	's
+INT	too
+EXS	difficult
+NIL	.

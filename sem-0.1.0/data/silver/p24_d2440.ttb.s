@@ -1,0 +1,9 @@
+PER	Tom
+ENS	says
+PRO	he
+HAS	's
+NOT	never
+PST	had
+DIS	a
+CON	girlfriend
+NIL	.

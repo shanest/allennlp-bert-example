@@ -1,0 +1,11 @@
+PER	Tom
+EPS	walked
+IST	down
+DEF	the
+CON	street
+EXG	carrying
+DIS	a
+COL	black
+CON	gym
+CON	bag
+NIL	.

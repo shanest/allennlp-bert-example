@@ -1,0 +1,14 @@
+IMP	If
+PRO	we
+NOW	're
+EXS	going
+SUB	to
+EXS	do
+PRX	this
+NIL	,
+EXS	let
+PRO	's
+NOW	do
+PRO	it
+EXS	right
+NIL	.

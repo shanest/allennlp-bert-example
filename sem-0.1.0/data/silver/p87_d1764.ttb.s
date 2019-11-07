@@ -1,0 +1,10 @@
+PRO	It
+FUT	will
+EXT	have
+PFT	been
+EXS	snowing
+REL	for
+QUC	five
+CON	days
+FUT	tomorrow
+NIL	.

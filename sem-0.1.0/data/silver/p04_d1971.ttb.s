@@ -1,0 +1,17 @@
+PRO	I
+EPS	got
+DIS	a
+CON	bit
+EPS	carried
+IST	away
+SUB	when
+PRO	I
+PST	was
+EXG	dancing
+COO	and
+EPS	got
+IST	up
+REL	on
+DEF	the
+CON	table
+NIL	.

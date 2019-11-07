@@ -1,0 +1,13 @@
+PRO	He
+EPS	said
+SUB	that
+PRO	he
+ENS	takes
+DIS	a
+CON	walk
+REL	in
+DEF	the
+CON	park
+AND	every
+CON	morning
+NIL	.

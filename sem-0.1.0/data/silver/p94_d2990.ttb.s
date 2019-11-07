@@ -1,0 +1,14 @@
+PRO	I
+FUT	'll
+EXS	put
+REL	off
+HAS	my
+CON	visit
+REL	to
+GPE	England
+REL	till
+DEF	the
+CON	weather
+NOW	is
+EXS	warmer
+NIL	.

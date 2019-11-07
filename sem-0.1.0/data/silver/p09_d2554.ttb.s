@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	take
+NOW	turns
+EXG	washing
+DEF	the
+CON	dishes
+NIL	.

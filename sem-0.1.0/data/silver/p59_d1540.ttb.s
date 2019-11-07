@@ -1,0 +1,15 @@
+PRO	I
+ENS	need
+SUB	to
+EXS	hide
+PRX	these
+CON	Christmas
+NOW	presents
+DIS	somewhere
+SUB	that
+PER	Tom
+POS	ca
+NOT	n't
+EXS	find
+PRO	them
+NIL	.

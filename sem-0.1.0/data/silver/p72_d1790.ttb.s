@@ -1,0 +1,10 @@
+HAS	My
+ROL	aunt
+ENS	wears
+CON	glasses
+SUB	when
+PRO	she
+ENS	reads
+DEF	the
+CON	papers
+NIL	.

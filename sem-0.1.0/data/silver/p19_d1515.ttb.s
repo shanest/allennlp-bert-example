@@ -1,0 +1,12 @@
+PRO	I
+IST	just
+ENS	wish
+PRO	I
+EPS	knew
+QUE	what
+SUB	to
+EXS	say
+REL	to
+HAS	my
+CON	husband
+NIL	.

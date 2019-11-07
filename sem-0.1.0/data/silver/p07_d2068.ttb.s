@@ -1,0 +1,10 @@
+UNK	There
+HAS	's
+DIS	a
+CON	lot
+AND	of
+CON	flu
+EXS	going
+AND	around
+NOW	now
+NIL	.

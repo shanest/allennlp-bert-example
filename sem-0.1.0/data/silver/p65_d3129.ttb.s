@@ -1,0 +1,10 @@
+PRO	I
+EPS	found
+PRO	it
+UNK	difficult
+SUB	to
+EXS	put
+PRO	it
+REL	into
+CON	practice
+NIL	.

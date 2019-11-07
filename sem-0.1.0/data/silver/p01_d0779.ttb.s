@@ -1,0 +1,10 @@
+GPE	England
+ENS	expects
+SUB	that
+AND	every
+CON	man
+FUT	will
+EXS	do
+HAS	his
+CON	duty
+NIL	.

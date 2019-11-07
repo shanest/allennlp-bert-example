@@ -1,0 +1,9 @@
+CON	Vampires
+ENS	live
+IST	forever
+NIL	,
+SUB	unless
+PRO	they
+NOW	're
+EXS	killed
+NIL	.

@@ -1,0 +1,15 @@
+PRO	We
+NOW	do
+NOT	n't
+IST	even
+EXS	know
+IMP	if
+PRO	they
+NOW	're
+EXS	planning
+SUB	to
+EXS	help
+PRO	us
+DIS	or
+NOT	not
+NIL	.

@@ -1,0 +1,13 @@
+PRO	We
+NOW	have
+EXS	erected
+QUC	thirty
+CON	benches
+REL	on
+DEF	the
+EXS	walking
+CON	trails
+AND	around
+HAS	our
+CON	village
+NIL	.

@@ -1,0 +1,15 @@
+PER	Jim
+NOW	is
+NOT	not
+ALT	yet
+EXS	used
+SUB	to
+EXS	driving
+REL	on
+DEF	the
+IST	left
+CON	side
+AND	of
+DEF	the
+CON	road
+NIL	.

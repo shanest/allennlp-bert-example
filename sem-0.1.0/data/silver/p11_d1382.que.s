@@ -1,0 +1,10 @@
+QUE	What
+NOW	is
+DEF	the
+INT	most
+IST	populated
+CON	country
+REL	in
+DEF	the
+CON	world
+QUE	?

@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	know
+SUB	when
+PER	Mary
+HAS	's
+CON	birthday
+PST	was
+NIL	.

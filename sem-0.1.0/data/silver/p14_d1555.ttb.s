@@ -1,0 +1,12 @@
+CON	Rise
+AND	and
+EXS	shine
+EQU	,
+PER	Johnny
+NIL	!
+CON	Time
+SUB	to
+EXS	go
+REL	to
+CON	school
+NIL	.

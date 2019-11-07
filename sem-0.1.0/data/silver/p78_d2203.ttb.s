@@ -1,0 +1,14 @@
+SUB	While
+PRO	we
+PST	were
+REL	on
+CON	holiday
+EQU	,
+DIS	a
+CON	neighbor
+EPS	took
+CON	care
+AND	of
+HAS	our
+CON	cat
+NIL	.

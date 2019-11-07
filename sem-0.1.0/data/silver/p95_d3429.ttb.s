@@ -1,0 +1,12 @@
+PRO	I
+FUT	'll
+EXS	be
+DEF	the
+CON	one
+EXS	waiting
+REL	for
+PER	Tom
+NIL	,
+NOT	not
+PRO	you
+NIL	.

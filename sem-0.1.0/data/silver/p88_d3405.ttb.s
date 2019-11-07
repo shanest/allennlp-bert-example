@@ -1,0 +1,10 @@
+EXS	Stop
+EXS	screaming
+NIL	!
+PRO	You
+NOW	're
+EXG	giving
+PRO	me
+DIS	a
+CON	headache
+NIL	.

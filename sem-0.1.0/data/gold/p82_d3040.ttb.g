@@ -1,0 +1,11 @@
+PER	Tom
+EPS	unscrewed
+DEF	the
+CON	cap
+COO	and
+EPS	handed
+DEF	the
+CON	jar
+REL	to
+PER	Mary
+NIL	.

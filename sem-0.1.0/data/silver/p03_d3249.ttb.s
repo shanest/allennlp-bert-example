@@ -1,0 +1,9 @@
+PRO	We
+PST	had
+NOT	no
+EXS	unexpected
+CON	incidents
+AND	during
+HAS	our
+CON	trip
+NIL	.

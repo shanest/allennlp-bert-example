@@ -1,0 +1,10 @@
+PRO	It
+NOW	has
+NOT	n't
+EXS	come
+IST	out
+REL	in
+DEF	the
+CON	newspapers
+ALT	yet
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+NOW	has
+PFT	been
+EXG	studying
+GPO	French
+REL	for
+QUC	eight
+CON	years
+NIL	.

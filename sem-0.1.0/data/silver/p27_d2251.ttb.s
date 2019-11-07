@@ -1,0 +1,13 @@
+DIS	A
+ROL	politician
+NEC	must
+IST	always
+EXS	be
+IST	able
+SUB	to
+EXS	account
+REL	for
+CON	money
+PRO	he
+NOW	receives
+NIL	.

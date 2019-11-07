@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+EXS	going
+SUB	to
+EXS	live
+SUB	to
+EXS	regret
+PRX	this
+CON	decision
+NIL	.

@@ -1,0 +1,10 @@
+HAS	My
+CON	mother
+EPS	bought
+HAS	my
+IST	little
+CON	brother
+DIS	a
+COL	yellow
+CON	umbrella
+NIL	.

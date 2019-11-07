@@ -1,0 +1,10 @@
+PRO	She
+NOW	has
+EXS	changed
+IST	greatly
+REL	since
+PRO	I
+IST	last
+EPS	saw
+PRO	her
+NIL	.

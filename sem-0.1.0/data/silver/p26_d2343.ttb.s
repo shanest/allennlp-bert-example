@@ -1,0 +1,14 @@
+PRO	I
+NOW	've
+IST	already
+EXS	picked
+AND	out
+DEF	the
+CON	CD
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	buy
+IST	next
+NIL	.

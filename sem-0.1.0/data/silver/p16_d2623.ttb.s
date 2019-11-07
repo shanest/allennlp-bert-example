@@ -1,0 +1,15 @@
+PER	True
+ENS	love
+NOW	is
+EXS	like
+CON	ghosts
+NIL	,
+AND	which
+AND	everyone
+CON	talks
+AND	about
+AND	and
+IST	few
+NOW	have
+EXS	seen
+NIL	.

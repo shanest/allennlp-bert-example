@@ -1,0 +1,12 @@
+NOW	Have
+PRO	you
+EPS	finished
+EXG	reading
+DEF	the
+CON	book
+PRO	I
+EPS	lent
+PRO	you
+IST	last
+CON	week
+QUE	?

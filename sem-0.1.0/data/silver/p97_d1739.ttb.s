@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+NOT	not
+EXG	saying
+PRX	this
+SUB	to
+EXS	hurt
+PRO	you
+NIL	,
+BUT	but
+PRO	it
+NOW	is
+DEF	the
+CON	truth
+NIL	.

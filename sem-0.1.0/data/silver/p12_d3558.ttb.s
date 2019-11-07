@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+EXS	friendly
+REL	to
+PRO	us
+AND	and
+ENS	wants
+HAS	our
+CON	help
+NIL	.

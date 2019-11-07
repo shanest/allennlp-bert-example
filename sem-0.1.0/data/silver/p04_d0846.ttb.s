@@ -1,0 +1,9 @@
+UNK	There
+NOW	are
+INT	about
+QUC	forty
+CON	students
+REL	in
+HAS	her
+CON	class
+NIL	.

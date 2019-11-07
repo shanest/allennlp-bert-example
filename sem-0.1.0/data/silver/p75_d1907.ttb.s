@@ -1,0 +1,9 @@
+PRO	I
+IST	never
+ENS	want
+SUB	to
+EXS	hear
+HAS	his
+CON	name
+ALT	again
+NIL	.

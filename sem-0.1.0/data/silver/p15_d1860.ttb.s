@@ -1,0 +1,14 @@
+DEF	The
+CON	sight
+AND	of
+DEF	the
+CON	ruins
+EPS	brought
+CON	home
+REL	to
+PRO	him
+DEF	the
+CON	meaning
+AND	of
+CON	war
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+NOT	not
+IST	sure
+AND	who
+PER	Tom
+NOW	is
+EXS	married
+REL	to
+NIL	.

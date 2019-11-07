@@ -1,0 +1,12 @@
+DEF	The
+TOP	best
+CON	way
+NIL	to
+EXS	learn
+GPO	English
+NOW	is
+NIL	to
+EXS	go
+REL	to
+GEO	America
+NIL	.

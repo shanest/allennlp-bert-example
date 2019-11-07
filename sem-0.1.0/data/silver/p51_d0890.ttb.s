@@ -1,0 +1,13 @@
+AND	Once
+AND	upon
+DIS	a
+CON	time
+NIL	,
+UNK	there
+PST	was
+DIS	a
+IST	bad
+CON	king
+REL	in
+GPE	England
+NIL	.

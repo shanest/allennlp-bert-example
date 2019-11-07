@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+EXS	familiar
+REL	with
+QUE	what
+NOW	is
+EXG	going
+REL	on
+REL	in
+GPE	China
+NIL	.

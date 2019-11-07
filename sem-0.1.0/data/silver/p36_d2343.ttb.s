@@ -1,0 +1,11 @@
+PRO	It
+FUT	would
+EXS	be
+TOP	best
+IMP	if
+PRO	I
+EPS	met
+PRO	him
+REL	in
+CON	person
+NIL	.

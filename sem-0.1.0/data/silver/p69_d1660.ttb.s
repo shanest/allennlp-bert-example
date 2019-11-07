@@ -1,0 +1,13 @@
+PRO	I
+EPS	forgot
+SUB	to
+EXS	put
+REL	on
+DEF	the
+CON	stamp
+SUB	before
+PRO	I
+EPS	mailed
+DEF	the
+CON	letter
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	expect
+SUB	that
+PER	Mary
+FUT	would
+EXS	come
+IST	so
+IST	soon
+NIL	.

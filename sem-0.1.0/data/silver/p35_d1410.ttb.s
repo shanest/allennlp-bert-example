@@ -1,0 +1,11 @@
+REL	In
+DEF	the
+CON	summer
+PRO	it
+NOW	's
+INT	very
+EXS	hot
+REL	in
+IST	southern
+GPE	Spain
+NIL	.

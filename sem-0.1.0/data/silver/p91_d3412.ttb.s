@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+EXS	paying
+INT	too
+QUC	much
+REL	for
+HAS	your
+CON	car
+CON	insurance
+QUE	?

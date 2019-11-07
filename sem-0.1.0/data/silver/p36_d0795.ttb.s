@@ -1,0 +1,9 @@
+PER	Jack
+PST	was
+EXS	laughed
+REL	at
+REL	by
+AND	all
+DEF	the
+CON	boys
+NIL	.

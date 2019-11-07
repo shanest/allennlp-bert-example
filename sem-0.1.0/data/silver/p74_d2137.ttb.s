@@ -1,0 +1,14 @@
+AND	Next
+DOM	Monday
+NIL	,
+PRO	she
+FUT	'll
+EXT	have
+EXS	been
+REL	in
+DEF	the
+CON	hospital
+REL	for
+DIS	a
+CON	month
+NIL	.

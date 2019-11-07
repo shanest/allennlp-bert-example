@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	she
+FUT	'll
+EXS	ask
+PRO	him
+REL	for
+CON	divorce
+FUT	someday
+NIL	.

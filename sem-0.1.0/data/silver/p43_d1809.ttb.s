@@ -1,0 +1,12 @@
+PRO	We
+NOW	've
+PFT	been
+EXS	waiting
+REL	for
+CON	hours
+REL	for
+PRO	you
+SUB	to
+EXS	show
+IST	up
+NIL	.

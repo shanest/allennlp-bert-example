@@ -1,0 +1,13 @@
+NOW	Is
+UNK	there
+AND	any
+CON	chance
+AND	of
+HAS	your
+EXS	coming
+REL	to
+GEO	Tokyo
+ALT	again
+PRX	this
+CON	year
+QUE	?

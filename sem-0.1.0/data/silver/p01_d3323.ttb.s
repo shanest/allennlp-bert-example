@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXG	sitting
+CON	side
+REL	by
+CON	side
+NIL	.

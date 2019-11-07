@@ -1,0 +1,15 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+DEF	the
+CON	book
+NOW	has
+IST	never
+PFT	been
+EXS	translated
+REL	into
+GPO	Japanese
+NIL	.

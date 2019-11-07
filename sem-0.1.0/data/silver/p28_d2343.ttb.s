@@ -1,0 +1,13 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PRO	I
+NEC	have
+SUB	to
+EXS	sit
+DIS	an
+CON	exam
+REL	on
+DOW	Sunday
+NIL	!

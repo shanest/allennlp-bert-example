@@ -1,0 +1,17 @@
+NOW	Now
+SUB	that
+PER	Tom
+NOW	is
+EXS	taking
+IST	proper
+CON	medication
+NIL	,
+PRO	he
+NEC	should
+EXS	be
+UNK	able
+SUB	to
+EXS	control
+REF	himself
+IST	better
+NIL	.

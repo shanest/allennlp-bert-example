@@ -1,0 +1,16 @@
+PRO	I
+EPS	lived
+REL	in
+GEO	Tokyo
+DIS	a
+IST	few
+CON	years
+PST	ago
+NIL	,
+BUT	but
+NOW	now
+PRO	I
+ENS	live
+REL	in
+GEO	Kyoto
+NIL	.

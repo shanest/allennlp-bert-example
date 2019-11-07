@@ -1,0 +1,10 @@
+PRO	I
+ENS	need
+DIS	some
+CON	butter
+NIL	.
+NOW	Do
+PRO	you
+NOW	have
+AND	any
+QUE	?

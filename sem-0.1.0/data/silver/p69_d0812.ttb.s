@@ -1,0 +1,11 @@
+PER	Mother
+EPS	made
+PRO	me
+EXS	eat
+CON	carrots
+AND	every
+CON	day
+REL	in
+HAS	my
+CON	childhood
+NIL	.

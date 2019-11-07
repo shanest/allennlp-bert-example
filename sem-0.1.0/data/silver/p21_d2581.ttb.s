@@ -1,0 +1,12 @@
+DIS	A
+COL	green
+CON	color
+NOW	is
+DIS	a
+CON	characteristic
+AND	of
+DST	that
+CON	type
+AND	of
+CON	apple
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+EPS	gave
+PRO	us
+NOT	not
+XCL	only
+CON	clothes
+AND	but
+DIS	some
+CON	money
+NIL	.

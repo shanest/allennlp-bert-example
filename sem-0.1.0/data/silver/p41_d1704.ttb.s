@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	proud
+SUB	to
+EXS	have
+PRO	him
+AND	as
+DIS	a
+CON	friend
+NIL	.

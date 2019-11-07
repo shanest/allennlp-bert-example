@@ -1,0 +1,11 @@
+DEF	The
+IST	new
+CON	constitution
+FUT	will
+NOT	not
+EXS	solve
+DEF	the
+CON	problems
+AND	of
+GPE	Egypt
+NIL	.

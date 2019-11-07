@@ -1,0 +1,10 @@
+SUB	Before
+EXS	taking
+DIS	a
+CON	journey
+NIL	,
+PRO	I
+EPS	got
+DIS	a
+CON	haircut
+NIL	.

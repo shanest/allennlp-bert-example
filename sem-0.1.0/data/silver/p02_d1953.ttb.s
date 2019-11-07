@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	take
+DEF	the
+CLO	10:30
+CON	train
+NIL	.

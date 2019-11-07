@@ -1,0 +1,13 @@
+IMP	If
+PRO	you
+ENS	bite
+PRO	me
+NIL	,
+AND	then
+PRO	I
+FUT	'll
+EXS	bite
+PRO	you
+NIL	,
+ALT	too
+NIL	.

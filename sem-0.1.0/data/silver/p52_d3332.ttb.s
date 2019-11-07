@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+IST	ashamed
+AND	of
+HAS	my
+CON	son
+EXT	having
+EXS	done
+IST	so
+NIL	.

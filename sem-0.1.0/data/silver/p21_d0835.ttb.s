@@ -1,0 +1,10 @@
+HAS	His
+IST	elder
+ROL	sister
+NOW	is
+COM	older
+AND	than
+HAS	my
+IST	eldest
+CON	brother
+NIL	.

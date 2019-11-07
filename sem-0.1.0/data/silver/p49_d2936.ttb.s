@@ -1,0 +1,10 @@
+PRO	He
+EPS	looked
+IST	around
+NIL	,
+BUT	but
+PRO	he
+EPS	saw
+NOT	no
+CON	one
+NIL	.

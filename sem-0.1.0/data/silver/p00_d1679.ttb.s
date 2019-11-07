@@ -1,0 +1,10 @@
+HAS	My
+CON	cram
+CON	school
+NOW	is
+DIS	a
+IST	long
+CON	way
+REL	from
+PRX	here
+NIL	.

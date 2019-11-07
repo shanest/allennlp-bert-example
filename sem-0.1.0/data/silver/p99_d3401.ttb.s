@@ -1,0 +1,12 @@
+PRO	She
+EPS	used
+DIS	a
+PRI	fake
+CON	identification
+CON	card
+SUB	to
+EXS	get
+REL	into
+DEF	the
+CON	bar
+NIL	.

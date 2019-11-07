@@ -1,0 +1,11 @@
+SUB	After
+PRO	we
+PST	had
+EXT	eaten
+NIL	,
+PRO	we
+EPS	went
+IST	outside
+NIL	to
+EXS	skate
+NIL	.

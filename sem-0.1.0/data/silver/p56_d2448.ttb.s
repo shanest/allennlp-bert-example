@@ -1,0 +1,10 @@
+PRO	We
+NOW	believe
+PRO	it
+PST	was
+EXS	possible
+SUB	that
+PER	Tom
+EXS	poisoned
+PER	Mary
+NIL	.

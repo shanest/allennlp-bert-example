@@ -1,0 +1,15 @@
+REL	For
+DIS	a
+IST	long
+CON	time
+PRO	I
+NOW	have
+EXS	wanted
+DIS	a
+CON	mother
+NIL	,
+AND	just
+AND	like
+ALT	other
+CON	boys
+NIL	.

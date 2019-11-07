@@ -1,0 +1,9 @@
+PER	Tom
+EPS	watched
+PER	Mary
+EXG	throwing
+CON	rocks
+REL	into
+DEF	the
+CON	water
+NIL	.

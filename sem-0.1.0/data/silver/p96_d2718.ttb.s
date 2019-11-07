@@ -1,0 +1,9 @@
+PRO	I
+NEC	have
+SUB	to
+EXS	wait
+REL	for
+PER	Tom
+HAS	's
+CON	call
+NIL	.

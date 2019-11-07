@@ -1,0 +1,9 @@
+PST	Was
+DEF	the
+CON	gate
+IST	wide
+EXS	open
+DIS	or
+IST	just
+PRX	ajar
+QUE	?

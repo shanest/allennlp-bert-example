@@ -1,0 +1,10 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	mail
+PRX	this
+CON	package
+REL	to
+GPE	Canada
+NIL	.

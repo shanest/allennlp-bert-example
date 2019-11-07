@@ -1,0 +1,9 @@
+PER	Tom
+NOT	never
+EPS	told
+PRO	me
+PRO	he
+PST	was
+DIS	a
+CON	vegetarian
+NIL	.

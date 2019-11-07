@@ -1,0 +1,10 @@
+PRO	We
+ENS	know
+PRO	it
+PST	was
+PRO	you
+SUB	that
+EPS	broke
+DEF	the
+CON	window
+NIL	.

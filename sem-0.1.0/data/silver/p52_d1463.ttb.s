@@ -1,0 +1,13 @@
+PRO	She
+EPS	got
+REL	into
+IST	hot
+CON	water
+SUB	when
+HAS	her
+CON	boyfriend
+EPS	called
+PRO	her
+REL	at
+CON	work
+NIL	.

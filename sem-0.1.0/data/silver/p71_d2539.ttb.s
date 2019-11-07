@@ -1,0 +1,15 @@
+PRO	I
+EPS	heard
+SUB	that
+CON	footprints
+AND	of
+DIS	an
+IST	abominable
+CON	snowman
+NOW	have
+PFT	been
+EXS	discovered
+REL	in
+DEF	the
+CON	Himalayas
+NIL	.

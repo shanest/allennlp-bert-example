@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+PFT	been
+AND	and
+AND	always
+NEC	shall
+EXS	be
+HAS	your
+CON	friend
+NIL	.

@@ -1,0 +1,17 @@
+DIS	A
+CON	family
+NEC	should
+NOT	not
+EXS	spend
+AND	all
+AND	of
+HAS	its
+CON	money
+SUB	to
+EXS	keep
+DIS	someone
+EXS	alive
+REL	on
+DIS	a
+CON	machine
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+ENS	hope
+PRO	you
+FUT	will
+EXS	be
+EXS	pleased
+REL	with
+PRX	this
+CON	present
+NIL	.

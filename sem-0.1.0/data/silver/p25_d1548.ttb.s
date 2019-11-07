@@ -1,0 +1,9 @@
+PRO	I
+IST	just
+EPS	woke
+IST	up
+DIS	a
+IST	few
+CON	minutes
+PST	ago
+NIL	.

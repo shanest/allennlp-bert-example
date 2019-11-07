@@ -1,0 +1,11 @@
+DEF	The
+CON	boy
+SUB	that
+PRO	you
+EPS	met
+REL	at
+DEF	the
+CON	park
+NOW	is
+EXS	adopted
+NIL	.

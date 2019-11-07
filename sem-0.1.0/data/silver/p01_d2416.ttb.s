@@ -1,0 +1,12 @@
+GPO	Americans
+NIL	,
+REL	in
+CON	general
+NIL	,
+NOW	do
+NOT	n't
+EXS	like
+NIL	to
+EXS	dress
+IST	up
+NIL	.

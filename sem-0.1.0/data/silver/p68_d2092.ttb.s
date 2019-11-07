@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+EXS	decided
+SUB	that
+PRO	I
+FUT	wo
+NOT	n't
+EXS	go
+REL	to
+DEF	the
+CON	party
+NIL	.

@@ -1,0 +1,9 @@
+AND	Weather
+EXG	permitting
+PRO	we
+FUT	will
+EXS	go
+REL	for
+DIS	a
+CON	drive
+NIL	.

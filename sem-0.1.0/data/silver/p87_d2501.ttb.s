@@ -1,0 +1,12 @@
+PRO	I
+FUT	would
+NOT	n't
+EXS	miss
+PRX	this
+REL	for
+AND	all
+DEF	the
+CON	tea
+REL	in
+GPE	China
+NIL	.

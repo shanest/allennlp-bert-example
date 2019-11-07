@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+EXS	known
+PER	Jim
+SUB	since
+PRO	we
+PST	were
+CON	children
+NIL	.

@@ -1,0 +1,16 @@
+PRO	I
+NOW	hope
+HAS	my
+CON	car
+NOW	does
+NOT	n't
+EXS	break
+IST	down
+COO	and
+PRO	I
+NOW	get
+REL	to
+PRO	you
+REL	on
+CON	time
+NIL	.

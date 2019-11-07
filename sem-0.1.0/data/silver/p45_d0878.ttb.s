@@ -1,0 +1,16 @@
+PRO	I
+ENS	wish
+PRO	I
+PST	were
+QUE	what
+PRO	I
+PST	was
+SUB	when
+PRO	I
+EPS	wished
+PRO	I
+PST	were
+QUE	what
+PRO	I
+NOW	am
+NIL	.

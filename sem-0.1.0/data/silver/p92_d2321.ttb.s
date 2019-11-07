@@ -1,0 +1,10 @@
+REL	From
+NOW	now
+REL	on
+NIL	,
+PRO	I
+FUT	will
+NOT	no
+IST	longer
+CON	smoke
+NIL	.

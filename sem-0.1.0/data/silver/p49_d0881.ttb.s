@@ -1,0 +1,14 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	you
+NOW	're
+IST	strong
+NIL	,
+BUT	but
+IST	political
+CON	pressure
+NOW	is
+IST	even
+COM	stronger
+NIL	.

@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+NOW	do
+SUB	that
+NIL	,
+PRO	you
+NOW	're
+EXS	going
+SUB	to
+EXS	subject
+REF	yourself
+SUB	to
+EXS	ridicule
+NIL	.

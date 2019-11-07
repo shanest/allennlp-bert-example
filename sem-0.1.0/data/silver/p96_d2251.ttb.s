@@ -1,0 +1,11 @@
+DEF	The
+CON	air
+REL	of
+GPE	Sydney
+NOW	is
+MOR	cleaner
+AND	than
+PRO	that
+REL	of
+GPE	Tokyo
+NIL	.

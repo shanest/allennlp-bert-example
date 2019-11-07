@@ -1,0 +1,14 @@
+DIS	Somebody
+NOW	have
+DEF	the
+CON	guts
+SUB	to
+EXS	admit
+SUB	that
+PRX	these
+CON	vuvuzelas
+NOW	are
+EXS	killing
+DEF	the
+CON	tournament
+NIL	.

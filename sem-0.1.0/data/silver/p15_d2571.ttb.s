@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+UNK	which
+ROL	barbershop
+PER	Tom
+IST	usually
+ENS	goes
+REL	to
+QUE	?

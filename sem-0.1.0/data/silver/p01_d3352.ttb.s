@@ -1,0 +1,10 @@
+NIL	There
+NOW	are
+MOR	more
+MOR	than
+QUC	150
+CON	nations
+REL	in
+DEF	the
+CON	world
+NIL	.

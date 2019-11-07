@@ -1,0 +1,9 @@
+PRO	I
+FUT	'd
+EXS	like
+PRO	you
+SUB	to
+EXS	meet
+ROL	Mr.
+PER	Brown
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+CON	telephone
+PST	was
+EXG	ringing
+SUB	when
+PRO	I
+EPS	got
+CON	home
+NIL	.

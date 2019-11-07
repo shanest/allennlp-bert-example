@@ -1,0 +1,14 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	believe
+SUB	that
+PER	Mary
+PST	was
+IST	capable
+AND	of
+EXS	doing
+AND	such
+DIS	a
+CON	thing
+NIL	.

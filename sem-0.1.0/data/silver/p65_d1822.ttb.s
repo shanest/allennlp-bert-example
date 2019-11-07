@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+PRO	you
+ENS	want
+SUB	to
+EXS	keep
+PRO	it
+DIS	a
+CON	secret
+NIL	.

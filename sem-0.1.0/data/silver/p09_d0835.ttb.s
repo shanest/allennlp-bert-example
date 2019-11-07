@@ -1,0 +1,12 @@
+REL	For
+DEF	the
+TOP	most
+CON	part
+NIL	,
+PRO	I
+ENS	agree
+REL	with
+QUE	what
+PRO	he
+EPS	said
+NIL	.

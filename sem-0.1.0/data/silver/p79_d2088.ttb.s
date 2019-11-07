@@ -1,0 +1,9 @@
+PER	Tom
+EPS	said
+GRE	goodbye
+REL	to
+PER	Mary
+REL	at
+DEF	the
+CON	door
+NIL	.

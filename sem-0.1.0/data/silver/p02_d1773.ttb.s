@@ -1,0 +1,12 @@
+PRO	It
+FUT	would
+EXS	be
+COM	better
+IMP	if
+PRO	we
+PST	did
+NOT	n't
+EXS	speak
+AND	of
+PER	Tom
+NIL	.

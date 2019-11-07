@@ -1,0 +1,9 @@
+QUC	Two
+AND	of
+DEF	the
+ROL	enemy
+CON	ships
+NOW	have
+PFT	been
+EXS	destroyed
+NIL	.

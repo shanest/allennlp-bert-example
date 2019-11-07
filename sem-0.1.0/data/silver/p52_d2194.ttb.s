@@ -1,0 +1,11 @@
+DEF	The
+IST	thick
+CON	fog
+EPS	made
+PRO	it
+IST	hard
+SUB	to
+EXS	see
+DEF	the
+CON	road
+NIL	.

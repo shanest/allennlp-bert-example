@@ -1,0 +1,9 @@
+PER	Tom
+EPS	realized
+SUB	that
+PRO	he
+PST	had
+EXT	made
+DIS	a
+CON	mistake
+NIL	.

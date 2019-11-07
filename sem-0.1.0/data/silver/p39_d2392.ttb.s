@@ -1,0 +1,12 @@
+PRO	I
+POS	could
+NOT	not
+POS	possibly
+EXS	finish
+DEF	the
+CON	work
+REL	in
+DIS	a
+IST	few
+CON	days
+NIL	.

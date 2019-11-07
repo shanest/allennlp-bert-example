@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	deliver
+DIS	a
+CON	message
+REL	to
+PER	John
+NIL	.

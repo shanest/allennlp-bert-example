@@ -1,0 +1,15 @@
+AND	Instead
+AND	of
+EXG	studying
+GPO	Italian
+NIL	,
+PRO	I
+NOW	'm
+EXG	wasting
+CON	time
+REL	on
+DIS	a
+CON	bunch
+AND	of
+CON	nonsense
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+IST	never
+EPS	told
+PER	Tom
+DIS	or
+AND	anyone
+AND	else
+AND	about
+QUE	what
+EPS	happened
+AND	that
+CON	day
+NIL	.

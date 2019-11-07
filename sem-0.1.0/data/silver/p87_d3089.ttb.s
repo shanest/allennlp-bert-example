@@ -1,0 +1,9 @@
+PRO	You
+NOW	're
+EXG	giving
+PRO	me
+DEF	the
+IST	same
+IST	old
+CON	line
+NIL	.

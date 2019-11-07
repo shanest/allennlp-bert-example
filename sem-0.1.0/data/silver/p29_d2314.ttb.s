@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	go
+REL	to
+HAS	his
+CON	office
+REL	on
+DOW	Saturday
+NIL	.

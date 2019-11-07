@@ -1,0 +1,9 @@
+EXS	Tell
+PRO	her
+SUB	that
+PRO	I
+NOW	am
+EXS	taking
+DIS	a
+CON	shower
+NIL	.

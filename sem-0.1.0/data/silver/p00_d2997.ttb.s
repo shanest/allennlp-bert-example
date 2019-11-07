@@ -1,0 +1,11 @@
+SUB	As
+PRO	it
+PST	got
+MOR	warmer
+NIL	,
+PRO	I
+EPS	took
+REL	off
+DEF	the
+CON	sweater
+NIL	.

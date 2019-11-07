@@ -1,0 +1,9 @@
+DEF	The
+ROL	teacher
+EPS	underlined
+DEF	the
+CON	importance
+AND	of
+IST	daily
+CON	exercises
+NIL	.

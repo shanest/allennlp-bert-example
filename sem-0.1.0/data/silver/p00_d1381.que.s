@@ -1,0 +1,9 @@
+QUE	What
+NOW	is
+DEF	the
+CON	height
+REL	of
+DEF	the
+TOP	tallest
+CON	redwood
+QUE	?

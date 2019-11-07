@@ -1,0 +1,10 @@
+NOW	Do
+NOT	n't
+EXS	worry
+NIL	.
+PRO	I
+FUT	wo
+NOT	n't
+EXS	tell
+PER	Mary
+NIL	.

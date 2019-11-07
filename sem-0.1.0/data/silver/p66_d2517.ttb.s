@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+COM	easier
+SUB	to
+EXS	replace
+DIS	a
+IST	dead
+CON	man
+AND	than
+DIS	a
+IST	good
+CON	picture
+NIL	.

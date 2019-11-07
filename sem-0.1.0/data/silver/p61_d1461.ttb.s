@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	I
+NOW	do
+NOT	n't
+EXS	deserve
+PRO	you
+NIL	.

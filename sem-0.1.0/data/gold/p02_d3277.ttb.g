@@ -1,0 +1,10 @@
+ITJ	Ouch
+NIL	!
+PRO	I
+EPS	stuck
+HAS	my
+CON	finger
+REL	in
+DEF	the
+CON	door
+NIL	!

@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+REL	in
+DEF	the
+CON	bathroom
+SUB	because
+PRO	I
+NOW	'm
+EXS	washing
+HAS	my
+CON	hands
+NIL	.

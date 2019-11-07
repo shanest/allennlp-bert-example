@@ -1,0 +1,15 @@
+NOW	Do
+PRO	you
+NOW	think
+PER	Tom
+FUT	would
+EXS	be
+IST	able
+SUB	to
+EXS	pick
+PER	Mary
+IST	up
+REL	at
+DEF	the
+CON	airport
+QUE	?

@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+HAS	his
+TOP	best
+SUB	to
+EXS	help
+PER	Mary
+EXS	learn
+GPO	French
+NIL	.

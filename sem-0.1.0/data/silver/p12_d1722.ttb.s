@@ -1,0 +1,9 @@
+GPE	Norway
+NOW	is
+DEF	the
+TOP	richest
+CON	country
+REL	in
+DEF	the
+CON	world
+NIL	.

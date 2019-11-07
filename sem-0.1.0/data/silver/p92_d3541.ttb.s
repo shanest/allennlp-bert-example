@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	dead
+EXS	tired
+REL	from
+EXS	walking
+AND	around
+AND	all
+CON	day
+NIL	.

@@ -1,0 +1,11 @@
+AND	Whoever
+PRO	you
+EXS	vote
+REL	for
+NIL	,
+CON	prices
+FUT	will
+EXS	go
+REL	on
+EXG	rising
+NIL	.

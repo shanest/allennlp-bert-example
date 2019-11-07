@@ -1,0 +1,10 @@
+CON	Prices
+NOW	are
+IST	double
+QUE	what
+PRO	they
+PST	were
+QUC	ten
+CON	years
+PST	ago
+NIL	.

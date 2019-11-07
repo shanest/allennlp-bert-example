@@ -1,0 +1,9 @@
+PER	Tom
+EPS	met
+PER	Mary
+SUB	while
+REL	on
+CON	holiday
+REL	in
+GPE	Germany
+NIL	.

@@ -1,0 +1,10 @@
+PRO	She
+EPS	took
+NOT	no
+CON	notice
+AND	of
+QUE	what
+HAS	her
+ROL	father
+EPS	said
+NIL	.

@@ -1,0 +1,9 @@
+PRX	This
+DOW	Sunday
+NOW	is
+PER	Mother
+ENS	's
+HAP	Day
+REL	in
+GPE	Spain
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+ENS	says
+PRO	he
+POS	ca
+NOT	n't
+EXS	imagine
+CON	life
+NOT	without
+PER	Mary
+NIL	.

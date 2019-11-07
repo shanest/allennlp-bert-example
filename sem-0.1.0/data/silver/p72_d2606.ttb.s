@@ -1,0 +1,17 @@
+DST	That
+PST	was
+DEF	the
+IST	first
+CON	time
+SUB	that
+PRO	he
+NOT	not
+XCL	only
+EPS	heard
+PRO	her
+NIL	,
+BUT	but
+ALT	also
+EPS	saw
+PRO	her
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+EPS	ate
+DIS	a
+CON	burger
+AND	then
+EPS	went
+REL	to
+CON	bed
+NIL	.

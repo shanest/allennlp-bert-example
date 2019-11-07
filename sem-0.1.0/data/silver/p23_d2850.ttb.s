@@ -1,0 +1,11 @@
+PER	Tom
+NOW	has
+PFT	been
+EXG	studying
+GPO	French
+REL	for
+DEF	the
+IST	last
+QUC	three
+CON	years
+NIL	.

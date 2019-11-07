@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+EXS	sorry
+PRO	I
+POS	ca
+NOT	n't
+EXS	help
+PRO	you
+NOW	now
+NIL	.
+PRO	I
+NOW	'm
+EXS	busy
+NIL	.

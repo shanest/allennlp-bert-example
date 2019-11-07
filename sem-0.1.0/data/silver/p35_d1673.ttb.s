@@ -1,0 +1,10 @@
+EXS	Pardon
+PRO	me
+REL	for
+NOT	not
+EXS	getting
+IST	back
+REL	to
+PRO	you
+IST	sooner
+NIL	.

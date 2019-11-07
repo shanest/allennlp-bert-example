@@ -1,0 +1,10 @@
+QUE	Who
+EPS	won
+DEF	the
+CON	Oscar
+REL	for
+TOP	best
+ROL	actor
+REL	in
+YOC	1970
+QUE	?

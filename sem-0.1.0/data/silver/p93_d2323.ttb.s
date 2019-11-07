@@ -1,0 +1,14 @@
+DST	That
+PST	was
+INT	pretty
+EXS	selfish
+AND	of
+PER	Tom
+NOT	not
+SUB	to
+EXS	let
+PRO	you
+NOW	use
+DEF	the
+CON	car
+NIL	.

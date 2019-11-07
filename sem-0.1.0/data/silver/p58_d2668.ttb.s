@@ -1,0 +1,9 @@
+PRO	He
+HAS	's
+DIS	a
+IST	famous
+IST	popular
+ROL	singer
+REL	in
+GPE	Japan
+NIL	.

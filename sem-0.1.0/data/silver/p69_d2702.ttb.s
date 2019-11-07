@@ -1,0 +1,11 @@
+DEF	The
+CON	average
+AND	of
+QUC	3
+AND	,
+GEO	4
+AND	and
+GEO	5
+NOW	is
+CON	4
+NIL	.

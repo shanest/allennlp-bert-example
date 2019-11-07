@@ -1,0 +1,11 @@
+PER	Tom
+ENS	thinks
+PRO	it
+EXS	impossible
+REL	for
+PER	Mary
+SUB	to
+EXS	break
+DEF	the
+CON	record
+NIL	.

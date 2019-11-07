@@ -1,0 +1,10 @@
+PRO	You
+NOW	do
+NOT	n't
+NEC	have
+SUB	to
+EXS	go
+REL	to
+CON	school
+FUT	tomorrow
+NIL	.

@@ -1,0 +1,10 @@
+QUE	Where
+PST	did
+ROL	Dr.
+PER	King
+NOW	give
+HAS	his
+CON	speech
+REL	in
+GEO	Washington
+QUE	?

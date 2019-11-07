@@ -1,0 +1,10 @@
+DST	That
+CON	dog
+NOW	is
+INT	too
+EXS	dangerous
+SUB	to
+EXS	be
+EXS	left
+IST	loose
+NIL	.

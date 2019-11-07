@@ -1,0 +1,14 @@
+PRO	He
+EPS	wrote
+DEF	the
+CON	article
+NIL	"
+IST	Psychological
+CON	Fitness
+REL	for
+CON	Colonists
+REL	in
+GPO	Martian
+CON	Habitats
+NIL	.
+NIL	"

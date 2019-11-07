@@ -1,0 +1,14 @@
+PER	Tom
+EPS	grew
+DIS	a
+CON	beard
+SUB	because
+PRO	he
+EPS	thought
+DST	that
+AND	all
+IST	wise
+CON	men
+EPS	had
+CON	beards
+NIL	.

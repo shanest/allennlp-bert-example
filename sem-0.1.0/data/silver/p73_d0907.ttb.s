@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+EXS	been
+DIS	a
+IST	long
+CON	time
+REL	since
+PRO	I
+IST	last
+EPS	saw
+PRO	him
+NIL	.

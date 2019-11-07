@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+DEF	the
+IST	last
+CON	thing
+PRO	I
+ENS	need
+IST	right
+NOW	now
+NIL	.

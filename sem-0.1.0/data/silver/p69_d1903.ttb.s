@@ -1,0 +1,9 @@
+DEF	The
+CON	agenda
+REL	for
+DEF	the
+CON	meeting
+NOW	has
+PFT	been
+EXS	distributed
+NIL	.

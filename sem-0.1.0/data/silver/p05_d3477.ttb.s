@@ -1,0 +1,11 @@
+DST	That
+HAS	's
+DEF	the
+TOP	most
+IST	beautiful
+CON	ship
+PRO	I
+NOW	've
+IST	ever
+EXS	seen
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	feel
+AND	like
+PRO	we
+NEC	should
+NOT	n't
+EXS	be
+EXG	doing
+PRX	this
+NIL	.

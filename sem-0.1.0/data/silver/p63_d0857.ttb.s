@@ -1,0 +1,12 @@
+UNK	There
+NOW	is
+IST	more
+CON	moorland
+REL	in
+GEO	Northern
+GPE	Germany
+AND	than
+REL	in
+GEO	Southern
+GPE	Germany
+NIL	.

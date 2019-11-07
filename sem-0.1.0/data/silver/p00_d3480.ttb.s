@@ -1,0 +1,14 @@
+NIL	There
+NOW	are
+CON	days
+SUB	where
+PRO	I
+ENS	feel
+AND	like
+HAS	my
+CON	brain
+ENS	wants
+NIL	to
+EXS	abandon
+PRO	me
+NIL	.

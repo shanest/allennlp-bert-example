@@ -1,0 +1,9 @@
+REL	At
+IST	first
+NIL	,
+PRO	I
+PST	did
+NOT	n't
+EXS	believe
+PER	Tom
+NIL	.

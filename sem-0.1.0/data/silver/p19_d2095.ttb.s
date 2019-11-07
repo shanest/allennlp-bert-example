@@ -1,0 +1,12 @@
+PER	Tom
+EPS	rang
+NIL	to
+EXS	say
+PRO	he
+PST	was
+IST	just
+AND	about
+SUB	to
+EXS	come
+IST	over
+NIL	.

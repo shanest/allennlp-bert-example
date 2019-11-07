@@ -1,0 +1,11 @@
+NOT	Not
+DIS	a
+CON	star
+PST	was
+NIL	to
+EXS	be
+EXS	seen
+REL	in
+DEF	the
+CON	sky
+NIL	.

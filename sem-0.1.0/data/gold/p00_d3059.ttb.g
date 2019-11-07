@@ -1,0 +1,11 @@
+PER	Tom
+EPS	got
+REL	into
+DEF	the
+ROL	driver
+HAS	's
+CON	seat
+COO	and
+EPS	drove
+REL	off
+NIL	.

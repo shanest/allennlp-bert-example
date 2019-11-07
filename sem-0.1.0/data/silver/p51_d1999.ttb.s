@@ -1,0 +1,13 @@
+HAS	My
+IST	first
+CON	deed
+AND	as
+ROL	Senator
+NOW	is
+EXS	designating
+PRO	you
+AND	as
+DEF	the
+IST	official
+CON	jester
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOT	never
+EPS	dreamed
+SUB	that
+PRO	I
+FUT	would
+EXS	win
+IST	first
+CON	prize
+NIL	.

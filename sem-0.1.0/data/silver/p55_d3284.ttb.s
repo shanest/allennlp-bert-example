@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+NOT	not
+EXS	convinced
+SUB	that
+PER	Tom
+NOW	is
+EXG	telling
+DEF	the
+CON	truth
+NIL	.

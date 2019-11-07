@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	ate
+IST	quietly
+REL	in
+DEF	the
+CON	moonlight
+NIL	.

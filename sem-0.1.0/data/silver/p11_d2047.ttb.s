@@ -1,0 +1,9 @@
+NOW	Is
+PRO	it
+EXS	true
+SUB	that
+PRO	you
+EPS	bit
+HAS	your
+ROL	sister
+QUE	?

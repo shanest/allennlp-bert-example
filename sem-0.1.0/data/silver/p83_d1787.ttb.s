@@ -1,0 +1,10 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	she
+EPS	looked
+AND	like
+PER	Marilyn
+PER	Monroe
+NIL	.

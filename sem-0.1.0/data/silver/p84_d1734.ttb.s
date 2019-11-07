@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	exhausted
+NIL	.
+PRO	I
+NOW	'm
+EXS	going
+REL	to
+CON	bed
+NIL	.

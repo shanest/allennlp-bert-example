@@ -1,0 +1,10 @@
+DEF	The
+IST	present
+CON	world
+ENS	owes
+HAS	its
+IST	convenient
+CON	life
+REL	to
+CON	petroleum
+NIL	.

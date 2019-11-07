@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	irritated
+REL	by
+PER	Mary
+HAS	's
+IST	constant
+EXS	yelling
+NIL	.

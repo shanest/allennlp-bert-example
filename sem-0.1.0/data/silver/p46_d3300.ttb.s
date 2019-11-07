@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+PFT	been
+QUC	three
+CON	years
+SUB	since
+PRO	I
+NOW	've
+PFT	been
+REL	to
+GPE	Boston
+NIL	.

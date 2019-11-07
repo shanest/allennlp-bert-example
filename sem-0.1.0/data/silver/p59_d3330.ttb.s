@@ -1,0 +1,12 @@
+NOW	Do
+NOT	n't
+EXS	bother
+PRO	me
+NIL	,
+PRO	I
+NOW	'm
+EXS	studying
+DIS	a
+IST	difficult
+CON	thing
+NIL	.

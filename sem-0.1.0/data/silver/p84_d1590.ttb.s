@@ -1,0 +1,10 @@
+PER	Tom
+EPS	died
+QUC	two
+CON	years
+PST	ago
+REL	in
+DIS	a
+CON	plane
+CON	crash
+NIL	.

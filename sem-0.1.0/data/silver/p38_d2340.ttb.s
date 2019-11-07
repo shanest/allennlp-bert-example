@@ -1,0 +1,11 @@
+PRO	She
+HAS	's
+PFT	been
+EXS	having
+CON	trouble
+REL	with
+IST	back
+CON	pain
+REL	for
+CON	years
+NIL	.

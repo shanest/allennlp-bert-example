@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+EXS	going
+REL	shopping
+PRX	this
+CON	afternoon
+NIL	,
+SUB	although
+PRO	I
+NOW	do
+NOT	n't
+EXS	have
+QUC	much
+CON	money
+NIL	.

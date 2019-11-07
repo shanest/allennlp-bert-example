@@ -1,0 +1,10 @@
+PER	Mary
+NOW	is
+IST	still
+EXS	wearing
+DEF	the
+CON	ring
+PER	Tom
+EPS	gave
+PRO	her
+NIL	.

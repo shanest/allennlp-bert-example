@@ -1,0 +1,16 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	know
+QUE	where
+SUB	to
+EXS	go
+SUB	to
+EXS	buy
+DIS	a
+CON	ticket
+REL	for
+PER	Mary
+HAS	's
+CON	concert
+NIL	.

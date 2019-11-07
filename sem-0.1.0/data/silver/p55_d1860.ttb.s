@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	see
+QUE	what
+PER	Tom
+NOW	is
+EXS	looking
+REL	at
+NIL	.

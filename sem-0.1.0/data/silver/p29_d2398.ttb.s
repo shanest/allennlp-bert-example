@@ -1,0 +1,15 @@
+PRO	She
+EPS	took
+CON	thousands
+AND	of
+CON	pictures
+AND	during
+HAS	her
+CON	trip
+NIL	,
+BUT	but
+PRO	they
+PST	were
+AND	all
+IST	bad
+NIL	.

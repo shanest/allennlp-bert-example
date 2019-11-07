@@ -1,0 +1,13 @@
+PRO	It
+NOW	looks
+AND	as
+IMP	if
+PER	Tom
+NOW	is
+EXS	trying
+SUB	to
+EXS	slow
+IST	down
+DEF	the
+CON	negotiations
+NIL	.

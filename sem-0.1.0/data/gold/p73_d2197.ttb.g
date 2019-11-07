@@ -1,0 +1,11 @@
+PER	Bob
+ENS	plays
+NOT	not
+XCL	only
+DEF	the
+CON	guitar
+BUT	but
+ALT	also
+DEF	the
+CON	flute
+NIL	.

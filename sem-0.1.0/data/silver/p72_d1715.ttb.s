@@ -1,0 +1,14 @@
+EXS	Stop
+EXS	slagging
+REL	off
+HAS	my
+EXS	brilliant
+CON	idea
+NIL	,
+PRO	it
+NOW	's
+NOT	not
+EXS	naive
+REL	at
+AND	all
+NIL	!

@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+IST	even
+EXS	know
+SUB	where
+PER	Tom
+NOW	is
+NOW	now
+NIL	.

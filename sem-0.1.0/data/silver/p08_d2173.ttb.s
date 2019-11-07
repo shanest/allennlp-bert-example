@@ -1,0 +1,12 @@
+PRO	He
+POS	may
+EXS	be
+IST	clever
+NIL	,
+BUT	but
+PRO	he
+NOW	is
+NOT	not
+INT	very
+EXS	helpful
+NIL	.

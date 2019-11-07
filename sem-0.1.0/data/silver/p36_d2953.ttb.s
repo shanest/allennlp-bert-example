@@ -1,0 +1,11 @@
+PRO	He
+EPS	got
+DEF	the
+IST	first
+CON	prize
+REL	in
+DIS	a
+QUC	100
+UOM	m
+CON	race
+NIL	.

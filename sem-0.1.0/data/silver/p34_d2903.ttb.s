@@ -1,0 +1,12 @@
+POS	Maybe
+PRO	we
+NEC	should
+EXT	've
+EPS	peeled
+DEF	the
+CON	apples
+SUB	before
+PRO	we
+EPS	ate
+PRO	them
+NIL	.

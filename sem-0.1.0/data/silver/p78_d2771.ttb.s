@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+IST	sure
+SUB	that
+PRO	she
+NOW	has
+EXS	arrived
+REL	at
+DEF	the
+CON	village
+REL	by
+NOW	now
+NIL	.

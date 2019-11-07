@@ -1,0 +1,9 @@
+PER	Mary
+EPS	buried
+HAS	her
+CON	toes
+REL	in
+DEF	the
+IST	warm
+CON	sand
+NIL	.

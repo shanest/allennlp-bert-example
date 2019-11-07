@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+DIS	a
+CON	feeling
+PRO	you
+FUT	'll
+EXS	be
+DIS	a
+INT	very
+SST	good
+ROL	lawyer
+NIL	.

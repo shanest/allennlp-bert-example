@@ -1,0 +1,13 @@
+HAS	My
+ROL	father
+EPS	went
+CON	nuts
+SUB	when
+PRO	he
+EPS	saw
+PRO	me
+EXS	hanging
+IST	out
+REL	with
+PRO	her
+NIL	.

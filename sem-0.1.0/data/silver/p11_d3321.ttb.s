@@ -1,0 +1,15 @@
+PER	Tom
+EPS	took
+DEF	the
+CON	bottle
+AND	of
+CON	Scotch
+REL	from
+HAS	his
+CON	briefcase
+COO	and
+EPS	handed
+PRO	it
+REL	to
+PER	Mary
+NIL	.

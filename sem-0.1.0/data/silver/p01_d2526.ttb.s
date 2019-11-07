@@ -1,0 +1,12 @@
+PER	Tom
+IST	usually
+ENS	wears
+CON	sunglasses
+AND	even
+SUB	when
+PRO	it
+HAS	's
+NOT	not
+INT	so
+EXS	bright
+NIL	.

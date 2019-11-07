@@ -1,0 +1,11 @@
+PER	Tom
+EPS	knocked
+REL	on
+DEF	the
+CON	door
+NIL	,
+BUT	but
+EPS	got
+NOT	no
+CON	response
+NIL	.

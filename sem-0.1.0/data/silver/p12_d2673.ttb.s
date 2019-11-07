@@ -1,0 +1,9 @@
+PRO	He
+NOW	has
+NOT	never
+PFT	been
+EXS	scolded
+REL	by
+HAS	his
+ROL	father
+NIL	.

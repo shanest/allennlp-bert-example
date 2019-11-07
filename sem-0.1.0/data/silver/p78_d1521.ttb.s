@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	talked
+REL	on
+DEF	the
+CON	phone
+AND	almost
+AND	every
+CON	night
+NIL	.

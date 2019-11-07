@@ -1,0 +1,10 @@
+PRO	I
+NOW	wonder
+QUE	what
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+IST	up
+REL	to
+NIL	.

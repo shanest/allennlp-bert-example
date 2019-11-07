@@ -1,0 +1,11 @@
+PRO	I
+ENS	want
+PRO	you
+SUB	to
+EXS	be
+UNK	ready
+SUB	when
+PER	Tom
+NOW	gets
+PRX	here
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+PST	was
+EXS	going
+SUB	to
+EXS	write
+REL	to
+PRO	you
+NIL	,
+BUT	but
+PRO	I
+EPS	forgot
+NIL	.

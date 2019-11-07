@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+IMP	if
+PER	Mary
+FUT	will
+EXS	come
+FUT	tomorrow
+NIL	.

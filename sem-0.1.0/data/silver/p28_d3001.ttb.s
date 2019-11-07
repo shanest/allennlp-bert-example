@@ -1,0 +1,12 @@
+DEF	The
+CON	development
+AND	of
+DEF	the
+CON	country
+NOW	is
+EXS	falling
+AND	behind
+PRO	that
+AND	of
+GPE	Japan
+NIL	.

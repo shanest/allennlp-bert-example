@@ -1,0 +1,9 @@
+PRO	I
+PST	was
+INT	very
+IST	glad
+SUB	to
+EXS	hear
+DEF	the
+CON	news
+NIL	.

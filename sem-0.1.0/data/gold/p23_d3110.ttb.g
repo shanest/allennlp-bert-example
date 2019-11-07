@@ -1,0 +1,9 @@
+PRO	We
+EPS	got
+REL	up
+REL	at
+CLO	four
+REL	in
+DEF	the
+CON	morning
+NIL	.

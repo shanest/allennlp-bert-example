@@ -1,0 +1,11 @@
+DIS	A
+CON	trip
+REL	to
+GPE	Hawaii
+FUT	will
+EXS	cost
+PRO	you
+INT	about
+QUC	200
+UOM	dollars
+NIL	.

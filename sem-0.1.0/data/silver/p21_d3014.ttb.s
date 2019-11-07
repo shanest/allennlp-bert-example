@@ -1,0 +1,10 @@
+PRO	He
+EPS	offered
+NOT	no
+IST	specific
+CON	explanation
+REL	for
+HAS	his
+IST	strange
+CON	behavior
+NIL	.

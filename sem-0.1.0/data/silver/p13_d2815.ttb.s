@@ -1,0 +1,14 @@
+REL	After
+DEF	the
+CON	death
+AND	of
+HAS	his
+CON	parents
+NIL	,
+HAS	his
+CON	grandparents
+EPS	took
+REL	to
+HAS	his
+CON	education
+NIL	.

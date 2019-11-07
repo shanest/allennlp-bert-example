@@ -1,0 +1,9 @@
+PRO	I
+ENS	like
+DEF	the
+ROL	singer
+HAS	's
+CON	voice
+NIL	,
+ALT	too
+NIL	.

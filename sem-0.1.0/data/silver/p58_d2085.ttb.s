@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+QUE	what
+CON	kind
+AND	of
+CON	people
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+NIL	.

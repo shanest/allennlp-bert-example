@@ -1,0 +1,9 @@
+PER	Tom
+EPS	sat
+IST	next
+REL	to
+PER	Mary
+REL	on
+DEF	the
+CON	couch
+NIL	.

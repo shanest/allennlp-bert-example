@@ -1,0 +1,17 @@
+IST	Please
+NOW	do
+NOT	n't
+EXS	forget
+SUB	to
+EXS	put
+CON	stamps
+REL	on
+DEF	the
+CON	letters
+SUB	that
+PRO	I
+EPS	gave
+PRO	you
+REL	to
+CON	mail
+NIL	.

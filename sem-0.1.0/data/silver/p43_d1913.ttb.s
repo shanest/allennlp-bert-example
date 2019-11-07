@@ -1,0 +1,9 @@
+PRO	I
+PST	thought
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+DEF	both
+CON	dead
+NIL	.

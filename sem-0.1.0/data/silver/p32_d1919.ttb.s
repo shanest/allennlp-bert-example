@@ -1,0 +1,15 @@
+PRO	I
+EPS	drank
+DIS	a
+CON	lot
+AND	and
+POS	ca
+NOT	n't
+EXS	remember
+QUC	much
+AND	of
+QUE	what
+EPS	happened
+IST	last
+CON	night
+NIL	.

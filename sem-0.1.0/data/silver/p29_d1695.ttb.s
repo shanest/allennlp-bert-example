@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+IST	hard
+REL	for
+PRO	me
+SUB	to
+EXS	guarantee
+HAS	your
+CON	success
+NIL	.

@@ -1,0 +1,12 @@
+PRO	We
+FUT	will
+EXS	be
+IST	able
+SUB	to
+EXS	raise
+CON	cows
+AND	and
+CON	sheep
+NIL	,
+ALT	too
+NIL	.

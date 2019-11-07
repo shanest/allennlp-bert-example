@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PRO	I
+NOW	have
+NOT	no
+CON	idea
+NIL	.

@@ -1,0 +1,13 @@
+DEF	The
+CON	movie
+PST	was
+IST	nowhere
+AND	near
+AND	as
+IST	bad
+AND	as
+PER	Mary
+EPS	said
+PRO	it
+PST	was
+NIL	.

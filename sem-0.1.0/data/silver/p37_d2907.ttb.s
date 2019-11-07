@@ -1,0 +1,12 @@
+DEF	The
+ROL	president
+AND	and
+DEF	the
+CON	secretary
+EPS	talked
+AND	over
+DIS	a
+CON	cup
+AND	of
+CON	coffee
+NIL	.

@@ -1,0 +1,9 @@
+NIL	There
+PST	was
+DIS	a
+EXT	handwritten
+CON	note
+REL	on
+DEF	the
+CON	door
+NIL	.

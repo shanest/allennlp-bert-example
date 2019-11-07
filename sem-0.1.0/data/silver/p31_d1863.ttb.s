@@ -1,0 +1,15 @@
+PRO	We
+NOW	're
+IST	still
+EXG	waiting
+REL	for
+PER	Tom
+SUB	to
+EXS	do
+QUE	what
+PRO	we
+EPS	asked
+PRO	him
+SUB	to
+EXS	do
+NIL	.

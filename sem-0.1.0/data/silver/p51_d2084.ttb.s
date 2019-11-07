@@ -1,0 +1,9 @@
+PRO	You
+NEC	should
+EXS	get
+REF	yourself
+DIS	a
+IST	new
+CON	car
+NOW	now
+NIL	.

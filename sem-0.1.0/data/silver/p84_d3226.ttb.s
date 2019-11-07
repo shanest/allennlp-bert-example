@@ -1,0 +1,10 @@
+PRO	She
+EPS	removed
+HAS	her
+CON	hat
+SUB	when
+PRO	she
+EPS	entered
+DEF	the
+CON	room
+NIL	.

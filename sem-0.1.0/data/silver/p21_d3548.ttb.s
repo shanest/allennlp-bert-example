@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+REL	at
+HAS	his
+CON	desk
+EXG	eating
+DIS	a
+CON	sandwich
+NIL	.

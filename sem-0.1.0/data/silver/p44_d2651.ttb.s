@@ -1,0 +1,13 @@
+AND	So
+NIL	,
+PRO	you
+NOW	do
+NOT	n't
+EXS	think
+PRO	I
+NOW	'm
+EXS	good
+IST	enough
+REL	for
+PRO	you
+NIL	.

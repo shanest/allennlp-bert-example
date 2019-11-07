@@ -1,0 +1,11 @@
+DEF	The
+CON	box
+PST	was
+INT	so
+IST	heavy
+PRO	I
+POS	could
+NOT	not
+EXS	move
+PRO	it
+NIL	.

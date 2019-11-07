@@ -1,0 +1,9 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	ask
+PER	Tom
+AND	that
+EMP	myself
+NIL	.

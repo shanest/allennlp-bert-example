@@ -1,0 +1,12 @@
+POS	Can
+PRO	you
+EXS	tell
+PRO	us
+SUB	where
+PRO	you
+PST	were
+REL	at
+CLO	2:30
+PRX	this
+CON	afternoon
+QUE	?

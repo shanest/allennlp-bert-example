@@ -1,0 +1,11 @@
+PRO	He
+FUT	will
+NOT	never
+EXS	yield
+REL	to
+DEF	the
+CON	pressure
+AND	of
+DIS	a
+ROL	politician
+NIL	.

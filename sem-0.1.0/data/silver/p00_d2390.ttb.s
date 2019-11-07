@@ -1,0 +1,12 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	he
+PST	'd
+EXS	go
+REL	to
+GPE	Boston
+REL	in
+MOY	October
+NIL	.

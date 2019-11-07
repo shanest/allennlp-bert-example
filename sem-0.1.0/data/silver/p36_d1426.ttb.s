@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+IST	even
+ENS	know
+SUB	where
+DEF	the
+CON	school
+NOW	is
+QUE	?

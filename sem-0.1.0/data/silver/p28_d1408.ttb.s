@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	said
+SUB	that
+PRO	she
+HAS	's
+DIS	a
+IST	well-known
+ROL	actress
+NIL	.

@@ -1,0 +1,9 @@
+SUB	When
+PST	was
+PRO	it
+SUB	that
+PER	Mary
+EPS	bought
+PRX	this
+CON	skirt
+QUE	?

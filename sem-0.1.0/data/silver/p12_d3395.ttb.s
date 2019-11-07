@@ -1,0 +1,14 @@
+PRO	I
+EPS	thought
+PRO	it
+FUT	would
+EXS	be
+DIS	a
+IST	good
+CON	concert
+NIL	,
+BUT	but
+PRO	it
+PST	was
+NOT	n't
+NIL	.

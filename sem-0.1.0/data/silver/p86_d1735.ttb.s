@@ -1,0 +1,15 @@
+PRO	They
+NOW	are
+EXS	building
+DIS	an
+CON	apartment
+CON	building
+AND	next
+CON	door
+NIL	,
+UNK	which
+FUT	will
+EXS	ruin
+HAS	our
+CON	view
+NIL	.

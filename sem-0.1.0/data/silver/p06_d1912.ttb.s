@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+EXS	found
+DIS	something
+PRO	I
+PST	'd
+EXS	like
+SUB	to
+EXS	show
+PRO	you
+NIL	.

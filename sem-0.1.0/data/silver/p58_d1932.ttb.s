@@ -1,0 +1,12 @@
+PRO	It
+NOW	has
+PFT	been
+QUC	three
+CON	years
+REL	since
+PER	Bob
+EPS	started
+HAS	his
+IST	own
+CON	business
+NIL	.

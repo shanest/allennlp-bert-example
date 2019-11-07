@@ -1,0 +1,11 @@
+REL	In
+PRX	this
+CON	town
+UNK	there
+NOW	's
+DEF	the
+CON	need
+AND	of
+DIS	a
+CON	smith
+NIL	.

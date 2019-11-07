@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	looking
+REL	for
+DIS	a
+CON	bag
+REL	for
+HAS	my
+CON	wife
+NIL	.

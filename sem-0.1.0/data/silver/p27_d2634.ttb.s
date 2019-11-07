@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXS	thinking
+SUB	about
+EXS	applying
+REL	for
+DIS	a
+IST	better-paying
+CON	job
+NIL	.

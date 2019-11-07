@@ -1,0 +1,9 @@
+AND	All
+PRO	you
+NEC	should
+EXS	do
+NOW	is
+EXS	follow
+HAS	his
+CON	advice
+NIL	.

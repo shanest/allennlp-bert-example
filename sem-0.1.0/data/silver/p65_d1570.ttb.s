@@ -1,0 +1,16 @@
+PRO	I
+NOW	have
+QUC	three
+CON	brothers
+NIL	.
+QUC	One
+ENS	lives
+REL	in
+GPE	Japan
+AND	and
+DEF	the
+ALT	other
+QUC	two
+ENS	live
+IST	abroad
+NIL	.

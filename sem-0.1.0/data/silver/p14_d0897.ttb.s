@@ -1,0 +1,10 @@
+PRO	You
+FUT	'll
+EXS	fatten
+IST	up
+IMP	if
+PRO	you
+ENS	eat
+SUB	that
+QUV	much
+NIL	.

@@ -1,0 +1,15 @@
+ROL	Mr
+PER	Hopkins
+EPS	spoke
+REL	in
+AND	such
+DIS	a
+IST	loud
+CON	voice
+SUB	that
+PRO	I
+POS	could
+EXS	hear
+PRO	him
+CON	upstairs
+NIL	.

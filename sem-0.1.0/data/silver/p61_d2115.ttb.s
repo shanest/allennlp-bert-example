@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+PRO	I
+NEC	should
+NOT	n't
+EXS	care
+QUE	what
+PER	Tom
+ENS	thinks
+NIL	.

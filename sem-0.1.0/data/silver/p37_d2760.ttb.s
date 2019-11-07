@@ -1,0 +1,16 @@
+PRO	I
+PST	was
+NOT	n't
+EXS	born
+PRX	here
+NIL	,
+BUT	but
+PRO	I
+EPS	spent
+AND	all
+AND	of
+HAS	my
+IST	early
+CON	childhood
+PRX	here
+NIL	.

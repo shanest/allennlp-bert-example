@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+DEF	the
+CON	soup
+ENS	needs
+DIS	a
+CON	bit
+AND	of
+CON	salt
+NIL	.

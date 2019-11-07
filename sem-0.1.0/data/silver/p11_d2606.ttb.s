@@ -1,0 +1,9 @@
+PRO	He
+EPS	said
+NIL	,
+NIL	"
+EXS	Leave
+PRO	me
+AND	alone
+NIL	.
+NIL	"

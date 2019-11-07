@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+ENS	want
+SUB	to
+EXS	keep
+DIS	somebody
+IST	far
+REL	from
+PRO	you
+QUE	?

@@ -1,0 +1,9 @@
+GPE	Sweden
+NOW	is
+EXS	pronounced
+NIL	"
+CON	ˈsværjə
+NIL	"
+REL	in
+GPO	Swedish
+NIL	.

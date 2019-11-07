@@ -1,0 +1,13 @@
+PER	Tom
+EPS	said
+NOT	nothing
+SUB	because
+PRO	he
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	start
+DIS	an
+CON	argument
+NIL	.

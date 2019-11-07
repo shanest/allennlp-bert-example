@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	thinking
+AND	about
+QUE	what
+PRO	we
+NEC	should
+EXS	do
+NIL	.

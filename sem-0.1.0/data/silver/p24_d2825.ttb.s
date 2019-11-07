@@ -1,0 +1,12 @@
+DEF	The
+CON	earthquake
+PST	was
+DEF	the
+TOP	biggest
+CON	one
+SUB	that
+PRO	we
+PST	had
+IST	ever
+EXS	experienced
+NIL	.

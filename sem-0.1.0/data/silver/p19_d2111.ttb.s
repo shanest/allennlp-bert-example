@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PER	Tom
+PST	did
+SUB	that
+REL	to
+PER	Mary
+NIL	.

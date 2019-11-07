@@ -1,0 +1,9 @@
+PRO	He
+EPS	picked
+IST	up
+DIS	something
+COL	white
+REL	on
+DEF	the
+CON	street
+NIL	.

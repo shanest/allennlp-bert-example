@@ -1,0 +1,14 @@
+AND	Every
+CON	day
+PRO	I
+AND	either
+EXS	ride
+DIS	a
+CON	bike
+DIS	or
+EXS	get
+DEF	the
+CON	bus
+REL	to
+EXS	work
+NIL	.

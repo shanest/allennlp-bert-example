@@ -1,0 +1,14 @@
+PRO	We
+NOW	've
+EXS	finished
+DEF	the
+CON	work
+NIL	,
+COO	so
+PRO	we
+POS	may
+AND	as
+IST	well
+EXS	go
+CON	home
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+AND	which
+CON	road
+NOW	leads
+REL	to
+HAS	my
+CON	house
+QUE	?

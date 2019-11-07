@@ -1,0 +1,9 @@
+CON	Squirrels
+NOW	are
+EXG	storing
+IST	up
+CON	nuts
+AND	against
+DEF	the
+CON	winter
+NIL	.

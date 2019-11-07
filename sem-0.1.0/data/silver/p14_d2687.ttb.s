@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	eaten
+CON	dinner
+AND	yet
+PRX	this
+CON	evening
+NIL	.

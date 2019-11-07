@@ -1,0 +1,14 @@
+PRO	We
+NEC	have
+SUB	to
+EXS	figure
+AND	out
+DIS	a
+CON	way
+SUB	to
+EXS	keep
+PER	Tom
+SUB	from
+EXS	seeing
+PER	Mary
+NIL	.

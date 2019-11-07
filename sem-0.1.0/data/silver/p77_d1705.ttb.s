@@ -1,0 +1,9 @@
+PER	Tom
+EPS	told
+PRO	me
+PRO	he
+PST	thought
+PRO	he
+EPS	saw
+PER	Mary
+NIL	.

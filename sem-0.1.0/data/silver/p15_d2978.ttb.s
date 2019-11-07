@@ -1,0 +1,9 @@
+SUB	When
+PRO	I
+ENS	bite
+IST	down
+NIL	,
+PRX	this
+CON	tooth
+ENS	hurts
+NIL	.

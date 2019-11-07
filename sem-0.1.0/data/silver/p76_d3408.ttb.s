@@ -1,0 +1,12 @@
+DEF	The
+CON	structure
+AND	of
+DEF	the
+CON	language
+NOW	is
+ALT	also
+DIS	a
+CON	structure
+AND	of
+CON	understanding
+NIL	.

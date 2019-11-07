@@ -1,0 +1,15 @@
+DIS	Some
+AND	of
+DEF	the
+INT	most
+EXS	sociable
+CON	people
+PRO	I
+ENS	know
+EXT	have
+CON	friends
+AND	both
+IST	online
+AND	and
+CON	off-
+NIL	.

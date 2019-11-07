@@ -1,0 +1,14 @@
+NOW	Do
+NOT	n't
+EXS	throw
+IST	away
+PRX	this
+CON	magazine
+NIL	.
+PRO	I
+NOW	have
+NOT	n't
+EXS	read
+PRO	it
+ALT	yet
+NIL	.

@@ -1,0 +1,12 @@
+DEF	The
+CON	script
+NIL	Tatoeba
+ENS	needs
+DEF	the
+TOP	most
+NOW	is
+DEF	the
+IST	native
+CON	speaker
+CON	detector
+NIL	.

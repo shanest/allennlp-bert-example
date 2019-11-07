@@ -1,0 +1,9 @@
+NOW	Are
+PRO	you
+IST	still
+EXS	thinking
+AND	about
+EXS	applying
+REL	to
+ORG	Harvard
+QUE	?

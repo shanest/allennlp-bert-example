@@ -1,0 +1,16 @@
+IMP	If
+PRO	you
+NOW	're
+INT	so
+EXS	demanding
+AND	of
+ALT	others
+NIL	,
+PRO	you
+NEC	should
+ALT	also
+EXS	be
+EXS	demanding
+AND	of
+REF	yourself
+NIL	.

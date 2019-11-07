@@ -1,0 +1,13 @@
+PER	Tom
+EPS	fell
+REL	in
+CON	love
+REL	with
+PER	Mary
+DEF	the
+IST	first
+CON	time
+PRO	he
+EPS	saw
+PRO	her
+NIL	.

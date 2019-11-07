@@ -1,0 +1,9 @@
+PRO	He
+EPS	realized
+HAS	his
+CON	dream
+AND	of
+EXS	becoming
+DIS	an
+ROL	artist
+NIL	.

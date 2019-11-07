@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+NOT	n't
+EXS	finished
+EXS	eating
+ALT	yet
+NIL	,
+NOW	have
+PRO	they
+QUE	?

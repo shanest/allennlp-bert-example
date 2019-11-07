@@ -1,0 +1,13 @@
+PRO	I
+NOW	want
+DIS	someone
+SUB	to
+EXS	tell
+PRO	me
+QUE	why
+PER	Tom
+NOW	is
+NOT	n't
+PRX	here
+NOW	today
+NIL	.

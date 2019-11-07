@@ -1,0 +1,13 @@
+PRO	I
+ENS	bet
+PRO	you
+NOW	think
+PRO	I
+NOW	'm
+IST	just
+EXS	writing
+SUB	that
+SUB	to
+EXS	impress
+PRO	you
+NIL	.

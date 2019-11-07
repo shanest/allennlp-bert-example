@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	had
+DIS	an
+EXS	enjoyable
+CON	day
+IST	together
+REL	at
+DEF	the
+CON	zoo
+NIL	.

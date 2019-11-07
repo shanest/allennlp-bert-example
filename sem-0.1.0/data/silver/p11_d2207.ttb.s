@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+DIS	a
+CON	friend
+AND	who
+ENS	speaks
+GPO	French
+IST	very
+IST	well
+NIL	.

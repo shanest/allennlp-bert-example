@@ -1,0 +1,12 @@
+EXS	Questioned
+AND	about
+HAS	his
+CON	policies
+NIL	,
+DEF	the
+CON	candidate
+EPS	gave
+XCL	only
+IST	vague
+CON	answers
+NIL	.

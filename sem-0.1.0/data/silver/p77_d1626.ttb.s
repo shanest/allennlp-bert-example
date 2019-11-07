@@ -1,0 +1,10 @@
+DEF	The
+IST	little
+CON	fairy
+EPS	washed
+REF	itself
+REL	in
+DEF	the
+CON	morning
+CON	dew
+NIL	.

@@ -1,0 +1,15 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+NOW	'm
+EXS	concerned
+NIL	,
+PRO	I
+NOW	have
+NOT	no
+CON	objection
+REL	to
+DEF	the
+CON	plan
+NIL	.

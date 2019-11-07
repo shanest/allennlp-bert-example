@@ -1,0 +1,12 @@
+REL	For
+PER	Markku
+PER	Liisa
+HAS	's
+CON	comment
+PST	was
+DIS	a
+CON	slap
+REL	in
+DEF	the
+CON	face
+NIL	.

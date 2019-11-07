@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	impossible
+SUB	that
+PRO	she
+NEC	should
+EXT	have
+EXS	killed
+REF	herself
+NIL	.

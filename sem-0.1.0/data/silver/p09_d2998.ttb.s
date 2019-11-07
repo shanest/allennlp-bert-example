@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+INT	about
+CON	time
+PRO	you
+EPS	did
+HAS	your
+CON	share
+AND	of
+CON	work
+NIL	.

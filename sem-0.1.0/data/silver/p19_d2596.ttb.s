@@ -1,0 +1,12 @@
+PRO	You
+FUT	'll
+EXS	be
+EXS	asleep
+REL	by
+DEF	the
+CON	time
+HAS	your
+ROL	father
+NOW	gets
+CON	home
+NIL	.

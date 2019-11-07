@@ -1,0 +1,17 @@
+PRO	I
+PST	did
+NOT	not
+EXS	like
+CON	wine
+REL	in
+DEF	the
+CON	past
+NIL	,
+BUT	but
+NOW	now
+PRO	I
+NOW	am
+EXS	addicted
+REL	to
+PRO	it
+NIL	.

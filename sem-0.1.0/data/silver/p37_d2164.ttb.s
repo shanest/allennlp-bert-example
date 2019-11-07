@@ -1,0 +1,14 @@
+PRX	This
+NOW	is
+DEF	the
+IST	first
+CON	time
+PRO	I
+NOW	've
+IST	ever
+EXS	taught
+PER	Marika
+DIS	a
+CON	Berber
+CON	word
+NIL	.

@@ -1,0 +1,10 @@
+AND	Would
+PRO	you
+IST	please
+NOW	show
+PRO	me
+QUE	how
+PRO	it
+NOW	's
+EXS	done
+QUE	?

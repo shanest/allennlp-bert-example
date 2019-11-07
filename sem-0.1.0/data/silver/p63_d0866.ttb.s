@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	going
+REL	to
+HAS	my
+CON	friend
+HAS	's
+CON	house
+NIL	.

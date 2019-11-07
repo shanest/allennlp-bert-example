@@ -1,0 +1,10 @@
+PRO	They
+EPS	began
+SUB	to
+EXS	run
+SUB	when
+PRO	they
+EPS	saw
+DEF	the
+CON	police
+NIL	.

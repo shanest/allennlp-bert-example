@@ -1,0 +1,9 @@
+PRO	It
+NOW	has
+EXS	been
+DIS	a
+CON	week
+SUB	since
+PRO	they
+EPS	met
+NIL	.

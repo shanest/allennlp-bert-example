@@ -1,0 +1,11 @@
+PRX	This
+CON	picture
+ENS	reminds
+PRO	me
+AND	of
+HAS	our
+IST	happy
+CON	days
+REL	in
+GPE	England
+NIL	.

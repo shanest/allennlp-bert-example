@@ -1,0 +1,10 @@
+PER	Mary
+EPS	bought
+PER	Tom
+DIS	a
+IST	new
+CON	lightsaber
+REL	for
+HAS	his
+CON	birthday
+NIL	.

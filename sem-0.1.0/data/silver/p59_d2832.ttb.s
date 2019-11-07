@@ -1,0 +1,14 @@
+PRO	I
+EPS	saw
+DIS	a
+CON	man
+NOW	get
+EXS	arrested
+REL	by
+DEF	the
+CON	police
+DIS	a
+IST	few
+CON	minutes
+PST	ago
+NIL	.

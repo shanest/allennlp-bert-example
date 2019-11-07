@@ -1,0 +1,13 @@
+EXS	Holding
+DIS	an
+CON	eel
+ALT	too
+IST	fast
+NOW	is
+DEF	the
+CON	way
+SUB	to
+EXS	let
+HAS	her
+CON	escape
+NIL	.

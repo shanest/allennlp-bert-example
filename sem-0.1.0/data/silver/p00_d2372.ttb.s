@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	why
+PRO	I
+NOW	'm
+PRX	here
+NIL	.

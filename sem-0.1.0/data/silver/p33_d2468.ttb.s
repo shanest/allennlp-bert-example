@@ -1,0 +1,9 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	meet
+PER	Mary
+DIS	or
+AND	anyone
+AND	else
+NIL	.

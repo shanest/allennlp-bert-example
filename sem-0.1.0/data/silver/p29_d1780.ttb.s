@@ -1,0 +1,12 @@
+PER	Tom
+EPS	said
+PRO	he
+PST	did
+NOT	n't
+EXS	know
+SUB	when
+PER	Mary
+FUT	would
+EXS	be
+EXS	arriving
+NIL	.

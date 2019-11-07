@@ -1,0 +1,11 @@
+HAS	My
+ROL	father
+EPS	offered
+HAS	his
+CON	services
+REL	to
+DIS	a
+IST	well-known
+CON	trade
+CON	company
+NIL	.

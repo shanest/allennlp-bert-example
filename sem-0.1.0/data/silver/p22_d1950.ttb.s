@@ -1,0 +1,12 @@
+REL	On
+EXG	hearing
+DEF	the
+CON	news
+NIL	,
+PRO	he
+EPS	rushed
+IST	out
+AND	of
+DEF	the
+CON	house
+NIL	.

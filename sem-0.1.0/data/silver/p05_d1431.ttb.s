@@ -1,0 +1,12 @@
+PRO	She
+EPS	watched
+PRO	him
+ENS	continue
+SUB	to
+EXS	fight
+AND	as
+IST	hard
+SUB	as
+PRO	he
+POS	could
+NIL	.

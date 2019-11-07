@@ -1,0 +1,10 @@
+PRO	It
+FUT	would
+EXT	have
+PFT	been
+CON	wiser
+SUB	to
+EXS	leave
+PRO	it
+EXS	unsaid
+NIL	.

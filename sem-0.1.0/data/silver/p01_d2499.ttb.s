@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+NIL	to
+EXS	exchange
+PRX	this
+REL	for
+DIS	a
+MOR	smaller
+CON	size
+NIL	.

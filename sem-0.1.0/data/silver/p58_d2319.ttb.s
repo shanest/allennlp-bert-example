@@ -1,0 +1,15 @@
+SUB	After
+EXS	writing
+DEF	the
+CON	letter
+NIL	,
+PER	Tom
+EPS	put
+PRO	it
+REL	in
+DIS	an
+CON	envelope
+COO	and
+EPS	sealed
+PRO	it
+NIL	.

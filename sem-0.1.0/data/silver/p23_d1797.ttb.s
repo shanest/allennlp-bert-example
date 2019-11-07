@@ -1,0 +1,9 @@
+EXS	Did
+PER	Tom
+EXS	tell
+PRO	you
+PRO	he
+NOW	's
+EXG	studying
+GPO	French
+QUE	?

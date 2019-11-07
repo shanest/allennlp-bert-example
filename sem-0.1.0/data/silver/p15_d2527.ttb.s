@@ -1,0 +1,10 @@
+PRO	He
+POS	can
+EXS	do
+QUC	five
+CON	somersaults
+NOT	without
+EXG	breaking
+DIS	a
+CON	sweat
+NIL	.

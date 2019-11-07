@@ -1,0 +1,12 @@
+SUB	Since
+IST	then
+PRO	he
+PST	had
+EXS	put
+HAS	his
+IST	whole
+CON	soul
+REL	into
+HAS	his
+CON	work
+NIL	.

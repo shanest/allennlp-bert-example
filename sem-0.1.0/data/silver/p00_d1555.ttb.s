@@ -1,0 +1,10 @@
+DEF	The
+CON	bridge
+EPS	collapsed
+SUB	when
+DIS	one
+AND	of
+DEF	the
+CON	cables
+EPS	broke
+NIL	.

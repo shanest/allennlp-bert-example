@@ -1,0 +1,13 @@
+PRO	It
+FUT	will
+EXS	become
+IST	more
+AND	and
+IST	more
+IST	difficult
+SUB	to
+EXS	live
+REL	in
+DEF	the
+CON	village
+NIL	.

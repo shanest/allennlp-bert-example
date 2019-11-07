@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+IST	able
+NIL	to
+EXS	escape
+REL	from
+DEF	the
+EXG	burning
+CON	plane
+NIL	.

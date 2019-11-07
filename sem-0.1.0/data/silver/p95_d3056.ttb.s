@@ -1,0 +1,12 @@
+SUB	When
+PER	Mary
+NOW	finds
+IST	out
+AND	about
+PRO	it
+PRO	she
+FUT	'll
+EXS	throw
+DIS	a
+CON	fit
+NIL	.

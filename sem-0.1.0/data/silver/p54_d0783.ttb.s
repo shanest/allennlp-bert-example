@@ -1,0 +1,11 @@
+PRO	It
+FUT	wo
+NOT	n't
+EXS	be
+IST	long
+SUB	before
+PRO	we
+ENS	know
+DEF	the
+CON	truth
+NIL	.

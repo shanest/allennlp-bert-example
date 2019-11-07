@@ -1,0 +1,14 @@
+PER	Tom
+ENS	has
+NOT	no
+CON	conception
+AND	of
+QUE	what
+PRO	it
+NOW	's
+EXS	like
+SUB	to
+EXS	be
+REL	in
+CON	love
+NIL	.

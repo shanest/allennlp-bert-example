@@ -1,0 +1,13 @@
+DEF	The
+CON	defense
+CON	attorney
+EPS	jumped
+REL	to
+HAS	his
+CON	feet
+COO	and
+EPS	shouted
+NIL	"
+ORG	Objection
+NIL	!
+NIL	"

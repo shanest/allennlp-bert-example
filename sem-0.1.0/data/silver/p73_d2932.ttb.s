@@ -1,0 +1,13 @@
+PRO	I
+EPS	heard
+DIS	someone
+REL	in
+DEF	the
+CON	crowd
+AND	outside
+DEF	the
+CON	station
+NOW	call
+HAS	my
+CON	name
+NIL	.

@@ -1,0 +1,16 @@
+IMP	If
+CON	God
+PST	had
+EXS	given
+DIS	an
+IST	eleventh
+CON	commandment
+NIL	,
+PRO	I
+NOW	wonder
+QUE	what
+PRO	it
+FUT	would
+EXT	have
+PFT	been
+NIL	.

@@ -1,0 +1,11 @@
+AND	Recently
+PRO	we
+NOW	have
+EXS	brought
+HAS	our
+CON	office
+CON	equipment
+IST	up
+REL	to
+CON	date
+NIL	.

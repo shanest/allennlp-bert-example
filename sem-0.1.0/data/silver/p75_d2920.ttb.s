@@ -1,0 +1,12 @@
+DST	That
+HAS	's
+NOT	not
+DIS	something
+PRO	I
+ENS	want
+SUB	to
+EXS	think
+AND	about
+IST	right
+NOW	now
+NIL	.

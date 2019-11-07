@@ -1,0 +1,16 @@
+PRO	I
+NEC	had
+SUB	to
+EXS	go
+REL	to
+HAS	my
+CON	office
+REL	by
+CON	bus
+AND	because
+HAS	my
+CON	car
+PST	had
+CON	engine
+CON	trouble
+NIL	.

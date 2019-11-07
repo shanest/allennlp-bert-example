@@ -1,0 +1,10 @@
+REL	In
+HAS	my
+CON	view
+PRO	you
+NEC	should
+EXS	try
+DEF	the
+CON	exam
+ALT	again
+NIL	.

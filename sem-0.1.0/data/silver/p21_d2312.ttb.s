@@ -1,0 +1,10 @@
+AND	Despite
+EXG	being
+DIS	a
+IST	sunny
+CON	day
+NIL	,
+PRO	it
+NOW	is
+EXS	cold
+NIL	.

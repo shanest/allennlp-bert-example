@@ -1,0 +1,13 @@
+NOW	Do
+NOT	n't
+EXS	forget
+NIL	to
+EXS	mail
+PRX	this
+CON	letter
+IST	first
+CON	thing
+REL	in
+DEF	the
+CON	morning
+NIL	.

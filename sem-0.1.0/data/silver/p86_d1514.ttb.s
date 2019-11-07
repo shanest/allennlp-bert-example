@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXS	going
+SUB	to
+EXS	be
+EXS	executed
+REL	in
+QUC	three
+CON	days
+NIL	.

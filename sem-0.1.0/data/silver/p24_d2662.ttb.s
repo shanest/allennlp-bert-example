@@ -1,0 +1,9 @@
+QUE	What
+PRO	I
+ENS	need
+NOW	is
+SUB	to
+EXS	have
+DIS	a
+CON	friend
+NIL	.

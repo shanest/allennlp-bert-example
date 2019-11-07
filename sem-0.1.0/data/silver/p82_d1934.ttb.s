@@ -1,0 +1,15 @@
+DEF	The
+XCL	only
+CON	time
+PER	Tom
+ENS	seems
+SUB	to
+EXS	be
+EXS	happy
+NOW	is
+SUB	when
+PRO	he
+HAS	's
+REL	with
+PER	Mary
+NIL	.

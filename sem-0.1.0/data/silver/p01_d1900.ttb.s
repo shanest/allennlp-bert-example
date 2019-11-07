@@ -1,0 +1,10 @@
+NIL	There
+NOW	is
+NOT	no
+CON	problem
+SUB	that
+PRO	we
+NEC	have
+NIL	to
+EXS	solve
+NIL	.

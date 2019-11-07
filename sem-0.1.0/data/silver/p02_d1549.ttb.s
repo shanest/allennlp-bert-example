@@ -1,0 +1,11 @@
+DIS	A
+CON	fool
+AND	always
+ENS	finds
+DIS	a
+MOR	greater
+CON	fool
+SUB	to
+EXS	admire
+PRO	him
+NIL	.

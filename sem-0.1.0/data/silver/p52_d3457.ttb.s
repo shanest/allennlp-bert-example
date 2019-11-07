@@ -1,0 +1,15 @@
+NOT	Not
+EXT	having
+EXS	seen
+PRO	him
+REL	before
+NIL	,
+PRO	I
+FUT	'll
+NOT	not
+EXS	be
+IST	able
+SUB	to
+EXS	recognize
+PRO	him
+NIL	.

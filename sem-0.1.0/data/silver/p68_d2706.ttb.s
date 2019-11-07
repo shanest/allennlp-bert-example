@@ -1,0 +1,14 @@
+GPO	Pythagorean
+CON	thought
+PST	was
+EXS	dominated
+REL	by
+CON	mathematics
+NIL	,
+BUT	but
+PRO	it
+PST	was
+ALT	also
+IST	profoundly
+IST	mystical
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	heard
+SUB	that
+ROL	Mr.
+PER	Huayllacahua
+NOW	is
+DIS	a
+ROL	carpenter
+NIL	.

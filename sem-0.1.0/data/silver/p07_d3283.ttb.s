@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+DIS	something
+REL	in
+HAS	his
+CON	suitcase
+REL	for
+PER	Mary
+NIL	.

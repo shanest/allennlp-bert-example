@@ -1,0 +1,13 @@
+ROL	Mr
+PER	Potter
+NOW	keeps
+REF	himself
+REL	in
+IST	good
+CON	condition
+REL	by
+EXS	going
+CON	jogging
+AND	every
+CON	day
+NIL	.

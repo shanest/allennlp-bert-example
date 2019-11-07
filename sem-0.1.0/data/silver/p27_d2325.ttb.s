@@ -1,0 +1,12 @@
+PRO	I
+NOW	doubt
+SUB	that
+PER	Tom
+FUT	will
+EXS	be
+IST	able
+SUB	to
+EXS	seal
+DEF	the
+CON	deal
+NIL	.

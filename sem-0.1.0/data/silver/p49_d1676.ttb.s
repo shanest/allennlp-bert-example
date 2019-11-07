@@ -1,0 +1,14 @@
+DIS	A
+CON	haiku
+NEC	ought
+SUB	to
+EXS	have
+DIS	a
+CON	word
+AND	that
+CON	pins
+PRO	it
+REL	to
+DIS	a
+CON	season
+NIL	.

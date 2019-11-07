@@ -1,0 +1,17 @@
+PRO	You
+NOW	are
+NOT	n't
+IST	really
+EXS	going
+SUB	to
+EXS	go
+REL	to
+GEO	Boston
+REL	in
+PER	Tom
+HAS	's
+CON	car
+NIL	,
+NOW	are
+PRO	you
+QUE	?

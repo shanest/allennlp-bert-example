@@ -1,0 +1,11 @@
+PRO	It
+FUT	will
+EXS	be
+QUC	three
+CON	months
+REL	before
+HAS	our
+CON	house
+NOW	is
+EXS	completed
+NIL	.

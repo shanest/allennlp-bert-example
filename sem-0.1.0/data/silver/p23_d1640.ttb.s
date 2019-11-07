@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	it
+NOW	's
+EXS	sad
+SUB	to
+EXS	have
+NOT	no
+CON	friends
+NIL	.

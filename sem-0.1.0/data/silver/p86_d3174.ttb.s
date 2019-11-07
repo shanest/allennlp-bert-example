@@ -1,0 +1,15 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+UNK	there
+NOW	are
+NOT	no
+EXS	good
+CON	books
+REL	on
+DEF	the
+CON	theory
+NIL	.

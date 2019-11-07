@@ -1,0 +1,10 @@
+PRO	I
+EPS	became
+DIS	a
+IST	Catholic
+SUB	because
+PRO	I
+NOW	'm
+INT	extremely
+EXS	pessimistic
+NIL	.

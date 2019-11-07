@@ -1,0 +1,10 @@
+QUV	Few
+CON	roads
+EPS	existed
+REL	in
+GEO	North
+GEO	America
+REL	at
+DST	that
+CON	time
+NIL	.

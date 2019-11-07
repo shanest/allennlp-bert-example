@@ -1,0 +1,13 @@
+NOT	No
+CON	one
+NOW	is
+IST	more
+EXS	dangerous
+AND	than
+DIS	a
+CON	fool
+REL	with
+DIS	a
+IST	large
+CON	vocabulary
+NIL	.

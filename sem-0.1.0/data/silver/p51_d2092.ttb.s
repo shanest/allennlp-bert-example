@@ -1,0 +1,9 @@
+PER	Tom
+EPS	put
+AND	all
+HAS	his
+CON	eggs
+REL	in
+QUC	one
+CON	basket
+NIL	.

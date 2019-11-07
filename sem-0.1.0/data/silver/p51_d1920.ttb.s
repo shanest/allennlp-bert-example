@@ -1,0 +1,10 @@
+PRO	I
+FUT	will
+EXS	visit
+HAS	my
+ROL	uncle
+REL	in
+GEO	Kyoto
+PRX	this
+CON	summer
+NIL	.

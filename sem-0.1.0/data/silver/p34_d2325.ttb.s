@@ -1,0 +1,11 @@
+PER	Tom
+PST	thought
+PRO	he
+PST	had
+AND	all
+DEF	the
+CON	time
+REL	in
+DEF	the
+CON	world
+NIL	.

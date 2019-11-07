@@ -1,0 +1,11 @@
+PRO	He
+EXS	framed
+DEF	the
+CON	picture
+PRO	he
+PST	had
+EPS	bought
+REL	on
+DEF	the
+CON	street
+NIL	.

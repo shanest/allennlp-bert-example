@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	easy
+SUB	to
+EXS	make
+COO	and
+PRO	it
+HAS	's
+IST	cheap
+NIL	.

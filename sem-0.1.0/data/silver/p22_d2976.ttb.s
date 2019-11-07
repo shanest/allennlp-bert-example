@@ -1,0 +1,11 @@
+PER	Tom
+ENS	says
+SUB	that
+PRO	he
+ENS	has
+SUB	to
+EXS	go
+REL	to
+GPE	Boston
+FUT	tomorrow
+NIL	.

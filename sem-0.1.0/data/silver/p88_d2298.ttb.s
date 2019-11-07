@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	you
+IST	still
+ENS	want
+SUB	to
+EXS	see
+PRO	me
+NIL	.

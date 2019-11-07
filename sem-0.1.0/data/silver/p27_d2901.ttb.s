@@ -1,0 +1,9 @@
+NIL	There
+HAS	's
+NOT	nothing
+AND	else
+EPS	left
+SUB	to
+EXS	be
+EXS	done
+NIL	.

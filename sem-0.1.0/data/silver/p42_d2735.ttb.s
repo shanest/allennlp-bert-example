@@ -1,0 +1,9 @@
+PRO	She
+NOW	is
+EXS	used
+SUB	to
+EXS	staying
+IST	up
+AND	all
+CON	night
+NIL	.

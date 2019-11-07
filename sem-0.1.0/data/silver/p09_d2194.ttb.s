@@ -1,0 +1,14 @@
+PER	Tom
+ENS	likes
+SUB	to
+EXS	wear
+IST	black
+SUB	because
+PRO	he
+ENS	thinks
+PRO	it
+NOW	makes
+PRO	him
+NOW	look
+EXS	thinner
+NIL	.

@@ -1,0 +1,10 @@
+IST	Please
+EXS	tell
+PRO	me
+QUE	how
+SUB	to
+EXS	delete
+HAS	my
+ART	Facebook
+CON	account
+NIL	.

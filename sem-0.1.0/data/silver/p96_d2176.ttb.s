@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+IST	unbelievable
+SUB	that
+PRO	he
+PST	did
+DIS	something
+AND	like
+DST	that
+NIL	.

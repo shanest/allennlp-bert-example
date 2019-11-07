@@ -1,0 +1,12 @@
+NOW	Do
+NOT	n't
+PRO	you
+ALT	also
+NOW	think
+SUB	that
+IST	out
+ROL	politicians
+NOW	are
+IST	too
+COM	old
+QUE	?

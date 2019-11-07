@@ -1,0 +1,10 @@
+PRO	He
+EPS	took
+SUB	to
+EXS	drinking
+REL	after
+HAS	his
+CON	wife
+EPS	left
+PRO	him
+NIL	.

@@ -1,0 +1,9 @@
+UNK	There
+NOW	are
+QUV	many
+IST	big
+CON	cities
+REL	in
+PRX	this
+CON	country
+NIL	.

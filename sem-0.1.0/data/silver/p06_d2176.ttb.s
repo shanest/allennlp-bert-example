@@ -1,0 +1,12 @@
+EXS	Let
+PRO	's
+ENS	go
+REL	by
+CON	bus
+SUB	to
+EXS	see
+IST	more
+AND	of
+DEF	the
+CON	city
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+DEF	the
+IST	first
+CON	boy
+AND	that
+IST	ever
+EPS	kissed
+PER	Mary
+NIL	.

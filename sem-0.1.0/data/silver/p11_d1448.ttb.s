@@ -1,0 +1,10 @@
+REL	For
+QUC	many
+NOW	are
+EXS	called
+NIL	,
+BUT	but
+QUV	few
+NOW	are
+EXS	chosen
+NIL	.

@@ -1,0 +1,12 @@
+HAS	My
+ROL	father
+NOW	has
+PFT	been
+EXS	engaged
+REL	in
+IST	foreign
+CON	trade
+REL	for
+QUV	many
+CON	years
+NIL	.

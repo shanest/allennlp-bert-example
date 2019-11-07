@@ -1,0 +1,11 @@
+AND	Every
+CON	day
+PRO	I
+ENS	go
+REL	to
+DEF	the
+CON	café
+AND	and
+ENS	have
+CON	coffee
+NIL	.

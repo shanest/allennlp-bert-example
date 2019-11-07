@@ -1,0 +1,14 @@
+PER	Bob
+EPS	forgot
+SUB	to
+EXS	bring
+DEF	the
+CON	pass
+NIL	,
+AND	which
+EPS	made
+PRO	him
+IST	late
+REL	for
+CON	school
+NIL	.

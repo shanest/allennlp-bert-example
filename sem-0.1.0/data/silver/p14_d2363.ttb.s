@@ -1,0 +1,10 @@
+NOT	Not
+EXG	knowing
+QUE	what
+SUB	to
+EXS	say
+NIL	,
+PRO	she
+EPS	remained
+EXS	silent
+NIL	.

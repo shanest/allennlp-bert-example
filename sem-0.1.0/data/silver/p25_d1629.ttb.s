@@ -1,0 +1,11 @@
+AND	Among
+IST	wild
+CON	ducks
+NIL	,
+PRO	it
+NOW	seems
+UNK	there
+NOW	are
+CON	homosexual
+CON	necrophiliacs
+NIL	.

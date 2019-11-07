@@ -1,0 +1,10 @@
+PRO	He
+ENS	wants
+SUB	to
+EXS	be
+DIS	an
+PER	Edison
+REL	in
+DEF	the
+CON	future
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+IST	allergic
+REL	to
+CON	shrimps
+NIL	,
+BUT	but
+NOT	not
+CON	lobster
+NIL	.

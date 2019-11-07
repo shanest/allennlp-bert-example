@@ -1,0 +1,12 @@
+DEF	The
+EXS	shrinking
+AND	of
+DEF	the
+IST	domestic
+CON	market
+NOW	has
+PFT	been
+EXS	blamed
+REL	on
+CON	inflation
+NIL	.

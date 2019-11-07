@@ -1,0 +1,9 @@
+PRO	She
+ENS	writes
+REL	to
+HAS	her
+CON	son
+AND	every
+IST	so
+IST	often
+NIL	.

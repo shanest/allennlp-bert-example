@@ -1,0 +1,10 @@
+PER	Tom
+EPS	spoke
+REL	to
+PER	Mary
+REL	for
+DEF	the
+IST	first
+CON	time
+PST	yesterday
+NIL	.

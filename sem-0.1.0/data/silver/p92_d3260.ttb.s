@@ -1,0 +1,11 @@
+PRO	You
+ENS	know
+DIS	a
+CON	lot
+AND	about
+CON	dogs
+NIL	,
+NOW	do
+NOT	n't
+PRO	you
+QUE	?

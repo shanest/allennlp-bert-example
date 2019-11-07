@@ -1,0 +1,11 @@
+UNK	There
+PST	was
+DIS	a
+CON	limousine
+EXS	waiting
+REL	for
+PER	Tom
+AND	outside
+DEF	the
+CON	hotel
+NIL	.

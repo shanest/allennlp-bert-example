@@ -1,0 +1,12 @@
+HAS	My
+ROL	father
+EPS	used
+REL	to
+CON	whale
+REL	on
+PRO	me
+SUB	whenever
+PRO	he
+PST	got
+EXS	drunk
+NIL	.

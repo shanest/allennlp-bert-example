@@ -1,0 +1,9 @@
+UNK	There
+NOW	is
+DIS	a
+IST	low
+CON	hill
+REL	near
+DEF	the
+CON	sea
+NIL	.

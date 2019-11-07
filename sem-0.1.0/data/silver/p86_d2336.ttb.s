@@ -1,0 +1,19 @@
+PER	Christopher Columbus
+QUC	once
+EPS	saw
+DIS	a
+CON	UFO
+NIL	,
+COO	and
+EPS	ordered
+HAS	his
+CON	men
+SUB	to
+EXS	fire
+HAS	his
+CON	ship
+HAS	's
+CON	cannons
+REL	at
+PRO	it
+NIL	.

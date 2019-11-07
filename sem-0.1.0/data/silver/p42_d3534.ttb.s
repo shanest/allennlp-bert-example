@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	know
+SUB	when
+PER	Mary
+PST	had
+EXS	come
+REL	to
+GPE	Boston
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	basement
+NOW	has
+PFT	been
+EXS	made
+AND	over
+REL	into
+DIS	a
+CON	workshop
+NIL	.

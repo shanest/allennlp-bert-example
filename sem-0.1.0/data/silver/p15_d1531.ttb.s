@@ -1,0 +1,10 @@
+POS	May
+PRO	I
+NOW	ask
+PRO	you
+SUB	to
+EXS	do
+PRO	me
+DIS	a
+CON	favor
+QUE	?

@@ -1,0 +1,12 @@
+PRO	He
+IST	absolutely
+NOW	does
+NOT	n't
+EXS	need
+NIL	to
+EXS	know
+QUE	why
+PRO	I
+EPS	did
+PRO	it
+NIL	.

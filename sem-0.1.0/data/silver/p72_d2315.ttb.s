@@ -1,0 +1,10 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	like
+QUE	what
+PRO	I
+EPS	saw
+REL	on
+CON	TV
+NIL	.

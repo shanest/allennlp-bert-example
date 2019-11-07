@@ -1,0 +1,9 @@
+PRO	We
+NOW	've
+EXS	solved
+DIS	a
+CON	lot
+AND	of
+CON	problems
+NOW	today
+NIL	.

@@ -1,0 +1,9 @@
+AND	How
+PRO	I
+ENS	wish
+PRO	I
+POS	could
+EXS	go
+NIL	,
+ALT	too
+NIL	!

@@ -1,0 +1,16 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	he
+EPS	loved
+HAS	her
+CON	shoes
+AND	even
+SUB	though
+PRO	he
+PST	thought
+PRO	they
+PST	were
+EXS	ugly
+NIL	.

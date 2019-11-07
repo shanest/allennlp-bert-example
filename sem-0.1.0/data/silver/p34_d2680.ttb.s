@@ -1,0 +1,10 @@
+SUB	To
+EXS	avoid
+CON	confusion
+NIL	,
+DEF	the
+CON	teams
+EPS	wore
+ALT	different
+CON	colors
+NIL	.

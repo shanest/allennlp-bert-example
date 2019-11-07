@@ -1,0 +1,11 @@
+FUT	Will
+PRO	it
+EXS	disturb
+PRO	you
+IMP	if
+PRO	I
+NOW	turn
+REL	on
+DEF	the
+CON	TV
+QUE	?

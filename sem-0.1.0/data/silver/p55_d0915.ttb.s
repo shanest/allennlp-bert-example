@@ -1,0 +1,11 @@
+EXS	Let
+PRO	me
+EXS	know
+SUB	when
+PRO	you
+NOW	find
+IST	out
+QUE	what
+PRO	it
+NOW	is
+NIL	.

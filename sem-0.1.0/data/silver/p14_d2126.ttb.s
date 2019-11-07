@@ -1,0 +1,10 @@
+PRO	It
+PST	was
+XCL	only
+PST	yesterday
+SUB	that
+PRO	I
+EPS	called
+REL	on
+PRO	him
+NIL	.

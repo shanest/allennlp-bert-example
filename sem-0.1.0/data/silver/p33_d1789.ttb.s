@@ -1,0 +1,12 @@
+NOW	Has
+PER	Tom
+IST	ever
+EPS	told
+PRO	you
+QUE	why
+PRO	he
+NOW	does
+NOT	n't
+EXS	like
+PER	Mary
+QUE	?

@@ -1,0 +1,11 @@
+PRO	I
+EPS	spent
+DEF	the
+TOP	best
+CON	part
+AND	of
+DEF	the
+CON	day
+REL	in
+EXS	reading
+NIL	.

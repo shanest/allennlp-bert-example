@@ -1,0 +1,9 @@
+PRO	I
+ENS	need
+DIS	something
+SUB	to
+EXS	open
+PRX	this
+CON	crate
+REL	with
+NIL	.

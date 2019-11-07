@@ -1,0 +1,13 @@
+NOW	Do
+NOT	n't
+EXS	treat
+PRO	me
+AND	like
+DIS	a
+IST	criminal
+NIL	,
+SUB	because
+PRO	I
+NOW	'm
+EXS	innocent
+NIL	.

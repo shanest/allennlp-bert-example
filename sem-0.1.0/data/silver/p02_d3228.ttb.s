@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	going
+SUB	to
+EXS	go
+EXS	play
+CON	ball
+REL	with
+GEO	Mohan
+NIL	.

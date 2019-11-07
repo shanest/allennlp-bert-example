@@ -1,0 +1,14 @@
+IMP	If
+DIS	something
+NOW	sounds
+INT	too
+EXS	good
+SUB	to
+EXS	be
+EXS	true
+NIL	,
+AND	then
+PRO	it
+IST	probably
+NOW	is
+NIL	.

@@ -1,0 +1,11 @@
+REL	On
+DEF	the
+CON	whole
+NIL	,
+PER	Tom
+NOW	has
+IST	almost
+NOT	never
+PFT	been
+IST	late
+NIL	.

@@ -1,0 +1,10 @@
+FUT	Shall
+PRO	we
+EXS	talk
+REL	about
+PRO	it
+AND	over
+CON	cup
+AND	of
+CON	coffee
+QUE	?

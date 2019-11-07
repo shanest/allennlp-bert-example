@@ -1,0 +1,11 @@
+EXS	Push
+DEF	the
+COL	green
+CON	button
+NIL	,
+COO	and
+DEF	the
+CON	light
+ENS	goes
+REL	on
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+EPS	lied
+SUB	when
+PRO	he
+EPS	asked
+QUE	how
+IST	old
+PRO	I
+PST	was
+NIL	.

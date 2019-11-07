@@ -1,0 +1,10 @@
+PER	Dan
+EPS	announced
+SUB	that
+PRO	he
+AND	and
+PER	Linda
+PST	were
+EXS	getting
+EXS	divorced
+NIL	.

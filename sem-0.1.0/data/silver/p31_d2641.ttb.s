@@ -1,0 +1,15 @@
+NOW	Do
+NOT	n't
+PRO	you
+NOW	think
+DEF	the
+CON	air
+CON	conditioner
+NOW	is
+EXS	turned
+IST	up
+INT	too
+IST	high
+REL	in
+PRX	here
+QUE	?

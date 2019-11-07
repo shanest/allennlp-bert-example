@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+DIS	a
+CON	fact
+SUB	that
+PRO	I
+ENS	dislike
+PRO	him
+NIL	.

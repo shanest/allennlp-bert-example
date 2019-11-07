@@ -1,0 +1,13 @@
+PRO	It
+NOW	is
+NOT	not
+EXS	impossible
+IST	just
+SUB	because
+NOT	no
+CON	one
+NEC	has
+EXS	done
+PRO	it
+REL	before
+NIL	.

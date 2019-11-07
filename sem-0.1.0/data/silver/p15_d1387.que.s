@@ -1,0 +1,12 @@
+QUE	How
+QUV	much
+CON	territory
+PST	was
+EXS	affected
+REL	by
+DEF	the
+CON	forest
+CON	fires
+REL	near
+GEO	Sydney
+QUE	?

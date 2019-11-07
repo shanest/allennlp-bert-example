@@ -1,0 +1,9 @@
+PER	Mary
+EPS	made
+PRO	me
+PST	swear
+NOT	not
+SUB	to
+EXS	tell
+PER	Tom
+NIL	.

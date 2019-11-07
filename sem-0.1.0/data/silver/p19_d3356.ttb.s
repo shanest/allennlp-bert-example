@@ -1,0 +1,16 @@
+HAS	My
+CON	knowledge
+AND	of
+GPO	French
+NOW	is
+IST	still
+INT	very
+EXS	limited
+NIL	,
+BUT	but
+PRO	I
+NOW	'm
+EXS	keen
+SUB	to
+EXS	learn
+NIL	.

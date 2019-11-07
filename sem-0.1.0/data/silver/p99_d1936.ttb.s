@@ -1,0 +1,10 @@
+DEF	The
+MOR	more
+PRO	I
+NOW	think
+NIL	,
+DEF	the
+LES	less
+PRO	I
+ENS	understand
+NIL	.

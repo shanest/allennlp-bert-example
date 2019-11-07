@@ -1,0 +1,10 @@
+DEF	The
+ORG	Chernobyl
+CON	disaster
+PST	had
+CON	repercussions
+REL	outside
+DEF	the
+PST	ex
+GPE	USSR
+NIL	.

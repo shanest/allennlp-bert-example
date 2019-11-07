@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+IST	really
+EXS	worried
+SUB	that
+HAS	my
+CON	parents
+NOW	are
+NOT	n't
+EXS	going
+SUB	to
+EXS	like
+PER	Tom
+NIL	.

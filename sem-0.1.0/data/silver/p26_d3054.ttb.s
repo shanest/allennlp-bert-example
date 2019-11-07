@@ -1,0 +1,14 @@
+PRO	I
+PST	was
+EXS	going
+SUB	to
+EXS	try
+COO	and
+EXS	get
+DEF	the
+CON	archive
+NIL	,
+BUT	but
+PRO	I
+EPS	forgot
+NIL	.

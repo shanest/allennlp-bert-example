@@ -1,0 +1,9 @@
+PRO	I
+IST	always
+EPS	wondered
+SUB	whether
+PRO	you
+PST	'd
+EXS	come
+IST	back
+NIL	.

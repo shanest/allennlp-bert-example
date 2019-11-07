@@ -1,0 +1,11 @@
+CON	Coffee
+CON	prices
+NOW	have
+EPS	jumped
+INT	almost
+INT	50
+UOM	%
+REL	in
+QUC	six
+CON	months
+NIL	.

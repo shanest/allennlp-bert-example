@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	testing
+IMP	if
+DEF	the
+CON	language
+CON	detection
+ENS	works
+ALT	again
+NIL	.

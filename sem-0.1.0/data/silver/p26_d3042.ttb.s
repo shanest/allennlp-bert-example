@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	be
+IST	late
+REL	for
+CON	school
+NIL	!

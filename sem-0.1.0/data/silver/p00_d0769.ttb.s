@@ -1,0 +1,9 @@
+PRO	He
+EPS	told
+PRO	me
+DEF	the
+CON	story
+REL	of
+HAS	his
+CON	life
+NIL	.

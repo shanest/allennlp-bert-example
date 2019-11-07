@@ -1,0 +1,10 @@
+PRO	She
+ENS	stands
+DIS	a
+IST	good
+CON	chance
+AND	of
+EXG	winning
+DEF	the
+CON	prize
+NIL	.

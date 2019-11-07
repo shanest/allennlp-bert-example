@@ -1,0 +1,10 @@
+PRO	She
+EPS	got
+AND	all
+DEF	the
+IST	more
+EXS	angry
+REL	for
+HAS	my
+CON	silence
+NIL	.

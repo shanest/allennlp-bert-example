@@ -1,0 +1,15 @@
+PRO	I
+ENS	love
+EXG	reading
+CON	books
+SUB	that
+EXS	inspire
+PRO	us
+SUB	to
+EXS	become
+MOR	more
+MOR	than
+AND	who
+PRO	we
+NOW	are
+NIL	.

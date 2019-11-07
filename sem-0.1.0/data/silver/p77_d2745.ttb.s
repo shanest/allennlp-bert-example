@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+EPS	fell
+EXS	ill
+SUB	because
+PRO	he
+EPS	worked
+IST	too
+IST	hard
+NIL	.

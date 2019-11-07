@@ -1,0 +1,10 @@
+PER	Tom
+EPS	called
+PER	Mary
+SUB	to
+EXS	ask
+IMP	if
+AND	everything
+PST	was
+EXS	OK
+NIL	.

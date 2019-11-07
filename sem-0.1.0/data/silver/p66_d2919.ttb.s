@@ -1,0 +1,14 @@
+PER	Tom
+EPS	put
+IST	down
+HAS	his
+CON	fork
+COO	and
+EPS	picked
+IST	up
+DEF	the
+CON	drumstick
+REL	with
+HAS	his
+CON	fingers
+NIL	.

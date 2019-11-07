@@ -1,0 +1,9 @@
+DEF	The
+ORG	ASEAN
+CON	nations
+NOW	have
+EXS	come
+DIS	a
+IST	long
+CON	way
+NIL	.

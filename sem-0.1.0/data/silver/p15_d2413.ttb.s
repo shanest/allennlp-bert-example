@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	sitting
+REL	on
+DEF	the
+CON	porch
+CON	drinking
+CON	coffee
+NIL	.

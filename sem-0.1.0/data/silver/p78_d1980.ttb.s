@@ -1,0 +1,14 @@
+DEF	The
+CON	market
+ENS	tends
+SUB	to
+EXS	undermine
+DEF	the
+IST	very
+CON	values
+AND	that
+EPS	gave
+CON	rise
+REL	to
+PRO	it
+NIL	.

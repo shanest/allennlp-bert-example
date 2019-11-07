@@ -1,0 +1,12 @@
+PER	Tom
+HAS	's
+CON	parents
+EPS	thought
+SUB	that
+PER	Mary
+PST	was
+IST	too
+EXS	old
+REL	for
+PRO	him
+NIL	.

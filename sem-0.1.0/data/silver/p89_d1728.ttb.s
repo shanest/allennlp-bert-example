@@ -1,0 +1,10 @@
+PRO	I
+EPS	wondered
+QUE	why
+PRO	she
+PST	did
+NOT	n't
+EXS	have
+DIS	a
+CON	boyfriend
+NIL	.

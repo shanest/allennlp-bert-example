@@ -1,0 +1,9 @@
+PRO	He
+EPS	spoke
+REL	with
+DIS	a
+CON	softness
+CON	characteristic
+AND	of
+CON	southerners
+NIL	.

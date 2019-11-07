@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	sleep
+REL	in
+QUC	10
+UOM	minutes
+NIL	.

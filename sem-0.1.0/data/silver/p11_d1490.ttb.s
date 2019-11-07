@@ -1,0 +1,11 @@
+CON	Living
+REL	near
+DEF	the
+CON	school
+NIL	,
+PRO	I
+ENS	come
+CON	home
+REL	for
+CON	lunch
+NIL	.

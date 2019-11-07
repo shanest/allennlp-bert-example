@@ -1,0 +1,13 @@
+AND	Because
+AND	of
+CON	leaks
+EQU	,
+DIS	a
+CON	gag
+PST	was
+EXS	placed
+REL	on
+PER	Holland
+REL	's
+CON	office
+NIL	.

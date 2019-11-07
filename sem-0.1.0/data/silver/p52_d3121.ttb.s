@@ -1,0 +1,10 @@
+DEF	The
+CON	police
+NOW	have
+PFT	been
+EXS	searching
+REL	for
+PER	Tom
+REL	for
+CON	years
+NIL	.

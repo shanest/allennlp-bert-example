@@ -1,0 +1,10 @@
+PRO	He
+EPS	pulled
+REL	up
+DEF	the
+CON	weed
+COO	and
+EPS	threw
+PRO	it
+REL	away
+NIL	.

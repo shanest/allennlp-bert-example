@@ -1,0 +1,9 @@
+PRO	I
+EPS	saw
+PER	Tom
+PST	yesterday
+AND	and
+PRO	he
+PST	looked
+EXS	sad
+NIL	.

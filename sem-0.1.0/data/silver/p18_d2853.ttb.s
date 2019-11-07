@@ -1,0 +1,9 @@
+EXS	Knock
+REL	on
+DEF	the
+CON	door
+SUB	before
+EXG	entering
+DEF	the
+CON	room
+NIL	.

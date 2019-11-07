@@ -1,0 +1,16 @@
+DEF	The
+IST	longer
+PRO	you
+NOW	hide
+HAS	your
+CON	feelings
+REL	for
+DIS	someone
+NIL	,
+DEF	the
+MOR	more
+PRO	you
+EXS	fall
+REL	for
+PRO	them
+NIL	.

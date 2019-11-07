@@ -1,0 +1,14 @@
+PRO	We
+NOW	're
+EXS	going
+SUB	to
+EXS	travel
+REL	to
+GPE	Estonia
+REL	at
+DEF	the
+CON	end
+AND	of
+IST	next
+CON	month
+NIL	.

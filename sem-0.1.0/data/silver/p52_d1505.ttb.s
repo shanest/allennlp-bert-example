@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	waiting
+AND	like
+DIS	a
+CON	year
+REL	for
+PRX	this
+NIL	.

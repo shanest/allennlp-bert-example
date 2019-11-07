@@ -1,0 +1,11 @@
+PRO	He
+PST	had
+CON	faults
+NIL	,
+BUT	but
+AND	despite
+SUB	that
+PRO	I
+EPS	loved
+PRO	him
+NIL	.

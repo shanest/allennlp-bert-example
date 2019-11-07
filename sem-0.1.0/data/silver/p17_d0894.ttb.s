@@ -1,0 +1,14 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	I
+ENS	know
+PRO	it
+NIL	,
+BUT	but
+PRO	I
+POS	ca
+NOT	n't
+EXS	remember
+PRO	it
+NIL	.

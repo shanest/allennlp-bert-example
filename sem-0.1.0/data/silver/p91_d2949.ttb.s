@@ -1,0 +1,13 @@
+ITJ	Oh
+NIL	,
+REL	by
+DEF	the
+CON	way
+NIL	,
+PRO	I
+NOW	have
+DIS	something
+SUB	to
+EXS	tell
+PRO	you
+NIL	.

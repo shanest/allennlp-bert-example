@@ -1,0 +1,10 @@
+DEF	The
+INT	most
+IST	important
+CON	thing
+NOW	is
+SUB	that
+PRO	you
+ENS	understand
+PRO	me
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+EXS	seeking
+DEF	the
+CON	path
+REL	to
+DEF	the
+CON	end
+AND	of
+DEF	the
+CON	universe
+NIL	.

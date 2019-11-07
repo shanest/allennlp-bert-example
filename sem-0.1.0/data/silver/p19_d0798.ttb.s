@@ -1,0 +1,11 @@
+PRX	This
+CON	box
+NOW	is
+INT	too
+EXS	heavy
+REL	for
+PRO	me
+AND	alone
+SUB	to
+EXS	lift
+NIL	.

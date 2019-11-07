@@ -1,0 +1,14 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	started
+EXS	talking
+AND	as
+IST	soon
+AND	as
+PRO	they
+AND	both
+EPS	entered
+DEF	the
+CON	room
+NIL	.

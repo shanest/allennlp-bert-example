@@ -1,0 +1,13 @@
+REL	In
+GPE	England
+PRO	they
+NEC	have
+QUV	much
+CON	rain
+REL	at
+PRX	this
+CON	time
+AND	of
+DEF	the
+CON	year
+NIL	.

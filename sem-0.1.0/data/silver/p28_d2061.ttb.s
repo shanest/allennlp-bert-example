@@ -1,0 +1,14 @@
+ORG	Music
+ENS	produces
+DIS	a
+CON	kind
+AND	of
+CON	pleasure
+AND	which
+IST	human
+CON	nature
+POS	can
+NOT	not
+EXS	do
+NOT	without
+NIL	.

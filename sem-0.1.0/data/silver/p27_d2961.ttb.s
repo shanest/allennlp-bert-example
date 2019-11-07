@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+DIS	a
+CON	picture
+AND	of
+PER	Mary
+AND	and
+HAS	her
+CON	long-haired
+CON	boyfriend
+NIL	.

@@ -1,0 +1,14 @@
+REL	In
+DEF	the
+IST	early
+DEC	1990s
+GPE	Brazil
+EPS	began
+SUB	to
+EXS	take
+CON	action
+SUB	to
+EXS	save
+DEF	the
+CON	rainforest
+NIL	.

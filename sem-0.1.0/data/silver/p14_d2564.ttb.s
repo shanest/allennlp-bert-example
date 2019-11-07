@@ -1,0 +1,10 @@
+PER	Tom
+EPS	wanted
+PRO	you
+SUB	to
+EXS	think
+PRO	he
+FUT	'd
+EXS	left
+CON	town
+NIL	.

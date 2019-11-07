@@ -1,0 +1,10 @@
+DIS	A
+IST	pretty
+CON	girl
+AND	like
+PRO	you
+FUT	will
+NEC	definitely
+EXS	be
+EXS	noticed
+NIL	.

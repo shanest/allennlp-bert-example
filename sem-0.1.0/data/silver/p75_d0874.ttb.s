@@ -1,0 +1,12 @@
+IMP	If
+PRO	he
+NOW	's
+IST	fluent
+REL	in
+GPO	English
+NIL	,
+PRO	I
+FUT	'll
+EXS	hire
+PRO	him
+NIL	.

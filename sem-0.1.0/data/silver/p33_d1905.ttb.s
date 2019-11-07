@@ -1,0 +1,16 @@
+PRO	We
+EPS	played
+CON	chess
+NOT	not
+AND	so
+QUC	much
+SUB	to
+EXS	enjoy
+DEF	the
+CON	game
+AND	as
+IST	just
+SUB	to
+EXS	kill
+CON	time
+NIL	.

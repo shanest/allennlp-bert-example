@@ -1,0 +1,9 @@
+EXS	Let
+PRO	's
+NOT	not
+IST	ever
+EXS	make
+SUB	that
+EXS	mistake
+IST	again
+NIL	.

@@ -1,0 +1,12 @@
+AND	Better
+DEF	the
+CON	devil
+PRO	you
+ENS	know
+AND	than
+DEF	the
+CON	devil
+PRO	you
+NOW	do
+NOT	n't
+NIL	.

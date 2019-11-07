@@ -1,0 +1,9 @@
+PRO	He
+NOW	makes
+DIS	a
+CON	point
+AND	of
+EXG	attending
+CON	class
+CON	meetings
+NIL	.

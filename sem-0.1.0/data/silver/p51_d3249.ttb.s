@@ -1,0 +1,14 @@
+PRO	You
+NOW	're
+EXS	going
+SUB	to
+EXS	thank
+PER	Tom
+REL	for
+DEF	the
+CON	present
+NIL	,
+NOW	are
+NOT	n't
+PRO	you
+QUE	?

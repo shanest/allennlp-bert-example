@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+HAS	my
+CON	mother
+NOW	's
+NOT	not
+REL	at
+CON	home
+NIL	.

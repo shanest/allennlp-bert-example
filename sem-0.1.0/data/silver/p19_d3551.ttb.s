@@ -1,0 +1,16 @@
+AND	As
+IST	cultural
+CON	exchange
+EPS	continued
+REL	between
+DEF	the
+QUC	two
+CON	countries
+NIL	,
+HAS	their
+IST	mutual
+CON	understanding
+EPS	became
+AND	even
+IST	deeper
+NIL	.

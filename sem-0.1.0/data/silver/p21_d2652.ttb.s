@@ -1,0 +1,10 @@
+PRO	She
+AND	alone
+NOW	is
+IST	able
+SUB	to
+EXS	use
+DEF	the
+IST	personal
+CON	computer
+NIL	.

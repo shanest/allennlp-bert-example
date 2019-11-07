@@ -1,0 +1,10 @@
+POS	Maybe
+PRO	you
+NEC	should
+EXS	learn
+QUE	how
+SUB	to
+EXS	use
+DIS	a
+CON	gun
+NIL	.

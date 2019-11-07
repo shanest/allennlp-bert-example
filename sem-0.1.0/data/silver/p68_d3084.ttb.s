@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	be
+EXS	waiting
+REL	in
+CON	front
+AND	of
+DEF	the
+CON	station
+NIL	.

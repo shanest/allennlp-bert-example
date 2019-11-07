@@ -1,0 +1,10 @@
+PER	Liisa
+PST	did
+NOT	n't
+EXS	have
+DIS	a
+CON	clue
+QUE	what
+SUB	to
+EXS	do
+NIL	.

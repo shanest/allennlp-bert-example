@@ -1,0 +1,12 @@
+PER	Tom
+EPS	promised
+SUB	to
+EXS	keep
+QUE	what
+PER	Mary
+EPS	told
+PRO	him
+REL	under
+HAS	his
+CON	hat
+NIL	.

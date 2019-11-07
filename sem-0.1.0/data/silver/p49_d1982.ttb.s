@@ -1,0 +1,9 @@
+DEF	The
+CON	man
+EPS	denied
+SUB	that
+PRO	he
+EPS	took
+DEF	the
+CON	money
+NIL	.

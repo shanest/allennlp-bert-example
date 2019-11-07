@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+QUE	why
+PRO	I
+PST	was
+EXS	absent
+REL	from
+CON	school
+PST	yesterday
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NEC	have
+SUB	to
+EXS	hurry
+NIL	.
+PRO	I
+NOW	'm
+EXS	falling
+AND	behind
+CON	schedule
+NIL	.

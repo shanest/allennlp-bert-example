@@ -1,0 +1,13 @@
+NOT	No
+CON	one
+ENS	dares
+SUB	to
+EXS	contradict
+HAS	his
+CON	employer
+REL	for
+CON	fear
+AND	of
+EXS	being
+EXS	fired
+NIL	.

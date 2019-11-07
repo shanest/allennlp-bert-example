@@ -1,0 +1,10 @@
+DEF	The
+CON	problem
+PST	was
+INT	too
+EXS	difficult
+REL	for
+PRO	me
+SUB	to
+EXS	solve
+NIL	.

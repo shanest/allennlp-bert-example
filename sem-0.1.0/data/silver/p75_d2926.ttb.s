@@ -1,0 +1,10 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	resist
+DEF	the
+CON	temptation
+SUB	to
+EXS	kiss
+PER	Mary
+NIL	.

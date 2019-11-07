@@ -1,0 +1,14 @@
+IMP	If
+PRO	he
+PST	had
+EXS	worked
+IST	hard
+REL	at
+DST	that
+CON	time
+NIL	,
+PRO	he
+FUT	would
+EXT	have
+EXS	succeeded
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+AND	of
+AND	any
+IST	good
+CON	restaurant
+REL	near
+PRX	here
+QUE	?

@@ -1,0 +1,13 @@
+HAS	Your
+CON	mother
+FUT	will
+EXS	repeat
+PRO	it
+REL	to
+PRO	you
+AND	as
+QUV	many
+CON	times
+SUB	as
+EXS	necessary
+NIL	.

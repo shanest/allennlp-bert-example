@@ -1,0 +1,10 @@
+AND	Every
+DOW	Friday
+CON	night
+PRO	they
+EPS	went
+COO	and
+PST	got
+EXS	liquored
+IST	up
+NIL	.

@@ -1,0 +1,13 @@
+DEF	The
+CON	talisman
+PRO	he
+NOW	's
+EXS	wearing
+NOW	is
+EXS	supposed
+SUB	to
+REL	ward
+IST	off
+CON	evil
+CON	spirits
+NIL	.

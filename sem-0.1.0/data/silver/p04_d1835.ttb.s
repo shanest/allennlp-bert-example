@@ -1,0 +1,10 @@
+PER	Tom
+EPS	found
+PRO	it
+IST	hard
+SUB	to
+EXS	keep
+DEF	the
+CON	conversation
+EXG	going
+NIL	.

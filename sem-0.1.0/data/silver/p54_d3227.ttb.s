@@ -1,0 +1,9 @@
+PER	Mary
+EPS	asked
+PER	Tom
+SUB	to
+EXS	zip
+IST	up
+HAS	her
+CON	dress
+NIL	.

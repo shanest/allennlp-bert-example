@@ -1,0 +1,9 @@
+HAS	My
+CON	wife
+NOW	is
+NOT	n't
+EXS	beautiful
+NIL	.
+HAS	Yours
+NOW	is
+NIL	.

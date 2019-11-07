@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	trying
+SUB	to
+EXS	calm
+PER	John
+IST	down
+NIL	.

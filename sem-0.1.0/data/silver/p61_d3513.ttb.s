@@ -1,0 +1,9 @@
+ITJ	Oh
+NIL	,
+PRO	you
+NEC	must
+EXS	be
+IST	good
+REL	at
+CON	sports
+NIL	.

@@ -1,0 +1,12 @@
+DEF	The
+CON	pasta
+AND	here
+HAS	's
+INT	pretty
+EXS	good
+NIL	.
+AND	And
+DEF	the
+CON	pizza
+ALT	too
+NIL	.

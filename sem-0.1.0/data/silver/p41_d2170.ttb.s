@@ -1,0 +1,12 @@
+PER	Tom
+EPS	called
+PER	Mary
+IST	up
+COO	and
+EPS	asked
+HAS	her
+QUE	what
+HAS	her
+CON	schedule
+PST	was
+NIL	.

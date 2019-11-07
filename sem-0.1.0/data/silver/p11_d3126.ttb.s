@@ -1,0 +1,10 @@
+PER	Mary
+PST	was
+NEC	definitely
+DEF	the
+IST	prettiest
+CON	girl
+REL	at
+DEF	the
+CON	party
+NIL	.

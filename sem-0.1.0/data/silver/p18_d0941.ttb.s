@@ -1,0 +1,17 @@
+PRO	I
+EPS	bought
+DIS	a
+CON	scarf
+REL	for
+HAS	my
+ROL	grandfather
+REL	on
+HAS	my
+ROL	father
+HAS	's
+CON	side
+REL	for
+HAS	his
+IST	88th
+CON	birthday
+NIL	.

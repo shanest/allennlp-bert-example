@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXG	hoping
+PRO	you
+FUT	'll
+EXS	tell
+PRO	me
+QUE	how
+SUB	to
+EXS	do
+PRX	this
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+IST	willing
+SUB	to
+EXS	do
+AND	almost
+DIS	anything
+REL	for
+CON	money
+NIL	.

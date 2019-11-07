@@ -1,0 +1,12 @@
+PRO	He
+PST	was
+EXS	tired
+NIL	,
+COO	and
+ALT	yet
+PRO	he
+EPS	went
+SUB	to
+EXS	help
+PRO	them
+NIL	.

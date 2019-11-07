@@ -1,0 +1,11 @@
+EXS	Did
+PRO	you
+EXS	hear
+REL	about
+PER	Tom
+HAS	's
+CON	plans
+REL	for
+DEF	the
+CON	weekend
+QUE	?

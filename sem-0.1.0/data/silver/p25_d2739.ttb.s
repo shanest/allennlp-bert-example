@@ -1,0 +1,13 @@
+DEF	The
+EPS	rose
+NOW	has
+CON	thorns
+XCL	only
+REL	for
+DST	those
+AND	who
+ENS	want
+SUB	to
+EXS	touch
+PRO	it
+NIL	.

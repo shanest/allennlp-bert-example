@@ -1,0 +1,14 @@
+PRO	It
+NOW	is
+ALT	yet
+SUB	to
+EXS	be
+EXS	seen
+SUB	whether
+PRX	this
+CON	plan
+FUT	will
+EXS	succeed
+DIS	or
+NOT	not
+NIL	.

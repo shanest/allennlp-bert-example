@@ -1,0 +1,11 @@
+DST	That
+HAS	's
+DEF	the
+TOP	best
+CON	movie
+PRO	I
+NOW	've
+EXS	seen
+REL	in
+CON	ages
+NIL	.

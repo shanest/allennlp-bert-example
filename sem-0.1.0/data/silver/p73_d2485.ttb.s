@@ -1,0 +1,14 @@
+PRO	I
+ENS	know
+PRO	you
+EXS	know
+NIL	,
+BUT	but
+NOW	do
+PRO	you
+EXS	know
+PRO	I
+ENS	know
+PRO	you
+EXS	know
+QUE	?

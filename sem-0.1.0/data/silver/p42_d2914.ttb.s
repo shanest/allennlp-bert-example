@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PRO	I
+AND	both
+PST	did
+NOT	n't
+EXS	go
+REL	to
+NOW	today
+HAS	's
+CON	meeting
+NIL	.

@@ -1,0 +1,9 @@
+PRO	She
+EPS	devoted
+HAS	her
+CON	life
+SUB	to
+EXS	helping
+DEF	the
+IST	handicapped
+NIL	.

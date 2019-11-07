@@ -1,0 +1,17 @@
+CON	Prejudices
+ENS	die
+DIS	a
+IST	slow
+CON	death
+NIL	,
+COO	and
+PRO	you
+POS	can
+NOT	never
+EXS	be
+IST	sure
+PRO	they
+NOW	are
+IST	really
+EXS	dead
+NIL	.

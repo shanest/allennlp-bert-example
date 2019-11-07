@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	left
+DEF	the
+CON	office
+IST	together
+REL	at
+CLO	2:30
+NIL	.

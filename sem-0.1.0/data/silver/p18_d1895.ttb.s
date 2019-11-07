@@ -1,0 +1,11 @@
+PER	Tom
+EPS	promised
+PRO	me
+PRO	he
+FUT	'd
+NOT	never
+EXS	come
+IST	back
+AND	here
+ALT	again
+NIL	.

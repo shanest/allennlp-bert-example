@@ -1,0 +1,10 @@
+PRO	We
+PST	were
+EXS	supposed
+SUB	to
+EXS	be
+PRX	here
+QUC	two
+CON	weeks
+PST	ago
+NIL	.

@@ -1,0 +1,15 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	like
+ROL	teachers
+AND	who
+AND	like
+CON	students
+AND	who
+NOW	do
+NOT	n't
+EXS	like
+EXG	asking
+CON	questions
+NIL	.

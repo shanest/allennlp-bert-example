@@ -1,0 +1,14 @@
+PER	Tom
+IST	secretly
+EPS	put
+PER	Mary
+HAS	's
+CON	dresses
+REL	on
+SUB	when
+PRO	she
+PST	was
+NOT	n't
+REL	at
+CON	home
+NIL	.

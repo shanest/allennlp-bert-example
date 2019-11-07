@@ -1,0 +1,11 @@
+PRO	He
+EPS	wrote
+IST	down
+DEF	the
+CON	number
+TOP	lest
+PRO	he
+NEC	should
+EXS	forget
+PRO	it
+NIL	.

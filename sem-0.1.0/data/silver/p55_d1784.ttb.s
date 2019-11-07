@@ -1,0 +1,11 @@
+PER	Tom
+EPS	grabbed
+PER	Mary
+HAS	's
+IST	right
+CON	hand
+REL	with
+HAS	his
+IST	left
+CON	hand
+NIL	.

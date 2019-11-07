@@ -1,0 +1,13 @@
+PRO	He
+PST	was
+EXS	wrong
+REL	in
+EXG	thinking
+SUB	that
+PRO	she
+PST	'd
+EXS	come
+SUB	to
+EXS	see
+PRO	him
+NIL	.

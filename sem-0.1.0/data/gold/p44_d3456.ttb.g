@@ -1,0 +1,19 @@
+PRO	I
+NOW	'm
+DIS	an
+ROL	alcoholic
+NIL	.
+PRO	I
+NOW	'm
+DIS	a
+ROL	drug addict
+NIL	.
+PRO	I
+NOW	'm
+IST	homosexual
+NIL	.
+PRO	I
+NOW	'm
+DIS	a
+ROL	genius
+NIL	.

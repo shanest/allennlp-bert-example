@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+INT	almost
+IST	certain
+SUB	that
+PRO	we
+POS	can
+EXS	trust
+PER	Tom
+NIL	.

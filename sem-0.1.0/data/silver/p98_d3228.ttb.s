@@ -1,0 +1,11 @@
+PER	Tom
+EPS	spent
+DEF	the
+IST	whole
+CON	day
+EXS	working
+REL	on
+HAS	his
+GPO	French
+CON	pronunciation
+NIL	.

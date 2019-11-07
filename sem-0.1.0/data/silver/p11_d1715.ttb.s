@@ -1,0 +1,10 @@
+DEF	The
+CON	house
+TOP	closest
+AND	to
+PRX	here
+NOW	is
+QUC	two
+UOM	miles
+IST	away
+NIL	.

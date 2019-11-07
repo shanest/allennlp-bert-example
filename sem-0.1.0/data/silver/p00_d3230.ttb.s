@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+NOW	do
+NOT	n't
+EXS	give
+REL	in
+NOW	now
+NIL	,
+PRO	you
+FUT	will
+EXS	regret
+PRO	it
+IST	later
+NIL	.

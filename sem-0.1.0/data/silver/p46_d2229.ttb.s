@@ -1,0 +1,10 @@
+FUT	Will
+PRO	I
+EXS	be
+IST	able
+SUB	to
+EXS	see
+PRO	you
+AND	next
+DOW	Monday
+QUE	?

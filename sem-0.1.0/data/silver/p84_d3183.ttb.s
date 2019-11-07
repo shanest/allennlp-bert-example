@@ -1,0 +1,9 @@
+PRO	They
+NOW	are
+EXS	negotiating
+SUB	to
+EXS	reach
+DIS	a
+IST	satisfactory
+CON	compromise
+NIL	.

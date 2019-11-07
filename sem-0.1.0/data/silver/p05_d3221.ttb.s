@@ -1,0 +1,9 @@
+PRO	He
+PST	was
+IST	able
+SUB	to
+EXS	build
+DIS	a
+IST	small
+CON	house
+NIL	.

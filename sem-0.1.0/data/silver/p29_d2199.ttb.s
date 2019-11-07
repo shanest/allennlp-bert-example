@@ -1,0 +1,10 @@
+PER	Tom
+EPS	told
+PRO	me
+PRO	he
+PST	was
+EXS	interested
+REL	in
+EXS	visiting
+GPE	Australia
+NIL	.

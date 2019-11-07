@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+EXS	seen
+HAS	my
+CON	dog
+EPS	sneeze
+BUT	but
+NOT	never
+HAS	my
+CON	cat
+NIL	.

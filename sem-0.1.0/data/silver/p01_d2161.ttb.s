@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	used
+NIL	to
+EXS	going
+REL	to
+CON	bed
+AND	early
+NIL	.

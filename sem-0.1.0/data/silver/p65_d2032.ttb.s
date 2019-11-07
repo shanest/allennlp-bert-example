@@ -1,0 +1,10 @@
+PRO	You
+NEC	must
+EXT	have
+EXT	hated
+PER	Tom
+REL	for
+QUE	what
+PRO	he
+PST	did
+NIL	.

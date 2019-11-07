@@ -1,0 +1,10 @@
+REL	At
+CON	school
+NIL	,
+PRO	I
+NOW	've
+EXS	learned
+NIL	to
+EXS	write
+IST	Latin
+NIL	.

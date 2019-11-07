@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+QUC	one
+AND	of
+DEF	the
+CON	fish
+SUB	that
+PER	Tom
+EPS	caught
+NIL	.

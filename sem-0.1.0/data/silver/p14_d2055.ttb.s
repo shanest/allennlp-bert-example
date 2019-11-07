@@ -1,0 +1,12 @@
+PER	Tom
+PST	did
+NOT	n't
+NEC	have
+SUB	to
+EXS	tell
+PER	Mary
+NIL	,
+COO	but
+PRO	he
+PST	did
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+NOW	looks
+AND	as
+SUB	though
+PRO	he
+NOW	's
+IST	about
+SUB	to
+EXS	cry
+NIL	.

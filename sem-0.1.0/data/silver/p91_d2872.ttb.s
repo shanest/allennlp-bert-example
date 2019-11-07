@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	interested
+REL	in
+QUV	many
+CON	things
+NIL	,
+NOT	not
+IST	just
+CON	music
+NIL	.

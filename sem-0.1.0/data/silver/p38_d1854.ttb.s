@@ -1,0 +1,10 @@
+PRO	He
+EPS	hardened
+CON	clay
+REL	by
+EXS	putting
+PRO	it
+REL	into
+DIS	a
+CON	fire
+NIL	.

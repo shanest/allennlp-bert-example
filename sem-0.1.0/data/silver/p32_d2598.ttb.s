@@ -1,0 +1,17 @@
+NOT	Not
+XCL	only
+PST	did
+PRO	I
+EXS	forget
+SUB	to
+EXS	close
+DEF	the
+CON	window
+NIL	,
+BUT	but
+PRO	I
+IST	also
+EPS	forgot
+SUB	to
+EXS	sweep
+NIL	.

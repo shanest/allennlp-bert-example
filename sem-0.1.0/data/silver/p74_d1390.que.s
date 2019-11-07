@@ -1,0 +1,9 @@
+QUE	Who
+EPS	won
+DIS	a
+CON	wrestling
+CON	state
+CON	title
+REL	in
+YOC	1990
+QUE	?

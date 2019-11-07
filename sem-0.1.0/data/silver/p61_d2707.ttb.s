@@ -1,0 +1,12 @@
+HAS	My
+CON	daughter
+NOW	has
+PFT	been
+EXS	suffering
+REL	from
+GEO	anorexia
+REL	for
+QUC	four
+UOM	years
+IST	already
+NIL	.

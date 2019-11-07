@@ -1,0 +1,10 @@
+PRO	He
+PST	went
+EXG	fishing
+REL	in
+DIS	a
+CON	river
+REL	near
+DEF	the
+CON	village
+NIL	.

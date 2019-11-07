@@ -1,0 +1,16 @@
+AND	Originally
+NIL	,
+PER	Abraham
+PER	Lincoln
+EPS	wanted
+AND	all
+CON	slaves
+SUB	to
+EXS	be
+EXS	deported
+REL	to
+GEO	Africa
+DIS	or
+DEF	the
+GPE	Caribbean
+NIL	.

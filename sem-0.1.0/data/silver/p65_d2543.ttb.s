@@ -1,0 +1,15 @@
+PRO	It
+HAS	's
+PFT	been
+IST	nice
+EXS	talking
+REL	to
+PRO	you
+NIL	,
+BUT	but
+PRO	I
+IST	really
+NEC	must
+EXS	go
+NOW	now
+NIL	.

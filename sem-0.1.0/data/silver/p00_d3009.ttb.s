@@ -1,0 +1,11 @@
+PRO	I
+ENS	think
+PRO	it
+HAS	's
+CON	time
+REL	to
+CON	wind
+AND	up
+PRX	this
+CON	meeting
+NIL	.

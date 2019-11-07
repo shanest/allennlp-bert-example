@@ -1,0 +1,15 @@
+DEF	The
+ORG	FDA
+EPS	provided
+DIS	a
+CON	list
+AND	of
+CON	states
+REL	in
+UNK	which
+DEF	the
+CON	pills
+NOW	have
+PFT	been
+EXS	sold
+NIL	.

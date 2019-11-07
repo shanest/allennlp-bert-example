@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	living
+PRX	here
+REL	for
+QUC	three
+CON	years
+NIL	.

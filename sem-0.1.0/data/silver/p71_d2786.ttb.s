@@ -1,0 +1,12 @@
+NOT	No
+CON	one
+NOW	is
+IST	so
+EXS	learned
+SUB	that
+PRO	he
+POS	can
+EXS	know
+AND	all
+CON	things
+NIL	.

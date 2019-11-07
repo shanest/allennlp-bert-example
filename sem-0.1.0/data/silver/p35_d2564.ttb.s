@@ -1,0 +1,16 @@
+PRO	I
+EPS	bought
+PER	Tom
+DIS	a
+IST	remote
+IST	controlled
+CON	fire
+CON	truck
+COO	and
+PRO	he
+ENS	seems
+INT	very
+EXS	happy
+REL	with
+PRO	it
+NIL	.

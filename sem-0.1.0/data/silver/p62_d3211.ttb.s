@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+HAS	my
+CON	friend
+HAS	whose
+CON	name
+NOW	is
+PER	John
+NIL	.

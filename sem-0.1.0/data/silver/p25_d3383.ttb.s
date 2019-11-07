@@ -1,0 +1,12 @@
+PER	Tom
+ENS	speaks
+EXS	perfect
+GPO	French
+NIL	,
+BUT	but
+HAS	his
+IST	native
+CON	language
+NOW	is
+GPO	German
+NIL	.

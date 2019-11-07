@@ -1,0 +1,13 @@
+PER	Tom
+NOT	never
+EPS	told
+PRO	me
+PRO	he
+EPS	wanted
+SUB	to
+EXS	go
+REL	to
+GPE	Boston
+REL	with
+PRO	us
+NIL	.

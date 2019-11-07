@@ -1,0 +1,12 @@
+PRO	I
+NOW	feel
+DIS	a
+IST	little
+MOR	better
+NOW	now
+SUB	after
+EXS	crying
+AND	all
+PRO	I
+PST	had
+NIL	.

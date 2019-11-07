@@ -1,0 +1,12 @@
+PRO	He
+NOW	is
+NOT	not
+QUE	what
+PRO	he
+EPS	used
+SUB	to
+EXS	be
+QUC	ten
+CON	years
+PST	ago
+NIL	.

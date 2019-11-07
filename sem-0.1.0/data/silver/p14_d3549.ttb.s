@@ -1,0 +1,11 @@
+SUB	Though
+PRO	he
+PST	had
+DIS	a
+CON	cold
+NIL	,
+PRO	he
+EPS	went
+REL	to
+EXS	work
+NIL	.

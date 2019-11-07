@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	read
+CON	Gone
+REL	With
+DEF	the
+CON	Wind
+QUE	?

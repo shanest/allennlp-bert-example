@@ -1,0 +1,12 @@
+PRO	I
+NOW	guess
+PRO	I
+NOT	never
+EPS	realized
+QUE	how
+QUC	much
+PRO	I
+NOW	rely
+REL	on
+PER	Tom
+NIL	.

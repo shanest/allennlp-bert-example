@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+EXS	been
+REL	on
+DIS	a
+CON	diet
+REL	for
+MOR	more
+MOR	than
+DIS	a
+CON	year
+NIL	.

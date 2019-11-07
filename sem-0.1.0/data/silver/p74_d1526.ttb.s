@@ -1,0 +1,11 @@
+QUE	What
+HAS	's
+SUB	that
+CON	thing
+QUE	?
+PRO	I
+NOW	have
+IST	absolutely
+NOT	no
+CON	idea
+NIL	.

@@ -1,0 +1,12 @@
+PRO	He
+EPS	laid
+IST	down
+HAS	his
+CON	pen
+COO	and
+EPS	leaned
+IST	back
+REL	in
+HAS	his
+CON	chair
+NIL	.

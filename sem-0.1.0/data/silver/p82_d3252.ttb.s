@@ -1,0 +1,10 @@
+PER	Tom
+POS	could
+EXS	understand
+QUE	what
+PER	Mary
+PST	was
+EXS	trying
+SUB	to
+EXS	say
+NIL	.

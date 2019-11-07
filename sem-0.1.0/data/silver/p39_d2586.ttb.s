@@ -1,0 +1,9 @@
+PRO	You
+NOW	've
+IST	just
+EXS	opened
+DIS	a
+CON	can
+AND	of
+CON	worms
+NIL	.

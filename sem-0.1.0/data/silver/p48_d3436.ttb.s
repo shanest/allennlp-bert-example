@@ -1,0 +1,14 @@
+AND	Sometimes
+PRO	it
+NOW	's
+IST	hard
+SUB	to
+EXS	be
+REL	tactful
+COO	and
+EXS	honest
+REL	at
+DEF	the
+IST	same
+CON	time
+NIL	.

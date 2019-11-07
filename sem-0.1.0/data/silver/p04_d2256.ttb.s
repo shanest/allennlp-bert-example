@@ -1,0 +1,10 @@
+PRO	I
+EPS	thought
+PRO	you
+POS	might
+EXS	have
+DIS	a
+CON	change
+AND	of
+CON	heart
+NIL	.

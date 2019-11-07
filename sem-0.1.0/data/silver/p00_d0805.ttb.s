@@ -1,0 +1,12 @@
+PRO	You
+POS	can
+NOT	not
+EXS	be
+INT	too
+IST	careful
+SUB	when
+PRO	you
+ENS	drive
+DIS	a
+CON	car
+NIL	.

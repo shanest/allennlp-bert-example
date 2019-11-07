@@ -1,0 +1,11 @@
+PER	Bob
+NOW	has
+PFT	been
+EXS	sick
+REL	in
+CON	bed
+REL	for
+DIS	a
+CON	week
+NOW	now
+NIL	.

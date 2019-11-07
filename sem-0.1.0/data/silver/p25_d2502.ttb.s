@@ -1,0 +1,10 @@
+PER	Tom
+ENS	thinks
+PRO	it
+FUT	'll
+EXS	be
+DIS	a
+CON	lot
+AND	of
+CON	fun
+NIL	.

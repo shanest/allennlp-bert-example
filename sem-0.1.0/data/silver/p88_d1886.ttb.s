@@ -1,0 +1,9 @@
+PRO	We
+NOW	do
+NOT	n't
+EXS	hear
+QUC	much
+CON	news
+AND	about
+GPE	Armenia
+NIL	.

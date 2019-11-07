@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+NOT	no
+EXS	use
+EXG	arguing
+REL	with
+PRO	him
+AND	about
+PRO	it
+NIL	.

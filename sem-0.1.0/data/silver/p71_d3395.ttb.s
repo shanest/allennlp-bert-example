@@ -1,0 +1,12 @@
+PRO	I
+EPS	saw
+DIS	a
+CON	girl
+HAS	whose
+CON	hair
+EPS	came
+IST	down
+REL	to
+HAS	her
+CON	waist
+NIL	.

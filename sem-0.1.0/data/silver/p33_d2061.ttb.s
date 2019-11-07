@@ -1,0 +1,9 @@
+UNK	There
+NOW	have
+PFT	been
+IST	several
+CON	cases
+AND	of
+REL	infantile
+CON	paralysis
+NIL	.

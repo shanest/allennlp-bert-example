@@ -1,0 +1,15 @@
+IMP	If
+PRO	it
+PST	had
+NOT	n't
+EXS	been
+REL	for
+HAS	his
+CON	advice
+NIL	,
+PRO	I
+POS	could
+NOT	n't
+EXT	have
+EXS	succeeded
+NIL	.

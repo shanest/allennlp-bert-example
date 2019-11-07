@@ -1,0 +1,16 @@
+REL	For
+GPE	Norwegians
+NIL	,
+PRO	it
+NOW	is
+IST	normally
+NOT	not
+IST	difficult
+SUB	to
+EXS	understand
+QUE	what
+DIS	a
+CON	Swede
+NOW	is
+EXS	saying
+NIL	.

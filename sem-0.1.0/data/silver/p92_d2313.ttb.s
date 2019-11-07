@@ -1,0 +1,11 @@
+REL	With
+DEF	the
+CON	rain
+EXT	having
+EXS	stopped
+NIL	,
+DEF	the
+CON	game
+EPS	began
+ALT	again
+NIL	.

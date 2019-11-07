@@ -1,0 +1,10 @@
+PRO	I
+EPS	got
+DIS	a
+CON	fish
+CON	bone
+EXS	stuck
+REL	in
+HAS	my
+CON	throat
+NIL	.

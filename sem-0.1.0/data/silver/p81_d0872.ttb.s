@@ -1,0 +1,9 @@
+AND	All
+AND	of
+PRO	us
+NIL	,
+NOT	except
+PRO	him
+NIL	,
+EPS	went
+NIL	.

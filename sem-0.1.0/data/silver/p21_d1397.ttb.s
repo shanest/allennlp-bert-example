@@ -1,0 +1,13 @@
+PRO	We
+PST	were
+IST	greatly
+EPS	relieved
+SUB	to
+EXS	find
+SUB	that
+DEF	the
+BOT	worst
+CON	dangers
+PST	were
+IST	over
+NIL	.

@@ -1,0 +1,15 @@
+NOT	No
+CON	atheist
+AND	worth
+HAS	his
+CON	salt
+FUT	will
+EXS	try
+SUB	to
+EXS	prove
+DST	that
+CON	God
+NOW	does
+NOT	not
+EXS	exist
+NIL	.

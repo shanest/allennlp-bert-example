@@ -1,0 +1,9 @@
+PER	Tom
+ENS	seems
+SUB	to
+EXS	be
+EXG	having
+CON	trouble
+EXS	staying
+EXS	awake
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+HAS	's
+CON	wife
+ENS	keeps
+PRO	him
+REL	on
+AND	such
+DIS	a
+IST	short
+CON	rope
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+ENS	wish
+PRO	I
+EPS	knew
+QUE	what
+NOW	is
+EXS	wrong
+REL	with
+HAS	my
+CON	car
+NIL	.

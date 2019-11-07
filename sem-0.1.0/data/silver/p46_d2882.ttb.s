@@ -1,0 +1,10 @@
+PRO	I
+ENS	owe
+QUC	two
+CON	months
+HAS	'
+CON	rent
+REL	for
+HAS	my
+CON	room
+NIL	.

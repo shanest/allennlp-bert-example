@@ -1,0 +1,17 @@
+PRO	I
+ENS	love
+PRO	you
+REL	in
+CON	spite
+AND	of
+HAS	your
+QUC	many
+NIL	,
+BUT	but
+AND	so
+QUV	many
+COO	,
+IST	infinite
+IST	mental
+CON	problems
+NIL	.

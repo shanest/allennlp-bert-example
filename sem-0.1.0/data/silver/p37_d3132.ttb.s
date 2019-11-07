@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+EPS	told
+HAS	your
+CON	girlfriend
+DEF	the
+CON	news
+IST	yet
+QUE	?

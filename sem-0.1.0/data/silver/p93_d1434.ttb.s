@@ -1,0 +1,9 @@
+NIL	Liisa
+CON	calls
+NIL	Markku
+IST	up
+AND	every
+NOW	now
+AND	and
+IST	then
+NIL	.

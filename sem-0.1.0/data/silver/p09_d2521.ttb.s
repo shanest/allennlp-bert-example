@@ -1,0 +1,17 @@
+PER	Tom
+NOW	's
+EXS	wondering
+IMP	if
+AND	any
+AND	of
+HAS	his
+CON	kids
+FUT	will
+EXS	remember
+SUB	that
+CON	today
+NOW	is
+PER	Father
+ENS	's
+HAP	Day
+NIL	.

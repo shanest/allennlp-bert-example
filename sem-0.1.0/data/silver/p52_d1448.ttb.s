@@ -1,0 +1,11 @@
+PRX	This
+CON	pencil
+NOW	is
+HAS	yours
+NIL	.
+HAS	Mine
+NOW	is
+REL	on
+DEF	the
+CON	desk
+NIL	.

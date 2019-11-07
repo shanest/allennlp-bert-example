@@ -1,0 +1,12 @@
+IMP	If
+REL	for
+DIS	some
+CON	reason
+PRO	I
+EPS	failed
+NIL	,
+PRO	I
+FUT	'd
+EXS	try
+ALT	again
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+EPS	entered
+DEF	the
+CON	university
+SUB	after
+EXS	failing
+DEF	the
+CON	examination
+QUC	twice
+NIL	.

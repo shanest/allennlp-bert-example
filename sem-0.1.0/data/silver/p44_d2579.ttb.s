@@ -1,0 +1,12 @@
+AND	Every
+DOW	Sunday
+NIL	,
+NIL	Takashi
+ENS	loves
+SUB	to
+EXS	adjust
+HAS	his
+CON	car
+HAS	's
+CON	engine
+NIL	.

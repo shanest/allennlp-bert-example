@@ -1,0 +1,12 @@
+SUB	When
+DEF	the
+ROL	thief
+EPS	heard
+DEF	the
+CON	dog
+CON	bark
+NIL	,
+PRO	he
+EPS	ran
+IST	away
+NIL	.

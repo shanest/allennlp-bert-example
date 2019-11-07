@@ -1,0 +1,11 @@
+PRO	He
+EPS	began
+SUB	to
+EXS	fall
+REL	in
+CON	love
+REL	with
+HAS	his
+IST	co-worker
+PER	Mary
+NIL	.

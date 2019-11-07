@@ -1,0 +1,9 @@
+PRO	He
+EPS	walked
+IST	slowly
+SUB	so
+DEF	the
+CON	child
+POS	could
+EXS	follow
+NIL	.

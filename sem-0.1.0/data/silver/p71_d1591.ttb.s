@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+ENS	want
+PRO	you
+IST	there
+NIL	,
+ALT	too
+NIL	.

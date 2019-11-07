@@ -1,0 +1,11 @@
+PER	Tom
+ENS	sleeps
+REL	on
+DIS	a
+CON	sofa
+AND	that
+CON	converts
+REL	into
+DIS	a
+CON	bed
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+ENS	need
+SUB	to
+EXS	know
+QUE	what
+PRO	you
+ENS	know
+AND	about
+PRX	this
+NIL	.

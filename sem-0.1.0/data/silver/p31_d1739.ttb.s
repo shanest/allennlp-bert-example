@@ -1,0 +1,11 @@
+HAS	My
+ROL	grandfather
+IST	sometimes
+CON	talks
+REL	to
+REF	himself
+SUB	when
+PRO	he
+NOW	is
+EXS	alone
+NIL	.

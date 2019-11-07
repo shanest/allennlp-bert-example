@@ -1,0 +1,11 @@
+PRO	We
+ENS	know
+SUB	that
+PRO	he
+PST	was
+EXS	playing
+AND	like
+CON	cat
+AND	and
+CON	mouse
+NIL	.

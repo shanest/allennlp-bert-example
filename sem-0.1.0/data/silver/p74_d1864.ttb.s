@@ -1,0 +1,16 @@
+PRO	I
+PST	thought
+PRO	we
+PST	had
+EXS	found
+DEF	the
+IST	perfect
+EXS	hiding
+CON	place
+NIL	,
+BUT	but
+DEF	the
+CON	police
+EPS	found
+PRO	us
+NIL	.

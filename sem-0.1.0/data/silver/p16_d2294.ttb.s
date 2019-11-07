@@ -1,0 +1,12 @@
+DEF	The
+IST	mere
+CON	idea
+AND	of
+CON	swimming
+REL	across
+DEF	the
+CON	river
+EPS	made
+PRO	me
+AND	tremble
+NIL	.

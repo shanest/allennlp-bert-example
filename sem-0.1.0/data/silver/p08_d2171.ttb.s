@@ -1,0 +1,15 @@
+PRO	It
+FUT	will
+EXS	make
+TOP	most
+GPE	Americans
+EXS	uncomfortable
+IMP	if
+PRO	you
+NOW	insist
+REL	on
+HAS	their
+EXS	accepting
+IST	expensive
+CON	gifts
+NIL	.

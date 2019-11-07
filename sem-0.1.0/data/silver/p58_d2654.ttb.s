@@ -1,0 +1,15 @@
+PER	Mary
+EPS	traveled
+IST	back
+REL	in
+CON	time
+REL	to
+GEO	Paris
+COO	and
+EPS	became
+DEF	the
+CON	mistress
+AND	of
+PER	Napoleon
+PER	III
+NIL	.

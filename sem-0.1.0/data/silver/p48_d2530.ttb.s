@@ -1,0 +1,10 @@
+DEF	The
+ROL	teacher
+EPS	took
+CON	part
+REL	in
+DEF	the
+CON	children
+HAS	's
+CON	games
+NIL	.

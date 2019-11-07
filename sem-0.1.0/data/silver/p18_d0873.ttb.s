@@ -1,0 +1,14 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+PRO	he
+NIL	used
+NIL	to
+EXS	be
+DIS	a
+IST	good
+ROL	student
+NIL	.

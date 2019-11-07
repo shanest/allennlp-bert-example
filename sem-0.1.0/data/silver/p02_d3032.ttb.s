@@ -1,0 +1,11 @@
+PRO	I
+EPS	heard
+SUB	that
+ROL	Mr.
+PER	Collins
+EPS	asked
+PRO	you
+SUB	to
+EXS	marry
+PRO	him
+NIL	.

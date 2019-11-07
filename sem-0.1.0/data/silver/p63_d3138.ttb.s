@@ -1,0 +1,9 @@
+DEF	The
+CON	image
+EXS	projected
+REL	in
+DEF	the
+CON	retina
+NOW	is
+EXS	inverted
+NIL	.

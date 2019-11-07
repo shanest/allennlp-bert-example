@@ -1,0 +1,10 @@
+PRO	He
+EPS	left
+REL	for
+GPE	England
+REL	at
+DEF	the
+CON	beginning
+AND	of
+MOY	August
+NIL	.

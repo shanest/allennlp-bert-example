@@ -1,0 +1,12 @@
+ORG	Was
+PRO	it
+IST	hard
+REL	for
+PRO	you
+SUB	to
+EXS	get
+REL	in
+CON	touch
+REL	with
+PER	Tom
+QUE	?

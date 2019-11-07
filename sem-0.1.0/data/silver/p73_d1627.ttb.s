@@ -1,0 +1,10 @@
+QUE	What
+NOW	do
+PRO	you
+EXS	say
+SUB	to
+EXG	calling
+PRO	it
+DIS	a
+CON	day
+QUE	?

@@ -1,0 +1,9 @@
+PRO	I
+NOW	expect
+PER	Tom
+FUT	will
+EXS	know
+QUE	what
+SUB	to
+EXS	do
+NIL	.

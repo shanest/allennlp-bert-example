@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	flying
+REL	to
+GPE	London
+REL	for
+DIS	a
+CON	business
+CON	meeting
+PRX	this
+CON	week
+NIL	.

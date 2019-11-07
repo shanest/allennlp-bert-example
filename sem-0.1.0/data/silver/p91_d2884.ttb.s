@@ -1,0 +1,11 @@
+PER	Tom
+EPS	met
+PER	Mary
+REL	for
+DEF	the
+IST	first
+CON	time
+QUC	three
+CON	years
+PST	ago
+NIL	.

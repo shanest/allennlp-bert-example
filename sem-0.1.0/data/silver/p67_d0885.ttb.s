@@ -1,0 +1,12 @@
+PRO	He
+NOW	is
+EXS	said
+SUB	to
+EXS	be
+IST	able
+SUB	to
+EXS	speak
+NOT	without
+EXS	using
+CON	notes
+NIL	.

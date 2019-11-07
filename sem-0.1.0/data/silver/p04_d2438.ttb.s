@@ -1,0 +1,11 @@
+DEF	The
+CON	girl
+PST	was
+IST	afraid
+SUB	to
+EXS	jump
+IST	down
+REL	from
+DEF	the
+CON	roof
+NIL	.

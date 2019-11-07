@@ -1,0 +1,9 @@
+PRO	I
+ENS	love
+DEF	the
+CON	aroma
+REL	of
+IST	freshly
+EXT	brewed
+CON	coffee
+NIL	.

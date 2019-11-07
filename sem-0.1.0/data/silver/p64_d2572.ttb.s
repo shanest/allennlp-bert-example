@@ -1,0 +1,11 @@
+PRO	You
+NOW	've
+IST	always
+EXS	got
+SUB	to
+EXS	be
+IST	ready
+REL	for
+DIS	an
+CON	emergency
+NIL	.

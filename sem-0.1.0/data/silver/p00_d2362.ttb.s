@@ -1,0 +1,10 @@
+PRO	We
+NOW	've
+EXS	received
+QUC	thirteen
+CON	complaints
+REL	so
+AND	far
+PRX	this
+CON	week
+NIL	.

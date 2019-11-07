@@ -1,0 +1,15 @@
+NOT	No
+EXS	matter
+HAS	whose
+CON	money
+PRX	this
+NOW	is
+NIL	,
+PRO	I
+NOW	am
+EXS	keeping
+PRO	it
+NIL	!
+GEO	Finders
+CON	keepers
+NIL	!

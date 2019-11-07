@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	exchanged
+CON	numbers
+REL	at
+DEF	the
+CON	party
+NIL	.

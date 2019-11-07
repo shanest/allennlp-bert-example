@@ -1,0 +1,11 @@
+POS	Maybe
+PRX	this
+CON	weekend
+PRO	we
+POS	could
+EXS	go
+REL	to
+DEF	the
+CON	beach
+IST	together
+NIL	.

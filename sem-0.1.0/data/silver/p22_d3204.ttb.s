@@ -1,0 +1,11 @@
+PER	Mary
+NOW	is
+EXG	dating
+QUC	two
+ALT	different
+CON	guys
+REL	at
+DEF	the
+IST	same
+CON	time
+NIL	.

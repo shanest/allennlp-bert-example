@@ -1,0 +1,13 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	want
+NIL	to
+EXS	play
+EXS	dodge
+CON	ball
+SUB	because
+PRO	he
+PST	was
+EXS	tired
+NIL	.

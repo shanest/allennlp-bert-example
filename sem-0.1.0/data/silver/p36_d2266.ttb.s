@@ -1,0 +1,15 @@
+PRO	I
+IST	mainly
+EPS	participated
+REL	in
+DEF	the
+IST	working
+CON	group
+NIL	"
+IST	environmental
+CON	protection
+AND	and
+IST	sustainable
+CON	agriculture
+NIL	"
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+NEC	had
+SUB	to
+EXS	lead
+DIS	a
+IST	miserable
+CON	life
+REL	for
+QUV	many
+CON	years
+NIL	.

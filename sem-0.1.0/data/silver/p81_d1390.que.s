@@ -1,0 +1,10 @@
+QUE	How
+QUV	many
+CON	condoms
+PST	were
+EXS	sold
+REL	in
+GPE	Japan
+REL	in
+GEO	1991
+QUE	?

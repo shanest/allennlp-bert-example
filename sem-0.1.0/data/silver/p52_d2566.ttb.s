@@ -1,0 +1,13 @@
+DIS	Some
+CON	people
+NOW	think
+SUB	that
+UNK	there
+NOW	are
+INT	too
+QUC	many
+ROL	lawyers
+REL	in
+PRX	this
+CON	country
+NIL	.

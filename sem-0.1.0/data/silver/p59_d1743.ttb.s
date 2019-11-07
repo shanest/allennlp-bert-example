@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+EXS	abandoned
+DEF	the
+CON	idea
+AND	of
+EXS	buying
+DIS	a
+CON	house
+NIL	.

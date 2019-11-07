@@ -1,0 +1,14 @@
+PER	Tom
+EPS	missed
+DEF	the
+IST	last
+CON	train
+COO	and
+EPS	spent
+DEF	the
+CON	night
+REL	at
+DIS	an
+UNK	Internet
+CON	cafe
+NIL	.

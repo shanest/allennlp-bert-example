@@ -1,0 +1,11 @@
+PRO	I
+PST	thought
+PRO	you
+PST	were
+EXS	going
+SUB	to
+EXS	be
+EXS	gone
+AND	all
+CON	afternoon
+NIL	.

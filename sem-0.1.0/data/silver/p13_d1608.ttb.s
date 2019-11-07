@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	getting
+REL	along
+IST	well
+REL	with
+HAS	my
+IST	new
+CON	classmates
+NIL	.

@@ -1,0 +1,11 @@
+SUB	When
+PRO	we
+ENS	eat
+INT	too
+QUV	much
+NIL	,
+PRO	we
+ENS	suffer
+REL	from
+CON	indigestion
+NIL	.

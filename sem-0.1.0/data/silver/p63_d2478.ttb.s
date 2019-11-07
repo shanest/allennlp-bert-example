@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	want
+PER	Mary
+SUB	to
+EXS	know
+PRO	he
+PST	was
+EXS	rich
+NIL	.

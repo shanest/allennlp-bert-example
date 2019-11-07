@@ -1,0 +1,15 @@
+REL	In
+HAS	his
+IST	spare
+CON	time
+NIL	,
+PER	Tom
+ENS	keeps
+IST	busy
+AND	as
+DIS	a
+CON	troll
+REL	in
+CON	internet
+CON	forums
+NIL	.

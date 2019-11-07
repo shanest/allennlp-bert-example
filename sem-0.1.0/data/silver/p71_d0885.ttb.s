@@ -1,0 +1,17 @@
+DEF	The
+ORG	U.S.
+CON	government
+ENS	has
+QUC	three
+CON	branches
+AND	:
+DEF	the
+CON	executive
+NIL	,
+DEF	the
+IST	legislative
+NIL	,
+COO	and
+DEF	the
+IST	judicial
+NIL	.

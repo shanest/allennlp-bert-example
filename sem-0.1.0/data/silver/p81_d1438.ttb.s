@@ -1,0 +1,10 @@
+PRO	He
+EPS	put
+DIS	a
+CON	pack
+AND	of
+CON	cigarettes
+REL	on
+DEF	the
+CON	table
+NIL	.

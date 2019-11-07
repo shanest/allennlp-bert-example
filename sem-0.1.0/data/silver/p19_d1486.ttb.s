@@ -1,0 +1,13 @@
+DEF	The
+CON	truth
+NOW	is
+SUB	that
+PRO	I
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	eat
+REL	with
+PER	Tom
+NIL	.

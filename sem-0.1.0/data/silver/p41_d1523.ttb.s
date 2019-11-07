@@ -1,0 +1,10 @@
+PRO	He
+NOT	never
+ENS	opens
+HAS	his
+CON	mouth
+NOT	without
+EXS	complaining
+AND	about
+DIS	something
+NIL	.

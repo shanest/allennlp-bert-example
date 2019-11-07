@@ -1,0 +1,10 @@
+AND	Everyone
+ENS	wants
+NIL	to
+EXS	meet
+PRO	you
+NIL	.
+PRO	You
+NOW	're
+IST	famous
+NIL	!

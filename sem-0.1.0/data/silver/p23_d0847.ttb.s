@@ -1,0 +1,12 @@
+PRO	She
+ENS	loves
+DEF	the
+CON	boy
+AND	as
+IMP	if
+PRO	he
+PST	were
+HAS	her
+IST	own
+CON	child
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+SUB	when
+PER	Mary
+EPS	came
+REL	to
+GPE	Boston
+NIL	.

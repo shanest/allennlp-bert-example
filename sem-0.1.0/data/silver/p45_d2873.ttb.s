@@ -1,0 +1,11 @@
+DIS	A
+CON	man
+AND	of
+CON	sense
+FUT	would
+EXS	be
+IST	ashamed
+SUB	to
+EXS	do
+IST	so
+NIL	.

@@ -1,0 +1,9 @@
+EXS	Stop
+EXS	complaining
+COO	and
+EXS	do
+SUB	as
+PRO	you
+NOW	're
+EXS	told
+NIL	.

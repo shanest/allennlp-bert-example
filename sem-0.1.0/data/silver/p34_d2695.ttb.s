@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	happy
+SUB	to
+EXS	spend
+CON	money
+REL	on
+CON	books
+NIL	.

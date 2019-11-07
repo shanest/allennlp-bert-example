@@ -1,0 +1,9 @@
+PER	Mary
+EPS	flicked
+HAS	her
+IST	long
+CON	ponytail
+REL	over
+HAS	her
+CON	shoulder
+NIL	.

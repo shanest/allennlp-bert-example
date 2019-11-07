@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+IST	eager
+SUB	to
+EXS	be
+EXS	present
+REL	at
+DEF	the
+CON	party
+NIL	.

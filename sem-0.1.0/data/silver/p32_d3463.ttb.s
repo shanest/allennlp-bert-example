@@ -1,0 +1,15 @@
+PER	Tom
+EPS	stopped
+REL	in
+CON	front
+AND	of
+PER	Mary
+HAS	's
+CON	house
+COO	and
+EPS	got
+IST	out
+AND	of
+HAS	his
+CON	car
+NIL	.

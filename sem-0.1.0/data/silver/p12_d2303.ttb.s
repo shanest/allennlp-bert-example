@@ -1,0 +1,11 @@
+PER	Tom
+ENS	owes
+DEF	the
+CON	government
+DIS	a
+CON	lot
+AND	of
+CON	money
+REL	in
+CON	taxes
+NIL	.

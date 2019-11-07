@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+EXS	spoken
+REL	to
+HAS	your
+CON	parents
+AND	about
+PRX	this
+QUE	?

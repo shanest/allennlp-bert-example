@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	ask
+PRO	you
+DIS	a
+CON	series
+AND	of
+CON	questions
+NIL	.

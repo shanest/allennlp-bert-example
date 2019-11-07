@@ -1,0 +1,12 @@
+PRO	He
+EPS	put
+DIS	a
+IST	sudden
+CON	end
+REL	to
+PRX	this
+CON	career
+AND	as
+DIS	a
+ROL	poet
+NIL	.

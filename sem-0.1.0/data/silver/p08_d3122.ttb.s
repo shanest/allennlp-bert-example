@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	dying
+SUB	to
+EXS	look
+REL	at
+AND	all
+DEF	the
+CON	work
+PRO	you
+NOW	've
+EXS	done
+NIL	.

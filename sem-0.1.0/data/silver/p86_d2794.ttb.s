@@ -1,0 +1,9 @@
+PRO	I
+ENS	bet
+PRO	you
+NOW	're
+EXS	wondering
+QUE	how
+PRX	this
+CON	works
+NIL	.

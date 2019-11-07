@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	saving
+CON	money
+REL	for
+HAS	my
+IST	old
+CON	age
+NIL	.

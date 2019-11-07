@@ -1,0 +1,10 @@
+AND	Could
+PRO	you
+ENS	come
+IST	back
+AND	here
+ALT	again
+FUT	tomorrow
+REL	at
+CLO	2:30
+QUE	?

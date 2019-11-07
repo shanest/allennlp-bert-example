@@ -1,0 +1,10 @@
+AND	Last
+TIM	year
+HAS	's
+ROL	Miss
+PER	Universe
+CON	winner
+NOW	is
+INT	very
+EXS	tall
+NIL	.

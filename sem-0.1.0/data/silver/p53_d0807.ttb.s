@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	looking
+REL	for
+PRO	them
+REL	for
+MOR	more
+MOR	than
+QUC	one
+CON	hour
+NIL	.

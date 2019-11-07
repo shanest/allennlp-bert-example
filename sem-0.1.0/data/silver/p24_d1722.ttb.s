@@ -1,0 +1,12 @@
+HAS	My
+ROL	father
+HAS	's
+CON	car
+NOW	is
+MOR	smaller
+MOR	than
+AND	that
+AND	of
+HAS	my
+CON	mother
+NIL	.

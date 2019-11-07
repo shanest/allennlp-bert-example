@@ -1,0 +1,11 @@
+PRO	I
+EPS	thought
+PER	Tom
+PST	was
+EXS	planning
+REL	on
+EXS	staying
+REL	for
+DIS	a
+CON	month
+NIL	.

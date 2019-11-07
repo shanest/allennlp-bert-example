@@ -1,0 +1,12 @@
+PRO	He
+NOW	has
+DEF	the
+CON	freedom
+SUB	to
+EXS	do
+QUE	what
+PRO	he
+ENS	thinks
+NOW	is
+EXS	right
+NIL	.

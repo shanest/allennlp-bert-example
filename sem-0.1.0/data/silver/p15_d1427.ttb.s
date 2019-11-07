@@ -1,0 +1,9 @@
+NOW	Is
+PRO	it
+EXS	true
+SUB	that
+PER	Tom
+EPS	witnessed
+DIS	a
+CON	murder
+QUE	?

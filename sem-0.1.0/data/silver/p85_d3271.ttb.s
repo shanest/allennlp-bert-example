@@ -1,0 +1,16 @@
+PER	Tom
+EPS	calculated
+SUB	that
+PRO	he
+PST	had
+EXS	given
+PER	Mary
+AND	over
+QUC	34,000
+UOM	dollars
+REL	in
+DEF	the
+IST	past
+QUC	six
+CON	months
+NIL	.

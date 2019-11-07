@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	asking
+PRO	you
+NOT	not
+SUB	to
+EXS	fulfill
+AND	any
+AND	of
+HAS	my
+CON	requests
+NIL	.

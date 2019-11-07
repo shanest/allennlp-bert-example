@@ -1,0 +1,23 @@
+REL	On
+CON	school
+CON	nights
+NIL	,
+PER	Tom
+ENS	goes
+REL	to
+CON	bed
+REL	at
+CLO	nine o'clock
+NIL	,
+COO	but
+REL	on
+DOW	Fridays
+AND	and
+DOW	Saturdays
+NIL	,
+PRO	he
+ENS	stays
+IST	up
+QUV	much
+AND	later
+NIL	.

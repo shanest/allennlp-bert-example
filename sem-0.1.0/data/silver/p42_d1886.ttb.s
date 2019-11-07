@@ -1,0 +1,15 @@
+QUC	Ten
+CON	years
+NOW	have
+EXS	passed
+SUB	since
+PRO	I
+EPS	came
+REL	to
+GEO	Tokyo
+REL	at
+DEF	the
+CON	age
+AND	of
+QUC	eighteen
+NIL	.

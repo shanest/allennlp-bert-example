@@ -1,0 +1,9 @@
+PRO	I
+NOT	never
+EXS	see
+PRO	you
+NOT	without
+EXS	thinking
+AND	of
+PER	Ken
+NIL	.

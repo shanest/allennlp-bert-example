@@ -1,0 +1,15 @@
+NIL	"
+CON	Where
+NOW	are
+HAS	my
+CON	keys
+QUE	?
+NIL	"
+NIL	"
+PRO	They
+NOW	are
+REL	in
+HAS	my
+CON	handbag
+NIL	.
+NIL	"

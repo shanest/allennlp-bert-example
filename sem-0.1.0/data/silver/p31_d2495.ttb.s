@@ -1,0 +1,11 @@
+PRO	I
+IST	never
+PST	thought
+PRO	I
+PST	'd
+EXS	be
+IST	happy
+SUB	to
+EXS	see
+PRO	you
+NIL	.

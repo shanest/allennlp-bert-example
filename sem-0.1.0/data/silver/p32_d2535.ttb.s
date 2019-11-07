@@ -1,0 +1,12 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	make
+IST	out
+QUE	what
+PRO	you
+NOW	are
+EXS	trying
+SUB	to
+EXS	say
+NIL	.

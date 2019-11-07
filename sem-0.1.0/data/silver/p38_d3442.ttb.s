@@ -1,0 +1,11 @@
+DIS	Someone
+EPS	named
+PER	Henry
+EPS	said
+PRO	he
+ENS	wants
+SUB	to
+EXS	meet
+REL	with
+PRO	you
+NIL	.

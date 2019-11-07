@@ -1,0 +1,10 @@
+PRO	It
+EPS	took
+PRO	us
+DIS	a
+CON	week
+SUB	to
+EXS	locate
+HAS	their
+CON	hideaway
+NIL	.

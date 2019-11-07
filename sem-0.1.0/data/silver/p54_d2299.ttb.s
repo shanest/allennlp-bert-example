@@ -1,0 +1,17 @@
+DEF	The
+XCL	only
+CON	reason
+PER	Tom
+EPS	went
+REL	to
+DEF	the
+CON	party
+EPS	was
+SUB	that
+PRO	he
+EPS	expected
+PER	Mary
+SUB	to
+EXS	be
+IST	there
+NIL	.

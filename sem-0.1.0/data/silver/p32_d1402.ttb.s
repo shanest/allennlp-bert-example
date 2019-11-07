@@ -1,0 +1,10 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	he
+PST	had
+CON	feelings
+REL	for
+PRO	her
+NIL	.

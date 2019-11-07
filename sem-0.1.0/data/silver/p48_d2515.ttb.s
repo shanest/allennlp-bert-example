@@ -1,0 +1,9 @@
+PRO	We
+NOW	're
+NOT	not
+IST	out
+AND	of
+DEF	the
+CON	woods
+ALT	yet
+NIL	.

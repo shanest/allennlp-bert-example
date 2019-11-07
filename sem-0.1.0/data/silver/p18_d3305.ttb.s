@@ -1,0 +1,15 @@
+IMP	If
+PRO	we
+PST	had
+NOT	n't
+EXS	lost
+HAS	our
+CON	way
+NIL	,
+PRO	we
+FUT	would
+EXT	have
+PFT	been
+PRX	here
+IST	sooner
+NIL	.

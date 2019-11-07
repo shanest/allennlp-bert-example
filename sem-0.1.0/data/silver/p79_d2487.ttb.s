@@ -1,0 +1,11 @@
+DIS	A
+COL	black
+CON	SUV
+EPS	pulled
+REL	up
+REL	in
+CON	front
+AND	of
+DEF	the
+CON	hotel
+NIL	.

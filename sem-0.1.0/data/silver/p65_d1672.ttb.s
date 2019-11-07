@@ -1,0 +1,12 @@
+PRO	It
+EPS	took
+PER	Tom
+DIS	an
+CON	hour
+SUB	to
+EXS	load
+AND	everything
+REL	on
+DEF	the
+CON	truck
+NIL	.

@@ -1,0 +1,15 @@
+PRO	I
+IST	never
+REL	for
+DIS	a
+CON	moment
+EPS	imagined
+SUB	that
+PRO	you
+FUT	would
+EXS	show
+HAS	my
+CON	letter
+REL	to
+PER	Tom
+NIL	.

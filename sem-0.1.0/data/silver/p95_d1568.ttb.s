@@ -1,0 +1,13 @@
+PRO	It
+NOW	is
+IST	important
+SUB	that
+PRO	you
+PST	attach
+HAS	your
+CON	photo
+REL	to
+DEF	the
+CON	application
+CON	form
+NIL	.

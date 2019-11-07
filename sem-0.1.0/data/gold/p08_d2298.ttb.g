@@ -1,0 +1,11 @@
+PER	Tom
+PST	was
+EXG	singing
+REL	with
+DEF	the
+CON	children
+EXG	sitting
+REL	around
+DEF	the
+CON	campfire
+NIL	.

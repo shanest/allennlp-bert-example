@@ -1,0 +1,15 @@
+NIL	"
+QUE	Who
+NOW	is
+PRX	this
+IST	young
+CON	man
+QUE	?
+NIL	"
+NIL	"
+DIS	A
+CON	friend
+AND	of
+HAS	mine
+NIL	.
+NIL	"

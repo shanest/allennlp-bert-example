@@ -1,0 +1,13 @@
+DEF	The
+IST	better
+PRO	he
+ENS	knows
+DEF	the
+CON	language
+NIL	,
+DEF	the
+LES	less
+PRO	he
+ENS	likes
+PRO	it
+NIL	.

@@ -1,0 +1,13 @@
+IMP	If
+PRO	she
+PST	were
+PRX	here
+NOW	now
+NIL	,
+PRO	I
+FUT	would
+EXS	tell
+PRO	her
+DEF	the
+CON	truth
+NIL	.

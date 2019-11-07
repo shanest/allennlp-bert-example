@@ -1,0 +1,13 @@
+PRO	We
+POS	ca
+NOT	n't
+EXS	leave
+ALT	yet
+NIL	.
+PRO	We
+ENS	need
+SUB	to
+EXS	wait
+REL	for
+PER	Tom
+NIL	.

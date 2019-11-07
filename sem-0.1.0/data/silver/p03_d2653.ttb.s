@@ -1,0 +1,11 @@
+PRO	I
+ENS	think
+PRO	you
+ENS	know
+EQU	exactly
+QUE	what
+PRO	I
+NOW	'm
+EXG	talking
+IST	about
+NIL	.

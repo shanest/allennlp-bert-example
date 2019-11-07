@@ -1,0 +1,9 @@
+NOW	Are
+NIL	there
+DIS	any
+GPO	English
+CON	magazines
+REL	in
+PRX	this
+CON	library
+QUE	?

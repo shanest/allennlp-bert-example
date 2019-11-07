@@ -1,0 +1,11 @@
+PRO	I
+NOW	have
+IST	already
+EXT	told
+PER	Tom
+SUB	that
+PER	Mary
+NOW	is
+NOT	n't
+PRX	here
+NIL	.

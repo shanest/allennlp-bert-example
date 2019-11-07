@@ -1,0 +1,9 @@
+PRO	We
+NEC	must
+EXS	do
+SUB	as
+PRO	they
+NOW	say
+EQU	,
+PER	Tom
+NIL	.

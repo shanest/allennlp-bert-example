@@ -1,0 +1,12 @@
+ITJ	Oh
+HAS	My
+CON	God
+NIL	!
+PRO	I
+EPS	left
+DEF	the
+CON	wallet
+REL	in
+HAS	my
+CON	room
+NIL	!

@@ -1,0 +1,12 @@
+PRO	You
+NOW	're
+EXS	supposed
+SUB	to
+EXS	take
+HAS	your
+CON	shoes
+REL	off
+REL	at
+DEF	the
+CON	door
+NIL	.

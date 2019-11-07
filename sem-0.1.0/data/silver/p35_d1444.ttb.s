@@ -1,0 +1,13 @@
+REL	After
+CON	years
+AND	of
+CON	frustrations
+EQU	,
+IST	finally
+AND	all
+HAS	my
+CON	effort
+PST	had
+PFT	been
+EPS	repaid
+NIL	.

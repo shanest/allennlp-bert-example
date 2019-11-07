@@ -1,0 +1,13 @@
+PRO	He
+AND	and
+HAS	his
+ROL	sisters
+EPS	ate
+CON	ice
+CON	cream
+AND	while
+DEF	the
+CON	radio
+PST	was
+REL	on
+NIL	.

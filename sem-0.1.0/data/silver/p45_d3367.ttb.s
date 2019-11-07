@@ -1,0 +1,11 @@
+DEF	The
+ORG	Party
+EPS	won
+DIS	a
+EXG	sweeping
+CON	victory
+REL	at
+DEF	the
+IST	general
+CON	election
+NIL	.

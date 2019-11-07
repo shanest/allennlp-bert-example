@@ -1,0 +1,10 @@
+PRO	We
+NOW	do
+NOT	n't
+EXS	know
+QUV	much
+AND	about
+HAS	her
+IST	personal
+CON	life
+NIL	.

@@ -1,0 +1,13 @@
+QUE	What
+POS	could
+PRO	they
+POS	possibly
+EXS	tell
+PRO	us
+SUB	that
+PRO	we
+NOW	do
+NOT	n't
+IST	already
+EXS	know
+NIL	.

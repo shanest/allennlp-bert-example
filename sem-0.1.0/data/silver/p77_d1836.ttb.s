@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+QUE	what
+PRO	you
+NOW	're
+EXS	planning
+SUB	to
+EXS	do
+NIL	.

@@ -1,0 +1,13 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	keep
+PER	Tom
+SUB	from
+EXG	wishing
+PRO	he
+POS	could
+EXS	go
+REL	to
+CON	college
+NIL	.

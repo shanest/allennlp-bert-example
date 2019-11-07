@@ -1,0 +1,11 @@
+PRO	I
+ENS	dislike
+PER	Chris
+SUB	because
+PRO	he
+NOW	is
+INT	very
+EXS	rude
+COO	and
+EXS	insensitive
+NIL	.

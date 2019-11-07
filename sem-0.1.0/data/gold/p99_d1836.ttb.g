@@ -1,0 +1,12 @@
+PRO	You
+POS	can
+EXS	trust
+PER	John
+NIL	.
+PRO	He
+FUT	will
+NOT	never
+EXS	let
+PRO	you
+REL	down
+NIL	.

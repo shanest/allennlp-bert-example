@@ -1,0 +1,10 @@
+PRO	She
+EPS	showed
+HAS	her
+CON	courage
+REL	in
+DEF	the
+CON	face
+AND	of
+CON	danger
+NIL	.

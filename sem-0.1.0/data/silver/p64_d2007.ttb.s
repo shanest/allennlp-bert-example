@@ -1,0 +1,9 @@
+DEF	The
+CON	shop
+NOW	is
+EXS	open
+REL	from
+DOM	Monday
+REL	to
+DOW	Saturday
+NIL	.

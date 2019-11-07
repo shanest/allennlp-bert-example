@@ -1,0 +1,14 @@
+AND	According
+REL	to
+NOW	today
+REL	's
+CON	paper
+NIL	,
+NIL	there
+PST	was
+DIS	a
+CON	fire
+REL	in
+DEF	the
+CON	city
+NIL	.

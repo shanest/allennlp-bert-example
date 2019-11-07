@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	already
+EXS	accustomed
+REL	to
+DEF	the
+CON	heat
+AND	of
+CON	summer
+NIL	.

@@ -1,0 +1,16 @@
+PRO	She
+ENS	needs
+DIS	a
+CON	bone
+CON	marrow
+CON	transplant
+NIL	,
+BUT	but
+PRO	she
+NOW	has
+NOT	not
+EXS	found
+DIS	a
+IST	donor
+IST	yet
+NIL	.

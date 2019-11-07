@@ -1,0 +1,14 @@
+PER	Tom
+PST	was
+DEF	the
+XCL	only
+QUC	one
+AND	who
+PST	did
+NOT	n't
+EXS	laugh
+REL	at
+PER	Mary
+HAS	's
+CON	joke
+NIL	.

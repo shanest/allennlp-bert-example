@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+DIS	a
+IST	serious
+CON	office
+CON	lady
+AND	and
+DIS	a
+IST	good
+CON	wife
+AND	and
+ROL	mother
+REL	at
+CON	home
+NIL	.

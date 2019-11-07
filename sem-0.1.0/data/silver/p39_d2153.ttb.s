@@ -1,0 +1,10 @@
+PRO	I
+ENS	wish
+PRO	I
+PST	had
+EXS	followed
+DEF	the
+CON	doctor
+HAS	's
+CON	advice
+NIL	.

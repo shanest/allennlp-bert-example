@@ -1,0 +1,10 @@
+NIL	There
+NOW	is
+NOT	no
+CON	one
+AND	who
+NOW	does
+NOT	n't
+EXS	desire
+CON	peace
+NIL	.

@@ -1,0 +1,12 @@
+NOW	Do
+NOT	not
+EXS	judge
+DEF	the
+CON	ungodly
+NIL	.
+AND	Leave
+SUB	that
+REL	to
+CON	God
+EMP	himself
+NIL	.

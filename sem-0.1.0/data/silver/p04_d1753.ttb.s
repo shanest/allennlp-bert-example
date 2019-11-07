@@ -1,0 +1,15 @@
+PRO	I
+NOW	think
+PRO	you
+NOW	're
+DEF	the
+CON	woman
+PRO	I
+NOW	've
+PFT	been
+EXG	waiting
+REL	for
+AND	all
+HAS	my
+CON	life
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	like
+PRO	her
+NIL	,
+SUB	because
+PRO	she
+IST	always
+ENS	puts
+REL	on
+CON	airs
+NIL	.

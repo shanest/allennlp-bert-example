@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+IST	sure
+SUB	to
+EXS	become
+DEF	the
+ROL	President
+IST	sooner
+DIS	or
+IST	later
+NIL	.

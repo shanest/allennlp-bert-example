@@ -1,0 +1,14 @@
+PRO	I
+EPS	told
+PRO	you
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+IMP	if
+PER	Tom
+FUT	will
+EXS	tell
+DEF	the
+CON	truth
+NIL	.

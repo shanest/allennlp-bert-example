@@ -1,0 +1,10 @@
+DEF	The
+ROL	lawyer
+EPS	gave
+DIS	an
+IST	important
+CON	paper
+REL	at
+DEF	the
+CON	conference
+NIL	.

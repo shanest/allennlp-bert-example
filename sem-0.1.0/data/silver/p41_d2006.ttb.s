@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+NOT	not
+EXS	going
+SUB	to
+EXS	buy
+DST	that
+CON	CD
+NIL	.
+PRO	It
+HAS	's
+EPS	scratched
+NIL	.

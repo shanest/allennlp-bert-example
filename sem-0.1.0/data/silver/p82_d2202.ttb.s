@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+NOT	not
+UNK	necessary
+SUB	to
+EXS	write
+MOR	more
+MOR	than
+QUC	400
+CON	words
+NIL	.

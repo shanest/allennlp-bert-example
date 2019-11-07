@@ -1,0 +1,12 @@
+NOW	Have
+CON	students
+EXS	read
+AND	such
+CON	books
+AND	as
+FUT	will
+EXS	make
+PRO	them
+NOW	think
+IST	more
+NIL	.

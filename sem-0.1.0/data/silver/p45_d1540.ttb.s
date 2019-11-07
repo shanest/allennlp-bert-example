@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	know
+IMP	if
+PER	Tom
+NOW	has
+IST	already
+EXS	eaten
+QUE	?

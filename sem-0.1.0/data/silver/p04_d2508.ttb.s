@@ -1,0 +1,14 @@
+DEF	The
+GEO	Vienna
+ORG	Philharmonic
+NOW	is
+QUC	one
+AND	of
+DEF	the
+TOP	most
+IST	famous
+CON	orchestras
+REL	in
+DEF	the
+CON	world
+NIL	.

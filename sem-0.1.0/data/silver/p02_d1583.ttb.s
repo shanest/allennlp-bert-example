@@ -1,0 +1,10 @@
+DST	That
+CON	country
+NOW	is
+QUC	five
+CON	times
+AND	as
+IST	large
+AND	as
+GPE	Japan
+NIL	.

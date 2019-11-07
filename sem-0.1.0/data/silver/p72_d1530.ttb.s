@@ -1,0 +1,11 @@
+DEF	The
+CON	crowd
+EPS	whistled
+COO	and
+EPS	applauded
+REL	at
+ROL	President
+PER	Obama
+HAS	's
+CON	speech
+NIL	.

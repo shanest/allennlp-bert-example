@@ -1,0 +1,9 @@
+EXS	Let
+PRO	me
+EXS	see
+NIL	.
+NIL	There
+PST	were
+QUC	fifteen
+CON	people
+NIL	.

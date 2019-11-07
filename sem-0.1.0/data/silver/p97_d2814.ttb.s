@@ -1,0 +1,13 @@
+UNK	There
+NOW	is
+NOT	no
+CON	shame
+REL	in
+EXG	saying
+HAS	'
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+HAS	'
+NIL	.

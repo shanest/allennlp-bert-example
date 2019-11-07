@@ -1,0 +1,13 @@
+PRO	You
+NOW	do
+NOT	n't
+EXS	fall
+REL	in
+CON	love
+REL	with
+DIS	somebody
+SUB	because
+PRO	he
+HAS	's
+IST	perfect
+NIL	.

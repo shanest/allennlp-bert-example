@@ -1,0 +1,14 @@
+GRE	Hi
+NIL	!
+QUE	What
+NOW	is
+DEF	the
+CON	purpose
+AND	of
+HAS	your
+CON	visit
+REL	in
+GEO	America
+EQU	,
+CON	sir
+QUE	?

@@ -1,0 +1,9 @@
+PRO	I
+EPS	hung
+IST	up
+COO	and
+EPS	called
+HAS	her
+IST	back
+ALT	again
+NIL	.

@@ -1,0 +1,15 @@
+ORG	Studies
+NOW	have
+EXS	revealed
+AND	that
+DEF	the
+IST	average
+CON	keyboard
+NOW	has
+IST	more
+CON	germs
+AND	than
+DIS	a
+CON	toilet
+CON	seat
+NIL	.

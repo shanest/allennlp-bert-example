@@ -1,0 +1,13 @@
+PRO	He
+EPS	bought
+REF	himself
+DIS	a
+CON	rope
+COO	and
+EPS	threw
+REF	himself
+AND	behind
+DEF	the
+EXG	moving
+CON	train
+NIL	.

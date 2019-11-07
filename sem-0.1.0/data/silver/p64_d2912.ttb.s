@@ -1,0 +1,11 @@
+PRO	She
+EPS	wondered
+SUB	where
+PER	Sam
+PST	was
+AND	and
+QUE	what
+PRO	he
+PST	was
+EXS	doing
+NIL	.

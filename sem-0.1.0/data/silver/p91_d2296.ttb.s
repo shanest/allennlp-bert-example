@@ -1,0 +1,11 @@
+SUB	After
+PRO	they
+EPS	drank
+DEF	the
+CON	wine
+PRO	they
+EPS	got
+IST	up
+COO	and
+EPS	left
+NIL	.

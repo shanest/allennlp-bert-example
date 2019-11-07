@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+IST	sure
+PER	Tom
+ENS	knows
+QUE	what
+PRO	he
+NOW	's
+EXS	doing
+QUE	?

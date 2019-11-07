@@ -1,0 +1,10 @@
+PER	Tom
+ENS	believes
+PRO	he
+ENS	has
+DIS	a
+INT	very
+IST	low
+CON	carbon
+CON	footprint
+NIL	.

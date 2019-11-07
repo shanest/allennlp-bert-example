@@ -1,0 +1,11 @@
+DEF	The
+CON	plane
+EPS	took
+IST	off
+COO	and
+PST	was
+IST	soon
+IST	out
+AND	of
+CON	sight
+NIL	.

@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	wrong
+AND	of
+PRO	you
+NOT	not
+SUB	to
+EXS	forgive
+PRO	him
+NIL	.

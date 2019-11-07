@@ -1,0 +1,11 @@
+PER	Tom
+EPS	walked
+IST	down
+DEF	the
+CON	hall
+AND	and
+REL	into
+PER	Mary
+HAS	's
+CON	office
+NIL	.

@@ -1,0 +1,11 @@
+QUV	Many
+CON	dog
+CON	owners
+AND	only
+EXS	feed
+HAS	their
+CON	dogs
+AND	once
+DIS	a
+CON	day
+NIL	.

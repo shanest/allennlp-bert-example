@@ -1,0 +1,10 @@
+PRO	She
+ENS	writes
+CON	essays
+REL	in
+CON	addition
+REL	to
+CON	novels
+AND	and
+CON	poetry
+NIL	.

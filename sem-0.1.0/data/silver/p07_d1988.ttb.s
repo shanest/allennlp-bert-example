@@ -1,0 +1,13 @@
+PRO	You
+NOW	're
+EXS	supposed
+SUB	to
+EXS	have
+PRX	this
+CON	poem
+EXT	memorized
+REL	before
+HAS	our
+IST	next
+CON	class
+NIL	.

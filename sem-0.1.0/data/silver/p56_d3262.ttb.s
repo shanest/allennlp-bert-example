@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+EXS	advised
+SUB	to
+EXS	keep
+REL	to
+DIS	a
+IST	strict
+CON	diet
+NIL	.

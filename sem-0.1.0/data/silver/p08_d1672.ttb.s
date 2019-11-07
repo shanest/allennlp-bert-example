@@ -1,0 +1,11 @@
+PER	Mary
+AND	always
+ENS	has
+SUB	to
+EXS	put
+HAS	her
+QUC	two
+CON	cents
+IST	worth
+REL	in
+NIL	.

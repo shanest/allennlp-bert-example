@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	thinking
+AND	of
+EXS	closing
+HAS	my
+CON	savings
+CON	account
+NIL	.

@@ -1,0 +1,9 @@
+REL	In
+YOC	1962
+NIL	,
+GPE	Algeria
+EPS	gained
+CON	independence
+REL	from
+GPE	France
+NIL	.

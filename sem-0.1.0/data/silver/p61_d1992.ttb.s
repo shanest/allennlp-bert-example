@@ -1,0 +1,9 @@
+PRO	I
+EPS	smiled
+REL	at
+HAS	her
+COO	and
+PRO	she
+EPS	smiled
+IST	back
+NIL	.

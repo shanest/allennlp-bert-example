@@ -1,0 +1,17 @@
+IMP	If
+PRO	he
+PST	did
+NOT	not
+EXS	watch
+INT	so
+QUV	much
+CON	television
+NIL	,
+PRO	he
+FUT	would
+EXS	have
+IST	more
+CON	time
+REL	for
+CON	study
+NIL	.

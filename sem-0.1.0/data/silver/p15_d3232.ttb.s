@@ -1,0 +1,9 @@
+PRO	I
+EPS	saw
+PER	Tom
+IST	last
+CON	night
+REL	in
+DEF	the
+CON	library
+NIL	.

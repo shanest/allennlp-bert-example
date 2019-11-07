@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+IST	just
+EXS	trying
+SUB	to
+EXS	buy
+DIS	some
+CON	time
+NIL	.

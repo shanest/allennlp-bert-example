@@ -1,0 +1,15 @@
+PRO	I
+NOW	am
+INT	very
+EXS	grateful
+REL	to
+PRO	you
+REL	for
+QUE	what
+PRO	you
+NOW	've
+EXS	done
+REL	for
+HAS	my
+CON	family
+NIL	.

@@ -1,0 +1,10 @@
+UNK	There
+HAS	's
+IST	just
+INT	too
+IST	few
+CON	hours
+REL	in
+DEF	the
+CON	day
+NIL	.

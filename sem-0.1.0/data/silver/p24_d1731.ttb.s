@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+IST	more
+EXS	worried
+AND	about
+PRO	you
+AND	than
+DEF	the
+CON	future
+AND	of
+GPE	Japan
+NIL	.

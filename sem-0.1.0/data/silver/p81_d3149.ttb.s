@@ -1,0 +1,11 @@
+PRO	You
+FUT	wo
+NOT	n't
+EXS	find
+DIS	a
+CON	dog
+MOR	bigger
+MOR	than
+PRX	this
+CON	one
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+CON	doctor
+EPS	thought
+DEF	the
+CON	patient
+HAS	's
+CON	pulse
+PST	was
+INT	rather
+IST	rapid
+NIL	.

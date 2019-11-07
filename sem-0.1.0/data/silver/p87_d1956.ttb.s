@@ -1,0 +1,9 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	ask
+PER	Mary
+SUB	to
+EXS	do
+DIS	anything
+NIL	.

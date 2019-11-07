@@ -1,0 +1,15 @@
+PER	Tom
+EPS	took
+REL	off
+HAS	his
+CON	coat
+COO	and
+EPS	hung
+PRO	it
+REL	on
+DEF	the
+CON	hook
+AND	behind
+DEF	the
+CON	door
+NIL	.

@@ -1,0 +1,12 @@
+CON	Fear
+AND	of
+CON	failure
+NOW	prevents
+QUV	many
+CON	people
+REL	from
+EXG	reaching
+HAS	their
+IST	full
+CON	potential
+NIL	.

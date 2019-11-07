@@ -1,0 +1,11 @@
+PER	Helen
+PST	telephoned
+PRO	me
+SUB	that
+PRO	she
+PST	had
+EXT	arrived
+REL	in
+GPE	London
+IST	safely
+NIL	.

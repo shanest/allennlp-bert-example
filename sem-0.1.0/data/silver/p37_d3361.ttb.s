@@ -1,0 +1,9 @@
+GEO	Georgia
+NOW	is
+EXT	called
+NIL	"
+ART	Sakartvelo
+NIL	"
+REL	in
+CON	Georgian
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+EXG	selling
+PRO	it
+AND	just
+SUB	as
+PRO	it
+NOW	is
+NIL	.

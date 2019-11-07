@@ -1,0 +1,13 @@
+REL	In
+UNK	which
+GPE	U.S.
+CON	states
+NOW	have
+IST	there
+PFT	been
+CON	fatalities
+EXT	caused
+REL	by
+CON	snow
+CON	avalanches
+QUE	?

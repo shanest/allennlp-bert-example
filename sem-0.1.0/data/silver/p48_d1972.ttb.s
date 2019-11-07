@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	agree
+REL	with
+ROL	Dr.
+PER	Burns
+DIS	or
+ROL	Ms.
+PER	Roland
+QUE	?

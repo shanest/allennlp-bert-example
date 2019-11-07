@@ -1,0 +1,14 @@
+CON	Time
+NOW	is
+AND	like
+DIS	a
+CON	river
+COO	;
+PRO	it
+NOW	does
+NOT	not
+EXS	return
+REL	to
+HAS	its
+CON	source
+NIL	.

@@ -1,0 +1,12 @@
+IMP	If
+PRO	he
+PST	had
+NOT	n't
+PFT	been
+EXS	injured
+NIL	,
+PRO	he
+POS	might
+EXT	have
+EXS	won
+NIL	.

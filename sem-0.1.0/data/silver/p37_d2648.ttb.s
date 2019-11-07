@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+DEF	the
+CON	sentence
+NEC	must
+EXS	start
+REL	with
+DIS	a
+CON	noun
+NIL	.

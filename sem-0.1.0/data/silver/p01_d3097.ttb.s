@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+DIS	a
+CON	man
+IST	hard
+NIL	to
+EXS	get
+REL	on
+REL	with
+NIL	.

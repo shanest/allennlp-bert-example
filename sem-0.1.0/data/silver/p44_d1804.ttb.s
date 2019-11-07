@@ -1,0 +1,13 @@
+PRO	He
+HAS	's
+DIS	a
+CON	teacher
+AND	of
+CON	physics
+NIL	,
+BUT	but
+POS	can
+ALT	also
+EXS	teach
+CON	math
+NIL	.

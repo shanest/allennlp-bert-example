@@ -1,0 +1,10 @@
+PRO	She
+EPS	married
+PRO	him
+XCL	only
+SUB	because
+HAS	her
+CON	parents
+EPS	made
+PRO	her
+NIL	.

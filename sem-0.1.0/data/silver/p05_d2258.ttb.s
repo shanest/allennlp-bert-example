@@ -1,0 +1,15 @@
+PER	Tom
+EPS	reached
+REL	for
+DIS	a
+CON	dictionary
+AND	that
+PST	was
+REL	on
+DEF	the
+INT	very
+CON	top
+AND	of
+DEF	the
+CON	shelf
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	ate
+QUC	three
+CON	eggs
+AND	and
+DIS	a
+CON	slice
+AND	of
+CON	toast
+NIL	.

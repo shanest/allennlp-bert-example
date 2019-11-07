@@ -1,0 +1,17 @@
+REL	Drink
+CON	wine
+AND	and
+NOW	have
+DEF	the
+CON	gout
+NIL	,
+COO	and
+NOW	drink
+NOT	no
+CON	wine
+AND	and
+NOW	have
+DEF	the
+CON	gout
+ALT	too
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+AND	both
+PER	stared
+REL	at
+PER	John
+NOT	without
+EXG	saying
+AND	anything
+NIL	.

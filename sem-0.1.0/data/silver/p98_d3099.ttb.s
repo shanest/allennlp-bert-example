@@ -1,0 +1,16 @@
+AND	Weather
+EXS	permitting
+NIL	,
+PRO	we
+NOW	are
+EXS	going
+SUB	to
+EXS	get
+REL	to
+DEF	the
+CON	top
+AND	of
+DEF	the
+CON	mountain
+FUT	tomorrow
+NIL	.

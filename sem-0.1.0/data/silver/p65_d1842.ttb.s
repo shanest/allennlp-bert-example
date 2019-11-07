@@ -1,0 +1,14 @@
+HAS	Your
+CON	task
+FUT	will
+EXS	be
+SUB	to
+EXS	train
+DEF	the
+ROL	employees
+REL	on
+DEF	the
+IST	new
+CON	computer
+CON	system
+NIL	.

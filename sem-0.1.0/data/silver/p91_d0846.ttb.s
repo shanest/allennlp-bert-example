@@ -1,0 +1,17 @@
+PRO	She
+POS	can
+NOT	not
+EXS	be
+EXS	staying
+REL	at
+PRX	this
+CON	hotel
+NIL	,
+SUB	because
+PRO	she
+NOW	has
+EXS	gone
+IST	back
+REL	to
+GPE	Canada
+NIL	.

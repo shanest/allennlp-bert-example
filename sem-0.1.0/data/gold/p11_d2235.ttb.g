@@ -1,0 +1,9 @@
+PRO	She
+EPS	ran
+IST	away
+REL	with
+CON	tears
+REL	in
+HAS	her
+CON	eyes
+NIL	.

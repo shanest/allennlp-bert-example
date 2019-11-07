@@ -1,0 +1,11 @@
+PRO	It
+ENS	seems
+REL	to
+PRO	me
+SUB	that
+ROL	Mr
+PER	Jones
+NOW	is
+IST	good
+CON	golfer
+NIL	.

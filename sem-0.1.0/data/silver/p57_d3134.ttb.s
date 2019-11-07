@@ -1,0 +1,11 @@
+PER	Tom
+IST	usually
+NOW	does
+NOT	n't
+NEC	have
+SUB	to
+EXS	work
+REL	on
+DOM	Monday
+CON	afternoons
+NIL	.

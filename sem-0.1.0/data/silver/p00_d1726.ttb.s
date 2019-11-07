@@ -1,0 +1,10 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	understand
+PRX	this
+CON	sentence
+NIL	,
+POS	can
+PRO	you
+QUE	?

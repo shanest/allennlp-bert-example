@@ -1,0 +1,15 @@
+EXS	Keep
+HAS	your
+CON	eyes
+EPS	peeled
+COO	;
+PRO	we
+NOW	're
+REL	on
+DEF	the
+CON	lookout
+REL	for
+DIS	a
+IST	new
+CON	table
+NIL	.

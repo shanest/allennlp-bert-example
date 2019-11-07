@@ -1,0 +1,13 @@
+PRO	I
+NOW	feel
+REL	for
+HAS	my
+ROL	father
+NIL	,
+AND	who
+ENS	has
+SUB	to
+EXS	work
+REL	on
+DOW	Sundays
+NIL	.

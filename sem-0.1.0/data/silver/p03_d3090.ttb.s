@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	necessary
+SUB	that
+PRO	we
+NOW	make
+DIS	a
+CON	reservation
+REL	in
+CON	advance
+NIL	.

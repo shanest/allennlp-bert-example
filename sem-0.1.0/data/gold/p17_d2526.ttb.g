@@ -1,0 +1,10 @@
+PRO	I
+EPS	met
+PER	Yoko
+REL	on
+HAS	my
+CON	way
+REL	to
+DEF	the
+CON	theater
+NIL	.

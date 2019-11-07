@@ -1,0 +1,12 @@
+PRO	He
+EPS	went
+REL	to
+GEO	Paris
+NIL	,
+UNK	which
+NOW	is
+DEF	the
+CON	capital
+AND	of
+GPE	France
+NIL	.

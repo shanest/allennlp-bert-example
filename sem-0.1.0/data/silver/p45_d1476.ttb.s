@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+IST	dangerous
+REL	for
+DIS	a
+CON	beginner
+SUB	to
+EXS	swim
+PRX	here
+NIL	.

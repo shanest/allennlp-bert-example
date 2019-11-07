@@ -1,0 +1,11 @@
+PER	Tom
+PST	had
+NOT	never
+EPS	kissed
+DIS	a
+CON	girl
+SUB	before
+PRO	he
+EPS	kissed
+PER	Mary
+NIL	.

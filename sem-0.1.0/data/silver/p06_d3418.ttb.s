@@ -1,0 +1,11 @@
+IMP	If
+PRO	you
+ENS	want
+SUB	to
+EXS	dance
+NIL	,
+EXS	let
+HAS	's
+CON	dance
+IST	together
+NIL	.

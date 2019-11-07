@@ -1,0 +1,9 @@
+PRO	You
+ENS	need
+DIS	a
+CON	raise
+NIL	,
+NOW	do
+NOT	n't
+PRO	you
+QUE	?

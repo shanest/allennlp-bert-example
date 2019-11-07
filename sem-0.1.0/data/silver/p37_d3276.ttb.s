@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+IST	certain
+SUB	that
+DEF	the
+CON	price
+AND	of
+CON	gold
+FUT	will
+EXS	go
+IST	up
+NIL	.

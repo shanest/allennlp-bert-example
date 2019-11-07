@@ -1,0 +1,11 @@
+NOW	Has
+DIS	a
+PER	Tom
+IST	ever
+EPS	asked
+PRO	you
+SUB	to
+EXS	lie
+REL	for
+PRO	him
+QUE	?

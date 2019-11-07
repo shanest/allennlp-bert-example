@@ -1,0 +1,9 @@
+PRO	She
+NOW	is
+EXS	looked
+IST	up
+REL	to
+REL	by
+HAS	her
+CON	friends
+NIL	.

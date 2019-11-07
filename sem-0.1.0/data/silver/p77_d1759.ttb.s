@@ -1,0 +1,10 @@
+PER	Tom
+EPS	took
+DIS	a
+CON	breath
+AND	and
+IST	then
+EPS	started
+CON	swimming
+IST	underwater
+NIL	.

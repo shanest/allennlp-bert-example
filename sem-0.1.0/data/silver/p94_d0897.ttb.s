@@ -1,0 +1,14 @@
+PRO	He
+HAS	's
+NOT	not
+AND	such
+DIS	a
+IST	great
+ROL	writer
+COO	and
+PRO	I
+NOW	think
+PRO	he
+ENS	knows
+PRO	it
+NIL	.

@@ -1,0 +1,11 @@
+EXS	Let
+PRO	's
+EXS	play
+DIS	a
+CON	game
+AND	of
+IST	blind
+CON	man
+HAS	's
+CON	buff
+NIL	.

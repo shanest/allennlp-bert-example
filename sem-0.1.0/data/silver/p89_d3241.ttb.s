@@ -1,0 +1,11 @@
+PRO	I
+EPS	caught
+DIS	a
+CON	cab
+REL	from
+DEF	the
+CON	station
+REL	to
+DEF	the
+CON	hotel
+NIL	.

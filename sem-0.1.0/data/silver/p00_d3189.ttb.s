@@ -1,0 +1,10 @@
+HAS	Our
+CON	plan
+FUT	will
+EXS	call
+REL	for
+DIS	a
+CON	lot
+NIL	of
+CON	money
+NIL	.

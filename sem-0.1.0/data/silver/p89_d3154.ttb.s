@@ -1,0 +1,16 @@
+PRO	We
+FUT	will
+XCL	only
+NOW	consider
+EXG	placing
+DIS	an
+CON	order
+IMP	if
+PRO	you
+EXS	reduce
+DEF	the
+CON	price
+REL	by
+QUC	5
+UOM	%
+NIL	.

@@ -1,0 +1,10 @@
+TOP	At
+EXS	least
+EXS	pretend
+PRO	you
+NOW	're
+EXS	happy
+SUB	to
+EXS	be
+PRX	here
+NIL	.

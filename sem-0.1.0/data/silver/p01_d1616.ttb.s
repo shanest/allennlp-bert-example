@@ -1,0 +1,10 @@
+PER	Tom
+EPS	picked
+IST	up
+DIS	a
+CON	piece
+AND	of
+DEF	the
+IST	broken
+CON	mirror
+NIL	.

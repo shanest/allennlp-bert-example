@@ -1,0 +1,13 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXS	sitting
+REL	across
+DEF	the
+CON	table
+REL	from
+PER	John
+AND	and
+PER	Alice
+NIL	.

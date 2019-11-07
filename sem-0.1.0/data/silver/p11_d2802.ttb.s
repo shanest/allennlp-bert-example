@@ -1,0 +1,11 @@
+DEF	The
+CON	dog
+AND	barked
+AND	all
+CON	night
+IST	long
+NIL	,
+BUT	but
+NOT	nobody
+EPS	cared
+NIL	.

@@ -1,0 +1,10 @@
+SUB	To
+EXS	defend
+HAS	their
+CON	land
+NOW	has
+NOW	now
+EXS	become
+DIS	a
+CON	sin
+QUE	?

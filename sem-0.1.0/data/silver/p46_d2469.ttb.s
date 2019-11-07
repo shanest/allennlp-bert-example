@@ -1,0 +1,13 @@
+PER	Tom
+HAS	's
+CON	mother
+EPS	died
+IST	young
+SUB	because
+PRO	she
+EPS	drank
+COO	and
+EPS	smoked
+INT	too
+QUC	much
+NIL	.

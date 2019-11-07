@@ -1,0 +1,11 @@
+PER	Mary
+EPS	pretended
+PRO	she
+PST	was
+EXS	sick
+SUB	to
+EXS	avoid
+EXS	going
+REL	to
+CON	school
+NIL	.

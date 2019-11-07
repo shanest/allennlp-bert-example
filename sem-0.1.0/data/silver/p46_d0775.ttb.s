@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+IST	ever
+PST	thought
+AND	of
+EXS	becoming
+DIS	a
+CON	nurse
+QUE	?

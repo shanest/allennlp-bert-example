@@ -1,0 +1,12 @@
+PER	Bush
+NOW	does
+NOT	n't
+EXS	want
+SUB	to
+EXS	use
+CON	mercenaries
+REL	in
+GPE	Iraq
+AND	and
+GEO	Afghanistan
+NIL	.

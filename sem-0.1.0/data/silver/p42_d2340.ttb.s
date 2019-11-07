@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	feeling
+DIS	a
+CON	little
+REL	under
+DEF	the
+CON	weather
+NOW	today
+NIL	.

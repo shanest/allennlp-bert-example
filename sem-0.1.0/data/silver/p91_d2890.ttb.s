@@ -1,0 +1,16 @@
+SUB	Since
+PRO	he
+NOW	's
+EXS	crazy
+AND	about
+CON	movies
+NIL	,
+PRO	he
+ENS	watches
+SUB	as
+QUV	many
+CON	movies
+SUB	as
+PRO	he
+POS	can
+NIL	.

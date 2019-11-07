@@ -1,0 +1,15 @@
+PRO	It
+FUT	wo
+NOT	n't
+EXS	be
+IST	easy
+EXG	finding
+DIS	someone
+AND	who
+NOW	is
+EXS	qualified
+NIL	to
+EXS	take
+HAS	his
+CON	place
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+EPS	gave
+DEF	the
+CON	dog
+DIS	a
+CON	bone
+NIL	.
+DST	That
+EPS	stopped
+HAS	its
+CON	barking
+NIL	.

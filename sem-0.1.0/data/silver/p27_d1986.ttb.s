@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+NOT	n't
+EXS	heard
+REL	from
+PRO	him
+REL	for
+QUV	several
+CON	months
+NIL	.

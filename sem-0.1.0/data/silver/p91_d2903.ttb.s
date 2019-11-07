@@ -1,0 +1,16 @@
+QUE	How
+NOW	do
+PRO	you
+EXS	draw
+IST	so
+IST	well
+QUE	?
+PRO	I
+NOW	've
+NOT	never
+PFT	been
+IST	able
+SUB	to
+EXS	do
+DST	that
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+EPS	broke
+HAS	his
+CON	leg
+REL	in
+DIS	a
+CON	cycling
+CON	accident
+NIL	.

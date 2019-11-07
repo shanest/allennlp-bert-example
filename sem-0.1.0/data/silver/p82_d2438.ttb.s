@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+PFT	been
+REL	in
+GPE	Boston
+REL	for
+QUC	three
+CON	years
+NIL	.

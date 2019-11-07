@@ -1,0 +1,9 @@
+PER	Tom
+PST	had
+DIS	a
+CON	lot
+AND	of
+CON	respect
+REL	for
+PER	Mary
+NIL	.

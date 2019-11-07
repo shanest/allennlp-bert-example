@@ -1,0 +1,12 @@
+DST	That
+ROL	politician
+FUT	wo
+NOT	n't
+EXS	meet
+PRO	you
+SUB	unless
+PRO	you
+EXS	grease
+HAS	his
+CON	palm
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+EPS	blew
+HAS	my
+IST	whole
+CON	bonus
+REL	on
+CON	shopping
+AND	and
+CON	travel
+NIL	.

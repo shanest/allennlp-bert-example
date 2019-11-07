@@ -1,0 +1,12 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	seem
+EXS	surprised
+SUB	to
+EXS	see
+PER	Mary
+REL	at
+DEF	the
+CON	concert
+NIL	.

@@ -1,0 +1,17 @@
+PRO	It
+HAS	's
+EXS	written
+REL	in
+EXS	easy
+ART	English
+NIL	,
+COO	so
+AND	even
+PRO	you
+FUT	will
+EXS	be
+IST	able
+EXS	read
+SUB	that
+CON	book
+NIL	.

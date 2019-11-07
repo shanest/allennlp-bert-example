@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	dated
+AND	anyone
+COM	taller
+AND	than
+PRO	me
+NIL	.

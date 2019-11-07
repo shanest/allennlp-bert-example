@@ -1,0 +1,17 @@
+IMP	If
+PRO	I
+PST	had
+EXS	gone
+REL	to
+DST	that
+CON	restaurant
+AND	last
+CON	night
+NIL	,
+PRO	I
+FUT	would
+EXT	have
+EXS	eaten
+DIS	a
+CON	steak
+NIL	.

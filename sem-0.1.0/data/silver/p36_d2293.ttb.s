@@ -1,0 +1,12 @@
+DEF	The
+CON	circumference
+NEC	should
+NOT	not
+EXS	be
+REL	in
+QUC	squared
+UOM	centimeters
+NIL	,
+REL	for
+CON	example
+NIL	.

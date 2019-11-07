@@ -1,0 +1,12 @@
+PRO	I
+NOW	think
+PER	Tom
+POS	might
+EXT	have
+EXS	said
+DIS	something
+PRO	he
+NEC	should
+NOT	n't
+EXT	have
+NIL	.

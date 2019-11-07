@@ -1,0 +1,11 @@
+REL	For
+QUC	32
+CON	years
+NIL	,
+PRO	I
+NOW	've
+PFT	been
+EXS	living
+REL	in
+CON	suffering
+NIL	!

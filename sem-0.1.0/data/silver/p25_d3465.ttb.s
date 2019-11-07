@@ -1,0 +1,9 @@
+NOW	Does
+PRO	it
+NOW	take
+INT	too
+IST	long
+SUB	to
+EXS	blow
+IST	dry
+QUE	?

@@ -1,0 +1,10 @@
+PRO	It
+EPS	came
+REL	to
+DIS	a
+IST	grand
+CON	total
+AND	of
+QUC	150,000
+UOM	euros
+NIL	.

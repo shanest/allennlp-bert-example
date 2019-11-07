@@ -1,0 +1,10 @@
+FUT	Will
+PRO	you
+EXS	stop
+EXS	answering
+HAS	my
+CON	questions
+REL	with
+DIS	a
+CON	question
+QUE	?

@@ -1,0 +1,9 @@
+NOW	Are
+PRO	you
+IST	sure
+PRO	we
+NOW	've
+NOT	never
+EXS	met
+REL	before
+QUE	?

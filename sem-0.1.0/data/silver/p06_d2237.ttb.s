@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Mary
+CON	exchange
+MOR	more
+MOR	than
+QUC	200
+CON	text
+CON	messages
+AND	every
+CON	day
+NIL	.

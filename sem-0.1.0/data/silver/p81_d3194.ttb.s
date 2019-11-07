@@ -1,0 +1,12 @@
+HAS	My
+IST	little
+ROL	sister
+EPS	took
+HAS	my
+CON	hand
+SUB	when
+PRO	we
+EPS	crossed
+DEF	the
+CON	street
+NIL	.

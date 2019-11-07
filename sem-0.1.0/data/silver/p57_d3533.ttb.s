@@ -1,0 +1,9 @@
+PRO	You
+NOW	've
+EXS	run
+REL	into
+DIS	some
+CON	trouble
+DIS	or
+DIS	something
+QUE	?

@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+EXS	had
+IST	quite
+IST	enough
+AND	of
+HAS	his
+CON	jokes
+NIL	.

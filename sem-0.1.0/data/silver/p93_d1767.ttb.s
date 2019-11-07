@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+IST	even
+EXS	talk
+REL	to
+PER	Mary
+CON	anymore
+NIL	.

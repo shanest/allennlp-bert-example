@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+INT	too
+EXS	tired
+SUB	to
+EXS	walk
+AND	any
+IST	longer
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	wanted
+SUB	to
+EXS	spend
+DIS	some
+CON	time
+AND	alone
+REL	with
+PER	Mary
+NIL	.

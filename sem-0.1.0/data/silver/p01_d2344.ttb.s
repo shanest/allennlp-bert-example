@@ -1,0 +1,10 @@
+IST	Please
+EPS	put
+DIS	a
+CON	comma
+REL	between
+DEF	the
+QUC	two
+IST	main
+CON	clauses
+NIL	.

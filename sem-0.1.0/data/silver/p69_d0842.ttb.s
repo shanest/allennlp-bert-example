@@ -1,0 +1,12 @@
+PRO	He
+EPS	took
+CON	advantage
+AND	of
+DEF	the
+IST	fine
+CON	weather
+SUB	to
+EXS	paint
+DEF	the
+CON	wall
+NIL	.

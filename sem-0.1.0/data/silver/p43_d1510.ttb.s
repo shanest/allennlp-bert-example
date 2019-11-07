@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	sure
+PRO	you
+FUT	'll
+EXS	enjoy
+EXS	studying
+GPO	French
+REL	with
+PER	Tom
+NIL	.

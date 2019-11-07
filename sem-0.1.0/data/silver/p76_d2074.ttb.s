@@ -1,0 +1,9 @@
+NOW	Remind
+PRO	me
+SUB	that
+DEF	the
+CON	meeting
+NOW	is
+REL	on
+DOM	Monday
+NIL	.

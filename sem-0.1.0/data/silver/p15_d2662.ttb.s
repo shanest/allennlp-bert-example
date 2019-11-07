@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+NOW	think
+PRO	we
+POS	can
+EXS	find
+DIS	someone
+SUB	to
+EXS	replace
+PER	Tom
+QUE	?

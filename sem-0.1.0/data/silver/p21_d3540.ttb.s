@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+EXS	decided
+SUB	to
+EXS	stop
+EXS	writing
+REL	in
+GPO	English
+NIL	.

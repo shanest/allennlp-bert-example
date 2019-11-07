@@ -1,0 +1,15 @@
+QUC	One
+CON	thing
+PRO	you
+NEC	should
+EXS	know
+AND	about
+PRO	me
+NOW	is
+SUB	that
+PRO	I
+NOW	'm
+EXS	obsessed
+REL	with
+CON	punctuality
+NIL	.

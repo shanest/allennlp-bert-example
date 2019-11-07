@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	enjoy
+EXS	hanging
+REL	out
+REL	with
+PRO	him
+NIL	.

@@ -1,0 +1,11 @@
+AND	Anything
+DST	that
+NOW	is
+INT	too
+EXS	stupid
+SUB	to
+EXS	be
+EXS	spoken
+NOW	is
+EXS	sung
+NIL	.

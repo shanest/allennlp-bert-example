@@ -1,0 +1,12 @@
+PER	Tom
+EPS	picked
+IST	up
+DEF	the
+CON	glass
+AND	of
+CON	juice
+COO	and
+EPS	took
+DIS	a
+NOW	sip
+NIL	.

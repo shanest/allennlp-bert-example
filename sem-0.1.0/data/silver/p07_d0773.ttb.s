@@ -1,0 +1,10 @@
+DEF	The
+CON	information
+PRO	you
+EPS	gave
+PRO	me
+NOW	is
+AND	of
+IST	little
+CON	use
+NIL	.

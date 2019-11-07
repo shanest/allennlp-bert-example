@@ -1,0 +1,11 @@
+PER	Tom
+EPS	asked
+PRO	me
+SUB	to
+EXS	pick
+PER	Mary
+IST	up
+REL	at
+DEF	the
+CON	airport
+NIL	.

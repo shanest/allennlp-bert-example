@@ -1,0 +1,10 @@
+EXS	Let
+PRO	's
+NOW	have
+DIS	a
+IST	serious
+CON	talk
+AND	about
+HAS	your
+CON	future
+NIL	.

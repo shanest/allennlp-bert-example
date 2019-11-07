@@ -1,0 +1,10 @@
+NOW	Now
+PRO	we
+NEC	have
+SUB	to
+EXS	create
+QUC	one
+REL	in
+QUC	two
+CON	weeks
+NIL	.

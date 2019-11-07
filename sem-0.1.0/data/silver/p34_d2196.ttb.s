@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	going
+EXS	crazy
+NIL	!
+PRO	I
+NOW	miss
+HAS	her
+INT	so
+QUC	much
+NIL	!

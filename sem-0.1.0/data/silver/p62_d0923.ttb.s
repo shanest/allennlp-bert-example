@@ -1,0 +1,15 @@
+IMP	If
+PRO	you
+NOW	allow
+PRO	me
+SUB	to
+EXS	speak
+NIL	,
+PRO	I
+FUT	'll
+EXS	be
+IST	able
+SUB	to
+EXS	explain
+AND	everything
+NIL	.

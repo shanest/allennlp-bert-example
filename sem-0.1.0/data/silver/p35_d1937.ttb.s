@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	waiting
+REL	for
+APX	almost
+QUC	half
+DIS	an
+UOM	hour
+NIL	.

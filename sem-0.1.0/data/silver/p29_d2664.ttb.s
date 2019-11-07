@@ -1,0 +1,16 @@
+NOW	Today
+NIL	,
+CON	automobiles
+NOW	have
+EXS	taken
+DEF	the
+CON	place
+AND	of
+CON	horses
+AND	as
+DEF	the
+IST	principal
+CON	means
+AND	of
+CON	transportation
+NIL	.

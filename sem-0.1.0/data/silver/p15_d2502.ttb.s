@@ -1,0 +1,12 @@
+DEF	The
+ROL	atheist
+EPS	prayed
+REL	to
+DIS	a
+CON	God
+PRO	he
+PST	did
+NOT	n't
+EXS	believe
+REL	in
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	drink
+DIS	a
+CON	pint
+AND	of
+CON	Guinness
+AND	right
+NOW	now
+NIL	.

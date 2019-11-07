@@ -1,0 +1,11 @@
+PER	Tom
+ENS	wishes
+SUB	that
+PRO	he
+POS	could
+EXS	be
+DIS	a
+IST	better
+GPO	French
+CON	speaker
+NIL	.

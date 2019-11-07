@@ -1,0 +1,17 @@
+CON	Examples
+POS	can
+EXS	be
+EXS	taken
+REL	from
+DEF	the
+CON	course
+CON	materials
+DIS	or
+POS	can
+EXS	be
+CON	texts
+SUB	that
+PRO	you
+EPS	found
+IST	autonomously
+NIL	.

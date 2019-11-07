@@ -1,0 +1,12 @@
+IST	Heavy
+CON	fog
+AND	and
+CON	rain
+EPS	hindered
+DEF	the
+CON	search
+REL	for
+DEF	the
+IST	missing
+CON	bushwalkers
+NIL	.

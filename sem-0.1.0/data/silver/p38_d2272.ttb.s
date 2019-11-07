@@ -1,0 +1,12 @@
+PER	Love
+NOW	is
+NOT	not
+IST	just
+DIS	a
+CON	feeling
+NIL	,
+BUT	but
+ALT	also
+DIS	an
+CON	art
+NIL	.

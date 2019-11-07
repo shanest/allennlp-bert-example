@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+EXS	supposed
+SUB	to
+EXS	be
+CON	home
+REL	with
+HAS	your
+CON	parents
+NIL	.

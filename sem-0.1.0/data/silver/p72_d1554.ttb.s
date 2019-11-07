@@ -1,0 +1,13 @@
+REL	In
+GPE	Japan
+NIL	,
+UNK	there
+NOW	is
+NOT	n't
+AND	any
+CON	lake
+COM	greater
+AND	than
+GEO	Lake
+GEO	Biwa
+NIL	.

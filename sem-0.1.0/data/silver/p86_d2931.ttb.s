@@ -1,0 +1,10 @@
+PRO	She
+PST	was
+EXS	wearing
+DIS	a
+IST	thick
+CON	coat
+AND	against
+DEF	the
+CON	chill
+NIL	.

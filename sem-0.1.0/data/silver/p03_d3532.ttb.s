@@ -1,0 +1,15 @@
+PRO	I
+NOW	make
+PRO	it
+DIS	a
+CON	rule
+SUB	to
+EXS	brush
+HAS	my
+CON	teeth
+REL	before
+PRO	I
+ENS	go
+REL	to
+CON	bed
+NIL	.

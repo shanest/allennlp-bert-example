@@ -1,0 +1,15 @@
+PER	Tom
+EPS	said
+PER	Mary
+FUT	would
+EXS	help
+PRO	him
+NIL	,
+BUT	but
+PRO	I
+PST	did
+NOT	n't
+EXS	think
+PRO	she
+FUT	would
+NIL	.

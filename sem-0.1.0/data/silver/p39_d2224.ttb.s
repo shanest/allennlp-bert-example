@@ -1,0 +1,9 @@
+PER	Tom
+EPS	refused
+SUB	to
+EXS	believe
+SUB	that
+PER	Mary
+PST	was
+EXS	guilty
+NIL	.

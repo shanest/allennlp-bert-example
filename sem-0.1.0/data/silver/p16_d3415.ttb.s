@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+IST	hard
+SUB	to
+EXS	understand
+DEF	the
+GEO	Osaka
+CON	dialect
+NIL	.

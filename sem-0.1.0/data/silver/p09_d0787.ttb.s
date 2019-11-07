@@ -1,0 +1,14 @@
+PER	Tom
+EPS	ran
+COO	and
+EPS	ran
+NIL	,
+SUB	until
+TOP	at
+AND	last
+PRO	he
+EPS	saw
+DEF	the
+CON	telephone
+CON	booth
+NIL	.

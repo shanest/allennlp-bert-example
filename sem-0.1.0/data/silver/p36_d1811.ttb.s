@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	sure
+PRO	I
+FUT	'll
+EXS	be
+IST	able
+SUB	to
+EXS	find
+PRO	it
+NIL	.

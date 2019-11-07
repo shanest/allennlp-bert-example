@@ -1,0 +1,14 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	whether
+SUB	to
+EXS	accept
+DIS	or
+SUB	to
+EXS	refuse
+PER	Mary
+HAS	's
+CON	offer
+NIL	.

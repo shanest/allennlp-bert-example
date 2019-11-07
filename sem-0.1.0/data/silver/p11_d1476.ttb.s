@@ -1,0 +1,9 @@
+SUB	When
+PRO	you
+ENS	see
+PER	Mary
+NOW	give
+HAS	her
+PRX	this
+CON	note
+NIL	.

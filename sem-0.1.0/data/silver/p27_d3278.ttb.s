@@ -1,0 +1,9 @@
+PRO	It
+NOT	never
+ENS	hurts
+SUB	to
+EXS	tell
+DIS	a
+CON	story
+QUC	twice
+NIL	.

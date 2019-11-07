@@ -1,0 +1,11 @@
+DEF	The
+CON	scene
+AND	of
+DEF	the
+CON	murder
+PST	was
+INT	too
+EXS	terrible
+SUB	to
+EXS	describe
+NIL	.

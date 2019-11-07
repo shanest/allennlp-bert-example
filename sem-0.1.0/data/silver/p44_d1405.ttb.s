@@ -1,0 +1,14 @@
+AND	Of
+AND	all
+DEF	the
+CON	countries
+PRO	I
+NOW	've
+EXS	visited
+NIL	,
+PRO	I
+EPS	liked
+GPE	Australia
+DEF	the
+TOP	best
+NIL	.

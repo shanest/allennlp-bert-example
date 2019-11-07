@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	waiting
+PRX	here
+REL	for
+QUC	two
+UOM	hours
+NIL	.

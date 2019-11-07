@@ -1,0 +1,13 @@
+PER	Tom
+PST	was
+NOT	n't
+SUB	as
+EXS	busy
+SUB	as
+PER	Mary
+EPS	told
+PRO	me
+PRO	he
+FUT	would
+EXS	be
+NIL	.

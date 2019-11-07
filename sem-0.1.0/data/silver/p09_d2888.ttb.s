@@ -1,0 +1,12 @@
+PRO	I
+EPS	fell
+REL	in
+CON	love
+REL	with
+HAS	her
+DEF	the
+CON	moment
+PRO	I
+EPS	met
+PRO	her
+NIL	.

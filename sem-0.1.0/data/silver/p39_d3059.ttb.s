@@ -1,0 +1,11 @@
+PRO	You
+NEC	should
+EXS	concentrate
+REL	on
+DEF	the
+CON	road
+SUB	when
+PRO	you
+NOW	're
+EXS	driving
+NIL	.

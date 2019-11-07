@@ -1,0 +1,17 @@
+SUB	Since
+PRO	it
+NOW	's
+IST	cloudy
+REL	with
+DIS	a
+CON	chance
+AND	of
+CON	rain
+NOW	today
+NIL	,
+PRO	we
+NEC	should
+NOT	n't
+EXS	go
+EXS	surfing
+NIL	.

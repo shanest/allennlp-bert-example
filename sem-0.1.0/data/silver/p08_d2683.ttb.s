@@ -1,0 +1,13 @@
+REL	In
+IST	olden
+CON	times
+NIL	,
+CON	football
+PST	was
+EXS	popular
+REL	in
+DEF	both
+GPE	Greece
+AND	and
+GEO	Rome
+NIL	.

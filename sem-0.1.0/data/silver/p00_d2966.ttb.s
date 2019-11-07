@@ -1,0 +1,9 @@
+QUE	What
+NOW	do
+PRO	you
+EXS	call
+PRX	this
+CON	animal
+REL	in
+CON	French
+QUE	?

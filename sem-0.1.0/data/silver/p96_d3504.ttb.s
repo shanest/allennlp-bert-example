@@ -1,0 +1,12 @@
+DEF	The
+CON	friends
+EPS	spent
+DIS	a
+CON	lot
+AND	of
+CON	money
+REL	on
+HAS	their
+CON	shopping
+CON	trip
+NIL	.

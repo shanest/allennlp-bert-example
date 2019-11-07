@@ -1,0 +1,9 @@
+PER	Bob
+EPS	met
+HAS	her
+ROL	grandfather
+IST	early
+REL	in
+DEF	the
+CON	morning
+NIL	.

@@ -1,0 +1,14 @@
+DIS	Someone
+EPS	stole
+HAS	my
+CON	car
+NIL	.
+PRO	It
+NOW	's
+NOT	not
+UNK	there
+SUB	where
+PRO	I
+EPS	parked
+PRO	it
+NIL	.

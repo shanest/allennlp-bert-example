@@ -1,0 +1,11 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	talking
+REL	on
+DEF	the
+CON	phone
+REL	for
+DIS	an
+CON	hour
+NIL	.

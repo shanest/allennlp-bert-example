@@ -1,0 +1,12 @@
+PRO	He
+EPS	stopped
+CON	smoking
+AND	because
+HAS	his
+CON	wife
+AND	and
+CON	children
+EPS	asked
+PRO	him
+SUB	to
+NIL	.

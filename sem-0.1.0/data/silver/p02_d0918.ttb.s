@@ -1,0 +1,9 @@
+AND	Anything
+PRO	you
+NOW	're
+EXS	good
+REL	at
+ENS	contributes
+REL	to
+CON	happiness
+NIL	.

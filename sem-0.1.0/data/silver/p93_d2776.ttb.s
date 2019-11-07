@@ -1,0 +1,10 @@
+PRO	He
+EPS	took
+IST	back
+QUE	what
+PRO	he
+PST	had
+EXT	said
+AND	about
+PRO	her
+NIL	.

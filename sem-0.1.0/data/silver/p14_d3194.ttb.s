@@ -1,0 +1,10 @@
+REL	At
+CON	home
+PRO	it
+NOW	is
+PER	Liisa
+AND	who
+CON	rules
+DEF	the
+CON	roost
+NIL	.

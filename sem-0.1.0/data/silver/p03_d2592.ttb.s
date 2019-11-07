@@ -1,0 +1,9 @@
+PRO	I
+ENS	plan
+SUB	to
+EXS	speak
+REL	with
+PER	Tom
+REL	about
+DST	that
+NIL	.

@@ -1,0 +1,10 @@
+PRO	They
+NOW	are
+IST	already
+IST	able
+SUB	to
+EXS	listen
+REL	to
+DEF	the
+CON	album
+NIL	.

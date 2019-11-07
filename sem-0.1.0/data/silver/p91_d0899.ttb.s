@@ -1,0 +1,10 @@
+DEF	The
+CON	clock
+EPS	stopped
+NIL	.
+PRO	It
+ENS	needs
+DIS	a
+IST	new
+CON	battery
+NIL	.

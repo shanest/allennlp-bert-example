@@ -1,0 +1,9 @@
+DIS	Some
+CON	people
+NOW	say
+GPE	Japan
+NOW	is
+DIS	a
+IST	male-dominated
+CON	society
+NIL	.

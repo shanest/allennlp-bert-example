@@ -1,0 +1,10 @@
+CON	TV
+NOW	is
+ALT	also
+NOT	not
+QUE	what
+PRO	it
+EPS	used
+SUB	to
+EXS	be
+NIL	.

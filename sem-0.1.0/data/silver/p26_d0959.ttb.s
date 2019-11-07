@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+IST	back
+NIL	!
+ITJ	Oh
+QUE	?
+NOW	Have
+PRO	we
+EPS	got
+DIS	a
+CON	guest
+QUE	?

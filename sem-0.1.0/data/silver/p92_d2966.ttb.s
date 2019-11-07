@@ -1,0 +1,11 @@
+PER	Tom
+EPS	whistled
+DIS	a
+CON	tune
+AND	as
+PRO	he
+EPS	walked
+REL	along
+DEF	the
+CON	river
+NIL	.

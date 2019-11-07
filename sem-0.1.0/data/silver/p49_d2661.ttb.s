@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	waiting
+REL	for
+DIS	a
+CON	response
+REL	from
+PRO	him
+NIL	.

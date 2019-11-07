@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+TOP	mildest
+CON	winter
+SUB	that
+PRO	we
+NOW	have
+IST	ever
+EXS	experienced
+NIL	.

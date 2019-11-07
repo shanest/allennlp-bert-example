@@ -1,0 +1,17 @@
+SUB	When
+PER	Tom
+EPS	went
+SUB	to
+EXS	have
+CON	breakfast
+NIL	,
+PRO	he
+EPS	found
+SUB	that
+AND	all
+DEF	the
+CON	bread
+PST	had
+EXS	gone
+NIL	mouldy
+NIL	.

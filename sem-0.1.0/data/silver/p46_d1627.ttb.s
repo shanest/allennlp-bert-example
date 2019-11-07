@@ -1,0 +1,10 @@
+PER	Tom
+EPS	found
+PER	Mary
+SUB	where
+PRO	he
+EPS	expected
+PRO	her
+SUB	to
+EXS	be
+NIL	.

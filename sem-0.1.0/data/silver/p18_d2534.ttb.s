@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+IST	hard
+SUB	to
+EXS	distinguish
+CON	truth
+REL	from
+DIS	a
+CON	lie
+NIL	.

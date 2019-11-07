@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	read
+PRX	this
+CON	story
+AND	and
+IST	neither
+NOW	has
+HAS	my
+ROL	sister
+NIL	.

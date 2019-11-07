@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+IST	probably
+AND	just
+DIS	a
+CON	year
+DIS	or
+QUC	two
+MOR	younger
+MOR	than
+PER	Mary
+NIL	.

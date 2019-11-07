@@ -1,0 +1,10 @@
+PRO	I
+EPS	drank
+INT	too
+QUV	much
+NIL	.
+HAS	My
+CON	face
+NOW	is
+EXS	swollen
+NIL	!

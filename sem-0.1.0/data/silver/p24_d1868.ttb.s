@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+CON	prices
+NOW	are
+EXS	going
+SUB	to
+EXS	rise
+ALT	again
+NIL	.

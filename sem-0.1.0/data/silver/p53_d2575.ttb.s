@@ -1,0 +1,10 @@
+AND	Why
+PST	did
+NOT	n't
+PRO	you
+EXS	get
+CON	one
+SUB	before
+PRO	we
+EPS	left
+QUE	?

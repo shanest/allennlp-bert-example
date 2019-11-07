@@ -1,0 +1,10 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	bear
+AND	even
+DEF	the
+CON	sight
+AND	of
+PER	Mary
+NIL	.

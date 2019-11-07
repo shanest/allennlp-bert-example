@@ -1,0 +1,12 @@
+AND	An
+CON	ostrich
+POS	can
+NOT	not
+EXS	fly
+AND	any
+MOR	more
+MOR	than
+DIS	a
+CON	kangaroo
+POS	can
+NIL	.

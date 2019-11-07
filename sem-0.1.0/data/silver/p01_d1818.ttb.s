@@ -1,0 +1,11 @@
+NIL	To
+EXS	make
+DIS	a
+IST	long
+CON	story
+IST	short
+NIL	,
+PRO	he
+PST	was
+EXS	fired
+NIL	.

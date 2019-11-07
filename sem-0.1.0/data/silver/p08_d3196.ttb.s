@@ -1,0 +1,14 @@
+PRX	This
+NOW	is
+HAS	my
+IST	first
+CON	confession
+COO	and
+PRO	I
+NOW	have
+AND	every
+CON	reason
+SUB	to
+EXS	be
+IST	nervous
+NIL	.

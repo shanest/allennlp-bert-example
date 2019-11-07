@@ -1,0 +1,9 @@
+GRE	Hi
+EQU	,
+PER	Mimi
+NIL	!
+QUE	How
+NOW	are
+PRO	you
+EXS	doing
+QUE	?

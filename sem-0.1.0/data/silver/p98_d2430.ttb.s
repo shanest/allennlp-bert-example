@@ -1,0 +1,13 @@
+AND	During
+IST	clear
+CON	weather
+NIL	,
+DEF	the
+CON	coast
+AND	of
+GPE	Estonia
+NOW	is
+EXS	visible
+REL	from
+GEO	Helsinki
+NIL	.

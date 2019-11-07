@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+EPS	gave
+PRO	me
+DIS	a
+CON	puppy
+REL	for
+HAS	my
+CON	birthday
+NIL	.

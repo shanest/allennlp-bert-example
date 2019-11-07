@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	trust
+PER	Mary
+REL	with
+HAS	his
+CON	car
+NIL	.

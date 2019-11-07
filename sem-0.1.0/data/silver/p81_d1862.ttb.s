@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	delighted
+SUB	to
+EXT	have
+EXS	met
+PRO	you
+NOW	today
+NIL	.

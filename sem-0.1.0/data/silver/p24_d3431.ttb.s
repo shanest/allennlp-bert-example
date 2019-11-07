@@ -1,0 +1,9 @@
+PRO	He
+EPS	made
+HAS	his
+CON	fortune
+EXS	dealing
+REL	in
+IST	illegal
+CON	weapons
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+NOW	has
+EXS	been
+DIS	a
+IST	long
+CON	time
+SUB	since
+PRO	I
+EPS	wrote
+PRO	you
+IST	last
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+NOW	does
+NOT	n't
+EXS	look
+AND	as
+IMP	if
+PRO	it
+NOW	's
+EXS	going
+SUB	to
+EXS	happen
+NIL	.

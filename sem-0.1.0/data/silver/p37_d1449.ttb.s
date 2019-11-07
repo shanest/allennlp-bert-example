@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	moving
+REL	in
+REL	with
+PER	John
+AND	next
+CON	week
+NIL	.

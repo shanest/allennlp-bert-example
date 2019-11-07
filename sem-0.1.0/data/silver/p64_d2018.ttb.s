@@ -1,0 +1,12 @@
+PER	Tom
+IST	never
+PST	thought
+PRO	he
+PST	'd
+EXT	have
+SUB	to
+EXS	come
+IST	back
+AND	here
+ALT	again
+NIL	.

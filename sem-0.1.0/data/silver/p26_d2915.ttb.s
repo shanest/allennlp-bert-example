@@ -1,0 +1,9 @@
+PRO	She
+EPS	complained
+AND	of
+DEF	the
+CON	room
+EXS	being
+INT	too
+EXS	hot
+NIL	.

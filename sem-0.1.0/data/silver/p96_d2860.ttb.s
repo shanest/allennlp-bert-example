@@ -1,0 +1,10 @@
+DEF	The
+IST	prime
+CON	minister
+ENS	appoints
+DEF	the
+CON	members
+AND	of
+HAS	his
+CON	cabinet
+NIL	.

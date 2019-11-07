@@ -1,0 +1,10 @@
+DIS	A
+IST	beautiful
+CON	object
+AND	like
+DST	that
+NOT	never
+ENS	loses
+HAS	its
+CON	value
+NIL	.

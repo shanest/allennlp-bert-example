@@ -1,0 +1,10 @@
+PRO	She
+EPS	gave
+PRO	me
+DIS	a
+EXS	haughty
+CON	look
+COO	and
+EPS	walked
+IST	away
+NIL	.

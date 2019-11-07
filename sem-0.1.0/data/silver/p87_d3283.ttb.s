@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	do
+NOT	n't
+EXS	have
+DIS	a
+IST	good
+CON	relationship
+NIL	.

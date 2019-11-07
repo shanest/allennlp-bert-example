@@ -1,0 +1,11 @@
+POS	May
+PRO	I
+NOW	have
+DIS	a
+CON	pillow
+AND	and
+DIS	a
+CON	blanket
+NIL	,
+IST	please
+QUE	?

@@ -1,0 +1,10 @@
+CON	Students
+EPS	took
+DEF	the
+CON	lead
+REL	in
+DEF	the
+CON	campaign
+AND	against
+CON	pollution
+NIL	.

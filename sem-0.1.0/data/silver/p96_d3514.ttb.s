@@ -1,0 +1,13 @@
+REL	At
+DEF	the
+CON	market
+EQU	,
+DEF	the
+ROL	farmer
+NOW	is
+EXS	selling
+HAS	his
+ROL	farmer
+HAS	's
+CON	bread
+NIL	.

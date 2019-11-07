@@ -1,0 +1,10 @@
+PRO	We
+EPS	went
+REL	to
+DEF	the
+CON	lake
+NIL	to
+EXS	row
+DIS	a
+CON	boat
+NIL	.

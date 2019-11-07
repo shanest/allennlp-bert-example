@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXT	having
+DIS	a
+IST	little
+IST	financial
+CON	trouble
+NIL	.

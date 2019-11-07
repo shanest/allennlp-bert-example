@@ -1,0 +1,10 @@
+PRO	I
+ENS	hate
+IST	so-called
+NIL	"
+QUC	30
+CON	days
+NIL	"
+CON	language
+CON	courses
+NIL	.

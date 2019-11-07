@@ -1,0 +1,16 @@
+NIL	"
+PRO	You
+NOW	're
+EXS	making
+PRX	this
+IST	up
+NIL	.
+NIL	"
+NIL	"
+NOT	No
+NIL	,
+PRO	I
+NOW	'm
+NOT	not
+NIL	.
+NIL	"

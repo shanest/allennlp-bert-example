@@ -1,0 +1,11 @@
+NIL	There
+HAS	's
+DIS	a
+CON	lot
+AND	of
+IST	big
+CON	game
+REL	in
+DST	that
+CON	forest
+NIL	.

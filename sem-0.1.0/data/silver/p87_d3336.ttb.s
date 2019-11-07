@@ -1,0 +1,10 @@
+EXS	Let
+PRO	's
+ENS	continue
+REL	from
+QUE	where
+PRO	we
+EPS	left
+REL	off
+PST	yesterday
+NIL	.

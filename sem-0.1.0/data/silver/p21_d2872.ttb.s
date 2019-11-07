@@ -1,0 +1,16 @@
+PER	Tom
+EPS	became
+IST	popular
+AND	among
+CON	teenagers
+AND	as
+IST	soon
+SUB	as
+PRO	he
+EPS	made
+HAS	his
+CON	debut
+REL	on
+DEF	the
+CON	screen
+NIL	.

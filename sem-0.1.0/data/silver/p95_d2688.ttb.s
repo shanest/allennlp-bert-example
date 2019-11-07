@@ -1,0 +1,16 @@
+PRO	I
+NOW	am
+EXS	talking
+AND	about
+HAS	your
+CON	lover
+NIL	.
+PRO	It
+NOW	is
+AND	about
+PRO	him
+SUB	that
+PRO	I
+NOW	am
+EXS	talking
+NIL	.

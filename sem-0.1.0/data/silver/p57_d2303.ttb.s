@@ -1,0 +1,9 @@
+DEF	The
+CON	interest
+ENS	amounts
+REL	to
+NIL	NOK
+AND	3,000
+DIS	a
+CON	year
+NIL	.

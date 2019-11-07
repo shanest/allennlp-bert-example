@@ -1,0 +1,10 @@
+PRO	We
+NOW	have
+DIS	a
+IST	low
+CON	tide
+APX	approximately
+AND	every
+QUC	six
+UOM	hours
+NIL	.

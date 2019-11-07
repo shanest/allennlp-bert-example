@@ -1,0 +1,11 @@
+PRO	It
+EPS	took
+PRO	me
+QUC	three
+CON	days
+SUB	to
+EXS	read
+AND	through
+PRX	this
+CON	book
+NIL	.

@@ -1,0 +1,12 @@
+CON	Doctors
+NEC	should
+EXS	keep
+IST	abreast
+REL	with
+AND	all
+DEF	the
+TOP	latest
+CON	developments
+REL	in
+CON	medicine
+NIL	.

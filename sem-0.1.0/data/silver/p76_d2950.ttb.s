@@ -1,0 +1,12 @@
+PRO	He
+PST	was
+EXS	born
+REL	in
+GPE	England
+NIL	,
+BUT	but
+PST	was
+EXS	educated
+REL	in
+GEO	America
+NIL	.

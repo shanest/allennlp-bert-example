@@ -1,0 +1,9 @@
+PRO	He
+ENS	puts
+HAS	his
+IST	own
+CON	interests
+REL	above
+AND	everything
+AND	else
+NIL	.

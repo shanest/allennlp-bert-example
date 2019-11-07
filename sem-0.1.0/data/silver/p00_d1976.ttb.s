@@ -1,0 +1,9 @@
+DEF	The
+CON	method
+PST	was
+INT	too
+EXS	expensive
+NIL	to
+EXS	be
+IST	practical
+NIL	.

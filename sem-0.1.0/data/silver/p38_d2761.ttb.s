@@ -1,0 +1,11 @@
+DEF	The
+CON	cop
+EPS	went
+AND	through
+HAS	his
+CON	pockets
+NIL	,
+BUT	but
+EPS	found
+NOT	nothing
+NIL	.

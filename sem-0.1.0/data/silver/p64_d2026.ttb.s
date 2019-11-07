@@ -1,0 +1,12 @@
+PER	Tom
+EPS	picked
+IST	up
+DEF	the
+CON	coins
+AND	that
+PST	had
+EXS	fallen
+AND	behind
+DEF	the
+CON	sofa
+NIL	.

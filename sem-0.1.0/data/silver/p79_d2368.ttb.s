@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+EXS	going
+SUB	to
+EXS	take
+DIS	some
+CON	time
+SUB	to
+EXS	win
+IST	back
+CON	trust
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXS	scheduled
+SUB	to
+EXS	be
+EXS	sentenced
+REL	on
+MOY	October
+MOY	20th
+NIL	.

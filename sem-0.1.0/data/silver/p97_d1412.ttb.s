@@ -1,0 +1,10 @@
+IST	Strong-willed
+CON	kids
+ENS	need
+IST	clear
+CON	boundaries
+AND	and
+IST	positive
+CON	role
+CON	models
+NIL	.

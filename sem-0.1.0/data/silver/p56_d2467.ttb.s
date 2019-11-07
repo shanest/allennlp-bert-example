@@ -1,0 +1,10 @@
+PER	Tom
+EPS	put
+DIS	a
+CON	stick
+AND	of
+CON	gum
+REL	into
+HAS	his
+CON	mouth
+NIL	.

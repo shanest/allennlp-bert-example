@@ -1,0 +1,16 @@
+AND	Every
+CON	mother
+HAS	's
+CON	dream
+NOW	is
+REL	for
+HAS	her
+CON	son
+SUB	to
+EXS	be
+DIS	a
+CON	doctor
+DIS	or
+DIS	a
+ROL	lawyer
+NIL	.

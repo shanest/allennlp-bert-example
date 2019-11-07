@@ -1,0 +1,11 @@
+PRO	We
+POS	ca
+NOT	n't
+EXS	leave
+REL	until
+PER	Tom
+COO	and
+PER	Mary
+NOW	get
+PRX	here
+NIL	.

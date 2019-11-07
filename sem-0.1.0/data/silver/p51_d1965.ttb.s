@@ -1,0 +1,11 @@
+QUE	What
+CON	age
+PST	was
+PRO	she
+SUB	when
+PRO	she
+IST	first
+EPS	drove
+DIS	a
+CON	car
+QUE	?

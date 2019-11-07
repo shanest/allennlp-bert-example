@@ -1,0 +1,14 @@
+PRO	It
+NOT	never
+EPS	occurred
+REL	to
+PRO	me
+SUB	that
+PER	Tom
+POS	might
+NOT	not
+EXS	be
+EXG	telling
+DEF	the
+CON	truth
+NIL	.

@@ -1,0 +1,10 @@
+EXS	Blow
+REL	by
+CON	blow
+NIL	,
+HAS	her
+CON	punches
+EPS	got
+IST	more
+EXS	intense
+NIL	.

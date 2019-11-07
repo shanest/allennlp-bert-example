@@ -1,0 +1,15 @@
+NOW	Today
+HAS	's
+CON	broccoli
+NOW	is
+NOT	not
+EXS	good
+SUB	because
+PRO	it
+NOW	has
+PFT	been
+IST	boiled
+REL	for
+INT	too
+IST	long
+NIL	.

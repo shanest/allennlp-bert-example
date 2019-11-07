@@ -1,0 +1,10 @@
+NOW	Does
+DEF	the
+CON	city
+IST	literally
+ENS	owe
+HAS	its
+CON	existence
+REL	to
+PER	Mussolini
+QUE	?

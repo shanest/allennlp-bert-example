@@ -1,0 +1,14 @@
+PRO	We
+EPS	talked
+REL	in
+DIS	a
+IST	low
+CON	voice
+AND	so
+AND	as
+NOT	not
+SUB	to
+EXS	wake
+DEF	the
+CON	baby
+NIL	.

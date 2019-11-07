@@ -1,0 +1,14 @@
+NOT	No
+NIL	,
+PRO	I
+NOW	'm
+NOT	not
+IST	mad
+REL	at
+PRO	you
+NIL	,
+PRO	I
+NOW	'm
+INT	just
+EXS	disappointed
+NIL	.

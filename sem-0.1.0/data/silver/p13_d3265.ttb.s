@@ -1,0 +1,10 @@
+PRO	He
+HAS	's
+IST	already
+INT	too
+IST	far
+IST	away
+SUB	to
+EXS	hear
+PRO	us
+NIL	.

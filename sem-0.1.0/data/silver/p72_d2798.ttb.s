@@ -1,0 +1,13 @@
+EXS	Keep
+HAS	your
+CON	eyes
+EPS	closed
+SUB	until
+PRO	I
+NOW	say
+SUB	that
+PRO	you
+NEC	should
+EXS	open
+PRO	them
+NIL	.

@@ -1,0 +1,15 @@
+PRO	He
+EPS	forgot
+DIS	a
+CON	section
+AND	of
+DEF	the
+CON	speech
+AND	and
+NEC	had
+SUB	to
+EXS	improvise
+REL	for
+DIS	a
+CON	while
+NIL	.

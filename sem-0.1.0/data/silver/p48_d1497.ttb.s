@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXS	helping
+PER	Mary
+NOW	get
+EXS	ready
+REL	for
+HAS	her
+CON	trip
+NIL	.

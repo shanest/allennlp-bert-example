@@ -1,0 +1,10 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+PRO	you
+PST	were
+EXS	cutting
+HAS	your
+CON	hair
+NIL	!

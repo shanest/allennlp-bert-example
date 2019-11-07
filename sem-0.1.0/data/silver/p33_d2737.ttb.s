@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+EXS	waited
+REL	for
+HAS	her
+AND	all
+HAS	my
+CON	life
+NIL	.

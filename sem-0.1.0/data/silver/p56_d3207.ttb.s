@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+PRO	you
+IST	ever
+EXS	speak
+REL	to
+PRO	me
+EXS	like
+DST	that
+ALT	again
+NIL	.

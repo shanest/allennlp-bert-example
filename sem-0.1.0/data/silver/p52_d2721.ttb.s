@@ -1,0 +1,14 @@
+PER	Tom
+PST	was
+DEF	the
+XCL	only
+QUC	one
+IST	there
+REL	for
+PRO	me
+SUB	when
+PRO	I
+IST	really
+EPS	needed
+DIS	someone
+NIL	.

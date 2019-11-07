@@ -1,0 +1,11 @@
+PRO	He
+ENS	enjoys
+CON	wine
+DIS	sometimes
+NIL	,
+BUT	but
+IST	mostly
+PRO	he
+ENS	drinks
+CON	whisky
+NIL	.

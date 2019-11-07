@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+EXS	seen
+DEF	the
+CON	movie
+QUC	twice
+REL	from
+CON	start
+SUB	to
+EXS	finish
+NIL	.

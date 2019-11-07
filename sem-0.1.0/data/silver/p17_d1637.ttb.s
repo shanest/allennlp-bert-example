@@ -1,0 +1,13 @@
+NOW	Now
+PRO	I
+NOW	've
+EXS	got
+DIS	a
+IST	new
+CON	reason
+QUE	why
+PRO	I
+POS	ca
+NOT	n't
+EXS	sleep
+NIL	.

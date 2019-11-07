@@ -1,0 +1,15 @@
+PRO	I
+NOW	've
+EXS	done
+AND	half
+DEF	the
+CON	work
+NIL	,
+COO	and
+NOW	now
+PRO	I
+POS	can
+EXS	take
+DIS	a
+CON	break
+NIL	.

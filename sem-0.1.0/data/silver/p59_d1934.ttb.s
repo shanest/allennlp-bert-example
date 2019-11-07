@@ -1,0 +1,11 @@
+IST	Please
+EXS	tell
+DEF	the
+ALT	others
+AND	everything
+PRO	you
+NOW	've
+IST	just
+EXT	told
+PRO	me
+NIL	.

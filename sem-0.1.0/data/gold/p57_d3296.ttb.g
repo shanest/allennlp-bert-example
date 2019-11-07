@@ -1,0 +1,11 @@
+PRO	We
+EPS	got
+REL	into
+HAS	his
+CON	car
+COO	and
+EPS	went
+REL	to
+DEF	the
+CON	sea
+NIL	.

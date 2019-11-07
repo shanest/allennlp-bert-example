@@ -1,0 +1,13 @@
+PRO	I
+PST	thought
+INT	about
+EXG	throwing
+PRO	it
+IST	away
+NIL	,
+BUT	but
+EPS	decided
+SUB	to
+EXS	keep
+PRO	it
+NIL	.

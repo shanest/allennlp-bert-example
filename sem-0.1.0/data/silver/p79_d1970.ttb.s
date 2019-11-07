@@ -1,0 +1,11 @@
+DEF	The
+CON	beaches
+REL	in
+GPE	Hawaii
+NOW	are
+IST	famous
+REL	for
+HAS	their
+IST	huge
+CON	waves
+NIL	.

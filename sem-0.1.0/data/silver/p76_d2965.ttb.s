@@ -1,0 +1,14 @@
+NOT	No
+NIL	.
+PRO	I
+NOW	have
+PFT	been
+EXS	looking
+REL	for
+PRO	them
+REL	for
+MOR	more
+MOR	than
+QUC	one
+CON	hour
+NIL	.

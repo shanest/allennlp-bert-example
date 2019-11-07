@@ -1,0 +1,13 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+SUB	where
+PRO	he
+NOW	's
+EXS	going
+SUB	to
+EXS	live
+IST	next
+CON	year
+NIL	.

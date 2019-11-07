@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	got
+IST	little
+CON	time
+REL	for
+EXS	reading
+PRX	these
+CON	days
+NIL	.

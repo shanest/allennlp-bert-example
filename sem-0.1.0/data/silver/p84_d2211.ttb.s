@@ -1,0 +1,15 @@
+PRO	I
+ENS	plan
+SUB	to
+EXS	contact
+PER	Tom
+REL	by
+CON	phone
+FUT	tomorrow
+AND	and
+EXS	ask
+PRO	him
+SUB	to
+EXS	help
+PRO	us
+NIL	.

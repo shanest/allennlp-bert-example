@@ -1,0 +1,11 @@
+PER	Tom
+EPS	peeked
+IST	out
+DEF	the
+CON	door
+SUB	to
+EXS	see
+QUE	what
+PST	was
+EXS	happening
+NIL	.

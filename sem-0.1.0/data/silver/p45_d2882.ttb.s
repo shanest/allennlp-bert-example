@@ -1,0 +1,11 @@
+PRO	It
+ENS	seems
+PRO	I
+FUT	'll
+EXS	be
+EXG	staying
+IST	up
+AND	all
+CON	night
+CON	tonight
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+COM	better
+REL	off
+NOT	not
+EXS	getting
+REL	in
+HAS	his
+CON	way
+NIL	!

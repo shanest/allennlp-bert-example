@@ -1,0 +1,9 @@
+PRO	You
+FUT	wo
+NOT	n't
+EXS	believe
+QUE	what
+PRO	I
+IST	just
+EPS	saw
+NIL	!

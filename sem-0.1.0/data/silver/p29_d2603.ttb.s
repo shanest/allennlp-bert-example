@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+IST	sure
+SUB	that
+PER	Ted
+HAS	's
+CON	cough
+NOW	is
+IST	due
+REL	to
+CON	smoking
+NIL	.

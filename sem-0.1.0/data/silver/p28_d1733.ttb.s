@@ -1,0 +1,9 @@
+PER	Paul
+EPS	made
+DIS	a
+CON	lot
+AND	of
+CON	money
+AND	last
+CON	year
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	like
+PRO	you
+INT	very
+QUV	much
+AND	either
+NIL	.

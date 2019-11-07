@@ -1,0 +1,14 @@
+PRO	I
+PST	was
+NOT	n't
+EXS	careful
+NIL	,
+COO	and
+NOW	now
+PRO	I
+NOW	have
+CON	sunburns
+AND	all
+AND	over
+PRO	me
+NIL	.

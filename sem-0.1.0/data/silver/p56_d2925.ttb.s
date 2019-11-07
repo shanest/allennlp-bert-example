@@ -1,0 +1,14 @@
+IMP	If
+PRO	it
+PST	were
+NOT	not
+REL	for
+CON	water
+NIL	,
+NOT	no
+CON	one
+POS	could
+EXS	live
+REL	on
+CON	earth
+NIL	.

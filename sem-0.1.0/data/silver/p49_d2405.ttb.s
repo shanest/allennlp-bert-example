@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	like
+PER	Mary
+NIL	,
+BUT	but
+PRO	I
+AND	like
+PRO	her
+NIL	.

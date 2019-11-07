@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+IST	certain
+SUB	that
+PER	Lucy
+FUT	will
+EXS	marry
+DEF	the
+CON	pop
+ROL	singer
+NIL	.

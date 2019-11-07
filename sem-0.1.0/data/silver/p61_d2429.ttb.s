@@ -1,0 +1,11 @@
+PER	Tom
+POS	could
+IST	barely
+EXS	hear
+QUE	what
+PER	Mary
+PST	was
+EXS	trying
+SUB	to
+EXS	say
+NIL	.

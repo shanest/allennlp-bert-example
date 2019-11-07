@@ -1,0 +1,11 @@
+PER	Tom
+EPS	told
+PRO	me
+PRO	I
+NEC	should
+NOT	n't
+EXS	wear
+DIS	a
+COL	pink
+CON	shirt
+NIL	.

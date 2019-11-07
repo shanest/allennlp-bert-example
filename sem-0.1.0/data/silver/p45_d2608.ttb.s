@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	confused
+NIL	.
+QUE	What
+NOW	do
+PRO	I
+NOW	do
+NOW	now
+QUE	?

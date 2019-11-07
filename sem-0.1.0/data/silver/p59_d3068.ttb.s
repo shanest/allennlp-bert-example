@@ -1,0 +1,10 @@
+PRO	She
+EPS	smiled
+REL	at
+PRO	me
+SUB	while
+PRO	she
+EPS	sang
+DIS	a
+CON	song
+NIL	.

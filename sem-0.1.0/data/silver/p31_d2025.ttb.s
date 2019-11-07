@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	you
+NOW	do
+NOT	n't
+EXS	like
+PRO	me
+NIL	.

@@ -1,0 +1,17 @@
+PER	Tom
+ENS	says
+PRO	he
+PST	was
+NOT	n't
+PRX	here
+PST	yesterday
+NIL	.
+PRO	It
+NEC	must
+EXT	've
+EXS	been
+DIS	someone
+AND	else
+PRO	you
+EPS	saw
+NIL	.

@@ -1,0 +1,16 @@
+SUB	When
+PER	Tom
+EPS	crested
+DEF	the
+CON	hill
+NIL	,
+PRO	he
+PST	had
+DIS	a
+IST	commanding
+CON	view
+AND	of
+DEF	the
+CON	valley
+REL	below
+NIL	.

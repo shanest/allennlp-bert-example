@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+PRO	you
+NOW	think
+PRO	you
+NOW	are
+DIS	a
+IST	little
+INT	too
+CON	pushy
+QUE	?

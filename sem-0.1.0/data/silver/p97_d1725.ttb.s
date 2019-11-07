@@ -1,0 +1,10 @@
+PRO	I
+PST	thought
+PRO	you
+PST	'd
+EXS	be
+REL	in
+GPE	Boston
+REL	by
+NOW	now
+NIL	.

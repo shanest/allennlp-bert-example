@@ -1,0 +1,10 @@
+PRO	You
+NOW	are
+PRX	here
+NOW	now
+REL	in
+DIS	a
+CON	doctor
+HAS	's
+CON	surgery
+NIL	.

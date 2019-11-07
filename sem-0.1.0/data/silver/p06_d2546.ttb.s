@@ -1,0 +1,15 @@
+PRO	We
+EPS	went
+SUB	to
+EXS	work
+REL	at
+CON	sunrise
+NIL	,
+COO	and
+EPS	quit
+EXS	work
+REL	between
+CON	sundown
+AND	and
+CON	dark
+NIL	.

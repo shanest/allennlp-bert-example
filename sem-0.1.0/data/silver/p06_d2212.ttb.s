@@ -1,0 +1,16 @@
+DEF	The
+CON	2003
+CON	invasion
+AND	of
+GPE	Iraq
+REL	by
+GPO	American
+CON	forces
+NOW	is
+DEF	the
+TOP	greatest
+CON	heist
+AND	of
+AND	all
+CON	time
+NIL	.

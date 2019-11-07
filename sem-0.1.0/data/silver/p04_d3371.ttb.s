@@ -1,0 +1,14 @@
+PRO	He
+POS	can
+NOT	not
+EXS	afford
+SUB	to
+EXS	buy
+DIS	a
+CON	car
+NIL	,
+QUV	much
+LES	less
+DIS	a
+CON	house
+NIL	.

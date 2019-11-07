@@ -1,0 +1,9 @@
+AND	Next
+TIM	year
+HAS	my
+CON	birthday
+FUT	will
+EXS	fall
+REL	on
+DOW	Sunday
+NIL	.

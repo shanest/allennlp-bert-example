@@ -1,0 +1,10 @@
+DEF	The
+ROL	pirate
+PST	was
+EXG	observing
+DEF	the
+CON	sea
+REL	with
+HAS	his
+IST	monocular
+NIL	.

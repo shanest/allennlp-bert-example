@@ -1,0 +1,10 @@
+NIL	There
+NOW	are
+CON	times
+SUB	when
+PRO	I
+NOW	find
+PRO	you
+IST	really
+EXS	interesting
+NIL	.

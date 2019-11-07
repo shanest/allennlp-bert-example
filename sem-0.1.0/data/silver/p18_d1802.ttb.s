@@ -1,0 +1,10 @@
+DEF	The
+CON	machine
+FUT	will
+EXS	save
+PRO	you
+QUV	much
+CON	time
+AND	and
+CON	labor
+NIL	.

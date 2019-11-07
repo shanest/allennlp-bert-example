@@ -1,0 +1,14 @@
+DEF	The
+IST	constant
+NIL	,
+IST	high-pitched
+EXG	ringing
+REL	in
+PER	Tom
+HAS	's
+CON	ears
+NOW	is
+EXG	driving
+PRO	him
+EXS	crazy
+NIL	.

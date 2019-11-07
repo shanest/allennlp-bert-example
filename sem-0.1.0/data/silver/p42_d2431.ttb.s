@@ -1,0 +1,14 @@
+PRO	It
+FUT	'd
+EXS	be
+DIS	a
+CON	shame
+SUB	to
+EXS	see
+AND	all
+DST	that
+CON	work
+ENS	go
+REL	to
+EXS	waste
+NIL	.

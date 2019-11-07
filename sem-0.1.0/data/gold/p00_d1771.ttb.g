@@ -1,0 +1,9 @@
+QUE	What
+ENS	's
+DEF	the
+CON	meaning
+REL	of
+PER	Medea
+REL	's
+CON	words
+QUE	?

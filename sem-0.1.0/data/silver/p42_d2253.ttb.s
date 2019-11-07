@@ -1,0 +1,9 @@
+PER	Tom
+ENS	knows
+PRO	he
+POS	can
+IST	always
+EXS	count
+REL	on
+PER	Mary
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+ENS	know
+PRO	it
+HAS	's
+EXS	easy
+NIL	,
+COO	but
+PRO	I
+NOW	've
+NOT	never
+EXS	done
+PRO	it
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+ENS	wants
+PRO	me
+SUB	to
+EXS	write
+DIS	a
+CON	birthday
+CON	message
+REL	to
+PER	Mary
+NIL	.

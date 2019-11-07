@@ -1,0 +1,11 @@
+IST	Please
+EXS	let
+PRO	me
+EXS	know
+SUB	when
+PRO	you
+NOW	are
+IST	ready
+SUB	to
+CON	order
+NIL	.

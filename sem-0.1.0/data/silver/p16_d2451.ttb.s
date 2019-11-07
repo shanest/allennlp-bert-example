@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	looking
+IST	forward
+SUB	to
+EXG	reading
+PER	Ayako
+HAS	's
+CON	diary
+ALT	again
+NIL	.

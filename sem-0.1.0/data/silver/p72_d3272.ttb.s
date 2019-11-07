@@ -1,0 +1,10 @@
+DEF	The
+CON	bench
+NOW	is
+IST	there
+ALT	too
+NIL	,
+NOW	is
+NOT	n't
+PRO	it
+QUE	?

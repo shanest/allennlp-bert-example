@@ -1,0 +1,9 @@
+DEF	The
+CON	boy
+AND	who
+ENS	writes
+TOP	best
+ENS	wins
+DEF	the
+CON	prize
+NIL	.

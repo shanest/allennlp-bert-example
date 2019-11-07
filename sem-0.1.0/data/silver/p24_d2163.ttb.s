@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+ENS	go
+REL	to
+CON	school
+REL	on
+CON	foot
+AND	every
+CON	day
+QUE	?

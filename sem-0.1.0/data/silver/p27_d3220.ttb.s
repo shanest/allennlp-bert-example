@@ -1,0 +1,11 @@
+PER	Bob
+EPS	made
+CON	room
+REL	for
+DIS	an
+IST	old
+CON	woman
+REL	on
+DEF	the
+CON	bus
+NIL	.

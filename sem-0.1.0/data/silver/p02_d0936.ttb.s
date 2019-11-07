@@ -1,0 +1,10 @@
+QUE	What
+NOW	do
+PRO	you
+EXS	think
+REL	about
+HAS	your
+CON	boss
+REL	's
+CON	plan
+QUE	?

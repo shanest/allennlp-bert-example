@@ -1,0 +1,12 @@
+PRO	He
+EPS	drank
+DIS	a
+CON	cup
+AND	of
+CON	tea
+AND	and
+IST	then
+EPS	asked
+REL	for
+ALT	another
+NIL	.

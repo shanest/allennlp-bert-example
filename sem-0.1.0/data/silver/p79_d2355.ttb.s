@@ -1,0 +1,12 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	have
+AND	any
+CON	idea
+QUE	how
+QUC	much
+PER	Mary
+ENS	loves
+PRO	him
+NIL	.

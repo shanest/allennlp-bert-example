@@ -1,0 +1,11 @@
+PRO	I
+EPS	felt
+SUB	that
+PRO	he
+EXS	skirted
+AND	around
+DEF	the
+INT	most
+IST	important
+CON	issues
+NIL	.

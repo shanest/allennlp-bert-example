@@ -1,0 +1,11 @@
+HAS	My
+ROL	father
+NOW	is
+EXS	going
+REL	for
+DIS	a
+CON	walk
+REL	in
+DEF	the
+CON	park
+NIL	.

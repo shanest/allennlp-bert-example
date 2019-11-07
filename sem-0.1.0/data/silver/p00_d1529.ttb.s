@@ -1,0 +1,12 @@
+PRO	I
+PST	was
+INT	very
+IST	tired
+NIL	,
+SUB	so
+PRO	I
+EPS	fell
+EXS	asleep
+AND	right
+IST	away
+NIL	.

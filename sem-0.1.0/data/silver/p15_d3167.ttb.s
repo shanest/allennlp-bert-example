@@ -1,0 +1,13 @@
+SUB	When
+PRO	I
+EPS	met
+PER	Tom
+NIL	,
+PRO	he
+PST	was
+EXG	dating
+DIS	a
+CON	girl
+EPS	named
+PER	Mary
+NIL	.

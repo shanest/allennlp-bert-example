@@ -1,0 +1,15 @@
+IMP	If
+PRO	I
+POS	could
+EPS	rearrange
+DEF	the
+CON	alphabet
+NIL	,
+PRO	I
+FUT	would
+EXS	put
+CON	U
+COO	and
+PRO	I
+IST	together
+NIL	.

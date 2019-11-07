@@ -1,0 +1,13 @@
+PER	Tom
+EPS	needed
+DIS	something
+SUB	to
+EXS	do
+SUB	to
+EXS	keep
+HAS	his
+CON	mind
+REL	off
+HAS	his
+CON	problems
+NIL	.

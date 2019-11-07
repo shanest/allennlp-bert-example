@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	feel
+AND	like
+EXG	watching
+CON	TV
+CON	tonight
+NIL	.

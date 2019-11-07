@@ -1,0 +1,12 @@
+PRO	I
+NOW	think
+HAS	my
+CON	computer
+PST	was
+DIS	a
+IST	tad
+MOR	more
+EXS	expensive
+MOR	than
+HAS	yours
+NIL	.

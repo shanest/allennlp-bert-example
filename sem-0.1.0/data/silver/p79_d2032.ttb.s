@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+ENS	plan
+SUB	to
+EXS	attend
+IST	several
+HAP	Halloween
+CON	parties
+NIL	.

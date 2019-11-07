@@ -1,0 +1,10 @@
+DST	That
+CON	man
+NOW	is
+EXS	alleged
+SUB	to
+EXT	have
+EXS	committed
+DEF	the
+CON	murder
+NIL	.

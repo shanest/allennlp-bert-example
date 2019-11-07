@@ -1,0 +1,11 @@
+DEF	The
+IST	first
+CON	thing
+PRO	you
+NEC	should
+EXS	do
+NOW	is
+EXS	call
+DIS	a
+ROL	lawyer
+NIL	.

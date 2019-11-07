@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+DEF	the
+CON	person
+PRO	you
+NOW	are
+EXS	talking
+IST	about
+NIL	.

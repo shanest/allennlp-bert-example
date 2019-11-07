@@ -1,0 +1,14 @@
+IMP	If
+PRO	I
+PST	had
+EXT	had
+IST	more
+CON	time
+NIL	,
+PRO	I
+FUT	would
+EXT	have
+EXS	written
+REL	to
+PRO	you
+NIL	.

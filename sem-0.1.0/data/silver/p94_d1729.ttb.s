@@ -1,0 +1,17 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	tell
+PER	Tom
+AND	about
+PRO	it
+SUB	because
+PRO	I
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	ruin
+HAS	his
+CON	day
+NIL	.

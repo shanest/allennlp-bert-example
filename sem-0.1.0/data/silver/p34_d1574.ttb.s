@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+PRO	I
+POS	ca
+NOT	n't
+EXS	find
+DEF	the
+CON	book
+PRO	you
+EPS	lent
+PRO	me
+NIL	.

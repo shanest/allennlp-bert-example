@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+IST	always
+EXS	bored
+REL	with
+HAS	his
+IST	boastful
+CON	talk
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+IST	poor
+CON	cat
+PST	was
+EXS	run
+REL	over
+REL	by
+DIS	a
+CON	truck
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	go
+IST	off
+REL	on
+DIS	a
+CON	trip
+PRX	this
+CON	evening
+NIL	.

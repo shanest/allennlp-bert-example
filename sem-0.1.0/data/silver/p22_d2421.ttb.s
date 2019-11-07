@@ -1,0 +1,9 @@
+NOW	Have
+DIS	any
+AND	of
+PRO	you
+IST	ever
+EPS	talked
+REL	to
+PER	Tom
+QUE	?

@@ -1,0 +1,11 @@
+PRO	I
+EPS	saw
+PRO	him
+EXG	walking
+AND	around
+CON	town
+EXG	wearing
+HAS	his
+DOW	Sunday
+TOP	best
+NIL	.

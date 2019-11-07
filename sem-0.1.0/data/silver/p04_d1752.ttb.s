@@ -1,0 +1,16 @@
+PER	Tom
+EPS	worried
+AND	about
+SUB	whether
+PRO	he
+PST	had
+IST	enough
+CON	money
+SUB	to
+EXS	pay
+REL	for
+AND	such
+DIS	a
+IST	nice
+CON	meal
+NIL	.

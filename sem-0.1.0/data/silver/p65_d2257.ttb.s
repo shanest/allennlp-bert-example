@@ -1,0 +1,10 @@
+PRO	He
+EPS	gave
+DEF	the
+CON	police
+DIS	a
+IST	false
+CON	name
+AND	and
+CON	address
+NIL	.

@@ -1,0 +1,10 @@
+QUE	How
+PST	did
+DEF	the
+ROL	thief
+ENS	manage
+SUB	to
+EXS	avoid
+EXS	being
+EXS	caught
+QUE	?

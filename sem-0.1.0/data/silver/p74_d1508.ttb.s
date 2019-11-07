@@ -1,0 +1,11 @@
+PRX	This
+CON	custom
+NOW	has
+PFT	been
+EXS	handed
+IST	down
+REL	from
+CON	generation
+REL	to
+CON	generation
+NIL	.

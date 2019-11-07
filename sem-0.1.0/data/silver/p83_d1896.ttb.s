@@ -1,0 +1,13 @@
+PRO	It
+EPS	took
+DIS	a
+CON	load
+REL	off
+HAS	my
+CON	mind
+SUB	that
+PRO	I
+IST	finally
+EPS	found
+PRO	you
+NIL	!

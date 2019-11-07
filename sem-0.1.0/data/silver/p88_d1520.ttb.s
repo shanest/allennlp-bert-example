@@ -1,0 +1,13 @@
+UNK	There
+NOW	are
+QUV	many
+IST	more
+CON	yuan
+ROL	millionaires
+REL	in
+DEF	the
+CON	world
+AND	than
+CON	euro
+ROL	millionaires
+NIL	.

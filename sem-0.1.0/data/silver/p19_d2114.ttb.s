@@ -1,0 +1,10 @@
+AND	Everybody
+ENS	knows
+SUB	that
+PRO	he
+ENS	likes
+PRO	her
+AND	and
+CON	vice
+CON	versa
+NIL	.

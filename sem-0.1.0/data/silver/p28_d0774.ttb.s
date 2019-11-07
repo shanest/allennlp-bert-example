@@ -1,0 +1,9 @@
+DEF	The
+CON	burglars
+EPS	broke
+REL	into
+DEF	the
+CON	bank
+REL	at
+CON	night
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+EPS	called
+PRO	him
+NIL	,
+COO	but
+DEF	the
+CON	line
+PST	was
+EXS	busy
+NIL	.

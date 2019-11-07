@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+PFT	been
+EXG	dreaming
+AND	of
+PRX	this
+CON	trip
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

@@ -1,0 +1,13 @@
+UNK	There
+NOW	are
+INT	too
+QUV	many
+CON	people
+PRX	here
+NIL	.
+EXS	Let
+HAS	's
+EXS	go
+DIS	somewhere
+AND	else
+NIL	.

@@ -1,0 +1,12 @@
+EXS	Tell
+PER	Tom
+PRO	I
+FUT	'll
+EXS	be
+IST	there
+AND	as
+IST	soon
+SUB	as
+PRO	I
+POS	can
+NIL	.

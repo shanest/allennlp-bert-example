@@ -1,0 +1,10 @@
+PRX	These
+CON	pine
+CON	nuts
+NOW	are
+IST	delicious
+NIL	,
+EPS	said
+DEF	the
+CON	squirrel
+NIL	.

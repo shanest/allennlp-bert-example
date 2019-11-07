@@ -1,0 +1,10 @@
+IMP	If
+PRO	you
+FUT	wo
+NOT	n't
+EXS	tell
+PER	Tom
+NIL	,
+PRO	I
+FUT	will
+NIL	.

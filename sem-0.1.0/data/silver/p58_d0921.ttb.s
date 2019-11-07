@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	know
+SUB	where
+PER	Tom
+EPS	put
+DEF	the
+CON	keys
+QUE	?

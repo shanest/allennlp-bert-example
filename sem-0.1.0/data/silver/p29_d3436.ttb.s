@@ -1,0 +1,10 @@
+HAS	His
+ROL	father
+PST	had
+EXS	died
+AND	of
+CON	cancer
+QUC	10
+CON	years
+PST	ago
+NIL	.

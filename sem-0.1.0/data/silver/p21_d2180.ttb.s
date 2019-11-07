@@ -1,0 +1,12 @@
+DEF	The
+XCL	only
+CON	thing
+PER	Tom
+IST	really
+ENS	enjoys
+NOW	is
+EXG	playing
+CON	chess
+REL	with
+PER	Mary
+NIL	.

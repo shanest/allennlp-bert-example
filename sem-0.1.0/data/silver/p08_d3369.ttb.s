@@ -1,0 +1,11 @@
+SUB	Because
+HAS	our
+CON	kids
+PST	got
+EXS	married
+NIL	,
+PRO	we
+NOW	are
+NOW	now
+CON	in-laws
+NIL	.

@@ -1,0 +1,14 @@
+SUB	When
+PRO	I
+EPS	entered
+DEF	the
+CON	kitchen
+NIL	,
+PRO	she
+PST	was
+EXS	making
+CON	chicken
+EXS	curry
+REL	with
+CON	rice
+NIL	.

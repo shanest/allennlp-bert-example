@@ -1,0 +1,9 @@
+DST	That
+CON	sentence
+NOW	does
+NOT	n't
+EXS	exist
+REL	in
+DIS	any
+CON	song
+NIL	.

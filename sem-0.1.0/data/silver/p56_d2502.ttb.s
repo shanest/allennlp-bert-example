@@ -1,0 +1,12 @@
+CON	Translating
+NOW	is
+NOT	not
+IST	nearly
+AND	as
+IST	easy
+AND	as
+QUV	many
+CON	people
+POS	might
+EXS	think
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+PST	had
+CON	words
+REL	with
+HAS	his
+CON	friend
+COO	and
+IST	then
+EPS	struck
+PRO	him
+NIL	.

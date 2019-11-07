@@ -1,0 +1,13 @@
+EXS	Let
+HAS	's
+EXS	find
+IST	out
+QUE	what
+CON	time
+PRO	we
+NOW	're
+EXS	supposed
+SUB	to
+EXS	be
+IST	there
+NIL	.

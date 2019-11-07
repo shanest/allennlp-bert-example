@@ -1,0 +1,12 @@
+DEF	The
+CON	book
+NOW	is
+REL	about
+DEF	the
+CON	life
+AND	of
+DIS	a
+CON	woman
+REL	in
+CON	prison
+NIL	.

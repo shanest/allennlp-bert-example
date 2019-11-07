@@ -1,0 +1,16 @@
+REL	For
+DEF	the
+CON	world
+NIL	,
+PRO	you
+NOW	are
+DIS	somebody
+NIL	,
+BUT	but
+REL	for
+DIS	somebody
+PRO	you
+NOW	are
+DEF	the
+CON	world
+NIL	.

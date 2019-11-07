@@ -1,0 +1,10 @@
+AND	Why
+NOW	are
+PRO	you
+EXS	asking
+IMP	if
+PRO	you
+ENS	know
+PRO	it
+AND	all
+QUE	?

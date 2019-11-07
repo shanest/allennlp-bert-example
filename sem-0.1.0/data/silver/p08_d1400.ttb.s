@@ -1,0 +1,13 @@
+DST	Those
+AND	who
+ENS	know
+NOT	nothing
+AND	of
+IST	foreign
+CON	languages
+ENS	know
+NOT	nothing
+AND	of
+HAS	their
+CON	own
+NIL	.

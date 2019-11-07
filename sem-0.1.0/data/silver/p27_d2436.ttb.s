@@ -1,0 +1,10 @@
+PER	Tom
+ENS	likes
+GPO	French
+COO	and
+PRO	he
+NOW	's
+IST	good
+REL	at
+PRO	it
+NIL	.

@@ -1,0 +1,11 @@
+PER	Kate
+EPS	bought
+DIS	a
+CON	present
+REL	for
+GEO	Ryan
+REL	in
+DEF	the
+CON	city
+CON	center
+NIL	.

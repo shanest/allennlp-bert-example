@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+DEF	the
+TOP	best
+CON	way
+PRO	we
+POS	can
+EXS	do
+NOW	now
+NIL	.

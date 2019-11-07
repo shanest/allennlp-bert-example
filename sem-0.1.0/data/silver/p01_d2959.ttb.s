@@ -1,0 +1,13 @@
+PRO	We
+PST	were
+AND	all
+EXS	surprised
+REL	at
+DEF	the
+CON	appointment
+AND	of
+ROL	Mr
+PER	Brown
+AND	as
+ROL	director
+NIL	.

@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	easy
+SUB	to
+EXS	cut
+CON	cheese
+REL	with
+DIS	a
+CON	knife
+NIL	.

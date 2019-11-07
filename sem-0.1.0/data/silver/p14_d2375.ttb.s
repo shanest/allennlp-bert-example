@@ -1,0 +1,9 @@
+HAS	Your
+CON	comments
+PST	were
+AND	always
+INT	very
+EXS	helpful
+REL	to
+PRO	me
+NIL	.

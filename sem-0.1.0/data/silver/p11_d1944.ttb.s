@@ -1,0 +1,9 @@
+PRO	We
+NEC	should
+NOT	not
+EXS	make
+INT	too
+QUV	much
+AND	of
+CON	money
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+CON	squirrel
+EPS	closed
+HAS	its
+CON	eyes
+COO	and
+EPS	began
+NIL	to
+EXS	count
+CON	hazelnuts
+NIL	.

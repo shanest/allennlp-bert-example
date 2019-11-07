@@ -1,0 +1,13 @@
+NOW	Do
+PRO	you
+EXS	know
+AND	of
+DIS	a
+CON	dish
+AND	that
+NOW	has
+CON	laurel
+ENS	leaves
+REL	in
+PRO	it
+QUE	?

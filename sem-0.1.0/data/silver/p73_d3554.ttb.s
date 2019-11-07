@@ -1,0 +1,14 @@
+GPE	Japan
+PST	was
+QUC	one
+AND	of
+DEF	the
+CON	world
+HAS	's
+TOP	fastest
+EXG	growing
+CON	economies
+REL	in
+DEF	the
+DEC	1980s
+NIL	.

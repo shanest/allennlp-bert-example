@@ -1,0 +1,9 @@
+EXS	Tell
+PER	Tom
+PRO	I
+NEC	have
+SUB	to
+EXS	work
+IST	late
+CON	tonight
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PRO	I
+NOW	have
+EXS	worked
+IST	together
+REL	for
+MOR	over
+QUC	three
+YOC	years
+NIL	.

@@ -1,0 +1,10 @@
+IST	Most
+CON	people
+ENS	see
+XCL	only
+QUE	what
+PRO	they
+ENS	want
+SUB	to
+EXS	see
+NIL	.

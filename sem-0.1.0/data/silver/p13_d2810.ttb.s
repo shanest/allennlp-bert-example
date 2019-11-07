@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+IST	really
+ENS	want
+DIS	someone
+AND	else
+SUB	to
+EXS	do
+PRO	it
+QUE	?

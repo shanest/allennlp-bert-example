@@ -1,0 +1,13 @@
+PER	Tom
+NOW	is
+DEF	the
+QUC	one
+AND	who
+EPS	told
+PRO	me
+SUB	that
+PRO	I
+NEC	should
+EXS	study
+GPO	French
+NIL	.

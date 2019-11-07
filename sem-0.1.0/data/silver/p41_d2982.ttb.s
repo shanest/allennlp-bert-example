@@ -1,0 +1,14 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+HAS	my
+EXS	backup
+CON	singers
+IST	back
+SUB	when
+PRO	I
+EPS	used
+SUB	to
+EXS	perform
+NIL	.

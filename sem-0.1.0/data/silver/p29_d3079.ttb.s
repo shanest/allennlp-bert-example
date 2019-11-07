@@ -1,0 +1,26 @@
+SUB	When
+GPE	Spain
+EPS	colonized
+DEF	the
+GEO	Philippines
+NIL	,
+PRO	they
+PST	were
+EXS	administrated
+REL	by
+GPE	Mexico City
+NIL	.
+AND	So
+PRO	it
+PST	was
+GPO	Mexican
+GPO	Spanish
+NIL	,
+NOT	not
+GPO	Castilian
+CON	Spanish
+NIL	,
+SUB	that
+EPS	influenced
+CON	Tagalog
+NIL	.

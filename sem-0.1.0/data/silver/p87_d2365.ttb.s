@@ -1,0 +1,10 @@
+PRO	I
+NOW	hope
+PRO	you
+AND	and
+PER	Tom
+FUT	will
+EXS	like
+PRO	it
+PRX	here
+NIL	.

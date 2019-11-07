@@ -1,0 +1,9 @@
+PRO	She
+EPS	looked
+IST	well
+SUB	when
+PRO	I
+IST	last
+EPS	saw
+PRO	her
+NIL	.

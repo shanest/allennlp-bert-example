@@ -1,0 +1,12 @@
+PRO	I
+ENS	need
+SUB	to
+EXS	ask
+HAS	my
+CON	mom
+IMP	if
+PRO	it
+NOW	's
+EXS	okay
+IST	first
+NIL	.

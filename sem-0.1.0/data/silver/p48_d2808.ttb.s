@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	finished
+AND	all
+HAS	my
+CON	homework
+ALT	yet
+NIL	.

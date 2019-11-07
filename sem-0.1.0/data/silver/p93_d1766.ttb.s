@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+IST	only
+PER	Tom
+ENS	knows
+DEF	the
+IST	whole
+CON	truth
+NIL	.

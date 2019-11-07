@@ -1,0 +1,13 @@
+DST	That
+HAS	's
+DIS	a
+IST	dangerous
+CON	curve
+NIL	.
+UNK	There
+NOW	've
+PFT	been
+QUC	many
+CON	accidents
+IST	there
+NIL	.

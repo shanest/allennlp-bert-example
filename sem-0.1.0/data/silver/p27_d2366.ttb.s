@@ -1,0 +1,9 @@
+DEF	The
+CON	professor
+NOW	is
+REL	in
+GPE	Japan
+REL	on
+IST	sabbatical
+EXS	leave
+NIL	.

@@ -1,0 +1,14 @@
+SUB	When
+PRO	I
+EPS	got
+REL	off
+DEF	the
+CON	train
+NIL	,
+PRO	I
+EPS	saw
+DIS	a
+CON	friend
+AND	of
+HAS	mine
+NIL	.

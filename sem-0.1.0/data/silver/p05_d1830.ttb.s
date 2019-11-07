@@ -1,0 +1,13 @@
+FUT	Will
+PRO	you
+EXS	read
+HAS	my
+CON	essay
+COO	and
+EXS	correct
+DEF	the
+CON	mistakes
+NIL	,
+IMP	if
+AND	any
+QUE	?

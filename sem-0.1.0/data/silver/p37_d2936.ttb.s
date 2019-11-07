@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+IST	natural
+REL	for
+PRO	you
+SUB	to
+EXS	think
+IST	so
+NIL	.

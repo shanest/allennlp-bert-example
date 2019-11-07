@@ -1,0 +1,14 @@
+PRO	I
+ENS	know
+DIS	a
+IST	few
+CON	words
+AND	of
+GPO	French
+NIL	,
+AND	just
+IST	enough
+SUB	to
+EXS	be
+EXS	understood
+NIL	.

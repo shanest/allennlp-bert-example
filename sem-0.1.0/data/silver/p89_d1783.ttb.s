@@ -1,0 +1,9 @@
+NOT	No
+CON	one
+PRO	I
+ENS	know
+CON	talks
+REL	to
+PER	Tom
+CON	anymore
+NIL	.

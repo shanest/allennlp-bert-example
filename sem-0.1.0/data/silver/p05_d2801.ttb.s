@@ -1,0 +1,14 @@
+CON	Mass
+NOW	is
+DIS	a
+IST	Catholic
+CON	ceremony
+AND	of
+EXG	remembering
+PER	Jesus
+PER	Christ
+REL	by
+EXG	eating
+AND	and
+CON	drinking
+NIL	.

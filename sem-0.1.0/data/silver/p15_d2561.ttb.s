@@ -1,0 +1,13 @@
+PRO	I
+ENS	want
+PRO	you
+SUB	to
+EXS	take
+CON	care
+AND	of
+PER	Tom
+REL	for
+DIS	a
+IST	little
+CON	while
+NIL	.

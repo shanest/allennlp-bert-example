@@ -1,0 +1,9 @@
+PRO	I
+EPS	liked
+EXS	walking
+AND	alone
+REL	on
+DEF	the
+EXS	deserted
+CON	beach
+NIL	.

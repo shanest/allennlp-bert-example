@@ -1,0 +1,11 @@
+PRO	I
+NOW	doubt
+SUB	that
+PER	Tom
+EPS	knew
+SUB	that
+PER	Mary
+PST	was
+IST	already
+EXS	married
+NIL	.

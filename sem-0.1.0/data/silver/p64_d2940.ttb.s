@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+FUT	would
+EXS	survive
+SUB	that
+CON	amount
+AND	of
+CON	blood
+CON	loss
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	supposed
+SUB	to
+EXS	go
+REL	to
+GPE	Boston
+REL	on
+DOW	Monday
+NIL	.

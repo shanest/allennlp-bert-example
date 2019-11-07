@@ -1,0 +1,11 @@
+GPO	Chinese
+CON	language
+ENS	works
+QUV	much
+MOR	better
+MOR	than
+CON	English
+REL	in
+PRX	this
+CON	market
+NIL	.

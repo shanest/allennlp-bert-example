@@ -1,0 +1,17 @@
+PRO	She
+EPS	liked
+CON	men
+NIL	,
+IMP	if
+CON	truth
+PST	were
+EXS	told
+NIL	,
+DIS	a
+IST	tiny
+CON	wee
+EPS	bit
+MOR	more
+MOR	than
+CON	women
+NIL	.

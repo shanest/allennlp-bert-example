@@ -1,0 +1,9 @@
+PER	Mary
+NOW	is
+EXS	wearing
+QUC	two
+CON	sweaters
+REL	under
+HAS	her
+CON	coat
+NIL	.

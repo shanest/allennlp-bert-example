@@ -1,0 +1,9 @@
+PER	Tom
+EPS	opened
+DEF	the
+CON	trunk
+COO	and
+EPS	found
+PRO	it
+EXS	empty
+NIL	.

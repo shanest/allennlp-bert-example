@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+IST	hard
+SUB	to
+EXS	eat
+IST	just
+QUC	one
+CON	strawberry
+NIL	.

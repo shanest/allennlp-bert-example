@@ -1,0 +1,11 @@
+NOT	No
+CON	one
+NOW	is
+EXS	born
+IST	wise
+NIL	,
+COO	but
+QUC	many
+ENS	die
+IST	stupid
+NIL	.

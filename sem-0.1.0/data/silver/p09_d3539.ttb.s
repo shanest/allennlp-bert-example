@@ -1,0 +1,11 @@
+PER	Tom
+EPS	picked
+IST	out
+DIS	an
+IST	interesting
+CON	book
+REL	for
+PER	Mary
+SUB	to
+EXS	read
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+EPS	received
+DIS	a
+CON	letter
+REL	from
+QUC	one
+AND	of
+HAS	my
+CON	friends
+REL	in
+GPE	Japan
+NIL	.

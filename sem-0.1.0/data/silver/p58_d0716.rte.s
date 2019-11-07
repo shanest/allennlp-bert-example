@@ -1,0 +1,13 @@
+GPE	India
+AND	and
+GEO	Pakistan
+NOW	have
+EXS	fought
+QUC	three
+CON	wars
+REL	for
+DEF	the
+CON	possession
+AND	of
+GEO	Kashmir
+NIL	.

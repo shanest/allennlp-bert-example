@@ -1,0 +1,10 @@
+PRO	He
+NOW	has
+NOT	not
+EXS	written
+REL	to
+PRO	us
+REL	since
+IST	last
+MOY	February
+NIL	.

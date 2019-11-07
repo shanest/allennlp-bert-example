@@ -1,0 +1,17 @@
+PER	Tom
+EPS	said
+PRO	he
+PST	had
+CON	room
+REL	in
+HAS	his
+CON	garage
+REL	for
+PRO	me
+SUB	to
+EXS	keep
+DIS	some
+AND	of
+HAS	my
+CON	things
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+PER	Tom
+AND	and
+PER	Mary
+EPS	used
+SUB	to
+EXS	be
+CON	friends
+NIL	.

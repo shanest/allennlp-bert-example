@@ -1,0 +1,10 @@
+PRO	I
+EPS	made
+DIS	a
+IST	big
+CON	mistake
+SUB	when
+EXS	choosing
+HAS	my
+CON	wife
+NIL	.

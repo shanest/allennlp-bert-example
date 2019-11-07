@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+CON	golf
+NOW	is
+INT	very
+EXS	popular
+REL	in
+GPE	Japan
+NIL	.

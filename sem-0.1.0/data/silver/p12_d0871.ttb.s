@@ -1,0 +1,10 @@
+PRO	He
+ALT	also
+EPS	came
+IST	up
+REL	with
+ALT	yet
+ALT	another
+IST	doubtful
+CON	conclusion
+NIL	.

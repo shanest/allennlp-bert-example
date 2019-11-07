@@ -1,0 +1,11 @@
+ROL	Dr.
+PER	Hellebrandt
+NOW	is
+DIS	an
+REL	associate
+CON	professor
+REL	in
+DST	that
+IST	excellent
+CON	university
+NIL	.

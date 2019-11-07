@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+IST	simply
+INT	too
+EXS	hot
+SUB	to
+EXS	do
+DIS	anything
+CON	today
+NIL	.

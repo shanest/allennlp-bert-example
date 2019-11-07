@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+DIS	an
+GPO	English
+CON	teacher
+AND	who
+ENS	comes
+REL	from
+GPE	Canada
+NIL	.

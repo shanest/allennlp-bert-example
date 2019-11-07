@@ -1,0 +1,11 @@
+PRO	He
+NEC	ought
+SUB	to
+EXS	be
+EXS	punished
+IMP	if
+PRO	he
+ENS	commits
+DIS	a
+CON	crime
+NIL	.

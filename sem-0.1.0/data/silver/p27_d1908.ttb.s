@@ -1,0 +1,10 @@
+PRO	You
+ENS	need
+NOT	not
+EXT	have
+EXS	worried
+AND	about
+HAS	her
+IST	so
+IST	seriously
+NIL	.

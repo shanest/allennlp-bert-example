@@ -1,0 +1,9 @@
+PRO	We
+ENS	need
+DIS	a
+CON	tool
+SUB	to
+EXS	open
+PRO	it
+REL	with
+NIL	.

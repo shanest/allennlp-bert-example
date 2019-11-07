@@ -1,0 +1,10 @@
+PER	Tom
+EPS	gave
+PER	Mary
+CON	flowers
+AND	and
+CON	chocolate
+REL	on
+HAS	their
+CON	anniversary
+NIL	.

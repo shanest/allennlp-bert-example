@@ -1,0 +1,10 @@
+DEF	The
+ROL	enemy
+EPS	committed
+DIS	a
+IST	horrible
+CON	manslaughter
+REL	in
+DEF	the
+CON	city
+NIL	.

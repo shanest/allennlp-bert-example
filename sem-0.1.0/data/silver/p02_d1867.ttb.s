@@ -1,0 +1,10 @@
+AND	Generally
+EXG	speaking
+NIL	,
+CON	women
+NOW	are
+MOR	better
+CON	linguists
+AND	than
+CON	men
+NIL	.

@@ -1,0 +1,17 @@
+PRO	It
+HAS	's
+DIS	a
+CON	lot
+INT	too
+IST	thin
+SUB	that
+HAS	our
+IST	henpecked
+CON	husband
+REL	in
+CON	fact
+EPS	hooked
+IST	up
+DEF	the
+CON	wallflower
+NIL	.

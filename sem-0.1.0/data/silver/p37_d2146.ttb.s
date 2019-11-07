@@ -1,0 +1,10 @@
+DEF	The
+CON	soldiers
+PST	were
+IST	ready
+SUB	to
+EXS	die
+REL	for
+HAS	their
+CON	country
+NIL	.

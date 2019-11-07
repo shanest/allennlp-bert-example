@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+EXS	working
+IST	full
+CON	time
+REL	in
+DIS	a
+CON	bookshop
+REL	until
+DEF	the
+CON	end
+AND	of
+MOY	September
+NIL	.

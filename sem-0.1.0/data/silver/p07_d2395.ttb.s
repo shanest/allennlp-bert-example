@@ -1,0 +1,11 @@
+PRO	I
+NOW	have
+NOT	never
+EXS	been
+REL	to
+DST	that
+CON	part
+AND	of
+DEF	the
+CON	country
+NIL	.

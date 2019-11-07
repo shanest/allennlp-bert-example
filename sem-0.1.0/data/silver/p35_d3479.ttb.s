@@ -1,0 +1,10 @@
+PRO	I
+ENS	need
+SUB	to
+EXS	know
+SUB	where
+PER	Tom
+EPS	buried
+DEF	the
+CON	gold
+NIL	.

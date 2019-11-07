@@ -1,0 +1,9 @@
+PER	Tom
+EPS	entered
+DEF	the
+CON	room
+REL	with
+HAS	his
+CON	gun
+EXS	drawn
+NIL	.

@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+DIS	a
+IST	small
+CON	school
+NIL	.
+AND	Everyone
+ENS	knows
+AND	everyone
+NIL	.

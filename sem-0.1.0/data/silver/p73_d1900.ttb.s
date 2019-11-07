@@ -1,0 +1,15 @@
+REL	At
+AND	every
+GRE	goodbye
+HAS	my
+CON	heart
+ENS	trembles
+REL	with
+CON	fear
+SUB	that
+PRO	you
+FUT	will
+NOT	never
+EXS	come
+IST	back
+NIL	.

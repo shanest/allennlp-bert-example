@@ -1,0 +1,11 @@
+PRX	This
+IST	beautiful
+CON	garden
+ENS	owes
+IST	more
+REL	to
+CON	art
+AND	than
+REL	to
+CON	nature
+NIL	.

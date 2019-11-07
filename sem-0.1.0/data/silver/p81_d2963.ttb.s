@@ -1,0 +1,17 @@
+NIL	"
+PRO	I
+NOW	'm
+INT	so
+IST	glad
+PRO	you
+PST	got
+EXS	rid
+AND	of
+PRO	him
+NIL	.
+NIL	"
+NIL	"
+PRO	Me
+ALT	too
+NIL	.
+NIL	"

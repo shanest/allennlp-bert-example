@@ -1,0 +1,10 @@
+SUB	Until
+PRO	they
+EPS	came
+IST	back
+NIL	,
+PRO	she
+PST	had
+PFT	been
+EXS	busy
+NIL	.

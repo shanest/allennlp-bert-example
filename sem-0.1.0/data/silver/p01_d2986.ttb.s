@@ -1,0 +1,9 @@
+PRO	I
+EPS	heard
+SUB	that
+PRO	he
+EPS	bought
+DIS	a
+IST	new
+CON	computer
+NIL	.

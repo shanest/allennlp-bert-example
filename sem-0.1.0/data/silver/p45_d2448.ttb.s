@@ -1,0 +1,11 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	like
+DEF	the
+CON	way
+PRO	she
+EPS	talked
+REL	to
+CON	people
+NIL	.

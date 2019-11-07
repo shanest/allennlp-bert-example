@@ -1,0 +1,11 @@
+UNK	There
+ENS	comes
+HAS	our
+CON	teacher
+NIL	.
+PRO	He
+NOW	is
+EXS	walking
+INT	very
+IST	slowly
+NIL	.

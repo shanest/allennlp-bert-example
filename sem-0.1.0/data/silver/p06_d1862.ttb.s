@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	basing
+HAS	my
+CON	story
+REL	on
+HAS	my
+CON	childhood
+NIL	.

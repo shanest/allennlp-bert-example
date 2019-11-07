@@ -1,0 +1,9 @@
+PRO	I
+IST	only
+EXS	feed
+HAS	my
+CON	dog
+IST	dry
+CON	dog
+CON	food
+NIL	.

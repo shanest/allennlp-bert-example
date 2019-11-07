@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+DIS	a
+CON	person
+AND	who
+ENS	speaks
+GPO	Russian
+IST	very
+IST	well
+NIL	.

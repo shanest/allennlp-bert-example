@@ -1,0 +1,12 @@
+PRO	We
+NOW	are
+EXS	alone
+REL	in
+EXG	believing
+SUB	that
+PRO	she
+NOW	is
+DIS	a
+IST	beautiful
+CON	woman
+NIL	.

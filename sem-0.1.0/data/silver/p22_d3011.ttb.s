@@ -1,0 +1,14 @@
+SUB	When
+EXG	baking
+DIS	a
+CON	cake
+NIL	,
+PRO	it
+NOW	is
+EXS	important
+SUB	to
+EXS	stick
+REL	to
+DEF	the
+CON	recipe
+NIL	.

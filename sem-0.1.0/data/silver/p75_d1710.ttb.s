@@ -1,0 +1,10 @@
+PER	Tom
+IST	probably
+ENS	knows
+MOR	more
+MOR	than
+PRO	he
+NOW	's
+EXS	telling
+PRO	us
+NIL	.

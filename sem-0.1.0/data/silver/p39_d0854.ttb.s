@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	supposed
+SUB	to
+EXS	go
+REL	to
+GEO	Tokyo
+AND	next
+CON	week
+NIL	.

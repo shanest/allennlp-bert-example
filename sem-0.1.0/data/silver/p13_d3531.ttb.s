@@ -1,0 +1,12 @@
+PER	Tom
+ENS	says
+PRO	he
+POS	can
+EXS	trace
+HAS	his
+CON	ancestors
+IST	back
+AND	about
+INT	300
+UOM	years
+NIL	.

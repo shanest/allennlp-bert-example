@@ -1,0 +1,10 @@
+QUE	Which
+CON	university
+NOW	do
+PRO	you
+EXS	think
+PER	Ted
+FUT	will
+EXS	go
+REL	to
+QUE	?

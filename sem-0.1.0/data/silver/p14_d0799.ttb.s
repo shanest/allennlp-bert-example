@@ -1,0 +1,11 @@
+DIS	A
+IST	mysterious
+CON	legend
+NOW	has
+PFT	been
+EXS	handed
+IST	down
+AND	about
+PRX	this
+CON	lake
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+EPS	gave
+REL	in
+REL	to
+CON	temptation
+COO	and
+EPS	began
+NIL	to
+EXS	smoke
+DIS	a
+CON	cigarette
+NIL	.

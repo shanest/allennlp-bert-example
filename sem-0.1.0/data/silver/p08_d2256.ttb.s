@@ -1,0 +1,16 @@
+QUE	Who
+ENS	loves
+NOT	not
+CON	women
+EQU	,
+CON	wine
+AND	and
+CON	song
+NOW	remains
+DIS	a
+CON	fool
+HAS	his
+IST	whole
+CON	life
+IST	long
+NIL	.

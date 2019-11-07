@@ -1,0 +1,13 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	know
+QUE	how
+SUB	to
+EXS	accept
+PER	Mary
+HAS	's
+CON	love
+AND	and
+CON	affection
+NIL	.

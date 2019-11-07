@@ -1,0 +1,11 @@
+DST	That
+CON	chapel
+PST	was
+EXS	built
+REL	by
+DEF	the
+GPO	Spaniards
+DIS	some
+CON	centuries
+PST	ago
+NIL	.

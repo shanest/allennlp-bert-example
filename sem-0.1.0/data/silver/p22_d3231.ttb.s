@@ -1,0 +1,14 @@
+EXS	Put
+DEF	the
+CON	book
+IST	back
+REL	on
+DEF	the
+CON	shelf
+SUB	when
+PRO	you
+NOW	're
+AND	through
+REL	with
+PRO	it
+NIL	.

@@ -1,0 +1,10 @@
+HAS	My
+CON	brother
+NOW	is
+IST	really
+EXS	tall
+NIL	,
+AND	about
+QUC	1.8
+UOM	m
+NIL	.

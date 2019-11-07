@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+NOW	today
+NOW	is
+IST	fully
+EXS	booked
+NIL	.

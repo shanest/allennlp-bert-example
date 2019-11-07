@@ -1,0 +1,15 @@
+QUE	Who
+EPS	said
+NIL	"
+EXS	Let
+PER	Yeltsin
+NOW	have
+HAS	his
+CON	vodka
+COO	and
+GEO	Chechnya
+NOW	have
+HAS	its
+CON	freedom
+NIL	"
+QUE	?

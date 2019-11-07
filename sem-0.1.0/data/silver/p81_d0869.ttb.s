@@ -1,0 +1,10 @@
+PRO	You
+NOW	are
+NOT	not
+IST	able
+SUB	to
+EXS	swim
+NIL	,
+NOW	are
+PRO	you
+QUE	?

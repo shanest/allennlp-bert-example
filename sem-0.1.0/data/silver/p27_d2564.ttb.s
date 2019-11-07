@@ -1,0 +1,15 @@
+PER	Mary
+NOW	has
+DIS	a
+IST	bad
+IST	back
+NIL	.
+PRO	It
+NOW	's
+IST	hard
+REL	for
+PRO	her
+SUB	to
+EXS	lift
+CON	things
+NIL	.

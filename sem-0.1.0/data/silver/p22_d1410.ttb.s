@@ -1,0 +1,11 @@
+PRO	He
+EPS	wrote
+PRO	it
+IST	down
+AND	so
+AND	as
+NOT	not
+SUB	to
+EXS	forget
+PRO	it
+NIL	.

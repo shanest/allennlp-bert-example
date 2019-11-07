@@ -1,0 +1,11 @@
+PRO	I
+NOW	have
+EXS	read
+HAS	your
+CON	book
+NIL	.
+PRO	It
+NOW	's
+INT	very
+EXS	interesting
+NIL	.

@@ -1,0 +1,16 @@
+PRO	We
+IST	still
+NOW	have
+DIS	some
+CON	farm
+CON	equipment
+AND	that
+NOW	has
+NOT	n't
+PFT	been
+EXS	used
+REL	since
+HAS	my
+ROL	grandfather
+EPS	died
+NIL	.

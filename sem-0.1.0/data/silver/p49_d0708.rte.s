@@ -1,0 +1,22 @@
+REL	In
+DEF	the
+IST	last
+QUC	two
+CON	years
+REL	in
+DEF	the
+GPE	Darfur
+CON	region
+MOR	more
+MOR	than
+QUC	70,000
+CON	people
+NOW	have
+PFT	been
+EXS	killed
+NIL	,
+COO	and
+AND	over
+QUC	2 million
+EXS	displaced
+NIL	.

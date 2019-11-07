@@ -1,0 +1,14 @@
+DIS	A
+CON	tomb
+NOW	now
+ENS	suffices
+PRO	him
+REL	for
+UNK	whom
+DEF	the
+IST	whole
+CON	world
+PST	was
+NOT	not
+EXS	sufficient
+NIL	.

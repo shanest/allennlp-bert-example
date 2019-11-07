@@ -1,0 +1,11 @@
+DIS	A
+CON	person
+AND	who
+NOW	is
+EXS	born
+REL	in
+GPE	France
+NOW	is
+DIS	a
+GPO	French
+NIL	.

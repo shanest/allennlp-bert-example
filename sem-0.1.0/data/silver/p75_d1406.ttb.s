@@ -1,0 +1,16 @@
+PER	Tom
+EPS	left
+HAS	his
+CON	parents
+HAS	'
+CON	house
+PRX	this
+CON	spring
+AND	and
+NOW	has
+PFT	been
+EXS	living
+AND	alone
+REL	since
+CON	then
+NIL	.

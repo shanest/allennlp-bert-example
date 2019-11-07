@@ -1,0 +1,12 @@
+PRO	I
+EPS	made
+IST	up
+HAS	my
+CON	mind
+SUB	to
+EXS	quit
+CON	smoking
+REL	from
+NOW	now
+REL	on
+NIL	.

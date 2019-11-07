@@ -1,0 +1,15 @@
+NOW	Do
+NOT	n't
+EXS	put
+AND	so
+QUV	much
+REL	on
+HAS	your
+CON	plate
+NIL	!
+PRO	You
+POS	can
+IST	always
+EXT	have
+CON	seconds
+NIL	.

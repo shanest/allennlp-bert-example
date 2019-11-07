@@ -1,0 +1,10 @@
+PRO	We
+EPS	came
+IST	here
+SUB	when
+HAS	our
+ROL	father
+PST	was
+EXS	working
+IST	abroad
+NIL	.

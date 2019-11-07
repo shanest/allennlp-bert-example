@@ -1,0 +1,16 @@
+AND	Instead
+AND	of
+EXG	waiting
+REL	for
+PER	Tom
+NIL	,
+EXS	let
+PRO	's
+EXS	eat
+NOW	now
+REL	before
+DEF	the
+CON	food
+ENS	gets
+EXS	cold
+NIL	.

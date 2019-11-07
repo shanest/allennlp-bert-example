@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+AND	who
+EXS	named
+PRX	this
+CON	dog
+LIT	Pochi
+NIL	.

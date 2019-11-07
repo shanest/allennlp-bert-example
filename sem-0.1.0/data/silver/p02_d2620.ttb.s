@@ -1,0 +1,10 @@
+PRO	I
+POS	can
+NOT	never
+EXS	tell
+DEF	the
+QUC	two
+AND	of
+PRO	them
+IST	apart
+NIL	.

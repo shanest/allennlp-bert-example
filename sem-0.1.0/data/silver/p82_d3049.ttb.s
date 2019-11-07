@@ -1,0 +1,10 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	believe
+SUB	that
+PER	Mary
+PST	had
+EPS	tricked
+PRO	him
+NIL	.

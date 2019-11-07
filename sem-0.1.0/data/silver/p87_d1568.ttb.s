@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+INT	extremely
+EXS	embarrassed
+SUB	that
+PRO	it
+NOW	has
+EXS	taken
+AND	so
+IST	long
+REL	to
+CON	reply
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+IST	strange
+SUB	that
+PRO	he
+ENS	knows
+NOT	nothing
+AND	about
+DEF	the
+CON	matter
+NIL	.

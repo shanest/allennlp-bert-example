@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	convinced
+SUB	that
+PRO	I
+FUT	will
+EXS	win
+SUB	that
+EXS	match
+AND	of
+CON	tennis
+NIL	.

@@ -1,0 +1,13 @@
+EXG	Patting
+PRO	me
+REL	on
+DEF	the
+CON	shoulder
+NIL	,
+PRO	he
+EPS	thanked
+PRO	me
+REL	for
+EXG	helping
+PRO	him
+NIL	.

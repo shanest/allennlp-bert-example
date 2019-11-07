@@ -1,0 +1,12 @@
+PER	Tom
+EPS	realized
+SUB	that
+PER	Mary
+PST	did
+NOT	n't
+IST	really
+EXS	like
+PRO	him
+INT	very
+QUC	much
+NIL	.

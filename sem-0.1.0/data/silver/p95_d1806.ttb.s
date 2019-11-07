@@ -1,0 +1,15 @@
+HAS	Your
+CON	letter
+EPS	reached
+PRO	me
+IST	only
+NOW	today
+NIL	,
+EXT	having
+PFT	been
+EXS	delayed
+REL	by
+DEF	the
+IST	heavy
+CON	snow
+NIL	.

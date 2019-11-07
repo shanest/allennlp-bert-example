@@ -1,0 +1,9 @@
+PER	George
+HAS	's
+ROL	sister
+EPS	made
+PRO	me
+DIS	a
+IST	few
+CON	sandwiches
+NIL	.

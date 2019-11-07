@@ -1,0 +1,9 @@
+DEF	The
+ROL	farmers
+NOW	are
+EXS	busy
+EXS	working
+REL	in
+DEF	the
+CON	fields
+NIL	.

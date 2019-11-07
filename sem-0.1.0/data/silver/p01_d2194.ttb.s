@@ -1,0 +1,10 @@
+PRO	I
+ENS	like
+NIL	to
+EXS	take
+HAS	my
+CON	children
+REL	to
+DEF	the
+CON	beach
+NIL	.

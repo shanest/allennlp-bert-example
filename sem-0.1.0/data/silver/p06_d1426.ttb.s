@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+IST	ever
+EXS	seen
+DIS	a
+CON	bear
+REL	in
+PRX	this
+CON	area
+QUE	?

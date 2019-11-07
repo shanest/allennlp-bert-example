@@ -1,0 +1,17 @@
+HAS	Her
+CON	career
+PST	had
+EXS	hit
+HAS	its
+CON	nadir
+NIL	.
+QUV	Little
+PST	did
+PRO	she
+EXS	know
+SUB	that
+CON	things
+FUT	would
+IST	soon
+EXS	improve
+NIL	.

@@ -1,0 +1,15 @@
+PRO	It
+NOW	is
+EXS	easy
+SUB	to
+EXS	find
+DIS	a
+IST	nice
+CON	woman
+COO	but
+IST	difficult
+SUB	to
+EXS	keep
+HAS	her
+IST	nice
+NIL	.

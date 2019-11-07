@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+IST	insane
+NIL	!
+HAS	Your
+CON	mom
+ENS	speaks
+QUC	six
+CON	languages
+QUE	?

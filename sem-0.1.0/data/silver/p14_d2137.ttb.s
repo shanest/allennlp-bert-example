@@ -1,0 +1,16 @@
+PRO	I
+EPS	studied
+GPO	English
+IST	very
+IST	hard
+AND	every
+CON	day
+NIL	,
+BUT	but
+PRO	I
+PST	did
+NOT	n't
+EXS	learn
+DIS	a
+CON	lot
+NIL	.

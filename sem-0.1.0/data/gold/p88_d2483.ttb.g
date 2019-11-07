@@ -1,0 +1,10 @@
+PRO	You
+ENS	seem
+IST	tired
+NIL	.
+PRO	You
+NEC	should
+EXS	go
+REL	to
+CON	bed
+NIL	.

@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+DEF	the
+TOP	biggest
+CON	elephant
+PRO	I
+NOW	've
+IST	ever
+EXS	seen
+NIL	.

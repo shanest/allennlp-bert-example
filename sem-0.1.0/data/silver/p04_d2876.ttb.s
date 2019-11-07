@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	what
+SUB	to
+EXS	believe
+CON	anymore
+NIL	.

@@ -1,0 +1,11 @@
+NOW	Have
+PRO	you
+EPS	heard
+REL	from
+PRO	him
+SUB	since
+PRO	he
+EPS	left
+REL	for
+GEO	America
+QUE	?

@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+EPS	helped
+PRO	me
+SUB	when
+PRO	I
+PST	was
+REL	in
+CON	trouble
+NIL	.

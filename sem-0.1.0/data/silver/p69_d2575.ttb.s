@@ -1,0 +1,17 @@
+DEF	The
+IST	real
+CON	queen
+PST	was
+NOW	now
+EXS	restored
+REL	to
+AND	all
+HAS	her
+CON	dignity
+NIL	,
+COO	and
+PST	was
+IST	beloved
+REL	by
+AND	all
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+NIL	,
+ALT	too
+NIL	,
+NEC	should
+EXT	have
+EXS	seen
+SUB	that
+CON	movie
+NIL	.

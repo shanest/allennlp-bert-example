@@ -1,0 +1,11 @@
+PRO	You
+NOW	're
+EXS	mistaken
+NIL	.
+PRO	He
+ENS	plays
+CON	bass
+NIL	,
+NOT	not
+CON	trombone
+NIL	.

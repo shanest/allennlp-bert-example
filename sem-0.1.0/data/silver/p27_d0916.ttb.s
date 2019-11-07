@@ -1,0 +1,10 @@
+NOW	Does
+PER	Tom
+NOW	have
+DIS	a
+CON	key
+REL	to
+PER	Mary
+HAS	's
+CON	flat
+QUE	?

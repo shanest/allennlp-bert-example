@@ -1,0 +1,10 @@
+PRO	You
+POS	can
+EXS	borrow
+DIS	an
+CON	umbrella
+IMP	if
+PRO	you
+ENS	need
+CON	one
+NIL	.

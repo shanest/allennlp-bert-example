@@ -1,0 +1,14 @@
+PRO	I
+NOW	hope
+DIS	someone
+EPS	turned
+HAS	my
+IST	missing
+CON	cellphone
+REL	in
+REL	to
+DEF	the
+EXS	lost
+AND	and
+EXS	found
+NIL	.

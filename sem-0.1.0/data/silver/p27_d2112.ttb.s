@@ -1,0 +1,9 @@
+IMP	If
+PER	Tom
+ENS	swims
+NIL	,
+PRO	I
+FUT	will
+NIL	,
+IST	too
+NIL	.

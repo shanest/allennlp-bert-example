@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	still
+NOT	not
+EXS	convinced
+PRO	it
+NOW	's
+EXS	going
+SUB	to
+EXS	work
+NIL	.

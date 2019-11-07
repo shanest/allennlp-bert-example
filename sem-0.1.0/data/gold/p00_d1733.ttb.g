@@ -1,0 +1,10 @@
+PRO	I
+PST	had
+HAS	my
+CON	hair
+EXS	cut
+REL	at
+DEF	the
+CON	barber
+HAS	's
+NIL	.

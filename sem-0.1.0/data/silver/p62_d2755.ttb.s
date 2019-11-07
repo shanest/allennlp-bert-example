@@ -1,0 +1,12 @@
+REL	By
+DEF	the
+CON	time
+PRO	we
+EPS	got
+UNK	there
+NIL	,
+DEF	the
+CON	ship
+PST	had
+EXS	left
+NIL	.

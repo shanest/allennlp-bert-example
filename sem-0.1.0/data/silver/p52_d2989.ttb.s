@@ -1,0 +1,10 @@
+PRO	She
+PST	had
+NOT	n't
+EXS	seen
+PRO	him
+REL	in
+DIS	a
+IST	long
+CON	time
+NIL	.

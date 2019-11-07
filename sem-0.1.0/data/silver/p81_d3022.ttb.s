@@ -1,0 +1,14 @@
+PRO	He
+PST	had
+PFT	been
+EXS	repairing
+DEF	the
+CON	car
+AND	and
+PST	looked
+EXS	tired
+SUB	when
+PRO	I
+EPS	arrived
+CON	home
+NIL	.

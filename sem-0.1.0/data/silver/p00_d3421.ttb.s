@@ -1,0 +1,16 @@
+PST	Yesterday
+PRO	I
+EPS	saw
+DIS	a
+CON	girl
+AND	whom
+PRO	I
+PST	had
+EPS	met
+REL	in
+DEF	the
+CON	library
+DIS	a
+CON	month
+REL	before
+NIL	.

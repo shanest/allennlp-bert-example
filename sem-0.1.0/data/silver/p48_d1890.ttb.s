@@ -1,0 +1,13 @@
+REL	In
+HAS	her
+CON	speech
+NIL	,
+PRO	she
+EPS	emphasized
+DEF	the
+CON	issues
+IST	directly
+EXS	related
+REL	to
+CON	practice
+NIL	.

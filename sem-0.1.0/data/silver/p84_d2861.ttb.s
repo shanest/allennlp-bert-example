@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+IST	really
+EXS	worried
+SUB	that
+PRO	I
+NOW	have
+NOT	n't
+EXS	got
+IST	enough
+CON	time
+NIL	.

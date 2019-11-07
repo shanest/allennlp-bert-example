@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+QUE	how
+SUB	to
+EXS	take
+CON	care
+AND	of
+EMP	myself
+NIL	.

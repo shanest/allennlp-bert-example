@@ -1,0 +1,12 @@
+PER	Tom
+EPS	wanted
+SUB	to
+EXS	give
+DIS	a
+INT	very
+IST	special
+CON	present
+REL	to
+HAS	his
+CON	girlfriend
+NIL	.

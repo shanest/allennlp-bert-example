@@ -1,0 +1,10 @@
+PRO	I
+FUT	'd
+NIL	rather
+PRO	you
+PST	did
+NOT	n't
+EXS	smoke
+IST	so
+QUV	much
+NIL	.

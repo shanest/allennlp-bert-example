@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	get
+DEF	the
+CON	cap
+REL	off
+PRX	this
+CON	bottle
+NIL	.

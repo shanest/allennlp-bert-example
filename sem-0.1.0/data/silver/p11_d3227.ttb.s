@@ -1,0 +1,12 @@
+PRO	I
+ENS	know
+NOT	not
+XCL	only
+DEF	the
+ROL	father
+NIL	,
+BUT	but
+ALT	also
+DEF	the
+CON	son
+NIL	.

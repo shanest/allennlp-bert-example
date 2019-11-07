@@ -1,0 +1,9 @@
+PRO	They
+EPS	dug
+IST	up
+DIS	a
+CON	box
+EXG	containing
+IST	human
+CON	remains
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	imagine
+EXG	doing
+DST	that
+NIL	,
+POS	can
+PRO	you
+QUE	?

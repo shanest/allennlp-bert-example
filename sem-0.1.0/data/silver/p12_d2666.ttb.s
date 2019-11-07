@@ -1,0 +1,10 @@
+PER	Tom
+IST	actually
+PST	did
+QUE	what
+PRO	he
+EPS	said
+PRO	he
+FUT	would
+EXS	do
+NIL	.

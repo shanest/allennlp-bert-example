@@ -1,0 +1,13 @@
+PRO	I
+EPS	met
+HAS	his
+CON	wife
+REL	at
+DEF	the
+CON	station
+NIL	.
+PRO	She
+NOW	's
+INT	very
+EXS	attractive
+NIL	.

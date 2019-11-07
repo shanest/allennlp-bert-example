@@ -1,0 +1,15 @@
+PRO	We
+NOW	are
+EXS	considering
+AND	all
+DEF	the
+CON	pros
+AND	and
+CON	cons
+SUB	before
+EXS	deciding
+QUE	what
+PRO	we
+FUT	will
+EXS	do
+NIL	.

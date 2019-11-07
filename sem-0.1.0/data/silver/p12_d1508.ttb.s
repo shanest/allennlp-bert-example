@@ -1,0 +1,10 @@
+PRO	She
+EPS	listened
+INT	very
+IST	carefully
+SUB	when
+PRO	I
+EPS	praised
+HAS	her
+CON	son
+NIL	.

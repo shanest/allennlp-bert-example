@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+DIS	a
+CON	doctor
+EQU	,
+PER	Jim
+NIL	.
+NOT	Not
+DIS	a
+ROL	lawyer
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	put
+CON	way
+INT	too
+QUC	much
+CON	salt
+REL	in
+DEF	the
+CON	stew
+NIL	.

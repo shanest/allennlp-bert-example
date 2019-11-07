@@ -1,0 +1,11 @@
+PRO	I
+ENS	bet
+PRO	you
+NOW	're
+EXS	wondering
+QUE	why
+PER	Tom
+EPS	left
+IST	so
+IST	early
+NIL	.

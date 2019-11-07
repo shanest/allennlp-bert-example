@@ -1,0 +1,10 @@
+DEF	The
+CON	man
+NOW	is
+EXG	imagining
+PRO	he
+NOW	sees
+DIS	a
+IST	young
+CON	girl
+NIL	.

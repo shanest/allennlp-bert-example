@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+DIS	a
+CON	guy
+AND	who
+ENS	has
+QUC	five
+ROL	sisters
+NIL	.

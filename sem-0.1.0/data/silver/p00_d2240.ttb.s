@@ -1,0 +1,11 @@
+PRO	It
+PST	was
+NOT	n't
+EXS	easy
+REL	for
+PRO	him
+NIL	to
+EXS	keep
+HAS	his
+CON	promise
+NIL	.

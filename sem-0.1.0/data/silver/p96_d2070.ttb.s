@@ -1,0 +1,11 @@
+SUB	To
+EXS	tell
+DEF	the
+CON	truth
+NIL	,
+PRO	I
+NOW	've
+EXS	forgotten
+HAS	his
+CON	name
+NIL	.

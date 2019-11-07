@@ -1,0 +1,11 @@
+DEF	The
+ROL	translator
+EPS	found
+PRO	it
+UNK	impossible
+SUB	to
+EXS	explain
+QUE	what
+PRO	he
+EPS	meant
+NIL	.

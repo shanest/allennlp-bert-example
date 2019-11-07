@@ -1,0 +1,11 @@
+QUV	Many
+CON	people
+AND	around
+DEF	the
+CON	world
+ENS	eat
+QUC	three
+CON	meals
+DIS	a
+CON	day
+NIL	.

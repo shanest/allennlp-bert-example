@@ -1,0 +1,9 @@
+PER	Mary
+NOW	is
+DEF	the
+INT	most
+IST	beautiful
+CON	girl
+PRO	I
+ENS	know
+NIL	.

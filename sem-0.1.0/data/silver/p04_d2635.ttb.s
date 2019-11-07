@@ -1,0 +1,9 @@
+HAS	Our
+CON	army
+EPS	attacked
+DEF	the
+ROL	enemy
+AND	during
+DEF	the
+CON	night
+NIL	.

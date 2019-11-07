@@ -1,0 +1,16 @@
+NOW	Today
+NIL	,
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	talk
+AND	about
+DEF	the
+CON	importance
+AND	of
+CON	sport
+REL	in
+IST	modern
+CON	society
+NIL	.

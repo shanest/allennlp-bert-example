@@ -1,0 +1,9 @@
+PRO	They
+ENS	manage
+SUB	to
+EXS	get
+REL	along
+NOT	without
+QUV	much
+CON	money
+NIL	.

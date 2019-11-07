@@ -1,0 +1,9 @@
+PRO	She
+NOW	keeps
+EXG	moaning
+SUB	that
+PRO	she
+NOW	has
+NOT	no
+CON	time
+NIL	.

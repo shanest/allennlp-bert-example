@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+IMP	if
+PRO	he
+HAS	's
+DIS	a
+CON	doctor
+NIL	.

@@ -1,0 +1,14 @@
+HAS	Your
+CON	plan
+NOW	is
+DIS	a
+IST	good
+QUC	one
+NIL	,
+COO	but
+HAS	mine
+NOW	is
+DIS	a
+IST	better
+CON	one
+NIL	.

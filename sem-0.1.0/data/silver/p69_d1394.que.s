@@ -1,0 +1,9 @@
+SUB	When
+PST	was
+DEF	the
+ORG	Great
+ORG	Wall
+AND	of
+GPE	China
+EXS	built
+QUE	?

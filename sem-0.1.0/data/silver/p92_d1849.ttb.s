@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+INT	too
+EXS	hot
+SUB	to
+EXS	go
+REL	for
+DIS	a
+CON	walk
+NIL	.

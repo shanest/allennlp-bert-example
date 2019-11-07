@@ -1,0 +1,15 @@
+PRO	You
+NOW	're
+EXS	supposed
+SUB	to
+IST	always
+EXS	pay
+HAS	your
+CON	rent
+REL	on
+DEF	the
+CON	first
+AND	of
+DEF	the
+CON	month
+NIL	.

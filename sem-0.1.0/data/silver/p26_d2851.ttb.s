@@ -1,0 +1,15 @@
+DEF	The
+CON	boy
+EPS	gathered
+DIS	a
+CON	handful
+AND	of
+CON	peanuts
+COO	and
+EPS	put
+PRO	them
+REL	in
+DIS	a
+IST	small
+CON	box
+NIL	.

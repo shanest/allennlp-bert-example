@@ -1,0 +1,10 @@
+PRO	You
+NOW	are
+EXS	doing
+INT	very
+IST	well
+NIL	.
+EXS	Keep
+PRO	it
+IST	up
+NIL	.

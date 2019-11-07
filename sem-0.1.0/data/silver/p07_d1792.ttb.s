@@ -1,0 +1,11 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	give
+DIS	a
+CON	speech
+REL	at
+HAS	his
+CON	school
+NIL	.

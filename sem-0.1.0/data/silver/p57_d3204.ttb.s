@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	go
+EXS	buy
+DIS	some
+CON	materials
+NOW	today
+NIL	.

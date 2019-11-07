@@ -1,0 +1,11 @@
+ROL	President
+PER	Taft
+EPS	wrote
+DIS	a
+IST	warm
+GRE	goodbye
+CON	letter
+REL	to
+HAS	his
+CON	friend
+NIL	.

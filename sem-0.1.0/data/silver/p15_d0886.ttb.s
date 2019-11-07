@@ -1,0 +1,12 @@
+QUE	How
+QUV	much
+CON	effort
+NOW	does
+PRO	it
+EXS	take
+SUB	to
+EXS	get
+HAS	your
+IST	first
+CON	job
+QUE	?

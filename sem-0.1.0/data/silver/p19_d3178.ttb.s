@@ -1,0 +1,17 @@
+PER	Tom
+NOW	is
+EXS	married
+SUB	to
+PER	Mary
+NOW	now
+NIL	,
+BUT	but
+AND	at
+QUV	one
+CON	time
+PRO	he
+PST	was
+EXS	married
+REL	to
+PER	Alice
+NIL	.

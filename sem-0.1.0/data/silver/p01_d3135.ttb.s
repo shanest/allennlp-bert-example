@@ -1,0 +1,10 @@
+PRO	I
+EPS	told
+PRO	you
+PRO	it
+FUT	would
+NOT	n't
+EXS	take
+INT	too
+IST	long
+NIL	.

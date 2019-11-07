@@ -1,0 +1,11 @@
+PRO	He
+EPS	fell
+EXS	asleep
+AND	behind
+DEF	the
+CON	wheel
+COO	and
+PST	had
+DIS	an
+CON	accident
+NIL	.

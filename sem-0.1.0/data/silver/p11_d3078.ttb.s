@@ -1,0 +1,10 @@
+PRO	I
+EPS	went
+REL	to
+DEF	the
+CON	airport
+SUB	to
+EXS	meet
+HAS	my
+ROL	father
+NIL	.

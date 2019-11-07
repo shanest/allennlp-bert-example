@@ -1,0 +1,10 @@
+PRO	You
+NOW	are
+EXG	shearing
+DEF	the
+CON	sheep
+NIL	,
+NOW	are
+NOT	n't
+PRO	you
+QUE	?

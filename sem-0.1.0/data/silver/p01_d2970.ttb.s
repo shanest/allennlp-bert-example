@@ -1,0 +1,10 @@
+PER	James
+PER	Cameron
+EPS	created
+DIS	a
+IST	new
+CON	way
+NIL	to
+EXS	make
+CON	movies
+NIL	.

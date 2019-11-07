@@ -1,0 +1,10 @@
+ROL	Mr.
+AND	and
+ROL	Mrs.
+PER	Yamada
+FUT	will
+EXS	come
+CON	home
+AND	next
+CON	month
+NIL	.

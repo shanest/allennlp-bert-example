@@ -1,0 +1,9 @@
+PRO	I
+NOW	hear
+PRO	you
+NOW	've
+EXS	got
+DIS	a
+IST	new
+CON	girlfriend
+NIL	.

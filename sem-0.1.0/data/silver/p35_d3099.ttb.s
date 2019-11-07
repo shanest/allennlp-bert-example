@@ -1,0 +1,9 @@
+PRO	We
+NOW	have
+IST	enough
+CON	money
+SUB	to
+EXS	buy
+PRX	this
+CON	CD
+NIL	.

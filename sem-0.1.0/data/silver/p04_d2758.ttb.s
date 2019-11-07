@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+PFT	been
+INT	very
+IST	busy
+REL	with
+DEF	the
+CON	exams
+NIL	!

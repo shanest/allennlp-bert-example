@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	know
+SUB	where
+PRO	I
+POS	can
+EXS	find
+PRO	it
+QUE	?

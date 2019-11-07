@@ -1,0 +1,14 @@
+PER	Tom
+PST	was
+NOT	n't
+IST	able
+SUB	to
+EXS	provide
+DIS	an
+CON	alibi
+AND	so
+DEF	the
+CON	police
+EPS	arrested
+PRO	him
+NIL	.

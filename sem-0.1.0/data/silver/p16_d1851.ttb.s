@@ -1,0 +1,17 @@
+AND	Among
+DEF	the
+QUC	five
+AND	of
+PRO	us
+NIL	,
+PRO	she
+NIL	,
+NOT	without
+DIS	a
+CON	doubt
+NIL	,
+ENS	speaks
+DEF	the
+TOP	most
+CON	languages
+NIL	.

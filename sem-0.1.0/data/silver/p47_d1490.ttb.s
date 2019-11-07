@@ -1,0 +1,14 @@
+DEF	The
+IST	young
+CON	man
+AND	who
+NOW	is
+EXS	talking
+REL	with
+PER	John
+NOW	is
+DIS	a
+CON	student
+REL	from
+GPE	Canada
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+ENS	owe
+PRO	it
+REL	to
+HAS	my
+CON	uncle
+SUB	that
+PRO	I
+EPS	succeeded
+REL	in
+HAS	my
+CON	business
+NIL	.

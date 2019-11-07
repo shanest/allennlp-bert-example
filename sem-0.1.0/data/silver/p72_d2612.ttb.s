@@ -1,0 +1,14 @@
+UNK	There
+HAS	's
+DIS	a
+CON	pyramid
+REL	in
+GEO	Mexico
+MOR	bigger
+MOR	than
+AND	any
+AND	of
+DST	those
+REL	in
+GPE	Egypt
+NIL	.

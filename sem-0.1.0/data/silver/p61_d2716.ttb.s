@@ -1,0 +1,14 @@
+PRO	I
+NOW	am
+REL	in
+CON	love
+REL	with
+DEF	the
+CON	son
+AND	of
+HAS	my
+ROL	father
+HAS	's
+TOP	greatest
+CON	enemy
+NIL	.

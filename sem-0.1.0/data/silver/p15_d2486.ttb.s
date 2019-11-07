@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	looking
+REL	for
+DIS	a
+CON	school
+SUB	where
+PRO	I
+POS	can
+EXS	paint
+CON	portraits
+NIL	.

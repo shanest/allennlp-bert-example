@@ -1,0 +1,10 @@
+DEF	The
+ROL	thief
+EPS	took
+CON	flight
+SUB	when
+DEF	the
+CON	policeman
+EPS	saw
+PRO	him
+NIL	.

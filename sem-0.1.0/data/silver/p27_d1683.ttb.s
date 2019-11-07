@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+EXS	been
+REL	to
+DEF	the
+CON	station
+SUB	to
+EXS	meet
+DIS	a
+CON	friend
+NIL	.

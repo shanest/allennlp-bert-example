@@ -1,0 +1,9 @@
+EXS	Thank
+PRO	you
+REL	to
+AND	everyone
+REL	for
+DEF	the
+CON	birthday
+ENS	wishes
+NIL	.

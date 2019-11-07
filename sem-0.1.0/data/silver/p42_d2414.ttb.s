@@ -1,0 +1,13 @@
+PRO	I
+NOW	suppose
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	have
+SUB	to
+EXS	teach
+PRO	you
+DIS	a
+CON	lesson
+NIL	.

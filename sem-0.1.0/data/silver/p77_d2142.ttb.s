@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+DIS	a
+CON	fever
+COO	and
+PRO	I
+ENS	ache
+AND	all
+IST	over
+NIL	.

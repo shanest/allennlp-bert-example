@@ -1,0 +1,14 @@
+PER	Tom
+NOW	has
+DIS	a
+CON	beard
+AND	just
+AND	like
+HAS	his
+ROL	father
+EQU	,
+ROL	grandfathers
+AND	and
+CON	brothers
+NOW	do
+NIL	.

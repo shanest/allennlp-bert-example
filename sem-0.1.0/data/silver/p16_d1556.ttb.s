@@ -1,0 +1,10 @@
+ITJ	Hey
+EQU	,
+PER	Tom
+NIL	,
+SUB	when
+PST	did
+PRO	you
+EXS	get
+PRX	here
+QUE	?

@@ -1,0 +1,9 @@
+IST	Please
+EXS	let
+PRO	me
+EXS	know
+DEF	the
+CON	result
+REL	by
+CON	telephone
+NIL	.

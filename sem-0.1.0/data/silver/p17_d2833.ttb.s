@@ -1,0 +1,13 @@
+PRO	She
+ENS	seems
+SUB	to
+EXS	be
+REL	in
+CON	trouble
+NIL	.
+EXS	Tell
+PRO	her
+QUE	what
+SUB	to
+EXS	do
+NIL	.

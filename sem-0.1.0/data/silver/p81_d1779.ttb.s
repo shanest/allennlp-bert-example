@@ -1,0 +1,13 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	believe
+DEF	the
+CON	rumor
+AND	about
+PER	Mary
+AND	and
+PER	John
+NIL	.

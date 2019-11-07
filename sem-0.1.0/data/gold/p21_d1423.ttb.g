@@ -1,0 +1,10 @@
+DEF	The
+CON	catapult
+EPS	hurled
+DEF	the
+CON	boulder
+REL	over
+DEF	the
+CON	castle
+CON	walls
+NIL	.

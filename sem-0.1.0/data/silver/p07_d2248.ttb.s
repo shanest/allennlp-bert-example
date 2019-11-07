@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+IST	able
+SUB	to
+EXS	run
+MOR	faster
+MOR	than
+PRO	I
+NOW	am
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	think
+PER	Tom
+FUT	will
+EXS	be
+IST	able
+SUB	to
+EXS	help
+NIL	.

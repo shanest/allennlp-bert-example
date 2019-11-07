@@ -1,0 +1,9 @@
+GPE	Poland
+NOW	is
+EXS	called
+NIL	"
+GEO	Polska
+NIL	"
+REL	in
+GPO	Polish
+NIL	.

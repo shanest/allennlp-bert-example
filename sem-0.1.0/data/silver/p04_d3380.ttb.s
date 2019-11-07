@@ -1,0 +1,16 @@
+DEF	The
+CON	slogan
+REL	for
+DEF	the
+CON	day
+REL	against
+CON	extremism
+PST	was
+NIL	,
+NIL	"
+IST	multicolored
+IST	instead
+AND	of
+COL	brown
+NIL	"
+NIL	.

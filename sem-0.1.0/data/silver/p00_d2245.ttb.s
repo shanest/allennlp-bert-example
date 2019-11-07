@@ -1,0 +1,13 @@
+DIS	A
+CON	lot
+NIL	of
+IST	back
+CON	problems
+POS	can
+EXS	be
+EXS	attributed
+NIL	to
+EXS	poor
+EXS	sitting
+CON	posture
+NIL	.

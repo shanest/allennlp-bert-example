@@ -1,0 +1,10 @@
+HAS	My
+CON	transition
+REL	from
+IST	male
+SUB	to
+PRO	female
+NOW	is
+EXS	going
+IST	well
+NIL	.

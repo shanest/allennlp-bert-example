@@ -1,0 +1,11 @@
+PRO	He
+EPS	left
+DEF	the
+CON	room
+AND	as
+IST	soon
+SUB	as
+PRO	I
+EPS	entered
+PRO	it
+NIL	.

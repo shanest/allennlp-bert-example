@@ -1,0 +1,13 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	figure
+IST	out
+QUE	what
+DEF	the
+ROL	writer
+NOW	is
+EXS	trying
+SUB	to
+EXS	say
+NIL	.

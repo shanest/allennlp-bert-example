@@ -1,0 +1,11 @@
+PRO	We
+EPS	saw
+DEF	the
+CON	traces
+AND	of
+DIS	a
+CON	bear
+REL	in
+DEF	the
+CON	snow
+NIL	.

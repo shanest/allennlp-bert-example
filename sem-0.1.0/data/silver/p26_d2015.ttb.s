@@ -1,0 +1,12 @@
+PER	Tom
+ENS	loves
+PRO	us
+AND	all
+NIL	,
+COO	but
+PRO	he
+ENS	loves
+PER	Mary
+DEF	the
+TOP	most
+NIL	.

@@ -1,0 +1,12 @@
+PRX	This
+NOW	is
+DIS	a
+IST	good
+CON	book
+NIL	,
+BUT	but
+AND	that
+CON	one
+NOW	is
+COM	better
+NIL	.

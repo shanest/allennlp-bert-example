@@ -1,0 +1,10 @@
+AND	Sometimes
+PRO	I
+NOW	use
+DEF	the
+CON	scissors
+AND	as
+DIS	a
+CON	can
+CON	opener
+NIL	.

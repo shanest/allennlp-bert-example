@@ -1,0 +1,10 @@
+PRX	These
+CON	Chinese
+CON	characters
+NOW	are
+NOT	not
+INT	too
+IST	difficult
+REL	for
+PRO	us
+NIL	.

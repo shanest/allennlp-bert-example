@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+IST	up
+SUB	to
+PRO	you
+QUE	how
+PRO	you
+NOW	take
+PRO	it
+NIL	.

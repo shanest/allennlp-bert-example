@@ -1,0 +1,10 @@
+CON	Looks
+AND	like
+PRO	he
+EPS	forgot
+SUB	to
+EXS	take
+IST	out
+DEF	the
+CON	trash
+NIL	.

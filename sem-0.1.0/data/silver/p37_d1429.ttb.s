@@ -1,0 +1,11 @@
+PRO	I
+NOW	think
+PRO	it
+NOW	's
+IST	great
+SUB	that
+PRO	you
+EPS	got
+SUB	that
+CON	job
+NIL	.

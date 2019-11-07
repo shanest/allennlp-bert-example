@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	mind
+QUE	what
+CON	people
+NOW	say
+AND	about
+PER	Mary
+NIL	.

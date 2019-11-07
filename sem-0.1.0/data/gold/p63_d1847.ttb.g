@@ -1,0 +1,9 @@
+NOW	Do
+NOT	not
+EXS	expose
+REL	to
+CON	temperatures
+REL	above
+QUC	fifty
+UOM	centigrade
+NIL	.

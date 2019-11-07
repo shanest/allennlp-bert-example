@@ -1,0 +1,10 @@
+EXS	Did
+PER	Tom
+EXS	say
+QUE	why
+PER	Mary
+NOW	is
+NOT	n't
+PRX	here
+NOW	today
+QUE	?

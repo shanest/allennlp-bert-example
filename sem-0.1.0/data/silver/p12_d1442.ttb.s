@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	you
+AND	and
+PER	Tom
+EPS	skipped
+CON	school
+PST	yesterday
+NIL	.

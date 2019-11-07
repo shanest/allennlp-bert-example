@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+REL	on
+DEF	the
+CON	point
+AND	of
+EXS	leaving
+REL	for
+GPE	Canada
+NIL	.

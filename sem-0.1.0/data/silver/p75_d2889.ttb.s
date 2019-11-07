@@ -1,0 +1,17 @@
+PER	Tom
+EPS	woke
+IST	up
+REL	in
+DEF	the
+CON	middle
+AND	of
+DEF	the
+CON	night
+COO	and
+EPS	ate
+DIS	an
+IST	entire
+CON	bag
+AND	of
+CON	chips
+NIL	.

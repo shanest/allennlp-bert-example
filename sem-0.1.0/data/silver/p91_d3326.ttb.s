@@ -1,0 +1,16 @@
+IMP	If
+PRO	I
+ENS	read
+DIS	a
+QUC	thousand
+CON	books
+REL	in
+GPO	English
+NIL	,
+FUT	will
+PRO	I
+EXS	become
+IST	fluent
+REL	in
+PRO	it
+QUE	?

@@ -1,0 +1,11 @@
+CON	People
+NOW	buy
+PRX	these
+CON	tickets
+QUV	many
+CON	months
+REL	before
+DEF	the
+CON	tournament
+ENS	starts
+NIL	.

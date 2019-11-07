@@ -1,0 +1,15 @@
+IMP	If
+PRO	I
+PST	had
+EXS	eaten
+CON	breakfast
+PRX	this
+CON	morning
+NIL	,
+PRO	I
+FUT	would
+NOT	not
+EXS	be
+EXS	hungry
+NOW	now
+NIL	.

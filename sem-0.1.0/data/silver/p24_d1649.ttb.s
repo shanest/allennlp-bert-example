@@ -1,0 +1,10 @@
+PRO	She
+EPS	ran
+HAS	her
+CON	eyes
+AND	over
+DEF	the
+CON	letter
+REL	from
+PRO	him
+NIL	.

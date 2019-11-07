@@ -1,0 +1,9 @@
+EXS	Put
+DIS	a
+CON	dash
+REL	of
+CON	brandy
+REL	in
+HAS	my
+CON	tea
+NIL	.

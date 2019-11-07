@@ -1,0 +1,10 @@
+ORG	Was
+PRO	it
+DIS	a
+CON	car
+DIS	or
+DIS	a
+CON	cat
+PRO	I
+EPS	saw
+QUE	?

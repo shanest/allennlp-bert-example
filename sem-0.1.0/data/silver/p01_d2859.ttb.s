@@ -1,0 +1,16 @@
+DEF	The
+CON	application
+ENS	allows
+PRO	you
+NIL	to
+IST	quickly
+EXS	calculate
+DEF	the
+CON	ratio
+AND	of
+CON	body
+REL	mass
+CON	index
+AND	-
+CON	BMI
+NIL	.

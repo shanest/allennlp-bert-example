@@ -1,0 +1,9 @@
+PRO	I
+EPS	bought
+DIS	a
+CON	table
+REL	for
+DEF	the
+IST	living
+CON	room
+NIL	.

@@ -1,0 +1,16 @@
+QUV	Several
+QUC	hundred
+CON	years
+PST	ago
+NIL	,
+CON	scarlet
+CON	fever
+POS	epidemics
+EPS	killed
+CON	thousands
+AND	of
+CON	people
+AND	throughout
+DEF	the
+CON	continent
+NIL	.

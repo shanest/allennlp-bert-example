@@ -1,0 +1,9 @@
+PER	Tom
+ENS	dreams
+AND	of
+PER	Mary
+REL	from
+CON	time
+REL	to
+CON	time
+NIL	.

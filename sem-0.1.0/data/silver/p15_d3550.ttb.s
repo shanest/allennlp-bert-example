@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+NOT	n't
+QUV	much
+CON	fun
+AND	just
+EXS	sitting
+PRX	here
+EXS	waiting
+REL	for
+PER	Tom
+NIL	.

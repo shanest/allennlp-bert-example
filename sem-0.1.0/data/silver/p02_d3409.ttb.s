@@ -1,0 +1,10 @@
+PRO	She
+IST	eventually
+EPS	got
+REL	into
+DEF	the
+IST	bad
+CON	habit
+AND	of
+CON	smoking
+NIL	.

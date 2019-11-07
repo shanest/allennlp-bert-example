@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+NOW	think
+PRO	you
+NOW	've
+EXS	made
+DEF	the
+IST	wrong
+CON	choice
+QUE	?

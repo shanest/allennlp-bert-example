@@ -1,0 +1,11 @@
+HAS	My
+CON	boyfriend
+NOW	is
+IST	smart
+NIL	,
+IST	handsome
+NIL	,
+COO	and
+EXS	friendly
+ALT	too
+NIL	.

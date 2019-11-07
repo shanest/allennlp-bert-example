@@ -1,0 +1,9 @@
+UNK	There
+NOW	are
+QUV	many
+CON	latent
+CON	gays
+AND	among
+IST	rampant
+CON	homophobes
+NIL	.

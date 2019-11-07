@@ -1,0 +1,11 @@
+EXS	Let
+PRO	's
+CON	cross
+AND	that
+CON	bridge
+SUB	when
+PRO	we
+ENS	come
+REL	to
+PRO	it
+NIL	.

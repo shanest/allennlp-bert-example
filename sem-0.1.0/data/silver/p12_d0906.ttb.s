@@ -1,0 +1,9 @@
+PRO	I
+NEC	have
+QUV	many
+CON	friends
+PRO	I
+POS	can
+EXS	talk
+REL	to
+NIL	.

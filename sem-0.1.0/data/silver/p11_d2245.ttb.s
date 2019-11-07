@@ -1,0 +1,11 @@
+PRO	You
+NOW	have
+NOT	no
+CON	idea
+QUE	how
+QUV	much
+AND	that
+CON	means
+REL	to
+PRO	me
+NIL	.

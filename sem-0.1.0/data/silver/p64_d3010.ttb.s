@@ -1,0 +1,13 @@
+PRO	He
+EPS	took
+CON	offense
+REL	at
+QUE	what
+PRO	I
+EPS	said
+COO	and
+EPS	turned
+REL	on
+HAS	his
+CON	heels
+NIL	.

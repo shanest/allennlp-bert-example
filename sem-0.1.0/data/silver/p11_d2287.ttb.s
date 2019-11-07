@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+DIS	a
+CON	doctor
+NIL	,
+BUT	but
+ALT	also
+DIS	a
+ROL	writer
+NIL	.

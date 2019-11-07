@@ -1,0 +1,11 @@
+PRO	You
+NOW	're
+DIS	a
+IST	good
+ROL	father
+NIL	,
+NOT	no
+CON	question
+AND	about
+PRO	it
+NIL	.

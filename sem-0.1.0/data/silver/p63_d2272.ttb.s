@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+EXS	dangerous
+SUB	to
+EXS	ignore
+DEF	the
+CON	signal
+REL	at
+DIS	a
+CON	railroad
+EXS	crossing
+NIL	.

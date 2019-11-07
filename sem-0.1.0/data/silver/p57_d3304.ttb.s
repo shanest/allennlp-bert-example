@@ -1,0 +1,11 @@
+AND	Why
+FUT	would
+DIS	someone
+REL	with
+PER	Tom
+HAS	's
+CON	experience
+ENS	need
+HAS	our
+CON	help
+QUE	?

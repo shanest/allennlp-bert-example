@@ -1,0 +1,15 @@
+NIL	"
+SUB	When
+PST	did
+PRO	they
+EXS	leave
+QUE	?
+NIL	"
+NIL	"
+PRO	They
+EPS	left
+QUC	twenty
+UOM	minutes
+PST	ago
+NIL	.
+NIL	"

@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	listening
+REL	to
+HAS	your
+CON	CD
+PRX	this
+CON	morning
+NIL	.

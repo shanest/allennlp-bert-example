@@ -1,0 +1,13 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	have
+DIS	a
+CON	car
+NIL	.
+PRO	He
+IST	just
+NOW	uses
+PER	Mary
+HAS	's
+NIL	.

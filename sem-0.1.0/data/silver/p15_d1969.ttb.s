@@ -1,0 +1,10 @@
+PER	Tom
+FUT	will
+EXS	be
+EXS	staying
+REL	at
+EXS	least
+REL	until
+IST	next
+DOW	Monday
+NIL	.

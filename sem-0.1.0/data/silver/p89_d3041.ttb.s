@@ -1,0 +1,11 @@
+PRO	I
+POS	could
+NOT	n't
+EXS	find
+DEF	the
+CON	page
+PRO	I
+PST	was
+EXG	looking
+REL	for
+NIL	.

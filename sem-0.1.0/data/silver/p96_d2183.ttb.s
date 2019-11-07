@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+EXS	wanted
+SUB	to
+EXS	meet
+PRO	you
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

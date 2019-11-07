@@ -1,0 +1,10 @@
+PRO	He
+EPS	put
+DIS	some
+CON	sugar
+AND	and
+CON	milk
+REL	in
+HAS	his
+CON	tea
+NIL	.

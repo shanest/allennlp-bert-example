@@ -1,0 +1,13 @@
+AND	According
+REL	to
+ROL	Saint
+PER	Thomas
+NIL	,
+CON	reason
+POS	can
+EXS	help
+CON	faith
+REL	in
+QUC	three
+CON	ways
+NIL	.

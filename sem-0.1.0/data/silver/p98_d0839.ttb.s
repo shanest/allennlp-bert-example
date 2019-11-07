@@ -1,0 +1,10 @@
+PRO	He
+EPS	struck
+PRO	me
+REL	in
+DEF	the
+CON	face
+REL	with
+HAS	his
+CON	fist
+NIL	.

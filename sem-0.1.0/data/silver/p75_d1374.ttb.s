@@ -1,0 +1,10 @@
+AND	As
+IST	always
+NIL	,
+PER	Keiko
+EPS	showed
+PRO	us
+DIS	a
+IST	pleasant
+CON	smile
+NIL	.

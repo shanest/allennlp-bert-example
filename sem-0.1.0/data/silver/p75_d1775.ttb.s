@@ -1,0 +1,14 @@
+PER	Tom
+EPS	opened
+DEF	the
+CON	trunk
+AND	of
+HAS	his
+CON	car
+COO	and
+EPS	took
+AND	out
+DEF	the
+IST	spare
+CON	tire
+NIL	.

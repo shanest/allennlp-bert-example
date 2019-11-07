@@ -1,0 +1,14 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	think
+PER	Mary
+NEC	should
+EXS	drive
+CON	home
+REL	since
+PRO	she
+HAS	's
+PFT	been
+EXS	drinking
+NIL	.

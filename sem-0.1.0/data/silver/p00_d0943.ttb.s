@@ -1,0 +1,11 @@
+IMP	If
+PRO	it
+ENS	fails
+PRX	this
+CON	time
+NIL	,
+PRO	we
+POS	can
+EXS	try
+ALT	again
+NIL	.

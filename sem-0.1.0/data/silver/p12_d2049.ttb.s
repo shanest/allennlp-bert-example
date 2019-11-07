@@ -1,0 +1,10 @@
+PRO	You
+NOW	have
+NOT	never
+PFT	been
+REL	to
+GEO	Okinawa
+NIL	,
+NOW	have
+PRO	you
+QUE	?

@@ -1,0 +1,9 @@
+DEF	The
+CON	baby
+FUT	will
+EXS	be
+IST	able
+SUB	to
+EXS	walk
+IST	soon
+NIL	.

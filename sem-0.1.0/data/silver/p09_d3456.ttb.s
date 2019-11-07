@@ -1,0 +1,11 @@
+PER	Tom
+EPS	came
+REL	into
+DEF	the
+CON	room
+NOT	without
+EXS	knocking
+REL	on
+DEF	the
+CON	door
+NIL	.

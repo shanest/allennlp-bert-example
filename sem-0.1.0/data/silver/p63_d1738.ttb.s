@@ -1,0 +1,13 @@
+PER	Tom
+EPS	wrote
+DEF	the
+CON	song
+SUB	that
+PER	Mary
+EPS	sang
+IST	last
+CON	night
+REL	at
+DEF	the
+CON	pub
+NIL	.

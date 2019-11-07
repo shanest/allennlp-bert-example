@@ -1,0 +1,15 @@
+SUB	When
+PRO	I
+PST	was
+HAS	your
+CON	age
+NIL	,
+PRO	I
+EPS	bicycled
+REL	to
+AND	and
+REL	from
+CON	school
+AND	every
+CON	day
+NIL	.

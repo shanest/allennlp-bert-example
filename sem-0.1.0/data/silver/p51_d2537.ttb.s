@@ -1,0 +1,12 @@
+PER	Tom
+ENS	thinks
+PER	Mary
+IST	always
+CON	packs
+CON	way
+IST	too
+QUC	much
+REL	in
+HAS	her
+CON	suitcase
+NIL	.

@@ -1,0 +1,12 @@
+SUB	When
+DEF	the
+CON	band
+EPS	took
+DEF	the
+CON	stage
+NIL	,
+DEF	the
+CON	crowd
+EPS	went
+IST	wild
+NIL	.

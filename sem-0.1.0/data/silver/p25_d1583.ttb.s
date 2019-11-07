@@ -1,0 +1,13 @@
+UNK	There
+EPS	being
+NOT	nothing
+AND	else
+SUB	to
+EXS	do
+NIL	,
+PRO	we
+EPS	went
+REL	for
+DIS	a
+CON	drive
+NIL	.

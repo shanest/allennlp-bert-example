@@ -1,0 +1,11 @@
+REL	From
+NOW	now
+REL	on
+NIL	,
+EXS	be
+IST	more
+EXS	careful
+REL	with
+HAS	your
+CON	money
+NIL	.

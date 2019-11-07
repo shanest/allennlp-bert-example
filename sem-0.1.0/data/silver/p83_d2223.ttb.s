@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+DIS	a
+IST	little
+IST	low
+REL	on
+CON	cash
+AND	right
+NOW	now
+NIL	.

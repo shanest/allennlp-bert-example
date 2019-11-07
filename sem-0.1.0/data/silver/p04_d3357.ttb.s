@@ -1,0 +1,9 @@
+POS	Maybe
+PER	Tom
+NOW	does
+NOT	n't
+EXS	want
+PRO	you
+SUB	to
+EXS	worry
+NIL	.

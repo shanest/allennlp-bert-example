@@ -1,0 +1,11 @@
+PER	Tom
+EPS	picked
+IST	up
+HAS	his
+CON	hat
+COO	and
+EPS	put
+PRO	it
+IST	back
+REL	on
+NIL	.

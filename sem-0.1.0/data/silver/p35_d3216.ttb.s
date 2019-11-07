@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	we
+NOW	're
+EXS	going
+REL	on
+CON	vacation
+REL	in
+MOY	June
+NIL	.

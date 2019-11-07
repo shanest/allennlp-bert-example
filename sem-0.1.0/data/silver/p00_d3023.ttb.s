@@ -1,0 +1,9 @@
+DST	That
+HAS	's
+NOT	not
+QUE	what
+PRO	I
+PST	was
+EXG	looking
+REL	for
+NIL	.

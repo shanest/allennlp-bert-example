@@ -1,0 +1,10 @@
+PER	Tom
+EXS	divorced
+PER	Mary
+REL	after
+DEF	the
+CON	children
+EPS	graduated
+REL	from
+CON	college
+NIL	.

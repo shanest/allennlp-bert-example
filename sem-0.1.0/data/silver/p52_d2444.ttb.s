@@ -1,0 +1,9 @@
+PRO	I
+EPS	met
+PRO	him
+IST	then
+REL	for
+DEF	the
+IST	first
+CON	time
+NIL	.

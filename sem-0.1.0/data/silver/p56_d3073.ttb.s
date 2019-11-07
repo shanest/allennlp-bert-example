@@ -1,0 +1,12 @@
+NOW	Do
+PRO	you
+EXS	know
+QUE	how
+SUB	to
+EXS	use
+PRX	this
+CON	kind
+AND	of
+CON	chain
+EPS	saw
+QUE	?

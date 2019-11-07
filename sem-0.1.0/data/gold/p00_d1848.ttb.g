@@ -1,0 +1,9 @@
+DEF	The
+ORD	first
+CON	drive-thru
+CON	restaurant
+PST	was
+EXS	created
+REL	in
+YOC	1947
+NIL	.

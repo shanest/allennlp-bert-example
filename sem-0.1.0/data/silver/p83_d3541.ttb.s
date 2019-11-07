@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+PRO	you
+COM	better
+AND	than
+HAS	your
+CON	wife
+NOW	does
+NIL	.

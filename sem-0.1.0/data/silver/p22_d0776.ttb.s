@@ -1,0 +1,10 @@
+IST	Diplomatic
+CON	dialogue
+EPS	helped
+EXS	put
+DIS	an
+CON	end
+REL	to
+DEF	the
+CON	conflict
+NIL	.

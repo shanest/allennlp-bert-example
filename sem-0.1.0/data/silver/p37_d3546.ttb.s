@@ -1,0 +1,11 @@
+PRO	He
+PST	was
+DIS	a
+INT	very
+IST	good
+ROL	skier
+SUB	when
+PRO	he
+PST	was
+IST	little
+NIL	.

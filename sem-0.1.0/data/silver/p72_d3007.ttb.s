@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	let
+PER	Tom
+EXS	see
+PRO	me
+EXS	like
+PRX	this
+NIL	.

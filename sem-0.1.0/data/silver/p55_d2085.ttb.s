@@ -1,0 +1,9 @@
+PRO	He
+EPS	hoped
+SUB	to
+EXS	find
+CON	fame
+AND	as
+DIS	a
+ROL	poet
+NIL	.

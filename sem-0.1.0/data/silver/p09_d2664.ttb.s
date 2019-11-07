@@ -1,0 +1,11 @@
+PER	Mary
+EPS	wanted
+PER	Tom
+SUB	to
+EXS	spend
+IST	more
+CON	time
+REL	with
+HAS	their
+CON	children
+NIL	.

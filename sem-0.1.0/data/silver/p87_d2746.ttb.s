@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+NOW	now
+AND	either
+REL	in
+GEO	Rome
+DIS	or
+REL	in
+GEO	Paris
+NIL	.

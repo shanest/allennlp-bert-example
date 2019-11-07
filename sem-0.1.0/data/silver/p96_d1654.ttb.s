@@ -1,0 +1,10 @@
+PRO	I
+FUT	'll
+EXS	try
+SUB	to
+EXS	find
+IST	out
+SUB	where
+PER	Tom
+ENS	lives
+NIL	.

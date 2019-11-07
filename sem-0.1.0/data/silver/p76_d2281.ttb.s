@@ -1,0 +1,9 @@
+PER	Tom
+IST	just
+EPS	told
+PRO	me
+PRO	he
+PST	was
+EXS	getting
+EXS	divorced
+NIL	.

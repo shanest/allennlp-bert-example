@@ -1,0 +1,14 @@
+IMP	If
+PRO	it
+PST	was
+EXS	hurting
+SUB	that
+QUV	much
+NIL	,
+PRO	he
+FUT	would
+NOT	n't
+EXS	be
+EXS	playing
+IST	outside
+NIL	.

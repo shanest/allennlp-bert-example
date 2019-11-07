@@ -1,0 +1,10 @@
+DEF	The
+ROL	teacher
+EPS	corrected
+DEF	the
+CON	composition
+SUB	that
+PRO	I
+PST	had
+EXS	prepared
+NIL	.

@@ -1,0 +1,9 @@
+AND	Apart
+REL	from
+CON	English
+NIL	,
+PRO	he
+ALT	also
+ENS	teaches
+CON	math
+NIL	.

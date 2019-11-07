@@ -1,0 +1,25 @@
+PRO	She
+PST	had
+QUC	two
+CON	cell phones
+NIL	.
+CON	One
+SUB	to
+EXS	lose
+AND	and
+DEF	the
+ALT	other
+REL	in
+CON	order
+SUB	to
+EXS	be
+IST	able
+SUB	to
+EXS	find
+DEF	the
+EXT	lost
+CON	one
+REL	by
+EXG	calling
+PRO	it
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	sitting
+REL	in
+DEF	the
+EXG	living
+CON	room
+EXS	talking
+NIL	.

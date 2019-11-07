@@ -1,0 +1,10 @@
+PRO	He
+EPS	put
+CON	milk
+REL	into
+HAS	his
+CON	tea
+COO	and
+EPS	stirred
+PRO	it
+NIL	.

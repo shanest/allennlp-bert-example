@@ -1,0 +1,9 @@
+UNK	There
+NOW	is
+DIS	a
+CON	rumor
+SUB	that
+PRO	he
+NOW	has
+EXT	resigned
+NIL	.

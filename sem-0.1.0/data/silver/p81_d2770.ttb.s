@@ -1,0 +1,16 @@
+PRO	You
+POS	can
+EXS	see
+PRX	this
+IST	easily
+IMP	if
+PRO	you
+EPS	put
+DIS	a
+CON	straw
+REL	into
+DIS	a
+CON	glass
+AND	of
+CON	water
+NIL	.

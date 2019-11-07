@@ -1,0 +1,10 @@
+AND	All
+PRO	I
+ENS	know
+NOW	is
+SUB	that
+PRO	he
+EPS	came
+REL	from
+GPE	China
+NIL	.

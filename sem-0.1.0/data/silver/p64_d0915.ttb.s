@@ -1,0 +1,11 @@
+PRO	She
+HAS	's
+PFT	been
+EXS	wearing
+DEF	the
+IST	same
+CON	hat
+REL	for
+DIS	a
+CON	month
+NIL	.

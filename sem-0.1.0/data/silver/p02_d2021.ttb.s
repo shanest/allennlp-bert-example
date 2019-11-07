@@ -1,0 +1,12 @@
+PRO	You
+POS	can
+EXS	do
+DIS	anything
+REL	with
+CON	mayonnaise
+NIL	,
+NOT	except
+EXS	sit
+REL	on
+PRO	it
+NIL	.

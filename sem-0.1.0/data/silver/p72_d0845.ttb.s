@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	know
+SUB	whether
+PRO	she
+POS	can
+EXS	speak
+GPO	English
+QUE	?

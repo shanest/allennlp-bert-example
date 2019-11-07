@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	no
+CON	one
+AND	else
+SUB	to
+EXS	turn
+SUB	to
+NIL	.

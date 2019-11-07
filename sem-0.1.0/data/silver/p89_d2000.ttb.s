@@ -1,0 +1,14 @@
+PER	Tom
+NOW	is
+EXG	lying
+NIL	.
+PRO	I
+PST	did
+NOT	n't
+EXS	do
+QUE	what
+PRO	he
+ENS	says
+PRO	I
+PST	did
+NIL	.

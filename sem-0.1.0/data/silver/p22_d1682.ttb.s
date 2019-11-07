@@ -1,0 +1,10 @@
+PRO	I
+NOW	hope
+SUB	that
+PRO	I
+NOW	've
+EXS	done
+DEF	the
+IST	right
+CON	thing
+NIL	.

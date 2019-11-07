@@ -1,0 +1,14 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+DIS	a
+IST	perfect
+CON	couple
+NIL	.
+PRO	It
+HAS	's
+AND	such
+DIS	a
+CON	shame
+NIL	.

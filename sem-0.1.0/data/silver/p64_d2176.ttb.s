@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	it
+NOW	's
+TOP	best
+SUB	to
+EXS	accept
+HAS	his
+CON	plan
+NIL	.

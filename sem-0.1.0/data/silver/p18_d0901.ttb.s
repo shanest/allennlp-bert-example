@@ -1,0 +1,11 @@
+PER	Tom
+NOW	has
+EPS	told
+PER	Mary
+AND	all
+PRO	he
+ENS	knows
+AND	about
+DEF	the
+CON	matter
+NIL	.

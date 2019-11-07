@@ -1,0 +1,10 @@
+AND	All
+REL	at
+QUC	once
+NIL	,
+PRO	I
+EPS	heard
+DIS	a
+GEO	shrill
+CON	cry
+NIL	.

@@ -1,0 +1,10 @@
+PRO	We
+NEC	should
+EXT	have
+EXT	phoned
+AND	ahead
+AND	and
+EXS	reserved
+DIS	a
+CON	table
+NIL	.

@@ -1,0 +1,15 @@
+PER	Mary
+PST	thought
+PRO	he
+PST	was
+EXS	cute
+NIL	,
+BUT	but
+PRO	she
+PST	was
+INT	too
+EXS	shy
+SUB	to
+EXS	say
+DIS	anything
+NIL	.

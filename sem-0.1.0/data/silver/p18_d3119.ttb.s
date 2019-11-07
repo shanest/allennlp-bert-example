@@ -1,0 +1,11 @@
+DIS	A
+GPO	German
+CON	hospital
+EPS	confirmed
+PRO	he
+PST	had
+EXS	been
+DIS	a
+CON	patient
+IST	recently
+NIL	.

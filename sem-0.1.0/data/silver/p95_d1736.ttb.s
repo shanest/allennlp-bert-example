@@ -1,0 +1,9 @@
+PER	Tom
+ENS	wants
+SUB	to
+EXS	borrow
+CON	money
+REL	from
+PRO	me
+ALT	again
+NIL	.

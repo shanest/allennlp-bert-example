@@ -1,0 +1,11 @@
+SUB	When
+PRO	he
+EPS	retired
+NIL	,
+HAS	his
+CON	son
+EPS	took
+AND	over
+HAS	his
+CON	business
+NIL	.

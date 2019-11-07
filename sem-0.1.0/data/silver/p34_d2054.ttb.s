@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+DIS	a
+COL	black
+CON	dog
+COO	and
+DIS	a
+COL	white
+CON	dog
+NIL	.

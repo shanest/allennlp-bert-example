@@ -1,0 +1,9 @@
+PRO	I
+FUT	'd
+EXS	be
+EXS	happy
+IMP	if
+DST	that
+EPS	happened
+ALT	again
+NIL	.

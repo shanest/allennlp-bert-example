@@ -1,0 +1,11 @@
+PRO	She
+PST	was
+EXS	angry
+NIL	.
+DST	That
+NOW	is
+QUE	why
+PRO	she
+EPS	remained
+EXS	silent
+NIL	.

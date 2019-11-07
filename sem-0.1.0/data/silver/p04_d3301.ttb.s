@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+PRO	I
+NOW	do
+NOT	n't
+EXS	have
+AND	any
+IST	small
+CON	change
+NIL	.

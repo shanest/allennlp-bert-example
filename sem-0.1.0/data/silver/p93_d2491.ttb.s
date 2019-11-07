@@ -1,0 +1,12 @@
+DEF	The
+IST	new
+CON	couple
+NOW	have
+EXS	gone
+IST	off
+REL	to
+GPE	Hawaii
+REL	on
+HAS	their
+CON	honeymoon
+NIL	.

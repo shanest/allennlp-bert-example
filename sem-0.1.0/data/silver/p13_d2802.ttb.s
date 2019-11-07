@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+IST	hard
+SUB	to
+EXS	keep
+HAS	our
+CON	balance
+REL	on
+IST	icy
+CON	streets
+NIL	.

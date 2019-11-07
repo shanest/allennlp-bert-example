@@ -1,0 +1,9 @@
+ROL	Mrs.
+PER	Smith
+EPS	gave
+CON	birth
+REL	to
+HAS	her
+ORD	second
+CON	child
+NIL	.

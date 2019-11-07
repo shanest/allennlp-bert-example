@@ -1,0 +1,10 @@
+PER	Tom
+AND	always
+ENS	drinks
+HAS	his
+CON	coffee
+COL	black
+REL	with
+NOT	no
+CON	sugar
+NIL	.

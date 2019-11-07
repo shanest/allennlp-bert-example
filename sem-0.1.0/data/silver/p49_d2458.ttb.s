@@ -1,0 +1,9 @@
+PRO	You
+NOW	're
+EXS	supposed
+SUB	to
+EXS	be
+REL	on
+HAS	my
+CON	side
+NIL	.

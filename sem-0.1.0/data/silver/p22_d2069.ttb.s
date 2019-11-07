@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	absorbed
+REL	in
+EXG	reading
+DIS	a
+CON	mystery
+NIL	.

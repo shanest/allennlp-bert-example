@@ -1,0 +1,11 @@
+PRO	He
+EPS	gave
+QUV	several
+CON	examples
+AND	of
+QUE	how
+PRO	we
+POS	could
+EXS	change
+CON	things
+NIL	.

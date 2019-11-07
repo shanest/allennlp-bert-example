@@ -1,0 +1,12 @@
+QUV	Many
+CON	people
+NOW	are
+EXS	alive
+SUB	because
+PRO	it
+NOW	's
+IST	illegal
+SUB	to
+EXS	shoot
+PRO	them
+NIL	.

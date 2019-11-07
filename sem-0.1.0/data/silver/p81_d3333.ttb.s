@@ -1,0 +1,12 @@
+PRO	We
+PST	felt
+PST	relieved
+SUB	when
+PRO	we
+EPS	saw
+DIS	a
+CON	light
+REL	in
+DEF	the
+CON	distance
+NIL	.

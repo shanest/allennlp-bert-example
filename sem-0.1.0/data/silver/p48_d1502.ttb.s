@@ -1,0 +1,10 @@
+NTH	Neptune
+NOW	is
+DEF	the
+IST	eighth
+CON	planet
+AND	of
+DEF	the
+IST	solar
+CON	system
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+EPS	thought
+DIS	someone
+PST	had
+EXT	put
+CON	poison
+REL	in
+HAS	his
+CON	soup
+NIL	.

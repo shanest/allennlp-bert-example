@@ -1,0 +1,13 @@
+PRO	You
+ENS	know
+PRO	me
+IST	well
+IST	enough
+SUB	to
+EXS	know
+PRO	I
+FUT	would
+NOT	n't
+EXS	do
+DST	that
+NIL	.

@@ -1,0 +1,13 @@
+IST	Please
+EXS	say
+GRE	hello
+REL	to
+PRO	her
+IMP	if
+PRO	you
+NOW	see
+PRO	her
+REL	at
+DEF	the
+CON	party
+NIL	.

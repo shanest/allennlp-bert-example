@@ -1,0 +1,9 @@
+PRO	He
+IST	still
+ENS	says
+SUB	that
+PRO	he
+PST	did
+NOT	nothing
+EXS	wrong
+NIL	.

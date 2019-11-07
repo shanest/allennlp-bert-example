@@ -1,0 +1,10 @@
+HAS	My
+ROL	friend
+PER	George
+NOW	is
+EXS	going
+REL	to
+GPE	Japan
+PRX	this
+CON	summer
+NIL	.

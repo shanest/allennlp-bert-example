@@ -1,0 +1,10 @@
+PER	Mary
+ENS	knows
+SUB	that
+PER	Tom
+NOW	is
+NOT	n't
+HAS	her
+IST	real
+CON	father
+NIL	.

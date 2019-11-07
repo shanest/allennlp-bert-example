@@ -1,0 +1,15 @@
+DIS	Some
+AND	of
+HAS	my
+CON	classmates
+NOW	are
+IST	pure
+CON	noobs
+COO	;
+PRO	they
+ENS	know
+NOT	nothing
+IST	about
+CON	computing
+CON	sciences
+NIL	.

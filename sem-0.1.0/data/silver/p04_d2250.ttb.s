@@ -1,0 +1,11 @@
+HAS	My
+CON	desk
+IST	back
+CON	home
+NOW	is
+INT	very
+IST	similar
+REL	to
+PRX	this
+CON	one
+NIL	.

@@ -1,0 +1,10 @@
+QUE	What
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	do
+NOW	is
+EXS	study
+GPO	French
+NIL	.

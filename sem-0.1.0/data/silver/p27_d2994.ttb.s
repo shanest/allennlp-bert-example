@@ -1,0 +1,9 @@
+PRO	I
+EPS	got
+AND	through
+REL	with
+HAS	my
+CON	work
+AND	just
+NOW	now
+NIL	.

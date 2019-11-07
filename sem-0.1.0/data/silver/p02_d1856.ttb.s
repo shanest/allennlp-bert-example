@@ -1,0 +1,12 @@
+EXS	Did
+NOT	n't
+PRO	you
+EXS	remove
+PRO	them
+REL	from
+DEF	the
+CON	premises
+DIS	some
+CON	years
+PST	ago
+QUE	?

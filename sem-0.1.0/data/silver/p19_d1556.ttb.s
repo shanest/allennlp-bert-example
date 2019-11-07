@@ -1,0 +1,11 @@
+NOW	Is
+DIS	someone
+CON	thinking
+AND	of
+EXS	going
+REL	to
+CON	Kos
+AND	next
+CON	summer
+CON	holidays
+QUE	?

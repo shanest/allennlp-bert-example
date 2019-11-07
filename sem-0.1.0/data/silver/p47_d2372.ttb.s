@@ -1,0 +1,11 @@
+PRO	She
+EPS	said
+SUB	that
+PRO	she
+PST	had
+EXS	seen
+AND	such
+AND	and
+AND	such
+IST	there
+NIL	.

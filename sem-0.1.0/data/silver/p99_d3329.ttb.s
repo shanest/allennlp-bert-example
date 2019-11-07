@@ -1,0 +1,9 @@
+PRO	I
+NEC	should
+NOT	n't
+EXT	have
+EXS	gone
+SUB	to
+EXS	see
+PER	Tom
+NIL	.

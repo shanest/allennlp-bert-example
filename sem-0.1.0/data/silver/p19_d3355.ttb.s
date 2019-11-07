@@ -1,0 +1,12 @@
+PER	Tom
+EPS	opened
+DEF	the
+CON	freezer
+COO	and
+EPS	got
+DIS	some
+CON	ice
+REL	for
+HAS	his
+CON	drink
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	tried
+SUB	to
+EXS	persuade
+PER	Mary
+SUB	to
+EXS	have
+DIS	a
+EXS	threesome
+NIL	.

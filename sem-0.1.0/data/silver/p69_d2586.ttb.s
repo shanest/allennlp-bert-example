@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+IST	glad
+SUB	to
+EXS	hear
+AND	of
+HAS	your
+CON	success
+NIL	.

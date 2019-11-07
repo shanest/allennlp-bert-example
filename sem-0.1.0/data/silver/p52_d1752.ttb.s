@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+AND	like
+DEF	the
+CON	poem
+PRO	I
+EPS	wrote
+REL	for
+PRO	you
+QUE	?

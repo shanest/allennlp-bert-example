@@ -1,0 +1,9 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	imagine
+HAS	my
+CON	life
+NOT	without
+PER	Mary
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	thinking
+SUB	about
+EXG	buying
+DIS	a
+IST	new
+CON	car
+NIL	.

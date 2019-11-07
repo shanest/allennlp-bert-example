@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	wrong
+SUB	to
+EXS	make
+CON	fun
+AND	of
+DIS	an
+IST	old
+CON	man
+NIL	.

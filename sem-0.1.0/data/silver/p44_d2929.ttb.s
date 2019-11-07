@@ -1,0 +1,9 @@
+GPE	Japan
+NOW	is
+EXS	hot
+COO	and
+EXS	humid
+REL	in
+DEF	the
+CON	summer
+NIL	.

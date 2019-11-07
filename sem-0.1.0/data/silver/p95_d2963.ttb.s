@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+IST	hard
+REL	for
+PRO	me
+SUB	to
+EXS	put
+HAS	my
+CON	thoughts
+REL	into
+CON	words
+NIL	.

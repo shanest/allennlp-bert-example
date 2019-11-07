@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+PFT	been
+EXG	living
+AND	alone
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

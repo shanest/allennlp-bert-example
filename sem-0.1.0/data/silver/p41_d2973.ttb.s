@@ -1,0 +1,9 @@
+PER	Tom
+EPS	began
+EXS	trying
+SUB	to
+EXS	break
+IST	down
+DEF	the
+CON	door
+NIL	.

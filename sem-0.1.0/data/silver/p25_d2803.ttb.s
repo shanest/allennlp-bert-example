@@ -1,0 +1,10 @@
+PRO	She
+PST	was
+NOT	n't
+IST	able
+SUB	to
+EXS	contact
+PRO	him
+REL	by
+CON	phone
+NIL	.

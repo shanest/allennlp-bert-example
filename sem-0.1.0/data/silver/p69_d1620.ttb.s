@@ -1,0 +1,11 @@
+PER	Tom
+EPS	took
+DIS	a
+IST	tiny
+CON	bite
+AND	out
+AND	of
+PER	Mary
+HAS	's
+CON	donut
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+IST	just
+EXS	going
+SUB	to
+EXS	stand
+IST	there
+AND	all
+CON	day
+QUE	?

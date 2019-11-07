@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+EXS	dangerous
+SUB	to
+EXS	cross
+CON	roads
+NOT	without
+EXS	looking
+DEF	both
+CON	ways
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	asked
+PRO	me
+QUE	how
+SUB	to
+EXS	get
+REL	to
+PER	Mary
+HAS	's
+CON	house
+NIL	.

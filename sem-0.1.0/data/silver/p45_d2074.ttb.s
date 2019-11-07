@@ -1,0 +1,10 @@
+PER	Tom
+EPS	showed
+NOT	no
+CON	consideration
+CON	whatsoever
+REL	for
+PER	Mary
+HAS	's
+CON	feelings
+NIL	.

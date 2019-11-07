@@ -1,0 +1,9 @@
+PRO	He
+NOW	has
+PFT	been
+EXS	looked
+REL	for
+REL	by
+DEF	the
+CON	police
+NIL	.

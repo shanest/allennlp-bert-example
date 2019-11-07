@@ -1,0 +1,15 @@
+NIL	There
+NOW	is
+IST	always
+DEF	the
+CON	risk
+AND	of
+EXS	losing
+AND	all
+DEF	the
+CON	data
+REL	on
+HAS	your
+IST	hard
+CON	disk
+NIL	.

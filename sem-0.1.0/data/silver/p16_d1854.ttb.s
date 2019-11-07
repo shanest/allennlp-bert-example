@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+PFT	been
+PRX	here
+REL	since
+YOC	2003
+NIL	.

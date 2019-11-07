@@ -1,0 +1,14 @@
+UNK	There
+NOW	are
+NOT	not
+QUV	many
+CON	countries
+REL	in
+DEF	the
+CON	world
+SUB	that
+EXS	abound
+REL	in
+IST	natural
+CON	resources
+NIL	.

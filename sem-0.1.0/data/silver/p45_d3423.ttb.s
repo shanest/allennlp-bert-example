@@ -1,0 +1,9 @@
+AND	Why
+PST	did
+NOT	n't
+PER	Tom
+EXS	tell
+PER	Mary
+DEF	the
+CON	truth
+QUE	?

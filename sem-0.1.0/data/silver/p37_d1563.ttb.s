@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	absolutely
+IST	certain
+PRO	you
+NOW	're
+EXS	wrong
+AND	about
+DST	that
+NIL	.

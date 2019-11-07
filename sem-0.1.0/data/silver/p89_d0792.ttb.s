@@ -1,0 +1,12 @@
+DEF	The
+IST	evil
+CON	leader
+AND	of
+DEF	the
+CON	country
+PST	was
+EXS	interested
+XCL	only
+REL	in
+CON	money
+NIL	.

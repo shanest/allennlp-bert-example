@@ -1,0 +1,10 @@
+QUC	One
+CON	day
+PRO	she
+EPS	met
+DIS	a
+CON	wolf
+REL	in
+DEF	the
+CON	woods
+NIL	.

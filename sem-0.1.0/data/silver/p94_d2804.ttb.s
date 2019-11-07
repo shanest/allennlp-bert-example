@@ -1,0 +1,15 @@
+PRO	I
+QUC	once
+EPS	knew
+DIS	somebody
+EPS	named
+PER	Tom
+NIL	,
+BUT	but
+DST	that
+PST	was
+DIS	a
+IST	long
+CON	time
+AND	ago
+NIL	.

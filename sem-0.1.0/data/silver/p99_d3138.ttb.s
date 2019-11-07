@@ -1,0 +1,10 @@
+DEF	The
+ROL	captain
+EPS	gave
+DEF	the
+CON	order
+SUB	to
+EXS	abandon
+DEF	the
+CON	ship
+NIL	.

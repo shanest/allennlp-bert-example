@@ -1,0 +1,11 @@
+AND	All
+PRO	you
+ENS	need
+NOW	is
+SUB	to
+EXS	get
+DIS	a
+ROL	driver
+HAS	's
+CON	license
+NIL	.

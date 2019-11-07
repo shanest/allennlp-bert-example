@@ -1,0 +1,11 @@
+PER	Mary
+NOW	has
+NOT	never
+EMP	ever
+PFT	been
+EXS	asked
+REL	out
+REL	on
+DIS	a
+CON	date
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	hungry
+SUB	because
+PRO	I
+NOW	have
+NOT	n't
+EXS	had
+CON	lunch
+NIL	.

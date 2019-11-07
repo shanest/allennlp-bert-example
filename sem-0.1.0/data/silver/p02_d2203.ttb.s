@@ -1,0 +1,14 @@
+PRO	He
+PST	was
+EXG	resting
+REL	under
+DIS	a
+CON	tree
+SUB	when
+DIS	an
+CON	apple
+EPS	fell
+REL	on
+HAS	his
+CON	head
+NIL	.

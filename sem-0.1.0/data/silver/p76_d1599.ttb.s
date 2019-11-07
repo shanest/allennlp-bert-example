@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Jim
+NOW	have
+PFT	been
+REL	on
+IST	bad
+CON	terms
+REL	for
+QUV	many
+CON	years
+NIL	.

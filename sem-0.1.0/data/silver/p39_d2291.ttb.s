@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	spend
+DEF	the
+CON	weekend
+REL	in
+GPE	Boston
+NIL	.

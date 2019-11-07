@@ -1,0 +1,17 @@
+PRO	It
+PST	was
+DIS	a
+IST	precious
+CON	clock
+HAS	his
+CON	grandmother
+NIL	,
+AND	who
+PST	was
+REL	in
+DEF	the
+CON	hospital
+NIL	,
+EPS	gave
+PRO	him
+NIL	.

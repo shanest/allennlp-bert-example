@@ -1,0 +1,16 @@
+IMP	If
+PRO	he
+PST	had
+EXS	been
+DIS	a
+IST	little
+IST	more
+EXS	careful
+NIL	,
+DEF	the
+CON	accident
+FUT	would
+EXT	have
+PFT	been
+EXS	avoided
+NIL	.

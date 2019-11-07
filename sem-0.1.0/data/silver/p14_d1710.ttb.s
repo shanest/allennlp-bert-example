@@ -1,0 +1,9 @@
+PER	Tom
+EPS	went
+REL	to
+PER	Mary
+HAS	's
+CON	house
+REL	for
+CON	dinner
+NIL	.

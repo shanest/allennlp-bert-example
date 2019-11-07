@@ -1,0 +1,13 @@
+PRO	He
+NOW	is
+QUC	twelve
+UOM	years
+DEG	old
+NIL	.
+PRO	He
+NOW	is
+IST	tall
+REL	for
+HAS	his
+CON	age
+NIL	.

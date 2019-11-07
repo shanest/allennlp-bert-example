@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+IST	already
+EXS	seen
+PER	Tom
+AND	about
+DST	that
+CON	matter
+NIL	.

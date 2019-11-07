@@ -1,0 +1,10 @@
+PRO	She
+NOW	is
+EXS	curious
+SUB	to
+EXS	find
+AND	who
+EXS	sent
+DEF	the
+CON	flowers
+NIL	.

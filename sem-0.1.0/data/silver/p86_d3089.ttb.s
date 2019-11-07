@@ -1,0 +1,11 @@
+QUC	Three
+AND	of
+PER	Tom
+HAS	's
+CON	friends
+EPS	went
+REL	to
+PER	Mary
+HAS	's
+CON	party
+NIL	.

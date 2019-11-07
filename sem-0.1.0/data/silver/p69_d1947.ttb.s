@@ -1,0 +1,12 @@
+PRO	I
+NOW	think
+PRO	I
+NOW	've
+EXS	found
+DIS	someone
+IST	interested
+REL	in
+EXS	buying
+HAS	your
+CON	house
+NIL	.

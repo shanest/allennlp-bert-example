@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	have
+DIS	a
+CON	crush
+REL	on
+PER	Mary
+NIL	.

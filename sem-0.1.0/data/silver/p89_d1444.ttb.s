@@ -1,0 +1,13 @@
+AND	Unfortunately
+NIL	,
+DEF	the
+CON	food
+CON	supplies
+EPS	gave
+IST	out
+REL	before
+DEF	the
+CON	end
+AND	of
+CON	winter
+NIL	.

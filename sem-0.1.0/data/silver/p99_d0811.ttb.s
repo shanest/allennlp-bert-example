@@ -1,0 +1,10 @@
+AND	Last
+CON	year
+NIL	,
+PRO	he
+EPS	spent
+QUC	three
+CON	months
+REL	at
+CON	sea
+NIL	.

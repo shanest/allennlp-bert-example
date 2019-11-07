@@ -1,0 +1,17 @@
+PRO	He
+PST	transformed
+HAS	his
+IST	small
+CON	family
+CON	business
+REL	into
+DIS	a
+INT	highly
+IST	profitable
+CON	company
+REL	with
+MOR	more
+MOR	than
+QUC	200
+ROL	employees
+NIL	.

@@ -1,0 +1,10 @@
+AND	Currently
+NIL	,
+AND	both
+AND	of
+PRX	these
+CON	projects
+NOW	have
+PFT	been
+EXS	realized
+NIL	.

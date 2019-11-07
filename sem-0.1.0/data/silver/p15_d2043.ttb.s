@@ -1,0 +1,11 @@
+IST	Please
+CON	note
+SUB	that
+PRO	we
+NOW	have
+EXS	quoted
+DEF	the
+TOP	lowest
+IST	possible
+CON	price
+NIL	.

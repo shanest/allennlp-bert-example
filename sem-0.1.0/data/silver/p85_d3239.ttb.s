@@ -1,0 +1,9 @@
+PER	Tom
+EPS	ate
+DIS	a
+QUC	dozen
+CON	doughnuts
+AND	all
+REL	by
+REF	himself
+NIL	.

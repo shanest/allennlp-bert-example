@@ -1,0 +1,10 @@
+DEF	The
+ROL	teacher
+HAS	's
+CON	talk
+ENS	stimulates
+PER	Mary
+SUB	to
+EXS	study
+COM	harder
+NIL	.

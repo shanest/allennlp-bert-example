@@ -1,0 +1,11 @@
+SUB	When
+QUC	one
+NOW	is
+EXS	sick
+NIL	,
+CON	visitors
+POS	can
+EXS	be
+INT	rather
+EXS	annoying
+NIL	.

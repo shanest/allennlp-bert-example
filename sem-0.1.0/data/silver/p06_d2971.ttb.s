@@ -1,0 +1,10 @@
+PER	Tom
+PST	got
+EPS	kicked
+AND	out
+AND	of
+DEF	the
+CON	bar
+AND	last
+CON	night
+NIL	.

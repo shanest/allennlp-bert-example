@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	taking
+CON	care
+AND	of
+PRO	it
+REL	for
+PRO	us
+NIL	.

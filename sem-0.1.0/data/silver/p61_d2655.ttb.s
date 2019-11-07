@@ -1,0 +1,14 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	care
+IMP	if
+PRO	you
+NOW	're
+EXS	busy
+NIL	.
+IST	Please
+EXS	help
+PRO	me
+NOW	now
+NIL	.

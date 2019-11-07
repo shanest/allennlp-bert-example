@@ -1,0 +1,9 @@
+PRO	I
+NOT	never
+IST	actually
+EPS	saw
+PER	Tom
+AND	and
+PER	John
+CON	fighting
+NIL	.

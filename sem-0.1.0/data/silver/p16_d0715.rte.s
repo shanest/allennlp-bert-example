@@ -1,0 +1,12 @@
+CON	People
+NOW	are
+IST	willing
+SUB	to
+EXS	risk
+CON	imprisonment
+NIL	rather
+AND	than
+EXS	perform
+IST	military
+CON	service
+NIL	.

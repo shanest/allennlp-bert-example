@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+EXS	clear
+SUB	that
+PER	Tom
+NOW	does
+NOT	n't
+EXS	want
+SUB	to
+EXS	talk
+AND	about
+PRO	it
+NIL	.

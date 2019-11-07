@@ -1,0 +1,12 @@
+PRO	I
+POS	can
+XCL	only
+EXS	work
+REL	on
+DOW	Fridays
+NIL	,
+DOW	Saturdays
+NIL	,
+AND	and
+DOW	Sundays
+NIL	.

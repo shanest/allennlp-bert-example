@@ -1,0 +1,13 @@
+AND	Would
+PRO	it
+EXS	be
+EXS	OK
+IMP	if
+PRO	I
+PST	did
+NOT	n't
+EXS	go
+REL	to
+CON	school
+NOW	today
+QUE	?

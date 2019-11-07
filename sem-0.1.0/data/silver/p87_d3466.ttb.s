@@ -1,0 +1,10 @@
+PER	Tom
+NOW	finds
+PER	Mary
+HAS	's
+CON	mother
+SUB	to
+EXS	be
+IST	quite
+EXS	intimidating
+NIL	.

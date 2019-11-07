@@ -1,0 +1,13 @@
+PRO	It
+NOW	is
+INT	too
+QUV	much
+REL	for
+PRO	me
+NIL	.
+PRO	I
+ENS	need
+SUB	to
+EXS	slow
+IST	down
+NIL	.

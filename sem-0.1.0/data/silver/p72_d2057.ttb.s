@@ -1,0 +1,12 @@
+EXS	Did
+PRO	you
+EXS	know
+SUB	that
+PER	Tom
+PST	was
+EXS	kidnapped
+SUB	when
+PRO	he
+PST	was
+QUC	three
+QUE	?

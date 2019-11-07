@@ -1,0 +1,9 @@
+DEF	The
+ROL	parents
+EPS	expected
+INT	too
+QUC	much
+REL	of
+HAS	their
+ROL	son
+NIL	.

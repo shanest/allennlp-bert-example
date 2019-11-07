@@ -1,0 +1,15 @@
+PRO	She
+HAS	's
+COM	smarter
+MOR	than
+PER	Mary
+NIL	,
+COO	but
+PRO	she
+HAS	's
+NOT	not
+AND	as
+IST	pretty
+AND	as
+PER	Mary
+NIL	.

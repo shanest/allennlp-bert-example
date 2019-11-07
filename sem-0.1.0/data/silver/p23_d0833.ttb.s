@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+SUB	when
+PRO	he
+EPS	returned
+REL	from
+GPE	France
+NIL	.

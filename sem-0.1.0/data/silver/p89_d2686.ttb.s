@@ -1,0 +1,12 @@
+CON	Sorry
+NIL	,
+BUT	but
+PRO	I
+NOW	think
+PRO	you
+NOW	've
+EXS	got
+DEF	the
+IST	wrong
+CON	number
+NIL	.

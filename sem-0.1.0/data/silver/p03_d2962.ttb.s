@@ -1,0 +1,10 @@
+PRO	They
+AND	all
+EPS	looked
+IST	up
+REL	to
+PRO	him
+AND	as
+HAS	their
+CON	leader
+NIL	.

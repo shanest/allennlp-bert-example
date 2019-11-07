@@ -1,0 +1,13 @@
+DEF	The
+CON	drunkard
+PST	had
+INT	too
+QUV	much
+SUB	to
+EXS	drink
+COO	;
+PRO	he
+NOW	has
+EXS	gone
+CON	haywire
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+EXS	said
+SUB	that
+PRO	they
+FUT	will
+IST	soon
+EXS	be
+EXS	leaving
+GEO	Tokyo
+NIL	.

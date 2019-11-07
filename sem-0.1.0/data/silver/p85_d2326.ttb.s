@@ -1,0 +1,11 @@
+MOR	More
+MOR	than
+QUC	20
+UOM	%
+AND	of
+DEF	the
+CON	population
+NOW	owns
+DIS	a
+CON	car
+NIL	.

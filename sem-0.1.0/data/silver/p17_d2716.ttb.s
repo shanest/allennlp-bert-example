@@ -1,0 +1,14 @@
+UNK	There
+PST	were
+QUC	once
+REL	upon
+DIS	a
+CON	time
+DIS	a
+IST	poor
+CON	man
+AND	and
+DIS	a
+IST	rich
+CON	woman
+NIL	.

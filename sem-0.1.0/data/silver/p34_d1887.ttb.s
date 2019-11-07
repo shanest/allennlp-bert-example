@@ -1,0 +1,10 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+PRO	he
+NOW	is
+NOT	not
+EXS	lazy
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+NOW	is
+IST	still
+EXS	trying
+SUB	to
+EXS	get
+PER	Mary
+SUB	to
+EXS	go
+IST	out
+REL	with
+PRO	him
+NIL	.

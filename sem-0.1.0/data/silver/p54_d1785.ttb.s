@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	taking
+DIS	an
+IST	extended
+CON	break
+REL	from
+DEF	the
+CON	Internet
+NIL	.

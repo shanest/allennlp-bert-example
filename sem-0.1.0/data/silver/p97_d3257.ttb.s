@@ -1,0 +1,13 @@
+PER	Tom
+NOW	has
+DIS	some
+INT	very
+IST	important
+CON	things
+PRO	he
+ENS	needs
+SUB	to
+EXS	do
+IST	right
+NOW	now
+NIL	.

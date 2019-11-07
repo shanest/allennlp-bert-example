@@ -1,0 +1,14 @@
+PRO	He
+PST	was
+IST	glad
+SUB	to
+EXS	avail
+REF	himself
+AND	of
+AND	any
+CON	means
+SUB	to
+EXS	succeed
+REL	in
+CON	life
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+EPS	advised
+PER	Mary
+NOT	not
+SUB	to
+EXS	believe
+AND	everything
+PRO	she
+ENS	reads
+REL	on
+DEF	the
+CON	Web
+NIL	.

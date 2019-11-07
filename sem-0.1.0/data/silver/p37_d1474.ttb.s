@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+INT	extremely
+IST	thankful
+REL	to
+PER	Mary
+REL	for
+HAS	her
+CON	help
+NIL	.

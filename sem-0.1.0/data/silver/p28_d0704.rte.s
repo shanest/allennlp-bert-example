@@ -1,0 +1,26 @@
+PER	Belknap
+EPS	married
+COO	and
+EPS	lost
+HAS	his
+IST	first
+QUC	two
+CON	wives
+NIL	,
+PER	Cora LeRoy
+AND	and
+PER	Carrie
+PER	Tomlinson
+NIL	,
+AND	and
+EPS	married
+ROL	Mrs.
+PER	John
+PER	Bower
+EQU	,
+HAS	his
+IST	second
+CON	wife
+HAS	's
+ROL	sister
+NIL	.

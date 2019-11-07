@@ -1,0 +1,10 @@
+PRO	I
+EPS	met
+DIS	a
+CON	friend
+AND	of
+HAS	mine
+REL	at
+DEF	the
+CON	airport
+NIL	.

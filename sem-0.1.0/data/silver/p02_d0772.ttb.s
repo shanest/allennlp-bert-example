@@ -1,0 +1,11 @@
+NOW	Are
+PRO	you
+REL	in
+CON	favor
+AND	of
+DEF	the
+CON	workers
+EXG	getting
+IST	more
+CON	money
+QUE	?

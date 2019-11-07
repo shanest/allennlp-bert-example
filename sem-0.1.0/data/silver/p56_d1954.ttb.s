@@ -1,0 +1,12 @@
+PRO	I
+ENS	try
+SUB	to
+EXS	read
+AND	as
+QUV	many
+IST	valuable
+CON	books
+AND	as
+PRO	I
+POS	can
+NIL	.

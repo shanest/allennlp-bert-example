@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	coming
+REL	from
+CON	grandpa
+NOW	now
+NIL	,
+COO	and
+EXS	going
+REL	to
+HAS	my
+CON	uncle
+NIL	.

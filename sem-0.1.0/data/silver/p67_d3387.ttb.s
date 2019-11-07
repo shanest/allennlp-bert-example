@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	do
+NOT	n't
+EXS	eat
+CON	meat
+CON	anymore
+NIL	.

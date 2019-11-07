@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+IST	up
+SUB	to
+PRO	you
+SUB	to
+EXS	decide
+SUB	whether
+DIS	or
+NOT	not
+SUB	to
+EXS	go
+NIL	.

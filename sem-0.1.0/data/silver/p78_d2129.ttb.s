@@ -1,0 +1,17 @@
+PRO	It
+NOW	's
+COM	better
+SUB	to
+EXS	take
+HAS	your
+CON	time
+REL	at
+PRX	this
+CON	job
+AND	than
+SUB	to
+EXS	hurry
+COO	and
+EXS	make
+CON	mistakes
+NIL	.

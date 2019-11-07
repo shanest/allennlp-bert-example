@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+DEF	both
+CON	work
+AND	about
+QUC	forty-five
+CON	hours
+DIS	a
+CON	week
+NIL	.

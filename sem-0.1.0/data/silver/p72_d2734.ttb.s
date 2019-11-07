@@ -1,0 +1,13 @@
+REL	In
+CON	contrast
+REL	with
+PRO	you
+NIL	,
+PRO	I
+NOW	am
+IST	able
+SUB	to
+EXS	recognize
+HAS	my
+CON	mistakes
+NIL	.

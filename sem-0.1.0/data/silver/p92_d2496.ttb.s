@@ -1,0 +1,13 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	have
+DEF	the
+CON	heart
+SUB	to
+EXS	tell
+PER	Tom
+QUE	what
+PST	had
+EXS	happened
+NIL	.

@@ -1,0 +1,11 @@
+QUC	Six
+ROL	witnesses
+EPS	said
+PRO	they
+EPS	saw
+PER	Tom
+EXG	cheating
+REL	on
+DEF	the
+CON	exam
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+EPS	ate
+DEF	the
+IST	delicious
+CON	meal
+COO	and
+PST	thought
+PRO	he
+NEC	must
+EXS	be
+REL	in
+CON	heaven
+NIL	.

@@ -1,0 +1,14 @@
+HAS	Her
+CON	sweater
+PST	was
+IST	great
+NIL	,
+BUT	but
+NOT	nothing
+AND	compared
+SUB	to
+QUE	what
+EPS	became
+EXS	evident
+REL	below
+NIL	.

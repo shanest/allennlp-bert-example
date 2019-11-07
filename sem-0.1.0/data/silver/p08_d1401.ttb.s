@@ -1,0 +1,11 @@
+PRO	She
+EPS	looked
+AND	as
+IMP	if
+PRO	she
+PST	had
+NOT	n't
+EXS	eaten
+REL	in
+CON	days
+NIL	.

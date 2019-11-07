@@ -1,0 +1,12 @@
+AND	Had
+PRO	he
+PFT	been
+DST	there
+NIL	,
+FUT	would
+PRO	you
+NOW	have
+EXT	wanted
+NIL	to
+EXS	come
+QUE	?

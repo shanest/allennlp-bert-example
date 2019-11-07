@@ -1,0 +1,14 @@
+PRO	He
+EPS	said
+REL	to
+REF	himself
+NIL	,
+NIL	"
+FUT	Will
+PRX	this
+CON	operation
+CON	result
+REL	in
+CON	success
+QUE	?
+NIL	"

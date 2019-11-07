@@ -1,0 +1,15 @@
+PER	Tom
+PST	was
+IST	already
+EXG	drinking
+HAS	his
+IST	third
+CON	beer
+SUB	before
+PER	Mary
+PST	had
+IST	even
+EXS	finished
+HAS	her
+IST	first
+NIL	.

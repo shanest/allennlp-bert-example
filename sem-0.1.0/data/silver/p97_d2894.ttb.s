@@ -1,0 +1,16 @@
+CON	Grammatically
+NIL	,
+PRO	it
+NOW	's
+EXS	correct
+NIL	,
+BUT	but
+IST	native
+CON	speakers
+FUT	would
+NOT	n't
+EXS	say
+DIS	something
+AND	like
+DST	that
+NIL	.

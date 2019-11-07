@@ -1,0 +1,14 @@
+DEF	The
+IST	old
+CON	man
+EPS	spent
+TOP	most
+AND	of
+HAS	his
+CON	time
+EXS	looking
+IST	back
+REL	on
+HAS	his
+CON	youth
+NIL	.

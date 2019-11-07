@@ -1,0 +1,11 @@
+PER	Tom
+EPS	crossed
+DEF	the
+CON	river
+SUB	to
+EXS	get
+REL	to
+PER	Mary
+HAS	's
+CON	house
+NIL	.

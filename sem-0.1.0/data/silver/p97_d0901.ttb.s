@@ -1,0 +1,17 @@
+PRO	I
+NOW	'm
+IST	so
+EXS	tired
+SUB	that
+PRO	I
+NOW	'm
+EXS	going
+REL	to
+CON	bed
+AND	as
+IST	soon
+SUB	as
+PRO	I
+NOW	get
+CON	home
+NIL	.

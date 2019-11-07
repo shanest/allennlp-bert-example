@@ -1,0 +1,15 @@
+PER	Tom
+EPS	removed
+DEF	the
+CON	hacksaw
+REL	from
+HAS	his
+CON	toolbox
+COO	and
+PST	asked
+PER	Mary
+IMP	if
+PRO	she
+EPS	wanted
+PRO	it
+NIL	.

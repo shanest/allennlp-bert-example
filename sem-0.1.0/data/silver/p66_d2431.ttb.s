@@ -1,0 +1,10 @@
+HAS	My
+CON	dog
+ENS	follows
+PRO	me
+SUB	whenever
+PRO	I
+NOW	leave
+DEF	the
+CON	room
+NIL	.

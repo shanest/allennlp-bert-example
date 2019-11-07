@@ -1,0 +1,9 @@
+DEF	The
+ROL	employees
+EPS	voted
+REL	on
+DEF	the
+CON	manager
+HAS	's
+CON	proposal
+NIL	.

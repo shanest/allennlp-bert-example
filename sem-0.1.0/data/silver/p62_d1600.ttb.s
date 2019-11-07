@@ -1,0 +1,11 @@
+QUE	What
+PRO	I
+ENS	need
+NOW	is
+NOT	not
+CON	money
+NIL	,
+BUT	but
+HAS	your
+CON	advice
+NIL	.

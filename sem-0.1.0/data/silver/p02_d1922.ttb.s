@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+IMP	if
+NIL	there
+PST	was
+DIS	anything
+PRO	he
+POS	could
+EXS	do
+NIL	.

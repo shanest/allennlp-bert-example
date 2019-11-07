@@ -1,0 +1,9 @@
+PER	Tom
+EPS	went
+SUB	to
+EXS	meet
+DIS	some
+CON	girl
+EPS	named
+PER	Mary
+NIL	.

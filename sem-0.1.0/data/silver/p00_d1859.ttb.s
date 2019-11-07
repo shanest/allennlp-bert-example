@@ -1,0 +1,9 @@
+PRO	I
+ENS	recall
+LES	less
+AND	and
+LES	less
+AND	of
+HAS	my
+CON	childhood
+NIL	.

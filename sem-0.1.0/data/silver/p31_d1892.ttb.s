@@ -1,0 +1,12 @@
+AND	Initially
+PRO	I
+EPS	found
+PRO	it
+IST	difficult
+SUB	to
+EXS	deal
+REL	with
+HAS	my
+IST	new
+CON	environment
+NIL	.

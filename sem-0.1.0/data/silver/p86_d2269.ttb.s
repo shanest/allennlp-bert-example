@@ -1,0 +1,9 @@
+PRO	I
+EPS	met
+PRO	her
+REL	in
+DEF	the
+CON	store
+REL	by
+CON	accident
+NIL	.

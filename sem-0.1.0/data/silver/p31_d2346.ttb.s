@@ -1,0 +1,10 @@
+PRO	We
+EPS	spent
+HAS	our
+CON	holiday
+REL	on
+DIS	a
+CON	beach
+REL	in
+GPE	Hawaii
+NIL	.

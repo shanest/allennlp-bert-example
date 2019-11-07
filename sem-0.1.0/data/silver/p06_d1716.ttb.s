@@ -1,0 +1,10 @@
+AND	Yes
+NIL	.
+AND	Everyone
+ENS	admires
+DEF	the
+CON	pictures
+EPS	painted
+REL	by
+PRO	him
+NIL	.

@@ -1,0 +1,16 @@
+PER	Tom
+EPS	pulled
+IST	out
+HAS	his
+CON	keys
+NIL	,
+BUT	but
+IST	then
+PRO	he
+EPS	noticed
+DEF	the
+CON	door
+PST	was
+IST	already
+IST	unlocked
+NIL	.

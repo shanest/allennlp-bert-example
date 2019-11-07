@@ -1,0 +1,10 @@
+DEF	The
+ROL	politician
+PST	was
+EXS	thought
+SUB	to
+EXS	be
+EXS	telling
+DEF	the
+CON	truth
+NIL	.

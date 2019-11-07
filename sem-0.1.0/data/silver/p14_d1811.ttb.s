@@ -1,0 +1,12 @@
+PER	Tom
+EQU	,
+PER	Mary
+AND	and
+PER	John
+PST	were
+EXG	playing
+CON	tag
+REL	on
+DEF	the
+CON	playground
+NIL	.

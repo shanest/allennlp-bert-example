@@ -1,0 +1,15 @@
+PER	Tom
+EPS	blew
+HAS	his
+CON	top
+SUB	when
+PRO	he
+EPS	heard
+SUB	that
+PER	Mary
+PST	had
+EXS	gone
+IST	out
+REL	with
+PER	John
+NIL	.

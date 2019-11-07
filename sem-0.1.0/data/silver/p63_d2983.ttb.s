@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+IST	nice
+SUB	to
+EXS	see
+PER	Tom
+SUB	so
+EXS	happy
+NIL	.

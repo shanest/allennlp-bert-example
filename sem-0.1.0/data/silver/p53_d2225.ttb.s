@@ -1,0 +1,12 @@
+PER	Tom
+EPS	drank
+DIS	a
+IST	few
+CON	cups
+AND	of
+CON	coffee
+SUB	to
+EXS	keep
+REF	himself
+EXS	awake
+NIL	.

@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+NOT	not
+EXS	clear
+SUB	when
+PRO	he
+EPS	came
+PRX	here
+NIL	.

@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+NOW	are
+NOT	n't
+IST	there
+REL	by
+CLO	10:00
+NIL	,
+PRO	we
+FUT	'll
+EXS	leave
+NOT	without
+PRO	you
+NIL	.

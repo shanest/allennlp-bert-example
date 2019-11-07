@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+DIS	a
+CON	bit
+EXS	baffled
+REL	by
+PER	Mary
+HAS	's
+CON	request
+NIL	.

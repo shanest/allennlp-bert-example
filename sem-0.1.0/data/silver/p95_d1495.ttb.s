@@ -1,0 +1,12 @@
+PER	Tom
+EPS	put
+DIS	a
+CON	bag
+AND	of
+IST	shredded
+CON	cheese
+REL	into
+HAS	his
+CON	shopping
+CON	cart
+NIL	.

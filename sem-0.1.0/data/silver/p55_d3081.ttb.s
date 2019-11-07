@@ -1,0 +1,10 @@
+QUC	Five
+CON	years
+NOW	have
+EXS	gone
+REL	by
+REL	since
+HAS	my
+CON	father
+EPS	died
+NIL	.

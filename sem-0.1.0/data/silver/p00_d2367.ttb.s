@@ -1,0 +1,10 @@
+PRO	He
+POS	could
+EXS	swim
+IST	fast
+IST	enough
+NIL	to
+EXS	pass
+DEF	the
+CON	test
+NIL	.

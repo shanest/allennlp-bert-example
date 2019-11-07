@@ -1,0 +1,13 @@
+QUE	Why
+NOW	has
+PRO	it
+PFT	been
+EXS	getting
+CON	hotter
+AND	and
+CON	hotter
+PRX	these
+IST	last
+QUC	two
+CON	days
+QUE	?

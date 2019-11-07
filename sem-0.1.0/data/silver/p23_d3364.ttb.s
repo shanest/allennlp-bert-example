@@ -1,0 +1,9 @@
+PRO	They
+FUT	will
+EXT	have
+EXS	arrived
+REL	at
+GPE	Morioka
+REL	by
+CLO	noon
+NIL	.

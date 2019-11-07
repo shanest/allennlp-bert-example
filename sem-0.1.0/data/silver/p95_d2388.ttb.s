@@ -1,0 +1,9 @@
+PER	Tom
+EPS	put
+DEF	the
+EXS	frying
+CON	pan
+REL	on
+DEF	the
+CON	stove
+NIL	.

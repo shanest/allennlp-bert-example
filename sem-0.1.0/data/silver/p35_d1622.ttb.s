@@ -1,0 +1,12 @@
+PRO	It
+NOW	goes
+NOT	without
+EXG	saying
+SUB	that
+HAS	our
+CON	plans
+NOW	depend
+REL	on
+DEF	the
+CON	weather
+NIL	.

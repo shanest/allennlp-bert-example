@@ -1,0 +1,12 @@
+SUB	As
+PRO	he
+EPS	entered
+DEF	the
+CON	house
+NIL	,
+QUC	two
+CON	things
+EPS	caught
+HAS	his
+CON	eye
+NIL	.

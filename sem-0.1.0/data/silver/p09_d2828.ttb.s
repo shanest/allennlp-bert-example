@@ -1,0 +1,11 @@
+EXS	Come
+REL	on
+NIL	,
+PRO	I
+FUT	'll
+EXS	give
+PRO	you
+DIS	a
+CON	ride
+CON	home
+NIL	.

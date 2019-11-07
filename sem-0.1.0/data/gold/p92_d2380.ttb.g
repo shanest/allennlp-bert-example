@@ -1,0 +1,11 @@
+PER	Tom
+EPS	named
+HAS	his
+CON	squirrel
+LIT	Hazelnut
+NIL	,
+SUB	because
+PRO	it
+ENS	likes
+CON	hazelnuts
+NIL	.

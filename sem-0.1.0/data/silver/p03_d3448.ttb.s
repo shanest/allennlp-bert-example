@@ -1,0 +1,16 @@
+HAS	My
+CON	husband
+COO	and
+PRO	I
+PST	were
+CON	spinners
+NIL	,
+BUT	but
+HAS	our
+REL	spinning
+CON	company
+EPS	drove
+PRO	us
+SUB	to
+EXS	ruin
+NIL	.

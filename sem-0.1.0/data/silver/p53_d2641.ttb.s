@@ -1,0 +1,13 @@
+DEF	The
+CON	launch
+PST	was
+EXS	successful
+NIL	.
+PRO	We
+NOW	're
+NOW	now
+EXS	leaving
+DEF	the
+IST	solar
+CON	system
+NIL	.

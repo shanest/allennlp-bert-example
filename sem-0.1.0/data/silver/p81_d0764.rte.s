@@ -1,0 +1,9 @@
+PER	Mars
+NOW	is
+EXS	called
+HAS	'
+DEF	the
+IST	red
+CON	planet
+CON	'
+NIL	.

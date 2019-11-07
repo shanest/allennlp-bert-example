@@ -1,0 +1,13 @@
+PRO	He
+HAS	's
+PFT	been
+EXS	staying
+REL	at
+DST	that
+CON	hotel
+REL	for
+DEF	the
+IST	past
+QUC	five
+CON	days
+NIL	.

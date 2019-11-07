@@ -1,0 +1,9 @@
+PER	Mary
+ENS	hates
+EXG	getting
+IST	up
+AND	early
+REL	in
+DEF	the
+CON	morning
+NIL	.

@@ -1,0 +1,12 @@
+AND	Every
+CON	time
+PRO	I
+ENS	see
+PRO	you
+NIL	,
+PRO	I
+NOW	think
+AND	of
+HAS	your
+ROL	father
+NIL	.

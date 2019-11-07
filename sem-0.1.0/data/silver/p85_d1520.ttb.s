@@ -1,0 +1,15 @@
+IMP	If
+PER	God
+PST	had
+EXS	meant
+PRO	us
+SUB	to
+EXS	fly
+NIL	,
+PRO	he
+FUT	'd
+EXT	have
+EXS	given
+PRO	us
+CON	wings
+NIL	.

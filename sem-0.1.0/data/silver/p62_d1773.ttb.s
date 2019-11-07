@@ -1,0 +1,12 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	she
+NEC	should
+NOT	n't
+EXS	walk
+AND	alone
+REL	after
+CON	dark
+NIL	.

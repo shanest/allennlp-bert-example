@@ -1,0 +1,11 @@
+PER	Tom
+EPS	told
+PRO	me
+SUB	that
+PRO	he
+PST	was
+NOT	n't
+IST	afraid
+AND	of
+PER	Mary
+NIL	.

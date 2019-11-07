@@ -1,0 +1,17 @@
+NIL	"
+QUE	What
+HAS	's
+PER	Tom
+EXS	doing
+NOW	now
+QUE	?
+NIL	"
+NIL	"
+PRO	You
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	know
+NIL	.
+NIL	"

@@ -1,0 +1,12 @@
+DEF	The
+CON	party
+NOW	has
+PFT	been
+EXS	canceled
+IST	due
+REL	to
+DIS	a
+CON	lack
+AND	of
+CON	interest
+NIL	.

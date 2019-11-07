@@ -1,0 +1,9 @@
+DST	That
+HAS	's
+QUE	how
+PRO	you
+ENS	want
+SUB	to
+EXS	rule
+GPE	Italy
+QUE	?

@@ -1,0 +1,11 @@
+PER	Tom
+PST	was
+NOT	not
+EXS	permitted
+SUB	to
+EXS	tell
+PER	Mary
+AND	everything
+PRO	he
+EPS	knew
+NIL	.

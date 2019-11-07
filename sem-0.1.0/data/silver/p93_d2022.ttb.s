@@ -1,0 +1,9 @@
+PRO	He
+EPS	killed
+REF	himself
+REL	at
+DEF	the
+CON	age
+AND	of
+QUC	thirty
+NIL	.

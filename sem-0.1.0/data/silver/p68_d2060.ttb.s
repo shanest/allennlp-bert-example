@@ -1,0 +1,11 @@
+PRO	He
+ENS	says
+PRO	he
+NOW	has
+IST	always
+PFT	been
+EXS	true
+REL	to
+HAS	his
+CON	wife
+NIL	.

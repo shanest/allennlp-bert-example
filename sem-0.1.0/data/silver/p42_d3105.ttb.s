@@ -1,0 +1,13 @@
+PRO	I
+EPS	bit
+DEF	the
+CON	inside
+AND	of
+HAS	my
+CON	lip
+COO	and
+EPS	got
+DIS	a
+CON	canker
+IST	sore
+NIL	.

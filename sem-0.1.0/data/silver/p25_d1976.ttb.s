@@ -1,0 +1,11 @@
+PER	Tom
+EPS	put
+IST	down
+HAS	his
+CON	coffee
+COO	and
+EPS	picked
+IST	up
+HAS	his
+CON	phone
+NIL	.

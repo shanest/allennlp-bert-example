@@ -1,0 +1,11 @@
+PER	Taro
+AND	and
+PER	Hanako
+NOW	are
+EXS	going
+SUB	to
+EXS	get
+EXS	married
+IST	next
+CON	spring
+NIL	.

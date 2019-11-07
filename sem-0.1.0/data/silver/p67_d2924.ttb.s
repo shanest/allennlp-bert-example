@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+EXS	touched
+SUB	that
+PER	Mary
+PST	was
+EXS	worried
+AND	about
+PRO	him
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	realized
+SUB	that
+PER	Mary
+PST	was
+NOT	n't
+EXS	happy
+REL	in
+GPE	Boston
+NIL	.

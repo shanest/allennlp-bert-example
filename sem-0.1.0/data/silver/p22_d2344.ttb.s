@@ -1,0 +1,12 @@
+PRO	He
+AND	who
+ENS	knows
+QUE	how
+SUB	to
+EXS	eat
+NIL	,
+ENS	knows
+QUE	how
+SUB	to
+EXS	digest
+NIL	.

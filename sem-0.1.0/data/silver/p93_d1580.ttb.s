@@ -1,0 +1,12 @@
+PRO	I
+PST	was
+IST	able
+SUB	to
+EXS	find
+DEF	the
+CON	book
+PRO	I
+PST	was
+EXG	looking
+REL	for
+NIL	.

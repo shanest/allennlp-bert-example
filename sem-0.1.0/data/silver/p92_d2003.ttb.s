@@ -1,0 +1,11 @@
+AND	Both
+AND	of
+PRO	us
+NOW	are
+INT	very
+IST	fond
+AND	of
+CON	curry
+AND	and
+CON	steak
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	sick
+NIL	,
+UNK	so
+NOW	do
+NOT	n't
+EXS	talk
+PRO	me
+AND	about
+CON	food
+NIL	.

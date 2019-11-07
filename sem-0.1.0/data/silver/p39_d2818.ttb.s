@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	good
+SUB	to
+EXS	see
+DIS	some
+CON	things
+NOT	never
+CON	change
+NIL	.

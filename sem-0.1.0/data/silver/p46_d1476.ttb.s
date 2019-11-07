@@ -1,0 +1,12 @@
+NIL	"
+NIL	Ostrich
+NIL	!
+CON	"—and
+AND	everyone
+EPS	stuck
+HAS	their
+CON	heads
+REL	under
+DEF	the
+CON	table
+NIL	.

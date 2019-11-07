@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	you
+IST	still
+NOW	think
+AND	about
+PRO	me
+NIL	.

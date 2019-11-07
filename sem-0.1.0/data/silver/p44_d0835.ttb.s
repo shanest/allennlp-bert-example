@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	no
+EXS	doubt
+SUB	that
+PRO	he
+FUT	will
+EXS	succeed
+NIL	.

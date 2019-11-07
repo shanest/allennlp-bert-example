@@ -1,0 +1,10 @@
+PRO	I
+AND	like
+DEF	the
+IST	green
+CON	bicycle
+CON	more
+AND	than
+DEF	the
+COL	pink
+NIL	.

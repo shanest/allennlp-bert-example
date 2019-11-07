@@ -1,0 +1,9 @@
+PRO	They
+NOW	are
+IST	willing
+SUB	to
+EXS	talk
+AND	about
+DEF	the
+CON	problem
+NIL	.

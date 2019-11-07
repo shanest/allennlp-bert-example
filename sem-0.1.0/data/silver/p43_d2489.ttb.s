@@ -1,0 +1,10 @@
+PRX	This
+CON	screwdriver
+NOW	is
+INT	too
+EXS	small
+SUB	to
+EXS	be
+AND	any
+CON	use
+NIL	.

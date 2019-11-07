@@ -1,0 +1,10 @@
+PRO	We
+NOW	have
+NOT	n't
+PFT	been
+EXS	called
+REL	to
+DEF	the
+CON	meeting
+ALT	yet
+NIL	.

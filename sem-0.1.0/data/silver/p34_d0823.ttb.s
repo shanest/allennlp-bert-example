@@ -1,0 +1,10 @@
+PRO	I
+EPS	made
+PRO	her
+EXS	play
+DEF	the
+CON	piano
+AND	against
+HAS	her
+FUT	will
+NIL	.

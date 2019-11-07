@@ -1,0 +1,9 @@
+CON	Fortunately
+NIL	,
+PRO	I
+EPS	made
+PRO	it
+REL	to
+DEF	the
+CON	class
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+EPS	burst
+IST	out
+EXS	laughing
+SUB	when
+PRO	he
+EPS	saw
+PER	Mary
+EXG	dancing
+DIS	a
+CON	jig
+NIL	.

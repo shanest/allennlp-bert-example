@@ -1,0 +1,11 @@
+PRO	I
+FUT	'll
+EXS	go
+REL	to
+GPE	Boston
+AND	next
+CON	summer
+NIL	to
+EXS	visit
+PER	Tom
+NIL	.

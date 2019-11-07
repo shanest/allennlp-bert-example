@@ -1,0 +1,9 @@
+CON	God
+NIL	,
+QUE	what
+HAS	's
+EXS	wrong
+REL	with
+PRO	me
+NOW	today
+QUE	?

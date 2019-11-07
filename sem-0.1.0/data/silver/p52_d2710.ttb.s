@@ -1,0 +1,12 @@
+AND	Whether
+PRO	he
+EPS	wrote
+PRO	it
+DIS	or
+NOT	not
+FUT	will
+IST	always
+EXS	remain
+DIS	a
+CON	secret
+NIL	.

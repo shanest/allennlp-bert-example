@@ -1,0 +1,17 @@
+AND	Could
+DIS	an
+IST	almighty
+CON	god
+EXS	create
+DIS	a
+CON	stone
+SUB	that
+PRO	he
+FUT	would
+NOT	not
+EXS	be
+IST	able
+SUB	to
+IST	subsequently
+EXS	lift
+QUE	?

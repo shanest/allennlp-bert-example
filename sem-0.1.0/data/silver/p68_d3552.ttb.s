@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+INT	very
+IST	far
+AND	as
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	.

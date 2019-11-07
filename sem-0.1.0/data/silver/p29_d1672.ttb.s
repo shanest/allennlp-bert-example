@@ -1,0 +1,15 @@
+EXS	Turn
+IST	down
+DEF	the
+CON	TV
+DIS	a
+CON	little
+NIL	.
+PRO	I
+NOW	'm
+EXS	trying
+SUB	to
+EXS	go
+SUB	to
+EXS	sleep
+NIL	.

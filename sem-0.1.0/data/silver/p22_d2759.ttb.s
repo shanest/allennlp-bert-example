@@ -1,0 +1,9 @@
+PER	Tom
+EPS	knew
+SUB	that
+DEF	the
+CON	story
+PST	was
+NOT	n't
+EXS	true
+NIL	.

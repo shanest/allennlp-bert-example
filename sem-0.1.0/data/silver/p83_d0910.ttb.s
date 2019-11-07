@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+PRO	I
+NOW	've
+EXS	kept
+PRO	you
+EXS	waiting
+AND	so
+IST	long
+NIL	.

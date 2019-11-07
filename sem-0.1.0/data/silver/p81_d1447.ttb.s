@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	felt
+AND	like
+PRX	this
+SUB	since
+PRO	I
+PST	was
+DIS	a
+CON	teenager
+NIL	.

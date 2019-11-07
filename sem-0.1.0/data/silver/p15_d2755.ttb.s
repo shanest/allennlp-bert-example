@@ -1,0 +1,9 @@
+QUE	How
+NOW	are
+CON	things
+EXS	going
+REL	with
+HAS	your
+TOP	youngest
+ROL	sister
+QUE	?

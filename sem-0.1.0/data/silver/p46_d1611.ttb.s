@@ -1,0 +1,12 @@
+DIS	A
+IST	good
+CON	book
+NOW	is
+DEF	the
+TOP	best
+CON	friend
+EQU	,
+NOW	now
+AND	and
+IST	forever
+NIL	.

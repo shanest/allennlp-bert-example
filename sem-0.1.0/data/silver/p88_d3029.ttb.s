@@ -1,0 +1,12 @@
+AND	A
+CON	pelican
+POS	can
+EXS	fit
+DIS	a
+CON	lot
+REL	of
+CON	fish
+REL	in
+HAS	its
+CON	beak
+NIL	.

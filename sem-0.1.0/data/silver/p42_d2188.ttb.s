@@ -1,0 +1,16 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+IMP	if
+PRO	he
+POS	can
+EXS	do
+QUE	what
+PRO	you
+NOW	're
+EXS	asking
+PRO	him
+SUB	to
+EXS	do
+NIL	.

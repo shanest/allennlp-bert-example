@@ -1,0 +1,12 @@
+DIS	A
+CON	boy
+AND	like
+PER	Tom
+NOW	does
+NOT	n't
+EXS	deserve
+DIS	a
+CON	girl
+AND	like
+PER	Mary
+NIL	.

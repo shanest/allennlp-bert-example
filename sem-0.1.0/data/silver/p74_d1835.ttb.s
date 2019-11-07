@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+SUB	that
+IST	few
+CON	soldiers
+NOW	have
+EPS	defended
+DEF	the
+CON	city
+NIL	.

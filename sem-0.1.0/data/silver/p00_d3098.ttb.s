@@ -1,0 +1,10 @@
+PRO	I
+ENS	think
+SUB	that
+PER	Mary
+NOW	is
+EXS	trying
+NIL	to
+EXS	seduce
+PER	Tom
+NIL	.

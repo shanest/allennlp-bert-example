@@ -1,0 +1,10 @@
+PER	Tom
+COO	and
+PRO	I
+EPS	talked
+AND	about
+PRX	this
+QUC	three
+CON	weeks
+PST	ago
+NIL	.

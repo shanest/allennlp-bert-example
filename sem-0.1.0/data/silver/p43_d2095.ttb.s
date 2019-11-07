@@ -1,0 +1,10 @@
+DEF	The
+ROL	enemy
+EPS	made
+DIS	a
+IST	strong
+CON	attack
+REL	on
+DST	that
+CON	building
+NIL	.

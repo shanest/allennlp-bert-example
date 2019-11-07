@@ -1,0 +1,17 @@
+PRO	I
+EPS	bought
+DIS	a
+CON	poster
+REL	at
+DEF	the
+ORG	Arab
+ORG	World
+ORG	Institute
+REL	in
+GEO	Paris
+COO	and
+PRO	I
+PST	had
+PRO	it
+EXS	framed
+NIL	.

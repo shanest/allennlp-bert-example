@@ -1,0 +1,10 @@
+PER	Tom
+EPS	told
+PRO	me
+PRO	he
+PST	was
+EXS	going
+SUB	to
+EXS	kill
+PRO	you
+NIL	.

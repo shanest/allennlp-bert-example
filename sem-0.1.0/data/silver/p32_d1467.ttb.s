@@ -1,0 +1,12 @@
+PRO	I
+PST	thought
+PRO	you
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	talk
+AND	about
+PRX	this
+NOW	now
+NIL	.

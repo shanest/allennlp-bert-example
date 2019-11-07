@@ -1,0 +1,10 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+QUE	why
+PER	Tom
+PST	was
+NOT	n't
+EXS	invited
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	recall
+HAS	her
+CON	name
+REL	at
+DEF	the
+NOW	moment
+NIL	.

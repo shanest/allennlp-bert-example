@@ -1,0 +1,13 @@
+PRO	You
+NOW	are
+EXS	working
+INT	too
+IST	hard
+NIL	.
+EXS	Take
+PRO	it
+EXS	easy
+REL	for
+DIS	a
+CON	while
+NIL	.

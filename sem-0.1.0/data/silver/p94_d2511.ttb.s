@@ -1,0 +1,10 @@
+SUB	When
+PRO	she
+EPS	saw
+PRO	me
+IST	naked
+NIL	,
+PRO	she
+EPS	started
+EXS	laughing
+NIL	.

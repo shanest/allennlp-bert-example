@@ -1,0 +1,14 @@
+PRO	I
+EPS	said
+REL	to
+GPE	Chad
+SUB	that
+PRO	you
+NOW	're
+REL	in
+DIS	a
+CON	position
+REL	to
+CON	influence
+CON	people
+NIL	.

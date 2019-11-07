@@ -1,0 +1,13 @@
+PRO	I
+ENS	bet
+PRO	you
+PST	did
+NOT	n't
+EXS	expect
+SUB	to
+EXS	see
+PRO	me
+ALT	again
+AND	so
+IST	soon
+NIL	.

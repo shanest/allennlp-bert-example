@@ -1,0 +1,12 @@
+PRO	You
+NEC	should
+EXS	try
+SUB	to
+EXS	form
+DEF	the
+CON	habit
+AND	of
+EXG	using
+HAS	your
+CON	dictionaries
+NIL	.

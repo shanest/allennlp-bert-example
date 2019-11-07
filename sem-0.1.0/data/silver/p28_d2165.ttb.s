@@ -1,0 +1,11 @@
+DEF	The
+CON	anthropologist
+ENS	says
+IST	odd
+CON	customs
+NOW	do
+EXS	persist
+REL	in
+DEF	the
+CON	region
+NIL	.

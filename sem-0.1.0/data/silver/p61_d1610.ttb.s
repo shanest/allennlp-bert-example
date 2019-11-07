@@ -1,0 +1,11 @@
+SUB	When
+PRO	I
+EPS	entered
+DEF	the
+CON	room
+NIL	,
+PRO	I
+EPS	found
+DIS	a
+CON	dog
+NIL	.

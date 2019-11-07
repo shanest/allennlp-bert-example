@@ -1,0 +1,9 @@
+DIS	A
+ROL	Mr.
+PER	Smith
+NOW	has
+EXT	come
+NIL	to
+EXS	see
+PRO	you
+NIL	.

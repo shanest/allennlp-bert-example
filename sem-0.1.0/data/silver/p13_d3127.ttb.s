@@ -1,0 +1,15 @@
+PER	Tom
+CON	bottles
+IST	up
+HAS	his
+CON	emotions
+COO	and
+PRO	they
+AND	all
+EXS	come
+IST	out
+SUB	when
+PRO	he
+NOW	gets
+EXS	drunk
+NIL	.

@@ -1,0 +1,10 @@
+IMP	If
+PER	Tom
+EPS	said
+PRO	it
+NIL	,
+PRO	it
+NOW	's
+IST	probably
+EXS	true
+NIL	.

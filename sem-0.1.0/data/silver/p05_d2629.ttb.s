@@ -1,0 +1,10 @@
+MOR	Over
+QUC	ten
+UOM	percent
+REL	of
+PRO	them
+POS	can
+EXS	do
+DEF	the
+CON	work
+NIL	.

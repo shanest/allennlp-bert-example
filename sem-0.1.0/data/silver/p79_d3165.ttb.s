@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+EXS	going
+SUB	to
+EXS	be
+IST	able
+SUB	to
+EXS	help
+PER	Tom
+QUE	?

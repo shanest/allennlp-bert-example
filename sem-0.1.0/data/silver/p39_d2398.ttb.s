@@ -1,0 +1,12 @@
+AND	Immediately
+REL	after
+DEF	the
+CON	bell
+EPS	rang
+DEF	the
+CON	teacher
+EPS	came
+REL	into
+DEF	the
+CON	classroom
+NIL	.

@@ -1,0 +1,10 @@
+PRX	These
+CON	flowers
+NOW	are
+NOT	not
+XCL	only
+IST	beautiful
+COO	but
+ALT	also
+CON	fragrant
+NIL	.

@@ -1,0 +1,9 @@
+REL	In
+GPE	Japan
+NIL	,
+AND	all
+CON	children
+EXS	go
+REL	to
+CON	school
+NIL	.

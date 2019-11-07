@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+PRO	I
+POS	could
+NOT	n't
+EXS	be
+IST	more
+EXS	helpful
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+EPS	met
+PRO	him
+REL	by
+CON	chance
+REL	in
+DEF	the
+CON	train
+PRX	this
+CON	morning
+NIL	.

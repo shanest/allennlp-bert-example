@@ -1,0 +1,11 @@
+REL	In
+GPE	Japan
+NIL	,
+PRO	it
+HAS	's
+CLO	three
+REL	in
+DEF	the
+CON	morning
+NOW	now
+NIL	.

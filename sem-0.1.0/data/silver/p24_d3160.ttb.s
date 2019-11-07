@@ -1,0 +1,10 @@
+PRO	She
+EPS	suggested
+SUB	that
+PRO	I
+NOW	take
+PRO	him
+REL	to
+DEF	the
+CON	zoo
+NIL	.

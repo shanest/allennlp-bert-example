@@ -1,0 +1,12 @@
+NOW	Are
+PRO	you
+EXS	going
+SUB	to
+EXS	pay
+DIS	a
+CON	visit
+REL	to
+GPE	China
+PRX	this
+CON	fall
+QUE	?

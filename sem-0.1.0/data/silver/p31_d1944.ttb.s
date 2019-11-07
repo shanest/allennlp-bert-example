@@ -1,0 +1,15 @@
+DEF	The
+YOC	2010
+CON	eruption
+AND	of
+DIS	a
+CON	volcano
+REL	in
+GEO	Iceland
+EPS	caused
+QUC	many
+CON	problems
+REL	for
+IST	European
+CON	travelers
+NIL	.

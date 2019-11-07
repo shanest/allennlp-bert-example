@@ -1,0 +1,10 @@
+PRO	He
+EPS	made
+REL	for
+DEF	the
+CON	door
+SUB	to
+EXS	answer
+DEF	the
+EXS	knock
+NIL	.

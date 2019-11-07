@@ -1,0 +1,11 @@
+PRX	This
+CON	room
+NOW	is
+INT	too
+EXS	hot
+REL	for
+PRO	us
+SUB	to
+EXS	work
+REL	in
+NIL	.

@@ -1,0 +1,10 @@
+PER	Mary
+ENS	says
+PRO	she
+PST	did
+NOT	not
+EXS	mean
+SUB	to
+EXS	kill
+PRO	him
+NIL	.

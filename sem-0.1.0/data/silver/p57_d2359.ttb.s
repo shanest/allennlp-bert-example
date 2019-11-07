@@ -1,0 +1,12 @@
+PER	Tom
+EPS	picked
+IST	up
+DEF	the
+CON	paper
+AND	and
+EXS	read
+QUE	what
+PST	was
+REL	on
+PRO	it
+NIL	.

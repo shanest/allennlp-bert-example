@@ -1,0 +1,10 @@
+UNK	There
+NOW	is
+NOT	no
+CON	market
+REL	for
+PRX	these
+CON	goods
+REL	in
+GPE	Japan
+NIL	.

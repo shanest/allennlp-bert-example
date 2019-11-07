@@ -1,0 +1,11 @@
+REL	After
+CON	months
+AND	of
+EXS	looking
+NIL	,
+PER	Mary
+EPS	purchased
+DIS	a
+IST	new
+CON	dress
+NIL	.

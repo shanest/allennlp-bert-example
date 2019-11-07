@@ -1,0 +1,15 @@
+DEF	The
+IST	general
+CON	theory
+AND	of
+GEO	relativity
+NOW	explains
+DEF	the
+EXS	anomalous
+IST	perihelion
+CON	precession
+AND	of
+DEF	the
+CON	planet
+NTH	Mercury
+NIL	.

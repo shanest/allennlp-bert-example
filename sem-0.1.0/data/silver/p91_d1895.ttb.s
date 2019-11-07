@@ -1,0 +1,10 @@
+PER	Tom
+ENS	thinks
+PRO	he
+POS	may
+EXS	be
+IST	able
+SUB	to
+EXS	help
+PRO	you
+NIL	.

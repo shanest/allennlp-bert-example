@@ -1,0 +1,10 @@
+DEF	The
+CON	road
+REL	to
+CON	recovery
+NOW	is
+IST	downhill
+AND	all
+DEF	the
+CON	way
+NIL	.

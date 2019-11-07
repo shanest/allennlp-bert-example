@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+IST	beautiful
+NIL	,
+COO	and
+DST	that
+NOW	is
+ALT	also
+EXS	beautiful
+NIL	.

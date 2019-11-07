@@ -1,0 +1,14 @@
+PRO	It
+PST	was
+NOT	not
+SUB	until
+PRO	he
+PST	was
+QUC	forty
+SUB	that
+PRO	he
+EPS	began
+SUB	to
+EXS	study
+GPO	German
+NIL	.

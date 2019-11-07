@@ -1,0 +1,13 @@
+PER	Tom
+EPS	kissed
+PER	Mary
+REL	on
+DEF	the
+CON	cheek
+AND	and
+IST	then
+EXS	got
+REL	into
+HAS	his
+CON	car
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PRO	I
+IST	often
+NOW	take
+IST	long
+ENS	walks
+IST	together
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	heard
+HAS	my
+ROL	mother
+EXG	sing
+DIS	a
+CON	song
+NIL	.

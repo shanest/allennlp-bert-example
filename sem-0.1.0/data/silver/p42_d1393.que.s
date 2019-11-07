@@ -1,0 +1,16 @@
+QUE	What
+CON	sports
+CON	stadium
+NOW	has
+PFT	been
+EXS	billed
+AND	as
+NIL	"
+DEF	the
+CON	eighth
+NOW	wonder
+AND	of
+DEF	the
+CON	world
+NIL	"
+QUE	?

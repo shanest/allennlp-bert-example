@@ -1,0 +1,14 @@
+PRO	I
+ENS	bet
+PRO	we
+NOW	've
+AND	all
+EPS	asked
+REF	ourselves
+AND	that
+IST	same
+CON	question
+MOR	more
+MOR	than
+QUC	once
+NIL	.

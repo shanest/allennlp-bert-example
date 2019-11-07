@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+NOW	do
+NOT	not
+EXS	have
+PRX	this
+CON	program
+NIL	,
+PRO	you
+POS	can
+EXS	download
+PRO	it
+NOW	now
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+DIS	a
+IST	good
+CON	friend
+AND	of
+PER	Mary
+HAS	's
+NIL	.

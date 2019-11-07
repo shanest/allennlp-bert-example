@@ -1,0 +1,9 @@
+PRX	This
+CON	way
+EQU	,
+PER	Sir
+NIL	,
+IMP	if
+PRO	you
+IST	please
+NIL	.

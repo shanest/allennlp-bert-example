@@ -1,0 +1,15 @@
+REL	In
+GPE	France
+EQU	,
+CON	works
+AND	of
+CON	art
+EPS	bought
+REL	at
+IST	public
+CON	auction
+NOW	are
+EXS	exempt
+REL	from
+CON	registration
+NIL	.

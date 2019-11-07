@@ -1,0 +1,9 @@
+PER	Tom
+EPS	caught
+DEF	the
+CON	ball
+REL	with
+HAS	his
+IST	left
+CON	hand
+NIL	.

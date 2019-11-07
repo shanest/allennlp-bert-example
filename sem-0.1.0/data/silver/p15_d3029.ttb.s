@@ -1,0 +1,11 @@
+DIS	An
+ROL	enemy
+AND	of
+DIS	an
+ROL	enemy
+NOW	is
+NOT	not
+EXS	necessarily
+DIS	an
+CON	ally
+NIL	.

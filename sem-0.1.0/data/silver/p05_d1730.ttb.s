@@ -1,0 +1,10 @@
+POS	May
+PRO	I
+NOW	ask
+PRO	you
+DIS	some
+CON	questions
+AND	about
+HAS	your
+CON	name
+QUE	?

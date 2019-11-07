@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	looking
+REL	at
+HAS	my
+CON	reflection
+REL	in
+DEF	the
+CON	lake
+NIL	.

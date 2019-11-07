@@ -1,0 +1,10 @@
+PRO	He
+EPS	took
+HAS	his
+CON	coat
+REL	off
+COO	and
+EXS	set
+SUB	to
+EXS	work
+NIL	.

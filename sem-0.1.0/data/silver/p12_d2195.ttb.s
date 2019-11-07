@@ -1,0 +1,14 @@
+PRO	He
+EPS	thought
+SUB	that
+UNK	there
+PST	was
+NOT	no
+CON	point
+REL	in
+EXS	studying
+IST	further
+REL	in
+PRX	this
+CON	field
+NIL	.

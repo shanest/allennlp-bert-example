@@ -1,0 +1,13 @@
+NIL	"
+CON	Animals
+REL	in
+DEF	the
+IST	wild
+NOW	are
+NOT	not
+CON	robots
+NIL	,
+NIL	"
+PRO	she
+ENS	says
+NIL	.

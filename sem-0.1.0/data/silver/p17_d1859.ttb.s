@@ -1,0 +1,11 @@
+HAS	Their
+ROL	father
+PST	had
+DIS	a
+IST	large
+CON	shoe
+CON	shop
+REL	in
+DEF	the
+CON	town
+NIL	.

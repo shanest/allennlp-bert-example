@@ -1,0 +1,12 @@
+ITJ	Yes
+NIL	,
+PRO	he
+NOW	is
+DIS	an
+ROL	inventor
+NIL	,
+IMP	if
+PRO	I
+EPS	understood
+IST	correctly
+NIL	.

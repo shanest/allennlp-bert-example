@@ -1,0 +1,9 @@
+PRO	I
+NOW	suggest
+SUB	that
+PRO	we
+NOW	leave
+NOW	now
+EQU	,
+PER	Tom
+NIL	.

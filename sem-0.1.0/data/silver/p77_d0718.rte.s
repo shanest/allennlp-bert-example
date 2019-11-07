@@ -1,0 +1,14 @@
+ROL	Mr
+PER	Fradkov
+AND	and
+PER	Sergei
+PER	Sidorsky
+EPS	found
+DIS	an
+CON	agreement
+REL	after
+QUC	10
+UOM	hours
+AND	of
+CON	negotiations
+NIL	.

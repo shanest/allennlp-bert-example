@@ -1,0 +1,12 @@
+FUT	Will
+PRO	you
+EXS	be
+EXS	working
+REL	at
+DEF	the
+CON	hotel
+FUT	tomorrow
+REL	in
+DEF	the
+CON	morning
+QUE	?

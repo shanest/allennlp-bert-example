@@ -1,0 +1,12 @@
+PER	Tom
+NEC	should
+NOT	n't
+EXS	wait
+REL	for
+PER	Mary
+REL	for
+MOR	more
+MOR	than
+QUC	ten
+UOM	minutes
+NIL	.

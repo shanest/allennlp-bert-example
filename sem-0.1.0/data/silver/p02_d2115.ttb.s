@@ -1,0 +1,10 @@
+NIL	There
+HAS	's
+NOT	not
+IST	even
+QUC	one
+CON	orange
+REL	on
+DEF	the
+CON	table
+NIL	.

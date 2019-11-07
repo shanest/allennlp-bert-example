@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+NOT	n't
+EXG	expecting
+DIS	something
+PRX	this
+IST	bad
+SUB	to
+EXS	happen
+NIL	.

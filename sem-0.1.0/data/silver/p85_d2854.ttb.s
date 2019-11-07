@@ -1,0 +1,20 @@
+TOP	Most
+AND	of
+DEF	the
+CON	time
+NIL	,
+PRO	he
+NOW	does
+NOT	n't
+EXS	get
+SUB	to
+EXS	sleep
+REL	before
+CLO	two
+DIS	or
+IST	even
+CLO	three o'clock
+REL	in
+DEF	the
+CON	morning
+NIL	.

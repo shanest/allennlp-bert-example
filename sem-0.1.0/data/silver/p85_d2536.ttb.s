@@ -1,0 +1,12 @@
+AND	But
+REL	for
+DEF	the
+IST	modern
+CON	medicine
+NIL	,
+PRO	I
+FUT	'd
+EXT	have
+PFT	been
+EXS	dead
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+SUB	that
+PRO	she
+ENS	knows
+CON	Hebrew
+NIL	.

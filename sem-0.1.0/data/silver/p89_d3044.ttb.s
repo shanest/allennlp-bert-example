@@ -1,0 +1,11 @@
+GPE	Andorra
+NOW	is
+DIS	a
+IST	small
+CON	principality
+EXS	situated
+REL	between
+GEO	Spain
+AND	and
+GEO	France
+NIL	.

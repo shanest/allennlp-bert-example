@@ -1,0 +1,10 @@
+PRO	She
+NOW	looks
+AND	like
+PRO	she
+NOW	's
+IST	about
+SUB	to
+EXS	throw
+IST	up
+NIL	.

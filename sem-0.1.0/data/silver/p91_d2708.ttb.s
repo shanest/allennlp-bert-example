@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	mention
+SUB	that
+PRO	he
+PST	'd
+EPS	met
+PER	Mary
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+EPS	asked
+PER	Mary
+QUE	why
+PRO	she
+PST	had
+EXS	done
+SUB	that
+NIL	.

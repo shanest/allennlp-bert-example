@@ -1,0 +1,15 @@
+EXS	Let
+PRO	's
+ENS	go
+REL	to
+DEF	the
+CON	theater
+AND	early
+IST	so
+SUB	that
+PRO	we
+POS	can
+EXS	get
+IST	good
+CON	seats
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+IST	eventually
+EPS	found
+DIS	a
+CON	job
+SUB	that
+PRO	he
+EPS	liked
+NIL	.

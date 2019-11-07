@@ -1,0 +1,14 @@
+PER	Midway
+AND	through
+HAS	our
+CON	trip
+PRO	we
+EPS	realized
+SUB	that
+PRO	we
+PST	had
+NOT	n't
+EXS	brought
+IST	enough
+CON	money
+NIL	.

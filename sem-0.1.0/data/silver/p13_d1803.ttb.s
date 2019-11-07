@@ -1,0 +1,10 @@
+PRO	You
+PST	had
+MOR	better
+EXS	ask
+PRO	him
+AND	which
+CON	way
+SUB	to
+EXS	take
+NIL	.

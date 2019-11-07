@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	planning
+SUB	to
+EXS	get
+EXS	married
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+PER	Tom
+ENS	has
+DIS	a
+CON	house
+REL	in
+GPE	Boston
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+ENS	speak
+CON	Japanese
+EQU	,
+GPO	English
+EQU	,
+AND	and
+GPO	French
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+SUB	where
+NOW	are
+DEF	the
+CON	eggs
+QUE	?

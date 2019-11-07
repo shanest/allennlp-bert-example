@@ -1,0 +1,10 @@
+UNK	There
+HAS	's
+DIS	a
+CON	cure
+REL	for
+AND	everything
+NIL	,
+NOT	except
+CON	death
+NIL	.

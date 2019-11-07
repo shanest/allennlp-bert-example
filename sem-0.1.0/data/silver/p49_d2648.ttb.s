@@ -1,0 +1,15 @@
+IMP	If
+PRO	we
+NOW	're
+NOT	not
+EXS	careful
+NIL	,
+QUC	one
+AND	of
+PRO	us
+NOW	is
+EXS	going
+SUB	to
+EXS	get
+EXS	hurt
+NIL	.

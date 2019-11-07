@@ -1,0 +1,9 @@
+PRO	I
+IST	still
+NOW	do
+NOT	n't
+EXS	think
+PRO	I
+NOW	'm
+EXS	wrong
+NIL	.

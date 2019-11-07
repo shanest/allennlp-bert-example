@@ -1,0 +1,12 @@
+NOW	Do
+PRO	you
+EXS	know
+QUE	what
+PRO	it
+NOW	is
+EXS	like
+SUB	to
+EXS	be
+IST	really
+EXS	hungry
+QUE	?

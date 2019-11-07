@@ -1,0 +1,15 @@
+AND	Out
+AND	of
+CON	sight
+AND	out
+AND	of
+CON	mind
+NIL	.
+SUB	When
+PRO	you
+NOW	're
+EXS	separated
+PRO	you
+NOW	lose
+EXS	touch
+NIL	.

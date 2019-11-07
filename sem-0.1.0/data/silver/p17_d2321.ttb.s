@@ -1,0 +1,16 @@
+PER	Tom
+NEC	had
+SUB	to
+EXS	have
+HAS	his
+CON	stomach
+EPS	pumped
+SUB	because
+PRO	he
+PST	had
+IST	accidentally
+EXS	eaten
+DIS	some
+CON	rat
+CON	poison
+NIL	.

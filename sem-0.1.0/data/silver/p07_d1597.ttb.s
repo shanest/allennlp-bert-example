@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	make
+PRX	this
+CON	material
+REL	into
+DIS	a
+CON	skirt
+NIL	.

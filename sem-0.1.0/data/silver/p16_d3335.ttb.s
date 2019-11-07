@@ -1,0 +1,9 @@
+PRO	You
+NOW	're
+EXS	going
+SUB	to
+EXS	be
+SUB	so
+EXS	happy
+PRX	here
+NIL	.

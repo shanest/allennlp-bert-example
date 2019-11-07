@@ -1,0 +1,11 @@
+HAS	My
+ROL	grandfather
+FUT	would
+IST	often
+EXS	read
+COO	and
+EXS	study
+REL	at
+PRX	this
+CON	desk
+NIL	.

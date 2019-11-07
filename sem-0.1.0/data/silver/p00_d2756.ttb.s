@@ -1,0 +1,10 @@
+NOW	Is
+NIL	there
+DIS	any
+CON	chance
+AND	of
+HAS	my
+CON	borrowing
+HAS	your
+CON	typewriter
+QUE	?

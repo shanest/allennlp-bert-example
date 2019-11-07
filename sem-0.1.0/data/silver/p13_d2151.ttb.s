@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+DEF	the
+CON	person
+PRO	I
+EPS	gave
+DIS	a
+CON	dictionary
+REL	to
+NIL	.

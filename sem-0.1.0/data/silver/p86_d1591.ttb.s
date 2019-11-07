@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	hungry
+SUB	because
+PRO	I
+PST	did
+NOT	not
+EXS	eat
+CON	lunch
+NIL	.

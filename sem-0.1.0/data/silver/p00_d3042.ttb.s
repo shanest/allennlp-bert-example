@@ -1,0 +1,17 @@
+SUB	Though
+PRO	he
+ENS	lives
+AND	within
+DIS	a
+CON	stone
+HAS	's
+CON	throw
+REL	of
+DEF	the
+CON	school
+NIL	,
+PRO	he
+NOW	is
+IST	often
+IST	late
+NIL	.

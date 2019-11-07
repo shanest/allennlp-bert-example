@@ -1,0 +1,12 @@
+PRO	I
+EPS	gave
+IST	up
+CON	smoking
+COO	and
+PRO	I
+NOW	feel
+AND	like
+DIS	a
+IST	new
+CON	man
+NIL	.

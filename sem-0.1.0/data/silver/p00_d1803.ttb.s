@@ -1,0 +1,11 @@
+PER	Tom
+ENS	plans
+NIL	to
+EXS	put
+IST	new
+CON	locks
+REL	on
+AND	all
+DEF	the
+CON	doors
+NIL	.

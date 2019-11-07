@@ -1,0 +1,10 @@
+PER	Tom
+FUT	would
+EXS	lend
+PRO	you
+CON	money
+IMP	if
+PRO	he
+PST	had
+AND	any
+NIL	.

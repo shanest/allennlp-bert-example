@@ -1,0 +1,10 @@
+PRO	She
+EPS	went
+REL	to
+DEF	the
+CON	market
+NIL	to
+EXS	buy
+IST	fresh
+CON	vegetables
+NIL	.

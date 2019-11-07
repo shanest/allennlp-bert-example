@@ -1,0 +1,11 @@
+NOW	Is
+PRO	it
+EXS	true
+PRO	you
+EPS	advised
+PER	Taninna
+SUB	to
+EXS	sell
+HAS	her
+CON	house
+QUE	?

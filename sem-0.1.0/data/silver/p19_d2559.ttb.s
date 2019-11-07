@@ -1,0 +1,11 @@
+PER	Tom
+EPS	sat
+IST	down
+AND	next
+REL	to
+PER	Mary
+REL	on
+DEF	the
+CON	sandy
+CON	beach
+NIL	.

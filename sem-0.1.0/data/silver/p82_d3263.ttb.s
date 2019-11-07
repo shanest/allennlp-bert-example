@@ -1,0 +1,11 @@
+REL	Until
+NOW	now
+NIL	,
+NOT	no
+CON	one
+NOW	has
+IST	ever
+EXS	seen
+DIS	a
+GPO	Martian
+NIL	.

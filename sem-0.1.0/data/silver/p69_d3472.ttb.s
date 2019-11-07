@@ -1,0 +1,9 @@
+PER	Tom
+EPS	spent
+DEF	the
+IST	whole
+CON	day
+EXS	reading
+REL	in
+CON	bed
+NIL	.

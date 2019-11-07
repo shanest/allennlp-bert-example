@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	grateful
+REL	to
+PRO	you
+REL	for
+HAS	your
+CON	kindness
+NIL	.

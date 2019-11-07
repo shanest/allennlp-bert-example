@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	see
+CON	eye
+REL	to
+CON	eye
+REL	on
+PRX	this
+NIL	.

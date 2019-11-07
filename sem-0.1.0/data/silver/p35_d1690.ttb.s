@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+EPS	bought
+PRO	me
+DIS	a
+CON	camera
+REL	for
+HAS	my
+CON	birthday
+NIL	.

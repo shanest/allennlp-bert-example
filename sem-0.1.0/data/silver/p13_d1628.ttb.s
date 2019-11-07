@@ -1,0 +1,11 @@
+PRO	I
+EPS	talked
+HAS	my
+CON	wife
+AND	out
+AND	of
+EXG	buying
+DIS	a
+IST	new
+CON	carpet
+NIL	.

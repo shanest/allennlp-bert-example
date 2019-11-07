@@ -1,0 +1,12 @@
+UNK	There
+NOW	are
+NOT	no
+MOR	fewer
+MOR	than
+DIS	a
+QUC	dozen
+CON	bedrooms
+REL	in
+PRX	this
+CON	mansion
+NIL	.

@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+IST	first
+CON	time
+PRO	I
+NOW	've
+EPS	kissed
+HAS	my
+ROL	father
+NIL	.

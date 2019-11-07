@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	come
+REL	across
+AND	such
+DIS	a
+IST	strange
+CON	case
+NIL	.

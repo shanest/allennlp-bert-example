@@ -1,0 +1,12 @@
+AND	Seeing
+SUB	that
+PRO	we
+NOW	have
+IST	little
+CON	time
+NIL	,
+PRO	we
+NEC	have
+SUB	to
+EXS	hurry
+NIL	.

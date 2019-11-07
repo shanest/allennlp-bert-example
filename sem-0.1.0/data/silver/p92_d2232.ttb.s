@@ -1,0 +1,15 @@
+NIL	"
+PER	Tom
+EPS	got
+DIS	a
+IST	new
+CON	job
+NIL	.
+NIL	"
+NIL	"
+QUE	What
+CON	kind
+AND	of
+CON	job
+QUE	?
+NIL	"

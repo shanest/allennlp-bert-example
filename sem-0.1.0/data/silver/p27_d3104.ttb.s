@@ -1,0 +1,11 @@
+HAS	My
+ROL	father
+EXS	being
+EXS	sick
+NIL	,
+PRO	I
+NEC	had
+SUB	to
+EXS	stay
+CON	home
+NIL	.

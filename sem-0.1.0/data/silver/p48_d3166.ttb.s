@@ -1,0 +1,10 @@
+DIS	A
+SST	cute
+SST	little
+CON	turtle
+PST	was
+EXS	found
+REL	on
+DEF	the
+CON	beach
+NIL	.

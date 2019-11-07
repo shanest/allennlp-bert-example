@@ -1,0 +1,12 @@
+PRO	I
+POS	can
+EXS	speak
+CON	Chinese
+NIL	,
+BUT	but
+PRO	I
+POS	ca
+NOT	n't
+EXS	read
+PRO	it
+NIL	.

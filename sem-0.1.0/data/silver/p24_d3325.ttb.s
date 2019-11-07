@@ -1,0 +1,13 @@
+AND	Would
+PRO	you
+ENS	like
+SUB	to
+EXS	come
+IST	over
+REL	for
+CON	dinner
+REL	after
+CON	work
+REL	on
+DOW	Monday
+QUE	?

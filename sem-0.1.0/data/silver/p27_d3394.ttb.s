@@ -1,0 +1,9 @@
+PER	John
+NOW	is
+EXS	careless
+NIL	.
+PRO	He
+NOW	makes
+QUV	many
+CON	mistakes
+NIL	.

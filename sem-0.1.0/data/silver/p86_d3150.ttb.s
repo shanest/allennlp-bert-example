@@ -1,0 +1,12 @@
+QUE	Who
+ENS	lives
+NOT	without
+CON	folly
+NOW	is
+NOT	not
+IST	so
+EXS	wise
+SUB	as
+PRO	he
+ENS	thinks
+NIL	.

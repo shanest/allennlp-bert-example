@@ -1,0 +1,16 @@
+SUB	Whenever
+PRO	I
+NOW	get
+IST	ready
+SUB	to
+EXS	go
+CON	shopping
+NIL	,
+PRO	he
+IST	invariably
+ENS	starts
+EXS	getting
+REL	on
+HAS	my
+IST	back
+NIL	.

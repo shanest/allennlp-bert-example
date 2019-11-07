@@ -1,0 +1,12 @@
+AND	All
+HAS	their
+CON	great-grandparents
+PST	were
+EXS	dead
+REL	before
+PER	Tom
+COO	and
+PER	Mary
+PST	were
+EXS	born
+NIL	.

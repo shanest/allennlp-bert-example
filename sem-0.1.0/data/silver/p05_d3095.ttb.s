@@ -1,0 +1,13 @@
+PRO	It
+NOW	goes
+NOT	without
+EXG	saying
+DST	that
+CON	autumn
+NOW	is
+DEF	the
+TOP	best
+CON	season
+REL	for
+CON	study
+NIL	.

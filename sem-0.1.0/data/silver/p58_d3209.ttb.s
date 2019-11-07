@@ -1,0 +1,15 @@
+PRO	I
+EPS	wanted
+SUB	to
+EXS	fall
+REL	in
+CON	love
+REL	with
+DIS	someone
+NIL	,
+COO	but
+PRO	it
+PST	did
+NOT	n't
+EXS	happen
+NIL	.

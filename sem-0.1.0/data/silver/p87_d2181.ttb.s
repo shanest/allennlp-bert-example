@@ -1,0 +1,16 @@
+IMP	If
+PRO	you
+ENS	go
+REL	by
+CON	plane
+NIL	,
+PRO	you
+FUT	wo
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	take
+QUC	much
+CON	luggage
+NIL	.

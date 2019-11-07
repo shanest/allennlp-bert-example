@@ -1,0 +1,10 @@
+AND	Why
+NOW	do
+PRO	you
+NOW	think
+PER	Tom
+NOW	does
+NOT	n't
+EXS	like
+PRO	me
+QUE	?

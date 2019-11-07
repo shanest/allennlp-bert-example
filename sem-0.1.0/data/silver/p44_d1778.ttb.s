@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	known
+DIS	anyone
+SUB	as
+EXS	hypocritical
+AND	as
+PRO	you
+NIL	.

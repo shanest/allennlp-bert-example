@@ -1,0 +1,13 @@
+NOT	Not
+XCL	only
+PRO	I
+NIL	,
+BUT	but
+ALT	also
+PRO	you
+NOW	are
+IST	responsible
+REL	for
+PRX	this
+CON	accident
+NIL	.

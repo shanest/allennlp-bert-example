@@ -1,0 +1,14 @@
+EXT	Having
+EXS	lost
+DEF	the
+CON	game
+AND	over
+AND	and
+AND	over
+ALT	again
+NIL	,
+PRO	he
+IST	finally
+EPS	gave
+REL	in
+NIL	.

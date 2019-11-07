@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+PRO	him
+SUB	to
+EXS	stop
+EXG	erasing
+HAS	his
+CON	comments
+IST	immediately
+NIL	.

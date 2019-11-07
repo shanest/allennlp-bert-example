@@ -1,0 +1,9 @@
+PER	Tom
+EPS	wondered
+QUE	why
+PER	Mary
+PST	did
+NOT	n't
+EXS	like
+PRO	him
+NIL	.

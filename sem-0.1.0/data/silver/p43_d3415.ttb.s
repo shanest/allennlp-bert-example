@@ -1,0 +1,12 @@
+PRO	It
+FUT	'll
+EXS	be
+IST	easy
+SUB	to
+EXS	find
+DIS	someone
+SUB	to
+EXS	rent
+PRX	this
+CON	house
+NIL	.

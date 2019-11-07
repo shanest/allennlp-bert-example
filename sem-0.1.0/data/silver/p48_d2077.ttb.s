@@ -1,0 +1,9 @@
+PRO	She
+NOW	is
+IST	senior
+REL	to
+PRO	me
+REL	by
+QUC	six
+CON	years
+NIL	.

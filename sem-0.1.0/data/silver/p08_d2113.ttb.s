@@ -1,0 +1,13 @@
+DEF	The
+IST	third
+CON	quarter
+CON	GNP
+CON	growth
+PST	was
+QUC	1
+UOM	%
+AND	over
+DEF	the
+IST	preceding
+CON	quarter
+NIL	.

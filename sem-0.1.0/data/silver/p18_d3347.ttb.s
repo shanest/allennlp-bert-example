@@ -1,0 +1,23 @@
+DEF	The
+TOP	greatest
+CON	number
+EPS	came
+REL	from
+GEO	Europe
+NIL	,
+COO	but
+QUC	many
+ALT	also
+EPS	came
+REL	from
+GEO	Latin America
+EQU	,
+GEO	Asia
+EQU	,
+GEO	Africa
+EQU	,
+GPE	Australia
+EQU	,
+AND	and
+GPE	Canada
+NIL	.

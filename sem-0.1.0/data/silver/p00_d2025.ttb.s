@@ -1,0 +1,9 @@
+CON	Tolerance
+ENS	becomes
+DIS	a
+CON	crime
+SUB	when
+EXS	applied
+NIL	to
+EXS	evil
+NIL	.

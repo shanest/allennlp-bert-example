@@ -1,0 +1,10 @@
+QUE	How
+NOW	are
+PRO	you
+EXG	getting
+REL	along
+REL	in
+PRX	this
+IST	hot
+CON	weather
+QUE	?

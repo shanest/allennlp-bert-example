@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	said
+PRO	they
+PST	were
+REL	on
+HAS	our
+CON	side
+NIL	.

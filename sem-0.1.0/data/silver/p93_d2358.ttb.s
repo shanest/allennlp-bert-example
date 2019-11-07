@@ -1,0 +1,13 @@
+PER	Scarcely
+PST	had
+PRO	I
+EPS	heard
+DEF	the
+CON	news
+SUB	when
+PRO	I
+PST	felt
+IST	inclined
+SUB	to
+EXS	cry
+NIL	.

@@ -1,0 +1,13 @@
+PRO	You
+NOW	're
+EXS	using
+PRO	me
+REL	in
+HAS	your
+CON	art
+AND	like
+PRX	this
+NOT	without
+EXS	consulting
+PRO	me
+QUE	?

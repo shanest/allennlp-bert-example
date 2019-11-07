@@ -1,0 +1,10 @@
+QUE	What
+FUT	will
+PRO	we
+EXS	be
+EXG	doing
+PRX	this
+CON	time
+AND	next
+CON	week
+QUE	?

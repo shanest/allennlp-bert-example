@@ -1,0 +1,15 @@
+PRX	This
+NEC	ought
+SUB	to
+EXS	bring
+REL	in
+IST	enough
+CON	money
+SUB	to
+EXS	put
+PRO	us
+IST	back
+REL	in
+DEF	the
+COL	black
+NIL	.

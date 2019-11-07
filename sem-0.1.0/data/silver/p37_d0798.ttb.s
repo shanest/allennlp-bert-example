@@ -1,0 +1,10 @@
+PRX	This
+CON	bird
+ENS	lives
+IST	neither
+REL	in
+GPE	Japan
+QUE	nor
+REL	in
+GPE	China
+NIL	.

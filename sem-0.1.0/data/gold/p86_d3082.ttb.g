@@ -1,0 +1,10 @@
+REL	In
+GPE	India
+NIL	,
+AND	the
+CON	cow
+EQU	is
+DIS	a
+IST	sacred
+CON	animal
+NIL	.

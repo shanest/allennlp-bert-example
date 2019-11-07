@@ -1,0 +1,9 @@
+PER	Love
+NOW	is
+EXS	blind
+NIL	.
+CON	Hate
+NOW	is
+ALT	also
+EXS	blind
+NIL	.

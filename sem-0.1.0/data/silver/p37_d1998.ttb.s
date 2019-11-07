@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	having
+DIS	a
+IST	hard
+CON	time
+EXS	agreeing
+REL	to
+DEF	the
+CON	terms
+NIL	.

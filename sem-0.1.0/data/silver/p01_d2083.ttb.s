@@ -1,0 +1,10 @@
+PRO	I
+IST	just
+ENS	think
+SUB	that
+PRX	this
+NOW	is
+EXG	happening
+INT	too
+IST	soon
+NIL	.

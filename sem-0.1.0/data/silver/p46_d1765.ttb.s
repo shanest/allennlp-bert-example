@@ -1,0 +1,12 @@
+PRO	I
+FUT	would
+EXT	have
+EXS	liked
+PRO	it
+IMP	if
+PRO	you
+PST	had
+EXS	come
+REL	with
+PRO	us
+NIL	.

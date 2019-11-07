@@ -1,0 +1,9 @@
+PRO	I
+EPS	met
+DIS	a
+ROL	Mr.
+PER	Kimura
+REL	at
+DEF	the
+CON	party
+NIL	.

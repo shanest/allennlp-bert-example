@@ -1,0 +1,11 @@
+PER	Tom
+EPS	got
+IST	out
+AND	of
+DEF	the
+CON	bathtub
+AND	and
+IST	dried
+REF	himself
+REL	off
+NIL	.

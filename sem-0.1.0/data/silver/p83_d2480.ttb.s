@@ -1,0 +1,11 @@
+DEF	The
+IST	new
+CON	library
+NOW	has
+PFT	been
+REL	under
+CON	construction
+REL	since
+IST	last
+CON	year
+NIL	.

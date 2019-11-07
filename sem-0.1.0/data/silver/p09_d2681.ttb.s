@@ -1,0 +1,9 @@
+DEF	The
+COL	purple
+CON	bicycle
+CON	costs
+LES	less
+AND	than
+DEF	the
+COL	yellow
+NIL	.

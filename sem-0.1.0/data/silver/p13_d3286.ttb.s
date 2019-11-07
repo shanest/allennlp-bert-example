@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+CON	plan
+REL	on
+EXG	telling
+PER	Tom
+AND	anything
+NIL	.

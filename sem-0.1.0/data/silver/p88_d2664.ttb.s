@@ -1,0 +1,11 @@
+PRO	She
+HAS	's
+EXS	busy
+NOW	now
+COO	and
+POS	ca
+NOT	n't
+EXS	speak
+REL	to
+PRO	you
+NIL	.

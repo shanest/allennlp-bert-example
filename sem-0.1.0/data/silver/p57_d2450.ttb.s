@@ -1,0 +1,11 @@
+PRO	I
+FUT	will
+EXS	write
+REL	to
+PRO	you
+AND	as
+IST	soon
+SUB	as
+PRO	I
+POS	can
+NIL	.

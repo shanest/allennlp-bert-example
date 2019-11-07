@@ -1,0 +1,12 @@
+NOW	Do
+PRO	you
+NOW	prefer
+PRO	it
+SUB	when
+CON	TV
+NOW	shows
+NOW	are
+EXS	subtitled
+DIS	or
+EPS	dubbed
+QUE	?

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	said
+PRO	he
+EPS	heard
+PER	Mary
+ENS	threaten
+SUB	to
+EXS	kill
+PER	John
+NIL	.

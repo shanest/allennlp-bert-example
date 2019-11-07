@@ -1,0 +1,14 @@
+QUE	How
+CON	cool
+FUT	would
+PRO	it
+EXS	be
+IMP	if
+PER	Obama
+EPS	grew
+DIS	a
+IST	nice
+EQU	,
+IST	thick
+CON	afro
+NIL	!

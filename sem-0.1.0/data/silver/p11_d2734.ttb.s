@@ -1,0 +1,10 @@
+PER	Mary
+NOW	has
+NOT	never
+PFT	been
+EXS	asked
+IST	out
+REL	on
+DIS	a
+CON	date
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	practising
+CON	karate
+SUB	since
+PRO	I
+PST	was
+DIS	a
+CON	child
+NIL	.

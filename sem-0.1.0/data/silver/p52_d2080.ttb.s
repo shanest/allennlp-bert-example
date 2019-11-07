@@ -1,0 +1,10 @@
+PRO	I
+NOW	hate
+EXG	pretending
+PRO	I
+NOW	'm
+EXS	having
+DIS	a
+IST	good
+CON	time
+NIL	.

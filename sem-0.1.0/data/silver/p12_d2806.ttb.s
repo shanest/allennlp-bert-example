@@ -1,0 +1,10 @@
+DEF	The
+ROL	president
+AND	of
+DEF	the
+CON	university
+NOW	is
+IST	likely
+SUB	to
+EXS	resign
+NIL	.

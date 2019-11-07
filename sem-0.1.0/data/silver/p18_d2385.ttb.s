@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+IST	ever
+EXS	gone
+REL	to
+DEF	the
+CON	beach
+REL	with
+PER	Tom
+QUE	?

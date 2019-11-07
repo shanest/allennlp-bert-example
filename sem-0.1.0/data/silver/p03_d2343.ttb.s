@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+PST	did
+NOT	n't
+EXS	allow
+PRO	me
+SUB	to
+EXS	marry
+PRO	him
+NIL	.

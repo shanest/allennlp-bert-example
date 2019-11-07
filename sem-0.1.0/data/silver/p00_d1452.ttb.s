@@ -1,0 +1,10 @@
+QUE	Why
+NOW	are
+GPO	Japanese
+AND	so
+IST	prejudiced
+REL	against
+ROL	lesbians
+AND	and
+ROL	bisexuals
+QUE	?

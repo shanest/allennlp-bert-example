@@ -1,0 +1,14 @@
+AND	Could
+DIS	someone
+EXS	translate
+DEF	the
+CON	comment
+REL	above
+REL	to
+DIS	a
+CON	language
+AND	which
+PRO	I
+POS	can
+EXS	understand
+QUE	?

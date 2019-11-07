@@ -1,0 +1,12 @@
+QUE	What
+CON	country
+NOW	is
+ALT	also
+EXS	known
+AND	as
+NIL	"
+DEF	The
+ORG	Low
+ORG	Countries
+NIL	"
+QUE	?

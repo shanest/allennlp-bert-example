@@ -1,0 +1,11 @@
+DIS	One
+AND	of
+HAS	my
+CON	friends
+ENS	wants
+NIL	to
+EXS	move
+REL	in
+REL	with
+PRO	me
+NIL	.

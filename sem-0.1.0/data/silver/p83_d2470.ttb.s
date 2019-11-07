@@ -1,0 +1,10 @@
+PRO	I
+NEC	should
+EXT	've
+EXS	quit
+CON	smoking
+DIS	a
+IST	long
+CON	time
+PST	ago
+NIL	.

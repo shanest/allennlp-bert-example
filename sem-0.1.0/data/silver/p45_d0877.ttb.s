@@ -1,0 +1,13 @@
+QUC	One
+AND	of
+HAS	my
+CON	dreams
+NOW	is
+REL	to
+QUC	one
+CON	day
+EXS	see
+DEF	the
+CON	aurora
+CON	borealis
+NIL	.

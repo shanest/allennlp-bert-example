@@ -1,0 +1,10 @@
+PER	Tom
+ENS	wants
+SUB	to
+EXS	marry
+PER	Mary
+AND	and
+PER	John
+HAS	's
+CON	daughter
+NIL	.

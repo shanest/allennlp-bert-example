@@ -1,0 +1,10 @@
+PRO	I
+NOW	remember
+PRO	you
+NIL	.
+PRO	We
+EPS	met
+QUC	three
+CON	years
+PST	ago
+NIL	.

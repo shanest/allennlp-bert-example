@@ -1,0 +1,14 @@
+DEF	The
+XCL	only
+CON	way
+PRO	I
+POS	can
+EXS	eat
+CON	oatmeal
+NOW	is
+REL	with
+DIS	a
+CON	lot
+NIL	of
+CON	sugar
+NIL	.

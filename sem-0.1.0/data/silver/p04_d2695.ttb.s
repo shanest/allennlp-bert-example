@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+IST	important
+SUB	whether
+PRO	we
+ENS	win
+DEF	the
+CON	game
+DIS	or
+NOT	not
+NIL	.

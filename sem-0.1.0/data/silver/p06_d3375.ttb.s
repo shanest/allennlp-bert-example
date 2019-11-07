@@ -1,0 +1,12 @@
+QUC	Three
+CON	hours
+NOW	is
+INT	too
+IST	short
+REL	for
+PRO	us
+SUB	to
+EXS	discuss
+DST	that
+CON	matter
+NIL	.

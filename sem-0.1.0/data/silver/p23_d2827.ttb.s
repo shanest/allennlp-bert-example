@@ -1,0 +1,15 @@
+DEF	The
+GPO	Chinese
+CON	government
+EPS	took
+CON	measures
+SUB	to
+EXS	slow
+DEF	the
+CON	rise
+AND	of
+DEF	the
+CON	price
+AND	of
+CON	houses
+NIL	.

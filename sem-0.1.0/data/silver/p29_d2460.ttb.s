@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+IST	always
+EXS	suspected
+PRO	you
+POS	might
+EXT	have
+EXS	studied
+CON	karate
+NIL	.

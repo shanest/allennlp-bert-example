@@ -1,0 +1,13 @@
+PRO	I
+NOW	now
+ENS	live
+REL	in
+GEO	Helsinki
+NIL	,
+COO	but
+PRO	I
+NOW	'm
+IST	originally
+REL	from
+GEO	Kuopio
+NIL	.

@@ -1,0 +1,12 @@
+QUE	What
+FUT	would
+EXS	happen
+IMP	if
+PRO	you
+PST	did
+NOT	n't
+EXS	go
+REL	to
+CON	school
+FUT	tomorrow
+QUE	?

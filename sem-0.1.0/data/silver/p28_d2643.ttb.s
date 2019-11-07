@@ -1,0 +1,11 @@
+AND	The
+CON	ostrich
+ENS	has
+CON	wings
+NIL	,
+BUT	but
+PRO	it
+POS	can
+NOT	not
+EXS	fly
+NIL	.

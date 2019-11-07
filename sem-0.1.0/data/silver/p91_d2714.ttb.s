@@ -1,0 +1,13 @@
+PRO	He
+EPS	spoke
+IST	too
+IST	quickly
+NIL	.
+PRO	I
+POS	could
+NOT	n't
+EXS	parse
+QUE	what
+PRO	he
+EPS	said
+NIL	.

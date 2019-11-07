@@ -1,0 +1,17 @@
+PRO	We
+FUT	'd
+EXS	like
+SUB	to
+EXS	split
+PRO	it
+NIL	.
+AND	Could
+PRO	you
+NOW	bring
+PRO	it
+REL	to
+PRO	us
+REL	on
+QUC	two
+CON	plates
+QUE	?

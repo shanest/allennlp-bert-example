@@ -1,0 +1,16 @@
+ITJ	Ah
+NIL	!
+ITJ	Ah
+NIL	!
+ITJ	Ah
+NIL	!
+DIS	A
+IST	drunk
+CON	squirrel
+NIL	!
+DST	that
+FUT	will
+EXS	be
+INT	very
+EXS	funny
+NIL	.

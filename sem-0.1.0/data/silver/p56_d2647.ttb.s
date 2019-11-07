@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+IST	still
+DIS	a
+CON	mystery
+QUE	why
+PRO	she
+EPS	killed
+REF	herself
+NIL	.

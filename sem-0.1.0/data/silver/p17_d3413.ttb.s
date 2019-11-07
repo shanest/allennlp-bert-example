@@ -1,0 +1,10 @@
+DEF	The
+CON	concept
+AND	of
+QUC	zero
+EPS	sprang
+REL	from
+DEF	the
+IST	Hindu
+CON	culture
+NIL	.

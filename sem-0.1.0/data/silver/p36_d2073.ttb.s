@@ -1,0 +1,12 @@
+PER	Whoever
+ENS	reads
+PRX	this
+IST	so-called
+CON	newspaper
+AND	every
+CON	day
+FUT	will
+IST	inevitably
+EXS	go
+CON	daft
+NIL	.

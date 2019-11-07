@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PER	Tom
+POS	might
+EXS	be
+REL	in
+GPE	Boston
+AND	right
+NOW	now
+NIL	.

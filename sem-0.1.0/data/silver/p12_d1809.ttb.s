@@ -1,0 +1,10 @@
+FUT	Will
+PRO	you
+EXS	show
+PRO	me
+DIS	a
+CON	map
+AND	of
+DEF	the
+CON	world
+QUE	?

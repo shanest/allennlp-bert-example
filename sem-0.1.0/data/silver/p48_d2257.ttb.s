@@ -1,0 +1,11 @@
+PRO	I
+EPS	tried
+SUB	to
+EXS	get
+PRO	it
+NIL	,
+COO	but
+REL	to
+NOT	no
+CON	purpose
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+PST	had
+NOT	not
+EXS	realized
+QUE	how
+IST	important
+PRX	this
+NOW	is
+SUB	to
+PRO	you
+NIL	.

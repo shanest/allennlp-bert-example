@@ -1,0 +1,12 @@
+CON	Rain
+EQU	,
+CON	rain
+NIL	,
+EXS	go
+IST	away
+NIL	.
+EXS	Come
+ALT	again
+ALT	another
+CON	day
+NIL	.

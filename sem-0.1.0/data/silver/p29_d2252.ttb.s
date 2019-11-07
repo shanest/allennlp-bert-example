@@ -1,0 +1,14 @@
+NOW	Do
+NOT	n't
+EXS	act
+AND	like
+PRO	you
+NOW	do
+NOT	n't
+EXS	know
+QUE	what
+PRO	I
+NOW	'm
+EXS	talking
+IST	about
+NIL	.

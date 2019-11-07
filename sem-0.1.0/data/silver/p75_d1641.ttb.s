@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	studying
+SUB	to
+EXS	be
+DIS	a
+CON	translator
+DIS	or
+CON	interpreter
+NIL	.

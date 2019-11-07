@@ -1,0 +1,11 @@
+NOW	Is
+PRO	it
+EXS	true
+QUE	?
+PER	Paul
+EPS	kissed
+CON	Lily
+REL	on
+DEF	the
+CON	lips
+QUE	?

@@ -1,0 +1,9 @@
+HAS	My
+ROL	sister
+EPS	dropped
+HAS	her
+CON	plate
+REL	on
+DEF	the
+CON	floor
+NIL	.

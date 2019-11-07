@@ -1,0 +1,13 @@
+DEF	The
+CON	coach
+EPS	gave
+HAS	his
+CON	team
+DIS	a
+CON	pep
+EXS	talk
+REL	before
+DEF	the
+CON	game
+EPS	started
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+IST	always
+ENS	talks
+AND	as
+IMP	if
+PRO	he
+ENS	knows
+AND	everything
+NIL	.

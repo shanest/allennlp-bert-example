@@ -1,0 +1,13 @@
+PER	Tom
+EPS	went
+IST	down
+REL	on
+QUC	one
+CON	knee
+AND	and
+PST	asked
+PER	Mary
+SUB	to
+EXS	marry
+PRO	him
+NIL	.

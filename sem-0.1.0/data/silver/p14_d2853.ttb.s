@@ -1,0 +1,14 @@
+PRO	I
+PST	was
+EXS	given
+DIS	a
+IST	hard
+CON	time
+REL	by
+DIS	a
+IST	strange
+CON	guy
+REL	at
+DEF	the
+CON	tavern
+NIL	.

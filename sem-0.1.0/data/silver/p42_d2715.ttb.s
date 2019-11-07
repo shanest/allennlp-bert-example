@@ -1,0 +1,12 @@
+PRO	She
+EPS	cried
+REL	to
+DEF	the
+CON	child
+AND	:
+NIL	"
+SUB	Be
+EXS	quiet
+NIL	!
+NIL	"
+NIL	.

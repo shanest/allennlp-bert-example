@@ -1,0 +1,10 @@
+EXS	Did
+PRO	you
+EPS	read
+DEF	the
+CON	book
+SUB	that
+EPS	won
+DEF	the
+CON	prize
+QUE	?

@@ -1,0 +1,12 @@
+REL	From
+UNK	which
+CON	harbour
+PST	did
+DEF	the
+CON	ferry
+NIL	"
+ART	Estonia
+NIL	"
+EXS	set
+CON	sail
+QUE	?

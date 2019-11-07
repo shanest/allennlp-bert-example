@@ -1,0 +1,12 @@
+PRO	We
+NOW	're
+EXS	getting
+IST	out
+AND	of
+PRX	here
+NIL	.
+DEF	The
+CON	cops
+NOW	are
+EXS	coming
+NIL	.

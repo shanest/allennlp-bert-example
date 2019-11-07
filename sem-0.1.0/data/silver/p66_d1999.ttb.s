@@ -1,0 +1,11 @@
+QUE	What
+PRO	you
+ENS	need
+NOW	is
+NIL	,
+REL	in
+DIS	a
+CON	word
+NIL	,
+CON	patience
+NIL	.

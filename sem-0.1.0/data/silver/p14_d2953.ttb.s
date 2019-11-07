@@ -1,0 +1,13 @@
+PRO	I
+FUT	will
+NOT	not
+EXS	be
+IST	able
+SUB	to
+EXS	pick
+IST	up
+CON	Shigemi
+REL	at
+DEF	the
+CON	kindergarten
+NIL	.

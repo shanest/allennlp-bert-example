@@ -1,0 +1,10 @@
+DEF	The
+CON	gum
+EPS	adhered
+REL	to
+DEF	the
+CON	sole
+AND	of
+DEF	the
+CON	shoe
+NIL	.

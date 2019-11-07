@@ -1,0 +1,14 @@
+PRO	You
+POS	may
+EXS	eat
+DIS	anything
+IST	so
+IST	long
+SUB	as
+PRO	you
+NOW	do
+NOT	n't
+EXS	eat
+INT	too
+QUC	much
+NIL	.

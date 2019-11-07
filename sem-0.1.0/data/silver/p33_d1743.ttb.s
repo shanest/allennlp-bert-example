@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	easy
+SUB	to
+EXS	tell
+PRO	him
+REL	from
+HAS	his
+CON	brother
+NIL	.

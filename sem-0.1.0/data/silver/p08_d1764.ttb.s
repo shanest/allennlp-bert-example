@@ -1,0 +1,17 @@
+PRO	I
+EPS	saw
+DEF	the
+CON	stars
+COO	;
+PRO	they
+ENS	captivate
+DEF	the
+CON	eye
+NIL	,
+COO	and
+HAS	their
+CON	beauty
+NOW	is
+AND	beyond
+CON	comparison
+NIL	.

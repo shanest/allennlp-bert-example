@@ -1,0 +1,10 @@
+DEF	Hardly
+PST	had
+PRO	he
+EPS	finished
+CON	breakfast
+SUB	when
+DEF	the
+CON	telephone
+EPS	rang
+NIL	.

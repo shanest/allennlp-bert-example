@@ -1,0 +1,16 @@
+PER	Mary
+EXS	rooted
+AND	through
+HAS	her
+CON	purse
+NIL	,
+BUT	but
+PST	did
+NOT	n't
+EXS	find
+QUE	what
+PRO	she
+PST	was
+EXG	looking
+REL	for
+NIL	.

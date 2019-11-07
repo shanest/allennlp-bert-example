@@ -1,0 +1,13 @@
+PRO	I
+ENS	want
+PRO	you
+SUB	to
+EXS	go
+COO	and
+EXS	see
+IMP	if
+PRO	it
+NOW	's
+IST	still
+UNK	there
+NIL	.

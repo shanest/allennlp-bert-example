@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	make
+PRO	him
+DIS	something
+SUB	to
+EXS	eat
+NIL	.

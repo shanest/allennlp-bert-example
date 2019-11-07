@@ -1,0 +1,15 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	tell
+PER	Mary
+SUB	that
+PRO	he
+PST	had
+EXS	lost
+AND	all
+HAS	her
+CON	money
+NIL	.

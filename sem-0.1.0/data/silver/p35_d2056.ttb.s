@@ -1,0 +1,17 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	what
+PER	Tom
+PST	did
+REL	to
+DEF	the
+CON	TV
+NIL	,
+COO	but
+PRO	it
+NOW	's
+EXS	working
+NOW	now
+NIL	.

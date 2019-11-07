@@ -1,0 +1,12 @@
+PRO	You
+ENS	have
+NOT	no
+CON	clue
+QUE	what
+PRO	you
+NOW	are
+EXG	doing
+NIL	,
+NOW	do
+PRO	you
+QUE	?

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	knew
+SUB	that
+QUE	what
+PRO	he
+PST	was
+EXS	doing
+PST	was
+EXS	wrong
+NIL	.

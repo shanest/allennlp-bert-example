@@ -1,0 +1,12 @@
+EXT	Having
+EXS	failed
+QUV	several
+CON	times
+NIL	,
+PRO	he
+EPS	tried
+SUB	to
+EXS	do
+PRO	it
+ALT	again
+NIL	.

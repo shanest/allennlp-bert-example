@@ -1,0 +1,10 @@
+PRO	We
+EPS	took
+DIS	a
+IST	long
+CON	hike
+IST	up
+REL	to
+DEF	the
+CON	summit
+NIL	.

@@ -1,0 +1,15 @@
+PER	Tom
+EPS	found
+IST	out
+AND	later
+SUB	that
+DEF	the
+CON	woman
+PRO	he
+EPS	met
+REL	in
+DEF	the
+CON	park
+PST	was
+PER	Mary
+NIL	.

@@ -1,0 +1,9 @@
+POS	May
+PRO	I
+NOW	ask
+PRO	you
+IST	just
+QUC	three
+MOR	more
+CON	questions
+QUE	?

@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+EPS	spent
+DIS	a
+CON	lot
+AND	of
+CON	time
+REL	in
+CON	therapy
+QUE	?

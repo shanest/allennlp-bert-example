@@ -1,0 +1,10 @@
+PRO	I
+EPS	found
+DEF	the
+CON	key
+REL	in
+PER	Tom
+HAS	's
+CON	jacket
+CON	pocket
+NIL	.

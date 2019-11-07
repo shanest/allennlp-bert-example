@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	whispered
+SUB	that
+DEF	the
+UNK	Prime
+UNK	Minister
+NOW	is
+IST	critically
+EXS	ill
+NIL	.

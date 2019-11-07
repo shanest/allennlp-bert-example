@@ -1,0 +1,15 @@
+TIM	Yesterday
+NIL	,
+SUB	as
+PRO	I
+PST	was
+EXS	walking
+REL	along
+DEF	the
+CON	street
+NIL	,
+PRO	I
+EPS	saw
+DIS	an
+CON	accident
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+EPS	put
+AND	all
+HAS	my
+CON	belongings
+REL	in
+DIS	a
+CON	plastic
+CON	bag
+NIL	.

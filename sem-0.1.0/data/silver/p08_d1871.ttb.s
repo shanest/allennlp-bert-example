@@ -1,0 +1,9 @@
+EXS	Let
+PRO	's
+EPS	put
+IST	up
+DEF	the
+IST	Christmas
+CON	tree
+PRX	here
+NIL	.

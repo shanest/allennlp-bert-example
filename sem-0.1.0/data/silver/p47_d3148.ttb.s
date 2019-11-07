@@ -1,0 +1,10 @@
+DIS	A
+CON	guy
+EPS	named
+PER	Tom
+EPS	came
+SUB	to
+EXS	see
+PRO	you
+PST	yesterday
+NIL	.

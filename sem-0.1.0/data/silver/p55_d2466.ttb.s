@@ -1,0 +1,14 @@
+AND	Recently
+NIL	,
+UNK	there
+NOW	have
+PFT	been
+CON	signs
+AND	that
+DEF	the
+CON	economy
+NOW	is
+EXG	picking
+IST	up
+CON	steam
+NIL	.

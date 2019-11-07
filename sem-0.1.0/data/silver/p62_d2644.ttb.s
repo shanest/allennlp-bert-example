@@ -1,0 +1,14 @@
+AND	All
+PER	Tom
+EPS	told
+PRO	me
+EPS	was
+SUB	that
+PRO	he
+FUT	would
+NOT	n't
+EXS	be
+REL	at
+DEF	the
+CON	meeting
+NIL	.

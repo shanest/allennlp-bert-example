@@ -1,0 +1,13 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXS	sitting
+REL	in
+DEF	the
+IST	back
+CON	seat
+AND	of
+DEF	the
+CON	car
+NIL	.

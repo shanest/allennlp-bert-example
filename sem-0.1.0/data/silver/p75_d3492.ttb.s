@@ -1,0 +1,21 @@
+HAS	My
+CON	love
+NIL	,
+IMP	if
+DEF	the
+CON	food
+NOW	is
+NOT	n't
+EXS	ready
+REL	by
+CLO	seven o'clock
+NIL	,
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	go
+REL	to
+DEF	the
+CON	restaurant
+NIL	.

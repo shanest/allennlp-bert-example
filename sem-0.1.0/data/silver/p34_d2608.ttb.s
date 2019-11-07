@@ -1,0 +1,9 @@
+PRO	I
+POS	can
+XCL	only
+EXS	tell
+PRO	you
+QUE	what
+PRO	I
+ENS	know
+NIL	.

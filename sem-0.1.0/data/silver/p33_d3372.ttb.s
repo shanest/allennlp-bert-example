@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+INT	pretty
+IST	sure
+PER	Tom
+NOW	has
+EPS	left
+CON	town
+REL	by
+NOW	now
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+PST	was
+EXS	lucky
+SUB	that
+PRO	I
+PST	was
+IST	able
+SUB	to
+EXS	find
+DIS	a
+IST	good
+CON	babysitter
+NIL	.

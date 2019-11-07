@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	looking
+IST	forward
+REL	to
+HAS	our
+CON	ski
+CON	trip
+NIL	.

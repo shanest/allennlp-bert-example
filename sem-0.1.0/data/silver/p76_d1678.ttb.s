@@ -1,0 +1,9 @@
+PRO	She
+EPS	took
+IST	back
+DEF	the
+CON	coat
+PRO	she
+EPS	lent
+PRO	me
+NIL	.

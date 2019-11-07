@@ -1,0 +1,15 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	tell
+AND	anyone
+SUB	that
+PRO	he
+PST	'd
+EXS	bought
+DIS	a
+CON	diamond
+CON	ring
+REL	for
+PER	Mary
+NIL	.

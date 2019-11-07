@@ -1,0 +1,9 @@
+DIS	Somebody
+NEC	must
+EXT	have
+EXS	taken
+HAS	your
+CON	umbrella
+REL	by
+CON	mistake
+NIL	.

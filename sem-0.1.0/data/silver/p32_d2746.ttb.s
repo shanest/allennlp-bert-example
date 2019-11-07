@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+INT	very
+IST	pleased
+SUB	to
+EXS	hear
+AND	of
+HAS	your
+CON	success
+NIL	.

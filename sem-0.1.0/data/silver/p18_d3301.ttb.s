@@ -1,0 +1,13 @@
+DEF	The
+CON	city
+EPS	became
+IST	popular
+CON	thanks
+REL	to
+DEF	the
+CON	amusement
+CON	park
+PST	constructed
+IST	last
+CON	year
+NIL	.

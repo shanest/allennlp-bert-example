@@ -1,0 +1,9 @@
+CON	Rest
+EPS	assured
+SUB	that
+PRO	I
+FUT	will
+EXS	do
+HAS	my
+TOP	best
+NIL	.

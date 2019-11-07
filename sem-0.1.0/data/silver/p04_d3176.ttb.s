@@ -1,0 +1,11 @@
+PRO	I
+NOW	hear
+SUB	that
+HAS	his
+ROL	father
+NOW	is
+REL	in
+DEF	the
+CON	hospital
+NOW	now
+NIL	.

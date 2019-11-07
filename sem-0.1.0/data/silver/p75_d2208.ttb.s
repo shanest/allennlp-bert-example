@@ -1,0 +1,9 @@
+PRO	It
+EPS	seemed
+SUB	that
+PRO	they
+PST	were
+EXS	telling
+DIS	a
+CON	lie
+NIL	.

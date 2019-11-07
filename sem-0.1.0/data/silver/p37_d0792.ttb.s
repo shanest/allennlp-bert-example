@@ -1,0 +1,10 @@
+DEF	The
+CON	woman
+ENS	speaks
+AND	as
+IMP	if
+PRO	she
+PST	were
+DIS	a
+CON	teacher
+NIL	.

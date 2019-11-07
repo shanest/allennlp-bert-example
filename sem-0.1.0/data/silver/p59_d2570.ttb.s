@@ -1,0 +1,12 @@
+DEF	The
+CON	money
+PRO	I
+NOW	have
+NOW	now
+ENS	falls
+IST	short
+AND	of
+QUE	what
+PRO	I
+ENS	need
+NIL	.

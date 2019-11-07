@@ -1,0 +1,11 @@
+IST	Good
+CON	morning
+EQU	,
+CON	sir
+NIL	!
+DIS	A
+IST	merry
+NIL	Christmas
+SUB	to
+PRO	you
+NIL	!

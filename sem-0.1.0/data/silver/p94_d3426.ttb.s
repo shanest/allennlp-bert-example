@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+IST	hard
+REL	for
+PRO	me
+SUB	to
+EXS	depend
+REL	on
+PRO	you
+NIL	.

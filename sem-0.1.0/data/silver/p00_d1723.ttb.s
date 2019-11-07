@@ -1,0 +1,12 @@
+NIL	"
+PRO	I
+ENS	have
+DIS	a
+INT	very
+IST	sweet
+CON	husband
+NIL	,
+NIL	"
+EPS	said
+PER	Mary
+NIL	.

@@ -1,0 +1,10 @@
+EXS	Come
+SUB	to
+EXS	pick
+PRO	me
+IST	up
+IMP	if
+PRO	it
+ENS	rains
+FUT	tomorrow
+NIL	.

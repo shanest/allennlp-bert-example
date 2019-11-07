@@ -1,0 +1,13 @@
+PRX	This
+NOW	is
+DIS	one
+AND	of
+DEF	the
+BOT	worst
+CON	movies
+SUB	that
+PRO	I
+NOW	have
+IST	ever
+EXS	seen
+NIL	.

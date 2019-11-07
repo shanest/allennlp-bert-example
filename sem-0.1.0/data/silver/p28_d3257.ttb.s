@@ -1,0 +1,10 @@
+UNK	There
+HAS	's
+DIS	a
+CON	lot
+AND	of
+CON	greenery
+REL	in
+GPE	Tokyo
+GEO	Midtown
+NIL	!

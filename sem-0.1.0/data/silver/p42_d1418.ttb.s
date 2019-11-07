@@ -1,0 +1,11 @@
+PRO	He
+PST	was
+IST	fortunate
+SUB	to
+EXS	find
+DEF	the
+CON	book
+PRO	he
+PST	had
+EXS	lost
+NIL	.

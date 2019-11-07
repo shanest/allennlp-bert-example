@@ -1,0 +1,9 @@
+PRO	She
+HAS	's
+NOT	not
+DEF	the
+IST	same
+CON	age
+AND	as
+PER	Mary
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	have
+AND	any
+CON	chance
+AND	of
+EXG	winning
+NIL	.

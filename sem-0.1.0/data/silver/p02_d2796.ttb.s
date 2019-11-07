@@ -1,0 +1,10 @@
+PRO	He
+EPS	took
+DEF	the
+CON	initiative
+REL	in
+CON	carrying
+AND	out
+DEF	the
+CON	plan
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+IST	ever
+EXS	read
+AND	any
+CON	novels
+REL	by
+PER	Agatha
+PER	Christie
+QUE	?

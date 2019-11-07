@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+IST	still
+IST	reluctant
+SUB	to
+EXS	call
+PRO	it
+IST	off
+NIL	.

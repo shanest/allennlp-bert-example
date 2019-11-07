@@ -1,0 +1,15 @@
+PRO	It
+ENS	seems
+DEF	the
+CON	volleyball
+CON	player
+FUT	will
+EXS	be
+EXS	punished
+REL	for
+EXS	being
+IST	late
+REL	for
+DEF	the
+CON	game
+NIL	.

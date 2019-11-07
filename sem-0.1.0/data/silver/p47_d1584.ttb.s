@@ -1,0 +1,9 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	tell
+PER	Mary
+AND	everything
+PRO	he
+EPS	knew
+NIL	.

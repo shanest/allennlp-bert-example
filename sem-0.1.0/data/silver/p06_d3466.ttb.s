@@ -1,0 +1,10 @@
+PRO	I
+ENS	wish
+PRO	I
+POS	could
+EXS	make
+IST	up
+REL	for
+IST	lost
+CON	time
+NIL	.

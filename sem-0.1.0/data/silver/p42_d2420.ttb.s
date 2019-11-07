@@ -1,0 +1,9 @@
+DEF	The
+CON	anarchist
+NOW	is
+IST	apt
+SUB	to
+EXS	lose
+HAS	his
+CON	temper
+NIL	.

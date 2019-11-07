@@ -1,0 +1,14 @@
+PRO	He
+AND	always
+EPS	appeared
+SUB	to
+EXS	be
+IST	ready
+SUB	to
+EXS	discuss
+AND	anything
+AND	and
+PST	was
+INT	very
+EXS	tolerant
+NIL	.

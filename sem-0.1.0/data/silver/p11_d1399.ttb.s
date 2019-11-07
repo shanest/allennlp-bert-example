@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+EXS	been
+REL	on
+DIS	a
+CON	diet
+REL	for
+QUC	two
+CON	weeks
+NIL	.

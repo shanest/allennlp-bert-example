@@ -1,0 +1,16 @@
+PRO	It
+ENS	says
+REL	in
+DEF	the
+CON	Bible
+NIL	,
+NIL	"
+CON	Man
+NEC	shall
+NOT	not
+EXS	live
+REL	on
+CON	bread
+AND	alone
+NIL	.
+NIL	"

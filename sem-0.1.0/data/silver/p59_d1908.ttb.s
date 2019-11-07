@@ -1,0 +1,10 @@
+PRO	I
+EPS	fell
+EXS	asleep
+SUB	while
+PRO	I
+PST	was
+EXS	doing
+HAS	my
+CON	homework
+NIL	.

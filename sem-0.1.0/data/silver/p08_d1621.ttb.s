@@ -1,0 +1,9 @@
+PRO	I
+ENS	wish
+PRO	you
+PST	were
+NOT	n't
+AND	always
+IST	so
+IST	busy
+NIL	.

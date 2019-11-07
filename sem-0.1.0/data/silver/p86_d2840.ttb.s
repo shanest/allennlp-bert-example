@@ -1,0 +1,12 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+SUB	that
+PER	Tom
+IST	just
+PST	left
+NOT	without
+EXS	saying
+AND	anything
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	hanging
+IST	up
+DIS	a
+CON	picture
+AND	of
+HAS	my
+CON	grandmother
+NIL	.

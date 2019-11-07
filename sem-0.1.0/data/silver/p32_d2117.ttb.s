@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	eat
+CON	meat
+AND	and
+IST	neither
+NOW	does
+PER	Mary
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+FUT	'd
+EXS	heard
+PRO	she
+PST	was
+INT	too
+IST	far
+IST	out
+REL	for
+TOP	most
+CON	people
+NIL	.

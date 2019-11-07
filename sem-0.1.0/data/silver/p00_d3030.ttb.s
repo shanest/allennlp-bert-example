@@ -1,0 +1,9 @@
+CON	Peace
+NOW	has
+EXT	returned
+REL	after
+QUC	three
+UOM	years
+REL	of
+CON	war
+NIL	.

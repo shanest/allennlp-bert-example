@@ -1,0 +1,12 @@
+DEF	The
+IST	educational
+CON	innovations
+AND	of
+IST	next
+CON	half-century
+NOW	are
+EXS	being
+EXS	shaped
+IST	right
+NOW	now
+NIL	.

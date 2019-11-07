@@ -1,0 +1,16 @@
+GPO	Czech
+AND	and
+GPO	Slovak
+CON	leaders
+EPS	approved
+DIS	a
+CON	law
+AND	which
+NOW	ensures
+DEF	the
+IST	legal
+CON	break-up
+AND	of
+DEF	the
+CON	federation
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+AND	almost
+NOT	never
+NOW	gets
+REL	to
+CON	school
+REL	on
+CON	time
+NIL	.

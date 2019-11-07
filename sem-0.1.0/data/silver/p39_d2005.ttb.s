@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+DEF	the
+XCL	only
+CON	person
+PRO	I
+NOW	've
+IST	ever
+IST	really
+EPS	hated
+NIL	.

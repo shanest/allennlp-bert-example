@@ -1,0 +1,9 @@
+PRO	He
+EPS	left
+REL	for
+DEF	the
+CON	mountain
+NOT	never
+SUB	to
+EXS	return
+NIL	.

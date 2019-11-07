@@ -1,0 +1,9 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+SUB	where
+PRO	it
+EPS	came
+REL	from
+NIL	.

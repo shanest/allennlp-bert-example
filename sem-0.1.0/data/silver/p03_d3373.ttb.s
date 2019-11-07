@@ -1,0 +1,11 @@
+PRO	I
+EPS	feared
+SUB	that
+PRO	I
+POS	might
+EXS	be
+IST	late
+REL	for
+DEF	the
+CON	bus
+NIL	.

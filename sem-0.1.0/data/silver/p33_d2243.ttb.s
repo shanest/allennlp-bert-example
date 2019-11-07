@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+NOW	now
+IST	almost
+AND	as
+IST	tall
+AND	as
+HAS	his
+CON	father
+NIL	.

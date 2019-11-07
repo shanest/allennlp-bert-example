@@ -1,0 +1,10 @@
+CON	Man
+NOW	is
+ALT	also
+DIS	an
+CON	animal
+REL	in
+DIS	a
+IST	broad
+CON	sense
+NIL	.

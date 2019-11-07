@@ -1,0 +1,9 @@
+PRO	They
+PST	were
+EPS	snowed
+REL	in
+REL	for
+DIS	a
+IST	whole
+CON	week
+NIL	.

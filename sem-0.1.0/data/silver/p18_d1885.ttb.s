@@ -1,0 +1,14 @@
+PRO	We
+NOW	hope
+SUB	that
+PRO	you
+FUT	will
+EXS	be
+IST	able
+SUB	to
+EXS	join
+PRO	us
+REL	at
+PRX	this
+CON	seminar
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	sight
+AND	of
+IST	fresh
+CON	lobster
+EPS	gave
+PRO	me
+DIS	an
+CON	appetite
+NIL	.

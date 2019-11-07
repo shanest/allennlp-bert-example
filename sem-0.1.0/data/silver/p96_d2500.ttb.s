@@ -1,0 +1,15 @@
+HAS	Her
+INT	very
+IST	long
+EQU	,
+COL	black
+CON	eyelashes
+EXS	set
+REL	off
+DEF	the
+IST	aristocratic
+CON	pallor
+AND	of
+HAS	her
+CON	cheeks
+NIL	.

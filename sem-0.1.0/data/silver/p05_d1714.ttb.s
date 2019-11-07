@@ -1,0 +1,10 @@
+PRO	We
+NOW	have
+EXS	kept
+REL	in
+IST	constant
+CON	touch
+REL	for
+QUC	twenty
+CON	years
+NIL	.

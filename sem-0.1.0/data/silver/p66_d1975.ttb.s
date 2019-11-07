@@ -1,0 +1,13 @@
+PRO	I
+PST	had
+IST	hardly
+EXS	gotten
+REL	into
+CON	bed
+SUB	when
+DEF	the
+CON	telephone
+EPS	began
+REL	to
+CON	ring
+NIL	.

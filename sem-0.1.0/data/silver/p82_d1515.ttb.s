@@ -1,0 +1,10 @@
+PRO	He
+EPS	froze
+REL	with
+CON	fear
+SUB	when
+PRO	he
+EPS	saw
+DEF	the
+CON	snake
+NIL	.

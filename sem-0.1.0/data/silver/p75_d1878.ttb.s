@@ -1,0 +1,14 @@
+PRO	It
+NOW	's
+UNK	difficult
+SUB	to
+EXS	find
+QUC	one
+HAS	's
+CON	way
+AND	around
+REL	in
+DIS	a
+IST	strange
+CON	city
+NIL	.

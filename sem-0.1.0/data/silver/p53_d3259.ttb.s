@@ -1,0 +1,14 @@
+HAS	My
+CON	father
+EPS	asked
+PRO	me
+IMP	if
+PRO	I
+PST	got
+REL	along
+IST	well
+REL	with
+DEF	the
+PER	Jones
+CON	family
+NIL	.

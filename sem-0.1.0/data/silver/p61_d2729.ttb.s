@@ -1,0 +1,15 @@
+PER	Mother
+PER	Teresa
+PST	was
+DIS	a
+IST	Catholic
+CON	nun
+AND	who
+EPS	lived
+COO	and
+EPS	worked
+REL	in
+GEO	Calcutta
+EQU	,
+GPE	India
+NIL	.

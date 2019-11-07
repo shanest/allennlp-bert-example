@@ -1,0 +1,11 @@
+AND	Because
+AND	of
+DEF	the
+CON	accident
+PRO	I
+EPS	went
+ALT	too
+IST	late
+REL	to
+CON	school
+NIL	.

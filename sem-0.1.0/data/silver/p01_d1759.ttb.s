@@ -1,0 +1,14 @@
+NOT	Not
+XCL	only
+PST	were
+IST	there
+IST	strong
+CON	winds
+PST	yesterday
+NIL	,
+COO	but
+IST	also
+PRO	it
+EPS	rained
+IST	heavily
+NIL	.

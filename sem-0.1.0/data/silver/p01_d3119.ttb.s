@@ -1,0 +1,14 @@
+SUB	When
+PRO	I
+EPS	told
+PRO	him
+PRO	I
+EPS	liked
+DEF	the
+CON	picture
+NIL	,
+PRO	I
+IST	really
+EPS	meant
+SUB	that
+NIL	.

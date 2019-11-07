@@ -1,0 +1,10 @@
+PRO	She
+EPS	threw
+HAS	her
+CON	arms
+AND	around
+HAS	her
+CON	husband
+REL	's
+CON	neck
+NIL	.

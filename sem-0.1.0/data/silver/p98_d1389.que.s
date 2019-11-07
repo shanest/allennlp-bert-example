@@ -1,0 +1,16 @@
+AND	How
+COM	old
+NOW	is
+DEF	the
+GEO	America
+HAS	's
+ORG	Cup
+EQU	,
+DEF	the
+CON	world
+HAS	's
+INT	most
+IST	prestigious
+CON	sailing
+CON	event
+QUE	?

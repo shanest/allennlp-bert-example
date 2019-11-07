@@ -1,0 +1,9 @@
+PRO	I
+FUT	would
+NOT	n't
+EXS	dream
+AND	of
+EXG	selling
+HAS	my
+CON	guitar
+NIL	.

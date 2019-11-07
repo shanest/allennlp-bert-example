@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+CON	car
+PRO	I
+EPS	spoke
+AND	of
+DEF	the
+ALT	other
+CON	day
+NIL	.

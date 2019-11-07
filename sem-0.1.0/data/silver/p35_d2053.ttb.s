@@ -1,0 +1,10 @@
+PRO	He
+EPS	suggested
+SUB	that
+PRO	we
+NEC	should
+EXS	put
+REL	off
+HAS	our
+CON	departure
+NIL	.

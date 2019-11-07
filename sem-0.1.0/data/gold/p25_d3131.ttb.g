@@ -1,0 +1,14 @@
+REL	After
+EXG	polishing
+HAS	his
+CON	shoes
+NIL	,
+PER	Tom
+EPS	brushed
+HAS	his
+CON	teeth
+COO	and
+EPS	combed
+HAS	his
+CON	hair
+NIL	.

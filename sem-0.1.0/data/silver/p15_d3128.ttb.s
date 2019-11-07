@@ -1,0 +1,15 @@
+CON	Sorry
+SUB	to
+EXS	be
+IST	so
+IST	direct
+NIL	,
+COO	but
+QUE	how
+QUV	much
+PST	did
+PRO	you
+EXS	pay
+REL	for
+PRX	this
+QUE	?

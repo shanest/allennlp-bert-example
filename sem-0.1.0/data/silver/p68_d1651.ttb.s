@@ -1,0 +1,13 @@
+NOW	Is
+PRO	it
+EXS	right
+REL	for
+DIS	a
+CON	doctor
+SUB	to
+EXS	decide
+SUB	when
+DIS	someone
+NEC	should
+EXS	die
+QUE	?

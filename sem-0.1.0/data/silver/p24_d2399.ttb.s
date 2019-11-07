@@ -1,0 +1,13 @@
+PRO	He
+EPS	learned
+CON	French
+REL	in
+CON	school
+NIL	,
+BUT	but
+PRO	he
+EPS	forgot
+QUV	much
+AND	of
+PRO	it
+NIL	.

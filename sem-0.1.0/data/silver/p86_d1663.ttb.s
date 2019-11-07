@@ -1,0 +1,11 @@
+PRO	He
+PST	was
+DIS	a
+IST	wonderful
+CON	man
+NIL	,
+AND	that
+CON	uncle
+AND	of
+HAS	yours
+NIL	.

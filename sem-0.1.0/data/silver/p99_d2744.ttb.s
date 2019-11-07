@@ -1,0 +1,12 @@
+EXS	Keep
+DIS	an
+CON	eye
+REL	on
+HAS	my
+CON	suitcase
+SUB	while
+PRO	I
+EXS	buy
+DEF	the
+CON	tickets
+NIL	.

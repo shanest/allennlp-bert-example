@@ -1,0 +1,10 @@
+PRO	I
+FUT	'll
+EXS	read
+DIS	a
+CON	book
+SUB	while
+PRO	you
+NOW	're
+EXS	sleeping
+NIL	.

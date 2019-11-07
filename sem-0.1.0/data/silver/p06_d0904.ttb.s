@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+SUB	that
+GEO	Lojban
+NOW	is
+IST	good
+REL	for
+PRO	you
+NIL	.

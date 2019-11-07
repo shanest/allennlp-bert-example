@@ -1,0 +1,12 @@
+PRO	I
+PST	'd
+IST	rather
+EXS	stay
+CON	home
+AND	than
+EXS	go
+IST	out
+REL	in
+DXP	this
+CON	weather
+NIL	.

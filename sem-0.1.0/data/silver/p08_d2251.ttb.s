@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	take
+CON	part
+REL	in
+DEF	the
+CON	bacchanalia
+ALT	too
+NIL	!

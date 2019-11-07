@@ -1,0 +1,13 @@
+PER	Mary
+EPS	told
+PER	Tom
+PRO	she
+PST	did
+NOT	n't
+EXS	want
+PRO	him
+SUB	to
+EXS	date
+ALT	other
+CON	women
+NIL	.

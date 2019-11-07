@@ -1,0 +1,9 @@
+GPO	French
+NOW	is
+EXS	spoken
+REL	in
+DIS	a
+CON	part
+AND	of
+GPE	Canada
+NIL	.

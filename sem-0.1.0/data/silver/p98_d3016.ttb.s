@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+DIS	a
+COL	black
+CON	cat
+EXS	run
+REL	into
+DEF	the
+CON	house
+NIL	.

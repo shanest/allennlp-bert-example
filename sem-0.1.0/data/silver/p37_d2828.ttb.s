@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+REL	in
+DEF	the
+CON	lobby
+EXS	waiting
+REL	for
+PER	Mary
+NIL	.

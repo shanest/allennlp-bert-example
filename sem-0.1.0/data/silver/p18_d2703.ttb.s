@@ -1,0 +1,10 @@
+PRO	She
+NOW	is
+IST	ashamed
+SUB	to
+EXS	tell
+DEF	the
+CON	story
+REL	to
+ALT	others
+NIL	.

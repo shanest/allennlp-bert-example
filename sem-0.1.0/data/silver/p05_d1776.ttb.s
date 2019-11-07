@@ -1,0 +1,9 @@
+EXS	Push
+DEF	the
+IST	red
+CON	button
+IMP	if
+DIS	something
+IST	strange
+ENS	happens
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+EPS	saw
+DIS	a
+CON	cat
+EXS	running
+REL	after
+DEF	the
+CON	dog
+NIL	.

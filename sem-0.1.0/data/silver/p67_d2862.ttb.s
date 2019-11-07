@@ -1,0 +1,11 @@
+DEF	The
+CON	dictator
+EPS	abused
+HAS	his
+CON	privileges
+REL	to
+HAS	his
+CON	heart
+HAS	's
+CON	content
+NIL	.

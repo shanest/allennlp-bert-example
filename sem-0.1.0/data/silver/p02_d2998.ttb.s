@@ -1,0 +1,10 @@
+PRO	I
+FUT	would
+EXS	like
+SUB	to
+EXS	know
+QUE	what
+EPS	happened
+REL	to
+PRO	you
+NIL	...

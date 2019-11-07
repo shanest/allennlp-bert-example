@@ -1,0 +1,13 @@
+PER	Tom
+EPS	gambled
+IST	away
+AND	all
+AND	of
+DEF	the
+CON	money
+AND	that
+HAS	his
+ROL	grandfather
+EPS	gave
+PRO	him
+NIL	.

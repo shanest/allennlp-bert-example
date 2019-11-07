@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+DIS	a
+CON	man
+HAS	's
+CON	face
+REL	in
+DEF	the
+CON	window
+NIL	.

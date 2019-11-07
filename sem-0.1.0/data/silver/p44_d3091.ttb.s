@@ -1,0 +1,12 @@
+PRO	You
+NEC	should
+EXS	be
+IST	ashamed
+AND	of
+REF	yourself
+REL	for
+EXS	treating
+PRO	me
+PRX	this
+CON	way
+NIL	!

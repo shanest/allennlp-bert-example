@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sick
+COO	and
+EXS	tired
+AND	of
+EXS	being
+EXS	sick
+COO	and
+EXS	tired
+NIL	.

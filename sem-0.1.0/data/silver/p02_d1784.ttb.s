@@ -1,0 +1,10 @@
+QUE	How
+NOW	do
+PRO	you
+NOW	say
+NIL	"
+GRE	hello
+NIL	"
+REL	in
+GPO	French
+QUE	?

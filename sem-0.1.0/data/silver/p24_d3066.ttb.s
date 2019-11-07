@@ -1,0 +1,16 @@
+REL	On
+DEF	the
+IST	last
+CON	page
+NIL	,
+PER	Mary
+EPS	wrote
+AND	:
+NIL	"
+DEF	The
+CON	spaceship
+NOW	is
+REL	on
+CON	fire
+NIL	.
+NIL	"

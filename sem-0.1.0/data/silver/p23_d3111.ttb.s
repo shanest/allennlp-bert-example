@@ -1,0 +1,11 @@
+PRO	I
+EPS	went
+REL	to
+DEF	the
+CON	airport
+SUB	to
+EXS	see
+HAS	my
+CON	friend
+REL	off
+NIL	.

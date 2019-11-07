@@ -1,0 +1,9 @@
+PRO	You
+NOW	've
+PFT	been
+EXS	working
+REL	on
+DST	that
+CON	book
+IST	forever
+NIL	.

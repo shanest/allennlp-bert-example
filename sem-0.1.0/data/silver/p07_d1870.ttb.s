@@ -1,0 +1,14 @@
+SUB	Who
+DEF	the
+CON	hell
+NOW	is
+PER	Tom
+QUE	?
+PRO	I
+NOW	have
+NOT	never
+EXS	heard
+AND	of
+PRO	him
+REL	before
+NIL	.

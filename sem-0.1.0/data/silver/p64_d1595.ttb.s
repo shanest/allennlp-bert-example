@@ -1,0 +1,13 @@
+NIL	Genocides
+AND	of
+DEF	the
+IST	twentieth
+CON	century
+EPS	killed
+IST	more
+CON	people
+AND	than
+AND	all
+DEF	the
+CON	wars
+NIL	.

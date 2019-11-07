@@ -1,0 +1,9 @@
+PRO	She
+ENS	knows
+DIS	a
+CON	lot
+AND	about
+DEF	the
+TOP	latest
+CON	fashions
+NIL	.

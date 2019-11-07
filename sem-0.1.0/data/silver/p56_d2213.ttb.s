@@ -1,0 +1,12 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	need
+SUB	to
+EXS	tell
+PER	Mary
+NIL	.
+PRO	She
+IST	already
+EPS	knew
+NIL	.

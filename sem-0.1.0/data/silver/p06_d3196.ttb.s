@@ -1,0 +1,13 @@
+IMP	If
+PRO	you
+ENS	want
+SUB	that
+CON	hat
+NIL	,
+PRO	I
+FUT	'll
+EXS	buy
+PRO	it
+REL	for
+PRO	you
+NIL	.

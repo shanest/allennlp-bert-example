@@ -1,0 +1,11 @@
+PRX	This
+ROL	teacher
+NOW	is
+REL	in
+CON	charge
+AND	of
+DEF	the
+IST	third
+CON	year
+CON	class
+NIL	.

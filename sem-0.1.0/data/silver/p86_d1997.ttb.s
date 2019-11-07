@@ -1,0 +1,11 @@
+PRO	You
+NOW	're
+DEF	the
+QUC	one
+AND	who
+ENS	knows
+QUE	how
+SUB	to
+EXS	do
+PRX	this
+NIL	.

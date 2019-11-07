@@ -1,0 +1,10 @@
+PRO	We
+NOW	are
+EXS	using
+DIS	a
+IST	new
+CON	process
+SUB	to
+EXS	make
+CON	butter
+NIL	.

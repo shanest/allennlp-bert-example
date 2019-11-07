@@ -1,0 +1,16 @@
+PER	Tom
+EPS	sustained
+IST	minor
+CON	injuries
+SUB	when
+PRO	he
+PST	was
+EXS	struck
+REL	by
+DIS	a
+CON	car
+REL	on
+DEF	the
+IST	pedestrian
+EXS	crossing
+NIL	.

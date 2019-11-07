@@ -1,0 +1,11 @@
+PRO	We
+NOW	do
+NOT	n't
+EXS	have
+QUV	much
+CON	time
+NIL	.
+EXS	Let
+HAS	's
+CON	hurry
+NIL	.

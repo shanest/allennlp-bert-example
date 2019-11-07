@@ -1,0 +1,11 @@
+EXS	Let
+HAS	's
+CON	hope
+SUB	that
+FUT	tomorrow
+PRO	he
+FUT	'll
+EXS	transform
+REF	himself
+ALT	again
+NIL	!

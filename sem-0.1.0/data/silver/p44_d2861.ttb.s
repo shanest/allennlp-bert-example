@@ -1,0 +1,10 @@
+HAS	My
+CON	friends
+NOW	do
+NOT	n't
+EXS	pay
+CON	attention
+REL	to
+PRO	me
+CON	anymore
+NIL	.

@@ -1,0 +1,11 @@
+AND	Yes
+NIL	.
+NOT	No
+NIL	.
+POS	Maybe
+NIL	.
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+ROL	hiker
+NOW	has
+EXS	reached
+DEF	the
+CON	top
+AND	of
+DEF	the
+CON	mountain
+NIL	.

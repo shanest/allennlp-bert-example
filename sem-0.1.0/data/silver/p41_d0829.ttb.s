@@ -1,0 +1,11 @@
+REL	For
+AND	all
+PRO	I
+ENS	know
+NIL	,
+PRO	he
+PST	was
+EXS	born
+REL	in
+GPE	Italy
+NIL	.

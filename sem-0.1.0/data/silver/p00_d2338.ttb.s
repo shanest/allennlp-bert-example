@@ -1,0 +1,9 @@
+HAS	My
+CON	children
+NEC	have
+NIL	to
+EXS	stay
+IST	indoors
+REL	after
+CON	dark
+NIL	.

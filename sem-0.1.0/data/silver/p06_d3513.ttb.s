@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	met
+REL	in
+GPE	Boston
+QUC	three
+CON	years
+PST	ago
+NIL	.

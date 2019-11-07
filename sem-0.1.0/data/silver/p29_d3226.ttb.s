@@ -1,0 +1,11 @@
+DEF	The
+CON	more
+PRO	she
+EPS	talked
+NIL	,
+DEF	the
+MOR	more
+IST	bored
+PRO	I
+EPS	got
+NIL	.

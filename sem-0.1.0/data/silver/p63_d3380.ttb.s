@@ -1,0 +1,9 @@
+PRO	I
+ENS	need
+DIS	a
+IST	tighter
+CON	grip
+REL	on
+HAS	my
+CON	possessions
+NIL	.

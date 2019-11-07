@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	refusing
+SUB	to
+EXS	take
+HAS	his
+CON	medicine
+NIL	.

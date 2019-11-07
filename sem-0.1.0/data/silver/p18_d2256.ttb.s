@@ -1,0 +1,9 @@
+PRX	This
+CON	shop
+NOW	is
+IST	open
+REL	from
+CLO	9am
+REL	to
+CLO	6pm
+NIL	.

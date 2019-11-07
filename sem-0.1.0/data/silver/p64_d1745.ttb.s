@@ -1,0 +1,12 @@
+PRO	I
+EPS	kicked
+HAS	my
+CON	son
+AND	out
+AND	of
+DEF	the
+CON	house
+QUC	three
+CON	months
+PST	ago
+NIL	.

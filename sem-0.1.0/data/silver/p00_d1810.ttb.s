@@ -1,0 +1,24 @@
+CON	Poverty
+NOW	is
+NOT	not
+DIS	an
+CON	accident
+NIL	.
+AND	Like
+CON	slavery
+AND	and
+CON	apartheid
+NIL	,
+PRO	it
+NOW	is
+EXS	man-made
+COO	and
+POS	can
+EXG	be
+EXS	removed
+REL	by
+DEF	the
+CON	actions
+REL	of
+CON	human beings
+NIL	.

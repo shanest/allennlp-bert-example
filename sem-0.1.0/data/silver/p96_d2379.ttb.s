@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	thinking
+AND	about
+EXS	going
+REL	to
+GEO	Boston
+ALT	again
+NIL	.

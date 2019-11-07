@@ -1,0 +1,10 @@
+PRO	We
+NOW	're
+EXS	going
+SUB	to
+EXS	begin
+DEF	the
+CON	descent
+REL	for
+GEO	Honolulu
+NIL	.

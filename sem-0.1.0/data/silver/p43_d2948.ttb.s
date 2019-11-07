@@ -1,0 +1,9 @@
+PRO	I
+NEC	have
+SUB	to
+EXS	get
+EXS	used
+REL	to
+PRO	it
+IST	first
+NIL	.

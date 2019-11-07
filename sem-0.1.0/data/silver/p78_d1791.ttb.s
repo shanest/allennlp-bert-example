@@ -1,0 +1,10 @@
+PRO	I
+PST	was
+NOT	no
+IST	longer
+EMP	myself
+COO	and
+PST	had
+IST	severe
+CON	depression
+NIL	.

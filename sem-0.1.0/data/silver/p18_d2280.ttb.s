@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+TOP	best
+CON	book
+SUB	that
+PRO	I
+NOW	've
+IST	ever
+EXS	read
+NIL	.

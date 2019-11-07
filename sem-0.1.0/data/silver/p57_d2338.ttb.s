@@ -1,0 +1,13 @@
+DEF	The
+CON	austerity
+CON	measures
+AND	that
+QUV	many
+CON	city
+CON	governments
+NOW	have
+EXS	implemented
+NOW	are
+INT	hugely
+EXS	unpopular
+NIL	.

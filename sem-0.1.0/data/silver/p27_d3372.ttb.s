@@ -1,0 +1,14 @@
+NIL	There
+NOW	is
+NOT	no
+CON	god
+BUT	but
+CON	God
+NIL	.
+PER	Muhammad
+NOW	is
+DEF	the
+CON	messenger
+AND	of
+CON	God
+NIL	.

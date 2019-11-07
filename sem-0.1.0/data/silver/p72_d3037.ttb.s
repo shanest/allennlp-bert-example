@@ -1,0 +1,13 @@
+PER	Tom
+IST	certainly
+ENS	seems
+SUB	to
+EXS	be
+CON	spending
+DIS	a
+CON	lot
+AND	of
+CON	time
+REL	with
+PER	Mary
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+DEF	the
+IST	first
+CON	time
+PRO	I
+NOW	've
+EXS	seen
+PER	Tom
+SUB	so
+EXS	angry
+NIL	.

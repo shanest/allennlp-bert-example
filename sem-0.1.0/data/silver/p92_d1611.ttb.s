@@ -1,0 +1,17 @@
+PRO	I
+ENS	know
+SUB	that
+NOW	now
+NIL	,
+IST	obviously
+NIL	,
+AND	everyone
+NOW	expects
+PRO	me
+SUB	to
+EXS	tell
+DIS	something
+AND	about
+HAS	my
+CON	trip
+NIL	.

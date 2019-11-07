@@ -1,0 +1,9 @@
+PRO	She
+NOW	gives
+INT	too
+QUV	much
+CON	money
+REL	to
+HAS	her
+CON	son
+NIL	.

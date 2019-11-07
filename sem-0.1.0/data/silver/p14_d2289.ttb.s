@@ -1,0 +1,10 @@
+DEF	The
+CON	bungalow
+NOW	is
+EXS	approached
+XCL	only
+REL	by
+DIS	a
+IST	narrow
+CON	path
+NIL	.

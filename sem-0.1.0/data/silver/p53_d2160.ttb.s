@@ -1,0 +1,12 @@
+REL	In
+YOC	1978
+DIS	a
+CON	peace
+CON	treaty
+PST	was
+EXS	concluded
+REL	between
+GPE	Japan
+AND	and
+GPE	China
+NIL	.

@@ -1,0 +1,11 @@
+AND	Everything
+PST	was
+SUB	as
+PRO	it
+PST	had
+EXS	been
+SUB	when
+PRO	I
+EPS	left
+IST	there
+NIL	.

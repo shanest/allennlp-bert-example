@@ -1,0 +1,11 @@
+EXS	Stop
+EXS	beating
+AND	around
+DEF	the
+CON	bush
+COO	and
+EXS	tell
+PRO	me
+QUE	what
+EPS	happened
+NIL	.

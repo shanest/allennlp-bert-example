@@ -1,0 +1,10 @@
+HAS	'
+GPO	Hayastan
+CON	'
+NOW	is
+GPE	Armenia
+HAS	's
+CON	name
+REL	in
+GPE	Armenian
+NIL	.

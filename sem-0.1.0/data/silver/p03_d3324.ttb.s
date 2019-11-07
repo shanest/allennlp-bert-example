@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+IST	dangerous
+REL	for
+CON	children
+SUB	to
+EXS	play
+REL	near
+PRX	this
+CON	pond
+NIL	.

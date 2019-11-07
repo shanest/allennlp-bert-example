@@ -1,0 +1,9 @@
+PER	Mary
+EPS	took
+DEF	the
+CON	cookies
+AND	out
+AND	of
+DEF	the
+CON	oven
+NIL	.

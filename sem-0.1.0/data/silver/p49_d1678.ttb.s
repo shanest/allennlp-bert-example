@@ -1,0 +1,11 @@
+EXT	Having
+EXS	lived
+REL	in
+GEO	Tokyo
+NIL	,
+PRO	I
+ENS	know
+DEF	the
+CON	city
+IST	well
+NIL	.

@@ -1,0 +1,11 @@
+PRO	You
+POS	can
+NOT	never
+EXS	tell
+QUE	how
+IST	long
+PRX	these
+CON	meetings
+FUT	will
+EXS	last
+NIL	.

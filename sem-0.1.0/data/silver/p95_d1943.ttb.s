@@ -1,0 +1,10 @@
+PRO	They
+NOW	're
+AND	all
+EXS	clamoring
+SUB	to
+EXS	get
+HAS	their
+CON	money
+IST	back
+NIL	.

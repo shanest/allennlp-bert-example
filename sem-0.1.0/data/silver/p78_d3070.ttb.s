@@ -1,0 +1,9 @@
+PRO	It
+ENS	seems
+SUB	that
+PRO	Tatoeba
+NOW	is
+EXS	working
+IST	properly
+ALT	again
+NIL	.

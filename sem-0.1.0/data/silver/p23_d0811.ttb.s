@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+SUB	that
+PRO	I
+POS	ca
+NOT	n't
+EXS	meet
+PRO	you
+CON	tonight
+NIL	.

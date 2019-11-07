@@ -1,0 +1,10 @@
+UNK	There
+HAS	's
+DIS	somebody
+PRO	I
+ENS	want
+SUB	to
+EXS	talk
+REL	to
+IST	first
+NIL	.

@@ -1,0 +1,12 @@
+ROL	Lawyers
+AND	and
+CON	auto
+CON	mechanics
+NOW	are
+DEF	the
+CON	people
+PRO	I
+NOW	trust
+DEF	the
+TOP	least
+NIL	.

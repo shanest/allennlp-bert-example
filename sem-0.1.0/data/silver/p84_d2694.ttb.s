@@ -1,0 +1,9 @@
+PRO	I
+IST	still
+POS	ca
+NOT	n't
+EXS	believe
+PRO	you
+EPS	invited
+PER	Tom
+NIL	.

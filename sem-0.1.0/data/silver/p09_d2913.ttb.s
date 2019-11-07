@@ -1,0 +1,14 @@
+PRO	I
+NOW	have
+EXS	chubby
+CON	fingers
+NIL	,
+COO	so
+PRO	I
+POS	ca
+NOT	n't
+EXS	use
+DIS	a
+IST	small
+CON	keyboard
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	believe
+PER	Mary
+NIL	.
+PRO	He
+ENS	thinks
+PRO	she
+HAS	's
+EXS	lying
+NIL	.

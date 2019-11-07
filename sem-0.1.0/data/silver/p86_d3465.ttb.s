@@ -1,0 +1,12 @@
+DEF	The
+CON	population
+AND	of
+GPE	Australia
+NOW	is
+QUC	much
+COM	smaller
+AND	than
+DST	that
+AND	of
+GPE	Japan
+NIL	.

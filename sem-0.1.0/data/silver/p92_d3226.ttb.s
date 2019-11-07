@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+DEF	the
+XCL	only
+QUC	one
+AND	here
+AND	who
+ENS	likes
+PER	Tom
+NIL	.

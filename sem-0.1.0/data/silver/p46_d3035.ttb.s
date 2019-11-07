@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+INT	so
+EXS	easy
+SUB	when
+PRO	you
+ENS	know
+DEF	the
+CON	rules
+NIL	.

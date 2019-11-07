@@ -1,0 +1,10 @@
+QUE	What
+DEF	the
+CON	hell
+PST	were
+PRO	you
+EXS	doing
+CON	upstairs
+EQU	,
+PER	Mary
+QUE	?

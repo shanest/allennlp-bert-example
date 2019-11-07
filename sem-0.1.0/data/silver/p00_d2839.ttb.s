@@ -1,0 +1,9 @@
+PRO	I
+EXS	hope
+PRO	I
+FUT	'll
+EXS	see
+PRO	you
+ALT	again
+IST	soon
+NIL	.

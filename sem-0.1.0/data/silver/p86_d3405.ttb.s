@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXS	trying
+SUB	to
+EXS	pay
+REL	off
+AND	all
+HAS	his
+CON	debts
+NIL	.

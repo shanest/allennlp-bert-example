@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+EXT	told
+PRO	me
+DIS	a
+CON	lot
+AND	about
+PRO	you
+NIL	.

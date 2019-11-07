@@ -1,0 +1,9 @@
+PRX	This
+NOW	is
+DEF	the
+IST	first
+CON	song
+PRO	I
+IST	ever
+EPS	wrote
+NIL	.

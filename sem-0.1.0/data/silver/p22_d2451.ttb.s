@@ -1,0 +1,12 @@
+REL	In
+GPE	Italy
+NIL	,
+AND	each
+CON	village
+NOW	holds
+DIS	a
+CON	festival
+AND	once
+DIS	a
+CON	year
+NIL	.

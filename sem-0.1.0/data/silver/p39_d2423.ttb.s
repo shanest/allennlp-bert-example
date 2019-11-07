@@ -1,0 +1,12 @@
+DST	That
+HAS	's
+DEF	the
+IST	last
+CON	thing
+PRO	I
+ENS	want
+SUB	to
+EXS	do
+IST	right
+NOW	now
+NIL	.

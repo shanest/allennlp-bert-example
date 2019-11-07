@@ -1,0 +1,11 @@
+DEF	The
+ROL	grandfather
+EPS	asked
+DEF	the
+CON	boy
+SUB	to
+EXS	bring
+PRO	him
+HAS	his
+CON	cane
+NIL	.

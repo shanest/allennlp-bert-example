@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+EXS	dangerous
+SUB	to
+EXS	walk
+REL	on
+CON	railway
+CON	lines
+NIL	.

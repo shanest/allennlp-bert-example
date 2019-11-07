@@ -1,0 +1,12 @@
+FUT	Will
+PRO	you
+EXS	come
+REL	to
+HAS	our
+IST	usual
+CON	game
+AND	of
+CON	poker
+AND	next
+DOW	Friday
+QUE	?

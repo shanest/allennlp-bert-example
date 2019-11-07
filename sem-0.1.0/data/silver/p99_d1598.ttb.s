@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	beginning
+SUB	to
+EXS	feel
+REL	at
+CON	ease
+SUB	when
+PRO	I
+ENS	speak
+REL	in
+GPO	Chinese
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+EPS	cost
+PRO	me
+QUC	50
+UOM	dollars
+SUB	to
+EXS	have
+HAS	my
+CON	watch
+EPS	fixed
+NIL	.

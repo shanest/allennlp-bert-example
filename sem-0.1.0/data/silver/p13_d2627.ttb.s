@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	starting
+SUB	to
+EXS	fall
+REL	in
+CON	love
+REL	with
+PRO	you
+NIL	.

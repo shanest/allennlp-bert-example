@@ -1,0 +1,10 @@
+PRO	She
+ENS	speaks
+GPO	English
+COM	better
+MOR	than
+AND	any
+AND	of
+HAS	her
+CON	classmates
+NIL	.

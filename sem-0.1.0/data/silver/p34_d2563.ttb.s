@@ -1,0 +1,15 @@
+PRO	We
+EXS	forget
+HAS	our
+CON	faults
+IST	easily
+IMP	if
+NOT	no
+CON	one
+ENS	knows
+PRO	them
+AND	as
+IST	well
+AND	as
+PRO	us
+NIL	.

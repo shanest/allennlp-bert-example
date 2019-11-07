@@ -1,0 +1,9 @@
+PRO	I
+NOW	guess
+PRO	I
+NOW	'm
+IST	really
+REL	in
+CON	trouble
+NOW	now
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+EPS	started
+EXS	studying
+GPO	French
+DIS	a
+IST	few
+CON	weeks
+PST	ago
+NIL	.

@@ -1,0 +1,15 @@
+IMP	If
+PRO	we
+EPS	read
+PRX	this
+CON	book
+PRO	we
+NOW	are
+IST	able
+SUB	to
+EXS	comprehend
+IST	more
+AND	about
+DEF	the
+CON	country
+NIL	.

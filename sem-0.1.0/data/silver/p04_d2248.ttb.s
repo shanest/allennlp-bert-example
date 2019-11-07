@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+DEF	the
+TOP	biggest
+CON	strawberry
+PRO	I
+NOW	've
+IST	ever
+EXS	seen
+NIL	.

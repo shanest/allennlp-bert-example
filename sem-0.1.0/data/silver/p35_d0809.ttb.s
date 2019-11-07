@@ -1,0 +1,11 @@
+DIS	Some
+IST	ancient
+CON	people
+EPS	thought
+AND	of
+DEF	the
+CON	sun
+AND	as
+HAS	their
+CON	God
+NIL	.

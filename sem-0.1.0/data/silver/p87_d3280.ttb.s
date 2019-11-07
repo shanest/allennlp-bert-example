@@ -1,0 +1,10 @@
+PER	Shishir
+NOW	has
+PFT	been
+EXS	correcting
+DIS	a
+CON	lot
+AND	of
+CON	sentences
+IST	lately
+NIL	.

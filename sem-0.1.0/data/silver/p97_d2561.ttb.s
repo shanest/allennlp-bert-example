@@ -1,0 +1,14 @@
+CON	Life
+NOW	is
+QUE	what
+ENS	happens
+SUB	to
+PRO	you
+SUB	while
+PRO	you
+NOW	're
+EXS	busy
+EXS	making
+ALT	other
+CON	plans
+NIL	.

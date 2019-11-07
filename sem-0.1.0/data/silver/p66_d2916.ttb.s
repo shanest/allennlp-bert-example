@@ -1,0 +1,9 @@
+PRO	She
+NOW	is
+EXS	reading
+DIS	a
+CON	book
+REL	in
+DEF	the
+CON	library
+NIL	.

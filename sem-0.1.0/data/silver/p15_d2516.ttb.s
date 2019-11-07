@@ -1,0 +1,9 @@
+PRO	She
+EPS	asked
+PRO	me
+IMP	if
+PRO	I
+EPS	knew
+HAS	her
+CON	address
+NIL	.

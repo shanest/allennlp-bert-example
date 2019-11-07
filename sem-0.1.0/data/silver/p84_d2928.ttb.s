@@ -1,0 +1,15 @@
+PER	Tom
+EPS	rang
+HAS	his
+CON	boss
+SUB	to
+EXS	tell
+PRO	him
+PRO	he
+FUT	would
+NOT	n't
+EXS	be
+EXS	coming
+REL	in
+NOW	today
+NIL	.

@@ -1,0 +1,12 @@
+EXS	Did
+PRO	you
+IST	ever
+NOW	have
+DEF	the
+CON	symptoms
+AND	which
+NOW	have
+IST	just
+PFT	been
+EXS	described
+QUE	?

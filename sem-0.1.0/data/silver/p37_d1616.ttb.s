@@ -1,0 +1,13 @@
+PRO	I
+NOW	think
+PRX	this
+CON	suit
+NOW	is
+INT	vastly
+IST	superior
+REL	to
+SUB	that
+QUC	one
+REL	in
+CON	quality
+NIL	.

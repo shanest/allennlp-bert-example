@@ -1,0 +1,14 @@
+PER	Tom
+ENS	eats
+REL	with
+HAS	his
+IST	left
+CON	hand
+NIL	,
+COO	but
+PRO	he
+ENS	writes
+REL	with
+HAS	his
+CON	right
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+IST	angry
+SUB	because
+DIS	someone
+EPS	stole
+HAS	my
+CON	bicycle
+NIL	.

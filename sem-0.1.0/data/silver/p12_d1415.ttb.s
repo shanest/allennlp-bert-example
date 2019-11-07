@@ -1,0 +1,13 @@
+PER	Tom
+EPS	realized
+SUB	that
+PRO	it
+FUT	would
+EXS	be
+COM	better
+IMP	if
+PRO	he
+EPS	left
+IST	right
+IST	away
+NIL	.

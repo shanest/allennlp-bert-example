@@ -1,0 +1,11 @@
+DEF	Thou
+FUT	shalt
+EXS	love
+DEF	the
+CON	country
+REL	in
+UNK	which
+HAS	thou
+POS	wast
+EXS	born
+NIL	.

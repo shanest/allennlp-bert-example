@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+NOW	have
+EXS	finished
+EXG	reading
+DEF	the
+CON	book
+NIL	,
+EXS	return
+PRO	it
+REL	to
+DEF	the
+CON	library
+NIL	.

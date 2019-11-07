@@ -1,0 +1,10 @@
+PER	Tom
+NOW	gets
+EXS	jealous
+SUB	when
+PER	Mary
+ENS	talks
+REL	to
+ALT	other
+CON	guys
+NIL	.

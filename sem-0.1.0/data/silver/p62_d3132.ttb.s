@@ -1,0 +1,10 @@
+PRO	I
+EPS	gave
+DEF	the
+CON	boy
+QUE	what
+IST	little
+CON	money
+PRO	I
+PST	had
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+HAS	's
+IST	already
+PRX	here
+NIL	,
+COO	but
+PER	Bill
+NOW	has
+NOT	n't
+EXS	come
+ALT	yet
+NIL	.

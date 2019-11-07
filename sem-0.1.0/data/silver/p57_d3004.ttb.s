@@ -1,0 +1,14 @@
+QUE	What
+QUE	?
+NOW	Are
+PRO	you
+EXS	alone
+QUE	?
+PRO	I
+PST	thought
+PRO	you
+PST	were
+EXS	coming
+REL	with
+PER	Tom
+NIL	.

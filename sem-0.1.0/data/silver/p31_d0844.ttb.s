@@ -1,0 +1,12 @@
+REL	From
+DEF	the
+CON	way
+PRO	they
+EPS	talked
+NIL	,
+PRO	I
+EPS	presumed
+PRO	they
+PST	were
+EXS	married
+NIL	.

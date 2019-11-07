@@ -1,0 +1,15 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	it
+NOW	is
+INT	highly
+EXS	unlikely
+SUB	that
+PRO	we
+FUT	'll
+EXS	see
+AND	any
+CON	whales
+NOW	today
+NIL	.

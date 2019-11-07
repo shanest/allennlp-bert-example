@@ -1,0 +1,9 @@
+PER	Tom
+ENS	says
+SUB	that
+PRO	he
+NOW	has
+DIS	a
+IST	secret
+CON	weapon
+NIL	.

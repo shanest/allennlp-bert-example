@@ -1,0 +1,14 @@
+DEF	The
+CON	neighbors
+EPS	sent
+HAS	their
+CON	kid
+REL	on
+DIS	a
+IST	linguistic
+CON	trip
+REL	to
+GPE	Ireland
+PRX	this
+CON	summer
+NIL	.

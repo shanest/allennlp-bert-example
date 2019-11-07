@@ -1,0 +1,11 @@
+NIL	There
+NOW	are
+CON	cherry
+CON	trees
+REL	on
+AND	each
+CON	side
+AND	of
+DEF	the
+CON	street
+NIL	.

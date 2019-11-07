@@ -1,0 +1,15 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	seen
+QUC	two
+CON	people
+AND	so
+QUV	much
+REL	in
+CON	love
+AND	as
+PER	Tom
+AND	and
+PER	Mary
+NIL	.

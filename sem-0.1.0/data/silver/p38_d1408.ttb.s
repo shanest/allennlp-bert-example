@@ -1,0 +1,13 @@
+QUE	How
+PST	did
+PRO	you
+NOW	find
+IST	out
+SUB	that
+PER	Tom
+PST	had
+NOT	n't
+EXS	paid
+HAS	his
+CON	bills
+QUE	?

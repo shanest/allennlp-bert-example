@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+EXS	know
+QUE	how
+SUB	to
+EXS	get
+REL	in
+CON	touch
+REL	with
+PER	Tom
+QUE	?

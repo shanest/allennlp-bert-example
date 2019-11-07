@@ -1,0 +1,12 @@
+IMP	If
+PRO	you
+EPS	ironed
+GPE	Switzerland
+NIL	,
+PRO	it
+FUT	would
+EXS	be
+MOR	bigger
+MOR	than
+GPE	Germany
+NIL	.

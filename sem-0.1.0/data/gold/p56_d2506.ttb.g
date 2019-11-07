@@ -1,0 +1,10 @@
+PER	Tom
+EPS	arrived
+REL	at
+DEF	the
+CON	gate
+COO	and
+EPS	rang
+DEF	the
+CON	bell
+NIL	.

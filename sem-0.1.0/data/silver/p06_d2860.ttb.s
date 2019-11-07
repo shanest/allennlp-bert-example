@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	corrected
+DIS	a
+CON	sentence
+REL	on
+PRX	Tatoeba
+QUE	?

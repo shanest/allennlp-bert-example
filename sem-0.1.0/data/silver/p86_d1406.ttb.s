@@ -1,0 +1,15 @@
+HAS	My
+ROL	grandfather
+FUT	will
+EXT	have
+EXS	read
+DEF	the
+CON	Bible
+QUC	ten
+CON	times
+IMP	if
+PRO	he
+ENS	reads
+PRO	it
+IST	again
+NIL	.

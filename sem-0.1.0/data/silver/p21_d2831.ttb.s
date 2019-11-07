@@ -1,0 +1,12 @@
+QUE	What
+NOW	do
+PRO	you
+NOW	think
+NOW	is
+DEF	the
+INT	most
+IST	popular
+CON	sport
+REL	in
+GPE	Japan
+QUE	?

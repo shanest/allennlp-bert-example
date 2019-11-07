@@ -1,0 +1,12 @@
+CON	Tonight
+NIL	,
+PRO	we
+PST	had
+CON	fun
+EXG	drawing
+IST	up
+HAS	our
+CON	family
+CON	tree
+IST	together
+NIL	.

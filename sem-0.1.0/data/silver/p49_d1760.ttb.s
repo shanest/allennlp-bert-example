@@ -1,0 +1,14 @@
+NIL	"
+PRO	I
+ENS	know
+PRO	him
+IST	well
+NIL	.
+NIL	"
+NIL	"
+ITJ	Oh
+NIL	,
+NOW	do
+PRO	you
+QUE	?
+NIL	"

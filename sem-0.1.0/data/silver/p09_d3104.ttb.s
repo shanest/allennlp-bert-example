@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	still
+EXG	waiting
+REL	for
+PER	Tom
+SUB	to
+EXS	get
+PRX	here
+NIL	.

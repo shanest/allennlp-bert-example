@@ -1,0 +1,12 @@
+IST	Good
+CON	afternoon
+NIL	.
+PST	Excuse
+PRO	me
+NIL	,
+PRO	I
+NOW	'm
+EXS	looking
+REL	for
+GEO	Loretta
+NIL	.

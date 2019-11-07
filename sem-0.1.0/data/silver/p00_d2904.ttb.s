@@ -1,0 +1,9 @@
+AND	Tired
+AND	of
+EXS	reading
+NIL	,
+PRO	she
+EPS	took
+DIS	a
+CON	nap
+NIL	.

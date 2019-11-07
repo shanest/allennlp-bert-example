@@ -1,0 +1,9 @@
+DEF	The
+CON	crime
+CON	rate
+NOW	is
+EXG	increasing
+REL	in
+PRX	this
+CON	country
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+PST	was
+EXS	born
+REL	in
+DIS	a
+CON	village
+REL	near
+GEO	Teheran
+NIL	.

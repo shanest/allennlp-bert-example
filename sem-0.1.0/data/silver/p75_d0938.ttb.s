@@ -1,0 +1,12 @@
+PRO	It
+PST	was
+DEF	the
+IST	first
+CON	time
+PRO	I
+EPS	walked
+REL	along
+DEF	the
+NTH	Mogami
+CON	River
+NIL	.

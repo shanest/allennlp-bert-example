@@ -1,0 +1,12 @@
+PRO	She
+EPS	drew
+DIS	a
+IST	broken
+CON	line
+SUB	to
+EXS	show
+SUB	where
+DEF	the
+CON	property
+EPS	ended
+NIL	.

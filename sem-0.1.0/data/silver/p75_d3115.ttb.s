@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	know
+DIS	something
+PRO	they
+NOW	're
+NOT	not
+EXG	telling
+PRO	us
+NIL	.

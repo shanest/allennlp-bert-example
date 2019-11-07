@@ -1,0 +1,17 @@
+PRO	You
+NOW	do
+NOT	n't
+EXS	know
+QUE	what
+PRO	it
+NOW	's
+EXS	like
+SUB	to
+EXS	lose
+AND	all
+HAS	your
+CON	family
+REL	in
+DIS	a
+CON	war
+NIL	.

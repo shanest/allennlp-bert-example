@@ -1,0 +1,11 @@
+PER	Tom
+EPS	gave
+PER	Mary
+DIS	a
+IST	detailed
+CON	explanation
+AND	of
+QUE	how
+PRO	it
+EPS	worked
+NIL	.

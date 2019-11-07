@@ -1,0 +1,12 @@
+AND	Last
+CON	night
+DIS	someone
+EPS	broke
+REL	into
+DEF	the
+IST	small
+CON	shop
+REL	near
+HAS	my
+CON	house
+NIL	.

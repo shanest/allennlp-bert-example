@@ -1,0 +1,9 @@
+PER	Tom
+EPS	stayed
+REL	in
+CON	bed
+AND	all
+CON	day
+EXG	watching
+CON	TV
+NIL	.

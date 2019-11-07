@@ -1,0 +1,12 @@
+PRO	He
+NOW	is
+EXS	going
+SUB	to
+EXS	be
+DIS	a
+CON	doctor
+SUB	when
+PRO	he
+NOW	grows
+IST	up
+NIL	.

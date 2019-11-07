@@ -1,0 +1,10 @@
+PRO	It
+PST	was
+IST	well
+REL	after
+CLO	midnight
+SUB	when
+PER	Tom
+EPS	got
+CON	home
+NIL	.

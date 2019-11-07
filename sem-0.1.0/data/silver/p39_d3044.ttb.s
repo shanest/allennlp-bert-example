@@ -1,0 +1,10 @@
+PRO	I
+NOW	feel
+CON	happier
+AND	than
+PRO	I
+NOW	've
+IST	ever
+EXS	felt
+REL	before
+NIL	.

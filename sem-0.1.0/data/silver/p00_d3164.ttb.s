@@ -1,0 +1,14 @@
+IST	Detached
+CON	reflection
+POS	can
+NOT	not
+EXS	be
+EXS	demanded
+REL	in
+DEF	the
+CON	presence
+REL	of
+DIS	an
+IST	uplifted
+CON	knife
+NIL	.

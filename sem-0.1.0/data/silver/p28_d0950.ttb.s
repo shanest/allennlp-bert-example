@@ -1,0 +1,10 @@
+NIL	There
+NEC	shall
+EXS	be
+NOT	no
+NOW	hindrances
+REL	to
+HAS	my
+IST	malicious
+CON	plan
+NIL	.

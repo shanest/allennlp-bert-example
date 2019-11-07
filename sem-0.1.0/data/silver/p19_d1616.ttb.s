@@ -1,0 +1,9 @@
+PRO	I
+ENS	wish
+PER	Tom
+FUT	would
+EXS	learn
+SUB	to
+EXS	speak
+GPO	French
+NIL	.

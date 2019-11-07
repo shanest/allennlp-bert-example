@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	let
+PER	Mary
+EXS	play
+REL	with
+DEF	the
+ALT	other
+CON	children
+NIL	.

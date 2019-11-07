@@ -1,0 +1,9 @@
+PRO	I
+FUT	'll
+EXS	call
+PRO	you
+SUB	when
+PRO	I
+NOW	'm
+EXS	ready
+NIL	.

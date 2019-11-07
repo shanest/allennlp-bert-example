@@ -1,0 +1,9 @@
+CON	People
+NOW	are
+EXG	saying
+SUB	that
+DEF	the
+CON	crisis
+NOW	is
+IST	over
+NIL	.

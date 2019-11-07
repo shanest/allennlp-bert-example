@@ -1,0 +1,11 @@
+QUE	How
+QUV	much
+FUT	will
+PRO	it
+EXS	cost
+SUB	to
+EXS	get
+DIS	a
+IST	dental
+CON	cleaning
+QUE	?

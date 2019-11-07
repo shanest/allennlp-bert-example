@@ -1,0 +1,11 @@
+DEF	The
+ROL	politician
+PST	did
+NOT	n't
+EXS	appear
+REL	in
+CON	public
+REL	after
+DEF	the
+CON	incident
+NIL	.

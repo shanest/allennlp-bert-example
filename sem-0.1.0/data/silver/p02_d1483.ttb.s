@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	afraid
+SUB	that
+PRO	I
+NOW	've
+EXS	caused
+DIS	a
+IST	slight
+CON	disturbance
+NIL	.

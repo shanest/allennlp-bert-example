@@ -1,0 +1,11 @@
+DEF	The
+ROL	natives
+EPS	saw
+DIS	an
+CON	airplane
+AND	then
+REL	for
+DEF	the
+IST	first
+CON	time
+NIL	.

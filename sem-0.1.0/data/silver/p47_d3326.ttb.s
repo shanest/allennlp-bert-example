@@ -1,0 +1,11 @@
+HAS	My
+CON	computer
+EPS	crashed
+COO	and
+NOW	now
+PRO	it
+FUT	wo
+NOT	n't
+EXS	start
+IST	up
+NIL	.

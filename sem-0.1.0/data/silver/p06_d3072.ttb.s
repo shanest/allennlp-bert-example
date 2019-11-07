@@ -1,0 +1,12 @@
+PER	Tom
+NOW	has
+DIS	a
+IST	good
+CON	chance
+AND	of
+EXS	being
+EXS	hired
+REL	for
+DEF	the
+CON	job
+NIL	.

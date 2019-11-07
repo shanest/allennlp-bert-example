@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+NOW	remember
+DEF	the
+CON	day
+SUB	when
+PRO	we
+EPS	saw
+DEF	the
+CON	accident
+QUE	?

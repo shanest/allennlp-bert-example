@@ -1,0 +1,14 @@
+PRO	I
+PST	was
+EXG	thinking
+PRO	you
+POS	might
+EXS	like
+SUB	to
+EXS	go
+CON	camping
+REL	with
+PRO	us
+PRX	this
+CON	weekend
+NIL	.

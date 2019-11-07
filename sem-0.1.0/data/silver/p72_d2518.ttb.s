@@ -1,0 +1,11 @@
+PER	Tom
+EPS	planted
+DIS	some
+CON	explosives
+AND	near
+DEF	the
+CON	middle
+AND	of
+DEF	the
+CON	bridge
+NIL	.

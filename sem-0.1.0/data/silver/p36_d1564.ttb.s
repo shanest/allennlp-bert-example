@@ -1,0 +1,10 @@
+UNK	Muslims
+EXS	adhere
+REL	to
+DEF	the
+CON	teaching
+AND	of
+DEF	the
+CON	prophet
+PER	Mohammed
+NIL	.

@@ -1,0 +1,9 @@
+HAS	Our
+CON	ownership
+REL	in
+DEF	the
+CON	company
+NOW	is
+QUC	60
+UOM	%
+NIL	.

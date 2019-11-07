@@ -1,0 +1,13 @@
+PRO	I
+FUT	wo
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	stay
+REL	in
+AND	such
+DIS	a
+EXS	frustrating
+CON	job
+NIL	.

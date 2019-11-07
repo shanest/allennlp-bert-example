@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+NEC	have
+SUB	to
+EXS	do
+SUB	that
+NOW	now
+NIL	.

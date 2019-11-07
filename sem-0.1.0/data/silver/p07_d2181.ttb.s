@@ -1,0 +1,10 @@
+PRO	I
+EPS	took
+DIS	an
+CON	umbrella
+REL	in
+CON	case
+PRO	it
+NEC	should
+EXS	rain
+NIL	.

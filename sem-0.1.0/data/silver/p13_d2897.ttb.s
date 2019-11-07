@@ -1,0 +1,10 @@
+DEF	The
+IST	little
+CON	boy
+EPS	sat
+REL	on
+HAS	his
+ROL	father
+HAS	's
+CON	shoulders
+NIL	.

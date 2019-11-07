@@ -1,0 +1,9 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	go
+SUB	wherever
+PRO	you
+NOW	're
+EXS	going
+NIL	.

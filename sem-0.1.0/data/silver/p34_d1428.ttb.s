@@ -1,0 +1,17 @@
+PER	Tom
+EPS	snuck
+IST	out
+COO	and
+IST	surreptitiously
+EPS	bought
+PER	Mary
+DIS	a
+IST	big
+CON	bunch
+AND	of
+CON	flowers
+REL	for
+HAS	their
+CON	wedding
+CON	anniversary
+NIL	.

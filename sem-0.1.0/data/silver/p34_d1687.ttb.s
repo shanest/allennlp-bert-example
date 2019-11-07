@@ -1,0 +1,9 @@
+UNK	There
+NOW	are
+QUV	many
+IST	nudist
+CON	beaches
+REL	in
+GEO	East
+GPE	Germany
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+EXS	surprised
+QUE	how
+EXS	easy
+PRO	it
+PST	was
+NIL	to
+EXS	do
+NIL	.

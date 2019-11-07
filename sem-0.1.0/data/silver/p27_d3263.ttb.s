@@ -1,0 +1,11 @@
+PER	Tom
+EPS	devoted
+HAS	his
+CON	life
+REL	to
+DEF	the
+CON	study
+AND	of
+PRX	this
+CON	phenomenon
+NIL	.

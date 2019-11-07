@@ -1,0 +1,12 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	want
+PER	Mary
+SUB	to
+EXS	go
+IST	out
+REL	with
+ALT	other
+CON	guys
+NIL	.

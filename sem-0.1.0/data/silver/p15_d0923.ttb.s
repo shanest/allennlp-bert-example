@@ -1,0 +1,12 @@
+IMP	If
+PRO	I
+PST	had
+EXS	known
+PRO	it
+NIL	,
+PRO	I
+FUT	would
+EXT	have
+EXS	told
+PRO	you
+NIL	.

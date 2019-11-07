@@ -1,0 +1,12 @@
+PRO	He
+EPS	made
+AND	such
+DIS	a
+IST	long
+CON	speech
+SUB	that
+PRO	we
+AND	all
+PST	got
+EXS	bored
+NIL	.

@@ -1,0 +1,9 @@
+ROL	Uncle
+PER	George
+NOT	never
+EPS	visited
+PRO	us
+NOT	without
+DIS	some
+CON	present
+NIL	.

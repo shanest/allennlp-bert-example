@@ -1,0 +1,16 @@
+NIL	To
+PRO	him
+NIL	,
+CON	hunger
+PST	was
+DIS	an
+IST	abstract
+CON	concept
+COO	;
+PRO	he
+AND	always
+PST	had
+IST	enough
+NIL	to
+EXS	eat
+NIL	.

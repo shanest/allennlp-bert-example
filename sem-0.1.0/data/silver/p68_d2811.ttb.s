@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+EXS	believe
+PRO	it
+HAS	's
+EPS	called
+DIS	a
+CON	leek
+NIL	.

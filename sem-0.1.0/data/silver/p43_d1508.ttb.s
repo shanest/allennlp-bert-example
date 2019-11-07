@@ -1,0 +1,11 @@
+EXS	Give
+PER	Tom
+DIS	an
+CON	inch
+COO	and
+PRO	he
+FUT	'll
+EXS	take
+DIS	a
+CON	mile
+NIL	.

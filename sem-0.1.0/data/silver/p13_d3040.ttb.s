@@ -1,0 +1,12 @@
+PRO	It
+NOW	goes
+NOT	without
+EXG	saying
+SUB	that
+NOT	nothing
+NOW	is
+IST	more
+EXS	important
+AND	than
+CON	health
+NIL	.

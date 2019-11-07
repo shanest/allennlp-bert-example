@@ -1,0 +1,10 @@
+PER	Mireille
+PER	Mathieu
+NOW	is
+QUC	one
+AND	of
+GPE	France
+HAS	's
+TOP	best
+CON	singers
+NIL	.

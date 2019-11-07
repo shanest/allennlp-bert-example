@@ -1,0 +1,15 @@
+PRO	He
+HAS	's
+PFT	been
+EXS	living
+REL	off
+HAS	his
+CON	father
+HAS	's
+IST	financial
+CON	support
+REL	for
+QUC	ten
+UOM	years
+NOW	now
+NIL	.

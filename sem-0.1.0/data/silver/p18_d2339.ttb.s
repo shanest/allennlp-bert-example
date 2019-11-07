@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	no
+CON	one
+SUB	to
+EXS	go
+REL	to
+REL	for
+CON	advice
+NIL	.

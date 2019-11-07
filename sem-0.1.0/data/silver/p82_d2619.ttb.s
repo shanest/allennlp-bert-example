@@ -1,0 +1,15 @@
+PRO	I
+NOT	not
+XCL	only
+EPS	gave
+PRO	her
+DIS	some
+CON	advice
+NIL	,
+PRO	I
+ALT	also
+EPS	gave
+PRO	her
+DIS	a
+CON	cunnilingus
+NIL	.

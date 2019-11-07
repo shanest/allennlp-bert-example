@@ -1,0 +1,13 @@
+PRO	You
+ENS	know
+CON	things
+NOW	are
+EXS	bad
+SUB	when
+PRO	they
+NOW	call
+PER	Tom
+REL	in
+REL	to
+CON	help
+NIL	.

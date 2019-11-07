@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+HAS	his
+CON	squirrel
+EPS	had
+DIS	a
+IST	huge
+CON	fight
+NIL	.

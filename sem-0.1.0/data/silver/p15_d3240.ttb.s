@@ -1,0 +1,10 @@
+PRO	We
+POS	ca
+NOT	n't
+ALT	yet
+EXS	translate
+REL	from
+CON	Esperanto
+REL	to
+GPO	Danish
+NIL	.

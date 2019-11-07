@@ -1,0 +1,10 @@
+DEF	The
+ROL	thief
+EPS	ran
+IST	away
+SUB	when
+PRO	he
+EPS	saw
+DIS	a
+CON	policeman
+NIL	.

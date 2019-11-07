@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	believe
+PRO	we
+NOW	've
+IST	officially
+EXS	met
+NIL	.

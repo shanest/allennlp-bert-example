@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+EXS	tried
+PRO	it
+COO	and
+PRO	it
+ENS	works
+AND	like
+DIS	a
+CON	dream
+NIL	.

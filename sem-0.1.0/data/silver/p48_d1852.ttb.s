@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+EXS	studying
+IST	hard
+AND	so
+SUB	that
+PRO	I
+POS	can
+EXS	pass
+DEF	the
+CON	exam
+NIL	.

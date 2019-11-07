@@ -1,0 +1,10 @@
+PRO	You
+POS	could
+EXS	hear
+DEF	the
+CON	desperation
+REL	in
+PER	Mary
+HAS	's
+CON	voice
+NIL	.

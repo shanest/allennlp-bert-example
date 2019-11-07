@@ -1,0 +1,10 @@
+DEF	The
+CON	change
+AND	of
+CON	air
+PST	had
+EXS	done
+PRO	me
+QUV	much
+IST	good
+NIL	.

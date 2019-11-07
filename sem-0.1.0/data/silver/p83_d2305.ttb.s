@@ -1,0 +1,9 @@
+PRO	He
+EPS	laid
+IST	down
+DEF	the
+CON	gun
+REL	on
+DEF	the
+CON	floor
+NIL	.

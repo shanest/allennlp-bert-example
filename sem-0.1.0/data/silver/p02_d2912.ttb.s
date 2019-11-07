@@ -1,0 +1,11 @@
+PRO	I
+EPS	went
+REL	to
+DEF	the
+CON	beach
+REL	with
+PER	Tom
+COO	and
+HAS	his
+CON	friends
+NIL	.

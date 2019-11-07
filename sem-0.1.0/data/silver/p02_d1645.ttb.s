@@ -1,0 +1,9 @@
+AND	Why
+NOW	does
+NOT	n't
+PRO	she
+EXS	write
+PRO	me
+IST	back
+CON	anymore
+QUE	?

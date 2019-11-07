@@ -1,0 +1,12 @@
+UNK	First
+NIL	,
+PRO	I
+FUT	'll
+EXS	try
+SUB	to
+EXS	understand
+QUE	why
+PRO	he
+ENS	thinks
+IST	so
+NIL	.

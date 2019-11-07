@@ -1,0 +1,14 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+IST	global
+CON	warming
+NOW	is
+IST	directly
+EXS	related
+REL	to
+CON	carbon
+CON	dioxide
+CON	emissions
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+EPS	asked
+PER	Adil
+NIL	,
+COO	and
+PRO	it
+NOW	looks
+AND	like
+PER	Teacher
+PER	Erkin
+NOW	has
+EPS	retired
+NIL	.

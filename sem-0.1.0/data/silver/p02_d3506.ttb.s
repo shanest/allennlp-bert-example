@@ -1,0 +1,10 @@
+PRO	I
+ENS	expect
+PER	Tom
+FUT	wo
+NOT	n't
+EXS	want
+SUB	to
+EXS	do
+DST	that
+NIL	.

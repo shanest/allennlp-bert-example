@@ -1,0 +1,10 @@
+PRO	You
+FUT	'll
+NEC	have
+SUB	to
+EXS	study
+IST	harder
+REL	from
+NOW	now
+REL	on
+NIL	.

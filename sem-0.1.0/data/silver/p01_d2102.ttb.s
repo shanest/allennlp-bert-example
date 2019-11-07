@@ -1,0 +1,9 @@
+PRO	I
+XCL	only
+EPS	told
+PRO	you
+QUE	what
+PER	Tom
+EPS	told
+PRO	me
+NIL	.

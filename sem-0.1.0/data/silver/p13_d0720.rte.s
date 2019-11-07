@@ -1,0 +1,23 @@
+REL	In
+MOY	June
+YOC	2004
+NIL	,
+IST	top
+GPO	Russian
+CON	oil
+CON	producer
+PER	Lukoil
+EPS	signed
+DIS	a
+UOM	$
+QUC	1 billion
+IST	35-year
+CON	production-sharing
+CON	agreement
+SUB	to
+EXS	develop
+IST	Uzbek
+IST	natural
+CON	gas
+CON	deposits
+NIL	.

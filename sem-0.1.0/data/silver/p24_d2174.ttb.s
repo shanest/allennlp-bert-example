@@ -1,0 +1,11 @@
+PER	Tom
+EPS	asked
+PER	Mary
+DEF	the
+IST	same
+CON	question
+PRO	he
+PST	had
+EXS	asked
+PRO	me
+NIL	.

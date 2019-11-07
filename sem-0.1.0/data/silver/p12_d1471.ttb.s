@@ -1,0 +1,9 @@
+PER	Tom
+EPS	left
+AND	everything
+REL	to
+PER	Mary
+REL	in
+HAS	his
+FUT	will
+NIL	.

@@ -1,0 +1,17 @@
+GPE	Bulgaria
+NOW	is
+DEF	the
+XCL	only
+CON	country
+REL	in
+GEO	Europe
+SUB	where
+DIS	a
+IST	former
+CON	monarch
+NOW	has
+PFT	been
+EXS	elected
+IST	prime
+CON	minister
+NIL	.

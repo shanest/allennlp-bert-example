@@ -1,0 +1,15 @@
+IST	Good
+CON	nutrition
+NOW	is
+ALT	also
+DIS	a
+CON	science
+AND	and
+NIL	,
+AND	as
+AND	such
+NIL	,
+POS	can
+EXS	be
+EXS	learnt
+NIL	.

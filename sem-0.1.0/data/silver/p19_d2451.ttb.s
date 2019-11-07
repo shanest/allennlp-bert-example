@@ -1,0 +1,11 @@
+DEF	The
+CON	boy
+NOW	has
+PFT	been
+EXS	absent
+REL	from
+CON	school
+REL	for
+QUC	eight
+CON	days
+NIL	.

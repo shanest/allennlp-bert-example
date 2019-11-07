@@ -1,0 +1,9 @@
+DEF	The
+EXS	purchase
+EPS	brought
+HAS	his
+CON	bill
+REL	to
+QUC	100
+UOM	dollars
+NIL	.

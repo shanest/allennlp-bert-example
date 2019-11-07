@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	understand
+QUE	what
+HAS	's
+EXG	going
+REL	on
+NIL	.

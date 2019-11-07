@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+PST	had
+DIS	a
+QUC	million
+UOM	yen
+NIL	,
+QUE	what
+FUT	would
+PRO	you
+EXS	do
+REL	with
+PRO	it
+QUE	?

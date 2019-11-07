@@ -1,0 +1,12 @@
+NOT	No
+CON	one
+POS	can
+EXS	master
+ART	English
+IMP	if
+PRO	he
+NOW	does
+NOT	n't
+EXS	make
+CON	effort
+NIL	.

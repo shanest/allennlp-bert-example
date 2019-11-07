@@ -1,0 +1,12 @@
+PER	Tom
+EPS	bought
+DIS	a
+IST	new
+CON	camera
+AND	so
+PRO	he
+EPS	sold
+HAS	his
+IST	old
+CON	one
+NIL	.

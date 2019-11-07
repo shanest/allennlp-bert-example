@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+IST	able
+SUB	to
+EXS	swim
+REL	across
+DEF	the
+CON	river
+NIL	.

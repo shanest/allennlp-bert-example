@@ -1,0 +1,16 @@
+PRO	I
+NOW	'm
+EXS	sorry
+PRO	I
+PST	was
+NOT	n't
+IST	able
+SUB	to
+EXS	see
+PRO	you
+SUB	when
+PRO	you
+EPS	came
+REL	by
+NOW	today
+NIL	.

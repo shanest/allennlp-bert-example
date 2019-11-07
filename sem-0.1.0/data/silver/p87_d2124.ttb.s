@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+NOT	not
+DEF	the
+CON	sort
+PRO	I
+NOW	'm
+EXS	looking
+REL	for
+NIL	.

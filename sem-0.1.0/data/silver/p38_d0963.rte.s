@@ -1,0 +1,10 @@
+UNK	There
+NOW	is
+DIS	a
+IST	profitable
+CON	trade
+REL	between
+GPE	China
+AND	and
+GPE	India
+NIL	.

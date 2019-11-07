@@ -1,0 +1,13 @@
+SUB	When
+PRO	he
+EPS	opened
+DEF	the
+CON	door
+PRO	he
+PST	had
+NOT	nothing
+REL	on
+AND	but
+DEF	the
+CON	TV
+NIL	.

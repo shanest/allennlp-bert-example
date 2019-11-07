@@ -1,0 +1,9 @@
+PRO	I
+EPS	thought
+PER	Tom
+FUT	would
+EXS	make
+CON	snacks
+REL	for
+PRO	us
+NIL	.

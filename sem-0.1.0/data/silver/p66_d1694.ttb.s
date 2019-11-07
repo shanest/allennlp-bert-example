@@ -1,0 +1,10 @@
+HAS	My
+CON	fingers
+NOW	are
+IST	so
+CON	cold
+PRO	they
+NOW	have
+EXS	gone
+EXS	numb
+NIL	.

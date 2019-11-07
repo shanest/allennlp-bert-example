@@ -1,0 +1,9 @@
+PRO	She
+NOW	's
+EXS	going
+SUB	to
+EXS	have
+DIS	a
+CON	heart
+CON	attack
+NIL	.

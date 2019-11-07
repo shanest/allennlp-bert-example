@@ -1,0 +1,13 @@
+PRO	She
+EPS	hung
+DIS	a
+IST	little
+CON	Picasso
+REL	on
+DEF	the
+CON	wall
+AND	of
+DEF	the
+EXS	drawing
+CON	room
+NIL	.

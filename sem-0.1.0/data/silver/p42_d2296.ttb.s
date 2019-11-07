@@ -1,0 +1,11 @@
+PRO	I
+EPS	heard
+PRO	they
+EPS	found
+DIS	an
+CON	alien
+EXS	artifact
+REL	on
+DEF	the
+CON	moon
+NIL	.

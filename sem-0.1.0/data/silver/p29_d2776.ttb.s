@@ -1,0 +1,10 @@
+PRO	He
+ENS	thinks
+SUB	that
+IST	blue
+NOW	is
+DEF	the
+INT	most
+IST	beautiful
+CON	colour
+NIL	.

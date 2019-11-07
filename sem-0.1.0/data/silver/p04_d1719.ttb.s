@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+ENS	want
+SUB	to
+EXS	go
+EXS	grab
+DIS	a
+CON	bite
+DIS	somewhere
+QUE	?

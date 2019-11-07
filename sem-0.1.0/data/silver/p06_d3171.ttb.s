@@ -1,0 +1,10 @@
+EQU	Is
+HAS	my
+ROL	aunt
+HAS	's
+PST	ex
+ROL	husband
+HAS	my
+PST	ex
+ROL	uncle
+QUE	?

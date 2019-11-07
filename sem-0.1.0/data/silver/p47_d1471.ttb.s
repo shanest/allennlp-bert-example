@@ -1,0 +1,12 @@
+SUB	After
+EXS	killing
+PER	Tom
+NIL	,
+PER	Mary
+EPS	buried
+PRO	him
+REL	in
+DIS	a
+IST	shallow
+CON	grave
+NIL	.

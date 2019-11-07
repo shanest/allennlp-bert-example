@@ -1,0 +1,11 @@
+REL	In
+DST	that
+CON	time
+PRO	I
+NOW	've
+EXS	decided
+SUB	to
+EXS	quit
+HAS	my
+CON	job
+NIL	.

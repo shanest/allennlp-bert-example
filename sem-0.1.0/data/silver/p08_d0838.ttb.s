@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+IST	afraid
+PRO	he
+NOW	is
+EXS	going
+SUB	to
+EXS	spill
+DEF	the
+CON	beans
+NIL	.

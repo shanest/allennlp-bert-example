@@ -1,0 +1,10 @@
+EXS	Let
+PRO	's
+EPS	put
+AND	all
+DEF	the
+CON	cards
+REL	on
+DEF	the
+CON	table
+NIL	.

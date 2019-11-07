@@ -1,0 +1,10 @@
+POS	Perhaps
+PRO	you
+NOW	have
+EXS	misunderstood
+DEF	the
+CON	aim
+AND	of
+HAS	our
+CON	project
+NIL	.

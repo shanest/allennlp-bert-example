@@ -1,0 +1,11 @@
+QUE	Who
+ENS	's
+SUB	that
+EXS	cute
+CON	guy
+PRO	I
+EPS	saw
+PRO	you
+REL	with
+PST	yesterday
+QUE	?

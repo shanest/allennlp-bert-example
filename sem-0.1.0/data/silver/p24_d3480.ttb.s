@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	keep
+HAS	his
+CON	promise
+SUB	to
+EXS	help
+PER	Mary
+NIL	.

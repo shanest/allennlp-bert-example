@@ -1,0 +1,13 @@
+PRO	It
+NOW	is
+COM	easier
+SUB	to
+EXS	sympathize
+REL	with
+CON	sorrow
+AND	than
+REL	to
+EPS	sympathize
+REL	with
+CON	joy
+NIL	.

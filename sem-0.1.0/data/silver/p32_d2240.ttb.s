@@ -1,0 +1,16 @@
+PRO	I
+POS	can
+EXS	get
+PRO	us
+DIS	some
+CON	tickets
+REL	to
+PER	Tom
+HAS	's
+CON	concert
+IMP	if
+PRO	you
+ENS	want
+SUB	to
+EXS	go
+NIL	.

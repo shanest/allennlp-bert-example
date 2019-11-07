@@ -1,0 +1,10 @@
+AND	Why
+NOW	do
+PRO	you
+NOW	think
+PER	Tom
+ENS	likes
+CON	baseball
+AND	so
+QUV	much
+QUE	?

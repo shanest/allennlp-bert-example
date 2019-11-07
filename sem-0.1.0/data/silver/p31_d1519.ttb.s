@@ -1,0 +1,10 @@
+PRO	I
+EPS	told
+PRO	you
+QUE	what
+PRO	I
+PST	was
+EXS	going
+SUB	to
+EXS	do
+NIL	.

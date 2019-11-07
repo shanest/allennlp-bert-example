@@ -1,0 +1,9 @@
+DEF	The
+CON	infant
+NOW	has
+PFT	been
+EXS	exposed
+REL	to
+IST	radioactive
+CON	rays
+NIL	.

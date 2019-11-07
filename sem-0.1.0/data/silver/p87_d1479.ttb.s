@@ -1,0 +1,9 @@
+DEF	The
+CON	army
+EPS	abandoned
+DEF	the
+CON	town
+REL	to
+DEF	the
+ROL	enemy
+NIL	.

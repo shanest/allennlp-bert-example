@@ -1,0 +1,11 @@
+PRO	She
+EPS	had
+IST	enough
+CON	sense
+SUB	to
+EXS	understand
+QUE	what
+PRO	he
+IST	really
+EPS	meant
+NIL	.

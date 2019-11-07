@@ -1,0 +1,10 @@
+QUE	What
+NOW	is
+DEF	the
+IST	legal
+CON	age
+SUB	to
+EXS	vote
+REL	in
+GPE	Argentina
+QUE	?

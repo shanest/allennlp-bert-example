@@ -1,0 +1,9 @@
+POS	May
+PRO	I
+NOW	ask
+HAS	your
+IST	first
+AND	and
+IST	last
+CON	names
+QUE	?

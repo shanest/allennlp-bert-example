@@ -1,0 +1,10 @@
+NOW	Is
+PRO	it
+INT	too
+IST	late
+SUB	to
+EXS	say
+PRO	I
+NOW	'm
+EXS	sorry
+QUE	?

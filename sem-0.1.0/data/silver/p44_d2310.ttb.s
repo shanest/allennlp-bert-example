@@ -1,0 +1,14 @@
+NIL	"
+PRO	I
+NOW	'm
+EXS	going
+REL	to
+GPE	Hawaii
+AND	next
+CON	week
+NIL	.
+NIL	"
+NIL	"
+CON	Really
+QUE	?
+NIL	"

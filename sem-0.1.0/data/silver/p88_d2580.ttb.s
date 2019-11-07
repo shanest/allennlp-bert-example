@@ -1,0 +1,13 @@
+PRO	He
+ENS	writes
+DIS	a
+CON	letter
+AND	once
+REL	in
+DIS	a
+SUB	while
+BUT	but
+NOT	not
+IST	so
+IST	often
+NIL	.

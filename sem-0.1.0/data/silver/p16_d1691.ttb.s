@@ -1,0 +1,9 @@
+PRO	She
+NOW	is
+IST	happiest
+SUB	when
+PRO	she
+NOW	is
+REL	at
+CON	home
+NIL	.

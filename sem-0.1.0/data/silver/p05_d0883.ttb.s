@@ -1,0 +1,17 @@
+PRO	I
+POS	could
+NOT	n't
+EXS	take
+HAS	my
+CON	eyes
+REL	off
+AND	of
+PRO	you
+REL	from
+DEF	the
+CON	minute
+PRO	I
+EPS	entered
+PRX	this
+CON	room
+NIL	.

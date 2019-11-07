@@ -1,0 +1,13 @@
+NOT	Except
+REL	for
+PER	Tom
+NIL	,
+DEF	the
+CON	family
+PST	was
+AND	all
+EXG	watching
+CON	TV
+REL	in
+CON	silence
+NIL	.

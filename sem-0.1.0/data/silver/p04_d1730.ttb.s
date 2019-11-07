@@ -1,0 +1,11 @@
+PRO	It
+FUT	wo
+NOT	n't
+EXS	be
+IST	long
+REL	before
+DEF	the
+CON	trees
+NOW	are
+EXS	bare
+NIL	.

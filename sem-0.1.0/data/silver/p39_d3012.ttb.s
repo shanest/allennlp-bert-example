@@ -1,0 +1,9 @@
+PRO	We
+NOW	are
+EXS	tired
+AND	of
+EXS	being
+EXS	treated
+AND	like
+CON	children
+NIL	.

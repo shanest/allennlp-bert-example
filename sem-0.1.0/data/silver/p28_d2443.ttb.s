@@ -1,0 +1,13 @@
+PRO	I
+NEC	have
+SUB	to
+EXS	leave
+SUB	because
+UNK	there
+HAS	's
+DIS	someone
+EXS	waiting
+REL	for
+PRO	me
+AND	outside
+NIL	.

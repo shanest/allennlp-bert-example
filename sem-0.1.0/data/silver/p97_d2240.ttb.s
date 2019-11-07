@@ -1,0 +1,10 @@
+PRO	I
+ENS	wish
+PRO	you
+PST	had
+EXS	told
+PRO	me
+DEF	the
+CON	truth
+AND	then
+NIL	.

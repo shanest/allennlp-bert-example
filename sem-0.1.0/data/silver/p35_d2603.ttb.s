@@ -1,0 +1,9 @@
+QUE	What
+PRO	he
+NOW	's
+EXS	doing
+NOW	is
+AND	against
+DEF	the
+CON	law
+NIL	.

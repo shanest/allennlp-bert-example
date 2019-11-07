@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+DIS	a
+IST	good
+CON	friend
+AND	of
+HAS	yours
+NIL	,
+NOW	is
+NOT	n't
+PRO	he
+QUE	?

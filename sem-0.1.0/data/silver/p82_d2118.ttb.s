@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NEC	have
+SUB	to
+EXS	paint
+HAS	their
+CON	car
+NIL	.

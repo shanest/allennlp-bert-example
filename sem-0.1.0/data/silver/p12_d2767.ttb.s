@@ -1,0 +1,14 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	he
+PST	had
+EXS	finished
+DEF	the
+CON	work
+DIS	a
+IST	few
+CON	days
+PST	ago
+NIL	.

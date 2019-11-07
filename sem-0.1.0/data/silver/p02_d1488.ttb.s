@@ -1,0 +1,15 @@
+ROL	Millionaires
+ENS	have
+DIS	an
+MOR	easier
+CON	time
+EXS	getting
+EXS	elected
+REL	to
+IST	public
+CON	office
+AND	than
+DEF	the
+IST	average
+CON	person
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+IST	deeply
+EXS	saddened
+SUB	to
+EXS	know
+SUB	that
+HAS	your
+ROL	father
+NOW	has
+EXS	died
+NIL	.

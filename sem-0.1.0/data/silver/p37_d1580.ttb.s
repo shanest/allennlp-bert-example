@@ -1,0 +1,9 @@
+PRO	I
+EPS	forgot
+SUB	that
+PER	Tom
+PST	did
+NOT	n't
+EXS	speak
+GPO	French
+NIL	.

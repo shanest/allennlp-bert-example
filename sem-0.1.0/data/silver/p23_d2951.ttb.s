@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+SUB	where
+PRO	you
+NOW	're
+EXS	going
+NIL	.

@@ -1,0 +1,13 @@
+SUB	When
+PRO	we
+EPS	arrived
+REL	at
+DEF	the
+CON	stadium
+NIL	,
+DEF	the
+CON	game
+PST	had
+IST	already
+EXS	started
+NIL	.

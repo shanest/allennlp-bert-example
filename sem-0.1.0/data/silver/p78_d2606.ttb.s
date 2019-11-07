@@ -1,0 +1,15 @@
+SUB	As
+PRO	he
+POS	could
+NOT	n't
+EXS	take
+PRO	it
+AND	any
+IST	more
+NIL	,
+PRO	he
+EPS	took
+REL	to
+HAS	his
+CON	heels
+NIL	.

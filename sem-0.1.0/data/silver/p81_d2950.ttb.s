@@ -1,0 +1,12 @@
+PRO	We
+NOW	are
+EXS	becoming
+INT	very
+IST	aware
+AND	of
+DEF	the
+CON	dangers
+AND	of
+IST	secondhand
+CON	smoke
+NIL	.

@@ -1,0 +1,9 @@
+PRO	She
+EPS	saw
+QUV	many
+IST	terrible
+CON	things
+AND	during
+DEF	the
+CON	war
+NIL	.

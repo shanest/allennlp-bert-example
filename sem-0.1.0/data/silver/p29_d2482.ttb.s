@@ -1,0 +1,9 @@
+DST	That
+HAS	's
+QUE	what
+HAS	my
+CON	friends
+NOW	keep
+EXG	telling
+PRO	me
+NIL	.

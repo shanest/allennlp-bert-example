@@ -1,0 +1,9 @@
+PER	Tom
+EPS	ate
+AND	all
+HAS	his
+CON	meals
+REL	in
+HAS	his
+CON	room
+NIL	.

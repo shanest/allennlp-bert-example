@@ -1,0 +1,11 @@
+DEF	The
+ROL	vagabond
+NIL	,
+SUB	when
+EXS	rich
+NIL	,
+NOW	is
+EXS	called
+DIS	a
+CON	tourist
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+PRO	I
+NOW	think
+PRO	you
+NOW	're
+EXS	mistaken
+NIL	.

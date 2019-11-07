@@ -1,0 +1,10 @@
+PRO	I
+EPS	met
+PRO	him
+SUB	while
+PRO	I
+PST	was
+EXS	staying
+REL	in
+GEO	Paris
+NIL	.

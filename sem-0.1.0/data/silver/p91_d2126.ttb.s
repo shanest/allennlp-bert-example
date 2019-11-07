@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+NOT	n't
+EXS	spoken
+SUB	to
+PRO	me
+AND	about
+PRO	it
+ALT	yet
+NIL	.

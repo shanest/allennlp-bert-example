@@ -1,0 +1,11 @@
+PRO	I
+ENS	count
+REF	myself
+EXS	lucky
+SUB	to
+EXS	have
+AND	such
+DIS	a
+EXS	devoted
+CON	wife
+NIL	.

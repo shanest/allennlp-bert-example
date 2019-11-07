@@ -1,0 +1,11 @@
+PER	Tom
+PST	was
+EXS	wondering
+IMP	if
+PER	Mary
+FUT	would
+EXS	go
+IST	out
+REL	with
+PRO	him
+NIL	.

@@ -1,0 +1,9 @@
+PRO	She
+EPS	told
+PRO	me
+DIS	a
+IST	wrong
+CON	address
+REL	on
+CON	purpose
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+NOT	never
+EPS	told
+DIS	anyone
+IST	about
+QUE	what
+PRO	he
+PST	had
+EXS	done
+SUB	that
+CON	day
+NIL	.

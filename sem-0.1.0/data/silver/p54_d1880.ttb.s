@@ -1,0 +1,12 @@
+DEF	The
+CON	days
+NOW	are
+EXS	getting
+IST	noticeably
+MOR	shorter
+NOW	now
+SUB	that
+CON	autumn
+NOW	has
+EXS	arrived
+NIL	.

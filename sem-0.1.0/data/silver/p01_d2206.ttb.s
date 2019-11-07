@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	bought
+DIS	a
+IST	small
+CON	ranch
+AND	outside
+GEO	Boston
+NIL	.

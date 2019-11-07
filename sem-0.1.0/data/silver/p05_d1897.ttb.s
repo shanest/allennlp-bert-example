@@ -1,0 +1,9 @@
+DIS	A
+CON	cobbler
+NOW	is
+ALT	also
+EXS	known
+AND	as
+DIS	a
+CON	shoemaker
+NIL	.

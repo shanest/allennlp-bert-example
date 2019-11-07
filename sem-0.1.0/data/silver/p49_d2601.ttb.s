@@ -1,0 +1,9 @@
+PRO	She
+ENS	thinks
+AND	of
+HAS	her
+CON	boss
+AND	as
+DIS	a
+CON	father
+NIL	.

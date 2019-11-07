@@ -1,0 +1,10 @@
+QUE	Where
+FUT	will
+PRO	you
+EXS	be
+REL	on
+MOY	January
+DOM	1st
+NIL	,
+YOC	2016
+QUE	?

@@ -1,0 +1,12 @@
+PRO	She
+EPS	grew
+IST	up
+REL	near
+DEF	the
+CON	sea
+NIL	,
+COO	yet
+PRO	she
+ENS	hates
+EXG	swimming
+NIL	.

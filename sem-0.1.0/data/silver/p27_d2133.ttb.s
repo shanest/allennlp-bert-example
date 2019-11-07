@@ -1,0 +1,13 @@
+PER	Tom
+EPS	said
+SUB	that
+PRO	he
+PST	'd
+NOT	never
+EXS	eaten
+AND	such
+DIS	a
+IST	delicious
+CON	meal
+REL	before
+NIL	.

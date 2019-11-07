@@ -1,0 +1,14 @@
+REL	In
+QUV	many
+CON	countries
+PRO	it
+NOW	is
+EXS	normal
+REL	for
+AND	all
+CON	television
+CON	programmes
+SUB	to
+EXS	have
+CON	subtitles
+NIL	.

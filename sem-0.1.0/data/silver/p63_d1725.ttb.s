@@ -1,0 +1,14 @@
+PRO	I
+EPS	took
+DEF	the
+CON	word
+NIL	,
+SUB	because
+PRO	I
+POS	could
+NOT	no
+IST	longer
+EXS	hold
+HAS	my
+CON	silence
+NIL	.

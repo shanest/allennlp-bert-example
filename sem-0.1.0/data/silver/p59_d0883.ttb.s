@@ -1,0 +1,17 @@
+IMP	If
+CON	ifs
+AND	and
+NIL	buts
+PST	were
+CON	candy
+AND	and
+CON	nuts
+NIL	,
+PRO	we
+FUT	'd
+AND	all
+EXS	have
+DIS	a
+IST	merry
+TIM	Christmas
+NIL	.

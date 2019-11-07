@@ -1,0 +1,11 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	forget
+PER	Mary
+IST	even
+IMP	if
+PRO	he
+EPS	wanted
+SUB	to
+NIL	.

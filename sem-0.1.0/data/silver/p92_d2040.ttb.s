@@ -1,0 +1,12 @@
+PRO	I
+PST	was
+EXS	looking
+REL	for
+PER	Tom
+NIL	,
+COO	but
+PRO	he
+EPS	found
+PRO	me
+IST	first
+NIL	.

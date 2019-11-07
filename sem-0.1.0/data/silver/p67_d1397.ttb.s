@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+REL	in
+CON	trouble
+IMP	if
+PRO	you
+EPS	ate
+SUB	that
+CON	cake
+NIL	!

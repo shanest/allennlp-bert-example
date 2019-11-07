@@ -1,0 +1,15 @@
+IMP	If
+PRO	it
+PST	were
+NOT	not
+REL	for
+CON	plants
+NIL	,
+PRO	we
+FUT	would
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	live
+NIL	.

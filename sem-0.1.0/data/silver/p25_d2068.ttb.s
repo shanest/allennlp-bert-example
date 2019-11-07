@@ -1,0 +1,17 @@
+PER	Tom
+NOW	is
+DIS	a
+CON	bogeyman
+NIL	.
+IMP	If
+PRO	he
+ENS	allows
+REF	himself
+SUB	to
+EXS	be
+EXS	seen
+NIL	,
+AND	everyone
+NOW	takes
+CON	flight
+NIL	.

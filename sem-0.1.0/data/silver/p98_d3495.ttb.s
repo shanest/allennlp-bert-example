@@ -1,0 +1,13 @@
+AND	As
+REL	for
+CON	living
+REL	in
+GPE	Japan
+NIL	,
+PRO	I
+NOW	have
+NOT	nothing
+SUB	to
+EXS	complain
+IST	about
+NIL	.

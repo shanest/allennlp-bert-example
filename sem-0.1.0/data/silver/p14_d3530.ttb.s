@@ -1,0 +1,9 @@
+PRO	It
+EPS	was
+DST	that
+CON	dog
+AND	that
+EPS	bit
+HAS	my
+CON	hand
+NIL	.

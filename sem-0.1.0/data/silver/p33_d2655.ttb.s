@@ -1,0 +1,16 @@
+PER	Tom
+ENS	says
+PER	Mary
+NOW	does
+NOT	n't
+NEC	have
+SUB	to
+EXS	stay
+PRX	here
+IMP	if
+PRO	she
+NOW	does
+NOT	n't
+EXS	want
+SUB	to
+NIL	.

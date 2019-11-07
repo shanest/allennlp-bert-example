@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+NOT	not
+IST	quite
+AND	as
+IST	difficult
+SUB	to
+EXS	do
+SUB	as
+PRO	it
+ENS	sounds
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXS	supposed
+SUB	to
+EXS	help
+PER	Mary
+NOW	do
+DEF	the
+CON	laundry
+NIL	.

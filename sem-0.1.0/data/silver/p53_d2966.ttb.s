@@ -1,0 +1,12 @@
+NOT	Not
+XCL	only
+DEF	the
+CON	students
+AND	but
+ALT	also
+HAS	their
+CON	teacher
+ENS	wishes
+REL	for
+CON	holidays
+NIL	.

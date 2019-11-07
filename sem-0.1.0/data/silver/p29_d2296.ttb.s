@@ -1,0 +1,14 @@
+PRO	I
+NOW	think
+PRO	she
+IST	probably
+IST	just
+ENS	thinks
+AND	of
+REF	herself
+AND	as
+QUC	one
+AND	of
+DEF	the
+CON	boys
+NIL	.

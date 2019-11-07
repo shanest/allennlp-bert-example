@@ -1,0 +1,10 @@
+PER	Tom
+EPS	saw
+DIS	some
+IST	dead
+CON	fish
+EXG	floating
+REL	on
+DEF	the
+CON	lake
+NIL	.

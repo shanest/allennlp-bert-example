@@ -1,0 +1,17 @@
+IMP	If
+PRO	I
+ENS	go
+REL	to
+GPE	China
+NIL	,
+PRO	it
+FUT	'd
+EXS	be
+SUB	to
+EXS	speak
+GPO	Chinese
+AND	as
+QUC	much
+AND	as
+EXS	possible
+NIL	.

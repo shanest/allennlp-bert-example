@@ -1,0 +1,10 @@
+DEF	The
+CON	person
+AND	who
+EPS	shot
+PER	JFK
+EPS	worked
+REL	for
+DEF	the
+ORG	CIA
+NIL	.

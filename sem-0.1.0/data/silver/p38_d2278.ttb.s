@@ -1,0 +1,9 @@
+PER	Tom
+EPS	threw
+PER	Mary
+HAS	's
+CON	letter
+REL	into
+DEF	the
+CON	fire
+NIL	.

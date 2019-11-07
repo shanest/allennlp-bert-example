@@ -1,0 +1,14 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	do
+PRO	it
+NIL	,
+COO	so
+PRO	he
+EPS	asked
+PER	Mary
+SUB	to
+EXS	help
+PRO	him
+NIL	.

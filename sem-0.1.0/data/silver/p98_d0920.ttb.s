@@ -1,0 +1,16 @@
+PRO	I
+EPS	read
+SUB	that
+DEF	the
+ROL	president
+REL	of
+GPE	Brazil
+NOW	is
+DIS	a
+CON	woman
+NIL	.
+PRO	She
+HAS	's
+EPS	called
+LIT	Dilma
+NIL	.

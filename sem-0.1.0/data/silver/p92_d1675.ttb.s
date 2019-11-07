@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	intend
+SUB	to
+EXS	let
+PER	Mary
+EXS	kiss
+PRO	him
+NIL	.

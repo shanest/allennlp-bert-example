@@ -1,0 +1,10 @@
+PRO	I
+NOW	find
+PRO	it
+INT	very
+EXS	boring
+SUB	to
+EXS	learn
+IST	irregular
+CON	verbs
+NIL	.

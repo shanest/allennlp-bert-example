@@ -1,0 +1,10 @@
+QUE	What
+PST	were
+PER	Tom
+AND	and
+PER	Mary
+EXS	doing
+REL	at
+DEF	the
+CON	hospital
+QUE	?

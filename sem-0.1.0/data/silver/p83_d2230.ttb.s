@@ -1,0 +1,10 @@
+AND	Add
+DEF	the
+CON	sugar
+AND	and
+CON	eggs
+NIL	,
+COO	and
+EPS	beat
+IST	well
+NIL	.

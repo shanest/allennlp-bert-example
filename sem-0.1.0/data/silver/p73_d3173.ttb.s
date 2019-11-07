@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXS	sitting
+IST	together
+REL	at
+DEF	the
+CON	bar
+NIL	.

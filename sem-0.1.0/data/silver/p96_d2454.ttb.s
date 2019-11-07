@@ -1,0 +1,11 @@
+PRO	She
+ENS	knows
+QUE	what
+PRO	she
+ENS	wants
+NIL	,
+DST	that
+HAS	's
+QUE	what
+CON	matters
+NIL	.

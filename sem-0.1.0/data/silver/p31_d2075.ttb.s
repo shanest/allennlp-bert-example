@@ -1,0 +1,11 @@
+DEF	The
+CON	player
+EPS	won
+DEF	the
+CON	championship
+QUC	three
+CON	times
+REL	in
+DIS	a
+CON	row
+NIL	.
