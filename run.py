@@ -88,7 +88,7 @@ if __name__ == '__main__':
 
     iterator = BucketIterator(
         sorting_keys=[("model_sentence", "num_tokens")],
-        batch_size=8)
+        batch_size=32)
     iterator.index_with(data_vocab)
 
     trainer = Trainer(model=tagger,
