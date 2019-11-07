@@ -54,14 +54,12 @@ def set_seed(seed):
     torch.manual_seed(seed)
     np.random.seed(seed)
 
-# TODO: commit to span representation??
 # see https://github.com/google-research/bert#tokenization
 def token_alignment(
     data_tokens: Union[List[str], List[Token]],
     model_tokenizer: Tokenizer,
     start_tokens: List[str] = None,
     end_tokens: List[str] = None,
-    spans: bool = False
 ) -> Tuple[List[Token], List[int]]:
     """Aligns word tokens (data_tokens), with sub-word tokens.
 
@@ -71,12 +69,8 @@ def token_alignment(
     This method returns:
     (a) the tokens produced by model_tokenizer
         with optional start_tokens (e.g. [CLS]) and end tokens (e.g. [SEP])
-    (b) a list of either
-        indices: which position in the list of sub-word tokens
-            corresponds to each original Token in data_tokens.
-        or (if spans=True)
-        spans: pairs of (start, inclusive-end) for which spans of sub-words correspond
-            to the words
+    (b) a list of spans: pairs of (start, inclusive-end) for which spans of sub-words
+        correspond to the words
     """
     model_tokens = []
     data_to_model_map = []
@@ -93,10 +87,9 @@ def token_alignment(
             token = token.text
         model_tokens.extend(model_tokenizer.tokenize(token))
 
-    if spans:
-        data_to_model_map.append(len(model_tokens))
-        data_to_model_map = [(data_to_model_map[i], data_to_model_map[i+1]-1)
-                             for i in range(len(data_to_model_map)-1)]
+    data_to_model_map.append(len(model_tokens))
+    data_to_model_map = [(data_to_model_map[i], data_to_model_map[i+1]-1)
+                         for i in range(len(data_to_model_map)-1)]
 
     if end_tokens:
         model_tokens.extend([Token(t) for t in end_tokens])
@@ -122,7 +115,6 @@ class SemTagDatasetReader(DatasetReader):
         start_tokens: List[str] = None,
         end_tokens: List[str] = None,
         token_indexers: Dict[str, TokenIndexer] = None,
-        spans: bool = False
     ) -> None:
         super().__init__(lazy=False)
         self.model_tokenizer = model_tokenizer
@@ -131,10 +123,9 @@ class SemTagDatasetReader(DatasetReader):
         self.token_indexers = (token_indexers or
                                # if none passed:
                                {"tokens": SingleIdTokenIndexer()})
-        self.spans = spans
 
     def text_to_instance(
-        self, strings: List[str], tags: List[str] = None, spans: bool = False
+        self, strings: List[str], tags: List[str] = None
     ) -> Instance:
 
         data_tokens = [Token(string) for string in strings]
@@ -144,17 +135,13 @@ class SemTagDatasetReader(DatasetReader):
 
         model_tokens, data_to_model_map = token_alignment(
             data_tokens, self.model_tokenizer,
-            self.start_tokens, self.end_tokens, spans)
+            self.start_tokens, self.end_tokens)
 
         model_sentence = TextField(model_tokens, self.token_indexers)
         fields["model_sentence"] = model_sentence
-        # TODO(sst): is ArrayField the right choice here, or List of Index? or
-        # SpanField?
-        fields["data_to_model_indices"] = (
-            ArrayField(np.array(data_to_model_map)) if not spans else
-            ListField([SpanField(span[0], span[1], model_sentence)
-                       for span in data_to_model_map])
-        )
+        fields["data_to_model_spans"] = (ListField(
+            [SpanField(span[0], span[1], model_sentence)
+             for span in data_to_model_map]))
 
         if tags:
             # labels has same length as data_tokens
@@ -170,7 +157,7 @@ class SemTagDatasetReader(DatasetReader):
                 lines = f.readlines()
             pairs = [line.strip().split('\t') for line in lines]
             tags, sentence = zip(*pairs)
-            yield self.text_to_instance(sentence, tags, self.spans)
+            yield self.text_to_instance(sentence, tags)
 
 
 class EncoderSpanExtractor(SpanExtractor):
@@ -221,7 +208,7 @@ class Tagger(Model):
                 data_sentence: Dict[str, torch.Tensor],
                 model_sentence: Dict[str, torch.Tensor],
                 # TODO: change name to spans
-                data_to_model_indices: torch.Tensor,
+                data_to_model_spans: torch.Tensor,
                 labels: torch.Tensor = None) -> Dict[str, torch.Tensor]:
 
         # (batch_size, max_subword_seq_len, embedding_dim)
@@ -232,7 +219,7 @@ class Tagger(Model):
 
         # (batch_size, max_word_seq_len, embedding_dim)
         word_embeddings = self.subword_aggregator(
-            subword_embeddings, data_to_model_indices,
+            subword_embeddings, data_to_model_spans,
             # spans correspond to words, so the valid spans have the same
             # indices as the valid words
             span_indices_mask=word_mask)
@@ -268,13 +255,12 @@ if __name__ == '__main__':
     tokenizer._end_tokens = []
 
     token_indexer = PretrainedTransformerIndexer(
-        model_name="bert-base-uncased",
+        model_name="bert-base-cased",
         do_lowercase=uncased)
 
     reader = SemTagDatasetReader(
         tokenizer, start_tokens, end_tokens,
-        {"model_tokens": token_indexer},
-        spans=True)
+        {"model_tokens": token_indexer})
     entire_dataset = reader.read('sem-0.1.0/data/gold')
 
     # NOTE: PretrainedTransformerIndexer does not implement the
@@ -298,7 +284,7 @@ if __name__ == '__main__':
 
     # represent a word by the first sub-word token
     word_first_token_extractor = EndpointSpanExtractor(
-        bert_token_embedder.get_output_dim(), combination='x')
+        bert_token_embedder.get_output_dim(), combination='x,y')
 
     tagger = Tagger(bert_textfield_embedder,
                     word_first_token_extractor,
