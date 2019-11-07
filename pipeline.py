@@ -46,8 +46,6 @@ from allennlp.nn.util import \
 from allennlp.training.trainer import Trainer
 from allennlp.training.metrics import CategoricalAccuracy
 
-# TODO: make repo
-
 # TODO: separate into files
 
 def set_seed(seed):
@@ -97,6 +95,7 @@ def token_alignment(
     return model_tokens, data_to_model_map
 
 
+# TODO: abstract out the word->subword span logic?
 class SemTagDatasetReader(DatasetReader):
     """
     DatasetReader for Semantic Tagging dataset: https://pmb.let.rug.nl/data.php
@@ -112,32 +111,34 @@ class SemTagDatasetReader(DatasetReader):
     def __init__(
         self,
         model_tokenizer: Tokenizer,
+        model_token_indexers: Dict[str, TokenIndexer],
         start_tokens: List[str] = None,
         end_tokens: List[str] = None,
-        token_indexers: Dict[str, TokenIndexer] = None,
+        # TODO: replace with model and data indexer?
+        data_token_indexers: Dict[str, TokenIndexer] = None,
     ) -> None:
         super().__init__(lazy=False)
         self.model_tokenizer = model_tokenizer
         self.start_tokens = start_tokens
         self.end_tokens = end_tokens
-        self.token_indexers = (token_indexers or
-                               # if none passed:
-                               {"tokens": SingleIdTokenIndexer()})
+        self.model_token_indexers = model_token_indexers
+        self.data_token_indexers = (data_token_indexers or
+                                    # if none passed:
+                                    {"data_tokens": SingleIdTokenIndexer()})
 
     def text_to_instance(
         self, strings: List[str], tags: List[str] = None
     ) -> Instance:
 
         data_tokens = [Token(string) for string in strings]
-        data_sentence = TextField(data_tokens,
-                                  {"data_tokens": SingleIdTokenIndexer()})
+        data_sentence = TextField(data_tokens, self.data_token_indexers)
         fields = {"data_sentence": data_sentence}
 
         model_tokens, data_to_model_map = token_alignment(
             data_tokens, self.model_tokenizer,
             self.start_tokens, self.end_tokens)
 
-        model_sentence = TextField(model_tokens, self.token_indexers)
+        model_sentence = TextField(model_tokens, self.model_token_indexers)
         fields["model_sentence"] = model_sentence
         fields["data_to_model_spans"] = (ListField(
             [SpanField(span[0], span[1], model_sentence)
@@ -207,7 +208,6 @@ class Tagger(Model):
     def forward(self,
                 data_sentence: Dict[str, torch.Tensor],
                 model_sentence: Dict[str, torch.Tensor],
-                # TODO: change name to spans
                 data_to_model_spans: torch.Tensor,
                 labels: torch.Tensor = None) -> Dict[str, torch.Tensor]:
 
@@ -259,8 +259,8 @@ if __name__ == '__main__':
         do_lowercase=uncased)
 
     reader = SemTagDatasetReader(
-        tokenizer, start_tokens, end_tokens,
-        {"model_tokens": token_indexer})
+        tokenizer, {"model_tokens": token_indexer},
+        start_tokens, end_tokens)
     entire_dataset = reader.read('sem-0.1.0/data/gold')
 
     # NOTE: PretrainedTransformerIndexer does not implement the
