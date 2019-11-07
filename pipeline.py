@@ -5,7 +5,7 @@ import glob
 
 import numpy as np
 import torch
-# import torch.nn
+import torch.optim as optim
 
 from allennlp.data import Instance
 from allennlp.data.fields \
@@ -301,14 +301,25 @@ if __name__ == '__main__':
                     word_first_token_extractor,
                     data_vocab)
 
-    # iterator = BucketIterator(sorting_keys=[("model_sentence", "num_tokens")], batch_size=8)
-    iterator = BasicIterator(batch_size=8)
+    iterator = BucketIterator(sorting_keys=[("model_sentence", "num_tokens")], batch_size=8)
+    # iterator = BasicIterator(batch_size=8)
     vocab = Vocabulary()
     iterator.index_with(data_vocab)
 
+    """
     batch = next(iter(iterator(train_dataset, shuffle=False)))
     print(batch)
     print(tagger(**batch))
+    """
+    trainer = Trainer(model=tagger,
+                      optimizer=optim.Adam(tagger.parameters()),
+                      serialization_dir='./test',
+                      iterator=iterator,
+                      train_dataset=train_dataset,
+                      validation_dataset=dev_dataset,
+                      patience=5,
+                      num_epochs=30)
+    trainer.train()
 
     # TODO: build a trainer!
 
