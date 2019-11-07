@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	know
-DIS	anything
-REL	about
-HAS	their
-CON	relationship
-NIL	.

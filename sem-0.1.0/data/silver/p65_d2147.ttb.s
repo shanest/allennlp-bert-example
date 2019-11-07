@@ -1,9 +1,0 @@
-PRO	I
-EPS	started
-EXS	studying
-GPO	French
-SUB	when
-PRO	I
-PST	was
-QUC	thirteen
-NIL	.

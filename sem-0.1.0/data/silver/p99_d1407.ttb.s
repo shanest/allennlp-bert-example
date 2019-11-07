@@ -1,9 +1,0 @@
-PRO	You
-PST	had
-PFT	been
-EXS	smoking
-NIL	,
-PST	had
-NOT	n't
-PRO	you
-QUE	?

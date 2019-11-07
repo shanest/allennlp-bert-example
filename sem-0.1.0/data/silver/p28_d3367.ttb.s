@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-REL	in
-DEF	the
-IST	same
-CON	hospital
-AND	as
-PER	Mary
-NIL	.

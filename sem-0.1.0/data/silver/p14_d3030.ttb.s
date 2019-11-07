@@ -1,9 +1,0 @@
-PRO	He
-NOW	has
-PFT	been
-EXG	playing
-CON	tennis
-REL	since
-PRX	this
-CON	morning
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-EPS	rinsed
-DEF	the
-CON	shampoo
-AND	out
-AND	of
-HAS	his
-CON	hair
-NIL	.

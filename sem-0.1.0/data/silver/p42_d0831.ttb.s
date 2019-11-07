@@ -1,9 +1,0 @@
-POS	May
-PRO	I
-NOW	see
-HAS	your
-EXS	boarding
-EXS	pass
-NIL	,
-IST	please
-QUE	?

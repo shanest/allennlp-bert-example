@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-EXS	impossible
-SUB	that
-PRO	she
-EPS	knew
-AND	about
-PRO	it
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-EPS	chose
-DIS	a
-CON	place
-SUB	to
-EXS	pitch
-HAS	my
-CON	tent
-NIL	.

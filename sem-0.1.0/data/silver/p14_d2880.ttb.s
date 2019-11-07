@@ -1,9 +1,0 @@
-PER	Tom
-ENS	seems
-IST	terribly
-CON	distraught
-NIL	,
-NOW	does
-NOT	n't
-PRO	he
-QUE	?

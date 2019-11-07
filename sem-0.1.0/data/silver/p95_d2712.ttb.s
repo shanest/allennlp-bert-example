@@ -1,9 +1,0 @@
-PRO	You
-NOW	pay
-PER	Tom
-IST	well
-NIL	,
-NOW	do
-NOT	n't
-PRO	you
-QUE	?

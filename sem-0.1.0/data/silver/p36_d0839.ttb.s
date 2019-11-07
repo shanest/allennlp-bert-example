@@ -1,9 +1,0 @@
-PRO	He
-EPS	got
-DIS	an
-IST	important
-CON	position
-REL	in
-DEF	the
-CON	company
-NIL	.

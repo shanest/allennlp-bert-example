@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	bored
-NIL	.
-EXS	Let
-PRO	's
-NOW	do
-DIS	something
-NIL	.

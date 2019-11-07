@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-INT	very
-IST	smart
-AND	and
-ALT	yet
-NOT	not
-EXS	arrogant
-NIL	.

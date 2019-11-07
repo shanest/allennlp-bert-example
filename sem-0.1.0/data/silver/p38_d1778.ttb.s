@@ -1,9 +1,0 @@
-PRO	You
-NOW	're
-NOT	not
-EXS	supposed
-SUB	to
-EXS	be
-PRX	here
-NOW	now
-NIL	.

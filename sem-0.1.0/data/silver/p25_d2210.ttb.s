@@ -1,9 +1,0 @@
-QUE	What
-PER	Tom
-ENS	says
-NOW	is
-INT	too
-IST	deep
-REL	for
-PRO	me
-NIL	.

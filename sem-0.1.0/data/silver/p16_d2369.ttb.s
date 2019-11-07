@@ -1,9 +1,0 @@
-NOT	No
-CON	one
-POS	can
-EXS	understand
-QUE	how
-DEF	the
-CON	accident
-EPS	happened
-NIL	.

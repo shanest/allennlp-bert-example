@@ -1,9 +1,0 @@
-PRO	You
-NOW	've
-EXS	got
-IST	dark
-CON	circles
-REL	under
-HAS	your
-CON	eyes
-NIL	.

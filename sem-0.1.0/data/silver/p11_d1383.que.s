@@ -1,9 +1,0 @@
-AND	How
-IST	far
-IST	away
-REL	from
-DEF	the
-CON	sun
-NOW	is
-GEO	Saturn
-QUE	?

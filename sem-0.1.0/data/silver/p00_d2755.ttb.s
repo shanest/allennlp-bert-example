@@ -1,9 +1,0 @@
-HAS	My
-ROL	father
-NOW	is
-IST	out
-REL	in
-DEF	the
-CON	garden
-NOW	now
-NIL	.

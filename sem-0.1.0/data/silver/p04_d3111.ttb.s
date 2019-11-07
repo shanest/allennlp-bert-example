@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-ENS	know
-PER	Tom
-HAS	's
-CON	girlfriend
-HAS	's
-CON	name
-QUE	?

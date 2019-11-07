@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-PRO	you
-NOW	think
-PRX	this
-NOW	is
-INT	too
-EXS	expensive
-NIL	.

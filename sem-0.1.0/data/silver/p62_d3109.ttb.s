@@ -1,9 +1,0 @@
-DIS	A
-EXS	truthful
-ROL	politician
-QUE	?
-EXS	Pull
-DEF	the
-ALT	other
-QUC	one
-NIL	!

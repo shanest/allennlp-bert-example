@@ -1,9 +1,0 @@
-AND	Every
-CON	man
-POS	can
-NOT	not
-EQU	be
-DIS	a
-IST	good
-ROL	pianist
-NIL	.

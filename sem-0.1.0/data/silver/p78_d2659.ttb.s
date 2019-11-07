@@ -1,9 +1,0 @@
-DEF	The
-IST	old
-CON	man
-EPS	escaped
-REL	from
-DEF	the
-CON	nursing
-CON	home
-NIL	.

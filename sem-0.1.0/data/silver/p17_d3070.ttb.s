@@ -1,9 +1,0 @@
-DIS	A
-CON	storm
-EPS	kept
-DEF	the
-CON	ship
-REL	from
-EXG	leaving
-GPE	Kobe
-NIL	.

@@ -1,9 +1,0 @@
-DEF	The
-CON	institution
-PST	was
-EXS	established
-REL	in
-DEF	the
-IST	late
-DEC	1960s
-NIL	.

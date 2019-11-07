@@ -1,9 +1,0 @@
-ITJ	Oh
-NIL	,
-QUE	what
-QUE	?
-PRO	You
-NOW	do
-NOT	n't
-EXS	know
-QUE	?

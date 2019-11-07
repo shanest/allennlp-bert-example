@@ -1,9 +1,0 @@
-EXS	Did
-PRO	you
-ENS	know
-PER	Tom
-PST	was
-EXS	writing
-DIS	a
-CON	novel
-QUE	?

@@ -1,9 +1,0 @@
-PRO	I
-NOW	feel
-EXS	uneasy
-REL	in
-HAS	my
-ROL	father
-HAS	's
-CON	presence
-NIL	.

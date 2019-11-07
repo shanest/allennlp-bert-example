@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-IST	still
-EXS	waiting
-SUB	to
-EXS	hear
-REL	from
-PER	Tom
-NIL	.

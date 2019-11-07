@@ -1,9 +1,0 @@
-PRO	She
-HAS	's
-DEF	the
-XCL	sole
-CON	breadwinner
-REL	for
-DEF	the
-CON	family
-NIL	.

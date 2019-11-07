@@ -1,9 +1,0 @@
-PER	Tom
-EPS	inherited
-AND	all
-AND	of
-HAS	his
-ROL	father
-HAS	's
-CON	property
-NIL	.

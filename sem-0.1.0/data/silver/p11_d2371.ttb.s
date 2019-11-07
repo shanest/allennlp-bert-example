@@ -1,9 +1,0 @@
-DEF	The
-CON	climber
-EPS	stayed
-CON	alert
-SUB	while
-EXG	climbing
-DEF	the
-CON	precipice
-NIL	.

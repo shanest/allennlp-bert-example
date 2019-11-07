@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-DIS	a
-CON	shadow
-EXS	move
-AND	behind
-DST	that
-CON	tree
-NIL	!

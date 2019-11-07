@@ -1,9 +1,0 @@
-PER	Tom
-EPS	saw
-DEF	the
-CON	tears
-REL	in
-PER	Mary
-HAS	's
-CON	eyes
-NIL	.

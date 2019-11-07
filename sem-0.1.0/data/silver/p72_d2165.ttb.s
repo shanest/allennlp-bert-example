@@ -1,9 +1,0 @@
-GPE	Lithuania
-NOW	is
-EXS	called
-NIL	"
-GEO	Lietuva
-NIL	"
-REL	in
-GPO	Lithuanian
-NIL	.

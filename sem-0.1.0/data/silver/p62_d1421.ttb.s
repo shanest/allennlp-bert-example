@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-EXS	important
-SUB	to
-EXS	care
-REL	for
-QUC	one
-ALT	another
-NIL	.

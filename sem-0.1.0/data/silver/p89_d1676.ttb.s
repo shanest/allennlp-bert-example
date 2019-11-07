@@ -1,9 +1,0 @@
-PRO	She
-FUT	will
-EXS	be
-IST	able
-SUB	to
-EXS	answer
-HAS	your
-CON	question
-NIL	.

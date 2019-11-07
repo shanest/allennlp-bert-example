@@ -1,9 +1,0 @@
-PRO	He
-PST	was
-INT	very
-EXS	pleased
-SUB	when
-PRO	he
-EPS	saw
-PRO	him
-NIL	.

@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-IST	up
-SUB	to
-PRO	us
-SUB	to
-EXS	do
-PRO	it
-NIL	.

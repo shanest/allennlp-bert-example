@@ -1,9 +1,0 @@
-HAS	His
-CON	teeth
-NOW	are
-COL	yellow
-REL	from
-CON	smoking
-INT	too
-QUC	much
-NIL	.

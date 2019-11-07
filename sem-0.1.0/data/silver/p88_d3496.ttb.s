@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-IST	sure
-AND	everything
-FUT	will
-EXS	be
-EXS	OK
-NOW	now
-NIL	.

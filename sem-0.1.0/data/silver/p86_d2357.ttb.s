@@ -1,9 +1,0 @@
-PRO	I
-FUT	'd
-EXS	like
-SUB	to
-EXS	ask
-PRO	you
-AND	about
-PER	Tom
-NIL	.

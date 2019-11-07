@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-PRO	she
-ENS	's
-REL	in
-DEF	the
-CON	church
-QUE	?

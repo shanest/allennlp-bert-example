@@ -1,9 +1,0 @@
-PRO	He
-ENS	loves
-PRO	you
-NIL	.
-PRO	I
-ENS	know
-PRO	he
-NOW	does
-NIL	.

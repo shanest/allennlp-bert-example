@@ -1,9 +1,0 @@
-PRO	He
-PST	was
-EXS	arrested
-SUB	because
-PRO	he
-EPS	stole
-DEF	the
-CON	money
-NIL	.

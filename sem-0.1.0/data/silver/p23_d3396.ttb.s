@@ -1,9 +1,0 @@
-PRO	We
-EPS	made
-QUV	much
-CON	effort
-SUB	to
-EXS	build
-DEF	the
-CON	boat
-NIL	.

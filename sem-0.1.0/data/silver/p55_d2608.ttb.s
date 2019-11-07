@@ -1,9 +1,0 @@
-AND	Calm
-IST	down
-COO	;
-PRO	he
-NOW	's
-IST	just
-EXS	teasing
-PRO	you
-NIL	.

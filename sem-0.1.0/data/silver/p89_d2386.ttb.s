@@ -1,9 +1,0 @@
-PRO	They
-NOW	've
-EXS	lost
-DEF	the
-CON	key
-REL	to
-DEF	the
-CON	drawer
-NIL	.

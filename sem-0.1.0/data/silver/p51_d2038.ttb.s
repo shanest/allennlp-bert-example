@@ -1,9 +1,0 @@
-DIS	Someone
-REL	in
-PRX	this
-CON	room
-ENS	needs
-DIS	a
-IST	good
-CON	deodorant
-NIL	.

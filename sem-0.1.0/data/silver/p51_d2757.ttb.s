@@ -1,9 +1,0 @@
-PER	Tom
-EPS	meant
-SUB	to
-EXS	tell
-PER	Mary
-AND	about
-DEF	the
-CON	party
-NIL	.

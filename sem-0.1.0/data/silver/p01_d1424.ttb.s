@@ -1,9 +1,0 @@
-NIL	There
-ENS	seems
-NIL	to
-EXS	be
-NOT	no
-EXS	need
-NIL	to
-EXS	go
-NIL	.

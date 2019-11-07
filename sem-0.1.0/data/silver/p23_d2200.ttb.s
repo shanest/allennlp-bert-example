@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	got
-SUB	to
-EXS	be
-DIS	somewhere
-REL	at
-CLO	2:30
-NIL	.

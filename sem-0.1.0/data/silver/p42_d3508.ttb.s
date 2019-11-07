@@ -1,9 +1,0 @@
-DEF	The
-CON	storm
-EPS	did
-IST	great
-CON	damage
-REL	to
-HAS	her
-CON	property
-NIL	.

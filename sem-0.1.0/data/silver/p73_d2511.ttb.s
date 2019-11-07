@@ -1,9 +1,0 @@
-PER	Tom
-EPS	gave
-PRO	me
-QUC	three
-IST	good
-CON	pieces
-AND	of
-CON	advice
-NIL	.

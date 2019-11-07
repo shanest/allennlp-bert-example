@@ -1,9 +1,0 @@
-PER	Tom
-EPS	put
-DIS	an
-CON	envelope
-REL	on
-PER	Mary
-HAS	's
-CON	desk
-NIL	.

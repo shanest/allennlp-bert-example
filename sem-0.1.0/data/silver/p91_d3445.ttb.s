@@ -1,9 +1,0 @@
-PRO	She
-PST	had
-NOT	never
-EXS	dreamed
-AND	of
-CON	meeting
-PRO	him
-IST	abroad
-NIL	.

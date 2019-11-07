@@ -1,9 +1,0 @@
-PRO	I
-NOW	hope
-UNK	there
-PST	were
-NOT	n't
-INT	too
-QUC	many
-CON	mistakes
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-PST	were
-AND	among
-DEF	the
-IST	new
-CON	arrivals
-NIL	.

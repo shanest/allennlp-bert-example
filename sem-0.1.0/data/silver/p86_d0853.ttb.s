@@ -1,9 +1,0 @@
-PRO	It
-EPS	became
-CON	colder
-AND	as
-DEF	the
-CON	night
-EPS	wore
-REL	on
-NIL	.

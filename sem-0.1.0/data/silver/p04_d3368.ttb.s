@@ -1,9 +1,0 @@
-AND	Would
-PRO	you
-ENS	like
-SUB	to
-EXS	play
-CON	tennis
-REL	on
-DOW	Sunday
-QUE	?

@@ -1,9 +1,0 @@
-PER	Mary
-ENS	swims
-IST	just
-AND	about
-AND	as
-IST	fast
-AND	as
-PER	Jack
-NIL	.

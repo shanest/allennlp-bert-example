@@ -1,9 +1,0 @@
-QUE	What
-NOW	are
-PRO	you
-EXS	going
-NIL	to
-EXS	do
-PRX	this
-CON	evening
-QUE	?

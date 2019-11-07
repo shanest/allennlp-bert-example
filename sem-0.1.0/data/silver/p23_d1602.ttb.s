@@ -1,9 +1,0 @@
-DEF	The
-ROL	painter
-ENS	produces
-QUC	many
-IST	fine
-CON	works
-AND	of
-CON	art
-NIL	.

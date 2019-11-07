@@ -1,9 +1,0 @@
-EXS	Come
-REL	on
-REL	in
-COO	and
-EXS	make
-REF	yourself
-REL	at
-CON	home
-NIL	.

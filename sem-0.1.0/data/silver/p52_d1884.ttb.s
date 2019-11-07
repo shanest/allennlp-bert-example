@@ -1,9 +1,0 @@
-PER	Tom
-EPS	felt
-SUB	that
-PRO	he
-EPS	owed
-PER	Mary
-DIS	an
-CON	explanation
-NIL	.

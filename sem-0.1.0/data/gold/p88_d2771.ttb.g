@@ -1,9 +1,0 @@
-PRO	I
-EPS	got
-DIS	an
-IST	old
-CON	Toyota
-REL	from
-HAS	my
-ROL	uncle
-NIL	.

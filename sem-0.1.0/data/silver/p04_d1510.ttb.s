@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-INT	so
-IST	aggressive
-AND	that
-ALT	others
-EXS	avoid
-PRO	him
-NIL	.

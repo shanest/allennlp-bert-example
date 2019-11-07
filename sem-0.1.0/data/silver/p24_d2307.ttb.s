@@ -1,9 +1,0 @@
-PER	Tom
-EPS	introduced
-HAS	his
-ROL	stepson
-REL	to
-PER	Mary
-HAS	's
-ROL	stepdaughter
-NIL	.

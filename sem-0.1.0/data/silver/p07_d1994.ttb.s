@@ -1,9 +1,0 @@
-DEF	The
-CON	family
-CON	fortune
-NOW	has
-EXS	increased
-DIS	a
-IST	great
-CON	deal
-NIL	.

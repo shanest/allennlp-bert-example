@@ -1,9 +1,0 @@
-EXS	Let
-PRO	's
-EXS	meet
-REL	in
-CON	front
-AND	of
-DEF	the
-CON	hotel
-NIL	.

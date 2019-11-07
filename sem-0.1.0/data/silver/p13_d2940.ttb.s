@@ -1,9 +1,0 @@
-REL	After
-DST	that
-CON	incident
-NIL	,
-PRO	he
-NOT	never
-EPS	drank
-ALT	again
-NIL	.

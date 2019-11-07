@@ -1,9 +1,0 @@
-PER	Shakespeare
-NOW	is
-EXS	recognized
-SUB	to
-EXS	be
-DEF	the
-TOP	greatest
-CON	dramatist
-NIL	.

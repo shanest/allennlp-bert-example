@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-IST	really
-IST	mad
-REL	at
-PER	Tom
-CON	right
-NOW	now
-NIL	.

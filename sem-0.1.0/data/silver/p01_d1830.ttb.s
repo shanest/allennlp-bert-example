@@ -1,9 +1,0 @@
-PRO	It
-HAS	's
-DIS	a
-IST	good
-CON	thing
-PRO	I
-EPS	came
-EXS	prepared
-NIL	.

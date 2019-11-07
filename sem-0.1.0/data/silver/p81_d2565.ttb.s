@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	going
-SUB	to
-EXS	do
-PRO	you
-DIS	a
-CON	favor
-NIL	.

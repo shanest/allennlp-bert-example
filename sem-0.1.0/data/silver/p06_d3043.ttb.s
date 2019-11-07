@@ -1,9 +1,0 @@
-HAS	My
-CON	brother
-DIS	sometimes
-NOW	helps
-PRO	me
-REL	with
-HAS	my
-CON	homework
-NIL	.

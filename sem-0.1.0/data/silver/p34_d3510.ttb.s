@@ -1,9 +1,0 @@
-PRX	This
-CON	net
-PRX	here
-NOW	is
-SUB	to
-EXS	keep
-REL	off
-CON	mosquitoes
-NIL	.

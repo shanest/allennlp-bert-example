@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-EXT	worked
-REL	for
-PRO	me
-REL	for
-QUC	three
-CON	years
-NIL	.

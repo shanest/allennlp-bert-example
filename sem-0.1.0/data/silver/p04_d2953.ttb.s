@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	stressed
-IST	out
-IST	due
-REL	to
-HAS	their
-CON	incompetence
-NIL	.

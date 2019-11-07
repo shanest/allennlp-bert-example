@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXG	going
-REL	out
-PRX	this
-CON	afternoon
-REL	with
-PER	Mary
-NIL	.

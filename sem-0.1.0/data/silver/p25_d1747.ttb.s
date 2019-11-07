@@ -1,9 +1,0 @@
-DEF	The
-CON	man
-EPS	passed
-IST	away
-DIS	a
-IST	few
-CON	hours
-PST	ago
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-EPS	made
-PRO	me
-NOW	look
-AND	through
-HAS	his
-CON	photo
-CON	album
-NIL	.

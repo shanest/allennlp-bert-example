@@ -1,9 +1,0 @@
-PRX	This
-NOW	does
-NOT	n't
-EXS	look
-AND	like
-PER	Tom
-HAS	's
-CON	handwriting
-NIL	.

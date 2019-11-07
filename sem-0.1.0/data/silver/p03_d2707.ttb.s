@@ -1,9 +1,0 @@
-DEF	The
-CON	women
-EPS	gave
-PRO	us
-DIS	a
-CON	lot
-SUB	to
-EXS	eat
-NIL	.

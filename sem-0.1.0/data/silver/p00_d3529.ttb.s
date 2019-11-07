@@ -1,9 +1,0 @@
-NIL	There
-NOW	is
-DIS	a
-CON	kite
-EXG	flying
-REL	above
-DEF	the
-CON	tree
-NIL	.

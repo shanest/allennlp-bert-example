@@ -1,9 +1,0 @@
-AND	Everyone
-ENS	knows
-PRO	you
-NOW	're
-REL	in
-CON	love
-REL	with
-PER	Tom
-NIL	.

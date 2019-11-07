@@ -1,9 +1,0 @@
-NOT	No
-NIL	,
-CON	thanks
-NIL	.
-PRO	I
-NOW	'm
-IST	just
-EXS	browsing
-NIL	.

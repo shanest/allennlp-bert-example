@@ -1,9 +1,0 @@
-DST	That
-EPS	made
-DEF	the
-CON	problem
-AND	all
-DEF	the
-IST	more
-IST	complicated
-NIL	.

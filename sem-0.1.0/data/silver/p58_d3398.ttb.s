@@ -1,9 +1,0 @@
-PRO	He
-POS	ca
-NOT	n't
-EXS	accommodate
-REF	himself
-REL	to
-HAS	his
-CON	circumstances
-NIL	.

@@ -1,9 +1,0 @@
-PRO	You
-NOW	are
-EXS	free
-SUB	to
-EXS	go
-DIS	or
-SUB	to
-EXS	stay
-NIL	.

@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	see
-DIS	a
-CON	boat
-REL	on
-DEF	the
-CON	horizon
-QUE	?

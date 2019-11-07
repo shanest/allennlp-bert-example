@@ -1,9 +1,0 @@
-PER	Tom
-EPS	said
-PRO	he
-PST	'd
-EXS	be
-IST	back
-REL	before
-CLO	2:30
-NIL	.

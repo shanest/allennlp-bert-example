@@ -1,3 +1,0 @@
-NIL	It
-NOW	's
-CLO	8 P.M.

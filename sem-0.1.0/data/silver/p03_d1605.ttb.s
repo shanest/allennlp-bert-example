@@ -1,9 +1,0 @@
-PER	Mary
-NOW	is
-DIS	a
-INT	very
-IST	beautiful
-AND	and
-IST	interesting
-CON	woman
-NIL	.

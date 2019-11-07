@@ -1,9 +1,0 @@
-PRO	We
-EPS	saw
-DIS	a
-CON	fish
-EXS	splashing
-REL	in
-DEF	the
-CON	water
-NIL	.

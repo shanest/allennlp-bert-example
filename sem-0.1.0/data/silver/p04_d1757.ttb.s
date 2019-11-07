@@ -1,9 +1,0 @@
-PRO	You
-PST	had
-MOR	better
-EXS	ask
-DEF	the
-CON	doctor
-REL	for
-CON	advice
-NIL	.

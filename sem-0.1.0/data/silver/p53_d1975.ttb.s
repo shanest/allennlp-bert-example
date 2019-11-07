@@ -1,9 +1,0 @@
-PRO	You
-EPS	forgot
-SUB	to
-EXS	comb
-HAS	your
-CON	hair
-EQU	,
-PER	Tom
-NIL	.

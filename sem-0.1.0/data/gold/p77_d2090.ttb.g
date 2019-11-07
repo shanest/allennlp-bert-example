@@ -1,9 +1,0 @@
-DST	That
-CON	guy
-EPS	stole
-HAS	my
-CON	wallet
-NIL	!
-EXS	Stop
-PRO	him
-NIL	!

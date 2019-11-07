@@ -1,9 +1,0 @@
-DEF	The
-ROL	president
-PST	was
-IST	willing
-NIL	to
-EXS	support
-DEF	the
-CON	bill
-NIL	.

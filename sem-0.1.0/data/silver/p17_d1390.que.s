@@ -1,9 +1,0 @@
-QUE	What
-NOW	do
-DEF	the
-NIL	"
-EXG	chasing
-CON	arrows
-NIL	"
-EXS	symbolize
-QUE	?

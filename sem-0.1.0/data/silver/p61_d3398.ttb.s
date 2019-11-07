@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-EXS	said
-SUB	that
-PRO	he
-ENS	knows
-DEF	the
-CON	secret
-NIL	.

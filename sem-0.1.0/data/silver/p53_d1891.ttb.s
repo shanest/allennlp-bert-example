@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	dying
-SUB	to
-EXS	relax
-REL	on
-DEF	the
-CON	beach
-NIL	.

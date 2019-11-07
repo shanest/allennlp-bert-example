@@ -1,9 +1,0 @@
-DEF	The
-CON	video
-EPS	spread
-AND	like
-CON	wildfire
-AND	over
-DEF	the
-CON	Internet
-NIL	.

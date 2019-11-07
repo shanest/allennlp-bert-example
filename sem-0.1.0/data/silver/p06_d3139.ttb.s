@@ -1,9 +1,0 @@
-PRO	He
-POS	ca
-NOT	n't
-EXS	take
-HAS	his
-CON	eyes
-REL	off
-PRO	her
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-IST	still
-EXG	pretending
-PRO	he
-HAS	's
-NOT	not
-EXS	interested
-NIL	.

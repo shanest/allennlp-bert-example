@@ -1,9 +1,0 @@
-PRO	You
-POS	can
-EXS	see
-DEF	the
-CON	stars
-EXG	using
-DIS	a
-CON	telescope
-NIL	.

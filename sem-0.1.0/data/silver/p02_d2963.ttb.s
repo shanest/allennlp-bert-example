@@ -1,9 +1,0 @@
-PER	Tom
-EPS	told
-PER	Mary
-SUB	that
-PRO	he
-PST	'd
-EXS	be
-IST	late
-NIL	.

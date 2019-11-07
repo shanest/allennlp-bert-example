@@ -1,9 +1,0 @@
-NIL	There
-NOW	are
-DIS	some
-IST	old
-CON	houses
-REL	on
-PRX	this
-CON	street
-NIL	.

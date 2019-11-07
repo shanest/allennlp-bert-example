@@ -1,9 +1,0 @@
-PRO	I
-NOW	suggest
-SUB	that
-PRO	we
-ENS	go
-IST	out
-REL	on
-DOW	Friday
-NIL	.

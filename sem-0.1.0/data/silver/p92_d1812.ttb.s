@@ -1,9 +1,0 @@
-PRO	He
-PST	did
-IST	exactly
-SUB	as
-PRO	I
-PST	had
-EXS	told
-PRO	him
-NIL	.

@@ -1,9 +1,0 @@
-IMP	If
-PRO	he
-NEC	should
-EXS	be
-IST	busy
-NIL	,
-EXS	help
-PRO	him
-NIL	.

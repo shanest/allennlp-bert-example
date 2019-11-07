@@ -1,9 +1,0 @@
-QUE	What
-PRO	he
-NOW	has
-EXS	said
-NOW	is
-IST	contrary
-REL	to
-CON	fact
-NIL	.

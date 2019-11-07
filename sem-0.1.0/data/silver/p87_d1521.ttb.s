@@ -1,9 +1,0 @@
-DEF	The
-CON	country
-PST	was
-IST	unable
-SUB	to
-EXS	pay
-HAS	its
-CON	debts
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-PST	was
-INT	pretty
-EXS	hungry
-SUB	when
-PRO	I
-EPS	got
-CON	home
-NIL	.

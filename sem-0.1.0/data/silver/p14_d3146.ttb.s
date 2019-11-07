@@ -1,9 +1,0 @@
-PER	Mary
-EPS	told
-DEF	the
-CON	child
-SUB	to
-EXS	mind
-HAS	his
-ROL	father
-NIL	.

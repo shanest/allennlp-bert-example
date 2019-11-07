@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	think
-PRO	he
-EPS	killed
-DST	those
-CON	men
-NIL	.

@@ -1,9 +1,0 @@
-PRO	She
-EPS	gave
-PRO	him
-DIS	a
-IST	few
-CON	pointers
-REL	on
-CON	pronunciation
-NIL	.

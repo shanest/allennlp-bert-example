@@ -1,9 +1,0 @@
-PRO	We
-NEC	should
-NOW	've
-EXT	bought
-QUC	three
-CON	bottles
-AND	of
-CON	wine
-NIL	.

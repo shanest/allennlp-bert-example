@@ -1,9 +1,0 @@
-DIS	A
-CON	blow
-REL	from
-DIS	a
-EXG	falling
-CON	stone
-EPS	killed
-PRO	him
-NIL	.

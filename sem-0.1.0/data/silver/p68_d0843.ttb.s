@@ -1,9 +1,0 @@
-PRO	He
-EPS	drew
-DIS	a
-IST	straight
-CON	line
-REL	on
-DEF	the
-CON	wall
-NIL	.

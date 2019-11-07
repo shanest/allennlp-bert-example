@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-IST	almost
-NOT	no
-CON	information
-AND	about
-DEF	the
-CON	problem
-NIL	.

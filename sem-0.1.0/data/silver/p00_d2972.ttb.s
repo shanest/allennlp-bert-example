@@ -1,9 +1,0 @@
-AND	Within
-QUC	one
-CON	day
-NIL	,
-PRO	they
-PST	were
-REL	in
-GPE	France
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-NOT	n't
-IST	ready
-SUB	to
-EXS	give
-IST	up
-ALT	yet
-NIL	.

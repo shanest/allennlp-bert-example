@@ -1,9 +1,0 @@
-PER	Tom
-ENS	thinks
-PRO	he
-ENS	knows
-QUE	where
-SUB	to
-EXS	find
-PER	Mary
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-PRO	you
-REL	in
-DEF	the
-CON	park
-REL	with
-PER	Tom
-NIL	.

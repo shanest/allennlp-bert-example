@@ -1,9 +1,0 @@
-ORG	Was
-PER	Tom
-EXS	happy
-PRO	you
-EPS	gave
-PER	Mary
-DEF	the
-CON	job
-QUE	?

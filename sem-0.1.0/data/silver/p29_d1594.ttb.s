@@ -1,9 +1,0 @@
-PRX	This
-CON	time
-NIL	,
-PRO	you
-NOW	've
-EXS	crossed
-DEF	the
-CON	line
-NIL	!

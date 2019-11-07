@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	considering
-EXS	visiting
-HAS	his
-CON	uncle
-REL	in
-GPE	Boston
-NIL	.

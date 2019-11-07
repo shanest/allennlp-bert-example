@@ -1,9 +1,0 @@
-PRO	She
-EPS	accused
-PRO	him
-AND	of
-EXT	having
-EXS	broken
-HAS	his
-CON	word
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-EPS	met
-HAS	her
-AND	during
-HAS	my
-EXS	stay
-REL	in
-GPE	Mexico
-NIL	.

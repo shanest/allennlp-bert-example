@@ -1,9 +1,0 @@
-PER	Tom
-PST	did
-NOT	n't
-EXS	want
-SUB	to
-EXS	talk
-REL	with
-PER	Mary
-NIL	.

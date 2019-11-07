@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	tired
-SUB	after
-EXS	swimming
-REL	in
-DST	that
-CON	river
-NIL	.

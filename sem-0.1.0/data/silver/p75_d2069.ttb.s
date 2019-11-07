@@ -1,9 +1,0 @@
-REL	At
-IST	last
-PRO	he
-EPS	realized
-SUB	that
-PRO	he
-PST	was
-EXS	mistaken
-NIL	.

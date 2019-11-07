@@ -1,9 +1,0 @@
-NOT	No
-NIL	,
-PRO	it
-HAS	's
-PFT	been
-EXS	delayed
-QUC	45
-CON	minutes
-NIL	.

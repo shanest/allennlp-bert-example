@@ -1,9 +1,0 @@
-PRO	I
-ENS	bet
-PRO	you
-PST	did
-NOT	n't
-EXS	see
-DST	that
-EXG	coming
-NIL	.

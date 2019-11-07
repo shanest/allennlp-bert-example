@@ -1,9 +1,0 @@
-PRO	He
-EPS	handled
-DEF	the
-CON	knife
-AND	and
-CON	fork
-INT	very
-IST	well
-NIL	.

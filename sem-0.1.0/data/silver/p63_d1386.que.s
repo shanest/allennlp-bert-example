@@ -1,9 +1,0 @@
-DEF	Which
-CON	ferry
-EPS	sank
-DEF	the
-GEO	Southeast
-AND	of
-GEO	Uto
-GEO	Island
-QUE	?

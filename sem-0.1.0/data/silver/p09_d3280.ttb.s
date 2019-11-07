@@ -1,9 +1,0 @@
-PRO	She
-ENS	loves
-PRO	me
-NIL	,
-COO	and
-PRO	I
-ENS	love
-PRO	her
-NIL	.

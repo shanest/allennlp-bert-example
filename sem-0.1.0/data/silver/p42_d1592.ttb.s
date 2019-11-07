@@ -1,9 +1,0 @@
-PER	Tom
-EPS	acknowledged
-SUB	that
-PRO	he
-PST	had
-EXS	made
-DIS	a
-CON	mistake
-NIL	.

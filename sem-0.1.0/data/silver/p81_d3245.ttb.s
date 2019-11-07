@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-INT	very
-EXS	important
-SUB	to
-EXS	get
-IST	enough
-CON	rest
-NIL	.

@@ -1,5 +1,0 @@
-PRO	It
-HAS	's
-INT	50
-UOM	yen
-NIL	.

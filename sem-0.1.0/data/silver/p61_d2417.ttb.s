@@ -1,9 +1,0 @@
-PRO	I
-EPS	became
-EXS	acquainted
-REL	with
-HAS	her
-QUC	two
-CON	weeks
-PST	ago
-NIL	.

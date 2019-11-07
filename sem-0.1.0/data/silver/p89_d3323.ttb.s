@@ -1,9 +1,0 @@
-PRO	You
-NEC	must
-NOT	not
-EXS	rely
-INT	too
-QUC	much
-REL	on
-CON	appearance
-NIL	.

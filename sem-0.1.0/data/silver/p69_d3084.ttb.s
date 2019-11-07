@@ -1,9 +1,0 @@
-EXS	Washing
-DEF	the
-CON	car
-EPS	took
-IST	longer
-AND	than
-PRO	we
-EPS	expected
-NIL	.

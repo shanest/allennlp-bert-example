@@ -1,9 +1,0 @@
-PRO	I
-ENS	want
-HAS	my
-ROL	father
-SUB	to
-EXS	see
-DEF	the
-CON	movie
-NIL	.

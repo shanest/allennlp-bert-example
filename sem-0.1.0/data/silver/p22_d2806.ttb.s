@@ -1,9 +1,0 @@
-PRO	I
-IST	nearly
-EPS	forgot
-SUB	to
-EXS	give
-PRO	it
-REL	to
-PER	Tom
-NIL	.

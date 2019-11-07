@@ -1,9 +1,0 @@
-PRO	You
-IST	just
-EPS	saw
-PER	Tom
-NIL	,
-PST	did
-NOT	n't
-PRO	you
-QUE	?

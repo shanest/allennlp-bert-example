@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-PER	Tom
-ENS	wants
-DIS	something
-SUB	to
-EXS	write
-REL	on
-NIL	.

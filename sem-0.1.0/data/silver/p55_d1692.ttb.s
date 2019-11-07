@@ -1,9 +1,0 @@
-PRO	She
-EPS	smiled
-REL	at
-PRO	me
-REL	with
-IST	friendly
-COL	brown
-CON	eyes
-NIL	.

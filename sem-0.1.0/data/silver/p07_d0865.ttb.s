@@ -1,9 +1,0 @@
-ITJ	Oh
-NIL	,
-PRO	you
-PST	were
-REL	at
-DEF	the
-MOR	hairdresser
-HAS	's
-NIL	.

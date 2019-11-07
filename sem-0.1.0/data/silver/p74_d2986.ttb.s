@@ -1,9 +1,0 @@
-PRO	He
-EPS	took
-IST	great
-CON	pains
-SUB	to
-EXS	find
-DIS	a
-CON	shortcut
-NIL	.

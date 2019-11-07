@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	worried
-AND	about
-QUE	what
-PER	Mary
-NOW	is
-EXS	doing
-NIL	.

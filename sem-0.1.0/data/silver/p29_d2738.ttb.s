@@ -1,9 +1,0 @@
-IMP	If
-PRO	I
-PST	'd
-XCL	only
-EXS	known
-QUE	how
-PER	Tom
-PST	felt
-NIL	!

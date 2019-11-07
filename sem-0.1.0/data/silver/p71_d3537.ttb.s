@@ -1,9 +1,0 @@
-PRO	He
-EPS	wrote
-REL	to
-PRO	me
-REL	from
-CON	time
-REL	to
-CON	time
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-AND	always
-ENS	seems
-SUB	to
-EXS	be
-EXS	complaining
-AND	about
-DIS	something
-NIL	.

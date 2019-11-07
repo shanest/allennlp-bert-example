@@ -1,9 +1,0 @@
-PRO	I
-FUT	'll
-EXS	be
-IST	back
-REL	in
-QUC	half
-DIS	an
-UOM	hour
-NIL	.

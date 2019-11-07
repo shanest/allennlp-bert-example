@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	supposed
-NIL	to
-EXS	babysit
-DEF	the
-CON	children
-CON	tonight
-NIL	.

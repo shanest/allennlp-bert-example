@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	said
-SUB	that
-PRO	he
-NOW	is
-REL	in
-GPE	Britain
-NIL	.

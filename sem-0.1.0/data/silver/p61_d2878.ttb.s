@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-EXS	true
-SUB	that
-PRO	he
-NOW	is
-REL	in
-GEO	America
-NIL	.

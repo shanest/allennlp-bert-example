@@ -1,9 +1,0 @@
-PER	Mary
-EPS	became
-EXS	angry
-SUB	when
-PER	Tom
-EPS	mentioned
-HAS	her
-CON	weight
-NIL	.

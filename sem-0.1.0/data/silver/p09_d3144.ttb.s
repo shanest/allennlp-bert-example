@@ -1,9 +1,0 @@
-DEF	The
-CON	museum
-NOW	is
-EXS	open
-REL	from
-DOW	Monday
-REL	to
-DOW	Friday
-NIL	.

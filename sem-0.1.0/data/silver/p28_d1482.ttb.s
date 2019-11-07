@@ -1,9 +1,0 @@
-PRO	She
-EPS	talked
-PRO	him
-REL	into
-EXS	buying
-DIS	a
-IST	new
-CON	house
-NIL	.

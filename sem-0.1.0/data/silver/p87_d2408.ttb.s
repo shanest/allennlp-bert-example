@@ -1,9 +1,0 @@
-PRO	It
-ENS	seems
-SUB	to
-PRO	me
-SUB	that
-PRO	she
-ENS	knows
-AND	everything
-NIL	.

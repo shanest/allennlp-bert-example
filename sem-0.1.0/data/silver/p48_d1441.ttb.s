@@ -1,9 +1,0 @@
-PRO	We
-NOW	are
-EXS	sorry
-PRO	we
-POS	ca
-NOT	n't
-EXS	help
-PRO	you
-NIL	.

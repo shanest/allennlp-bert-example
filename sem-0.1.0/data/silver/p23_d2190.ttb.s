@@ -1,9 +1,0 @@
-DEF	The
-CON	army
-EPS	made
-CON	inroads
-REL	into
-DEF	the
-IST	neighboring
-CON	country
-NIL	.

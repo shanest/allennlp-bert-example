@@ -1,9 +1,0 @@
-PRO	I
-FUT	would
-IST	rather
-EXT	have
-PFT	been
-EXS	born
-REL	in
-GPE	Japan
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-EPS	bought
-DIS	an
-IST	eight-acre
-CON	farm
-REL	for
-HAS	my
-CON	retirement
-NIL	.

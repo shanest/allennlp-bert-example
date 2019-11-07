@@ -1,9 +1,0 @@
-DEF	The
-ROL	divers
-EPS	found
-DIS	a
-CON	wreck
-REL	on
-DEF	the
-CON	sea-bed
-NIL	.

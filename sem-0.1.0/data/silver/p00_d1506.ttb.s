@@ -1,9 +1,0 @@
-DST	That
-ENS	's
-DIS	a
-IST	good
-CON	reason
-NIL	,
-PRO	I
-ENS	guess
-NIL	.

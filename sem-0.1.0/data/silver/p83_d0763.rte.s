@@ -1,9 +1,0 @@
-PER	Elizabeth
-DEF	the
-PER	Second
-HAS	's
-ROL	father
-PST	was
-PER	George
-PER	VI
-NIL	.

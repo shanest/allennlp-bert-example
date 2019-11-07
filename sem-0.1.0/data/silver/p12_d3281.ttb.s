@@ -1,9 +1,0 @@
-HAS	My
-ROL	father
-EPS	visited
-HAS	my
-ROL	uncle
-REL	in
-DEF	the
-CON	hospital
-NIL	.

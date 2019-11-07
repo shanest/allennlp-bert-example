@@ -1,9 +1,0 @@
-HAS	My
-ROL	sister
-EPS	showed
-DIS	a
-IST	new
-CON	watch
-REL	to
-PRO	me
-NIL	.

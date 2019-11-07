@@ -1,9 +1,0 @@
-DEF	The
-CON	cat
-EPS	dug
-HAS	its
-CON	claws
-REL	into
-HAS	my
-CON	hand
-NIL	.

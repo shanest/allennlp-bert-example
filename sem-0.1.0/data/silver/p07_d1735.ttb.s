@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	going
-SUB	to
-EXS	get
-IST	ready
-REL	for
-CON	bed
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-EPS	bought
-DIS	an
-GPO	English
-CON	book
-REL	at
-DIS	a
-CON	bookstore
-NIL	.

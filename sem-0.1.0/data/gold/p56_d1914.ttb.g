@@ -1,4 +1,0 @@
-PRO	We
-ENS	buy
-CON	CDs
-NIL	.

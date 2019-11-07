@@ -1,9 +1,0 @@
-PRO	I
-POS	ca
-NOT	n't
-EXS	love
-DIS	any
-CON	one
-NOT	but
-PRO	you
-NIL	.

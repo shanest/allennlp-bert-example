@@ -1,9 +1,0 @@
-PRO	I
-ENS	think
-PRO	you
-ENS	worry
-INT	too
-QUV	much
-UNK	,
-PER	Tom
-NIL	.

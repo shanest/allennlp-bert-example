@@ -1,9 +1,0 @@
-PER	Taro
-HAS	's
-AND	and
-PER	Hanako
-HAS	's
-CON	desk
-NOW	is
-IST	small
-NIL	.

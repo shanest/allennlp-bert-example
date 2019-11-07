@@ -1,9 +1,0 @@
-PRO	I
-EPS	came
-IST	here
-SUB	to
-EXS	warn
-PRO	you
-AND	about
-PER	Tom
-NIL	.

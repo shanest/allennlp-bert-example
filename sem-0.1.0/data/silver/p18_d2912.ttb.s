@@ -1,9 +1,0 @@
-PRO	He
-NOW	has
-NOT	no
-CON	idea
-QUE	what
-PRO	he
-HAS	's
-EXG	doing
-NIL	.

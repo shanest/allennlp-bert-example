@@ -1,9 +1,0 @@
-QUE	Why
-NOW	do
-NOT	n't
-PRO	you
-EXS	go
-EXS	fly
-DIS	a
-CON	kite
-QUE	?

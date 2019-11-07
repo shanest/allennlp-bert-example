@@ -1,9 +1,0 @@
-NOW	Have
-DEF	the
-CON	pixies
-EXS	done
-DEF	the
-CON	washing
-IST	up
-ALT	yet
-QUE	?

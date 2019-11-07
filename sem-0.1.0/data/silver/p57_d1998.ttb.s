@@ -1,9 +1,0 @@
-PRO	They
-NOW	're
-EXS	coming
-REL	to
-DEF	the
-CON	park
-REL	by
-CON	bus
-NIL	.

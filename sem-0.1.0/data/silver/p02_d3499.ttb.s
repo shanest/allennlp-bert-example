@@ -1,9 +1,0 @@
-DEF	The
-CON	fish
-PRO	he
-EPS	caught
-PST	yesterday
-NOW	is
-IST	still
-EXS	alive
-NIL	.

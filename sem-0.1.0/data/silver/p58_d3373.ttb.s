@@ -1,9 +1,0 @@
-EXS	Come
-REL	on
-NIL	.
-PRO	I
-NOW	'm
-EXS	taking
-PRO	you
-CON	home
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	dealt
-REL	with
-PRX	this
-CON	store
-REL	for
-CON	years
-NIL	.

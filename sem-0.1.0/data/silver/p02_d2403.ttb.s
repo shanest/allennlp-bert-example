@@ -1,9 +1,0 @@
-PRO	We
-EPS	talked
-REL	with
-DEF	the
-CON	owner
-AND	of
-DEF	the
-CON	house
-NIL	.

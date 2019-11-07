@@ -1,9 +1,0 @@
-PRO	I
-ENS	wish
-PRO	I
-PST	had
-PFT	been
-EXS	there
-REL	with
-PRO	you
-NIL	.

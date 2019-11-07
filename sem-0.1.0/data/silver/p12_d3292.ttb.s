@@ -1,9 +1,0 @@
-PRO	You
-ENS	seem
-SUB	to
-EXS	be
-INT	very
-EXS	interested
-REL	in
-PER	Tom
-NIL	.

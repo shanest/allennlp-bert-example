@@ -1,9 +1,0 @@
-HAS	Her
-CON	son
-HAS	's
-CON	death
-EPS	broke
-PER	Mary
-HAS	's
-CON	heart
-NIL	.

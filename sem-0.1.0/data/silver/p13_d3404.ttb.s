@@ -1,9 +1,0 @@
-QUC	Seven
-NOW	is
-EXS	said
-SUB	to
-EXS	be
-DIS	a
-IST	lucky
-CON	number
-NIL	.

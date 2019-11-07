@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-PFT	been
-EXS	thinking
-SUB	about
-EXS	getting
-DIS	a
-CON	dog
-NIL	.

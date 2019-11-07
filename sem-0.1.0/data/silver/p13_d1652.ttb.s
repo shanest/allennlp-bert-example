@@ -1,9 +1,0 @@
-PRO	He
-EPS	put
-IST	down
-DEF	the
-CON	pencil
-REL	on
-DEF	the
-CON	desk
-NIL	.

@@ -1,9 +1,0 @@
-DEF	The
-CON	success
-AND	of
-HAS	her
-CON	novel
-EPS	made
-HAS	her
-CON	rich
-NIL	.

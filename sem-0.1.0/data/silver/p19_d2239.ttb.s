@@ -1,9 +1,0 @@
-PER	Irene
-NOW	is
-REL	from
-GPE	Peru
-NIL	.
-PRO	She
-NOW	is
-GPO	Peruvian
-NIL	.

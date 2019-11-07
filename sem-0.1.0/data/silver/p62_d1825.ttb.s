@@ -1,9 +1,0 @@
-PRO	She
-EPS	watched
-DEF	the
-CON	children
-EXS	going
-IST	back
-REL	to
-CON	school
-NIL	.

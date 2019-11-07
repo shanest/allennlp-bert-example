@@ -1,9 +1,0 @@
-PRO	It
-ENS	seems
-SUB	that
-HAS	his
-CON	father
-NOW	is
-DIS	a
-ROL	lawyer
-NIL	.

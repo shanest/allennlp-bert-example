@@ -1,9 +1,0 @@
-PRO	You
-POS	can
-IST	still
-EXS	get
-SUB	that
-EXS	finished
-REL	before
-CLO	2:30
-NIL	.

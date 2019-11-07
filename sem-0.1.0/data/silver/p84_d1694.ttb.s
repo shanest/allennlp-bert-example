@@ -1,9 +1,0 @@
-PRX	This
-IST	famous
-CON	actress
-PST	was
-ALT	also
-DIS	a
-CON	fashion
-CON	icon
-NIL	.

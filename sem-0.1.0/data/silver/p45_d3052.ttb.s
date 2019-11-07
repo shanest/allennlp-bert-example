@@ -1,9 +1,0 @@
-POS	Maybe
-PRO	you
-FUT	'd
-EXS	like
-SUB	to
-EXS	go
-REL	with
-PRO	us
-NIL	.

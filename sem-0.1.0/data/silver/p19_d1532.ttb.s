@@ -1,9 +1,0 @@
-QUE	What
-PER	Jane
-EPS	said
-EXS	made
-DEF	the
-CON	atmosphere
-LES	less
-EXS	tense
-NIL	.

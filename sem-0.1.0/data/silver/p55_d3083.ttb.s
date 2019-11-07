@@ -1,9 +1,0 @@
-TIM	Christ
-NOW	is
-EXS	believed
-SUB	to
-EXT	have
-EXS	worked
-QUV	many
-CON	miracles
-NIL	.

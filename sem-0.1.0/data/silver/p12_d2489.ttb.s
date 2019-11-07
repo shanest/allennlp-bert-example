@@ -1,9 +1,0 @@
-UNK	There
-NOW	are
-INT	so
-QUC	many
-CON	people
-AND	here
-REL	in
-GPE	Tokyo
-NIL	.

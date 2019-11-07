@@ -1,9 +1,0 @@
-DIS	A
-IST	welcome
-CON	party
-EPS	took
-CON	place
-REL	in
-DEF	the
-CON	restaurant
-NIL	.

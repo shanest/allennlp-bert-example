@@ -1,9 +1,0 @@
-PRO	It
-PST	was
-SUB	where
-PER	Tom
-EPS	said
-PRO	it
-FUT	would
-EXS	be
-NIL	.

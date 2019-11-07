@@ -1,9 +1,0 @@
-PRO	We
-EPS	saw
-DEF	the
-CON	parade
-EXS	move
-IST	down
-DEF	the
-CON	street
-NIL	.

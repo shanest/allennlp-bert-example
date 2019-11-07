@@ -1,9 +1,0 @@
-NOT	No
-CON	one
-ENS	succeeds
-REL	in
-DEF	the
-CON	world
-NOT	without
-CON	effort
-NIL	.

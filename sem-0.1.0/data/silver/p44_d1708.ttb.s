@@ -1,9 +1,0 @@
-PER	Tom
-EPS	showed
-PER	Mary
-DIS	a
-CON	photograph
-AND	of
-HAS	his
-CON	father
-NIL	.

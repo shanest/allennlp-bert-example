@@ -1,9 +1,0 @@
-PRO	He
-EPS	studied
-INT	very
-IST	hard
-NIL	to
-EXS	become
-DIS	a
-ROL	scientist
-NIL	.

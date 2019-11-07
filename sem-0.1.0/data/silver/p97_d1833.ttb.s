@@ -1,9 +1,0 @@
-PRO	I
-IST	just
-EPS	spent
-DIS	an
-CON	hour
-EXS	talking
-REL	to
-PER	Tom
-NIL	.

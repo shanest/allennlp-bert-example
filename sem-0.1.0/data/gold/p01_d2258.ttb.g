@@ -1,9 +1,0 @@
-PRO	I
-FUT	'd
-EXS	like
-NIL	to
-EXS	speak
-REL	to
-ROL	Dr.
-PER	Schmidt
-NIL	.

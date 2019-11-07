@@ -1,9 +1,0 @@
-PRO	He
-EPS	took
-DIS	a
-CON	cab
-SUB	to
-EXS	arrive
-REL	on
-CON	time
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-PST	had
-NOT	no
-EXS	difficulty
-CON	swimming
-REL	across
-DEF	the
-CON	river
-NIL	.

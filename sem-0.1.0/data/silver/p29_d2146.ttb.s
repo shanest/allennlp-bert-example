@@ -1,9 +1,0 @@
-PRO	You
-NOW	love
-PER	Mary
-EQU	exactly
-DEF	the
-CON	way
-PRO	she
-NOW	is
-NIL	.

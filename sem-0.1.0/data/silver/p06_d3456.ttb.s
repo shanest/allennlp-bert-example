@@ -1,9 +1,0 @@
-PRO	You
-POS	can
-EXS	eat
-AND	as
-QUV	much
-AND	as
-PRO	you
-ENS	want
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-PST	was
-EXG	making
-HAS	his
-CON	way
-AND	through
-DEF	the
-CON	crowd
-NIL	.

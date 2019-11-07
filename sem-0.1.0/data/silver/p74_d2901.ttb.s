@@ -1,9 +1,0 @@
-PER	Tom
-EPS	said
-PRO	he
-PST	was
-EXS	having
-DIS	a
-IST	good
-CON	time
-NIL	.

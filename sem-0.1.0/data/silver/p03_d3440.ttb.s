@@ -1,9 +1,0 @@
-PRO	You
-NEC	must
-EXS	return
-DEF	the
-CON	ring
-SUB	whence
-PRO	it
-EPS	came
-NIL	.

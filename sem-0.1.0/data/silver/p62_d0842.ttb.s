@@ -1,9 +1,0 @@
-PRO	He
-EPS	bowed
-REL	to
-PRO	me
-SUB	as
-PRO	he
-EPS	passed
-REL	by
-NIL	.

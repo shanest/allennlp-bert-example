@@ -1,9 +1,0 @@
-PER	Ivan
-DEF	the
-CON	Terrible
-EPS	killed
-HAS	his
-CON	son
-REL	in
-YOC	1581
-NIL	.

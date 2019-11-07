@@ -1,9 +1,0 @@
-DEF	The
-CON	bank
-ROL	director
-PST	was
-EXS	held
-REL	in
-IST	high
-CON	regard
-NIL	.

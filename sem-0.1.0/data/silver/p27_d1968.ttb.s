@@ -1,9 +1,0 @@
-PRO	He
-EPS	had
-EXS	plenty
-AND	of
-CON	money
-REL	for
-HAS	his
-CON	trip
-NIL	.

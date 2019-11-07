@@ -1,9 +1,0 @@
-ORG	Tennis
-EPS	began
-REL	in
-GPE	France
-REL	in
-DEF	the
-IST	thirteenth
-CON	century
-NIL	.

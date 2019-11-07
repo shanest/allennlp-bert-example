@@ -1,9 +1,0 @@
-PRO	We
-EPS	made
-DEF	the
-TOP	best
-AND	of
-HAS	our
-IST	small
-CON	room
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-EPS	sat
-REL	on
-DEF	the
-CON	couch
-AND	next
-REL	to
-PER	Mary
-NIL	.

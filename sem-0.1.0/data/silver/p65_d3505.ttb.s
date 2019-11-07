@@ -1,9 +1,0 @@
-PRO	She
-NOW	is
-EXS	going
-SUB	to
-EXS	meet
-DEF	the
-CON	project
-CON	leaders
-NIL	.

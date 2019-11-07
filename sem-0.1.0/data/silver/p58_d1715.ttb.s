@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	like
-EXG	telling
-PRO	her
-DEF	the
-CON	truth
-NIL	.

@@ -1,9 +1,0 @@
-FUT	Will
-PRO	you
-EXS	send
-DIS	someone
-EXS	go
-EXS	get
-DIS	a
-CON	doctor
-QUE	?

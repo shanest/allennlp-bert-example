@@ -1,9 +1,0 @@
-DEF	The
-CON	submarine
-POS	can
-EXS	dive
-IST	up
-REL	to
-QUC	300
-UOM	meters
-NIL	.

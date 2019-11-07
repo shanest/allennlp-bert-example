@@ -1,9 +1,0 @@
-PRO	It
-ENS	puts
-DIS	a
-ALT	different
-CON	complexion
-REL	on
-DEF	the
-CON	situation
-NIL	.

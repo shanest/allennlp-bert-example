@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-ALT	also
-EPS	got
-DIS	a
-IST	few
-IST	clean
-CON	cups
-QUE	?

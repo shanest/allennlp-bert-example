@@ -1,9 +1,0 @@
-CON	People
-AND	over
-QUC	18
-NOW	are
-EXS	allowed
-SUB	to
-EXS	drive
-CON	cars
-NIL	.

@@ -1,9 +1,0 @@
-PRO	She
-EPS	listened
-REL	to
-PRO	me
-REL	with
-HAS	her
-CON	eyes
-EXG	shining
-NIL	.

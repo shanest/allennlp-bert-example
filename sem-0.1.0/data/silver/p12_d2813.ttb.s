@@ -1,9 +1,0 @@
-PRO	I
-IST	firmly
-ENS	believe
-SUB	that
-HAS	your
-CON	time
-FUT	will
-EXS	come
-NIL	.

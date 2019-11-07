@@ -1,9 +1,0 @@
-ORG	Was
-PER	Tom
-DIS	a
-CON	king
-DIS	or
-FUT	will
-PRO	he
-EXS	be
-QUE	?

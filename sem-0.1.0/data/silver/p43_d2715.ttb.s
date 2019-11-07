@@ -1,9 +1,0 @@
-AND	And
-QUE	what
-NOW	do
-PRO	I
-NEC	have
-SUB	to
-EXS	do
-NOW	now
-QUE	?

@@ -1,9 +1,0 @@
-DEF	The
-CON	moment
-PRO	he
-EPS	saw
-PRO	me
-PRO	he
-EPS	ran
-IST	away
-NIL	.

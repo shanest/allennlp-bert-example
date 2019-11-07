@@ -1,9 +1,0 @@
-PER	George
-HAS	's
-ROL	sister
-EPS	made
-DIS	some
-CON	sandwiches
-REL	for
-PRO	me
-NIL	.

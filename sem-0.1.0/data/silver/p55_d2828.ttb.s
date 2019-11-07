@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-NOT	n't
-SUB	that
-QUC	much
-MOR	older
-MOR	than
-PER	Mary
-NIL	.

@@ -1,9 +1,0 @@
-PER	Yoko
-EPS	danced
-REL	with
-DIS	a
-CON	grace
-SUB	that
-EPS	surprised
-PRO	us
-NIL	.

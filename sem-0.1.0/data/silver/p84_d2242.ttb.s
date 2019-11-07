@@ -1,5 +1,0 @@
-PRO	She
-EPS	died
-REL	in
-YOC	1960
-NIL	.

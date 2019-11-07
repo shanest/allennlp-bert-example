@@ -1,9 +1,0 @@
-PRO	He
-EPS	put
-AND	all
-HAS	his
-CON	money
-REL	in
-DEF	the
-CON	box
-NIL	.

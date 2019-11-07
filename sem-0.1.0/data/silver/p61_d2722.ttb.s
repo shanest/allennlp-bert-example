@@ -1,9 +1,0 @@
-HAS	My
-CON	husband
-ENS	reads
-DEF	the
-CON	newspaper
-SUB	while
-EXS	eating
-CON	breakfast
-NIL	.

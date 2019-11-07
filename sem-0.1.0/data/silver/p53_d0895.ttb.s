@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXG	going
-SUB	to
-EXS	watch
-DIS	a
-IST	scary
-CON	movie
-NIL	.

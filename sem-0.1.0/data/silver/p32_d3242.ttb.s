@@ -1,9 +1,0 @@
-PER	Mary
-EPS	pulled
-IST	out
-DIS	a
-CON	pistol
-COO	and
-EPS	shot
-PER	Tom
-NIL	.

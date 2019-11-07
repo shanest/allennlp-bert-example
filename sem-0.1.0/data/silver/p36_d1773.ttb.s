@@ -1,9 +1,0 @@
-NOW	Is
-UNK	there
-DIS	a
-CON	possibility
-SUB	that
-PRO	you
-NOW	're
-EXS	pregnant
-QUE	?

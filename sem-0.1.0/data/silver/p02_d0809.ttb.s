@@ -1,9 +1,0 @@
-DEF	The
-IST	mere
-CON	sight
-AND	of
-DIS	a
-CON	dog
-ENS	frightens
-PRO	him
-NIL	.

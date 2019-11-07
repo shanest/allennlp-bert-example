@@ -1,9 +1,0 @@
-AND	Actually
-NIL	,
-PRO	I
-PST	'd
-ALT	also
-EXS	like
-SUB	to
-EXS	go
-NIL	.

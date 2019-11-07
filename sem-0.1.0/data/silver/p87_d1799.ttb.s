@@ -1,9 +1,0 @@
-DEF	The
-CON	girl
-PRO	he
-NOW	's
-EXS	speaking
-SUB	to
-NOW	is
-PER	Nancy
-NIL	.

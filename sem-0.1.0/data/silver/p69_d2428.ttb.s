@@ -1,9 +1,0 @@
-PER	Tom
-IST	never
-ENS	listens
-REL	to
-QUE	what
-DEF	the
-CON	teacher
-ENS	says
-NIL	.

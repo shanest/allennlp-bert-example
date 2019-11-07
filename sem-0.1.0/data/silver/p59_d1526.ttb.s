@@ -1,9 +1,0 @@
-DEF	The
-CON	bartender
-EPS	kicked
-PER	Tom
-AND	out
-AND	of
-DEF	the
-CON	bar
-NIL	.

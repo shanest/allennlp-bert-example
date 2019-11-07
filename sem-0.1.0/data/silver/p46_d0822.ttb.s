@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-DEF	the
-CON	house
-SUB	where
-PRO	he
-PST	was
-EXS	born
-NIL	.

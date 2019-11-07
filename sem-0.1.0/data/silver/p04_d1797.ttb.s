@@ -1,9 +1,0 @@
-PRO	She
-NOW	is
-NOT	no
-LES	less
-IST	beautiful
-AND	than
-HAS	her
-ROL	sister
-NIL	.

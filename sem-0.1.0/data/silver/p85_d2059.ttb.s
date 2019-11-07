@@ -1,9 +1,0 @@
-IST	Please
-EXS	say
-GRE	hello
-REL	to
-HAS	your
-CON	parents
-REL	for
-PRO	me
-NIL	.

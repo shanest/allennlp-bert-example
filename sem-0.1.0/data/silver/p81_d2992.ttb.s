@@ -1,9 +1,0 @@
-PER	Ted
-EPS	waited
-REL	for
-PRO	her
-REL	for
-DIS	a
-IST	long
-CON	time
-NIL	.

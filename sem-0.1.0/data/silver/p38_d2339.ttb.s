@@ -1,9 +1,0 @@
-PRO	I
-PST	thought
-PRO	you
-PST	were
-EXG	going
-IST	out
-REL	with
-PER	Tom
-NIL	.

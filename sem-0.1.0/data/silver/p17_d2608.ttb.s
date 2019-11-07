@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-PER	Tom
-REL	at
-DEF	the
-CON	bar
-AND	last
-CON	night
-NIL	.

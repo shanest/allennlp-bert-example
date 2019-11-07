@@ -1,9 +1,0 @@
-QUE	How
-QUV	many
-CON	videos
-NOW	do
-PRO	you
-EXS	download
-AND	per
-CON	day
-QUE	?

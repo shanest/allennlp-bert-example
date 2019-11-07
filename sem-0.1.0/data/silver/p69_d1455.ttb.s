@@ -1,9 +1,0 @@
-PRO	I
-EPS	forgot
-SUB	that
-PRO	I
-EPS	met
-HAS	her
-IST	last
-CON	month
-NIL	.

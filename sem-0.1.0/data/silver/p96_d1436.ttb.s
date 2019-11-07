@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-NOW	are
-EXG	flying
-REL	to
-GPE	Boston
-FUT	tomorrow
-NIL	.

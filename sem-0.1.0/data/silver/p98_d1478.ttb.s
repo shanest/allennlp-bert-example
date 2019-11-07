@@ -1,9 +1,0 @@
-PRO	He
-EPS	let
-DEF	the
-CON	dog
-IST	loose
-REL	in
-DEF	the
-CON	garden
-NIL	.

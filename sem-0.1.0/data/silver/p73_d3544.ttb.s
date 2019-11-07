@@ -1,9 +1,0 @@
-PRO	They
-POS	ca
-NOT	n't
-EXS	help
-PRO	you
-SUB	until
-REL	after
-CLO	2:30
-NIL	.

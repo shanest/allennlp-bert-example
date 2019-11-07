@@ -1,9 +1,0 @@
-PRO	She
-EPS	helped
-PRO	him
-EXS	get
-AND	over
-HAS	his
-IST	bad
-CON	mood
-NIL	.

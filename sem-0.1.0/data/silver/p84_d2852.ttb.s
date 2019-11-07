@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	thinking
-AND	of
-EXS	launching
-DIS	a
-IST	new
-CON	website
-NIL	.

@@ -1,9 +1,0 @@
-AND	Why
-NOW	do
-PRO	you
-EXS	say
-PRO	it
-HAS	's
-DIS	a
-CON	verb
-QUE	?

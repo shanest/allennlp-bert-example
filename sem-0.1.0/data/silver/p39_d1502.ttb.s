@@ -1,9 +1,0 @@
-QUE	What
-NOW	do
-PRO	you
-NOW	think
-NOW	has
-EXS	happened
-REL	to
-PER	Tom
-QUE	?

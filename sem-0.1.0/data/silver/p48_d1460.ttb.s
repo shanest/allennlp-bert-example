@@ -1,9 +1,0 @@
-PRO	I
-EPS	gave
-PRO	him
-QUE	what
-IST	little
-CON	money
-PRO	I
-PST	had
-NIL	.

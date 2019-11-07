@@ -1,9 +1,0 @@
-QUE	Who
-NOW	has
-NOT	n't
-PFT	been
-EXS	playing
-REL	by
-DEF	the
-CON	rules
-QUE	?

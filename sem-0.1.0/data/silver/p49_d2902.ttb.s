@@ -1,9 +1,0 @@
-PRO	She
-ENS	likes
-PRO	me
-AND	and
-PRO	I
-AND	like
-HAS	her
-ALT	too
-NIL	.

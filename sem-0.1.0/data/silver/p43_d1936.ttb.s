@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-PRO	you
-NOW	think
-UNK	there
-HAS	's
-NOT	no
-CON	hope
-NIL	.

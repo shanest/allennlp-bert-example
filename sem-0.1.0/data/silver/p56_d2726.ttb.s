@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-PFT	been
-EXS	wanting
-SUB	to
-EXS	talk
-REL	to
-PRO	you
-NIL	.

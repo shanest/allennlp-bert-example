@@ -1,9 +1,0 @@
-PRO	She
-PST	was
-IST	unable
-SUB	to
-EXS	come
-SUB	because
-AND	of
-CON	illness
-NIL	.

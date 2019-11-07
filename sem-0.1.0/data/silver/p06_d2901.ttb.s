@@ -1,9 +1,0 @@
-GPE	Guinea
-NOW	is
-EXT	called
-NIL	"
-ORG	Guinée
-NIL	"
-REL	in
-GPO	French
-NIL	.

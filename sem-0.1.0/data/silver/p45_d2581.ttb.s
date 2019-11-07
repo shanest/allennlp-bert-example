@@ -1,9 +1,0 @@
-PRX	This
-CON	letter
-PST	was
-EXS	written
-REL	by
-PER	Naoko
-IST	last
-CON	night
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	happy
-IST	just
-SUB	to
-EXS	be
-REL	near
-PRO	you
-NIL	.

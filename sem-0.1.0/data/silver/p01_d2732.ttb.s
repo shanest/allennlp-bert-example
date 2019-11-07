@@ -1,9 +1,0 @@
-QUV	Many
-CON	obstacles
-PST	were
-EXS	put
-REL	in
-PER	Tom
-HAS	's
-CON	way
-NIL	.

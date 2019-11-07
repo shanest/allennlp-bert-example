@@ -1,9 +1,0 @@
-PER	Tom
-EPS	showed
-PRO	me
-QUE	how
-SUB	to
-EXS	use
-HAS	his
-CON	camera
-NIL	.

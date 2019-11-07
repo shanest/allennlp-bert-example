@@ -1,9 +1,0 @@
-PRO	I
-PST	was
-NOT	n't
-EXS	conscious
-AND	of
-DIS	anyone
-EXS	watching
-PRO	me
-NIL	.

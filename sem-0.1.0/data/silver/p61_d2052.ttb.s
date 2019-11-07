@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	screaming
-SUB	because
-PRO	I
-EPS	saw
-DIS	a
-CON	mouse
-NIL	!

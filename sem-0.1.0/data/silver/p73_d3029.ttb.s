@@ -1,9 +1,0 @@
-PRO	He
-NOW	's
-IST	unlikely
-SUB	to
-EXS	want
-SUB	to
-EXS	get
-EXS	involved
-NIL	.

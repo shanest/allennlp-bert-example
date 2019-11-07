@@ -1,9 +1,0 @@
-PRO	He
-EPS	put
-REL	on
-HAS	his
-CON	sweater
-EXS	wrong
-CON	side
-IST	out
-NIL	.

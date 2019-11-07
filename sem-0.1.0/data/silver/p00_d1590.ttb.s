@@ -1,9 +1,0 @@
-PRO	It
-PST	was
-NOT	n't
-EXS	supposed
-NIL	to
-EXS	be
-PRX	this
-CON	way
-NIL	.

@@ -1,9 +1,0 @@
-PRO	We
-NOW	're
-EXS	voting
-NOW	now
-REL	on
-DEF	the
-CON	voting
-CON	procedure
-NIL	.

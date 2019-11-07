@@ -1,9 +1,0 @@
-NOT	No
-CON	body
-NOT	but
-PER	John
-NOW	has
-EXS	heard
-REL	of
-PRO	it
-NIL	.

@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-EXS	absurd
-NOT	never
-SUB	to
-EXS	admit
-HAS	your
-CON	mistakes
-NIL	.

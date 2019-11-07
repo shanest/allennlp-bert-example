@@ -1,9 +1,0 @@
-CON	God
-NOW	forbid
-SUB	that
-AND	anything
-NEC	should
-EXS	happen
-REL	to
-PER	Tom
-NIL	.

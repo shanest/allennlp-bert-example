@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	thinking
-AND	of
-EXS	increasing
-HAS	my
-CON	work
-CON	load
-NIL	.

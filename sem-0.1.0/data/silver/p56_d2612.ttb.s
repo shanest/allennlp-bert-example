@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-QUE	how
-IST	busy
-PRO	I
-NOW	've
-PFT	been
-QUE	?

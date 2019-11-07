@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-NOT	n't
-DIS	a
-CON	man
-AND	of
-QUV	many
-CON	words
-NIL	.

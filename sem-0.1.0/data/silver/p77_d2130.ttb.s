@@ -1,9 +1,0 @@
-PRO	I
-FUT	'd
-EXS	like
-SUB	to
-EXS	see
-DIS	someone
-NOW	do
-COM	better
-NIL	.

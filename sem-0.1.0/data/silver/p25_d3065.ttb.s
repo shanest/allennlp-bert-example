@@ -1,9 +1,0 @@
-PRO	I
-ENS	bet
-PRO	you
-PST	'd
-EXS	make
-DIS	a
-IST	great
-ROL	father
-NIL	.

@@ -1,9 +1,0 @@
-HAS	His
-CON	parents
-EPS	helped
-SUB	whoever
-EXS	asked
-REL	for
-HAS	their
-CON	help
-NIL	.

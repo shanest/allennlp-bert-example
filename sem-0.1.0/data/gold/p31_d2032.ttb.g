@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-DIS	a
-CON	man
-REL	with
-DIS	a
-COL	red
-CON	hat
-NIL	.

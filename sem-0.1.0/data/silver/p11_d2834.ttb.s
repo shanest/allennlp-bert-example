@@ -1,9 +1,0 @@
-PER	Mary
-AND	always
-CON	studies
-REL	for
-QUC	two
-CON	hours
-DIS	a
-CON	day
-NIL	.

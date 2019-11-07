@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-NOW	are
-EXS	busy
-EXS	planning
-HAS	their
-CON	wedding
-NIL	.

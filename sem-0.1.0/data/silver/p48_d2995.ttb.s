@@ -1,9 +1,0 @@
-PRO	He
-EPS	changed
-DIS	a
-CON	lot
-REL	since
-DEF	the
-IST	last
-CON	time
-NIL	.

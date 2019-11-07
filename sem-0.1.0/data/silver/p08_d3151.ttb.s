@@ -1,9 +1,0 @@
-DEF	The
-ROL	slave
-PST	was
-IST	anxious
-SUB	to
-EXS	alter
-HAS	his
-CON	destiny
-NIL	.

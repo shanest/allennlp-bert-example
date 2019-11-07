@@ -1,9 +1,0 @@
-PRO	He
-EPS	showed
-PRO	me
-QUE	how
-SUB	to
-EXS	use
-PRX	this
-CON	camera
-NIL	.

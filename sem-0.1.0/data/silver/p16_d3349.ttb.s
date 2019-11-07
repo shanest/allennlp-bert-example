@@ -1,9 +1,0 @@
-PRO	I
-IST	often
-EPS	played
-CON	soccer
-SUB	when
-PRO	I
-PST	was
-EXS	young
-NIL	.

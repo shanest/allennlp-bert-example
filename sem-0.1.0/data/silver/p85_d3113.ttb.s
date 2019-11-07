@@ -1,9 +1,0 @@
-AND	As
-PST	was
-EXS	expected
-NIL	,
-PER	Tom
-EPS	won
-DEF	the
-CON	race
-NIL	.

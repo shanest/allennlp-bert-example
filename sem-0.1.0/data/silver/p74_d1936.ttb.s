@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-NOT	not
-EXS	seen
-PRO	him
-IST	often
-REL	at
-CON	school
-NIL	.

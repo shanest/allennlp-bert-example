@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-DEF	the
-ROL	captain
-AND	of
-DEF	the
-CON	football
-CON	team
-NIL	.

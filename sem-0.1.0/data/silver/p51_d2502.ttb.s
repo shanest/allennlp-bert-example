@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-IST	hard
-SUB	to
-EXS	say
-NOT	no
-REL	to
-PER	Tom
-NIL	.

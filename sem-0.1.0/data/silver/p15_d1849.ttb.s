@@ -1,9 +1,0 @@
-AND	How
-POS	can
-PRO	you
-NOW	tell
-PER	Tom
-NOW	is
-NOT	n't
-EXS	happy
-QUE	?

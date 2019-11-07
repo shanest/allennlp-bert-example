@@ -1,9 +1,0 @@
-GPE	Canada
-NOW	is
-DIS	a
-IST	neighboring
-CON	country
-AND	of
-DEF	the
-ORG	USA
-NIL	.

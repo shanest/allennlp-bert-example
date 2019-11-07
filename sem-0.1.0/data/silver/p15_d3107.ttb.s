@@ -1,9 +1,0 @@
-NOW	Are
-PRO	you
-EXS	planning
-SUB	on
-EXG	buying
-DIS	a
-IST	new
-CON	computer
-QUE	?

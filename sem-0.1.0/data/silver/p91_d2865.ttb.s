@@ -1,9 +1,0 @@
-QUE	What
-NOW	do
-PRO	you
-NOW	think
-PRO	she
-NOW	is
-EXS	doing
-NOW	now
-QUE	?

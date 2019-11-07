@@ -1,9 +1,0 @@
-ROL	Mr.
-AND	and
-ROL	Mrs.
-PER	West
-NOW	are
-REL	on
-HAS	their
-CON	honeymoon
-NIL	.

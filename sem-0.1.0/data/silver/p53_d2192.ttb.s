@@ -1,9 +1,0 @@
-PER	Tom
-EPS	told
-PER	Mary
-PRO	he
-PST	was
-EXS	going
-REL	to
-GPE	Boston
-NIL	.

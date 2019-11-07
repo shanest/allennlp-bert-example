@@ -1,9 +1,0 @@
-HAS	My
-ROL	sister
-PST	did
-NOT	not
-EXS	say
-NIL	"
-GRE	Hello
-NIL	"
-NIL	.

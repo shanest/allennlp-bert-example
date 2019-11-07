@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-EXS	going
-SUB	to
-EXS	happen
-IST	sooner
-DIS	or
-IST	later
-NIL	.

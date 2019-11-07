@@ -1,9 +1,0 @@
-PRX	This
-NOW	is
-DEF	the
-CON	video
-PRO	I
-EPS	wanted
-NIL	to
-EXS	see
-NIL	.

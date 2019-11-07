@@ -1,9 +1,0 @@
-DIS	A
-CON	lot
-AND	of
-CON	villagers
-PST	were
-EXS	killed
-REL	by
-CON	soldiers
-NIL	.

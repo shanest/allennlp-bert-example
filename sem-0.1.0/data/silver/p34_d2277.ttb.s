@@ -1,9 +1,0 @@
-CON	Careful
-SUB	as
-PRO	he
-PST	was
-PRO	he
-EPS	made
-IST	unexpected
-CON	mistakes
-NIL	.

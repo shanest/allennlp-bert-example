@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	nothing
-SUB	to
-EXS	declare
-NOT	except
-HAS	my
-CON	genius
-NIL	.

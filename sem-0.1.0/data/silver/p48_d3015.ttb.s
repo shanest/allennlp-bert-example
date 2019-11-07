@@ -1,9 +1,0 @@
-PER	Tom
-EPS	wrote
-CON	poems
-AND	about
-HAS	his
-CON	love
-REL	for
-PER	Mary
-NIL	.

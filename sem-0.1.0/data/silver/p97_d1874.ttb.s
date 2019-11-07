@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	writing
-DIS	a
-CON	letter
-REL	to
-PER	Tom
-NOW	now
-NIL	.

@@ -1,9 +1,0 @@
-PER	Mary
-COO	and
-PRO	I
-PST	were
-EXS	ill
-REL	in
-CON	bed
-PST	yesterday
-NIL	.

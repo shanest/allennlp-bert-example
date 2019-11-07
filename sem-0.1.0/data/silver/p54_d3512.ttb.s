@@ -1,9 +1,0 @@
-PER	Tom
-NOW	does
-NOT	n't
-EXS	think
-PER	Mary
-NEC	should
-EXS	do
-DST	that
-NIL	.

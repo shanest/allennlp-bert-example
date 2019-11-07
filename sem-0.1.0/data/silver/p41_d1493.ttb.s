@@ -1,9 +1,0 @@
-GPE	Somalia
-NOW	is
-EXS	called
-NIL	"
-GEO	Soomaaliya
-NIL	"
-REL	in
-GEO	Somali
-NIL	.

@@ -1,9 +1,0 @@
-QUE	How
-QUV	many
-CON	pairs
-AND	of
-CON	socks
-NOW	do
-PRO	you
-NOW	have
-QUE	?

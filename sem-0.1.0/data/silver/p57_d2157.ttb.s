@@ -1,9 +1,0 @@
-PER	Lyusya
-NOW	is
-DIS	a
-INT	very
-QUE	naïve
-COO	and
-IST	credulous
-CON	girl
-NIL	.

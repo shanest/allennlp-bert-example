@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-IST	just
-EXS	playing
-DEF	the
-CON	devil
-HAS	's
-CON	advocate
-NIL	.

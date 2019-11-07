@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	getting
-IST	off
-REL	at
-DEF	the
-IST	next
-CON	station
-NIL	.

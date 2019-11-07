@@ -1,9 +1,0 @@
-PER	Tom
-EPS	asked
-PER	Mary
-SUB	to
-EXS	look
-REL	after
-DEF	the
-CON	children
-NIL	.

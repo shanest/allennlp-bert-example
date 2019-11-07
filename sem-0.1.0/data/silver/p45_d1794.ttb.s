@@ -1,9 +1,0 @@
-PER	Tom
-EPS	took
-DIS	a
-CON	spatula
-AND	out
-AND	of
-DEF	the
-CON	drawer
-NIL	.

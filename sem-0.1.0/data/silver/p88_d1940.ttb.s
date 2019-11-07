@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-PRO	them
-AND	over
-UNK	there
-DIS	a
-CON	while
-PST	ago
-NIL	.

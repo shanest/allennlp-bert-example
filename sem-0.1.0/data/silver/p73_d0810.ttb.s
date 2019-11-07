@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-EXS	written
-REL	in
-HAS	your
-CON	diary
-ALT	yet
-NOW	today
-QUE	?

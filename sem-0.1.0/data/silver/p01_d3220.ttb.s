@@ -1,9 +1,0 @@
-DEF	The
-IST	new
-CON	year
-NOW	is
-EXG	coming
-REL	with
-IST	long
-CON	strides
-NIL	.

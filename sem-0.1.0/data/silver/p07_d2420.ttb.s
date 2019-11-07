@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-DIS	a
-CON	bit
-AND	of
-DIS	a
-CON	reader
-EMP	myself
-NIL	.

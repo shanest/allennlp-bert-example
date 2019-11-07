@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-EXS	senseless
-SUB	to
-EXS	worry
-AND	about
-EXG	doing
-PRO	it
-NIL	.

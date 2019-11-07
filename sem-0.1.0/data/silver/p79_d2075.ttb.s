@@ -1,9 +1,0 @@
-AND	Everybody
-ENS	says
-SUB	that
-PRO	he
-NOW	is
-DIS	a
-CON	kind
-CON	soul
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	got
-DIS	a
-CON	frog
-REL	in
-HAS	my
-CON	throat
-NIL	.

@@ -1,9 +1,0 @@
-PRO	She
-EPS	killed
-DIS	an
-CON	hour
-EXS	looking
-AND	around
-DEF	the
-CON	stores
-NIL	.

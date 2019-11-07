@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	sorry
-PRO	I
-EPS	made
-PRO	you
-EXS	cry
-PST	yesterday
-NIL	.

@@ -1,9 +1,0 @@
-PRO	You
-NOW	're
-IST	absolutely
-EXS	perfect
-NIL	,
-REL	in
-AND	every
-CON	way
-NIL	.

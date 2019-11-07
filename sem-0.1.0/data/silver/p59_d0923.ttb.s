@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-IST	hard
-REL	for
-CON	foreigners
-SUB	to
-EXS	learn
-GPO	Japanese
-NIL	.

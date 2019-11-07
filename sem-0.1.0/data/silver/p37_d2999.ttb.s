@@ -1,9 +1,0 @@
-PER	Tom
-IST	always
-ENS	seems
-SUB	to
-EXS	be
-IST	mad
-REL	at
-AND	everyone
-NIL	.

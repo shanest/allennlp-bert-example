@@ -1,9 +1,0 @@
-PER	Tom
-COO	and
-PRO	I
-PST	were
-INT	very
-IST	busy
-IST	last
-CON	week
-NIL	.

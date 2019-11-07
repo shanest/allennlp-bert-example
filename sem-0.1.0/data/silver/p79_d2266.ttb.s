@@ -1,9 +1,0 @@
-PER	Mary
-NOW	is
-EXS	saving
-CON	money
-SUB	to
-EXS	go
-REL	to
-GPE	Japan
-NIL	.

@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-SUB	that
-CON	boy
-AND	who
-HAS	's
-CON	crying
-QUE	?

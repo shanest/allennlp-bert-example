@@ -1,9 +1,0 @@
-PER	Mary
-HAS	's
-ROL	grandfather
-EPS	used
-REL	to
-CON	harvest
-REL	by
-CON	scythe
-NIL	.

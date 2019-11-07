@@ -1,9 +1,0 @@
-PER	Abraham
-PER	Lincoln
-EPS	went
-IST	back
-REL	to
-GEO	Washington
-AND	that
-CON	night
-NIL	.

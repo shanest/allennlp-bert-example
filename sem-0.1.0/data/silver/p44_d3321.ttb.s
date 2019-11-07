@@ -1,9 +1,0 @@
-PER	Tom
-EPS	decided
-SUB	to
-EXS	ask
-REL	for
-PER	Mary
-HAS	's
-CON	help
-NIL	.

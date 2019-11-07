@@ -1,9 +1,0 @@
-CON	None
-AND	of
-HAS	my
-CON	grandkids
-NOW	have
-EXS	started
-CON	school
-ALT	yet
-NIL	.

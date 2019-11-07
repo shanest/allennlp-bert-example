@@ -1,9 +1,0 @@
-PRO	He
-EPS	finished
-EXG	drinking
-QUC	one
-CON	beer
-COO	and
-EPS	ordered
-ALT	another
-NIL	.

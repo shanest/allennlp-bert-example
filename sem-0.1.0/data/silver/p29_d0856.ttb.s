@@ -1,9 +1,0 @@
-DEF	The
-CON	box
-PST	was
-EXS	empty
-SUB	when
-PRO	I
-EPS	opened
-PRO	it
-NIL	.

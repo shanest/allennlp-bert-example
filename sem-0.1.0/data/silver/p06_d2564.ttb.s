@@ -1,9 +1,0 @@
-AND	Why
-NOW	do
-NOT	n't
-PRO	you
-EXS	play
-DEF	the
-CON	banjo
-CON	anymore
-QUE	?

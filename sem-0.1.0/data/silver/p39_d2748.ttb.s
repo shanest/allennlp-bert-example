@@ -1,9 +1,0 @@
-PRO	He
-NOT	never
-ENS	fails
-SUB	to
-EXS	do
-QUE	what
-PRO	he
-ENS	says
-NIL	.

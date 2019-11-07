@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-IST	ever
-EXS	written
-DIS	a
-CON	letter
-REL	to
-PER	Tom
-QUE	?

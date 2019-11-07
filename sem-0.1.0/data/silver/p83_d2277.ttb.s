@@ -1,9 +1,0 @@
-QUC	Two
-IST	big
-CON	powers
-NOW	have
-EXT	signed
-DIS	a
-IST	secret
-CON	agreement
-NIL	.

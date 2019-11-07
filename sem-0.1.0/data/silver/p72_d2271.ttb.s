@@ -1,9 +1,0 @@
-UNK	There
-NOW	is
-DIS	a
-CON	mailbox
-DIS	somewhere
-REL	along
-PRX	this
-CON	street
-NIL	.

@@ -1,9 +1,0 @@
-NOW	Is
-PRX	this
-DEF	the
-CON	girl
-PRO	you
-PST	were
-EXS	talking
-IST	about
-QUE	?

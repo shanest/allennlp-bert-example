@@ -1,9 +1,0 @@
-PRO	He
-EPS	fell
-DIS	a
-CON	victim
-REL	to
-DIS	a
-IST	deadly
-CON	disease
-NIL	.

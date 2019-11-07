@@ -1,9 +1,0 @@
-IST	Please
-EXS	pay
-CON	attention
-REL	to
-QUE	what
-PRO	I
-NOW	'm
-EXS	saying
-NIL	.

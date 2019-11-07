@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	easy
-SUB	to
-EXS	distinguish
-IST	good
-REL	from
-CON	evil
-NIL	.

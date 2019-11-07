@@ -1,9 +1,0 @@
-PRO	He
-PST	got
-EXS	fired
-REL	for
-EXG	slacking
-IST	off
-REL	at
-CON	work
-NIL	.

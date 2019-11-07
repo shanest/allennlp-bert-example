@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-DEF	the
-ROL	artist
-AND	who
-EPS	painted
-PRX	this
-CON	picture
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-IST	able
-SUB	to
-EXS	run
-IST	faster
-AND	than
-PRO	I
-NIL	.

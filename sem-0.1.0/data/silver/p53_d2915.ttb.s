@@ -1,9 +1,0 @@
-PER	Tom
-EPS	lost
-HAS	his
-CON	temper
-COO	and
-EPS	shouted
-REL	at
-PER	Mary
-NIL	.

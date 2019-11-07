@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-PRO	you
-NOW	have
-DIS	a
-CON	house
-REL	in
-GPE	Hawaii
-NIL	.

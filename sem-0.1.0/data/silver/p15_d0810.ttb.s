@@ -1,9 +1,0 @@
-APX	Nearly
-QUC	80
-UOM	percent
-AND	of
-DEF	the
-CON	land
-ENS	is
-CON	mountains
-NIL	.

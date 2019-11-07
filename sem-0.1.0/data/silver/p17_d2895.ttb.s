@@ -1,9 +1,0 @@
-PRX	This
-CON	book
-NOW	contains
-DEF	the
-IST	complete
-CON	works
-AND	of
-PER	Shakespeare
-NIL	.

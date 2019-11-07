@@ -1,9 +1,0 @@
-PRO	I
-PST	was
-EXS	given
-PRX	this
-CON	watch
-REL	by
-HAS	my
-ROL	uncle
-NIL	.

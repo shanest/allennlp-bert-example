@@ -1,9 +1,0 @@
-PRO	I
-EPS	assumed
-PER	Tom
-PST	was
-EXS	working
-REL	with
-PRO	you
-CON	guys
-NIL	.

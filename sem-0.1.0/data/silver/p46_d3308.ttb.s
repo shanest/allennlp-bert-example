@@ -1,9 +1,0 @@
-ITJ	Hey
-EQU	,
-PER	Ayako
-NIL	,
-EXS	make
-HAS	your
-CON	voice
-CON	louder
-NIL	.

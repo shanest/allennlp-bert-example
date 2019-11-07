@@ -1,9 +1,0 @@
-HAS	My
-ROL	father
-NOT	never
-EPS	looked
-IST	down
-REL	on
-DEF	the
-CON	poor
-NIL	.

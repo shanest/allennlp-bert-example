@@ -1,9 +1,0 @@
-DEF	The
-ROL	boss
-EPS	sent
-PER	Tom
-REL	to
-GPE	Boston
-REL	on
-CON	business
-NIL	.

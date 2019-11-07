@@ -1,9 +1,0 @@
-QUV	Many
-CON	people
-NOW	think
-SUB	that
-CON	antique
-CON	cars
-NOW	are
-EXS	overpriced
-NIL	.

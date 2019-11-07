@@ -1,9 +1,0 @@
-PER	Tom
-IST	often
-ENS	says
-IST	stupid
-CON	things
-REL	at
-EXS	inappropriate
-CON	times
-NIL	.

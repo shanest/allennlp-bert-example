@@ -1,9 +1,0 @@
-QUE	Who
-EPS	wrote
-NIL	"
-CON	Fiddler
-REL	on
-DEF	the
-ORG	Roof
-QUE	?
-NIL	"

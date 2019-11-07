@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	easy
-SUB	to
-EXS	add
-PRX	5
-REL	to
-CLO	10
-NIL	.

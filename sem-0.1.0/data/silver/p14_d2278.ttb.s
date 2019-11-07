@@ -1,9 +1,0 @@
-PRO	He
-EPS	watched
-DEF	the
-CON	game
-REL	with
-HAS	his
-CON	arms
-EPS	folded
-NIL	.

@@ -1,9 +1,0 @@
-IST	Deaf
-CON	people
-ENS	encounter
-CON	problems
-REL	in
-DEF	the
-IST	social
-CON	community
-NIL	.

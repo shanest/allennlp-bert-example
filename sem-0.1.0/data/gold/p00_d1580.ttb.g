@@ -1,9 +1,0 @@
-PRO	She
-NOT	never
-EPS	told
-PRO	me
-PRO	she
-EPS	had
-DIS	a
-CON	cat
-NIL	.

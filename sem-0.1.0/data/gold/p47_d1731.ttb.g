@@ -1,9 +1,0 @@
-PER	Elena
-ENS	is
-REL	from
-GPE	Ecuador
-NIL	.
-PRO	She
-NOW	is
-GPO	Ecuadorian
-NIL	.

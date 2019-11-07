@@ -1,9 +1,0 @@
-HAS	My
-ROL	grandfather
-EPS	used
-SUB	to
-EXS	make
-CON	furniture
-REL	for
-REF	himself
-NIL	.

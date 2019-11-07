@@ -1,9 +1,0 @@
-PRO	I
-POS	ca
-NOT	n't
-EXS	take
-HAS	my
-CON	eyes
-REL	off
-PRO	him
-NIL	.

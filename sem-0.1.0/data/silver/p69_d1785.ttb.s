@@ -1,9 +1,0 @@
-PER	Tom
-EPS	saw
-DIS	a
-CON	snake
-CON	slither
-REL	across
-DEF	the
-CON	path
-NIL	.

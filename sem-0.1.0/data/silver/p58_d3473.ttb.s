@@ -1,9 +1,0 @@
-PRO	We
-EPS	talked
-NOT	without
-DEF	the
-CON	aid
-AND	of
-DIS	an
-CON	interpreter
-NIL	.

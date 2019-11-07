@@ -1,9 +1,0 @@
-PRO	She
-EPS	did
-NOT	nothing
-BUT	but
-EXS	weep
-REL	at
-DEF	the
-CON	news
-NIL	.

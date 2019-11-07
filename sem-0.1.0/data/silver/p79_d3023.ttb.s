@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	going
-IST	back
-REL	to
-HAS	my
-IST	native
-CON	country
-NIL	.

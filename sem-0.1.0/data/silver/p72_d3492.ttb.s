@@ -1,9 +1,0 @@
-EXS	Tell
-PRO	me
-QUE	what
-PRO	you
-NOW	're
-EXS	going
-SUB	to
-EXS	do
-NIL	.

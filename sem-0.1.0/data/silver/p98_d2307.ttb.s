@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	sorry
-PRO	I
-NOW	've
-EXS	mistaken
-DEF	the
-CON	direction
-NIL	.

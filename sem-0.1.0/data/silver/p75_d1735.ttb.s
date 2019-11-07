@@ -1,9 +1,0 @@
-DEF	The
-CON	dog
-EPS	jumped
-IST	up
-COO	and
-EPS	caught
-DEF	the
-CON	ball
-NIL	.

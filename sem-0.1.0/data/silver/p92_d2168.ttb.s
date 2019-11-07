@@ -1,9 +1,0 @@
-DST	That
-HAS	's
-IST	true
-ALT	too
-NIL	,
-NOW	is
-NOT	n't
-PRO	it
-QUE	?

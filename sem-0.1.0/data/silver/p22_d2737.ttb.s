@@ -1,9 +1,0 @@
-PRO	I
-NOW	hope
-PER	Tom
-NOW	does
-NOT	n't
-EXS	change
-HAS	his
-CON	mind
-NIL	.

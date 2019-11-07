@@ -1,9 +1,0 @@
-PER	Tom
-COO	and
-PRO	I
-NEC	have
-SUB	to
-EXS	do
-PRX	this
-NOW	now
-NIL	.

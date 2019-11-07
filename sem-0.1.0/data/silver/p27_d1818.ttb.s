@@ -1,9 +1,0 @@
-NOW	Today
-NIL	,
-PRO	I
-NOW	am
-EXS	feeling
-DIS	a
-CON	lot
-COM	better
-NIL	.

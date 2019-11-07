@@ -1,9 +1,0 @@
-PER	Tom
-EPS	handed
-DEF	the
-IST	empty
-CON	pizza
-CON	box
-REL	to
-PER	Mary
-NIL	.

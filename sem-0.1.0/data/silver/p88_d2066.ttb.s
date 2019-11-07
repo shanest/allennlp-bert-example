@@ -1,9 +1,0 @@
-PRO	She
-EPS	knew
-DIS	a
-CON	lot
-AND	of
-CON	songs
-NIL	,
-ALT	too
-NIL	.

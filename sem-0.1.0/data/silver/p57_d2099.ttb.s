@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	tired
-NIL	,
-AND	and
-DIS	a
-CON	bit
-EXS	annoyed
-NIL	.

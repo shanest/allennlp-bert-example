@@ -1,9 +1,0 @@
-PRO	You
-PST	had
-MOR	better
-EXS	learn
-AND	either
-GPO	English
-DIS	or
-GPO	French
-NIL	.

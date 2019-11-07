@@ -1,9 +1,0 @@
-DEF	The
-CON	temperature
-NOW	is
-REL	below
-QUC	zero
-CON	today
-NIL	,
-ALT	too
-NIL	.

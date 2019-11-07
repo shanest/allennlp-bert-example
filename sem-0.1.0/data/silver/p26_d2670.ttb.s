@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	asleep
-NIL	,
-COO	but
-PER	Mary
-NOW	is
-EXS	awake
-NIL	.

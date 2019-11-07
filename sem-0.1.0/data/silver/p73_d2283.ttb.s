@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	used
-REL	to
-PRX	this
-CON	kind
-AND	of
-CON	work
-NIL	.

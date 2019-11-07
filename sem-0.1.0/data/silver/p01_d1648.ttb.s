@@ -1,9 +1,0 @@
-DIS	A
-CON	maid
-NOW	is
-EXS	made
-NIL	to
-EXS	clean
-HAS	your
-CON	house
-NIL	.

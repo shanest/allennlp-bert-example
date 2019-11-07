@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-QUE	what
-PER	Tom
-EPS	ate
-REL	for
-CON	lunch
-QUE	?

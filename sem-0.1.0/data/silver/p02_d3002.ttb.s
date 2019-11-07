@@ -1,9 +1,0 @@
-PER	Nancy
-PST	did
-NOT	n't
-EXS	mind
-EXG	living
-IST	abroad
-REL	by
-REF	herself
-NIL	.

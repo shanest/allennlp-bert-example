@@ -1,9 +1,0 @@
-NOW	Are
-PRO	you
-EXS	coming
-REL	at
-CLO	six
-DIS	or
-REL	at
-CLO	seven
-QUE	?

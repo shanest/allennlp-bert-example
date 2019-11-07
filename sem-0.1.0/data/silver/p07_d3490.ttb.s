@@ -1,9 +1,0 @@
-PRO	We
-EPS	spent
-QUC	three
-UOM	hours
-REL	in
-DEF	the
-IST	open
-CON	air
-NIL	.

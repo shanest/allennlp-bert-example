@@ -1,9 +1,0 @@
-EXS	Let
-PRO	me
-EXS	know
-IMP	if
-PRO	you
-FUT	'll
-EXS	need
-DIS	anything
-NIL	.

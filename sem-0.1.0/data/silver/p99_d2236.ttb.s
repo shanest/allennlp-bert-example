@@ -1,9 +1,0 @@
-PRO	She
-EPS	took
-DIS	an
-CON	airplane
-REL	from
-CON	Algiers
-REL	to
-GEO	Rome
-NIL	.

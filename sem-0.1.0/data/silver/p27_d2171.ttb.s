@@ -1,9 +1,0 @@
-PRO	She
-PST	was
-IST	late
-REL	to
-EXS	work
-SUB	because
-PRO	she
-NOW	overslept
-NIL	.

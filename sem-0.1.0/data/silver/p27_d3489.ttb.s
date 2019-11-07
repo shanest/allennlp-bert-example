@@ -1,9 +1,0 @@
-DEF	The
-TOP	youngest
-CON	boy
-EPS	dropped
-AND	behind
-DEF	the
-ALT	other
-ROL	hikers
-NIL	.

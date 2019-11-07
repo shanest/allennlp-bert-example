@@ -1,9 +1,0 @@
-PER	Tom
-EPS	laughed
-REL	at
-AND	all
-AND	of
-PER	Mary
-HAS	's
-CON	jokes
-NIL	.

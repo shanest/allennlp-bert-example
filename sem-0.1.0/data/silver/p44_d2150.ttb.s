@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-QUE	what
-PER	Tom
-NOW	is
-EXS	doing
-NOW	now
-QUE	?

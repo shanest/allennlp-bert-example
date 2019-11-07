@@ -1,9 +1,0 @@
-PRO	They
-NOW	do
-NOT	n't
-EXS	know
-QUE	what
-PRO	they
-NOW	are
-EXS	missing
-NIL	.

@@ -1,9 +1,0 @@
-HAS	Our
-GPO	Chinese
-CON	guests
-EPS	ordered
-DIS	a
-CON	dog
-REL	for
-CON	dinner
-NIL	.

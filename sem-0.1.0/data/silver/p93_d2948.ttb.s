@@ -1,9 +1,0 @@
-PRO	You
-NOW	're
-IST	too
-EXS	young
-SUB	to
-EXS	travel
-REL	by
-REF	yourself
-NIL	.

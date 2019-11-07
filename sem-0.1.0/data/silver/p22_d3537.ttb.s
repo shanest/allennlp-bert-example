@@ -1,9 +1,0 @@
-EXS	Tell
-PRO	him
-PRO	he
-NEC	should
-EXS	present
-HAS	his
-IST	immediate
-CON	resignation
-NIL	.

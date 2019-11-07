@@ -1,9 +1,0 @@
-QUE	What
-CON	kind
-AND	of
-DIS	a
-CON	camera
-NOW	do
-PRO	you
-NOW	have
-QUE	?

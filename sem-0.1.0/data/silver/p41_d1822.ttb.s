@@ -1,9 +1,0 @@
-AND	How
-PST	did
-DIS	a
-IST	total
-CON	stranger
-ENS	know
-HAS	his
-CON	name
-QUE	?

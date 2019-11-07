@@ -1,9 +1,0 @@
-QUE	How
-PST	did
-PRO	you
-EXS	learn
-REL	to
-EXS	cook
-IST	so
-IST	well
-QUE	?

@@ -1,9 +1,0 @@
-QUE	How
-NEC	should
-CON	people
-EXS	prepare
-SUB	before
-EXG	visiting
-ALT	another
-CON	country
-QUE	?

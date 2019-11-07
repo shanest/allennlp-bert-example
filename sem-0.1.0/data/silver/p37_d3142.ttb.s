@@ -1,9 +1,0 @@
-PER	Marika
-NOW	is
-GPO	Finnish
-NIL	,
-BUT	but
-PRO	she
-ENS	knows
-GPO	German
-NIL	.

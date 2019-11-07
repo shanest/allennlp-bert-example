@@ -1,9 +1,0 @@
-PRO	I
-ENS	wonder
-QUE	what
-EPS	happened
-REL	to
-PER	Tom
-HAS	's
-CON	garden
-NIL	.

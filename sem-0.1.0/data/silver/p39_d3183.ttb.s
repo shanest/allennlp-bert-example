@@ -1,9 +1,0 @@
-POS	Maybe
-PRO	you
-NEC	should
-EXS	take
-DIS	a
-IST	few
-CON	days
-REL	off
-NIL	.

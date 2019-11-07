@@ -1,9 +1,0 @@
-PRO	You
-EPS	put
-INT	too
-QUV	many
-CON	carrots
-REL	in
-DEF	the
-CON	stew
-NIL	.

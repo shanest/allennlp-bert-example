@@ -1,6 +1,0 @@
-PRO	I
-AND	like
-DEF	the
-CON	colour
-COL	yellow
-NIL	.

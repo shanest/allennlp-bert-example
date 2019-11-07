@@ -1,9 +1,0 @@
-EXS	Tell
-PRO	them
-SUB	to
-EXS	call
-PRO	me
-SUB	before
-PRO	they
-EXS	leave
-NIL	.

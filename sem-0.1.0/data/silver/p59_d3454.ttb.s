@@ -1,9 +1,0 @@
-DEF	The
-CON	couple
-EPS	quarreled
-NIL	,
-BUT	but
-IST	soon
-EPS	made
-IST	up
-NIL	.

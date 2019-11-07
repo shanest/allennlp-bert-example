@@ -1,9 +1,0 @@
-PER	Tom
-EPS	asked
-PER	Mary
-QUE	why
-PRO	she
-PST	was
-INT	so
-IST	mad
-NIL	.

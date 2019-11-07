@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-DEF	the
-CON	girl
-CON	swimming
-REL	in
-DEF	the
-CON	river
-NIL	.

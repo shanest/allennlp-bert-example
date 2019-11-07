@@ -1,9 +1,0 @@
-AND	Almost
-NOT	no
-CON	one
-ENS	thinks
-SUB	that
-PRO	we
-NOW	are
-ROL	sisters
-NIL	.

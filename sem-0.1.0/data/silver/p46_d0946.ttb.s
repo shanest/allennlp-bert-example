@@ -1,9 +1,0 @@
-HAS	My
-CON	love
-REL	for
-PRO	you
-NOW	is
-IST	hard
-SUB	to
-EXS	explain
-NIL	.

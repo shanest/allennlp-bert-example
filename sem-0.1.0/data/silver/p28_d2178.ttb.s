@@ -1,9 +1,0 @@
-PRO	He
-IST	usually
-EPS	fed
-HAS	his
-CON	dog
-IST	cheap
-CON	dog
-CON	food
-NIL	.

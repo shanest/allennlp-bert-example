@@ -1,9 +1,0 @@
-PRO	It
-HAS	's
-ALT	also
-DIS	a
-IST	popular
-CON	destination
-REL	for
-CON	couples
-NIL	.

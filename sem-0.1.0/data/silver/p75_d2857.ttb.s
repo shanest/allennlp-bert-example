@@ -1,9 +1,0 @@
-REL	With
-CON	friends
-AND	like
-PRX	these
-NIL	,
-AND	who
-ENS	needs
-ROL	enemies
-QUE	?

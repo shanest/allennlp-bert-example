@@ -1,9 +1,0 @@
-PRO	She
-PST	was
-EXS	surprised
-SUB	when
-PRO	she
-EPS	heard
-DEF	the
-CON	news
-NIL	.

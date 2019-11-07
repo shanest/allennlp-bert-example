@@ -1,9 +1,0 @@
-PRO	I
-FUT	'll
-EXS	get
-REL	to
-AND	that
-REL	in
-DIS	a
-CON	moment
-NIL	.

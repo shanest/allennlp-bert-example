@@ -1,9 +1,0 @@
-PRO	We
-NOW	have
-EXS	detected
-DIS	an
-GEO	abnormality
-REL	on
-HAS	your
-REL	x-ray
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-DIS	a
-CON	waiter
-AND	and
-ALT	also
-DIS	an
-ROL	actor
-NIL	.

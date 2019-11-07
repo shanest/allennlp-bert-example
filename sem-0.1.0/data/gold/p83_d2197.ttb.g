@@ -1,9 +1,0 @@
-PER	Bob
-EPS	dropped
-REL	in
-REL	at
-HAS	his
-ROL	uncle
-HAS	's
-CON	house
-NIL	.

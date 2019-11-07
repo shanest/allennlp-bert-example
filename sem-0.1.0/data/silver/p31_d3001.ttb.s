@@ -1,9 +1,0 @@
-PRO	I
-FUT	'll
-EXS	let
-PER	Tom
-EXS	know
-PRO	you
-NOW	're
-PRX	here
-NIL	.

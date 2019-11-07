@@ -1,9 +1,0 @@
-DEF	The
-CON	baby
-EPS	cried
-REL	on
-COO	and
-REL	off
-AND	all
-CON	night
-NIL	.

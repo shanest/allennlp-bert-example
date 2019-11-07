@@ -1,9 +1,0 @@
-PRO	They
-ENS	live
-REL	in
-DIS	a
-IST	little
-CON	village
-REL	in
-GPE	England
-NIL	.

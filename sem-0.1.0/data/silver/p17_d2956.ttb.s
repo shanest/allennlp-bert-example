@@ -1,9 +1,0 @@
-GRE	Hi
-NIL	!
-CON	Where
-NOW	do
-PRO	you
-ENS	want
-SUB	to
-EXS	go
-QUE	?

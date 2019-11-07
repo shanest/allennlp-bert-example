@@ -1,9 +1,0 @@
-PRO	She
-EPS	performed
-HAS	her
-IST	daily
-CON	duties
-NOT	without
-AND	any
-CON	passion
-NIL	.

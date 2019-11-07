@@ -1,9 +1,0 @@
-NOT	No
-CON	one
-ENS	seems
-SUB	to
-EXS	know
-SUB	where
-PER	Tom
-EPS	went
-NIL	.

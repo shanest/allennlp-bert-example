@@ -1,9 +1,0 @@
-PER	Tom
-PST	was
-DEF	the
-QUC	one
-AND	who
-EPS	broke
-DEF	the
-CON	vase
-NIL	.

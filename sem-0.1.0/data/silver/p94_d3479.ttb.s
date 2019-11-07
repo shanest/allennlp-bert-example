@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-IST	just
-NOW	do
-NOT	n't
-EXS	trust
-PER	John
-NIL	.

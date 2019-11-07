@@ -1,9 +1,0 @@
-PER	Tom
-NEC	ought
-SUB	to
-EXS	know
-IST	better
-REL	at
-HAS	his
-CON	age
-NIL	.

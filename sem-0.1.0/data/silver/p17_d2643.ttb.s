@@ -1,9 +1,0 @@
-PRO	She
-ENS	discovers
-DIS	some
-AND	of
-HAS	her
-ROL	mother
-HAS	's
-CON	secrets
-NIL	.

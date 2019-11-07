@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-NOT	not
-FUT	gonna
-EXS	do
-AND	anything
-AND	about
-PRO	it
-NIL	.

@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	doubtful
-SUB	whether
-PRX	this
-CON	method
-FUT	will
-EXS	work
-NIL	.

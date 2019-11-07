@@ -1,9 +1,0 @@
-AND	Both
-HAS	my
-ROL	father
-AND	and
-HAS	my
-CON	brother
-AND	like
-CON	gambling
-NIL	.

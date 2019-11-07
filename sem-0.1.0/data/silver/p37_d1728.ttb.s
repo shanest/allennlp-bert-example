@@ -1,9 +1,0 @@
-PER	Tom
-PST	had
-NOT	never
-EXS	seen
-PER	Mary
-SUB	so
-EXS	upset
-REL	before
-NIL	.

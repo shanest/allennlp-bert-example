@@ -1,9 +1,0 @@
-IST	Please
-EPS	put
-DIS	some
-CON	candles
-REL	on
-DEF	the
-CON	birthday
-CON	cake
-NIL	.

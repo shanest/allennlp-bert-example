@@ -1,9 +1,0 @@
-PRO	You
-PST	had
-IST	better
-EXS	take
-HAS	your
-CON	umbrella
-REL	in
-CON	case
-NIL	.

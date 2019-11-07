@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-PER	Tom
-NOW	is
-EXS	trying
-REL	to
-CON	trick
-PRO	us
-NIL	.

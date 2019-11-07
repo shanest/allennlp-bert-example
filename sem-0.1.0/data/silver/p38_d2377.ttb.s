@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-INT	about
-QUC	three
-CON	years
-COM	older
-MOR	than
-PER	Mary
-NIL	.

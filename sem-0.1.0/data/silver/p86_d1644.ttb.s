@@ -1,9 +1,0 @@
-PRO	I
-PST	did
-NOT	n't
-EXS	have
-MOR	more
-MOR	than
-QUC	1,000
-UOM	yen
-NIL	.

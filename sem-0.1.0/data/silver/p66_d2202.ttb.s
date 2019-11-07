@@ -1,9 +1,0 @@
-PRO	We
-NOW	're
-EXG	waiting
-REL	for
-DEF	the
-CON	shop
-SUB	to
-EXS	open
-NIL	.

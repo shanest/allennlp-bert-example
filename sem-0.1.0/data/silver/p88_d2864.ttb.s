@@ -1,9 +1,0 @@
-PER	Katalina
-NOW	is
-REL	from
-GPE	Argentina
-NIL	.
-PRO	She
-HAS	's
-GPO	Argentinian
-NIL	.

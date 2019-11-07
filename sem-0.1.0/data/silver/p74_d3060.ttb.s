@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-EPS	ordered
-DEF	the
-CON	feed
-REL	for
-DEF	the
-CON	chickens
-QUE	?

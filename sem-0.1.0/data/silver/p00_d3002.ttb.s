@@ -1,9 +1,0 @@
-QUE	What
-NOW	am
-PRO	I
-EXS	supposed
-NIL	to
-EXS	be
-EXG	looking
-REL	for
-QUE	?

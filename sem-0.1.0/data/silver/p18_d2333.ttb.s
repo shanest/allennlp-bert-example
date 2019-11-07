@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-PFT	been
-REL	in
-GPE	Boston
-REL	since
-IST	last
-DOW	Monday
-NIL	.

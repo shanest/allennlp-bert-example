@@ -1,9 +1,0 @@
-EXS	Let
-PRO	's
-NOW	say
-PRO	I
-NOW	'm
-EXS	talking
-AND	about
-PRO	you
-NIL	.

@@ -1,9 +1,0 @@
-NOW	Is
-UNK	there
-DIS	a
-IST	good
-CON	restaurant
-DIS	somewhere
-AND	near
-PRX	here
-QUE	?

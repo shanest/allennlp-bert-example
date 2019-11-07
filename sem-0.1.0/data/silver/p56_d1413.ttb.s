@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXG	wearing
-DEF	the
-CON	tie
-PRO	I
-EPS	gave
-PRO	him
-NIL	.

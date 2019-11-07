@@ -1,9 +1,0 @@
-DEF	The
-CON	consequence
-EPS	was
-SUB	that
-PRO	she
-EPS	lost
-HAS	her
-CON	job
-NIL	.

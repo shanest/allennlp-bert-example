@@ -1,9 +1,0 @@
-CON	Water
-NOW	covers
-INT	about
-QUC	70
-UOM	%
-AND	of
-DEF	the
-CON	earth
-NIL	.

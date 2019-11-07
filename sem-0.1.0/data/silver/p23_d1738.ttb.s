@@ -1,9 +1,0 @@
-PRO	You
-POS	can
-IST	easily
-EXS	see
-DEF	the
-ROL	politician
-REL	in
-PRO	him
-NIL	.

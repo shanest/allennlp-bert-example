@@ -1,9 +1,0 @@
-AND	Could
-PRO	I
-NOW	have
-CON	money
-REL	for
-HAS	my
-CON	piano
-CON	lesson
-QUE	?

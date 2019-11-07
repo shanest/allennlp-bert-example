@@ -1,9 +1,0 @@
-PER	Fred
-AND	and
-PER	George
-EPS	took
-CON	turns
-REL	with
-DEF	the
-CON	driving
-NIL	.

@@ -1,9 +1,0 @@
-REL	In
-DIS	some
-CON	states
-NIL	,
-CON	judges
-NOW	are
-EXS	elected
-CON	officials
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-EPS	found
-PRO	it
-UNK	difficult
-SUB	to
-EXS	make
-IST	myself
-EXS	understood
-NIL	.

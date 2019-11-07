@@ -1,9 +1,0 @@
-PRO	I
-NOW	hope
-PRO	you
-FUT	'll
-EXS	come
-ALT	again
-DIS	some
-CON	day
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-ENS	says
-PRO	he
-NOW	's
-IST	almost
-IST	ready
-SUB	to
-EXS	leave
-NIL	.

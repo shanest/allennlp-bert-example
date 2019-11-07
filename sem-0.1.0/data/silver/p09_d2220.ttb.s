@@ -1,9 +1,0 @@
-PRO	He
-EPS	took
-AND	over
-DEF	the
-CON	business
-REL	from
-HAS	his
-ROL	father
-NIL	.

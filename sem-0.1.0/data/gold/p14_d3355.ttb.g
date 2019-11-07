@@ -1,9 +1,0 @@
-DEF	The
-CON	boat
-PST	was
-EXS	broken
-REL	by
-DEF	the
-IST	floating
-CON	ice
-NIL	.

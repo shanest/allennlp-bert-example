@@ -1,9 +1,0 @@
-DIS	A
-IST	sharp
-CON	crack
-AND	of
-CON	thunder
-EPS	split
-DEF	the
-CON	sky
-NIL	.

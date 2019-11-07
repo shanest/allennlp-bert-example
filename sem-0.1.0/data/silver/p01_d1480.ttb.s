@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	going
-NIL	to
-EXS	do
-DIS	something
-REL	about
-PRO	it
-NIL	.

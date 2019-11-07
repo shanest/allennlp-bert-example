@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-DEF	the
-CON	boy
-AND	who
-EPS	broke
-DEF	the
-CON	window
-NIL	.

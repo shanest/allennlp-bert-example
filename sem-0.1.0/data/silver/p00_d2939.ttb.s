@@ -1,9 +1,0 @@
-PRO	He
-EPS	fell
-REL	under
-DEF	the
-CON	suspicion
-REL	of
-DEF	the
-CON	police
-NIL	.

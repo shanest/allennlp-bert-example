@@ -1,9 +1,0 @@
-DEF	The
-COL	white
-CON	building
-PST	was
-EXS	destroyed
-REL	by
-DEF	the
-CON	earthquake
-NIL	.

@@ -1,9 +1,0 @@
-QUE	Who
-EPS	broke
-DEF	the
-CON	window
-QUE	?
-EXS	Tell
-DEF	the
-CON	truth
-NIL	.

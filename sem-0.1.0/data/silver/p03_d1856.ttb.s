@@ -1,9 +1,0 @@
-QUE	What
-NOW	do
-PRO	you
-EXS	think
-INT	about
-EXS	eating
-IST	out
-CON	tonight
-QUE	?

@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	fed
-IST	up
-REL	with
-EXS	eating
-REL	in
-CON	restaurants
-NIL	.

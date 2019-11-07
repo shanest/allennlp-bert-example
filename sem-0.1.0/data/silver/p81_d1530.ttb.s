@@ -1,9 +1,0 @@
-PRO	He
-NEC	must
-EXT	have
-EXS	drunk
-INT	too
-QUC	much
-IST	last
-CON	night
-NIL	.

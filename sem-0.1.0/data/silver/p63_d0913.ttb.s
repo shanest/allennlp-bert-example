@@ -1,9 +1,0 @@
-PRO	You
-NOW	're
-EXS	drowning
-REL	in
-DIS	a
-CON	glass
-AND	of
-CON	water
-NIL	.

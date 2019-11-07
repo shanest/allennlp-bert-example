@@ -1,9 +1,0 @@
-CON	Computers
-NOW	are
-IST	capable
-AND	of
-EXG	doing
-INT	extremely
-IST	complicated
-CON	work
-NIL	.

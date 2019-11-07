@@ -1,9 +1,0 @@
-PER	Tom
-EPS	asked
-PRO	me
-SUB	where
-PRO	I
-EPS	bought
-HAS	my
-CON	belt
-NIL	.

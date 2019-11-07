@@ -1,9 +1,0 @@
-DEF	The
-ROL	lawyer
-EPS	insisted
-REL	on
-DEF	the
-CON	client
-HAS	's
-CON	innocence
-NIL	.

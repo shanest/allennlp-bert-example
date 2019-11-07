@@ -1,9 +1,0 @@
-AND	Why
-PST	did
-PRO	you
-ENS	want
-SUB	to
-EXS	talk
-REL	to
-PRO	me
-QUE	?

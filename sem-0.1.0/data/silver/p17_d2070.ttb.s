@@ -1,9 +1,0 @@
-PER	Young
-CON	people
-NOW	are
-IST	apt
-SUB	to
-EXS	go
-REL	to
-CON	extremes
-NIL	.

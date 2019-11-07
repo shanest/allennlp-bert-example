@@ -1,9 +1,0 @@
-PER	Tom
-POS	could
-EXS	see
-SUB	that
-PER	Mary
-PST	was
-NOT	n't
-EXS	happy
-NIL	.

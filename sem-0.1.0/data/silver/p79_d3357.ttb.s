@@ -1,9 +1,0 @@
-PRO	I
-ENS	need
-SUB	to
-EXS	speak
-REL	to
-DIS	someone
-IST	right
-IST	away
-NIL	.

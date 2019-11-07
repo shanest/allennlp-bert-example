@@ -1,9 +1,0 @@
-PER	Tom
-EPS	noticed
-SUB	that
-PER	Mary
-PST	was
-EXG	staring
-REL	at
-PER	John
-NIL	.

@@ -1,9 +1,0 @@
-PRO	It
-PST	was
-EXS	used
-XCL	only
-REL	from
-CON	time
-REL	to
-CON	time
-NIL	.

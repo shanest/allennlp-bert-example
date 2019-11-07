@@ -1,9 +1,0 @@
-NOW	Do
-NOT	n't
-EXS	shoot
-NIL	.
-PRO	I
-NOW	'm
-EXS	coming
-IST	out
-NIL	.

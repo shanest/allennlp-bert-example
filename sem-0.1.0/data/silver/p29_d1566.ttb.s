@@ -1,9 +1,0 @@
-PRO	I
-EPS	scored
-XCL	only
-QUC	33
-CON	points
-REL	on
-DEF	the
-CON	test
-NIL	.

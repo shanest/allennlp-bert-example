@@ -1,9 +1,0 @@
-PER	Tom
-EPS	wondered
-QUE	what
-PER	Mary
-PST	was
-IST	so
-EXS	upset
-IST	about
-NIL	.

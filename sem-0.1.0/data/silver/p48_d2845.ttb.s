@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	starting
-SUB	to
-EXS	feel
-DIS	a
-IST	little
-COM	better
-NIL	.

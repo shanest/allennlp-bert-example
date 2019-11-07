@@ -1,9 +1,0 @@
-PRO	We
-NOW	are
-EXS	grateful
-SUB	to
-PRO	you
-REL	for
-HAS	your
-CON	help
-NIL	.

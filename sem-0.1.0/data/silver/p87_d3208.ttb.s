@@ -1,9 +1,0 @@
-PRO	You
-NOW	have
-NOT	no
-EXS	right
-SUB	to
-EXS	open
-PRX	this
-CON	box
-NIL	.

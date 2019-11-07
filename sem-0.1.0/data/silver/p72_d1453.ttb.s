@@ -1,9 +1,0 @@
-PRO	He
-EPS	regained
-CON	consciousness
-COO	and
-PST	was
-IST	able
-SUB	to
-EXS	talk
-NIL	.

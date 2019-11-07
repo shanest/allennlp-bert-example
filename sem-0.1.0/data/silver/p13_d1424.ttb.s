@@ -1,9 +1,0 @@
-DIS	Someone
-POS	might
-EXS	visit
-PRO	you
-REL	in
-DEF	the
-IST	big
-CON	house
-NIL	.

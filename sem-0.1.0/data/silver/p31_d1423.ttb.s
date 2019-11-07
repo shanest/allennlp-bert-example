@@ -1,9 +1,0 @@
-PER	Tom
-EPS	tried
-SUB	to
-EXS	read
-PER	Mary
-HAS	's
-CON	name
-CON	tag
-NIL	.

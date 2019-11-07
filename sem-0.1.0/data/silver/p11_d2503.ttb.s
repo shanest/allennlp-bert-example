@@ -1,9 +1,0 @@
-PER	Tom
-NOW	does
-NOT	n't
-EXS	know
-SUB	where
-PER	Mary
-ENS	comes
-REL	from
-NIL	.

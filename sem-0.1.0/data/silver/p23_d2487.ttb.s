@@ -1,9 +1,0 @@
-PRX	This
-NOW	is
-DEF	the
-IST	same
-CON	hospital
-SUB	where
-PER	Tom
-ENS	works
-NIL	.

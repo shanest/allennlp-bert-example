@@ -1,9 +1,0 @@
-AND	Why
-NOW	do
-PRO	you
-NOW	think
-PRO	I
-NOW	'm
-EXS	sitting
-PRX	here
-QUE	?

@@ -1,9 +1,0 @@
-DEF	The
-CON	man
-EPS	sold
-HAS	his
-CON	soul
-REL	to
-DEF	the
-CON	devil
-NIL	.

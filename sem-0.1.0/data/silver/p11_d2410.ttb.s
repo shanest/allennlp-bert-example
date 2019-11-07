@@ -1,9 +1,0 @@
-NOW	Is
-UNK	there
-DIS	anybody
-AND	who
-POS	can
-EXS	drive
-DIS	a
-CON	car
-QUE	?

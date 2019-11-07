@@ -1,9 +1,0 @@
-PRO	I
-EPS	thought
-PRO	she
-PST	was
-REL	in
-CON	love
-REL	with
-PER	Tom
-NIL	.

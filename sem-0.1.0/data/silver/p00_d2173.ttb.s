@@ -1,9 +1,0 @@
-PER	Tom
-PST	had
-NIL	to
-EXS	explain
-DEF	the
-CON	joke
-REL	to
-PER	Mary
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-PST	was
-NOT	never
-SUB	to
-EXS	see
-HAS	his
-CON	parents
-ALT	again
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-IST	only
-PFT	been
-EXS	online
-REL	for
-QUC	ten
-UOM	minutes
-NIL	.

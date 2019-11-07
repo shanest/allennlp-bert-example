@@ -1,9 +1,0 @@
-TIM	Yesterday
-NIL	,
-PRO	I
-ENS	read
-DIS	a
-IST	really
-IST	interesting
-CON	story
-NIL	.

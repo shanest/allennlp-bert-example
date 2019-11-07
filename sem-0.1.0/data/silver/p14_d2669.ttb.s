@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-IST	actually
-PFT	been
-EXS	thinking
-SUB	about
-EXS	quitting
-IST	lately
-NIL	.

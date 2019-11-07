@@ -1,9 +1,0 @@
-NOW	Now
-PRO	I
-FUT	'll
-EXS	demonstrate
-PRX	this
-CON	proposal
-REL	with
-CON	puppets
-NIL	.

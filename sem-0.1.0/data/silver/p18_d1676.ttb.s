@@ -1,9 +1,0 @@
-PRO	He
-POS	can
-NOT	not
-EXS	write
-ART	English
-NOT	without
-EXG	making
-CON	mistakes
-NIL	.

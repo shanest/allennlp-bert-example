@@ -1,9 +1,0 @@
-HAS	My
-CON	cat
-NOW	has
-PFT	been
-EXS	dead
-REL	for
-QUC	two
-CON	days
-NIL	.

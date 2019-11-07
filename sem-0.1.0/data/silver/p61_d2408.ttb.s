@@ -1,9 +1,0 @@
-ROL	Mr
-PER	Smith
-EPS	lived
-REL	in
-GEO	Kyoto
-QUC	three
-CON	years
-PST	ago
-NIL	.

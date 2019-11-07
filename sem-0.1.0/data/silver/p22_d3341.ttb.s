@@ -1,9 +1,0 @@
-PER	Tom
-ENS	washes
-CON	clothes
-REL	at
-EXS	least
-AND	once
-DIS	a
-CON	week
-NIL	.

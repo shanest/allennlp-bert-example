@@ -1,9 +1,0 @@
-PRO	I
-IST	only
-EPS	saw
-QUC	one
-CON	person
-REL	on
-DEF	the
-CON	beach
-NIL	.

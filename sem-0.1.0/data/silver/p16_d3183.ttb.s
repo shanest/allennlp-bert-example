@@ -1,9 +1,0 @@
-PRO	You
-POS	ca
-NOT	n't
-EXS	expect
-QUV	much
-CON	sympathy
-REL	from
-PER	Tom
-NIL	.

@@ -1,9 +1,0 @@
-IST	Eventually
-EQU	,
-PER	Tom
-HAS	's
-CON	curiosity
-EPS	overcame
-HAS	his
-CON	fear
-NIL	.

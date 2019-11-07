@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	sorry
-SUB	to
-EXT	have
-EXS	kept
-PRO	you
-EXS	waiting
-NIL	.

@@ -1,9 +1,0 @@
-QUE	Who
-EPS	won
-DEF	the
-CON	Breeders
-HAS	'
-ORG	Cup
-REL	in
-GEO	1993
-QUE	?

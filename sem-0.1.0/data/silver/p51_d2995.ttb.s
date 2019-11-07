@@ -1,9 +1,0 @@
-PER	Tom
-ENS	understands
-QUE	what
-PER	Mary
-ENS	wants
-PRO	him
-SUB	to
-EXS	do
-NIL	.

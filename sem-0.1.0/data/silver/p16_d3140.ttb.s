@@ -1,9 +1,0 @@
-PRO	It
-PST	was
-HAS	his
-CON	silence
-AND	which
-EPS	made
-HAS	her
-EXS	angry
-NIL	.

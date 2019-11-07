@@ -1,9 +1,0 @@
-PRO	She
-ENS	speaks
-IST	clearly
-IST	enough
-SUB	to
-EXS	be
-IST	easily
-EXS	understood
-NIL	.

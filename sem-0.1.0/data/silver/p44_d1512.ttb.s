@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-IST	ever
-EPS	spent
-AND	any
-CON	time
-REL	with
-PER	Tom
-QUE	?

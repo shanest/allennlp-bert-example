@@ -1,9 +1,0 @@
-PRO	They
-NOW	are
-EXS	made
-REL	in
-DIS	a
-CON	variety
-AND	of
-CON	sizes
-NIL	.

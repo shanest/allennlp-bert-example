@@ -1,9 +1,0 @@
-NOT	No
-CON	one
-FUT	will
-EXS	recognize
-PRO	her
-REL	in
-PRX	this
-CON	mask
-NIL	.

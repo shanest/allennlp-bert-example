@@ -1,9 +1,0 @@
-PRO	He
-PST	had
-QUC	two
-DIS	or
-QUC	three
-IST	rather
-IST	competent
-ROL	assistants
-NIL	.

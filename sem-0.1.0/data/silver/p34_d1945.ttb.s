@@ -1,9 +1,0 @@
-PRO	He
-EPS	took
-DIS	a
-IST	real
-CON	liking
-REL	to
-DST	that
-CON	house
-NIL	.

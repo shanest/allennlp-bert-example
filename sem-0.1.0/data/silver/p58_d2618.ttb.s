@@ -1,9 +1,0 @@
-PRO	It
-NEC	must
-EXT	have
-PFT	been
-INT	very
-EXS	difficult
-REL	for
-PRO	you
-NIL	.

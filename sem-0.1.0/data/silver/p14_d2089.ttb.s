@@ -1,9 +1,0 @@
-PER	Tom
-EPS	threw
-DIS	an
-IST	empty
-CON	beer
-POS	can
-REL	at
-PER	Mary
-NIL	.

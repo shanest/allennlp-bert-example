@@ -1,9 +1,0 @@
-DEF	The
-IST	new
-CON	countries
-PST	were
-INT	extremely
-EXS	rich
-REL	in
-CON	resources
-NIL	.

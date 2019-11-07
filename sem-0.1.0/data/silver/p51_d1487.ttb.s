@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-PRO	you
-NOW	're
-INT	too
-EXS	drunk
-SUB	to
-EXS	drive
-NIL	.

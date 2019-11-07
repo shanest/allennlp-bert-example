@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-DIS	a
-IST	few
-CON	pounds
-COM	heavier
-MOR	than
-PER	Mary
-NIL	.

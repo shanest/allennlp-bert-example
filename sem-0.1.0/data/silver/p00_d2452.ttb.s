@@ -1,9 +1,0 @@
-PRO	I
-ENS	want
-PRO	you
-NIL	to
-EXS	return
-REL	to
-HAS	your
-CON	seat
-NIL	.

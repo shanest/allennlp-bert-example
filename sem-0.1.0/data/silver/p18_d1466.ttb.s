@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-AND	both
-NOW	have
-INT	very
-IST	few
-CON	friends
-NIL	.

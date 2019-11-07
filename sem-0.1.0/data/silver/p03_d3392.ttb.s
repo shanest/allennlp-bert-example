@@ -1,9 +1,0 @@
-DEF	The
-CON	law
-ENS	says
-SUB	that
-AND	all
-CON	men
-NOW	are
-EXS	equal
-NIL	.

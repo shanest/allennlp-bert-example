@@ -1,9 +1,0 @@
-PRO	He
-EPS	decided
-PRO	he
-FUT	would
-EXS	put
-REL	off
-HAS	his
-CON	departure
-NIL	.

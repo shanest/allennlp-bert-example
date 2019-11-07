@@ -1,9 +1,0 @@
-DEF	The
-IST	common
-CON	language
-AND	of
-QUV	many
-CON	anime
-NOW	is
-CON	subtitles
-NIL	.

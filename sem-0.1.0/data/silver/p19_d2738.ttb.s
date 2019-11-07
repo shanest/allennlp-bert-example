@@ -1,9 +1,0 @@
-EXS	Tell
-PRO	her
-SUB	that
-PRO	I
-NOW	am
-EXG	watching
-DEF	the
-CON	news
-NIL	.

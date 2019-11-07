@@ -1,9 +1,0 @@
-PRO	I
-ENS	need
-DIS	a
-CON	website
-SUB	to
-EXS	create
-DIS	some
-CON	lists
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-GPO	Spanish
-NIL	,
-GPE	Basque
-COO	and
-DIS	some
-GPO	English
-NIL	.

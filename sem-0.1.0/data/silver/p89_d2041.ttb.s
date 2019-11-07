@@ -1,9 +1,0 @@
-NOW	Do
-NOT	n't
-EXS	make
-IST	up
-HAS	your
-CON	mind
-AND	just
-ALT	yet
-NIL	.

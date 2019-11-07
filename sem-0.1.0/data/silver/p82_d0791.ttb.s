@@ -1,9 +1,0 @@
-DEF	The
-CON	boy
-EPS	caught
-DEF	the
-CON	dog
-REL	by
-DEF	the
-CON	tail
-NIL	.

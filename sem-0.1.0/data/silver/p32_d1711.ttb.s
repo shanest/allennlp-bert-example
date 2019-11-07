@@ -1,9 +1,0 @@
-POS	Maybe
-PRO	I
-NEC	should
-EXT	have
-DIS	a
-CON	talk
-REL	with
-PER	Tom
-NIL	.

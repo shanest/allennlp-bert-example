@@ -1,9 +1,0 @@
-POS	Maybe
-PER	Tom
-POS	can
-EXS	help
-PRO	you
-EXS	move
-DEF	the
-CON	sofa
-NIL	.

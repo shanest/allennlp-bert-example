@@ -1,9 +1,0 @@
-PER	Mary
-NOW	has
-NOT	n't
-EXS	talked
-REL	to
-HAS	her
-ROL	mother
-ALT	yet
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-PST	was
-IST	almost
-IST	afraid
-SUB	to
-EXS	talk
-REL	to
-PRO	you
-NIL	.

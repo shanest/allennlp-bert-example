@@ -1,9 +1,0 @@
-PER	Tom
-EPS	won
-DIS	a
-CON	prize
-REL	in
-DEF	the
-CON	spelling
-CON	competition
-NIL	.

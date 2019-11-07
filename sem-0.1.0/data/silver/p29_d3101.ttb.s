@@ -1,9 +1,0 @@
-PRO	You
-NOW	're
-NOT	not
-INT	too
-EXS	old
-REL	for
-PRX	this
-CON	job
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	want
-PRO	him
-NIL	to
-EXS	see
-PRO	it
-NIL	.

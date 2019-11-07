@@ -1,9 +1,0 @@
-QUE	Which
-NOW	is
-DEF	the
-CON	book
-PRO	we
-NOW	're
-EXS	talking
-IST	about
-QUE	?

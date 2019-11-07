@@ -1,9 +1,0 @@
-PRO	You
-NOW	're
-IST	almost
-AND	as
-IST	tall
-AND	as
-HAS	your
-ROL	father
-NIL	.

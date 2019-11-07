@@ -1,9 +1,0 @@
-PRO	He
-NOW	’s
-PFT	been
-EXS	asleep
-REL	for
-QUC	ten
-UOM	hours
-NOW	now
-NIL	.

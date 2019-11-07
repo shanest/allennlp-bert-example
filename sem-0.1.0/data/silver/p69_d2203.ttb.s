@@ -1,9 +1,0 @@
-PRO	You
-NOW	have
-NOT	no
-CON	one
-SUB	to
-EXS	blame
-AND	but
-REF	yourself
-NIL	.

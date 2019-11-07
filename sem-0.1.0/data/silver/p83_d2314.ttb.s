@@ -1,9 +1,0 @@
-PRO	She
-EPS	bent
-IST	down
-COO	and
-EPS	picked
-IST	up
-DEF	the
-CON	coin
-NIL	.

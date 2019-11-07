@@ -1,9 +1,0 @@
-EXS	Stop
-EXS	contributing
-SUB	to
-EXS	Tatoeba
-NIL	.
-PRO	You
-NOW	're
-EXS	addicted
-NIL	.

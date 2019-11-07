@@ -1,9 +1,0 @@
-HAS	Your
-CON	husband
-HAS	's
-CON	dead
-COO	and
-ENS	sends
-HAS	his
-CON	love
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-ENS	want
-PRO	you
-SUB	to
-EXS	give
-PRO	me
-DIS	a
-CON	job
-NIL	.

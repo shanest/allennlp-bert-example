@@ -1,9 +1,0 @@
-PER	Tom
-PST	persuaded
-PER	Mary
-SUB	to
-EXS	study
-GPO	French
-REL	with
-PRO	him
-NIL	.

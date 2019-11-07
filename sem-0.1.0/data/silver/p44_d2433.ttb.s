@@ -1,9 +1,0 @@
-PRO	I
-EPS	knew
-HAS	her
-DEF	the
-CON	instant
-PRO	I
-EPS	saw
-PRO	her
-NIL	.

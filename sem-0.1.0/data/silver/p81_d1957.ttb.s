@@ -1,9 +1,0 @@
-PRO	I
-ENS	give
-HAS	my
-ROL	friend
-DIS	a
-GRP	bunch
-AND	of
-CON	flowers
-NIL	.

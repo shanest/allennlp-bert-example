@@ -1,6 +1,0 @@
-PRX	This
-CON	CD
-ENS	costs
-UOM	$
-QUC	10
-NIL	.

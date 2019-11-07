@@ -1,9 +1,0 @@
-CON	One
-NOW	is
-GPO	Japanese
-COO	and
-DEF	the
-ALT	other
-NOW	is
-GPO	Italian
-NIL	.

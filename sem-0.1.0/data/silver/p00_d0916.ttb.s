@@ -1,9 +1,0 @@
-HAS	My
-ROL	mother
-EPS	told
-PRO	me
-NIL	to
-EXS	mow
-DEF	the
-CON	lawn
-NIL	.

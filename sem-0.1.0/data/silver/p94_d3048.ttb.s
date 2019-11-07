@@ -1,9 +1,0 @@
-PRO	I
-EPS	spent
-DEF	the
-IST	whole
-CON	evening
-EXS	talking
-REL	to
-PER	Tom
-NIL	.

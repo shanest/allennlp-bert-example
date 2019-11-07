@@ -1,9 +1,0 @@
-PER	Guilherme
-NOW	is
-REL	from
-GPE	Brazil
-NIL	.
-PRO	He
-NOW	is
-GPO	Brazilian
-NIL	.

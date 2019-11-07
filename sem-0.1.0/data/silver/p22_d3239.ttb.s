@@ -1,9 +1,0 @@
-AND	Why
-NOW	are
-PRO	you
-EXS	doing
-PRX	this
-REL	to
-PRO	me
-NOW	now
-QUE	?

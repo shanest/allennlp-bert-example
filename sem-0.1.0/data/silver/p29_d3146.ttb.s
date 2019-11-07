@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-REL	in
-DIS	a
-IST	bad
-CON	mood
-AND	right
-NOW	now
-NIL	.

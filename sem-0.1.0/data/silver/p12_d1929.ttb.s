@@ -1,9 +1,0 @@
-PRO	He
-EPS	talked
-SUB	about
-EXG	ending
-DEF	the
-CON	war
-REL	in
-GPE	Korea
-NIL	.

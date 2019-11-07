@@ -1,9 +1,0 @@
-PRO	We
-NOW	are
-EXS	going
-SUB	to
-EXS	check
-PRO	it
-EXS	right
-IST	away
-NIL	.

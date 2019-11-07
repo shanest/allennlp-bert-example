@@ -1,9 +1,0 @@
-PER	Harry
-EPS	put
-REL	on
-HAS	his
-CON	robe
-AND	and
-CON	wizard
-CON	hat
-NIL	.

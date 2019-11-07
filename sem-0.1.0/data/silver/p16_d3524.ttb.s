@@ -1,9 +1,0 @@
-PRO	I
-ENS	see
-SUB	that
-PRO	you
-NOW	've
-EXS	found
-HAS	your
-CON	umbrella
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	never
-EXS	met
-DIS	a
-CON	person
-AND	like
-PRO	him
-NIL	.

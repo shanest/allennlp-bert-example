@@ -1,9 +1,0 @@
-PER	Tom
-PST	was
-EXS	surprised
-QUE	how
-IST	well
-PER	Mary
-POS	could
-EXS	swim
-NIL	.

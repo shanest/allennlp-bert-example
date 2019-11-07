@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-INT	too
-EXS	dark
-SUB	to
-EXS	play
-CON	baseball
-NOW	now
-NIL	.

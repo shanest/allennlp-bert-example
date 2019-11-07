@@ -1,9 +1,0 @@
-PRO	I
-EPS	put
-HAS	my
-CON	fate
-REL	in
-HAS	your
-IST	beautiful
-CON	hands
-NIL	.

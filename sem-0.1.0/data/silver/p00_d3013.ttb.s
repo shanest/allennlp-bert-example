@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	conceivable
-SUB	that
-PRO	he
-ENS	knows
-DEF	the
-CON	rumor
-NIL	.

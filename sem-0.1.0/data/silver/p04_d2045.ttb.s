@@ -1,9 +1,0 @@
-PER	Tom
-NEC	should
-NEC	definitely
-EXS	ask
-REL	for
-PER	Mary
-HAS	's
-CON	opinion
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-POS	ca
-NOT	n't
-EXS	talk
-REL	to
-PRO	you
-IST	right
-NOW	now
-NIL	.

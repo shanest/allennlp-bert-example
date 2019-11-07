@@ -1,9 +1,0 @@
-PER	Lisa
-EPS	told
-PRO	me
-SUB	that
-PRO	she
-NOW	has
-EXS	eaten
-CON	natto
-NIL	.

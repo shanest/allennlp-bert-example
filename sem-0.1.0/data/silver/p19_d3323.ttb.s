@@ -1,9 +1,0 @@
-HAS	My
-ROL	mother
-NOW	has
-PFT	been
-EXS	sick
-REL	for
-QUC	two
-CON	days
-NIL	.

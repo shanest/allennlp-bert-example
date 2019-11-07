@@ -1,9 +1,0 @@
-DOW	Sunday
-ENS	is
-SUB	when
-PRO	I
-NOW	spend
-HAS	my
-CON	time
-EXS	reading
-NIL	.

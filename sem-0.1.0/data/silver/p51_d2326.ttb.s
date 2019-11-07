@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-PFT	been
-EXS	bitten
-REL	by
-DIS	a
-IST	stray
-CON	dog
-QUE	?

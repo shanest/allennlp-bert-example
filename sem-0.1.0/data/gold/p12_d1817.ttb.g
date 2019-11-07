@@ -1,9 +1,0 @@
-PER	Mary
-EPS	laughed
-COO	and
-EPS	threw
-DIS	a
-CON	pillow
-REL	at
-PRO	me
-NIL	.

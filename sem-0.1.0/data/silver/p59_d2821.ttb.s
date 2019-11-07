@@ -1,9 +1,0 @@
-PER	Tom
-EPS	made
-CON	fun
-AND	of
-DEF	the
-CON	way
-PRO	I
-EXS	talk
-NIL	.

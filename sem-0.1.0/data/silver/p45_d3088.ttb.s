@@ -1,9 +1,0 @@
-ROL	Mr.
-PER	Suzuki
-PST	was
-EXS	giving
-DIS	a
-CON	speech
-AND	that
-CON	afternoon
-NIL	.

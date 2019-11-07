@@ -1,9 +1,0 @@
-PER	Tom
-EPS	bought
-DIS	a
-IST	so-called
-NIL	"
-IST	magical
-CON	stone
-NIL	"
-NIL	.

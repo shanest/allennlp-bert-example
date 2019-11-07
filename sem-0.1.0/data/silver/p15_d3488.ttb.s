@@ -1,9 +1,0 @@
-CON	Nor
-NOW	am
-PRO	I
-IST	ashamed
-SUB	to
-EXS	confess
-HAS	my
-CON	ignorance
-NIL	.

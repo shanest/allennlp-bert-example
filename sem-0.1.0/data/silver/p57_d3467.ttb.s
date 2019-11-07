@@ -1,9 +1,0 @@
-PER	Tom
-EPS	wallowed
-REL	in
-CON	self-pity
-REL	after
-PER	Mary
-EPS	dumped
-PRO	him
-NIL	.

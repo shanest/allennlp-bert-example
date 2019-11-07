@@ -1,9 +1,0 @@
-EXS	Let
-PRO	's
-CON	start
-DEF	the
-CON	party
-SUB	when
-PRO	he
-ENS	comes
-NIL	.

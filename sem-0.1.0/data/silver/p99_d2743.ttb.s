@@ -1,9 +1,0 @@
-EXS	Come
-REL	on
-NIL	,
-PER	Tom
-NIL	.
-CON	Talk
-REL	to
-PRO	me
-NIL	.

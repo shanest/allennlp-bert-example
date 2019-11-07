@@ -1,9 +1,0 @@
-IST	Sustainable
-CON	forestry
-AND	and
-CON	development
-CON	techniques
-NOW	are
-EXS	being
-EXS	employed
-NIL	.

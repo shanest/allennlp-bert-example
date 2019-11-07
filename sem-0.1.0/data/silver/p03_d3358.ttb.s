@@ -1,9 +1,0 @@
-PRO	He
-FUT	'll
-EXS	be
-IST	there
-NIL	,
-CON	rain
-DIS	or
-CON	shine
-NIL	.

@@ -1,9 +1,0 @@
-QUV	Many
-ROL	poets
-EXS	write
-AND	about
-DEF	the
-CON	beauties
-AND	of
-CON	nature
-NIL	.

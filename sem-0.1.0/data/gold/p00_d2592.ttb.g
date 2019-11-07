@@ -1,9 +1,0 @@
-PRO	We
-NOW	've
-EXT	gotten
-DIS	some
-CON	complaints
-REL	from
-DIS	some
-ROL	parents
-NIL	.

@@ -1,9 +1,0 @@
-PRO	It
-NOW	looks
-AND	like
-PER	Tom
-ENS	likes
-HAS	his
-IST	new
-CON	job
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-NOW	does
-NOT	n't
-EXS	have
-AND	any
-CON	brothers
-AND	and
-ROL	sisters
-NIL	.

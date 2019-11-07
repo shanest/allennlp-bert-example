@@ -1,9 +1,0 @@
-PRO	She
-NOW	’s
-PFT	been
-EXS	sent
-REL	to
-CON	jail
-REL	for
-CON	murder
-NIL	.

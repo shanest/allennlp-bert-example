@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	wrong
-REL	to
-CON	aim
-REL	at
-CON	fame
-XCL	only
-NIL	.

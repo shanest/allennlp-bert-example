@@ -1,9 +1,0 @@
-PER	Frederick
-DEF	the
-ORG	Great
-PST	introduced
-DEF	the
-CON	potato
-REL	to
-GPE	Prussia
-NIL	.

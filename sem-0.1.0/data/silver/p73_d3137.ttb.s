@@ -1,9 +1,0 @@
-PER	Tom
-EPS	smiled
-SUB	as
-PRO	he
-EPS	read
-PER	Mary
-HAS	's
-CON	letter
-NIL	.

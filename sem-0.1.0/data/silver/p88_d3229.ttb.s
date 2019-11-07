@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-PST	seated
-REL	across
-DEF	the
-CON	table
-REL	from
-PER	Mary
-NIL	.

@@ -1,9 +1,0 @@
-EXS	Let
-PRO	's
-EXS	see
-QUE	what
-PRO	you
-NOW	're
-EXS	made
-AND	of
-NIL	.

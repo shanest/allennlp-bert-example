@@ -1,9 +1,0 @@
-GPE	Spain
-NOW	is
-EXS	called
-NIL	"
-GEO	Espanya
-NIL	"
-REL	in
-GEO	Catalan
-NIL	.

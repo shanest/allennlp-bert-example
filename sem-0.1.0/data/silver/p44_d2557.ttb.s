@@ -1,9 +1,0 @@
-AND	Every
-CON	child
-ENS	needs
-DIS	someone
-SUB	to
-EXS	admire
-AND	and
-EXS	emulate
-NIL	.

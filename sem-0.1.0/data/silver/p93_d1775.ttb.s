@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-PFT	been
-EXS	working
-REL	since
-CLO	six
-PRX	this
-CON	morning
-NIL	.

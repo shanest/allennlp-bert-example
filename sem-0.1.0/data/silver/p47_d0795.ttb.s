@@ -1,9 +1,0 @@
-POS	Can
-PRO	I
-NOW	have
-DEF	the
-IST	key
-NOW	now
-NIL	,
-IST	please
-QUE	?

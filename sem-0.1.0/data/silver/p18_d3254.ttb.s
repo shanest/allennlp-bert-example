@@ -1,9 +1,0 @@
-NOT	No
-CON	one
-ENS	listens
-REL	to
-PRO	me
-SUB	when
-PRO	I
-EXS	talk
-NIL	.

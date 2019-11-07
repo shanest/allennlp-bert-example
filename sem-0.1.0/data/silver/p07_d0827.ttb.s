@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	going
-SUB	to
-EXS	buy
-DIS	a
-IST	new
-CON	car
-NIL	.

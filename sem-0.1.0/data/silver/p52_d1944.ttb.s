@@ -1,9 +1,0 @@
-PER	Tom
-ENS	wants
-SUB	to
-EXS	have
-DIS	a
-CON	talk
-REL	with
-PER	Mary
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	leaving
-CON	town
-REL	for
-DIS	a
-IST	few
-CON	days
-NIL	.

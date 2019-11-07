@@ -1,9 +1,0 @@
-NOW	Are
-PRO	you
-EXS	going
-NIL	to
-EXS	write
-REL	to
-HAS	your
-ROL	father
-QUE	?

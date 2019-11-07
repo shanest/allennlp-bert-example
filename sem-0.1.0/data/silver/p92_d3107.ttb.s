@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-EPS	visited
-DIS	any
-IST	beautiful
-CON	places
-REL	in
-GPE	Germany
-QUE	?

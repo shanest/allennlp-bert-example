@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	n't
-EXS	read
-NOW	today
-HAS	's
-CON	newspaper
-ALT	yet
-NIL	.

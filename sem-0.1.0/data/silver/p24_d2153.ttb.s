@@ -1,9 +1,0 @@
-HAS	My
-CON	nephew
-IST	seldom
-ENS	puts
-HAS	his
-CON	things
-REL	in
-CON	order
-NIL	.

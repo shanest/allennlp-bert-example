@@ -1,9 +1,0 @@
-HAS	His
-CON	story
-NOW	is
-QUC	much
-MOR	more
-EXS	interesting
-MOR	than
-HAS	hers
-NIL	.

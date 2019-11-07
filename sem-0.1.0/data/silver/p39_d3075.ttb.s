@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	angry
-SUB	that
-PER	Mary
-ENS	disagrees
-REL	with
-PRO	him
-NIL	.

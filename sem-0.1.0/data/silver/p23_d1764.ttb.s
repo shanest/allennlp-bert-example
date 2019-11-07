@@ -1,9 +1,0 @@
-SUB	Who
-EPS	found
-DEF	the
-CON	book
-SUB	that
-PRO	I
-PST	had
-EXS	lost
-QUE	?

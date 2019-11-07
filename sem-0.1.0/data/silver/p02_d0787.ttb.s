@@ -1,9 +1,0 @@
-PER	Tom
-EPS	came
-EXG	running
-REL	with
-DIS	a
-CON	letter
-REL	from
-PER	Judy
-NIL	.

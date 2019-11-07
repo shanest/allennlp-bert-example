@@ -1,9 +1,0 @@
-PER	Tom
-ENS	speaks
-GPO	French
-AND	as
-IST	well
-SUB	as
-PRO	I
-NOW	do
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-FUT	would
-NOT	n't
-EXS	mind
-DIS	a
-CON	beer
-AND	right
-NOW	now
-NIL	.

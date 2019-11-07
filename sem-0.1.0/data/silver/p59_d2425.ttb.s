@@ -1,9 +1,0 @@
-PRO	It
-PST	was
-PER	Tom
-SUB	that
-EPS	broke
-DEF	the
-CON	window
-PST	yesterday
-NIL	.

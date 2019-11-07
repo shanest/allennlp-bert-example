@@ -1,9 +1,0 @@
-PRO	He
-EPS	kissed
-ALT	another
-CON	girl
-SUB	when
-PRO	he
-PST	was
-EXS	drunk
-NIL	.

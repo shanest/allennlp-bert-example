@@ -1,9 +1,0 @@
-PRO	I
-FUT	will
-NOT	not
-EXS	live
-REL	in
-GPE	Kobe
-AND	next
-CON	year
-NIL	.

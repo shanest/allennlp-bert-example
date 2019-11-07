@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	going
-SUB	to
-EXS	watch
-CON	TV
-PRX	this
-CON	evening
-NIL	.

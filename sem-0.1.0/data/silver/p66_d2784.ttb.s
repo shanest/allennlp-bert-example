@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-PST	were
-REL	on
-DEF	the
-CON	same
-NIL	wavelength
-NIL	.

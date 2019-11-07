@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	surprised
-PRO	you
-POS	could
-NOT	n't
-EXS	remember
-DST	that
-NIL	.

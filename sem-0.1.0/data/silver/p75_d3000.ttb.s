@@ -1,9 +1,0 @@
-DEF	The
-IST	massive
-CON	flood
-EPS	paralyzed
-DEF	the
-IST	local
-CON	transportation
-CON	network
-NIL	.

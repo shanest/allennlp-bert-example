@@ -1,9 +1,0 @@
-PER	Tom
-POS	ca
-NOT	n't
-EXS	swim
-AND	and
-AND	neither
-POS	can
-PER	Mary
-NIL	.

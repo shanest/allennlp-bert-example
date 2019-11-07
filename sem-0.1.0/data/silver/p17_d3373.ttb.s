@@ -1,9 +1,0 @@
-PRO	They
-ENS	know
-DEF	the
-CON	importance
-AND	of
-EXG	protecting
-DEF	the
-CON	earth
-NIL	.

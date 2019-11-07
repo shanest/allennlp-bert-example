@@ -1,9 +1,0 @@
-QUE	What
-NOW	is
-DEF	the
-ORD	third
-TOP	largest
-CON	bank
-REL	in
-GPE	Venezuela
-QUE	?

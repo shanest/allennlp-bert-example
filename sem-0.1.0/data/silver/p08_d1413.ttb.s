@@ -1,9 +1,0 @@
-PER	Dan
-NOW	has
-PFT	been
-EXG	seeing
-DIS	a
-CON	psychiatrist
-REL	since
-YOC	1997
-NIL	.

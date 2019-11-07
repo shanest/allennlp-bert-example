@@ -1,9 +1,0 @@
-CON	Man
-NOW	is
-DEF	the
-XCL	only
-CON	animal
-SUB	that
-ENS	writes
-CON	books
-NIL	.

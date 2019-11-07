@@ -1,9 +1,0 @@
-PRO	I
-PST	used
-NIL	to
-EXS	live
-NOT	not
-IST	far
-REL	from
-PRX	here
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	thinking
-AND	as
-IST	fast
-SUB	as
-PRO	I
-POS	can
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-NOT	n't
-PER	John
-AND	and
-PER	Mary
-HAS	's
-CON	son
-NIL	.

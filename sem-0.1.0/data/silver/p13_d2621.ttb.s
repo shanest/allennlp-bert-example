@@ -1,9 +1,0 @@
-EXS	Let
-PRO	's
-CON	schedule
-PRO	it
-REL	for
-DIS	some
-ALT	other
-CON	time
-NIL	.

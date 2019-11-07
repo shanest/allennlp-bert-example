@@ -1,9 +1,0 @@
-PRO	I
-EPS	asked
-PRO	her
-IMP	if
-PRO	she
-EPS	knew
-HAS	his
-CON	address
-NIL	.

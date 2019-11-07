@@ -1,9 +1,0 @@
-HAS	Our
-CON	hens
-EPS	laid
-DIS	a
-CON	lot
-AND	of
-CON	eggs
-PST	yesterday
-NIL	.

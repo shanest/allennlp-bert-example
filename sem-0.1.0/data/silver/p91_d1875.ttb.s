@@ -1,9 +1,0 @@
-DEF	The
-CON	boy
-CON	claims
-PRO	he
-ENS	knows
-NOT	nothing
-AND	about
-PRO	it
-NIL	.

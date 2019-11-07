@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	taking
-PRX	these
-CON	goats
-REL	to
-DEF	the
-CON	mountain
-NIL	.

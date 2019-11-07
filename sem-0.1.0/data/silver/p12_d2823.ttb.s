@@ -1,9 +1,0 @@
-PRO	They
-NOW	're
-EXG	changing
-DEF	the
-CON	color
-AND	of
-HAS	my
-CON	dress
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-EPS	said
-PRO	he
-EPS	knew
-QUE	what
-SUB	that
-PST	was
-EXS	like
-NIL	.

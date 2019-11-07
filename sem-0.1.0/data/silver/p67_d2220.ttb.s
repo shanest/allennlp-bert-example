@@ -1,9 +1,0 @@
-DEF	The
-CON	company
-ENS	aims
-REL	to
-CON	branch
-AND	out
-REL	into
-GPE	China
-NIL	.

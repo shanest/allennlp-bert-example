@@ -1,9 +1,0 @@
-PRO	I
-FUT	would
-EXS	like
-DIS	a
-CON	sugar
-CON	bowl
-AND	like
-HAS	hers
-NIL	!

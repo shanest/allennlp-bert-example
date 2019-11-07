@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-INT	very
-IST	fast
-NIL	,
-NOW	is
-NOT	n't
-PRO	he
-QUE	?

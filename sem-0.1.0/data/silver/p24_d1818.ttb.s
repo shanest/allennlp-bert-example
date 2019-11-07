@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-NOT	not
-HAS	my
-ROL	father
-COO	but
-HAS	my
-ROL	uncle
-NIL	.

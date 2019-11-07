@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-INT	very
-IST	pleased
-SUB	to
-EXT	have
-EXS	met
-PRO	you
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-EPS	struck
-PRO	me
-DIS	a
-CON	blow
-REL	on
-DEF	the
-CON	face
-NIL	.

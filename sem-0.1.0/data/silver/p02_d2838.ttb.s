@@ -1,9 +1,0 @@
-DEF	The
-CON	fireman
-EPS	chopped
-HAS	his
-CON	way
-AND	through
-DEF	the
-CON	door
-NIL	.

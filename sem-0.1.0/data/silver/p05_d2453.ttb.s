@@ -1,9 +1,0 @@
-PRO	He
-HAS	's
-DIS	a
-CON	crybaby
-NIL	,
-IST	just
-AND	like
-AND	always
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-DIS	a
-IST	longer
-CON	beard
-AND	than
-PER	John
-NOW	does
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-PER	Tom
-ENS	wants
-SUB	to
-EXS	make
-PER	Mary
-EXS	happy
-NIL	.

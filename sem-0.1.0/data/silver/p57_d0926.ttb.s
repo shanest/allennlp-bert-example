@@ -1,9 +1,0 @@
-ROL	Mr.
-PER	Wang
-EPS	came
-REL	to
-GPE	Japan
-SUB	to
-EXS	study
-GPO	Japanese
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-PST	had
-DIS	an
-CON	accident
-COO	and
-EPS	broke
-HAS	his
-CON	leg
-NIL	.

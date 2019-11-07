@@ -1,9 +1,0 @@
-PRO	He
-EPS	organized
-DIS	a
-CON	boycott
-AND	of
-DEF	the
-CON	bus
-CON	service
-NIL	.

@@ -1,9 +1,0 @@
-QUE	How
-QUV	many
-CON	galaxies
-NOW	are
-IST	there
-REL	in
-DEF	the
-CON	universe
-QUE	?

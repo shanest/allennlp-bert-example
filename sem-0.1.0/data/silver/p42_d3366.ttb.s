@@ -1,9 +1,0 @@
-PRO	I
-IST	sometimes
-EPS	wrote
-PRO	him
-DIS	a
-INT	very
-IST	long
-CON	letter
-NIL	.

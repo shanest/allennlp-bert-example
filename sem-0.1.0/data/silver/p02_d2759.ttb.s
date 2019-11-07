@@ -1,9 +1,0 @@
-SUB	When
-PRO	she
-EPS	saw
-PRO	me
-NIL	,
-PRO	she
-PST	was
-EXS	embarrassed
-NIL	.

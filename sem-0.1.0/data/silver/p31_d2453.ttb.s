@@ -1,9 +1,0 @@
-SUB	Until
-PRO	we
-NOW	meet
-ALT	again
-NIL	,
-PER	Bob
-AND	and
-PER	Nora
-NIL	.

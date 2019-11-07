@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-IST	enough
-CON	money
-SUB	to
-EXS	buy
-PRX	this
-CON	book
-NIL	.

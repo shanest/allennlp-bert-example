@@ -1,4 +1,0 @@
-PRO	I
-NOW	'm
-QUC	27
-NIL	.

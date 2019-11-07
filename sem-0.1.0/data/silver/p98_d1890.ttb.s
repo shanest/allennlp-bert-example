@@ -1,9 +1,0 @@
-PRO	I
-IST	always
-PST	thought
-PRO	you
-AND	and
-PER	Tom
-PST	were
-EXS	married
-NIL	.

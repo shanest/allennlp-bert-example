@@ -1,9 +1,0 @@
-HAS	His
-ROL	sister
-COO	and
-PRO	I
-FUT	will
-EXS	be
-IST	good
-CON	friends
-NIL	.

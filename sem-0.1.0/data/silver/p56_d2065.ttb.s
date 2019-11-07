@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	going
-REL	to
-CON	bark
-AND	like
-DIS	a
-CON	dog
-NIL	.

@@ -1,9 +1,0 @@
-DST	That
-PST	was
-DEF	the
-CON	skirt
-SUB	that
-PER	Mary
-EPS	bought
-PST	yesterday
-NIL	.

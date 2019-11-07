@@ -1,9 +1,0 @@
-QUE	What
-CON	book
-PST	did
-PER	Rachel
-PER	Carson
-EXS	write
-REL	in
-YOC	1962
-QUE	?

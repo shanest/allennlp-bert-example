@@ -1,9 +1,0 @@
-DEF	The
-ALT	other
-CON	night
-PRO	I
-PST	was
-INT	extremely
-REL	on
-CON	time
-NIL	!

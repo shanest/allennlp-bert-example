@@ -1,9 +1,0 @@
-DEF	The
-CON	radio
-EPS	gave
-DIS	a
-CON	warning
-AND	of
-IST	bad
-CON	weather
-NIL	.

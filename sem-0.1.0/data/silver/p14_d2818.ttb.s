@@ -1,9 +1,0 @@
-HAS	My
-ROL	father
-IST	often
-ENS	reads
-DEF	the
-CON	newspaper
-AND	during
-CON	meals
-NIL	.

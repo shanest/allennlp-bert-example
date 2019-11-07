@@ -1,5 +1,0 @@
-HAS	Your
-CON	car
-EPS	overtook
-CON	ours
-NIL	.

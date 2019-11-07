@@ -1,9 +1,0 @@
-PER	Tom
-EPS	went
-SUB	to
-EXS	visit
-PER	Mary
-REL	in
-DEF	the
-CON	hospital
-NIL	.

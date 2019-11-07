@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	looking
-REL	for
-DIS	someone
-AND	who
-ENS	speaks
-GPO	French
-NIL	.

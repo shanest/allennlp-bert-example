@@ -1,9 +1,0 @@
-DEF	The
-BOT	worst
-CON	thing
-AND	about
-CON	summer
-NOW	is
-DEF	the
-CON	heat
-NIL	.

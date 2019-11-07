@@ -1,9 +1,0 @@
-REL	At
-CON	night
-NIL	,
-PRO	she
-EPS	gazed
-REL	at
-DEF	the
-CON	moon
-NIL	.

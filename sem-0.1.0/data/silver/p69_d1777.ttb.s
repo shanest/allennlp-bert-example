@@ -1,9 +1,0 @@
-GPE	Cameroon
-NOW	is
-EXS	called
-NIL	"
-LIT	Cameroon
-NIL	"
-REL	in
-GPO	English
-NIL	.

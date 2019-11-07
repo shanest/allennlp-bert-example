@@ -1,9 +1,0 @@
-IST	Environmental
-CON	pollution
-EPS	triggered
-IST	climatic
-CON	changes
-AND	all
-AND	over
-GEO	Earth
-NIL	.

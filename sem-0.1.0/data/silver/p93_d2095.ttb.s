@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	wearing
-DIS	a
-IST	heavy
-CON	coat
-AND	and
-CON	gloves
-NIL	.

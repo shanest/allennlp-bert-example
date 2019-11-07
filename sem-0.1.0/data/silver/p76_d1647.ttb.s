@@ -1,9 +1,0 @@
-DIS	A
-CON	hen
-EPS	laid
-DIS	an
-CON	egg
-REL	in
-HAS	my
-CON	closet
-NIL	.

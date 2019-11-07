@@ -1,9 +1,0 @@
-PRO	I
-ENS	wish
-PRO	I
-PST	had
-EXS	listened
-REL	to
-HAS	your
-CON	advice
-NIL	.

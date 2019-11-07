@@ -1,9 +1,0 @@
-PER	Anna
-EPS	married
-NOT	without
-DEF	the
-CON	knowledge
-AND	of
-HAS	her
-CON	parents
-NIL	.

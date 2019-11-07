@@ -1,9 +1,0 @@
-PRO	I
-EPS	showed
-PER	Tom
-QUE	how
-SUB	to
-CON	tie
-DIS	a
-CON	bowline
-NIL	.

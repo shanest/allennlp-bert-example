@@ -1,9 +1,0 @@
-PRO	You
-NOW	have
-EXS	made
-DEF	the
-INT	very
-IST	same
-CON	mistake
-ALT	again
-NIL	.

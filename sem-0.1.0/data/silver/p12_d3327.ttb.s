@@ -1,9 +1,0 @@
-PRO	We
-NEC	have
-SUB	to
-EXS	turn
-REL	in
-CON	reports
-REL	on
-DOW	Monday
-NIL	.

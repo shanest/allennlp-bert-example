@@ -1,9 +1,0 @@
-PRO	I
-EPS	gave
-DEF	the
-CON	beggar
-QUE	what
-CON	money
-PRO	I
-PST	had
-NIL	.

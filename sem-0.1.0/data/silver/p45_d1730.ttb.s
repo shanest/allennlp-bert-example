@@ -1,9 +1,0 @@
-EXS	Let
-PRO	's
-NOW	hear
-QUE	what
-PER	Tom
-ENS	has
-SUB	to
-EXS	say
-NIL	.

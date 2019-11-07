@@ -1,9 +1,0 @@
-DIS	Something
-ENS	stinks
-NIL	.
-PRO	I
-ENS	think
-DIS	someone
-EPS	shit
-REF	themselves
-NIL	.

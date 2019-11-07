@@ -1,9 +1,0 @@
-PST	Were
-PRO	you
-EXS	reading
-DIS	a
-CON	book
-REL	at
-DST	that
-CON	time
-QUE	?

@@ -1,9 +1,0 @@
-PRO	He
-EPS	got
-REL	up
-REL	at
-CLO	eight
-REL	in
-DEF	the
-CON	morning
-NIL	.

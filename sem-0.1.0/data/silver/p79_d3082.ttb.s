@@ -1,9 +1,0 @@
-QUE	Whatever
-NOW	has
-DIS	a
-CON	beginning
-ALT	also
-NOW	has
-DIS	an
-CON	end
-NIL	.

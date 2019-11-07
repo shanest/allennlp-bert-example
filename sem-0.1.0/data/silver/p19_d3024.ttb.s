@@ -1,9 +1,0 @@
-AND	As
-AND	of
-IST	next
-CON	week
-PRO	I
-NOW	am
-EXG	eating
-LES	less
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-PER	Tom
-NOW	is
-EXS	going
-SUB	to
-EXS	call
-PRO	you
-NIL	.

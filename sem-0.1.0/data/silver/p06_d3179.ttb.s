@@ -1,9 +1,0 @@
-UNK	There
-NOW	have
-PFT	been
-CON	reports
-AND	of
-IST	several
-CON	power
-CON	outages
-NIL	.

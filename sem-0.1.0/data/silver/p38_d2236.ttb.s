@@ -1,9 +1,0 @@
-PRO	He
-EPS	cried
-NIL	,
-NIL	"
-DST	That
-HAS	's
-IST	good
-NIL	!
-NIL	"

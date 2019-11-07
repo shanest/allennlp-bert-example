@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	convinced
-SUB	that
-DEF	the
-CON	earth
-NOW	is
-IST	flat
-NIL	.

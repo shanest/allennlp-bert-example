@@ -1,9 +1,0 @@
-PRO	I
-ENS	need
-DIS	a
-CON	rest
-REL	after
-AND	all
-SUB	that
-EXG	resting
-NIL	!

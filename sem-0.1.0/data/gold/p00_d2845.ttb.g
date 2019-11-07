@@ -1,9 +1,0 @@
-HAS	Their
-CON	assignments
-PST	were
-EXS	handed
-NIL	in
-REL	on
-MOY	September
-DOM	1st
-NIL	.

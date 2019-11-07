@@ -1,9 +1,0 @@
-PER	Vermont
-NOW	is
-EXS	located
-REL	on
-DEF	the
-CON	border
-REL	with
-GPE	Canada
-NIL	.

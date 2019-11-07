@@ -1,9 +1,0 @@
-DEF	The
-ROL	woodcutter
-ENS	fells
-DIS	a
-CON	tree
-REL	with
-DIS	an
-CON	ax
-NIL	.

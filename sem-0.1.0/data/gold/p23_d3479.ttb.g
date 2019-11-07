@@ -1,9 +1,0 @@
-DEF	The
-ROL	soldier
-EPS	disdained
-EXG	shooting
-DIS	an
-NOT	un
-IST	armed
-ROL	enemy
-NIL	.

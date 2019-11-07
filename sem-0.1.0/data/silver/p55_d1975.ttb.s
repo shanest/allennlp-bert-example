@@ -1,9 +1,0 @@
-PRO	You
-ENS	need
-NOT	not
-EXS	wash
-DEF	the
-CON	dishes
-REL	after
-CON	meals
-NIL	.

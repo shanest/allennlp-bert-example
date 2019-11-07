@@ -1,9 +1,0 @@
-PRO	It
-PST	was
-DEF	the
-CON	gamekeeper
-AND	who
-EPS	found
-DEF	the
-CON	body
-NIL	.

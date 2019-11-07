@@ -1,9 +1,0 @@
-IST	Please
-NOW	do
-NOT	n't
-EXS	make
-PRO	me
-EXS	go
-REL	with
-PER	Tom
-NIL	.

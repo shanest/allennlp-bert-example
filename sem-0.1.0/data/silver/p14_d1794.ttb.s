@@ -1,9 +1,0 @@
-HAS	My
-ROL	great-grandfather
-PST	was
-DEF	the
-CON	leader
-AND	of
-DIS	a
-CON	gang
-NIL	.

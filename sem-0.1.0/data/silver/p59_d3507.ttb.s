@@ -1,9 +1,0 @@
-QUV	Many
-DIS	a
-CON	story
-NOW	has
-PFT	been
-EXS	told
-AND	about
-PRO	him
-NIL	.

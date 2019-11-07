@@ -1,9 +1,0 @@
-PRO	She
-HAS	has
-DIS	a
-ROL	daughter
-AND	who
-NOW	is
-DIS	a
-ROL	pianist
-NIL	.

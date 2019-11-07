@@ -1,9 +1,0 @@
-PRO	I
-PST	had
-IST	little
-CON	time
-SUB	to
-EXS	prepare
-DEF	the
-CON	speech
-NIL	.

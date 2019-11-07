@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	surprised
-SUB	that
-CON	building
-NOW	is
-IST	still
-EXS	standing
-NIL	.

@@ -1,9 +1,0 @@
-PRO	It
-NOW	does
-NOT	n't
-EXS	matter
-REL	to
-PRO	me
-AND	who
-ENS	wins
-NIL	.

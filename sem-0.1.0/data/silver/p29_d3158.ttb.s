@@ -1,9 +1,0 @@
-PER	Tom
-POS	ca
-NOT	n't
-EXT	have
-EXS	gone
-REL	to
-CON	bed
-ALT	yet
-NIL	.

@@ -1,9 +1,0 @@
-DEF	The
-ROL	policeman
-EPS	took
-DEF	the
-CON	thief
-REL	by
-DEF	the
-CON	arm
-NIL	.

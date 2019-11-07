@@ -1,9 +1,0 @@
-GPE	Japan
-NOW	is
-DEF	the
-TOP	best
-CON	country
-REL	in
-DEF	the
-CON	world
-NIL	.

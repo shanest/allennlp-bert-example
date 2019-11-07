@@ -1,9 +1,0 @@
-PRO	I
-PST	thought
-PER	Tom
-PST	was
-EXS	going
-SUB	to
-EXS	hit
-PRO	me
-NIL	.

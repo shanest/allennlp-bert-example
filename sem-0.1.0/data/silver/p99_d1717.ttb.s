@@ -1,9 +1,0 @@
-PER	Napoleon
-EPS	needed
-CON	money
-REL	for
-DIS	a
-CON	war
-REL	with
-GPE	Britain
-NIL	.

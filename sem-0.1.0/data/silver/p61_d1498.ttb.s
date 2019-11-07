@@ -1,9 +1,0 @@
-PRO	They
-EPS	kissed
-REL	in
-DEF	the
-CON	back
-AND	of
-DEF	the
-CON	car
-NIL	.

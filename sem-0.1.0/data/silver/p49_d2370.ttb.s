@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-PRO	I
-POS	can
-EXS	count
-REL	on
-PRO	you
-AND	all
-NIL	.

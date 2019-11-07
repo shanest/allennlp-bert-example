@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-DEF	the
-XCL	only
-CON	person
-IST	there
-CON	right
-NOW	now
-NIL	.

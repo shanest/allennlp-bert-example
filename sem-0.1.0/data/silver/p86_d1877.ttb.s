@@ -1,9 +1,0 @@
-QUC	Two
-CON	days
-PST	ago
-NIL	,
-PRO	I
-ENS	read
-SUB	that
-CON	book
-NIL	.

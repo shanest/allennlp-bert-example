@@ -1,9 +1,0 @@
-PER	Will
-EXS	feeding
-HAS	my
-CON	dog
-CON	garlic
-CON	cause
-AND	any
-CON	problems
-QUE	?

@@ -1,9 +1,0 @@
-PRO	You
-PST	had
-IST	better
-NOT	not
-EXS	make
-DIS	a
-CON	noise
-PRX	here
-NIL	.

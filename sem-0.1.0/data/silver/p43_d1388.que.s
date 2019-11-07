@@ -1,9 +1,0 @@
-CON	Where
-REL	in
-GPE	Argentina
-PST	was
-UNK	there
-DIS	a
-CON	cholera
-CON	outbreak
-QUE	?

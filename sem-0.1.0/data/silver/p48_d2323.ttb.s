@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-NOT	never
-EXS	spoken
-REL	with
-PER	Tom
-REL	in
-GPO	French
-NIL	.

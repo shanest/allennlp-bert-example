@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-NOT	no
-EXS	use
-EXG	crying
-AND	over
-IST	spilt
-CON	milk
-NIL	.

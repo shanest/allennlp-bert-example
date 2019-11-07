@@ -1,9 +1,0 @@
-PRO	He
-EPS	gave
-PRO	her
-DIS	a
-CON	kiss
-REL	on
-DEF	the
-CON	hand
-NIL	.

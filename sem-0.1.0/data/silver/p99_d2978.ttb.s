@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-PRX	this
-CON	man
-REL	in
-DEF	the
-CON	picture
-QUE	?

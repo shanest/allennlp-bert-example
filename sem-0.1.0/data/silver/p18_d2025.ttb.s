@@ -1,9 +1,0 @@
-PER	Florence
-NOW	is
-DEF	the
-INT	most
-IST	beautiful
-CON	city
-REL	in
-GPE	Italy
-NIL	.

@@ -1,9 +1,0 @@
-EXS	Let
-PRO	us
-EXS	know
-SUB	when
-PRO	you
-NOW	find
-IST	out
-AND	anything
-NIL	.

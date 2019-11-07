@@ -1,9 +1,0 @@
-PRO	I
-EPS	got
-DIS	a
-IST	long
-CON	letter
-REL	from
-HAS	my
-CON	folks
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-FUT	will
-EXS	study
-GPO	English
-IST	hard
-REL	from
-NOW	now
-REL	on
-NIL	.

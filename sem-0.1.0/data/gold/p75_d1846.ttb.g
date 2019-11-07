@@ -1,9 +1,0 @@
-DIS	A
-IST	drunken
-CON	man
-PST	was
-EXG	sleeping
-REL	on
-DEF	the
-CON	bench
-NIL	.

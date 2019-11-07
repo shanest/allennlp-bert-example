@@ -1,9 +1,0 @@
-PER	Tom
-NOW	does
-NOT	n't
-EXS	want
-SUB	to
-EXS	go
-REL	to
-EXS	work
-NIL	.

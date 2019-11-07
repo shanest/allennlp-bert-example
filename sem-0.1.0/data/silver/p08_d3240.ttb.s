@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	known
-SUB	as
-PER	Mary
-REL	on
-DEF	the
-CON	Internet
-NIL	.

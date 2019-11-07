@@ -1,9 +1,0 @@
-PRO	I
-ENS	need
-DIS	some
-CON	medicine
-SUB	to
-EXS	kill
-DEF	the
-CON	pain
-NIL	.

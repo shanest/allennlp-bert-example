@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-EXT	stuck
-DIS	a
-CON	stamp
-REL	on
-DEF	the
-CON	envelope
-QUE	?

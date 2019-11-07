@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	slow
-SUB	to
-EXS	adapt
-REL	to
-IST	new
-CON	situations
-NIL	.

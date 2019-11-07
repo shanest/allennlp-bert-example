@@ -1,9 +1,0 @@
-PER	Tom
-ENS	knows
-DIS	a
-CON	man
-AND	who
-ENS	lives
-REL	in
-GPE	Boston
-NIL	.

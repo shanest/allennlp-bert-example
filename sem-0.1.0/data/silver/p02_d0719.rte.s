@@ -1,9 +1,0 @@
-GPO	Czech
-CON	opposition
-CON	parties
-NOW	are
-REL	against
-DEF	the
-CON	defense
-CON	system
-NIL	.

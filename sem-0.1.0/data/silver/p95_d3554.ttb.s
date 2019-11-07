@@ -1,9 +1,0 @@
-PRO	I
-IST	never
-ENS	want
-SUB	to
-EXS	talk
-REL	to
-PRO	you
-ALT	again
-NIL	.

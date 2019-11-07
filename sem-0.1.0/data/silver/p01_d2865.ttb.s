@@ -1,9 +1,0 @@
-QUE	What
-NOW	do
-PRO	you
-EXS	think
-PRO	I
-NEC	should
-EXT	've
-EXT	done
-QUE	?

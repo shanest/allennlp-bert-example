@@ -1,9 +1,0 @@
-PRO	We
-EPS	found
-DIS	a
-CON	nail
-EPS	stuck
-REL	in
-DEF	the
-CON	tire
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	know
-QUE	what
-NIL	to
-EXS	do
-FUT	tomorrow
-NIL	.

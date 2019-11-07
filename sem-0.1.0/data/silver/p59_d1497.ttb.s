@@ -1,9 +1,0 @@
-PER	Tom
-EPS	told
-PRO	me
-DIS	a
-IST	little
-CON	secret
-AND	about
-PER	Mary
-NIL	.

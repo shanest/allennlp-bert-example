@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-IST	afraid
-SUB	that
-FUT	wo
-NOT	n't
-EXS	be
-IST	enough
-NIL	.

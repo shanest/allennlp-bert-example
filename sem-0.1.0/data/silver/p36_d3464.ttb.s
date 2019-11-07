@@ -1,9 +1,0 @@
-PRO	He
-EPS	visited
-GPE	Japan
-REL	in
-DEF	the
-CON	character
-AND	of
-ROL	President
-NIL	.

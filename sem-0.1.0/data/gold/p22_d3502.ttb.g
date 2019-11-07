@@ -1,9 +1,0 @@
-PRO	I
-FUT	'll
-EXS	go
-IMP	provided
-PRO	you
-EFS	go
-REL	with
-PRO	me
-NIL	.

@@ -1,9 +1,0 @@
-POS	Can
-DIS	someone
-IST	please
-EXS	delete
-PRX	this
-CON	sentence
-QUE	?
-CON	Thanks
-NIL	.

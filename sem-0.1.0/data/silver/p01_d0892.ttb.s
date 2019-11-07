@@ -1,9 +1,0 @@
-PER	Sysko
-ENS	hangs
-AND	around
-REL	in
-IST	secret
-CON	pubs
-REL	at
-CON	night
-NIL	.

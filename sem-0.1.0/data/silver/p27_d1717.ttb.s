@@ -1,9 +1,0 @@
-HAS	My
-CON	brother
-NOW	is
-NOT	not
-SUB	as
-DEG	tall
-REL	as
-PER	Jiro
-NIL	.

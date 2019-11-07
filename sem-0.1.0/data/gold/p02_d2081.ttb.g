@@ -1,9 +1,0 @@
-DEF	The
-CON	bank
-NOW	has
-EXT	loaned
-DEF	the
-CON	company
-UOM	$
-QUC	1,000,000
-NIL	.

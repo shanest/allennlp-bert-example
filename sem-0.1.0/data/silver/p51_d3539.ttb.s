@@ -1,9 +1,0 @@
-DEF	The
-CON	report
-EPS	exaggerated
-DEF	the
-CON	capacity
-AND	of
-DEF	the
-CON	hall
-NIL	.

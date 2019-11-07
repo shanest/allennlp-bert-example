@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	n't
-EXS	been
-REL	to
-GPE	Boston
-REL	since
-YOC	2013
-NIL	.

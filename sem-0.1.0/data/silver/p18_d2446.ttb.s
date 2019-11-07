@@ -1,9 +1,0 @@
-PER	Tom
-PST	was
-INT	too
-EXS	shy
-SUB	to
-EXS	talk
-REL	to
-PER	Mary
-NIL	.

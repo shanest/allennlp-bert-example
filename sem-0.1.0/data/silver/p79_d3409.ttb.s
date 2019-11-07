@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-IST	certain
-SUB	that
-PRO	he
-EPS	missed
-DEF	the
-CON	train
-NIL	.

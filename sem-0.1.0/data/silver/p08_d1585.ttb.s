@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-IST	ever
-EXS	been
-REL	to
-DIS	a
-IST	foreign
-CON	country
-QUE	?

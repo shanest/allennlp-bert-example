@@ -1,9 +1,0 @@
-DEF	The
-CON	way
-PRO	you
-NOW	're
-EXG	doing
-PRO	it
-NOW	is
-EXS	wrong
-NIL	.

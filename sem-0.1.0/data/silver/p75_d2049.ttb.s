@@ -1,9 +1,0 @@
-IST	Atomic
-CON	energy
-POS	can
-EXS	be
-EPS	utilized
-REL	for
-IST	peaceful
-CON	purposes
-NIL	.

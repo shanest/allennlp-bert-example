@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	getting
-DIS	a
-IST	little
-EXS	tired
-AND	of
-PRX	this
-NIL	.

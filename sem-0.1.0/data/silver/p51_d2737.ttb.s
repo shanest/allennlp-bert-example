@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-IST	sure
-SUB	to
-EXS	succeed
-REL	in
-DEF	the
-CON	attempt
-NIL	.

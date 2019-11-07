@@ -1,9 +1,0 @@
-PRO	It
-NOW	sounds
-AND	like
-PRO	she
-NOW	's
-EXS	going
-SUB	to
-EXS	Kashgar
-NIL	.

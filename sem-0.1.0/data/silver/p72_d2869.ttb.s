@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-IST	exactly
-AND	who
-PER	Tom
-ENS	plans
-SUB	to
-EXS	marry
-NIL	.

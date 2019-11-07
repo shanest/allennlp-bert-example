@@ -1,9 +1,0 @@
-EXS	Put
-DEF	the
-CON	book
-REL	on
-CON	top
-AND	of
-DEF	the
-ALT	others
-NIL	.

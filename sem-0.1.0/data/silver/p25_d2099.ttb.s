@@ -1,9 +1,0 @@
-EXS	Put
-DEF	the
-CON	matches
-AND	out
-AND	of
-EXS	reach
-AND	of
-CON	children
-NIL	.

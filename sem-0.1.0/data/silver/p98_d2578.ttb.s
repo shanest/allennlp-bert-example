@@ -1,9 +1,0 @@
-NOW	Have
-PRO	I
-EPS	hit
-DEF	the
-CON	nail
-REL	on
-DEF	the
-CON	head
-QUE	?

@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-DIS	a
-CON	friend
-AND	who
-ENS	lives
-REL	in
-GPE	Tokyo
-NIL	.

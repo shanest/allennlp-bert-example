@@ -1,9 +1,0 @@
-PRO	We
-ENS	need
-SUB	to
-EXS	talk
-REL	to
-PRO	you
-AND	about
-PER	Tom
-NIL	.

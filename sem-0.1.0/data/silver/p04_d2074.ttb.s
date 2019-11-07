@@ -1,9 +1,0 @@
-PER	Tom
-EPS	took
-PER	Mary
-HAS	's
-CON	picture
-REL	with
-HAS	his
-CON	iPhone
-NIL	.

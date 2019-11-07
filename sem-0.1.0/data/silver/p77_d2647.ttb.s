@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-SUB	that
-HAS	's
-REL	for
-PER	Tom
-SUB	to
-EXS	decide
-NIL	.

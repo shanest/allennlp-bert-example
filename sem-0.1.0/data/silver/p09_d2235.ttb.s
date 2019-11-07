@@ -1,9 +1,0 @@
-PRO	I
-EPS	fixed
-DEF	the
-CON	house
-REL	for
-DEF	the
-CON	disabled
-CON	man
-NIL	.

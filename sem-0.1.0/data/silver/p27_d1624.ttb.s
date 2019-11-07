@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	surprised
-PER	Tom
-NOW	is
-NOT	n't
-EXS	happy
-PRX	here
-NIL	.

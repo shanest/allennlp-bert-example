@@ -1,9 +1,0 @@
-PRO	I
-EPS	took
-AND	every
-CON	opportunity
-SUB	to
-EXS	improve
-HAS	my
-CON	Esperanto
-NIL	.

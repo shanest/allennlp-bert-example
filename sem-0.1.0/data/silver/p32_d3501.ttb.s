@@ -1,9 +1,0 @@
-PRO	He
-NOW	has
-PFT	been
-EXS	sick
-REL	in
-CON	bed
-AND	all
-CON	week
-NIL	.

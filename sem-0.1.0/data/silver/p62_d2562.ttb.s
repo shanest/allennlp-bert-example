@@ -1,9 +1,0 @@
-PER	Tom
-EPS	promised
-PRO	he
-PST	'd
-NOT	never
-EXS	be
-IST	late
-ALT	again
-NIL	.

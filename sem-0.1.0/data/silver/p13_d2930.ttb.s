@@ -1,9 +1,0 @@
-HAS	My
-ROL	uncle
-NOW	is
-EXS	staying
-REL	with
-PRO	us
-PRX	this
-CON	week
-NIL	.

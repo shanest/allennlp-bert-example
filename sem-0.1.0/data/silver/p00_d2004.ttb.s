@@ -1,9 +1,0 @@
-PRO	I
-ENS	want
-NIL	to
-EXS	know
-QUE	what
-PRO	I
-POS	can
-EXS	do
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-HAS	has
-DIS	a
-ROL	brother
-AND	who
-ENS	lives
-REL	in
-GPE	Tokyo
-NIL	.

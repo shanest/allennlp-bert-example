@@ -1,9 +1,0 @@
-PRO	I
-EPS	tried
-SUB	to
-EXS	convince
-PER	Tom
-SUB	to
-EXS	come
-CON	home
-NIL	.

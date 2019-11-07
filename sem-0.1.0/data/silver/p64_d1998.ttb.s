@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	training
-DIS	a
-CON	horse
-REL	for
-DEF	the
-CON	race
-NIL	.

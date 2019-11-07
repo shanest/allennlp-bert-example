@@ -1,9 +1,0 @@
-DEF	The
-CON	police
-CON	officer
-EPS	put
-CON	handcuffs
-REL	on
-DEF	the
-CON	suspect
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-PST	was
-NOT	n't
-DEF	the
-QUC	one
-AND	who
-EPS	wrote
-PRX	this
-NIL	.

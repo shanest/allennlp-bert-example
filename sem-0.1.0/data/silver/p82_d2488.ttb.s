@@ -1,9 +1,0 @@
-DEF	The
-CON	couple
-EPS	took
-DIS	a
-CON	horse
-CON	carriage
-AND	that
-CON	evening
-NIL	.

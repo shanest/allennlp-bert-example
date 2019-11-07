@@ -1,9 +1,0 @@
-ITJ	Yes
-NIL	,
-PRO	I
-ENS	understand
-NIL	.
-CON	Thanks
-DIS	a
-CON	lot
-NIL	.

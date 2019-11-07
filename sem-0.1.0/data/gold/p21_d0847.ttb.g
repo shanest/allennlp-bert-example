@@ -1,9 +1,0 @@
-PRO	She
-EPS	got
-REL	into
-DEF	the
-CON	car
-COO	and
-EPS	drove
-REL	off
-NIL	.

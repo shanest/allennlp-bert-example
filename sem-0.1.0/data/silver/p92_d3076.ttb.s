@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-NOT	n't
-EXS	finished
-AND	all
-HAS	his
-CON	homework
-ALT	yet
-NIL	.

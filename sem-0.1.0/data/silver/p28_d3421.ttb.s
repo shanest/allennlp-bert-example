@@ -1,9 +1,0 @@
-PRO	She
-NOW	is
-INT	too
-EXS	young
-SUB	to
-EXS	know
-DEF	the
-CON	truth
-NIL	.

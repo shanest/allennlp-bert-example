@@ -1,3 +1,0 @@
-ITJ	Oh
-ITJ	boy
-NIL	...

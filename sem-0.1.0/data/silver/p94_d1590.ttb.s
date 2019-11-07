@@ -1,9 +1,0 @@
-PRO	It
-ENS	seems
-REL	to
-PRO	me
-SUB	that
-PRO	you
-NOW	are
-EXS	wrong
-NIL	.

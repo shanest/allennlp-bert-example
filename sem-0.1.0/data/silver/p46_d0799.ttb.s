@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-IST	dangerous
-SUB	to
-EXS	bathe
-REL	in
-PRX	this
-CON	river
-NIL	.

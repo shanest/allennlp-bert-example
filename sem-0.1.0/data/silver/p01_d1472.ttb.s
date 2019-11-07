@@ -1,9 +1,0 @@
-PRO	I
-NIL	strolled
-REL	along
-DEF	the
-CON	streets
-NIL	to
-EXS	kill
-CON	time
-NIL	.

@@ -1,9 +1,0 @@
-POS	Perhaps
-PER	Tom
-POS	can
-EXS	help
-PRO	you
-NOW	find
-DIS	a
-CON	job
-NIL	.

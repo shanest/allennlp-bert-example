@@ -1,9 +1,0 @@
-PRO	They
-EPS	saw
-DIS	a
-IST	drunk
-EXS	lying
-REL	in
-DEF	the
-CON	street
-NIL	.

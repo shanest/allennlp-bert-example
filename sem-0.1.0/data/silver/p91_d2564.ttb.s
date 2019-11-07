@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	believe
-PRO	he
-NOW	is
-DIS	a
-ROL	lawyer
-NIL	.

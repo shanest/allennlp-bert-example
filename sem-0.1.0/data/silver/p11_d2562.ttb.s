@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	never
-EXS	heard
-PRO	her
-NOW	say
-HAS	'
-CON	No'
-NIL	.

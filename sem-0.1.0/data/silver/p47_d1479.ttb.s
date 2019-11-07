@@ -1,9 +1,0 @@
-PER	Darwin
-EPS	wrote
-NIL	"
-DEF	the
-ORG	Origin
-AND	of
-ORG	Species
-NIL	"
-NIL	.

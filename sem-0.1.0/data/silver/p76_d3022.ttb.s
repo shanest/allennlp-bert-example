@@ -1,9 +1,0 @@
-PRO	I
-EPS	talked
-REL	with
-PRO	him
-AND	over
-DEF	the
-CON	telephone
-PST	yesterday
-NIL	.

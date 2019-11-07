@@ -1,9 +1,0 @@
-PRO	We
-NEC	have
-SUB	to
-EXS	find
-PRO	it
-SUB	before
-PER	Tom
-NOW	does
-NIL	.

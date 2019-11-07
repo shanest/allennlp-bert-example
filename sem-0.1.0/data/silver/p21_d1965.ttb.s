@@ -1,9 +1,0 @@
-NTH	Neptune
-NOW	is
-DEF	the
-TOP	farthest
-CON	planet
-REL	from
-DEF	the
-CON	Sun
-NIL	.

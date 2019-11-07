@@ -1,9 +1,0 @@
-PRO	He
-EPS	told
-PRO	me
-SUB	to
-EXS	be
-PRX	here
-REL	at
-CLO	noon
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-PRO	him
-AND	just
-DIS	a
-IST	few
-CON	hours
-PST	ago
-NIL	.

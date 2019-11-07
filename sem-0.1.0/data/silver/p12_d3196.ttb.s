@@ -1,9 +1,0 @@
-PRO	We
-NOW	think
-INT	too
-QUV	much
-COO	and
-EXS	feel
-INT	too
-CON	little
-NIL	.

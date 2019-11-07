@@ -1,9 +1,0 @@
-DIS	Some
-CON	people
-PST	were
-EXG	hanging
-AND	around
-REL	at
-DEF	the
-CON	entrance
-NIL	.

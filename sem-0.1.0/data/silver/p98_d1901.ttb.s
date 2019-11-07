@@ -1,9 +1,0 @@
-PRO	We
-NOW	're
-EXS	resting
-IST	naked
-REL	in
-DEF	the
-IST	warm
-CON	sand
-NIL	.

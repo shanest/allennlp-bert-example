@@ -1,9 +1,0 @@
-PER	Tom
-PST	was
-NOT	n't
-EXS	surprised
-SUB	that
-PER	Mary
-PST	was
-IST	afraid
-NIL	.

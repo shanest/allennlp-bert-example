@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-ENS	want
-SUB	to
-EXS	eat
-NOW	now
-DIS	or
-IST	later
-QUE	?

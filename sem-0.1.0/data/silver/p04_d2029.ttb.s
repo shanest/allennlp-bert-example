@@ -1,9 +1,0 @@
-PRO	You
-EPS	promised
-PRO	me
-PRO	you
-PST	'd
-EXS	look
-REL	after
-PER	Tom
-NIL	.

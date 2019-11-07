@@ -1,9 +1,0 @@
-PER	Tom
-PST	had
-DIS	a
-CON	hunch
-SUB	that
-PER	Mary
-PST	was
-EXS	lying
-NIL	.

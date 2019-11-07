@@ -1,9 +1,0 @@
-DEF	The
-CON	cause
-AND	of
-DEF	the
-CON	fire
-NOW	is
-ALT	yet
-EXS	unknown
-NIL	.

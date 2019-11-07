@@ -1,9 +1,0 @@
-PER	Tom
-EPS	realized
-SUB	that
-PRO	he
-PST	had
-EXS	lost
-HAS	his
-CON	wallet
-NIL	.

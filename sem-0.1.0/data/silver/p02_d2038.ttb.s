@@ -1,9 +1,0 @@
-PER	Tom
-PST	was
-EXS	robbed
-SUB	while
-EXG	walking
-IST	late
-REL	at
-CON	night
-NIL	.

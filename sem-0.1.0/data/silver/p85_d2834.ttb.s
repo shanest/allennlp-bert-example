@@ -1,9 +1,0 @@
-REL	For
-QUE	how
-IST	long
-NOW	have
-PRO	you
-PFT	been
-EXS	studying
-CON	Esperanto
-QUE	?

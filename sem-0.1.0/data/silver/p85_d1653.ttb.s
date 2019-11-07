@@ -1,9 +1,0 @@
-PRO	He
-FUT	would
-NOT	n't
-IST	even
-EXS	say
-GRE	hi
-REL	to
-PRO	me
-NIL	.

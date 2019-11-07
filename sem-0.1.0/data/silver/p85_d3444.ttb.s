@@ -1,9 +1,0 @@
-EXS	Come
-REL	on
-NIL	,
-CON	guys
-NIL	,
-EXS	let
-HAS	's
-CON	hurry
-NIL	.

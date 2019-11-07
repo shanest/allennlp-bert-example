@@ -1,9 +1,0 @@
-HAS	My
-CON	name
-NOW	is
-PER	Tom
-AND	and
-PRX	this
-NOW	is
-PER	Mary
-NIL	.

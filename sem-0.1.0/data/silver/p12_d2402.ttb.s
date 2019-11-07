@@ -1,9 +1,0 @@
-PRO	It
-HAS	's
-HAS	my
-CON	fault
-NIL	.
-PRO	I
-ENS	know
-SUB	that
-NIL	.

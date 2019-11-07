@@ -1,9 +1,0 @@
-IST	Sexual
-CON	harassment
-NOW	has
-NOW	now
-EXS	become
-DIS	a
-IST	social
-CON	issue
-NIL	.

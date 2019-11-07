@@ -1,9 +1,0 @@
-PRO	You
-ENS	need
-DIS	a
-CON	key
-SUB	to
-EXS	open
-DEF	the
-CON	box
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-EPS	accused
-PRO	her
-AND	of
-EXS	having
-EPS	lied
-REL	to
-PRO	him
-NIL	.

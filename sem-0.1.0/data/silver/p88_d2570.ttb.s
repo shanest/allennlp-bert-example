@@ -1,9 +1,0 @@
-PRO	We
-NOW	feed
-HAS	our
-CON	dog
-QUC	three
-CON	times
-DIS	a
-CON	day
-NIL	.

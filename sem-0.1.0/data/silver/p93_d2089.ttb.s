@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	fine
-NOW	now
-NIL	,
-NOW	is
-NOT	n't
-PRO	he
-QUE	?

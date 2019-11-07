@@ -1,9 +1,0 @@
-DEF	The
-CON	curry
-CON	fish
-CON	balls
-NOW	are
-QUC	one
-UOM	dollar
-AND	each
-NIL	.

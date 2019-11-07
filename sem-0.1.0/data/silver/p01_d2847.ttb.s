@@ -1,9 +1,0 @@
-DEF	The
-CON	mist
-EPS	prevented
-PRO	him
-SUB	from
-EXG	seeing
-INT	very
-IST	far
-NIL	.

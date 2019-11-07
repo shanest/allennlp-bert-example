@@ -1,9 +1,0 @@
-PRO	It
-HAS	's
-XCL	only
-EXS	going
-SUB	to
-EXS	get
-COM	worse
-NOW	now
-NIL	.

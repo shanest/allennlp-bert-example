@@ -1,9 +1,0 @@
-PRO	I
-ENS	dare
-PRO	you
-SUB	to
-EXS	try
-SUB	to
-EXS	stop
-PRO	me
-NIL	.

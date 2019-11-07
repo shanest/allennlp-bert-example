@@ -1,9 +1,0 @@
-PRO	I
-EPS	graduated
-REL	from
-DIS	an
-GPO	American
-CON	school
-REL	in
-GPE	France
-NIL	.

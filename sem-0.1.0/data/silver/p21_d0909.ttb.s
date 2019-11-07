@@ -1,9 +1,0 @@
-PRO	I
-POS	can
-EXS	draw
-DIS	a
-CON	map
-AND	of
-GPE	Brazil
-IST	perfectly
-NIL	.

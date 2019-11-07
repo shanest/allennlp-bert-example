@@ -1,9 +1,0 @@
-REL	At
-DST	that
-CON	time
-NIL	,
-PRO	I
-PST	was
-REL	in
-GPE	Canada
-NIL	.

@@ -1,9 +1,0 @@
-QUC	One
-AND	of
-DEF	the
-QUC	two
-CON	girls
-EPS	smiled
-REL	at
-PER	Tom
-NIL	.

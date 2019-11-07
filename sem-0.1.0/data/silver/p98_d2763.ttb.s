@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-INT	pretty
-IST	sure
-PRO	it
-ENS	's
-MOR	after
-CLO	2:30
-NIL	.

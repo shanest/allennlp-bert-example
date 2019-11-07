@@ -1,9 +1,0 @@
-DIS	A
-IST	new
-CON	treatment
-REL	for
-GEO	hepatitis
-NOW	is
-EXS	being
-EXS	studied
-NIL	.

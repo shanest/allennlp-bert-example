@@ -1,9 +1,0 @@
-PER	Tom
-POS	could
-NOT	n't
-EXS	stand
-EXS	being
-AND	alone
-REL	with
-PER	Mary
-NIL	.

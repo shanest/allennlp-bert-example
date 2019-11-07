@@ -1,9 +1,0 @@
-DEF	The
-CON	damage
-AND	of
-DEF	the
-CON	disaster
-NOW	has
-PFT	been
-EXS	enormous
-NIL	.

@@ -1,9 +1,0 @@
-DIS	A
-CON	rubber
-CON	ball
-EXS	bounces
-SUB	because
-PRO	it
-NOW	is
-IST	elastic
-NIL	.

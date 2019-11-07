@@ -1,9 +1,0 @@
-PRO	He
-NOW	has
-EXS	made
-DIS	a
-CON	promise
-SUB	to
-EXS	come
-ALT	again
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-EPS	showed
-IST	little
-CON	interest
-REL	in
-CON	books
-DIS	or
-CON	music
-NIL	.

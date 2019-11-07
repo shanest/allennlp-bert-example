@@ -1,9 +1,0 @@
-PRX	This
-CON	senate
-CON	candidate
-ALT	also
-ENS	plays
-CON	World
-AND	of
-CON	Warcraft
-NIL	.

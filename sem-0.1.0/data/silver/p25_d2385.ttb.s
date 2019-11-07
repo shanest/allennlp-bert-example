@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-IST	still
-EXS	trying
-SUB	to
-EXS	figure
-SUB	that
-IST	out
-NIL	.

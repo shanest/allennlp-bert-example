@@ -1,9 +1,0 @@
-PRO	It
-HAS	's
-PFT	been
-EXS	raining
-AND	all
-DEF	the
-CON	time
-IST	recently
-NIL	.

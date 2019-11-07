@@ -1,9 +1,0 @@
-PRO	We
-AND	all
-EPS	went
-REL	to
-DEF	the
-CON	party
-NOT	except
-PER	Joe
-NIL	.

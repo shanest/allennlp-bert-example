@@ -1,9 +1,0 @@
-PRX	This
-CON	tree
-NOW	is
-INT	too
-EXS	young
-SUB	to
-EXS	bear
-CON	fruit
-NIL	.

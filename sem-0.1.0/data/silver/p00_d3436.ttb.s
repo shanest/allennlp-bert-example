@@ -1,9 +1,0 @@
-PRO	He
-PST	got
-EXS	fired
-REL	for
-EXG	making
-CON	waves
-INT	too
-IST	often
-NIL	.

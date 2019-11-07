@@ -1,9 +1,0 @@
-SUB	When
-NOW	are
-PRO	we
-EXS	eating
-QUE	?
-PRO	I
-NOW	'm
-EXS	hungry
-NIL	!

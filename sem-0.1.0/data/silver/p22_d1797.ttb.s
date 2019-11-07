@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	impossible
-SUB	to
-EXS	express
-PRO	it
-REL	in
-CON	words
-NIL	.

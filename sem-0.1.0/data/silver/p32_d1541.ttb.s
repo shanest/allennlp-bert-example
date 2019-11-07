@@ -1,9 +1,0 @@
-PRO	I
-POS	could
-EXS	hear
-PER	Mary
-EXS	crying
-REL	on
-DEF	the
-CON	phone
-NIL	.

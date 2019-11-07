@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-IST	already
-EXT	tried
-EXG	doing
-SUB	that
-QUC	three
-CON	times
-NIL	.

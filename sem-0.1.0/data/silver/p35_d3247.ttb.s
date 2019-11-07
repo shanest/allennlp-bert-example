@@ -1,9 +1,0 @@
-AND	So
-CON	friendship
-NOW	is
-ALT	also
-DIS	a
-CON	requirement
-REL	for
-CON	happiness
-NIL	.

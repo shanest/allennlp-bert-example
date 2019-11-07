@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	tried
-EXS	doing
-PRO	it
-SUB	that
-CON	way
-IST	already
-NIL	.

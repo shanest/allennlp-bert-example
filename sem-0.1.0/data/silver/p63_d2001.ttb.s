@@ -1,9 +1,0 @@
-PER	Tom
-NOW	does
-EXS	look
-DIS	a
-CON	lot
-AND	like
-HAS	his
-ROL	father
-NIL	.

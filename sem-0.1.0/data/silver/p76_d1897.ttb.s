@@ -1,9 +1,0 @@
-MOY	May
-PRO	I
-NOW	ask
-QUE	what
-PRO	you
-NOW	're
-EXS	working
-REL	on
-QUE	?

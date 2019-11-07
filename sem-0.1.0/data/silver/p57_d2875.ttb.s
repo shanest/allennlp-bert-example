@@ -1,9 +1,0 @@
-PER	Tom
-EQU	,
-DIS	someone
-NOW	is
-PRX	here
-SUB	to
-EXS	see
-PRO	you
-NIL	.

@@ -1,9 +1,0 @@
-NOW	Today
-NIL	,
-PRO	I
-EPS	bought
-QUC	ten
-CON	books
-REL	in
-AND	all
-NIL	.

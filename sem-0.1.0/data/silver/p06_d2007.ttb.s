@@ -1,9 +1,0 @@
-IST	Please
-EXS	tell
-PRO	me
-SUB	when
-PRO	he
-FUT	'll
-EXS	arrive
-PRX	here
-NIL	.

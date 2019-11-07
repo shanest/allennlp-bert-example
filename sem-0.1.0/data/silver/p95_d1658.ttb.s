@@ -1,9 +1,0 @@
-PRO	She
-EPS	killed
-REF	herself
-REL	at
-DEF	the
-CON	age
-AND	of
-QUC	thirty
-NIL	.

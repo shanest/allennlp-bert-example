@@ -1,9 +1,0 @@
-NOW	Do
-NOT	n't
-EXS	get
-HAS	your
-CON	hopes
-IST	up
-INT	too
-QUC	much
-NIL	.

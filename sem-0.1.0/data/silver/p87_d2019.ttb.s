@@ -1,9 +1,0 @@
-AND	Why
-PST	did
-NOT	n't
-PRO	I
-NOW	think
-AND	of
-PRO	it
-REF	myself
-QUE	?

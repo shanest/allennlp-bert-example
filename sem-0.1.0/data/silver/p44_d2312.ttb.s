@@ -1,9 +1,0 @@
-PRO	I
-EPS	took
-PRO	him
-REL	to
-DEF	the
-ORG	Kyoto
-ORG	Imperial
-ORG	Palace
-NIL	.

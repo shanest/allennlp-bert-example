@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-EXS	looked
-IST	up
-REL	to
-AND	as
-HAS	their
-CON	leader
-NIL	.

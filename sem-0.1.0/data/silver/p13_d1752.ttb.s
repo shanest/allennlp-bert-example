@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	known
-PRO	her
-SUB	since
-PRO	I
-PST	was
-IST	little
-NIL	.

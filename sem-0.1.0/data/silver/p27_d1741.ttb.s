@@ -1,9 +1,0 @@
-PRO	You
-ENS	know
-SUB	that
-PRO	I
-NOW	do
-NOT	n't
-EXS	like
-CON	eggs
-NIL	.

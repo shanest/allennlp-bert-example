@@ -1,9 +1,0 @@
-POS	Can
-PRO	you
-EPS	put
-REL	on
-DIS	a
-CON	kimono
-REL	by
-REF	yourself
-QUE	?

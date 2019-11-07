@@ -1,9 +1,0 @@
-PRO	I
-EPS	bought
-DEF	the
-CON	book
-AND	which
-DEF	the
-CON	children
-ENS	need
-NIL	.

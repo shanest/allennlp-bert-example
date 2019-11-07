@@ -1,9 +1,0 @@
-PRX	This
-CON	poem
-PST	was
-EXS	written
-REL	by
-DIS	a
-IST	nameless
-ROL	poet
-NIL	.

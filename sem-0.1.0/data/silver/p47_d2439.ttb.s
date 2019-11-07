@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	n't
-EXS	thought
-SUB	that
-QUC	much
-AND	about
-PRO	it
-NIL	.

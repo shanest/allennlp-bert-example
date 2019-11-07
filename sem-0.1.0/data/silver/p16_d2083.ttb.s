@@ -1,9 +1,0 @@
-GPE	Ireland
-EQU	and
-GPE	England
-NOW	are
-EXS	separated
-REL	by
-DEF	the
-CON	sea
-NIL	.

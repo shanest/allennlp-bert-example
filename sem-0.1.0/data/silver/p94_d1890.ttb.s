@@ -1,9 +1,0 @@
-PER	Tom
-EPS	believed
-DEF	the
-CON	story
-SUB	that
-PER	Mary
-EPS	told
-PRO	him
-NIL	.

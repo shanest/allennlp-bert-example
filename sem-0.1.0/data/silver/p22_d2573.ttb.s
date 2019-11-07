@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-IST	constantly
-EXG	finding
-CON	fault
-REL	with
-ALT	other
-CON	people
-NIL	.

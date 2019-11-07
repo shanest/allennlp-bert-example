@@ -1,9 +1,0 @@
-DEF	The
-CON	campaign
-EPS	succeeded
-COO	and
-PRO	he
-EPS	won
-DEF	the
-CON	election
-NIL	.

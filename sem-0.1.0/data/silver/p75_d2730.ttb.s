@@ -1,9 +1,0 @@
-GEO	Hokkaido
-NOW	is
-REL	in
-DEF	the
-IST	northern
-CON	part
-AND	of
-GPE	Japan
-NIL	.

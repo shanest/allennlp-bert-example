@@ -1,9 +1,0 @@
-PER	Tom
-POS	ca
-NOT	n't
-EXS	understand
-QUE	why
-PER	Mary
-NOW	is
-EXS	angry
-NIL	.

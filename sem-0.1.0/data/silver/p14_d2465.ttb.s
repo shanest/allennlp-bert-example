@@ -1,9 +1,0 @@
-PRO	She
-NOW	has
-NOT	never
-PFT	been
-EXS	asked
-REL	for
-DIS	a
-CON	date
-NIL	.

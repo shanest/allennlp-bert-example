@@ -1,9 +1,0 @@
-NOT	Nothing
-BUT	but
-HAS	your
-CON	love
-POS	can
-EXS	save
-HAS	her
-NOW	now
-NIL	.

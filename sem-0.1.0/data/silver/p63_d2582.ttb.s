@@ -1,9 +1,0 @@
-PRO	I
-EPS	met
-PRO	him
-REL	on
-DEF	the
-CON	street
-REL	by
-CON	chance
-NIL	.

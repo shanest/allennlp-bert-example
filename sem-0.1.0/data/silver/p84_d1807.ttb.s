@@ -1,9 +1,0 @@
-PRO	We
-NOW	're
-IST	still
-EXG	waiting
-REL	for
-PER	Tom
-SUB	to
-EXS	arrive
-NIL	.

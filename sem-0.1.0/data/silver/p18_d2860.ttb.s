@@ -1,9 +1,0 @@
-DEF	The
-CON	criminal
-EPS	gave
-REF	himself
-IST	up
-REL	to
-DEF	the
-CON	police
-NIL	.

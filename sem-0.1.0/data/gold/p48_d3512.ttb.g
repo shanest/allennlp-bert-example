@@ -1,9 +1,0 @@
-PRO	They
-EPS	decided
-NIL	to
-EXS	pull
-REL	down
-DEF	the
-IST	old
-CON	building
-NIL	.

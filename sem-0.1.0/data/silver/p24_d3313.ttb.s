@@ -1,9 +1,0 @@
-HAS	My
-ROL	grandfather
-IST	still
-ENS	endeavors
-SUB	to
-EXS	absorb
-IST	new
-CON	ideas
-NIL	.

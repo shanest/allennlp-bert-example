@@ -1,9 +1,0 @@
-AND	Why
-NOW	is
-ROL	Mrs.
-PER	Yamada
-EXS	popular
-REL	in
-HAS	your
-CON	school
-QUE	?

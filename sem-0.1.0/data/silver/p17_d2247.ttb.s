@@ -1,9 +1,0 @@
-QUE	How
-QUV	much
-CON	money
-NOW	does
-PRO	he
-NOW	make
-DIS	a
-CON	month
-QUE	?

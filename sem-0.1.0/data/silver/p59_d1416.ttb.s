@@ -1,9 +1,0 @@
-PER	Mother
-EPS	bought
-PRO	me
-DIS	a
-IST	nice
-CON	dress
-AND	last
-DOW	Sunday
-NIL	.

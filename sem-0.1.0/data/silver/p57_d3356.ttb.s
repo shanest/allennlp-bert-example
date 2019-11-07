@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-PFT	been
-EXS	looking
-AND	all
-AND	over
-REL	for
-PRO	you
-NIL	.

@@ -1,9 +1,0 @@
-DEF	The
-CON	phone
-EPS	rang
-NIL	,
-BUT	but
-NOT	nobody
-EPS	answered
-PRO	it
-NIL	.

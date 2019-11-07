@@ -1,9 +1,0 @@
-GPE	Kobe
-NOW	is
-DEF	the
-CON	city
-AND	which
-PRO	I
-AND	like
-TOP	best
-NIL	.

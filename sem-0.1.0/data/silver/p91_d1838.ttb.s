@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-NOT	not
-IST	willing
-SUB	to
-EXS	take
-DST	that
-CON	risk
-NIL	.

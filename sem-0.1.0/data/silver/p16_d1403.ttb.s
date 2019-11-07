@@ -1,9 +1,0 @@
-HAS	My
-CON	opinion
-NOW	is
-DIS	a
-IST	little
-ALT	different
-REL	from
-HAS	yours
-NIL	.

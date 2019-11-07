@@ -1,9 +1,0 @@
-PRX	This
-CON	rule
-NOW	does
-NOT	n't
-EXS	apply
-REL	to
-AND	every
-CON	case
-NIL	.

@@ -1,9 +1,0 @@
-HAS	His
-CON	ambition
-PST	was
-SUB	to
-EXS	be
-DIS	a
-IST	great
-ROL	politician
-NIL	.

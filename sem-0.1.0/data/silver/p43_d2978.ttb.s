@@ -1,9 +1,0 @@
-PER	John
-EPS	met
-PER	Mary
-REL	on
-HAS	his
-CON	way
-REL	to
-CON	school
-NIL	.

@@ -1,9 +1,0 @@
-DST	That
-HAS	's
-QUE	what
-HAS	my
-CON	mom
-NOW	keeps
-EXG	telling
-PRO	me
-NIL	.

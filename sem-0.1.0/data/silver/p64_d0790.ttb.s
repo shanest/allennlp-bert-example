@@ -1,9 +1,0 @@
-DST	That
-NOW	is
-QUE	why
-PRO	I
-NOW	am
-EXS	angry
-REL	with
-PRO	him
-NIL	.

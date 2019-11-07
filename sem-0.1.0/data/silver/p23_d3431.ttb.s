@@ -1,9 +1,0 @@
-PRO	She
-ENS	speaks
-SUB	as
-IMP	if
-PRO	she
-PST	were
-DIS	a
-CON	teacher
-NIL	.

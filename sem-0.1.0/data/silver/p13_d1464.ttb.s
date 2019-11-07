@@ -1,9 +1,0 @@
-PRX	This
-NOW	is
-QUE	what
-PRO	we
-PST	were
-EXS	talking
-REL	about
-PST	yesterday
-NIL	.

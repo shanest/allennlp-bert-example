@@ -1,9 +1,0 @@
-PER	Tom
-EPS	wiped
-HAS	his
-CON	hands
-REL	on
-DEF	the
-IST	dirty
-CON	towel
-NIL	.

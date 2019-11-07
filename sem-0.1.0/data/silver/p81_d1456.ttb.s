@@ -1,9 +1,0 @@
-PRX	These
-NOW	are
-DEF	the
-CON	people
-AND	who
-EPS	saw
-DEF	the
-CON	explosion
-NIL	.

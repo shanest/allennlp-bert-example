@@ -1,9 +1,0 @@
-PRO	I
-EPS	took
-DIS	a
-CON	taxi
-SUB	because
-PRO	it
-PST	was
-EXS	raining
-NIL	.

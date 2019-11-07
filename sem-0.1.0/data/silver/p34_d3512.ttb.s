@@ -1,9 +1,0 @@
-EXS	Thank
-PRO	you
-NIL	.
-PRO	We
-FUT	'll
-EXS	do
-HAS	our
-TOP	best
-NIL	.

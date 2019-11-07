@@ -1,9 +1,0 @@
-POS	Can
-DIS	someone
-EXS	tell
-PRO	me
-QUE	why
-PER	Tom
-NOW	is
-EXS	angry
-QUE	?

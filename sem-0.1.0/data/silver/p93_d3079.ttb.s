@@ -1,9 +1,0 @@
-QUE	What
-PRO	he
-NOW	is
-EXS	saying
-NOW	does
-NOT	not
-EXS	make
-CON	sense
-NIL	.

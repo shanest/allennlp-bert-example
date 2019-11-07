@@ -1,9 +1,0 @@
-HAS	My
-CON	father
-ENS	writes
-REL	in
-HAS	his
-CON	diary
-AND	every
-CON	day
-NIL	.

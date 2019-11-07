@@ -1,9 +1,0 @@
-DIS	A
-CON	pair
-AND	of
-CON	sunglasses
-POS	could
-EXS	hide
-DIS	a
-CON	stye
-NIL	.

@@ -1,9 +1,0 @@
-EXS	Shut
-IST	up
-NIL	!
-PRO	You
-NOW	're
-EXG	talking
-INT	too
-QUV	much
-NIL	.

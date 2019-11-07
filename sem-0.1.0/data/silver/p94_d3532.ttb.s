@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-IST	ever
-EPS	tasted
-AND	such
-DIS	a
-IST	good
-CON	soup
-QUE	?

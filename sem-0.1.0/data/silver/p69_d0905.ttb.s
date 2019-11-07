@@ -1,9 +1,0 @@
-QUE	How
-NOW	do
-PRO	you
-EXS	know
-SUB	that
-PRO	it
-NOW	's
-HAS	his
-QUE	?

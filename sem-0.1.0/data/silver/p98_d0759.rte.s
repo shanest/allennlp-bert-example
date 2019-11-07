@@ -1,9 +1,0 @@
-PER	Boris
-PER	Evelson
-EPS	founded
-DEF	the
-ORG	Kalido
-ORG	Technical
-ORG	Advisory
-ORG	Board
-NIL	.

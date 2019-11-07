@@ -1,9 +1,0 @@
-UNK	There
-HAS	's
-NOT	no
-ALT	other
-CON	way
-AND	than
-PRX	this
-NOW	now
-NIL	.

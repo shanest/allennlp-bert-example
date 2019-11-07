@@ -1,2 +1,0 @@
-CON	Sorry
-NIL	.

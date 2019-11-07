@@ -1,9 +1,0 @@
-PRO	She
-EPS	pretended
-SUB	that
-PRO	she
-EPS	knew
-NOT	nothing
-AND	about
-PRO	it
-NIL	.

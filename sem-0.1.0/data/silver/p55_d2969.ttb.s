@@ -1,9 +1,0 @@
-PRO	He
-EPS	ran
-DEF	the
-CON	risk
-AND	of
-EXS	having
-DIS	an
-CON	accident
-NIL	.

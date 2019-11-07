@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	trying
-SUB	to
-EXS	save
-CON	room
-REL	for
-CON	dessert
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-PRO	you
-EXS	considered
-PRO	me
-DIS	a
-IST	close
-CON	friend
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-NOT	not
-IST	mad
-NIL	,
-NOT	nor
-IST	ever
-PST	was
-NIL	.

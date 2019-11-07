@@ -1,9 +1,0 @@
-AND	Whoever
-ENS	loves
-PRO	me
-NIL	,
-ALT	also
-ENS	loves
-HAS	my
-CON	dog
-NIL	.

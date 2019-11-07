@@ -1,9 +1,0 @@
-PRO	I
-ENS	want
-SUB	to
-EXS	see
-HAS	my
-CON	friends
-REL	in
-GPE	Canada
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-EPS	drove
-PRO	me
-REL	up
-DEF	the
-CON	wall
-AND	all
-CON	morning
-NIL	.

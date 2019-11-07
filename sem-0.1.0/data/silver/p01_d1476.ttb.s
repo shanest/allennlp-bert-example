@@ -1,9 +1,0 @@
-PRO	We
-NOW	've
-PFT	been
-DST	there
-REL	for
-INT	about
-QUC	three
-CON	years
-NIL	.

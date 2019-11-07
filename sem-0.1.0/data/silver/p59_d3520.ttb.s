@@ -1,9 +1,0 @@
-QUE	What
-EPS	happened
-SUB	that
-EPS	made
-PRO	you
-ENS	want
-SUB	to
-EXS	stay
-QUE	?

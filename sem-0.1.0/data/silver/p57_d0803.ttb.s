@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-EXS	fortunate
-EXS	having
-AND	such
-DIS	a
-IST	good
-CON	wife
-NIL	.

@@ -1,9 +1,0 @@
-HAS	My
-CON	son
-POS	can
-NOT	neither
-EXS	read
-NOT	nor
-EXS	write
-ALT	yet
-NIL	.

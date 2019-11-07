@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-SUB	that
-PRO	I
-NOW	am
-DIS	a
-IST	good
-CON	teacher
-NIL	.

@@ -1,9 +1,0 @@
-DST	That
-NOW	is
-QUE	what
-PRO	I
-NOW	have
-EXS	wanted
-SUB	to
-EXS	buy
-NIL	.

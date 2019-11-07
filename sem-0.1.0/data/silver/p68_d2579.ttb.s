@@ -1,9 +1,0 @@
-PRO	He
-PST	was
-REL	to
-AND	all
-CON	appearances
-DIS	a
-IST	strong
-CON	man
-NIL	.

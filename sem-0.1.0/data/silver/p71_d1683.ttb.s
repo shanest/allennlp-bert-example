@@ -1,9 +1,0 @@
-PER	Tom
-IST	never
-ENS	drinks
-CON	beer
-SUB	when
-PER	Mary
-NOW	is
-IST	around
-NIL	.

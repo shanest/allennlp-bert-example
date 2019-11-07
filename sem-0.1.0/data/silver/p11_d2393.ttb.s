@@ -1,9 +1,0 @@
-PER	Tom
-EPS	denied
-SUB	that
-PRO	he
-PST	had
-IST	ever
-EXS	met
-PER	Mary
-NIL	.

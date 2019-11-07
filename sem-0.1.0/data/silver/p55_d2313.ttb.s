@@ -1,9 +1,0 @@
-DEF	The
-CON	meeting
-NOW	has
-PFT	been
-EXS	fixed
-REL	for
-IST	next
-CON	week
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	looking
-REL	for
-DIS	a
-IST	reasonably-priced
-IST	used
-CON	car
-NIL	.

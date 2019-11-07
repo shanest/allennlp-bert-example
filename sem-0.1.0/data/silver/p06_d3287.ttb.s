@@ -1,9 +1,0 @@
-DEF	The
-CON	alarm
-FUT	will
-IST	probably
-IST	already
-NOW	have
-EXS	gone
-IST	off
-NIL	.

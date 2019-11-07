@@ -1,9 +1,0 @@
-PRO	I
-POS	can
-NOT	not
-EXS	remember
-PER	Taninna
-HAS	's
-IST	last
-CON	name
-NIL	.

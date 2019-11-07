@@ -1,9 +1,0 @@
-PRO	You
-NEC	ought
-NOT	not
-SUB	to
-EXS	stay
-IST	up
-AND	so
-IST	late
-NIL	.

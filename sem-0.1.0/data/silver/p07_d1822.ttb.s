@@ -1,9 +1,0 @@
-QUE	Who
-NOW	is
-DEF	the
-CON	girl
-REL	in
-DEF	the
-COL	pink
-CON	dress
-QUE	?

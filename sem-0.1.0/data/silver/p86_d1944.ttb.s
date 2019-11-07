@@ -1,9 +1,0 @@
-PRO	You
-ENS	know
-QUE	how
-IST	important
-PRO	you
-NOW	are
-REL	to
-PRO	me
-NIL	.

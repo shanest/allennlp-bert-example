@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-NOW	are
-EXS	unlikely
-SUB	to
-EXS	get
-EXS	married
-NIL	.

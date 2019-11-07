@@ -1,9 +1,0 @@
-PRO	I
-AND	like
-CON	snow
-NIL	.
-PRO	It
-NOW	's
-INT	so
-EXS	beautiful
-NIL	!

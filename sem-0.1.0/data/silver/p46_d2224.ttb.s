@@ -1,9 +1,0 @@
-UNK	There
-HAS	's
-NOT	nothing
-EXS	like
-EXG	going
-IST	out
-REL	in
-CON	style
-NIL	.

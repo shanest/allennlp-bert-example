@@ -1,9 +1,0 @@
-PER	Tom
-EPS	took
-HAS	his
-CON	girlfriend
-AND	out
-REL	on
-DOW	Saturday
-CON	night
-NIL	.

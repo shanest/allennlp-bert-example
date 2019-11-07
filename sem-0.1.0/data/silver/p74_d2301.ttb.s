@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	planning
-DIS	a
-CON	surprise
-CON	party
-REL	for
-PER	Mary
-NIL	.

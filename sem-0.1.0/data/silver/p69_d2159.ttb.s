@@ -1,9 +1,0 @@
-PER	Tom
-EPS	made
-PRO	me
-EXS	swear
-NOT	not
-SUB	to
-EXS	say
-DIS	anything
-NIL	.

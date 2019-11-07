@@ -1,9 +1,0 @@
-PRO	She
-EPS	devoted
-AND	all
-HAS	her
-CON	energy
-SUB	to
-EXG	studying
-GPO	Spanish
-NIL	.

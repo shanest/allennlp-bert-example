@@ -1,9 +1,0 @@
-PER	Tom
-EPS	decided
-REL	to
-CON	dress
-AND	as
-GEO	Pikachu
-REL	for
-HAP	Halloween
-NIL	.

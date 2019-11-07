@@ -1,9 +1,0 @@
-DIS	Some
-ROL	politicians
-NOT	never
-EXS	make
-IST	good
-REL	on
-CON	campaign
-CON	promises
-NIL	.

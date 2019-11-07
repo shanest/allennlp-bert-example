@@ -1,9 +1,0 @@
-PRO	I
-EPS	went
-REL	to
-DIS	a
-CON	nude
-CON	beach
-REL	in
-GPE	France
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-FUT	'd
-EXS	like
-REL	to
-CON	fax
-PRX	this
-REL	to
-GPE	Japan
-NIL	.

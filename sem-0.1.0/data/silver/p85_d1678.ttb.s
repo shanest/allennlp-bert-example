@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	invited
-REL	to
-GEO	Claudia
-HAS	's
-CON	party
-CON	tonight
-NIL	.

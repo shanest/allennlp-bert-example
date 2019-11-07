@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-PER	Tom
-EXS	kill
-DEF	the
-CON	neighbor
-HAS	's
-CON	cat
-NIL	.

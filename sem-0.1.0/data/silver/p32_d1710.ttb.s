@@ -1,9 +1,0 @@
-PER	Tom
-NOW	does
-NOT	n't
-EXS	need
-SUB	to
-EXS	worry
-AND	about
-PER	Mary
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-IST	likely
-SUB	to
-EXS	pass
-NOW	today
-HAS	's
-CON	exam
-NIL	.

@@ -1,9 +1,0 @@
-NOW	Have
-PRO	they
-EXT	announced
-DEF	the
-CON	court
-HAS	's
-CON	decision
-ALT	yet
-QUE	?

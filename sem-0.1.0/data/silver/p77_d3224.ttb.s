@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-EXS	strange
-SUB	that
-PRX	this
-NOW	is
-NOT	n't
-EXS	working
-NIL	.

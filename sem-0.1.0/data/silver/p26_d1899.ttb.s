@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-COM	better
-SUB	to
-EXS	give
-AND	than
-SUB	to
-EXS	take
-NIL	.

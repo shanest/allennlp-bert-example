@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-AND	about
-AND	as
-EXS	qualified
-SUB	as
-PER	Tom
-NOW	is
-NIL	.

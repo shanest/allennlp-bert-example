@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-NOT	not
-IST	able
-SUB	to
-EXS	drive
-DIS	a
-CON	car
-NIL	.

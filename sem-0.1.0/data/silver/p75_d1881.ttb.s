@@ -1,9 +1,0 @@
-AND	Both
-PER	Tom
-AND	and
-PER	Mary
-PST	were
-EXS	born
-REL	in
-GPE	Boston
-NIL	.

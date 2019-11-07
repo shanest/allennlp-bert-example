@@ -1,9 +1,0 @@
-PRO	They
-EPS	lost
-NOT	no
-CON	time
-REL	in
-EXS	leaving
-HAS	their
-CON	home
-NIL	.

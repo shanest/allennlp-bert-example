@@ -1,9 +1,0 @@
-PRO	I
-ENS	need
-NIL	to
-EXS	speak
-REL	to
-PRO	you
-REL	about
-DIS	something
-NIL	.

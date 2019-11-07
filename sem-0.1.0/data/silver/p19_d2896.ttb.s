@@ -1,9 +1,0 @@
-PRO	I
-ENS	see
-PRO	you
-NOW	've
-EXS	got
-DIS	a
-IST	new
-CON	hat
-NIL	.

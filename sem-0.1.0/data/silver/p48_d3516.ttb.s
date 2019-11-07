@@ -1,9 +1,0 @@
-EXS	Stop
-EXS	telling
-PRO	me
-QUE	how
-SUB	to
-EXS	live
-HAS	my
-CON	life
-NIL	.

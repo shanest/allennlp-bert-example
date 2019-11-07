@@ -1,9 +1,0 @@
-PRO	I
-EPS	knew
-HAS	his
-CON	intentions
-CON	right
-REL	at
-DEF	the
-CON	beginning
-NIL	.

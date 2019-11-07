@@ -1,9 +1,0 @@
-AND	Every
-CON	body
-NOT	except
-PER	Joe
-EPS	went
-REL	to
-DEF	the
-CON	party
-NIL	.

@@ -1,9 +1,0 @@
-PRX	This
-CON	book
-NOW	is
-HAS	mine
-NIL	.
-CON	Where
-NOW	is
-HAS	yours
-QUE	?

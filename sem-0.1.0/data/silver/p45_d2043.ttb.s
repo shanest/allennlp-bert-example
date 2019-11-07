@@ -1,9 +1,0 @@
-PRO	I
-FUT	'll
-EXS	be
-IST	happy
-SUB	to
-EXS	work
-REL	with
-PRO	you
-NIL	.

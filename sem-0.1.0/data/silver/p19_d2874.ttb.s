@@ -1,9 +1,0 @@
-UNK	There
-NOW	is
-NOT	n't
-QUV	much
-CON	money
-REL	in
-PRX	this
-CON	business
-NIL	.

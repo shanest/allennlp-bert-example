@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-EXS	dangerous
-SUB	to
-EXS	play
-AND	around
-DEF	the
-CON	fire
-NIL	.

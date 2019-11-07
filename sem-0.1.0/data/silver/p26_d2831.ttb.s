@@ -1,9 +1,0 @@
-DEF	The
-TOP	longest
-CON	river
-REL	in
-GPE	Italy
-NOW	is
-DEF	the
-GEO	Po
-NIL	.

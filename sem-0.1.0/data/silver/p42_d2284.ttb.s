@@ -1,9 +1,0 @@
-PRO	We
-PST	were
-EXS	supposed
-NIL	to
-EXS	tell
-AND	everyone
-NIL	to
-EXS	leave
-NIL	.

@@ -1,9 +1,0 @@
-NOW	Do
-NOT	n't
-EXS	fail
-NIL	to
-EXS	come
-PRX	here
-REL	by
-CLO	five
-NIL	.

@@ -1,9 +1,0 @@
-CON	One
-HAS	's
-CON	lifestyle
-NOW	is
-IST	largely
-EXS	determined
-REL	by
-CON	money
-NIL	.

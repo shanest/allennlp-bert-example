@@ -1,9 +1,0 @@
-PER	Tom
-EPS	looked
-REL	at
-PER	Mary
-COO	and
-IST	so
-PST	did
-PER	John
-NIL	.

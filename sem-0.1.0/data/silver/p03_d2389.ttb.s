@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	going
-SUB	to
-EXS	visit
-GEO	Rome
-PRX	this
-CON	summer
-NIL	.

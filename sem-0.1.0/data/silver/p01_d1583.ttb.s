@@ -1,9 +1,0 @@
-PER	Tom
-EPS	asked
-QUE	why
-PRO	you
-PST	were
-NOT	n't
-NIL	there
-PST	yesterday
-NIL	.

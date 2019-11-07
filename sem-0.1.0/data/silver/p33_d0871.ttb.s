@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-IMP	if
-PRO	she
-POS	can
-EXS	speak
-GPO	English
-QUE	?

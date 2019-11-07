@@ -1,9 +1,0 @@
-PER	Tom
-NOW	does
-NOT	n't
-EXS	know
-QUE	what
-PER	Mary
-NOW	is
-EXS	like
-NIL	.

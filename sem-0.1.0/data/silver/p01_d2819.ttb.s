@@ -1,9 +1,0 @@
-PRO	It
-PST	was
-DEF	the
-CON	war
-AND	which
-NOW	has
-EXS	changed
-GPE	Japan
-NIL	.

@@ -1,9 +1,0 @@
-GEO	Houston
-NIL	,
-PRO	we
-NOW	've
-EXS	had
-DIS	a
-CON	problem
-PRX	here
-NIL	.

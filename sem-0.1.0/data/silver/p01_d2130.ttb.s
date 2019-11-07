@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	amazed
-REL	at
-HAS	your
-CON	fluency
-REL	in
-GPO	English
-NIL	.

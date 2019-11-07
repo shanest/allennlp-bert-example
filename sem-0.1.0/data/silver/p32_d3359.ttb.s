@@ -1,9 +1,0 @@
-PER	Tom
-ENS	wants
-PER	Mary
-SUB	to
-EXS	come
-PRX	here
-CON	right
-IST	away
-NIL	.

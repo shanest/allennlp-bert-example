@@ -1,9 +1,0 @@
-NOW	Is
-PRX	this
-DEF	the
-CON	book
-PRO	you
-NOW	're
-EXS	looking
-REL	for
-QUE	?

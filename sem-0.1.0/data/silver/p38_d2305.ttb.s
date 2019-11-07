@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-IST	ready
-SUB	to
-EXS	do
-AND	anything
-REL	for
-PRO	you
-NIL	.

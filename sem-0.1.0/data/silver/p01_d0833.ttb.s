@@ -1,9 +1,0 @@
-AND	Would
-PRO	you
-ENS	like
-NIL	to
-EXS	go
-CON	shopping
-REL	with
-PRO	me
-QUE	?

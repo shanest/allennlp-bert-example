@@ -1,9 +1,0 @@
-REL	Before
-PRX	this
-CON	car
-NIL	,
-PRO	I
-EPS	drove
-DIS	a
-CON	Nissan
-NIL	.

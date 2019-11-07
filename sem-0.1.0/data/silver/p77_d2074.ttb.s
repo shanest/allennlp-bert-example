@@ -1,9 +1,0 @@
-PRX	This
-CON	company
-NOW	has
-PFT	been
-EXS	spying
-REL	on
-HAS	its
-CON	employees
-NIL	.

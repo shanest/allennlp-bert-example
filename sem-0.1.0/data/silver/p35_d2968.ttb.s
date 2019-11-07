@@ -1,9 +1,0 @@
-PRO	I
-ENS	admit
-SUB	that
-PRO	I
-PST	was
-DIS	a
-IST	little
-EXS	drunk
-NIL	.

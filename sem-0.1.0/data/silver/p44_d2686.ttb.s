@@ -1,9 +1,0 @@
-PRX	This
-CON	horse
-NOW	has
-NOT	n't
-PFT	been
-EXS	ridden
-REL	in
-CON	weeks
-NIL	.

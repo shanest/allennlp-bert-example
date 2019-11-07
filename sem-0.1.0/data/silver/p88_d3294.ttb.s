@@ -1,9 +1,0 @@
-EXS	Keep
-PRO	it
-REL	in
-CON	mind
-REL	for
-DEF	the
-IST	next
-CON	time
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	sorry
-NIL	.
-PRO	I
-PST	had
-NOT	n't
-EXS	realized
-NIL	.

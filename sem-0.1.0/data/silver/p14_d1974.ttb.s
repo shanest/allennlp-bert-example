@@ -1,9 +1,0 @@
-PRO	He
-EPS	told
-PRO	me
-SUB	that
-PRO	he
-EPS	liked
-HAS	my
-CON	accent
-NIL	.

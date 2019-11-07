@@ -1,9 +1,0 @@
-PRO	I
-EPS	checked
-CON	upstairs
-NIL	.
-PRO	She
-NOW	's
-NOT	not
-DST	there
-NIL	.

@@ -1,9 +1,0 @@
-DEF	The
-ROL	thieves
-EPS	ran
-IST	away
-SUB	after
-PRO	it
-PST	got
-EXS	dark
-NIL	.

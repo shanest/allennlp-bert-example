@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-EPS	noticed
-CON	blood
-REL	in
-HAS	your
-CON	urine
-REL	before
-QUE	?

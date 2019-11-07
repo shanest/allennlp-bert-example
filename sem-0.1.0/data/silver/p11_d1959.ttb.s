@@ -1,9 +1,0 @@
-PER	Tom
-EPS	sat
-REL	across
-DEF	the
-CON	picnic
-CON	table
-REL	from
-PER	Mary
-NIL	.

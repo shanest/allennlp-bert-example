@@ -1,9 +1,0 @@
-PRO	It
-ENS	seems
-SUB	to
-EXS	be
-EXS	cold
-ALT	again
-PRX	this
-CON	summer
-NIL	.

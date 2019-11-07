@@ -1,9 +1,0 @@
-PER	Tom
-ENS	earns
-QUC	three
-CON	times
-AND	as
-QUV	much
-AND	as
-PRO	me
-NIL	.

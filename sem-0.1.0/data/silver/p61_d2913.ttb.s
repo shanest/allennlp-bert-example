@@ -1,9 +1,0 @@
-DIS	A
-CON	century
-PST	ago
-NIL	,
-CON	spittoons
-PST	were
-IST	still
-EXS	used
-NIL	.

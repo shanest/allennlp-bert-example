@@ -1,9 +1,0 @@
-GPE	Morocco
-NOW	is
-EXS	called
-NIL	"
-ORG	Meṛṛuk
-NIL	"
-REL	in
-GEO	Berber
-NIL	.

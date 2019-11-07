@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-ENS	want
-SUB	to
-EXS	talk
-REL	to
-PRO	me
-NIL	.

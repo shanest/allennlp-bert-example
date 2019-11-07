@@ -1,9 +1,0 @@
-PRO	He
-EPS	threw
-IST	away
-DIS	a
-CON	bunch
-AND	of
-IST	old
-CON	letters
-NIL	.

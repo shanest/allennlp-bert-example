@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-IST	almost
-PST	got
-EXS	married
-IST	last
-CON	summer
-NIL	.

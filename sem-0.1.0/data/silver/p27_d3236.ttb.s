@@ -1,9 +1,0 @@
-AND	Why
-FUT	wo
-NOT	n't
-PER	Tom
-EXS	answer
-PER	Mary
-HAS	's
-CON	questions
-QUE	?

@@ -1,9 +1,0 @@
-PER	Tom
-ENS	speaks
-GPO	Spanish
-NIL	,
-COO	and
-UNK	so
-NOW	does
-PER	Betty
-NIL	.

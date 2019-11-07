@@ -1,9 +1,0 @@
-QUE	What
-NOW	have
-PRO	you
-EPS	learned
-AND	about
-PER	Tom
-AND	so
-IST	far
-QUE	?

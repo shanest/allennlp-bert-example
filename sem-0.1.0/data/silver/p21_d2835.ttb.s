@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-EXT	gotten
-EXS	used
-SUB	to
-EXS	living
-REL	in
-GPE	Boston
-QUE	?

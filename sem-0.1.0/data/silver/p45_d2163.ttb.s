@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-CON	happier
-NOW	now
-SUB	that
-PER	Mary
-NOW	has
-EXS	left
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-PRO	it
-NOW	means
-DIS	a
-CON	lot
-REL	to
-PER	Tom
-NIL	.

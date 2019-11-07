@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-IST	ever
-EXS	given
-CON	money
-REL	to
-DIS	a
-CON	beggar
-QUE	?

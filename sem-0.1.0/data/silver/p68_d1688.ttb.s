@@ -1,9 +1,0 @@
-PRO	We
-NOW	're
-EXS	looking
-REL	for
-DIS	a
-CON	friend
-AND	of
-CON	ours
-NIL	.

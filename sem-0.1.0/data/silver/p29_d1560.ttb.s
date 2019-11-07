@@ -1,9 +1,0 @@
-DEF	The
-CON	effects
-AND	of
-DEF	the
-CON	medicine
-PST	were
-EXG	wearing
-REL	off
-NIL	.

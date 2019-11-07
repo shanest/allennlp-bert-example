@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-EXS	visited
-GEO	Sapporo
-QUV	several
-CON	times
-REL	on
-CON	business
-NIL	.

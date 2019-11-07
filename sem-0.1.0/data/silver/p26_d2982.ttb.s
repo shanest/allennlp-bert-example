@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	planning
-SUB	to
-EXS	stay
-REL	at
-DEF	the
-CON	hotel
-NIL	.

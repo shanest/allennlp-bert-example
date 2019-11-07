@@ -1,9 +1,0 @@
-SUB	After
-EXG	taking
-DIS	a
-CON	bath
-NIL	,
-PER	Tom
-EPS	ate
-CON	dinner
-NIL	.

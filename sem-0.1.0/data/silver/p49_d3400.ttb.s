@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-IST	pleasant
-SUB	to
-EXS	be
-IST	next
-REL	to
-PRO	her
-NIL	.

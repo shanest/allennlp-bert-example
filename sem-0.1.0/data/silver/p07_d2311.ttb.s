@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-DEF	the
-CON	habit
-AND	of
-EXG	biting
-HAS	his
-CON	nails
-NIL	.

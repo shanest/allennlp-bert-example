@@ -1,9 +1,0 @@
-PRO	He
-ENS	loves
-PRO	you
-AND	as
-QUC	much
-AND	as
-PRO	I
-NOW	do
-NIL	.

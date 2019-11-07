@@ -1,9 +1,0 @@
-PRO	We
-PST	had
-IST	scarcely
-EXS	returned
-SUB	when
-PRO	it
-EPS	began
-EXS	raining
-NIL	.

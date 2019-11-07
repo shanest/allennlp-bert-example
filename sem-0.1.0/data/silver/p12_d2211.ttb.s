@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-IST	about
-AND	as
-IST	old
-AND	as
-PER	Mary
-NOW	is
-NIL	.

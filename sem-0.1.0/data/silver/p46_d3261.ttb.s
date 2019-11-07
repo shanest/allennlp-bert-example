@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-PST	were
-EXS	married
-REL	for
-QUC	three
-CON	years
-NIL	.

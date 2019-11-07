@@ -1,9 +1,0 @@
-PRO	She
-ENS	has
-DIS	a
-CON	bottle
-AND	of
-CON	milk
-AND	every
-CON	morning
-NIL	.

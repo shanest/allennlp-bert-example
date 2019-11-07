@@ -1,9 +1,0 @@
-NIL	There
-PST	was
-DIS	a
-IST	terrible
-CON	accident
-REL	on
-DEF	the
-CON	freeway
-NIL	.

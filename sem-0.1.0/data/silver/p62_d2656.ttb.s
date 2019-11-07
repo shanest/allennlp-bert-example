@@ -1,9 +1,0 @@
-UNK	There
-NOW	are
-ALT	also
-CON	nightclubs
-SUB	where
-PRO	you
-EXS	dance
-CON	flamenco
-NIL	.

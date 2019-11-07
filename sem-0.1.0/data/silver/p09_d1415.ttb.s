@@ -1,9 +1,0 @@
-PER	Tom
-POS	could
-XCL	only
-EXS	understand
-DIS	a
-IST	little
-GPO	French
-CON	then
-NIL	.

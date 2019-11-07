@@ -1,9 +1,0 @@
-PRO	He
-EPS	ran
-QUC	100
-UOM	meters
-REL	in
-QUC	11
-UOM	seconds
-IST	flat
-NIL	.

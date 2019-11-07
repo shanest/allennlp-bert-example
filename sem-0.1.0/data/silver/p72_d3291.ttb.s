@@ -1,9 +1,0 @@
-PER	Tom
-EPS	arrived
-REL	at
-DEF	the
-CON	party
-REL	after
-PER	Mary
-PST	did
-NIL	.

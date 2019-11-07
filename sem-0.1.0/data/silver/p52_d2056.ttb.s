@@ -1,9 +1,0 @@
-PER	Tom
-EPS	called
-SUB	while
-PRO	you
-PST	were
-REL	in
-DEF	the
-CON	shower
-NIL	.

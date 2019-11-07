@@ -1,9 +1,0 @@
-PRX	This
-CON	kind
-REL	of
-CON	dog
-ENS	exists
-XCL	only
-REL	in
-GPE	Japan
-NIL	.

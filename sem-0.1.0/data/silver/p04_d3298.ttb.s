@@ -1,9 +1,0 @@
-PRO	I
-EPS	liked
-PER	Tom
-IST	better
-SUB	before
-PRO	he
-PST	got
-EXS	married
-NIL	.

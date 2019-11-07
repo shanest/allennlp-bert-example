@@ -1,9 +1,0 @@
-UNK	There
-NOW	are
-INT	very
-QUV	few
-IST	Native
-GPE	Americans
-REL	in
-GEO	Managua
-NIL	.

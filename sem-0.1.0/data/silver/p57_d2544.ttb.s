@@ -1,9 +1,0 @@
-REL	At
-CON	half
-CON	time
-NIL	,
-DEF	both
-CON	teams
-EPS	made
-CON	substitutions
-NIL	.

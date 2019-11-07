@@ -1,9 +1,0 @@
-PRO	I
-ENS	wonder
-IMP	if
-PRO	I
-EPS	hurt
-PER	Tom
-HAS	's
-CON	feelings
-NIL	.

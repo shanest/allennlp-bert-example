@@ -1,9 +1,0 @@
-PRO	I
-EPS	gave
-PER	Mary
-DIS	some
-CON	meds
-AND	that
-NEC	should
-EXS	help
-NIL	.

@@ -1,9 +1,0 @@
-PRO	They
-EPS	saw
-HAS	their
-IST	former
-CON	employer
-REL	at
-DIS	a
-CON	conference
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-POS	ca
-NOT	n't
-EXS	say
-SUB	that
-REL	to
-HAS	my
-CON	dad
-NIL	.

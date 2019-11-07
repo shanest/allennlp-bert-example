@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-IST	just
-EXT	lost
-HAS	my
-IST	new
-COL	black
-CON	wallet
-NIL	.

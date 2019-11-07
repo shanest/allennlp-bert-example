@@ -1,9 +1,0 @@
-PRO	She
-EPS	gave
-DIS	an
-IST	oral
-CON	report
-REL	to
-HAS	her
-CON	boss
-NIL	.

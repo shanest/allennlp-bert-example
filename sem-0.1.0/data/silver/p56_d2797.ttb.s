@@ -1,9 +1,0 @@
-PRO	We
-ENS	want
-SUB	to
-EXS	give
-IST	special
-CON	thanks
-REL	to
-PER	Tom
-NIL	.

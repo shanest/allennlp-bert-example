@@ -1,9 +1,0 @@
-PRO	He
-EPS	saw
-NOT	no
-CON	advantage
-REL	in
-EXS	waiting
-AND	any
-IST	longer
-NIL	.

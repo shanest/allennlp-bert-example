@@ -1,9 +1,0 @@
-QUE	What
-FUT	would
-PER	Tom
-NOW	do
-IMP	if
-PRO	he
-EPS	found
-IST	out
-QUE	?

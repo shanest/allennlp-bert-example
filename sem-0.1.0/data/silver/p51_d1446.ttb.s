@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-ENS	want
-PRO	me
-SUB	to
-EXS	try
-PRO	it
-ALT	again
-QUE	?

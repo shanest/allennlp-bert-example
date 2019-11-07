@@ -1,9 +1,0 @@
-PRO	You
-ENS	need
-NOT	not
-EXS	come
-PRX	here
-REL	for
-DEF	the
-CON	moment
-NIL	.

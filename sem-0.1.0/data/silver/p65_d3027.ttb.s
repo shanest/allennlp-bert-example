@@ -1,9 +1,0 @@
-EXS	Get
-HAS	your
-CON	ass
-REL	in
-DEF	the
-CON	car
-NIL	,
-NOW	now
-NIL	!

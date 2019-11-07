@@ -1,9 +1,0 @@
-DEF	The
-ROL	teacher
-EPS	fell
-REL	in
-CON	love
-REL	with
-DEF	the
-CON	student
-NIL	.

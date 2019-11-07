@@ -1,9 +1,0 @@
-GPE	Indonesia
-EPS	cut
-CON	tin
-CON	production
-CON	costs
-REL	by
-QUC	25
-UOM	%
-NIL	.

@@ -1,9 +1,0 @@
-PRO	She
-PST	was
-EXG	wearing
-COL	pink
-CON	panties
-REL	under
-DEF	the
-CON	skirt
-NIL	.

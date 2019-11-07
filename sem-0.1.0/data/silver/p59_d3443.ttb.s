@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-DIS	a
-CON	man
-EPS	dressed
-AND	as
-DIS	a
-CON	ninja
-NIL	.

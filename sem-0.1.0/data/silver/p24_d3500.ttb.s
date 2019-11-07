@@ -1,9 +1,0 @@
-PST	Thank
-CON	God
-NOT	nobody
-PST	got
-EXS	hurt
-REL	in
-PRX	this
-CON	accident
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	looking
-IST	forward
-SUB	to
-EXS	hearing
-REL	from
-PRO	you
-NIL	.

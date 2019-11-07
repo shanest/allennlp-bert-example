@@ -1,5 +1,0 @@
-PRO	It
-EPS	cost
-UOM	$
-QUC	30
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-EPS	said
-SUB	that
-PRO	he
-FUT	would
-EXS	be
-IST	back
-IST	soon
-NIL	.

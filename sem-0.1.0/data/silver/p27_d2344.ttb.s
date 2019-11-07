@@ -1,9 +1,0 @@
-GPE	Hawaiian
-NOW	has
-DEF	the
-TOP	shortest
-CON	alphabet
-AND	:
-QUC	seventeen
-CON	letters
-NIL	.

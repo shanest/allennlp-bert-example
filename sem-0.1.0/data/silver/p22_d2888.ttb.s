@@ -1,9 +1,0 @@
-IST	Please
-EXS	forgive
-PRO	me
-REL	for
-NOT	not
-EXG	answering
-HAS	your
-CON	letter
-NIL	.

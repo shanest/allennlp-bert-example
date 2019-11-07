@@ -1,9 +1,0 @@
-PRO	I
-POS	ca
-NOT	n't
-EXS	believe
-PRO	I
-NOW	'm
-EXG	kissing
-PRO	you
-NIL	.

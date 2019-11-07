@@ -1,9 +1,0 @@
-PRO	I
-NOW	appreciate
-AND	all
-PRO	you
-NOW	've
-EXS	done
-REL	for
-PRO	me
-NIL	.

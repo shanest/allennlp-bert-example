@@ -1,9 +1,0 @@
-PRO	I
-PST	was
-EXG	studying
-GPO	English
-SUB	when
-PRO	you
-EPS	called
-PST	yesterday
-NIL	.

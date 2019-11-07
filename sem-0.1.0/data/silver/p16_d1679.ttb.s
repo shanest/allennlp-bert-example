@@ -1,9 +1,0 @@
-PRO	You
-NOW	've
-EXS	taken
-DIS	a
-IST	long
-CON	time
-EXG	eating
-CON	lunch
-NIL	.

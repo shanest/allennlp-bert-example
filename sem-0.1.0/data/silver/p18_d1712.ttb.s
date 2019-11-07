@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXG	reading
-DIS	a
-CON	book
-REL	on
-GPO	American
-CON	history
-NIL	.

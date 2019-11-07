@@ -1,9 +1,0 @@
-AND	All
-AND	of
-HAS	my
-CON	kids
-ENS	know
-QUE	how
-SUB	to
-EXS	swim
-NIL	.

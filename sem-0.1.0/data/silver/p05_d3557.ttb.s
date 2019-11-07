@@ -1,9 +1,0 @@
-DEF	The
-IST	famous
-CON	doctor
-EPS	made
-DIS	a
-CON	speech
-REL	on
-UNK	AIDS
-NIL	.

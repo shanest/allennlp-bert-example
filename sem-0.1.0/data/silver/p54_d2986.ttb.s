@@ -1,9 +1,0 @@
-PRO	She
-EPS	kicked
-HAS	her
-CON	boyfriend
-AND	out
-AND	of
-DEF	the
-CON	house
-NIL	.

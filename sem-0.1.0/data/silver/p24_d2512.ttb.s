@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-PER	Tom
-EXS	standing
-AND	outside
-DIS	a
-IST	cheap
-CON	motel
-NIL	.

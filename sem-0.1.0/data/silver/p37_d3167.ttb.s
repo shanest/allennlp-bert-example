@@ -1,9 +1,0 @@
-PRO	She
-EPS	took
-NOT	no
-CON	pleasure
-REL	in
-EXG	eating
-DIS	or
-CON	drinking
-NIL	.

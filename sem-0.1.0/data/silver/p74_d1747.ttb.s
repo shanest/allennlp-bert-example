@@ -1,9 +1,0 @@
-HAS	My
-CON	goal
-NOW	is
-SUB	to
-EXS	make
-CON	people
-EXS	know
-CON	art
-NIL	.

@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	true
-SUB	that
-PRO	he
-PST	accepted
-PRX	this
-CON	job
-NIL	.

@@ -1,9 +1,0 @@
-QUE	What
-NOW	have
-PRO	you
-PFT	been
-EXS	doing
-AND	all
-PRX	this
-CON	time
-NIL	!

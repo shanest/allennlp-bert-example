@@ -1,9 +1,0 @@
-QUE	What
-ENS	's
-SUB	that
-EXS	got
-SUB	to
-EXS	do
-REL	with
-PER	Tom
-QUE	?

@@ -1,9 +1,0 @@
-ITJ	Hey
-EQU	,
-PER	Mimi
-NIL	!
-QUE	How
-NOW	's
-PRO	it
-EXS	going
-QUE	?

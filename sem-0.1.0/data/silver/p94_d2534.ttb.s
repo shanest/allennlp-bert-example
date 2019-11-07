@@ -1,9 +1,0 @@
-PER	Tom
-EPS	wrote
-SUB	that
-PER	Mary
-PST	was
-REL	in
-DEF	the
-CON	hospital
-NIL	.

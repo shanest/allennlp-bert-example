@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-DIS	a
-CON	desire
-SUB	to
-EXS	go
-REL	to
-GPE	England
-NIL	.

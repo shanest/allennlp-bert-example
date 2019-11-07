@@ -1,9 +1,0 @@
-PRO	He
-EPS	killed
-DEF	the
-IST	old
-CON	lady
-AND	just
-REL	for
-CON	kicks
-NIL	.

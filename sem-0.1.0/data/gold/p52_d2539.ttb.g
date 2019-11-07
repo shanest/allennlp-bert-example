@@ -1,9 +1,0 @@
-PER	Tom
-NOW	does
-NOT	n't
-EXS	like
-EXG	sleeping
-REL	in
-DIS	a
-CON	hammock
-NIL	.

@@ -1,9 +1,0 @@
-PRO	She
-NOW	is
-NOT	not
-AND	as
-IST	young
-SUB	as
-PRO	she
-ENS	looks
-NIL	.

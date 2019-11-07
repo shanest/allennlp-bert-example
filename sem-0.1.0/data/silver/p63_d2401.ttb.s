@@ -1,9 +1,0 @@
-AND	Why
-NOW	do
-QUV	many
-CON	Catholics
-EXS	eat
-CON	fish
-REL	on
-DOW	Fridays
-QUE	?

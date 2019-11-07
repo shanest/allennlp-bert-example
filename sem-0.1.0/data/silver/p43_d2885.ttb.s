@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	helping
-PER	Mary
-EXS	carry
-REL	in
-HAS	her
-CON	suitcases
-NIL	.

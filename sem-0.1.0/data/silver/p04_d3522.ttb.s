@@ -1,9 +1,0 @@
-HAS	My
-ROL	father
-PST	was
-EXG	lying
-IST	down
-SUB	while
-EXG	watching
-CON	TV
-NIL	.

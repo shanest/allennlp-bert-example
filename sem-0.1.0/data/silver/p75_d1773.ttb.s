@@ -1,9 +1,0 @@
-DEF	The
-IST	first
-IST	atomic
-CON	bomb
-PST	was
-EXS	dropped
-REL	on
-GPE	Japan
-NIL	.

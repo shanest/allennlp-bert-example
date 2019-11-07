@@ -1,9 +1,0 @@
-PRO	I
-EPS	heard
-PRO	she
-NOW	is
-EXS	married
-REL	with
-QUC	two
-CON	children
-NIL	.

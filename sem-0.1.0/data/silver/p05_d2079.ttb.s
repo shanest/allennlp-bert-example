@@ -1,9 +1,0 @@
-PER	Tom
-EPS	asked
-PER	Mary
-COO	and
-HAS	her
-CON	friends
-REL	for
-CON	help
-NIL	.

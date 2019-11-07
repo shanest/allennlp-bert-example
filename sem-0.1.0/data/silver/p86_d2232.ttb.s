@@ -1,9 +1,0 @@
-PER	Tom
-PST	did
-NOT	n't
-IST	even
-EXS	try
-SUB	to
-EXS	help
-PER	Mary
-NIL	.

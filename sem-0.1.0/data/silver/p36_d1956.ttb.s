@@ -1,9 +1,0 @@
-PER	Tom
-NOW	does
-NOT	n't
-EXS	think
-SUB	that
-PER	Mary
-FUT	will
-EXS	come
-NIL	.

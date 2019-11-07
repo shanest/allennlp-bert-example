@@ -1,9 +1,0 @@
-PRO	I
-PST	did
-NOT	n't
-EXS	want
-SUB	to
-EXS	see
-HAS	her
-ALT	again
-NIL	.

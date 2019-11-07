@@ -1,9 +1,0 @@
-ROL	Professor
-PER	White
-EPS	published
-HAS	his
-IST	first
-CON	book
-AND	last
-CON	year
-NIL	.

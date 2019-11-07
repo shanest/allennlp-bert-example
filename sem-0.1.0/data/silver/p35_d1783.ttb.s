@@ -1,9 +1,0 @@
-PRO	He
-PST	was
-INT	too
-EXS	feeble
-SUB	to
-EXS	do
-REL	manual
-CON	labor
-NIL	.

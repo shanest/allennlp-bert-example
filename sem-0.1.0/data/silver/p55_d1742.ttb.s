@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-IST	apt
-SUB	to
-EXS	forget
-CON	people
-HAS	's
-CON	name
-NIL	.

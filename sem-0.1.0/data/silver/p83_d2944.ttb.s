@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-PER	Tom
-PST	was
-DIS	a
-CON	friend
-AND	of
-HAS	yours
-NIL	.

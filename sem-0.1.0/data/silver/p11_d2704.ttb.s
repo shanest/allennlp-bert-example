@@ -1,9 +1,0 @@
-PER	Tom
-EPS	said
-PRO	he
-PST	had
-DIS	a
-CON	gift
-REL	for
-PER	Mary
-NIL	.

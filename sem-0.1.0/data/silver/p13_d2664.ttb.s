@@ -1,9 +1,0 @@
-PRO	I
-POS	can
-NOT	not
-EXS	tell
-PRX	this
-REL	to
-HAS	my
-ROL	father
-NIL	.

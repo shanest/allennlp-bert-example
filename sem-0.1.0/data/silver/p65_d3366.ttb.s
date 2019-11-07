@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-HAS	's
-CON	house
-NOW	is
-INT	very
-EXS	untidy
-NIL	.

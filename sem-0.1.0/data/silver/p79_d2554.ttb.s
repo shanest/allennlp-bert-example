@@ -1,9 +1,0 @@
-PRO	I
-EPS	asked
-PER	Tom
-QUE	what
-PRO	he
-PST	thought
-AND	of
-PER	Mary
-NIL	.

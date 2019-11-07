@@ -1,9 +1,0 @@
-PRO	You
-POS	ca
-NOT	n't
-EXS	run
-IST	away
-REL	from
-PRO	me
-NOW	now
-NIL	.

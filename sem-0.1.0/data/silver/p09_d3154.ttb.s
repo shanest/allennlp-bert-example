@@ -1,9 +1,0 @@
-PRO	I
-EPS	used
-REL	to
-CON	dream
-AND	about
-EXG	becoming
-DIS	an
-CON	astronaut
-NIL	.

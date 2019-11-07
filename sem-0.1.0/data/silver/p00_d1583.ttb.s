@@ -1,9 +1,0 @@
-QUE	How
-QUV	many
-CON	people
-EPS	came
-REL	to
-DEF	the
-CON	zoo
-PST	yesterday
-QUE	?

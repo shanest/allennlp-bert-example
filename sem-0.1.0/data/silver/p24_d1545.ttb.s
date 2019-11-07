@@ -1,9 +1,0 @@
-PER	Tom
-POS	can
-EXS	make
-PRO	it
-NOT	without
-PER	Mary
-HAS	's
-CON	support
-NIL	.

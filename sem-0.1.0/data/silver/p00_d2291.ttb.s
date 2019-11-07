@@ -1,9 +1,0 @@
-PER	Tom
-NOW	does
-NOT	n't
-EXS	seem
-NIL	to
-EXS	have
-DIS	any
-CON	self-confidence
-NIL	.

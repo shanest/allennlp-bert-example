@@ -1,9 +1,0 @@
-PRO	I
-EPS	got
-REL	into
-CON	town
-XCL	only
-DIS	a
-CON	week
-PST	ago
-NIL	.

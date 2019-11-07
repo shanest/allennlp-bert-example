@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	surprised
-SUB	that
-PRO	you
-EPS	won
-DEF	the
-CON	prize
-NIL	.

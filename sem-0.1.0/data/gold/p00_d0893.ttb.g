@@ -1,9 +1,0 @@
-HAS	My
-ROL	mother
-NOW	does
-NOT	n't
-EXS	like
-NIL	to
-EXS	watch
-CON	TV
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-IST	always
-EPS	looked
-IST	busy
-NIL	,
-BUT	but
-NOT	never
-PST	was
-NIL	.

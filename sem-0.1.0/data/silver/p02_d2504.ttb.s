@@ -1,9 +1,0 @@
-PRO	We
-NOW	have
-PFT	been
-EXS	invited
-REL	to
-CON	dinner
-PRX	this
-CON	evening
-NIL	.

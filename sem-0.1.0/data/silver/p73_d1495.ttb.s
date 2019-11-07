@@ -1,9 +1,0 @@
-PER	Tom
-EPS	put
-DIS	some
-EPS	mashed
-CON	potatoes
-REL	on
-HAS	his
-CON	plate
-NIL	.

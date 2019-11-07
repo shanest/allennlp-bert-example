@@ -1,9 +1,0 @@
-PRO	I
-IST	never
-EPS	thought
-SUB	that
-PRO	he
-POS	could
-EXS	be
-EXS	ill
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-SUB	that
-PRO	I
-NOW	'm
-EXS	doing
-DIS	something
-CON	wrong
-NIL	.

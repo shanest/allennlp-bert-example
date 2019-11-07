@@ -1,9 +1,0 @@
-DEF	The
-ROL	captain
-EPS	decided
-SUB	to
-EXS	send
-AND	out
-DIS	a
-CON	scout
-NIL	.

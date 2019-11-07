@@ -1,9 +1,0 @@
-PER	Tom
-EPS	refused
-SUB	to
-EXS	help
-PER	Mary
-NOW	do
-HAS	her
-CON	homework
-NIL	.

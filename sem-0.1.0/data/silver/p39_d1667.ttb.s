@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-EXS	visited
-DEF	the
-CON	city
-AND	of
-ORG	Karakorum
-PST	yesterday
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	never
-EXS	thought
-SUB	about
-EXS	becoming
-DIS	a
-CON	teacher
-NIL	.

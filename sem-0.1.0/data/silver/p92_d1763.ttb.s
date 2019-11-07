@@ -1,9 +1,0 @@
-AND	Serving
-CON	people
-NOW	is
-HAS	his
-XCL	sole
-CON	purpose
-REL	in
-CON	life
-NIL	.

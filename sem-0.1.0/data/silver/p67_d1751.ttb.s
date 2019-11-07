@@ -1,9 +1,0 @@
-PER	Tom
-EPS	wanted
-SUB	to
-EXS	be
-DIS	a
-IST	criminal
-CON	defense
-ROL	lawyer
-NIL	.

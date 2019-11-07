@@ -1,9 +1,0 @@
-QUE	Who
-EPS	said
-SUB	that
-QUE	?
-PRO	It
-NOW	's
-INT	totally
-EXS	wrong
-NIL	!

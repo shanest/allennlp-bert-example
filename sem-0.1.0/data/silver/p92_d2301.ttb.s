@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-EXS	been
-DIS	a
-CON	disappointment
-REL	to
-HAS	my
-CON	parents
-NIL	.

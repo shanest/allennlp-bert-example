@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	treated
-AND	as
-DIS	a
-CON	foreigner
-REL	in
-GPE	Brazil
-NIL	.

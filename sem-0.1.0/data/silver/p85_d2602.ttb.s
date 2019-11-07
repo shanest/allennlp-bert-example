@@ -1,9 +1,0 @@
-PRO	I
-PST	had
-DIS	some
-CON	calls
-SUB	to
-EXS	make
-NIL	,
-ALT	too
-NIL	.

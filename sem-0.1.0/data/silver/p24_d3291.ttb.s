@@ -1,9 +1,0 @@
-PER	Tom
-PST	was
-REL	in
-INT	too
-QUV	much
-CON	pain
-SUB	to
-EXS	speak
-NIL	.

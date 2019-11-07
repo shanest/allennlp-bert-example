@@ -1,9 +1,0 @@
-EXS	Explain
-REL	to
-PRO	me
-QUE	why
-PER	Tom
-NOW	is
-NOT	n't
-PRX	here
-NIL	.

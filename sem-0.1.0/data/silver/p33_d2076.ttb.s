@@ -1,9 +1,0 @@
-DEF	The
-CON	boy
-EPS	put
-HAS	his
-CON	hand
-REL	in
-HAS	his
-CON	pocket
-NIL	.

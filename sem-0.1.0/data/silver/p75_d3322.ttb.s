@@ -1,9 +1,0 @@
-PRX	This
-CON	diamond
-CON	ring
-NOW	is
-IST	too
-EXS	extravagant
-REL	for
-PRO	me
-NIL	.

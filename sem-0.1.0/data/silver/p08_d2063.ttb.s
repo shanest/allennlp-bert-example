@@ -1,9 +1,0 @@
-DEF	The
-CON	phone
-CON	company
-EPS	cut
-PRO	me
-REL	off
-IST	last
-CON	month
-NIL	.

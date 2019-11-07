@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	never
-EXS	thought
-SUB	about
-EXG	translating
-DIS	a
-CON	book
-NIL	.

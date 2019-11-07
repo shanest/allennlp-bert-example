@@ -1,9 +1,0 @@
-NIL	There
-HAS	's
-DIS	a
-CON	problem
-REL	with
-DEF	the
-CON	air
-CON	conditioner
-NIL	.

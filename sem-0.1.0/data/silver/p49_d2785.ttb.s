@@ -1,9 +1,0 @@
-PRO	She
-ENS	knows
-MOR	more
-MOR	than
-PRO	she
-NOW	's
-EXS	letting
-REL	on
-NIL	.

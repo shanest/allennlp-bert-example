@@ -1,9 +1,0 @@
-PER	Tom
-ENS	needs
-DIS	someone
-SUB	to
-EXS	teach
-PRO	him
-SUB	to
-EXS	drive
-NIL	.

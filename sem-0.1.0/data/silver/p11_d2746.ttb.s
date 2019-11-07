@@ -1,9 +1,0 @@
-QUE	How
-NOW	do
-PRO	you
-EXS	cook
-PRX	this
-CON	fish
-REL	in
-GPE	France
-QUE	?

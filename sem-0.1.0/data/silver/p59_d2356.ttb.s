@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-PRO	it
-HAS	's
-IST	either
-PER	Tom
-DIS	or
-PER	Mary
-NIL	.

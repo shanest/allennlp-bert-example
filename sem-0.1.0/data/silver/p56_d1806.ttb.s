@@ -1,9 +1,0 @@
-EXG	Winning
-NOW	is
-NOT	n't
-DEF	the
-XCL	only
-CON	thing
-AND	that
-CON	matters
-NIL	.

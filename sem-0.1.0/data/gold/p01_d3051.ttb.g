@@ -1,9 +1,0 @@
-PRO	I
-PST	was
-EXS	born
-REL	on
-MOY	April
-DOM	3
-NIL	,
-YOC	1950
-NIL	.

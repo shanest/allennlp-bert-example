@@ -1,9 +1,0 @@
-PER	Tom
-POS	ca
-NOT	n't
-EXS	pronounce
-PER	Mary
-HAS	's
-IST	last
-CON	name
-NIL	.

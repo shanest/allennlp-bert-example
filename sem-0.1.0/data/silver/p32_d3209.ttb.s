@@ -1,9 +1,0 @@
-PRO	We
-PST	were
-IST	able
-SUB	to
-EXS	settle
-DEF	the
-CON	matter
-IST	finally
-NIL	.

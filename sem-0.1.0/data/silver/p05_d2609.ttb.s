@@ -1,9 +1,0 @@
-PER	Tom
-EPS	invited
-PER	Mary
-REL	to
-HAS	his
-CON	home
-REL	for
-CON	dinner
-NIL	.

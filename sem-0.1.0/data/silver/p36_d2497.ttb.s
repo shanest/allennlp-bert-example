@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EPS	searched
-IST	everywhere
-REL	for
-DIS	a
-IST	small
-CON	apartment
-NIL	.

@@ -1,9 +1,0 @@
-HAS	My
-ROL	father
-EPS	encouraged
-PRO	me
-SUB	to
-EXS	study
-DEF	the
-CON	piano
-NIL	.

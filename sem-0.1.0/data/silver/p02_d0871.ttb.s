@@ -1,9 +1,0 @@
-PRO	We
-EPS	took
-PRO	him
-REL	to
-DEF	the
-CON	hospital
-AND	right
-IST	away
-NIL	.

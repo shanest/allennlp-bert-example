@@ -1,9 +1,0 @@
-PER	Tom
-EPS	learned
-QUE	how
-SUB	to
-EXS	swim
-QUC	two
-CON	years
-PST	ago
-NIL	.

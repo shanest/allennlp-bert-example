@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-IST	probably
-EXS	going
-SUB	to
-EXS	be
-EXS	busy
-IST	soon
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-PST	did
-NOT	n't
-EXS	know
-PRO	you
-PST	were
-INT	so
-EXS	tired
-NIL	.

@@ -1,9 +1,0 @@
-DEF	The
-CON	secretary
-EPS	inserted
-DEF	the
-CON	letter
-REL	in
-DEF	the
-CON	envelope
-NIL	.

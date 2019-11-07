@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-PFT	been
-EXS	burgled
-QUC	three
-CON	times
-PRX	this
-CON	month
-NIL	.

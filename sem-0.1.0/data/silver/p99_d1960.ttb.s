@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-REL	on
-DEF	the
-CON	phone
-REL	with
-PER	Mary
-NOW	now
-NIL	.

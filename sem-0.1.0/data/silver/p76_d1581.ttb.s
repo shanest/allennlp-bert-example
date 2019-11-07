@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	going
-REL	to
-GEO	Paris
-REL	in
-DEF	the
-CON	fall
-NIL	.

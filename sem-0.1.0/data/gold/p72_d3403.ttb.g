@@ -1,9 +1,0 @@
-PER	Melanie
-ENS	thinks
-SUB	that
-PRO	it
-NOW	's
-EXG	going
-NIL	to
-EXS	rain
-NIL	.

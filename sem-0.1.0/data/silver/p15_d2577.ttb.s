@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-DIS	a
-IST	drunk
-EXS	lying
-REL	on
-DEF	the
-CON	road
-NIL	.

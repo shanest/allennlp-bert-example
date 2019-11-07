@@ -1,9 +1,0 @@
-PRO	It
-HAS	's
-PFT	been
-QUC	ten
-CON	years
-SUB	since
-PRO	he
-EPS	died
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	tired
-AND	of
-PER	Tom
-HAS	's
-IST	constant
-EXS	complaining
-NIL	.

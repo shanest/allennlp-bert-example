@@ -1,9 +1,0 @@
-PER	Gee
-NIL	,
-PRO	I
-ENS	wish
-PRO	I
-PST	had
-AND	that
-CON	problem
-NIL	.

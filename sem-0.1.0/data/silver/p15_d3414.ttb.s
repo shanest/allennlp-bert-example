@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-COM	cheaper
-SUB	to
-CON	order
-REL	by
-DEF	the
-CON	dozen
-NIL	.

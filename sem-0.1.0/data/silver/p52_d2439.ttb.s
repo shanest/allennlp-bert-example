@@ -1,9 +1,0 @@
-DEF	The
-CON	babies
-NOW	are
-EXS	taken
-CON	care
-AND	of
-REL	by
-ROL	volunteers
-NIL	.

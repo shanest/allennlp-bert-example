@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	happy
-SUB	to
-EXS	do
-PRX	this
-REL	for
-PRO	you
-NIL	.

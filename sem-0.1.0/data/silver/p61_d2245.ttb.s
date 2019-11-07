@@ -1,9 +1,0 @@
-PRO	They
-EPS	took
-DIS	an
-CON	airplane
-REL	from
-GEO	Berlin
-REL	to
-GEO	Istanbul
-NIL	.

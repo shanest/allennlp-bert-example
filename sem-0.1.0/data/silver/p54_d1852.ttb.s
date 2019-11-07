@@ -1,9 +1,0 @@
-PRO	She
-NOW	's
-EXS	married
-REL	to
-DIS	a
-CON	cousin
-AND	of
-HAS	mine
-NIL	.

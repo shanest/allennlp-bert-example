@@ -1,9 +1,0 @@
-CON	Lots
-AND	of
-CON	people
-EPS	took
-CON	part
-REL	in
-DEF	the
-CON	marathon
-NIL	.

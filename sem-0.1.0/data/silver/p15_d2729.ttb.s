@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-PST	were
-INT	very
-CON	kind
-REL	to
-PRO	me
-NIL	.

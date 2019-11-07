@@ -1,9 +1,0 @@
-PER	Tom
-EPS	took
-IST	out
-HAS	his
-CON	phone
-COO	and
-EPS	called
-PER	Mary
-NIL	.

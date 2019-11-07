@@ -1,9 +1,0 @@
-NOW	Is
-PRO	it
-EXS	OK
-SUB	to
-EXS	feed
-HAS	my
-CON	dog
-CON	lettuce
-QUE	?

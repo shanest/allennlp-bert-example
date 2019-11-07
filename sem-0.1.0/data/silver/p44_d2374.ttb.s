@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-IST	hard
-SUB	to
-EXS	carry
-IST	out
-PRX	this
-CON	plan
-NIL	.

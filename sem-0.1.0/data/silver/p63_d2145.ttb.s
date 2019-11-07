@@ -1,9 +1,0 @@
-EXG	Traveling
-REL	by
-CON	sea
-NOW	is
-DIS	a
-CON	lot
-AND	of
-CON	fun
-NIL	.

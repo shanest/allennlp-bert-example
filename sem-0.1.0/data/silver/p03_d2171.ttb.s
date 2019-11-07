@@ -1,9 +1,0 @@
-HAS	My
-ROL	father
-NOW	has
-IST	recently
-EXS	come
-IST	back
-REL	to
-GPE	Japan
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-EPS	took
-DEF	the
-CON	job
-SUB	that
-PER	Mary
-EPS	offered
-PRO	him
-NIL	.

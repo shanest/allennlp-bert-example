@@ -1,9 +1,0 @@
-EXS	Guess
-QUE	what
-QUE	?
-PER	Tom
-AND	and
-PER	Mary
-EPS	broke
-IST	up
-NIL	.

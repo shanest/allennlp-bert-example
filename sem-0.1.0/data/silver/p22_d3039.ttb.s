@@ -1,9 +1,0 @@
-PER	Tom
-NOW	does
-NOT	n't
-EXS	look
-INT	too
-EXS	dangerous
-REL	to
-PRO	me
-NIL	.

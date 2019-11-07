@@ -1,9 +1,0 @@
-CON	Burns
-CON	surgeons
-EXS	approve
-ROL	Dr
-PER	Wood
-HAS	's
-CON	spray-on
-CON	skin
-NIL	.

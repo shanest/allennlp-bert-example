@@ -1,9 +1,0 @@
-PRO	He
-PST	did
-NOT	n't
-EXS	want
-SUB	to
-EXS	go
-REL	to
-GPE	Japan
-NIL	.

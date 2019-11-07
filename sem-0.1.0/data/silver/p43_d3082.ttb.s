@@ -1,9 +1,0 @@
-EXS	Let
-PRO	's
-EXS	see
-IMP	if
-DIS	someone
-POS	can
-EXS	help
-PRO	me
-NIL	.

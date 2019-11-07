@@ -1,9 +1,0 @@
-PER	Tom
-ENS	knows
-DIS	a
-CON	lot
-AND	of
-CON	stuff
-AND	about
-PER	Mary
-NIL	.

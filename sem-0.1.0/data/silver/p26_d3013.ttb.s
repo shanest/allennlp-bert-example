@@ -1,9 +1,0 @@
-PRO	We
-EPS	won
-DEF	the
-CON	match
-REL	by
-DOM	10
-AND	to
-DOM	4
-NIL	.

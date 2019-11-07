@@ -1,9 +1,0 @@
-PER	Tom
-EPS	drank
-CON	coffee
-SUB	while
-PER	Mary
-EPS	smoked
-DIS	a
-CON	cigarette
-NIL	.

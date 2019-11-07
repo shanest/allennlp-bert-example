@@ -1,9 +1,0 @@
-CON	Football
-NOW	is
-AND	like
-DIS	a
-CON	religion
-REL	in
-PRX	this
-CON	country
-NIL	.

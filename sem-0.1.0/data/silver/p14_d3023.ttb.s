@@ -1,9 +1,0 @@
-PRO	I
-ENS	dare
-NOT	not
-EXS	tell
-HAS	her
-DEF	the
-IST	sad
-CON	news
-NIL	.

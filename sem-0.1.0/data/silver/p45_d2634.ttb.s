@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-NOT	n't
-IST	ashamed
-AND	of
-QUE	what
-PRO	he
-PST	did
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-EPS	saw
-PER	Mary
-EXS	driving
-PER	John
-HAS	's
-IST	new
-CON	car
-NIL	.

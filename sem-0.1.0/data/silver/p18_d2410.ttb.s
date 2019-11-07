@@ -1,9 +1,0 @@
-PRO	I
-XCL	only
-SUB	hope
-PRO	we
-NOW	're
-NOT	not
-INT	too
-IST	late
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXG	wearing
-DEF	the
-CON	sunglasses
-PRO	he
-EPS	bought
-PST	yesterday
-NIL	.

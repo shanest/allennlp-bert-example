@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	waited
-REL	for
-MOR	more
-MOR	than
-DIS	a
-CON	week
-NIL	.

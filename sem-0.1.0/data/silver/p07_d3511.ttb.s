@@ -1,9 +1,0 @@
-PRO	We
-PST	did
-NOT	n't
-EXS	have
-QUV	much
-CON	rain
-AND	last
-CON	month
-NIL	.

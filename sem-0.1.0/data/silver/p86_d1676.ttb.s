@@ -1,9 +1,0 @@
-NOT	No
-NIL	,
-PRO	you
-ENS	need
-NOT	not
-EXS	go
-IST	right
-NOW	now
-NIL	.

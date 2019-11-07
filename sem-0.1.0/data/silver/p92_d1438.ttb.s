@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-NOW	think
-PRO	I
-NEC	should
-EXS	write
-REL	to
-PER	Tom
-QUE	?

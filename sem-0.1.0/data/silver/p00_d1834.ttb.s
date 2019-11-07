@@ -1,9 +1,0 @@
-PRO	You
-NOW	're
-DEF	the
-XCL	only
-CON	one
-REL	for
-PRO	me
-NOW	now
-NIL	.

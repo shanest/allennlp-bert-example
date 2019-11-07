@@ -1,9 +1,0 @@
-PRO	I
-FUT	'll
-NOT	never
-EXS	go
-CON	camping
-REL	with
-PER	Tom
-ALT	again
-NIL	.

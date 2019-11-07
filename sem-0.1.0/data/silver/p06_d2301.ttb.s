@@ -1,9 +1,0 @@
-PRO	I
-EPS	came
-IST	here
-SUB	to
-EXS	give
-PRO	you
-DIS	a
-CON	gift
-NIL	.

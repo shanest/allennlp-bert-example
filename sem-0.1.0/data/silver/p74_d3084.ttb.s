@@ -1,9 +1,0 @@
-PER	Lincoln
-PST	was
-EXS	sad
-SUB	that
-PRO	he
-PST	had
-NOT	not
-EXS	won
-NIL	.

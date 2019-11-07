@@ -1,9 +1,0 @@
-PRO	I
-NOW	believe
-PRO	you
-NOW	've
-PFT	been
-EXS	looking
-REL	for
-PRO	me
-NIL	.

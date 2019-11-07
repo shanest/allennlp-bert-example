@@ -1,9 +1,0 @@
-PRO	You
-PST	were
-EXS	supposed
-SUB	to
-EXS	be
-EXG	watching
-DEF	the
-CON	baby
-NIL	.

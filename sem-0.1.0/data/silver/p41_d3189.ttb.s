@@ -1,9 +1,0 @@
-PRO	We
-NOW	are
-AND	all
-IST	eager
-SUB	to
-EXS	see
-DEF	the
-CON	movie
-NIL	.

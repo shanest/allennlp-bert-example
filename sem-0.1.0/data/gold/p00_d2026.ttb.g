@@ -1,9 +1,0 @@
-PRO	He
-POS	can
-EXS	run
-QUC	100
-UOM	meters
-REL	within
-QUC	twelve
-UOM	seconds
-NIL	.

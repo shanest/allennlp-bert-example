@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	true
-PRO	she
-NOW	is
-DIS	a
-IST	rare
-CON	beauty
-NIL	.

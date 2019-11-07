@@ -1,9 +1,0 @@
-PRO	He
-EPS	showed
-PRO	him
-QUE	where
-SUB	to
-EXS	leave
-DEF	the
-CON	suitcase
-NIL	.

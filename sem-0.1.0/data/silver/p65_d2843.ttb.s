@@ -1,9 +1,0 @@
-DEF	The
-CON	Brothers
-NOW	Grimm
-EXS	collected
-IST	fairy
-CON	tales
-AND	all-over
-GPE	Germany
-NIL	.

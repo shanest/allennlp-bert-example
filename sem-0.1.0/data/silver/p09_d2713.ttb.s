@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-DIS	a
-CON	bird
-EXS	flying
-AND	over
-DIS	a
-CON	tree
-NIL	.

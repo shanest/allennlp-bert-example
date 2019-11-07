@@ -1,9 +1,0 @@
-EXS	Take
-HAS	your
-CON	time
-NIL	.
-NIL	There
-HAS	's
-NOT	no
-EXS	hurry
-NIL	.

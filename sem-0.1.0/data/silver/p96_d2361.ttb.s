@@ -1,9 +1,0 @@
-ROL	Mr
-PER	Smith
-EPS	founded
-PRX	this
-CON	school
-QUC	forty
-CON	years
-PST	ago
-NIL	.

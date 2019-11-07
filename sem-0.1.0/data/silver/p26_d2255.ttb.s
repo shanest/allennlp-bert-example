@@ -1,9 +1,0 @@
-PRO	We
-NOW	're
-EXS	going
-SUB	to
-EXS	stay
-REL	at
-CON	home
-NOW	today
-NIL	.

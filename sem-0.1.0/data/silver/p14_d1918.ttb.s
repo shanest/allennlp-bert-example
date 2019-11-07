@@ -1,9 +1,0 @@
-PRO	I
-EPS	wondered
-QUE	what
-CON	time
-DEF	the
-CON	concert
-FUT	would
-EXS	begin
-NIL	.

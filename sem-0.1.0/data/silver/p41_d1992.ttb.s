@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-NOW	think
-AND	that
-POS	could
-IST	ever
-EXS	happen
-ALT	again
-QUE	?

@@ -1,9 +1,0 @@
-PRX	This
-CON	computer
-NOW	is
-HAS	yours
-NIL	,
-NOW	is
-NOT	n't
-PRO	it
-QUE	?

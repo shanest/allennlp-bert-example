@@ -1,9 +1,0 @@
-PER	Tom
-NOW	does
-NOT	n’t
-EXS	believe
-SUB	that
-PER	Mary
-NOW	is
-EXS	happy
-NIL	.

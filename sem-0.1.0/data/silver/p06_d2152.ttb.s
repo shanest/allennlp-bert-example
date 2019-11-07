@@ -1,9 +1,0 @@
-EXS	Tell
-HAS	your
-CON	son
-SUB	to
-EXS	quit
-EXG	harassing
-HAS	my
-CON	daughter
-NIL	.

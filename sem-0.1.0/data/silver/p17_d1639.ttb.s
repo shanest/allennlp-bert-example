@@ -1,9 +1,0 @@
-PER	Tom
-EPS	said
-PRO	he
-PST	was
-REL	in
-CON	love
-REL	with
-PER	Mary
-NIL	.

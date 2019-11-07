@@ -1,9 +1,0 @@
-PRO	He
-EPS	fell
-DIS	a
-CON	victim
-REL	to
-HAS	his
-IST	own
-CON	ambition
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-EPS	told
-NOT	nobody
-AND	about
-DEF	the
-CON	wedding
-NIL	.

@@ -1,9 +1,0 @@
-ITJ	Oh
-HAS	my
-CON	god
-NIL	,
-DIS	a
-CON	newbie
-EPS	owned
-PRO	me
-NIL	!

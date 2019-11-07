@@ -1,9 +1,0 @@
-HAS	Our
-CON	friends
-EPS	took
-DIS	a
-CON	walk
-REL	in
-DEF	the
-CON	park
-NIL	.

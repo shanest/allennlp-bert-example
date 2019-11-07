@@ -1,4 +1,0 @@
-PRO	I
-ENS	know
-CON	CPR
-NIL	.

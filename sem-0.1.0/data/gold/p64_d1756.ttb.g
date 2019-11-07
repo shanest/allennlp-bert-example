@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-EXT	put
-REL	on
-QUC	two
-UOM	kilograms
-PRX	this
-CON	summer
-NIL	.

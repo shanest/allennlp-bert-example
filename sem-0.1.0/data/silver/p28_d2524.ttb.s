@@ -1,9 +1,0 @@
-NOT	Anything
-INT	too
-EXS	stupid
-SUB	to
-EXS	be
-EXS	said
-NOW	is
-EXS	sung
-NIL	.

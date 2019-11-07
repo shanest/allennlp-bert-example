@@ -1,9 +1,0 @@
-QUE	How
-QUV	many
-CON	hours
-DIS	a
-CON	day
-NOW	do
-PRO	you
-EXS	sleep
-QUE	?

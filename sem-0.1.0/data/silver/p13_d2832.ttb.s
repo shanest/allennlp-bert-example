@@ -1,9 +1,0 @@
-PER	Comrade
-PER	Tom
-EPS	fell
-REL	in
-CON	love
-REL	with
-CON	comrade
-PER	Mary
-NIL	.

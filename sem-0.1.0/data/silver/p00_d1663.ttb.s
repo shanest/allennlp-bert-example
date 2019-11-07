@@ -1,9 +1,0 @@
-ROL	Mr
-PER	Wood
-PST	was
-AND	like
-DIS	a
-ROL	father
-REL	to
-PER	Tony
-NIL	.

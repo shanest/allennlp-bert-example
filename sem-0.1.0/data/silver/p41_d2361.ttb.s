@@ -1,9 +1,0 @@
-PRO	We
-ENS	go
-REL	to
-PER	Mario
-HAS	's
-CON	house
-AND	every
-DOW	Saturday
-NIL	.

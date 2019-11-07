@@ -1,9 +1,0 @@
-PRO	I
-EPS	learned
-DIS	a
-CON	lot
-AND	about
-PER	Tom
-REL	from
-PER	Mary
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOT	never
-EPS	thought
-PRO	I
-PST	'd
-EXS	be
-PRX	this
-IST	busy
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-DEF	the
-CON	teacher
-EXS	walk
-REL	across
-DEF	the
-CON	street
-NIL	.

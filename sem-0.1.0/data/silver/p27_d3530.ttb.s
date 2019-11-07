@@ -1,9 +1,0 @@
-DEF	The
-CON	police
-EPS	found
-IST	out
-SUB	where
-DEF	the
-CON	criminal
-EPS	lived
-NIL	.

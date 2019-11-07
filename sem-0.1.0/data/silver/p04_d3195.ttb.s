@@ -1,9 +1,0 @@
-QUE	Who
-HAS	's
-SUB	that
-IST	beautiful
-CON	woman
-EXG	eating
-AND	all
-AND	alone
-QUE	?

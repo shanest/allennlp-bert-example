@@ -1,9 +1,0 @@
-DST	That
-HAS	's
-DIS	a
-IST	nice
-CON	tie
-PRO	you
-NOW	're
-EXS	wearing
-NIL	.

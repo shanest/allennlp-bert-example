@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	want
-PER	Mary
-SUB	to
-EXS	leave
-PRO	me
-NIL	.

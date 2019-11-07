@@ -1,9 +1,0 @@
-AND	Because
-AND	of
-PER	Tom
-NIL	,
-PER	Mary
-NOW	has
-EXS	become
-EXS	depressed
-NIL	.

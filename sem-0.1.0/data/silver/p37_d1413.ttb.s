@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-EXS	impossible
-SUB	to
-EXS	get
-IST	there
-REL	by
-CLO	noon
-NIL	.

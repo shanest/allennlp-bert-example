@@ -1,9 +1,0 @@
-PRO	I
-PST	felt
-AND	like
-EXG	going
-IST	out
-REL	for
-DIS	a
-CON	walk
-NIL	.

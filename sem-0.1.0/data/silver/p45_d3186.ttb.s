@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-PRO	it
-NOW	's
-EXS	going
-SUB	to
-EXS	be
-CON	fun
-NIL	.

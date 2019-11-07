@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-NOT	n't
-PFT	been
-EXS	charged
-REL	with
-AND	any
-CON	crime
-NIL	.

@@ -1,9 +1,0 @@
-DEF	The
-CON	government
-NEC	should
-EXS	do
-REL	away
-REL	with
-PRX	these
-CON	regulations
-NIL	.

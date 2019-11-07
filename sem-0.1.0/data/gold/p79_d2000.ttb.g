@@ -1,9 +1,0 @@
-PER	Tom
-EPS	claimed
-SUB	that
-PRO	he
-PST	did
-NOT	n't
-EXS	see
-DIS	anything
-NIL	.

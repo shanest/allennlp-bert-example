@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXT	had
-NOT	no
-CON	problems
-REL	with
-HAS	my
-CON	boss
-NIL	.

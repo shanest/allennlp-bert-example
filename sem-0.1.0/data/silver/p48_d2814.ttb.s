@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-DIS	a
-CON	koala
-REL	for
-DEF	the
-IST	first
-CON	time
-NIL	.

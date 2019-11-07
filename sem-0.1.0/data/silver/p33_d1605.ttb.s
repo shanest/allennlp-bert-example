@@ -1,9 +1,0 @@
-PRO	I
-EPS	opened
-DIS	an
-CON	account
-REL	at
-DIS	a
-IST	nearby
-CON	bank
-NIL	.

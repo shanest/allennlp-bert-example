@@ -1,9 +1,0 @@
-PRO	I
-NOW	meet
-HAS	her
-TOP	at
-CON	school
-NOW	now
-AND	and
-IST	then
-NIL	.

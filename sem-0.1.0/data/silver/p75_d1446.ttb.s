@@ -1,9 +1,0 @@
-PRO	She
-NOW	is
-EXS	going
-SUB	to
-EXS	be
-QUC	six
-IST	next
-CON	year
-NIL	.

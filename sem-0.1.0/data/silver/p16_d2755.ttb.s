@@ -1,9 +1,0 @@
-PRO	It
-PST	was
-PST	yesterday
-SUB	when
-PRO	he
-EPS	broke
-DEF	the
-CON	window
-NIL	.

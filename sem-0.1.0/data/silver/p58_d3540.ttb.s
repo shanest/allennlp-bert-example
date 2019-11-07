@@ -1,9 +1,0 @@
-PRO	I
-EPS	smiled
-REL	at
-PRO	him
-COO	and
-PRO	he
-EPS	smiled
-IST	back
-NIL	.

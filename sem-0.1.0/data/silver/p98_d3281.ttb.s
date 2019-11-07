@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-EXS	painful
-SUB	to
-EXS	keep
-EXS	sitting
-REL	for
-CON	hours
-NIL	.

@@ -1,9 +1,0 @@
-PRX	This
-CON	grass
-NOW	is
-INT	too
-EXS	wet
-SUB	to
-EXS	sit
-REL	on
-NIL	.

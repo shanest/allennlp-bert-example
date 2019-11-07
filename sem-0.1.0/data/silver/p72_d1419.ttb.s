@@ -1,9 +1,0 @@
-GPE	India
-NOW	is
-EXS	called
-NIL	"
-ORG	Bharat
-NIL	"
-REL	in
-GEO	Hindi
-NIL	.

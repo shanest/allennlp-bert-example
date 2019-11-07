@@ -1,9 +1,0 @@
-PRO	You
-POS	can
-ALT	also
-EXS	replace
-DEF	the
-CON	mascarpone
-REL	with
-CON	cream
-NIL	.

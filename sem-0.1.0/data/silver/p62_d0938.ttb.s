@@ -1,9 +1,0 @@
-PRO	He
-COO	and
-IST	only
-PRO	he
-ENS	knows
-DEF	the
-IST	whole
-CON	truth
-NIL	.

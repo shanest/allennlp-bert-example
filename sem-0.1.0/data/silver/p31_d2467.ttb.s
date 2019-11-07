@@ -1,9 +1,0 @@
-IST	Please
-NOW	do
-NOT	n't
-EXS	play
-REL	near
-DEF	the
-CON	railroad
-CON	tracks
-NIL	.

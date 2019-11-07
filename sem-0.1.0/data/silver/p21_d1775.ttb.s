@@ -1,9 +1,0 @@
-PER	Tom
-EPS	put
-IST	new
-CON	locks
-REL	on
-AND	all
-HAS	his
-CON	doors
-NIL	.

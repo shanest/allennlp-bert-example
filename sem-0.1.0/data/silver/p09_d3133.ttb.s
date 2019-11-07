@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-UNK	likely
-DEF	the
-CON	Diet
-FUT	will
-EXS	be
-EXS	dissolved
-NIL	.

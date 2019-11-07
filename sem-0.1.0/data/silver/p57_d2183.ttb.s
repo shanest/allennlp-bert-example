@@ -1,9 +1,0 @@
-PER	Mary
-NOW	is
-NOT	n't
-DEF	the
-IST	right
-CON	girl
-REL	for
-PER	Tom
-NIL	.

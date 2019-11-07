@@ -1,9 +1,0 @@
-DEF	The
-CON	man
-PRO	you
-EPS	met
-PST	yesterday
-PST	was
-ROL	Mr
-PER	Brown
-NIL	.

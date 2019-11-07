@@ -1,9 +1,0 @@
-PRO	He
-PST	was
-IST	ready
-SUB	to
-EXS	help
-PRO	her
-REL	with
-PRX	dish-washing
-NIL	.

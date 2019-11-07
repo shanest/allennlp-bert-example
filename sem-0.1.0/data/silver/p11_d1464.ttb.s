@@ -1,9 +1,0 @@
-DEF	The
-CON	sentence
-PRO	you
-NOW	're
-EXG	reading
-NOW	does
-NOT	n't
-EXS	exist
-NIL	.

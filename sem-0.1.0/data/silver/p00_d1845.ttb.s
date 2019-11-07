@@ -1,9 +1,0 @@
-PRO	I
-ENS	think
-SUB	that
-HAS	my
-CON	German
-NOW	is
-IST	really
-EXS	bad
-NIL	.

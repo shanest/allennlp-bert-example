@@ -1,9 +1,0 @@
-PRO	I
-EPS	started
-EXS	doing
-PRX	this
-CON	work
-QUC	4
-CON	years
-PST	ago
-NIL	.

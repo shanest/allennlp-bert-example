@@ -1,9 +1,0 @@
-PER	Tom
-NOW	does
-NOT	n't
-EXS	know
-QUE	how
-IST	tall
-PER	Mary
-NOW	is
-NIL	.

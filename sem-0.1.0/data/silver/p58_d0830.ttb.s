@@ -1,9 +1,0 @@
-POS	May
-PRO	I
-NOW	take
-DIS	a
-CON	shower
-REL	in
-DEF	the
-CON	morning
-QUE	?

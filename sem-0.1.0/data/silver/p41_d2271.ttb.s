@@ -1,9 +1,0 @@
-POS	May
-PRO	I
-NOW	have
-DIS	a
-CON	moment
-AND	of
-HAS	your
-CON	time
-QUE	?

@@ -1,9 +1,0 @@
-DEF	The
-ROL	father
-EPS	told
-DEF	the
-CON	children
-DIS	a
-IST	nice
-CON	story
-NIL	.

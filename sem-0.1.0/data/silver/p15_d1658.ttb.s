@@ -1,9 +1,0 @@
-PRO	I
-PST	was
-EXS	happy
-SUB	that
-PRO	she
-EPS	took
-HAS	my
-CON	side
-NIL	.

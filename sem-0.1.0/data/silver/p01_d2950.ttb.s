@@ -1,9 +1,0 @@
-NIL	There
-NOW	is
-CON	cat
-CON	hair
-AND	all
-AND	over
-DEF	the
-CON	place
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	looking
-REL	at
-DEF	the
-CON	documents
-AND	right
-NOW	now
-NIL	.

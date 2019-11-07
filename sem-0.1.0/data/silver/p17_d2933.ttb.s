@@ -1,9 +1,0 @@
-AND	Unfortunately
-PRO	I
-FUT	will
-NOT	not
-EXT	have
-QUV	much
-IST	free
-CON	time
-NIL	.

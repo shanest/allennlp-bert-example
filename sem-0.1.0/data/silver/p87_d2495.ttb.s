@@ -1,9 +1,0 @@
-PER	Tom
-EPS	talked
-REL	with
-PER	Mary
-REL	for
-INT	nearly
-DIS	an
-CON	hour
-NIL	.

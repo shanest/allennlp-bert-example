@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	know
-IMP	if
-PRO	he
-ENS	knows
-PRO	it
-NIL	.

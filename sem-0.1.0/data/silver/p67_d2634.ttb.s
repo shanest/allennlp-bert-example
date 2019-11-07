@@ -1,9 +1,0 @@
-PRO	I
-PST	was
-INT	very
-EXS	rich
-SUB	until
-PRO	I
-EPS	met
-PRO	her
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-NOW	does
-NOT	n't
-EXS	do
-QUV	much
-NIL	,
-NOW	does
-PRO	he
-QUE	?

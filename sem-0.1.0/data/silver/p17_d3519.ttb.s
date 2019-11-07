@@ -1,9 +1,0 @@
-ITJ	Sure
-NIL	.
-NOW	Do
-PRO	you
-EXS	know
-DIS	a
-IST	good
-CON	place
-QUE	?

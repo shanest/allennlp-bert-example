@@ -1,9 +1,0 @@
-DEF	The
-ROL	thieves
-EPS	opened
-DEF	the
-CON	door
-REL	with
-DIS	a
-CON	passkey
-NIL	.

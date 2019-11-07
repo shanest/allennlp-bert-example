@@ -1,9 +1,0 @@
-SUB	Since
-PRO	I
-PST	was
-EXS	thirsty
-NIL	,
-PRO	I
-EPS	drank
-CON	water
-NIL	.

@@ -1,9 +1,0 @@
-PRO	You
-NEC	should
-EXS	find
-DIS	somebody
-AND	else
-SUB	to
-EXS	help
-PRO	you
-NIL	.

@@ -1,9 +1,0 @@
-PRO	We
-EPS	walked
-REL	on
-DEF	the
-CON	banks
-REL	of
-DEF	the
-GEO	Thames
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-DIS	an
-CON	opportunity
-COO	and
-PRO	I
-EPS	took
-PRO	it
-NIL	.

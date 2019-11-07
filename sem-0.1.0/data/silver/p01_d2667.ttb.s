@@ -1,9 +1,0 @@
-PER	Ben
-EPS	learned
-NIL	to
-EXS	make
-DIS	a
-CON	fire
-NOT	without
-CON	matches
-NIL	.

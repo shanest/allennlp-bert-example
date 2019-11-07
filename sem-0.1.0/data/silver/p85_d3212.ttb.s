@@ -1,9 +1,0 @@
-ORG	Business
-CON	failures
-NOW	are
-IST	down
-INT	10
-UOM	%
-PRX	this
-CON	year
-NIL	.

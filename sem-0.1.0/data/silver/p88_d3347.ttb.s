@@ -1,9 +1,0 @@
-PER	Tom
-EPS	asked
-PER	Mary
-REL	for
-PER	John
-HAS	's
-CON	telephone
-CON	number
-NIL	.

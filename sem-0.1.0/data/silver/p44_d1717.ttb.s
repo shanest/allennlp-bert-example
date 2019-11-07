@@ -1,9 +1,0 @@
-PRO	I
-EPS	sold
-HAS	my
-CON	books
-REL	at
-DIS	a
-IST	reasonable
-CON	price
-NIL	.

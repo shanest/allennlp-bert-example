@@ -1,9 +1,0 @@
-HAS	My
-MOR	older
-ROL	sister
-NOW	takes
-DIS	a
-CON	shower
-AND	every
-CON	morning
-NIL	.

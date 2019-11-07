@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-DIS	something
-PRO	I
-NOW	do
-NOT	n't
-EXS	know
-QUE	?

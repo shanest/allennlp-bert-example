@@ -1,9 +1,0 @@
-CON	Belief
-REL	in
-CON	God
-NOW	is
-NOT	not
-EXS	evil
-AND	per
-CON	se
-NIL	.

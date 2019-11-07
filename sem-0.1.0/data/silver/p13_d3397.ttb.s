@@ -1,9 +1,0 @@
-PER	Tom
-EPS	saw
-PER	Mary
-HAS	's
-CON	footprints
-REL	in
-DEF	the
-CON	mud
-NIL	.

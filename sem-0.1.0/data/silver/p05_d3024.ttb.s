@@ -1,9 +1,0 @@
-PRO	He
-EPS	called
-SUB	to
-EXS	say
-PRO	he
-FUT	'd
-EXS	be
-IST	late
-NIL	.

@@ -1,9 +1,0 @@
-DEF	The
-ROL	policeman
-EPS	took
-DEF	the
-CON	knife
-REL	from
-DEF	the
-CON	boy
-NIL	.

@@ -1,9 +1,0 @@
-PRO	We
-NOW	have
-NOT	never
-EXS	heard
-PRO	him
-EXS	sing
-DEF	the
-CON	song
-NIL	.

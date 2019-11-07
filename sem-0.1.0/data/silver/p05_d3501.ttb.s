@@ -1,9 +1,0 @@
-PER	Tom
-EPS	watched
-DEF	the
-CON	plane
-EXS	disappear
-REL	into
-DEF	the
-CON	distance
-NIL	.

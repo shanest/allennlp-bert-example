@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-NOT	n't
-EXS	talked
-REL	to
-PER	Mary
-REL	in
-CON	years
-NIL	.

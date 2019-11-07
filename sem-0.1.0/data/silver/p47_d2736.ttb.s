@@ -1,9 +1,0 @@
-NOW	Does
-PER	Nancy
-NEC	have
-SUB	to
-EXS	do
-HAS	her
-CON	homework
-NOW	now
-QUE	?

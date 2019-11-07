@@ -1,9 +1,0 @@
-PRO	We
-AND	both
-ENS	know
-SUB	that
-HAS	's
-EXS	unlikely
-SUB	to
-EXS	happen
-NIL	.

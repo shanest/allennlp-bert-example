@@ -1,9 +1,0 @@
-PRO	I
-EPS	spent
-PST	yesterday
-EXS	reading
-IST	instead
-AND	of
-EXS	going
-IST	out
-NIL	.

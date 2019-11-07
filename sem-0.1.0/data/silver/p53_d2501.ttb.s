@@ -1,9 +1,0 @@
-PRO	You
-NOW	are
-EXS	foolish
-SUB	to
-EXS	say
-AND	such
-DIS	a
-CON	thing
-NIL	.

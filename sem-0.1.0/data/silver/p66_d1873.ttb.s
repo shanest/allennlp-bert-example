@@ -1,9 +1,0 @@
-PER	Tom
-EPS	showed
-PER	Mary
-DIS	a
-CON	lot
-AND	of
-HAS	his
-CON	pictures
-NIL	.

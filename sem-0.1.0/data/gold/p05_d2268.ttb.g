@@ -1,9 +1,0 @@
-DEF	The
-CON	girl
-EXS	dressed
-REL	in
-COL	white
-NOW	is
-HAS	his
-ROL	fiancee
-NIL	.

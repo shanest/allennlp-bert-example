@@ -1,9 +1,0 @@
-PRO	You
-NOW	're
-NOT	not
-EXS	fat
-NIL	.
-PRO	You
-NOW	're
-EXS	curvy
-NIL	.

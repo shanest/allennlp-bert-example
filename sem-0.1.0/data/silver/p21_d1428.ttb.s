@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-EXT	read
-DIS	a
-QUV	lot
-NIL	of
-CON	French
-CON	books
-NIL	.

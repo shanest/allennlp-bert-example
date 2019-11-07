@@ -1,9 +1,0 @@
-PRO	She
-EPS	wiped
-HAS	her
-IST	wet
-CON	hair
-REL	with
-DIS	a
-CON	towel
-NIL	.

@@ -1,9 +1,0 @@
-PRO	You
-ENS	know
-PER	Tom
-ENS	has
-DIS	a
-CON	thing
-REL	for
-PRO	you
-NIL	.

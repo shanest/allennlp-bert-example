@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	had
-DIS	a
-IST	little
-CON	bit
-INT	too
-QUC	much
-NIL	.

@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	important
-SUB	to
-EXS	immunize
-CON	children
-AND	against
-CON	polio
-NIL	.

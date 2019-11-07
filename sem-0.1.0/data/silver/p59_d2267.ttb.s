@@ -1,9 +1,0 @@
-PER	Tom
-NOW	does
-NOT	n't
-EXS	think
-PER	Mary
-ENS	wants
-SUB	to
-EXS	go
-NIL	.

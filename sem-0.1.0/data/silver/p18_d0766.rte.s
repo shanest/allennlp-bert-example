@@ -1,9 +1,0 @@
-GPE	Argentina
-EPS	sought
-GPE	UK
-CON	expertise
-REL	on
-CON	privatization
-AND	and
-CON	agriculture
-NIL	.

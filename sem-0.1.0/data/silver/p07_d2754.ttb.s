@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	understand
-QUE	what
-PRO	I
-ENS	want
-SUB	to
-EXS	say
-QUE	?

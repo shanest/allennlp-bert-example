@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-DIS	somebody
-AND	who
-EPS	passed
-PRX	this
-CON	exam
-QUE	?

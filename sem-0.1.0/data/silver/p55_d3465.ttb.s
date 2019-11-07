@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-IST	nervous
-SUB	when
-EXS	speaking
-REL	in
-ALT	another
-CON	language
-NIL	.

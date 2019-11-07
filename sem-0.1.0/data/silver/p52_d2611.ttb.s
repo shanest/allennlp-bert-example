@@ -1,9 +1,0 @@
-NOW	Is
-UNK	there
-DIS	something
-PRO	you
-NOW	have
-NOT	n't
-EXS	told
-PRO	me
-QUE	?

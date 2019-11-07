@@ -1,9 +1,0 @@
-PRO	I
-EPS	asked
-PRO	her
-IMP	if
-PRO	he
-EPS	liked
-GPO	Chinese
-CON	food
-NIL	.

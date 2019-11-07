@@ -1,9 +1,0 @@
-PRO	We
-NEC	have
-NIL	to
-EXS	come
-IST	together
-AND	as
-DIS	a
-CON	team
-NIL	.

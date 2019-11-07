@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-IST	right
-SUB	that
-PRO	you
-NEC	should
-EXS	write
-PRO	it
-NIL	.

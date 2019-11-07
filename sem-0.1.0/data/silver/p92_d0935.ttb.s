@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-IST	hard
-SUB	to
-EXS	find
-DIS	a
-IST	suitable
-CON	translation
-NIL	.

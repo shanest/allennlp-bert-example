@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	going
-SUB	to
-EXS	help
-PRO	you
-EXS	get
-COM	better
-NIL	.

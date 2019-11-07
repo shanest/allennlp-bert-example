@@ -1,9 +1,0 @@
-PRO	I
-IST	never
-EPS	went
-REL	to
-GPE	Hiroshima
-REL	on
-HAS	my
-CON	trip
-NIL	.

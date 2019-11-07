@@ -1,9 +1,0 @@
-PER	Tom
-ENS	has
-SUB	to
-EXS	finish
-PRX	this
-CON	work
-REL	by
-CLO	2:30
-NIL	.

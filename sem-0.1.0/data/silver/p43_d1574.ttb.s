@@ -1,9 +1,0 @@
-PER	Tom
-ENS	drinks
-INT	too
-QUC	much
-SUB	when
-PRO	he
-NOW	's
-EXS	worried
-NIL	.

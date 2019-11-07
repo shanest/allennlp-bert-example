@@ -1,9 +1,0 @@
-PRO	I
-NOW	want
-DST	those
-IST	back
-SUB	when
-PRO	you
-NOW	're
-EXS	done
-NIL	.

@@ -1,9 +1,0 @@
-PRO	She
-EPS	wished
-PRO	he
-PST	had
-IST	more
-CON	time
-REL	for
-PRO	her
-NIL	.

@@ -1,9 +1,0 @@
-PRX	This
-CON	accident
-ENS	has
-NOT	nothing
-SUB	to
-EXS	do
-REL	with
-PRO	me
-NIL	.

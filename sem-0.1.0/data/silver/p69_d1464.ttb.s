@@ -1,9 +1,0 @@
-PRO	I
-PST	thought
-PRO	I
-PST	was
-EXS	doing
-DEF	the
-IST	right
-CON	thing
-NIL	.

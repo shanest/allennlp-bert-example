@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-DIS	a
-CON	house
-REL	with
-DIS	a
-COL	red
-CON	roof
-NIL	.

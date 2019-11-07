@@ -1,9 +1,0 @@
-NOW	Are
-UNK	there
-DIS	a
-CON	lot
-AND	of
-CON	foreigners
-REL	in
-GPE	Armenia
-QUE	?

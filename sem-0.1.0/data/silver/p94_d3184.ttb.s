@@ -1,9 +1,0 @@
-PRO	He
-EPS	washed
-HAS	her
-IST	dirty
-CON	hands
-REL	before
-DEF	the
-CON	meal
-NIL	.

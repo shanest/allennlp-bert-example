@@ -1,9 +1,0 @@
-PRO	I
-EPS	told
-PER	Tom
-PRO	he
-NEC	should
-NOT	n't
-EXS	drink
-DST	that
-NIL	.

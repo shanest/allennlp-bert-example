@@ -1,9 +1,0 @@
-REL	On
-DOW	Saturdays
-PRO	I
-IST	often
-EXS	get
-IST	up
-REL	at
-CLO	noon
-NIL	.

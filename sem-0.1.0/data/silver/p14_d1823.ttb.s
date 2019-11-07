@@ -1,9 +1,0 @@
-PRO	I
-FUT	'll
-EXS	explain
-PRO	it
-REL	to
-PRO	you
-AND	later
-REL	on
-NIL	.

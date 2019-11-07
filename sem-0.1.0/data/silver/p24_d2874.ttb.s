@@ -1,9 +1,0 @@
-EXS	Show
-PRO	me
-DEF	the
-CON	doll
-SUB	that
-PRO	you
-EPS	bought
-PST	yesterday
-NIL	.

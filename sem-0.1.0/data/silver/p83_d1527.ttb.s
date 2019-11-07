@@ -1,9 +1,0 @@
-DEF	The
-CON	man
-EPS	took
-DEF	the
-CON	boy
-REL	by
-DEF	the
-CON	hand
-NIL	.

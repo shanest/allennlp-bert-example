@@ -1,9 +1,0 @@
-REL	Since
-PRX	this
-CON	morning
-PRO	I
-NOW	've
-EXS	read
-QUC	three
-CON	books
-NIL	.

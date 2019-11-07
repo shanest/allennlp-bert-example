@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-IST	ever
-EPS	commented
-DIS	a
-CON	sentence
-REL	on
-PRX	Tatoeba
-QUE	?

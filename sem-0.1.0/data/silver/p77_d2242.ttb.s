@@ -1,9 +1,0 @@
-PRO	We
-EPS	set
-DIS	a
-CON	trap
-REL	to
-EXS	catch
-DIS	a
-CON	fox
-NIL	.

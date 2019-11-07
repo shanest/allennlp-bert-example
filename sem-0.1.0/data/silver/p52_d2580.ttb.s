@@ -1,9 +1,0 @@
-PRO	He
-EPS	made
-DIS	a
-IST	polite
-CON	bow
-REL	to
-HAS	his
-CON	teacher
-NIL	.

@@ -1,9 +1,0 @@
-NOW	Does
-PER	Tom
-IST	usually
-EXS	write
-REL	to
-PRO	you
-REL	in
-GPO	French
-QUE	?

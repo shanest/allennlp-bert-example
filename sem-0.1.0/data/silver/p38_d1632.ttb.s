@@ -1,9 +1,0 @@
-PER	Tartar
-NOW	is
-DIS	a
-CON	form
-AND	of
-IST	hardened
-IST	dental
-CON	plaque
-NIL	.

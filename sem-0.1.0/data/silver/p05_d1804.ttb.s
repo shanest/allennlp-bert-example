@@ -1,9 +1,0 @@
-REL	In
-DEF	the
-IST	last
-QUV	few
-CON	years
-PRO	it
-EPS	happened
-IST	frequently
-NIL	.

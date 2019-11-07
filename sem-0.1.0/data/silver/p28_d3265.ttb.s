@@ -1,9 +1,0 @@
-PRO	I
-FUT	would
-EXT	have
-PFT	been
-CON	happier
-EXS	wearing
-DIS	a
-CON	mask
-NIL	.

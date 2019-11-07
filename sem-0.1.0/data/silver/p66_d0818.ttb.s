@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	opposed
-REL	to
-AND	any
-CON	type
-AND	of
-CON	war
-NIL	.

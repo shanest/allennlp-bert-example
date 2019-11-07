@@ -1,9 +1,0 @@
-PRO	We
-NOW	have
-EXS	got
-QUC	two
-CON	daughters
-AND	and
-QUC	two
-CON	sons
-NIL	.

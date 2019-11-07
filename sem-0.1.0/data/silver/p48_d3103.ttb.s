@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-NOW	are
-EXS	thinking
-SUB	about
-EXS	getting
-EXS	married
-NIL	.

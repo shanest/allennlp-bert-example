@@ -1,9 +1,0 @@
-SUB	When
-PRO	we
-NOW	're
-EXS	bored
-NIL	,
-PRO	we
-NOW	play
-CON	hangman
-NIL	.

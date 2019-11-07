@@ -1,9 +1,0 @@
-NOW	Are
-PRO	you
-IST	still
-EXG	looking
-REL	for
-DIS	something
-SUB	to
-EXS	do
-QUE	?

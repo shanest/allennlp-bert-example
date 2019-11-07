@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-NOT	not
-EXS	seen
-DIS	anything
-ALT	yet
-REL	in
-GEO	Tegucigalpa
-NIL	.

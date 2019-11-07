@@ -1,9 +1,0 @@
-PRO	I
-POS	ca
-NOT	n't
-EXS	understand
-QUE	what
-PRO	you
-NOW	're
-EXS	saying
-NIL	.

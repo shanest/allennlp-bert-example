@@ -1,9 +1,0 @@
-HAS	My
-ROL	cousin
-ENS	goes
-REL	to
-DEF	the
-GEO	Carpathians
-AND	every
-CON	year
-NIL	.

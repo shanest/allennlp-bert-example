@@ -1,9 +1,0 @@
-DEF	The
-CON	factory
-ENS	produces
-CON	thousands
-AND	of
-CON	bottles
-AND	every
-CON	month
-NIL	.

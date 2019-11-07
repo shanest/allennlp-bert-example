@@ -1,9 +1,0 @@
-PRO	I
-ENS	wish
-AND	everything
-PER	Tom
-EPS	said
-PST	was
-DIS	a
-CON	lie
-NIL	.

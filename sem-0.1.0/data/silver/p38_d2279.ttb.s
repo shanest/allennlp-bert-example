@@ -1,9 +1,0 @@
-PRO	You
-IST	never
-ENS	know
-SUB	when
-PER	Tom
-POS	might
-EXS	show
-IST	up
-NIL	.

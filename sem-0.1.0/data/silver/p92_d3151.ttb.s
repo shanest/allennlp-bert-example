@@ -1,9 +1,0 @@
-PRO	I
-FUT	'll
-ENS	bet
-QUC	10,000
-UOM	yen
-REL	on
-HAS	his
-EXG	winning
-NIL	.

@@ -1,9 +1,0 @@
-DIS	Some
-ENS	believe
-SUB	that
-QUC	seven
-NOW	is
-DIS	a
-IST	lucky
-CON	number
-NIL	.

@@ -1,9 +1,0 @@
-GEO	Venus
-NOW	is
-ALT	also
-EXS	known
-AND	as
-DEF	the
-ORG	Morning
-ORG	Star
-NIL	.

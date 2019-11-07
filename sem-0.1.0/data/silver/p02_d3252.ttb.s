@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-IST	really
-EXS	think
-PRO	you
-POS	can
-EXS	control
-PER	Tom
-QUE	?

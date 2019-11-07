@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-REL	on
-DEF	the
-CON	phone
-REL	with
-HAS	her
-NOW	now
-NIL	.

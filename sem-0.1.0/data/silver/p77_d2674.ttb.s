@@ -1,9 +1,0 @@
-DEF	The
-CON	police
-EPS	found
-PER	Tom
-EXS	dead
-REL	on
-DEF	the
-CON	porch
-NIL	.

@@ -1,9 +1,0 @@
-DIS	An
-CON	asteroid
-EPS	passed
-IST	close
-REL	to
-GEO	Earth
-REL	on
-DOW	Saturday
-NIL	.

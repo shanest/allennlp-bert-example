@@ -1,9 +1,0 @@
-PRO	We
-NOW	've
-EXS	got
-QUC	one
-IST	more
-EXS	stop
-SUB	to
-EXS	make
-NIL	.

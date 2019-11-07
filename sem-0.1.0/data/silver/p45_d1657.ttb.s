@@ -1,9 +1,0 @@
-POS	May
-DEF	the
-CON	blessings
-AND	of
-CON	God
-CON	rest
-AND	upon
-PRO	you
-NIL	.

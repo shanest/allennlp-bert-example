@@ -1,9 +1,0 @@
-PER	Chen
-PER	Shui-bian
-NOW	is
-DEF	the
-IST	new
-ROL	President
-AND	of
-GPE	Taiwan
-NIL	.

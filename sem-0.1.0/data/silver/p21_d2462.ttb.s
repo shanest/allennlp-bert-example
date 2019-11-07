@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-EPS	started
-EXS	talking
-REL	at
-IST	same
-CON	time
-NIL	.

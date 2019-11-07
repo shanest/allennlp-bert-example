@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	looking
-IST	forward
-REL	to
-HAS	your
-HAP	Halloween
-CON	party
-NIL	.

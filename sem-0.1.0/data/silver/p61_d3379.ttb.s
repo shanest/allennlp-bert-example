@@ -1,9 +1,0 @@
-PRO	He
-NEC	must
-EXT	have
-PFT	been
-EXS	named
-REL	after
-HAS	his
-ROL	grandfather
-NIL	.

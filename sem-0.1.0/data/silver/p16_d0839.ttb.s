@@ -1,9 +1,0 @@
-PRO	He
-NOW	has
-PFT	been
-EXS	wandering
-AND	over
-GEO	Europe
-REL	for
-CON	months
-NIL	.

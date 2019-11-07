@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-EXS	cross
-SUB	because
-PRO	she
-IST	always
-ENS	comes
-IST	late
-NIL	.

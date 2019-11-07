@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-NOT	not
-IST	sure
-AND	who
-EPS	wrote
-PRX	this
-CON	report
-NIL	.

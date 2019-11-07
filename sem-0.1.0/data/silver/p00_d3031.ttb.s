@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	want
-DIS	anyone
-NIL	to
-EXS	take
-CON	notes
-NIL	!

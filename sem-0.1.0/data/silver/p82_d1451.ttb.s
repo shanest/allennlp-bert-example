@@ -1,9 +1,0 @@
-PER	Tom
-EPS	scored
-DEF	the
-IST	first
-CON	goal
-AND	of
-DEF	the
-CON	game
-NIL	.

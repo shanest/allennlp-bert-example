@@ -1,9 +1,0 @@
-FUT	Should
-PRO	I
-EXS	fail
-NIL	,
-PRO	I
-FUT	would
-EXS	try
-ALT	again
-NIL	.

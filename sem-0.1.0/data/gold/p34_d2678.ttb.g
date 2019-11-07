@@ -1,9 +1,0 @@
-PRX	This
-CON	hill
-REL	of
-CON	termites
-NOW	is
-IST	located
-REL	in
-GPE	Tanzania
-NIL	.

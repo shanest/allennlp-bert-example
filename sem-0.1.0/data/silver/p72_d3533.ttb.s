@@ -1,9 +1,0 @@
-HAS	My
-CON	hometown
-NOW	is
-REL	in
-DEF	the
-CON	center
-AND	of
-GPE	Kobe
-NIL	.

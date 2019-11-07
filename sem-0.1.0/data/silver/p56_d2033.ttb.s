@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-NOW	think
-PRO	he
-IST	still
-ENS	reads
-HAS	my
-CON	messages
-QUE	?

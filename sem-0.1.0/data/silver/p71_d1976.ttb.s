@@ -1,9 +1,0 @@
-PRO	You
-NOW	do
-NOT	n't
-EXS	know
-QUE	what
-PRO	you
-NOW	're
-EXS	doing
-NIL	.

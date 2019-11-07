@@ -1,9 +1,0 @@
-FUT	Should
-PRO	I
-EXS	come
-REL	to
-DEF	the
-CON	bus
-EXS	stop
-NOW	now
-QUE	?

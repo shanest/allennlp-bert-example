@@ -1,9 +1,0 @@
-NOW	Do
-NOT	n't
-EXS	worry
-REL	about
-AND	such
-DIS	a
-IST	silly
-CON	thing
-NIL	.

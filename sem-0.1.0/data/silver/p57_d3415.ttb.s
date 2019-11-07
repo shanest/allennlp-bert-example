@@ -1,9 +1,0 @@
-PRO	It
-ENS	seems
-SUB	that
-PER	Tony
-EPS	bought
-DIS	an
-IST	expensive
-CON	car
-NIL	.

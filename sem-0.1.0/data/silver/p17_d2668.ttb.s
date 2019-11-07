@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-DIS	a
-CON	lot
-AND	of
-CON	things
-AND	that
-CON	day
-NIL	.

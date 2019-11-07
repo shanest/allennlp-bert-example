@@ -1,9 +1,0 @@
-ROL	Mr.
-PER	Smith
-EXS	established
-PRX	this
-CON	school
-QUC	forty
-CON	years
-PST	ago
-NIL	.

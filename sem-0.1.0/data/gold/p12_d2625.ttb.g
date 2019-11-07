@@ -1,9 +1,0 @@
-PRO	He
-EPS	whispered
-REL	to
-PRO	me
-SUB	that
-PRO	he
-PST	was
-IST	hungry
-NIL	.

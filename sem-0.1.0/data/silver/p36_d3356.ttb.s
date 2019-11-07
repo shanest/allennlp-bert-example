@@ -1,9 +1,0 @@
-AND	And
-PRO	it
-NOW	's
-IST	here
-SUB	that
-PRO	you
-NOW	are
-EXS	wrong
-NIL	!

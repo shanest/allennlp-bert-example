@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	surprised
-SUB	to
-EXS	hear
-PRO	you
-EXS	say
-DST	that
-NIL	.

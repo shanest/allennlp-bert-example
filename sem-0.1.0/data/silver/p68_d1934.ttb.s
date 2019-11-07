@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-NOT	never
-EXS	heard
-AND	of
-DST	that
-CON	city
-ALT	yet
-NIL	.

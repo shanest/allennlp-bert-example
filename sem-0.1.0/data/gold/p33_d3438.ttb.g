@@ -1,9 +1,0 @@
-DEF	The
-CON	man
-EPS	threw
-HAS	his
-CON	flute
-REL	into
-DEF	the
-CON	lake
-NIL	.

@@ -1,3 +1,0 @@
-CON	God
-IST	willing
-NIL	...

@@ -1,9 +1,0 @@
-PRO	He
-EPS	gave
-HAS	his
-CON	seat
-REL	to
-DEF	the
-IST	old
-CON	man
-NIL	.

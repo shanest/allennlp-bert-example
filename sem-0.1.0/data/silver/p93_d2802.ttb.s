@@ -1,9 +1,0 @@
-PRO	You
-FUT	will
-EXS	wish
-PRO	you
-PST	had
-NOT	never
-EXS	seen
-PRO	it
-NIL	.

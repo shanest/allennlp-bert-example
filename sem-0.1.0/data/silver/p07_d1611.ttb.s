@@ -1,9 +1,0 @@
-PRO	She
-EPS	saw
-DIS	a
-IST	young
-CON	man
-REL	at
-DEF	the
-CON	entrance
-NIL	.

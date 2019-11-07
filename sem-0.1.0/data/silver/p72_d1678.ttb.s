@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	dangerous
-SUB	to
-EXS	cross
-SUB	that
-IST	old
-CON	bridge
-NIL	.

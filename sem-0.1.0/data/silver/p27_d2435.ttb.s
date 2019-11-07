@@ -1,9 +1,0 @@
-DEF	The
-CON	factory
-PST	was
-EXS	shut
-IST	down
-QUC	ten
-CON	years
-PST	ago
-NIL	.

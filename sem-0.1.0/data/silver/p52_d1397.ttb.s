@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	feel
-AND	like
-EXS	eating
-DIS	anything
-NOW	now
-NIL	.

@@ -1,9 +1,0 @@
-DEF	The
-CON	brother
-EPS	wrote
-DIS	a
-CON	letter
-REL	to
-DEF	the
-ROL	sister
-NIL	.

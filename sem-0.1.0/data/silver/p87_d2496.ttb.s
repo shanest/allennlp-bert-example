@@ -1,9 +1,0 @@
-PRO	We
-NEC	ought
-SUB	to
-EXS	take
-DEF	the
-CON	teacher
-HAS	's
-CON	advice
-NIL	.

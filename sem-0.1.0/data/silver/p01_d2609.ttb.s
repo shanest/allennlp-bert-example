@@ -1,9 +1,0 @@
-DEF	The
-CON	dam
-EPS	burst
-EXG	owing
-REL	to
-DEF	the
-IST	heavy
-CON	rain
-NIL	.

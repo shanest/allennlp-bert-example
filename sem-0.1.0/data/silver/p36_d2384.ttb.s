@@ -1,9 +1,0 @@
-PRO	We
-ENS	know
-PRO	it
-PST	was
-PRO	you
-SUB	that
-EPS	killed
-PER	Tom
-NIL	.

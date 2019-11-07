@@ -1,9 +1,0 @@
-PRX	This
-NOW	is
-PER	John
-AND	and
-DST	that
-NOW	is
-HAS	his
-CON	brother
-NIL	.

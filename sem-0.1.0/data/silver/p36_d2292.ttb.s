@@ -1,9 +1,0 @@
-PER	Bergen
-NOW	is
-DEF	the
-IST	second
-TOP	largest
-CON	city
-REL	in
-GPE	Norway
-NIL	.

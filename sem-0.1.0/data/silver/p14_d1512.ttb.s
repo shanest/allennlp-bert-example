@@ -1,9 +1,0 @@
-HAS	Our
-CON	ancestors
-EPS	knew
-QUE	how
-SUB	to
-EXS	read
-DEF	the
-CON	stars
-NIL	.

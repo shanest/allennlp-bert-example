@@ -1,9 +1,0 @@
-PER	Tom
-PST	did
-NOT	n't
-EXS	come
-IST	back
-REL	until
-REL	after
-CLO	2:30
-NIL	.

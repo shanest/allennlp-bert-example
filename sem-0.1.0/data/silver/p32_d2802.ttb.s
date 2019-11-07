@@ -1,9 +1,0 @@
-PRO	I
-FUT	would
-NIL	rather
-PRO	you
-PST	had
-DIS	a
-CON	day
-REL	off
-NIL	.

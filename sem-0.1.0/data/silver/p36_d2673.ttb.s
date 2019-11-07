@@ -1,9 +1,0 @@
-PRO	We
-NOW	've
-PFT	been
-EXS	close
-CON	friends
-REL	for
-QUV	many
-CON	years
-NIL	.

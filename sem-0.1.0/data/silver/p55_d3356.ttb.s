@@ -1,9 +1,0 @@
-PRO	I
-EPS	wrote
-PER	Mary
-SUB	to
-EXS	say
-PRO	I
-PST	was
-EXS	sorry
-NIL	.

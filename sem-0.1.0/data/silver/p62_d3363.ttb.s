@@ -1,9 +1,0 @@
-PRO	She
-EPS	swam
-IST	fast
-IST	enough
-SUB	to
-EXS	win
-DIS	a
-CON	medal
-NIL	.

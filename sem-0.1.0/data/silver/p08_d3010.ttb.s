@@ -1,9 +1,0 @@
-PER	Tom
-EPS	asked
-IMP	if
-PRO	he
-POS	might
-EXS	go
-CON	home
-IST	early
-NIL	.

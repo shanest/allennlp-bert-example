@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-IST	always
-SUB	as
-EXS	busy
-AND	as
-DIS	a
-CON	bee
-NIL	.

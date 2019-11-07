@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-CON	guys
-EXS	want
-SUB	to
-EXS	come
-NIL	,
-ALT	too
-QUE	?

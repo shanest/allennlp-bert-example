@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-IST	sure
-PRO	you
-EXS	misunderstood
-QUE	what
-PST	was
-EXS	said
-NIL	.

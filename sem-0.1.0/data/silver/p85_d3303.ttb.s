@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	certain
-SUB	that
-CON	Mum
-FUT	will
-EXS	be
-EXS	angry
-NIL	.

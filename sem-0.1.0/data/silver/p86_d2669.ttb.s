@@ -1,9 +1,0 @@
-PRO	We
-NOW	've
-PFT	been
-EXS	waiting
-REL	for
-IST	quite
-DIS	a
-CON	while
-NIL	.

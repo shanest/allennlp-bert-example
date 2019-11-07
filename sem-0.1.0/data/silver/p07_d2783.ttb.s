@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-PFT	been
-INT	very
-IST	busy
-REL	with
-DEF	the
-CON	exams
-NIL	!

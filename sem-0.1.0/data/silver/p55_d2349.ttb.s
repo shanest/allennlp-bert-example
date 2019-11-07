@@ -1,9 +1,0 @@
-PRX	This
-NOW	is
-AND	all
-PRO	you
-NEC	have
-SUB	to
-EXS	do
-NOW	now
-NIL	.

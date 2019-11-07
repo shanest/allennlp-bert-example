@@ -1,9 +1,0 @@
-PRO	He
-PST	was
-INT	too
-EXS	tired
-SUB	to
-EXS	go
-AND	any
-IST	further
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-IST	always
-ENS	speaks
-AND	of
-DEF	the
-CON	government
-REL	with
-CON	contempt
-NIL	.

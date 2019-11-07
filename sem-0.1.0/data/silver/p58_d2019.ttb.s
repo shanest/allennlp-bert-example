@@ -1,9 +1,0 @@
-QUE	What
-PER	Tom
-IST	really
-EPS	wanted
-PST	was
-SUB	to
-EXS	be
-EXS	happy
-NIL	.

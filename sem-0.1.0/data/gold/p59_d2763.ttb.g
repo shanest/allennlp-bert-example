@@ -1,9 +1,0 @@
-EXS	Open
-HAS	your
-CON	atlas
-REL	of
-GPE	Japan
-REL	to
-CON	page
-NTH	3
-NIL	.

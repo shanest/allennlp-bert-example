@@ -1,9 +1,0 @@
-PRO	I
-FUT	would
-EXS	like
-SUB	to
-EXS	talk
-REL	with
-PRO	you
-ALT	again
-NIL	.

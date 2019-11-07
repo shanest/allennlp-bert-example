@@ -1,9 +1,0 @@
-PER	Tom
-EPS	wondered
-QUE	what
-PER	Mary
-HAS	's
-IST	last
-CON	name
-PST	was
-NIL	.

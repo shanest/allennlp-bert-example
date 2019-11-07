@@ -1,9 +1,0 @@
-NOW	Do
-NOT	n't
-EXS	worry
-NIL	.
-PRO	We
-NOW	're
-EXS	safe
-PRX	here
-NIL	.

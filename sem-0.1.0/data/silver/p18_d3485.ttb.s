@@ -1,9 +1,0 @@
-PRO	I
-PST	was
-EXG	waiting
-REL	for
-PRO	you
-SUB	to
-EXS	say
-DST	that
-NIL	.

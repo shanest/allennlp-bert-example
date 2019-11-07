@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-IST	already
-PFT	been
-PRX	here
-REL	for
-QUC	two
-UOM	hours
-NIL	.

@@ -1,9 +1,0 @@
-PRO	It
-ENS	seems
-PRO	I
-FUT	'll
-EXS	be
-IST	late
-NOW	today
-ALT	too
-NIL	.

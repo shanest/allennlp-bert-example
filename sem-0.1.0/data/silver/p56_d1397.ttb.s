@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	engaged
-REL	to
-PER	Mary
-HAS	's
-MOR	younger
-ROL	sister
-NIL	.

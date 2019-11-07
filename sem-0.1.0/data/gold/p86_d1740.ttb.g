@@ -1,9 +1,0 @@
-DIS	Someone
-EPS	broke
-DEF	the
-CON	lock
-COO	and
-EPS	stole
-HAS	my
-CON	bike
-NIL	.

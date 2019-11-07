@@ -1,9 +1,0 @@
-AND	Then
-NIL	,
-IST	finally
-NIL	,
-PRO	she
-EPS	opened
-HAS	her
-CON	mouth
-NIL	.

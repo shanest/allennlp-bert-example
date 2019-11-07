@@ -1,9 +1,0 @@
-PRO	He
-EPS	felt
-DEF	the
-IST	same
-CON	way
-SUB	as
-PRO	I
-PST	did
-NIL	.

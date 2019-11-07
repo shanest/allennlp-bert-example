@@ -1,9 +1,0 @@
-PER	Nijmegen
-NOW	is
-DEF	the
-TOP	oldest
-CON	city
-REL	in
-DEF	the
-GEO	Netherlands
-NIL	.

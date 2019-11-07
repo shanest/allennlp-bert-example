@@ -1,9 +1,0 @@
-DEF	The
-CON	man
-EPS	lit
-DIS	a
-CON	cigarette
-REL	with
-DIS	a
-CON	lighter
-NIL	.

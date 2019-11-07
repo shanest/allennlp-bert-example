@@ -1,9 +1,0 @@
-NOT	No
-CON	one
-EPS	told
-PRO	me
-SUB	that
-PRO	she
-PST	had
-EXS	failed
-NIL	.

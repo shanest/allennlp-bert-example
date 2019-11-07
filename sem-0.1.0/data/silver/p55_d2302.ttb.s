@@ -1,9 +1,0 @@
-EXS	Stop
-EXS	joking
-NIL	.
-PRO	It
-HAS	's
-DIS	a
-IST	serious
-CON	matter
-NIL	.

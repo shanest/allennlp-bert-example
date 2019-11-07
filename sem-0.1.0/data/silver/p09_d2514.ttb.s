@@ -1,9 +1,0 @@
-EXS	Keep
-DEF	the
-CON	estate
-NIL	,
-COO	but
-EXS	revamp
-DEF	the
-CON	house
-NIL	!

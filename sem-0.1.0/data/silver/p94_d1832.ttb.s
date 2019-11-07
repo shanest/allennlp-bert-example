@@ -1,9 +1,0 @@
-PER	Tom
-EPS	gave
-PER	Mary
-DIS	a
-CON	kick
-REL	in
-DEF	the
-CON	ribs
-NIL	.

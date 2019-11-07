@@ -1,9 +1,0 @@
-PER	Tom
-EPS	saw
-HAS	his
-IST	former
-CON	employer
-REL	at
-DIS	a
-CON	conference
-NIL	.

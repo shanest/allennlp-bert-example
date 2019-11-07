@@ -1,9 +1,0 @@
-AND	Could
-PRO	you
-IST	please
-EXS	wait
-SUB	until
-PRO	I
-NOW	'm
-EXS	finished
-QUE	?

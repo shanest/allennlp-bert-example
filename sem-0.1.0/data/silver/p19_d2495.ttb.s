@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	n't
-IST	actually
-EXS	been
-REL	to
-GPE	Boston
-ALT	yet
-NIL	.

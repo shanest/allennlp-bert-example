@@ -1,9 +1,0 @@
-PER	Tom
-EPS	forgot
-SUB	to
-EXS	take
-HAS	his
-CON	medication
-PRX	this
-CON	morning
-NIL	.

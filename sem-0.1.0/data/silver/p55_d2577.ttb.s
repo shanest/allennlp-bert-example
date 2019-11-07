@@ -1,9 +1,0 @@
-ROL	Mr
-PER	Jones
-EPS	made
-PER	Mary
-ENS	go
-REL	to
-DEF	the
-CON	dentist
-NIL	.

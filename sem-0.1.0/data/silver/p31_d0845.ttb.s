@@ -1,9 +1,0 @@
-PRO	They
-EPS	concluded
-SUB	that
-PRO	he
-PST	had
-EXS	told
-DIS	a
-CON	lie
-NIL	.

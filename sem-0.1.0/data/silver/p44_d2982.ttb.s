@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	no
-CON	idea
-SUB	where
-PER	Tom
-NOW	is
-NOW	now
-NIL	.

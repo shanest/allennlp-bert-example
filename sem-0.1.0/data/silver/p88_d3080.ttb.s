@@ -1,9 +1,0 @@
-PRO	I
-EPS	took
-DIS	a
-IST	close
-CON	shot
-AND	of
-HAS	her
-CON	face
-NIL	.

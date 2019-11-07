@@ -1,9 +1,0 @@
-PRO	I
-EPS	forgot
-PER	Tom
-EPS	knew
-QUE	how
-SUB	to
-EXS	read
-GPO	French
-NIL	.

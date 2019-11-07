@@ -1,9 +1,0 @@
-PRO	She
-ENS	has
-NIL	to
-EXS	go
-CON	shopping
-REL	in
-DEF	the
-CON	afternoon
-NIL	.

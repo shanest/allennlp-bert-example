@@ -1,9 +1,0 @@
-PRX	These
-NOW	are
-HAS	my
-CON	shoes
-AND	and
-DST	those
-NOW	are
-HAS	yours
-NIL	.

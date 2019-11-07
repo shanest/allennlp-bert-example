@@ -1,9 +1,0 @@
-PRO	I
-PST	was
-EXS	calm
-SUB	until
-PRO	I
-EPS	saw
-DEF	the
-CON	syringe
-NIL	!

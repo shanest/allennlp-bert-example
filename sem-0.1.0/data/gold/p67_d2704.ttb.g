@@ -1,9 +1,0 @@
-PER	Vicente
-ENS	is
-REL	from
-GPE	Chile
-NIL	.
-PRO	He
-NOW	is
-GPO	Chilean
-NIL	.

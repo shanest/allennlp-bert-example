@@ -1,9 +1,0 @@
-QUE	How
-QUC	much
-NOW	have
-PRO	you
-EPS	paid
-REL	for
-PRX	this
-CON	computer
-QUE	?

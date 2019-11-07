@@ -1,9 +1,0 @@
-PRO	He
-EPS	took
-CON	pictures
-AND	of
-PRO	me
-REL	with
-HAS	his
-CON	camera
-NIL	.

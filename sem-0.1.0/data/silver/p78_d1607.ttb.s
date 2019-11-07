@@ -1,9 +1,0 @@
-PRO	We
-EPS	chose
-DEF	the
-MOR	lesser
-AND	of
-DEF	the
-QUC	two
-CON	evils
-NIL	.

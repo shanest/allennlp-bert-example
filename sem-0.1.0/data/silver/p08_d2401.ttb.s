@@ -1,9 +1,0 @@
-PRO	He
-EPS	said
-SUB	that
-DST	that
-CON	girl
-PST	had
-EXT	kissed
-PRO	him
-NIL	.

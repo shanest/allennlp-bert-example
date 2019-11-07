@@ -1,9 +1,0 @@
-PRO	We
-EPS	saw
-DEF	the
-CON	bird
-SUB	when
-PRO	we
-EPS	visited
-GEO	Okinawa
-NIL	.

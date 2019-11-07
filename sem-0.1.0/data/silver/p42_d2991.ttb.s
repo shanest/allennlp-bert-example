@@ -1,9 +1,0 @@
-PER	Tom
-PST	did
-NOT	n't
-EXS	know
-SUB	when
-PER	Mary
-EPS	met
-PER	John
-NIL	.

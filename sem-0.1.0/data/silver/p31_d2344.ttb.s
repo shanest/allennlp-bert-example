@@ -1,9 +1,0 @@
-PER	Tom
-EPS	passed
-DIS	a
-CON	glass
-AND	of
-CON	milk
-REL	to
-PER	Mary
-NIL	.

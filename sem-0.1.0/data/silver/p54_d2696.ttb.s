@@ -1,9 +1,0 @@
-PRO	We
-ENS	need
-SUB	to
-EXS	know
-SUB	where
-PER	Tom
-NOW	is
-NOW	now
-NIL	.

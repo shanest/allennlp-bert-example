@@ -1,9 +1,0 @@
-PRO	I
-EPS	thought
-PRO	you
-EXS	set
-DEF	the
-CON	alarm
-REL	for
-CLO	2:30
-NIL	.

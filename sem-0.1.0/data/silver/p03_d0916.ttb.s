@@ -1,9 +1,0 @@
-PRO	He
-NOW	does
-NOT	n't
-EXS	eat
-DIS	any
-CON	thing
-NOT	except
-CON	fruit
-NIL	.

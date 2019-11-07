@@ -1,9 +1,0 @@
-PRO	We
-NOW	've
-IST	already
-EXS	decided
-NOT	not
-SUB	to
-EXS	do
-DST	that
-NIL	.

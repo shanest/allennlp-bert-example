@@ -1,9 +1,0 @@
-HAS	My
-ROL	mother
-EPS	taught
-PRO	me
-NOT	not
-SUB	to
-EXS	waste
-CON	money
-NIL	.

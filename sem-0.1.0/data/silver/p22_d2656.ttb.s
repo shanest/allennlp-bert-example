@@ -1,9 +1,0 @@
-PER	Tom
-EPS	pushed
-DEF	the
-EXS	wheelchair
-REL	into
-PER	Mary
-HAS	's
-CON	room
-NIL	.

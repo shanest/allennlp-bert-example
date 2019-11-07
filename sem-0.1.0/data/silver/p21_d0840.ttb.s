@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-NOW	now
-REL	in
-DIS	a
-INT	very
-IST	difficult
-CON	situation
-NIL	.

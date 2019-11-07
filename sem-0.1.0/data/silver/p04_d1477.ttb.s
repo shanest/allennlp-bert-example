@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-EPS	found
-DIS	an
-CON	answer
-REL	to
-PRX	this
-CON	question
-QUE	?

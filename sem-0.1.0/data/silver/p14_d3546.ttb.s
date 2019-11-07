@@ -1,9 +1,0 @@
-CON	Looks
-IST	delicious
-NIL	.
-EXS	Think
-PRO	I
-FUT	'll
-EXS	try
-DIS	some
-NIL	.

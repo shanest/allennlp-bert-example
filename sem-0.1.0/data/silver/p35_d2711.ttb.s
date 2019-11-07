@@ -1,9 +1,0 @@
-PER	Mr.
-GEO	Yoshida
-NOW	is
-INT	too
-EXS	severe
-REL	with
-HAS	his
-CON	children
-NIL	.

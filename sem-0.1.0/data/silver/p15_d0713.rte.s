@@ -1,9 +1,0 @@
-PER	John
-PER	Odgren
-NOW	is
-EXS	suspected
-AND	of
-EXG	stabbing
-PER	James
-PER	Alenson
-NIL	.

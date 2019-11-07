@@ -1,9 +1,0 @@
-DEF	The
-CON	horse
-EPS	broke
-HAS	its
-CON	neck
-SUB	when
-PRO	it
-EPS	fell
-NIL	.

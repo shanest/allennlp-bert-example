@@ -1,9 +1,0 @@
-PRO	You
-PST	had
-IST	better
-EXS	go
-REL	to
-DEF	the
-CON	dentist
-HAS	's
-NIL	.

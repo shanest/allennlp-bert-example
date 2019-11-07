@@ -1,9 +1,0 @@
-EXS	Thank
-PRO	you
-REL	for
-EXS	coming
-REL	in
-REL	for
-DEF	the
-CON	interview
-NIL	.

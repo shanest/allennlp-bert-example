@@ -1,9 +1,0 @@
-QUV	Many
-CON	thousands
-REL	on
-AND	both
-CON	sides
-PST	had
-PFT	been
-EXS	wounded
-NIL	.

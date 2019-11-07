@@ -1,9 +1,0 @@
-NIL	There
-NOW	are
-CON	milliards
-AND	of
-CON	stars
-REL	in
-DEF	the
-CON	universe
-NIL	.

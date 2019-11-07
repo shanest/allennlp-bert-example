@@ -1,9 +1,0 @@
-PRX	This
-CON	work
-ENS	has
-SUB	to
-EXS	be
-EXS	finished
-REL	by
-DOW	Monday
-NIL	.

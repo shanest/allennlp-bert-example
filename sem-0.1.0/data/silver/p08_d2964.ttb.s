@@ -1,9 +1,0 @@
-PRO	I
-ENS	love
-HAS	my
-ROL	mother
-COO	and
-PRO	she
-ENS	loves
-PRO	me
-NIL	.

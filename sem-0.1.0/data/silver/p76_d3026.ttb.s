@@ -1,9 +1,0 @@
-PER	Tom
-PST	did
-NOT	n't
-EXS	keep
-PER	Mary
-EXS	waiting
-IST	too
-IST	long
-NIL	.

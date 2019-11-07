@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	want
-SUB	to
-EXS	get
-INT	too
-IST	personal
-NIL	.

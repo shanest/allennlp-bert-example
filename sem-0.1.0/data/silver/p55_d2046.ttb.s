@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-HAS	my
-CON	friend
-EXG	running
-IST	up
-DEF	the
-CON	stairs
-NIL	.

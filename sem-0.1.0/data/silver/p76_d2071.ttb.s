@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-PFT	been
-EXS	looking
-IST	forward
-SUB	to
-EXS	visiting
-GPE	Boston
-NIL	.

@@ -1,9 +1,0 @@
-UNK	There
-HAS	's
-CON	life
-REL	in
-DEF	the
-IST	old
-CON	boy
-ALT	yet
-NIL	!

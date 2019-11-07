@@ -1,9 +1,0 @@
-HAS	My
-MOR	younger
-CON	brother
-NOW	is
-EXS	learning
-SUB	to
-EXS	read
-GPO	English
-NIL	.

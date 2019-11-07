@@ -1,9 +1,0 @@
-PRO	She
-EPS	drew
-IST	back
-SUB	when
-PRO	she
-EPS	saw
-DIS	a
-CON	snake
-NIL	.

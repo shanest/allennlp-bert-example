@@ -1,9 +1,0 @@
-PER	Tom
-EPS	made
-IST	sure
-NOT	no
-QUC	one
-POS	could
-EXS	see
-PRO	him
-NIL	.

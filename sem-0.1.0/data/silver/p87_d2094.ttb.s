@@ -1,9 +1,0 @@
-NOT	Nothing
-BUT	but
-DIS	a
-CON	miracle
-POS	can
-EXS	save
-HAS	her
-NOW	now
-NIL	.

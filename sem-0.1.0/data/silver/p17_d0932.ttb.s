@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-IST	hard
-SUB	to
-EXS	get
-CON	people
-SUB	to
-EXS	change
-NIL	.

@@ -1,9 +1,0 @@
-PER	Patty
-PST	finished
-EXS	writing
-REL	to
-HAS	her
-CON	friends
-REL	in
-GPE	Canada
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-EPS	went
-SUB	to
-EXS	see
-HAS	his
-ROL	sister
-AND	last
-CON	week
-NIL	.

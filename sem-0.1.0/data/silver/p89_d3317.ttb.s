@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	surprised
-PRO	they
-EXS	let
-PER	Tom
-REL	in
-PRX	here
-NIL	.

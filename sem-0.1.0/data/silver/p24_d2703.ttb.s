@@ -1,9 +1,0 @@
-PRO	I
-EPS	bought
-DEF	the
-IST	same
-CON	camera
-AND	as
-PRO	you
-NOW	have
-NIL	.

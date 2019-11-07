@@ -1,9 +1,0 @@
-PER	Tom
-EPS	said
-PRO	he
-NOT	never
-EPS	wanted
-SUB	to
-EXS	get
-EXS	married
-NIL	.

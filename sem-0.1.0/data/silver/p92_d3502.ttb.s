@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	never
-EXS	stolen
-AND	anything
-REL	in
-HAS	my
-CON	life
-NIL	!

@@ -1,9 +1,0 @@
-PER	Melanie
-EPS	reached
-DEF	the
-IST	next
-CON	level
-REL	on
-DEF	the
-CON	game
-NIL	.

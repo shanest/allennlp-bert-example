@@ -1,9 +1,0 @@
-EXS	Let
-PRO	's
-NOW	hope
-DEF	the
-CON	support
-ENS	arrives
-REL	on
-CON	time
-NIL	.

@@ -1,2 +1,0 @@
-ITJ	Gesundheit
-NIL	!

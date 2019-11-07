@@ -1,9 +1,0 @@
-UNK	There
-NOW	are
-QUV	many
-CON	books
-NIL	,
-NOW	are
-NOT	n't
-IST	there
-QUE	?

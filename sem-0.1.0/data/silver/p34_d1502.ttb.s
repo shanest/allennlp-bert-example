@@ -1,9 +1,0 @@
-PRO	I
-ENS	wish
-SUB	to
-EXS	speak
-REL	to
-PER	Tom
-REL	in
-IST	private
-NIL	.

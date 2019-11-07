@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-AND	who
-ENS	lives
-REL	in
-DST	that
-CON	house
-QUE	?

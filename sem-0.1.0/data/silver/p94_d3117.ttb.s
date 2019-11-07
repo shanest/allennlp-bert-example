@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-PST	were
-EXS	making
-CON	prank
-CON	phone
-CON	calls
-NIL	.

@@ -1,9 +1,0 @@
-PRO	We
-NOW	have
-IST	just
-EPS	bought
-QUC	two
-CON	pieces
-AND	of
-CON	furniture
-NIL	.

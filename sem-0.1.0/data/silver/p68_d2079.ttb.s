@@ -1,9 +1,0 @@
-DEF	The
-CON	island
-NOW	is
-REL	to
-DEF	the
-CON	south
-AND	of
-GPE	Japan
-NIL	.

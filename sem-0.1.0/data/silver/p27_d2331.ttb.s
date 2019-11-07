@@ -1,8 +1,0 @@
-PRO	It
-NOW	is
-EXS	going
-SUB	to
-EXS	rain
-INT	very
-IST	soon
-NIL	.

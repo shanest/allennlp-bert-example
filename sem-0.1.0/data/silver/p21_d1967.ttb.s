@@ -1,9 +1,0 @@
-PRO	I
-NOW	enjoy
-IST	myself
-INT	very
-QUV	much
-REL	at
-DEF	the
-CON	beach
-NIL	.

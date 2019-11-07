@@ -1,9 +1,0 @@
-PRO	It
-HAS	's
-DIS	a
-CON	pity
-PRO	they
-NOW	're
-EXS	getting
-EXS	divorced
-NIL	.

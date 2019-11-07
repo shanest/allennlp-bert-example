@@ -1,9 +1,0 @@
-PRO	I
-EPS	thought
-PRO	he
-EPS	held
-DIS	something
-IST	back
-REL	from
-PRO	us
-NIL	.

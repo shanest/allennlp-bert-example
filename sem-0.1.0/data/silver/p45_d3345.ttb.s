@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-EXS	seen
-PRO	him
-QUC	once
-REL	on
-DEF	the
-CON	train
-NIL	.

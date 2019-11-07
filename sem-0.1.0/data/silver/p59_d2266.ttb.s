@@ -1,9 +1,0 @@
-PRO	I
-EPS	got
-DIS	a
-IST	temporary
-CON	job
-REL	at
-DEF	the
-CON	firm
-NIL	.

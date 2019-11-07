@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	n't
-PFT	been
-EXG	getting
-IST	enough
-EXS	sleep
-IST	lately
-NIL	.

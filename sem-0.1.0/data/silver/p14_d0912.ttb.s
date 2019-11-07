@@ -1,9 +1,0 @@
-PRO	It
-PST	was
-INT	almost
-CLO	noon
-SUB	when
-PRO	I
-EPS	woke
-IST	up
-NIL	.

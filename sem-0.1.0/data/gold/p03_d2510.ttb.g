@@ -1,9 +1,0 @@
-PRO	She
-NOW	is
-EXG	living
-REL	in
-DIS	some
-CON	village
-REL	in
-GPE	India
-NIL	.

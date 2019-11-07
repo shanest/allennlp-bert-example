@@ -1,9 +1,0 @@
-DIS	Someone
-NOW	has
-EXT	left
-DIS	a
-CON	bag
-REL	on
-DEF	the
-CON	bench
-NIL	.

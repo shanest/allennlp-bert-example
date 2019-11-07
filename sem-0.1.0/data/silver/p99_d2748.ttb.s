@@ -1,9 +1,0 @@
-DEF	The
-IST	last
-CON	flight
-REL	for
-GEO	Osaka
-NOW	has
-PFT	been
-EXS	canceled
-NIL	.

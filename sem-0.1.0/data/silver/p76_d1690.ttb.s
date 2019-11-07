@@ -1,9 +1,0 @@
-PRO	They
-EPS	abandoned
-PRO	us
-REL	in
-DEF	the
-INT	most
-IST	disgraceful
-CON	manner
-NIL	.

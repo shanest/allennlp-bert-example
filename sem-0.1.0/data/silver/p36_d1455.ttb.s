@@ -1,9 +1,0 @@
-REL	By
-CON	evening
-EQU	,
-DIS	a
-IST	few
-CON	clouds
-PST	had
-EXS	formed
-NIL	.

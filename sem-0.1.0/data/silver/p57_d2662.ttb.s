@@ -1,9 +1,0 @@
-HAS	His
-CON	books
-NOW	have
-PFT	been
-EXS	translated
-REL	into
-QUV	several
-CON	languages
-NIL	.

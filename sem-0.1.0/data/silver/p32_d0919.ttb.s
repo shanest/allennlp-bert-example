@@ -1,9 +1,0 @@
-PRX	This
-CON	house
-NOW	is
-INT	too
-EXS	small
-SUB	to
-EXS	live
-REL	in
-NIL	.

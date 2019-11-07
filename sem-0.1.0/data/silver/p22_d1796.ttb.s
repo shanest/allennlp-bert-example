@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-EPS	ate
-DIS	a
-CON	six-course
-CON	meal
-IST	together
-NIL	.

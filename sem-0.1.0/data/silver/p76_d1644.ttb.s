@@ -1,9 +1,0 @@
-EXS	Come
-REL	on
-NIL	,
-EXS	let
-HAS	's
-NOW	do
-PRX	this
-ALT	again
-NIL	.

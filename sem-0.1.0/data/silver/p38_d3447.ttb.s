@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	no
-CON	idea
-QUE	what
-PRO	I
-NOW	'm
-EXS	doing
-NIL	.

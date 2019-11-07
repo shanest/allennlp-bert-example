@@ -1,9 +1,0 @@
-PRO	I
-PST	was
-IST	barely
-IST	able
-SUB	to
-EXS	get
-PRO	him
-IST	out
-NIL	.

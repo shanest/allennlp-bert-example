@@ -1,9 +1,0 @@
-PER	Tom
-EPS	heard
-SUB	that
-PER	Mary
-PST	had
-EXS	caught
-DIS	a
-CON	cold
-NIL	.

@@ -1,9 +1,0 @@
-PRO	She
-EPS	asked
-REL	about
-DEF	the
-CON	location
-REL	of
-DEF	the
-CON	house
-NIL	.

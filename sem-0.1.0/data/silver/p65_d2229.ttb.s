@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	sorry
-NIL	,
-PRO	we
-NOW	have
-NOT	no
-CON	vacancies
-NIL	.

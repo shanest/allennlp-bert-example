@@ -1,9 +1,0 @@
-HAS	My
-CON	family
-ENS	thinks
-PRO	I
-NOW	've
-EXS	lost
-HAS	my
-CON	mind
-NIL	.

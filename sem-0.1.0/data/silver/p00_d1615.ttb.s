@@ -1,9 +1,0 @@
-CON	Divide
-PRX	this
-CON	line
-CON	segment
-REL	into
-QUC	twenty
-IST	equal
-CON	parts
-NIL	.

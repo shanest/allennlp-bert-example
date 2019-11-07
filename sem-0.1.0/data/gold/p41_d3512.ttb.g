@@ -1,9 +1,0 @@
-PRO	He
-EPS	broke
-HAS	his
-CON	leg
-REL	in
-DEF	the
-CON	baseball
-CON	game
-NIL	.

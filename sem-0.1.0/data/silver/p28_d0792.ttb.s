@@ -1,9 +1,0 @@
-DEF	The
-CON	boy
-EPS	threw
-DIS	a
-CON	stone
-REL	at
-DEF	the
-CON	frog
-NIL	.

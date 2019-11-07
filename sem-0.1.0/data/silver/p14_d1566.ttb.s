@@ -1,9 +1,0 @@
-PER	Tom
-POS	ca
-NOT	n't
-EXS	take
-HAS	his
-CON	eyes
-REL	off
-PER	Mary
-NIL	.

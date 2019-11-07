@@ -1,9 +1,0 @@
-QUE	How
-QUV	many
-CON	weeks
-NOW	are
-NIL	there
-REL	in
-DIS	a
-CON	month
-QUE	?

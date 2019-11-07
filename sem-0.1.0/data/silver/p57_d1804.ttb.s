@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-DIS	anybody
-AND	who
-ENS	speaks
-QUC	five
-CON	languages
-QUE	?

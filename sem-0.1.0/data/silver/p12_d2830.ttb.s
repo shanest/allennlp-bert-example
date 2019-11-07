@@ -1,9 +1,0 @@
-QUE	What
-HAS	's
-IST	important
-NOW	is
-SUB	that
-PRO	you
-NOW	're
-EXS	trying
-NIL	.

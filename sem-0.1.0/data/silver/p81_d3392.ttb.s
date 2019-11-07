@@ -1,9 +1,0 @@
-PER	Tom
-EPS	ate
-DIS	a
-IST	light
-CON	lunch
-SUB	before
-EXS	working
-IST	out
-NIL	.

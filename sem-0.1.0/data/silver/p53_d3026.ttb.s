@@ -1,9 +1,0 @@
-PRO	You
-POS	can
-EXS	meet
-ROL	Dr.
-PER	White
-XCL	only
-REL	by
-CON	appointment
-NIL	.

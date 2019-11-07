@@ -1,9 +1,0 @@
-SUB	When
-NOW	are
-PRO	you
-EXS	going
-NIL	to
-EXS	see
-PER	Tom
-ALT	again
-QUE	?

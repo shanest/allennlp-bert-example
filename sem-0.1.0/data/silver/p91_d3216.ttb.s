@@ -1,9 +1,0 @@
-DEF	The
-CON	love
-CON	letter
-NEC	ought
-SUB	to
-EXT	have
-EXS	reached
-PRO	her
-NIL	.

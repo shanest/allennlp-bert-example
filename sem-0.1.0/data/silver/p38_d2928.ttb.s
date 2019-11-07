@@ -1,9 +1,0 @@
-PRO	You
-NOT	never
-EPS	told
-PRO	me
-PRO	you
-PST	had
-DIS	a
-CON	brother
-NIL	.

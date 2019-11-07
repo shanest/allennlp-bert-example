@@ -1,9 +1,0 @@
-DEF	The
-IST	old
-CON	man
-EPS	gave
-HAS	her
-DIS	a
-IST	small
-CON	doll
-NIL	.

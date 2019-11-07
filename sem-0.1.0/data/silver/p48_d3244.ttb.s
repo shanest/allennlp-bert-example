@@ -1,9 +1,0 @@
-PRO	I
-NEC	have
-SUB	to
-EXS	say
-SUB	that
-PRO	I
-NOW	'm
-EXS	sorry
-NIL	.

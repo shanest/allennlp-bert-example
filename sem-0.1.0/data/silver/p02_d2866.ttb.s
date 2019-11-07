@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-AND	always
-PFT	been
-EXS	attracted
-REL	to
-MOR	older
-CON	women
-NIL	.

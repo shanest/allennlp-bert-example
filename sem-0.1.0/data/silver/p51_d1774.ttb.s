@@ -1,9 +1,0 @@
-PER	Kate
-EPS	found
-DEF	the
-CON	watch
-AND	which
-PRO	she
-PST	had
-EXS	lost
-NIL	.

@@ -1,9 +1,0 @@
-PRO	We
-FUT	will
-NOT	never
-EXS	know
-IMP	if
-PRO	he
-NOW	is
-EXS	trustworthy
-NIL	.

@@ -1,9 +1,0 @@
-NOW	Do
-HAS	your
-CON	parents
-ENS	know
-SUB	that
-PRO	you
-NOW	're
-IST	out
-QUE	?

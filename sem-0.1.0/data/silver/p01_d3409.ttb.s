@@ -1,9 +1,0 @@
-NOW	Is
-NIL	there
-DIS	anyone
-NIL	to
-EXS	look
-REL	after
-DEF	the
-CON	children
-QUE	?

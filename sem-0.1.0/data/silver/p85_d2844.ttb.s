@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-EXS	impossible
-SUB	to
-EXS	tell
-QUE	what
-POS	might
-EXS	happen
-NIL	.

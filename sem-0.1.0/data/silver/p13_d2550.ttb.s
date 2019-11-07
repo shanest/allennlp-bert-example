@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-PFT	been
-IST	away
-REL	for
-MOR	over
-QUC	three
-UOM	years
-NIL	.

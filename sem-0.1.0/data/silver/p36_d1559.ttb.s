@@ -1,9 +1,0 @@
-AND	Everyone
-ENS	knows
-AND	of
-HAS	his
-CON	affection
-REL	for
-DST	that
-CON	dog
-NIL	.

@@ -1,9 +1,0 @@
-UNK	There
-HAS	's
-NOT	no
-EXS	doubt
-SUB	that
-PER	Tom
-EXS	poisoned
-PER	Mary
-NIL	.

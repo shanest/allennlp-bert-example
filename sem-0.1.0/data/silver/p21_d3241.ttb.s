@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-NOT	n't
-ALT	yet
-EXS	paid
-IST	back
-DEF	the
-CON	loan
-NIL	.

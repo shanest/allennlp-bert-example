@@ -1,9 +1,0 @@
-PRO	She
-NOW	has
-DIS	a
-CON	habit
-AND	of
-EXG	biting
-HAS	her
-CON	nails
-NIL	.

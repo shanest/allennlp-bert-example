@@ -1,9 +1,0 @@
-QUE	What
-CON	sporting
-CON	event
-IST	first
-EPS	took
-CON	place
-REL	in
-GEO	1903
-QUE	?

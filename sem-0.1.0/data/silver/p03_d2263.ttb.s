@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-EXG	listening
-REL	to
-CON	music
-REL	in
-HAS	his
-CON	room
-NIL	.

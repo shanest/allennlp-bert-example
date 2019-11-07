@@ -1,9 +1,0 @@
-NIL	There
-NOW	is
-DIS	a
-IST	strange
-CON	man
-REL	at
-DEF	the
-CON	door
-NIL	.

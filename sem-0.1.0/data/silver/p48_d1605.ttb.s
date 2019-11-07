@@ -1,9 +1,0 @@
-DIS	A
-CON	photographer
-EPS	took
-DIS	a
-CON	photograph
-AND	of
-HAS	my
-CON	house
-NIL	.

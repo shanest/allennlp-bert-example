@@ -1,9 +1,0 @@
-ITJ	Oh
-NOT	no
-NIL	,
-PRO	you
-NOW	have
-EXS	revealed
-HAS	our
-CON	secret
-NIL	!

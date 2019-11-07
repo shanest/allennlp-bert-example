@@ -1,9 +1,0 @@
-PRO	I
-EPS	spent
-DEF	3000
-UOM	yen
-REL	on
-DIS	a
-IST	new
-CON	CD
-NIL	.

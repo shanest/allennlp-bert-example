@@ -1,9 +1,0 @@
-AND	Why
-NOW	do
-PRO	you
-CON	guys
-IST	always
-EXS	ask
-PRO	me
-SUB	that
-QUE	?

@@ -1,9 +1,0 @@
-PER	Tom
-EPS	cried
-DIS	a
-CON	lot
-SUB	when
-PER	Mary
-EPS	left
-PRO	him
-NIL	.

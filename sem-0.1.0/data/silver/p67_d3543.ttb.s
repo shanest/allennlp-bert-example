@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-EXS	done
-PRX	this
-CON	kind
-AND	of
-CON	thing
-REL	before
-QUE	?

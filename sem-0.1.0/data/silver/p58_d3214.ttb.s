@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-NOW	have
-NOT	n't
-EXS	changed
-HAS	their
-CON	minds
-NIL	.

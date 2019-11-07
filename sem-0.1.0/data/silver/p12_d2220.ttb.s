@@ -1,9 +1,0 @@
-PER	Tom
-ENS	says
-SUB	that
-PRO	he
-XCL	only
-ENS	eats
-IST	organic
-CON	food
-NIL	.

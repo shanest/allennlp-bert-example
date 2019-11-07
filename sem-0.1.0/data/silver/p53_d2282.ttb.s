@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-IST	essential
-SUB	that
-PRO	you
-NOW	understand
-DEF	the
-CON	situation
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-EPS	knew
-SUB	that
-PER	Mary
-PST	had
-EXS	done
-HAS	her
-TOP	best
-NIL	.

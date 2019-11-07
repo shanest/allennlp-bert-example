@@ -1,9 +1,0 @@
-IST	Please
-NOW	do
-NOT	n't
-EXS	ask
-PRO	me
-AND	about
-PRX	this
-ALT	again
-NIL	.

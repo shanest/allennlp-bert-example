@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-INT	too
-IST	late
-SUB	to
-EXS	go
-IST	out
-NOW	now
-NIL	.

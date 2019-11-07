@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	taking
-DIS	a
-CON	walk
-REL	in
-DIS	a
-CON	park
-NIL	.

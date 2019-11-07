@@ -1,9 +1,0 @@
-PER	Tom
-EPS	asked
-IMP	if
-PRO	I
-PST	'd
-EXS	found
-HAS	my
-CON	key
-NIL	.

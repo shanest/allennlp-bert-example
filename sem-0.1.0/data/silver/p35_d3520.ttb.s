@@ -1,9 +1,0 @@
-HAS	My
-ROL	grandfather
-HAS	's
-CON	house
-PST	was
-REL	on
-DST	that
-CON	street
-NIL	.

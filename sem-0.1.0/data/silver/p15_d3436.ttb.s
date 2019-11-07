@@ -1,9 +1,0 @@
-AND	Could
-PRO	you
-NOW	describe
-REL	to
-DEF	the
-CON	jury
-QUE	what
-EPS	happened
-QUE	?

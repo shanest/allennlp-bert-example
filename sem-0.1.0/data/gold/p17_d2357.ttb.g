@@ -1,9 +1,0 @@
-ROL	Mr.
-PER	Suzuki
-NOW	is
-IST	angry
-REL	about
-PER	Tom
-HAS	's
-CON	prank
-NIL	.

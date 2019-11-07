@@ -1,9 +1,0 @@
-GPE	Algeria
-NOW	is
-EXT	called
-NIL	"
-ORG	Al-Jazair
-NIL	"
-REL	in
-CON	Arabic
-NIL	.

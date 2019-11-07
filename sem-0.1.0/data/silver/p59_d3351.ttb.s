@@ -1,9 +1,0 @@
-PRO	You
-NEC	should
-EXS	be
-IST	happy
-SUB	to
-EXS	have
-DIS	a
-CON	job
-NIL	.

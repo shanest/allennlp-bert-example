@@ -1,9 +1,0 @@
-PRO	We
-NOW	're
-REL	on
-DEF	the
-IST	same
-CON	side
-EQU	,
-PER	Tom
-NIL	.

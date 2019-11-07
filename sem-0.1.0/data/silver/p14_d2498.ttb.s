@@ -1,9 +1,0 @@
-PRO	He
-PST	offered
-QUC	ten
-UOM	dollars
-REL	for
-HAS	our
-IST	old
-CON	radio
-NIL	.

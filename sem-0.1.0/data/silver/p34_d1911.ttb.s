@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-NOT	not
-EXS	planning
-SUB	to
-EXS	work
-REL	on
-DOW	Monday
-NIL	.

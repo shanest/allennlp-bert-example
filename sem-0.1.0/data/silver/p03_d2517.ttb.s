@@ -1,9 +1,0 @@
-DEF	The
-GPO	Americans
-PST	did
-NOT	not
-EXS	like
-DEF	the
-IST	new
-CON	plan
-NIL	.

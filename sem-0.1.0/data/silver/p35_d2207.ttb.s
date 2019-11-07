@@ -1,9 +1,0 @@
-PRO	You
-PST	did
-NOT	n't
-EXS	finish
-EXG	filling
-AND	out
-PRX	this
-CON	form
-NIL	.

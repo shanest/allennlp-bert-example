@@ -1,9 +1,0 @@
-PRO	We
-EPS	saw
-DEF	the
-CON	sun
-ENS	rise
-REL	above
-DEF	the
-CON	horizon
-NIL	.

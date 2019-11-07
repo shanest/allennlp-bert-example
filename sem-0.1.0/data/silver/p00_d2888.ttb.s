@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-IST	really
-EXS	fed
-IST	up
-REL	with
-PRX	this
-CON	heat
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-EPS	caught
-PER	Mary
-EXS	sneaking
-IST	out
-AND	of
-DEF	the
-CON	house
-NIL	.

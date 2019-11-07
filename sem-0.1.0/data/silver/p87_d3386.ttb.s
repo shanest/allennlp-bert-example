@@ -1,9 +1,0 @@
-PRO	You
-ENS	know
-IST	exactly
-QUE	what
-PRO	she
-HAS	's
-EXS	talking
-IST	about
-NIL	.

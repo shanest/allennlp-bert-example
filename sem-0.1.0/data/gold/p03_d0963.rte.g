@@ -1,9 +1,0 @@
-GPO	Cameroon
-CON	honey
-ROL	gatherers
-ENS	use
-CON	cyanide
-NIL	to
-EXS	stun
-CON	bees
-NIL	.

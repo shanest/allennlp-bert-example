@@ -1,9 +1,0 @@
-DEF	The
-CON	platoon
-EPS	chose
-DIS	a
-CON	position
-REL	on
-DIS	a
-CON	hill
-NIL	.

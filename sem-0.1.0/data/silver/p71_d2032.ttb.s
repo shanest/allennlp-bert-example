@@ -1,9 +1,0 @@
-DEF	The
-CON	Lions
-EPS	caught
-IST	up
-REL	in
-DEF	the
-ORD	7th
-CON	inning
-NIL	.

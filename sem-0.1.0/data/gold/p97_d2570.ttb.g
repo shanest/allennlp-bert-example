@@ -1,9 +1,0 @@
-PRO	I
-EPS	froze
-REL	at
-DEF	the
-CON	sight
-AND	of
-DEF	the
-CON	snake
-NIL	.

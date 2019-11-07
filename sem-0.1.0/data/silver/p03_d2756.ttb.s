@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-IST	hard
-SUB	to
-EXS	keep
-IST	up
-REL	with
-PRO	you
-NIL	.

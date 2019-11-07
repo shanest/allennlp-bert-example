@@ -1,9 +1,0 @@
-DEF	The
-CON	baby
-PST	was
-EXS	named
-LIT	Ichiro
-REL	after
-HAS	his
-ROL	uncle
-NIL	.

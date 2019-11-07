@@ -1,9 +1,0 @@
-PER	Baird
-AND	and
-PER	Eiken
-EPS	bought
-HAS	LANGCO
-CON	Tools
-AND	and
-CON	Plastic
-NIL	.

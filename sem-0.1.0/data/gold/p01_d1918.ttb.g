@@ -1,9 +1,0 @@
-PER	Sue
-EPS	picked
-REL	up
-DIS	a
-CON	pencil
-REL	off
-DEF	the
-CON	floor
-NIL	.

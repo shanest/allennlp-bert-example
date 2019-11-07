@@ -1,9 +1,0 @@
-GPE	Britain
-PST	was
-NOT	not
-EXS	geared
-IST	up
-REL	for
-CON	war
-IST	then
-NIL	.

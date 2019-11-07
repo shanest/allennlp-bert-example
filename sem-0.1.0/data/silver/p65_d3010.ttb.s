@@ -1,9 +1,0 @@
-PER	Dan
-EPS	sold
-CON	drugs
-REL	for
-DIS	a
-IST	dangerous
-CON	drug
-CON	dealer
-NIL	.

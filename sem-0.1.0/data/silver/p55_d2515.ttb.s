@@ -1,9 +1,0 @@
-DEF	The
-CON	supermarket
-NOW	is
-EXS	open
-AND	all
-CON	days
-NOT	except
-DOW	Sunday
-NIL	.

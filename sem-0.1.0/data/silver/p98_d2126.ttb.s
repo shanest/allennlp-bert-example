@@ -1,9 +1,0 @@
-PRO	We
-NOW	're
-INT	so
-IST	glad
-SUB	to
-EXS	have
-PRO	you
-PRX	here
-NIL	.

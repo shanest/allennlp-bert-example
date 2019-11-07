@@ -1,9 +1,0 @@
-DEF	The
-CON	question
-NOW	is
-POS	perhaps
-INT	too
-CON	complex
-REL	for
-PRO	you
-NIL	.

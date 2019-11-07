@@ -1,9 +1,0 @@
-CON	Children
-AND	always
-EXS	find
-DIS	a
-CON	reason
-SUB	to
-EXS	become
-CON	friends
-NIL	.

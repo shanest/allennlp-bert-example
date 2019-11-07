@@ -1,9 +1,0 @@
-PER	Tom
-EPS	grabbed
-PER	Mary
-SUB	to
-EXS	keep
-PRO	her
-REL	from
-EXS	falling
-NIL	.

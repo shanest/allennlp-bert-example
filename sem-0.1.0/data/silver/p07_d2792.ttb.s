@@ -1,9 +1,0 @@
-PRO	I
-ENS	hope
-SUB	to
-EXS	see
-PRO	you
-ALT	again
-REL	before
-IST	long
-NIL	.

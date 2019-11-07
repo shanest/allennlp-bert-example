@@ -1,9 +1,0 @@
-QUC	One
-AND	of
-PRX	these
-CON	eggs
-NOW	has
-NOT	n't
-EXS	hatched
-ALT	yet
-NIL	.

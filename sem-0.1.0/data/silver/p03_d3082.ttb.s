@@ -1,9 +1,0 @@
-EXS	Let
-PRO	's
-EXS	see
-QUE	what
-PRO	we
-NOW	're
-EXG	dealing
-REL	with
-NIL	.

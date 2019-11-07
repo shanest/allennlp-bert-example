@@ -1,9 +1,0 @@
-NOW	Does
-PER	Tom
-EXS	know
-QUE	how
-PER	Mary
-NOW	feels
-AND	about
-PER	John
-QUE	?

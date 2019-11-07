@@ -1,9 +1,0 @@
-POS	Maybe
-PER	Tom
-PST	did
-NOT	n't
-EXS	like
-QUE	what
-PRO	he
-EPS	saw
-NIL	.

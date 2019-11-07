@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-IST	just
-EXS	been
-REL	to
-DEF	the
-PER	Midori
-ORG	Bank
-NIL	.

@@ -1,9 +1,0 @@
-QUE	What
-NOW	are
-CON	people
-EXS	born
-YOC	1965
-AND	through
-YOC	1980
-YOC	called
-QUE	?

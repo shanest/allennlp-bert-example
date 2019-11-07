@@ -1,9 +1,0 @@
-DEF	The
-ORG	Conservative
-ORG	Party
-EPS	won
-DEF	the
-CON	election
-REL	in
-YOC	1992
-NIL	.

@@ -1,9 +1,0 @@
-PRX	This
-CON	book
-NEC	ought
-SUB	to
-EXS	be
-DIS	a
-IST	good
-CON	seller
-NIL	.

@@ -1,9 +1,0 @@
-PRO	She
-EPS	tore
-DEF	the
-CON	letter
-IST	up
-SUB	after
-EXG	reading
-PRO	it
-NIL	.

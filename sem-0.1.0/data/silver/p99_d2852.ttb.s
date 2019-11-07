@@ -1,9 +1,0 @@
-DEF	The
-IST	large
-CON	chain
-CON	store
-EPS	created
-DIS	a
-IST	new
-CON	branch
-NIL	.

@@ -1,9 +1,0 @@
-NOT	No
-CON	one
-NOW	has
-EXS	succeeded
-REL	in
-EXG	solving
-DEF	the
-CON	mystery
-NIL	.

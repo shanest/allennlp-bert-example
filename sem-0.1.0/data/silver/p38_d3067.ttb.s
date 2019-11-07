@@ -1,9 +1,0 @@
-PRO	I
-NOW	imagine
-SUB	that
-PER	Tom
-FUT	will
-IST	eventually
-EXS	fire
-PER	Mary
-NIL	.

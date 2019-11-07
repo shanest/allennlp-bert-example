@@ -1,9 +1,0 @@
-PER	Tom
-EPS	found
-DIS	a
-IST	good
-CON	job
-REL	near
-HAS	his
-CON	house
-NIL	.

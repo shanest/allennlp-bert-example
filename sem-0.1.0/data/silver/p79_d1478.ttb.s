@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-NOT	nothing
-COM	better
-SUB	to
-EXS	do
-IST	right
-NOW	now
-NIL	.

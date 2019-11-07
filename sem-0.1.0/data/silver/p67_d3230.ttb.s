@@ -1,9 +1,0 @@
-PER	Mary
-EPS	wore
-DIS	a
-COL	red
-CON	scarf
-AND	around
-HAS	her
-CON	neck
-NIL	.

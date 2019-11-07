@@ -1,9 +1,0 @@
-DEF	The
-CON	NCEA
-NOW	has
-PFT	been
-IST	degraded
-REL	by
-DEF	the
-CON	authority
-NIL	.

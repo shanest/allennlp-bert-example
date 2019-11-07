@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PRO	I
-AND	both
-EXS	miss
-PRO	you
-INT	very
-QUV	much
-NIL	.

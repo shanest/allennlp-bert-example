@@ -1,9 +1,0 @@
-PER	John
-NOW	does
-NOT	n't
-EXS	know
-QUE	what
-NIL	to
-EXS	do
-IST	next
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-EPS	wanted
-NIL	to
-EXS	make
-PER	Tom
-ENS	feel
-REL	at
-CON	home
-NIL	.

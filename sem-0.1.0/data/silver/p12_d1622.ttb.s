@@ -1,9 +1,0 @@
-PER	Tom
-EPS	won
-DEF	the
-CON	election
-REL	by
-INT	just
-QUC	three
-CON	votes
-NIL	.

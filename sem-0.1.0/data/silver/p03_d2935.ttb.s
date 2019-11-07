@@ -1,9 +1,0 @@
-PRO	It
-ENS	has
-DIS	a
-CON	wingspan
-REL	of
-APX	about
-QUC	four
-UOM	inches
-NIL	.

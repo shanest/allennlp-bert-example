@@ -1,9 +1,0 @@
-PRO	I
-ENS	want
-SUB	to
-EXS	know
-QUE	what
-PRO	you
-NOW	're
-EXS	thinking
-NIL	.

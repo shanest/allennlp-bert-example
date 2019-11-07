@@ -1,9 +1,0 @@
-PRO	She
-EPS	wept
-SUB	when
-PRO	she
-EPS	heard
-DEF	the
-IST	terrible
-CON	news
-NIL	.

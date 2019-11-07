@@ -1,9 +1,0 @@
-PRO	We
-POS	may
-NOT	never
-EXS	know
-QUE	what
-EPS	happened
-REL	to
-PER	Tom
-NIL	.

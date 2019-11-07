@@ -1,9 +1,0 @@
-PER	Tom
-PST	was
-DEF	the
-XCL	only
-QUC	one
-AND	who
-EPS	trusted
-PER	Mary
-NIL	.

@@ -1,9 +1,0 @@
-MOR	Over
-QUC	100
-CON	people
-PST	were
-IST	present
-REL	at
-DEF	the
-CON	party
-NIL	.

@@ -1,9 +1,0 @@
-NOW	Today
-NIL	,
-PRO	I
-EPS	met
-HAS	my
-IST	new
-CON	philosophy
-CON	teacher
-NIL	.

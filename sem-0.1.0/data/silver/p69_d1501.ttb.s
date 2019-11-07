@@ -1,9 +1,0 @@
-PER	Tom
-EPS	walked
-IST	out
-DEF	the
-CON	door
-NOT	without
-EXS	saying
-GRE	goodbye
-NIL	.

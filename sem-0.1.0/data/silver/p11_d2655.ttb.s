@@ -1,9 +1,0 @@
-QUE	What
-NOW	does
-DST	that
-NEC	have
-SUB	to
-EXS	do
-REL	with
-PER	Tom
-QUE	?

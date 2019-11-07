@@ -1,9 +1,0 @@
-PER	Tom
-HAS	's
-CON	parents
-EPS	died
-SUB	when
-PRO	he
-PST	was
-QUC	thirteen
-NIL	.

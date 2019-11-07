@@ -1,9 +1,0 @@
-PER	Tom
-EPS	leaned
-AND	over
-DEF	the
-CON	table
-COO	and
-EPS	kissed
-PER	Mary
-NIL	.

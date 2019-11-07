@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	know
-AND	all
-DEF	the
-CON	details
-ALT	yet
-NIL	.

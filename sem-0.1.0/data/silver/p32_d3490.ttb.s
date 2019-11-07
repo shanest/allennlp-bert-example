@@ -1,9 +1,0 @@
-PRO	He
-EPS	gave
-PRO	me
-CON	food
-AND	and
-CON	money
-AND	as
-IST	well
-NIL	.

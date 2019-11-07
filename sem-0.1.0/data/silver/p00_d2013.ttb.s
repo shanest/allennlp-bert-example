@@ -1,9 +1,0 @@
-IMP	If
-PRO	you
-ENS	want
-NIL	to
-EXS	go
-NIL	,
-IST	then
-EXS	go
-NIL	.

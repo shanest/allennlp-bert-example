@@ -1,9 +1,0 @@
-PRO	It
-POS	ai
-NOT	n't
-EXS	like
-REL	before
-NIL	,
-PRO	you
-ENS	know
-NIL	.

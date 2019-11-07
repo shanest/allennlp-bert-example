@@ -1,9 +1,0 @@
-PRO	I
-PST	had
-DIS	some
-CON	trouble
-REL	in
-EXG	finding
-HAS	his
-CON	house
-NIL	.

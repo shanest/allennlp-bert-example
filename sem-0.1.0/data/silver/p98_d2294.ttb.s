@@ -1,9 +1,0 @@
-CON	Time
-FUT	will
-EXS	show
-AND	which
-AND	of
-PRO	us
-NOW	is
-EXS	right
-NIL	.

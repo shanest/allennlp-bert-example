@@ -1,9 +1,0 @@
-PER	Mary
-EPS	came
-SUB	before
-PRO	I
-PST	had
-EXS	waited
-QUC	ten
-CON	minutes
-NIL	.

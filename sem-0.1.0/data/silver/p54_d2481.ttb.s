@@ -1,9 +1,0 @@
-NOW	Is
-SUB	that
-AND	all
-PRO	you
-NOW	've
-EXS	got
-SUB	to
-EXS	say
-QUE	?

@@ -1,9 +1,0 @@
-PRO	He
-EPS	said
-SUB	that
-GPE	Tokyo
-NOW	is
-DIS	a
-IST	safe
-CON	city
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-EPS	suggested
-SUB	that
-PRO	we
-NOW	take
-DIS	a
-IST	short
-CON	rest
-NIL	.

@@ -1,9 +1,0 @@
-ORG	Sherman
-EPS	met
-REL	with
-PER	Johnston
-DIS	a
-IST	few
-CON	days
-AND	later
-NIL	.

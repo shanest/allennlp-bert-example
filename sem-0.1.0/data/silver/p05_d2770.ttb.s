@@ -1,9 +1,0 @@
-AND	Why
-NOW	are
-NOT	n't
-PRO	you
-EXG	helping
-PRO	me
-REL	at
-AND	all
-QUE	?

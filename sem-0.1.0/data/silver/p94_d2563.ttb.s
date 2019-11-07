@@ -1,9 +1,0 @@
-PER	Tom
-EPS	lied
-SUB	about
-EXS	being
-IST	able
-SUB	to
-EXS	speak
-GPO	French
-NIL	.

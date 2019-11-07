@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	supposed
-SUB	to
-EXS	meet
-PER	Mary
-REL	at
-CLO	2:30
-NIL	.

@@ -1,9 +1,0 @@
-CON	Children
-REL	under
-QUC	three
-NOW	are
-EXS	admitted
-IST	free
-AND	of
-CON	charge
-NIL	.

@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	important
-SUB	to
-EXS	know
-HAS	your
-IST	own
-CON	limitations
-NIL	.

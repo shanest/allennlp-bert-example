@@ -1,9 +1,0 @@
-PER	Mary
-EPS	kissed
-DEF	the
-IST	young
-CON	man
-REL	on
-DEF	the
-CON	cheek
-NIL	.

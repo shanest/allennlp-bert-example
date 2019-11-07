@@ -1,9 +1,0 @@
-DOW	Friday
-DEF	the
-CON	13th
-NOW	is
-EXS	considered
-DIS	an
-IST	unlucky
-CON	day
-NIL	.

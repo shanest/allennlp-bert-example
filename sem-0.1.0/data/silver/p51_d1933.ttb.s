@@ -1,9 +1,0 @@
-PRO	They
-EPS	saw
-DEF	the
-CON	waiter
-EXS	coming
-REL	in
-DIS	a
-CON	hurry
-NIL	.

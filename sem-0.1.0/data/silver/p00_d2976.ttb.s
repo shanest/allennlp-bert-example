@@ -1,9 +1,0 @@
-DEF	The
-CON	sun
-NOW	has
-IST	just
-EXT	sunk
-REL	below
-DEF	the
-CON	horizon
-NIL	.

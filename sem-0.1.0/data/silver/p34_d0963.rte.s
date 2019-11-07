@@ -1,9 +1,0 @@
-PER	Felipe
-PER	Calderon
-EPS	won
-DEF	the
-IST	presidential
-CON	election
-AND	of
-GEO	Mexico
-NIL	.

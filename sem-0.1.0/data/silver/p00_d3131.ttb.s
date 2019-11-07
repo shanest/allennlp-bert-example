@@ -1,9 +1,0 @@
-PRO	Me
-QUE	?
-NIL	Encourage
-PRO	you
-NIL	to
-EXS	work
-QUE	?
-CON	Blasphemy
-NIL	!

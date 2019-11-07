@@ -1,9 +1,0 @@
-PRO	I
-NEC	must
-EXS	attend
-HAS	my
-CON	history
-CON	class
-REL	on
-DOW	Thursday
-NIL	.

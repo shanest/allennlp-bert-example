@@ -1,9 +1,0 @@
-PRO	He
-ENS	regrets
-NOT	not
-EXT	having
-EXS	worked
-IST	harder
-REL	at
-CON	school
-NIL	.

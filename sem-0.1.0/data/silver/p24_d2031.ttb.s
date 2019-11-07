@@ -1,9 +1,0 @@
-NOT	No
-NIL	,
-PRO	I
-NOW	have
-NOT	n't
-EXS	written
-PRO	it
-ALT	yet
-NIL	.

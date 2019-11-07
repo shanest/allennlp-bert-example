@@ -1,9 +1,0 @@
-PRO	He
-EPS	broke
-DEF	the
-CON	window
-REL	by
-EXG	throwing
-DIS	a
-CON	stone
-NIL	.

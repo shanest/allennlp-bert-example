@@ -1,9 +1,0 @@
-PRO	I
-IST	never
-ENS	want
-SUB	to
-EXS	see
-HAS	your
-CON	face
-ALT	again
-NIL	.

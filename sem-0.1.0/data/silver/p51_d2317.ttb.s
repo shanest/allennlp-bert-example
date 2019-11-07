@@ -1,9 +1,0 @@
-ITJ	Yes
-NIL	,
-PRO	it
-NOW	's
-IST	here
-REL	to
-DEF	the
-CON	right
-NIL	.

@@ -1,9 +1,0 @@
-PRO	We
-EPS	ate
-DIS	a
-IST	hasty
-CON	meal
-COO	and
-EPS	left
-IST	immediately
-NIL	.

@@ -1,9 +1,0 @@
-PER	Kuniko
-PST	had
-IST	already
-EXT	eaten
-SUB	when
-PRO	I
-EPS	came
-REL	in
-NIL	.

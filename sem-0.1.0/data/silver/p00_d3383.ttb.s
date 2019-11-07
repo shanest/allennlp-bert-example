@@ -1,9 +1,0 @@
-QUE	Whatever
-PRO	he
-EPS	said
-NIL	,
-PRO	it
-NOW	's
-NOT	not
-EXS	true
-NIL	.

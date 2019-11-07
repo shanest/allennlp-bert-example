@@ -1,9 +1,0 @@
-PRO	I
-NOW	hope
-PRO	you
-NOW	've
-EXS	had
-DIS	a
-IST	great
-CON	day
-NIL	!

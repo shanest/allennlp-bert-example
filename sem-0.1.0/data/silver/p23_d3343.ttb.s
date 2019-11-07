@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	got
-SUB	to
-EXS	get
-REL	on
-PRX	this
-CON	train
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-PST	did
-QUE	what
-PER	Tom
-EPS	ordered
-PRO	me
-SUB	to
-EXS	do
-NIL	.

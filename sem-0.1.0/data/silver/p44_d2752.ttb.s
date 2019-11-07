@@ -1,9 +1,0 @@
-PRO	He
-NOW	's
-INT	so
-EXS	cute
-SUB	when
-PRO	he
-NOW	does
-SUB	that
-NIL	.

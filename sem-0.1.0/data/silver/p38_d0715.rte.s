@@ -1,9 +1,0 @@
-PER	Stephen
-PER	Harper
-NOW	is
-DEF	the
-UNK	Prime
-UNK	Minister
-AND	of
-GPE	Canada
-NIL	.

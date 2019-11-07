@@ -1,9 +1,0 @@
-IST	Good
-CON	morning
-NIL	.
-PRO	We
-NOW	have
-IST	good
-CON	weather
-NOW	today
-NIL	.

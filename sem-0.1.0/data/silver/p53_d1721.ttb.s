@@ -1,9 +1,0 @@
-PER	Tom
-EPS	wore
-DIS	a
-IST	new
-CON	coat
-REL	to
-CON	school
-NOW	today
-NIL	.

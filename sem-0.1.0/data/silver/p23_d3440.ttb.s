@@ -1,9 +1,0 @@
-AND	Why
-NOW	does
-NOT	n't
-PER	Mary
-EXS	return
-HAS	my
-CON	phone
-CON	calls
-QUE	?

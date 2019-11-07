@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-CON	problems
-REL	with
-HAS	my
-CON	wife
-NIL	,
-ALT	too
-NIL	.

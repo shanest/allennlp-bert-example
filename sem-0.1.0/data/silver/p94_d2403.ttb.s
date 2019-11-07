@@ -1,9 +1,0 @@
-GPO	Buffalo
-CON	buffalo
-GPO	Buffalo
-CON	buffalo
-ENS	buffalo
-ENS	buffalo
-GPO	Buffalo
-GRE	buffalo
-NIL	.

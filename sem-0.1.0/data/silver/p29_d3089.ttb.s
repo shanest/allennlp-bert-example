@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-IST	often
-IST	late
-REL	for
-CON	school
-REL	on
-DOW	Mondays
-NIL	.

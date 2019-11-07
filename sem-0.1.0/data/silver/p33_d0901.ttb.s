@@ -1,9 +1,0 @@
-PER	Tom
-EPS	asked
-PER	Mary
-SUB	where
-PRO	she
-IST	usually
-EPS	went
-CON	shopping
-NIL	.

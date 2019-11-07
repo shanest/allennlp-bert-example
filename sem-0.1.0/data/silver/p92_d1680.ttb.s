@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-NOT	never
-EXS	seen
-SUB	so
-EXS	big
-DIS	a
-CON	dog
-NIL	.

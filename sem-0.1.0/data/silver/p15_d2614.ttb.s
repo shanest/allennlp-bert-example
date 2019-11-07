@@ -1,9 +1,0 @@
-QUE	Who
-HAS	's
-HAS	your
-IST	favorite
-CON	person
-REL	to
-EXS	cook
-REL	for
-QUE	?

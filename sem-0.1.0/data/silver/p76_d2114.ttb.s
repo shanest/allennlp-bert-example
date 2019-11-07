@@ -1,9 +1,0 @@
-PRO	You
-NOW	've
-IST	always
-PFT	been
-INT	very
-IST	good
-REL	to
-PRO	me
-NIL	.

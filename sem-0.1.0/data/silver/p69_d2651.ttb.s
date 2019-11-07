@@ -1,9 +1,0 @@
-PRO	I
-ENS	understand
-PRO	you
-ENS	know
-DIS	a
-CON	lot
-AND	about
-GEO	Boston
-NIL	.

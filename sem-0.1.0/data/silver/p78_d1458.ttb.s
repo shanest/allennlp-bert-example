@@ -1,9 +1,0 @@
-PER	Thomas
-ENS	lives
-REL	in
-GPE	France
-COO	but
-ENS	works
-REL	in
-GEO	Belgium
-NIL	.

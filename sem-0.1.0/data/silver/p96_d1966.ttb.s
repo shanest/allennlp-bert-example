@@ -1,9 +1,0 @@
-NOW	Do
-NOT	n't
-EXS	show
-HAS	your
-CON	face
-AND	around
-PRX	here
-ALT	again
-NIL	.

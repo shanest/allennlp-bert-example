@@ -1,9 +1,0 @@
-PER	Tom
-IST	always
-ENS	seems
-SUB	to
-EXS	have
-CON	trouble
-EXG	making
-CON	decisions
-NIL	.

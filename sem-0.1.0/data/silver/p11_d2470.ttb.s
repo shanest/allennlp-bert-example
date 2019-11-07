@@ -1,9 +1,0 @@
-PRO	She
-EPS	wanted
-HAS	my
-CON	permission
-SUB	to
-EXS	use
-DEF	the
-CON	telephone
-NIL	.

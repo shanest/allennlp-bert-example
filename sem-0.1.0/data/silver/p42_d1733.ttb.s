@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-NOT	n't
-DEF	the
-QUC	one
-AND	who
-ENS	needs
-EXS	help
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-HAS	's
-ROL	sister
-PER	Mary
-NOW	is
-NOW	now
-REL	in
-GPE	Boston
-NIL	.

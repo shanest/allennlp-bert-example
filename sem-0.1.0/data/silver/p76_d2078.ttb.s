@@ -1,9 +1,0 @@
-PRO	He
-NOW	's
-IST	currently
-REL	in
-CON	prison
-REL	for
-CON	tax
-CON	fraud
-NIL	.

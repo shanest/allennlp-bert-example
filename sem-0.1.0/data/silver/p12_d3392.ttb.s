@@ -1,9 +1,0 @@
-HAS	His
-CON	voice
-EPS	trailed
-REL	off
-COO	and
-PRO	he
-EPS	remained
-EXS	silent
-NIL	.

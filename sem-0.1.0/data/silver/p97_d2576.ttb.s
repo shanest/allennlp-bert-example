@@ -1,9 +1,0 @@
-PER	Tom
-EPS	said
-PRO	he
-PST	was
-EXS	having
-CON	problems
-REL	with
-PER	Mary
-NIL	.

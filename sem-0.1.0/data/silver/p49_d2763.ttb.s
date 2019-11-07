@@ -1,9 +1,0 @@
-PER	Tom
-EPS	told
-PER	Mary
-SUB	to
-EXS	go
-REL	to
-HAS	her
-CON	room
-NIL	.

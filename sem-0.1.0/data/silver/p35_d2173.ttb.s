@@ -1,9 +1,0 @@
-PRX	Here
-NOW	's
-DEF	the
-CON	map
-PRO	you
-NOW	are
-EXS	looking
-REL	for
-NIL	.

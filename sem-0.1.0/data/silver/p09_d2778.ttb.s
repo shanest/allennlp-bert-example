@@ -1,9 +1,0 @@
-DIS	Sometimes
-PRO	I
-ENS	go
-NIL	,
-DIS	sometimes
-PRO	I
-NOW	do
-NOT	n't
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-AND	everything
-DIS	a
-CON	boy
-POS	could
-POS	possibly
-EXS	want
-NIL	.

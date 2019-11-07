@@ -1,9 +1,0 @@
-HAS	My
-IST	dear
-IST	little
-CON	cat
-EPS	disappeared
-DIS	a
-CON	week
-PST	ago
-NIL	.

@@ -1,9 +1,0 @@
-EXS	Abandoned
-CON	dogs
-IST	usually
-CON	end
-IST	up
-REL	in
-CON	dog
-CON	pounds
-NIL	.

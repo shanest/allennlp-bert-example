@@ -1,9 +1,0 @@
-PRO	You
-NOW	have
-EPS	made
-XCL	only
-DIS	a
-IST	few
-CON	spelling
-CON	mistakes
-NIL	.

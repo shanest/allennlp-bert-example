@@ -1,9 +1,0 @@
-DEF	The
-IST	black
-AND	and
-COL	white
-CON	dog
-NOW	has
-EXS	bitten
-PRO	me
-NIL	.

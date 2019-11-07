@@ -1,9 +1,0 @@
-PRO	He
-NOW	's
-NOT	never
-REL	at
-DIS	a
-CON	loss
-REL	for
-CON	words
-NIL	.

@@ -1,9 +1,0 @@
-EXS	Let
-PRO	's
-EXS	compare
-PRX	this
-CON	dictionary
-REL	with
-DST	that
-QUC	one
-NIL	.

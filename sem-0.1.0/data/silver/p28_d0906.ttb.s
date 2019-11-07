@@ -1,9 +1,0 @@
-NIL	There
-NOW	is
-DIS	a
-CON	swan
-REL	in
-DEF	the
-CON	water
-IST	there
-NIL	.

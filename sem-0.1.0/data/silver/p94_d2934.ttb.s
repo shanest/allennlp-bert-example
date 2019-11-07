@@ -1,9 +1,0 @@
-DST	That
-NOW	is
-DEF	the
-CON	man
-AND	whom
-PRO	I
-ENS	know
-IST	well
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-EPS	held
-DEF	the
-CON	gun
-REL	to
-PER	Mary
-HAS	's
-CON	head
-NIL	.

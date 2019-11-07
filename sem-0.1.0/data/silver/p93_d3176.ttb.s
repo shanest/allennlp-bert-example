@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-PER	Tom
-NOW	is
-DIS	a
-CON	bit
-INT	too
-EXS	impatient
-NIL	.

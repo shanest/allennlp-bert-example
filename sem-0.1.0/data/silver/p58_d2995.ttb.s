@@ -1,9 +1,0 @@
-CON	Cats
-HAS	'
-CON	eyes
-NOW	are
-INT	very
-IST	sensitive
-REL	to
-CON	light
-NIL	.

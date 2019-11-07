@@ -1,9 +1,0 @@
-PER	Tom
-PST	was
-IST	surprised
-DEF	the
-CON	police
-EPS	knew
-HAS	his
-CON	name
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-IST	first
-EPS	came
-REL	to
-GPE	Boston
-QUC	three
-CON	years
-PST	ago
-NIL	.

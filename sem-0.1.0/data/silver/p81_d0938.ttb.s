@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-DEF	the
-CON	girl
-AND	who
-NOW	is
-EXS	playing
-CON	tennis
-NIL	.

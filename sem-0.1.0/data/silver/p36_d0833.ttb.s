@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-SUB	where
-PRO	he
-EPS	bought
-HAS	his
-CON	camera
-QUE	?

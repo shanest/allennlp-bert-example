@@ -1,9 +1,0 @@
-DST	That
-HAS	's
-INT	too
-CON	much
-REL	for
-HAS	my
-IST	little
-CON	brain
-NIL	.

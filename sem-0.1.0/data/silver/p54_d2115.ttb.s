@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-EXS	going
-SUB	to
-EXS	take
-INT	about
-QUC	three
-CON	hours
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-ENS	live
-REL	under
-DEF	the
-IST	same
-CON	roof
-NIL	.

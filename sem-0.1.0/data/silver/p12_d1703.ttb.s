@@ -1,9 +1,0 @@
-PRO	She
-EPS	said
-PRO	he
-FUT	would
-EXS	be
-IST	back
-CON	right
-IST	away
-NIL	.

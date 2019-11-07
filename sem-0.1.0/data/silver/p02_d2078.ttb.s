@@ -1,9 +1,0 @@
-QUE	What
-PST	was
-PRO	she
-EXG	doing
-SUB	when
-PRO	you
-EPS	saw
-PRO	her
-QUE	?

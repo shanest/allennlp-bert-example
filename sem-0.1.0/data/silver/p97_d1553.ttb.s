@@ -1,9 +1,0 @@
-PRO	I
-NOW	worry
-SUB	that
-PRO	I
-NOW	have
-EXS	caught
-DIS	a
-CON	cold
-NIL	.

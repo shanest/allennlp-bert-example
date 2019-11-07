@@ -1,9 +1,0 @@
-PER	Marta
-NOW	is
-REL	from
-GPE	Venezuela
-NIL	.
-PRO	She
-NOW	is
-GPO	Venezuelan
-NIL	.

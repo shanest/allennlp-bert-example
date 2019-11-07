@@ -1,9 +1,0 @@
-PER	Tom
-EPS	tried
-SUB	to
-EXS	elicit
-DIS	a
-CON	response
-REL	from
-PER	Mary
-NIL	.

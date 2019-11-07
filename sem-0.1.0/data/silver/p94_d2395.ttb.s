@@ -1,9 +1,0 @@
-HAS	Her
-CON	health
-NOW	has
-PFT	been
-EXS	declining
-PRX	these
-IST	past
-CON	months
-NIL	.

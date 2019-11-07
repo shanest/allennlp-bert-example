@@ -1,9 +1,0 @@
-QUE	What
-NOW	is
-DEF	the
-CON	English
-REL	for
-NIL	"
-NIL	kaisha
-NIL	"
-QUE	?

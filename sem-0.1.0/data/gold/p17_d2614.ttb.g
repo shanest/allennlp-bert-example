@@ -1,9 +1,0 @@
-PER	Tom
-EPS	spread
-DIS	some
-CON	strawberry
-CON	jam
-REL	on
-HAS	his
-CON	toast
-NIL	.

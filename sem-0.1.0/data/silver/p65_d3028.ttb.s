@@ -1,9 +1,0 @@
-EXS	Hang
-REL	on
-DIS	a
-CON	bit
-SUB	until
-PRO	I
-NOW	'm
-EXS	ready
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-FUT	would
-EXS	like
-CON	steak
-REL	with
-DIS	a
-EPS	baked
-CON	potato
-NIL	.

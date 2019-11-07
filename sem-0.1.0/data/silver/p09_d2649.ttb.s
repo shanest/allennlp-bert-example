@@ -1,9 +1,0 @@
-SUB	Who
-EPS	was
-SUB	that
-PRO	you
-PST	were
-IST	just
-EXS	talking
-REL	to
-QUE	?

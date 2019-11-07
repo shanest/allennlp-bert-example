@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-SUB	that
-PRO	you
-ENS	know
-SUB	that
-PRO	I
-ENS	know
-NIL	.

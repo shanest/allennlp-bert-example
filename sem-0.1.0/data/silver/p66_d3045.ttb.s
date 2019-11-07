@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-NOT	n't
-IST	ever
-PFT	been
-AND	outside
-AND	of
-GPE	Australia
-NIL	.

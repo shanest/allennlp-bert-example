@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	learned
-DIS	a
-IST	good
-CON	deal
-REL	from
-PRO	you
-NIL	.

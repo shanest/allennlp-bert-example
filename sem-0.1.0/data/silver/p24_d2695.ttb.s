@@ -1,9 +1,0 @@
-PRO	He
-NOW	looks
-AND	as
-IMP	if
-PRO	he
-PST	had
-PFT	been
-EXS	ill
-NIL	.

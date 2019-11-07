@@ -1,9 +1,0 @@
-PRO	It
-HAS	's
-INT	extremely
-IST	important
-REL	to
-CON	exercise
-AND	every
-CON	day
-NIL	.

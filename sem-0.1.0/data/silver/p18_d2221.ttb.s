@@ -1,9 +1,0 @@
-DIS	A
-ROL	Mr
-PER	Jones
-NOW	is
-EXS	waiting
-REL	for
-PRO	you
-AND	outside
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-EPS	put
-REF	himself
-AND	and
-HAS	his
-CON	children
-REL	at
-CON	risk
-NIL	.

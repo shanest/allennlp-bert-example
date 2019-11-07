@@ -1,9 +1,0 @@
-DEF	The
-CON	situation
-EPS	called
-REL	for
-IST	quick
-EQU	,
-IST	decisive
-CON	action
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-NOT	not
-DIS	a
-ROL	poet
-COO	but
-DIS	a
-CON	novelist
-NIL	.

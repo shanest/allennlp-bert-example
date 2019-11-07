@@ -1,9 +1,0 @@
-PRO	We
-NOW	've
-EXS	got
-SUB	to
-EXS	fight
-CON	fire
-REL	with
-CON	fire
-NIL	!

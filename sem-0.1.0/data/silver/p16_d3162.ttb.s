@@ -1,9 +1,0 @@
-GRE	Hello
-NIL	,
-PRO	I
-NOW	'm
-PER	Tomoko
-PER	Sato
-REL	from
-GPE	Japan
-NIL	.

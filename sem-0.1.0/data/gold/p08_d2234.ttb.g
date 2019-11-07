@@ -1,9 +1,0 @@
-PER	Tom
-EPS	stuck
-DIS	a
-EXT	handwritten
-CON	sign
-REL	on
-DEF	the
-CON	door
-NIL	.

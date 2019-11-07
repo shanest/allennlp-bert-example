@@ -1,9 +1,0 @@
-QUE	What
-PRO	you
-NOW	are
-EXG	saying
-POS	ca
-NOT	n't
-EXS	be
-EXS	faulted
-NIL	.

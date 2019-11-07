@@ -1,9 +1,0 @@
-PER	Tom
-IST	carefully
-EPS	wiped
-HAS	his
-CON	fingerprints
-REL	off
-DEF	the
-CON	knife
-NIL	.

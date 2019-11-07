@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-PFT	been
-EXS	working
-REL	for
-DIS	some
-CON	time
-PRX	here
-NIL	.

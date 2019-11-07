@@ -1,9 +1,0 @@
-AND	Everybody
-NOW	is
-DEF	the
-CON	architect
-AND	of
-HAS	their
-IST	own
-CON	fortune
-NIL	.

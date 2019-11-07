@@ -1,9 +1,0 @@
-DEF	The
-GPO	English
-NOW	have
-EXS	adopted
-QUV	many
-CON	words
-REL	from
-GPO	French
-NIL	.

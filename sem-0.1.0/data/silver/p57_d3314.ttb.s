@@ -1,9 +1,0 @@
-CON	People
-NOW	have
-PFT	been
-EXG	buying
-PRO	me
-ENS	drinks
-AND	all
-CON	night
-NIL	.

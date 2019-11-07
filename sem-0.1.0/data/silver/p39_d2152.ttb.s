@@ -1,9 +1,0 @@
-PRO	He
-EPS	wrote
-DIS	a
-CON	lot
-AND	of
-CON	books
-REL	on
-GPE	China
-NIL	.

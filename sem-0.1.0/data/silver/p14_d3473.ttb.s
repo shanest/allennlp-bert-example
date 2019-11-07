@@ -1,9 +1,0 @@
-DEF	The
-CON	nurse
-EPS	took
-HAS	his
-CON	temperature
-REL	with
-DEF	the
-CON	thermometer
-NIL	.

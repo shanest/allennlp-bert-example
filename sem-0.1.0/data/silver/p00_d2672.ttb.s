@@ -1,9 +1,0 @@
-PER	Tom
-EPS	lived
-REL	in
-DIS	an
-IST	interesting
-CON	part
-REL	of
-GPE	Boston
-NIL	.

@@ -1,9 +1,0 @@
-QUE	What
-PST	was
-PRO	he
-EXS	doing
-SUB	when
-PRO	you
-EPS	saw
-PRO	him
-QUE	?

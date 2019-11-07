@@ -1,9 +1,0 @@
-PRO	We
-ENS	plan
-SUB	to
-EXS	invite
-AND	both
-PER	Tom
-AND	and
-PER	Mary
-NIL	.

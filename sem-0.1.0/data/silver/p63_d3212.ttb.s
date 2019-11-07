@@ -1,9 +1,0 @@
-PER	Tom
-EPS	forgave
-PER	Mary
-REL	for
-EXS	losing
-AND	all
-HAS	his
-CON	money
-NIL	.

@@ -1,9 +1,0 @@
-DEF	The
-ROL	millionaire
-EPS	began
-CON	life
-AND	as
-DIS	a
-IST	poor
-CON	boy
-NIL	.

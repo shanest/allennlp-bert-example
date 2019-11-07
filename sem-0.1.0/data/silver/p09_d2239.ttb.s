@@ -1,9 +1,0 @@
-PER	Maria
-PST	got
-EXS	pregnant
-REL	at
-DEF	the
-CON	age
-AND	of
-QUC	14
-NIL	.

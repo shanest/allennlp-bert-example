@@ -1,9 +1,0 @@
-PRO	They
-EPS	met
-REL	for
-DEF	the
-IST	first
-CON	time
-REL	in
-GPE	London
-NIL	.

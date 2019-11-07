@@ -1,9 +1,0 @@
-PRX	This
-CON	car
-NOW	is
-EXS	going
-QUC	60
-UOM	km
-DIS	an
-CON	hour
-NIL	.

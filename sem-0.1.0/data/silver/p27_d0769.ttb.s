@@ -1,9 +1,0 @@
-NOW	Are
-NOT	n't
-PRO	you
-IST	ashamed
-SUB	to
-EXS	talk
-AND	like
-DST	that
-QUE	?

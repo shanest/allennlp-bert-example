@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	going
-REL	to
-DEF	the
-CON	men
-HAS	's
-CON	room
-NIL	.

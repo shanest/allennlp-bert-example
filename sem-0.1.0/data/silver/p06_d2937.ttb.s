@@ -1,9 +1,0 @@
-PRO	I
-NEC	have
-SUB	to
-EXS	know
-IMP	if
-PRO	it
-NOW	is
-EXS	true
-NIL	.

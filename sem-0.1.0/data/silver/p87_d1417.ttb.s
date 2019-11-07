@@ -1,9 +1,0 @@
-EXS	Tell
-HAS	her
-PRO	she
-NEC	should
-EXS	submit
-HAS	her
-IST	immediate
-CON	resignation
-NIL	.

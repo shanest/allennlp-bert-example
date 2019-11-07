@@ -1,9 +1,0 @@
-PER	Tom
-EPS	withdrew
-DIS	some
-CON	money
-REL	from
-HAS	his
-CON	bank
-CON	account
-NIL	.

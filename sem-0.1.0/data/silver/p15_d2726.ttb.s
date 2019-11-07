@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-NOW	have
-PFT	been
-CON	friends
-REL	since
-CON	kindergarten
-NIL	.

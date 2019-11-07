@@ -1,9 +1,0 @@
-PER	Tom
-EPS	wanted
-PRO	you
-SUB	to
-EXS	see
-PRO	it
-EXS	right
-IST	away
-NIL	.

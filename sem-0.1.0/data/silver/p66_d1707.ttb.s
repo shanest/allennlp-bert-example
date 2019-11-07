@@ -1,9 +1,0 @@
-EPS	Shut
-IST	up
-COO	and
-EXS	do
-SUB	as
-PRO	you
-NOW	're
-EXS	told
-NIL	.

@@ -1,9 +1,0 @@
-SUB	While
-REL	in
-GPE	Japan
-NIL	,
-PRO	she
-EPS	bought
-DEF	the
-CON	camera
-NIL	.

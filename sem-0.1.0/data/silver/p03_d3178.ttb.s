@@ -1,9 +1,0 @@
-QUE	What
-FUT	would
-PRO	you
-NOW	have
-EXS	done
-REL	in
-HAS	his
-CON	place
-QUE	?

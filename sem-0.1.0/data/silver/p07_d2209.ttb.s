@@ -1,9 +1,0 @@
-PRO	We
-NOW	are
-EXS	going
-SUB	to
-EXS	have
-SUB	to
-EXS	reserve
-PRO	them
-NIL	.

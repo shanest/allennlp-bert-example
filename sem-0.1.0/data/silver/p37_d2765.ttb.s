@@ -1,9 +1,0 @@
-DEF	The
-CON	cops
-EPS	threw
-REL	tear-gas
-CON	bombs
-REL	into
-DEF	the
-CON	building
-NIL	.

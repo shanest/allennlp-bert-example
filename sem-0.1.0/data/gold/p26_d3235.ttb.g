@@ -1,9 +1,0 @@
-PRO	She
-PST	did
-NOT	n't
-EXS	want
-PRO	him
-NIL	to
-EXS	play
-CON	poker
-NIL	.

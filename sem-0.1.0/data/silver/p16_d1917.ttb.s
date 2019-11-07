@@ -1,9 +1,0 @@
-PRO	She
-EPS	touched
-HAS	her
-CON	hair
-NIL	.
-PRO	It
-PST	was
-EXS	wet
-NIL	.

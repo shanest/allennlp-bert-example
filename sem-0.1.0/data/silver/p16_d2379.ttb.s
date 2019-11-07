@@ -1,9 +1,0 @@
-PRO	We
-POS	ca
-NOT	n't
-EXS	prevent
-PER	Tom
-SUB	from
-EXG	seeing
-PER	Mary
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-FUT	wo
-NOT	n't
-EXS	let
-AND	anything
-EXS	happen
-REL	to
-PER	Tom
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-EPS	lost
-DEF	the
-CON	watch
-SUB	that
-PER	Mary
-EPS	gave
-PRO	him
-NIL	.

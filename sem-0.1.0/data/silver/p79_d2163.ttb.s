@@ -1,9 +1,0 @@
-QUE	What
-PRO	we
-ENS	need
-NOW	now
-NOW	is
-DIS	something
-SUB	to
-EXS	eat
-NIL	.

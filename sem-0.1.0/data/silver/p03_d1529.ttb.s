@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-DIS	an
-ROL	uncle
-AND	who
-NOW	is
-DIS	a
-CON	banker
-NIL	.

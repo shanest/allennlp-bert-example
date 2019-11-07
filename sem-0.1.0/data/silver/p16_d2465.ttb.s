@@ -1,9 +1,0 @@
-DEF	The
-CON	data
-NOW	has
-PFT	been
-EXS	fed
-REL	into
-DEF	the
-CON	computer
-NIL	.

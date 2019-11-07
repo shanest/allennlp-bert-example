@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	sorry
-PRO	I
-POS	can
-NOT	not
-EXS	help
-PRO	you
-NIL	.

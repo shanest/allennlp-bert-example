@@ -1,9 +1,0 @@
-PER	Tom
-NOW	does
-NOT	n't
-EXS	heed
-AND	any
-CON	advice
-REL	from
-PER	Mary
-NIL	.

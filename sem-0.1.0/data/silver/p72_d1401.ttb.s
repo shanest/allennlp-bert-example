@@ -1,9 +1,0 @@
-PRO	I
-NOW	wonder
-QUE	what
-PER	Tom
-AND	and
-PER	Mary
-EPS	talked
-IST	about
-NIL	.

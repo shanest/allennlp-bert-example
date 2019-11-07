@@ -1,9 +1,0 @@
-PRO	I
-EPS	forgot
-SUB	to
-EXS	tell
-PRO	you
-QUE	what
-SUB	to
-EXS	bring
-NIL	.

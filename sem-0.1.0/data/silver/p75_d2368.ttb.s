@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	tired
-AND	of
-EXS	working
-DIS	a
-IST	nine-to-five
-CON	job
-NIL	.

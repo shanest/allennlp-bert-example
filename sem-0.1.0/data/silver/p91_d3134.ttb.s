@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-DIS	a
-CON	boy
-CON	swimming
-REL	across
-DEF	the
-CON	river
-NIL	.

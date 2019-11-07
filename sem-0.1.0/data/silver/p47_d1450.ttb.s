@@ -1,9 +1,0 @@
-PER	Tom
-NOW	's
-NOT	never
-EPS	won
-AND	anything
-REL	in
-HAS	his
-CON	life
-NIL	.

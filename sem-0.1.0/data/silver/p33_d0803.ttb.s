@@ -1,9 +1,0 @@
-GPE	Italy
-NOW	is
-EXS	bounded
-REL	on
-DEF	the
-CON	north
-REL	by
-GEO	Switzerland
-NIL	.

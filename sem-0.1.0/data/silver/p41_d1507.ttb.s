@@ -1,9 +1,0 @@
-REL	In
-GPE	Japan
-DEF	the
-CON	school
-CON	year
-ENS	begins
-REL	in
-MOY	April
-NIL	.

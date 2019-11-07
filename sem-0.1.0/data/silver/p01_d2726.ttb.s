@@ -1,9 +1,0 @@
-PRO	I
-NEC	have
-DIS	a
-CON	favor
-NIL	to
-EXS	ask
-AND	of
-PRO	you
-NIL	.

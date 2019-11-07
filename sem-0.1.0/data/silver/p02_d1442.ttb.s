@@ -1,9 +1,0 @@
-PRO	I
-FUT	'll
-EXS	let
-PRO	you
-EXS	know
-SUB	when
-PRO	she
-ENS	arrives
-NIL	.

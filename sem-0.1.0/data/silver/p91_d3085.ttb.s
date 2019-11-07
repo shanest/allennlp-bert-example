@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-PFT	been
-EXS	busier
-AND	than
-DEF	the
-QUC	two
-CON	boys
-NIL	.

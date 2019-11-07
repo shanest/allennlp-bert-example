@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-DEF	the
-ALT	other
-CON	hostages
-NOW	have
-PFT	been
-EXS	released
-NIL	.

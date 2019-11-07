@@ -1,9 +1,0 @@
-CON	Look
-REL	at
-DST	that
-IST	lovely
-CON	house
-AND	of
-PER	Mary
-HAS	's
-NIL	.

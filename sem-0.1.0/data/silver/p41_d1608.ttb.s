@@ -1,9 +1,0 @@
-DEF	The
-CON	way
-PRO	she
-ENS	speaks
-NOW	gets
-REL	on
-HAS	my
-CON	nerves
-NIL	.

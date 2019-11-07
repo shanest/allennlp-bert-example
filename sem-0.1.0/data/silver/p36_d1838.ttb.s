@@ -1,9 +1,0 @@
-EXS	Say
-NIL	"
-GRE	hi
-NIL	"
-REL	to
-PER	Tom
-NIL	,
-AND	everyone
-NIL	.

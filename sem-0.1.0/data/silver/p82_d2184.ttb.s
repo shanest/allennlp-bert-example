@@ -1,9 +1,0 @@
-PRO	They
-NOW	're
-EXS	taking
-PER	Mary
-REL	to
-DEF	the
-CON	emergency
-CON	room
-NIL	.

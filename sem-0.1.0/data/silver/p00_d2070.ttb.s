@@ -1,9 +1,0 @@
-PRO	I
-EPS	worked
-AND	as
-IMP	if
-NIL	there
-PST	were
-NOT	no
-FUT	tomorrow
-NIL	.

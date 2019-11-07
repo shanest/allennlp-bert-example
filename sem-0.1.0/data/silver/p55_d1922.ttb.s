@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-CON	time
-PRO	you
-NOW	get
-IST	down
-REL	to
-EXS	work
-NIL	.

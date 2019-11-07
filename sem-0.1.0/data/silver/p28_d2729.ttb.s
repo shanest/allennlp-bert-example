@@ -1,9 +1,0 @@
-NOT	No
-CON	one
-EPS	knew
-QUE	what
-PST	was
-AND	about
-SUB	to
-EXS	happen
-NIL	.

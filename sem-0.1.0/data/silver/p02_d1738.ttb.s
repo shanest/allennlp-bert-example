@@ -1,9 +1,0 @@
-DEF	The
-IST	seasonal
-CON	rain
-CON	front
-NOW	is
-EXG	moving
-REL	in
-FUT	tomorrow
-NIL	.

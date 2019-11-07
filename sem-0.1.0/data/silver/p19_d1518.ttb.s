@@ -1,9 +1,0 @@
-DST	That
-CON	incident
-EPS	put
-HAS	his
-CON	courage
-REL	to
-DEF	the
-CON	test
-NIL	.

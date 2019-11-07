@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-PER	Tom
-NOW	has
-IST	already
-EXS	left
-REL	for
-GPE	Boston
-NIL	.

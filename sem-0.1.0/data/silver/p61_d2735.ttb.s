@@ -1,9 +1,0 @@
-PRO	She
-PST	was
-NOT	n't
-IST	able
-SUB	to
-EXS	talk
-REL	to
-PRO	him
-NIL	.

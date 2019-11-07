@@ -1,9 +1,0 @@
-PER	Mary
-EPS	gave
-PER	Tom
-DIS	a
-CON	pipe
-REL	for
-HAS	his
-CON	birthday
-NIL	.

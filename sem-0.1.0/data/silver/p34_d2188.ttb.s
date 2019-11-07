@@ -1,9 +1,0 @@
-PRO	We
-NOW	've
-PFT	been
-IST	far
-IST	too
-EXS	lenient
-REL	with
-PER	Tom
-NIL	.

@@ -1,9 +1,0 @@
-NOW	Is
-PRO	it
-EXS	true
-SUB	that
-PRO	you
-EPS	changed
-HAS	your
-CON	name
-QUE	?

@@ -1,9 +1,0 @@
-PRO	We
-NOW	do
-NOT	n't
-EXS	want
-PRX	this
-SUB	to
-EXS	happen
-ALT	again
-NIL	.

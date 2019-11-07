@@ -1,9 +1,0 @@
-PER	John
-EPS	sang
-NIL	"
-ART	Imagine
-NIL	"
-REL	on
-DEF	the
-CON	stage
-NIL	.

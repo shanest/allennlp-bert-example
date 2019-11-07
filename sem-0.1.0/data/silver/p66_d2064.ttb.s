@@ -1,9 +1,0 @@
-PER	Sara
-EPS	took
-CON	pictures
-AND	of
-DST	that
-CON	mountain
-REL	in
-CON	summer
-NIL	.

@@ -1,9 +1,0 @@
-DEF	The
-IST	big
-COL	white
-CON	dog
-ENS	looks
-REL	at
-DST	that
-CON	cat
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-EPS	met
-PRO	her
-REL	by
-CON	chance
-REL	in
-DEF	the
-CON	library
-NIL	.

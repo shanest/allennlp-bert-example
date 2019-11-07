@@ -1,9 +1,0 @@
-SUB	When
-PST	was
-DEF	the
-IST	first
-CON	time
-PRO	you
-EPS	kissed
-PER	Marika
-QUE	?

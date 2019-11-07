@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	think
-PER	Tom
-EPS	took
-PRO	us
-IST	seriously
-NIL	.

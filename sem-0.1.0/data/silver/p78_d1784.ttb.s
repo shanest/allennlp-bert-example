@@ -1,9 +1,0 @@
-PRO	You
-NOW	've
-NOT	never
-PFT	been
-EXS	married
-NIL	,
-NOW	have
-PRO	you
-QUE	?

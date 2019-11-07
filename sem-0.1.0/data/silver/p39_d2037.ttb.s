@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-SUB	when
-PRO	they
-FUT	will
-EXS	be
-IST	back
-QUE	?

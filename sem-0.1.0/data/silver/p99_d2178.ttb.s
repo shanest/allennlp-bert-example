@@ -1,9 +1,0 @@
-PRO	I
-EPS	bought
-DIS	a
-IST	new
-CON	hat
-REL	for
-HAS	my
-ROL	sister
-NIL	.

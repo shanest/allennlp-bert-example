@@ -1,9 +1,0 @@
-PRO	It
-EPS	took
-DIS	a
-CON	while
-REL	for
-PER	Tom
-SUB	to
-EXS	react
-NIL	.

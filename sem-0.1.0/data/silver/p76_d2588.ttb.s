@@ -1,9 +1,0 @@
-NOT	No
-CON	one
-ENS	seems
-SUB	to
-EXS	listen
-SUB	to
-PRO	us
-CON	anymore
-NIL	.

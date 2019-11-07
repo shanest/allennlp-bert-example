@@ -1,9 +1,0 @@
-PRO	She
-EPS	gained
-QUC	23
-UOM	kg
-SUB	after
-PRO	she
-PST	got
-EXS	married
-NIL	.

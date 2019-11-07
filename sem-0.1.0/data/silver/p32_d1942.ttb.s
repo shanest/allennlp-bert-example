@@ -1,9 +1,0 @@
-PRO	He
-NOW	's
-EXS	begun
-SUB	to
-EXS	look
-REL	for
-DIS	a
-CON	job
-NIL	.

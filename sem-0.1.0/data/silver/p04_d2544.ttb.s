@@ -1,9 +1,0 @@
-PRO	I
-IST	just
-EPS	found
-PER	Mary
-NIL	.
-PRO	She
-HAS	's
-CON	dead
-NIL	.

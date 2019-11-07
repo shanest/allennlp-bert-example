@@ -1,9 +1,0 @@
-DEF	The
-CON	accomplishment
-AND	of
-PRX	this
-CON	task
-EPS	took
-QUV	many
-CON	years
-NIL	.

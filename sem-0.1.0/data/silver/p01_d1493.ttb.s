@@ -1,9 +1,0 @@
-PRO	I
-PST	had
-NOT	never
-EXS	seen
-DIS	a
-MOR	more
-IST	beautiful
-CON	sight
-NIL	.

@@ -1,9 +1,0 @@
-DEF	The
-ORG	Medieval
-ORG	Era
-EPS	gave
-CON	way
-REL	to
-DEF	the
-CON	Renaissance
-NIL	.

@@ -1,9 +1,0 @@
-ITJ	Aah
-NIL	,
-PRO	I
-NOW	'm
-EXS	angry
-REL	for
-DIS	some
-CON	reason
-NIL	!

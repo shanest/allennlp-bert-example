@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-IST	always
-EPS	wanted
-SUB	to
-EXS	visit
-ALT	another
-CON	country
-NIL	.

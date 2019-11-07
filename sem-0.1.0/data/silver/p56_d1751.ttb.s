@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	sending
-PER	Tom
-REL	to
-CON	school
-REL	in
-GPE	Boston
-NIL	.

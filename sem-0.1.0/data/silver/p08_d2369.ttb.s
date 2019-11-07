@@ -1,9 +1,0 @@
-PRO	We
-POS	ca
-NOT	n't
-EXS	let
-PER	Tom
-NOW	keep
-EXG	seeing
-PER	Mary
-NIL	.

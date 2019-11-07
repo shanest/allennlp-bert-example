@@ -1,9 +1,0 @@
-QUE	What
-ENS	's
-DEF	the
-IST	next
-CON	step
-NIL	to
-EXS	be
-EXS	done
-QUE	?

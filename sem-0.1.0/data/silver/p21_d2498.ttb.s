@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	going
-SUB	to
-EXS	leave
-QUC	one
-CON	night
-AND	early
-NIL	.

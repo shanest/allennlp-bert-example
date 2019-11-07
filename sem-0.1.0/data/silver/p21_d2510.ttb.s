@@ -1,9 +1,0 @@
-PRO	I
-NOW	wonder
-QUE	how
-PRO	she
-NOW	's
-EXS	going
-SUB	to
-EXS	react
-NIL	.

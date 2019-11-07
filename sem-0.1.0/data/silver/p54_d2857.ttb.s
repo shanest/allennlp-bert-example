@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	like
-DIS	a
-CON	member
-AND	of
-HAS	our
-CON	family
-NIL	.

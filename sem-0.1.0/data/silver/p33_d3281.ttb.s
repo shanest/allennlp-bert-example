@@ -1,9 +1,0 @@
-DEF	The
-ROL	policeman
-EPS	caught
-DEF	the
-CON	man
-REL	by
-DEF	the
-CON	arm
-NIL	.

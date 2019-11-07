@@ -1,9 +1,0 @@
-PRO	It
-EPS	took
-PER	Tom
-QUC	thirty
-CON	minutes
-SUB	to
-EXS	get
-IST	there
-NIL	.

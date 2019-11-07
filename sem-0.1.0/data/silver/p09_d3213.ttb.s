@@ -1,9 +1,0 @@
-PRO	I
-FUT	'd
-EXS	like
-SUB	to
-EXS	live
-REL	near
-HAS	your
-CON	house
-NIL	.

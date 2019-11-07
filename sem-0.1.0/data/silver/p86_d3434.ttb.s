@@ -1,9 +1,0 @@
-PRO	He
-EPS	became
-EXS	accustomed
-SUB	to
-EXS	working
-REL	in
-DEF	the
-CON	office
-NIL	.

@@ -1,9 +1,0 @@
-QUE	How
-QUV	many
-CON	home
-ENS	runs
-PST	did
-PER	Babe
-PER	Ruth
-EPS	hit
-QUE	?

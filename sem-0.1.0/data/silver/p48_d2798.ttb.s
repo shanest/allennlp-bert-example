@@ -1,9 +1,0 @@
-REL	In
-GPE	England
-NIL	,
-ORG	Labor
-TIM	Day
-NOW	is
-REL	in
-MOY	May
-NIL	.

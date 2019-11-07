@@ -1,9 +1,0 @@
-PRO	I
-PST	was
-IST	able
-SUB	to
-EXS	win
-DEF	the
-IST	first
-CON	prize
-NIL	.

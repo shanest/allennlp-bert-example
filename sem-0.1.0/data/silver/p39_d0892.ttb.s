@@ -1,9 +1,0 @@
-HAS	His
-ROL	sister
-POS	ca
-NOT	n't
-EXS	talk
-REL	to
-PRO	you
-NOW	today
-NIL	.

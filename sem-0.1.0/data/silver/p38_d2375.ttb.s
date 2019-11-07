@@ -1,9 +1,0 @@
-PRO	She
-EPS	advised
-PRO	him
-NOT	not
-SUB	to
-EXS	eat
-INT	too
-QUC	much
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-EPS	figured
-PRO	you
-POS	might
-EXS	be
-EXS	hungry
-REL	by
-NOW	now
-NIL	.

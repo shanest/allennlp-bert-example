@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	n't
-EXS	gotten
-AND	over
-HAS	my
-CON	cold
-ALT	yet
-NIL	.

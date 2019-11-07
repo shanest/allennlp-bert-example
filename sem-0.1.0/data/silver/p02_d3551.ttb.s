@@ -1,9 +1,0 @@
-PER	Jim
-PST	was
-IST	able
-SUB	to
-EXS	hold
-IST	back
-HAS	his
-CON	anger
-NIL	.

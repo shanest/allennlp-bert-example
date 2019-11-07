@@ -1,9 +1,0 @@
-PRO	I
-EPS	stepped
-IST	aside
-AND	so
-SUB	that
-PRO	he
-POS	could
-EXS	pass
-NIL	.

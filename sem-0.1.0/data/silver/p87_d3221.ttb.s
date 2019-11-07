@@ -1,9 +1,0 @@
-PER	Mary
-EPS	offered
-SUB	to
-EXS	let
-PER	Tom
-NOW	use
-HAS	her
-CON	car
-NIL	.

@@ -1,9 +1,0 @@
-PRO	We
-POS	could
-EXS	see
-ROL	enemy
-CON	ships
-REL	on
-DEF	the
-CON	horizon
-NIL	.

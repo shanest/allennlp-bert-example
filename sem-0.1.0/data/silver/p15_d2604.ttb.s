@@ -1,9 +1,0 @@
-DST	That
-HAS	's
-DEF	the
-QUC	one
-PRO	we
-PST	were
-EXG	looking
-REL	for
-NIL	.

@@ -1,9 +1,0 @@
-DIS	A
-CON	survey
-NOW	shows
-SUB	that
-QUV	many
-CON	businessmen
-EXS	skip
-CON	lunch
-NIL	.

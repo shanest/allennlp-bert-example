@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-NOT	never
-EXS	going
-NIL	to
-EXS	give
-IST	up
-EXS	trying
-NIL	.

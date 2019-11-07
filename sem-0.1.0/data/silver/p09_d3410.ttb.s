@@ -1,9 +1,0 @@
-AND	Would
-PRO	you
-CON	mind
-IMP	if
-PRO	I
-EPS	took
-DIS	a
-CON	break
-QUE	?

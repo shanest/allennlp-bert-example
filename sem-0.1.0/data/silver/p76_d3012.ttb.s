@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-EPS	finished
-EXG	reading
-DEF	the
-CON	biography
-AND	of
-CON	Jobs
-QUE	?

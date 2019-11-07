@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	been
-DIS	a
-CON	teacher
-DIS	a
-IST	long
-CON	time
-NIL	.

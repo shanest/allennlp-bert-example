@@ -1,9 +1,0 @@
-PRO	I
-EPS	used
-SUB	to
-EXS	enjoy
-EXS	playing
-CON	tennis
-REL	with
-PER	Tom
-NIL	.

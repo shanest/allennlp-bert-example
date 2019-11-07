@@ -1,9 +1,0 @@
-PRO	We
-NOW	are
-EXS	expecting
-DEF	the
-CON	publication
-AND	of
-HAS	his
-CON	book
-NIL	.

@@ -1,9 +1,0 @@
-AND	Could
-PRO	you
-EXS	save
-PRO	me
-DIS	a
-CON	couple
-AND	of
-CON	cookies
-QUE	?

@@ -1,9 +1,0 @@
-AND	And
-PRO	he
-NOW	's
-FUT	gonna
-EXS	get
-IST	away
-REL	with
-PRO	it
-QUE	?

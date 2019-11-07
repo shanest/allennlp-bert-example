@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	being
-IST	paranoid
-NIL	,
-NOW	are
-NOT	n't
-PRO	I
-QUE	?

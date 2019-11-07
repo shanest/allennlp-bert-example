@@ -1,9 +1,0 @@
-PRO	I
-ENS	want
-SUB	to
-EXS	know
-SUB	where
-PER	Tom
-ENS	comes
-REL	from
-NIL	.

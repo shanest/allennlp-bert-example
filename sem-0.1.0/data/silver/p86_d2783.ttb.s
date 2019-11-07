@@ -1,9 +1,0 @@
-PRO	She
-EPS	thought
-AND	of
-REF	herself
-SUB	as
-EXS	being
-IST	charming
-IST	enough
-NIL	.

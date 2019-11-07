@@ -1,9 +1,0 @@
-PRO	I
-NOW	hope
-PER	Tom
-ENS	knows
-QUE	what
-PRO	he
-HAS	's
-EXS	doing
-NIL	.

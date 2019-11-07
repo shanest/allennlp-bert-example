@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-NOT	not
-EXS	going
-REL	to
-CON	school
-REL	on
-DOW	Saturday
-NIL	.

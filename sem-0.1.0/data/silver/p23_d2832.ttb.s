@@ -1,9 +1,0 @@
-PRO	I
-NEC	have
-SUB	to
-EXS	go
-REL	to
-DEF	the
-CON	bank
-NOW	now
-NIL	.

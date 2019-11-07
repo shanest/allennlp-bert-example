@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	believed
-SUB	that
-PER	Christ
-EPS	worked
-QUV	many
-CON	miracles
-NIL	.

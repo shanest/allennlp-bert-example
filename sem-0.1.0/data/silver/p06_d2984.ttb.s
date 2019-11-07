@@ -1,9 +1,0 @@
-PRO	He
-IST	just
-EPS	ate
-NIL	.
-PRO	I
-NOW	'm
-AND	always
-EXG	eating
-NIL	.

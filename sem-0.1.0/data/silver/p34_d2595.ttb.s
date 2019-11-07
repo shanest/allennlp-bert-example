@@ -1,9 +1,0 @@
-EXS	Let
-PRO	's
-CON	look
-AND	ahead
-REL	to
-DEF	the
-IST	next
-CON	century
-NIL	.

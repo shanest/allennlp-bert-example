@@ -1,9 +1,0 @@
-AND	Every
-IST	serial
-CON	killer
-PST	was
-DIS	somebody
-HAS	's
-CON	baby
-QUC	once
-NIL	.

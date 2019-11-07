@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-PRO	I
-NOW	'm
-EXS	putting
-REL	on
-CON	weight
-ALT	again
-NIL	.

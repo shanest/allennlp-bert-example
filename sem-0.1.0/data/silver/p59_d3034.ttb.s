@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXT	rewritten
-DEF	the
-CON	sentence
-AND	just
-REL	for
-PRO	you
-NIL	.

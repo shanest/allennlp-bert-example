@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-IST	willing
-SUB	to
-EXS	do
-DST	that
-REL	for
-PRO	you
-NIL	.

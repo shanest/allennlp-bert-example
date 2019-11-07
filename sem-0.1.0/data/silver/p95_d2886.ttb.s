@@ -1,9 +1,0 @@
-CON	Look
-NIL	.
-HAS	My
-CON	house
-NOW	is
-CON	cleaner
-AND	than
-HAS	yours
-NIL	.

@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-DEF	the
-CON	boy
-REL	in
-DEF	the
-CON	picture
-QUE	?

@@ -1,9 +1,0 @@
-DEF	The
-CON	devil
-EPS	challenged
-CON	God
-REL	to
-DIS	a
-CON	baseball
-CON	game
-NIL	.

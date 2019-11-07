@@ -1,9 +1,0 @@
-PRO	You
-NEC	should
-NOT	n't
-EXS	let
-PER	Tom
-NOW	push
-PRO	you
-AND	around
-NIL	.

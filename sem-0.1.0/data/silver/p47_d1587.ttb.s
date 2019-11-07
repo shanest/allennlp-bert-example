@@ -1,9 +1,0 @@
-PRO	She
-EPS	burst
-IST	out
-EXS	laughing
-SUB	when
-PRO	she
-EPS	saw
-PRO	me
-NIL	.

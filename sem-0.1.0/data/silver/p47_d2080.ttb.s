@@ -1,9 +1,0 @@
-PER	Mary
-ENS	says
-PRO	she
-HAS	's
-NOT	never
-PST	had
-DIS	a
-CON	boyfriend
-NIL	.

@@ -1,9 +1,0 @@
-PRO	We
-NOW	're
-EXS	going
-SUB	to
-EXS	discuss
-DEF	the
-CON	problem
-FUT	tomorrow
-NIL	.

@@ -1,9 +1,0 @@
-DEF	The
-CON	gate
-PST	was
-INT	too
-EXS	narrow
-REL	for
-DEF	the
-CON	truck
-NIL	.

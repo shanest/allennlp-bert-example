@@ -1,9 +1,0 @@
-PRO	She
-ENS	needs
-PRO	him
-MOR	more
-MOR	than
-PRO	he
-ENS	needs
-PRO	her
-NIL	.

@@ -1,9 +1,0 @@
-PER	John
-POS	can
-NOT	not
-EXS	be
-EXG	living
-REL	in
-GPE	London
-NOW	now
-NIL	.

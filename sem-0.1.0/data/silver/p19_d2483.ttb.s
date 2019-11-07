@@ -1,9 +1,0 @@
-PER	Newton
-EPS	saw
-DIS	an
-CON	apple
-EXS	fall
-REL	off
-DIS	a
-CON	tree
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-ENS	makes
-CON	friends
-REL	with
-AND	every
-CON	body
-PRO	he
-ENS	meets
-NIL	.

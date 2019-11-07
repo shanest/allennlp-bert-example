@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-INT	pretty
-IST	sure
-PER	Tom
-IST	really
-EPS	loved
-PER	Mary
-NIL	.

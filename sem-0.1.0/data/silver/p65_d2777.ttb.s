@@ -1,9 +1,0 @@
-PER	Hamlet
-EQU	,
-HAS	thou
-CON	hast
-HAS	thy
-ROL	father
-QUC	much
-EPS	offended
-NIL	.

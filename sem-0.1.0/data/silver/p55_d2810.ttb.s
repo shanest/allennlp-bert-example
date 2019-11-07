@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	going
-SUB	to
-EXS	go
-REL	to
-GEO	Tokyo
-FUT	tomorrow
-NIL	.

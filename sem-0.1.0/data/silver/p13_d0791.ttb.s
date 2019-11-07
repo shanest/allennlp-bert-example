@@ -1,9 +1,0 @@
-PRO	She
-PST	had
-EXS	gone
-REL	to
-DEF	the
-CON	concert
-AND	that
-CON	evening
-NIL	.

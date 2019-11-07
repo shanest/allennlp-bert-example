@@ -1,9 +1,0 @@
-NOW	Today
-PRO	I
-NOW	'm
-EXS	going
-SUB	to
-EXS	run
-QUC	fifteen
-UOM	kilometers
-NIL	!

@@ -1,9 +1,0 @@
-PRO	They
-EPS	conceived
-DIS	a
-CON	plan
-SUB	to
-EXS	surprise
-DEF	the
-ROL	enemy
-NIL	.

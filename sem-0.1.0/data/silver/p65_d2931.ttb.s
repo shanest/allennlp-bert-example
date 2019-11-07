@@ -1,9 +1,0 @@
-DEF	The
-CON	consumer
-CON	price
-CON	index
-NOW	has
-PFT	been
-EXS	fluctuating
-IST	wildly
-NIL	.

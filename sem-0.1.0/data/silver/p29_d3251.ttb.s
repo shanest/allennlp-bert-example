@@ -1,9 +1,0 @@
-PER	Tom
-EPS	drowned
-REL	in
-GEO	Lake
-GEO	Superior
-QUC	three
-CON	years
-PST	ago
-NIL	.

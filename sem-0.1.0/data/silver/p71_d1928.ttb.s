@@ -1,9 +1,0 @@
-PER	Tom
-EPS	told
-PER	Mary
-SUB	to
-EXS	wait
-DIS	a
-IST	little
-IST	longer
-NIL	.

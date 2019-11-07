@@ -1,9 +1,0 @@
-POS	Can
-PRO	you
-NOW	recommend
-DIS	a
-CON	hotel
-REL	near
-DEF	the
-CON	airport
-QUE	?

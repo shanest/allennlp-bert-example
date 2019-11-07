@@ -1,9 +1,0 @@
-PER	Tom
-EPS	did
-QUE	what
-PRO	he
-EPS	said
-PRO	he
-PST	'd
-EXS	do
-NIL	.

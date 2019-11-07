@@ -1,9 +1,0 @@
-PRO	I
-EPS	went
-IST	out
-REL	with
-PER	Mary
-REL	for
-QUC	three
-CON	months
-NIL	.

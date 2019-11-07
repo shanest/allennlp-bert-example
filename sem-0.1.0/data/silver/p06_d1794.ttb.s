@@ -1,9 +1,0 @@
-PRO	I
-NOW	hope
-PER	Tom
-NOW	is
-REL	in
-DIS	a
-IST	good
-CON	mood
-NIL	.

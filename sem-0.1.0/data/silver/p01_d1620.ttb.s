@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-EXS	thoughtless
-AND	of
-PRO	her
-NIL	to
-EXS	say
-PRO	so
-NIL	.

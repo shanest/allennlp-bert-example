@@ -1,9 +1,0 @@
-PRO	You
-NEC	have
-SUB	to
-EXS	see
-PRO	it
-SUB	to
-EXS	believe
-PRO	it
-NIL	.

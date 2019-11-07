@@ -1,9 +1,0 @@
-GPE	France
-NOW	is
-DEF	the
-TOP	largest
-CON	country
-REL	in
-GEO	Western
-GEO	Europe
-NIL	.

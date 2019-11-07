@@ -1,9 +1,0 @@
-PER	Tom
-EPS	got
-IST	first
-CON	prize
-NIL	,
-PST	did
-NOT	n't
-PRO	he
-QUE	?

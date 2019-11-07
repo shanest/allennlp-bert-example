@@ -1,9 +1,0 @@
-PRO	It
-EPS	took
-PRO	me
-QUV	several
-CON	hours
-SUB	to
-EXS	correct
-PRO	it
-NIL	.

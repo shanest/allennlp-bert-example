@@ -1,9 +1,0 @@
-DEF	The
-ROL	anthropologist
-EPS	delivered
-DIS	a
-CON	lecture
-REL	on
-IST	primitive
-CON	cultures
-NIL	.

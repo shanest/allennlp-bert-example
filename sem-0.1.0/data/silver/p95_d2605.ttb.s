@@ -1,9 +1,0 @@
-PRO	He
-ENS	knows
-INT	very
-IST	well
-QUE	how
-SUB	to
-EXS	deceive
-CON	people
-NIL	.

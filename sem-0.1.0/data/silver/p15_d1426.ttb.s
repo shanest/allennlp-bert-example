@@ -1,9 +1,0 @@
-IMP	If
-DST	that
-ENS	happens
-ALT	again
-NIL	,
-PRO	I
-FUT	'll
-EXS	leave
-NIL	.

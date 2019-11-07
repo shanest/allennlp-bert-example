@@ -1,9 +1,0 @@
-PRO	I
-IST	really
-PST	was
-NOT	n't
-EXG	expecting
-DST	that
-REL	from
-PRO	you
-NIL	.

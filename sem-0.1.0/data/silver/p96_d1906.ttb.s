@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	trying
-NOT	not
-SUB	to
-EXS	worry
-INT	too
-QUC	much
-NIL	.

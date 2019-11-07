@@ -1,9 +1,0 @@
-AND	Why
-POS	ca
-NOT	n't
-PRO	we
-IST	just
-EXS	leave
-IST	right
-NOW	now
-QUE	?

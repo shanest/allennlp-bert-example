@@ -1,9 +1,0 @@
-PRO	We
-NOW	're
-EXS	having
-DIS	a
-CON	sukiyaki
-CON	party
-PRX	this
-DOW	Sunday
-NIL	.

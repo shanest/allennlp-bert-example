@@ -1,9 +1,0 @@
-PRO	We
-NEC	have
-SUB	to
-EXS	cancel
-HAS	our
-CON	trip
-REL	to
-GPE	Japan
-NIL	.

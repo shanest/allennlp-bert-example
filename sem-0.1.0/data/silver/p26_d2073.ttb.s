@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-NOW	are
-IST	proud
-AND	of
-HAS	their
-CON	son
-NIL	.

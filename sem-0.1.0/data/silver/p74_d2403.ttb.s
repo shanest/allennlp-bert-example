@@ -1,9 +1,0 @@
-DIS	Someone
-IST	here
-IST	just
-EPS	found
-HAS	his
-IST	new
-IST	favorite
-CON	band
-NIL	.

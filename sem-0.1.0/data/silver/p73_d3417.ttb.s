@@ -1,9 +1,0 @@
-REL	On
-EXS	hearing
-DEF	the
-CON	news
-NIL	,
-AND	everybody
-EPS	became
-EXS	quiet
-NIL	.

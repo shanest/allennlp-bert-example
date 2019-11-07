@@ -1,9 +1,0 @@
-GPE	Mozambique
-NOW	is
-EXS	called
-NIL	"
-GEO	Moçambique
-NIL	"
-REL	in
-GPO	Portuguese
-NIL	.

@@ -1,9 +1,0 @@
-ORG	Agriculture
-PST	was
-EXS	developed
-MOR	more
-MOR	than
-QUC	10,000
-CON	years
-PST	ago
-NIL	.

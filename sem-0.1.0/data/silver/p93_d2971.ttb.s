@@ -1,9 +1,0 @@
-GPE	Japan
-NOW	is
-EXS	becoming
-DEF	the
-INT	most
-IST	advanced
-CON	country
-INT	technologically
-NIL	.

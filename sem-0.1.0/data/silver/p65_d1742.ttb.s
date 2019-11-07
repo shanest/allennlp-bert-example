@@ -1,9 +1,0 @@
-PER	Tom
-EPS	said
-PRO	he
-EPS	understood
-QUE	how
-PRO	you
-PST	were
-EXS	feeling
-NIL	.

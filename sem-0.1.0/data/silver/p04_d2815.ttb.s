@@ -1,9 +1,0 @@
-PRO	We
-EPS	took
-NOW	turns
-EXG	telling
-CON	tales
-AND	of
-IST	strange
-CON	happenings
-NIL	.

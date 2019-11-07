@@ -1,9 +1,0 @@
-PRO	She
-EPS	saw
-HAS	my
-CON	name
-EXS	written
-REL	on
-DEF	the
-CON	wall
-NIL	.

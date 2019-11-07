@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-ROL	Professor
-PER	Brown
-REL	by
-DIS	any
-CON	chance
-QUE	?

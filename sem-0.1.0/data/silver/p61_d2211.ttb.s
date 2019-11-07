@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	giving
-PRO	it
-REL	to
-PRO	you
-REL	for
-EXS	free
-NIL	.

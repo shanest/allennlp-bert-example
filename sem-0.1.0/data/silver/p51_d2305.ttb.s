@@ -1,9 +1,0 @@
-NOW	Do
-NOT	n't
-EXS	let
-PRO	him
-EXS	switch
-REL	off
-DEF	the
-CON	light
-NIL	.

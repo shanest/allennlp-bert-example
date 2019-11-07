@@ -1,9 +1,0 @@
-PRO	I
-NEC	have
-SUB	to
-EXS	be
-REL	in
-GPE	Boston
-REL	by
-DOW	Monday
-NIL	.

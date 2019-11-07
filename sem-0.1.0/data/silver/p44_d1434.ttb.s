@@ -1,9 +1,0 @@
-NOW	Do
-NOT	n't
-EXS	dwell
-INT	too
-QUC	much
-AND	upon
-DEF	the
-CON	subject
-NIL	.

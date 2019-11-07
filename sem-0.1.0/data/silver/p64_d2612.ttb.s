@@ -1,9 +1,0 @@
-QUE	What
-PST	was
-DEF	the
-IST	first
-CON	song
-PRO	you
-IST	ever
-EPS	wrote
-QUE	?

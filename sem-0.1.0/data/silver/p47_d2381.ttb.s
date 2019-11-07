@@ -1,9 +1,0 @@
-PRO	I
-POS	ca
-NOT	n't
-EXS	believe
-QUE	what
-PRO	I
-NOW	'm
-EXS	hearing
-NIL	.

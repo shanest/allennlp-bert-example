@@ -1,9 +1,0 @@
-QUE	What
-NOW	are
-PRO	you
-EXS	going
-SUB	to
-EXS	do
-AND	next
-DOW	Sunday
-QUE	?

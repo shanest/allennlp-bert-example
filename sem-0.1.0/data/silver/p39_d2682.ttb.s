@@ -1,9 +1,0 @@
-PRO	They
-EPS	paid
-PRO	me
-QUC	five
-UOM	dollars
-REL	for
-DEF	the
-CON	bag
-NIL	.

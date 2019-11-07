@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	played
-CON	soccer
-SUB	since
-PRO	I
-PST	was
-QUC	thirteen
-NIL	.

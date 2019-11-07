@@ -1,9 +1,0 @@
-PRO	He
-ENS	knows
-IST	close
-SUB	to
-NOT	nothing
-AND	about
-PRX	this
-CON	issue
-NIL	.

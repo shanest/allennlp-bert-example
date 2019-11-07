@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-CON	guys
-EXS	want
-SUB	to
-EXS	have
-DIS	some
-CON	fun
-QUE	?

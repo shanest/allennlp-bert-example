@@ -1,9 +1,0 @@
-PER	Tom
-POS	ca
-NOT	n't
-EXS	bear
-SUB	to
-EXS	look
-REL	at
-PER	Mary
-NIL	.

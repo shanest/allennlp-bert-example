@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	worn
-IST	out
-REL	from
-CON	working
-AND	all
-CON	day
-NIL	.

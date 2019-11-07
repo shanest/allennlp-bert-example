@@ -1,9 +1,0 @@
-EXS	Come
-REL	on
-NIL	,
-EXS	let
-PRO	us
-EXS	talk
-AND	about
-CON	flowers
-NIL	.

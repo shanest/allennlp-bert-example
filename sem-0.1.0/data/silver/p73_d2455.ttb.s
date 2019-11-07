@@ -1,9 +1,0 @@
-UNK	There
-PST	were
-INT	too
-QUC	many
-CON	people
-REL	at
-DEF	the
-CON	concert
-NIL	.

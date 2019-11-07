@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-IST	sure
-PRO	I
-NOW	've
-NOT	never
-EXS	seen
-PRO	her
-NIL	.

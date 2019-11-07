@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-PFT	been
-CON	home
-AND	alone
-REL	for
-QUC	four
-CON	days
-NIL	.

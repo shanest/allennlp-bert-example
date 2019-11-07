@@ -1,9 +1,0 @@
-PRX	These
-CON	boxes
-NOW	have
-EXS	plenty
-CON	space
-REL	on
-DEF	the
-CON	interior
-NIL	.

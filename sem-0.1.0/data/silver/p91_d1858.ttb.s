@@ -1,9 +1,0 @@
-ORG	Goals
-NOW	determine
-QUE	what
-PRO	you
-NOW	are
-EXS	going
-SUB	to
-EXS	be
-NIL	.

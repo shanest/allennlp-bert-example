@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	clear
-SUB	that
-PRO	he
-ENS	knows
-DEF	the
-CON	answer
-NIL	.

@@ -1,9 +1,0 @@
-PRO	You
-POS	ca
-NOT	n't
-EXS	buy
-PRO	it
-REL	under
-QUC	1,000
-UOM	yen
-NIL	.

@@ -1,9 +1,0 @@
-CON	Days
-EXS	pass
-REL	by
-IST	quickly
-SUB	when
-PRO	you
-NOW	're
-EXS	busy
-NIL	.

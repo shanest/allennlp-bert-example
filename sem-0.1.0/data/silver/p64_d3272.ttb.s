@@ -1,9 +1,0 @@
-GPE	Italians
-NOW	eat
-DIS	a
-IST	big
-CON	meal
-QUC	twice
-DIS	a
-CON	day
-NIL	.

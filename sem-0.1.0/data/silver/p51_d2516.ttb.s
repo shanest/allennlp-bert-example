@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	got
-SUB	to
-EXS	do
-HAS	my
-CON	homework
-NOW	now
-NIL	.

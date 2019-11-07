@@ -1,9 +1,0 @@
-PRO	I
-ENS	thank
-PRO	you
-REL	on
-CON	behalf
-AND	of
-HAS	my
-CON	son
-NIL	.

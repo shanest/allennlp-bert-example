@@ -1,9 +1,0 @@
-UNK	There
-HAS	's
-DIS	something
-PER	Tom
-NOW	has
-NOT	n't
-EXS	told
-PER	Mary
-NIL	.

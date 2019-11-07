@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	leaving
-REL	for
-GPE	Chicago
-AND	next
-DOW	Saturday
-CON	morning
-NIL	.

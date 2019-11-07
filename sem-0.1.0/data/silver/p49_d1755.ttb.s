@@ -1,9 +1,0 @@
-CON	Smiling
-NOW	is
-DIS	a
-IST	cheap
-CON	way
-SUB	to
-EXS	be
-MOR	prettier
-NIL	.

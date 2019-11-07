@@ -1,9 +1,0 @@
-PRO	I
-EPS	met
-PER	Tom
-REL	on
-HAS	my
-CON	way
-REL	to
-CON	school
-NIL	.

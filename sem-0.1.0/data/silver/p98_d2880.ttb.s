@@ -1,9 +1,0 @@
-PRO	He
-EPS	kept
-HAS	his
-CON	promise
-COO	and
-EPS	helped
-HAS	his
-CON	brothers
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-POS	ca
-NOT	n't
-EXS	hear
-QUE	what
-PRO	they
-NOW	're
-EXG	saying
-NIL	.

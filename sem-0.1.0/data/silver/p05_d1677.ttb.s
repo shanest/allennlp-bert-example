@@ -1,9 +1,0 @@
-PRO	I
-EPS	suggested
-SUB	that
-DEF	the
-CON	meeting
-EXS	be
-EXS	put
-REL	off
-NIL	.

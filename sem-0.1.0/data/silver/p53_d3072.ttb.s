@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	obvious
-SUB	that
-AND	that
-NOW	is
-DIS	a
-CON	lie
-NIL	.

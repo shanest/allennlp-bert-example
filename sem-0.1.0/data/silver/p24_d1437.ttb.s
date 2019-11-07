@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-IST	junior
-REL	to
-PRO	me
-REL	by
-QUC	two
-CON	years
-NIL	.

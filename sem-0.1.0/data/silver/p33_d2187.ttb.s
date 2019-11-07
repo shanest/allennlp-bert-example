@@ -1,9 +1,0 @@
-PRO	He
-EPS	gave
-PRO	them
-DIS	a
-CON	lift
-REL	to
-DEF	the
-CON	town
-NIL	.

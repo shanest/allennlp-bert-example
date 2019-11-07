@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	know
-QUE	how
-NIL	to
-EXS	address
-PRO	you
-NIL	.

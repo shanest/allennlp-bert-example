@@ -1,9 +1,0 @@
-PRO	I
-IST	really
-NOW	do
-ENS	need
-SUB	to
-EXS	speak
-REL	with
-PER	Tom
-NIL	.

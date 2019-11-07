@@ -1,9 +1,0 @@
-PER	Tom
-EPS	said
-PRO	he
-EPS	knew
-SUB	where
-PER	Mary
-PST	was
-EXS	going
-NIL	.

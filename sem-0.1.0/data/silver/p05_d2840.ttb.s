@@ -1,9 +1,0 @@
-DEF	The
-IST	coworker
-EPS	claimed
-PRO	he
-PST	had
-EXS	missed
-DEF	the
-CON	bus
-NIL	.

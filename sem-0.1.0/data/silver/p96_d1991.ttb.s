@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	enjoyed
-IST	good
-CON	health
-AND	all
-HAS	my
-CON	life
-NIL	.

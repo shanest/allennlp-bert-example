@@ -1,9 +1,0 @@
-DEF	The
-CON	telephone
-CON	rings
-NIL	.
-PER	Susan
-ENS	picks
-PRO	it
-IST	up
-NIL	.

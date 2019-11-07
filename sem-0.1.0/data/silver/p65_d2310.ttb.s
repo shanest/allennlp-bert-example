@@ -1,9 +1,0 @@
-GEO	Jerusalem
-NOW	is
-EXS	called
-NIL	"
-ORG	Yerushalayim
-NIL	"
-REL	in
-CON	Hebrew
-NIL	.

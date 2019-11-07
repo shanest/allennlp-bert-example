@@ -1,9 +1,0 @@
-PER	Tom
-EPS	asked
-PER	Mary
-SUB	to
-EXS	wait
-REL	in
-DEF	the
-CON	lobby
-NIL	.

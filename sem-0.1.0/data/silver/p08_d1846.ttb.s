@@ -1,9 +1,0 @@
-PER	Tom
-IST	finally
-EPS	realized
-SUB	that
-PRO	he
-PST	'd
-PFT	been
-EXS	wrong
-NIL	.

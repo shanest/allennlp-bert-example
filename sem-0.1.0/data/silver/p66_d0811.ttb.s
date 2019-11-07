@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	no
-IST	more
-CON	money
-REL	in
-HAS	my
-CON	wallet
-NIL	.

@@ -1,9 +1,0 @@
-PRO	We
-POS	can
-EXS	forgive
-NIL	,
-COO	but
-GEO	forgetting
-NOW	is
-EXS	impossible
-NIL	.

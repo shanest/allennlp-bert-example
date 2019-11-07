@@ -1,9 +1,0 @@
-ITJ	Hey
-NIL	,
-PRO	you
-NOW	've
-EXS	got
-SUB	to
-EXS	see
-PRX	this
-NIL	.

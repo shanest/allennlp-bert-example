@@ -1,9 +1,0 @@
-HAS	Their
-CON	trip
-NOW	has
-PFT	been
-EXS	cancelled
-IST	due
-REL	to
-CON	rain
-NIL	.

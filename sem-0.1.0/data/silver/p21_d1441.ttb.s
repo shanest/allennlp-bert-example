@@ -1,9 +1,0 @@
-HAS	His
-ROL	sister
-AND	and
-HAS	her
-CON	husband
-ENS	live
-REL	in
-GPE	Canada
-NIL	.

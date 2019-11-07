@@ -1,9 +1,0 @@
-HAS	His
-CON	family
-IST	really
-ENS	loves
-EXS	watching
-CON	television
-AND	every
-CON	day
-NIL	.

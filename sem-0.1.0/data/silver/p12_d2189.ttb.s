@@ -1,9 +1,0 @@
-PER	Tom
-EPS	got
-REL	up
-REL	at
-CLO	six
-AND	almost
-AND	every
-CON	day
-NIL	.

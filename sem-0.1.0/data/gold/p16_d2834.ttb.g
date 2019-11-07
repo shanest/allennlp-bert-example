@@ -1,9 +1,0 @@
-HAS	My
-ROL	brother
-PST	was
-EXS	killed
-REL	in
-DIS	a
-CON	traffic
-CON	accident
-NIL	.

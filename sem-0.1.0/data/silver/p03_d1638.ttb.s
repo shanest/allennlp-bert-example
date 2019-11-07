@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	n't
-EXS	seen
-PRX	these
-CON	pictures
-REL	in
-CON	years
-NIL	.

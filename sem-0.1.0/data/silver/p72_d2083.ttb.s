@@ -1,9 +1,0 @@
-PER	Betty
-FUT	will
-EXS	be
-IST	able
-SUB	to
-EXS	come
-REL	before
-CLO	noon
-NIL	.

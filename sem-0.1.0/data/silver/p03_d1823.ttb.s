@@ -1,9 +1,0 @@
-QUV	Many
-IST	foreign
-CON	people
-EXS	come
-REL	to
-GPE	Japan
-REL	to
-CON	work
-NIL	.

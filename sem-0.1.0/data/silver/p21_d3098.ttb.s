@@ -1,9 +1,0 @@
-SUB	While
-PRO	I
-PST	was
-EXS	speaking
-NIL	,
-PRO	he
-EPS	said
-NOT	nothing
-NIL	.

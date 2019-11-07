@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-IST	certain
-SUB	that
-PRO	he
-EPS	passed
-DEF	the
-CON	examination
-NIL	.

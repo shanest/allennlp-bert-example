@@ -1,9 +1,0 @@
-QUE	How
-QUV	many
-CON	proverbs
-NOW	have
-PRO	we
-EPS	learned
-IST	so
-IST	far
-QUE	?

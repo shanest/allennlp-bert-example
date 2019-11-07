@@ -1,9 +1,0 @@
-GRE	Hurry
-IST	up
-EQU	,
-PER	Tom
-NIL	,
-PRO	I
-NOW	'm
-EXG	freezing
-NIL	.

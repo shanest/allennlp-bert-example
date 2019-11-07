@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	no
-CON	one
-AND	else
-SUB	to
-EXS	talk
-SUB	to
-NIL	.

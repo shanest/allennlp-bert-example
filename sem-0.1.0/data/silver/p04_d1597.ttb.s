@@ -1,9 +1,0 @@
-NOW	Are
-PRX	these
-DEF	the
-CON	glasses
-PRO	you
-NOW	are
-EXG	looking
-REL	for
-QUE	?

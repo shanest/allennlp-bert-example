@@ -1,9 +1,0 @@
-PER	Tom
-EPS	bought
-PER	Mary
-DIS	a
-CON	purse
-REL	for
-HAS	her
-CON	birthday
-NIL	.

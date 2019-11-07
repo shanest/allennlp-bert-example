@@ -1,9 +1,0 @@
-PER	Tom
-EPS	looked
-IST	up
-REL	at
-PER	Mary
-AND	and
-EPS	smiled
-PER	nervously
-NIL	.

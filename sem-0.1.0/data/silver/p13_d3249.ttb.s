@@ -1,9 +1,0 @@
-GEO	Luxembourg
-NOW	is
-EXS	called
-NIL	"
-GPE	Luxemburg
-NIL	"
-REL	in
-GPO	German
-NIL	.

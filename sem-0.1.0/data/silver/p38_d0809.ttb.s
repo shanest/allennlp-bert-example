@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-DEF	the
-CON	history
-AND	of
-GEO	Europe
-INT	very
-IST	well
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-CON	sort
-AND	of
-EPS	took
-PRO	me
-REL	under
-HAS	his
-CON	wing
-NIL	.

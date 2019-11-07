@@ -1,9 +1,0 @@
-PRO	You
-NOW	are
-EXS	holding
-HAS	my
-CON	hand
-REL	in
-DST	that
-CON	picture
-NIL	.

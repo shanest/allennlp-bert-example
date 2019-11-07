@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-PST	got
-DIS	something
-REL	to
-CON	crack
-PRX	these
-CON	nuts
-QUE	?

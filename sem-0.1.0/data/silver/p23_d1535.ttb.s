@@ -1,9 +1,0 @@
-REL	After
-DEF	the
-CON	rain
-DEF	the
-CON	sun
-ENS	shines
-QUV	much
-COM	brighter
-NIL	.

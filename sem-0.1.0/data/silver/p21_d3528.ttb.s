@@ -1,9 +1,0 @@
-POS	May
-PRO	I
-NOW	speak
-REL	to
-PRO	you
-REL	for
-DIS	a
-CON	minute
-QUE	?

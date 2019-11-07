@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	decided
-SUB	to
-EXS	do
-QUE	whatever
-PRO	you
-NOW	ask
-NIL	.

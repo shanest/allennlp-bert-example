@@ -1,9 +1,0 @@
-PER	Tom
-ALT	also
-EPS	noticed
-SUB	that
-PER	Mary
-PST	was
-NOT	n't
-UNK	there
-NIL	.

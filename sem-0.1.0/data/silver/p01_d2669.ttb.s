@@ -1,9 +1,0 @@
-PRO	He
-ENS	drinks
-DIS	a
-CON	lot
-COO	but
-AND	always
-ENS	seems
-IST	sober
-NIL	.

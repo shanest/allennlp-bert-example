@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	got
-NOT	no
-CON	idea
-QUE	how
-PRO	it
-ENS	works
-NIL	.

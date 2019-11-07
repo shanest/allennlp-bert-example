@@ -1,9 +1,0 @@
-PER	Tom
-EPS	bought
-DEF	the
-IST	same
-CON	camera
-SUB	that
-PER	Mary
-ENS	has
-NIL	.

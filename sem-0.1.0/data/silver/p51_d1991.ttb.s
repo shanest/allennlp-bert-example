@@ -1,9 +1,0 @@
-PRO	He
-EPS	grew
-DIS	a
-CON	beard
-SUB	to
-EXS	look
-IST	more
-EXS	mature
-NIL	.

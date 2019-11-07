@@ -1,9 +1,0 @@
-PER	Emet
-EPS	sat
-REL	at
-HAS	my
-CON	bedside
-REL	for
-QUC	ten
-UOM	hours
-NIL	.

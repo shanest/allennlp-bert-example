@@ -1,9 +1,0 @@
-IST	Same-sex
-CON	couples
-NEC	should
-EXS	be
-IST	able
-SUB	to
-EXS	get
-EXS	married
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-EPS	closed
-HAS	his
-CON	eyes
-COO	and
-EPS	thought
-AND	about
-PER	Mary
-NIL	.

@@ -1,9 +1,0 @@
-GEO	Nakamatsu
-EPS	smiled
-IST	bitterly
-REL	at
-HAS	his
-IST	own
-IST	stupid
-CON	question
-NIL	.

@@ -1,9 +1,0 @@
-EXS	Keep
-HAS	your
-CON	room
-AND	as
-IST	neat
-SUB	as
-PRO	you
-POS	can
-NIL	.

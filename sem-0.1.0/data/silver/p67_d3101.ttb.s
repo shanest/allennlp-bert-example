@@ -1,9 +1,0 @@
-PRO	We
-NOW	are
-IST	likely
-SUB	to
-EXS	get
-UNK	there
-SUB	before
-EXS	dark
-NIL	.

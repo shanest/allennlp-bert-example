@@ -1,9 +1,0 @@
-EXS	Did
-PRO	you
-ENS	know
-SUB	that
-PRO	he
-EPS	bought
-DIS	a
-CON	condominium
-QUE	?

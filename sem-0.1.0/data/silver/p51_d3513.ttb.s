@@ -1,9 +1,0 @@
-PRO	I
-PST	was
-EXS	taking
-DIS	a
-CON	walk
-REL	with
-HAS	my
-CON	brother
-NIL	.

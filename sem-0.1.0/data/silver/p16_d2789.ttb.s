@@ -1,9 +1,0 @@
-PRO	She
-ENS	speaks
-ART	English
-NIL	,
-AND	and
-GPO	French
-AND	as
-IST	well
-NIL	.

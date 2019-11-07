@@ -1,9 +1,0 @@
-PRO	She
-ENS	works
-AND	as
-DIS	an
-ROL	assistant
-REL	to
-DEF	the
-CON	manager
-NIL	.

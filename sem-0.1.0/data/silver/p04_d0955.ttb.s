@@ -1,9 +1,0 @@
-PRO	They
-ENS	know
-QUE	how
-SUB	to
-EXS	make
-DIS	an
-IST	atomic
-CON	bomb
-NIL	.

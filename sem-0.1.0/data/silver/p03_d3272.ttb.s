@@ -1,9 +1,0 @@
-PRO	She
-NOW	's
-EXS	used
-SUB	to
-EXG	getting
-QUE	what
-PRO	she
-ENS	wants
-NIL	.

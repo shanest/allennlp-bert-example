@@ -1,9 +1,0 @@
-QUE	What
-CON	kind
-AND	of
-CON	job
-NOW	are
-PRO	you
-EXG	looking
-REL	for
-QUE	?

@@ -1,9 +1,0 @@
-CON	One
-NOW	is
-IST	apt
-SUB	to
-EXS	forget
-HAS	his
-IST	own
-CON	faults
-NIL	.

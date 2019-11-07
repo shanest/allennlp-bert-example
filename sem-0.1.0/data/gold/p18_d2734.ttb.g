@@ -1,6 +1,0 @@
-PRO	I
-ENS	owe
-PRO	him
-QUC	1000
-UOM	yen
-NIL	.

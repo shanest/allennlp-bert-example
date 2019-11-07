@@ -1,9 +1,0 @@
-PRO	I
-NOW	feel
-IST	ashamed
-AND	of
-EXT	having
-EXS	lost
-HAS	my
-CON	temper
-NIL	.

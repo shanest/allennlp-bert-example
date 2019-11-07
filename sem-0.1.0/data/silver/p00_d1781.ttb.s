@@ -1,9 +1,0 @@
-CON	War
-EXS	compelled
-CON	soldiers
-NIL	to
-EXS	go
-REL	to
-DEF	the
-CON	front
-NIL	.

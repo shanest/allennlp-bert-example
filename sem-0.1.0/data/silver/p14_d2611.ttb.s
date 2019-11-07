@@ -1,9 +1,0 @@
-DEF	The
-CON	radius
-AND	of
-DEF	the
-GEO	Earth
-NOW	is
-CON	6400
-UOM	km
-NIL	.

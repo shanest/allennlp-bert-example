@@ -1,9 +1,0 @@
-DEF	The
-CON	lady
-NOW	is
-QUC	forty
-CON	years
-COM	old
-REL	at
-TOP	most
-NIL	.

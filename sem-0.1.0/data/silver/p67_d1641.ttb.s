@@ -1,9 +1,0 @@
-AND	Maybe
-PRO	I
-NOW	've
-PFT	been
-IST	too
-EXS	hard
-REL	on
-PER	Tom
-NIL	.

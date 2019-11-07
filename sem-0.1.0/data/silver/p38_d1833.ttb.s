@@ -1,9 +1,0 @@
-PRO	He
-EPS	called
-IST	up
-HAS	his
-ROL	uncle
-REL	on
-EXS	reaching
-PER	Matsuyama
-NIL	.

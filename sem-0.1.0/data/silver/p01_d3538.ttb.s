@@ -1,9 +1,0 @@
-PRO	He
-EXS	instructed
-PRO	me
-NIL	to
-EXS	go
-REL	to
-CON	bed
-AND	early
-NIL	.

@@ -1,9 +1,0 @@
-DEF	The
-CON	woman
-AND	that
-EPS	called
-PST	yesterday
-NOW	has
-IST	already
-EXS	come
-NIL	.

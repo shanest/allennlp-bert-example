@@ -1,9 +1,0 @@
-PER	Tom
-EPS	made
-PRO	it
-IST	back
-REL	in
-CON	time
-REL	for
-CON	dinner
-NIL	.

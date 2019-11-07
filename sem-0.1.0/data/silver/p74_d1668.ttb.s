@@ -1,9 +1,0 @@
-PER	Tom
-ENS	has
-NOT	no
-CON	idea
-QUE	why
-PER	Mary
-PST	did
-SUB	that
-NIL	.

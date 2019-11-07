@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	got
-QUC	one
-CON	brother
-AND	and
-QUC	two
-ROL	sisters
-NIL	.

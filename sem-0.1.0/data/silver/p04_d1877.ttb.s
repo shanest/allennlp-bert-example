@@ -1,9 +1,0 @@
-PER	Tom
-EPS	tried
-SUB	to
-EXS	settle
-DEF	the
-CON	matter
-REL	with
-PER	Mary
-NIL	.

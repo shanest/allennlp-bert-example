@@ -1,9 +1,0 @@
-ROL	Mr
-PER	Yamaha
-EPS	gave
-DIS	some
-CON	walnuts
-REL	to
-DIS	a
-CON	beggar
-NIL	.

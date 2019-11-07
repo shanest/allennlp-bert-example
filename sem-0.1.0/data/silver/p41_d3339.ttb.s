@@ -1,9 +1,0 @@
-PER	Tom
-POS	ca
-NOT	n't
-EXS	be
-QUC	much
-MOR	older
-MOR	than
-PER	Mary
-NIL	.

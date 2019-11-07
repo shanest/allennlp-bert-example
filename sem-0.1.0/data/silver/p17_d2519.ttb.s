@@ -1,9 +1,0 @@
-PER	Tom
-EPS	watched
-DEF	the
-CON	news
-AND	every
-CON	day
-AND	last
-CON	week
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-ENS	has
-NOT	no
-CON	idea
-SUB	when
-PER	Mary
-FUT	will
-EXS	arrive
-NIL	.

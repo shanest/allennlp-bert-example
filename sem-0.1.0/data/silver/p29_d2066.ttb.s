@@ -1,9 +1,0 @@
-QUE	What
-PRO	you
-ENS	need
-DEF	the
-INT	most
-NOW	now
-NOW	is
-CON	courage
-NIL	.

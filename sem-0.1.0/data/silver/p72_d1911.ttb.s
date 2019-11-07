@@ -1,9 +1,0 @@
-PRO	She
-EPS	renewed
-DEF	the
-CON	soil
-REL	in
-DEF	the
-CON	flower
-CON	pot
-NIL	.

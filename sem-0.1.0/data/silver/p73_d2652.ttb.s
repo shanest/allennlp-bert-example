@@ -1,9 +1,0 @@
-DEF	The
-CON	subject
-NOW	has
-NOT	not
-ALT	yet
-PFT	been
-IST	fully
-EXS	explored
-NIL	.

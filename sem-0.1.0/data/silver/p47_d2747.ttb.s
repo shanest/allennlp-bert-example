@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-EXS	going
-SUB	to
-EXS	climb
-SUB	that
-EXS	mountain
-FUT	someday
-NIL	.

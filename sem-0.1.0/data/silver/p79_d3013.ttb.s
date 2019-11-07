@@ -1,9 +1,0 @@
-PRO	I
-IST	suddenly
-EPS	realized
-SUB	that
-HAS	my
-CON	watch
-PST	was
-EXS	gone
-NIL	.

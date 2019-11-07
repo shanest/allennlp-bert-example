@@ -1,9 +1,0 @@
-REL	In
-CON	comparison
-REL	with
-GEO	Tokyo
-EQU	,
-GPE	London
-NOW	is
-EXS	small
-NIL	.

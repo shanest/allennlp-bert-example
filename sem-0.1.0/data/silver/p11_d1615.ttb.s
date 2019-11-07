@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-PFT	been
-EXG	asking
-REF	myself
-SUB	that
-IST	same
-CON	question
-NIL	.

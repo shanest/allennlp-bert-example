@@ -1,9 +1,0 @@
-PRO	I
-POS	ca
-NOT	n't
-EXS	stand
-PRO	him
-EXG	suffering
-IST	so
-QUV	much
-NIL	.

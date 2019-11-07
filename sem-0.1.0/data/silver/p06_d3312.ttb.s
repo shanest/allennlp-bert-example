@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-IST	difficult
-SUB	to
-EXS	tell
-DEF	the
-IST	bare
-CON	facts
-NIL	.

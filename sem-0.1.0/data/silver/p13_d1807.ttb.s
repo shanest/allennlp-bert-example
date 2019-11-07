@@ -1,9 +1,0 @@
-DEF	The
-ROL	inventor
-NOW	is
-EXS	known
-AND	all
-AND	over
-DEF	the
-CON	world
-NIL	.

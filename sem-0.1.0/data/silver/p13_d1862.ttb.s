@@ -1,9 +1,0 @@
-DEF	The
-ROL	reporter
-EPS	took
-IST	down
-AND	everything
-DST	that
-PST	was
-EXS	said
-NIL	.

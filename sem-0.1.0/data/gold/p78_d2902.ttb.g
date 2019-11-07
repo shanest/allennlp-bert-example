@@ -1,9 +1,0 @@
-DEF	The
-CON	road
-NOW	is
-IST	straight
-REL	for
-MOR	over
-QUC	ten
-UOM	miles
-NIL	.

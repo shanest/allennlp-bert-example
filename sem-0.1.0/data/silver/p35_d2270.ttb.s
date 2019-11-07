@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-QUE	what
-PER	Tom
-PST	was
-EXS	trying
-SUB	to
-EXS	do
-NIL	.

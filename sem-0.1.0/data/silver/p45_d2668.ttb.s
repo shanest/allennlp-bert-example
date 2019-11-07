@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-EXS	going
-SUB	to
-CON	rain
-NIL	,
-REL	for
-IST	sure
-NIL	.

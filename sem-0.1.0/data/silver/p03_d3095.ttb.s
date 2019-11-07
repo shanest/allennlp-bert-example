@@ -1,9 +1,0 @@
-AND	Why
-PST	was
-PER	Marika
-SUB	so
-EXS	interested
-REL	in
-GPO	Japanese
-CON	culture
-QUE	?

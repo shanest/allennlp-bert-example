@@ -1,9 +1,0 @@
-DEF	The
-CON	pain
-REL	in
-HAS	my
-CON	back
-NOW	is
-EXS	getting
-COM	worse
-NIL	.

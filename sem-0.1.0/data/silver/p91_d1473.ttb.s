@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	dying
-REL	for
-DIS	a
-CON	cup
-AND	of
-CON	coffee
-NIL	.

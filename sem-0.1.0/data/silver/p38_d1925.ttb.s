@@ -1,9 +1,0 @@
-IST	Delicious
-EXG	looking
-CON	food
-NOW	does
-NOT	n't
-EXS	necessarily
-CON	taste
-IST	good
-NIL	.

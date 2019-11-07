@@ -1,9 +1,0 @@
-PER	Tom
-EPS	asked
-PER	Mary
-SUB	to
-EXS	help
-PRO	him
-EXS	reinstall
-ART	Windows
-NIL	.

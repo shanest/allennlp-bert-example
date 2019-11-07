@@ -1,9 +1,0 @@
-PRO	He
-EPS	fell
-IST	asleep
-REL	in
-CON	class
-COO	and
-EPS	started
-EXG	snoring
-NIL	.

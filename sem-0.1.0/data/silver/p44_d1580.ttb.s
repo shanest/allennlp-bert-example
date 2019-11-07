@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-DIS	a
-CON	message
-REL	for
-PRO	you
-REL	from
-PER	Tom
-NIL	.

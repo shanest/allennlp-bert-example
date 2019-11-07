@@ -1,9 +1,0 @@
-CON	Time
-PST	was
-REL	in
-IST	short
-CON	supply
-REL	on
-DOW	Friday
-CON	morning
-NIL	.

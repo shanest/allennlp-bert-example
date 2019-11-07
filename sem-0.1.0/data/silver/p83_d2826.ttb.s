@@ -1,9 +1,0 @@
-PRO	You
-NOW	're
-EXS	sitting
-ALT	too
-EXS	close
-REL	to
-DEF	the
-CON	TV
-NIL	.

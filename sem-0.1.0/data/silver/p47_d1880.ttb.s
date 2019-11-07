@@ -1,9 +1,0 @@
-PER	Tom
-COO	and
-PRO	I
-NOW	are
-AND	both
-EXS	waiting
-REL	for
-PER	Mary
-NIL	.

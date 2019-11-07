@@ -1,9 +1,0 @@
-PER	Tom
-EPS	overpowered
-DEF	the
-CON	guard
-COO	and
-EPS	took
-HAS	his
-CON	gun
-NIL	.

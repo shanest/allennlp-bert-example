@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	waiting
-REL	for
-DIS	a
-CON	call
-REL	from
-PER	Tom
-NIL	.

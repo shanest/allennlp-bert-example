@@ -1,9 +1,0 @@
-PER	Will
-PRO	you
-EPS	put
-PRO	us
-IST	up
-REL	for
-QUC	one
-CON	night
-QUE	?

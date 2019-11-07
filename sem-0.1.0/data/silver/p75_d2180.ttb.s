@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	working
-NIL	,
-BUT	but
-PRO	you
-NOW	're
-NOT	not
-NIL	.

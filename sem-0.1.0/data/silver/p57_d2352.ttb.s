@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-DEF	the
-IST	exact
-CON	time
-SUB	when
-SUB	that
-EXS	happened
-NIL	.

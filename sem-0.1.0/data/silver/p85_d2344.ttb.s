@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-NOW	have
-DEF	the
-IST	same
-CON	hair
-CON	color
-NIL	.

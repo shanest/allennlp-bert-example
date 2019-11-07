@@ -1,9 +1,0 @@
-PRO	They
-AND	all
-EPS	gazed
-REL	at
-DEF	the
-CON	magician
-HAS	's
-CON	movements
-NIL	.

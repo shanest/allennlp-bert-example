@@ -1,9 +1,0 @@
-CON	Teenagers
-NOW	are
-CON	God
-HAS	's
-CON	punishment
-REL	for
-EXS	having
-CON	sex
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-PFT	been
-EXS	learning
-GPO	French
-REL	for
-QUC	two
-CON	years
-NIL	.

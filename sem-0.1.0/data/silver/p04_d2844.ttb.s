@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-PRO	we
-NEC	should
-EXS	talk
-AND	about
-PRX	this
-NOW	now
-NIL	.

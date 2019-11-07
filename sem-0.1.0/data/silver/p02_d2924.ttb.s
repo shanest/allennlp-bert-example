@@ -1,9 +1,0 @@
-QUE	What
-CON	time
-FUT	will
-DEF	the
-CON	flight
-ENS	arrive
-REL	in
-GPE	Tokyo
-QUE	?

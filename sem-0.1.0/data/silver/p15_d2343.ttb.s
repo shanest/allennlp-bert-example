@@ -1,9 +1,0 @@
-NOW	Do
-NOT	n't
-EXS	talk
-REL	to
-HAS	your
-ROL	mother
-AND	like
-DST	that
-NIL	!

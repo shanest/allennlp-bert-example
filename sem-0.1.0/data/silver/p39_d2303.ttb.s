@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-EXT	had
-NOT	no
-CON	news
-REL	from
-PRO	him
-ALT	yet
-NIL	.

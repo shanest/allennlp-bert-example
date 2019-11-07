@@ -1,9 +1,0 @@
-PRO	I
-PST	had
-IST	always
-EXS	supposed
-SUB	that
-PER	Tom
-PST	was
-EXS	innocent
-NIL	.

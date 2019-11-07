@@ -1,9 +1,0 @@
-PER	Tom
-EPS	wondered
-SUB	where
-PRO	he
-PST	was
-EXS	supposed
-SUB	to
-EXS	sit
-NIL	.

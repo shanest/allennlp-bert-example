@@ -1,9 +1,0 @@
-NOW	Is
-PRX	this
-DIS	a
-CON	picture
-SUB	that
-PRO	you
-REF	yourself
-EPS	drew
-QUE	?

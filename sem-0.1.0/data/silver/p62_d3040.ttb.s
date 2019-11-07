@@ -1,9 +1,0 @@
-PRO	I
-POS	can
-NOT	except
-NOT	no
-CON	one
-REL	from
-DEF	the
-CON	rules
-NIL	.

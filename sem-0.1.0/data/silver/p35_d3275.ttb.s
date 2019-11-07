@@ -1,9 +1,0 @@
-PRO	I
-ENS	need
-DIS	some
-CON	sugar
-SUB	to
-EXS	make
-DIS	a
-CON	cake
-NIL	.

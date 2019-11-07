@@ -1,9 +1,0 @@
-EXS	Let
-PER	Tom
-EXS	know
-PRO	we
-NOW	've
-EXS	got
-DIS	a
-CON	problem
-NIL	.

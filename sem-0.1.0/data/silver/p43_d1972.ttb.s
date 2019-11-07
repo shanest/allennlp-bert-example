@@ -1,9 +1,0 @@
-PRO	It
-HAS	's
-IST	just
-DIS	a
-CON	job
-NIL	,
-PRO	you
-ENS	know
-QUE	?

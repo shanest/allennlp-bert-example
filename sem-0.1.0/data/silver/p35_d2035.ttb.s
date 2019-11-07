@@ -1,9 +1,0 @@
-PER	Tom
-ENS	claims
-PRO	he
-EPS	shot
-PER	Mary
-REL	in
-IST	self
-CON	defense
-NIL	.

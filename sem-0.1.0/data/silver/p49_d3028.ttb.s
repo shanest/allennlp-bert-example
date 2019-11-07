@@ -1,9 +1,0 @@
-PER	Tom
-EPS	showed
-PER	Mary
-QUE	how
-SUB	to
-EXS	sharpen
-DIS	a
-CON	knife
-NIL	.

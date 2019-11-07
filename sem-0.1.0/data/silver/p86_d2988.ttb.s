@@ -1,9 +1,0 @@
-PRO	You
-NOW	do
-NOT	n't
-EXS	need
-SUB	to
-EXS	leave
-IST	right
-NOW	now
-NIL	.

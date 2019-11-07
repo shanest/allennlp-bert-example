@@ -1,9 +1,0 @@
-PRO	I
-EPS	bought
-XCL	only
-QUC	one
-CON	sheep
-REL	at
-DEF	the
-CON	market
-NIL	.

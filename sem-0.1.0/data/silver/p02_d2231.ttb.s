@@ -1,9 +1,0 @@
-EXS	Let
-PRO	's
-ENS	sit
-IST	down
-COO	and
-ENS	have
-DIS	a
-CON	beer
-NIL	.

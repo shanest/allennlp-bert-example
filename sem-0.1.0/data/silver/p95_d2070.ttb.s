@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-PRO	they
-NOW	're
-EXS	trying
-SUB	to
-EXS	intimidate
-PRO	us
-NIL	.

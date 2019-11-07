@@ -1,9 +1,0 @@
-PRO	We
-EPS	played
-CON	golf
-REL	in
-CON	spite
-AND	of
-DEF	the
-CON	rain
-NIL	.

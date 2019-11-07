@@ -1,9 +1,0 @@
-PER	Tom
-EPS	told
-PER	Mary
-SUB	that
-HAS	her
-GPO	French
-PST	was
-EXS	good
-NIL	.

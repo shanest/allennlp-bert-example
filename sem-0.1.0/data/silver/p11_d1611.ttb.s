@@ -1,9 +1,0 @@
-POS	May
-PRO	I
-NOW	have
-DIS	an
-CON	advance
-REL	on
-HAS	my
-CON	salary
-QUE	?

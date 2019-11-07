@@ -1,9 +1,0 @@
-PRO	It
-HAS	's
-INT	about
-CON	time
-PRO	I
-PST	was
-EXS	going
-CON	home
-NIL	.

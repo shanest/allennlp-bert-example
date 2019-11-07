@@ -1,9 +1,0 @@
-PRO	You
-NEC	must
-EXS	give
-PRO	me
-QUC	500
-UOM	dollars
-IST	right
-NOW	now
-NIL	.

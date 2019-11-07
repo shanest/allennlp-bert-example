@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	remember
-SUB	when
-PRO	you
-IST	last
-EPS	saw
-PER	Tom
-QUE	?

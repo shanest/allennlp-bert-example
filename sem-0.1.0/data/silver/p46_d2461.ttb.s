@@ -1,9 +1,0 @@
-PER	Mariko
-EPS	studied
-NOT	not
-XCL	only
-GPO	English
-BUT	but
-ALT	also
-GPO	German
-NIL	.

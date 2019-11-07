@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	spending
-REL	Christmas
-PER	Eve
-REL	with
-HAS	my
-CON	family
-NIL	.

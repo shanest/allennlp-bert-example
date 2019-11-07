@@ -1,9 +1,0 @@
-PRO	I
-EPS	got
-DIS	a
-ROL	driver
-HAS	's
-CON	license
-REL	at
-IST	last
-NIL	.

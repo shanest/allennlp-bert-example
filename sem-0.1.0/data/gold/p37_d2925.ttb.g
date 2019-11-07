@@ -1,9 +1,0 @@
-PRO	You
-EPS	put
-INT	too
-QUV	much
-CON	stuff
-REL	in
-HAS	your
-CON	wallet
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-NOW	does
-NOT	n't
-EXS	seem
-AND	particularly
-EXS	interested
-REL	in
-PER	Mary
-NIL	.

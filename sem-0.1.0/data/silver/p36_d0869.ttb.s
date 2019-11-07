@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	easy
-SUB	to
-EXS	learn
-DIS	a
-IST	foreign
-CON	language
-NIL	.

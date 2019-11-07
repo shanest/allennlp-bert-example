@@ -1,9 +1,0 @@
-PRO	He
-EPS	took
-DEF	the
-CON	elevator
-REL	to
-DEF	the
-ORD	5th
-CON	floor
-NIL	.

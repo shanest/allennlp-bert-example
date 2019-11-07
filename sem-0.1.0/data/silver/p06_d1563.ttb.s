@@ -1,9 +1,0 @@
-PER	Thao
-NOW	is
-EXS	like
-CON	Joey
-REL	in
-NIL	"
-PER	Shane
-NIL	"
-NIL	.

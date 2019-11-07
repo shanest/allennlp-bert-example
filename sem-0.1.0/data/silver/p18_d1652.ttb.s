@@ -1,9 +1,0 @@
-PRO	He
-EPS	wore
-DIS	a
-CON	coat
-INT	too
-IST	large
-REL	for
-PRO	him
-NIL	.

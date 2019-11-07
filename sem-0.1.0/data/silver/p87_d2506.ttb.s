@@ -1,9 +1,0 @@
-PRO	I
-EPS	found
-PRO	it
-UNK	necessary
-SUB	to
-EXS	get
-DIS	a
-CON	loan
-NIL	.

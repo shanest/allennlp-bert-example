@@ -1,9 +1,0 @@
-PRO	He
-PST	was
-EXG	holding
-DIS	a
-CON	pen
-REL	in
-HAS	his
-CON	hand
-NIL	.

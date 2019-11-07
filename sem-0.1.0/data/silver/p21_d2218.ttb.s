@@ -1,9 +1,0 @@
-PRO	I
-EPS	found
-AND	out
-PER	Tom
-ENS	has
-DIS	a
-IST	criminal
-CON	record
-NIL	.

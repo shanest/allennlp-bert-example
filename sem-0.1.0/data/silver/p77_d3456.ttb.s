@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-NOT	n't
-EXS	listened
-REL	to
-DEF	the
-CON	song
-ALT	yet
-NIL	.

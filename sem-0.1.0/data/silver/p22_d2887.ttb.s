@@ -1,9 +1,0 @@
-PER	Tom
-NOW	spends
-INT	too
-QUV	much
-CON	time
-REL	on
-DEF	the
-CON	computer
-NIL	.

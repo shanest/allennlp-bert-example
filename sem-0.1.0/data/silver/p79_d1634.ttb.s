@@ -1,9 +1,0 @@
-PER	Tom
-PST	looked
-INT	very
-EXS	tired
-SUB	when
-PRO	he
-EPS	got
-CON	home
-NIL	.

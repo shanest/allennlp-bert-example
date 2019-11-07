@@ -1,9 +1,0 @@
-PRO	He
-EPS	denied
-EXT	having
-PFT	been
-EXS	involved
-REL	in
-DEF	the
-CON	affair
-NIL	.

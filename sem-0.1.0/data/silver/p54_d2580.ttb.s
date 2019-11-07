@@ -1,9 +1,0 @@
-PRX	This
-CON	bed
-NOW	is
-INT	too
-EXS	hard
-SUB	to
-EXS	sleep
-REL	in
-NIL	.

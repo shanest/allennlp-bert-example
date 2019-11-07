@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-IST	hard
-SUB	to
-EXS	learn
-DIS	a
-IST	foreign
-CON	language
-NIL	.

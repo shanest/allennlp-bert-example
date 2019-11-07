@@ -1,9 +1,0 @@
-GPE	France
-AND	and
-GPE	Britain
-PST	were
-REL	at
-CON	war
-AND	once
-ALT	again
-NIL	.

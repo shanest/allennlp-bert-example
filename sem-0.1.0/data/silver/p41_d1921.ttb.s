@@ -1,9 +1,0 @@
-PRO	It
-PST	was
-EXS	raining
-SUB	when
-PRO	I
-EPS	took
-DEF	the
-CON	bus
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-EPS	walked
-DEF	the
-IST	whole
-CON	way
-REL	to
-DEF	the
-CON	station
-NIL	.

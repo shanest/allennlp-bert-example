@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-IST	still
-NOT	not
-EXS	accustomed
-REL	to
-CON	city
-CON	life
-NIL	.

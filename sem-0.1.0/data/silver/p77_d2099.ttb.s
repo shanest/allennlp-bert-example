@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-NOT	never
-PFT	been
-EXS	spoken
-SUB	to
-EXS	like
-DST	that
-NIL	.

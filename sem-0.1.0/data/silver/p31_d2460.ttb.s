@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-FUT	will
-IST	probably
-EXS	come
-REL	by
-CON	cab
-NIL	.

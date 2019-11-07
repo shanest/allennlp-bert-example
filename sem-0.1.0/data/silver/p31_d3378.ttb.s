@@ -1,9 +1,0 @@
-PRO	You
-ENS	know
-DEF	the
-CON	way
-NIL	,
-NOW	do
-NOT	n't
-PRO	you
-QUE	?

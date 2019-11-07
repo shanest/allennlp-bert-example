@@ -1,9 +1,0 @@
-PER	Tom
-EPS	saw
-PER	Mary
-EXG	sitting
-EXS	alone
-REL	at
-HAS	her
-CON	desk
-NIL	.

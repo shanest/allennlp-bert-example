@@ -1,9 +1,0 @@
-HAS	My
-CON	house
-NOW	is
-EXS	designed
-NIL	to
-EXS	withstand
-DIS	an
-CON	earthquake
-NIL	.

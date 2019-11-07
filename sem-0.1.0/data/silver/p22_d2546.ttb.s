@@ -1,9 +1,0 @@
-QUE	What
-PST	were
-PRO	you
-EXG	doing
-AND	about
-PRX	this
-CON	time
-PST	yesterday
-QUE	?

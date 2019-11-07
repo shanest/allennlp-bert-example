@@ -1,9 +1,0 @@
-HAS	My
-ROL	father
-NOW	has
-EXS	quit
-CON	smoking
-REL	for
-HAS	his
-CON	health
-NIL	.

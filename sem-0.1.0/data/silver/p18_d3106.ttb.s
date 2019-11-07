@@ -1,9 +1,0 @@
-PRX	This
-NOW	is
-HAS	mine
-NIL	,
-COO	and
-SUB	that
-HAS	's
-HAS	yours
-NIL	.

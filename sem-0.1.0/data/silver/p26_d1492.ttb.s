@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-PFT	been
-EXS	taken
-REL	to
-DIS	a
-IST	nearby
-CON	hospital
-NIL	.

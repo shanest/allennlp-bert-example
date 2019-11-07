@@ -1,9 +1,0 @@
-QUE	How
-QUV	many
-CON	classes
-NOW	do
-PRO	you
-NOW	have
-REL	on
-DOW	Monday
-QUE	?

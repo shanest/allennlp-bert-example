@@ -1,9 +1,0 @@
-PER	Bill
-EPS	took
-HAS	his
-IST	little
-CON	brother
-REL	to
-DEF	the
-CON	zoo
-NIL	.

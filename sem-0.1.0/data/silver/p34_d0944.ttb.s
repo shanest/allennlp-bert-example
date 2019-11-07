@@ -1,9 +1,0 @@
-REL	In
-HAS	my
-CON	opinion
-NIL	,
-CON	Esperanto
-NOW	is
-INT	very
-EXS	important
-NIL	.

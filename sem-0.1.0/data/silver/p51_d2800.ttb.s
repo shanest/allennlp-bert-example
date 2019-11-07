@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-IST	always
-UNK	difficult
-SUB	to
-EXS	start
-DIS	a
-CON	letter
-NIL	.

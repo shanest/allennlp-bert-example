@@ -1,9 +1,0 @@
-PER	Tom
-ENS	says
-PER	Mary
-PST	was
-NOT	n't
-REL	at
-DEF	the
-CON	meeting
-NIL	.

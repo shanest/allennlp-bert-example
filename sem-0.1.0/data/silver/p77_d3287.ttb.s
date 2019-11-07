@@ -1,9 +1,0 @@
-DEF	The
-CON	agitator
-NOW	is
-IST	inclined
-SUB	to
-EXS	exaggerate
-IST	trivial
-CON	matters
-NIL	.

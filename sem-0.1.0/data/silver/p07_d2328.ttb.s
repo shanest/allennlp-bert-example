@@ -1,9 +1,0 @@
-PRO	She
-ENS	's
-REL	in
-DIS	a
-INT	fairly
-IST	bad
-CON	mood
-NOW	now
-NIL	.

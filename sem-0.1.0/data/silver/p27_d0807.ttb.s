@@ -1,9 +1,0 @@
-QUC	Three
-CON	babies
-EXS	crying
-CON	incessantly
-EPS	gave
-PRO	me
-DIS	a
-CON	headache
-NIL	.

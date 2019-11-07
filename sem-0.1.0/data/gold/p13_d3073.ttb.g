@@ -1,9 +1,0 @@
-DEF	The
-CON	tree
-ENS	throws
-DIS	a
-CON	shadow
-REL	on
-DEF	the
-CON	grass
-NIL	.

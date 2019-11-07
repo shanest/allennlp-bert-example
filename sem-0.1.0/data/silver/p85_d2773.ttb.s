@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	not
-EXS	eaten
-AND	anything
-REL	in
-QUC	six
-CON	days
-NIL	.

@@ -1,9 +1,0 @@
-DEF	The
-ROL	chairman
-HAS	's
-CON	office
-NOW	is
-REL	to
-DEF	the
-CON	left
-NIL	.

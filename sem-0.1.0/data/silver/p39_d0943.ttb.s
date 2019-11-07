@@ -1,9 +1,0 @@
-PRO	I
-EPS	surfed
-NOW	today
-REL	for
-HAS	my
-IST	first
-CON	time
-IST	ever
-NIL	.

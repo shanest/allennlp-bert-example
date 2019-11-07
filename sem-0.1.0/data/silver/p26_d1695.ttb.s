@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-QUE	how
-QUV	many
-AND	of
-PRO	them
-IST	there
-NOW	are
-NIL	.

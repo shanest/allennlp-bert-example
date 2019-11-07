@@ -1,9 +1,0 @@
-NOT	No
-CON	one
-POS	can
-EXS	stop
-PRO	me
-REL	from
-EXS	going
-IST	there
-NIL	.

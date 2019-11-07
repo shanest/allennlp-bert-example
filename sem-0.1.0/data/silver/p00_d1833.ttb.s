@@ -1,9 +1,0 @@
-PRO	I
-ENS	think
-PER	Tom
-NOW	has
-EXT	come
-NIL	to
-EXS	make
-CON	trouble
-NIL	.

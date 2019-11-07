@@ -1,9 +1,0 @@
-PRO	It
-PST	was
-PER	Tom
-HAS	's
-CON	fault
-NIL	,
-PRO	you
-ENS	know
-NIL	.

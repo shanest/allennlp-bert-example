@@ -1,9 +1,0 @@
-PRO	He
-EPS	showed
-CON	courage
-REL	in
-DEF	the
-CON	face
-AND	of
-CON	danger
-NIL	.

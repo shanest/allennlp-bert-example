@@ -1,9 +1,0 @@
-PRO	We
-NOW	're
-EXS	safe
-NOW	now
-NIL	,
-NOW	are
-NOT	n't
-PRO	we
-QUE	?

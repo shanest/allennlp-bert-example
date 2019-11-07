@@ -1,9 +1,0 @@
-PRO	I
-POS	ca
-NOT	n't
-EXS	talk
-REL	to
-PER	Tom
-AND	about
-AND	anything
-NIL	.

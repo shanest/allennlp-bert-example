@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-IST	probably
-DIS	a
-CON	bit
-COM	older
-MOR	than
-PER	Mary
-NIL	.

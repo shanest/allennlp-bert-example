@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	have
-AND	any
-CON	objection
-REL	to
-PRX	this
-CON	plan
-QUE	?

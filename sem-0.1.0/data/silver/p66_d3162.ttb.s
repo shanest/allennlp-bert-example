@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-IST	important
-SUB	that
-PRO	you
-NOW	share
-HAS	your
-CON	pain
-NIL	.

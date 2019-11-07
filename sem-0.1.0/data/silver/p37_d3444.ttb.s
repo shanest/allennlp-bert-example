@@ -1,9 +1,0 @@
-PER	Tom
-ENS	refuses
-SUB	to
-EXS	buy
-AND	anything
-EXS	made
-REL	in
-GPE	China
-NIL	.

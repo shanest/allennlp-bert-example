@@ -1,9 +1,0 @@
-NOW	Does
-PER	Tom
-ENS	know
-SUB	that
-PER	Mary
-NOW	is
-HAS	his
-ROL	mother
-QUE	?

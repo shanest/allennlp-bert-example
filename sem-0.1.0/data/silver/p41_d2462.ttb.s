@@ -1,9 +1,0 @@
-CON	Step
-IST	aside
-NIL	.
-PRO	You
-NOW	're
-EXS	blocking
-DEF	the
-CON	way
-NIL	.

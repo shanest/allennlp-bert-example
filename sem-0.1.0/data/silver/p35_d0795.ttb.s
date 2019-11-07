@@ -1,9 +1,0 @@
-PER	Jack
-PST	was
-NOT	never
-SUB	to
-EXS	see
-HAS	his
-ROL	sister
-ALT	again
-NIL	.

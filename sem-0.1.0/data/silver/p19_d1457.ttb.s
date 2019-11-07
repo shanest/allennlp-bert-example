@@ -1,9 +1,0 @@
-QUE	How
-QUV	much
-CON	drinking
-CON	water
-NOW	do
-PRO	we
-NOW	have
-EXS	left
-QUE	?

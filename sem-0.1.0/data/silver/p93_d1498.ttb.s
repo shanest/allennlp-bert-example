@@ -1,9 +1,0 @@
-GPE	Finland
-NOW	is
-EXS	called
-NIL	"
-PER	Suomi
-NIL	"
-REL	in
-GPO	Finnish
-NIL	.

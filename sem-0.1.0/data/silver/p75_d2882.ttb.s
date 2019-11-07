@@ -1,9 +1,0 @@
-DEF	The
-ROL	teacher
-EPS	told
-PRO	me
-SUB	that
-PER	Hitler
-EPS	killed
-REF	himself
-NIL	.

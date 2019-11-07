@@ -1,9 +1,0 @@
-DEF	The
-CON	pidgeons
-REL	of
-GEO	Boston
-NOW	are
-IST	fat
-AND	and
-IST	proud
-NIL	.

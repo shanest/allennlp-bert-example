@@ -1,9 +1,0 @@
-DEF	The
-CON	newspaper
-EPS	said
-SUB	that
-DIS	a
-CON	typhoon
-PST	was
-EXG	approaching
-NIL	.

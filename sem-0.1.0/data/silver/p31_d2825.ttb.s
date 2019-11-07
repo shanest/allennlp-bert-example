@@ -1,9 +1,0 @@
-PRO	I
-FUT	'd
-EXS	like
-SUB	to
-EXS	take
-HAS	my
-CON	jacket
-REL	off
-NIL	.

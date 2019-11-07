@@ -1,9 +1,0 @@
-PRO	He
-ENS	has
-DEF	the
-CON	advantage
-AND	of
-DIS	a
-IST	good
-CON	education
-NIL	.

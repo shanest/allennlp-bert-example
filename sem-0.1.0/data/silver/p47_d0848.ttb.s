@@ -1,9 +1,0 @@
-FUT	Will
-PRO	she
-EXS	be
-IST	able
-SUB	to
-EXS	finish
-PRO	it
-NOW	today
-QUE	?

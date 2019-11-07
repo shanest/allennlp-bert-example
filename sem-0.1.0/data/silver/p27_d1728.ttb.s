@@ -1,9 +1,0 @@
-PRO	I
-FUT	will
-EXS	respond
-REL	to
-AND	both
-AND	of
-HAS	your
-CON	letters
-NIL	.

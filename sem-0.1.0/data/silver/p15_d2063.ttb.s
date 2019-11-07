@@ -1,9 +1,0 @@
-PER	Tom
-ENS	has
-SUB	to
-EXS	be
-IST	back
-CON	home
-REL	by
-CLO	2:30
-NIL	.

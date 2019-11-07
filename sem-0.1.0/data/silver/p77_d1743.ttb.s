@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	moving
-AND	as
-IST	fast
-SUB	as
-PRO	I
-POS	can
-NIL	.

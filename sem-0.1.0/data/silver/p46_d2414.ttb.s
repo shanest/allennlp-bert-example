@@ -1,9 +1,0 @@
-PRO	You
-NEC	ought
-SUB	to
-EXS	know
-IST	better
-REL	at
-HAS	your
-CON	age
-NIL	.

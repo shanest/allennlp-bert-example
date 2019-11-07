@@ -1,9 +1,0 @@
-EXS	Keep
-AND	all
-CON	medicines
-AND	out
-AND	of
-EXS	reach
-AND	of
-CON	children
-NIL	.

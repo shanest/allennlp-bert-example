@@ -1,9 +1,0 @@
-PRO	He
-ENS	goes
-REL	to
-CON	school
-SUB	to
-EXS	study
-AND	every
-CON	day
-NIL	.

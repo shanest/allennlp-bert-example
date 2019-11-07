@@ -1,9 +1,0 @@
-PRO	She
-EPS	spoke
-IST	out
-IST	strongly
-AND	against
-CON	cruelty
-REL	to
-CON	animals
-NIL	.

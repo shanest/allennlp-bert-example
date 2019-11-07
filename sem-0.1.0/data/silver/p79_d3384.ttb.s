@@ -1,9 +1,0 @@
-PRO	I
-ENS	wish
-PRO	I
-PST	had
-IST	more
-SUB	to
-EXS	give
-PRO	you
-NIL	.

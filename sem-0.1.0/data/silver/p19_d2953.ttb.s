@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-DEF	the
-INT	most
-IST	boring
-CON	person
-PRO	I
-ENS	know
-NIL	.

@@ -1,9 +1,0 @@
-ITJ	Oh
-HAS	my
-CON	God
-NIL	,
-PER	Mary
-NOW	has
-EXS	done
-PRO	it
-NIL	!

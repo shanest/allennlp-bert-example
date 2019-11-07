@@ -1,9 +1,0 @@
-PER	Tom
-EPS	accused
-PER	Mary
-AND	of
-CON	drinking
-AND	like
-DIS	a
-CON	fish
-NIL	.

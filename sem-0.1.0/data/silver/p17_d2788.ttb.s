@@ -1,9 +1,0 @@
-PER	Tom
-EPS	ate
-DEF	the
-CON	orange
-NOT	without
-EXG	peeling
-PRO	it
-IST	first
-NIL	.

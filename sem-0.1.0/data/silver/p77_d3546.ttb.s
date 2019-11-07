@@ -1,9 +1,0 @@
-REL	In
-DEF	the
-CON	case
-AND	of
-CON	fire
-NIL	,
-EXS	dial
-CTC	119
-NIL	.

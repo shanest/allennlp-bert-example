@@ -1,9 +1,0 @@
-PRO	She
-NOW	is
-EXS	known
-SUB	as
-EXS	auntie
-REL	at
-DEF	the
-CON	office
-NIL	.

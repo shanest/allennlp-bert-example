@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-PFT	been
-EXS	arrested
-TOP	at
-TOP	least
-QUC	three
-CON	times
-NIL	.

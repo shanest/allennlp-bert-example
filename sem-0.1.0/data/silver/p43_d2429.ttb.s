@@ -1,9 +1,0 @@
-EXS	Tell
-PER	Tom
-AND	that
-PER	Mary
-ENS	wants
-SUB	to
-EXS	see
-PRO	him
-NIL	.

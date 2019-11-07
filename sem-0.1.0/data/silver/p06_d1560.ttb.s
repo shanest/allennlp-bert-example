@@ -1,9 +1,0 @@
-DIS	Some
-CON	fish
-NOW	are
-IST	able
-SUB	to
-EXS	change
-HAS	their
-CON	gender
-NIL	.

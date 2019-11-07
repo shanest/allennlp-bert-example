@@ -1,9 +1,0 @@
-PRO	He
-EPS	saw
-REF	himself
-AND	as
-DEF	the
-CON	world
-HAS	's
-CON	savior
-NIL	.

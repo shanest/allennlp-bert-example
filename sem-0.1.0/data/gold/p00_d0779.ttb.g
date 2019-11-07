@@ -1,9 +1,0 @@
-DEF	The
-CON	satellite
-NOW	is
-REL	in
-CON	orbit
-REL	around
-DEF	the
-CON	moon
-NIL	.

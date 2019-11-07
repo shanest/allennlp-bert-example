@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-IST	ever
-EPS	lived
-REL	in
-DIS	a
-IST	rural
-CON	area
-QUE	?

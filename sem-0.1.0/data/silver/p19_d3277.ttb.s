@@ -1,9 +1,0 @@
-QUE	How
-QUV	many
-IST	innocent
-CON	people
-PST	were
-EXS	killed
-REL	in
-GEO	Vietnam
-QUE	?

@@ -1,9 +1,0 @@
-PRO	I
-FUT	'll
-IST	probably
-EXS	come
-IST	back
-AND	here
-ALT	again
-FUT	tomorrow
-NIL	.

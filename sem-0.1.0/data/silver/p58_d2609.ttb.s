@@ -1,9 +1,0 @@
-PRO	They
-NOW	are
-EXS	looking
-REL	at
-REF	themselves
-REL	in
-DEF	the
-CON	mirror
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-EPS	found
-PRO	it
-IST	hard
-SUB	to
-EXS	close
-DEF	the
-CON	door
-NIL	.

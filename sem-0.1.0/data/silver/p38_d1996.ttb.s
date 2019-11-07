@@ -1,9 +1,0 @@
-PRO	I
-EPS	called
-PRO	you
-SUB	because
-PRO	I
-ENS	need
-DIS	a
-CON	favor
-NIL	.

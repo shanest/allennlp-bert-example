@@ -1,9 +1,0 @@
-EXS	Let
-PRO	's
-EXS	get
-PER	Tom
-DIS	something
-IST	useful
-REL	for
-TIM	Christmas
-NIL	.

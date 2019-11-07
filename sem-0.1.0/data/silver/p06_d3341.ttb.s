@@ -1,9 +1,0 @@
-DEF	The
-ROL	policeman
-EPS	whistled
-REL	for
-DEF	the
-CON	car
-NIL	to
-EXS	stop
-NIL	.

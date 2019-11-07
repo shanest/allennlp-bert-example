@@ -1,9 +1,0 @@
-PER	Tom
-ENS	swears
-PRO	he
-HAS	's
-EXG	telling
-PRO	us
-DEF	the
-CON	truth
-NIL	.

@@ -1,9 +1,0 @@
-EXS	Let
-HAS	's
-EXS	go
-EXS	say
-GRE	hi
-REL	to
-DEF	the
-CON	Jacksons
-NIL	.

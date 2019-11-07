@@ -1,9 +1,0 @@
-EXS	Let
-PRO	's
-EXS	give
-PER	Tom
-DIS	a
-CON	surprise
-IST	welcome
-CON	party
-NIL	.

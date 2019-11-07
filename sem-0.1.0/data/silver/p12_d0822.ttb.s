@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	staying
-REL	with
-HAS	my
-ROL	uncle
-REL	in
-GPE	Tokyo
-NIL	.

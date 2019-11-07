@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	necessary
-SUB	that
-PRO	he
-EXS	see
-DIS	a
-CON	doctor
-NIL	.

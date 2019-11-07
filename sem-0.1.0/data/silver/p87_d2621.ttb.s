@@ -1,9 +1,0 @@
-PRO	I
-EPS	took
-DEF	the
-CON	lift
-REL	to
-DEF	the
-IST	third
-CON	floor
-NIL	.

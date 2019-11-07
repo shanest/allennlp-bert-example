@@ -1,9 +1,0 @@
-PRO	I
-ENS	wish
-PRO	you
-PST	were
-PRX	here
-REL	with
-PRO	me
-NOW	now
-NIL	.

@@ -1,9 +1,0 @@
-PRO	You
-NOW	're
-EXS	starting
-SUB	to
-EXS	sound
-AND	like
-HAS	your
-ROL	mother
-NIL	.

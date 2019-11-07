@@ -1,9 +1,0 @@
-PER	Columbus
-EPS	proved
-SUB	that
-DEF	the
-CON	world
-NOW	is
-NOT	not
-EXS	flat
-NIL	.

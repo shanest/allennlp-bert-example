@@ -1,9 +1,0 @@
-PRX	This
-CON	machine
-POS	can
-EXS	print
-QUC	sixty
-CON	pages
-DIS	a
-CON	minute
-NIL	.

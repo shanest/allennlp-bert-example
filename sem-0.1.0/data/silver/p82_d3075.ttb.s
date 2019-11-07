@@ -1,9 +1,0 @@
-DEF	The
-CON	wind
-EPS	blew
-HAS	her
-CON	hair
-REL	into
-HAS	her
-CON	eyes
-NIL	.

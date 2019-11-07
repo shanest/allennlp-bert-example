@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	lived
-REL	in
-GPE	China
-REL	for
-QUC	six
-CON	months
-NIL	.

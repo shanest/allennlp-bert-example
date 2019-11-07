@@ -1,9 +1,0 @@
-NOW	Do
-NOT	n't
-EXS	disturb
-PRO	me
-SUB	while
-PRO	I
-NOW	'm
-EXS	studying
-NIL	.

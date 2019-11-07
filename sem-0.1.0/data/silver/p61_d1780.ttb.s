@@ -1,9 +1,0 @@
-CON	Dinosaurs
-EPS	became
-IST	extinct
-DIS	a
-INT	very
-IST	long
-CON	time
-PST	ago
-NIL	.

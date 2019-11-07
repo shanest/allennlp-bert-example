@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-SUB	where
-PRO	I
-POS	can
-EXS	go
-IST	online
-QUE	?

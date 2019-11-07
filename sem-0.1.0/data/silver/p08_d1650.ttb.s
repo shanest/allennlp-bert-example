@@ -1,9 +1,0 @@
-ROL	President
-PER	Lincoln
-EPS	wrote
-AND	all
-QUC	five
-AND	of
-PRX	these
-CON	documents
-NIL	.

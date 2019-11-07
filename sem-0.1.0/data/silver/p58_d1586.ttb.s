@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-NOW	have
-PFT	been
-EXS	married
-QUC	three
-CON	years
-NIL	.

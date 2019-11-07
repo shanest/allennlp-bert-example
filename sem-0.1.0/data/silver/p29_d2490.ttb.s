@@ -1,9 +1,0 @@
-PER	Tom
-FUT	would
-EXT	've
-EXS	been
-IST	able
-SUB	to
-EXS	do
-PRO	it
-NIL	.

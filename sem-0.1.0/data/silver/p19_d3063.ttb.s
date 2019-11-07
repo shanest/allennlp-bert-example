@@ -1,9 +1,0 @@
-PRO	I
-FUT	'll
-EXS	go
-EXS	tell
-PER	Tom
-PRO	we
-NOW	're
-EXS	ready
-NIL	.

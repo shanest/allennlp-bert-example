@@ -1,9 +1,0 @@
-DST	That
-NOW	is
-NOT	n't
-IST	likely
-SUB	to
-EXS	be
-DIS	a
-CON	problem
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	assume
-PER	Tom
-NOW	is
-IST	up
-REL	to
-NOT	no
-EXS	good
-NIL	.

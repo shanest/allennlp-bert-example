@@ -1,9 +1,0 @@
-REL	For
-DEF	the
-IST	millionth
-CON	time
-NIL	,
-PRO	I
-NOW	'm
-EXS	sorry
-NIL	.

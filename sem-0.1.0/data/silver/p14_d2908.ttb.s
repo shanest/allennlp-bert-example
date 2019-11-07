@@ -1,9 +1,0 @@
-HAS	My
-CON	son
-EPS	became
-IST	able
-SUB	to
-EXS	count
-REL	to
-QUC	100
-NIL	.

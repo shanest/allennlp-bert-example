@@ -1,9 +1,0 @@
-PER	Beth
-EPS	described
-QUE	what
-PRO	she
-PST	had
-EXS	seen
-REL	in
-CON	detail
-NIL	.

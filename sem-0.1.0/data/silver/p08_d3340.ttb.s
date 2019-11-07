@@ -1,9 +1,0 @@
-HAS	My
-ROL	uncle
-NOW	has
-DIS	a
-CON	farm
-REL	in
-DEF	the
-CON	village
-NIL	.

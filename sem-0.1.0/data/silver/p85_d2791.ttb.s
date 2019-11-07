@@ -1,9 +1,0 @@
-PRO	She
-ENS	speaks
-NOT	not
-XCL	only
-CON	English
-BUT	but
-ALT	also
-CON	French
-NIL	.

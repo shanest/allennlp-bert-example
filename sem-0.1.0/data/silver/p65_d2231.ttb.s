@@ -1,9 +1,0 @@
-PER	Tom
-ENS	says
-SUB	that
-PRO	he
-NOW	's
-IST	allergic
-REL	to
-CON	school
-NIL	.

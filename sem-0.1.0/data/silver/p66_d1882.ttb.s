@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	going
-SUB	to
-EXS	tell
-PRO	you
-DIS	a
-CON	secret
-NIL	.

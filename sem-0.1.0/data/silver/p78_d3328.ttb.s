@@ -1,9 +1,0 @@
-REL	Since
-DST	that
-CON	time
-PRO	we
-NOW	have
-NOT	not
-EXS	seen
-PRO	him
-NIL	.

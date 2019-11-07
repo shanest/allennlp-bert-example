@@ -1,9 +1,0 @@
-HAS	My
-ROL	sister-in-law
-PST	had
-QUC	four
-CON	children
-REL	in
-QUC	five
-CON	years
-NIL	.

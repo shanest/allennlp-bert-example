@@ -1,9 +1,0 @@
-DEF	The
-CON	trip
-EPS	gave
-PRO	us
-NOT	no
-CON	end
-AND	of
-CON	pleasure
-NIL	.

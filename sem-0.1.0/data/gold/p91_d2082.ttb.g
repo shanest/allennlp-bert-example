@@ -1,9 +1,0 @@
-DEF	The
-IST	crafty
-ROL	thief
-EPS	hid
-REL	in
-DIS	a
-CON	tool
-CON	shed
-NIL	.

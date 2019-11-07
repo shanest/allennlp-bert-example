@@ -1,9 +1,0 @@
-PRO	You
-EPS	lied
-REL	to
-PRO	me
-NIL	,
-PST	did
-NOT	n't
-PRO	you
-QUE	?

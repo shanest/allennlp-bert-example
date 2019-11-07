@@ -1,9 +1,0 @@
-PER	Tom
-EPS	came
-SUB	to
-EXS	ask
-PRO	us
-REL	for
-HAS	our
-CON	help
-NIL	.

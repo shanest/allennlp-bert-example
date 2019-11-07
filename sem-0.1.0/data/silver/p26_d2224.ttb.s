@@ -1,9 +1,0 @@
-SUB	When
-PER	Tom
-NOW	's
-EXS	happy
-NIL	,
-PRO	I
-NOW	'm
-EXS	happy
-NIL	.

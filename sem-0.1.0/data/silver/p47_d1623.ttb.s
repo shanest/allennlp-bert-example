@@ -1,9 +1,0 @@
-PRO	I
-PST	did
-NOT	n't
-EXS	go
-REL	to
-CON	school
-AND	last
-DOW	Monday
-NIL	.

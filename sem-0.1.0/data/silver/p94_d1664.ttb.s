@@ -1,9 +1,0 @@
-NOW	Do
-HAS	your
-CON	parents
-EXS	know
-SUB	that
-PRO	you
-NOW	're
-PRX	here
-QUE	?

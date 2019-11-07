@@ -1,9 +1,0 @@
-GPE	Sweden
-NOW	is
-EXS	called
-NIL	"
-ORG	Sverige
-NIL	"
-REL	in
-GPO	Swedish
-NIL	.

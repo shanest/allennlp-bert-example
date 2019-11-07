@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-PFT	been
-EXS	telling
-PRO	you
-SUB	that
-REL	for
-CON	years
-NIL	.

@@ -1,9 +1,0 @@
-REL	On
-EXG	entering
-DEF	the
-CON	bedroom
-NIL	,
-PRO	she
-EPS	started
-EXG	sobbing
-NIL	.

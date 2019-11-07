@@ -1,9 +1,0 @@
-PRO	She
-EPS	took
-HAS	her
-CON	pencil
-COO	and
-EPS	started
-SUB	to
-EXS	write
-NIL	.

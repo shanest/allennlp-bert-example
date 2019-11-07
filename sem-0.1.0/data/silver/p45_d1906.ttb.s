@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	going
-SUB	to
-EXS	be
-REL	with
-PRO	you
-NOW	today
-NIL	.

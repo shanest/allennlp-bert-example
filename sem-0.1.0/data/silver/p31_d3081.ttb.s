@@ -1,9 +1,0 @@
-PER	Tom
-EPS	met
-PER	Mary
-REL	on
-DEF	the
-CON	way
-REL	to
-CON	school
-NIL	.

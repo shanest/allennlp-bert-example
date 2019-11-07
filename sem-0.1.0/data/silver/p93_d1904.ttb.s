@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	going
-REL	to
-GEO	France
-SUB	to
-EXS	study
-CON	painting
-NIL	.

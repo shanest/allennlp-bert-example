@@ -1,9 +1,0 @@
-PRO	They
-EPS	accused
-ROL	President
-PER	Johnson
-AND	of
-EXS	being
-IST	too
-IST	soft
-NIL	.

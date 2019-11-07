@@ -1,9 +1,0 @@
-PRO	You
-FUT	will
-IST	soon
-EXS	get
-EXS	accustomed
-SUB	to
-EXS	living
-PRX	here
-NIL	.

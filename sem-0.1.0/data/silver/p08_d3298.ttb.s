@@ -1,9 +1,0 @@
-QUE	Who
-ENS	wants
-SUB	to
-EXS	work
-REL	on
-DIS	a
-DOW	Friday
-CON	night
-QUE	?

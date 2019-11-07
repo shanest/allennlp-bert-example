@@ -1,9 +1,0 @@
-AND	Each
-AND	of
-DEF	the
-QUC	three
-CON	boys
-EPS	won
-DIS	a
-CON	prize
-NIL	.

@@ -1,9 +1,0 @@
-PRX	This
-NOW	is
-REL	for
-GPE	Scotland
-NIL	,
-NOT	not
-REL	for
-GEO	Sparta
-NIL	.

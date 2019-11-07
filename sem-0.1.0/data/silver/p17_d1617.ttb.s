@@ -1,9 +1,0 @@
-PRO	You
-NOW	're
-EXS	going
-SUB	to
-EXS	be
-IST	proud
-AND	of
-PRO	me
-NIL	.

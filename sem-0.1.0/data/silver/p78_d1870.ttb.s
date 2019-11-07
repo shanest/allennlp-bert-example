@@ -1,9 +1,0 @@
-PER	Mary
-EPS	became
-EXS	pregnant
-REL	at
-DEF	the
-CON	age
-AND	of
-GEO	14
-NIL	.

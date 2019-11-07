@@ -1,9 +1,0 @@
-CON	Computer
-CON	terminals
-NOW	are
-EXS	used
-NIL	to
-EXS	provide
-CON	health
-CON	information
-NIL	.

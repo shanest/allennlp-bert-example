@@ -1,9 +1,0 @@
-GPE	Latvia
-NOW	is
-EXS	called
-NIL	"
-GEO	Latvija
-NIL	"
-REL	in
-GPO	Latvian
-NIL	.

@@ -1,9 +1,0 @@
-PRO	It
-NOW	does
-NOT	n't
-EXS	matter
-REL	to
-PRO	me
-QUC	one
-CON	bit
-NIL	.

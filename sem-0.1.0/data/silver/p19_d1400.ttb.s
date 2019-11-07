@@ -1,9 +1,0 @@
-PRO	I
-EPS	thought
-PRO	you
-EPS	said
-PRO	it
-PST	was
-NOT	n't
-EXS	contagious
-NIL	.

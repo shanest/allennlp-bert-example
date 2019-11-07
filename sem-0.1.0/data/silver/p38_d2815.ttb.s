@@ -1,9 +1,0 @@
-PRO	We
-NOW	are
-EXS	expecting
-DIS	an
-CON	addition
-REL	to
-HAS	our
-CON	family
-NIL	.

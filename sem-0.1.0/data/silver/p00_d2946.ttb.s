@@ -1,9 +1,0 @@
-PRO	I
-ENS	have
-IST	enough
-CON	money
-NIL	to
-EXS	buy
-DIS	a
-CON	car
-NIL	.

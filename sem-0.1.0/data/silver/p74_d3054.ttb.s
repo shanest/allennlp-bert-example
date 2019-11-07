@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	n't
-EXS	had
-DIS	a
-CON	vacation
-REL	in
-CON	years
-NIL	.

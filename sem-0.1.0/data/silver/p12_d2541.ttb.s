@@ -1,9 +1,0 @@
-NOT	No
-CON	one
-ENS	knows
-QUE	what
-NOW	has
-EXS	happened
-REL	to
-PRO	him
-NIL	.

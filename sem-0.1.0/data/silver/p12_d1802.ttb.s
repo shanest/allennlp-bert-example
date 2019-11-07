@@ -1,9 +1,0 @@
-PER	Jim
-NOW	has
-DIS	a
-COL	white
-CON	hat
-REL	on
-HAS	his
-CON	head
-NIL	.

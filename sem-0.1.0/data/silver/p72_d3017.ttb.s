@@ -1,9 +1,0 @@
-PRO	She
-EPS	sold
-HAS	her
-CON	Opel
-COO	and
-EPS	bought
-DIS	a
-CON	BMW
-NIL	.

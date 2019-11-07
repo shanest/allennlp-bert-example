@@ -1,9 +1,0 @@
-PER	Tom
-EPS	realized
-SUB	that
-PRO	he
-POS	might
-EXS	need
-IST	more
-CON	money
-NIL	.

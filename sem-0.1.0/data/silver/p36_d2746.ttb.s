@@ -1,9 +1,0 @@
-PER	Mary
-EPS	made
-DIS	a
-IST	slight
-CON	motion
-REL	with
-HAS	her
-CON	head
-NIL	.

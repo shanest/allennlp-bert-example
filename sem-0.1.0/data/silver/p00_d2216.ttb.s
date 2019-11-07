@@ -1,9 +1,0 @@
-EXS	Thank
-PRO	you
-REL	from
-DEF	the
-CON	bottom
-REL	of
-HAS	my
-CON	heart
-NIL	.

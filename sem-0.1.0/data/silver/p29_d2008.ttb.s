@@ -1,9 +1,0 @@
-PER	Tom
-EPS	told
-PRO	us
-QUE	why
-PRO	he
-PST	'd
-PFT	been
-EXS	absent
-NIL	.

@@ -1,9 +1,0 @@
-PRO	You
-EPS	put
-INT	too
-QUC	much
-CON	sugar
-REL	in
-HAS	your
-CON	tea
-NIL	.

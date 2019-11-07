@@ -1,9 +1,0 @@
-DEF	The
-UNK	Prime
-UNK	Minister
-EPS	held
-DIS	a
-CON	press
-CON	conference
-PST	yesterday
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-EPS	saw
-DIS	a
-CON	play
-REL	in
-DEF	the
-IST	new
-CON	theater
-NIL	.

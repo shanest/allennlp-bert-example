@@ -1,9 +1,0 @@
-GPE	Brazil
-NOW	supplies
-PRO	us
-REL	with
-QUV	much
-AND	of
-HAS	our
-CON	coffee
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXG	selling
-HAS	my
-CON	car
-REL	at
-DIS	a
-CON	loss
-NIL	.

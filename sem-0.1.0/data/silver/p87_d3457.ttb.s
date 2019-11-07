@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	want
-PER	Tom
-REL	in
-HAS	my
-CON	car
-NIL	.

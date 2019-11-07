@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	living
-REL	in
-CON	Kunming
-REL	at
-DEF	the
-CON	moment
-NIL	.

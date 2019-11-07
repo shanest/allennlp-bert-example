@@ -1,9 +1,0 @@
-PER	Tom
-EPS	said
-PRO	I
-NEC	should
-NOT	n't
-EXS	be
-EXG	doing
-PRX	this
-NIL	.

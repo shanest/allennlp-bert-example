@@ -1,9 +1,0 @@
-PER	Tom
-PST	did
-NOT	n't
-EXS	offer
-PRO	us
-DIS	anything
-NIL	to
-EXS	eat
-NIL	.

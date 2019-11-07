@@ -1,9 +1,0 @@
-NOW	Are
-NOT	n't
-PRO	you
-QUC	one
-AND	of
-PER	Tom
-HAS	's
-ROL	lawyers
-QUE	?

@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-ROL	Miss
-PER	Smith
-REL	in
-DEF	the
-CON	theater
-PST	yesterday
-NIL	.

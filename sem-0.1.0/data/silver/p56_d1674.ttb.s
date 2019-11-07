@@ -1,9 +1,0 @@
-PRO	You
-NOW	are
-EXS	crazy
-SUB	to
-EXS	lend
-CON	money
-REL	to
-PRO	him
-NIL	.

@@ -1,9 +1,0 @@
-CON	Anyhow
-NIL	,
-PRO	he
-POS	may
-NOW	now
-EXS	be
-REL	in
-GEO	Paris
-NIL	.

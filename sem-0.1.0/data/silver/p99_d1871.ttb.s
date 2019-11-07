@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	care
-NIL	.
-PRO	I
-NOW	'm
-EXS	hungry
-NIL	.

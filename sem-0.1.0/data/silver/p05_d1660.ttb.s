@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-NOT	not
-IST	ashamed
-AND	of
-QUE	what
-PRO	I
-EPS	did
-NIL	.

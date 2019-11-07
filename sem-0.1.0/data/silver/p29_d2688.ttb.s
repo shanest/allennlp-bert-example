@@ -1,9 +1,0 @@
-PRX	This
-NOW	is
-AND	all
-PRO	I
-POS	can
-EXS	do
-REL	for
-NOW	now
-NIL	.

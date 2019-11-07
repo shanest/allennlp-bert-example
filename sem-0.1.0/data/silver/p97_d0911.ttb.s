@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-NOT	not
-IST	ashamed
-SUB	that
-PRO	I
-NOW	am
-EXS	poor
-NIL	.

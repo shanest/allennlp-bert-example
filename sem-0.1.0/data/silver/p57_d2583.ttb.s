@@ -1,2 +1,0 @@
-NEC	Definitely
-NIL	!

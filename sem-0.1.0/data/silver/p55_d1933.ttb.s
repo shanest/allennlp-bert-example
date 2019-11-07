@@ -1,9 +1,0 @@
-PER	Marseille
-NOW	is
-DIS	a
-INT	very
-IST	important
-CON	port
-AND	of
-GPE	France
-NIL	.

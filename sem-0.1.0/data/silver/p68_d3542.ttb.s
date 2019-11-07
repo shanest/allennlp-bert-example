@@ -1,9 +1,0 @@
-PRO	I
-FUT	will
-EXS	be
-PRX	here
-REL	from
-DOW	Monday
-REL	to
-DOW	Thursday
-NIL	.

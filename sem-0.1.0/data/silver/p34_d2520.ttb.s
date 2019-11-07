@@ -1,9 +1,0 @@
-QUE	How
-NOW	does
-PER	Tom
-EXS	know
-QUE	what
-PER	Mary
-EPS	asked
-PER	John
-QUE	?

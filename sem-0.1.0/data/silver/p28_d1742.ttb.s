@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	said
-SUB	that
-PER	Tom
-NOW	has
-DIS	a
-CON	cold
-NIL	.

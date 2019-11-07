@@ -1,9 +1,0 @@
-PER	Tom
-EPS	put
-DIS	a
-CON	bandage
-REL	on
-PER	Mary
-HAS	's
-CON	arm
-NIL	.

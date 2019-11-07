@@ -1,9 +1,0 @@
-PRO	He
-PST	had
-IST	scarcely
-EXS	escaped
-SUB	when
-PRO	he
-PST	was
-EPS	recaptured
-NIL	.

@@ -1,9 +1,0 @@
-PRO	She
-EPS	gave
-PRO	him
-HAS	her
-CON	name
-AND	and
-CON	telephone
-CON	number
-NIL	.

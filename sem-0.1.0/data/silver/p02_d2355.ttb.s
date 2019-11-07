@@ -1,9 +1,0 @@
-PER	Tom
-XCL	only
-ENS	wears
-DIS	a
-CON	suit
-REL	on
-IST	special
-CON	occasions
-NIL	.

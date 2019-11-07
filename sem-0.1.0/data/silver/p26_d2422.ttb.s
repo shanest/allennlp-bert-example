@@ -1,9 +1,0 @@
-UNK	There
-NOW	is
-NOW	now
-NOT	no
-CON	God
-AND	and
-NOT	no
-CON	Buddha
-NIL	.

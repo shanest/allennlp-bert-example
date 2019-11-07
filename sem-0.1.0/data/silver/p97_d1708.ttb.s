@@ -1,9 +1,0 @@
-AND	Both
-PER	Tom
-AND	and
-PER	Mary
-NOW	are
-EXS	busy
-IST	right
-NOW	now
-NIL	.

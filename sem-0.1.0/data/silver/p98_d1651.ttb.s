@@ -1,9 +1,0 @@
-ITJ	Oh
-NIL	!
-PER	Raju
-NOW	has
-EXS	fallen
-IST	down
-DEF	the
-CON	stairs
-NIL	!

@@ -1,9 +1,0 @@
-PRO	I
-NOW	spend
-CON	time
-REL	on
-ART	Facebook
-IST	almost
-AND	every
-CON	day
-NIL	.

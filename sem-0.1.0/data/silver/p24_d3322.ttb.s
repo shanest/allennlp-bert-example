@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-PST	did
-NOT	n't
-EXS	speak
-REL	to
-PER	John
-NIL	.

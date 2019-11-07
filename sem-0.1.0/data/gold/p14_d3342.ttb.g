@@ -1,9 +1,0 @@
-PER	Tom
-HAS	has
-DIS	a
-ROL	sister
-AND	who
-NOW	is
-DIS	a
-ROL	lawyer
-NIL	.

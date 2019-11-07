@@ -1,9 +1,0 @@
-PER	Tom
-NOW	's
-EXS	going
-SUB	to
-EXS	be
-DIS	a
-ROL	grandfather
-ALT	again
-NIL	.

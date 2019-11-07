@@ -1,9 +1,0 @@
-PRO	He
-NOW	has
-EXT	set
-REL	down
-AND	every
-CON	thing
-AND	that
-EPS	happened
-NIL	.

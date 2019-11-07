@@ -1,9 +1,0 @@
-PRO	We
-NOW	've
-EXS	got
-SUB	to
-EXS	get
-IST	out
-AND	of
-PRX	here
-NIL	.

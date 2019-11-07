@@ -1,9 +1,0 @@
-DEF	The
-CON	country
-NOW	is
-QUC	twice
-DEF	the
-CON	size
-AND	of
-GPE	England
-NIL	.

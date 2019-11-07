@@ -1,9 +1,0 @@
-PER	Tom
-ENS	opens
-DEF	the
-CON	gate
-AND	every
-CON	morning
-REL	at
-CLO	8:00
-NIL	.

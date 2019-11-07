@@ -1,9 +1,0 @@
-AND	All
-PER	Tom
-HAS	's
-CON	problems
-NOW	have
-IST	just
-PFT	been
-EXS	solved
-NIL	.

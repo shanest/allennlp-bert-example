@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	mind
-EXG	getting
-IST	up
-REL	at
-CLO	six
-NIL	.

@@ -1,9 +1,0 @@
-EXS	Guess
-QUE	what
-PRO	I
-NOW	'm
-EXS	holding
-REL	in
-HAS	my
-CON	hand
-NIL	.

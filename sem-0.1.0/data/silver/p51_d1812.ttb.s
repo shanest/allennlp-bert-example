@@ -1,9 +1,0 @@
-PRX	This
-CON	sketch
-NOW	is
-CON	representative
-AND	of
-PER	Tom
-HAS	's
-CON	style
-NIL	.

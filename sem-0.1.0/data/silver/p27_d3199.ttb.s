@@ -1,9 +1,0 @@
-EXS	Come
-REL	on
-NIL	,
-EXS	tell
-PRO	us
-DEF	the
-IST	whole
-CON	story
-NIL	!

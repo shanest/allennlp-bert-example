@@ -1,9 +1,0 @@
-AND	How
-IST	long
-PST	ago
-PST	did
-PRO	you
-EXS	start
-REL	learning
-GEO	Esperanto
-QUE	?

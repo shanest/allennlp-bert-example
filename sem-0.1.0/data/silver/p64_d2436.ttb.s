@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	grabbing
-DEF	the
-CON	bull
-REL	by
-DEF	the
-CON	horns
-NIL	.

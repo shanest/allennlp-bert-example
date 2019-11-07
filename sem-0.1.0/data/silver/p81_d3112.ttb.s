@@ -1,9 +1,0 @@
-PRO	They
-NOW	've
-EXS	written
-DIS	a
-CON	bill
-REL	for
-CON	health
-CON	care
-NIL	.

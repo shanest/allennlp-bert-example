@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-NOT	not
-EXG	disturbing
-PRO	you
-NIL	,
-NOW	am
-PRO	I
-QUE	?

@@ -1,9 +1,0 @@
-PRO	He
-EPS	glanced
-AND	over
-DEF	the
-CON	newspaper
-SUB	before
-EXS	turning
-REL	in
-NIL	.

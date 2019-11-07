@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-PST	were
-EXS	alone
-REL	in
-DEF	the
-CON	cave
-NIL	.

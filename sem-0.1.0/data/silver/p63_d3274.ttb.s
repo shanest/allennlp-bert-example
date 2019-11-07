@@ -1,9 +1,0 @@
-NOW	Has
-PER	Tom
-IST	ever
-EXS	written
-DIS	a
-CON	letter
-REL	in
-GPO	French
-QUE	?

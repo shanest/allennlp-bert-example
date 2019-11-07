@@ -1,9 +1,0 @@
-PRO	I
-ENS	believe
-REL	in
-DEF	the
-CON	immortality
-AND	of
-DEF	the
-CON	soul
-NIL	.

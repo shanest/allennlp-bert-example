@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-NOT	n't
-IST	really
-REL	in
-CON	love
-REL	with
-PER	Mary
-NIL	.

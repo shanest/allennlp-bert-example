@@ -1,9 +1,0 @@
-ITJ	Oh
-NIL	,
-PRO	you
-NOW	've
-EXS	been
-REL	to
-DEF	the
-CON	barbershop
-NIL	.

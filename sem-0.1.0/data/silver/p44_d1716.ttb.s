@@ -1,9 +1,0 @@
-GPE	Spain
-NOW	is
-EXS	called
-NIL	"
-GPE	Espainia
-NIL	"
-REL	in
-GPE	Basque
-NIL	.

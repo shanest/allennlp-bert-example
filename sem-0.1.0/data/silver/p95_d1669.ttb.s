@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-DEF	the
-CON	reason
-PRO	I
-EPS	came
-PRX	here
-QUE	?

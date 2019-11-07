@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-REL	from
-GPE	Boston
-AND	and
-UNK	so
-NOW	is
-PER	Mary
-NIL	.

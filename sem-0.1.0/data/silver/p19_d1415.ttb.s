@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-PRO	she
-FUT	will
-EXS	succeed
-AND	as
-DIS	a
-ROL	lawyer
-NIL	.

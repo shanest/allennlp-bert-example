@@ -1,9 +1,0 @@
-PER	Álvaro
-NOW	is
-REL	from
-GPE	Venezuela
-NIL	.
-PRO	He
-NOW	is
-GPO	Venezuelan
-NIL	.

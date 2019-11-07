@@ -1,9 +1,0 @@
-PER	Tom
-PST	did
-NOT	n't
-EXS	look
-SUB	as
-EXS	bored
-AND	as
-PER	Mary
-NIL	.

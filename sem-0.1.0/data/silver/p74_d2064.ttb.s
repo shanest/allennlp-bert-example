@@ -1,9 +1,0 @@
-PER	Tom
-EPS	made
-CON	fun
-AND	of
-PER	Mary
-AND	behind
-HAS	her
-IST	back
-NIL	.

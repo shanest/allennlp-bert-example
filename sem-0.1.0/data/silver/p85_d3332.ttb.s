@@ -1,9 +1,0 @@
-AND	Everyone
-NOW	say
-AND	:
-NIL	"
-GRE	Hi
-PER	Mary
-NIL	!
-NIL	"
-NIL	.

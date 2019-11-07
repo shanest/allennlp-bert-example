@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXG	lying
-REL	in
-CON	bed
-REL	with
-DIS	a
-CON	cold
-NIL	.

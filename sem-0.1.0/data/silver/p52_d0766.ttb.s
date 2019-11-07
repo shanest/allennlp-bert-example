@@ -1,9 +1,0 @@
-PRO	I
-EPS	buried
-HAS	my
-CON	dog
-REL	at
-DEF	the
-CON	pet
-CON	cemetery
-NIL	.

@@ -1,9 +1,0 @@
-PRO	She
-NOW	is
-IST	proud
-AND	of
-HAS	her
-ROL	father
-EXS	being
-IST	rich
-NIL	.

@@ -1,9 +1,0 @@
-HAS	My
-ROL	grandmother
-NOW	is
-IST	still
-INT	very
-EXS	active
-REL	at
-QUC	eighty-five
-NIL	.

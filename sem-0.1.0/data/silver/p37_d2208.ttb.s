@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-INT	too
-EXS	old
-SUB	to
-EXS	go
-REL	to
-GPE	Germany
-NIL	.

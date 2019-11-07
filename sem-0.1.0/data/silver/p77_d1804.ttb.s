@@ -1,9 +1,0 @@
-DEF	The
-CON	front
-AND	of
-DEF	the
-CON	house
-NOW	is
-EXS	painted
-COL	white
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-IST	never
-EPS	thought
-SUB	that
-PER	Mary
-FUT	would
-EXS	commit
-CON	suicide
-NIL	.

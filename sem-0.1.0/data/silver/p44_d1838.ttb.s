@@ -1,9 +1,0 @@
-PRO	We
-NOW	've
-IST	already
-EXS	prepared
-REL	for
-DEF	the
-CON	millennium
-CON	bug
-NIL	.

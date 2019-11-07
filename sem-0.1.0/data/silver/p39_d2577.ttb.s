@@ -1,9 +1,0 @@
-PRO	You
-NOT	never
-NOW	do
-DIS	anything
-CON	right
-NIL	,
-NOW	do
-PRO	you
-QUE	?

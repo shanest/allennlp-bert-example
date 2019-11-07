@@ -1,9 +1,0 @@
-PRO	He
-HAS	's
-PFT	been
-EXS	divorced
-REL	for
-QUC	2
-UOM	years
-IST	already
-NIL	.

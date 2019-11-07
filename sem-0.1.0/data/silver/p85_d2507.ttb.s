@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-EPS	heard
-SUB	whether
-PER	Tom
-EPS	got
-DEF	the
-CON	job
-QUE	?

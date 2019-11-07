@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-EXS	amazing
-QUE	how
-QUV	much
-PRO	he
-POS	can
-EXS	stand
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	tired
-SUB	because
-PRO	I
-EPS	worked
-IST	too
-QUV	much
-NIL	.

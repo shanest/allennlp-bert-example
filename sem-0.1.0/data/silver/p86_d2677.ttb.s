@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-PRO	he
-HAS	's
-PER	Mary
-HAS	's
-MOR	older
-CON	brother
-NIL	.

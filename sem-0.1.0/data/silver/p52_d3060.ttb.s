@@ -1,9 +1,0 @@
-DST	That
-CON	student
-IST	actually
-EPS	got
-IST	full
-CON	marks
-REL	in
-GPO	English
-NIL	.

@@ -1,9 +1,0 @@
-GEO	Osaka
-NOW	is
-DEF	the
-CON	center
-AND	of
-CON	commerce
-REL	in
-GPE	Japan
-NIL	.

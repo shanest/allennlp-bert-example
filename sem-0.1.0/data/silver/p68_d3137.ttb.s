@@ -1,9 +1,0 @@
-PRO	He
-EPS	told
-HAS	his
-ROL	assistant
-SUB	that
-PRO	he
-FUT	would
-EXS	win
-NIL	.

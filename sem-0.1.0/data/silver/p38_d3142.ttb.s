@@ -1,9 +1,0 @@
-PRO	He
-EPS	watched
-DEF	the
-CON	Sumo
-CON	wrestling
-REL	with
-EXT	folded
-CON	arms
-NIL	.

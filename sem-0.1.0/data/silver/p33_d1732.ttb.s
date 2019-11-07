@@ -1,9 +1,0 @@
-HAS	Our
-CON	school
-HAS	's
-CON	gym
-NOW	is
-REL	under
-CON	construction
-NOW	now
-NIL	.

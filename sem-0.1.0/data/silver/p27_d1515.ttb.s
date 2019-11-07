@@ -1,9 +1,0 @@
-NOW	Do
-PRO	I
-NOW	look
-AND	like
-PRO	I
-NOW	'm
-EXS	having
-CON	fun
-QUE	?

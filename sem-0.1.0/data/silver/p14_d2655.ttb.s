@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	spent
-TOP	most
-AND	of
-HAS	my
-CON	life
-PRX	here
-NIL	.

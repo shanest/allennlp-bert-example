@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	believe
-QUC	one
-CON	word
-AND	of
-PRO	it
-NIL	.

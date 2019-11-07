@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-INT	quite
-EXS	possible
-SUB	that
-PRO	I
-NOW	'm
-EXS	mistaken
-NIL	.

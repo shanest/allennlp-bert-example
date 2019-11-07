@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-NEC	must
-EXS	be
-EXS	married
-REL	by
-NOW	now
-NIL	.

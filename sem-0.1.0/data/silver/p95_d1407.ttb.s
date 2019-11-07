@@ -1,9 +1,0 @@
-PRO	We
-NOW	have
-PFT	been
-EXS	studying
-GPO	English
-REL	for
-QUC	three
-CON	years
-NIL	.

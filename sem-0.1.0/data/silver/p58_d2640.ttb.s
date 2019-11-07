@@ -1,9 +1,0 @@
-REL	At
-AND	last
-NIL	,
-PRO	they
-EPS	met
-CON	face
-REL	to
-CON	face
-NIL	.

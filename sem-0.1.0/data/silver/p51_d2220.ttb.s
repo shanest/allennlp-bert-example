@@ -1,9 +1,0 @@
-PER	Job
-CON	rotation
-NOW	is
-EXS	essential
-SUB	to
-EXS	running
-DIS	a
-CON	business
-NIL	.

@@ -1,9 +1,0 @@
-DEF	The
-ROL	teacher
-EPS	told
-PER	Mary
-SUB	to
-EXS	hold
-HAS	her
-CON	tongue
-NIL	.

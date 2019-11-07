@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-INT	incredibly
-EXS	easy
-SUB	to
-EXS	cheat
-DEF	the
-CON	system
-NIL	.

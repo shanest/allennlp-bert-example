@@ -1,9 +1,0 @@
-PRO	He
-PST	had
-HAS	his
-CON	wife
-ENS	die
-QUC	two
-CON	years
-PST	ago
-NIL	.

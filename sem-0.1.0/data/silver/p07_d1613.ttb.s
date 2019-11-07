@@ -1,9 +1,0 @@
-DEF	The
-ROL	dentist
-EPS	told
-PRO	me
-SUB	to
-EXS	open
-HAS	my
-CON	mouth
-NIL	.

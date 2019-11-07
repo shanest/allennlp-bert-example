@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-IST	ever
-EPS	lived
-REL	in
-DIS	an
-IST	old
-CON	building
-QUE	?

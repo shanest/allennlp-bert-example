@@ -1,9 +1,0 @@
-QUC	10
-UOM	%
-AND	of
-DEF	the
-CON	inhabitants
-ENS	come
-REL	from
-GPE	Japan
-NIL	.

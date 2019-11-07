@@ -1,9 +1,0 @@
-PRO	She
-PST	was
-IST	afraid
-SUB	to
-EXS	pass
-AND	through
-DEF	the
-CON	woods
-NIL	.

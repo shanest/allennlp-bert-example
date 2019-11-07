@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PRO	I
-NOW	have
-IST	both
-PFT	been
-INT	very
-IST	busy
-NIL	.

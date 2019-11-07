@@ -1,9 +1,0 @@
-PRO	He
-EPS	told
-PRO	me
-PRO	he
-PST	was
-EXS	going
-REL	to
-GEO	America
-NIL	.

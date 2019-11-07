@@ -1,9 +1,0 @@
-PRO	I
-EPS	told
-PRO	you
-SUB	to
-EXS	stop
-EXG	calling
-PRO	me
-SUB	that
-NIL	.

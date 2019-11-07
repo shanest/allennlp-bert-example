@@ -1,9 +1,0 @@
-IST	Please
-EXS	send
-DIS	an
-IST	empty
-CON	email
-CON	message
-SUB	to
-CTC	info@example.com
-NIL	.

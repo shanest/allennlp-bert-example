@@ -1,9 +1,0 @@
-PER	Tom
-ENS	wants
-SUB	to
-EXS	speak
-REL	to
-PRO	you
-REL	at
-CLO	2:30
-NIL	.

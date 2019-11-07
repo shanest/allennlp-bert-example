@@ -1,9 +1,0 @@
-DEF	The
-IST	tall
-CON	man
-EPS	looked
-REL	at
-PER	Tom
-AND	and
-EPS	smiled
-NIL	.

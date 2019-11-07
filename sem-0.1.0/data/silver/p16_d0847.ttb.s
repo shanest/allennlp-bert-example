@@ -1,9 +1,0 @@
-PRO	She
-ENS	need
-NOT	not
-EXT	have
-EXS	come
-REL	to
-DEF	the
-CON	meeting
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	driving
-DEF	the
-CON	car
-REL	into
-DEF	the
-CON	garage
-NIL	.

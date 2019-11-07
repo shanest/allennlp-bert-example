@@ -1,9 +1,0 @@
-DEF	The
-CON	audience
-EPS	applauded
-REL	for
-DIS	a
-IST	full
-QUC	five
-CON	minutes
-NIL	.

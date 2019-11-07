@@ -1,9 +1,0 @@
-DEF	The
-CON	NPD
-NOW	is
-IST	likely
-SUB	to
-EXS	enter
-DEF	the
-CON	Landtag
-NIL	.

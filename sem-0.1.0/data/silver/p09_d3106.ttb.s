@@ -1,9 +1,0 @@
-PRO	It
-EPS	was
-REL	in
-YOC	1950
-AND	that
-PRO	he
-PST	was
-EXS	born
-NIL	.

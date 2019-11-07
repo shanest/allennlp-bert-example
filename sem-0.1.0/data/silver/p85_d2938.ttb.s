@@ -1,9 +1,0 @@
-DEF	The
-ROL	politician
-NOW	is
-AND	as
-CON	slippery
-AND	as
-DIS	an
-CON	eel
-NIL	!

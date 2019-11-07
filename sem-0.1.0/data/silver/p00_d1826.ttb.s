@@ -1,9 +1,0 @@
-EXS	Thank
-PRO	you
-REL	for
-EXS	helping
-PRO	me
-EXS	write
-HAS	my
-CON	resume
-NIL	.

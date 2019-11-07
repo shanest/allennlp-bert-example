@@ -1,9 +1,0 @@
-AND	All
-DEF	the
-CON	people
-AND	who
-PST	were
-PRX	here
-NOW	have
-EXS	left
-NIL	.

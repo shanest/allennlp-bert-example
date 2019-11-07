@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-NOW	are
-EXS	playing
-REL	in
-DEF	the
-CON	backyard
-NIL	.

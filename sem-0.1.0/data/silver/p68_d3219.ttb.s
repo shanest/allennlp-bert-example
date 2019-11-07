@@ -1,9 +1,0 @@
-PRO	You
-NEC	have
-SUB	to
-EXS	dedicate
-REF	yourself
-REL	to
-DEF	the
-CON	task
-NIL	.

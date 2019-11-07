@@ -1,9 +1,0 @@
-PRO	I
-EPS	saw
-DIS	a
-CON	dog
-EXS	swim
-REL	across
-DEF	the
-CON	river
-NIL	.

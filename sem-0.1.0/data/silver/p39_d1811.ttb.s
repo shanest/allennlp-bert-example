@@ -1,9 +1,0 @@
-PER	Bill
-PST	was
-INT	too
-EXS	young
-SUB	to
-EXS	take
-DEF	the
-CON	post
-NIL	.

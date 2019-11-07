@@ -1,9 +1,0 @@
-DEF	The
-BOT	worst
-CON	thing
-AND	about
-CON	winter
-NOW	is
-DEF	the
-CON	snow
-NIL	.

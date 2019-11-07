@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXG	buying
-HAS	my
-CON	sister
-DIS	a
-IST	new
-CON	hat
-NIL	.

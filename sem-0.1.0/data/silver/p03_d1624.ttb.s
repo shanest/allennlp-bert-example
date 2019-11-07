@@ -1,9 +1,0 @@
-PRO	We
-EPS	arrived
-REL	at
-DEF	the
-CON	hotel
-DIS	an
-CON	hour
-PST	ago
-NIL	.

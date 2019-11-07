@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-PFT	been
-EXS	reading
-DIS	a
-CON	book
-AND	all
-CON	afternoon
-NIL	.

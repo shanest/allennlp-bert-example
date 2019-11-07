@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-IST	even
-EXS	know
-SUB	where
-PER	Tom
-ENS	lives
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-NOT	never
-ENS	goes
-REL	to
-CON	school
-REL	on
-DEF	the
-CON	bus
-NIL	.

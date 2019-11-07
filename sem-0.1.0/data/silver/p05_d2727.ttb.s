@@ -1,9 +1,0 @@
-PER	Tom
-AND	always
-ENS	tries
-SUB	to
-EXS	have
-HAS	his
-IST	own
-CON	way
-NIL	.

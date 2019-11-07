@@ -1,9 +1,0 @@
-PRO	She
-NOW	is
-NOT	not
-EXS	scared
-AND	of
-EXG	taking
-IST	big
-CON	risks
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-NOT	never
-EXS	seen
-AND	such
-DIS	a
-IST	giant
-CON	watermelon
-NIL	!

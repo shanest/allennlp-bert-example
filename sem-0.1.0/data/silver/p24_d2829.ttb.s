@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	writing
-REL	in
-CON	relation
-REL	to
-HAS	your
-CON	complaint
-NIL	.

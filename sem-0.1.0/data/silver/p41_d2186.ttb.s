@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-AND	and
-PER	Tom
-IST	ever
-EPS	kissed
-AND	each
-ALT	other
-QUE	?

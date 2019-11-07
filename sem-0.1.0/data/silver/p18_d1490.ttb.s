@@ -1,9 +1,0 @@
-DEF	The
-ROL	lawyer
-ENS	has
-DIS	a
-CON	lot
-AND	of
-IST	wealthy
-CON	clients
-NIL	.

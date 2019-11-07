@@ -1,9 +1,0 @@
-PER	Shane
-PST	was
-IST	just
-EXG	looking
-IST	out
-REL	for
-DIS	a
-CON	brother
-NIL	.

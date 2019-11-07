@@ -1,9 +1,0 @@
-PRO	She
-EPS	acted
-AND	as
-IMP	if
-PRO	she
-EPS	knew
-GPO	French
-IST	well
-NIL	.

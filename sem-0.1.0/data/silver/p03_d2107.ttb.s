@@ -1,9 +1,0 @@
-AND	Every
-CON	student
-NEC	has
-NIL	to
-EXS	leave
-CON	school
-REL	by
-CLO	six
-NIL	.

@@ -1,9 +1,0 @@
-PRO	We
-ENS	know
-QUE	how
-SUB	to
-EXS	get
-AND	around
-CON	traffic
-CON	congestion
-NIL	.

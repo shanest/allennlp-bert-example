@@ -1,9 +1,0 @@
-DEF	The
-CON	teacher
-EPS	wrote
-GPO	English
-CON	sentences
-REL	on
-DEF	the
-CON	blackboard
-NIL	.

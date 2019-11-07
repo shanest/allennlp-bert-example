@@ -1,9 +1,0 @@
-PER	Tom
-PST	was
-EXS	angry
-SUB	because
-PER	Mary
-PST	was
-EXS	ignoring
-PRO	him
-NIL	.

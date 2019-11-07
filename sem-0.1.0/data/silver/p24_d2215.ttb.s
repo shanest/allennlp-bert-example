@@ -1,9 +1,0 @@
-AND	All
-DEF	the
-CON	leaves
-REL	on
-DEF	the
-CON	tree
-EPS	turned
-COL	yellow
-NIL	.

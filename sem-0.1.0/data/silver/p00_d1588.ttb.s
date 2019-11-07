@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-QUE	what
-CON	time
-AND	that
-CON	accident
-EPS	happened
-QUE	?

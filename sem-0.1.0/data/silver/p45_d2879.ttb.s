@@ -1,9 +1,0 @@
-PRO	She
-EPS	entered
-CON	religion
-REL	at
-DEF	the
-CON	age
-AND	of
-QUC	nineteen
-NIL	.

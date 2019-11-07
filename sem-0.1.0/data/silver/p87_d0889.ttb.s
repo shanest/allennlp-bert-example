@@ -1,9 +1,0 @@
-PRO	They
-EPS	threw
-HAS	their
-CON	hats
-IST	up
-REL	into
-DEF	the
-CON	air
-NIL	.

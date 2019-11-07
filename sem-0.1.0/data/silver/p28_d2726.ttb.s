@@ -1,9 +1,0 @@
-PER	Tom
-NEC	definitely
-PST	did
-NOT	n't
-EXS	want
-SUB	to
-EXS	be
-EXS	disturbed
-NIL	.

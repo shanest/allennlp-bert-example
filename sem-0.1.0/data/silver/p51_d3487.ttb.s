@@ -1,9 +1,0 @@
-PRO	I
-ENS	need
-DIS	a
-ROL	lawyer
-AND	who
-POS	can
-EXS	speak
-GPO	French
-NIL	.

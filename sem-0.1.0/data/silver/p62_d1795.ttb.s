@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	looking
-REL	for
-DIS	a
-CON	house
-REL	to
-CON	rent
-NIL	.

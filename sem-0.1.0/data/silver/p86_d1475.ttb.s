@@ -1,9 +1,0 @@
-QUC	One
-NOW	is
-EXS	punished
-IST	most
-REL	for
-QUC	one
-HAS	's
-CON	virtues
-NIL	.

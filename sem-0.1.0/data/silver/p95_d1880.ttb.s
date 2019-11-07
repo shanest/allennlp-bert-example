@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-NOW	are
-PRX	here
-SUB	to
-EXS	help
-PRO	us
-NIL	.

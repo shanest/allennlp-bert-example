@@ -1,9 +1,0 @@
-UNK	There
-HAS	's
-NOT	no
-CON	one
-REL	by
-DST	that
-CON	name
-PRX	here
-NIL	.

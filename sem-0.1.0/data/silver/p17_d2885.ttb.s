@@ -1,9 +1,0 @@
-PRO	They
-EPS	said
-DIS	something
-IST	terrible
-PST	had
-EXS	happened
-REL	to
-PER	Mary
-NIL	.

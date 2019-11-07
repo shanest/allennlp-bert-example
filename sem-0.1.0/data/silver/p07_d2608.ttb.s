@@ -1,9 +1,0 @@
-PRO	She
-ENS	earns
-DIS	a
-CON	living
-REL	by
-EXG	selling
-HAS	her
-CON	paintings
-NIL	.

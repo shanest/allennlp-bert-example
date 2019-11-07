@@ -1,9 +1,0 @@
-QUE	Who
-POS	could
-EXS	melt
-SUB	that
-CON	stone
-CON	heart
-AND	of
-HAS	yours
-QUE	?

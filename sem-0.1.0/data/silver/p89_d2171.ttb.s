@@ -1,9 +1,0 @@
-PRO	We
-NOW	've
-EXS	slid
-REL	into
-DIS	an
-INT	almost
-IST	hopeless
-CON	situation
-NIL	.

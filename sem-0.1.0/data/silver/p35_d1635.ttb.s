@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-NOW	think
-PER	Tom
-EPS	saw
-PER	Mary
-EXG	kissing
-PER	John
-QUE	?

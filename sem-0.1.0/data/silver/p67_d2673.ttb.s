@@ -1,9 +1,0 @@
-PRO	I
-ENS	wish
-PRO	I
-PST	had
-EXS	bought
-DIS	a
-CON	concert
-CON	ticket
-NIL	.

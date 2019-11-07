@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-PFT	been
-EXG	walking
-REL	for
-MOR	over
-QUC	four
-UOM	hours
-NIL	.

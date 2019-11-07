@@ -1,9 +1,0 @@
-DEF	The
-CON	door
-PST	had
-PFT	been
-EXS	axed
-REL	by
-DEF	the
-ROL	firefighters
-NIL	.

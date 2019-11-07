@@ -1,9 +1,0 @@
-PRX	This
-NOW	is
-DEF	the
-CON	book
-PRO	you
-NOW	are
-EXS	looking
-REL	for
-NIL	.

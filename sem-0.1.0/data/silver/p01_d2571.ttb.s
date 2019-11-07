@@ -1,9 +1,0 @@
-PRO	I
-IST	probably
-FUT	wo
-NOT	n't
-IST	ever
-EXS	see
-PER	Tom
-ALT	again
-NIL	.

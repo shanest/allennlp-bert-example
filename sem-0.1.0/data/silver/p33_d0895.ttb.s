@@ -1,9 +1,0 @@
-QUE	Who
-NOW	is
-DST	that
-CON	woman
-REL	with
-DEF	the
-COL	brown
-CON	coat
-QUE	?

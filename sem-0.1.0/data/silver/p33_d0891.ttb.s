@@ -1,9 +1,0 @@
-HAS	My
-ROL	uncle
-HAS	's
-CON	car
-NOW	is
-MOR	faster
-MOR	than
-HAS	mine
-NIL	.

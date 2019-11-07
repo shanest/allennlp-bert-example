@@ -1,9 +1,0 @@
-NIL	There
-NOW	is
-DIS	a
-CON	water
-CON	mill
-REL	above
-DEF	the
-CON	bridge
-NIL	.

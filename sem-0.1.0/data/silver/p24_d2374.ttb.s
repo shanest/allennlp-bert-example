@@ -1,9 +1,0 @@
-PRO	He
-HAS	's
-DIS	a
-CON	professor
-AND	of
-CON	biology
-REL	at
-ORG	Harvard
-NIL	.

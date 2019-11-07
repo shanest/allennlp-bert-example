@@ -1,9 +1,0 @@
-PRO	He
-EPS	made
-DIS	an
-CON	admission
-SUB	that
-PRO	he
-PST	had
-EPS	lied
-NIL	.

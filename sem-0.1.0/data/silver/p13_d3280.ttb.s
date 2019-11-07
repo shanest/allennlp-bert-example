@@ -1,9 +1,0 @@
-PRO	She
-NOW	has
-EXT	waded
-REL	into
-QUC	one
-CON	controversy
-REL	after
-ALT	another
-NIL	.

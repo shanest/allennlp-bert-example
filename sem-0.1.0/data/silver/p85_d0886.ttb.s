@@ -1,9 +1,0 @@
-PRO	I
-EPS	wrote
-DEF	the
-IST	wrong
-CON	address
-REL	on
-DEF	the
-CON	envelope
-NIL	.

@@ -1,9 +1,0 @@
-PER	Ann
-EPS	sang
-DIS	a
-CON	lullaby
-REL	for
-HAS	her
-IST	little
-ROL	sister
-NIL	.

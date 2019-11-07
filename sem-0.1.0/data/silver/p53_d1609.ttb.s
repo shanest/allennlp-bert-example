@@ -1,9 +1,0 @@
-PER	Tom
-ENS	thinks
-AND	of
-PER	Mary
-AND	as
-HAS	his
-TOP	best
-CON	friend
-NIL	.

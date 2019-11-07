@@ -1,9 +1,0 @@
-PER	Jane
-ENS	wishes
-PRO	she
-POS	could
-EXS	see
-CON	sumo
-REL	in
-GPE	England
-NIL	.

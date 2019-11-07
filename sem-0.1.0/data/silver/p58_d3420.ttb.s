@@ -1,9 +1,0 @@
-PER	Tom
-PST	was
-IST	able
-SUB	to
-EXS	park
-AND	behind
-DEF	the
-CON	hotel
-NIL	.

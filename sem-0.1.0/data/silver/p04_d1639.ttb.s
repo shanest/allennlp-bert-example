@@ -1,9 +1,0 @@
-PRO	You
-PST	had
-MOR	better
-EXS	stop
-EXG	buying
-CON	things
-REL	at
-IST	random
-NIL	.

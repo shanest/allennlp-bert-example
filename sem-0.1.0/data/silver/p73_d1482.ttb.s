@@ -1,9 +1,0 @@
-PRX	This
-NOW	is
-PER	Ken
-NIL	.
-PRO	He
-ENS	loves
-HAS	his
-CON	dog
-NIL	.

@@ -1,9 +1,0 @@
-DEF	The
-CON	dog
-EXS	lying
-REL	on
-DEF	the
-CON	grass
-NOW	is
-HAS	mine
-NIL	.

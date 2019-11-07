@@ -1,9 +1,0 @@
-PRO	I
-POS	ca
-NOT	n't
-EXS	talk
-AND	about
-SUB	that
-EXS	right
-NOW	now
-NIL	.

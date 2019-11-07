@@ -1,9 +1,0 @@
-PER	Dan
-EPS	bought
-DIS	an
-UOM	acre
-AND	of
-CON	land
-REL	in
-GEO	Nevada
-NIL	.

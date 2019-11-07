@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXG	doing
-QUE	what
-PRO	I
-NEC	have
-SUB	to
-EXS	do
-NIL	.

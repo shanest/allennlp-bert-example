@@ -1,9 +1,0 @@
-PER	Tom
-POS	ca
-NOT	n't
-EXS	believe
-PER	Mary
-HAS	's
-MOR	over
-QUC	thirty
-NIL	.

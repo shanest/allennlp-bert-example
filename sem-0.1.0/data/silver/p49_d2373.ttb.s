@@ -1,9 +1,0 @@
-POS	Can
-PRO	I
-EXS	ask
-QUE	what
-PRO	you
-NOW	're
-EXS	doing
-PRX	here
-QUE	?

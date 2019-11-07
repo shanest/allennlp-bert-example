@@ -1,9 +1,0 @@
-PRO	I
-EPS	came
-AND	as
-IST	soon
-SUB	as
-PRO	I
-EPS	found
-IST	out
-NIL	.

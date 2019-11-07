@@ -1,9 +1,0 @@
-AND	Farther
-REL	on
-NIL	,
-PRO	we
-EPS	came
-REL	upon
-DIS	a
-CON	house
-NIL	.

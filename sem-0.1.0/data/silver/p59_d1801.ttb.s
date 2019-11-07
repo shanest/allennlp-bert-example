@@ -1,9 +1,0 @@
-DEF	The
-ROL	poet
-ENS	sees
-QUE	what
-DEF	the
-CON	sun
-NOW	does
-NOT	not
-NIL	.

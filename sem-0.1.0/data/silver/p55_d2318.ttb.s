@@ -1,9 +1,0 @@
-PRO	I
-ENS	want
-PRO	you
-SUB	to
-EXS	be
-HAS	my
-CON	friend
-ALT	again
-NIL	.

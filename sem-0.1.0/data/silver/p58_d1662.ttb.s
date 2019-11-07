@@ -1,9 +1,0 @@
-PRO	It
-NOW	seems
-EXS	impossible
-SUB	that
-PRO	you
-NOW	're
-SUB	that
-IST	old
-NIL	.

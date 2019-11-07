@@ -1,9 +1,0 @@
-HAS	My
-ENS	wish
-SUB	to
-EXS	go
-IST	abroad
-NOW	is
-INT	very
-EXS	strong
-NIL	.

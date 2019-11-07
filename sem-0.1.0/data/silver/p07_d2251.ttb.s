@@ -1,9 +1,0 @@
-PER	Tom
-EPS	said
-PRO	he
-PST	'd
-EXS	be
-IST	back
-CON	right
-IST	away
-NIL	.

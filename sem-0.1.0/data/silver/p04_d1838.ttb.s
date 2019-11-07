@@ -1,9 +1,0 @@
-PER	Tom
-EPS	told
-PRO	me
-SUB	that
-PER	Mary
-PST	was
-HAS	his
-CON	type
-NIL	.

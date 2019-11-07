@@ -1,9 +1,0 @@
-PER	Kounosuke
-GEO	Sakazaki
-NOW	belongs
-REL	to
-NIL	"
-DEF	THE
-ORG	ALFEE
-NIL	"
-NIL	.

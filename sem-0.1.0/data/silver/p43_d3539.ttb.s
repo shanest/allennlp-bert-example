@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-EXS	heard
-PRX	this
-CON	story
-CON	scores
-AND	of
-CON	times
-NIL	.

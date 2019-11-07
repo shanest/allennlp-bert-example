@@ -1,9 +1,0 @@
-PRO	She
-EPS	became
-EXS	agitated
-AND	about
-HAS	her
-CON	son
-HAS	's
-CON	safety
-NIL	.

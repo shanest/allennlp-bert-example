@@ -1,9 +1,0 @@
-NOW	Do
-PRO	it
-EXS	right
-NOW	now
-NIL	,
-SUB	before
-PRO	you
-EXS	forget
-NIL	.

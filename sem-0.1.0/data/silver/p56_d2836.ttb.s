@@ -1,9 +1,0 @@
-PRO	We
-NOW	're
-IST	glad
-SUB	to
-EXS	have
-PRO	you
-REL	with
-PRO	us
-NIL	.

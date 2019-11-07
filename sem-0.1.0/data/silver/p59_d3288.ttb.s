@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-FUT	will
-EXS	get
-EXS	married
-IST	next
-CON	spring
-NIL	.

@@ -1,9 +1,0 @@
-PRO	They
-NIL	,
-ALT	too
-NIL	,
-PST	were
-IST	out
-AND	of
-CON	money
-NIL	.

@@ -1,9 +1,0 @@
-CON	Computers
-NOW	are
-COM	better
-AND	than
-PRO	us
-REL	at
-EXG	playing
-CON	chess
-NIL	.

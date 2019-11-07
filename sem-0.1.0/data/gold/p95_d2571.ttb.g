@@ -1,9 +1,0 @@
-PER	Marie
-EPS	jumped
-REL	from
-DEF	the
-CON	window
-REL	into
-DEF	the
-CON	river
-NIL	.

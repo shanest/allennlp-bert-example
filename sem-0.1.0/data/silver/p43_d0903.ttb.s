@@ -1,9 +1,0 @@
-DEF	The
-CON	money
-REL	on
-DEF	the
-CON	table
-NOW	is
-NOT	n't
-HAS	mine
-NIL	.

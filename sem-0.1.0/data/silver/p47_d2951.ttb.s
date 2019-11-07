@@ -1,9 +1,0 @@
-NOT	No
-CON	body
-BUT	but
-DIS	a
-ROL	fool
-FUT	would
-EXS	believe
-PRO	it
-NIL	.

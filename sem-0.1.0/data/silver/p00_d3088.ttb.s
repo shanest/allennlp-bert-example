@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	approve
-AND	of
-QUE	what
-PRO	she
-NOW	is
-EXG	doing
-QUE	?

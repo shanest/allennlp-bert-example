@@ -1,9 +1,0 @@
-PRO	We
-NOW	're
-EXS	going
-SUB	to
-EXS	have
-SUB	to
-EXS	work
-IST	together
-NIL	.

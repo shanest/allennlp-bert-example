@@ -1,9 +1,0 @@
-DEF	The
-CON	apples
-NOW	are
-NOT	not
-IST	ready
-SUB	to
-EXS	pick
-ALT	yet
-NIL	.

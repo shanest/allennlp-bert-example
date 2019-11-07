@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-QUC	one
-AND	of
-GEO	Boston
-HAS	's
-TOP	best
-ROL	lawyers
-NIL	.

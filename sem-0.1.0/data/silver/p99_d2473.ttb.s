@@ -1,9 +1,0 @@
-PRO	I
-FUT	will
-EXT	have
-EXS	finished
-HAS	my
-CON	homework
-REL	by
-DOW	Tuesday
-NIL	.

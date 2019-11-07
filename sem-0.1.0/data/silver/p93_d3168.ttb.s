@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	trying
-SUB	to
-EXS	make
-DEF	the
-IST	impossible
-EXS	possible
-NIL	.

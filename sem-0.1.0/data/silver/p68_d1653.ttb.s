@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-CON	guys
-EXS	feel
-AND	like
-EXS	staying
-CON	home
-AND	alone
-QUE	?

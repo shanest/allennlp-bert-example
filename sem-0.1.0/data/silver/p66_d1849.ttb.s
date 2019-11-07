@@ -1,9 +1,0 @@
-DEF	The
-CON	team
-PST	were
-IST	quite
-IST	nervous
-REL	before
-DEF	the
-CON	game
-NIL	.

@@ -1,7 +1,0 @@
-HAP	WW1
-EPS	lasted
-REL	from
-YOC	1914
-REL	until
-YOC	1918
-NIL	.

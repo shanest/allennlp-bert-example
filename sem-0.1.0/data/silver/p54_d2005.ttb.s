@@ -1,9 +1,0 @@
-DEF	The
-ROL	soldier
-EPS	wrote
-DIS	a
-CON	letter
-REL	to
-HAS	his
-CON	mother
-NIL	.

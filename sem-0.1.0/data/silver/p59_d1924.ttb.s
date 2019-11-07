@@ -1,9 +1,0 @@
-DEF	The
-IST	hungry
-CON	boys
-EPS	ate
-AND	everything
-REL	on
-DEF	the
-CON	table
-NIL	.

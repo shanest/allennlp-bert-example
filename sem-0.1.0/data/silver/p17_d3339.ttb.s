@@ -1,9 +1,0 @@
-PRO	He
-EPS	left
-DEF	the
-CON	room
-NOT	without
-EXG	saying
-DIS	a
-CON	word
-NIL	.

@@ -1,9 +1,0 @@
-PRX	This
-NOW	is
-INT	too
-EXS	good
-DIS	a
-CON	chance
-SUB	to
-EXS	miss
-NIL	.

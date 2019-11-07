@@ -1,9 +1,0 @@
-PRO	We
-NOW	give
-DIS	a
-QUC	10
-UOM	%
-CON	discount
-REL	for
-CON	cash
-NIL	.

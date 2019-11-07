@@ -1,9 +1,0 @@
-DIS	A
-CON	grill
-ENS	puts
-AND	out
-DIS	a
-CON	lot
-AND	of
-CON	heat
-NIL	.

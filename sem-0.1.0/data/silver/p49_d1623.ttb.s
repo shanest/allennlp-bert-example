@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	need
-DIS	a
-CON	hand
-REL	with
-HAS	your
-CON	suitcases
-QUE	?

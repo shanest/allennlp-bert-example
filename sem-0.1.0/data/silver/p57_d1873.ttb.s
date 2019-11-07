@@ -1,9 +1,0 @@
-PER	Lisa
-HAS	's
-CON	room
-ENS	needs
-SUB	to
-EXS	be
-EXS	cleaned
-ALT	again
-NIL	.

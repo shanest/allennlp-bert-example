@@ -1,9 +1,0 @@
-PER	Father
-EPS	had
-HAS	his
-ROL	lawyer
-EXG	draw
-AND	up
-HAS	his
-FUT	will
-NIL	.

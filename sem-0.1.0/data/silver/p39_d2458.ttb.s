@@ -1,9 +1,0 @@
-NOW	Do
-PRO	I
-IST	really
-ENS	need
-SUB	to
-EXS	tell
-PRO	you
-ALT	again
-QUE	?

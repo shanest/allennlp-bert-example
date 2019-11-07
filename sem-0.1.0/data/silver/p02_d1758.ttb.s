@@ -1,9 +1,0 @@
-NOW	Do
-NOT	nothing
-REL	in
-CON	haste
-NIL	,
-NOT	except
-EXG	catching
-CON	fleas
-NIL	.

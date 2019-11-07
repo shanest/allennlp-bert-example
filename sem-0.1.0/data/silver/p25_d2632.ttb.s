@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-INT	quite
-EXS	complicated
-SUB	to
-EXS	talk
-REL	to
-CON	humans
-NIL	.

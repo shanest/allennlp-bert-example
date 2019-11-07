@@ -1,9 +1,0 @@
-PRO	I
-ENS	want
-SUB	to
-EXS	be
-IST	sure
-PER	Tom
-NOW	is
-EXS	guilty
-NIL	.

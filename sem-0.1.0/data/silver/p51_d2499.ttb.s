@@ -1,9 +1,0 @@
-PER	Mary
-EPS	smiled
-REL	at
-PER	Tom
-COO	and
-PRO	he
-EPS	smiled
-IST	back
-NIL	.

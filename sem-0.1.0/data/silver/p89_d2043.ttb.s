@@ -1,9 +1,0 @@
-PER	Tom
-EPS	asked
-AND	if
-QUE	what
-PER	Mary
-EPS	said
-PST	was
-EXS	true
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-ENS	love
-PRO	you
-AND	as
-IST	fresh
-CON	meat
-ENS	loves
-CON	salt
-NIL	.

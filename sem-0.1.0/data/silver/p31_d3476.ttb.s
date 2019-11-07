@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-AND	over
-DEF	the
-CON	hill
-NIL	,
-PRO	you
-ENS	know
-NIL	.

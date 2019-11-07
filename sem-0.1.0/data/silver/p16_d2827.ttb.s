@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-NOW	are
-IST	up
-REL	to
-NOT	no
-EXS	good
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	done
-NOT	nothing
-SUB	to
-EXS	be
-IST	ashamed
-AND	of
-NIL	.

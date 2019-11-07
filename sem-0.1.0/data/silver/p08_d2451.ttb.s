@@ -1,9 +1,0 @@
-QUE	How
-NOW	do
-PRO	you
-NOW	feel
-AND	about
-QUE	what
-PRO	she
-EPS	said
-QUE	?

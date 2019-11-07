@@ -1,9 +1,0 @@
-NOW	Are
-PRO	you
-IST	seriously
-EXS	thinking
-SUB	about
-EXG	quitting
-HAS	your
-CON	job
-QUE	?

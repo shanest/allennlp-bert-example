@@ -1,9 +1,0 @@
-PER	Tom
-EPS	got
-REL	on
-HAS	his
-CON	motorcycle
-COO	and
-EPS	drove
-IST	off
-NIL	.

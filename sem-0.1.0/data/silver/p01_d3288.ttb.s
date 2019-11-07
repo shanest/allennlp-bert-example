@@ -1,9 +1,0 @@
-PRO	You
-POS	ca
-NOT	n't
-EXT	have
-EXS	understood
-QUE	what
-PRO	he
-EPS	said
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-EPS	showed
-PER	Mary
-DIS	a
-CON	picture
-REL	of
-HAS	his
-CON	dog
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	planning
-REL	on
-EXG	staying
-REL	in
-DEF	the
-CON	city
-NIL	.

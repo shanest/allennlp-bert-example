@@ -1,9 +1,0 @@
-PRO	I
-EPS	found
-NOT	no
-CON	money
-EPS	left
-REL	in
-HAS	my
-CON	pocket
-NIL	.

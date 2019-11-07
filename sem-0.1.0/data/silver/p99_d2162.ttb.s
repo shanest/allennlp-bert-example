@@ -1,9 +1,0 @@
-PER	Tom
-EPS	found
-DIS	a
-IST	good
-CON	place
-REL	for
-PRO	me
-ENS	live
-NIL	.

@@ -1,9 +1,0 @@
-PRO	They
-EPS	shot
-DEF	the
-CON	film
-REL	in
-DIS	an
-IST	actual
-CON	desert
-NIL	.

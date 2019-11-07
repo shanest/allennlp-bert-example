@@ -1,9 +1,0 @@
-PRO	I
-EPS	took
-CON	sides
-REL	with
-PRO	them
-REL	in
-DEF	the
-CON	argument
-NIL	.

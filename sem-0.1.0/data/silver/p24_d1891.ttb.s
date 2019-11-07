@@ -1,9 +1,0 @@
-PRO	I
-IST	really
-NOW	do
-NOT	n't
-EXS	care
-QUE	what
-PER	Tom
-ENS	thinks
-NIL	.

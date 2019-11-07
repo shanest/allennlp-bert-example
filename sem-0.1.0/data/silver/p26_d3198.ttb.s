@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-PRO	he
-NOW	's
-EXS	going
-SUB	to
-EXS	be
-EXS	sick
-NIL	.

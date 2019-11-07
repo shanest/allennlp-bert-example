@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	surprised
-SUB	that
-PRO	you
-NOW	're
-AND	so
-PRX	naïve
-NIL	.

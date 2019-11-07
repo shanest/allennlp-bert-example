@@ -1,9 +1,0 @@
-PRO	It
-ENS	makes
-NOT	no
-EXS	matter
-SUB	to
-PRO	me
-AND	who
-ENS	wins
-NIL	.

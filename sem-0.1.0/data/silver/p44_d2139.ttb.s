@@ -1,9 +1,0 @@
-NOW	Now
-PRO	I
-FUT	'll
-EXS	introduce
-HAS	my
-CON	parents
-REL	to
-PRO	you
-NIL	.

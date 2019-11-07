@@ -1,9 +1,0 @@
-PRO	She
-ENS	loves
-PER	Tom
-MOR	more
-AND	than
-PRO	she
-ENS	loves
-PRO	me
-NIL	.

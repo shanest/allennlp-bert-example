@@ -1,9 +1,0 @@
-PER	Mary
-ENS	speaks
-REL	with
-PER	Tom
-HAS	's
-CON	mother
-AND	every
-CON	day
-NIL	.

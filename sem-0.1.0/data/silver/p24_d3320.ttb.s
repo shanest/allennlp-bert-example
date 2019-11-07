@@ -1,9 +1,0 @@
-NOW	Has
-HAS	your
-CON	neck
-PST	thickened
-AND	during
-DEF	the
-ALT	previous
-CON	year
-QUE	?

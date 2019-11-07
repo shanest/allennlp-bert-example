@@ -1,9 +1,0 @@
-AND	All
-DEF	the
-CON	flowers
-REL	in
-DEF	the
-CON	garden
-NOW	are
-COL	yellow
-NIL	.

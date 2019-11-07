@@ -1,9 +1,0 @@
-PER	Tom
-NOW	does
-NOT	n't
-EXS	care
-QUE	what
-ENS	happens
-SUB	to
-PER	Mary
-NIL	.

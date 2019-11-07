@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-IST	afraid
-PRO	I
-ENS	owe
-PRO	you
-DIS	an
-CON	apology
-NIL	.

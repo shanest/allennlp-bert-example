@@ -1,9 +1,0 @@
-PRO	He
-EPS	said
-COO	:
-NIL	"
-EXS	Leave
-PRO	me
-AND	alone
-NIL	!
-NIL	"

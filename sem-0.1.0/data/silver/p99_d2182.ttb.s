@@ -1,9 +1,0 @@
-PRO	I
-NOW	hear
-PRO	you
-NOW	've
-PFT	been
-IST	pretty
-EXS	busy
-REF	yourself
-NIL	.

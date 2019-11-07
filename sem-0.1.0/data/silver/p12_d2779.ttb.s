@@ -1,9 +1,0 @@
-DEF	The
-CON	service
-CON	agent
-EPS	helped
-PRO	me
-EXS	solve
-HAS	my
-CON	problem
-NIL	.

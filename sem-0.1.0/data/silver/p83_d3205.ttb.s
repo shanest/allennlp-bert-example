@@ -1,9 +1,0 @@
-PRO	She
-POS	may
-EXS	be
-EXS	waiting
-REL	at
-DEF	the
-CON	station
-NOW	now
-NIL	.

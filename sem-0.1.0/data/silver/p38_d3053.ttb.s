@@ -1,9 +1,0 @@
-PRO	I
-EPS	felt
-DIS	a
-IST	sharp
-CON	pain
-REL	in
-DEF	the
-CON	stomach
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-EPS	saw
-QUE	what
-PST	was
-EXS	happening
-COO	and
-EPS	started
-EXG	screaming
-NIL	.

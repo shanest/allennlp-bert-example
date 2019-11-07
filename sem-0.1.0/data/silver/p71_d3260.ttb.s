@@ -1,9 +1,0 @@
-PER	Tom
-EPS	wanted
-SUB	to
-EXS	do
-DIS	something
-IST	nice
-REL	for
-PER	Mary
-NIL	.

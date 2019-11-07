@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-EXS	made
-QUV	many
-CON	sacrifices
-REL	for
-HAS	my
-CON	country
-NIL	.

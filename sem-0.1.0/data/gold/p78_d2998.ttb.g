@@ -1,9 +1,0 @@
-REL	In
-DEF	the
-FUT	future
-NIL	,
-CON	cars
-FUT	will
-EXS	drive
-REF	themselves
-NIL	.

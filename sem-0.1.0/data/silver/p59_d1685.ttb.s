@@ -1,9 +1,0 @@
-PRO	I
-EPS	gave
-HAS	my
-CON	seat
-REL	to
-DEF	the
-IST	old
-CON	lady
-NIL	.

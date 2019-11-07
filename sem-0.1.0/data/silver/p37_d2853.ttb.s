@@ -1,9 +1,0 @@
-ROL	Mr
-PER	Smith
-NOW	is
-NOW	now
-ROL	president
-AND	of
-PRX	this
-CON	company
-NIL	.

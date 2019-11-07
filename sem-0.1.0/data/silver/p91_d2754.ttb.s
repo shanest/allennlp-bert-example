@@ -1,9 +1,0 @@
-SUB	When
-POS	can
-PRO	you
-EXS	let
-PRO	me
-EXS	know
-DEF	the
-CON	result
-QUE	?

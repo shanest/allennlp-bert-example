@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	looking
-AND	out
-DEF	the
-CON	window
-AND	right
-NOW	now
-NIL	.

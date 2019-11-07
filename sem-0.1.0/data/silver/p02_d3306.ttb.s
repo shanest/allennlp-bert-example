@@ -1,9 +1,0 @@
-PRO	I
-ENS	need
-DIS	a
-CON	hacksaw
-SUB	to
-EXS	finish
-PRX	this
-CON	job
-NIL	.

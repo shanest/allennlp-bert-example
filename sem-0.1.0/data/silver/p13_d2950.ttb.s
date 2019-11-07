@@ -1,9 +1,0 @@
-PRX	This
-NOW	is
-DEF	the
-IST	perfect
-ROL	Mother
-HAS	's
-TIM	Day
-CON	gift
-NIL	.

@@ -1,9 +1,0 @@
-UNK	There
-HAS	's
-DIS	somebody
-AND	who
-ENS	wants
-SUB	to
-EXS	meet
-PRO	you
-NIL	.

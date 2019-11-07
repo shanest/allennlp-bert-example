@@ -1,9 +1,0 @@
-PRO	You
-NEC	should
-EXS	try
-SUB	to
-EXS	be
-MOR	more
-AND	like
-PER	Tom
-NIL	.

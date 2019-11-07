@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	made
-DIS	a
-CON	mistake
-REL	in
-HAS	my
-CON	calculations
-NIL	.

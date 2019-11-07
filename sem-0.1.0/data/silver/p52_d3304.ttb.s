@@ -1,9 +1,0 @@
-PRO	We
-ENS	know
-PER	Tom
-PST	was
-REL	with
-PRO	you
-SUB	that
-CON	night
-NIL	.

@@ -1,9 +1,0 @@
-PRO	We
-AND	all
-EPS	cried
-SUB	when
-PRO	we
-EPS	watched
-DEF	the
-CON	movie
-NIL	.

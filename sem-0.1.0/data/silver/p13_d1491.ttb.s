@@ -1,9 +1,0 @@
-IST	Bad
-CON	laws
-NOW	are
-DEF	the
-BOT	worst
-CON	sort
-AND	of
-CON	tyranny
-NIL	.

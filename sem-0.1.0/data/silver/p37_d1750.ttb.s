@@ -1,9 +1,0 @@
-CON	Listen
-NIL	!
-PRO	They
-NOW	're
-EXS	playing
-HAS	my
-IST	favorite
-CON	music
-NIL	.

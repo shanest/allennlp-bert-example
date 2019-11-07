@@ -1,9 +1,0 @@
-PER	Tom
-NEC	should
-NOT	n't
-EXT	have
-EXS	driven
-PER	Mary
-HAS	's
-CON	car
-NIL	.

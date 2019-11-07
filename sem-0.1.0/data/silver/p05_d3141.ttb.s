@@ -1,9 +1,0 @@
-IST	Please
-EXS	remove
-HAS	your
-CON	shoes
-SUB	before
-EXG	entering
-DEF	the
-CON	house
-NIL	.

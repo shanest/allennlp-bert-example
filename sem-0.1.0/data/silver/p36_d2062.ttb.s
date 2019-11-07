@@ -1,9 +1,0 @@
-DEF	The
-CON	pirates
-PST	had
-NOT	no
-CON	choice
-BUT	but
-SUB	to
-EXS	surrender
-NIL	.

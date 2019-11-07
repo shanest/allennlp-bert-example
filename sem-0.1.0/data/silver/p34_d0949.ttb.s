@@ -1,9 +1,0 @@
-DEF	The
-CON	police
-CON	officers
-NOW	have
-EPS	stopped
-PRO	me
-QUV	many
-CON	times
-NIL	.

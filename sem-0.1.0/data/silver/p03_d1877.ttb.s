@@ -1,9 +1,0 @@
-PRO	It
-NOW	has
-DIS	an
-IST	important
-CON	influence
-REL	upon
-HAS	our
-CON	lives
-NIL	.

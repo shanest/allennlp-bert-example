@@ -1,9 +1,0 @@
-EXS	Be
-IST	sure
-REL	to
-CON	telephone
-REL	by
-DOW	Friday
-NIL	,
-CON	OK
-QUE	?

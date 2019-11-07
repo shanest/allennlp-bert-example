@@ -1,9 +1,0 @@
-PER	Tom
-EPS	found
-PRO	it
-UNK	difficult
-SUB	to
-EXS	answer
-DEF	the
-CON	question
-NIL	.

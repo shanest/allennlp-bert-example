@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-PFT	been
-IST	out
-EXS	running
-AND	around
-AND	all
-CON	day
-NIL	.

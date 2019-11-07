@@ -1,9 +1,0 @@
-PRO	He
-EPS	took
-HAS	his
-CON	wallet
-AND	out
-AND	of
-HAS	his
-CON	pocket
-NIL	.

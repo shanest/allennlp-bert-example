@@ -1,9 +1,0 @@
-HAS	My
-PST	ex
-ROL	boyfriend
-PST	was
-EXS	brought
-REL	up
-REL	in
-GPE	Portugal
-NIL	.

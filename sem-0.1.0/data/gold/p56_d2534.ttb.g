@@ -1,7 +1,0 @@
-PRO	I
-ENS	go
-REL	to
-CON	bed
-REL	at
-CLO	10.30
-NIL	.

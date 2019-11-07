@@ -1,9 +1,0 @@
-AND	Almost
-AND	everyone
-PRO	I
-ENS	know
-ENS	knows
-QUE	how
-SUB	to
-EXS	swim
-NIL	.

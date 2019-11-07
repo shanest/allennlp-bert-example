@@ -1,9 +1,0 @@
-PER	Tom
-EPS	told
-PRO	me
-SUB	that
-PRO	he
-PST	was
-IST	already
-EXS	married
-NIL	.

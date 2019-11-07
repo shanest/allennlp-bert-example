@@ -1,9 +1,0 @@
-PRO	I
-ENS	want
-INT	very
-QUV	much
-REL	for
-PRO	you
-NIL	to
-EXS	understand
-NIL	.

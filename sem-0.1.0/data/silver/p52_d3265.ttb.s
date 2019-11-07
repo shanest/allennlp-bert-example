@@ -1,9 +1,0 @@
-QUE	Who
-NOW	is
-DEF	the
-CON	woman
-REL	in
-DEF	the
-COL	brown
-CON	coat
-QUE	?

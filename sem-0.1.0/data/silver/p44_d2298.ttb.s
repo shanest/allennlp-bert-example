@@ -1,9 +1,0 @@
-PRO	She
-EPS	talked
-PRO	him
-REL	into
-EXS	going
-REL	to
-DEF	the
-CON	concert
-NIL	.

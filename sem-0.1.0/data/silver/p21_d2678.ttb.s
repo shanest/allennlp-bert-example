@@ -1,9 +1,0 @@
-DEF	The
-CON	bell
-EPS	rang
-AND	and
-DEF	the
-CON	train
-EPS	moved
-IST	off
-NIL	.

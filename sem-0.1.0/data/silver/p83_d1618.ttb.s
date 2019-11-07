@@ -1,9 +1,0 @@
-PRO	I
-POS	ca
-NOT	n't
-IST	ever
-EXS	go
-IST	back
-IST	there
-ALT	again
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-ENS	owe
-QUE	what
-PRO	I
-NOW	am
-NOW	today
-REL	to
-PRO	you
-NIL	.

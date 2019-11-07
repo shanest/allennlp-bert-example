@@ -1,9 +1,0 @@
-ITJ	Hey
-NIL	,
-NOW	guess
-QUE	what
-PRO	I
-NOW	'm
-EXS	doing
-CON	tonight
-NIL	.

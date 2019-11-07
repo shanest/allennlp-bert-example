@@ -1,9 +1,0 @@
-PER	Tom
-EPS	took
-REL	home
-PER	Mary
-HAS	's
-CON	umbrella
-REL	by
-CON	mistake
-NIL	.

@@ -1,9 +1,0 @@
-PER	Wilkins
-EPS	became
-DEF	the
-ROL	captain
-AND	of
-PER	Chelsea
-REL	in
-GEO	1975
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-PST	thought
-PRO	I
-FUT	'd
-EXS	say
-GRE	hello
-REL	to
-PER	Tom
-NIL	.

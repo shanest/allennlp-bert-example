@@ -1,9 +1,0 @@
-PER	Tom
-NOW	keeps
-AND	every
-CON	letter
-HAS	his
-ROL	mother
-ENS	sends
-PRO	him
-NIL	.

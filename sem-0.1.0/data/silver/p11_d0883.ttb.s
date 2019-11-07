@@ -1,9 +1,0 @@
-PRX	These
-NOW	are
-HAS	my
-CON	books
-NIL	,
-DST	those
-NOW	are
-HAS	his
-NIL	.

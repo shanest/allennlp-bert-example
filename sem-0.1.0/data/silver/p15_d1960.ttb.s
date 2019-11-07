@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-NOW	are
-NOT	n't
-EXS	doing
-INT	very
-IST	well
-NIL	.

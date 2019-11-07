@@ -1,9 +1,0 @@
-PRO	You
-NOW	're
-DEF	the
-QUC	one
-AND	who
-EPS	picked
-DEF	the
-CON	fight
-NIL	.

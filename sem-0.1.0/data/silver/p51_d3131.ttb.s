@@ -1,9 +1,0 @@
-PER	Mary
-ENS	says
-SUB	that
-PRO	she
-NOW	's
-IST	allergic
-REL	to
-CON	boys
-NIL	.

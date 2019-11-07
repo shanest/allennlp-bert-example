@@ -1,9 +1,0 @@
-PER	Tom
-NOT	never
-ENS	seems
-SUB	to
-EXS	have
-QUC	much
-SUB	to
-EXS	say
-NIL	.

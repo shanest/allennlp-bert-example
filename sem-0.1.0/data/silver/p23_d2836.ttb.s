@@ -1,9 +1,0 @@
-PER	Tom
-ENS	thinks
-PRO	he
-ENS	knows
-QUE	what
-PER	Mary
-NOW	is
-EXG	doing
-NIL	.

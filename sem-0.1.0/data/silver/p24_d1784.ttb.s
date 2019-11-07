@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	learning
-SUB	to
-EXS	play
-DEF	the
-CON	guitar
-NOW	now
-NIL	.

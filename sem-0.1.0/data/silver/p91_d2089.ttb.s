@@ -1,9 +1,0 @@
-PRO	I
-EPS	gave
-DIS	a
-CON	speech
-REL	at
-DEF	the
-CON	wedding
-PST	yesterday
-NIL	.

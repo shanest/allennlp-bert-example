@@ -1,9 +1,0 @@
-PRO	He
-ENS	has
-IST	bad
-CON	reputation
-AND	of
-PRG	being
-NOT	dis
-IST	honest
-NIL	.

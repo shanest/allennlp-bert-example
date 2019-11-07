@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-IST	afraid
-SUB	that
-PRO	you
-FUT	will
-EXS	get
-EXS	lost
-NIL	.

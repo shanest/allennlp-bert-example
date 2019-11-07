@@ -1,9 +1,0 @@
-FUT	Will
-PRO	you
-EXS	tell
-PRO	me
-SUB	where
-PRO	I
-NOW	am
-EXS	wrong
-QUE	?

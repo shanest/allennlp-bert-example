@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-EXS	said
-SUB	to
-EXS	be
-DIS	a
-IST	great
-ROL	scientist
-NIL	.

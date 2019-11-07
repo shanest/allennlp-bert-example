@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	not
-EXS	seen
-PRO	you
-REL	in
-DIS	a
-CON	while
-NIL	.

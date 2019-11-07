@@ -1,9 +1,0 @@
-XCL	Only
-DIS	a
-CON	handful
-AND	of
-CON	people
-ENS	know
-DEF	the
-CON	fact
-NIL	.

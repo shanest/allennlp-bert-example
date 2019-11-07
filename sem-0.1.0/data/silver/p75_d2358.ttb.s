@@ -1,9 +1,0 @@
-PRO	She
-ENS	likes
-GPE	Hiroshima
-MOR	better
-MOR	than
-AND	any
-ALT	other
-CON	city
-NIL	.

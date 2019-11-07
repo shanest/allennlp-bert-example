@@ -1,9 +1,0 @@
-HAS	My
-CON	mother
-EPS	grew
-IST	pale
-REL	on
-EXS	hearing
-DEF	the
-CON	news
-NIL	.

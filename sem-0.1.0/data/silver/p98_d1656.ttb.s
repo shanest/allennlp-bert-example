@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-PFT	been
-EXS	smoking
-SUB	since
-PRO	I
-PST	was
-QUC	nineteen
-NIL	.

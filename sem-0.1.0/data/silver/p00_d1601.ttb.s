@@ -1,9 +1,0 @@
-DST	That
-NOW	does
-NOT	n't
-EXS	mean
-PRO	I
-NOW	'm
-NOT	not
-IST	happy
-NIL	.

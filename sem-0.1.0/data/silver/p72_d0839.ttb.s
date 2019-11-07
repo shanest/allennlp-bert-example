@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-IST	able
-SUB	to
-EXS	swim
-AND	like
-DIS	a
-CON	fish
-NIL	.

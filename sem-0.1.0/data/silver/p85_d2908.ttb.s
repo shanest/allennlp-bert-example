@@ -1,9 +1,0 @@
-MOR	More
-AND	and
-MOR	more
-CON	students
-NOW	are
-EXG	joining
-DEF	the
-CON	protests
-NIL	.

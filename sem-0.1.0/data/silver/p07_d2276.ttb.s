@@ -1,9 +1,0 @@
-HAS	My
-ROL	uncle
-PST	was
-EXS	involved
-REL	in
-DEF	the
-CON	traffic
-CON	accident
-NIL	.

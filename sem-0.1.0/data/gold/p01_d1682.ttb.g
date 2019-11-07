@@ -1,9 +1,0 @@
-DEF	The
-ROL	witch
-EPS	threw
-DEF	the
-CON	toad
-REL	into
-HAS	her
-CON	cauldron
-NIL	.

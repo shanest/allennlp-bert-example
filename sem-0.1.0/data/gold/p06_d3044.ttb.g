@@ -1,9 +1,0 @@
-PRO	She
-EPS	put
-DEF	the
-IST	dirty
-CON	dishes
-REL	in
-DEF	the
-CON	sink
-NIL	.

@@ -1,9 +1,0 @@
-SUB	Who
-EPS	signed
-DEF	the
-ORG	Declaration
-AND	of
-GEO	Independence
-REL	from
-CON	Vermont
-QUE	?

@@ -1,9 +1,0 @@
-PRO	She
-NOW	is
-EXS	said
-SUB	to
-EXT	have
-EXS	refused
-HAS	his
-CON	proposal
-NIL	.

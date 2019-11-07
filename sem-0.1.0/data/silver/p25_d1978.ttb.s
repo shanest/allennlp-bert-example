@@ -1,9 +1,0 @@
-DEF	The
-CON	boy
-EXS	trotted
-REL	to
-HAS	his
-ROL	father
-HAS	's
-CON	side
-NIL	.

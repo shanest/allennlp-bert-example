@@ -1,9 +1,0 @@
-PER	Tom
-EPS	came
-REL	in
-EXG	carrying
-QUC	three
-CON	cups
-AND	of
-CON	espresso
-NIL	.

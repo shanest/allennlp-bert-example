@@ -1,9 +1,0 @@
-DEF	The
-CON	soldiers
-PST	had
-CON	target
-CON	practice
-REL	in
-DEF	the
-CON	morning
-NIL	.

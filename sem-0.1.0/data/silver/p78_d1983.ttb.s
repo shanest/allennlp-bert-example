@@ -1,9 +1,0 @@
-HAS	His
-CON	mother
-EPS	put
-DEF	the
-CON	money
-REL	in
-REL	for
-PRO	him
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	n't
-EXS	done
-PRX	this
-REL	in
-DIS	a
-CON	while
-NIL	.

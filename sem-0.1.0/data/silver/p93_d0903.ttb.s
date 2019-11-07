@@ -1,9 +1,0 @@
-PER	Tom
-EPS	asked
-PER	Mary
-QUE	how
-QUC	much
-CON	money
-PRO	she
-PST	had
-NIL	.

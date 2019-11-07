@@ -1,9 +1,0 @@
-QUV	Many
-CON	workers
-PST	were
-EXS	trapped
-REL	in
-DEF	the
-CON	coal
-HAS	mine
-NIL	.

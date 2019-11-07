@@ -1,9 +1,0 @@
-PER	Lucy
-NOW	has
-AND	as
-QUC	many
-CON	friends
-AND	as
-PRO	I
-NOW	do
-NIL	.

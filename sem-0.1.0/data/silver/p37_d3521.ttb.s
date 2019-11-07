@@ -1,9 +1,0 @@
-PER	Tom
-EPS	bought
-DIS	some
-CON	apples
-AND	and
-EPS	made
-CON	apple
-CON	sauce
-NIL	.

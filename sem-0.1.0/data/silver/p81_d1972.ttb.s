@@ -1,9 +1,0 @@
-HAS	My
-CON	sister
-NOW	has
-PFT	been
-EXS	married
-REL	for
-QUC	three
-CON	years
-NIL	.

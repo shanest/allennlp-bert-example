@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-NOW	have
-AND	any
-ROL	employees
-AND	who
-EXS	speak
-GPO	French
-QUE	?

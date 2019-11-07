@@ -1,9 +1,0 @@
-AND	All
-AND	of
-DIS	a
-IST	sudden
-DEF	the
-CON	sky
-EPS	became
-CON	overcast
-NIL	.

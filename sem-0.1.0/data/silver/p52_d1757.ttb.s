@@ -1,9 +1,0 @@
-PER	Tom
-NOW	looks
-AND	like
-PRO	he
-NOW	's
-IST	about
-SUB	to
-EXS	puke
-NIL	.

@@ -1,9 +1,0 @@
-IMP	If
-PER	Tom
-ENS	goes
-NIL	,
-PRO	I
-FUT	will
-NIL	,
-ALT	too
-NIL	.

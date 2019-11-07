@@ -1,9 +1,0 @@
-PRO	It
-NOW	looks
-AND	like
-PER	Tom
-NOW	is
-EXS	flirting
-REL	with
-PER	Mary
-NIL	.

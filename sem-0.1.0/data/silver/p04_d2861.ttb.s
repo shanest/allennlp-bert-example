@@ -1,9 +1,0 @@
-DEF	The
-CON	fault
-AND	of
-ALT	another
-NOW	is
-DIS	a
-IST	good
-CON	teacher
-NIL	.

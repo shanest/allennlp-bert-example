@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	getting
-NIL	endlessly
-EXS	annoyed
-REL	by
-PRX	this
-CON	foolishness
-NIL	.

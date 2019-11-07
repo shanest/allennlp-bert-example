@@ -1,9 +1,0 @@
-PER	Mary
-NOT	never
-ENS	leaves
-DEF	the
-CON	house
-NOT	without
-HAS	her
-CON	hijab
-NIL	.

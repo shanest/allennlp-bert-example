@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-EXS	good
-SUB	to
-EXS	see
-PRO	you
-AND	all
-ALT	again
-NIL	.

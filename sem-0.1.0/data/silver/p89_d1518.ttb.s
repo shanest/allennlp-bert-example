@@ -1,9 +1,0 @@
-PRO	I
-EPS	found
-PRO	it
-IST	easy
-SUB	to
-EXS	answer
-PRX	this
-CON	question
-NIL	.

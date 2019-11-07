@@ -1,9 +1,0 @@
-PRO	He
-NOW	has
-PFT	been
-EXS	sick
-REL	for
-DIS	a
-IST	long
-CON	time
-NIL	.

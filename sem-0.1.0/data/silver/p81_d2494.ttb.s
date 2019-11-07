@@ -1,9 +1,0 @@
-PRO	She
-EPS	removed
-HAS	her
-CON	makeup
-COO	and
-EPS	washed
-HAS	her
-CON	face
-NIL	.

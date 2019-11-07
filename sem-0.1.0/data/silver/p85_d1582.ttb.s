@@ -1,9 +1,0 @@
-PRO	I
-IST	always
-EXS	say
-GRE	goodbye
-NIL	,
-COO	and
-PRO	I
-EXS	stay
-NIL	.

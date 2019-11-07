@@ -1,9 +1,0 @@
-QUV	Many
-CON	people
-NOW	use
-CON	cash
-CON	machines
-SUB	to
-EXS	withdraw
-CON	money
-NIL	.

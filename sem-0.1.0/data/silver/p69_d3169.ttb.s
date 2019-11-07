@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	trying
-NOT	not
-SUB	to
-EXS	make
-PER	Tom
-EXS	angry
-NIL	.

@@ -1,9 +1,0 @@
-PRX	This
-NOW	is
-DEF	the
-CON	boy
-PRO	I
-EPS	met
-UNK	there
-PST	yesterday
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-ENS	cry
-AND	every
-CON	time
-PRO	I
-ENS	watch
-SUB	that
-CON	film
-NIL	.

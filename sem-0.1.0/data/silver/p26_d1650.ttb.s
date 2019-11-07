@@ -1,9 +1,0 @@
-PER	Tom
-FUT	wo
-NOT	n't
-EXS	be
-IST	happy
-SUB	to
-EXS	see
-PRO	you
-NIL	.

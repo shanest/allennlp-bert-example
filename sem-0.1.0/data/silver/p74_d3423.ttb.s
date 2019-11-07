@@ -1,9 +1,0 @@
-EXS	Put
-PRO	it
-IST	back
-SUB	where
-PRO	you
-EPS	got
-PRO	it
-REL	from
-NIL	.

@@ -1,9 +1,0 @@
-GPE	India
-NOW	is
-DIS	a
-CON	region
-EXS	rich
-REL	in
-IST	culinary
-CON	culture
-NIL	.

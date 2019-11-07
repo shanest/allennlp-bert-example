@@ -1,9 +1,0 @@
-PRO	We
-EPS	fixed
-DEF	the
-CON	date
-REL	for
-HAS	our
-CON	class
-CON	reunion
-NIL	.

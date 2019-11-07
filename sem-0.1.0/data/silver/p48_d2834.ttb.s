@@ -1,9 +1,0 @@
-QUE	How
-SUB	about
-EXS	holding
-DIS	a
-IST	barbecue
-CON	party
-AND	next
-DOW	Sunday
-QUE	?

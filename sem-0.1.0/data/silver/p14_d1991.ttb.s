@@ -1,9 +1,0 @@
-PER	Liisa
-EPS	put
-HAS	her
-CON	hand
-REL	on
-PER	Markku
-HAS	's
-CON	shoulder
-NIL	.

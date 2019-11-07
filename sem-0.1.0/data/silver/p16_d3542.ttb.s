@@ -1,9 +1,0 @@
-SUB	Though
-PRO	I
-EPS	failed
-NIL	,
-PRO	I
-FUT	will
-EXS	try
-ALT	again
-NIL	.

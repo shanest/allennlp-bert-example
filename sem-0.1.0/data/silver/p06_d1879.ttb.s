@@ -1,9 +1,0 @@
-PRO	She
-NOW	's
-IST	up
-REL	to
-HAS	her
-CON	neck
-REL	in
-CON	debt
-NIL	.

@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-SUB	where
-PER	Tom
-EPS	put
-HAS	his
-CON	keys
-QUE	?

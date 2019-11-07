@@ -1,9 +1,0 @@
-PRO	He
-EPS	spoke
-REL	with
-DIS	a
-CON	pipe
-REL	in
-HAS	his
-CON	mouth
-NIL	.

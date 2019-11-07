@@ -1,9 +1,0 @@
-PER	Jane
-HAS	's
-CON	farewell
-CON	speech
-EPS	made
-PRO	us
-INT	very
-EXS	sad
-NIL	.

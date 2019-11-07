@@ -1,9 +1,0 @@
-PRO	I
-PST	was
-EXG	eating
-CON	lunch
-SUB	when
-DEF	the
-CON	phone
-EPS	rang
-NIL	.

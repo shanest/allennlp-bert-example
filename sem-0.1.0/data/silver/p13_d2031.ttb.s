@@ -1,9 +1,0 @@
-EXS	Thank
-PRO	you
-INT	very
-QUV	much
-REL	for
-HAS	your
-CON	hospitality
-NOW	today
-NIL	.

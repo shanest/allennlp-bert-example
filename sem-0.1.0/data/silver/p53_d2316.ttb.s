@@ -1,9 +1,0 @@
-PRO	It
-EPS	began
-REL	to
-CON	rain
-SUB	before
-PRO	I
-EPS	got
-CON	home
-NIL	.

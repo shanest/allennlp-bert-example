@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-PER	Tom
-NOW	is
-EXS	acting
-DIS	a
-IST	little
-IST	suspicious
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-IST	still
-ENS	has
-NOT	no
-CON	experience
-REL	for
-PRX	this
-CON	job
-NIL	.

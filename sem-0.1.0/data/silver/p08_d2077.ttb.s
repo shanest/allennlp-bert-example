@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	faced
-REL	with
-DIS	a
-CON	mountain
-AND	of
-CON	problems
-NIL	.

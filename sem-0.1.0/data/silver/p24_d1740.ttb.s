@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-QUE	why
-PRO	you
-NOW	are
-NOT	n't
-EXS	happy
-PRX	here
-NIL	.

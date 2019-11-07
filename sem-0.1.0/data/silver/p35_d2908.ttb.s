@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	going
-SUB	to
-EXS	correct
-DEF	the
-CON	homework
-FUT	tomorrow
-NIL	.

@@ -1,9 +1,0 @@
-EXS	Did
-PRO	you
-EXS	hear
-QUE	what
-PER	Tom
-EPS	said
-AND	about
-PER	Mary
-QUE	?

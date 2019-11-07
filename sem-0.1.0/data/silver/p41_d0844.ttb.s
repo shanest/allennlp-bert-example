@@ -1,9 +1,0 @@
-PRO	They
-PST	were
-INT	too
-EXS	tired
-SUB	to
-EXS	climb
-DIS	a
-CON	mountain
-NIL	.

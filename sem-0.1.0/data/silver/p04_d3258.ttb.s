@@ -1,9 +1,0 @@
-DEF	The
-CON	man
-ENS	speaks
-ART	English
-REL	with
-DIS	a
-GPO	German
-CON	accent
-NIL	.

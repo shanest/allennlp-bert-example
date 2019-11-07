@@ -1,9 +1,0 @@
-PER	Tom
-EPS	slid
-HAS	his
-CON	tongue
-REL	into
-PER	Mary
-HAS	's
-CON	ear
-NIL	.

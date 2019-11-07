@@ -1,9 +1,0 @@
-QUE	How
-NOW	do
-PRO	we
-EXS	know
-SUB	that
-PRO	he
-NOW	's
-EXS	innocent
-QUE	?

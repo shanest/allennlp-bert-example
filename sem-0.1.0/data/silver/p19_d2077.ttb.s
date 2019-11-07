@@ -1,9 +1,0 @@
-QUE	What
-CON	time
-NOW	does
-ORG	Flight
-CON	123
-REL	from
-GPE	Tokyo
-EXS	arrive
-QUE	?

@@ -1,9 +1,0 @@
-PER	Walt
-ENS	sacrifies
-REF	himself
-REL	for
-PER	Thao
-COO	and
-HAS	his
-ROL	sister
-NIL	.

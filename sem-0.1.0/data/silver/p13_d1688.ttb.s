@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-DEF	the
-BOT	worst
-CON	student
-REL	in
-DEF	the
-CON	class
-NIL	.

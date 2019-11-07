@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-NOW	have
-DIS	a
-IST	Christmas
-CON	vacation
-REL	in
-GPE	Japan
-QUE	?

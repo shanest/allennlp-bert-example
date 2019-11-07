@@ -1,9 +1,0 @@
-EXS	Did
-PRO	you
-EXS	respond
-EXS	talk
-IST	back
-REL	to
-HAS	your
-ROL	father
-QUE	?

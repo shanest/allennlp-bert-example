@@ -1,9 +1,0 @@
-PRO	You
-NOW	are
-EXS	asking
-PRO	me
-SUB	to
-EXS	do
-DEF	the
-EXS	impossible
-NIL	.

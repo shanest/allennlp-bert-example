@@ -1,9 +1,0 @@
-PER	Tom
-EPS	began
-SUB	to
-EXS	like
-PER	Mary
-MOR	more
-AND	and
-IST	more
-NIL	.

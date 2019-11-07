@@ -1,9 +1,0 @@
-PER	Tom
-EPS	put
-DEF	the
-CON	hairbrush
-IST	back
-REL	in
-DEF	the
-CON	drawer
-NIL	.

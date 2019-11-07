@@ -1,9 +1,0 @@
-CON	People
-NOW	do
-IST	stupid
-CON	things
-SUB	when
-PRO	they
-NOW	're
-EXS	tired
-NIL	.

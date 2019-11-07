@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-PFT	been
-EXS	studying
-GPO	English
-REL	for
-QUC	three
-CON	years
-NIL	.

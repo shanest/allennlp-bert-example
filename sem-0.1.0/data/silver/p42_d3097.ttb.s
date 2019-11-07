@@ -1,9 +1,0 @@
-HAS	His
-CON	ideas
-NOT	never
-EPS	earned
-PRO	him
-AND	even
-QUC	one
-CON	penny
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-PST	was
-EXS	surprised
-SUB	that
-PER	Mary
-PST	had
-DIS	a
-CON	motorcycle
-NIL	.

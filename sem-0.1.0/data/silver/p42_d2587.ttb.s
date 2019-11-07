@@ -1,9 +1,0 @@
-PRO	I
-XCL	only
-ENS	want
-DEF	the
-CON	money
-PRO	you
-ENS	owe
-PRO	me
-NIL	.

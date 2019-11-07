@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-IST	eager
-SUB	to
-EXS	buy
-DIS	a
-IST	new
-CON	car
-NIL	.

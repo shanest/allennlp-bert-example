@@ -1,9 +1,0 @@
-PRO	I
-EPS	gave
-QUC	three
-CON	pencils
-REL	to
-AND	each
-AND	of
-PRO	them
-NIL	.

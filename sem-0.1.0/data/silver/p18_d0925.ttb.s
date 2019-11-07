@@ -1,9 +1,0 @@
-PER	Tom
-EPS	ran
-DEF	the
-CON	marathon
-REL	in
-REL	under
-QUC	five
-UOM	hours
-NIL	.

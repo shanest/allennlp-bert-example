@@ -1,9 +1,0 @@
-PRO	You
-NOW	're
-EXS	lucky
-PER	Tom
-PST	did
-NOT	n't
-EXS	hit
-PRO	you
-NIL	.

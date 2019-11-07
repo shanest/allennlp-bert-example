@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	going
-SUB	to
-EXS	wait
-PRX	here
-REL	for
-PRO	him
-NIL	.

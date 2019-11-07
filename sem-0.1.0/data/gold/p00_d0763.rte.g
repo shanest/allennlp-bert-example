@@ -1,9 +1,0 @@
-GPO	Russians
-ENS	hold
-CON	record
-REL	for
-TOP	longest
-CON	stay
-REL	in
-CON	space
-NIL	.

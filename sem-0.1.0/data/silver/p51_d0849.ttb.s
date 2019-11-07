@@ -1,9 +1,0 @@
-PRO	She
-EPS	fell
-IST	down
-COO	and
-EPS	broke
-HAS	her
-IST	left
-CON	leg
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PRO	I
-NOW	have
-NOT	n't
-EXS	talked
-REL	in
-CON	years
-NIL	.

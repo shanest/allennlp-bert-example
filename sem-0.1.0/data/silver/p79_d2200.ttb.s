@@ -1,9 +1,0 @@
-DEF	The
-CON	crowd
-EPS	gave
-DEF	the
-ROL	winner
-DIS	a
-IST	big
-CON	hand
-NIL	.

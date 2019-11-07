@@ -1,9 +1,0 @@
-DEF	The
-CON	baby
-POS	can
-NOT	not
-EXS	use
-DIS	a
-CON	spoon
-ALT	yet
-NIL	.

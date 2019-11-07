@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-DIS	a
-IST	cordless
-CON	phone
-REL	with
-QUC	two
-CON	handsets
-NIL	.

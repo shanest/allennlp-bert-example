@@ -1,9 +1,0 @@
-NIL	There
-HAS	's
-NOT	no
-ALT	other
-CON	way
-SUB	to
-EXS	do
-PRX	this
-NIL	.

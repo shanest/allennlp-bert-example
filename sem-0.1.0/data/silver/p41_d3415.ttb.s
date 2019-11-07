@@ -1,9 +1,0 @@
-PRO	I
-EPS	met
-PRO	her
-REL	on
-DEF	the
-CON	street
-REL	by
-CON	accident
-NIL	.

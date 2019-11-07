@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-PER	Tom
-ENS	wants
-SUB	to
-EXS	sell
-PRO	us
-DIS	something
-NIL	.

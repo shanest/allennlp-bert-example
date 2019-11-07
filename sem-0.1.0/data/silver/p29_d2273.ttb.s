@@ -1,9 +1,0 @@
-PRO	He
-ENS	writes
-REL	to
-PRO	me
-QUC	once
-REL	in
-DIS	a
-CON	while
-NIL	.

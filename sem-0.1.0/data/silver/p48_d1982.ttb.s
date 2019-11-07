@@ -1,9 +1,0 @@
-PRO	You
-EPS	ate
-CON	sushi
-PST	yesterday
-NIL	,
-PST	did
-NOT	n't
-PRO	you
-QUE	?

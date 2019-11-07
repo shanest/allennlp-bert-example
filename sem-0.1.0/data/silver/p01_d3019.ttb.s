@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-QUC	twice
-AND	as
-IST	heavy
-AND	as
-PER	Mary
-NOW	is
-NIL	.

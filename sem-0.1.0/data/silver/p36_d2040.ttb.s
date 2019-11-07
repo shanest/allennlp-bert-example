@@ -1,9 +1,0 @@
-PRO	You
-IST	probably
-NEC	should
-NOT	n't
-EXS	mention
-SUB	that
-REL	to
-DIS	anyone
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-HAS	's
-REL	on
-IST	good
-CON	terms
-REL	with
-ROL	Mr.
-PER	Brown
-NIL	.

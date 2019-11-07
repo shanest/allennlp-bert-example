@@ -1,9 +1,0 @@
-AND	Why
-PST	were
-NOT	n't
-PRO	you
-IST	able
-SUB	to
-EXS	do
-DST	that
-QUE	?

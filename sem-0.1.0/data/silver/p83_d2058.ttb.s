@@ -1,9 +1,0 @@
-PRO	I
-EPS	made
-PER	Tom
-NOW	promise
-NOT	not
-SUB	to
-EXS	tell
-PER	Mary
-NIL	.

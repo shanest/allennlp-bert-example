@@ -1,9 +1,0 @@
-CON	Canals
-NOW	have
-PFT	been
-EXS	built
-SUB	to
-EXS	irrigate
-DEF	the
-CON	desert
-NIL	.

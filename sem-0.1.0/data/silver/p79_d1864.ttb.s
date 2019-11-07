@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-DST	that
-HAS	's
-QUE	where
-PER	Tom
-NOW	is
-NOW	now
-NIL	.

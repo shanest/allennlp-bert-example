@@ -1,9 +1,0 @@
-PRO	He
-EPS	made
-DEF	the
-TOP	best
-AND	of
-HAS	his
-IST	small
-CON	income
-NIL	.

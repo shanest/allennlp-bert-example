@@ -1,9 +1,0 @@
-DEF	The
-CON	revision
-AND	of
-PRX	this
-CON	dictionary
-EPS	took
-QUC	six
-CON	years
-NIL	.

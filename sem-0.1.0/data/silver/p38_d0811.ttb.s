@@ -1,9 +1,0 @@
-DEF	The
-CON	trouble
-NOW	is
-SUB	that
-PRO	it
-NOW	costs
-INT	too
-QUC	much
-NIL	.

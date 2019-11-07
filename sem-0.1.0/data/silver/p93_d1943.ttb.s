@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-IST	ever
-PFT	been
-EXS	bitten
-REL	by
-HAS	your
-CON	dog
-QUE	?

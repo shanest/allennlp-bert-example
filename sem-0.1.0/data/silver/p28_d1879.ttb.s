@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	foolish
-SUB	to
-EXS	read
-AND	such
-DIS	a
-CON	magazine
-NIL	.

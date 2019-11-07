@@ -1,9 +1,0 @@
-AND	Both
-PER	Tom
-AND	and
-PER	Bill
-NOW	are
-EXS	playing
-CON	tennis
-NOW	now
-NIL	.

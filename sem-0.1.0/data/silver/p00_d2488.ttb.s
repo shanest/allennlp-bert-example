@@ -1,9 +1,0 @@
-PER	Brian
-ENS	gets
-HAS	his
-ROL	mother
-NIL	to
-EXS	do
-HAS	his
-CON	homework
-NIL	.

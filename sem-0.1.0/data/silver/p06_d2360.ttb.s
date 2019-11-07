@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-ENS	know
-SUB	when
-PRO	he
-FUT	'll
-EXS	come
-IST	back
-QUE	?

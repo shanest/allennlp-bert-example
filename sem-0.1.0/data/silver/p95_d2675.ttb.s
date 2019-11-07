@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	interested
-REL	in
-DEF	the
-CON	study
-AND	of
-CON	insects
-NIL	.

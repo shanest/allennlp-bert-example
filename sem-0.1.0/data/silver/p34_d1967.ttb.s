@@ -1,9 +1,0 @@
-PRX	This
-NOW	is
-QUE	how
-PRO	he
-EPS	killed
-DEF	the
-IST	big
-CON	bear
-NIL	.

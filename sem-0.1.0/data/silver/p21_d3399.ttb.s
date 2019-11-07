@@ -1,9 +1,0 @@
-AND	All
-PRO	we
-ENS	need
-NOW	is
-DIS	a
-IST	few
-IST	more
-ROL	volunteers
-NIL	.

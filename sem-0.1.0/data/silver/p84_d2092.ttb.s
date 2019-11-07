@@ -1,9 +1,0 @@
-PRO	It
-PST	was
-HAS	his
-IST	first
-CON	trip
-AND	as
-DIS	a
-ROL	captain
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-EPS	drew
-DIS	a
-IST	straight
-CON	line
-REL	with
-HAS	his
-CON	pencil
-NIL	.

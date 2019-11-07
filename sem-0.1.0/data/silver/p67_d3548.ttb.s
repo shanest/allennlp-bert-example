@@ -1,9 +1,0 @@
-PRO	You
-PST	had
-IST	better
-NOT	not
-EXS	sit
-IST	up
-AND	so
-IST	late
-NIL	.

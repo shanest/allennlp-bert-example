@@ -1,9 +1,0 @@
-DEF	The
-CON	dress
-REL	in
-DEF	the
-CON	window
-EPS	caught
-HAS	my
-CON	eye
-NIL	.

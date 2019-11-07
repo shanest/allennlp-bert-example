@@ -1,9 +1,0 @@
-DEF	The
-DEC	1960s
-PST	were
-CON	years
-AND	of
-CON	protest
-AND	and
-CON	reform
-NIL	.

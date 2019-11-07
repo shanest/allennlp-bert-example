@@ -1,9 +1,0 @@
-EXS	Let
-PRO	me
-EXS	know
-AND	as
-IST	soon
-SUB	as
-PRO	he
-ENS	comes
-NIL	.

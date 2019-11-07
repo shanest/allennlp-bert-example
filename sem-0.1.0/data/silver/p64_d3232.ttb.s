@@ -1,9 +1,0 @@
-HAS	His
-ROL	son
-PST	had
-PFT	been
-EXS	killed
-REL	in
-DIS	a
-CON	duel
-NIL	.

@@ -1,9 +1,0 @@
-PRO	We
-NOW	're
-EXS	talking
-REL	about
-PER	Tom
-NIL	,
-NOT	not
-PER	Mary
-NIL	.

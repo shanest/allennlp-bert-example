@@ -1,9 +1,0 @@
-PRO	I
-POS	could
-NOT	n't
-EXS	understand
-AND	anything
-SUB	that
-PRO	he
-EPS	said
-NIL	.

@@ -1,9 +1,0 @@
-PER	Lucy
-HAS	's
-IST	innocent
-CON	crush
-EPS	turned
-REL	into
-DIS	an
-CON	obsession
-NIL	.

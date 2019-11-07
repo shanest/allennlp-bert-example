@@ -1,9 +1,0 @@
-GPE	Greece
-NOW	is
-EXS	called
-NIL	"
-ITJ	Hellas
-NIL	"
-REL	in
-GPO	Greek
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-PST	was
-NOT	never
-IST	really
-REL	in
-CON	love
-REL	with
-PER	Mary
-NIL	.

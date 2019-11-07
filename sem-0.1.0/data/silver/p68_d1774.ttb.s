@@ -1,9 +1,0 @@
-AND	Just
-NOW	do
-QUE	what
-PRO	you
-NOW	've
-EXS	got
-SUB	to
-EXS	do
-NIL	.

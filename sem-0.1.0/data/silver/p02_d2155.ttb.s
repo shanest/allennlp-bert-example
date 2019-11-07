@@ -1,9 +1,0 @@
-PRO	She
-PST	had
-EXS	chosen
-SUB	to
-EXS	succumb
-REL	to
-IST	parental
-CON	pressure
-NIL	.

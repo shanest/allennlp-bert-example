@@ -1,9 +1,0 @@
-QUE	What
-PST	did
-PER	Marika
-NOW	say
-IST	about
-CON	life
-REL	in
-GPE	Japan
-QUE	?

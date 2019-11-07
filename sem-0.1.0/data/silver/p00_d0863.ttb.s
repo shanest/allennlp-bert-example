@@ -1,9 +1,0 @@
-PRO	You
-IST	really
-NOW	are
-IST	tall
-NIL	,
-NOW	are
-NOT	n't
-PRO	you
-QUE	?

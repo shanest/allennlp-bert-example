@@ -1,9 +1,0 @@
-PRO	He
-EPS	offered
-DIS	a
-IST	big
-CON	bribe
-REL	to
-DEF	the
-ROL	politician
-NIL	.

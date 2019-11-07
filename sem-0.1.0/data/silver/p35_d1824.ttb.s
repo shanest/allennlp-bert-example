@@ -1,9 +1,0 @@
-PRO	You
-POS	ca
-NOT	n't
-EXS	talk
-REL	to
-PER	Tom
-ENS	like
-SUB	that
-NIL	.

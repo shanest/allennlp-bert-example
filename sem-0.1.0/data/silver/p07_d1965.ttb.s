@@ -1,9 +1,0 @@
-PRO	I
-NOW	hope
-PRO	you
-NOW	're
-NOT	not
-IST	mad
-REL	at
-PRO	me
-NIL	.

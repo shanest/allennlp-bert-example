@@ -1,9 +1,0 @@
-PER	Tom
-NOW	makes
-DIS	a
-CON	lot
-MOR	more
-CON	money
-AND	than
-PER	Mary
-NIL	.

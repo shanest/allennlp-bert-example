@@ -1,9 +1,0 @@
-HAS	Your
-CON	room
-NOW	is
-QUC	twice
-DEF	the
-CON	size
-AND	of
-HAS	mine
-NIL	.

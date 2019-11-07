@@ -1,9 +1,0 @@
-PRO	We
-EPS	found
-DEF	the
-EXT	stolen
-CON	bag
-REL	in
-PRX	this
-CON	bush
-NIL	.

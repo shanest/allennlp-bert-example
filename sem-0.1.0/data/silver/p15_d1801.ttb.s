@@ -1,9 +1,0 @@
-PRO	We
-ENS	associate
-PER	Darwin
-REL	with
-DEF	the
-CON	theory
-AND	of
-CON	evolution
-NIL	.

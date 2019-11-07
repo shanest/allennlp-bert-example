@@ -1,9 +1,0 @@
-PRO	You
-NOW	do
-NOT	n't
-EXS	speak
-CON	French
-NIL	,
-NOW	do
-PRO	you
-QUE	?

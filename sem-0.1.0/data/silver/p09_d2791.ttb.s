@@ -1,9 +1,0 @@
-DEF	The
-CON	students
-PST	were
-NOT	not
-IST	respectful
-AND	towards
-HAS	their
-ROL	teacher
-NIL	.

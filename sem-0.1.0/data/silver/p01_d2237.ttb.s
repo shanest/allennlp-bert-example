@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-REL	about
-DEF	the
-IST	same
-CON	age
-AND	as
-PER	Mary
-NIL	.

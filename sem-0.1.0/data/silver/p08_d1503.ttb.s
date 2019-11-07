@@ -1,9 +1,0 @@
-DEF	The
-CON	plane
-FUT	will
-EXS	take
-REL	off
-REL	in
-QUC	one
-UOM	hour
-NIL	.

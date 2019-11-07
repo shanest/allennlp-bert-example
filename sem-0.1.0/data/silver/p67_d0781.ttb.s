@@ -1,9 +1,0 @@
-PER	Lincoln
-HAS	's
-CON	parents
-EPS	remained
-EXS	poor
-AND	all
-HAS	their
-CON	lives
-NIL	.

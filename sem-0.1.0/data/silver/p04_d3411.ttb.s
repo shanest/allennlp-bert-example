@@ -1,9 +1,0 @@
-REL	At
-QUE	what
-CON	day
-NOW	are
-PRO	you
-REL	off
-NIL	,
-IST	usually
-QUE	?

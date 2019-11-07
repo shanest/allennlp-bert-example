@@ -1,9 +1,0 @@
-PRO	I
-EPS	broke
-AND	both
-HAS	my
-CON	legs
-EXS	riding
-DIS	a
-CON	bicycle
-NIL	.

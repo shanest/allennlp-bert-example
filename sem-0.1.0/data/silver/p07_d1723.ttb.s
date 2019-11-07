@@ -1,9 +1,0 @@
-PER	Tom
-AND	always
-ENS	seems
-SUB	to
-EXS	be
-IST	short
-AND	of
-CON	money
-NIL	.

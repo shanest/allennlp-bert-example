@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	expect
-PRO	you
-SUB	to
-EXS	start
-NOW	now
-NIL	.

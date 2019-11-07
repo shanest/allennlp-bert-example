@@ -1,9 +1,0 @@
-PER	Tony
-ENS	speaks
-GPO	English
-DEF	the
-TOP	best
-REL	in
-HAS	our
-CON	class
-NIL	.

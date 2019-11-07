@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-NOT	not
-EXS	good
-REL	at
-EXS	speaking
-GPO	English
-ALT	yet
-NIL	.

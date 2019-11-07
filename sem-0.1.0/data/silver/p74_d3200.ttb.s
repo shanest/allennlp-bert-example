@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-NOW	are
-IST	there
-REL	with
-PER	John
-NOW	now
-NIL	.

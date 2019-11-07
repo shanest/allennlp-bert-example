@@ -1,9 +1,0 @@
-AND	According
-REL	to
-DEF	the
-CON	newspaper
-NIL	,
-PRO	he
-EPS	committed
-CON	suicide
-NIL	.

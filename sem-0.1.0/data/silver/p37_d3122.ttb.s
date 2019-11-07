@@ -1,9 +1,0 @@
-PER	Tom
-PST	did
-NOT	n't
-EXS	know
-SUB	that
-PER	Mary
-PST	had
-CON	children
-NIL	.

@@ -1,9 +1,0 @@
-EXS	Let
-PRO	's
-EXS	take
-DIS	a
-CON	rest
-REL	for
-DIS	a
-CON	while
-NIL	.

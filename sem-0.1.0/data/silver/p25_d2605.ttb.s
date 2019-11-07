@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	cooked
-PRO	you
-DIS	a
-IST	nice
-IST	hot
-CON	dinner
-NIL	.

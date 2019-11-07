@@ -1,9 +1,0 @@
-PRO	It
-EPS	took
-XCL	only
-QUC	ten
-CON	minutes
-SUB	to
-EXS	walk
-IST	there
-NIL	.

@@ -1,9 +1,0 @@
-UNK	There
-NOW	are
-QUV	many
-ALT	different
-CON	races
-REL	in
-DEF	the
-CON	world
-NIL	.

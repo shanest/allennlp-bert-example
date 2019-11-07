@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-EXS	waited
-QUC	one
-CON	hour
-AND	and
-DIS	a
-CON	half
-NIL	.

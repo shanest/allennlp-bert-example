@@ -1,9 +1,0 @@
-PRO	He
-PST	was
-IST	able
-SUB	to
-EXS	get
-CON	home
-REL	before
-CON	dark
-NIL	.

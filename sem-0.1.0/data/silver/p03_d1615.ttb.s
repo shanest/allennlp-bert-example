@@ -1,9 +1,0 @@
-QUE	What
-NOW	are
-PRO	you
-EXG	getting
-PER	Tom
-REL	for
-HAS	his
-CON	birthday
-QUE	?

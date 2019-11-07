@@ -1,9 +1,0 @@
-DEF	The
-GEO	Philippines
-EPS	defeated
-DEF	the
-GPO	Japanese
-CON	army
-REL	in
-YOC	1945
-NIL	.

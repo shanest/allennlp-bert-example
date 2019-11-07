@@ -1,9 +1,0 @@
-PRO	They
-EPS	began
-SUB	to
-EXS	walk
-ALT	again
-REL	after
-DIS	a
-CON	while
-NIL	.

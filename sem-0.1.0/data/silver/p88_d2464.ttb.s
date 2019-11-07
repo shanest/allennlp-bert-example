@@ -1,9 +1,0 @@
-PRO	He
-ENS	knows
-QUE	how
-SUB	to
-EXS	make
-HAS	his
-CON	wife
-EXS	happy
-NIL	.

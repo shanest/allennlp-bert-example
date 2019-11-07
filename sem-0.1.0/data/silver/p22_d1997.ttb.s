@@ -1,9 +1,0 @@
-DIS	Some
-CON	soldiers
-PST	were
-IST	reluctant
-SUB	to
-EXS	obey
-DEF	the
-CON	commands
-NIL	.

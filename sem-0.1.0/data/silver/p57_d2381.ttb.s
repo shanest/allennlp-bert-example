@@ -1,9 +1,0 @@
-PER	Love
-NOW	is
-EXS	seeing
-HAS	her
-IST	even
-REL	in
-HAS	your
-CON	dreams
-NIL	.

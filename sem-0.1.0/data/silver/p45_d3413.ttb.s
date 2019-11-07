@@ -1,9 +1,0 @@
-DEF	The
-CON	ship
-FUT	will
-EXS	touch
-REL	at
-GEO	Yokohama
-AND	and
-GPE	Kobe
-NIL	.

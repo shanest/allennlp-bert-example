@@ -1,9 +1,0 @@
-PRO	We
-NOW	're
-EXS	expecting
-PER	Tom
-SUB	to
-EXS	be
-PRX	here
-IST	soon
-NIL	.

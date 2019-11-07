@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-IST	exactly
-QUE	what
-ENS	needs
-SUB	to
-EXS	be
-EXS	done
-NIL	.

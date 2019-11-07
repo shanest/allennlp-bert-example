@@ -1,9 +1,0 @@
-SUB	Who
-EPS	was
-SUB	that
-PRO	you
-PST	were
-REL	with
-IST	last
-CON	night
-QUE	?

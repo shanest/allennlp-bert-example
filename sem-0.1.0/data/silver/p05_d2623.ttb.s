@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-EXS	dangerous
-SUB	to
-EXS	swim
-REL	in
-PRX	this
-CON	river
-NIL	.

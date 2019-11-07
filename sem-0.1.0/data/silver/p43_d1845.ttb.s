@@ -1,9 +1,0 @@
-DIS	A
-CON	boy
-HAS	your
-CON	age
-NEC	ought
-SUB	to
-EXS	behave
-IST	well
-NIL	.

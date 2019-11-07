@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	getting
-IST	ready
-NIL	,
-NOW	is
-NOT	n't
-PRO	he
-QUE	?

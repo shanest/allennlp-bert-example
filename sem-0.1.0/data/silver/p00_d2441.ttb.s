@@ -1,9 +1,0 @@
-PRO	It
-FUT	will
-EXS	take
-DIS	an
-CON	hour
-NIL	to
-EXS	get
-IST	there
-NIL	.

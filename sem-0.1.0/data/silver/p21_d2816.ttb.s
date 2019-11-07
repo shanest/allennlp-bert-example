@@ -1,9 +1,0 @@
-PER	Tom
-ENS	says
-PRO	he
-ENS	wants
-SUB	to
-EXS	quit
-HAS	his
-CON	job
-NIL	.

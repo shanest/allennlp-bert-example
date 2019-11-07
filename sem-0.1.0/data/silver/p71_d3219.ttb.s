@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	afraid
-PRX	this
-CON	key
-NOW	does
-NOT	not
-EXS	fit
-NIL	.

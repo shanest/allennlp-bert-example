@@ -1,9 +1,0 @@
-PER	Tom
-EPS	left
-CON	part
-AND	of
-HAS	his
-CON	estate
-REL	to
-PER	Mary
-NIL	.

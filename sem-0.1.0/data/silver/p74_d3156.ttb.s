@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EXS	depressed
-SUB	because
-HAS	his
-CON	girlfriend
-EPS	left
-PRO	him
-NIL	.

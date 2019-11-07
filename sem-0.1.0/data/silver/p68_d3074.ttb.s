@@ -1,9 +1,0 @@
-DEF	The
-CON	sun
-PST	had
-EXS	hidden
-REF	itself
-AND	behind
-DIS	a
-CON	mountain
-NIL	.

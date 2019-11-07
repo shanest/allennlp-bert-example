@@ -1,9 +1,0 @@
-HAS	Her
-CON	husband
-ALT	also
-EPS	wanted
-CON	custody
-AND	of
-DEF	the
-CON	children
-NIL	.

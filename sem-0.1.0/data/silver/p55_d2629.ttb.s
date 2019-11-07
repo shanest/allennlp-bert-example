@@ -1,9 +1,0 @@
-XCL	Only
-IMP	if
-PRO	it
-NOW	's
-NOT	not
-INT	too
-QUC	much
-CON	trouble
-NIL	.

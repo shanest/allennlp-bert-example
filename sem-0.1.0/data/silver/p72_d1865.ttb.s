@@ -1,9 +1,0 @@
-ROL	Mr
-PER	Kawabata
-ENS	writes
-DIS	a
-CON	letter
-CON	home
-AND	every
-CON	year
-NIL	.

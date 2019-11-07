@@ -1,9 +1,0 @@
-POS	Maybe
-PRO	you
-NEC	should
-NOT	n't
-EXT	have
-EXT	told
-PER	Tom
-SUB	that
-NIL	.

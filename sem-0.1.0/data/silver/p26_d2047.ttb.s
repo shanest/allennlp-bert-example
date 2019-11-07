@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-PRO	you
-NOW	're
-EXS	working
-CON	way
-INT	too
-IST	hard
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-EPS	told
-PRO	me
-PRO	he
-PST	was
-EXS	having
-CON	trouble
-EXS	sleeping
-NIL	.

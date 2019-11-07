@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-PRO	you
-NOW	've
-EXS	made
-DIS	a
-IST	terrible
-CON	mistake
-NIL	.

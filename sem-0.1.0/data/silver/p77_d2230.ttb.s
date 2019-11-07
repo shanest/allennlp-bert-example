@@ -1,9 +1,0 @@
-QUE	How
-NOW	is
-CON	Null
-EPS	expressed
-AND	as
-DIS	a
-IST	regular
-CON	expression
-QUE	?

@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-NOT	not
-SUB	as
-EXS	busy
-AND	as
-PER	Tom
-NOW	is
-NIL	.

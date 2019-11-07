@@ -1,9 +1,0 @@
-NOW	Today
-NOW	is
-EXS	going
-NIL	to
-EXS	be
-DIS	a
-IST	good
-CON	day
-NIL	!

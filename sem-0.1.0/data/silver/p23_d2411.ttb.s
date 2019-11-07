@@ -1,9 +1,0 @@
-PER	Tom
-PST	was
-EXS	wrong
-SUB	to
-EXS	refuse
-PER	Mary
-HAS	's
-CON	help
-NIL	.

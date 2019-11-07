@@ -1,9 +1,0 @@
-ROL	Mr.
-PER	Hashimoto
-PST	was
-EXS	confused
-REL	by
-PER	Ken
-HAS	's
-CON	question
-NIL	.

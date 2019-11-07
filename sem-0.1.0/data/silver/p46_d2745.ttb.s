@@ -1,9 +1,0 @@
-PER	Tom
-ENS	knows
-QUE	what
-PER	Mary
-PST	did
-QUC	three
-CON	days
-PST	ago
-NIL	.

@@ -1,9 +1,0 @@
-PRO	It
-NOW	seems
-AND	like
-PRO	we
-NEC	have
-SUB	to
-EXS	go
-NOW	now
-NIL	.

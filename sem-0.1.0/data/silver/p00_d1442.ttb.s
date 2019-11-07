@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-AND	always
-PFT	been
-EXS	good
-REL	with
-HAS	my
-CON	hands
-NIL	.

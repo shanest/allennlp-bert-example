@@ -1,9 +1,0 @@
-CON	Where
-NOW	does
-SUB	that
-CON	idiot
-NOW	think
-PRO	he
-NOW	is
-EXG	going
-QUE	?

@@ -1,9 +1,0 @@
-PRO	They
-EPS	took
-REL	on
-MOR	more
-MOR	than
-PRO	they
-POS	could
-EXS	handle
-NIL	.

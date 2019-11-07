@@ -1,9 +1,0 @@
-DEF	The
-IST	new
-CON	document
-CON	system
-NOW	is
-IST	worth
-UOM	$
-QUC	4,000
-NIL	.

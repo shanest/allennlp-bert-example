@@ -1,9 +1,0 @@
-REL	From
-DIS	a
-CON	movie
-CON	star
-PRO	he
-EPS	became
-DIS	a
-ROL	statesman
-NIL	.

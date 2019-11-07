@@ -1,9 +1,0 @@
-PRX	This
-CON	style
-AND	of
-CON	hat
-NOW	is
-NOW	now
-REL	in
-CON	fashion
-NIL	.

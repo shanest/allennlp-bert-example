@@ -1,9 +1,0 @@
-NOT	No
-CON	one
-ENS	wants
-SUB	to
-EXS	listen
-REL	to
-HAS	my
-CON	opinions
-NIL	.

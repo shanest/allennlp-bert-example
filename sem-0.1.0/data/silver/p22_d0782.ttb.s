@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-IST	glad
-PRO	I
-NOW	've
-IST	finally
-EXS	caught
-PRO	you
-NIL	.

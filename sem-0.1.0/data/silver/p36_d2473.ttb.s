@@ -1,9 +1,0 @@
-PER	Tom
-NOW	's
-COM	smarter
-AND	than
-PRO	you
-NIL	,
-PRO	you
-ENS	know
-NIL	.

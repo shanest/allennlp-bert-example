@@ -1,9 +1,0 @@
-HAS	My
-CON	pen
-NOW	is
-NOT	n't
-SUB	as
-EXS	good
-AND	as
-HAS	yours
-NIL	.

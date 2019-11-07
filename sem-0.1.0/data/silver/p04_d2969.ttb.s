@@ -1,9 +1,0 @@
-PRO	You
-NEC	should
-EXS	suggest
-DIS	something
-AND	like
-PRX	these
-REL	to
-PER	Tom
-NIL	.

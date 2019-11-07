@@ -1,9 +1,0 @@
-FUT	Will
-PRO	you
-EXS	sing
-PRO	me
-DIS	a
-CON	Beatles
-HAS	'
-CON	song
-QUE	?

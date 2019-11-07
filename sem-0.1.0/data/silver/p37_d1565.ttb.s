@@ -1,9 +1,0 @@
-PRO	I
-EPS	thought
-SUB	that
-PRO	he
-EPS	knew
-AND	everything
-AND	about
-GPE	Japan
-NIL	.

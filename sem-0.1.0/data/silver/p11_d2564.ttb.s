@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-NOT	not
-EXS	easy
-EXS	being
-EXS	married
-REL	to
-PER	Tom
-NIL	.

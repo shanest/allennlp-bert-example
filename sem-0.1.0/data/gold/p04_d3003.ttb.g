@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-IST	short
-REL	of
-CON	cash
-REL	at
-DEF	the
-NOW	moment
-NIL	.

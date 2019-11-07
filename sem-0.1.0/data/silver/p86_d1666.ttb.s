@@ -1,9 +1,0 @@
-PRO	I
-ENS	need
-DIS	a
-CON	mirror
-SUB	to
-EXS	comb
-HAS	my
-CON	hair
-NIL	.

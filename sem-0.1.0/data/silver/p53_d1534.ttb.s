@@ -1,9 +1,0 @@
-ROL	Dr.
-PER	Johnson
-NOW	is
-DIS	a
-CON	professor
-REL	at
-DEF	the
-CON	university
-NIL	.

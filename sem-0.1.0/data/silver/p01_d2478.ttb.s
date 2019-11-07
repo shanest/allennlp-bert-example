@@ -1,9 +1,0 @@
-EXS	Did
-PRO	you
-EXS	find
-DIS	anything
-AND	that
-POS	might
-EXS	be
-EXS	useful
-QUE	?

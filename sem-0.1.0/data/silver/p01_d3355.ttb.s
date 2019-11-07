@@ -1,9 +1,0 @@
-PRO	You
-POS	can
-NOT	not
-EXS	believe
-DIS	a
-CON	word
-PRO	he
-ENS	says
-NIL	.

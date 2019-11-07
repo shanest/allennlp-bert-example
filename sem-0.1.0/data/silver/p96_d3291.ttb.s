@@ -1,9 +1,0 @@
-PER	Tom
-NOW	has
-PFT	been
-EXS	arrested
-MOR	more
-MOR	than
-QUC	three
-CON	times
-NIL	.

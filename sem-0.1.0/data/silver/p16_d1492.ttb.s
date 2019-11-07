@@ -1,9 +1,0 @@
-ROL	Mrs.
-PER	Sato
-EPS	pushed
-HAS	her
-CON	son
-SUB	to
-EXS	study
-IST	hard
-NIL	.

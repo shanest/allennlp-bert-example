@@ -1,9 +1,0 @@
-PRO	He
-EPS	struck
-DIS	a
-CON	match
-COO	and
-EPS	lit
-DEF	the
-CON	candles
-NIL	.

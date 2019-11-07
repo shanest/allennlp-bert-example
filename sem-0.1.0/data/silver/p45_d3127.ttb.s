@@ -1,9 +1,0 @@
-DEF	The
-CON	temperature
-EPS	fell
-REL	to
-QUC	five
-UOM	degrees
-REL	below
-QUC	zero
-NIL	.

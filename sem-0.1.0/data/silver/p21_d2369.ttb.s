@@ -1,9 +1,0 @@
-ROL	Mr.
-PER	Smith
-PST	had
-QUC	three
-CON	sons
-AND	who
-EPS	became
-CON	engineers
-NIL	.

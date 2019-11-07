@@ -1,9 +1,0 @@
-PRO	He
-EPS	stuffed
-HAS	his
-CON	laundry
-REL	into
-DIS	a
-IST	large
-CON	bag
-NIL	.

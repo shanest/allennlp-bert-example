@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-INT	very
-UNK	pleased
-SUB	to
-EXS	meet
-PRO	you
-ALT	too
-NIL	.

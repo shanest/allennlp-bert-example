@@ -1,9 +1,0 @@
-PRO	You
-NOW	do
-NOT	n't
-NEC	have
-SUB	to
-EXS	decide
-IST	right
-NOW	now
-NIL	.

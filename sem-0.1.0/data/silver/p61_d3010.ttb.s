@@ -1,9 +1,0 @@
-PER	Tom
-EPS	picked
-IST	up
-SUB	that
-CON	habit
-REL	from
-HAS	his
-ROL	father
-NIL	.

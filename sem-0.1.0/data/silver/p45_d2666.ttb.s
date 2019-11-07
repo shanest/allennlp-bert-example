@@ -1,9 +1,0 @@
-PER	Tom
-PST	was
-EXS	waiting
-REL	for
-PER	Mary
-AND	outside
-DEF	the
-CON	restaurant
-NIL	.

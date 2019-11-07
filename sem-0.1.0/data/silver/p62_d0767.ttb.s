@@ -1,9 +1,0 @@
-QUE	What
-NOW	do
-PRO	you
-NOW	think
-PRO	I
-NOW	've
-PFT	been
-EXS	doing
-QUE	?

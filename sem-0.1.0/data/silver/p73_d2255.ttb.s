@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	no
-CON	idea
-SUB	where
-PRO	she
-NOW	is
-NOW	now
-NIL	.

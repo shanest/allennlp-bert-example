@@ -1,9 +1,0 @@
-PRO	He
-PST	was
-IST	willing
-SUB	to
-EXS	care
-REL	for
-DST	that
-CON	cat
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	look
-IST	forward
-SUB	to
-EXS	meeting
-PRO	you
-ALT	again
-IST	soon
-NIL	.

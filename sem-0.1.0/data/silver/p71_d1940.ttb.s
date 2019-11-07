@@ -1,9 +1,0 @@
-GEO	Cyprus
-NOW	is
-EXS	called
-NIL	"
-ORG	Kıbrıs
-NIL	"
-REL	in
-GPO	Turkish
-NIL	.

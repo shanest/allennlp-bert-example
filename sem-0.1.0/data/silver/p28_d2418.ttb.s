@@ -1,9 +1,0 @@
-DEF	The
-ROL	teacher
-EPS	gave
-PRO	us
-DIS	a
-CON	lot
-AND	of
-CON	homework
-NIL	.

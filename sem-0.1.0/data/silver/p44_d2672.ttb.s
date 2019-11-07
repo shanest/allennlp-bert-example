@@ -1,9 +1,0 @@
-HAS	My
-CON	computer
-EPS	stopped
-EXS	working
-DIS	a
-IST	few
-CON	days
-PST	ago
-NIL	.

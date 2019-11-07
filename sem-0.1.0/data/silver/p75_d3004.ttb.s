@@ -1,9 +1,0 @@
-AND	Everybody
-EPS	knew
-NIL	,
-COO	but
-PRO	I
-PST	did
-NOT	n't
-EXS	care
-NIL	.

@@ -1,9 +1,0 @@
-PRO	She
-EPS	gave
-PRO	me
-DIS	a
-IST	nice
-CON	pair
-AND	of
-CON	shoes
-NIL	.

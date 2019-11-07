@@ -1,9 +1,0 @@
-HAS	My
-CON	father
-IST	often
-NOW	takes
-PRO	me
-REL	to
-CON	baseball
-CON	games
-NIL	.

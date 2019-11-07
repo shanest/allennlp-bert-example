@@ -1,9 +1,0 @@
-IMP	If
-NIL	it
-ENS	rains
-NIL	,
-PRO	he
-FUT	wo
-NOT	n't
-EXS	come
-NIL	.

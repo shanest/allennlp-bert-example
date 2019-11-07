@@ -1,9 +1,0 @@
-AND	How
-AND	about
-EXS	going
-REL	to
-DEF	the
-CON	movies
-REL	on
-DOW	Saturday
-QUE	?

@@ -1,9 +1,0 @@
-PRO	He
-NOW	's
-EXS	planning
-SUB	to
-EXS	travel
-DEF	the
-IST	entire
-CON	country
-NIL	.

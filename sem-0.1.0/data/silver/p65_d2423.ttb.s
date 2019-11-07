@@ -1,9 +1,0 @@
-PER	Tom
-ENS	thinks
-PRO	he
-ENS	knows
-QUE	what
-FUT	will
-EXS	happen
-IST	next
-NIL	.

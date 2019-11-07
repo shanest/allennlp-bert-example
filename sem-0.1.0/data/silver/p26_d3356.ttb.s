@@ -1,9 +1,0 @@
-DEF	The
-CON	government
-EPS	adopted
-IST	strong
-CON	measures
-SUB	to
-EXS	fight
-CON	inflation
-NIL	.

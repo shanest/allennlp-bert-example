@@ -1,9 +1,0 @@
-PRO	I
-FUT	would
-EXS	like
-SUB	to
-EXS	marry
-DIS	somebody
-AND	like
-PRO	her
-NIL	.

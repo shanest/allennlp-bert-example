@@ -1,9 +1,0 @@
-CON	Man
-ENS	modifies
-REL	to
-HAS	his
-CON	needs
-QUE	what
-CON	nature
-ENS	produces
-NIL	.

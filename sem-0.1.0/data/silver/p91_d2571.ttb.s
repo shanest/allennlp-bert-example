@@ -1,9 +1,0 @@
-PRO	She
-EPS	spread
-DEF	the
-CON	gossip
-AND	all
-AND	over
-DEF	the
-CON	town
-NIL	.

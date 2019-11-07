@@ -1,9 +1,0 @@
-PRO	They
-EPS	won
-PRO	us
-AND	over
-REL	with
-HAS	their
-REL	small-town
-CON	hospitality
-NIL	.

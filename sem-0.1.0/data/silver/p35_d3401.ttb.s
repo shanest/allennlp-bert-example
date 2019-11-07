@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-EXS	true
-SUB	that
-PRO	he
-NOW	is
-IST	over
-QUC	seventy
-NIL	.

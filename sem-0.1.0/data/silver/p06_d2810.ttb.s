@@ -1,9 +1,0 @@
-PRX	This
-CON	firm
-ENS	prints
-DIS	a
-CON	lot
-AND	of
-IST	educational
-CON	books
-NIL	.

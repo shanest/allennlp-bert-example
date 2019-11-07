@@ -1,9 +1,0 @@
-PER	Harry
-NOW	is
-IST	ashamed
-AND	of
-EXS	having
-EPS	lied
-REL	to
-PER	Sally
-NIL	.

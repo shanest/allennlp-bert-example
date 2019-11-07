@@ -1,9 +1,0 @@
-PRO	I
-NOW	do
-NOT	n't
-EXS	remember
-PER	Mary
-HAS	's
-CON	smile
-CON	anymore
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-FUT	'll
-EXS	let
-DIS	someone
-AND	else
-EXS	deal
-REL	with
-PRO	it
-NIL	.

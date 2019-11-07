@@ -1,9 +1,0 @@
-PRO	I
-ENS	have
-DIS	a
-CON	cousin
-AND	who
-NOW	is
-DIS	a
-ROL	lawyer
-NIL	.

@@ -1,9 +1,0 @@
-CON	Hopefully
-NIL	,
-PRO	you
-FUT	will
-NOT	not
-EXS	be
-IST	mad
-NOW	now
-NIL	.

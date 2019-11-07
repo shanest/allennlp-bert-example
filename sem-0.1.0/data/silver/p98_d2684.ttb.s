@@ -1,9 +1,0 @@
-NOW	Is
-UNK	there
-DIS	somebody
-PRO	you
-ENS	want
-SUB	to
-EXS	talk
-REL	to
-QUE	?

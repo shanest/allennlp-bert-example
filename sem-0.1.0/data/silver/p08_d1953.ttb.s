@@ -1,9 +1,0 @@
-PRO	He
-EXS	spotted
-QUC	five
-CON	mistakes
-REL	in
-AND	as
-QUV	many
-CON	lines
-NIL	.

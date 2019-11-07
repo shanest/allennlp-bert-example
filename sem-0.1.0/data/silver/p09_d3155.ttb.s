@@ -1,9 +1,0 @@
-PRO	He
-EPS	went
-REL	to
-DEF	the
-CON	cinema
-QUC	five
-CON	days
-PST	ago
-NIL	.

@@ -1,9 +1,0 @@
-AND	Would
-PER	Tom
-EXS	be
-IST	interested
-REL	in
-EXG	going
-REL	with
-PRO	us
-QUE	?

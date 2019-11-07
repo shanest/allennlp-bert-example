@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-NOW	have
-QUV	many
-CON	friends
-AND	here
-REL	in
-GPE	Japan
-QUE	?

@@ -1,9 +1,0 @@
-PER	Tom
-EPS	wanted
-PER	Mary
-SUB	to
-EXS	take
-IST	out
-DEF	the
-CON	garbage
-NIL	.

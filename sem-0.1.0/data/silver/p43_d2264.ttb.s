@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-DEF	the
-QUC	one
-AND	who
-NEC	ought
-SUB	to
-EXS	apologize
-NIL	.

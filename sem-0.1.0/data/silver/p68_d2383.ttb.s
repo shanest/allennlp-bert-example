@@ -1,9 +1,0 @@
-PRO	I
-EPS	took
-DIS	a
-CON	taxi
-REL	to
-DEF	the
-CON	train
-CON	station
-NIL	.

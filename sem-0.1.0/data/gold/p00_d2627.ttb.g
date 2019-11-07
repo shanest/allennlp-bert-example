@@ -1,9 +1,0 @@
-PRO	I
-FUT	'd
-EXS	like
-NIL	to
-EXS	talk
-REL	about
-HAS	your
-CON	situation
-NIL	.

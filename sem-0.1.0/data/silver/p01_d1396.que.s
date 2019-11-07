@@ -1,9 +1,0 @@
-QUE	What
-GPO	Chinese
-CON	Dynasty
-PST	was
-AND	during
-YOC	1412
-AND	-
-YOC	1431
-QUE	?

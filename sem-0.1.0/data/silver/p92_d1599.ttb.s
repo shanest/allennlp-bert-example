@@ -1,9 +1,0 @@
-AND	Every
-NOW	now
-COO	and
-IST	then
-PRO	they
-EPS	went
-CON	shopping
-IST	together
-NIL	.

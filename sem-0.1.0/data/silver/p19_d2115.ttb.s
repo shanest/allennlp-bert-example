@@ -1,9 +1,0 @@
-PRO	I
-POS	ca
-NOT	n't
-EXS	remember
-AND	everything
-PER	Tom
-EPS	told
-PRO	me
-NIL	.

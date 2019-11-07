@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-PRO	we
-NEC	ought
-SUB	to
-EXS	change
-HAS	our
-CON	policy
-NIL	.

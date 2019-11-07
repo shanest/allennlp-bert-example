@@ -1,9 +1,0 @@
-PER	Mary
-EPS	took
-PER	Tom
-REL	for
-AND	every
-CON	cent
-PRO	he
-PST	had
-NIL	.

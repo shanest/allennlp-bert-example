@@ -1,9 +1,0 @@
-PER	Tom
-EPS	hung
-DIS	a
-IST	dark
-CON	curtain
-AND	over
-DEF	the
-CON	window
-NIL	.

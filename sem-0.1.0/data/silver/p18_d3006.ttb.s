@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-NOT	never
-EXS	found
-DST	that
-SUB	to
-EXS	be
-EXS	necessary
-NIL	.

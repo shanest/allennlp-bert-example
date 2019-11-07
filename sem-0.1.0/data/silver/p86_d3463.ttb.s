@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-EXS	forbidden
-SUB	to
-EXS	make
-DEF	the
-CON	dogs
-ENS	pee
-NIL	.

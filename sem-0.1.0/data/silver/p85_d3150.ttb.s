@@ -1,9 +1,0 @@
-NOW	Have
-PRO	you
-IST	ever
-EXS	been
-AND	inside
-PER	Tom
-HAS	's
-CON	house
-QUE	?

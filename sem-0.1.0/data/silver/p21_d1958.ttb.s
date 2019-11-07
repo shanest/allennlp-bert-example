@@ -1,8 +1,0 @@
-PRO	We
-NOW	're
-IST	still
-EXS	waiting
-REL	for
-DIS	an
-CON	answer
-NIL	.

@@ -1,9 +1,0 @@
-POS	Maybe
-PER	Tom
-NEC	should
-EXS	pay
-MOR	more
-CON	attention
-REL	in
-CON	class
-NIL	.

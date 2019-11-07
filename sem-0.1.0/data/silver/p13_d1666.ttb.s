@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-PFT	been
-EXS	good
-REL	to
-PRO	you
-PRX	this
-CON	morning
-NIL	.

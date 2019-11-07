@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	worried
-AND	about
-HAS	my
-CON	mother
-HAS	's
-CON	health
-NIL	.

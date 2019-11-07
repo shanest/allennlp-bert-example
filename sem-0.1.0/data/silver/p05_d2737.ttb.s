@@ -1,9 +1,0 @@
-PER	Mary
-PST	was
-EXS	living
-REL	with
-PER	Tom
-REL	at
-DEF	the
-CON	time
-NIL	.

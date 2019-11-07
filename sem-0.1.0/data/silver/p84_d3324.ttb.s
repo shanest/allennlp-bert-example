@@ -1,9 +1,0 @@
-PER	Tom
-EPS	took
-DIS	a
-IST	big
-CON	swig
-REL	from
-DEF	the
-CON	bottle
-NIL	.

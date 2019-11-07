@@ -1,9 +1,0 @@
-PER	Tom
-NOW	does
-NOT	n't
-EXS	have
-QUV	much
-AND	of
-DIS	an
-CON	appetite
-NIL	.

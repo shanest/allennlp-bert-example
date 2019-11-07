@@ -1,9 +1,0 @@
-EXS	Tell
-HAS	your
-CON	friends
-QUE	what
-PRO	you
-NOW	're
-IST	up
-SUB	to
-NIL	.

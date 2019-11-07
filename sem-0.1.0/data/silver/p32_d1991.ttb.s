@@ -1,9 +1,0 @@
-HAS	My
-CON	life
-NOW	has
-EXS	changed
-SUB	since
-PRO	I
-EPS	met
-PRO	him
-NIL	.

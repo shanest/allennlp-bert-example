@@ -1,9 +1,0 @@
-PER	Tom
-EXS	attributed
-HAS	his
-CON	success
-REL	to
-PER	Mary
-HAS	's
-CON	help
-NIL	.

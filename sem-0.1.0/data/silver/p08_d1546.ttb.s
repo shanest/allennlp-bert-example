@@ -1,9 +1,0 @@
-PER	Tom
-ENS	goes
-REL	to
-CON	school
-QUC	five
-CON	days
-DIS	a
-CON	week
-NIL	.

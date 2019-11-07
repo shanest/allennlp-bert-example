@@ -1,9 +1,0 @@
-PER	Qin
-PER	Shi
-PER	Huang
-PST	was
-DEF	the
-IST	first
-GPE	China
-ROL	Emperor
-NIL	.

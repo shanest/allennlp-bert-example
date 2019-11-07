@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-NOW	have
-DIS	a
-IST	long
-CON	distance
-CON	relationship
-NIL	.

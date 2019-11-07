@@ -1,9 +1,0 @@
-PRO	We
-EPS	offered
-PRO	him
-DEF	the
-CON	house
-REL	for
-UOM	$
-QUC	300,000
-NIL	.

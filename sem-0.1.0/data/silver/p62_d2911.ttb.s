@@ -1,9 +1,0 @@
-AND	But
-HAS	my
-MOR	older
-ROL	sister
-NOW	is
-EXS	good
-REL	at
-CON	swimming
-NIL	.

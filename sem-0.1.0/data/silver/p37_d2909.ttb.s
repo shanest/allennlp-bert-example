@@ -1,9 +1,0 @@
-PER	Tom
-EPS	made
-HAS	his
-CON	servants
-EXS	eat
-REL	in
-DEF	the
-CON	dark
-NIL	.

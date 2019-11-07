@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-NOT	never
-EXS	fed
-HAS	my
-CON	dog
-DIS	a
-CON	banana
-NIL	.

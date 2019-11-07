@@ -1,9 +1,0 @@
-PER	Tom
-FUT	wo
-NOT	n't
-EXS	let
-PRO	me
-DIS	anywhere
-REL	near
-PER	Mary
-NIL	.

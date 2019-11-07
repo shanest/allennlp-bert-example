@@ -1,9 +1,0 @@
-DEF	The
-CON	air
-REL	in
-PRX	this
-CON	room
-NOW	's
-INT	very
-EXS	stuffy
-NIL	.

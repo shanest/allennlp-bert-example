@@ -1,9 +1,0 @@
-PRO	I
-PST	was
-NOT	n't
-IST	able
-SUB	to
-EXS	leave
-HAS	my
-CON	house
-NIL	.

@@ -1,9 +1,0 @@
-SUB	Although
-PER	Tom
-NOW	is
-EXS	sick
-NIL	,
-PRO	he
-HAS	's
-CON	swimming
-NIL	.

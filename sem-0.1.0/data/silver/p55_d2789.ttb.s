@@ -1,9 +1,0 @@
-DEF	The
-CON	pioneers
-NOW	have
-EXS	overcome
-DIS	a
-CON	series
-AND	of
-CON	obstacles
-NIL	.

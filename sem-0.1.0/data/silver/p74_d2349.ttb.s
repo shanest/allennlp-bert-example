@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-EXS	heard
-NOT	nothing
-REL	from
-PRO	him
-REL	since
-CON	then
-NIL	.

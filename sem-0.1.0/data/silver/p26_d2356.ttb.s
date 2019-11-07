@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-PST	were
-EXS	dancing
-REL	to
-DEF	the
-CON	music
-NIL	.

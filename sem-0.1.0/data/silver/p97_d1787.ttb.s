@@ -1,9 +1,0 @@
-EXS	Face
-PRO	it
-EQU	,
-PER	Tom
-NIL	,
-PER	Mary
-PST	was
-EXS	right
-NIL	.

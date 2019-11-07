@@ -1,9 +1,0 @@
-DEF	The
-GPO	Swiss
-ENS	consume
-DIS	a
-IST	large
-CON	amount
-AND	of
-CON	beer
-NIL	.

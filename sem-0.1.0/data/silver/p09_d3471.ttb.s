@@ -1,9 +1,0 @@
-PRO	I
-EPS	spent
-QUC	two
-UOM	hours
-AND	watching
-CON	television
-AND	last
-CON	night
-NIL	.

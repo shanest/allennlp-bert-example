@@ -1,9 +1,0 @@
-PRO	She
-NOW	is
-EXS	writing
-DIS	a
-IST	new
-CON	book
-PRX	this
-CON	year
-NIL	.

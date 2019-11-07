@@ -1,9 +1,0 @@
-NOW	Is
-PRO	it
-EXS	true
-SUB	that
-PRO	he
-EPS	won
-DEF	the
-CON	race
-QUE	?

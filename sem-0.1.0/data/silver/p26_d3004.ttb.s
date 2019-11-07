@@ -1,9 +1,0 @@
-REL	In
-YOC	1975
-NIL	,
-GPE	Angola
-EPS	became
-DIS	a
-IST	free
-CON	nation
-NIL	.

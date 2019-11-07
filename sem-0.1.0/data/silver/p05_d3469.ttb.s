@@ -1,9 +1,0 @@
-EXS	Open
-HAS	your
-CON	heart
-COO	;
-EXS	write
-IST	beautiful
-CON	love
-CON	sentences
-NIL	!

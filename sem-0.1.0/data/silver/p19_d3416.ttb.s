@@ -1,9 +1,0 @@
-PRO	I
-EPS	knew
-PRO	you
-PST	'd
-EXS	come
-IST	back
-REL	to
-PRO	me
-NIL	.

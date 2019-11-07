@@ -1,9 +1,0 @@
-PRO	He
-EPS	wanted
-DEF	the
-CON	taxi
-CON	driver
-SUB	to
-EXS	turn
-EXS	left
-NIL	.

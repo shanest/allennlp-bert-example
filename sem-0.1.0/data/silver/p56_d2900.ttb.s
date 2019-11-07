@@ -1,9 +1,0 @@
-PRO	He
-PST	had
-AND	all
-DEF	the
-CON	attributes
-AND	of
-DIS	a
-CON	leader
-NIL	.

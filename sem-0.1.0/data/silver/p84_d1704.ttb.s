@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-PFT	been
-EXS	waiting
-PRX	here
-REL	for
-QUC	three
-UOM	hours
-NIL	.

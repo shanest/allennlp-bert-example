@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXG	sharing
-HAS	my
-CON	flat
-REL	with
-HAS	my
-CON	brother
-NIL	.

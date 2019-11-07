@@ -1,9 +1,0 @@
-DIS	A
-CON	person
-AND	who
-PST	was
-IST	dear
-REL	to
-PRO	me
-EPS	died
-NIL	.

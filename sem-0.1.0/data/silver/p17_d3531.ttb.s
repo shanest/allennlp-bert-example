@@ -1,9 +1,0 @@
-HAS	My
-ROL	father
-NOW	is
-DIS	a
-IST	good
-CON	speaker
-AND	of
-GPO	English
-NIL	.

@@ -1,9 +1,0 @@
-PER	Pasta
-IST	heated
-IST	up
-ALT	again
-NOW	is
-IST	never
-AND	any
-IST	good
-NIL	.

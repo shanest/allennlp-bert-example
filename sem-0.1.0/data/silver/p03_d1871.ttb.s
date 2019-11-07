@@ -1,9 +1,0 @@
-PRO	You
-IST	really
-ENS	put
-SUB	that
-QUV	much
-REL	in
-DEF	the
-CON	sandwich
-QUE	?

@@ -1,9 +1,0 @@
-REL	At
-EXS	least
-NIL	,
-DST	that
-HAS	's
-QUE	what
-PRO	she
-EPS	said
-NIL	.

@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-EXG	training
-DIS	a
-CON	horse
-REL	for
-DIS	a
-CON	race
-NIL	.

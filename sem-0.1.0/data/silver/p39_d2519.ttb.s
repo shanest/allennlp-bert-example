@@ -1,9 +1,0 @@
-QUE	What
-PRO	he
-ENS	needs
-NOW	is
-NOT	not
-CON	money
-BUT	but
-ENS	love
-NIL	.

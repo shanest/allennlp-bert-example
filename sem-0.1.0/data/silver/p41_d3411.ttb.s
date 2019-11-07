@@ -1,9 +1,0 @@
-DEF	The
-ALT	other
-CON	day
-NIL	,
-PRO	I
-EPS	thought
-AND	about
-PRO	you
-NIL	.

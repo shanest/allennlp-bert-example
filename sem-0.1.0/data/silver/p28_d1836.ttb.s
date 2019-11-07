@@ -1,9 +1,0 @@
-PRO	They
-NOW	're
-INT	very
-IST	likely
-SUB	to
-EXS	arrive
-IST	next
-CON	week
-NIL	.

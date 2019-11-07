@@ -1,9 +1,0 @@
-PRO	I
-ENS	know
-SUB	that
-PRO	he
-NOW	is
-DIS	a
-IST	famous
-CON	musician
-NIL	.

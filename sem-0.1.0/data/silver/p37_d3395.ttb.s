@@ -1,9 +1,0 @@
-AND	Unfortunately
-NIL	,
-PRO	I
-NOW	'm
-INT	too
-EXS	busy
-IST	right
-NOW	now
-NIL	.

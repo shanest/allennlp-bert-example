@@ -1,9 +1,0 @@
-PRO	I
-FUT	wo
-NOT	n't
-IST	ever
-EXS	make
-SUB	that
-EXS	mistake
-ALT	again
-NIL	.

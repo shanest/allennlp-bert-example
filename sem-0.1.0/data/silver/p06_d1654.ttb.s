@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	relying
-REL	on
-PRO	you
-SUB	to
-EXS	help
-PRO	us
-NIL	.

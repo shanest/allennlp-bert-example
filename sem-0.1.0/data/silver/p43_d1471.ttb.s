@@ -1,9 +1,0 @@
-PRO	She
-EPS	washed
-DEF	the
-CON	dishes
-AND	and
-PRO	she
-EXS	dried
-PRO	them
-NIL	.

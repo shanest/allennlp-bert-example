@@ -1,9 +1,0 @@
-PRO	We
-NEC	have
-NIL	to
-EXS	take
-CON	advantage
-REL	of
-PRX	this
-CON	situation
-NIL	.

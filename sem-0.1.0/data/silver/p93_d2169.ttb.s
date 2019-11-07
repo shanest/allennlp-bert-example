@@ -1,9 +1,0 @@
-EXS	Did
-PRO	you
-NOW	feel
-DEF	the
-CON	earth
-EXS	shake
-IST	just
-NOW	now
-QUE	?

@@ -1,9 +1,0 @@
-PER	Tom
-AND	and
-PER	Mary
-PST	were
-EXG	sitting
-REL	on
-DEF	the
-CON	ground
-NIL	.

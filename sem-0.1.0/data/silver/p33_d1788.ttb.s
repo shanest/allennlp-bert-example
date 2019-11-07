@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-XCL	only
-EXG	telling
-PRO	you
-QUE	what
-PRO	I
-EPS	heard
-NIL	.

@@ -1,9 +1,0 @@
-PER	Tom
-EPS	put
-DEF	the
-CON	ashtray
-REL	in
-CON	front
-AND	of
-PER	Mary
-NIL	.

@@ -1,9 +1,0 @@
-PRO	You
-POS	ca
-NOT	n't
-EXS	go
-SUB	where
-PRO	I
-NOW	'm
-EXS	going
-NIL	.

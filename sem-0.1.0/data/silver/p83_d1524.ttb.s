@@ -1,9 +1,0 @@
-PRO	I
-NOW	have
-IST	always
-EPS	wanted
-SUB	to
-EXS	live
-REL	in
-GEO	Rome
-NIL	.

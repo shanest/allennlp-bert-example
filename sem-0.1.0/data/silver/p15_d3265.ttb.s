@@ -1,9 +1,0 @@
-HAS	My
-ROL	mother
-IST	always
-ENS	wears
-DIS	a
-CON	kimono
-REL	at
-CON	home
-NIL	.

@@ -1,9 +1,0 @@
-HAS	Your
-CON	watch
-NOW	is
-IST	superior
-REL	in
-CON	quality
-REL	to
-HAS	mine
-NIL	.

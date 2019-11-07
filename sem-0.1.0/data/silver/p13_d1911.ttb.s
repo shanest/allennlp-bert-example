@@ -1,9 +1,0 @@
-PRX	This
-NOW	is
-DEF	the
-CON	woman
-PRO	I
-EPS	told
-PRO	you
-AND	about
-NIL	.

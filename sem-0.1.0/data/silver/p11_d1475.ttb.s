@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	going
-SUB	to
-EXS	miss
-PRO	you
-NIL	,
-ALT	too
-NIL	.

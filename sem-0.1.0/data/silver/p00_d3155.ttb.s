@@ -1,9 +1,0 @@
-PRO	He
-EPS	translated
-DEF	the
-CON	book
-REL	from
-CON	French
-REL	into
-CON	English
-NIL	.

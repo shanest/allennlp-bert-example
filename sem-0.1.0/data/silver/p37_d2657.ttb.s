@@ -1,9 +1,0 @@
-PRO	You
-ENS	need
-NOT	not
-EXS	be
-IST	afraid
-AND	of
-EXS	making
-CON	mistakes
-NIL	.

@@ -1,9 +1,0 @@
-PRO	It
-HAS	's
-NOT	not
-DIS	something
-PRO	I
-NOW	'm
-EXS	proud
-AND	of
-NIL	.

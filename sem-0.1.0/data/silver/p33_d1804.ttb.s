@@ -1,9 +1,0 @@
-PER	Tom
-PST	was
-EXS	released
-REL	from
-CON	prison
-QUC	three
-CON	months
-PST	ago
-NIL	.

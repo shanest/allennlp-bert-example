@@ -1,9 +1,0 @@
-PRO	It
-NOW	is
-IST	illegal
-SUB	to
-EXS	park
-DIS	a
-CON	car
-IST	there
-NIL	.

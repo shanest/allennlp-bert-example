@@ -1,9 +1,0 @@
-QUE	Which
-CON	country
-REL	legalized
-DEF	the
-CON	video
-CON	recorder
-REL	in
-YOC	1994
-QUE	?

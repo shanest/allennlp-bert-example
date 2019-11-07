@@ -1,9 +1,0 @@
-PRO	You
-NEC	definitely
-POS	ca
-NOT	n't
-EXS	compare
-CON	Marseilles
-AND	and
-CON	Lyons
-NIL	.

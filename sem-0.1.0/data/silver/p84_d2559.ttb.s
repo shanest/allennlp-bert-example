@@ -1,9 +1,0 @@
-PER	Tom
-EPS	took
-DIS	some
-CON	things
-AND	out
-AND	of
-HAS	his
-CON	bag
-NIL	.

@@ -1,9 +1,0 @@
-PRO	I
-NOW	am
-EXS	convinced
-SUB	that
-PRO	he
-EPS	did
-NOT	nothing
-EXS	wrong
-NIL	.

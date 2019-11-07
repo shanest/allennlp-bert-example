@@ -1,9 +1,0 @@
-CON	People
-NOW	are
-IST	skeptical
-AND	about
-IST	new
-PER	Caravaggio
-HAS	's
-CON	paintings
-NIL	.

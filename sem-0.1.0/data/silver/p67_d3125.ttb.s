@@ -1,9 +1,0 @@
-NOW	Are
-PRO	you
-IST	really
-IST	willing
-SUB	to
-EXS	pay
-DST	that
-QUC	much
-QUE	?

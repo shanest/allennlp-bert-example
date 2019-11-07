@@ -1,9 +1,0 @@
-PRO	She
-EPS	gave
-CON	birth
-REL	to
-CON	twins
-DIS	a
-CON	week
-PST	ago
-NIL	.

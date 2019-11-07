@@ -1,9 +1,0 @@
-PER	Tom
-IST	usually
-ENS	goes
-SUB	to
-EXS	sleep
-REL	at
-AND	about
-CLO	eleven
-NIL	.

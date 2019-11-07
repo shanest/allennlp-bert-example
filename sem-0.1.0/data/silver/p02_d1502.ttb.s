@@ -1,9 +1,0 @@
-AND	Everyone
-ENS	says
-SUB	that
-PRO	he
-ENS	's
-DIS	a
-IST	good
-CON	man
-NIL	.

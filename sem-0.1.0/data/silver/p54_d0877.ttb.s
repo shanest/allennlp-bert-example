@@ -1,9 +1,0 @@
-PRO	I
-NOW	'm
-EXS	listening
-REL	to
-GEO	Björk
-HAS	's
-TOP	latest
-CON	song
-NIL	.

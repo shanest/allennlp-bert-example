@@ -1,9 +1,0 @@
-PER	Tom
-EPS	asked
-PER	Mary
-IMP	if
-PRO	she
-EPS	liked
-GPO	Mexican
-CON	food
-NIL	.

@@ -1,9 +1,0 @@
-PRO	It
-NOW	's
-INT	very
-EXS	hot
-NIL	,
-NOW	is
-NOT	n't
-PRO	it
-QUE	?

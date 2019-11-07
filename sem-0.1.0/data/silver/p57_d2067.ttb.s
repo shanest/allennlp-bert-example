@@ -1,9 +1,0 @@
-EXS	Keep
-HAS	your
-CON	dog
-EPS	chained
-IST	up
-REL	to
-DEF	the
-CON	tree
-NIL	.

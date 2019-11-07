@@ -1,9 +1,0 @@
-PRO	He
-EPS	spoke
-REL	for
-QUC	ten
-CON	minutes
-NOT	without
-DIS	a
-CON	pause
-NIL	.

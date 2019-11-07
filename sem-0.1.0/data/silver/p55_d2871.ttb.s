@@ -1,9 +1,0 @@
-CON	Things
-NOW	have
-PFT	been
-INT	pretty
-IST	rough
-IST	lately
-REL	for
-PER	Tom
-NIL	.

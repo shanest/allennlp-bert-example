@@ -1,9 +1,0 @@
-PRO	We
-NOW	're
-EXS	having
-DIS	a
-IST	three-day
-CON	weekend
-PRX	this
-CON	week
-NIL	.

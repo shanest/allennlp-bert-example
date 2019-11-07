@@ -1,9 +1,0 @@
-PRO	I
-EPS	listened
-REL	to
-PRO	him
-NOW	explain
-DIS	a
-IST	new
-CON	product
-NIL	.

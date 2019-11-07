@@ -1,9 +1,0 @@
-PER	Tom
-EPS	picked
-IST	up
-DEF	the
-CON	phone
-COO	and
-EPS	started
-EXS	talking
-NIL	.

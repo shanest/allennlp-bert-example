@@ -1,9 +1,0 @@
-ROL	Mr.
-PER	Cameron
-EPS	forgot
-HAS	his
-CON	daughter
-REL	at
-DEF	the
-CON	pub
-NIL	.

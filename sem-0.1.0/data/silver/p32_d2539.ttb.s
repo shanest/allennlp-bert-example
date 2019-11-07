@@ -1,9 +1,0 @@
-FUT	Will
-DEF	the
-CON	strike
-NOW	affect
-DEF	the
-CON	price
-AND	of
-CON	coal
-QUE	?

@@ -1,9 +1,0 @@
-PRO	I
-ENS	understand
-NOT	no
-GPO	English
-AND	and
-GPO	German
-AND	even
-IST	less
-NIL	.

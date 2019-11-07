@@ -1,9 +1,0 @@
-PER	Tom
-EPS	said
-PRO	he
-PST	'd
-NOT	never
-EXS	leave
-HAS	his
-CON	wife
-NIL	.

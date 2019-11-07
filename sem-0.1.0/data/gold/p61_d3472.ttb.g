@@ -1,9 +1,0 @@
-DIS	A
-CON	rat
-EPS	chewed
-DIS	a
-CON	hole
-REL	in
-DEF	the
-CON	wall
-NIL	.

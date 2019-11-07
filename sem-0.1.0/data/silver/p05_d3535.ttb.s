@@ -1,9 +1,0 @@
-PER	Tom
-EPS	got
-REL	in
-HAS	his
-CON	car
-COO	and
-EPS	drove
-IST	away
-NIL	.

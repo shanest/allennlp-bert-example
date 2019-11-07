@@ -1,9 +1,0 @@
-PRO	I
-EPS	forgot
-QUE	what
-PRO	I
-PST	was
-AND	about
-SUB	to
-EXS	say
-NIL	.

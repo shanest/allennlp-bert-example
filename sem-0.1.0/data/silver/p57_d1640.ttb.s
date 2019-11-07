@@ -1,9 +1,0 @@
-PRO	She
-HAS	has
-DIS	a
-ROL	daughter
-HAS	whose
-CON	name
-EQU	is
-LIT	Mary
-NIL	.

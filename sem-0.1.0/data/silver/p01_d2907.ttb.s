@@ -1,9 +1,0 @@
-PRO	You
-NOW	've
-EXT	told
-PER	Tom
-NIL	,
-NOW	have
-NOT	n't
-PRO	you
-QUE	?

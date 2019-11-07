@@ -1,9 +1,0 @@
-PRO	He
-NOW	is
-EXS	trying
-IST	hard
-SUB	to
-EXS	give
-IST	up
-CON	smoking
-NIL	.

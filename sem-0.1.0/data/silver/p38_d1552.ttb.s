@@ -1,9 +1,0 @@
-PRO	I
-NOW	think
-PRO	you
-NOW	've
-PFT	been
-PRX	here
-IST	too
-IST	long
-NIL	.

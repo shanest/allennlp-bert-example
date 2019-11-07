@@ -1,9 +1,0 @@
-DIS	A
-IST	smooth
-CON	sea
-NOT	never
-EPS	made
-DIS	a
-EXS	skillful
-CON	sailor
-NIL	.

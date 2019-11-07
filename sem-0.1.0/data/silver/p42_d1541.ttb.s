@@ -1,9 +1,0 @@
-PRO	You
-ENS	know
-HAS	his
-CON	name
-NIL	,
-NOW	do
-NOT	n't
-PRO	you
-QUE	?

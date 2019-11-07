@@ -1,9 +1,0 @@
-PER	Tom
-PST	was
-IST	able
-SUB	to
-EXS	answer
-AND	all
-DEF	the
-CON	questions
-NIL	.

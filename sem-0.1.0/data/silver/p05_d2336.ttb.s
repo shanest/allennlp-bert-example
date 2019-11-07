@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	want
-PRO	me
-SUB	to
-EXS	throw
-PRO	it
-IST	away
-QUE	?

@@ -1,9 +1,0 @@
-PER	Tom
-PST	did
-NOT	n't
-EXS	notice
-QUE	what
-PER	Mary
-PST	was
-EXS	wearing
-NIL	.

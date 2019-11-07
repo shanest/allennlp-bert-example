@@ -1,9 +1,0 @@
-PRO	I
-ENS	bet
-PRO	we
-FUT	'll
-EXS	have
-DIS	a
-CON	test
-NOW	today
-NIL	.

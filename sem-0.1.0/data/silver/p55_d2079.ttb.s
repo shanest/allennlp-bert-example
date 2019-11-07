@@ -1,9 +1,0 @@
-QUE	How
-QUV	many
-CON	women
-FUT	would
-PRO	you
-EXS	like
-SUB	to
-EXS	marry
-QUE	?

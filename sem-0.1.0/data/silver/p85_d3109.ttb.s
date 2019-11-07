@@ -1,9 +1,0 @@
-PRO	I
-POS	ca
-NOT	n't
-EXS	say
-SUB	that
-PRO	I
-NOW	'm
-EXS	surprised
-NIL	.

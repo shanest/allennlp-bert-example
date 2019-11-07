@@ -1,9 +1,0 @@
-PRO	He
-EPS	left
-REL	in
-DEF	the
-CON	blink
-REL	of
-DIS	an
-CON	eye
-NIL	.

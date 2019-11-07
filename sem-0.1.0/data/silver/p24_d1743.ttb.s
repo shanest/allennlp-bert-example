@@ -1,9 +1,0 @@
-QUE	How
-QUV	much
-NOW	does
-PRO	he
-EXS	earn
-REL	in
-DIS	a
-CON	month
-QUE	?

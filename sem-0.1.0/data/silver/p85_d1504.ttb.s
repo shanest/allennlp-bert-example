@@ -1,9 +1,0 @@
-DEF	The
-CON	curry
-CON	rice
-REL	at
-PRX	this
-CON	restaurant
-NOW	is
-IST	delicious
-NIL	.

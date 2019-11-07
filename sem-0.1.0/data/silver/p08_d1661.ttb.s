@@ -1,9 +1,0 @@
-DEF	The
-CON	police
-PST	were
-IST	able
-SUB	to
-EXS	find
-DEF	the
-CON	criminal
-NIL	.

@@ -1,9 +1,0 @@
-CON	Shit
-NIL	,
-QUC	once
-ALT	again
-PRO	I
-EPS	missed
-DEF	the
-CON	train
-NIL	!

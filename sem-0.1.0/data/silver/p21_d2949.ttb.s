@@ -1,9 +1,0 @@
-PRO	He
-NOW	answers
-REL	to
-DEF	the
-CON	description
-REL	in
-DEF	the
-CON	newspaper
-NIL	.

@@ -1,9 +1,0 @@
-DEF	The
-CON	sun
-REL	at
-IST	last
-EPS	broke
-AND	through
-AND	about
-CLO	noon
-NIL	.

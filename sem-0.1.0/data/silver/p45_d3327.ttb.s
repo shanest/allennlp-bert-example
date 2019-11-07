@@ -1,9 +1,0 @@
-EXS	Let
-PRO	's
-EXS	see
-QUE	what
-PRO	we
-POS	can
-EXS	find
-IST	out
-NIL	.

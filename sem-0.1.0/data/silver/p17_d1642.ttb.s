@@ -1,9 +1,0 @@
-PER	Tom
-NOW	is
-EQU	exactly
-DEF	the
-IST	same
-CON	age
-AND	as
-PRO	me
-NIL	.

@@ -1,9 +1,0 @@
-NOW	Do
-PRO	you
-EXS	know
-AND	any
-IST	good
-CON	restaurant
-AND	near
-PRX	here
-QUE	?

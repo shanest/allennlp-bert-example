@@ -1,9 +1,0 @@
-PRO	I
-NOW	've
-IST	always
-EPS	wanted
-SUB	to
-EXS	live
-REL	in
-GPE	Boston
-NIL	.

@@ -1,6 +1,0 @@
-PRO	I
-ENS	owe
-PRO	him
-UOM	$
-QUC	100
-NIL	.

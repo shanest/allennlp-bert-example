@@ -1,9 +1,0 @@
-PRO	I
-NOT	never
-PST	had
-DEF	the
-CON	opportunity
-SUB	to
-EXS	use
-PRO	it
-NIL	.

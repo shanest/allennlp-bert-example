@@ -1,9 +1,0 @@
-EXS	Let
-PRO	's
-EXS	give
-PER	Tom
-DIS	a
-IST	little
-IST	more
-CON	time
-NIL	.
