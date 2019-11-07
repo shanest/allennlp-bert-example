@@ -32,10 +32,6 @@ def set_seed(seed):
     torch.manual_seed(seed)
     np.random.seed(seed)
 
-    # TODO: WRITE .forward, using SelfAttentive as inspiration, but applying
-    # pooler:
-    # https://github.com/allenai/allennlp/blob/master/allennlp/modules/span_extractors/self_attentive_span_extractor.py
-
 
 if __name__ == '__main__':
 

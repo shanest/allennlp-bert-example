@@ -16,3 +16,7 @@ class EncoderSpanExtractor(SpanExtractor):
 
     def get_output_dim(self) -> int:
         return self._input_dim
+
+    # TODO: WRITE .forward, using SelfAttentive as inspiration, but applying
+    # pooler:
+    # https://github.com/allenai/allennlp/blob/master/allennlp/modules/span_extractors/self_attentive_span_extractor.py
