@@ -6,6 +6,7 @@ from .tagging_subword import TaggingSubwordReader
 
 from allennlp.data import Instance
 
+
 # TODO: abstract out the word->subword span logic?
 class SemTagDatasetReader(TaggingSubwordReader):
     """
@@ -20,7 +21,8 @@ class SemTagDatasetReader(TaggingSubwordReader):
     """
 
     def _read(self, path: str) -> Iterator[Instance]:
-        for file_name in glob.glob(path + "/*")[:20]: # TODO: take away first-20 restriction
+        # TODO: take away first-20 restriction
+        for file_name in glob.glob(path + "/*")[:20]:
             with open(file_name, 'r') as f:
                 lines = f.readlines()
             pairs = [line.strip().split('\t') for line in lines]

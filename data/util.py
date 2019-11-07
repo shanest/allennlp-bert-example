@@ -1,7 +1,8 @@
-from typing import List, Dict, Tuple, Union
+from typing import List, Tuple, Union
 
 from allennlp.data.tokenizers.token import Token
 from allennlp.data.tokenizers import Tokenizer
+
 
 # see https://github.com/google-research/bert#tokenization
 def token_alignment(
@@ -18,8 +19,8 @@ def token_alignment(
     This method returns:
     (a) the tokens produced by model_tokenizer
         with optional start_tokens (e.g. [CLS]) and end tokens (e.g. [SEP])
-    (b) a list of spans: pairs of (start, inclusive-end) for which spans of sub-words
-        correspond to the words
+    (b) a list of spans: pairs of (start, inclusive-end) for which spans of
+        sub-words correspond to the words
     """
     model_tokens = []
     data_to_model_map = []

@@ -1,6 +1,3 @@
-import unittest
-from typing import List, Tuple, Union, Iterator, Dict
-
 from data.dataset_readers.semantic_tagging import SemTagDatasetReader
 from models.tagger import SubwordWordTagger
 
@@ -8,24 +5,15 @@ import numpy as np
 import torch
 import torch.optim as optim
 
-from allennlp.data import Instance
-from allennlp.data.fields \
-        import TextField, SequenceLabelField, ArrayField, ListField, SpanField
+from allennlp.data.iterators import BucketIterator
 
-
-from allennlp.data.iterators import BucketIterator, BasicIterator
-
-from allennlp.data.tokenizers import Tokenizer
-from allennlp.data.tokenizers.token import Token
 from allennlp.data.tokenizers.pretrained_transformer_tokenizer \
         import PretrainedTransformerTokenizer
-from allennlp.data.token_indexers import TokenIndexer, SingleIdTokenIndexer
 from allennlp.data.token_indexers.pretrained_transformer_indexer \
         import PretrainedTransformerIndexer
 
 from allennlp.data.vocabulary import Vocabulary
 
-from allennlp.models import Model
 from allennlp.modules.text_field_embedders \
         import BasicTextFieldEmbedder
 
@@ -39,7 +27,6 @@ from allennlp.modules.span_extractors.endpoint_span_extractor \
 
 from allennlp.training.trainer import Trainer
 
-# TODO: separate into files
 
 def set_seed(seed):
     torch.manual_seed(seed)
@@ -48,6 +35,7 @@ def set_seed(seed):
     # TODO: WRITE .forward, using SelfAttentive as inspiration, but applying
     # pooler:
     # https://github.com/allenai/allennlp/blob/master/allennlp/modules/span_extractors/self_attentive_span_extractor.py
+
 
 if __name__ == '__main__':
 
@@ -75,7 +63,8 @@ if __name__ == '__main__':
     # NOTE: PretrainedTransformerIndexer does not implement the
     # count_vocab_items method, so this vocabulary reflects only the new
     # dataset, not the pretrained model's vocabulary
-    # see: https://github.com/allenai/allennlp/blob/master/allennlp/data/token_indexers/pretrained_transformer_indexer.py#L47-L50
+    # see: https://github.com/allenai/allennlp/blob/master/allennlp/data/
+    # token_indexers/pretrained_transformer_indexer.py#L47-L50
     data_vocab = Vocabulary.from_instances(entire_dataset)
 
     # TODO: move this splitting to pre-processing on disk, not in memory!
@@ -97,7 +86,9 @@ if __name__ == '__main__':
                                word_first_token_extractor,
                                data_vocab)
 
-    iterator = BucketIterator(sorting_keys=[("model_sentence", "num_tokens")], batch_size=8)
+    iterator = BucketIterator(
+        sorting_keys=[("model_sentence", "num_tokens")],
+        batch_size=8)
     iterator.index_with(data_vocab)
 
     trainer = Trainer(model=tagger,

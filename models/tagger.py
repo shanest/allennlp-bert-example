@@ -15,6 +15,7 @@ from allennlp.nn.util import \
 
 from allennlp.training.metrics import CategoricalAccuracy
 
+
 class SubwordWordTagger(Model):
 
     # TODO: document!
@@ -73,4 +74,3 @@ class SubwordWordTagger(Model):
 
     def get_metrics(self, reset: bool = False) -> Dict[str, float]:
         return {'accuracy': self.accuracy.get_metric(reset)}
-

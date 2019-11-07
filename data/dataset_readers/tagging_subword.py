@@ -1,4 +1,4 @@
-from typing import List, Dict, Iterator
+from typing import List, Dict
 
 from ..util import token_alignment
 
@@ -9,6 +9,7 @@ from allennlp.data.fields \
 from allennlp.data.tokenizers.token import Token
 from allennlp.data.tokenizers import Tokenizer
 from allennlp.data.token_indexers import TokenIndexer, SingleIdTokenIndexer
+
 
 class TaggingSubwordReader(DatasetReader):
     """
