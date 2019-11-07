@@ -249,6 +249,9 @@ class Tagger(Model):
 
         return outputs
 
+    def get_metrics(self, reset: bool = False) -> Dict[str, float]:
+        return {'accuracy': self.accuracy.get_metric(reset)}
+
 
 if __name__ == '__main__':
 
