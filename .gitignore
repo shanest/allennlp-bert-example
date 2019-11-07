@@ -1,1 +1,3 @@
 sem-0.1.0
+*.swp
+*__pycache__
