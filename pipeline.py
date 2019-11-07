@@ -316,15 +316,13 @@ if __name__ == '__main__':
     """
     trainer = Trainer(model=tagger,
                       optimizer=optim.Adam(tagger.parameters()),
-                      serialization_dir='./test',
+                      serialization_dir='/tmp/test',
                       iterator=iterator,
                       train_dataset=train_dataset,
                       validation_dataset=dev_dataset,
                       patience=5,
                       num_epochs=30)
     trainer.train()
-
-    # TODO: build a trainer!
 
     """
     # TODO: convert the below into a proper test!
