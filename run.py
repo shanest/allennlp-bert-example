@@ -79,11 +79,11 @@ if __name__ == '__main__':
     bag_encoder = BagOfEmbeddingsEncoder(bert_token_embedder.get_output_dim())
 
     # represent a word by the first sub-word token
-    word_first_token_extractor = EndpointSpanExtractor(
+    word_last_token_extractor = EndpointSpanExtractor(
         bert_token_embedder.get_output_dim(), combination='y')
 
     tagger = SubwordWordTagger(bert_textfield_embedder,
-                               word_first_token_extractor,
+                               word_last_token_extractor,
                                data_vocab)
 
     iterator = BucketIterator(
@@ -100,12 +100,3 @@ if __name__ == '__main__':
                       patience=5,
                       num_epochs=30)
     trainer.train()
-
-    """
-    # TODO: convert the below into a proper test!
-    data_idx_to_str = data_vocab.get_index_to_token_vocabulary()
-    data_idx_example = batch['data_sentence']['data_tokens'].numpy()[0]
-    print(data_idx_example)
-    print([data_idx_to_str[int(idx)] for idx in np.nditer(data_idx_example)])
-    print(f"Num_labels: {data_vocab.get_vocab_size('labels')}")
-    """
