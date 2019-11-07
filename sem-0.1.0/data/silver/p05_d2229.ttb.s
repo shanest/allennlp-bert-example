@@ -1,0 +1,12 @@
+PRO	I
+POS	can
+NOT	not
+EXS	fix
+PRX	this
+CON	machine
+NIL	.
+PRO	It
+NOW	's
+INT	very
+EXS	difficult
+NIL	.

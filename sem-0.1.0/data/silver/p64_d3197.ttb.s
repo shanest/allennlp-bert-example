@@ -1,0 +1,17 @@
+IMP	If
+PRO	I
+PST	had
+INT	25
+UOM	%
+MOR	more
+CON	income
+NIL	,
+PRO	I
+FUT	'd
+EXS	be
+IST	more
+EXS	satisfied
+REL	with
+HAS	my
+CON	life
+NIL	.

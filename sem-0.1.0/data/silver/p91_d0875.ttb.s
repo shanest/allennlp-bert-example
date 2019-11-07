@@ -1,0 +1,11 @@
+DIS	A
+CON	week
+REL	from
+NOW	today
+NIL	,
+PRO	I
+FUT	'll
+EXS	be
+REL	in
+GPE	England
+NIL	.

@@ -1,0 +1,10 @@
+PRO	It
+EPS	took
+PER	Tom
+CON	ages
+SUB	to
+EXS	untangle
+HAS	his
+CON	fishing
+CON	line
+NIL	.

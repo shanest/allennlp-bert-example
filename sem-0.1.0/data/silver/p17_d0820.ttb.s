@@ -1,0 +1,11 @@
+PRO	I
+EPS	tied
+HAS	my
+CON	dog
+REL	to
+DEF	the
+CON	tree
+REL	in
+DEF	the
+CON	yard
+NIL	.

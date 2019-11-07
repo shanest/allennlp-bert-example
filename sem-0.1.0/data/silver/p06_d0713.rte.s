@@ -1,0 +1,14 @@
+ORG	Apple
+HAS	's
+CON	profits
+EPS	rose
+REL	by
+INT	78
+UOM	percent
+AND	during
+DEF	the
+IST	last
+CON	quarter
+AND	of
+YOC	2006
+NIL	.

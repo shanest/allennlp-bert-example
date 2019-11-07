@@ -1,0 +1,13 @@
+DEF	The
+IST	main
+CON	reason
+CON	kids
+ENS	tell
+CON	lies
+ENS	is
+NIL	to
+EXS	avoid
+EXG	getting
+REL	into
+CON	trouble
+NIL	.

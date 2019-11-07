@@ -1,0 +1,12 @@
+EXS	Come
+REL	on
+NIL	,
+PRO	you
+POS	can
+EXS	have
+DIS	a
+EXS	swim
+REL	in
+HAS	my
+CON	pool
+NIL	.

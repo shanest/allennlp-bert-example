@@ -1,0 +1,10 @@
+PRO	She
+HAS	's
+PFT	been
+EXS	doing
+PRX	this
+REL	for
+INT	over
+QUC	twenty
+CON	years
+NIL	.

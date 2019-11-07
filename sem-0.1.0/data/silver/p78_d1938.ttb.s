@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	having
+DIS	some
+CON	problems
+EXS	compiling
+PRX	this
+CON	software
+NIL	.

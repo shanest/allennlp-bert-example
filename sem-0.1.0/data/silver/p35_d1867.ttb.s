@@ -1,0 +1,10 @@
+PRO	She
+PST	was
+DEF	the
+IST	first
+CON	girl
+PRO	I
+PST	'd
+IST	ever
+EPS	kissed
+NIL	.

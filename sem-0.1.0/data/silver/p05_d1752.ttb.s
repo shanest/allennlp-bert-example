@@ -1,0 +1,10 @@
+PRO	I
+AND	always
+EXS	rely
+REL	on
+PRO	him
+REL	in
+CON	times
+AND	of
+CON	trouble
+NIL	.

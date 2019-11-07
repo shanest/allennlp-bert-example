@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	still
+EXS	waiting
+REL	for
+DEF	the
+CON	prices
+SUB	to
+EXS	drop
+NIL	.

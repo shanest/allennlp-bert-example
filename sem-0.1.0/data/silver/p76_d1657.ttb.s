@@ -1,0 +1,14 @@
+PER	Tom
+PST	was
+NOT	n't
+EXS	getting
+AND	any
+EXS	help
+REL	from
+AND	anyone
+NIL	,
+SUB	so
+PRO	he
+EPS	gave
+IST	up
+NIL	.

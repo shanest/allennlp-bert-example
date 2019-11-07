@@ -1,0 +1,12 @@
+POS	Perhaps
+PRO	I
+NEC	should
+EXS	take
+DIS	an
+CON	umbrella
+REL	with
+PRO	me
+IST	just
+REL	in
+CON	case
+NIL	.

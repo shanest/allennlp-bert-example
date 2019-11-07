@@ -1,0 +1,9 @@
+PRX	Here
+ENS	comes
+PER	Jane
+NIL	.
+NOW	Do
+PRO	you
+ENS	know
+PRO	her
+QUE	?

@@ -1,0 +1,9 @@
+NOT	No
+CON	one
+ENS	knows
+QUE	what
+HAS	's
+IST	really
+EXS	going
+REL	on
+NIL	.

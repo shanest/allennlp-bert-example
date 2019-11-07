@@ -1,0 +1,11 @@
+PRO	You
+NEC	should
+NOT	not
+EXS	look
+REL	to
+ALT	others
+REL	for
+CON	help
+AND	so
+IST	easily
+NIL	.

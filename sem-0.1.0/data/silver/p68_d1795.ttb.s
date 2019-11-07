@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+NOT	not
+UNK	necessary
+SUB	to
+EXS	write
+DIS	a
+IST	long
+CON	letter
+NIL	.

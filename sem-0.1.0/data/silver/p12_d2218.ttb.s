@@ -1,0 +1,11 @@
+PRO	He
+EPS	went
+SUB	to
+EXS	visit
+PRO	her
+REL	at
+DEF	the
+CON	hospital
+AND	every
+DOW	Monday
+NIL	.

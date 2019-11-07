@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+QUC	one
+AND	of
+DEF	the
+TOP	best
+CON	dictionaries
+PRO	I
+NOW	have
+NIL	.

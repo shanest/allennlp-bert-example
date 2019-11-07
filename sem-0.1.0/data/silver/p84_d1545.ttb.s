@@ -1,0 +1,13 @@
+NIL	"
+HAS	Whose
+CON	comments
+NOW	are
+PRX	these
+QUE	?
+NIL	"
+NIL	"
+PRO	They
+NOW	are
+PER	Sysko's
+NIL	.
+NIL	"

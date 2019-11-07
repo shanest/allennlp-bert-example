@@ -1,0 +1,11 @@
+PRO	You
+NOW	are
+EXS	good
+REL	at
+EXG	speaking
+GPO	English
+NIL	,
+NOW	are
+NOT	n't
+PRO	you
+QUE	?

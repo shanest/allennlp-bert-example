@@ -1,0 +1,12 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	help
+BUT	but
+NOW	feel
+AND	like
+PRO	I
+NOW	've
+EXS	forgotten
+DIS	something
+NIL	.

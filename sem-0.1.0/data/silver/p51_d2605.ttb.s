@@ -1,0 +1,13 @@
+PRO	She
+EPS	picked
+DIS	a
+CON	flower
+REL	from
+DEF	the
+CON	pot
+COO	and
+EPS	gave
+PRO	it
+REL	to
+PRO	me
+NIL	.

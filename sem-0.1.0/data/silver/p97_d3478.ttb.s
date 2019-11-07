@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	understand
+QUE	what
+PER	Mary
+NOW	is
+EXS	trying
+SUB	to
+EXS	say
+NIL	.

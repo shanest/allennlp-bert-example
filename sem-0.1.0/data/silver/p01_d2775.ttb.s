@@ -1,0 +1,14 @@
+CON	People
+DIS	sometimes
+EXS	ask
+PRO	me
+QUE	what
+PRO	I
+NOW	'm
+EXS	going
+NIL	to
+EXS	do
+SUB	when
+PRO	I
+ENS	retire
+NIL	.

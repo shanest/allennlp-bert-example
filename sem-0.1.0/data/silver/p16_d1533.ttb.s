@@ -1,0 +1,16 @@
+NOW	Is
+UNK	there
+AND	anybody
+AND	else
+PRO	you
+POS	can
+EXS	think
+AND	of
+AND	who
+POS	might
+EXS	be
+IST	willing
+SUB	to
+EXS	help
+PRO	us
+QUE	?

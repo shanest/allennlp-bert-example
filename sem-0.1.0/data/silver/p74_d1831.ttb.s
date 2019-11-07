@@ -1,0 +1,14 @@
+GPE	England
+NOW	is
+EXS	synonymous
+REL	with
+CON	football
+EQU	,
+CON	fish
+AND	&
+CON	chips
+NIL	,
+COO	and
+DEF	the
+CON	Queen
+NIL	.

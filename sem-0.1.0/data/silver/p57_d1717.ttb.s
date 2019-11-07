@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+UNK	necessary
+SUB	to
+EXS	prepare
+REL	for
+DEF	the
+BOT	worst
+NIL	.

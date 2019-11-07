@@ -1,0 +1,13 @@
+PRO	He
+PST	was
+EXG	standing
+REL	by
+DEF	the
+CON	gate
+REL	with
+HAS	his
+CON	hand
+REL	in
+HAS	his
+CON	pocket
+NIL	.

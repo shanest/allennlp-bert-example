@@ -1,0 +1,17 @@
+NIL	"
+NOW	Are
+PRO	you
+CON	friends
+REL	with
+PER	Mary
+QUE	?
+NIL	"
+NIL	"
+ITJ	Yes
+NIL	,
+PRO	she
+HAS	's
+HAS	my
+CON	roommate
+NIL	.
+NIL	"

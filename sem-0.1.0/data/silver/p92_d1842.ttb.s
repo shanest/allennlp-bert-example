@@ -1,0 +1,11 @@
+PER	Tom
+EPS	made
+DIS	a
+CON	mistake
+REL	in
+EXS	choosing
+PER	Mary
+REL	for
+DEF	the
+CON	job
+NIL	.

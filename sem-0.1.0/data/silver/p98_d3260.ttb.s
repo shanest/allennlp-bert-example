@@ -1,0 +1,13 @@
+PRO	You
+PST	had
+IST	better
+EXS	take
+REL	into
+CON	consideration
+SUB	that
+PRO	you
+NOW	are
+NOT	no
+IST	longer
+EXS	young
+NIL	.

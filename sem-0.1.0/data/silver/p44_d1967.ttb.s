@@ -1,0 +1,14 @@
+POS	Perhaps
+PRO	we
+POS	can
+EXS	come
+REL	to
+DIS	some
+CON	arrangement
+AND	that
+ENS	works
+REL	for
+AND	both
+AND	of
+PRO	us
+NIL	.

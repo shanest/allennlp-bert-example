@@ -1,0 +1,10 @@
+PRO	I
+EPS	came
+REL	across
+PRX	this
+CON	book
+REL	in
+DIS	a
+IST	secondhand
+CON	bookstore
+NIL	.

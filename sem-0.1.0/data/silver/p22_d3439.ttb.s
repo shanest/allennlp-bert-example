@@ -1,0 +1,10 @@
+PRO	He
+PST	was
+EXS	listening
+REL	to
+PRO	me
+REL	with
+HAS	his
+CON	eyes
+EXG	shining
+NIL	.

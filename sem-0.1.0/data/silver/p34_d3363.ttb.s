@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	studying
+REL	in
+HAS	his
+CON	room
+REL	since
+CON	dinner
+NIL	.

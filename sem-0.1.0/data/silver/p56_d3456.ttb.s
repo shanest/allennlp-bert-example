@@ -1,0 +1,14 @@
+PRO	She
+ENS	tries
+SUB	to
+EXS	keep
+IST	up
+REL	with
+QUE	what
+NOW	is
+EXS	going
+REL	on
+REL	in
+DEF	the
+CON	world
+NIL	.

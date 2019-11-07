@@ -1,0 +1,9 @@
+NOT	No
+CON	one
+IST	ever
+ENS	tells
+PRO	me
+AND	anything
+AND	around
+PRX	here
+NIL	.

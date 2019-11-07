@@ -1,0 +1,10 @@
+SUB	When
+PRO	I
+EPS	called
+NIL	,
+PRO	he
+PST	had
+IST	already
+EXS	set
+REL	off
+NIL	.

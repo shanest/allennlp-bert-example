@@ -1,0 +1,9 @@
+PRO	We
+FUT	wo
+NOT	n't
+EXS	need
+AND	any
+EXS	help
+REL	until
+DOW	Monday
+NIL	.

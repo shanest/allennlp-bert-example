@@ -1,0 +1,12 @@
+UNK	There
+PST	was
+NOT	no
+CON	one
+REL	in
+DEF	the
+CON	shop
+SUB	to
+EXS	wait
+REL	on
+PRO	me
+NIL	.

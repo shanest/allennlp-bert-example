@@ -1,0 +1,9 @@
+PRO	She
+EPS	requested
+EXS	help
+NIL	,
+BUT	but
+NOT	no
+CON	one
+EPS	came
+NIL	.

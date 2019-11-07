@@ -1,0 +1,15 @@
+PRO	It
+PST	was
+NOT	not
+SUB	until
+PRO	I
+EPS	visited
+GPE	Australia
+SUB	that
+PRO	I
+EPS	realized
+QUE	how
+IST	small
+GEO	Japan
+PST	was
+NIL	.

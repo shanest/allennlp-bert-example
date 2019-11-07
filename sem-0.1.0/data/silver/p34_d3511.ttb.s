@@ -1,0 +1,11 @@
+PRO	It
+NOW	goes
+NOT	without
+EXG	saying
+DST	that
+CON	money
+POS	can
+NOT	not
+EXS	buy
+CON	happiness
+NIL	.

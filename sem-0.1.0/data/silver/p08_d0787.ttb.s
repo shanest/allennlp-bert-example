@@ -1,0 +1,13 @@
+PRO	It
+PST	was
+DIS	a
+CON	pity
+SUB	that
+PER	Tom
+POS	could
+NOT	n't
+EXS	come
+REL	to
+HAS	our
+CON	party
+NIL	.

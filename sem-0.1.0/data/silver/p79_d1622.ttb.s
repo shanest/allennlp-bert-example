@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+ENS	live
+REL	in
+DIS	a
+IST	seedy
+IST	rundown
+CON	neighbourhood
+NIL	.

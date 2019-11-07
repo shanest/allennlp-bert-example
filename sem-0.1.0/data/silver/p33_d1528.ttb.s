@@ -1,0 +1,16 @@
+REL	From
+DEF	the
+CON	viewpoint
+AND	of
+CON	health
+NIL	,
+GPE	Tokyo
+NOW	is
+NOT	not
+AND	such
+DIS	a
+IST	good
+CON	place
+SUB	to
+EXS	live
+NIL	.

@@ -1,0 +1,14 @@
+EXS	Excuse
+PRO	me
+NIL	,
+QUE	what
+NOW	is
+DEF	the
+TOP	shortest
+CON	way
+SUB	to
+EXS	go
+REL	to
+DEF	the
+CON	station
+QUE	?

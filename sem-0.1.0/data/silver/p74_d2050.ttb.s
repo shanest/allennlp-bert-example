@@ -1,0 +1,11 @@
+PRO	It
+PST	was
+DEF	the
+TOP	best
+CON	play
+SUB	that
+PRO	I
+PST	had
+IST	ever
+EXS	seen
+NIL	.

@@ -1,0 +1,15 @@
+CON	Where
+PST	were
+PRO	you
+QUE	?
+PRO	I
+NOW	've
+PFT	been
+EXS	looking
+REL	for
+PRO	you
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	notice
+PER	Mary
+EXS	hiding
+REL	in
+DEF	the
+CON	bushes
+NIL	.

@@ -1,0 +1,9 @@
+PRO	You
+EPS	lied
+REL	to
+PRO	us
+NIL	,
+PST	did
+NOT	n't
+PRO	you
+QUE	?

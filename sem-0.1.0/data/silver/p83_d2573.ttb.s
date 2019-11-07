@@ -1,0 +1,12 @@
+DEF	The
+CON	talk
+PST	was
+EXS	peppered
+REL	with
+IST	scientific
+CON	jargon
+SUB	that
+NOT	no
+CON	one
+EPS	understood
+NIL	.

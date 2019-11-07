@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+NOT	not
+UNK	possible
+SUB	to
+EXS	do
+QUC	two
+CON	things
+REL	at
+QUC	once
+NIL	.

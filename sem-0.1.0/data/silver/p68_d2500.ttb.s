@@ -1,0 +1,11 @@
+DEF	The
+CON	burglars
+ENS	appear
+SUB	to
+EXT	have
+PFT	been
+EXS	surprised
+REL	by
+DEF	the
+CON	watchman
+NIL	.

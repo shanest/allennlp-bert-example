@@ -1,0 +1,11 @@
+PRO	They
+EPS	left
+PRO	it
+REL	to
+PRO	me
+SUB	to
+EXS	decide
+REL	on
+DIS	a
+CON	gift
+NIL	.

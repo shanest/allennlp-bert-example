@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+DEF	the
+CON	one
+NIL	.
+PRO	I
+ENS	know
+PRO	it
+NIL	.

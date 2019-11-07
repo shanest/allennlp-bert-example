@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	staying
+REL	at
+HAS	my
+CON	friend
+HAS	's
+CON	house
+REL	in
+GEO	Washington
+GEO	City
+NIL	.

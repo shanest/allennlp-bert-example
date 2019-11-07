@@ -1,0 +1,9 @@
+PER	Tom
+FUT	would
+NOT	n't
+EXS	be
+EXS	happy
+EXS	living
+REL	with
+PER	Mary
+NIL	.

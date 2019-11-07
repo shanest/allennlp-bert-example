@@ -1,0 +1,12 @@
+GPE	Germany
+NOW	is
+EXS	known
+REL	for
+EXS	being
+DEF	the
+CON	country
+AND	of
+ROL	poets
+AND	and
+CON	thinkers
+NIL	.

@@ -1,0 +1,12 @@
+PRO	We
+NOW	're
+EXS	talking
+AND	about
+AND	who
+PRO	we
+NEC	should
+EXS	appoint
+REL	to
+DST	that
+CON	position
+NIL	.

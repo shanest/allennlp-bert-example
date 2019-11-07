@@ -1,0 +1,12 @@
+IMP	If
+PRO	you
+ENS	see
+PRO	her
+REL	from
+DIS	a
+CON	distance
+NIL	,
+PRO	she
+NOW	is
+EXS	beautiful
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	expect
+AND	such
+DIS	a
+IST	nice
+CON	present
+REL	from
+PER	Mary
+NIL	.

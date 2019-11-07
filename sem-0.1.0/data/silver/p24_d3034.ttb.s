@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+POS	can
+EXS	read
+PRX	this
+CON	sentence
+NIL	,
+AND	then
+PRO	you
+NOW	're
+IST	able
+SUB	to
+EXS	read
+NIL	.

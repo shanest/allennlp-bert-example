@@ -1,0 +1,12 @@
+PER	Tiniriwin
+NOW	is
+DIS	a
+CON	Berber
+CON	music
+CON	group
+REL	from
+DEF	the
+GEO	North
+AND	of
+GPE	Mali
+NIL	.

@@ -1,0 +1,14 @@
+CON	Sorry
+SUB	that
+PRO	I
+NOW	've
+EXS	reduced
+PRO	you
+REL	to
+DIS	someone
+SUB	to
+EXS	drag
+HAS	my
+CON	luggage
+AND	around
+NIL	!

@@ -1,0 +1,14 @@
+NOT	No
+CON	one
+IST	ever
+IST	really
+ENS	knows
+QUE	what
+HAS	's
+EXS	going
+AND	through
+DIS	someone
+AND	else
+HAS	's
+CON	head
+NIL	.

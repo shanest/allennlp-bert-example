@@ -1,0 +1,16 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	get
+DIS	any
+CON	work
+EXS	done
+PRX	here
+REL	with
+AND	all
+PRX	these
+CON	children
+REL	in
+DEF	the
+CON	room
+NIL	.

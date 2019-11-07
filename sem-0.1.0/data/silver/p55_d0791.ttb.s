@@ -1,0 +1,9 @@
+DEF	The
+QUC	two
+ROL	sisters
+EPS	became
+MOR	more
+AND	and
+MOR	more
+IST	famous
+NIL	.

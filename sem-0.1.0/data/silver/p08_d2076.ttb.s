@@ -1,0 +1,10 @@
+PRO	I
+EPS	met
+DIS	an
+IST	old
+CON	friend
+REL	by
+CON	chance
+REL	in
+GEO	Kyoto
+NIL	.

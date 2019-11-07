@@ -1,0 +1,10 @@
+PRO	It
+EPS	took
+QUC	one
+CON	week
+SUB	to
+EXS	locate
+HAS	their
+EXG	hiding
+CON	place
+NIL	.

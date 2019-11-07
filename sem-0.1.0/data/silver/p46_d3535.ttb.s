@@ -1,0 +1,12 @@
+PER	Tom
+HAS	's
+CON	dream
+NOW	is
+SUB	to
+EXS	go
+REL	to
+DIS	a
+CON	university
+REL	in
+GPE	England
+NIL	.

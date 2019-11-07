@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+DEF	the
+IST	real
+CON	reason
+REL	for
+HAS	his
+CON	absence
+NIL	.

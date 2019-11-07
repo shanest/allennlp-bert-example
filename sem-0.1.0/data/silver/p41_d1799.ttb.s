@@ -1,0 +1,9 @@
+QUE	How
+IST	far
+NOW	's
+DEF	the
+CON	top
+AND	of
+DEF	the
+CON	mountain
+QUE	?

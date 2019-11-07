@@ -1,0 +1,13 @@
+PER	Natasha
+PST	was
+EXS	born
+REL	in
+GPE	Russia
+NIL	,
+BUT	but
+PRO	she
+NOW	does
+NOT	n’t
+EXS	speak
+CON	Russian
+NIL	.

@@ -1,0 +1,15 @@
+PRO	He
+EPS	pretended
+SUB	to
+EXS	be
+DIS	an
+CON	Englishman
+NIL	,
+BUT	but
+HAS	his
+IST	foreign
+CON	accent
+EPS	gave
+PRO	him
+IST	away
+NIL	.

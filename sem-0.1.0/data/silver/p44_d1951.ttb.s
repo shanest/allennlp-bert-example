@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+NOT	not
+EXS	unusual
+REL	for
+PER	Tom
+SUB	to
+EXS	be
+IST	late
+NIL	.

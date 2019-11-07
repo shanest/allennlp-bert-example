@@ -1,0 +1,16 @@
+CON	Pinocchio
+PST	was
+EXS	made
+AND	of
+INT	very
+IST	hard
+CON	wood
+AND	and
+DEF	the
+CON	knives
+EPS	broke
+REL	into
+DIS	a
+QUC	thousand
+CON	pieces
+NIL	.

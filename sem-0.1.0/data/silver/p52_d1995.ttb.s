@@ -1,0 +1,11 @@
+PRO	You
+POS	may
+EXS	depend
+AND	upon
+PRO	it
+SUB	that
+DEF	the
+CON	story
+NOW	is
+IST	exaggerated
+NIL	.

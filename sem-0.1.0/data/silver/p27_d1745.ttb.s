@@ -1,0 +1,10 @@
+PRO	You
+NEC	should
+EXT	've
+EXS	let
+PRO	us
+EXS	know
+PRO	you
+PST	were
+EXS	coming
+NIL	.

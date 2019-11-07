@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+INT	very
+CON	kind
+AND	of
+PRO	you
+SUB	to
+EXS	say
+IST	so
+NIL	.

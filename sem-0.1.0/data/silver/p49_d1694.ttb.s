@@ -1,0 +1,10 @@
+PER	Tom
+NOW	hopes
+SUB	to
+EXS	get
+DEF	the
+CON	job
+EXS	done
+REL	by
+CLO	2:30
+NIL	.

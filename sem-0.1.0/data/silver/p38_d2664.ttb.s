@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+NOW	has
+ALT	yet
+EXS	found
+DEF	the
+CON	fountain
+AND	of
+CON	youth
+NIL	.

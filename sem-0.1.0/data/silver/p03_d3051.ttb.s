@@ -1,0 +1,11 @@
+QUV	Many
+CON	people
+ENS	believe
+SUB	that
+HAS	our
+CON	country
+HAS	's
+ROL	politicians
+NOW	are
+EXS	corrupt
+NIL	.

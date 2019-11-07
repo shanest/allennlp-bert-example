@@ -1,0 +1,10 @@
+PER	Will
+PRO	you
+EPS	put
+DEF	the
+CON	dishes
+AND	away
+REL	in
+DEF	the
+CON	cupboard
+QUE	?

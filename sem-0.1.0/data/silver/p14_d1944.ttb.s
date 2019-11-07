@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+DIS	a
+IST	new
+CON	restaurant
+PST	was
+EXS	constructed
+NIL	.

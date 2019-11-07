@@ -1,0 +1,13 @@
+TIM	Reading
+DEF	the
+CON	letter
+SUB	that
+PRO	he
+ENS	sends
+PRO	me
+AND	every
+CON	month
+NOW	is
+INT	quite
+EXS	funny
+NIL	.

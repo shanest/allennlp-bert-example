@@ -1,0 +1,10 @@
+EXG	Traveling
+REL	by
+CON	boat
+NOW	takes
+IST	longer
+AND	than
+EXS	going
+REL	by
+CON	car
+NIL	.

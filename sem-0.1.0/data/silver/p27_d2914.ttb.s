@@ -1,0 +1,9 @@
+PRO	We
+NOW	are
+EXS	working
+REL	in
+DEF	the
+CON	interest
+AND	of
+CON	peace
+NIL	.

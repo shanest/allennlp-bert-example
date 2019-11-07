@@ -1,0 +1,11 @@
+EXS	Let
+PRO	's
+EXS	go
+EXS	find
+DIS	a
+CON	place
+AND	that
+ENS	serves
+AND	Buffalo
+CON	wings
+NIL	.

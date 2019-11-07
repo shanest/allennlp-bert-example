@@ -1,0 +1,9 @@
+DEF	The
+CON	airplane
+PST	was
+IST	just
+EXS	going
+SUB	to
+EXS	take
+REL	off
+NIL	.

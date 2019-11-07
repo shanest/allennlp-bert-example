@@ -1,0 +1,12 @@
+FUT	Tomorrow
+CON	morning
+NIL	,
+PRO	they
+NOW	're
+EXS	selling
+CON	tickets
+REL	for
+DEF	the
+IST	Shakira
+CON	concert
+NIL	.

@@ -1,0 +1,10 @@
+AND	Generally
+EXS	speaking
+NIL	,
+DEF	the
+CON	climate
+REL	in
+GPE	England
+NOW	is
+EXS	mild
+NIL	.

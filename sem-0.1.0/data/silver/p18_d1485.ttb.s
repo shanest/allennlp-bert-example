@@ -1,0 +1,13 @@
+QUC	Forty
+UOM	euros
+REL	for
+DIS	a
+CON	scarf
+QUE	?
+PRO	You
+NOW	do
+NOT	n't
+EXS	have
+DIS	anything
+COM	cheaper
+QUE	?

@@ -1,0 +1,15 @@
+PRX	Tatoeba
+NOW	is
+DEF	the
+CON	website
+PRO	I
+NOW	recommend
+REL	to
+ALT	other
+CON	translators
+EQU	,
+CON	colleagues
+AND	and
+CON	language
+CON	students
+NIL	.

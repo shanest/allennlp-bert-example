@@ -1,0 +1,10 @@
+PRO	He
+NOW	argues
+AND	about
+AND	everything
+PRO	he
+NOW	's
+EXS	told
+SUB	to
+EXS	do
+NIL	.

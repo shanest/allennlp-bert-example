@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+EXT	kept
+DIS	a
+CON	diary
+REL	for
+QUC	three
+UOM	years
+NIL	.

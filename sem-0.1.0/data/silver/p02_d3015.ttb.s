@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	believed
+SUB	that
+PRO	he
+FUT	will
+EXS	win
+DEF	the
+CON	race
+NIL	.

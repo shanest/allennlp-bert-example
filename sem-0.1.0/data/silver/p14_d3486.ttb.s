@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+ALT	also
+REL	in
+DEF	the
+CON	room
+NIL	.

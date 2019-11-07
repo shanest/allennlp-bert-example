@@ -1,0 +1,11 @@
+CON	Muskrats
+NOW	are
+IST	responsible
+REL	for
+DEF	the
+CON	destruction
+REL	of
+CON	dams
+GRP	and
+CON	dikes
+NIL	.

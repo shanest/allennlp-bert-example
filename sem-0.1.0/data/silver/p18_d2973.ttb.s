@@ -1,0 +1,13 @@
+PRO	I
+ENS	love
+PRO	her
+NIL	,
+COO	but
+PRO	she
+HAS	's
+REL	in
+CON	love
+REL	with
+DIS	someone
+AND	else
+NIL	.

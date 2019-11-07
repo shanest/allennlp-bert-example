@@ -1,0 +1,12 @@
+PER	Tom
+HAS	's
+ROL	father
+NOW	is
+EXG	taking
+PER	Tom
+COO	and
+PRO	me
+CON	skiing
+AND	next
+CON	weekend
+NIL	.

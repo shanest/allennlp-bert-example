@@ -1,0 +1,15 @@
+SUB	To
+EXS	tell
+DEF	the
+CON	truth
+NIL	,
+PRO	I
+EPS	drove
+HAS	my
+CON	father
+HAS	's
+CON	car
+NOT	without
+HAS	his
+CON	permission
+NIL	.

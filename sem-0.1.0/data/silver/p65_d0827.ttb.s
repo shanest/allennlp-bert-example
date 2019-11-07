@@ -1,0 +1,9 @@
+PRO	She
+EPS	took
+DEF	the
+CON	book
+IST	back
+REL	to
+DEF	the
+CON	library
+NIL	.

@@ -1,0 +1,13 @@
+PRO	We
+POS	ca
+NOT	n't
+IST	really
+EXS	do
+AND	anything
+SUB	until
+PRO	we
+NOW	get
+CON	permission
+REL	from
+PER	Tom
+NIL	.

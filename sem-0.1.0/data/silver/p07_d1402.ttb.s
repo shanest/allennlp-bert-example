@@ -1,0 +1,14 @@
+PST	Had
+PRO	it
+NOT	not
+EXS	been
+REL	for
+HAS	your
+CON	courage
+NIL	,
+PRO	you
+FUT	would
+EXT	have
+PFT	been
+EXS	killed
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	took
+HAS	his
+CON	place
+REL	at
+CON	head
+AND	of
+DEF	the
+CON	table
+NIL	.

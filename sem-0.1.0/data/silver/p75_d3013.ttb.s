@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	listen
+SUB	to
+QUE	what
+PER	Mary
+ENS	says
+NIL	.

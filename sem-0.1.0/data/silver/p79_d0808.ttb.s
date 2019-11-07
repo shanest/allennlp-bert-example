@@ -1,0 +1,12 @@
+AND	Now
+SUB	that
+PRO	you
+NOW	have
+EXS	made
+HAS	your
+CON	decision
+NIL	,
+PRO	you
+NEC	must
+EXS	act
+NIL	.

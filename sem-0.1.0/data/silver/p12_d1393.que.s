@@ -1,0 +1,11 @@
+QUE	What
+CON	department
+NOW	is
+IST	responsible
+REL	for
+EXG	regulating
+CON	casino
+CON	gambling
+REL	in
+NTH	Mississippi
+QUE	?

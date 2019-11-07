@@ -1,0 +1,9 @@
+QUE	How
+IST	long
+NOW	have
+PRO	you
+PFT	been
+EXG	living
+REL	in
+GPE	Boston
+QUE	?

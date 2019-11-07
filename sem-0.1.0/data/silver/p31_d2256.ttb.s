@@ -1,0 +1,9 @@
+DEF	The
+IST	economic
+CON	situation
+NOW	is
+NOT	n't
+EXS	good
+IST	right
+NOW	now
+NIL	.

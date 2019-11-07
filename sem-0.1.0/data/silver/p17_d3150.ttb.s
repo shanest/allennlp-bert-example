@@ -1,0 +1,11 @@
+EPS	Pick
+IST	up
+DEF	the
+CON	language
+AND	as
+PRO	you
+PST	did
+HAS	your
+ROL	mother
+CON	tongue
+NIL	.

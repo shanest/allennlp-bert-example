@@ -1,0 +1,16 @@
+PRO	She
+EPS	got
+IST	out
+DEF	the
+CON	bottle
+AND	of
+CON	champagne
+PRO	she
+PST	'd
+PFT	been
+EXS	saving
+REL	for
+DIS	a
+IST	special
+CON	occasion
+NIL	.

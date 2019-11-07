@@ -1,0 +1,10 @@
+DEF	The
+CON	bride
+AND	and
+CON	groom
+EPS	kissed
+SUB	when
+DEF	the
+CON	ceremony
+EPS	ended
+NIL	.

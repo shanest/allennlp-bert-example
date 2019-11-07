@@ -1,0 +1,12 @@
+AND	However
+IST	busy
+PRO	you
+POS	may
+EXS	be
+NIL	,
+PRO	you
+NEC	must
+EXS	do
+HAS	your
+CON	homework
+NIL	.

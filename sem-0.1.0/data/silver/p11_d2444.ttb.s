@@ -1,0 +1,12 @@
+PRO	I
+AND	always
+PST	felt
+EXS	ill
+REL	at
+CON	ease
+REL	in
+HAS	my
+ROL	father
+HAS	's
+CON	company
+NIL	.

@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+EXS	know
+AND	any
+CON	authors
+AND	who
+EXS	write
+REL	in
+IST	multiple
+CON	languages
+QUE	?

@@ -1,0 +1,12 @@
+PRO	I
+NOW	hold
+PER	Mary
+REL	in
+DEF	the
+CON	basement
+AND	and
+CON	rape
+HAS	her
+AND	every
+CON	day
+NIL	.

@@ -1,0 +1,9 @@
+REL	In
+GPE	France
+NIL	,
+QUV	many
+IST	young
+CON	people
+NOW	have
+CON	motorcycles
+NIL	.

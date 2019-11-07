@@ -1,0 +1,16 @@
+SUB	While
+PRO	we
+PST	were
+EXS	speaking
+NIL	,
+PER	Angela
+EPS	interrupted
+PRO	us
+COO	and
+PRO	she
+EPS	asked
+PRO	us
+SUB	to
+EXS	help
+PRO	her
+NIL	.

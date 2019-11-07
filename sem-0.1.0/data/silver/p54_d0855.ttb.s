@@ -1,0 +1,11 @@
+NOW	Is
+PRO	it
+EXS	true
+SUB	that
+CON	men
+NOW	have
+IST	oilier
+CON	skin
+AND	than
+CON	women
+QUE	?

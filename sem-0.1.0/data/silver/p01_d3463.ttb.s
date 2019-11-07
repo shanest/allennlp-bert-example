@@ -1,0 +1,9 @@
+EXS	Allow
+PRO	me
+NIL	to
+EXS	introduce
+PRO	you
+REL	to
+ROL	Mr.
+PER	White
+NIL	.

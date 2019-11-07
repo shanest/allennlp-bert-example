@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+PFT	been
+INT	very
+EXS	hungry
+REL	since
+PRX	this
+CON	morning
+NIL	.

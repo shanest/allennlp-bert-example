@@ -1,0 +1,16 @@
+NOW	Do
+PRO	you
+EXS	need
+DIS	a
+CON	visa
+SUB	to
+EXS	go
+REL	to
+GEO	Australia
+IMP	if
+PRO	you
+NOW	have
+DIS	a
+GPO	British
+CON	passport
+QUE	?

@@ -1,0 +1,14 @@
+PER	Tom
+EPS	raised
+HAS	his
+CON	glass
+COO	and
+EPS	said
+NIL	,
+NIL	"
+REL	To
+DEF	the
+IST	happy
+CON	couple
+NIL	!
+NIL	"

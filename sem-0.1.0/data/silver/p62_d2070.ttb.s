@@ -1,0 +1,11 @@
+REL	By
+DEF	the
+CON	time
+PRO	we
+PST	got
+UNK	there
+NIL	,
+PRO	he
+PST	had
+EXS	left
+NIL	.

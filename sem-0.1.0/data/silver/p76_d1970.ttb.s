@@ -1,0 +1,16 @@
+PER	Tom
+EPS	picked
+IST	up
+QUC	one
+AND	of
+DEF	the
+CON	cans
+NIL	,
+EPS	opened
+PRO	it
+NIL	,
+COO	and
+EPS	took
+DIS	a
+NOW	sip
+NIL	.

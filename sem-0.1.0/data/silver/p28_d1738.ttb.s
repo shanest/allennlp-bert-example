@@ -1,0 +1,16 @@
+PRO	He
+NOW	is
+DIS	a
+IST	primary
+CON	school
+CON	teacher
+NIL	,
+COO	so
+PRO	he
+NOW	is
+EXS	used
+SUB	to
+EXS	dealing
+REL	with
+CON	children
+NIL	.

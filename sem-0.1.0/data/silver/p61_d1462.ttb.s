@@ -1,0 +1,10 @@
+QUE	How
+QUC	much
+NOW	do
+PRO	I
+EXS	owe
+PRO	you
+REL	for
+DEF	the
+CON	ticket
+QUE	?

@@ -1,0 +1,9 @@
+PER	Tom
+ENS	thinks
+SUB	that
+PER	Mary
+FUT	wo
+NOT	n't
+EXS	say
+IST	yes
+NIL	.

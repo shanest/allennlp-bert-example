@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXS	satisfied
+REL	with
+DEF	the
+CON	result
+AND	of
+HAS	my
+CON	math
+CON	test
+NIL	.

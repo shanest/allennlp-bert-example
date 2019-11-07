@@ -1,0 +1,9 @@
+PRO	You
+PST	did
+NOT	n't
+EXS	tell
+PRO	me
+PER	Tom
+ENS	speaks
+GPO	French
+NIL	.

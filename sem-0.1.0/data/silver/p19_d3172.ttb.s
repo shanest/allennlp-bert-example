@@ -1,0 +1,9 @@
+GPE	France
+NOW	is
+EXS	separated
+REL	from
+GPE	Spain
+REL	by
+DEF	the
+CON	Pyrenees
+NIL	.

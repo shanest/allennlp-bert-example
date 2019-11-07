@@ -1,0 +1,12 @@
+REL	In
+MOY	August
+NIL	,
+PRO	I
+NOW	'm
+EXG	going
+REL	to
+GPE	Japan
+REL	with
+HAS	my
+CON	friends
+NIL	.

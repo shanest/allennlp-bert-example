@@ -1,0 +1,14 @@
+NIL	"
+CON	Where
+NOW	is
+PER	Mary
+QUE	?
+NIL	"
+NIL	"
+PRO	She
+NOW	's
+NOT	not
+EXS	working
+NOW	today
+NIL	.
+NIL	"

@@ -1,0 +1,15 @@
+NIL	"
+ITJ	Alas
+NIL	!
+NIL	"
+PRO	he
+EPS	said
+NIL	,
+NIL	"
+QUE	what
+FUT	will
+EXS	become
+AND	of
+PRO	me
+QUE	?
+NIL	"

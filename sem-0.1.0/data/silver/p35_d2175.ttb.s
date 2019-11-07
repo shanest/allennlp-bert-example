@@ -1,0 +1,10 @@
+DEF	The
+EXT	stolen
+CON	jewels
+NEC	must
+EXS	be
+EXS	recovered
+REL	at
+AND	any
+CON	cost
+NIL	.

@@ -1,0 +1,14 @@
+CON	People
+PST	were
+EXS	lined
+IST	up
+AND	around
+DEF	the
+CON	block
+EXG	waiting
+REL	for
+DEF	the
+CON	theater
+SUB	to
+EXS	open
+NIL	.

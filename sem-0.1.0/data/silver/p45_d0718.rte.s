@@ -1,0 +1,9 @@
+CON	Incursions
+REL	in
+DEF	the
+GEO	Amazon
+ENS	have
+DIS	an
+IST	economic
+CON	function
+NIL	.

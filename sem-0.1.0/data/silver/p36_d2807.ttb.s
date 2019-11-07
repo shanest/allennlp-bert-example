@@ -1,0 +1,11 @@
+PRO	He
+EPS	became
+DIS	a
+CON	member
+AND	of
+PRX	this
+CON	club
+QUC	five
+CON	years
+PST	ago
+NIL	.

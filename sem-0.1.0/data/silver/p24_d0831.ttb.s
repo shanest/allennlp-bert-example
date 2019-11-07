@@ -1,0 +1,11 @@
+POS	Can
+PRO	I
+EXS	talk
+REL	to
+PER	Ryoko
+ALT	again
+SUB	before
+PRO	you
+ENS	hang
+IST	up
+QUE	?

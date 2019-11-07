@@ -1,0 +1,16 @@
+CON	Communism
+ENS	tries
+SUB	to
+EXS	overcome
+CON	capitalism
+NIL	,
+BUT	but
+IST	so
+IST	far
+SUB	that
+CON	goal
+NOW	has
+NOT	not
+PFT	been
+EXS	achieved
+NIL	.

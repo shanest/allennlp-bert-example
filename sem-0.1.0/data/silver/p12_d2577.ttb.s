@@ -1,0 +1,11 @@
+PRO	You
+NOW	are
+IST	mad
+SUB	to
+EXS	try
+SUB	to
+EXS	do
+PRO	it
+AND	all
+EXS	alone
+NIL	.

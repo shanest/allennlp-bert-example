@@ -1,0 +1,14 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+IMP	if
+PER	Mary
+FUT	will
+EXS	go
+CON	camping
+REL	with
+PRO	us
+DIS	or
+NOT	not
+NIL	.

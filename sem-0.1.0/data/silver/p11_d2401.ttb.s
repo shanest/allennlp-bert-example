@@ -1,0 +1,11 @@
+PRO	They
+NOW	say
+HAS	our
+CON	house
+NOW	is
+INT	too
+EXS	small
+REL	by
+IST	Western
+CON	standards
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	taking
+HAS	her
+IST	out
+REL	to
+CON	dinner
+CON	tonight
+NIL	.

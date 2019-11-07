@@ -1,0 +1,15 @@
+PRO	It
+NOW	's
+COM	better
+SUB	to
+EXS	be
+IST	poor
+AND	and
+REL	in
+IST	good
+CON	health
+AND	than
+CON	rich
+AND	and
+CON	ill
+NIL	.

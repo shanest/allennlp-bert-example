@@ -1,0 +1,13 @@
+REL	Alcohol
+AND	and
+ALT	other
+CON	substance
+CON	abuse
+NOW	is
+EXS	plaguing
+HAS	our
+CON	society
+REL	at
+DEF	the
+CON	moment
+NIL	.

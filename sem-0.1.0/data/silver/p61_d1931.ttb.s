@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+NOT	never
+PFT	been
+EXS	asked
+REL	for
+AND	anything
+AND	like
+PRX	this
+NIL	.

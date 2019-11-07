@@ -1,0 +1,9 @@
+EXS	Excuse
+PRO	me
+NIL	,
+BUT	but
+SUB	where
+NOW	is
+DEF	the
+CON	library
+QUE	?

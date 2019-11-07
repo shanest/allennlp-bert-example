@@ -1,0 +1,9 @@
+PRO	He
+NOW	has
+PFT	been
+EXG	living
+PRX	here
+PRX	these
+QUC	ten
+CON	years
+NIL	.

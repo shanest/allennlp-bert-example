@@ -1,0 +1,10 @@
+QUV	Many
+CON	kiss
+DEF	the
+CON	hand
+PRO	they
+ENS	wish
+NIL	to
+EXS	cut
+REL	off
+NIL	.

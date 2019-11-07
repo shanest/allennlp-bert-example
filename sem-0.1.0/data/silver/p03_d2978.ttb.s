@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	told
+PRO	us
+PRO	they
+FUT	would
+NOT	n't
+EXS	fight
+CON	anymore
+NIL	.

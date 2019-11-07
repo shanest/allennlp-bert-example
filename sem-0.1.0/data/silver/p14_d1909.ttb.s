@@ -1,0 +1,9 @@
+DEF	The
+CON	bandits
+EPS	put
+DIS	a
+CON	gag
+REL	in
+HAS	his
+CON	mouth
+NIL	.

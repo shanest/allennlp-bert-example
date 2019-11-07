@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+CON	rest
+NIL	,
+PRO	you
+FUT	will
+EXS	be
+IST	back
+REL	on
+HAS	your
+CON	feet
+ALT	again
+IST	soon
+NIL	.

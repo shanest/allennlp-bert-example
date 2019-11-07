@@ -1,0 +1,11 @@
+GRE	Hello
+NIL	,
+PRO	I
+EQU	'm
+PER	Tom
+NIL	.
+QUE	What
+HAS	's
+HAS	your
+CON	name
+QUE	?

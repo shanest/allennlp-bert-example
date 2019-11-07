@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	learn
+DIS	a
+CON	lot
+NIL	.

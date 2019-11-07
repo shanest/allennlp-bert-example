@@ -1,0 +1,11 @@
+PRO	It
+NOW	looks
+AND	like
+PRO	it
+NOW	's
+EXS	going
+SUB	to
+CON	rain
+EQU	,
+CON	right
+QUE	?

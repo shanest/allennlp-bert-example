@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	why
+PER	Mary
+NOW	does
+NOT	n't
+EXS	like
+PRO	him
+NIL	.

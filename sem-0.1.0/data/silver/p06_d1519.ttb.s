@@ -1,0 +1,9 @@
+PER	Tom
+NOT	never
+EPS	said
+AND	anything
+AND	about
+PER	Mary
+EXS	being
+PRX	here
+NIL	.

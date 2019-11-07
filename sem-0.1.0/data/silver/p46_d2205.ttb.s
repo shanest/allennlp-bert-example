@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+EXT	gained
+CON	weight
+REL	since
+PRO	I
+IST	last
+EPS	saw
+PRO	him
+NIL	.

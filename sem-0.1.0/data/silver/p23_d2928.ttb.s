@@ -1,0 +1,10 @@
+DEF	The
+CON	crowd
+EPS	went
+IST	crazy
+SUB	when
+PRO	he
+EPS	got
+DIS	a
+CON	goal
+NIL	.

@@ -1,0 +1,11 @@
+REL	In
+DEF	the
+CON	6th
+CON	century
+NIL	,
+DEF	the
+CON	Anglo-Saxons
+EPS	adopted
+IST	Roman
+CON	characters
+NIL	.

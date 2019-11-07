@@ -1,0 +1,13 @@
+PRO	It
+HAS	's
+NOT	not
+HAS	my
+CON	fault
+NIL	.
+HAS	My
+CON	brain
+EPS	made
+PRO	me
+NOW	do
+PRO	it
+NIL	.

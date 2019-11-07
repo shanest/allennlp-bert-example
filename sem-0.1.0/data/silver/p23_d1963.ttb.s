@@ -1,0 +1,16 @@
+PRO	I
+NOW	think
+PRO	it
+FUT	will
+EXS	cost
+PRO	you
+MOR	more
+MOR	than
+QUC	10,000
+UOM	yen
+SUB	to
+EXS	have
+PRX	this
+CON	camera
+EPS	fixed
+NIL	.

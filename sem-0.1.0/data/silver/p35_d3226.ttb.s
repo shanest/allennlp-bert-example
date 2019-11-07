@@ -1,0 +1,12 @@
+CON	Talking
+AND	of
+GEO	Switzerland
+NIL	,
+NOW	have
+PRO	you
+IST	ever
+EXS	been
+IST	there
+REL	in
+CON	winter
+QUE	?

@@ -1,0 +1,10 @@
+PRO	You
+IST	still
+ENS	need
+IST	more
+EXS	sleep
+NIL	,
+NOW	do
+NOT	n't
+PRO	you
+QUE	?

@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+AND	both
+REL	on
+DEF	the
+CON	phone
+NIL	.

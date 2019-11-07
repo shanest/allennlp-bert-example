@@ -1,0 +1,15 @@
+DEF	The
+IST	official
+EXS	informed
+PER	Bob
+SUB	that
+HAS	his
+CON	request
+REL	for
+DIS	a
+CON	parking
+CON	permit
+PST	had
+PFT	been
+EXS	rejected
+NIL	.

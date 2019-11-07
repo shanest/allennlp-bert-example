@@ -1,0 +1,10 @@
+AND	Why
+PST	did
+PRO	I
+EXS	forget
+SUB	to
+EXS	write
+DEF	the
+CON	fax
+CON	number
+QUE	?

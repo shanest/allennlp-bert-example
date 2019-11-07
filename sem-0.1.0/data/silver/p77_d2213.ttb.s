@@ -1,0 +1,10 @@
+PER	Tom
+FUT	wo
+NOT	n't
+EXS	be
+EXS	going
+REL	to
+PER	Mary
+HAS	's
+CON	party
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+DEF	the
+CON	town
+SUB	where
+PRO	he
+PST	was
+EXS	born
+QUE	?

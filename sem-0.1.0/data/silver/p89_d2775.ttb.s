@@ -1,0 +1,15 @@
+PER	Tom
+HAS	's
+CON	fuming
+ALT	again
+NOW	today
+AND	-
+DEF	the
+IST	slightest
+CON	word
+COO	and
+PRO	he
+CON	blows
+HAS	his
+CON	top
+NIL	.

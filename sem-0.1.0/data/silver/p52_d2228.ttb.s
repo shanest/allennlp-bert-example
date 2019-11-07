@@ -1,0 +1,13 @@
+CON	Jewels
+IST	worth
+UOM	€
+QUC	40-million
+PST	were
+EXS	stolen
+REL	in
+GEO	Cannes
+REL	from
+DEF	the
+CON	Carlton
+CON	hotel
+NIL	.

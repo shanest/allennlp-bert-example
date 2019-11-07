@@ -1,0 +1,11 @@
+PRO	They
+EPS	asked
+ROL	Mrs.
+PER	Lincoln
+SUB	where
+PRO	she
+EPS	wanted
+HAS	her
+CON	husband
+EXS	buried
+NIL	.

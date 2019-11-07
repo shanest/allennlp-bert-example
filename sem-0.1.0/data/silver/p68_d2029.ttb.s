@@ -1,0 +1,10 @@
+PER	Tom
+FUT	wo
+NOT	n't
+EXS	go
+SUB	unless
+PER	Mary
+ENS	goes
+REL	with
+PRO	him
+NIL	.

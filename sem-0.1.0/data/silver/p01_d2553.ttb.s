@@ -1,0 +1,9 @@
+HAS	My
+CON	boss
+NOW	is
+EXG	suffering
+REL	from
+DIS	a
+IST	bad
+CON	cold
+NIL	.

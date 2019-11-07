@@ -1,0 +1,9 @@
+PRO	She
+NOW	is
+HAS	her
+ROL	mother
+HAS	's
+CON	match
+REL	in
+CON	character
+NIL	.

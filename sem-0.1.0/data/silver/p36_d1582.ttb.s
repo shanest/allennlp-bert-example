@@ -1,0 +1,10 @@
+PRO	We
+NOW	're
+EXS	trying
+SUB	to
+EXS	get
+DIS	a
+CON	hold
+AND	of
+PER	Tom
+NIL	.

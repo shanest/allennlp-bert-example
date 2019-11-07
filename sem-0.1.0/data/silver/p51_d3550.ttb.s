@@ -1,0 +1,12 @@
+AND	Why
+NOW	do
+PRO	you
+ENS	want
+SUB	to
+EXS	know
+QUE	what
+PRO	we
+NOW	are
+EXS	thinking
+IST	about
+QUE	?

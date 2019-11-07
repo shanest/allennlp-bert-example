@@ -1,0 +1,9 @@
+PRO	She
+EPS	laughed
+IST	up
+HAS	her
+CON	sleeve
+REL	at
+HAS	his
+CON	failure
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+EXS	sorry
+SUB	to
+EXS	say
+SUB	that
+PRO	I
+POS	can
+NOT	not
+EXS	help
+PRO	you
+NIL	.

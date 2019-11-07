@@ -1,0 +1,15 @@
+SUB	When
+PRO	he
+EPS	broke
+HAS	his
+CON	leg
+NIL	,
+PRO	he
+NEC	had
+SUB	to
+EXS	use
+CON	crutches
+REL	for
+QUC	3
+CON	months
+NIL	.

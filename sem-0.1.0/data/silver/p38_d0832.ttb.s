@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	know
+AND	any
+CON	doctors
+AND	who
+EXS	speak
+GPO	Japanese
+QUE	?

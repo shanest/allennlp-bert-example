@@ -1,0 +1,9 @@
+DEF	The
+ROL	natives
+EXS	collect
+AND	and
+CON	store
+NIL	rain-water
+NIL	to
+EXS	drink
+NIL	.

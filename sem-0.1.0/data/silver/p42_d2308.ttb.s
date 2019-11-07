@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXG	telling
+PRO	you
+NIL	,
+PRO	I
+NOW	'm
+NOT	not
+EXS	going
+NIL	.

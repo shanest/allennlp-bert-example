@@ -1,0 +1,17 @@
+DEF	The
+CON	helicopter
+NOW	is
+IST	so
+EXS	useful
+SUB	that
+FUT	someday
+PRO	it
+POS	may
+EXS	take
+DEF	the
+CON	place
+AND	of
+CON	cars
+AND	and
+CON	trains
+NIL	.

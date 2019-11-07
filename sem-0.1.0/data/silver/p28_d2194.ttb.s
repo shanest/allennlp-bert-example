@@ -1,0 +1,10 @@
+POS	May
+PRO	I
+EPS	read
+DEF	the
+CON	rest
+AND	of
+DEF	the
+FUT	will
+NOW	now
+QUE	?

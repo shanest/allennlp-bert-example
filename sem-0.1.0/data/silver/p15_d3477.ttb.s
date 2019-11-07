@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	go
+EXS	feed
+DEF	the
+CON	ducks
+NIL	.

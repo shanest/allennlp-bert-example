@@ -1,0 +1,10 @@
+PER	Tom
+EPS	grabbed
+HAS	his
+CON	umbrella
+COO	and
+EPS	headed
+REL	for
+DEF	the
+CON	elevator
+NIL	.

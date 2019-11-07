@@ -1,0 +1,15 @@
+PER	Tom
+NIL	,
+AND	who
+NOW	is
+CON	kind
+NIL	,
+FUT	will
+EXS	be
+IST	glad
+SUB	to
+EXS	do
+AND	anything
+REL	for
+PRO	me
+NIL	.

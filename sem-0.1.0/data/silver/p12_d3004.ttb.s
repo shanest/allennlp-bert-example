@@ -1,0 +1,9 @@
+NOW	Does
+PER	Marika
+ENS	want
+SUB	to
+EXS	go
+IST	back
+REL	to
+GPE	Japan
+QUE	?

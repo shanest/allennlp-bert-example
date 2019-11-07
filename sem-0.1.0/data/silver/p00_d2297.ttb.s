@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+IST	strange
+SUB	that
+PRO	she
+EPS	came
+CON	home
+INT	so
+IST	late
+REL	at
+CON	night
+NIL	.

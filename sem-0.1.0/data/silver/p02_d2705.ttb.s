@@ -1,0 +1,12 @@
+PRO	We
+NOW	're
+EXS	going
+SUB	to
+EXS	need
+HAS	your
+CON	help
+NIL	,
+NOW	are
+NOT	n't
+PRO	we
+QUE	?

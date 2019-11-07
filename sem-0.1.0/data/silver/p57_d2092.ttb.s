@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	desperate
+NIL	,
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	what
+SUB	to
+EXS	do
+NIL	.

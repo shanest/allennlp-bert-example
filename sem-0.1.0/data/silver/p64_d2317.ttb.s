@@ -1,0 +1,11 @@
+DEF	The
+CON	population
+AND	of
+GPE	Japan
+NOW	is
+COM	larger
+AND	than
+DST	that
+AND	of
+GPE	Britain
+NIL	.

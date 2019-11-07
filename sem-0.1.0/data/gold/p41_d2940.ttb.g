@@ -1,0 +1,12 @@
+PER	Tom
+EPS	took
+REL	off
+HAS	his
+CON	coat
+COO	and
+EPS	hung
+PRO	it
+REL	over
+DIS	a
+CON	chair
+NIL	.

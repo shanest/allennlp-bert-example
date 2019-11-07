@@ -1,0 +1,11 @@
+PRO	I
+EPS	assumed
+SUB	that
+HAS	's
+QUE	what
+PRO	you
+PST	'd
+EXS	want
+SUB	to
+EXS	do
+NIL	.

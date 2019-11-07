@@ -1,0 +1,15 @@
+PRO	It
+HAS	's
+INT	just
+CLO	five
+REL	in
+DEF	the
+CON	morning
+NIL	,
+BUT	but
+IST	nevertheless
+PRO	it
+NOW	is
+IST	light
+IST	out
+NIL	.

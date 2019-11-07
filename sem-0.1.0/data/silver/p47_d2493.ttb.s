@@ -1,0 +1,11 @@
+SUB	Since
+PRO	he
+PST	was
+EXS	tired
+NIL	,
+PRO	he
+EPS	went
+REL	to
+CON	bed
+IST	early
+NIL	.

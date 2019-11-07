@@ -1,0 +1,13 @@
+UNK	There
+NOW	are
+IST	still
+QUV	many
+CON	things
+EPS	left
+SUB	to
+EXS	learn
+AND	about
+DEF	the
+IST	human
+CON	brain
+NIL	.

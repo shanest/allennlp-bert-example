@@ -1,0 +1,11 @@
+PRO	He
+NOT	never
+EPS	forgot
+HAS	his
+CON	ambition
+SUB	to
+EXS	become
+DIS	a
+IST	leading
+ROL	politician
+NIL	.

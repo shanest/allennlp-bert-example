@@ -1,0 +1,11 @@
+UNK	There
+PST	was
+DIS	an
+IST	industrial
+CON	espionage
+CON	case
+AND	involving
+ORG	GM
+AND	and
+ORG	VW
+NIL	.

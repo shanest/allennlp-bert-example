@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+IST	still
+EXS	got
+DIS	a
+CON	lot
+AND	of
+CON	work
+SUB	to
+EXS	do
+NIL	.

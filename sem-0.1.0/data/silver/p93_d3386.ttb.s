@@ -1,0 +1,12 @@
+SUB	As
+EXS	regards
+DEF	the
+CON	result
+NIL	,
+PRO	you
+ENS	need
+NOT	not
+EXS	worry
+IST	so
+QUC	much
+NIL	.

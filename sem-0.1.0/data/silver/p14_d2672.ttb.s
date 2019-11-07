@@ -1,0 +1,10 @@
+DEF	The
+CON	majority
+AND	of
+IST	big
+CON	banks
+NOW	are
+EXG	introducing
+PRX	this
+CON	system
+NIL	.

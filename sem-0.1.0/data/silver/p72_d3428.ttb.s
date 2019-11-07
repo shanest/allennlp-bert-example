@@ -1,0 +1,15 @@
+ITJ	Yes
+NIL	,
+PRO	it
+NOW	's
+EXS	true
+NIL	,
+BUT	but
+PRO	he
+NOW	does
+NOT	n't
+EXS	need
+SUB	to
+EXS	know
+DST	that
+NIL	.

@@ -1,0 +1,10 @@
+AND	But
+PRO	I
+FUT	'll
+EXS	get
+EXS	used
+SUB	to
+EXS	being
+CON	blonde
+ALT	again
+NIL	.

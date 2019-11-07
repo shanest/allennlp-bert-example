@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+EXS	true
+SUB	that
+PRO	he
+EPS	stole
+DEF	the
+CON	pearl
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+ENS	smokes
+DIS	a
+CON	pack
+AND	of
+CON	cigarettes
+DIS	a
+CON	day
+NIL	.

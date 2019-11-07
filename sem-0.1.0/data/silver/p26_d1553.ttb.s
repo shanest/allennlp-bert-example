@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	expect
+PER	Mary
+SUB	to
+EXS	be
+SUB	so
+EXS	friendly
+NIL	.

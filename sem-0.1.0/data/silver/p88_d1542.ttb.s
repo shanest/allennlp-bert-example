@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	supposed
+SUB	to
+EXS	meet
+PER	Tom
+REL	at
+CLO	2:30
+NIL	.

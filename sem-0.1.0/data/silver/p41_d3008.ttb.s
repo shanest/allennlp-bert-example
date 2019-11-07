@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+IST	ever
+EXS	seen
+DIS	a
+CON	spider
+REL	spinning
+HAS	its
+CON	web
+QUE	?

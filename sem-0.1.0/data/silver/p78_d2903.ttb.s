@@ -1,0 +1,10 @@
+PER	Batman
+AND	and
+PER	Robin
+NOW	are
+DEF	the
+XCL	only
+CON	heroes
+REL	in
+GEO	Gotham
+NIL	.

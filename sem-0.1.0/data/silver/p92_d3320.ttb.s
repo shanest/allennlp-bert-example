@@ -1,0 +1,9 @@
+DEF	The
+CON	people
+AND	who
+EPS	left
+PST	yesterday
+NOW	are
+REL	from
+GPE	Scotland
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+EPS	took
+DIS	a
+CON	taxi
+AND	because
+DEF	the
+CON	bus
+PST	was
+IST	late
+NIL	.

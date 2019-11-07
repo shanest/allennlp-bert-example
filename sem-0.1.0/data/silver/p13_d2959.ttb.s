@@ -1,0 +1,9 @@
+PER	Tom
+ENS	thinks
+PER	Mary
+POS	may
+EXT	have
+DIS	an
+CON	eating
+CON	disorder
+NIL	.

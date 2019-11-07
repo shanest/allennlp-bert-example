@@ -1,0 +1,9 @@
+PRO	I
+NOW	wonder
+AND	which
+CON	language
+NOW	is
+EXS	spoken
+REL	in
+GPE	Brazil
+QUE	?

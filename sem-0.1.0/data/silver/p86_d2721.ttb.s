@@ -1,0 +1,12 @@
+PRO	I
+NOW	guess
+AND	everybody
+ENS	thinks
+SUB	that
+PRO	I
+NOW	'm
+REL	in
+CON	love
+REL	with
+PER	Mary
+NIL	.

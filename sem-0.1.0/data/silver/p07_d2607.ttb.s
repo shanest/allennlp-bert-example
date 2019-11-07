@@ -1,0 +1,10 @@
+HAS	My
+ROL	friend
+PER	George
+NOW	is
+EXS	coming
+REL	to
+GPE	Japan
+PRX	this
+CON	spring
+NIL	.

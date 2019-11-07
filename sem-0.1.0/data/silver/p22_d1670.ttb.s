@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+EPS	expected
+PRO	him
+SUB	to
+EXS	be
+DIS	a
+CON	candidate
+ALT	again
+NIL	.

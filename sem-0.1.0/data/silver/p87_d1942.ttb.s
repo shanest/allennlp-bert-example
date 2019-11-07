@@ -1,0 +1,14 @@
+AND	Had
+PER	Napoleon
+PFT	been
+EXS	born
+REL	in
+PRX	this
+CON	century
+NIL	,
+QUE	what
+POS	could
+PRO	he
+NOW	have
+EXS	done
+QUE	?

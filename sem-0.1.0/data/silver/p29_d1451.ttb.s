@@ -1,0 +1,14 @@
+PRO	I
+NOW	guess
+PRO	I
+PST	was
+INT	too
+EXS	busy
+SUB	to
+EXS	notice
+SUB	that
+PER	Tom
+PST	was
+EXS	having
+CON	problems
+NIL	.

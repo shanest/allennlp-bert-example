@@ -1,0 +1,12 @@
+PRO	I
+FUT	'll
+NOT	never
+EXS	tell
+AND	anyone
+SUB	where
+PRO	I
+NOW	've
+EXS	hidden
+DEF	the
+CON	treasure
+NIL	.

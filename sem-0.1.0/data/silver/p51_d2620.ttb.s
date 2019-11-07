@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+DIS	an
+CON	organ
+CON	donor
+CON	card
+REL	in
+HAS	his
+CON	wallet
+NIL	.

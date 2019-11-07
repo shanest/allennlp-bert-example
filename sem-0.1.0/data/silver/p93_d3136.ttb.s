@@ -1,0 +1,13 @@
+GRE	Hello
+NIL	.
+HAS	My
+CON	name
+NOW	is
+NIL	José
+GEO	Silva
+NIL	.
+QUE	What
+HAS	's
+HAS	your
+CON	name
+QUE	?

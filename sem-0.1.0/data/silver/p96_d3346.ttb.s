@@ -1,0 +1,9 @@
+PER	Tom
+IST	reluctantly
+EPS	gave
+PER	Mary
+QUE	what
+PRO	she
+EPS	asked
+REL	for
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+PST	had
+DIS	a
+CON	date
+REL	with
+PER	Mary
+AND	last
+DOW	Friday
+NIL	.

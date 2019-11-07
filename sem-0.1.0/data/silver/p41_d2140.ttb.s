@@ -1,0 +1,9 @@
+DEF	The
+IST	missing
+CON	cat
+NOW	has
+NOT	not
+PFT	been
+EXS	found
+ALT	yet
+NIL	.

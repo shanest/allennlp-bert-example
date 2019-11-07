@@ -1,0 +1,10 @@
+CON	Shame
+EXS	be
+REL	to
+PRO	him
+AND	who
+ENS	thinks
+IST	evil
+AND	of
+PRO	it
+NIL	.

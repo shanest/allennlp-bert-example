@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+IST	about
+NIL	to
+EXS	get
+IST	married
+NIL	.

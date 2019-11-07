@@ -1,0 +1,10 @@
+NIL	"
+DIS	A
+CON	cat
+QUE	?
+NIL	"
+EPS	asked
+DEF	the
+IST	old
+CON	man
+NIL	.

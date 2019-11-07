@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+EPS	figured
+IST	out
+DEF	the
+CON	math
+CON	problem
+ALT	yet
+QUE	?

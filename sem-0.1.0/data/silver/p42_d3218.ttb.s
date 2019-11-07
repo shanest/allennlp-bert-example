@@ -1,0 +1,13 @@
+PER	Mary
+PST	was
+EXS	amazed
+SUB	when
+PER	Tom
+EPS	ate
+DIS	an
+CON	orange
+EQU	,
+CON	peel
+AND	and
+AND	all
+NIL	.

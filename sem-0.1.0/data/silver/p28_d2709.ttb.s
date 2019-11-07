@@ -1,0 +1,9 @@
+PRO	He
+NEC	ought
+SUB	to
+EXT	have
+EXS	arrived
+CON	home
+REL	by
+NOW	now
+NIL	.

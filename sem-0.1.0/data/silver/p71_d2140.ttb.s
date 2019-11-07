@@ -1,0 +1,11 @@
+PRO	I
+EPS	saw
+PRO	him
+REL	for
+DEF	the
+IST	first
+CON	time
+REL	in
+QUC	10
+CON	years
+NIL	.

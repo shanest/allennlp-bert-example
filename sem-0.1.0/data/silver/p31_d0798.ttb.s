@@ -1,0 +1,10 @@
+PRO	You
+NOW	are
+EXS	expected
+SUB	to
+EXS	dress
+IST	well
+REL	for
+PRX	this
+CON	shop
+NIL	.

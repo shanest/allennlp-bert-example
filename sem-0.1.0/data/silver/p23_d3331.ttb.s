@@ -1,0 +1,10 @@
+PRO	It
+ENS	rains
+DIS	a
+CON	lot
+AND	during
+MOY	February
+PRX	here
+REL	in
+GPE	Brazil
+NIL	.

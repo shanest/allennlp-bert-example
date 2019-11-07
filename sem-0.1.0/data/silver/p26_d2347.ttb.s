@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+HAS	my
+CON	teacher
+NIL	.
+PRO	He
+NOW	is
+EXS	called
+ROL	Mr.
+PER	Haddad
+NIL	.

@@ -1,0 +1,9 @@
+EXS	Did
+PRO	you
+EXS	see
+QUE	what
+PER	Tom
+PST	did
+SUB	to
+PER	Mary
+QUE	?

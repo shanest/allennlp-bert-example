@@ -1,0 +1,12 @@
+PRO	We
+NOW	're
+EXS	going
+SUB	to
+EXS	do
+QUE	what
+PER	Tom
+EPS	said
+PRO	we
+NEC	should
+EXS	do
+NIL	.

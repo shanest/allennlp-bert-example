@@ -1,0 +1,11 @@
+PRO	I
+PST	had
+IST	just
+EXS	finished
+HAS	my
+CON	homework
+SUB	when
+PRO	he
+EPS	visited
+PRO	me
+NIL	.

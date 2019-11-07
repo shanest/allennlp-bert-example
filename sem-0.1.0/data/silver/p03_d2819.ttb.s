@@ -1,0 +1,9 @@
+QUV	Few
+CON	people
+PST	were
+EXT	killed
+REL	in
+DEF	the
+CON	car
+CON	accident
+NIL	.

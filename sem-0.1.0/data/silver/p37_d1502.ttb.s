@@ -1,0 +1,11 @@
+DEF	The
+ROL	thief
+EPS	ran
+IST	away
+COO	and
+DEF	the
+CON	policeman
+EPS	ran
+REL	after
+PRO	him
+NIL	.

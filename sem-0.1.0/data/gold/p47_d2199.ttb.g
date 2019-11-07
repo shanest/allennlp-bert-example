@@ -1,0 +1,10 @@
+PER	Walt
+ENS	gives
+NOT	nothing
+REL	to
+HAS	his
+CON	family
+REL	after
+HAS	his
+CON	death
+NIL	.

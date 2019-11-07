@@ -1,0 +1,11 @@
+PRO	He
+HAS	's
+PFT	been
+EXS	working
+AND	as
+DIS	a
+CON	diplomat
+REL	since
+QUV	many
+CON	years
+NIL	.

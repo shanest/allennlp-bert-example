@@ -1,0 +1,15 @@
+PER	Mary
+PST	was
+EXS	shocked
+SUB	when
+PRO	she
+EPS	learned
+SUB	that
+PER	Tom
+PST	had
+EXS	had
+CON	sex
+REL	with
+HAS	his
+CON	cousin
+NIL	.

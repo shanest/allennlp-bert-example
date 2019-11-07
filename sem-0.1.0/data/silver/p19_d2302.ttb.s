@@ -1,0 +1,13 @@
+REL	In
+IST	short
+NIL	,
+PRO	he
+HAS	's
+EXS	run
+REL	off
+NOT	without
+EXG	paying
+REL	off
+HAS	his
+CON	debt
+NIL	.

@@ -1,0 +1,10 @@
+UNK	There
+NOW	are
+QUV	many
+CON	products
+EXS	imported
+REL	from
+GPE	Poland
+REL	to
+GEO	Turkey
+NIL	.

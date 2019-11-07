@@ -1,0 +1,24 @@
+COL	Light blue
+NOW	is
+DEF	the
+CON	color
+AND	of
+DEF	the
+CON	sky
+AND	and
+NIL	,
+AND	consequently
+NIL	,
+NOW	is
+ALT	also
+DEF	the
+CON	color
+AND	of
+DEF	the
+CON	sea
+EQU	,
+CON	lakes
+NIL	,
+AND	and
+CON	rivers
+NIL	.

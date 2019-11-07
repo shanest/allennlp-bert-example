@@ -1,0 +1,16 @@
+NOT	No
+CON	matter
+QUE	how
+IST	hard
+PRO	you
+ENS	try
+NIL	,
+PRO	you
+FUT	wo
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	do
+PRO	it
+NIL	.

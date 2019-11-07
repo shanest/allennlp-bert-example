@@ -1,0 +1,10 @@
+PRO	We
+NEC	must
+EXS	be
+EXS	careful
+SUB	that
+PRX	this
+NOT	never
+ENS	happens
+ALT	again
+NIL	.

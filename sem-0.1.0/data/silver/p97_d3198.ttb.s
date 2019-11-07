@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+SUB	that
+HAS	my
+CON	girlfriend
+CON	leaves
+FUT	tomorrow
+REL	for
+GPE	Scotland
+NIL	.

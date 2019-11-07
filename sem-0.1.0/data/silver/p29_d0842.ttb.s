@@ -1,0 +1,12 @@
+PRO	He
+HAS	's
+EXS	got
+IST	more
+CON	books
+AND	than
+AND	all
+DEF	the
+ALT	others
+EPS	put
+IST	together
+NIL	.

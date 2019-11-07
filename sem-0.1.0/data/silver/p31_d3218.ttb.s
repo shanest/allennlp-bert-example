@@ -1,0 +1,12 @@
+PER	Tom
+EPS	won
+DIS	a
+EXS	stuffed
+CON	lion
+COO	and
+PRO	I
+EPS	won
+DIS	a
+IST	teddy
+CON	bear
+NIL	.

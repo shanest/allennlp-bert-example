@@ -1,0 +1,9 @@
+GPE	Paraguay
+NOW	is
+EXS	called
+NIL	"
+LIT	Paraguái
+NIL	"
+REL	in
+CON	Guarani
+NIL	.

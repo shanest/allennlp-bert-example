@@ -1,0 +1,10 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	understand
+DIS	a
+IST	single
+CON	word
+PER	Tom
+EPS	said
+NIL	.

@@ -1,0 +1,10 @@
+AND	All
+PRO	we
+ENS	need
+NOW	now
+NOW	is
+CON	action
+EQU	,
+NOT	not
+CON	discussion
+NIL	.

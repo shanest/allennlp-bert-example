@@ -1,0 +1,12 @@
+PRO	They
+NOW	are
+EXS	saving
+HAS	their
+CON	money
+REL	for
+DEF	the
+EXS	purchase
+AND	of
+DIS	a
+CON	house
+NIL	.

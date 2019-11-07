@@ -1,0 +1,10 @@
+DEF	The
+CON	railroad
+NOW	is
+NOW	now
+REL	in
+DEF	the
+CON	process
+AND	of
+CON	construction
+NIL	.

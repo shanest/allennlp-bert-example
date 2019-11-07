@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+PRO	I
+PST	got
+PRO	you
+EXS	involved
+REL	in
+PRX	this
+NIL	.

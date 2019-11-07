@@ -1,0 +1,11 @@
+QUC	Three
+CON	years
+PST	ago
+DIS	something
+AND	like
+PRX	this
+NOT	never
+FUT	would
+EXT	have
+EXS	happened
+NIL	.

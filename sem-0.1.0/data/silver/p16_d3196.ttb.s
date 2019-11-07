@@ -1,0 +1,11 @@
+PER	Mars
+HAS	's
+CON	gravity
+NOW	is
+DEF	38
+UOM	%
+AND	of
+GEO	Earth
+HAS	's
+CON	gravity
+NIL	.

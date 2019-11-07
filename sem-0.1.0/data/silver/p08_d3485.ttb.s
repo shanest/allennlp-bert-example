@@ -1,0 +1,12 @@
+AND	Almost
+AND	everyone
+PRO	I
+ENS	know
+ENS	wants
+SUB	to
+EXS	go
+REL	to
+FUT	tomorrow
+HAS	's
+CON	concert
+NIL	.

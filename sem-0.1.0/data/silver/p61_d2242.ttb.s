@@ -1,0 +1,15 @@
+EXS	Put
+DIS	some
+CON	coal
+REL	in
+DEF	the
+CON	oven
+NIL	,
+AND	so
+SUB	that
+DEF	the
+CON	milk
+FUT	will
+EXS	start
+EXS	boiling
+NIL	.

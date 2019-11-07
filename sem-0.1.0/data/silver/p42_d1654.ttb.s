@@ -1,0 +1,10 @@
+GPE	Japan
+ENS	plays
+DIS	an
+IST	important
+CON	role
+REL	in
+EXS	promoting
+CON	world
+CON	peace
+NIL	.

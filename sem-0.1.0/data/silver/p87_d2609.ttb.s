@@ -1,0 +1,14 @@
+PRO	He
+EPS	forgot
+CON	part
+AND	of
+HAS	his
+CON	speech
+COO	and
+NEC	had
+SUB	to
+EXS	ad-lib
+REL	for
+DIS	a
+CON	while
+NIL	.

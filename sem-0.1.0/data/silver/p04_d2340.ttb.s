@@ -1,0 +1,9 @@
+PRO	I
+EPS	fell
+EXS	asleep
+SUB	while
+EXG	studying
+REL	at
+HAS	my
+CON	desk
+NIL	.

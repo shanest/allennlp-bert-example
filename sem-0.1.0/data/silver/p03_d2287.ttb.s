@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	possible
+SUB	that
+PRO	you
+NOW	have
+IST	already
+EXS	read
+PRX	this
+CON	book
+NIL	.

@@ -1,0 +1,10 @@
+PRO	She
+EPS	wanted
+PRO	him
+SUB	to
+EXS	take
+CON	care
+AND	of
+HAS	her
+CON	parents
+NIL	.

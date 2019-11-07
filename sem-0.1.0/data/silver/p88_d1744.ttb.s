@@ -1,0 +1,14 @@
+PRO	We
+NOW	have
+QUC	two
+CON	dogs
+NIL	.
+CON	One
+NOW	is
+COL	black
+COO	and
+DEF	the
+CON	other
+NOW	is
+COL	white
+NIL	.

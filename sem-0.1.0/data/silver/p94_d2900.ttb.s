@@ -1,0 +1,11 @@
+PRO	I
+EPS	found
+DIS	a
+IST	new
+CON	meaning
+SUB	whenever
+PRO	I
+EPS	read
+DEF	the
+CON	book
+NIL	.

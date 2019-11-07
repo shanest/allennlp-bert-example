@@ -1,0 +1,10 @@
+PER	Tom
+POS	could
+EXS	talk
+DEF	the
+CON	leg
+REL	off
+DIS	an
+CON	iron
+CON	pot
+NIL	.

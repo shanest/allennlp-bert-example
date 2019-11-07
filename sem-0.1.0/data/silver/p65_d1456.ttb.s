@@ -1,0 +1,11 @@
+PER	Tom
+POS	could
+EXS	tell
+IST	right
+IST	away
+SUB	that
+PER	Mary
+PST	was
+REL	in
+CON	trouble
+NIL	.

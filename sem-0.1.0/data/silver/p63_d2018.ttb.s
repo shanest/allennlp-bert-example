@@ -1,0 +1,12 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	figure
+IST	out
+QUE	what
+PER	Mary
+PST	was
+EXS	trying
+SUB	to
+EXS	say
+NIL	.

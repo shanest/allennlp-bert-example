@@ -1,0 +1,9 @@
+EXS	Take
+EXS	care
+NOT	not
+NIL	to
+EXS	throw
+IST	away
+PRX	this
+CON	chance
+NIL	.

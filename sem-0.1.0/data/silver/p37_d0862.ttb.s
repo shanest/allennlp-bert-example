@@ -1,0 +1,15 @@
+AND	As
+REL	for
+REF	myself
+NIL	,
+PRO	I
+AND	like
+CON	spring
+INT	very
+QUC	much
+NIL	.
+PRO	I
+NOT	never
+EPS	liked
+CON	summer
+NIL	.

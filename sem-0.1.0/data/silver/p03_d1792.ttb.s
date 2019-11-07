@@ -1,0 +1,14 @@
+PER	Tom
+PST	was
+UNK	able
+SUB	to
+EXS	work
+REL	with
+IST	renewed
+CON	vigour
+SUB	after
+EXG	taking
+DIS	a
+IST	short
+CON	break
+NIL	.

@@ -1,0 +1,9 @@
+NIL	There
+NOW	are
+IST	various
+CON	ways
+AND	of
+IST	enduring
+DEF	the
+CON	pain
+NIL	.

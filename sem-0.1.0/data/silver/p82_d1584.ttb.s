@@ -1,0 +1,10 @@
+AND	Inside
+DEF	the
+CON	tent
+AND	that
+TIM	night
+PRO	she
+EPS	shivered
+REL	with
+CON	cold
+NIL	.

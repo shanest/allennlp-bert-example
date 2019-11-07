@@ -1,0 +1,12 @@
+NIL	"
+IST	Please
+EXS	go
+IST	there
+NOW	now
+NIL	.
+NIL	"
+NIL	"
+CON	Go
+SUB	where
+QUE	?
+NIL	"

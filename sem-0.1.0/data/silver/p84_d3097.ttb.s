@@ -1,0 +1,12 @@
+PST	Yesterday
+PRO	I
+EPS	washed
+HAS	my
+CON	hair
+NIL	.
+NOW	Today
+PRO	I
+FUT	'll
+EXS	cut
+PRO	it
+NIL	.

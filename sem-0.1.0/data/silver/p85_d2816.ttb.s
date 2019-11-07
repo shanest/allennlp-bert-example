@@ -1,0 +1,11 @@
+IMP	If
+PRO	I
+PST	had
+CON	wings
+NIL	,
+PRO	I
+FUT	would
+EXS	fly
+REL	to
+PRO	you
+NIL	.

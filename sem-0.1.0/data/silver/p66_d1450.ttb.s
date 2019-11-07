@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	getting
+EXS	married
+REL	in
+MOY	October
+NIL	.

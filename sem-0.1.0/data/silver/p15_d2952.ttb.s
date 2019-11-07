@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	cold
+NIL	.
+AND	Would
+PRO	you
+SUB	mind
+EXG	turning
+DEF	the
+CON	heating
+REL	on
+QUE	?

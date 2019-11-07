@@ -1,0 +1,9 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	call
+PRO	him
+REL	after
+CON	dinner
+NIL	.

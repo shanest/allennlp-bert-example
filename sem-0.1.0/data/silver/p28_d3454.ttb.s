@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+NOW	think
+PRO	it
+NOW	's
+IST	difficult
+SUB	to
+EXS	speak
+GPO	French
+QUE	?

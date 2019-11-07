@@ -1,0 +1,13 @@
+DEF	The
+CON	name
+REL	of
+PRX	this
+ROL	statesman
+NOW	is
+EXS	known
+REL	to
+AND	every
+CON	body
+REL	in
+GPE	Japan
+NIL	.

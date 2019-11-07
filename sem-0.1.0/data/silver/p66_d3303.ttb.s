@@ -1,0 +1,9 @@
+NOW	Do
+NOT	n't
+EXS	worry
+NIL	,
+PRO	you
+NOW	are
+EXS	doing
+IST	well
+NIL	.

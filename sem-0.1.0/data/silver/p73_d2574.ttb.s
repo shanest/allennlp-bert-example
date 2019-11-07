@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+DEF	the
+IST	whole
+CON	accident
+REL	with
+HAS	my
+IST	own
+CON	eyes
+NIL	.

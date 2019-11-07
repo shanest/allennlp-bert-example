@@ -1,0 +1,14 @@
+PRO	I
+NOT	never
+EPS	thought
+PRO	it
+PST	'd
+EXS	be
+PRX	this
+IST	hard
+NIL	to
+EXS	create
+DIS	an
+CON	iPad
+CON	app
+NIL	.

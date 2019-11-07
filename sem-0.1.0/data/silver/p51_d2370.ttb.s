@@ -1,0 +1,15 @@
+PER	Mary
+HAS	's
+CON	washing
+CON	machine
+EPS	broke
+IST	down
+DIS	a
+CON	week
+REL	after
+DEF	the
+CON	warranty
+PST	had
+EXS	run
+IST	out
+NIL	.

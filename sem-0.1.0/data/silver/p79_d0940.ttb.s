@@ -1,0 +1,13 @@
+PRO	It
+NOW	is
+IST	delightful
+SUB	to
+EXS	be
+EXS	praised
+REL	by
+DIS	an
+CON	expert
+REL	in
+DEF	the
+CON	field
+NIL	.

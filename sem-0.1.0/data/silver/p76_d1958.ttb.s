@@ -1,0 +1,9 @@
+PER	Tom
+EQU	,
+PER	Mary
+AND	and
+PER	John
+NOW	are
+AND	all
+PRX	here
+NIL	.

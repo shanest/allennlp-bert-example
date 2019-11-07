@@ -1,0 +1,10 @@
+DEF	The
+CON	test
+CON	result
+EPS	showed
+QUE	how
+QUV	much
+PRO	he
+PST	had
+EXS	studied
+NIL	.

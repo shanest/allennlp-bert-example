@@ -1,0 +1,11 @@
+IMP	If
+PRO	you
+NOW	say
+IST	so
+NIL	,
+PRO	you
+NOW	are
+EXS	telling
+DIS	a
+CON	lie
+NIL	.

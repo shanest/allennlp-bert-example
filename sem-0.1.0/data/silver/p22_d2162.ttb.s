@@ -1,0 +1,13 @@
+HAS	My
+MOR	older
+CON	brother
+NOW	is
+IST	really
+EXS	tall
+NIL	.
+PRO	He
+HAS	's
+INT	about
+QUC	180
+UOM	centimeters
+NIL	.

@@ -1,0 +1,12 @@
+CON	Tests
+AND	of
+IST	biological
+AND	and
+IST	toxin
+CON	weapons
+PST	were
+EXS	banned
+REL	in
+AND	which
+CON	year
+QUE	?

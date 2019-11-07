@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	feel
+AND	like
+EXG	eating
+AND	out
+PRX	this
+CON	evening
+NIL	.

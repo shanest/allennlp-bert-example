@@ -1,0 +1,14 @@
+QUE	How
+FUT	would
+PRO	you
+EXS	feel
+IMP	if
+DIS	someone
+PST	said
+SUB	that
+AND	about
+PRO	you
+AND	behind
+HAS	your
+CON	back
+QUE	?

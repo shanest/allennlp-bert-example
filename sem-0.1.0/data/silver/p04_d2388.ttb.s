@@ -1,0 +1,11 @@
+PER	Tom
+IST	finally
+EPS	agreed
+SUB	to
+EXS	let
+PER	Mary
+REL	in
+REL	on
+DEF	the
+CON	secret
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	sat
+IST	down
+AND	next
+REL	to
+DIS	someone
+PRO	he
+PST	did
+NOT	n't
+EXS	know
+NIL	.

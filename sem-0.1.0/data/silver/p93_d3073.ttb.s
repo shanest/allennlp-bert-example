@@ -1,0 +1,10 @@
+PRO	It
+PST	was
+PER	Socrates
+AND	who
+EXS	laid
+DEF	the
+CON	foundation
+AND	of
+CON	logic
+NIL	.

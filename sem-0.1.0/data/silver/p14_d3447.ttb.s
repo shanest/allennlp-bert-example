@@ -1,0 +1,12 @@
+PRX	This
+NOW	is
+QUC	one
+AND	of
+DEF	the
+TOP	nicest
+CON	houses
+PRO	I
+NOW	've
+IST	ever
+EXS	seen
+NIL	.

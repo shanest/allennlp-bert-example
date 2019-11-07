@@ -1,0 +1,12 @@
+PRO	I
+EPS	watched
+PRX	this
+CON	movie
+AND	last
+CON	night
+COO	and
+PRO	I
+IST	really
+EPS	liked
+PRO	it
+NIL	.

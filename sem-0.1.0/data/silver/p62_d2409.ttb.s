@@ -1,0 +1,10 @@
+PER	Tom
+EPS	tried
+SUB	to
+EXS	get
+PER	Mary
+SUB	to
+EXS	do
+HAS	his
+CON	chores
+NIL	.

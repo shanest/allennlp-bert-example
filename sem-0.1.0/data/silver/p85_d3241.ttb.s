@@ -1,0 +1,10 @@
+QUE	Who
+POS	can
+EXS	speak
+GPO	French
+COM	better
+AND	,
+PER	Tom
+DIS	or
+PER	Mary
+QUE	?

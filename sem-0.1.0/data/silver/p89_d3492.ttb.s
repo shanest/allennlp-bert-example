@@ -1,0 +1,16 @@
+DST	That
+CON	sound
+EPS	annoyed
+PRO	me
+REL	at
+IST	first
+NIL	,
+BUT	but
+NOW	now
+PRO	I
+NOW	've
+EXS	gotten
+EXS	used
+REL	to
+PRO	it
+NIL	.

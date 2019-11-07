@@ -1,0 +1,12 @@
+PER	Tom
+ENS	thinks
+PRO	he
+POS	can
+EXS	do
+DEF	the
+CON	job
+MOR	better
+MOR	than
+DIS	anyone
+AND	else
+NIL	.

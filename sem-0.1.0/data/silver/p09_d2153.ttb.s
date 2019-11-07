@@ -1,0 +1,11 @@
+HAS	My
+ROL	father
+NOW	has
+NOT	never
+PFT	been
+AND	outside
+DEF	the
+CON	country
+REL	until
+NOW	now
+NIL	.

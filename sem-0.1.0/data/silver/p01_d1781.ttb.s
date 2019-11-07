@@ -1,0 +1,10 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	let
+PER	Tom
+ENS	get
+IST	away
+REL	with
+DST	that
+NIL	.

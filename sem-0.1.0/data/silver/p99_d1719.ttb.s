@@ -1,0 +1,13 @@
+PRO	You
+NOW	're
+EXS	going
+SUB	to
+EXS	be
+REL	in
+CON	trouble
+COO	and
+PRO	it
+HAS	's
+HAS	my
+CON	fault
+NIL	.

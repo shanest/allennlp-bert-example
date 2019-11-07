@@ -1,0 +1,11 @@
+PER	Tom
+FUT	would
+NOT	never
+EXS	forgive
+REF	himself
+AND	if
+AND	anything
+EPS	happened
+REL	to
+PER	Mary
+NIL	.

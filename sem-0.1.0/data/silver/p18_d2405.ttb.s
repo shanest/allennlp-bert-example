@@ -1,0 +1,9 @@
+QUE	How
+PST	did
+PER	Tom
+EXS	convince
+PER	Mary
+SUB	to
+EXS	marry
+PRO	him
+QUE	?

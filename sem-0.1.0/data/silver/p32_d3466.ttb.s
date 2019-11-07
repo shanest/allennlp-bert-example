@@ -1,0 +1,17 @@
+PER	Mary
+EPS	looked
+REL	in
+HAS	her
+CON	purse
+NIL	,
+BUT	but
+PRO	she
+PST	did
+NOT	n't
+EXS	find
+QUE	what
+PRO	she
+PST	was
+EXG	looking
+REL	for
+NIL	.

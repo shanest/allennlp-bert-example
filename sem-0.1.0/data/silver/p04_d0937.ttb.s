@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+REL	under
+DEF	the
+CON	impression
+SUB	that
+PRO	it
+HAS	's
+PFT	been
+EXG	raining
+AND	all
+CON	day
+NIL	.

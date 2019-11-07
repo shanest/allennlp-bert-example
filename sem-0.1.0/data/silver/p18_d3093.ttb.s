@@ -1,0 +1,12 @@
+PRO	I
+ENS	understand
+SUB	that
+PRO	you
+NOW	are
+DIS	a
+IST	good
+CON	friend
+AND	of
+PER	Tom
+HAS	's
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+NOW	seems
+AND	like
+PRO	we
+NOW	're
+EXS	going
+SUB	to
+EXS	be
+DIS	a
+IST	little
+IST	late
+NIL	.

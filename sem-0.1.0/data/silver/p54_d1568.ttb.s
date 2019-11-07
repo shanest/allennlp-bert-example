@@ -1,0 +1,14 @@
+PRO	Firefighters
+PST	were
+IST	able
+SUB	to
+EXS	contain
+DEF	the
+CON	fire
+REL	to
+DEF	the
+CON	rear
+AND	of
+DEF	the
+CON	building
+NIL	.

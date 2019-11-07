@@ -1,0 +1,11 @@
+PRO	I
+EPS	saw
+DIS	a
+CON	fox
+EXS	run
+REL	across
+DEF	the
+CON	road
+AND	just
+NOW	now
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NEC	have
+EXT	gone
+EXS	astray
+DIS	somewhere
+REL	in
+HAS	my
+CON	calculations
+NIL	.

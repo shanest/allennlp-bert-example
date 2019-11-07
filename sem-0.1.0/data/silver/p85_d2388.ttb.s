@@ -1,0 +1,11 @@
+AND	Would
+PRO	you
+NOW	tell
+PRO	me
+QUE	why
+PRO	you
+NOW	have
+EXS	refused
+HAS	their
+CON	offer
+QUE	?

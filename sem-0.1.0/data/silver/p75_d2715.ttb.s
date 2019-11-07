@@ -1,0 +1,9 @@
+PRX	This
+CON	song
+NOW	's
+REL	in
+DEF	the
+CON	key
+AND	of
+CON	G
+NIL	.

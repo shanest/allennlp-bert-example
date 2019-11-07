@@ -1,0 +1,9 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	keep
+EXG	cleaning
+IST	up
+REL	after
+PRO	you
+NIL	.

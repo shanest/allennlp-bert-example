@@ -1,0 +1,10 @@
+PRO	I
+ENS	wish
+PRO	I
+PST	had
+PFT	been
+CON	kind
+REL	to
+HAS	her
+CON	then
+NIL	.

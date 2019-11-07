@@ -1,0 +1,11 @@
+PER	Tom
+EPS	thought
+AND	about
+PRO	it
+COO	and
+EPS	agreed
+SUB	that
+PER	Mary
+PST	was
+EXS	right
+NIL	.

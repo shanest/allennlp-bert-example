@@ -1,0 +1,11 @@
+PRO	He
+ENS	knows
+QUE	how
+SUB	to
+EXS	connect
+HAS	his
+CON	computer
+REL	to
+DEF	the
+CON	Internet
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NIL	,
+ALT	too
+NIL	,
+EPS	wanted
+SUB	to
+EXS	ask
+SUB	that
+DEF	the
+IST	whole
+CON	time
+NIL	.

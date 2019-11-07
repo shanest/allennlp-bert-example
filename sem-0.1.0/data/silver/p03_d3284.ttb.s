@@ -1,0 +1,11 @@
+QUE	How
+IST	late
+PST	did
+PRO	you
+EXS	stay
+REL	at
+DEF	the
+CON	party
+AND	last
+CON	night
+QUE	?

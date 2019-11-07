@@ -1,0 +1,11 @@
+PRO	I
+EPS	felt
+HAS	my
+CON	hands
+CON	shaking
+AND	and
+HAS	my
+CON	heart
+EXS	beating
+IST	fast
+NIL	.

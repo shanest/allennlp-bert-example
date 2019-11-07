@@ -1,0 +1,12 @@
+PRO	They
+AND	both
+EPS	ate
+HAS	their
+CON	chocolates
+IST	down
+REL	to
+DEF	the
+INT	very
+IST	last
+CON	bite
+NIL	.

@@ -1,0 +1,14 @@
+UNK	There
+NOW	are
+QUV	many
+CON	things
+AND	which
+PRO	we
+POS	can
+NOT	not
+EXS	evaluate
+REL	in
+CON	terms
+AND	of
+CON	money
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+EXS	good
+SUB	to
+EXS	get
+IST	up
+AND	early
+REL	in
+DEF	the
+CON	morning
+NIL	.

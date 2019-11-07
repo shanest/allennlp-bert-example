@@ -1,0 +1,9 @@
+PRO	I
+IST	sometimes
+NOW	use
+CON	scissors
+AND	as
+DIS	a
+CON	can
+CON	opener
+NIL	.

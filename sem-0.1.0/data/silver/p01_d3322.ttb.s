@@ -1,0 +1,10 @@
+DEF	The
+CON	police
+EPS	found
+PER	Dan
+EXS	dead
+REL	on
+DEF	the
+CON	kitchen
+CON	floor
+NIL	.

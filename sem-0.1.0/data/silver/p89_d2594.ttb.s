@@ -1,0 +1,14 @@
+PRO	I
+NOW	see
+PRO	you
+NOW	are
+QUC	once
+ALT	again
+IST	afraid
+SUB	to
+EXS	do
+CON	battle
+REL	with
+HAS	your
+CON	nemesis
+NIL	.

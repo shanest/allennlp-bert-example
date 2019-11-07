@@ -1,0 +1,16 @@
+PRO	I
+PST	was
+EXS	walking
+REL	in
+DEF	the
+CON	park
+REL	with
+DIS	a
+CON	friend
+AND	of
+HAS	mine
+SUB	when
+PRO	it
+EPS	started
+EXS	raining
+NIL	.

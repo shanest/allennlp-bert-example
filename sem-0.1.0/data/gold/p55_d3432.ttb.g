@@ -1,0 +1,9 @@
+DEF	The
+CON	drug
+ROL	smuggler
+PST	was
+EXS	arrested
+REL	at
+DEF	the
+CON	airport
+NIL	.

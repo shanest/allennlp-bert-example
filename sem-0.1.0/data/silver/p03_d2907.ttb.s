@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+IST	difficult
+SUB	to
+EXS	understand
+QUE	why
+PRO	you
+ENS	want
+SUB	to
+EXS	go
+NIL	.

@@ -1,0 +1,14 @@
+HAS	My
+CON	car
+NIL	,
+AND	which
+EPS	broke
+IST	down
+PST	yesterday
+NIL	,
+NOW	has
+NOT	not
+PFT	been
+EXS	repaired
+ALT	yet
+NIL	.

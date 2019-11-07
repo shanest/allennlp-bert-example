@@ -1,0 +1,10 @@
+PRO	He
+IST	slowly
+EXS	let
+DEF	the
+CON	clutch
+AND	out
+COO	and
+EPS	drove
+REL	off
+NIL	.

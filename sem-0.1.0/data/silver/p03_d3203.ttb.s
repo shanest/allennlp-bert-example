@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+NOW	are
+EXS	done
+REL	with
+DEF	the
+CON	salt
+NIL	,
+IST	please
+EXS	pass
+PRO	it
+REL	to
+PRO	me
+NIL	.

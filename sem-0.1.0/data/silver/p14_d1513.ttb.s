@@ -1,0 +1,10 @@
+PRO	I
+AND	always
+NOW	take
+DIS	a
+CON	bath
+SUB	before
+EXS	going
+REL	to
+CON	bed
+NIL	.

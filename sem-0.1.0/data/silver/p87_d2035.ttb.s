@@ -1,0 +1,12 @@
+NOW	Do
+NOT	n't
+EXS	take
+REF	yourself
+AND	so
+IST	seriously
+NIL	.
+NOT	No
+CON	one
+AND	else
+NOW	does
+NIL	.

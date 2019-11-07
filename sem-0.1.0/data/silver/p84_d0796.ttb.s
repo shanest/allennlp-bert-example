@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DIS	a
+IST	good
+CON	book
+NOT	except
+REL	for
+DIS	a
+IST	few
+CON	mistakes
+NIL	.

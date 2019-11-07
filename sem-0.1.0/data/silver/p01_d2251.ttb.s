@@ -1,0 +1,12 @@
+HAS	Our
+CON	surveys
+ENS	indicate
+SUB	that
+DEF	the
+CON	public
+FUT	would
+EXS	support
+DEF	the
+IST	proposed
+CON	legislation
+NIL	.

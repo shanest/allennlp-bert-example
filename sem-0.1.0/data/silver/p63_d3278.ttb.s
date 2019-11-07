@@ -1,0 +1,12 @@
+REL	In
+DEF	the
+CON	beginning
+PRO	I
+EPS	found
+PRO	it
+IST	hard
+SUB	to
+EXS	get
+EXS	used
+REL	to
+NIL	.

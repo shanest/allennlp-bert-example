@@ -1,0 +1,15 @@
+PRO	You
+NOW	're
+IST	still
+IST	up
+QUE	?
+NOW	Is
+NOT	n't
+FUT	tomorrow
+ALT	also
+DIS	an
+IST	early
+CON	day
+REL	for
+PRO	you
+QUE	?

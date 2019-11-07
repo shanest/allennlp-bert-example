@@ -1,0 +1,12 @@
+PRO	You
+PST	kept
+EXG	nodding
+REL	off
+AND	during
+DST	that
+CON	lecture
+NIL	,
+PST	did
+NOT	n't
+PRO	you
+QUE	?

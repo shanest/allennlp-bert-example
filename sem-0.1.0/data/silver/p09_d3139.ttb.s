@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+DIS	a
+IST	good
+CON	thing
+PER	Tom
+NOW	is
+NOT	n't
+PRX	here
+NIL	.

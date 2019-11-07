@@ -1,0 +1,16 @@
+HAS	His
+CON	relatives
+EPS	took
+PRO	it
+REL	for
+EXS	granted
+SUB	that
+PRO	they
+FUT	would
+EXS	inherit
+DEF	the
+CON	bulk
+AND	of
+HAS	his
+CON	wealth
+NIL	.

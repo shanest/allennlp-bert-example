@@ -1,0 +1,13 @@
+PRO	She
+PST	did
+NOT	n't
+EXS	arrive
+REL	at
+DEF	the
+CON	party
+NIL	,
+BUT	but
+NOT	nobody
+ENS	knows
+QUE	why
+NIL	.

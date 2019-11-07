@@ -1,0 +1,12 @@
+PER	Tom
+EPS	stopped
+EXS	crying
+AND	as
+IST	soon
+SUB	as
+PRO	he
+EPS	saw
+PER	Mary
+AND	and
+PER	John
+NIL	.

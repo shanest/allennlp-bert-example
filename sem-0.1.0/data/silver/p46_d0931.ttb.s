@@ -1,0 +1,10 @@
+PRO	She
+NOW	is
+EXS	trying
+SUB	to
+EXS	prove
+DEF	the
+CON	existence
+AND	of
+CON	ghosts
+NIL	.

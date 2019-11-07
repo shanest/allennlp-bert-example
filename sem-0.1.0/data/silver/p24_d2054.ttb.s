@@ -1,0 +1,11 @@
+POS	Can
+PRO	I
+EXS	talk
+REL	to
+PRO	you
+REL	in
+IST	private
+REL	for
+DIS	a
+CON	minute
+QUE	?

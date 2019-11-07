@@ -1,0 +1,14 @@
+PER	Kate
+IST	always
+ENS	shows
+REL	off
+DEF	the
+IST	big
+CON	diamond
+CON	ring
+PRO	she
+EPS	got
+REL	from
+HAS	her
+ROL	fiance
+NIL	.

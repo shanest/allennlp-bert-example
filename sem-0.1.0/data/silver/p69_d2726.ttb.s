@@ -1,0 +1,10 @@
+PER	Tom
+EPS	stopped
+EXS	laughing
+SUB	when
+PRO	he
+EPS	noticed
+PER	Mary
+PST	was
+EXS	crying
+NIL	.

@@ -1,0 +1,17 @@
+PRO	It
+PST	was
+NOT	not
+SUB	until
+PRO	she
+PST	finished
+EXS	reading
+DEF	the
+CON	book
+SUB	that
+PRO	she
+EPS	noticed
+QUE	who
+PST	had
+EXS	written
+PRO	it
+NIL	.

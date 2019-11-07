@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	accustomed
+SUB	to
+EXS	eating
+PRX	this
+CON	sort
+AND	of
+CON	food
+NIL	.

@@ -1,0 +1,12 @@
+PRX	This
+NOW	is
+CON	way
+INT	too
+EXS	dangerous
+REL	for
+DIS	a
+CON	child
+SUB	to
+EXS	play
+REL	with
+NIL	.

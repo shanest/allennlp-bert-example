@@ -1,0 +1,11 @@
+PRO	He
+EPS	pursued
+HAS	his
+CON	career
+REL	at
+DEF	the
+CON	expense
+AND	of
+HAS	his
+CON	family
+NIL	.

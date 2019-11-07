@@ -1,0 +1,10 @@
+PER	Tom
+EPS	shut
+QUC	one
+CON	window
+AND	and
+PER	Mary
+EPS	shut
+DEF	the
+ALT	other
+NIL	.

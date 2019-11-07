@@ -1,0 +1,13 @@
+PRO	I
+NOW	think
+PRO	I
+POS	might
+EXS	be
+IST	able
+SUB	to
+EXS	speak
+GPO	French
+COM	better
+MOR	than
+PER	Tom
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+EPS	saw
+DIS	an
+IST	old
+CON	woman
+EXS	cross
+DEF	the
+CON	street
+NIL	.

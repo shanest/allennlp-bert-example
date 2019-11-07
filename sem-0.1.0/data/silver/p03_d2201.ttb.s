@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXS	discussing
+HAS	their
+CON	problems
+REL	with
+PER	John
+NIL	.

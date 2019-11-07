@@ -1,0 +1,13 @@
+PRO	I
+ENS	go
+REL	for
+DIS	a
+CON	walk
+AND	every
+CON	day
+NIL	,
+NOT	except
+SUB	when
+PRO	it
+CON	rains
+NIL	.

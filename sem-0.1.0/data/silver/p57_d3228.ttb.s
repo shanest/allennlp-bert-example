@@ -1,0 +1,12 @@
+IMP	If
+PRO	you
+ENS	need
+SUB	to
+EXS	blame
+DIS	someone
+NIL	,
+EXS	blame
+PER	Tom
+AND	and
+PRO	me
+NIL	.

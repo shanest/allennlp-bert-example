@@ -1,0 +1,16 @@
+EXS	Let
+PRO	's
+NOW	have
+HAS	our
+CON	picture
+EXS	taken
+REL	with
+DEF	the
+CON	statue
+REL	in
+DEF	the
+IST	back
+NIL	,
+NEC	shall
+PRO	we
+QUE	?

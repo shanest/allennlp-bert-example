@@ -1,0 +1,13 @@
+PER	Mary
+AND	and
+HAS	her
+ROL	sister
+EPS	took
+CON	turns
+REL	at
+EXS	looking
+REL	after
+HAS	their
+IST	sick
+CON	mother
+NIL	.

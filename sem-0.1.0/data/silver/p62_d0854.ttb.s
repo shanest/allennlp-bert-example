@@ -1,0 +1,11 @@
+EXS	Speaking
+AND	about
+CON	trips
+NIL	,
+NOW	have
+PRO	you
+IST	ever
+EXS	been
+REL	to
+GPE	Kobe
+QUE	?

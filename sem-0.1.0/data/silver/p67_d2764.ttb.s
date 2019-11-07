@@ -1,0 +1,10 @@
+PRO	It
+PST	was
+IST	pure
+CON	chance
+SUB	that
+PRO	he
+EPS	won
+DEF	the
+CON	game
+NIL	.

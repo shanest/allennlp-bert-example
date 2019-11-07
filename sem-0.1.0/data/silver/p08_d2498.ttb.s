@@ -1,0 +1,13 @@
+DEF	The
+BOT	worst
+AND	of
+EXS	living
+REL	in
+GEO	Istanbul
+NOW	is
+EXS	getting
+EXS	stuck
+REL	in
+DEF	the
+CON	traffic
+NIL	.

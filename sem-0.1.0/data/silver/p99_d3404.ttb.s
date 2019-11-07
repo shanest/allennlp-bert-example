@@ -1,0 +1,9 @@
+PER	Tom
+EPS	showed
+IST	reckless
+CON	disregard
+REL	for
+PER	Mary
+HAS	's
+CON	feelings
+NIL	.

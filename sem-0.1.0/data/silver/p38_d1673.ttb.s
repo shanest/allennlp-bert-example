@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PRO	I
+EPS	dialed
+DEF	the
+IST	wrong
+CON	number
+NIL	.

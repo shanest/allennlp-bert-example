@@ -1,0 +1,10 @@
+PER	Tom
+IST	still
+ENS	writes
+SUB	to
+PRO	me
+REL	from
+CON	time
+REL	to
+CON	time
+NIL	.

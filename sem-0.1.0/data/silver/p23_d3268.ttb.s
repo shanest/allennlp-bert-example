@@ -1,0 +1,12 @@
+PRO	We
+CON	parents
+IST	sometimes
+EXS	become
+EXS	blind
+REL	in
+REL	loving
+HAS	our
+CON	children
+IST	too
+QUV	much
+NIL	.

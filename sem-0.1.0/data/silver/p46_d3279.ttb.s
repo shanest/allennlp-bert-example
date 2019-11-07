@@ -1,0 +1,13 @@
+PER	Bill
+NOW	is
+QUC	20
+UOM	minutes
+IST	late
+NIL	.
+PRO	He
+NEC	must
+EXT	have
+EXT	gotten
+EXS	lost
+DIS	somewhere
+NIL	.

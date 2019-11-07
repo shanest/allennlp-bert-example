@@ -1,0 +1,14 @@
+PRX	This
+NOW	is
+DEF	the
+IST	first
+CON	time
+SUB	that
+PRO	I
+NOW	've
+EXS	eaten
+REL	in
+DIS	an
+GPO	Italian
+CON	pizzeria
+NIL	.

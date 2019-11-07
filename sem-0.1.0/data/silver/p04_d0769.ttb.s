@@ -1,0 +1,11 @@
+NIL	"
+EXS	Thank
+PRO	you
+NIL	.
+NIL	"
+NIL	"
+PRO	You
+NOW	're
+EXS	welcome
+NIL	.
+NIL	"

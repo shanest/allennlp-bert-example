@@ -1,0 +1,11 @@
+DEF	The
+IST	locomotive
+PST	was
+EXG	pulling
+DIS	a
+IST	long
+CON	line
+AND	of
+IST	freight
+CON	cars
+NIL	.

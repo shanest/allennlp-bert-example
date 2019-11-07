@@ -1,0 +1,17 @@
+PRO	I
+EPS	studied
+GPO	French
+SUB	when
+PRO	I
+PST	was
+QUC	seven
+NIL	,
+BUT	but
+NOW	now
+PRO	I
+IST	only
+NOW	remember
+DIS	a
+IST	few
+CON	words
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	understand
+QUE	why
+PER	Mary
+EPS	laughed
+REL	at
+PRO	him
+NIL	.

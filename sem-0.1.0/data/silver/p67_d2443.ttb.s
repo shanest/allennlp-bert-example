@@ -1,0 +1,9 @@
+HAS	His
+CON	wife
+EPS	kicked
+PRO	him
+AND	out
+AND	of
+DEF	the
+CON	house
+NIL	.

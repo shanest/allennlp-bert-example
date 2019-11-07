@@ -1,0 +1,12 @@
+PRO	He
+EPS	came
+CON	home
+AND	just
+NOW	now
+NIL	.
+EXS	Did
+NOT	n't
+PRO	you
+EXS	know
+DST	that
+QUE	?

@@ -1,0 +1,16 @@
+PRO	She
+EPS	took
+CON	advantage
+AND	of
+HAS	our
+CON	hospitality
+COO	and
+EPS	stayed
+DIS	a
+IST	whole
+CON	month
+NOT	without
+EXS	paying
+PRO	us
+AND	anything
+NIL	.

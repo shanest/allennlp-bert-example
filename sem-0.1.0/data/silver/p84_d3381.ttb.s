@@ -1,0 +1,9 @@
+DEF	The
+CON	Copts
+NOW	are
+DEF	the
+IST	native
+CON	Christians
+AND	of
+GPE	Egypt
+NIL	.

@@ -1,0 +1,9 @@
+AND	All
+DEF	the
+CON	passengers
+EPS	got
+EXS	seasick
+AND	during
+DEF	the
+CON	storm
+NIL	.

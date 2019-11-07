@@ -1,0 +1,10 @@
+DEF	The
+CON	police
+NOW	are
+EXG	watching
+PRO	us
+REL	from
+REL	across
+DEF	the
+CON	street
+NIL	.

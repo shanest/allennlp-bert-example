@@ -1,0 +1,12 @@
+PRO	It
+EPS	occurred
+REL	to
+PRO	me
+SUB	that
+PRO	he
+POS	might
+NOT	not
+EXS	tell
+DEF	the
+CON	truth
+NIL	.

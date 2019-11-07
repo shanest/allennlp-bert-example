@@ -1,0 +1,16 @@
+NOW	Now
+SUB	that
+IST	same-sex
+CON	marriage
+NOW	is
+SST	legal
+COO	,
+PRO	I
+NOW	'm
+QUC	one
+CON	step
+AND	closer
+SUB	to
+EXS	marrying
+IST	myself
+NIL	.

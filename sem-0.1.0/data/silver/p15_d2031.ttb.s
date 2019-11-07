@@ -1,0 +1,13 @@
+AND	But
+DEF	the
+CON	boys
+EPS	spent
+AND	all
+HAS	their
+CON	holidays
+REL	on
+ROL	Mr
+PER	Wood
+HAS	's
+CON	farm
+NIL	.

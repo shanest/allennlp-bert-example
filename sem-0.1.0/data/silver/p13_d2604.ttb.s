@@ -1,0 +1,9 @@
+DEF	The
+CON	legend
+EPS	gave
+DEF	the
+CON	name
+REL	to
+DEF	the
+CON	place
+NIL	.

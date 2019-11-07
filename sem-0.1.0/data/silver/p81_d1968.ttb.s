@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+PRO	you
+NEC	must
+EXT	have
+DIS	a
+CON	lot
+AND	of
+CON	questions
+NIL	.

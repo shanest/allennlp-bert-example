@@ -1,0 +1,9 @@
+PRO	I
+FUT	will
+EXS	be
+EXS	leaving
+REL	for
+GPE	Morocco
+AND	next
+CON	week
+NIL	.

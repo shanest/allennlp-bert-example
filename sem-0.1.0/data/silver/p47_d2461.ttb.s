@@ -1,0 +1,9 @@
+CON	Help
+NIL	!
+PRO	They
+NOW	're
+EXS	going
+SUB	to
+EXS	stab
+PRO	me
+NIL	!

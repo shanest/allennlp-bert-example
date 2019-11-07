@@ -1,0 +1,16 @@
+PER	Tom
+HAS	's
+ORD	first
+ROL	wife
+EPS	fleeced
+PRO	him
+NIL	,
+COO	and
+PRO	he
+PST	was
+EXS	broke
+SUB	when
+PRO	he
+EPS	met
+PER	Mary
+NIL	.

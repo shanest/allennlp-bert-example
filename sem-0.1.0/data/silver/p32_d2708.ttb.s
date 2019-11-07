@@ -1,0 +1,13 @@
+PRO	It
+EPS	happened
+REL	to
+PRO	me
+SUB	to
+EXS	cry
+REL	for
+DEF	the
+CON	death
+AND	of
+DIS	an
+CON	earthworm
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+IST	later
+EPS	realized
+SUB	that
+GEO	Beijing
+CON	people
+EXS	walk
+IST	slowly
+NIL	.

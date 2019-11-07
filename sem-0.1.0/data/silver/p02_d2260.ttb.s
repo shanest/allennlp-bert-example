@@ -1,0 +1,11 @@
+GPO	French
+NOW	is
+DEF	the
+XCL	only
+IST	foreign
+CON	language
+PRO	I
+NOW	've
+IST	ever
+EXS	studied
+NIL	.

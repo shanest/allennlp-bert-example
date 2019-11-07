@@ -1,0 +1,13 @@
+PRO	We
+NEC	must
+CON	suspect
+AND	that
+IST	last
+CON	night
+DIS	a
+IST	criminal
+EPS	broke
+REL	into
+DEF	the
+CON	house
+NIL	.

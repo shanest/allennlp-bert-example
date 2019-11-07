@@ -1,0 +1,10 @@
+QUE	How
+PST	did
+PRO	you
+EXS	know
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+PRX	here
+QUE	?

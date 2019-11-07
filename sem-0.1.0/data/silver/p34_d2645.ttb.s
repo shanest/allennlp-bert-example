@@ -1,0 +1,14 @@
+PRO	I
+PST	spent
+QUC	three
+UOM	weeks
+REL	in
+PRX	this
+CON	hospital
+SUB	when
+PRO	I
+PST	was
+QUC	thirteen
+CON	years
+COM	old
+NIL	.

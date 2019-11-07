@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+COM	easier
+SUB	to
+EXS	have
+CON	fun
+AND	than
+REL	to
+CON	work
+NIL	.

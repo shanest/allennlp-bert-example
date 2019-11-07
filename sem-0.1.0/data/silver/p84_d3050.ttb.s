@@ -1,0 +1,15 @@
+PER	Tom
+POS	could
+EXT	have
+EXS	gone
+REL	to
+DEF	the
+CON	dance
+REL	with
+PER	Mary
+NIL	,
+COO	but
+PRO	he
+PST	did
+NOT	n't
+NIL	.

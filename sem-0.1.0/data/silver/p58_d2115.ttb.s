@@ -1,0 +1,14 @@
+DEF	The
+MOR	more
+PRO	I
+EPS	thought
+AND	about
+DEF	the
+CON	problem
+NIL	,
+DEF	the
+MOR	more
+IST	difficult
+PRO	it
+EPS	seemed
+NIL	.

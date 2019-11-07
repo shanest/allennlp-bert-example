@@ -1,0 +1,9 @@
+PER	Tom
+EPS	fell
+IST	over
+CON	jogging
+COO	and
+EPS	broke
+HAS	his
+CON	arm
+NIL	.

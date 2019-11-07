@@ -1,0 +1,11 @@
+ROL	Mrs.
+PER	Ionescu
+NIL	,
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	ask
+PRO	you
+DIS	something
+NIL	.

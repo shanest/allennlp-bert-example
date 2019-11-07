@@ -1,0 +1,11 @@
+PER	Tom
+EPS	finished
+EXG	reading
+DEF	the
+CON	book
+COO	and
+EPS	returned
+PRO	it
+REL	to
+PER	Mary
+NIL	.

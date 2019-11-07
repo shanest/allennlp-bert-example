@@ -1,0 +1,16 @@
+PRO	We
+NOW	have
+PRX	this
+PER	Camembert
+NIL	.
+PRO	It
+NOW	's
+INT	very
+EXS	good
+NIL	,
+BUT	but
+DIS	a
+IST	little
+IST	more
+EXS	expensive
+NIL	.

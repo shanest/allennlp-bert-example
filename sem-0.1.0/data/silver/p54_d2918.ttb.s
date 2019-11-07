@@ -1,0 +1,13 @@
+AND	Even
+DIS	a
+CON	child
+ENS	knows
+QUE	what
+PRO	it
+NOW	is
+EXS	like
+SUB	to
+EXS	be
+NOT	without
+CON	friends
+NIL	.

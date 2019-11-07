@@ -1,0 +1,10 @@
+DIS	A
+IST	comparable
+CON	car
+FUT	would
+EXS	cost
+IST	far
+CON	more
+REL	in
+GPE	Japan
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+CON	boys
+PST	were
+AND	as
+IST	nervous
+AND	as
+DEF	the
+CON	girls
+NIL	.

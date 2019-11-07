@@ -1,0 +1,16 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	pick
+IST	up
+DIS	some
+CON	toothpaste
+AND	and
+DIS	some
+CON	toilet
+CON	paper
+REL	at
+DEF	the
+CON	supermarket
+NIL	.

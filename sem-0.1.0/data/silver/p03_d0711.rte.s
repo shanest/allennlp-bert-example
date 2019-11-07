@@ -1,0 +1,37 @@
+REL	In
+GPE	Moscow
+EQU	,
+PER	Andrei Kokoshin
+EQU	,
+DEF	the
+PRI	former
+GPO	Russian
+ORG	Security Council
+ROL	chief
+AND	who
+IST	now
+CON	heads
+CON	parliament
+HAS	's
+CON	committee
+REL	for
+CON	ties
+REL	with
+PST	former
+IST	Soviet
+CON	bloc
+CON	nations
+NIL	,
+EPS	warned
+SUB	that
+GPO	Czech
+CON	approval
+AND	of
+DEF	the
+CON	plan
+FUT	would
+NOT	not
+EXS	pass
+NOT	without
+CON	consequences
+NIL	.

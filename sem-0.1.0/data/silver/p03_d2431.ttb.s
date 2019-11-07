@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+IST	sure
+PER	Tom
+HAS	's
+EXS	going
+SUB	to
+EXS	be
+DST	there
+QUE	?

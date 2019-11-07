@@ -1,0 +1,10 @@
+PER	John
+EPS	called
+REL	for
+DEF	the
+CON	waiter
+REL	in
+DIS	a
+IST	loud
+CON	voice
+NIL	.

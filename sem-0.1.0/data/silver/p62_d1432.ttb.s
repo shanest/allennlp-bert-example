@@ -1,0 +1,12 @@
+PST	Thank
+PRO	you
+REL	to
+AND	all
+DEF	the
+CON	veterans
+AND	who
+NOW	have
+EXS	served
+PRX	this
+CON	country
+NIL	.

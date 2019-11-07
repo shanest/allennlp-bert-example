@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+PER	Tom
+NOW	does
+NOT	n't
+EXS	like
+PRO	me
+INT	very
+QUC	much
+NIL	.

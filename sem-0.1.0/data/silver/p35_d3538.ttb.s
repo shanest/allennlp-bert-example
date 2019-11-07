@@ -1,0 +1,10 @@
+PER	Tom
+EPS	wanted
+SUB	to
+EXS	help
+PER	Mary
+NOW	do
+DEF	the
+IST	right
+CON	thing
+NIL	.

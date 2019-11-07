@@ -1,0 +1,10 @@
+AND	Even
+DIS	a
+IST	broken
+CON	clock
+NOW	is
+IST	right
+QUC	twice
+DIS	a
+CON	day
+NIL	.

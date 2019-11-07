@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	studying
+REL	at
+DEF	the
+ORG	University
+AND	of
+GEO	Hyogo
+NIL	.

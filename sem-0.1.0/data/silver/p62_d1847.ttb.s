@@ -1,0 +1,9 @@
+PRO	He
+ENS	knows
+QUE	how
+SUB	to
+EXS	switch
+REL	on
+PRX	this
+CON	machine
+NIL	.

@@ -1,0 +1,10 @@
+NOT	Except
+AND	that
+PRX	here
+NIL	,
+PRO	it
+HAS	's
+NOT	not
+INT	so
+EXS	simple
+NIL	.

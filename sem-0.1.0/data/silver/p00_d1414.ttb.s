@@ -1,0 +1,9 @@
+NOW	Do
+NOT	n't
+EXS	worry
+NIL	.
+PRO	They
+FUT	will
+EXT	be
+EXS	supervised
+NIL	.

@@ -1,0 +1,16 @@
+PER	Emet
+NOW	is
+INT	very
+EXS	interested
+REL	in
+CON	soccer
+NIL	,
+BUT	but
+IST	simply
+NOW	does
+NOT	not
+EXS	know
+QUE	how
+SUB	to
+EXS	play
+NIL	.

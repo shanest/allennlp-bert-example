@@ -1,0 +1,9 @@
+PRO	I
+NOW	object
+REL	to
+PRO	you
+EXS	going
+REL	to
+GEO	Europe
+AND	alone
+NIL	.

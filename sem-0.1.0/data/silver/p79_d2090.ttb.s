@@ -1,0 +1,13 @@
+PRO	We
+ENS	need
+PRO	him
+PRX	here
+AND	like
+PRO	we
+ENS	need
+DIS	a
+CON	hole
+REL	in
+DEF	the
+CON	head
+NIL	.

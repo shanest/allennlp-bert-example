@@ -1,0 +1,10 @@
+PER	Tom
+HAS	's
+TOP	best
+CON	friend
+NOW	is
+DIS	a
+CON	mouse
+EPS	named
+PER	Jerry
+NIL	.

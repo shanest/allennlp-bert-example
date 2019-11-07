@@ -1,0 +1,9 @@
+AND	As
+AND	everyone
+ENS	knows
+NIL	,
+PRO	he
+NOW	is
+DIS	a
+CON	genius
+NIL	.

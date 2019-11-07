@@ -1,0 +1,10 @@
+PER	Tom
+EPS	arrived
+REL	in
+GEO	Boston
+LES	less
+MOR	than
+QUC	three
+CON	weeks
+PST	ago
+NIL	.

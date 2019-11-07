@@ -1,0 +1,10 @@
+PRO	You
+FUT	will
+EXS	get
+EXS	fat
+IMP	if
+PRO	you
+NOW	eat
+INT	too
+QUC	much
+NIL	.

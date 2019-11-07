@@ -1,0 +1,12 @@
+PRO	I
+EPS	had
+NOT	no
+CON	idea
+SUB	that
+PER	Tom
+EPS	knew
+INT	so
+QUV	much
+REL	about
+CON	zebras
+NIL	.

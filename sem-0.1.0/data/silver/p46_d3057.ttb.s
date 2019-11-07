@@ -1,0 +1,13 @@
+CON	People
+NOW	are
+INT	too
+EXS	lazy
+SUB	to
+EXS	look
+PRO	it
+IST	up
+REF	themselves
+REL	in
+DIS	a
+CON	dictionary
+NIL	.

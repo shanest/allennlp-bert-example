@@ -1,0 +1,11 @@
+UNK	There
+HAS	's
+QUC	one
+CON	thing
+PRO	I
+NOW	hate
+EXG	doing
+REL	in
+HAS	my
+CON	life
+NIL	.

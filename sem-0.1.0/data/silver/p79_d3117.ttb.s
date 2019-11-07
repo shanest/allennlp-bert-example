@@ -1,0 +1,14 @@
+PRO	It
+PST	was
+INT	very
+EXS	cold
+COO	and
+PRO	it
+EPS	snowed
+REL	for
+QUC	three
+CON	days
+REL	in
+DIS	a
+CON	row
+NIL	.

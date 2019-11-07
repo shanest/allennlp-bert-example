@@ -1,0 +1,10 @@
+ITJ	Yes
+NIL	,
+PRO	we
+NOW	have
+PFT	been
+CON	friends
+REL	since
+HAS	our
+CON	childhood
+NIL	.

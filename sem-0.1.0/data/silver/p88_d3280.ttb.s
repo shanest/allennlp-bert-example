@@ -1,0 +1,10 @@
+EXS	Let
+PRO	's
+EXS	wait
+COO	and
+EXS	see
+COO	and
+EXS	drink
+DIS	some
+CON	tea
+NIL	.

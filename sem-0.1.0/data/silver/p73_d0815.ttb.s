@@ -1,0 +1,11 @@
+AND	So
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+PRO	she
+NOW	is
+IST	still
+EPS	unmarried
+NIL	.

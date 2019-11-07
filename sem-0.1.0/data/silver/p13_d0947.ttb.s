@@ -1,0 +1,11 @@
+PRO	I
+IST	just
+EPS	started
+EXG	using
+PRX	this
+CON	site
+DIS	a
+IST	little
+CON	while
+PST	ago
+NIL	.

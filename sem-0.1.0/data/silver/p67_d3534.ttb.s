@@ -1,0 +1,10 @@
+NOW	Do
+NOT	n't
+PRO	you
+NOW	think
+PRO	we
+NOW	have
+IST	pretty
+EXS	good
+EXS	alibis
+QUE	?

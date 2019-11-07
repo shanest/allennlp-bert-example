@@ -1,0 +1,9 @@
+PRO	I
+EPS	saw
+DEF	the
+CON	train
+EXS	come
+REL	into
+DEF	the
+CON	station
+NIL	.

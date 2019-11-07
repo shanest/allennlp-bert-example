@@ -1,0 +1,9 @@
+AND	But
+NOW	now
+NIL	,
+NOT	nothing
+NOW	is
+EXS	left
+REL	for
+PRO	me
+NIL	.

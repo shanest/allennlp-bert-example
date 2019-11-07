@@ -1,0 +1,13 @@
+SUB	After
+PRO	she
+PST	had
+EXS	passed
+HAS	her
+CON	driving
+CON	test
+NIL	,
+PRO	she
+EPS	bought
+DIS	a
+CON	car
+NIL	.

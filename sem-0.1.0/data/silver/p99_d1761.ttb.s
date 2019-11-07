@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+DEF	the
+CON	one
+SUB	that
+EPS	killed
+PER	Mary
+HAS	's
+CON	cat
+NIL	.

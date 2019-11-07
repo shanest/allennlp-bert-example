@@ -1,0 +1,16 @@
+PRO	They
+PST	were
+EXS	based
+REL	on
+CON	goods
+AND	which
+DEF	the
+CON	members
+AND	of
+DIS	a
+CON	society
+EXS	recognized
+SUB	as
+EXG	having
+CON	value
+NIL	.

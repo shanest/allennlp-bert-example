@@ -1,0 +1,12 @@
+PRO	I
+POS	can
+NOT	not
+EXS	dance
+REL	with
+PER	Taninna
+NIL	.
+PRO	I
+NOW	'm
+INT	too
+EXS	shy
+NIL	.

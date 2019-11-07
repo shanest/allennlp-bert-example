@@ -1,0 +1,11 @@
+IST	Please
+EXS	accept
+HAS	my
+CON	condolences
+REL	on
+DEF	the
+CON	death
+AND	of
+HAS	your
+ROL	father
+NIL	.

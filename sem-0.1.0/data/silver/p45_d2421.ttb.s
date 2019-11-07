@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	speak
+ART	English
+SUB	as
+EXS	fluently
+AND	as
+PER	Naomi
+NIL	.

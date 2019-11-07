@@ -1,0 +1,9 @@
+AND	Why
+PST	did
+PRO	you
+EXS	tell
+PER	Tom
+PER	Mary
+PST	was
+EXS	ugly
+QUE	?

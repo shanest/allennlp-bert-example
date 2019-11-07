@@ -1,0 +1,16 @@
+PER	Tom
+EPS	threw
+DIS	a
+CON	pillow
+REL	at
+PER	Mary
+AND	and
+DEF	the
+CON	pillow
+EPS	hit
+HAS	her
+CON	squarely
+REL	in
+DEF	the
+CON	face
+NIL	.

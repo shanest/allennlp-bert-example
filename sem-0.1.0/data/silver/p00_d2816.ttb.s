@@ -1,0 +1,12 @@
+PRO	It
+ENS	sounds
+SUB	as
+IMP	if
+PRO	he
+PST	were
+NIL	to
+EXS	blame
+REL	for
+DEF	the
+CON	disaster
+NIL	.

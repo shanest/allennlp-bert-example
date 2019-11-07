@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	what
+EPS	got
+REL	into
+PER	Mary
+NIL	.

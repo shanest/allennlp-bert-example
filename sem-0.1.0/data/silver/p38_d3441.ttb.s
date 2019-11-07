@@ -1,0 +1,12 @@
+PRO	You
+ENS	need
+DIS	a
+INT	very
+IST	sharp
+CON	knife
+REL	to
+CON	slice
+DIS	a
+IST	ripe
+CON	strawberry
+NIL	.

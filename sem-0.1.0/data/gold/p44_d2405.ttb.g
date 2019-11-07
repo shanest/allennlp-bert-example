@@ -1,0 +1,9 @@
+DEF	The
+CON	Sun
+EPS	smiled
+REL	through
+DEF	the
+CON	window
+AND	every
+CON	morning
+NIL	.

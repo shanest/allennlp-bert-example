@@ -1,0 +1,13 @@
+IMP	If
+PRO	you
+PST	had
+NOT	n't
+EXS	had
+HAS	my
+CON	advice
+NIL	,
+PRO	you
+FUT	would
+EXT	have
+EXS	failed
+NIL	.

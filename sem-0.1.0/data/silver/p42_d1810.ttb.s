@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+IST	pleasant
+SUB	to
+EXS	sleep
+REL	under
+DEF	the
+CON	tree
+NIL	.

@@ -1,0 +1,12 @@
+AND	Maybe
+PRO	we
+NEC	should
+EXS	ask
+PER	Tom
+IMP	if
+PRO	he
+ENS	wants
+PRX	this
+IST	old
+CON	piano
+NIL	.

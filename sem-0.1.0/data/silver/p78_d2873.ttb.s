@@ -1,0 +1,9 @@
+PRO	He
+EPS	wrote
+DIS	a
+CON	biography
+AND	of
+DIS	a
+IST	famous
+ROL	poet
+NIL	.

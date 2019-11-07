@@ -1,0 +1,11 @@
+PRO	I
+FUT	'd
+EXS	like
+DIS	some
+CON	coffee
+IMP	if
+PRO	you
+NOW	are
+EXS	making
+DIS	some
+NIL	.

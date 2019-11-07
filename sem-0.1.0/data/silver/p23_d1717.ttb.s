@@ -1,0 +1,12 @@
+NOW	Do
+PRO	you
+EXS	know
+SUB	where
+PER	Tom
+NOW	has
+PFT	been
+DEF	the
+IST	past
+QUC	three
+CON	weeks
+QUE	?

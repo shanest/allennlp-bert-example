@@ -1,0 +1,10 @@
+PER	Trang
+NIL	,
+SUB	when
+NOW	are
+PRO	you
+EXS	going
+NIL	to
+EXS	update
+PRX	Tatoeba
+QUE	?

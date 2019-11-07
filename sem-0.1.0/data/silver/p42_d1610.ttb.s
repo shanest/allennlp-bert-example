@@ -1,0 +1,11 @@
+PRO	They
+NOW	think
+SUB	that
+PER	Tom
+EPS	followed
+PER	Mary
+CON	home
+COO	and
+EPS	killed
+PRO	her
+NIL	.

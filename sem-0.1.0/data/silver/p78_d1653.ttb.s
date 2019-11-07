@@ -1,0 +1,13 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	waiting
+REL	for
+DIS	a
+CON	friend
+AND	of
+HAS	mine
+REL	for
+DIS	an
+CON	hour
+NIL	.

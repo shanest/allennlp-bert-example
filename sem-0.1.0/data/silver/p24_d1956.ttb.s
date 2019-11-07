@@ -1,0 +1,12 @@
+UNK	There
+PST	was
+DIS	someone
+EXS	sitting
+REL	on
+DIS	a
+CON	bench
+EXG	reading
+DIS	a
+CON	book
+IST	there
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+EXS	rude
+SUB	to
+EXS	speak
+REL	with
+HAS	your
+CON	hands
+REL	in
+HAS	your
+CON	pockets
+NIL	.

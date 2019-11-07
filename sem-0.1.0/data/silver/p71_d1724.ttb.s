@@ -1,0 +1,15 @@
+REL	For
+DIS	some
+CON	reason
+IST	economic
+CON	booms
+NOW	have
+CON	names
+EXS	taken
+REL	from
+GPO	Japanese
+CON	mythology
+EXS	given
+REL	to
+PRO	them
+NIL	.

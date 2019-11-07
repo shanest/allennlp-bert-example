@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	ready
+SUB	to
+EXS	admit
+SUB	that
+PRO	it
+PST	was
+HAS	my
+CON	fault
+NIL	.

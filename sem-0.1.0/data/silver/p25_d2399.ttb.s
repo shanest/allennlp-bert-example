@@ -1,0 +1,14 @@
+SUB	While
+PRO	I
+PST	was
+EXS	waiting
+REL	for
+DEF	the
+CON	bus
+NIL	,
+PRO	I
+EPS	saw
+DIS	a
+CON	traffic
+CON	accident
+NIL	.

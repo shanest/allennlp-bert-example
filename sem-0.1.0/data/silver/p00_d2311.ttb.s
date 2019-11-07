@@ -1,0 +1,10 @@
+PRO	We
+NOW	do
+NOT	n't
+EXS	have
+DIS	a
+IST	whole
+CON	lot
+NIL	of
+CON	time
+NIL	.

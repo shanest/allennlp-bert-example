@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	buying
+HAS	my
+CON	watch
+REL	in
+DST	that
+CON	shop
+IST	there
+NIL	.

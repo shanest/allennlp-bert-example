@@ -1,0 +1,11 @@
+PRO	I
+EPS	wrote
+DIS	a
+CON	song
+AND	about
+QUE	what
+EPS	happened
+PRX	here
+IST	last
+CON	year
+NIL	.

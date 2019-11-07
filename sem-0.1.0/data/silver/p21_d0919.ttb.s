@@ -1,0 +1,11 @@
+PRO	We
+EPS	talked
+IST	quietly
+COO	so
+PRO	we
+FUT	would
+NOT	n't
+EXS	wake
+DEF	the
+CON	baby
+NIL	.

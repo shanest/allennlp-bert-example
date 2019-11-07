@@ -1,0 +1,16 @@
+IMP	If
+PRO	you
+NOW	explain
+AND	everything
+REL	in
+IST	medical
+CON	jargon
+NIL	,
+PRO	it
+NOW	's
+EXS	impossible
+SUB	that
+AND	everyone
+ENS	understands
+IST	immediately
+NIL	.

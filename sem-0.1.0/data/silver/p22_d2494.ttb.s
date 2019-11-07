@@ -1,0 +1,9 @@
+PER	Sally
+EPS	gave
+PRO	me
+DIS	a
+IST	good
+CON	piece
+AND	of
+CON	information
+NIL	.

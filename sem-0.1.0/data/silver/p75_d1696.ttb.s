@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	looking
+REL	for
+PER	Tom
+NIL	.
+NOW	Have
+PRO	you
+EXS	seen
+PRO	him
+QUE	?

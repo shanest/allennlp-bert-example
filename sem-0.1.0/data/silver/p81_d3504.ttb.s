@@ -1,0 +1,11 @@
+DEF	The
+ROL	thief
+EPS	used
+DIS	a
+CON	screwdriver
+SUB	to
+EXS	break
+REL	into
+DEF	the
+CON	car
+NIL	.

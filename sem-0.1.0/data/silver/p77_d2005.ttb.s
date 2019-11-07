@@ -1,0 +1,13 @@
+DEF	The
+CON	boss
+POS	could
+NOT	not
+EXS	approve
+AND	of
+QUE	what
+QUC	one
+AND	of
+HAS	his
+CON	men
+PST	did
+NIL	.

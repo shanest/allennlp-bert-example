@@ -1,0 +1,17 @@
+AND	Would
+PRO	you
+EXS	be
+IST	willing
+SUB	to
+EXS	volunteer
+REL	at
+DEF	the
+CON	animal
+CON	shelter
+QUC	two
+DIS	or
+QUC	three
+CON	days
+DIS	a
+CON	week
+QUE	?

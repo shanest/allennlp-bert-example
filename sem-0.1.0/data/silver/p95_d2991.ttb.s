@@ -1,0 +1,13 @@
+PRO	I
+EPS	dropped
+IST	out
+AND	of
+CON	school
+SUB	when
+PRO	I
+PST	was
+REL	in
+DEF	the
+ORD	7th
+CON	grade
+NIL	.

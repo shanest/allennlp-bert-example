@@ -1,0 +1,15 @@
+PRO	I
+IST	immediately
+EPS	wrote
+DIS	a
+CON	letter
+SUB	to
+EXS	ask
+PRO	her
+NIL	,
+BUT	but
+PRO	she
+PST	did
+NOT	not
+EXS	reply
+NIL	.

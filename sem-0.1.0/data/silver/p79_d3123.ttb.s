@@ -1,0 +1,14 @@
+PRO	It
+HAS	's
+EXS	been
+INT	almost
+QUC	four
+CON	years
+REL	since
+PER	Tom
+EPS	died
+REL	in
+DIS	a
+CON	traffic
+CON	accident
+NIL	.

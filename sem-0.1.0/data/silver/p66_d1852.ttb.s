@@ -1,0 +1,10 @@
+PRO	She
+NEC	ought
+SUB	to
+EXS	be
+REL	at
+DEF	the
+CON	office
+REL	by
+NOW	now
+NIL	.

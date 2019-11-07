@@ -1,0 +1,17 @@
+SUB	When
+PRO	we
+EPS	got
+CON	home
+AND	last
+CON	night
+EQU	,
+DEF	the
+ALT	others
+PST	were
+IST	already
+REL	in
+CON	bed
+AND	and
+IST	fast
+EXS	asleep
+NIL	.

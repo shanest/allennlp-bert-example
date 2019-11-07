@@ -1,0 +1,12 @@
+PER	Tom
+EPS	wondered
+QUE	why
+PER	Mary
+PST	was
+NOT	n't
+SUB	as
+EXS	hungry
+AND	as
+AND	everyone
+AND	else
+NIL	.

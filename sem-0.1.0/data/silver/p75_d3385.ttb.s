@@ -1,0 +1,14 @@
+PST	Supposing
+PRO	you
+PST	had
+QUC	one
+QUC	million
+UOM	yen
+NIL	,
+QUE	what
+FUT	would
+PRO	you
+EXS	do
+REL	with
+PRO	it
+QUE	?

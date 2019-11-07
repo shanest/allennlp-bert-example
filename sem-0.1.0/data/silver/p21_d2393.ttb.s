@@ -1,0 +1,10 @@
+EXS	Excuse
+PRO	me
+NIL	,
+AND	which
+CON	way
+NOW	is
+DEF	the
+CON	post
+CON	office
+QUE	?

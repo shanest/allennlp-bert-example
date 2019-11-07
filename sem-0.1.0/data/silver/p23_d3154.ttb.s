@@ -1,0 +1,10 @@
+PRO	I
+ENS	believe
+PRX	this
+CON	man
+SUB	to
+EXS	be
+DIS	a
+EXT	lost
+CON	cause
+NIL	.

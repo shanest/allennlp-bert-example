@@ -1,0 +1,10 @@
+DIS	A
+CON	meter
+NOW	is
+NOT	not
+INT	quite
+IST	equivalent
+REL	to
+DIS	a
+CON	yard
+NIL	.

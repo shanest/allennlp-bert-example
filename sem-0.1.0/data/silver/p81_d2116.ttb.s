@@ -1,0 +1,16 @@
+GRE	Hello
+NIL	,
+PRO	it
+ENS	's
+PRO	me
+NIL	.
+AND	Could
+PRO	you
+ENS	come
+EXS	pick
+PRO	me
+IST	up
+REL	at
+DEF	the
+CON	station
+QUE	?

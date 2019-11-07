@@ -1,0 +1,10 @@
+QUE	What
+NOW	do
+PRO	you
+NOW	think
+PER	Tom
+NOW	is
+EXS	doing
+IST	right
+NOW	now
+QUE	?

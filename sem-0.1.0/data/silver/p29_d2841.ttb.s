@@ -1,0 +1,16 @@
+PRO	They
+EPS	tied
+GEO	Pinocchio
+HAS	's
+CON	hands
+AND	behind
+HAS	his
+CON	shoulders
+COO	and
+EPS	slipped
+DEF	the
+CON	noose
+AND	around
+HAS	his
+CON	neck
+NIL	.

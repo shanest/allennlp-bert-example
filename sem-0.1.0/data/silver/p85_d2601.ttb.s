@@ -1,0 +1,14 @@
+PRO	It
+HAS	's
+IST	already
+CLO	eleven
+NIL	.
+PRO	It
+HAS	's
+IST	high
+CON	time
+PRO	you
+PST	were
+REL	in
+CON	bed
+NIL	.

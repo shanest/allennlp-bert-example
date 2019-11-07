@@ -1,0 +1,14 @@
+NIL	"
+PRO	I
+NOW	've
+EXS	got
+CON	mono
+NIL	.
+NIL	"
+NIL	"
+EXS	Did
+PRO	you
+EXS	kiss
+DIS	someone
+QUE	?
+NIL	"

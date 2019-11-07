@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	true
+SUB	that
+PRO	I
+ENS	want
+SUB	to
+EXS	know
+PRO	it
+NIL	.

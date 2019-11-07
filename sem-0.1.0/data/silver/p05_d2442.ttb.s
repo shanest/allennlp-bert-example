@@ -1,0 +1,9 @@
+DIS	A
+CON	blackboard
+NOW	does
+NOT	n't
+NEC	have
+SUB	to
+EXS	be
+COL	black
+NIL	.

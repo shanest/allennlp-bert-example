@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	take
+DEF	the
+CON	dog
+REL	to
+DEF	the
+CON	vet
+NIL	.

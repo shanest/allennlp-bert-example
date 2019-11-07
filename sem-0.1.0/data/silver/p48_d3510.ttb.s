@@ -1,0 +1,11 @@
+QUC	Two
+CON	thirds
+AND	of
+DEF	the
+ROL	employees
+AND	of
+PRX	this
+CON	company
+NOW	are
+CON	engineers
+NIL	.

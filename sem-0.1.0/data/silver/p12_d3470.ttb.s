@@ -1,0 +1,10 @@
+PRO	He
+CON	practices
+EXG	playing
+DEF	the
+CON	guitar
+AND	far
+REL	into
+DEF	the
+CON	night
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+IST	fine
+CON	arts
+EXS	flourished
+REL	in
+GPE	Italy
+REL	in
+DEF	the
+DOM	15th
+CON	century
+NIL	.

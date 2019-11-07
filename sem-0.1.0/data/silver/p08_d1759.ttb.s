@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	trying
+SUB	to
+EXS	figure
+IST	out
+QUE	what
+SUB	to
+EXS	do
+IST	next
+NIL	.

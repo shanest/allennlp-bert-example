@@ -1,0 +1,11 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	be
+DIS	a
+ROL	teacher
+SUB	when
+PRO	I
+ENS	grow
+IST	up
+NIL	.

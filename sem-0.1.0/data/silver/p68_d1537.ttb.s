@@ -1,0 +1,10 @@
+AND	Everyone
+NOW	has
+DIS	a
+CON	right
+SUB	to
+EXS	say
+QUE	what
+PRO	he
+ENS	thinks
+NIL	.

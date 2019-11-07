@@ -1,0 +1,10 @@
+NOW	Do
+NOT	n't
+EXS	get
+REL	off
+DEF	the
+CON	bus
+REL	till
+PRO	it
+ENS	stops
+NIL	.

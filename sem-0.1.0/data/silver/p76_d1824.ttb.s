@@ -1,0 +1,11 @@
+REL	In
+GPE	Japan
+NIL	,
+IST	radioactive
+CON	cesium
+PST	was
+EXS	detected
+REL	in
+CON	baby
+CON	formula
+NIL	.

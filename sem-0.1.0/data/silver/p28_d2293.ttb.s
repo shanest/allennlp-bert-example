@@ -1,0 +1,11 @@
+PER	Sam
+PST	was
+IST	able
+SUB	to
+EXS	enter
+DEF	the
+CON	school
+HAS	's
+CON	basketball
+CON	team
+NIL	.

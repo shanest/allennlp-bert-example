@@ -1,0 +1,10 @@
+QUE	What
+CON	instrument
+PST	did
+DEF	the
+CON	jazz
+CON	musician
+ORG	Art
+ORG	Tatum
+CON	play
+QUE	?

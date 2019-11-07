@@ -1,0 +1,10 @@
+PRO	We
+NOW	are
+EXG	looking
+REL	for
+DIS	a
+CON	house
+REL	with
+DIS	a
+CON	garage
+NIL	.

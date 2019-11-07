@@ -1,0 +1,10 @@
+PER	Tom
+ENS	wants
+PRO	me
+SUB	to
+EXS	take
+PER	Mary
+REL	to
+DEF	the
+CON	party
+NIL	.

@@ -1,0 +1,15 @@
+PRO	You
+ENS	see
+SUB	that
+PRO	you
+NOW	do
+NOT	n't
+EXS	have
+DIS	an
+CON	exam
+REL	for
+DIS	a
+CON	couple
+AND	of
+CON	days
+NIL	.

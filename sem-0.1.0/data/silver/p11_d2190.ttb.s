@@ -1,0 +1,12 @@
+PRO	I
+EPS	heard
+SUB	that
+DIS	a
+EPS	paralyzed
+CON	man
+PST	was
+EXS	eaten
+EXS	alive
+REL	by
+CON	maggots
+NIL	.

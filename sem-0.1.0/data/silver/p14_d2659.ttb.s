@@ -1,0 +1,13 @@
+SUB	Although
+PRO	he
+PST	had
+QUC	many
+CON	toys
+NIL	,
+HAS	his
+CON	greed
+EPS	made
+PRO	him
+ENS	want
+IST	more
+NIL	.

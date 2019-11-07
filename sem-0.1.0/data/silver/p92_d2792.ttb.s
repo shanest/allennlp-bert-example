@@ -1,0 +1,11 @@
+FUT	Will
+PRO	she
+EXS	be
+IST	able
+SUB	to
+EXS	leave
+DEF	the
+CON	hospital
+AND	next
+CON	week
+QUE	?

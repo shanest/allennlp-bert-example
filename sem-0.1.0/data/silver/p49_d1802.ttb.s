@@ -1,0 +1,13 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	racking
+HAS	his
+CON	brains
+REL	for
+DIS	a
+CON	solution
+REL	to
+DEF	the
+CON	problem
+NIL	.

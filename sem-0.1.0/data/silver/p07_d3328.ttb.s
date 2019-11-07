@@ -1,0 +1,13 @@
+PER	Tom
+PST	was
+EXS	sitting
+REL	in
+DIS	a
+IST	comfortable
+CON	armchair
+NIL	,
+EXG	reading
+DEF	the
+CON	evening
+CON	newspaper
+NIL	.

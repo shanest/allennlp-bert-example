@@ -1,0 +1,12 @@
+PER	Tom
+EPS	opened
+HAS	his
+CON	briefcase
+COO	and
+EPS	pulled
+IST	out
+DIS	a
+CON	couple
+AND	of
+CON	documents
+NIL	.

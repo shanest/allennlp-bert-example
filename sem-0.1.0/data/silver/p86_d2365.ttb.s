@@ -1,0 +1,9 @@
+PRO	I
+NOW	think
+SUB	that
+PER	Tom
+ENS	lives
+DIS	somewhere
+AND	around
+PRX	here
+NIL	.

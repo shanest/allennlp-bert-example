@@ -1,0 +1,9 @@
+QUE	How
+QUV	many
+CON	people
+NOW	are
+IST	there
+REL	in
+PRX	this
+CON	office
+QUE	?

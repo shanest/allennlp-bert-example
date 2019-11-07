@@ -1,0 +1,10 @@
+DEF	The
+CON	pizza
+CON	delivery
+CON	guy
+NOW	has
+NOT	n't
+EXS	come
+REL	by
+ALT	yet
+NIL	.

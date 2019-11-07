@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+PER	Tom
+ENS	wants
+PRO	us
+SUB	to
+EXS	help
+PRO	him
+NIL	.

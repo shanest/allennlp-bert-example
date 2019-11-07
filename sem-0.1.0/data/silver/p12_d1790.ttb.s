@@ -1,0 +1,10 @@
+PRO	She
+EPS	suggested
+SUB	that
+DEF	the
+CON	customer
+NOW	buy
+DIS	a
+COL	blue
+CON	tie
+NIL	.

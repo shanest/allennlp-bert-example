@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	heard
+PER	Tom
+NOW	say
+DIS	anything
+AND	like
+DST	that
+NIL	.

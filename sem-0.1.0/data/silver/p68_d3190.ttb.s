@@ -1,0 +1,12 @@
+PRO	I
+NOW	feel
+EXS	cold
+NIL	.
+AND	Would
+PRO	you
+EPS	shut
+DEF	the
+CON	window
+NIL	,
+IST	please
+QUE	?

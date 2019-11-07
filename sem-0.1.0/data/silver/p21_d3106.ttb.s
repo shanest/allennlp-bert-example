@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+DIS	a
+INT	very
+IST	large
+CON	house
+NIL	.

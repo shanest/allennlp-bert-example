@@ -1,0 +1,13 @@
+SUB	When
+PRO	he
+EPS	saw
+PRO	me
+NIL	,
+PRO	he
+EPS	raised
+HAS	his
+CON	hat
+COO	and
+EPS	greeted
+PRO	me
+NIL	.

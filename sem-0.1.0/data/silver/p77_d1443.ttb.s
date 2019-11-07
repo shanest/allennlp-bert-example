@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+EXS	paid
+IST	double
+CON	time
+REL	on
+DOW	Sundays
+AND	and
+IST	public
+CON	holidays
+NIL	.

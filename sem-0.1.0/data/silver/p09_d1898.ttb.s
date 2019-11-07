@@ -1,0 +1,16 @@
+HAS	Your
+CON	success
+FUT	will
+IST	largely
+EXS	depend
+REL	upon
+QUE	how
+PRO	you
+FUT	will
+EXS	make
+IST	good
+CON	use
+AND	of
+HAS	your
+CON	opportunity
+NIL	.

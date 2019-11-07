@@ -1,0 +1,10 @@
+DEF	The
+ALT	other
+CON	day
+NIL	,
+PRO	I
+EPS	met
+PRO	him
+REL	in
+GEO	Kyoto
+NIL	.

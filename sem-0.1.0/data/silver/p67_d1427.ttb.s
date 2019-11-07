@@ -1,0 +1,13 @@
+PRO	He
+EPS	lost
+DIS	a
+CON	watch
+AND	which
+PRO	I
+PST	had
+EXS	bought
+PRO	him
+DIS	a
+CON	week
+REL	before
+NIL	.

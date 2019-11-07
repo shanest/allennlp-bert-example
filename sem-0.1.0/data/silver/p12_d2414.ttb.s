@@ -1,0 +1,14 @@
+PRO	I
+EPS	wanted
+SUB	to
+EXS	invite
+PRO	you
+NIL	,
+BUT	but
+HAS	your
+CON	friend
+EPS	beat
+PRO	me
+REL	to
+PRO	it
+NIL	.

@@ -1,0 +1,11 @@
+EXS	Stop
+EXS	playing
+REL	with
+DEF	the
+CON	cat
+NIL	.
+PRO	We
+NEC	have
+SUB	to
+EXS	go
+NIL	.

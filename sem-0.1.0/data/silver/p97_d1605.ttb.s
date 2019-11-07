@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXT	memorized
+DEF	the
+CON	model
+CON	number
+AND	of
+DEF	the
+CON	charger
+NIL	.

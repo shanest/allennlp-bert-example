@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+EXS	fallen
+REL	in
+CON	love
+REL	with
+DIS	somebody
+AND	else
+NIL	.

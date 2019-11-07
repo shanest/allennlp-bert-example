@@ -1,0 +1,11 @@
+PRO	They
+NOW	are
+EXS	using
+DIS	a
+CON	telescope
+SUB	to
+EXS	look
+REL	at
+DEF	the
+CON	sky
+NIL	.

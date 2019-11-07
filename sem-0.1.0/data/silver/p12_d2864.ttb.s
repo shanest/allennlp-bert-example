@@ -1,0 +1,11 @@
+HAS	My
+ROL	father
+NOW	does
+NOT	n't
+EXS	let
+PRO	me
+EXS	go
+IST	out
+REL	with
+PER	Bill
+NIL	.

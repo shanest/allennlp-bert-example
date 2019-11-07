@@ -1,0 +1,9 @@
+PRO	You
+NEC	should
+NOT	n't
+EXS	depend
+REL	on
+ALT	others
+INT	too
+CON	much
+NIL	.

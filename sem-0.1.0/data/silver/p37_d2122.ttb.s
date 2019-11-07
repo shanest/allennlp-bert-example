@@ -1,0 +1,9 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	cry
+REL	at
+PER	Mary
+HAS	's
+CON	funeral
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+EPS	met
+PRO	him
+REL	on
+DEF	the
+CON	streets
+REL	by
+CON	chance
+REL	after
+QUV	many
+CON	years
+NIL	.

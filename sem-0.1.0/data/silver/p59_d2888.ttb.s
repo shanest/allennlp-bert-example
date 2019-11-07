@@ -1,0 +1,11 @@
+PER	Tom
+EPS	opened
+DEF	the
+CON	box
+COO	and
+EPS	took
+IST	out
+DIS	a
+IST	beautiful
+CON	ring
+NIL	.

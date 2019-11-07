@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	talking
+REL	to
+PER	Tom
+REL	on
+DEF	the
+CON	phone
+NIL	.

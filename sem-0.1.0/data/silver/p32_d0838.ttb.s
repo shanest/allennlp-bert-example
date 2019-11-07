@@ -1,0 +1,10 @@
+PRO	He
+EPS	took
+IST	up
+HAS	his
+CON	pen
+COO	and
+EPS	began
+SUB	to
+EXS	write
+NIL	.

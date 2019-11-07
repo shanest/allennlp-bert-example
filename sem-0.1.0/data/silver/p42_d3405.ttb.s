@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	going
+SUB	to
+EXS	take
+CON	care
+AND	of
+AND	everything
+NIL	.

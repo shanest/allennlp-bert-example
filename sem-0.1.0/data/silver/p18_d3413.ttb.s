@@ -1,0 +1,11 @@
+DEF	The
+CON	sum
+AND	of
+QUC	two
+CON	plus
+QUC	three
+CON	plus
+QUC	four
+NOW	is
+CLO	nine
+NIL	.

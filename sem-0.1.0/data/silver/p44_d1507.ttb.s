@@ -1,0 +1,10 @@
+QUE	Who
+NOW	are
+PRO	you
+SUB	to
+EXS	talk
+REL	to
+PRO	me
+ENS	like
+SUB	that
+QUE	?

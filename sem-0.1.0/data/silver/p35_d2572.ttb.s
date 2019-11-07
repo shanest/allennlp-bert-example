@@ -1,0 +1,15 @@
+PRO	It
+IST	suddenly
+EXS	dawned
+REL	on
+PER	Tom
+SUB	that
+PRO	he
+PST	'd
+PFT	been
+EXS	doing
+PRO	it
+EXS	wrong
+AND	all
+REL	along
+NIL	.

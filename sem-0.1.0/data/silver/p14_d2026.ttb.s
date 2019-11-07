@@ -1,0 +1,12 @@
+HAS	My
+ROL	father
+NOW	has
+DIS	a
+CON	habit
+AND	of
+EXG	reading
+DEF	the
+CON	newspaper
+REL	before
+CON	breakfast
+NIL	.

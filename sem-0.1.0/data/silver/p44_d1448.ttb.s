@@ -1,0 +1,16 @@
+CON	People
+EPS	applaud
+DIS	a
+ROL	singer
+SUB	because
+PRO	he
+EPS	sang
+IST	well
+NIL	,
+DIS	or
+POS	maybe
+SUB	because
+PRO	he
+IST	finally
+EPS	stopped
+NIL	.

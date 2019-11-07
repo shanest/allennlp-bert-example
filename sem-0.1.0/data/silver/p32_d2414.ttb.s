@@ -1,0 +1,10 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	leave
+NOT	without
+EXS	saying
+GRE	goodbye
+NIL	.

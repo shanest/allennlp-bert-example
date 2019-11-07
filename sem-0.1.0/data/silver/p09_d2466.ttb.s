@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+DEF	the
+CON	knack
+AND	of
+EXG	making
+CON	people
+EXS	cry
+NIL	.

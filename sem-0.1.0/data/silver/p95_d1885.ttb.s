@@ -1,0 +1,11 @@
+PER	Tom
+ENS	lives
+REL	in
+DEF	the
+IST	same
+CON	part
+AND	of
+CON	town
+AND	as
+PER	Mary
+NIL	.

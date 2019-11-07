@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+IST	already
+EXT	watched
+PRX	this
+CON	film
+REL	on
+DEF	the
+CON	telly
+NIL	.

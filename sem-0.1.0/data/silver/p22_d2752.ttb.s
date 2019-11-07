@@ -1,0 +1,15 @@
+PRO	I
+NOW	now
+EXS	understand
+SUB	that
+DEF	the
+CON	woman
+PRO	I
+EPS	thought
+PST	was
+DIS	a
+CON	nurse
+NOW	is
+DIS	a
+CON	doctor
+NIL	.

@@ -1,0 +1,14 @@
+AND	But
+SUB	when
+DEF	the
+CON	monkey
+EPS	came
+IST	back
+NIL	,
+DEF	the
+CON	tin
+CON	cup
+PST	was
+AND	always
+EXS	empty
+NIL	.

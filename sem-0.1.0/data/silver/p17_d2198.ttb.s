@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+ENS	wants
+SUB	to
+EXS	make
+DIS	a
+ROL	lawyer
+AND	of
+PRO	me
+NIL	.

@@ -1,0 +1,10 @@
+PRO	We
+NEC	have
+SUB	to
+EXS	get
+AND	as
+QUV	much
+CON	information
+SUB	as
+EXS	possible
+NIL	.

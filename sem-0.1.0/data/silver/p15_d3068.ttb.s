@@ -1,0 +1,10 @@
+PRO	I
+FUT	will
+NOT	not
+EXS	forget
+SUB	to
+EXS	write
+REL	to
+HAS	my
+ROL	mother
+NIL	.

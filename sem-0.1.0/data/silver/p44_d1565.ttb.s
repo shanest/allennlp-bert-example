@@ -1,0 +1,11 @@
+PRO	He
+PST	was
+INT	very
+EXS	scared
+SUB	when
+PRO	he
+EPS	saw
+PRX	this
+IST	big
+CON	snake
+NIL	.

@@ -1,0 +1,10 @@
+GPE	Tokyo
+ENS	seems
+NIL	to
+EXT	have
+EXS	got
+DEF	the
+CON	message
+REL	from
+GPE	Washington
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+PST	was
+HAS	your
+CON	inspiration
+REL	for
+PRX	this
+CON	sentence
+NIL	,
+COO	and
+PRO	you
+ENS	know
+PRO	it
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+CON	meeting
+PST	was
+EXS	put
+IST	off
+REL	until
+IST	next
+DOW	Friday
+NIL	.

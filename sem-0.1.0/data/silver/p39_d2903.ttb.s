@@ -1,0 +1,9 @@
+PER	Love
+NOW	is
+NOT	n't
+EXS	blind
+NIL	,
+PRO	it
+NOW	's
+EXS	retarded
+NIL	.

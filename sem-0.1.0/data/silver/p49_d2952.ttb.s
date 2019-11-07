@@ -1,0 +1,12 @@
+PER	Michael
+PER	Phelps
+NOW	is
+NOW	now
+DEF	the
+INT	most
+EPS	decorated
+CON	Olympian
+AND	of
+AND	all
+CON	time
+NIL	.

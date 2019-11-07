@@ -1,0 +1,15 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	talk
+REL	to
+PER	Mary
+NIL	,
+COO	but
+PRO	he
+PST	had
+NOT	no
+CON	choice
+NIL	.

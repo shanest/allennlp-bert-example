@@ -1,0 +1,14 @@
+PRO	You
+PST	were
+EXS	supposed
+SUB	to
+EXS	come
+CON	home
+IST	straight
+REL	after
+CON	school
+NIL	.
+PRO	You
+EPS	knew
+SUB	that
+NIL	.

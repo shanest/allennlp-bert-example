@@ -1,0 +1,10 @@
+EXS	Come
+REL	on
+NIL	,
+PER	Tom
+NIL	.
+EXS	Let
+HAS	's
+ENS	go
+CON	home
+NIL	.

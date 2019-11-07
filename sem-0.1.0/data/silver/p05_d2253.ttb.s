@@ -1,0 +1,15 @@
+AND	As
+IST	soon
+SUB	as
+PRO	I
+ENS	let
+EXS	go
+AND	of
+DEF	the
+CON	leash
+NIL	,
+DEF	the
+CON	dog
+EPS	ran
+IST	away
+NIL	.

@@ -1,0 +1,12 @@
+UNK	There
+HAS	's
+NOT	no
+CON	one
+AND	here
+AND	who
+POS	can
+EXS	deal
+REL	with
+DEF	the
+CON	problem
+NIL	.

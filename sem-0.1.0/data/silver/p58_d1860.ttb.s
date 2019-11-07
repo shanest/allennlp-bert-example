@@ -1,0 +1,9 @@
+PRO	I
+NOW	hear
+DIS	a
+CON	dog
+EXS	barking
+REL	in
+DEF	the
+CON	woods
+NIL	.

@@ -1,0 +1,14 @@
+NOW	Do
+PRO	you
+EXS	get
+DEF	the
+CON	impression
+AND	that
+AND	all
+AND	of
+HAS	our
+ROL	politicians
+NOW	are
+INT	too
+COM	old
+QUE	?

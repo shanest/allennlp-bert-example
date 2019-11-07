@@ -1,0 +1,11 @@
+AND	Whether
+PRO	he
+EPS	wrote
+DEF	the
+CON	novel
+DIS	or
+NOT	not
+NOW	is
+NOT	not
+EXS	known
+NIL	.

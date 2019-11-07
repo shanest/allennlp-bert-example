@@ -1,0 +1,15 @@
+PRO	He
+NOW	does
+NOT	n't
+EXS	want
+DIS	a
+CON	relationship
+NIL	.
+PRO	He
+IST	just
+ENS	wants
+NIL	to
+EXS	sleep
+REL	with
+PRO	me
+NIL	.

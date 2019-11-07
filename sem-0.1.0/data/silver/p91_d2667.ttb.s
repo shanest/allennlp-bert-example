@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+PER	Mary
+HAS	's
+CON	telephone
+CON	number
+NIL	.

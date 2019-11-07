@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	doubtful
+SUB	whether
+HAS	her
+CON	song
+FUT	will
+EXS	become
+EXS	popular
+NIL	.

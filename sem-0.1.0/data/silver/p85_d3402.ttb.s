@@ -1,0 +1,14 @@
+PER	Tom
+EPS	signed
+HAS	his
+CON	name
+REL	with
+DEF	the
+IST	new
+CON	pen
+SUB	that
+PRO	he
+EPS	got
+REL	from
+PER	Mary
+NIL	.

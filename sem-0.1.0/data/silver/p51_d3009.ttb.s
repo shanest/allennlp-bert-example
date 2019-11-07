@@ -1,0 +1,9 @@
+GPE	Americans
+ENS	need
+DIS	a
+CON	visa
+SUB	to
+EXS	travel
+REL	to
+GPE	China
+NIL	.

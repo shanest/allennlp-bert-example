@@ -1,0 +1,10 @@
+PRO	I
+EPS	spoke
+IST	slowly
+AND	so
+SUB	that
+PRO	they
+POS	could
+EXS	understand
+PRO	me
+NIL	.

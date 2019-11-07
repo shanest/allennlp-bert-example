@@ -1,0 +1,9 @@
+GPE	Bolivia
+NOW	is
+EXS	called
+NIL	"
+LIT	Buliwya
+NIL	"
+REL	in
+CON	Quechua
+NIL	.

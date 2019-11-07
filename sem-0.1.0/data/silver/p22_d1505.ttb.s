@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	talk
+REL	to
+PER	Tom
+SUB	when
+PRO	he
+ENS	arrives
+REL	at
+CON	home
+NIL	.

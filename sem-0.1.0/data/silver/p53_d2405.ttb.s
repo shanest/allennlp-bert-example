@@ -1,0 +1,14 @@
+PER	Tom
+PST	was
+EXS	unlucky
+SUB	to
+EXS	be
+REL	in
+DEF	the
+CON	bank
+SUB	when
+DEF	the
+CON	holdup
+EPS	took
+CON	place
+NIL	.

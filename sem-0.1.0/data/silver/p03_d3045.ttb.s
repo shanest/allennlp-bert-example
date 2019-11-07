@@ -1,0 +1,12 @@
+QUV	Many
+CON	wedding
+CON	ceremonies
+FUT	will
+EXS	take
+CON	place
+REL	on
+DEF	the
+IST	seventh
+AND	of
+MOY	July
+NIL	.

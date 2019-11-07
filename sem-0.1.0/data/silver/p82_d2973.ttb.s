@@ -1,0 +1,9 @@
+POS	Can
+PRO	I
+EXS	tell
+HAS	my
+ROL	father
+QUE	what
+PRO	you
+ENS	want
+QUE	?

@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	talking
+REL	on
+DEF	the
+CON	phone
+REL	with
+PER	Mary
+NIL	.

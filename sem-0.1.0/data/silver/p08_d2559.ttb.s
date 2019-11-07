@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	helping
+CON	people
+SUB	to
+EXS	buy
+CON	things
+IST	online
+NIL	.

@@ -1,0 +1,9 @@
+GPE	Albania
+NOW	is
+EXS	called
+NIL	"
+LIT	Shqipëria
+NIL	"
+REL	in
+CON	Albanian
+NIL	.

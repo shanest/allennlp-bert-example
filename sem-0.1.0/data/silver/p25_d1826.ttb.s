@@ -1,0 +1,10 @@
+PRO	We
+NOW	're
+EXS	reaching
+DEF	the
+CON	end
+AND	of
+HAS	our
+CON	journey
+IST	together
+NIL	.

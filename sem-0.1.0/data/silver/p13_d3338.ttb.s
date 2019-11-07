@@ -1,0 +1,17 @@
+DEF	The
+CON	hotel
+CON	telephone
+NOW	is
+REL	in
+DEF	the
+CON	hall
+AND	and
+PER	Harriet
+NOW	is
+EXS	trying
+SUB	to
+EXS	ring
+DEF	the
+CON	police
+NOW	now
+NIL	.

@@ -1,0 +1,17 @@
+REL	With
+DST	that
+IST	big
+CON	salary
+PRO	you
+NOW	're
+EXG	getting
+PRO	I
+NOW	guess
+PRO	you
+NOW	've
+EXS	saved
+IST	up
+IST	quite
+DIS	a
+CON	lot
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+COM	easier
+SUB	to
+EXS	make
+CON	plans
+AND	than
+SUB	to
+EXS	carry
+PRO	them
+IST	out
+NIL	.

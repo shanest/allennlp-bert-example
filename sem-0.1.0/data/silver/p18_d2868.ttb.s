@@ -1,0 +1,12 @@
+PRO	You
+ENS	know
+PRO	I
+PST	did
+NOT	n't
+EXS	like
+PRO	you
+REL	in
+DEF	the
+CON	6th
+CON	grade
+NIL	.

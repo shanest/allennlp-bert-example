@@ -1,0 +1,12 @@
+REL	At
+AND	last
+NIL	,
+PRO	you
+NOW	've
+EXS	hit
+DEF	the
+CON	nail
+REL	on
+DEF	the
+CON	head
+NIL	!

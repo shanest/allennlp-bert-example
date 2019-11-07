@@ -1,0 +1,10 @@
+DEF	The
+CON	business
+NOW	has
+EXS	expanded
+REL	by
+INT	50
+UOM	%
+PRX	this
+CON	year
+NIL	.

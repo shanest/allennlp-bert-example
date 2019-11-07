@@ -1,0 +1,13 @@
+REL	After
+DIS	a
+IST	short
+CON	visit
+PRO	he
+IST	suddenly
+EPS	got
+IST	up
+COO	and
+EPS	took
+HAS	his
+CON	leave
+NIL	.

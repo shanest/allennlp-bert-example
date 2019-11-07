@@ -1,0 +1,10 @@
+PER	Tom
+HAS	's
+CON	coffee
+CON	mug
+NOW	is
+IST	next
+REL	to
+PER	Mary
+HAS	's
+NIL	.

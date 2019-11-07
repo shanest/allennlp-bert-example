@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+DEF	the
+IST	same
+CON	age
+AND	as
+PER	John
+NIL	.

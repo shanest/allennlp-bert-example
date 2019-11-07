@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	know
+AND	anything
+AND	about
+PER	Tom
+HAS	's
+CON	childhood
+QUE	?

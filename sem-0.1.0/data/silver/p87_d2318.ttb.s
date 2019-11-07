@@ -1,0 +1,12 @@
+NOW	Do
+PRO	you
+NOW	think
+PRO	we
+NEC	should
+EXT	've
+EXS	talked
+REL	to
+PER	Tom
+AND	about
+PRX	this
+QUE	?

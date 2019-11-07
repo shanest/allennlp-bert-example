@@ -1,0 +1,10 @@
+NOT	No
+QUC	one
+NEC	has
+EXS	heard
+PER	Tom
+NOW	say
+PER	Mary
+HAS	's
+CON	name
+NIL	.

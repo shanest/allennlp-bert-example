@@ -1,0 +1,11 @@
+AND	Now
+QUE	what
+FUT	will
+AND	all
+DEF	the
+CON	idiots
+NOW	believe
+AND	who
+EPS	remained
+EXS	alive
+QUE	?

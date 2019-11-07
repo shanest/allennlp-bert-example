@@ -1,0 +1,12 @@
+DEF	The
+CON	company
+ENS	plans
+NIL	to
+EXS	sell
+DEF	the
+IST	new
+CON	product
+REL	for
+UOM	$
+QUC	1,000
+NIL	.

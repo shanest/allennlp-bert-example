@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+NOT	not
+EXS	talking
+REL	to
+PRO	you
+NIL	.
+PRO	I
+NOW	'm
+EXS	talking
+REL	to
+DEF	the
+CON	monkey
+NIL	.

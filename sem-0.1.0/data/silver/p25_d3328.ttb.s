@@ -1,0 +1,12 @@
+PRO	I
+EPS	went
+REL	to
+CON	church
+AND	every
+DOW	Sunday
+SUB	when
+PRO	I
+PST	was
+DIS	a
+CON	boy
+NIL	.

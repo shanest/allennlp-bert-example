@@ -1,0 +1,12 @@
+PRO	You
+IST	never
+NEC	should
+EXT	've
+EXS	let
+PER	Tom
+ENS	go
+REL	to
+GEO	Boston
+REL	with
+PER	Mary
+NIL	.

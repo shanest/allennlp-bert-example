@@ -1,0 +1,14 @@
+PER	Tom
+EPS	told
+PER	Mary
+PRO	he
+PST	was
+NOT	n't
+EXS	interested
+REL	in
+EXS	discussing
+HAS	his
+CON	problems
+REL	with
+PRO	her
+NIL	.

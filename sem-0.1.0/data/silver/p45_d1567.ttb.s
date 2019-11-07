@@ -1,0 +1,9 @@
+DST	That
+CON	man
+NOW	is
+PER	Perry
+PER	Mason
+EQU	,
+DEF	the
+ROL	lawyer
+NIL	.

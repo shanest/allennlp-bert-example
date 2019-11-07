@@ -1,0 +1,12 @@
+PRO	She
+EPS	bought
+DIS	a
+CON	shirt
+REL	for
+PRO	him
+SUB	to
+EXS	wear
+REL	to
+DEF	the
+CON	party
+NIL	.

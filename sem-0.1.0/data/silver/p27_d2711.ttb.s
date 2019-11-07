@@ -1,0 +1,16 @@
+PRO	I
+NOW	think
+PRO	it
+HAS	's
+INT	highly
+EXS	unlikely
+SUB	that
+PRO	I
+FUT	'll
+IST	ever
+EXS	see
+HAS	my
+IST	stolen
+CON	motorcycle
+ALT	again
+NIL	.

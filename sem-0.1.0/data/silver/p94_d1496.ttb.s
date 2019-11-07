@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+EXS	reading
+DIS	a
+CON	book
+REL	in
+HAS	his
+CON	room
+NIL	.

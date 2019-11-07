@@ -1,0 +1,10 @@
+QUC	98
+UOM	%
+AND	of
+EXS	hungry
+CON	people
+EXS	live
+REL	in
+EXG	developing
+CON	countries
+NIL	.

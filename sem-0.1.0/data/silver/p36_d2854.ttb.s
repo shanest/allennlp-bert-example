@@ -1,0 +1,15 @@
+PRO	It
+NOW	's
+TOP	best
+IMP	if
+PRO	you
+POS	can
+EXS	read
+DEF	the
+CON	source
+CON	material
+SUB	before
+EXS	seeing
+DIS	a
+CON	movie
+NIL	.

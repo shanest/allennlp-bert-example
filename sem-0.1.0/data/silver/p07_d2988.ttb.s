@@ -1,0 +1,12 @@
+DIS	A
+EXS	witty
+CON	man
+NOW	is
+XCL	only
+AND	worth
+DIS	something
+IMP	if
+PRO	he
+NOW	has
+CON	character
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+ENS	says
+SUB	that
+PER	Mary
+NEC	definitely
+FUT	wo
+NOT	n't
+EXS	accept
+DEF	the
+CON	job
+NIL	.

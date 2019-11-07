@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+DEF	the
+XCL	only
+QUC	one
+AND	who
+ENS	knows
+SUB	where
+PER	Tom
+NOW	is
+NIL	.

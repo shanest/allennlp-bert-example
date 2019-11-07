@@ -1,0 +1,13 @@
+REL	In
+CON	spite
+AND	of
+HAS	their
+IST	various
+CON	differences
+EQU	,
+PER	Joan
+AND	and
+PER	Ann
+NOW	are
+CON	friends
+NIL	.

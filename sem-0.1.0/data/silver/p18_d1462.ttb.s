@@ -1,0 +1,12 @@
+HAS	Their
+CON	faces
+EPS	looked
+IST	inhuman
+NIL	,
+EXS	covered
+REL	with
+CON	scarlet
+AND	and
+COL	black
+CON	paint
+NIL	.

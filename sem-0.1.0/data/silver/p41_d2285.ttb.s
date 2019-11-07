@@ -1,0 +1,9 @@
+PER	Tom
+NOT	never
+ENS	seems
+SUB	to
+EXS	know
+QUE	what
+SUB	to
+EXS	say
+NIL	.

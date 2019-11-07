@@ -1,0 +1,11 @@
+DEF	The
+IST	new
+CON	nation
+NOW	is
+REL	under
+DEF	the
+IST	economic
+CON	influence
+AND	of
+GPE	Japan
+NIL	.

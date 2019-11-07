@@ -1,0 +1,12 @@
+PRO	You
+NOW	're
+IST	just
+EXS	going
+SUB	to
+EXS	have
+SUB	to
+EXS	get
+EXS	used
+REL	to
+PRO	it
+NIL	.

@@ -1,0 +1,10 @@
+PER	John
+ENS	comes
+REL	from
+GEO	Florida
+AND	and
+HAS	his
+CON	wife
+REL	from
+GEO	California
+NIL	.

@@ -1,0 +1,13 @@
+AND	As
+AND	of
+NOW	today
+NIL	,
+PRO	we
+NOW	have
+NOT	n't
+EXS	had
+DIS	an
+CON	answer
+REL	from
+PRO	him
+NIL	.

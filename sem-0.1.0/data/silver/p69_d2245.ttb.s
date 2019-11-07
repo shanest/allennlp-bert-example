@@ -1,0 +1,12 @@
+PRO	I
+EPS	wrote
+IST	down
+HAS	his
+CON	name
+COO	so
+PRO	I
+FUT	would
+NOT	n't
+EXS	forget
+PRO	it
+NIL	.

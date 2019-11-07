@@ -1,0 +1,10 @@
+PRO	I
+EPS	bought
+DIS	a
+CON	pen
+NIL	,
+BUT	but
+PRO	I
+EPS	lost
+PRO	it
+NIL	.

@@ -1,0 +1,17 @@
+PER	Tom
+NOW	is
+EXS	sad
+SUB	because
+PRO	he
+NOW	is
+IST	often
+EXS	separated
+REL	from
+PER	Mary
+REL	in
+GPO	German
+CON	sentences
+REL	by
+DIS	a
+CON	comma
+NIL	.

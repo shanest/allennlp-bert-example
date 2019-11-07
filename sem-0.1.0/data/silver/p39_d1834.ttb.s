@@ -1,0 +1,11 @@
+PER	Yumi
+EPS	got
+IST	up
+IST	early
+SUB	to
+EXS	listen
+REL	to
+DEF	the
+GPO	English
+CON	program
+NIL	.

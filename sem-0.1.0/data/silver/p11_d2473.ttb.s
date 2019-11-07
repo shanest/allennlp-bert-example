@@ -1,0 +1,13 @@
+DEF	The
+CON	populations
+AND	of
+GPE	China
+AND	and
+GPE	India
+IST	dwarf
+DST	those
+AND	of
+AND	every
+ALT	other
+CON	nation
+NIL	.

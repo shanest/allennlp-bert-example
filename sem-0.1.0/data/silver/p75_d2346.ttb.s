@@ -1,0 +1,10 @@
+QUE	How
+IST	long
+NOW	have
+PRO	you
+PFT	been
+EXS	living
+REL	on
+PRX	this
+CON	island
+QUE	?

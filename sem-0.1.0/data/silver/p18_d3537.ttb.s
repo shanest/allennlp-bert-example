@@ -1,0 +1,15 @@
+DEF	The
+CON	key
+SUB	to
+EXS	raising
+AND	every
+CON	soldier
+REL	into
+DIS	a
+IST	great
+CON	warrior
+NOW	is
+REL	in
+EXG	strengthening
+CON	training
+NIL	.

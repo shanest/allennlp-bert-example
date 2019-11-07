@@ -1,0 +1,10 @@
+PER	Tom
+ENS	thinks
+SUB	that
+CON	school
+NOW	is
+DIS	a
+CON	waste
+AND	of
+CON	time
+NIL	.

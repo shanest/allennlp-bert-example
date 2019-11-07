@@ -1,0 +1,14 @@
+PRO	We
+POS	could
+EXS	see
+QUE	what
+PRO	we
+EPS	thought
+PST	was
+DIS	a
+CON	pirate
+CON	ship
+REL	in
+DEF	the
+CON	distance
+NIL	.

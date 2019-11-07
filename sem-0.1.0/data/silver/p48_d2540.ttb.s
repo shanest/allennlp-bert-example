@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PRX	this
+CON	flight
+NOW	is
+IST	full
+NIL	.

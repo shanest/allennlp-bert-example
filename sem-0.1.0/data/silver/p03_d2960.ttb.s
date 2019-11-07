@@ -1,0 +1,14 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PER	Tom
+NOW	is
+REL	in
+DEF	the
+CON	mood
+SUB	to
+EXS	work
+IST	right
+NOW	now
+NIL	.

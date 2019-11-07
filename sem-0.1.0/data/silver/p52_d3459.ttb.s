@@ -1,0 +1,17 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	get
+REF	myself
+DIS	something
+SUB	to
+EXS	drink
+NIL	.
+NOW	Do
+PRO	you
+ENS	want
+DIS	something
+NIL	,
+IST	too
+QUE	?

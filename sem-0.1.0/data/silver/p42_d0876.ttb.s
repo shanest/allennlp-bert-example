@@ -1,0 +1,14 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	suppose
+PRO	it
+NOW	's
+UNK	possible
+SUB	to
+EXS	read
+DIS	a
+CON	book
+REL	by
+GEO	moonlight
+NIL	.

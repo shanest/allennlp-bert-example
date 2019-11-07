@@ -1,0 +1,13 @@
+PRO	It
+NOW	makes
+PRO	me
+EXS	sad
+SUB	that
+PRO	you
+NOW	're
+EXS	going
+SUB	to
+EXS	leave
+PRX	this
+CON	city
+NIL	.

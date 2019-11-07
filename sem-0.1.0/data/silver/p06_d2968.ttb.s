@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+DIS	a
+IST	good
+CON	chance
+AND	of
+EXS	getting
+EXS	elected
+NIL	.

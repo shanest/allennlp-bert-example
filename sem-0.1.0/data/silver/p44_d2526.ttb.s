@@ -1,0 +1,13 @@
+PER	Tom
+NOW	is
+EXS	making
+DIS	a
+CON	list
+AND	of
+CON	things
+AND	that
+ENS	need
+SUB	to
+EXS	be
+EXS	done
+NIL	.

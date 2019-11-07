@@ -1,0 +1,10 @@
+PRO	I
+NOW	hope
+PRO	you
+EXS	find
+QUE	what
+PRO	you
+NOW	're
+EXS	looking
+REL	for
+NIL	.

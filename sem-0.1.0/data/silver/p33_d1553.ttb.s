@@ -1,0 +1,11 @@
+AND	Just
+NOW	remember
+PRO	I
+EPS	dropped
+AND	everything
+SUB	to
+EXS	be
+PRX	here
+REL	for
+PRO	you
+NIL	.

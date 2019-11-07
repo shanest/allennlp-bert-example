@@ -1,0 +1,13 @@
+REL	In
+HAS	my
+CON	dream
+NIL	,
+PRO	I
+EPS	saw
+PRO	you
+EXS	falling
+REL	from
+DIS	a
+IST	tall
+CON	building
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+EPS	ignored
+DEF	the
+CON	speed
+CON	limit
+AND	and
+EPS	drove
+INT	very
+IST	fast
+NIL	.

@@ -1,0 +1,12 @@
+DEF	The
+CON	Sioux
+PST	had
+EXT	signed
+DIS	a
+CON	treaty
+REL	with
+DEF	the
+CON	government
+REL	in
+YOC	1868
+NIL	.

@@ -1,0 +1,9 @@
+NIL	There
+PST	were
+QUC	three
+CON	women
+EXG	standing
+REL	at
+DEF	the
+CON	bar
+NIL	.

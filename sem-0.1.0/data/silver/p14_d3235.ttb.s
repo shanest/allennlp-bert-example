@@ -1,0 +1,17 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	have
+AND	any
+CON	plans
+REL	for
+FUT	tomorrow
+NIL	.
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	take
+PRO	it
+EXS	easy
+NIL	.

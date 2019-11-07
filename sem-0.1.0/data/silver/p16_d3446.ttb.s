@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	worthwhile
+SUB	to
+EXS	have
+DIS	a
+EXS	try
+REL	at
+PRO	it
+NIL	.

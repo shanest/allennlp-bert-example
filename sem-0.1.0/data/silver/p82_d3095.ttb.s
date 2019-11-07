@@ -1,0 +1,11 @@
+PRO	You
+NOW	are
+EXS	supposed
+REL	to
+CON	hand
+REL	in
+HAS	your
+CON	homework
+REL	by
+DOW	Friday
+NIL	.

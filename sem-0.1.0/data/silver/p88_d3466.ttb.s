@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+SUB	to
+EXS	call
+PRO	you
+AND	so
+IST	late
+REL	at
+CON	night
+NIL	.

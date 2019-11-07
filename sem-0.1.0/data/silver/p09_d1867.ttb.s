@@ -1,0 +1,10 @@
+PER	Tom
+ENS	's
+SUB	so
+EXS	lucky
+SUB	to
+EXS	have
+PRO	you
+EQU	,
+PER	Mary
+NIL	!

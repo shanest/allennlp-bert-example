@@ -1,0 +1,10 @@
+HAS	My
+MOR	older
+CON	brother
+EPS	made
+AND	all
+DEF	the
+CON	preparations
+REL	for
+PRO	us
+NIL	.

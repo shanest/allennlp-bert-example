@@ -1,0 +1,13 @@
+PER	Tom
+IST	never
+ENS	admits
+PRO	he
+NOW	's
+EXS	wrong
+AND	even
+SUB	when
+PRO	he
+ENS	knows
+PRO	he
+NOW	is
+NIL	.

@@ -1,0 +1,9 @@
+NOW	Does
+DIS	someone
+IST	here
+EXS	know
+QUE	how
+SUB	to
+EXS	do
+PRX	this
+QUE	?

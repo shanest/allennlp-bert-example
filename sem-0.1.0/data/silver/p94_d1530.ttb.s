@@ -1,0 +1,9 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	go
+REL	to
+GPE	Hawaii
+AND	next
+CON	spring
+NIL	.

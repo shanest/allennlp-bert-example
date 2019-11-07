@@ -1,0 +1,11 @@
+PRO	I
+FUT	will
+EXS	go
+IST	out
+SUB	when
+PRO	I
+NOW	have
+EXT	finished
+PRX	this
+CON	work
+NIL	.

@@ -1,0 +1,14 @@
+DIS	Some
+NOW	say
+SUB	that
+CON	speech
+NOW	is
+IST	worth
+CON	silver
+NIL	,
+COO	but
+CON	silence
+NOW	is
+IST	worth
+CON	gold
+NIL	.

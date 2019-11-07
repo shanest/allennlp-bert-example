@@ -1,0 +1,17 @@
+NIL	"
+QUE	Who
+ENS	goes
+IST	there
+QUE	?
+EXS	Stop
+DIS	or
+PRO	I
+FUT	'll
+EXS	shoot
+NIL	!
+NIL	"
+NIL	,
+EPS	shouted
+DEF	the
+CON	guard
+NIL	.

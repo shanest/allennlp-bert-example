@@ -1,0 +1,12 @@
+PRO	She
+FUT	will
+EXT	have
+EXS	been
+REL	in
+CON	hospital
+REL	for
+DIS	a
+CON	month
+AND	next
+DOW	Monday
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+CON	fence
+FUT	will
+EXS	be
+EXS	painted
+REL	by
+PER	Tom
+FUT	tomorrow
+NIL	.

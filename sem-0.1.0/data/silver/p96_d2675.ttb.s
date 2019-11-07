@@ -1,0 +1,10 @@
+PRO	I
+EPS	bought
+QUC	forty
+UOM	dollars
+NIL	'
+AND	worth
+AND	of
+CON	gasoline
+NOW	today
+NIL	.

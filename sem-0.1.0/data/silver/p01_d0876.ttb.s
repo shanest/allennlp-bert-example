@@ -1,0 +1,13 @@
+CON	Trying
+REL	on
+DEF	the
+CON	suit
+NIL	,
+PER	Dima
+EPS	found
+PRO	it
+NIL	to
+EXS	be
+INT	too
+IST	big
+NIL	.

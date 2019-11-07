@@ -1,0 +1,10 @@
+PRO	I
+NOW	doubt
+SUB	that
+PER	Tom
+ENS	knows
+PER	Mary
+HAS	's
+CON	phone
+CON	number
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOT	never
+NOW	miss
+DEF	the
+CON	opportunity
+SUB	to
+EXS	eat
+GPO	Italian
+CON	food
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+CON	capital
+CON	city
+AND	of
+DEF	the
+GEO	Netherlands
+NOW	is
+GPE	Amsterdam
+NIL	.

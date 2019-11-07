@@ -1,0 +1,10 @@
+REL	On
+DEF	the
+ALT	other
+CON	hand
+NIL	,
+NIL	there
+NOW	are
+DIS	some
+CON	disadvantages
+NIL	.

@@ -1,0 +1,10 @@
+PRO	We
+NOW	are
+IST	still
+EXS	hoping
+SUB	that
+PER	Tom
+FUT	will
+EXS	get
+COM	better
+NIL	.

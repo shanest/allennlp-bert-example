@@ -1,0 +1,9 @@
+SUB	While
+REL	in
+GPE	England
+PRO	I
+IST	often
+EPS	consulted
+DEF	the
+CON	guidebook
+NIL	.

@@ -1,0 +1,16 @@
+NOT	No
+IST	sooner
+NOW	is
+QUC	one
+CON	lie
+AND	out
+AND	of
+HAS	your
+CON	mouth
+AND	than
+PRO	you
+NOW	're
+EXS	telling
+IST	yet
+ALT	another
+NIL	.

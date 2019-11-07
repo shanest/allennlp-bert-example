@@ -1,0 +1,12 @@
+PRO	I
+POS	could
+NOT	n't
+REL	in
+HAS	my
+TOP	wildest
+CON	dreams
+NOW	imagine
+IST	myself
+EXG	wearing
+CON	fur
+NIL	.

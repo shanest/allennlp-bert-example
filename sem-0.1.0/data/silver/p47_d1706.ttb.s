@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	asked
+PRO	you
+IST	repeatedly
+NOT	not
+SUB	to
+EXS	do
+DST	that
+NIL	.

@@ -1,0 +1,9 @@
+NOW	Do
+NOT	n't
+PRO	you
+EXS	hear
+QUE	what
+PRO	I
+NOW	'm
+EXG	saying
+QUE	?

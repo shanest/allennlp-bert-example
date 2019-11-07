@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+EXS	used
+REL	to
+DST	that
+AND	,
+NOW	are
+NOT	n't
+PRO	you
+QUE	?

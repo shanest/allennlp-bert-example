@@ -1,0 +1,12 @@
+PER	Tom
+EPS	wondered
+IMP	if
+PRO	he
+PST	was
+POS	perhaps
+AND	only
+PER	Mary
+HAS	's
+IST	second
+CON	choice
+NIL	.

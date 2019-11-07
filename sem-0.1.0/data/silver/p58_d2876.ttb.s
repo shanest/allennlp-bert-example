@@ -1,0 +1,12 @@
+PRO	He
+EPS	told
+DEF	the
+CON	truth
+NIL	,
+IST	otherwise
+PRO	he
+FUT	would
+EXT	have
+PFT	been
+EXS	punished
+NIL	.

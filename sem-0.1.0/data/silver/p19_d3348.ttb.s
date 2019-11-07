@@ -1,0 +1,10 @@
+PRO	I
+IST	always
+EPS	thought
+PER	Tom
+AND	and
+PER	Mary
+FUT	would
+EXS	get
+EXS	married
+NIL	.

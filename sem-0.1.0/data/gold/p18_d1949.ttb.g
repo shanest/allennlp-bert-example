@@ -1,0 +1,11 @@
+PRO	I
+EPS	sat
+REL	behind
+DIS	a
+INT	very
+SST	tall
+CON	man
+REL	in
+DEF	the
+CON	theater
+NIL	.

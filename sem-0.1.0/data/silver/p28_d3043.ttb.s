@@ -1,0 +1,14 @@
+PRO	I
+ENS	want
+DIS	some
+CON	milk
+NIL	,
+COO	but
+UNK	there
+NOW	is
+NOT	n't
+DIS	any
+REL	in
+DEF	the
+CON	refrigerator
+NIL	.

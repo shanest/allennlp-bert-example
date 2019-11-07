@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+INT	too
+EXS	tired
+SUB	to
+EXS	concentrate
+REL	on
+PRX	this
+CON	problem
+AND	right
+NOW	now
+NIL	.

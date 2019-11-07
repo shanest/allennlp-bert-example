@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	tired
+AND	of
+EXS	making
+DEF	the
+TOP	best
+AND	of
+CON	things
+NIL	.

@@ -1,0 +1,15 @@
+DEF	The
+CON	girl
+AND	who
+PRO	I
+EPS	thought
+PST	was
+DIS	a
+ROL	singer
+EPS	proved
+SUB	to
+EXS	be
+DIS	a
+ALT	different
+CON	person
+NIL	.

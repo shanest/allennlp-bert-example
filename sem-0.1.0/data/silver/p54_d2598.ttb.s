@@ -1,0 +1,12 @@
+QUE	What
+PRO	he
+EPS	said
+AND	about
+CON	girls
+NOW	holds
+EXS	true
+AND	of
+CON	boys
+NIL	,
+ALT	too
+NIL	.

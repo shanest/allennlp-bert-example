@@ -1,0 +1,10 @@
+PRO	You
+POS	might
+EXT	have
+EXS	told
+PRO	me
+AND	about
+PRO	it
+IST	long
+PST	ago
+NIL	.

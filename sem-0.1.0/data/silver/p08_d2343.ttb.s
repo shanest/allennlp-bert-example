@@ -1,0 +1,16 @@
+DEF	The
+CON	game
+FUT	would
+NOT	not
+EXT	have
+PFT	been
+EXS	called
+REL	off
+IMP	if
+PRO	it
+PST	had
+NOT	n't
+EXS	rained
+AND	so
+IST	heavily
+NIL	.

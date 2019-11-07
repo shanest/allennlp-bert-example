@@ -1,0 +1,9 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	go
+DIS	somewhere
+AND	else
+NOW	now
+NIL	.

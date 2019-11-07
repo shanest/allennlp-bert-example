@@ -1,0 +1,13 @@
+PER	Tom
+NOW	has
+NOT	n't
+PFT	been
+IST	able
+SUB	to
+EXS	eat
+IST	solid
+CON	food
+REL	since
+HAS	his
+CON	accident
+NIL	.

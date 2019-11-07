@@ -1,0 +1,10 @@
+PRX	This
+NOW	has
+IST	already
+PFT	been
+EXS	happening
+REL	for
+DIS	a
+IST	few
+CON	months
+NIL	.

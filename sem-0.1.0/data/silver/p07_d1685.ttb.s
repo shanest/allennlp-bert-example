@@ -1,0 +1,9 @@
+AND	Why
+PST	did
+PRO	they
+EPS	put
+PER	Tom
+REL	in
+DIS	a
+CON	nuthouse
+QUE	?

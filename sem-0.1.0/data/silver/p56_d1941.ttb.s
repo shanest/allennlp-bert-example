@@ -1,0 +1,9 @@
+PRO	He
+EPS	committed
+CON	suicide
+REL	by
+EXS	jumping
+REL	off
+DIS	a
+CON	bridge
+NIL	.

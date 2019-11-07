@@ -1,0 +1,11 @@
+PRO	We
+NOW	do
+NOT	n't
+EXS	know
+SUB	when
+PRX	this
+CON	world
+EPS	came
+REL	into
+EXS	being
+NIL	.

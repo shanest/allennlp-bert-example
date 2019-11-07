@@ -1,0 +1,10 @@
+ORG	Boys
+ENS	tend
+SUB	to
+EXS	look
+IST	down
+REL	on
+HAS	their
+MOR	younger
+ROL	sisters
+NIL	.

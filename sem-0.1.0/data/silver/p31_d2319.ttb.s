@@ -1,0 +1,13 @@
+REL	With
+AND	all
+IST	due
+CON	respect
+NIL	,
+PRO	I
+NOW	think
+PRO	they
+AND	both
+PST	had
+EXS	valid
+CON	points
+NIL	.

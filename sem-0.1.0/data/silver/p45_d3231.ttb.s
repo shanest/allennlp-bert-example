@@ -1,0 +1,14 @@
+CON	Supposedly
+UNK	there
+NOW	are
+CON	people
+REL	in
+GPE	Japan
+AND	who
+EXS	keep
+DIS	a
+CON	penguin
+AND	as
+DIS	a
+CON	pet
+NIL	.

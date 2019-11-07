@@ -1,0 +1,11 @@
+DEF	The
+CON	office
+NOW	has
+PFT	been
+EXS	transferred
+IST	up
+REL	to
+DEF	the
+IST	sixth
+CON	floor
+NIL	.

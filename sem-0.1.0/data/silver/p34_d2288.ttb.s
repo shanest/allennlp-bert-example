@@ -1,0 +1,12 @@
+QUE	What
+HAS	's
+DEF	the
+INT	most
+IST	convenient
+CON	way
+SUB	to
+EXS	get
+REL	to
+GPE	Tokyo
+GEO	Station
+QUE	?

@@ -1,0 +1,12 @@
+NOW	Now
+PRO	it
+HAS	's
+INT	too
+IST	late
+NIL	.
+DEF	The
+CON	train
+NOW	has
+IST	already
+EXS	left
+NIL	.

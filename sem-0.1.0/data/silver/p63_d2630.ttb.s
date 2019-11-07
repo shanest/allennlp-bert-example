@@ -1,0 +1,11 @@
+DEF	The
+CON	police
+NOW	have
+EXT	found
+NOT	no
+CON	trace
+AND	of
+DEF	the
+CON	suspect
+ALT	yet
+NIL	.

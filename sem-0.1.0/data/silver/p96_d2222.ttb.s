@@ -1,0 +1,10 @@
+PRO	He
+EPS	gave
+HAS	his
+CON	daughter
+AND	quite
+DIS	a
+CON	lot
+AND	of
+CON	money
+NIL	.

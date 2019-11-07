@@ -1,0 +1,9 @@
+PRO	We
+EPS	found
+PRO	it
+IST	difficult
+SUB	to
+EXS	enter
+DEF	the
+CON	disco
+NIL	.

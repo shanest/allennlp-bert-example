@@ -1,0 +1,15 @@
+PRO	It
+EPS	took
+DIS	a
+IST	little
+CON	cajoling
+COO	but
+PRO	I
+IST	finally
+EPS	got
+PRO	her
+SUB	to
+EXS	eat
+HAS	her
+CON	broccoli
+NIL	.

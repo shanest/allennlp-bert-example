@@ -1,0 +1,15 @@
+PRO	I
+ENS	know
+PRO	him
+REL	by
+CON	sight
+NIL	,
+BUT	but
+PRO	I
+NOW	have
+NOT	never
+IST	actually
+EXS	spoken
+REL	to
+PRO	him
+NIL	.

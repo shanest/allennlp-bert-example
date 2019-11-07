@@ -1,0 +1,13 @@
+SUB	When
+DEF	the
+CON	light
+NOW	is
+COL	green
+COO	,
+CON	cars
+CON	turning
+NEC	must
+EXS	yield
+REL	to
+CON	pedestrians
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	living
+REL	by
+REF	himself
+REL	since
+PER	Mary
+EPS	died
+NIL	.

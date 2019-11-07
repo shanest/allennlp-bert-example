@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	regrettable
+SUB	that
+PRO	you
+PST	did
+NOT	not
+EXS	start
+AND	earlier
+NIL	.

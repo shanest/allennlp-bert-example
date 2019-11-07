@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+SUB	that
+PER	Mary
+NOW	is
+DIS	a
+GPO	Canadian
+NIL	.

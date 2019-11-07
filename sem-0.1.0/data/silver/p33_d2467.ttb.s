@@ -1,0 +1,10 @@
+DEF	The
+CON	team
+EPS	won
+DEF	the
+CON	championship
+REL	for
+QUC	five
+UOM	years
+EXS	running
+NIL	.

@@ -1,0 +1,9 @@
+PRO	You
+NOW	're
+IST	too
+EXS	clever
+REL	for
+HAS	your
+IST	own
+IST	good
+NIL	.

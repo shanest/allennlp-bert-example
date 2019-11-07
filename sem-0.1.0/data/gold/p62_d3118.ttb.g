@@ -1,0 +1,11 @@
+DEF	The
+CON	money
+PRO	I
+NOW	have
+EXT	given
+PRO	him
+ENS	amounts
+REL	to
+UOM	$
+QUC	10,000
+NIL	.

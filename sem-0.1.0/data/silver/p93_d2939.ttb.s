@@ -1,0 +1,13 @@
+PRO	I
+NOW	've
+EXS	made
+IST	up
+HAS	my
+CON	mind
+SUB	to
+EXS	study
+IST	harder
+REL	from
+NOW	now
+REL	on
+NIL	.

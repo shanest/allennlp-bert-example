@@ -1,0 +1,14 @@
+PRO	I
+EPS	saw
+DIS	a
+CON	girl
+ENS	tumble
+COO	and
+EPS	ran
+REL	to
+HAS	her
+REL	in
+CON	spite
+AND	of
+EMP	myself
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+EPS	drank
+DEF	the
+CON	whisky
+AND	as
+IMP	if
+PRO	it
+PST	were
+CON	water
+NIL	.

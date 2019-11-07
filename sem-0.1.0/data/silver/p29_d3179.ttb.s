@@ -1,0 +1,13 @@
+PER	Tom
+EPS	reached
+REL	into
+HAS	his
+CON	desk
+CON	drawer
+COO	and
+EPS	took
+IST	out
+DIS	a
+CON	medicine
+CON	bottle
+NIL	.

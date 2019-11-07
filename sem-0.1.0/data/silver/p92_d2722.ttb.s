@@ -1,0 +1,12 @@
+PRO	I
+EPS	took
+PRO	it
+REL	for
+EXS	granted
+SUB	that
+PRO	you
+PST	were
+REL	on
+HAS	our
+CON	side
+NIL	.

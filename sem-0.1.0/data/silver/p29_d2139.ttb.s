@@ -1,0 +1,11 @@
+GPE	Germany
+NOW	is
+EXS	known
+AND	as
+DIS	a
+CON	land
+AND	of
+ROL	poets
+AND	and
+CON	philosophers
+NIL	.

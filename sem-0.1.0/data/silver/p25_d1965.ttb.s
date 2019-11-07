@@ -1,0 +1,9 @@
+PRO	She
+NOW	does
+NOT	n't
+EXS	have
+AND	any
+CON	brothers
+DIS	or
+ROL	sisters
+NIL	.

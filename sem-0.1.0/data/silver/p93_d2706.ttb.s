@@ -1,0 +1,9 @@
+NOW	Is
+UNK	there
+DIS	a
+CON	chance
+PRX	this
+FUT	will
+EXS	happen
+ALT	again
+QUE	?

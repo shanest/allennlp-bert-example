@@ -1,0 +1,16 @@
+PRO	I
+NEC	definitely
+EXS	want
+SUB	to
+EXS	get
+EXS	acquainted
+REL	with
+PER	Mary
+NIL	.
+PRO	I
+NOW	think
+PRO	she
+NOW	is
+INT	very
+EXS	likeable
+NIL	.

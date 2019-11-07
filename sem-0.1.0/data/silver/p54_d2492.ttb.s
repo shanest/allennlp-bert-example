@@ -1,0 +1,13 @@
+PER	Tom
+EPS	used
+DEF	the
+IST	key
+PER	Mary
+PST	had
+EXS	given
+PRO	him
+SUB	to
+EXS	open
+DEF	the
+CON	door
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+SUB	that
+PER	Tom
+NOW	has
+EXS	made
+DIS	a
+IST	good
+CON	decision
+NIL	.

@@ -1,0 +1,14 @@
+POS	Perhaps
+PRO	we
+NEC	should
+CON	advertise
+REL	in
+DEF	the
+IST	local
+CON	newspaper
+REL	for
+DIS	a
+IST	reliable
+CON	house
+ROL	painter
+NIL	.

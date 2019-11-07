@@ -1,0 +1,12 @@
+QUE	What
+REL	on
+CON	earth
+NOW	are
+PRO	you
+EXG	doing
+REL	in
+AND	such
+DIS	a
+IST	lonely
+CON	place
+QUE	?

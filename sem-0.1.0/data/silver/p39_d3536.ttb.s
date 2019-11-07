@@ -1,0 +1,13 @@
+PRO	It
+ENS	has
+SUB	to
+EXS	be
+PER	Tom
+AND	who
+ENS	tells
+PER	Mary
+PRO	she
+POS	ca
+NOT	n't
+EXS	go
+NIL	.

@@ -1,0 +1,13 @@
+POS	Maybe
+PRO	I
+FUT	'll
+IST	just
+EXS	give
+IST	up
+IST	soon
+AND	and
+EXS	take
+DIS	a
+CON	nap
+IST	instead
+NIL	.

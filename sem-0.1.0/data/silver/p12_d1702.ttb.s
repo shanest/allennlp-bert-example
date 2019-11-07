@@ -1,0 +1,9 @@
+PRO	He
+EPS	went
+IST	mad
+SUB	when
+PRO	he
+EPS	heard
+DEF	the
+CON	story
+NIL	.

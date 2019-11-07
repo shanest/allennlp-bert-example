@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	seen
+AND	so
+QUV	many
+CON	trees
+REL	in
+HAS	my
+CON	life
+NIL	.

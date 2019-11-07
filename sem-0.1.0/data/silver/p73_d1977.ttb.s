@@ -1,0 +1,10 @@
+PRO	I
+FUT	would
+NOT	never
+EXS	feed
+HAS	my
+CON	dog
+IST	commercial
+CON	dog
+CON	food
+NIL	.

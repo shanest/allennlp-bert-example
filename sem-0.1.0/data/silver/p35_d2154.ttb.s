@@ -1,0 +1,11 @@
+PRO	I
+EPS	began
+SUB	to
+EXS	understand
+DEF	the
+CON	reason
+QUE	why
+PRO	he
+EPS	hated
+PRO	me
+NIL	.

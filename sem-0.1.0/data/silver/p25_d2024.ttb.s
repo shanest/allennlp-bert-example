@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+IST	usually
+NOW	take
+PRO	it
+EXS	easy
+REL	on
+DOW	Sundays
+NIL	.

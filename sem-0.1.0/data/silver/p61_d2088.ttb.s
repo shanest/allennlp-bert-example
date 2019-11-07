@@ -1,0 +1,13 @@
+DEF	The
+CON	engineers
+EPS	blew
+IST	up
+DEF	the
+CON	bridge
+SUB	because
+PRO	it
+PST	was
+IST	about
+REL	to
+CON	collapse
+NIL	.

@@ -1,0 +1,10 @@
+EXS	Running
+AND	like
+DEF	the
+CON	wind
+NIL	,
+PER	Jake
+EPS	ran
+QUC	five
+UOM	miles
+NIL	.

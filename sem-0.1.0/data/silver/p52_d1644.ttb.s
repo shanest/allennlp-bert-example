@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+DEF	the
+CON	physician
+PRO	I
+EPS	talked
+AND	about
+PST	yesterday
+NIL	.

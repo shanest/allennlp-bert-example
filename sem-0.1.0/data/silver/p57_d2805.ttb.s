@@ -1,0 +1,15 @@
+PRO	It
+NOW	is
+IST	strange
+SUB	that
+PRO	he
+NEC	should
+EXS	be
+EXS	put
+IST	up
+REL	at
+AND	such
+DIS	a
+IST	cheap
+CON	hotel
+NIL	.

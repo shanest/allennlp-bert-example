@@ -1,0 +1,10 @@
+NOW	Does
+PRX	this
+CON	letter
+NEC	have
+SUB	to
+EXS	be
+EXS	written
+REL	in
+GPO	English
+QUE	?

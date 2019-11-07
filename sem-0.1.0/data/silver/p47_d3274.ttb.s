@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	calling
+HAS	her
+BUT	but
+PRO	she
+NOW	is
+NOT	n't
+EXS	coming
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+IST	Soviet
+CON	troops
+NOW	have
+EPS	started
+DEF	the
+CON	withdrawal
+REL	from
+GEO	Afghanistan
+NIL	.

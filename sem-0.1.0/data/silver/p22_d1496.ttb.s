@@ -1,0 +1,11 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	drive
+NOW	now
+NIL	.
+PRO	You
+NOW	've
+PFT	been
+EXS	drinking
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+EPS	saw
+PER	Tom
+AND	last
+DOW	Monday
+EXS	walking
+REL	in
+DEF	the
+CON	park
+REL	with
+PER	Mary
+NIL	.

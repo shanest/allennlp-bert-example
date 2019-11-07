@@ -1,0 +1,10 @@
+PRO	He
+PST	was
+EXG	holding
+DIS	a
+IST	large
+CON	box
+REL	in
+HAS	his
+CON	arms
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+ENS	think
+PRO	you
+NOW	're
+EXG	asking
+INT	too
+QUV	much
+REL	for
+PRX	this
+CON	hat
+NIL	.

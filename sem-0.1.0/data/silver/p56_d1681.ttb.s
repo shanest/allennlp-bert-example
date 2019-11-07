@@ -1,0 +1,14 @@
+IMP	If
+PRO	I
+PST	'd
+EXS	taken
+SUB	that
+CON	plane
+NIL	,
+PRO	I
+FUT	would
+NOT	n't
+EXS	be
+EXS	alive
+NOW	now
+NIL	.

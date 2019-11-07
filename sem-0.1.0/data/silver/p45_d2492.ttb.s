@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+HAS	my
+CON	friend
+NIL	.
+NOW	Do
+PRO	you
+CON	guys
+EXS	know
+PRO	him
+QUE	?

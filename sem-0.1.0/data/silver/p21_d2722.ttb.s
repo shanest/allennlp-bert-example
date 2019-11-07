@@ -1,0 +1,12 @@
+PRO	You
+NOW	are
+IST	still
+EXG	asking
+REF	yourself
+QUE	what
+DEF	the
+CON	meaning
+AND	of
+CON	life
+NOW	is
+QUE	?

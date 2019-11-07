@@ -1,0 +1,14 @@
+PER	Tom
+NOW	is
+UNK	inclined
+NIL	to
+EXS	be
+EXS	moody
+COO	and
+NOW	is
+NOT	not
+EXS	easy
+NIL	to
+EXS	live
+REL	with
+NIL	.

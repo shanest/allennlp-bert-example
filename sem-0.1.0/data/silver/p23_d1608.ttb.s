@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	ask
+REL	for
+PER	Tom
+PER	Jackson
+HAS	's
+CON	autograph
+NIL	.

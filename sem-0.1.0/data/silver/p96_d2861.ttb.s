@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	trying
+SUB	to
+EXS	find
+DEF	the
+CON	person
+AND	who
+PST	did
+PRX	this
+NIL	.

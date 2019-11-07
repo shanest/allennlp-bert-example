@@ -1,0 +1,14 @@
+PRO	I
+EPS	asked
+PER	Tom
+IMP	if
+PRO	he
+PST	was
+EXS	cold
+NIL	,
+BUT	but
+PRO	he
+EPS	shook
+HAS	his
+CON	head
+NIL	.

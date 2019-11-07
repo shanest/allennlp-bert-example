@@ -1,0 +1,16 @@
+AND	According
+REL	to
+PRX	this
+CON	magazine
+NIL	,
+HAS	my
+IST	favorite
+CON	actress
+FUT	will
+EXS	marry
+DIS	a
+CON	jazz
+CON	musician
+AND	next
+CON	spring
+NIL	.

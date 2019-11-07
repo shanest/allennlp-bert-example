@@ -1,0 +1,9 @@
+PRO	She
+NOW	does
+NOT	n't
+EXS	know
+QUE	what
+HAS	's
+EXG	going
+REL	on
+NIL	.

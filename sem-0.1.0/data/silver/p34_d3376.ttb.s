@@ -1,0 +1,10 @@
+PRO	We
+NOW	have
+DIS	a
+INT	20
+UOM	%
+CON	share
+AND	of
+DEF	the
+CON	market
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+EPS	saw
+REL	at
+DIS	a
+CON	glance
+SUB	that
+PRO	he
+PST	was
+DIS	an
+IST	ordinary
+CON	man
+NIL	.

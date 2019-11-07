@@ -1,0 +1,16 @@
+POS	Can
+PRO	you
+EXS	keep
+EXG	standing
+REL	on
+QUC	one
+AND	of
+HAS	your
+CON	legs
+REL	with
+IST	closed
+CON	eyes
+REL	for
+DIS	a
+CON	minute
+QUE	?

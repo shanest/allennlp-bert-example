@@ -1,0 +1,17 @@
+PER	Mary
+HAS	's
+IST	post-operative
+IST	abdominal
+CON	pain
+PST	was
+EXS	caused
+REL	by
+DEF	the
+CON	surgeon
+EXG	leaving
+DIS	a
+IST	surgical
+CON	instrument
+AND	inside
+PRO	her
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	stay
+NIL	,
+BUT	but
+PRO	she
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+NIL	.

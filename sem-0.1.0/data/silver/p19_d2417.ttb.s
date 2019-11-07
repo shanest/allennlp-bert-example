@@ -1,0 +1,11 @@
+HAS	My
+CON	shoes
+NOW	are
+INT	too
+EXS	small
+NIL	.
+PRO	I
+ENS	need
+IST	new
+CON	ones
+NIL	.

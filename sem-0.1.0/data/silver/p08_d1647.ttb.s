@@ -1,0 +1,10 @@
+EXS	Come
+REL	on
+NIL	,
+PER	Tom
+NIL	.
+NOW	Do
+NOT	n't
+EXS	be
+EXS	shy
+NIL	.

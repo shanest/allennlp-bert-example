@@ -1,0 +1,11 @@
+PRO	We
+NOW	are
+EXS	excited
+AND	about
+DEF	the
+CON	move
+REL	to
+DEF	the
+IST	new
+CON	building
+NIL	.

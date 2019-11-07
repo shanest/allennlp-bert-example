@@ -1,0 +1,12 @@
+PRO	We
+FUT	'll
+EXS	be
+IST	able
+SUB	to
+EXS	go
+REL	on
+SUB	when
+PRO	it
+NOW	clears
+IST	up
+NIL	.

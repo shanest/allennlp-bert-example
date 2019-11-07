@@ -1,0 +1,9 @@
+PER	Pat
+NOW	's
+EXG	going
+REL	to
+PER	Jim
+HAS	's
+CON	birthday
+CON	party
+NIL	.

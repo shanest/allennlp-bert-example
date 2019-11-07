@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+NOW	now
+CON	time
+REL	for
+PRO	me
+SUB	to
+EXS	go
+REL	to
+CON	bed
+NIL	.

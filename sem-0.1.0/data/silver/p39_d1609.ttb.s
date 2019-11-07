@@ -1,0 +1,10 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	do
+DST	that
+NIL	.
+PRO	It
+HAS	's
+IST	illegal
+NIL	.

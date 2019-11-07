@@ -1,0 +1,16 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	played
+CON	golf
+NIL	,
+BUT	but
+PRO	I
+NOW	think
+PRO	I
+FUT	'll
+EXS	give
+PRO	it
+DIS	a
+CON	shot
+NIL	.

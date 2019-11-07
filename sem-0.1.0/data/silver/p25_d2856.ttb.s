@@ -1,0 +1,10 @@
+QUE	What
+CON	kind
+AND	of
+CON	music
+FUT	will
+PRO	you
+CON	guys
+EXS	be
+EXS	playing
+QUE	?

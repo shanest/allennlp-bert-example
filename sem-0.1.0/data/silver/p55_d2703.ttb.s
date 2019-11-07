@@ -1,0 +1,15 @@
+PRO	It
+EPS	took
+PRO	him
+DIS	a
+CON	moment
+SUB	to
+EXS	realize
+SUB	where
+PRO	he
+PST	was
+SUB	after
+PRO	he
+EPS	came
+SUB	to
+NIL	.

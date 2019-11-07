@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+IST	right
+NIL	.
+PRO	I
+FUT	'll
+EXS	go
+REL	by
+CON	taxi
+NIL	.

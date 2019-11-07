@@ -1,0 +1,14 @@
+MOR	More
+MOR	than
+INT	70
+UOM	percent
+AND	of
+DEF	the
+CON	inhabitants
+NOW	are
+REL	in
+CON	favor
+AND	of
+DEF	the
+CON	program
+NIL	.

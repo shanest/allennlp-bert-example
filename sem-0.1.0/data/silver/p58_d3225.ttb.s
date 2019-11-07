@@ -1,0 +1,9 @@
+PRO	We
+NOW	do
+NOT	n't
+EXS	need
+SUB	to
+EXS	do
+SUB	that
+NOW	now
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	sure
+PER	Tom
+ENS	knows
+IST	enough
+CON	French
+SUB	to
+EXS	get
+REL	by
+NIL	.

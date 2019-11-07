@@ -1,0 +1,10 @@
+PRO	I
+NOW	hear
+SUB	that
+PER	Tom
+NOW	is
+NOT	n't
+REL	in
+GPE	Boston
+NOW	now
+NIL	.

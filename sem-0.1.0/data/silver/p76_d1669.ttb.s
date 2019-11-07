@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	seen
+PRX	this
+CON	woman
+EXS	sad
+DIS	or
+IST	anxious
+NIL	.

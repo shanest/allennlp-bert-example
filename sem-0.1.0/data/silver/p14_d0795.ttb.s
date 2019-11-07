@@ -1,0 +1,9 @@
+PER	John
+FUT	will
+EXS	make
+DIS	a
+IST	good
+CON	husband
+AND	and
+ROL	father
+NIL	.

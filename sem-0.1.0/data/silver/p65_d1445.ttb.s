@@ -1,0 +1,9 @@
+GPE	Ethiopia
+NOW	is
+EXS	called
+NIL	"
+GEO	Ityop'ia
+NIL	"
+REL	in
+GEO	Amharic
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+CON	fox
+EPS	scampered
+IST	off
+REL	after
+DIS	a
+IST	few
+CON	seconds
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+EPS	hired
+DIS	a
+IST	private
+CON	detective
+SUB	to
+EXS	follow
+PER	Mary
+NIL	.

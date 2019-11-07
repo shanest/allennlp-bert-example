@@ -1,0 +1,9 @@
+HAS	My
+ROL	mother
+EPS	said
+SUB	that
+PRO	she
+PST	was
+AND	all
+CON	right
+NIL	.

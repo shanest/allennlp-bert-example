@@ -1,0 +1,9 @@
+NOT	Except
+REL	for
+DOW	Sundays
+NIL	,
+PRO	he
+ENS	works
+AND	every
+CON	day
+NIL	.

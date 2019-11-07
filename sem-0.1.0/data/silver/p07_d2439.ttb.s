@@ -1,0 +1,10 @@
+PRO	He
+ENS	sees
+REF	himself
+AND	as
+DEF	the
+CON	center
+AND	of
+DEF	the
+CON	universe
+NIL	.

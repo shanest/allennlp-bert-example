@@ -1,0 +1,11 @@
+PRO	It
+NOW	has
+AND	always
+EXS	been
+DIS	a
+CON	pleasure
+SUB	to
+EXS	work
+REL	with
+PRO	you
+NIL	.

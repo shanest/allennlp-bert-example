@@ -1,0 +1,24 @@
+ART	Bountiful
+EPS	departed
+GPE	San Francisco
+DOM	1
+MOY	April
+YOC	1944
+REL	for
+GEO	Honolulu
+NIL	,
+EPS	returned
+AND	later
+AND	that
+CON	month
+NIL	,
+COO	and
+PST	sailed
+QUC	once
+MOR	more
+DOM	1
+MOY	May
+REL	for
+DEF	the
+IST	western
+ORG	Pacific.

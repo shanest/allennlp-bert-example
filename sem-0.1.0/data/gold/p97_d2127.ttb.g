@@ -1,0 +1,9 @@
+DIS	A
+CON	trip
+REL	to
+GPE	Hawaii
+CON	costs
+APX	around
+QUC	200
+UOM	dollars
+NIL	.

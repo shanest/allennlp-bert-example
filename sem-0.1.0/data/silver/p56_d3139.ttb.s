@@ -1,0 +1,10 @@
+PRO	He
+EPS	met
+HAS	his
+CON	end
+REL	in
+DIS	a
+IST	rusty
+CON	bear
+CON	trap
+NIL	.

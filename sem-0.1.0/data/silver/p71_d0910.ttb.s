@@ -1,0 +1,11 @@
+PRO	We
+NOW	have
+NOT	n't
+EXS	seen
+PRO	you
+REL	in
+DEF	the
+IST	past
+QUC	four
+CON	years
+NIL	.

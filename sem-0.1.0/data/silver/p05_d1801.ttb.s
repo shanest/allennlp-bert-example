@@ -1,0 +1,9 @@
+DEF	The
+CON	man
+PST	was
+EXG	sitting
+REL	on
+DIS	a
+IST	fallen
+CON	tree
+NIL	.

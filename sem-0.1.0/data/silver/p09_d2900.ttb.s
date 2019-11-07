@@ -1,0 +1,17 @@
+PRO	I
+PST	was
+IST	just
+EXS	wondering
+QUE	how
+QUV	much
+PRO	it
+FUT	would
+EXS	cost
+SUB	to
+EXS	have
+HAS	my
+CON	car
+EPS	washed
+COO	and
+EPS	waxed
+NIL	.

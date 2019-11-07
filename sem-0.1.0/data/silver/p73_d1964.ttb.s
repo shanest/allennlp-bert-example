@@ -1,0 +1,10 @@
+PRO	It
+FUT	will
+EXS	cost
+INT	about
+QUC	2000
+UOM	yen
+SUB	to
+EXS	repair
+PRO	it
+NIL	.

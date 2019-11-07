@@ -1,0 +1,9 @@
+UNK	There
+PST	were
+QUV	many
+CON	problems
+PRO	we
+NEC	had
+SUB	to
+EXS	solve
+NIL	.

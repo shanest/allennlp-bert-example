@@ -1,0 +1,9 @@
+CON	Earthquakes
+ENS	have
+DEF	the
+CON	potential
+NIL	to
+EXS	generate
+DIS	a
+CON	tsunami
+NIL	.

@@ -1,0 +1,15 @@
+PRO	I
+EPS	drove
+IST	back
+IST	there
+REL	with
+DEF	the
+CON	people
+NIL	,
+AND	over
+DEF	the
+CON	meadow
+REL	into
+DEF	the
+CON	grain
+NIL	.

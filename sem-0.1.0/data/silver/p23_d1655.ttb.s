@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PRO	I
+NOW	'm
+EXS	cut
+IST	out
+REL	for
+CON	city
+CON	life
+NIL	.

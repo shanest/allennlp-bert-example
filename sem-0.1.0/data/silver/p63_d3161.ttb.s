@@ -1,0 +1,10 @@
+QUE	What
+PRO	you
+EPS	said
+NOW	does
+NOT	not
+EXS	apply
+REL	to
+PRX	this
+CON	case
+NIL	.

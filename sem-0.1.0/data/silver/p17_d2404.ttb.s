@@ -1,0 +1,11 @@
+PER	Napoleon
+PST	was
+EXS	exiled
+REL	to
+DEF	the
+CON	island
+AND	of
+GEO	Elba
+REL	in
+YOC	1814
+NIL	.

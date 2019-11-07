@@ -1,0 +1,10 @@
+PRO	I
+EPS	found
+DEF	the
+CON	key
+SUB	that
+PRO	I
+PST	was
+EXG	looking
+REL	for
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+INT	too
+EXS	shy
+SUB	to
+EXS	talk
+REL	to
+CON	girls
+NIL	.

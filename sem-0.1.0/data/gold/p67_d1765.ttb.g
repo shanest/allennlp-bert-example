@@ -1,0 +1,11 @@
+DEF	The
+CON	kite
+EPS	soared
+IST	upwards
+REL	with
+DEF	the
+CON	swiftness
+REL	of
+DIS	a
+CON	bird
+NIL	.

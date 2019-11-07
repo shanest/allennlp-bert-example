@@ -1,0 +1,10 @@
+PRX	This
+CON	room
+NOW	is
+INT	too
+EXS	small
+SUB	to
+EXS	contain
+QUC	50
+CON	men
+NIL	.

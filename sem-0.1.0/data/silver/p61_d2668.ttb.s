@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+NOT	not
+EXS	so
+IST	difficult
+SUB	to
+EXS	appreciate
+IST	good
+CON	music
+NIL	.

@@ -1,0 +1,12 @@
+IMP	If
+DEF	the
+IST	hunted
+NEC	should
+EXS	perish
+NIL	,
+DEF	the
+ROL	hunter
+FUT	would
+NIL	,
+ALT	too
+NIL	.

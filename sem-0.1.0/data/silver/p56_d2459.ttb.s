@@ -1,0 +1,9 @@
+PRO	He
+EPS	raised
+HAS	his
+CON	hat
+SUB	when
+PRO	he
+EPS	saw
+PRO	me
+NIL	.

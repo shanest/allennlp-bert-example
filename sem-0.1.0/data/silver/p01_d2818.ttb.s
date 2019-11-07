@@ -1,0 +1,11 @@
+AND	And
+AND	who
+NOW	is
+PRX	this
+CON	guest
+EXG	standing
+IST	next
+REL	to
+DEF	the
+CON	piano
+QUE	?

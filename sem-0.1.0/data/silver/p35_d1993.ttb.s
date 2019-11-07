@@ -1,0 +1,13 @@
+PER	Tom
+NOW	is
+EXS	convinced
+SUB	that
+HAS	his
+CON	mother
+NOW	does
+NOT	n't
+EXS	want
+SUB	to
+EXS	eat
+NOW	now
+NIL	.

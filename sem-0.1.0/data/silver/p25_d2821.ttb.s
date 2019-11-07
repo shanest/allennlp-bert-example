@@ -1,0 +1,9 @@
+DEF	The
+CON	rat
+EPS	made
+DIS	a
+CON	hole
+REL	in
+DEF	the
+CON	wall
+NIL	.

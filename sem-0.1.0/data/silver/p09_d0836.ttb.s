@@ -1,0 +1,10 @@
+PRO	He
+EPS	wrote
+PRX	this
+CON	book
+REL	at
+DEF	the
+CON	age
+AND	of
+QUC	twenty
+NIL	.

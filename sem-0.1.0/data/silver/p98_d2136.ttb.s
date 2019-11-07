@@ -1,0 +1,10 @@
+PRO	He
+ENS	writes
+REL	to
+HAS	his
+CON	mother
+AND	every
+NOW	now
+AND	and
+IST	then
+NIL	.

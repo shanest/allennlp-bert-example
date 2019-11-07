@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+ENS	agree
+REL	with
+QUE	what
+PER	Tom
+EPS	wrote
+REL	in
+HAS	his
+CON	report
+QUE	?

@@ -1,0 +1,10 @@
+PRO	I
+FUT	would
+NOT	n't
+EXS	wish
+DST	that
+REL	on
+HAS	my
+BOT	worst
+ROL	enemy
+NIL	.

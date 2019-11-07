@@ -1,0 +1,14 @@
+NOT	Never
+EXS	write
+DEF	the
+CON	words
+NIL	"
+CON	bortsch
+NIL	"
+AND	and
+NIL	"
+GRE	shchi
+NIL	"
+REL	in
+GPO	German
+NIL	!

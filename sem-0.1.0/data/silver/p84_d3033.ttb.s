@@ -1,0 +1,12 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	know
+QUE	what
+PRO	you
+ENS	intend
+SUB	to
+EXS	do
+NOW	now
+NIL	.

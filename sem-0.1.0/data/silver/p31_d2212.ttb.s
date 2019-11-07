@@ -1,0 +1,12 @@
+NOW	Does
+AND	anybody
+PRX	here
+ENS	know
+QUE	how
+SUB	to
+EXS	set
+IST	up
+DIS	a
+CON	web
+CON	server
+QUE	?

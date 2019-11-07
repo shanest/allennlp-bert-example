@@ -1,0 +1,10 @@
+PRO	He
+NOW	takes
+CON	pleasure
+REL	from
+IST	long
+ENS	walks
+REL	in
+DEF	the
+CON	woods
+NIL	.

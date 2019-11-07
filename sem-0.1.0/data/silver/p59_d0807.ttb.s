@@ -1,0 +1,14 @@
+REL	In
+YOC	1972
+NIL	,
+ROL	Dr.
+PER	Francine
+PER	Patterson
+EPS	started
+SUB	to
+EXS	teach
+CON	sign
+CON	language
+REL	to
+PER	Koko
+NIL	.

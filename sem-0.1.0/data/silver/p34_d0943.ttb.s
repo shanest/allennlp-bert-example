@@ -1,0 +1,15 @@
+PER	Tom
+EPS	tried
+SUB	to
+EXS	hide
+AND	behind
+DIS	a
+IST	big
+CON	tree
+NIL	,
+COO	but
+DEF	the
+ALT	others
+EPS	found
+PRO	him
+NIL	.

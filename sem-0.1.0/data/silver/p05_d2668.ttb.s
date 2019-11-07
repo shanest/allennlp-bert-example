@@ -1,0 +1,14 @@
+PER	Tom
+EPS	told
+PRO	me
+SUB	that
+PRO	I
+POS	could
+EXS	keep
+DEF	the
+CON	book
+IMP	if
+PRO	I
+EPS	wanted
+PRO	it
+NIL	.

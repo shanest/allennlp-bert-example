@@ -1,0 +1,13 @@
+EXT	Having
+PFT	been
+EXS	convicted
+AND	of
+CON	murder
+NIL	,
+PRO	he
+PST	was
+EXS	sentenced
+REL	to
+CON	life
+CON	imprisonment
+NIL	.

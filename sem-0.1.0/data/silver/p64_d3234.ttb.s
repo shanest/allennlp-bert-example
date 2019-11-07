@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	dying
+SUB	to
+EXS	find
+IST	out
+IMP	if
+PRO	I
+EPS	got
+DEF	the
+CON	job
+NIL	.

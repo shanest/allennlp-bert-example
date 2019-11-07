@@ -1,0 +1,10 @@
+PRO	I
+PST	thought
+PER	Tom
+PST	was
+EXS	going
+SUB	to
+EXS	join
+PRO	us
+CON	tonight
+NIL	.

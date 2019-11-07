@@ -1,0 +1,10 @@
+PRO	He
+PST	did
+NOT	n't
+EXS	succeed
+REL	in
+EXG	explaining
+QUE	what
+PRO	he
+EPS	wanted
+NIL	.

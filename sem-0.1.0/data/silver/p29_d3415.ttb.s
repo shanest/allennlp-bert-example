@@ -1,0 +1,13 @@
+PRO	We
+NOW	believe
+SUB	that
+PRO	you
+FUT	will
+EXS	be
+IST	able
+SUB	to
+EXS	make
+DIS	a
+CON	price
+CON	concession
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+IST	too
+EXS	busy
+NOW	now
+SUB	to
+EXS	talk
+REL	to
+PRO	you
+NIL	.

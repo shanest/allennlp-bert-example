@@ -1,0 +1,13 @@
+AND	Everything
+SUB	that
+PRO	I
+EPS	saw
+PST	was
+IST	completely
+EXS	different
+REL	from
+QUE	what
+PRO	I
+PST	had
+EXS	expected
+NIL	.

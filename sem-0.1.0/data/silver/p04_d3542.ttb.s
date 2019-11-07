@@ -1,0 +1,10 @@
+ROL	Mr
+PER	Smith
+EPS	lost
+HAS	his
+CON	way
+REL	in
+DEF	the
+IST	dense
+CON	fog
+NIL	.

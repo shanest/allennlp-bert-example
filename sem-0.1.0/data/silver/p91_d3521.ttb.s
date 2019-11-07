@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+EXS	true
+SUB	that
+PRO	he
+NOW	has
+DIS	a
+CON	habit
+AND	of
+EXS	inventing
+ENS	lies
+NIL	.

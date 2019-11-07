@@ -1,0 +1,12 @@
+PRO	I
+NOW	think
+PRO	it
+NOW	's
+IST	strange
+SUB	that
+PRO	she
+PST	was
+EXS	absent
+REL	from
+CON	school
+NIL	.

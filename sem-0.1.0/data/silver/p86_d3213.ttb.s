@@ -1,0 +1,15 @@
+PER	Tom
+EPS	dropped
+DIS	a
+CON	cup
+REL	on
+DEF	the
+CON	floor
+COO	and
+PRO	it
+EPS	shattered
+REL	into
+DIS	a
+QUC	thousand
+CON	pieces
+NIL	.

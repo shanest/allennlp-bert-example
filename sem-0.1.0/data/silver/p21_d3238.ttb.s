@@ -1,0 +1,9 @@
+PRO	It
+PST	was
+HAS	his
+CON	silence
+SUB	that
+EPS	made
+HAS	her
+EXS	angry
+NIL	.

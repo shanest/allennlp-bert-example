@@ -1,0 +1,10 @@
+PRO	He
+EPS	thought
+SUB	that
+PRO	it
+PST	was
+AND	like
+DIS	a
+CON	bird
+CON	cage
+NIL	.

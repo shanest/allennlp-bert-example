@@ -1,0 +1,10 @@
+PRO	You
+IST	really
+ENS	need
+SUB	to
+EXS	be
+UNK	there
+FUT	tomorrow
+REL	at
+CLO	2:30
+NIL	.

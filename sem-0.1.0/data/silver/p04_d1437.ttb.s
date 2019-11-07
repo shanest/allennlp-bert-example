@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	cold
+NIL	.
+POS	May
+PRO	I
+EXS	close
+DEF	the
+CON	window
+QUE	?

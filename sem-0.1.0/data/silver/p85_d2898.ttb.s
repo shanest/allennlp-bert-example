@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+IST	out
+NIL	,
+COO	but
+PER	Mary
+NOW	is
+PRX	here
+NIL	.

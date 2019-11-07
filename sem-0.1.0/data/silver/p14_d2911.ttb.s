@@ -1,0 +1,14 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PRO	he
+FUT	'll
+EXS	be
+IST	able
+SUB	to
+EXS	do
+PRO	it
+REL	by
+REF	himself
+NIL	.

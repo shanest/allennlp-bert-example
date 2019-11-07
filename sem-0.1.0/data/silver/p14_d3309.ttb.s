@@ -1,0 +1,13 @@
+PRO	I
+EPS	asked
+PER	Tom
+SUB	to
+EXS	come
+PST	yesterday
+NIL	,
+COO	but
+PRO	he
+PST	did
+NOT	n't
+EXS	come
+NIL	.

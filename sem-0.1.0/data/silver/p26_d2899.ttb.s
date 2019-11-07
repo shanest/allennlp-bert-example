@@ -1,0 +1,13 @@
+SUB	After
+EXS	thinking
+IST	long
+AND	and
+IST	hard
+NIL	,
+PRO	I
+EPS	put
+DEF	the
+CON	plan
+REL	into
+CON	practice
+NIL	.

@@ -1,0 +1,9 @@
+PRO	We
+EPS	saw
+DEF	the
+CON	film
+AND	and
+PST	had
+CON	dinner
+IST	together
+NIL	.

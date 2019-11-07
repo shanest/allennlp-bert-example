@@ -1,0 +1,11 @@
+SUB	When
+PRO	you
+NOW	're
+IST	mad
+NIL	,
+EXS	count
+REL	to
+QUC	ten
+SUB	before
+EXS	speaking
+NIL	.

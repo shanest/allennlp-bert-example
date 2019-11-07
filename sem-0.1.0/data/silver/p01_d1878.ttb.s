@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+INT	highly
+EXS	unlikely
+SUB	that
+HAS	our
+CON	taxes
+FUT	will
+EXS	be
+EXS	lowered
+NIL	.

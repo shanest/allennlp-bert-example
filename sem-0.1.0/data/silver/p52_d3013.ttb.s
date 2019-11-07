@@ -1,0 +1,10 @@
+PER	Tom
+PST	had
+NOT	no
+CON	one
+SUB	to
+EXS	turn
+REL	to
+REL	for
+CON	help
+NIL	.

@@ -1,0 +1,9 @@
+NOT	No
+CON	body
+NOT	except
+DEF	the
+ROL	king
+ENS	admires
+DEF	the
+ROL	king
+NIL	.

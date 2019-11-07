@@ -1,0 +1,14 @@
+GPO	Japanese
+CON	people
+NOW	are
+IST	fortunate
+SUB	to
+EXS	live
+REL	in
+DIS	a
+CON	land
+REL	with
+IST	natural
+IST	hot
+CON	springs
+NIL	.

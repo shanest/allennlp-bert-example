@@ -1,0 +1,9 @@
+QUE	How
+FUT	dare
+PRO	she
+NOW	have
+CON	sex
+REL	with
+HAS	my
+CON	husband
+QUE	?

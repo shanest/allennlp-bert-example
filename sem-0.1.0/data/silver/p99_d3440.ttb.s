@@ -1,0 +1,12 @@
+PRX	This
+CON	thing
+NOW	is
+IST	necessary
+SUB	to
+EXS	extirpate
+DEF	the
+CON	evil
+AND	of
+DEF	the
+CON	world
+NIL	.

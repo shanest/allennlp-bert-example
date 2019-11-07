@@ -1,0 +1,10 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	pay
+DIS	someone
+SUB	to
+EXS	sleep
+REL	for
+PRO	you
+NIL	.

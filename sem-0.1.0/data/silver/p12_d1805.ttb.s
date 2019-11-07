@@ -1,0 +1,12 @@
+PRO	She
+EPS	picked
+IST	out
+DIS	a
+COL	pink
+CON	shirt
+REL	for
+PRO	me
+SUB	to
+EXS	try
+REL	on
+NIL	.

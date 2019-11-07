@@ -1,0 +1,9 @@
+PRO	She
+EPS	forgot
+AND	everything
+AND	and
+POS	ca
+NOT	n't
+EXS	remember
+AND	anything
+NIL	.

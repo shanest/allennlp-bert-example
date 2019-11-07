@@ -1,0 +1,17 @@
+PRO	I
+FUT	'll
+EXS	get
+REL	in
+CON	touch
+REL	with
+PRO	you
+ALT	again
+SUB	when
+PRO	I
+ENS	know
+MOR	more
+IST	clearly
+AND	about
+DST	that
+CON	plan
+NIL	.

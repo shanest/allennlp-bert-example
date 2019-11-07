@@ -1,0 +1,11 @@
+PRO	You
+POS	can
+NOT	not
+EXS	be
+INT	too
+EXS	careful
+SUB	when
+EXG	crossing
+DEF	the
+CON	street
+NIL	.

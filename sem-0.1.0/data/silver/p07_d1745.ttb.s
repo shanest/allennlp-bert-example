@@ -1,0 +1,11 @@
+ORG	Trust
+PRO	me
+NIL	,
+PRO	you
+NOW	're
+EXS	going
+SUB	to
+EXS	love
+PRO	it
+PRX	here
+NIL	.

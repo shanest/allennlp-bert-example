@@ -1,0 +1,11 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PRO	I
+NOW	'm
+EXG	sitting
+IST	next
+REL	to
+PER	Mary
+NIL	.

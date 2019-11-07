@@ -1,0 +1,12 @@
+PER	Tom
+EPS	tried
+HAS	his
+IST	utmost
+SUB	to
+EXS	get
+PER	Mary
+SUB	to
+EXS	change
+HAS	her
+CON	mind
+NIL	.

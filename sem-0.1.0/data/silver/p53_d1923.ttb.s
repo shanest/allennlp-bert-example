@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+IST	next
+SUB	to
+EXS	impossible
+SUB	to
+EXS	see
+GEO	Rome
+REL	in
+DIS	a
+CON	day
+NIL	.

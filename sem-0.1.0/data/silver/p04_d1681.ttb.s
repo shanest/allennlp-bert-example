@@ -1,0 +1,10 @@
+PRO	They
+NOW	are
+EXG	sitting
+REL	in
+DEF	the
+CON	kitchen
+AND	and
+CON	drinking
+CON	tea
+NIL	.

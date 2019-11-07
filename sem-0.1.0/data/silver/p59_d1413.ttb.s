@@ -1,0 +1,9 @@
+PRO	I
+ENS	bet
+PRO	he
+NOW	is
+NOT	n't
+EXS	telling
+DEF	the
+CON	truth
+NIL	.

@@ -1,0 +1,15 @@
+PRO	I
+IST	just
+EPS	heard
+SUB	that
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	coming
+IST	back
+REL	to
+GPE	Boston
+REL	for
+DOW	Christmas
+NIL	.

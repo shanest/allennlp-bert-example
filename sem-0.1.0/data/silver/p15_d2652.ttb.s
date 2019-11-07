@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+NOT	not
+IST	necessary
+SUB	to
+EXS	leave
+REL	in
+DEF	the
+CON	middle
+AND	of
+DIS	a
+CON	storm

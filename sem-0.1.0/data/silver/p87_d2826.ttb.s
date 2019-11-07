@@ -1,0 +1,9 @@
+PER	Father
+NOW	is
+EXG	cooking
+CON	dinner
+REL	in
+DEF	the
+CON	kitchen
+NOW	now
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+PST	helped
+PER	Mary
+EXS	move
+DEF	the
+CON	sofa
+REL	to
+ALT	other
+CON	side
+AND	of
+DEF	the
+CON	room
+NIL	.

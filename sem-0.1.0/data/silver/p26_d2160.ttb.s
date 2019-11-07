@@ -1,0 +1,10 @@
+PRO	I
+NOT	never
+NOW	spend
+DIS	a
+CON	day
+NOT	without
+EXS	thinking
+AND	of
+PRO	you
+NIL	.

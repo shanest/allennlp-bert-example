@@ -1,0 +1,9 @@
+EXS	Put
+HAS	your
+CON	watch
+AND	ahead
+NIL	.
+PRO	It
+HAS	's
+EXS	slow
+NIL	.

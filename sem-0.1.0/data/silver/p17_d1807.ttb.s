@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+CON	trouble
+EXG	admitting
+SUB	that
+PRO	he
+NOW	's
+EXS	wrong
+NIL	.

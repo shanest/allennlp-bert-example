@@ -1,0 +1,10 @@
+GPE	Tokyo
+NOW	is
+NOW	now
+DIS	a
+CON	center
+AND	of
+DEF	the
+CON	world
+CON	economy
+NIL	.

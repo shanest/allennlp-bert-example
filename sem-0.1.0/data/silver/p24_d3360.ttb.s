@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	just
+EXS	going
+REL	to
+CON	rest
+AND	during
+DEF	the
+CON	summer
+CON	vacation
+NIL	.

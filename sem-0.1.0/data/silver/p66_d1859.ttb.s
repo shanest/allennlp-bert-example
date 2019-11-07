@@ -1,0 +1,10 @@
+DEF	The
+CON	teacher
+EPS	spoke
+IST	too
+IST	fast
+REL	for
+PRO	us
+SUB	to
+EXS	understand
+NIL	.

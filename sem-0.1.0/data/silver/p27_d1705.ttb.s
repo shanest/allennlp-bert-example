@@ -1,0 +1,14 @@
+AND	Even
+SUB	though
+DEF	the
+CON	alarm
+CON	clock
+EPS	went
+IST	off
+NIL	,
+PRO	I
+PST	did
+NOT	n't
+EXS	wake
+IST	up
+NIL	.

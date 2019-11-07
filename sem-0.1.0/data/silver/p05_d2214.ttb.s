@@ -1,0 +1,16 @@
+PER	Tom
+NOW	is
+NOT	not
+XCL	only
+NOT	un
+EXS	happy
+REL	at
+CON	work
+NIL	,
+BUT	but
+ALT	also
+NOT	un
+EXS	happy
+REL	at
+CON	home
+NIL	.

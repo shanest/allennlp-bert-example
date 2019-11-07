@@ -1,0 +1,16 @@
+PER	Tom
+PST	was
+EXS	sitting
+REL	in
+CON	front
+AND	of
+DIS	a
+CON	group
+AND	of
+CON	children
+NIL	,
+EXG	telling
+PRO	them
+DIS	a
+CON	story
+NIL	.

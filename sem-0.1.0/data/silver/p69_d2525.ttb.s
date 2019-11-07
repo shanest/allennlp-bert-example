@@ -1,0 +1,11 @@
+PRO	I
+EPS	promised
+NOT	not
+SUB	to
+EXS	breathe
+DIS	a
+CON	word
+AND	of
+DEF	the
+CON	secret
+NIL	.

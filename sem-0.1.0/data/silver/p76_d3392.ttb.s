@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+INT	very
+EXS	warm
+NIL	.
+FUT	Shall
+PRO	I
+EXS	turn
+REL	on
+DEF	the
+CON	air
+CON	conditioner
+QUE	?

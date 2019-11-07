@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	waiting
+PRX	here
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	picked
+IST	up
+PER	Mary
+HAS	's
+CON	jewelry
+CON	box
+COO	and
+EPS	opened
+PRO	it
+NIL	.

@@ -1,0 +1,12 @@
+EXS	Hang
+REL	on
+NIL	,
+PER	Tom
+NIL	,
+PRO	it
+FUT	wo
+NOT	n't
+EXS	be
+IST	long
+NOW	now
+NIL	.

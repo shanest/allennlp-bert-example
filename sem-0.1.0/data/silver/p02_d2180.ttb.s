@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+DIS	a
+CON	friend
+AND	of
+PER	Tom
+AND	and
+PER	Mary
+HAS	's
+NIL	.

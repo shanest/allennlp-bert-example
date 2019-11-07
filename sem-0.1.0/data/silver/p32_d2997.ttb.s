@@ -1,0 +1,11 @@
+QUE	What
+NOW	makes
+PRO	you
+NOW	think
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	follow
+PER	Tom
+QUE	?

@@ -1,0 +1,12 @@
+REL	To
+DEF	the
+CON	left
+NOW	is
+DIS	a
+IST	large
+CON	fireplace
+SUB	that
+PRO	I
+NOT	never
+ENS	light
+NIL	.

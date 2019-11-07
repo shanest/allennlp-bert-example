@@ -1,0 +1,11 @@
+PRO	I
+IST	especially
+EPS	liked
+DEF	the
+CON	way
+PRO	you
+EPS	sang
+DEF	the
+IST	second
+CON	song
+NIL	.

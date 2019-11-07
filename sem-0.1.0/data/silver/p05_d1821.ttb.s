@@ -1,0 +1,10 @@
+PER	Tom
+HAS	's
+ROL	mother
+IST	still
+ENS	buys
+HAS	his
+CON	clothes
+REL	for
+PRO	him
+NIL	.

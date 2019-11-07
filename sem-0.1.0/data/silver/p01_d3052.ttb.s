@@ -1,0 +1,10 @@
+IST	Good
+CON	morning
+NIL	.
+PRO	It
+HAS	's
+CON	time
+NIL	to
+EXS	wake
+IST	up
+NIL	.

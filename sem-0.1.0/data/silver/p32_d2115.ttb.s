@@ -1,0 +1,13 @@
+PRO	We
+EPS	enjoyed
+EXS	seeing
+DEF	the
+CON	city
+NIL	,
+BUT	but
+PRO	we
+EPS	got
+DIS	a
+IST	little
+EXS	tired
+NIL	.

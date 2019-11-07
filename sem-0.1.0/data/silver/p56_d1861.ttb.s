@@ -1,0 +1,11 @@
+PRO	I
+EPS	needed
+SUB	that
+CON	money
+SUB	to
+EXS	buy
+DIS	a
+CON	gift
+REL	for
+PER	Tom
+NIL	.

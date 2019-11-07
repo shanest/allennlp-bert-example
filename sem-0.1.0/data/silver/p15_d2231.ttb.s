@@ -1,0 +1,10 @@
+DIS	A
+IST	male
+CON	friend
+AND	of
+HAS	mine
+EPS	called
+REL	on
+PRO	me
+PST	yesterday
+NIL	.

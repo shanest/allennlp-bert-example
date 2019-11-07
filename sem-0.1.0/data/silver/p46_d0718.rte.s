@@ -1,0 +1,11 @@
+CON	Millions
+AND	of
+UOM	acres
+AND	within
+DEF	the
+CON	Amazon
+NOW	are
+EXS	destroyed
+AND	each
+CON	year
+NIL	.

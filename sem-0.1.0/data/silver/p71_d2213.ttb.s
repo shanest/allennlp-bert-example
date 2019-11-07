@@ -1,0 +1,12 @@
+IMP	If
+PRO	he
+NOW	's
+EXS	convicted
+PRO	he
+FUT	'll
+NEC	have
+SUB	to
+EXS	pay
+DIS	a
+CON	fine
+NIL	.

@@ -1,0 +1,14 @@
+CON	People
+IST	always
+EXS	make
+CON	fun
+AND	of
+PRO	me
+SUB	when
+PRO	they
+NOW	find
+IST	out
+PRO	I
+NOW	'm
+EXS	colorblind
+NIL	.

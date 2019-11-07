@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+IST	glad
+SUB	to
+EXS	see
+PRO	you
+NOW	're
+EXS	happy
+NIL	.

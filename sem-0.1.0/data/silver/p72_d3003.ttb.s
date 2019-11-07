@@ -1,0 +1,13 @@
+DEF	The
+CON	girl
+EPS	smiled
+REL	at
+PRO	him
+NIL	,
+BUT	but
+PRO	he
+PST	did
+NOT	not
+EXS	smile
+IST	back
+NIL	.

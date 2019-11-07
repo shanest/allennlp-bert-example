@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+SUB	whether
+PRO	he
+NOW	is
+EXS	dead
+DIS	or
+EXS	alive
+NIL	.

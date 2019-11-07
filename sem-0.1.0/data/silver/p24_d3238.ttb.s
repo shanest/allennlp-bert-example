@@ -1,0 +1,12 @@
+PRO	I
+NOW	think
+PRO	I
+NOW	've
+EXS	had
+DIS	a
+IST	little
+INT	too
+CON	much
+SUB	to
+EXS	drink
+NIL	.

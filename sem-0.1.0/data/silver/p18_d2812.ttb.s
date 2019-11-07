@@ -1,0 +1,14 @@
+PRO	You
+EPS	had
+IST	better
+CON	chain
+AND	up
+DEF	the
+CON	dog
+AND	so
+SUB	that
+PRO	he
+FUT	wo
+NOT	n't
+EXS	bite
+NIL	.

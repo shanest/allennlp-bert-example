@@ -1,0 +1,17 @@
+GRE	Hello
+EQU	,
+HAS	my
+IST	dear
+NIL	,
+PRO	I
+EPS	made
+QUC	two
+CON	pictures
+COO	and
+PRO	I
+ENS	want
+HAS	your
+CON	opinion
+REL	on
+PRO	them
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PRO	you
+EPS	did
+AND	all
+PRX	this
+NOT	without
+AND	any
+EXS	help
+NIL	.

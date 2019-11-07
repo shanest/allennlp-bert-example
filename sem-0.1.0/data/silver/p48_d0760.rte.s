@@ -1,0 +1,11 @@
+REL	In
+YOC	2001
+NIL	,
+DEF	the
+ORG	EU
+EPS	introduced
+DIS	a
+CON	passport
+REL	for
+CON	pets
+NIL	.

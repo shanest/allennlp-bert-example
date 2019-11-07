@@ -1,0 +1,9 @@
+PRO	I
+ENS	want
+COL	brown
+CON	shoes
+NIL	,
+NOT	not
+COL	black
+CON	ones
+NIL	.

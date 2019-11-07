@@ -1,0 +1,11 @@
+PER	Tom
+ENS	plays
+DEF	the
+CON	cello
+REL	with
+DIS	one
+AND	of
+DEF	the
+IST	local
+CON	orchestras
+NIL	.

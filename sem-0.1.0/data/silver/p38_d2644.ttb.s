@@ -1,0 +1,10 @@
+PER	Tom
+EPS	walked
+IST	down
+DEF	the
+CON	street
+EXG	whistling
+DIS	a
+IST	happy
+CON	tune
+NIL	.

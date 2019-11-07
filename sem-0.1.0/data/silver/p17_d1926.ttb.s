@@ -1,0 +1,13 @@
+PER	Tom
+EPS	opened
+DEF	the
+CON	door
+NIL	,
+AND	even
+SUB	though
+PRO	I
+EPS	asked
+PRO	him
+NOT	not
+SUB	to
+NIL	.

@@ -1,0 +1,10 @@
+QUE	What
+DEF	the
+CON	teacher
+EPS	said
+EPS	encouraged
+PER	Mary
+SUB	to
+EXS	study
+COM	harder
+NIL	.

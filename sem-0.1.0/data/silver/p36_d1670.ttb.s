@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	laying
+REL	in
+CON	bed
+REL	with
+DIS	a
+CON	killer
+CON	hangover
+NIL	.

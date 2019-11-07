@@ -1,0 +1,14 @@
+PRO	He
+ENS	says
+PRO	he
+NOW	's
+EXS	got
+SUB	to
+EXS	get
+REL	to
+GEO	Vienna
+DEF	the
+CON	day
+REL	after
+FUT	tomorrow
+NIL	.

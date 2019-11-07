@@ -1,0 +1,11 @@
+PRO	I
+NOW	think
+PRO	it
+NOW	's
+EXS	dangerous
+SUB	to
+EXS	walk
+AND	alone
+REL	at
+CON	night
+NIL	.

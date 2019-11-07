@@ -1,0 +1,11 @@
+PRO	She
+EPS	made
+CON	room
+REL	for
+DIS	an
+IST	old
+CON	woman
+REL	in
+DEF	the
+CON	bus
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+EPS	had
+DIS	a
+COL	white
+CON	dress
+EXS	made
+REL	by
+HAS	my
+ROL	mother
+NIL	.

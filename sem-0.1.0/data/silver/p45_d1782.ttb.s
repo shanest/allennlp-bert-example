@@ -1,0 +1,16 @@
+DEF	The
+CON	patient
+HAS	's
+CON	lung
+CON	tissue
+PST	was
+EXS	damaged
+REL	from
+CON	years
+AND	of
+EXS	working
+REL	in
+DIS	a
+CON	coal
+HAS	mine
+NIL	.

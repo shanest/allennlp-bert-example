@@ -1,0 +1,9 @@
+DEF	The
+CON	house
+PST	was
+EXS	built
+QUV	several
+QUC	hundred
+CON	years
+PST	ago
+NIL	.

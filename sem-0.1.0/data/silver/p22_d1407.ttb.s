@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+NOT	no
+EXS	use
+HAS	your
+EXG	begging
+PRO	him
+REL	for
+CON	help
+NIL	.

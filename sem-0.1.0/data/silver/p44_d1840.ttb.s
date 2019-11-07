@@ -1,0 +1,9 @@
+AND	Last
+CON	winter
+NIL	,
+PRO	I
+EPS	went
+CON	skiing
+REL	in
+GPE	Canada
+NIL	.

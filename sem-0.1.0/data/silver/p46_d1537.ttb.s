@@ -1,0 +1,10 @@
+HAS	Our
+CON	decision
+SUB	to
+EXS	go
+REL	to
+GPE	Portugal
+PST	was
+IST	quite
+IST	arbitrary
+NIL	.

@@ -1,0 +1,9 @@
+GRE	Hello
+ROL	Mr
+PER	Magpie
+NIL	!
+QUE	How
+HAS	's
+HAS	your
+ROL	wife
+QUE	?

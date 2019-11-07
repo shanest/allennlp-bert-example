@@ -1,0 +1,10 @@
+PRO	I
+NOT	never
+NOW	have
+DIS	an
+CON	ice
+CON	cream
+NOT	without
+EXS	feeling
+EXS	happy
+NIL	.

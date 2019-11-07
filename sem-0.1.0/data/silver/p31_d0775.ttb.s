@@ -1,0 +1,10 @@
+PRO	You
+NOW	look
+IST	pale
+NIL	.
+FUT	Shall
+PRO	I
+EXS	call
+DEF	the
+CON	doctor
+QUE	?

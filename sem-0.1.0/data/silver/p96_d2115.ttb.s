@@ -1,0 +1,14 @@
+NIL	"
+EXS	Come
+IST	back
+IST	down
+REL	to
+CON	earth
+NIL	,
+NIL	"
+PRO	she
+EPS	whispered
+REL	into
+HAS	his
+CON	ear
+NIL	.

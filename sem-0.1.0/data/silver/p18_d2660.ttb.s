@@ -1,0 +1,9 @@
+EXS	Did
+PRO	you
+EXS	give
+PRO	it
+REL	to
+PRO	him
+IST	last
+CON	year
+QUE	?

@@ -1,0 +1,13 @@
+PER	Tom
+IST	still
+ENS	loves
+PER	Mary
+AND	even
+SUB	though
+PRO	she
+NOW	does
+NOT	n't
+EXS	love
+PRO	him
+CON	anymore
+NIL	.

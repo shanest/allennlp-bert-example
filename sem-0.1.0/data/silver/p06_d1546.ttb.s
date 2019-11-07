@@ -1,0 +1,16 @@
+PRO	I
+NOW	guess
+PRO	I
+NOW	'm
+IST	just
+INT	too
+EXS	stupid
+SUB	to
+EXS	understand
+QUE	what
+PRO	you
+NOW	're
+EXS	trying
+SUB	to
+EXS	say
+NIL	.

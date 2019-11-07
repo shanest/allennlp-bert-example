@@ -1,0 +1,27 @@
+DIS	An
+EXT	estimated
+QUC	100,000
+IST	ethnic
+CON	Slovaks
+NIL	,
+TOP	most
+AND	of
+PRO	them
+EXS	living
+REL	in
+DEF	the
+GEO	Czech Republic
+NIL	,
+NOW	have
+EXS	applied
+SUB	to
+EXS	relinquish
+HAS	their
+CON	citizenship
+REL	since
+GEO	Czechoslovakia
+EPS	broke
+REL	into
+IST	separate
+CON	states
+NIL	.

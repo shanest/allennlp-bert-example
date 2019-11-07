@@ -1,0 +1,10 @@
+QUC	Five
+UOM	years
+NOW	have
+EXT	passed
+SUB	since
+PRO	they
+EPS	came
+REL	to
+GPE	Japan
+NIL	.

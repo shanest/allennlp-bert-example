@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+SUB	where
+PER	Tom
+NOW	is
+EXS	waiting
+REL	for
+PRO	us
+QUE	?

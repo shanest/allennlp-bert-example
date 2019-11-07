@@ -1,0 +1,10 @@
+PER	Tom
+EPS	did
+DIS	a
+IST	really
+IST	good
+CON	job
+EXG	fixing
+HAS	my
+CON	car
+NIL	.

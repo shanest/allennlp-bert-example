@@ -1,0 +1,10 @@
+POS	Can
+PRO	you
+EXS	introduce
+PRO	me
+REL	to
+DIS	someone
+AND	who
+ENS	speaks
+GPO	French
+QUE	?

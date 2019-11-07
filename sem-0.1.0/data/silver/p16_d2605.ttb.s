@@ -1,0 +1,16 @@
+AND	Even
+SUB	though
+PRO	he
+ENS	lives
+IST	next
+CON	door
+NIL	,
+PRO	he
+NOW	does
+NOT	n't
+IST	even
+EXS	say
+GRE	hello
+REL	to
+PRO	us
+NIL	.

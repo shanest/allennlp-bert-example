@@ -1,0 +1,9 @@
+PRO	You
+ENS	find
+SUB	that
+PRO	it
+NOW	is
+EXS	shaped
+REL	by
+CON	science
+NIL	.

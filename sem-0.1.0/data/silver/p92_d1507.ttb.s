@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+EXS	chosen
+PRO	her
+SUB	to
+EXS	be
+HAS	my
+CON	wife
+NIL	.

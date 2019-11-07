@@ -1,0 +1,9 @@
+PRO	It
+PST	was
+EXS	lucky
+SUB	that
+PRO	you
+EPS	caught
+DEF	the
+CON	train
+NIL	.

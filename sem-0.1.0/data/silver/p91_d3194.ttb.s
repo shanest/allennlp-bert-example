@@ -1,0 +1,12 @@
+PER	Tom
+ENS	wishes
+PRO	he
+POS	could
+EXS	speak
+GPO	French
+AND	as
+IST	well
+AND	as
+PER	Mary
+NOW	does
+NIL	.

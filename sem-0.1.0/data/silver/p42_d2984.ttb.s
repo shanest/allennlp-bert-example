@@ -1,0 +1,9 @@
+PRO	It
+HAS	's
+INT	too
+IST	late
+REL	to
+EXS	contact
+PER	Tom
+NOW	now
+NIL	.

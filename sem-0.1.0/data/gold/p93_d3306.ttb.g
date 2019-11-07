@@ -1,0 +1,10 @@
+PER	Tom
+EPS	spent
+DIS	a
+CON	week
+REL	in
+GPE	Bali
+REL	with
+HAS	his
+ROL	girlfriend
+NIL	.

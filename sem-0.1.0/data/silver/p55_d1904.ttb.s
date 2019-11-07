@@ -1,0 +1,9 @@
+PER	Tom
+ENS	says
+PRO	he
+NOW	's
+EXS	trying
+SUB	to
+EXS	quit
+CON	smoking
+NIL	.

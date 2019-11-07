@@ -1,0 +1,15 @@
+ORG	UK
+IST	foreign
+CON	secretary
+PER	Douglas
+PER	Hurd
+FUT	will
+EXS	meet
+ROL	President
+PER	Carlos
+PER	Menem
+REL	in
+GPE	Argentina
+AND	next
+CON	week
+NIL	.

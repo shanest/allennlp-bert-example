@@ -1,0 +1,10 @@
+HAS	Your
+CON	son
+NOW	is
+AND	almost
+DEF	the
+CON	copy
+AND	of
+HAS	your
+ROL	father
+NIL	.

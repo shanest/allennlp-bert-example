@@ -1,0 +1,9 @@
+PRO	I
+EPS	met
+PRO	him
+IST	last
+CON	year
+REL	at
+DIS	a
+CON	party
+NIL	.

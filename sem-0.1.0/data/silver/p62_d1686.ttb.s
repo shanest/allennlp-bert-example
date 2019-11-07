@@ -1,0 +1,15 @@
+DEF	The
+CON	reason
+QUE	why
+PRO	I
+EPS	got
+DIS	a
+IST	bad
+CON	grade
+NOW	is
+SUB	that
+PRO	I
+PST	did
+NOT	not
+EXS	study
+NIL	.

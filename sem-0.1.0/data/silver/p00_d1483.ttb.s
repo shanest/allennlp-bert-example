@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+IST	afraid
+PRO	we
+POS	ca
+NOT	n't
+EXS	change
+PRO	it
+NIL	.
+NOT	Nobody
+ENS	listens
+REL	to
+PRO	us
+NIL	.

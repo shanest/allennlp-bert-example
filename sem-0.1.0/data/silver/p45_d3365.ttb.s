@@ -1,0 +1,11 @@
+PRO	She
+NOW	is
+IST	able
+SUB	to
+EXS	translate
+IST	immediately
+SUB	after
+PRO	he
+ENS	says
+DIS	something
+NIL	.

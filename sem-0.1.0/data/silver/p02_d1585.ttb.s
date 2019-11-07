@@ -1,0 +1,13 @@
+SUB	When
+PRO	it
+ENS	comes
+SUB	to
+EXG	playing
+CON	chess
+NIL	,
+PRO	he
+NOW	is
+IST	second
+REL	to
+CON	none
+NIL	.

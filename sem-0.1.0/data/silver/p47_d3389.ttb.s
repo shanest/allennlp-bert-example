@@ -1,0 +1,11 @@
+PRO	I
+ENS	wish
+HAS	my
+CON	back
+PST	did
+NOT	n't
+IST	always
+EXS	hurt
+IST	so
+QUC	much
+NIL	.

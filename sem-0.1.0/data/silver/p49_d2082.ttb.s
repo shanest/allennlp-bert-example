@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	we
+POS	can
+EXS	go
+REL	on
+HAS	our
+CON	way
+NOW	now
+NIL	.

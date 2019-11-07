@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	supposed
+SUB	to
+EXS	be
+EXS	working
+PRX	this
+CON	afternoon
+NIL	.

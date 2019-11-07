@@ -1,0 +1,11 @@
+PER	Tom
+NOW	has
+IST	secretly
+EXS	been
+REL	in
+CON	love
+REL	with
+PER	Mary
+REL	for
+CON	years
+NIL	.

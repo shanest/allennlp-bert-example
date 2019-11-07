@@ -1,0 +1,25 @@
+IST	Huge
+CON	celebrations
+NOW	have
+PFT	been
+EXS	held
+REL	in
+GEO	Romania
+AND	and
+GPE	Bulgaria
+SUB	to
+EXS	mark
+HAS	their
+CON	accession
+REL	to
+DEF	the
+ORG	European Union
+EQU	,
+QUC	17
+CON	years
+REL	after
+DEF	the
+CON	fall
+AND	of
+CON	Communism
+NIL	.

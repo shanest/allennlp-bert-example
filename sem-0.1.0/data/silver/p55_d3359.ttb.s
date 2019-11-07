@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+DEF	the
+QUC	one
+AND	that
+NOW	has
+PFT	been
+EXS	waiting
+DEF	the
+TOP	longest
+NIL	.

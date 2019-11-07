@@ -1,0 +1,12 @@
+REL	At
+CON	school
+PRO	he
+PST	was
+AND	always
+REL	at
+DEF	the
+CON	top
+AND	of
+HAS	his
+CON	class
+NIL	.

@@ -1,0 +1,14 @@
+PER	Tom
+NIL	,
+AND	who
+PRO	I
+EPS	shared
+DEF	the
+CON	apartment
+REL	with
+NIL	,
+EXS	moved
+IST	out
+IST	last
+CON	month
+NIL	.

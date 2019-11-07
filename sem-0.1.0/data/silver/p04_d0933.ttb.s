@@ -1,0 +1,16 @@
+PRO	It
+PST	was
+NOT	not
+PRO	you
+AND	who
+EPS	ate
+DEF	the
+CON	cake
+PRO	I
+EPS	made
+NIL	,
+PRO	it
+PST	was
+HAS	your
+ROL	sister
+NIL	.

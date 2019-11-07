@@ -1,0 +1,11 @@
+PRO	You
+POS	can
+EXS	win
+AND	all
+DEF	the
+CON	battles
+ALT	yet
+EXS	lose
+DEF	the
+CON	war
+NIL	.

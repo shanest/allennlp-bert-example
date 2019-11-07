@@ -1,0 +1,16 @@
+PRO	We
+NOW	're
+EXS	talking
+AND	about
+QUE	what
+SUB	to
+EXS	do
+AND	about
+QUE	what
+EPS	happened
+DIS	a
+CON	couple
+AND	of
+CON	days
+PST	ago
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+NOT	never
+PFT	been
+IST	able
+SUB	to
+EXS	roll
+HAS	my
+CON	Rs
+NIL	...

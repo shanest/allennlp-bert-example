@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+PRO	you
+NOW	think
+PRO	you
+NOW	're
+EXS	being
+DIS	a
+CON	bit
+CON	melodramatic
+QUE	?

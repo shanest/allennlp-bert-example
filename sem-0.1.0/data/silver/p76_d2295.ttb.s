@@ -1,0 +1,12 @@
+PRO	You
+NOW	've
+EXS	got
+NOT	no
+CON	alibi
+REL	for
+DEF	the
+CON	day
+AND	of
+DEF	the
+CON	murder
+NIL	.

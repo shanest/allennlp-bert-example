@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	tired
+NIL	,
+COO	so
+PRO	I
+NEC	should
+EXS	get
+DIS	some
+CON	rest
+NIL	.

@@ -1,0 +1,9 @@
+PRO	We
+FUT	'll
+EXS	help
+PER	Tom
+NIL	,
+BUT	but
+NOT	not
+NOW	now
+NIL	.

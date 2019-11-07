@@ -1,0 +1,11 @@
+PER	John
+EPS	jumped
+REL	to
+HAS	his
+CON	feet
+DEF	the
+CON	moment
+DEF	the
+CON	bell
+EPS	rang
+NIL	.

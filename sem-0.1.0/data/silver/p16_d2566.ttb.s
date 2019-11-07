@@ -1,0 +1,13 @@
+PRO	You
+POS	could
+NOT	n't
+EXS	get
+QUC	two
+CON	people
+CON	more
+ALT	different
+MOR	than
+PER	Tom
+AND	and
+PER	Mary
+NIL	.

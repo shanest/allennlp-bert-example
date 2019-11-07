@@ -1,0 +1,11 @@
+PRO	I
+IST	just
+EPS	bought
+ALT	another
+CON	sweater
+NIL	.
+NOW	Now
+PRO	I
+NOW	have
+QUC	21
+NIL	!

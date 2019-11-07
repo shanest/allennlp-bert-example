@@ -1,0 +1,10 @@
+HAS	My
+CON	friend
+EPS	got
+IST	good
+CON	marks
+REL	in
+DEF	the
+GPO	English
+CON	examination
+NIL	.

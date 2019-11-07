@@ -1,0 +1,9 @@
+PRO	She
+EPS	painted
+DIS	a
+IST	beautiful
+CON	picture
+AND	of
+HAS	her
+ROL	mother
+NIL	.

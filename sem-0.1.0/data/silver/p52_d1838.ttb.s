@@ -1,0 +1,13 @@
+PER	Tom
+PST	felt
+AND	like
+EXS	going
+CON	home
+COO	and
+PST	left
+NOT	without
+EXS	saying
+GRE	goodbye
+REL	to
+DIS	anyone
+NIL	.

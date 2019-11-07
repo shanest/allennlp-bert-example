@@ -1,0 +1,9 @@
+ITJ	Damn
+NIL	!
+PRO	I
+POS	ca
+NOT	n't
+EXS	find
+HAS	my
+CON	wallet
+NIL	.

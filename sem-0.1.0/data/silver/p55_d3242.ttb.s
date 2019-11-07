@@ -1,0 +1,10 @@
+AND	Sometimes
+NIL	,
+PRO	I
+NOW	think
+SUB	that
+PRO	I
+NOW	think
+INT	too
+QUC	much
+NIL	.

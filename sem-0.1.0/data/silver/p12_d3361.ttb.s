@@ -1,0 +1,12 @@
+PRO	It
+XCL	only
+EPS	took
+PER	Mary
+DIS	a
+IST	few
+CON	minutes
+SUB	to
+EXS	set
+DEF	the
+CON	table
+NIL	.

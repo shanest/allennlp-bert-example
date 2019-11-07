@@ -1,0 +1,10 @@
+IST	Modern
+CON	music
+AND	boxes
+EXS	accept
+AND	even
+IST	USB
+CON	flash
+NOW	drives
+NOW	now
+NIL	.

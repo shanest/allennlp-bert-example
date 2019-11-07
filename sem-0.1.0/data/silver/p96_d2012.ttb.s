@@ -1,0 +1,10 @@
+PRO	They
+NOW	've
+EXS	got
+DIS	a
+CON	telephone
+AND	next
+REL	to
+HAS	their
+CON	bed
+NIL	.

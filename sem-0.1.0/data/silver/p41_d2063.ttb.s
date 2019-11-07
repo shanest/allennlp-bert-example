@@ -1,0 +1,11 @@
+DIS	A
+CON	violinist
+PRO	I
+ENS	know
+ENS	says
+SUB	that
+PRO	he
+NOW	owns
+DIS	a
+CON	Stradivarius
+NIL	.

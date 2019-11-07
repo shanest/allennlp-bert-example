@@ -1,0 +1,13 @@
+PRO	You
+NOW	're
+IST	still
+EXS	awake
+QUE	?
+NOW	Is
+NOT	n't
+PRO	it
+IST	already
+QUC	three
+AND	over
+DST	there
+QUE	?

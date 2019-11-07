@@ -1,0 +1,10 @@
+PRO	I
+EPS	put
+IST	great
+CON	value
+REL	on
+HAS	your
+CON	knowledge
+AND	about
+PRO	it
+NIL	.

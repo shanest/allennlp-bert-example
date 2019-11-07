@@ -1,0 +1,9 @@
+GEO	Sapporo
+NOW	is
+DEF	the
+ORD	fifth
+TOP	largest
+CON	city
+REL	in
+GPE	Japan
+NIL	.

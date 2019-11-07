@@ -1,0 +1,17 @@
+ORG	Democracy
+NOW	is
+DEF	the
+BOT	worst
+CON	form
+AND	of
+CON	government
+NIL	,
+NOT	except
+AND	all
+DEF	the
+ALT	others
+SUB	that
+EXT	have
+PFT	been
+EXS	tried
+NIL	.

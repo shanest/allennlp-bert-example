@@ -1,0 +1,11 @@
+REL	About
+PRX	this
+CON	time
+FUT	tomorrow
+NIL	,
+PRO	we
+FUT	will
+EXS	be
+REL	in
+GPE	London
+NIL	.

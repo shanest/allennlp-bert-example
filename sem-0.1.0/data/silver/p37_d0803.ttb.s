@@ -1,0 +1,10 @@
+AND	However
+QUC	much
+PRO	she
+ENS	eats
+NIL	,
+PRO	she
+NOT	never
+CON	gains
+CON	weight
+NIL	.

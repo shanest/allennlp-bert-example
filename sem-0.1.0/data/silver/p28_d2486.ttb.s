@@ -1,0 +1,12 @@
+DEF	The
+CON	story
+ENS	reminds
+PRO	me
+AND	of
+DIS	an
+CON	experience
+PRO	I
+EPS	had
+IST	long
+PST	ago
+NIL	.

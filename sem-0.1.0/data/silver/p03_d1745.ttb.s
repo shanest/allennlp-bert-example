@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+EXG	taking
+DIS	a
+CON	couple
+AND	of
+CON	days
+REL	off
+IST	next
+CON	week
+NIL	.

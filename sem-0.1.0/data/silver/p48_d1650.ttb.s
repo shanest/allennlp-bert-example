@@ -1,0 +1,17 @@
+PER	Tom
+NOW	has
+PFT	been
+NIL	,
+AND	and
+IST	still
+NOW	is
+NIL	,
+DIS	a
+IST	constant
+CON	source
+AND	of
+EXS	worry
+REL	to
+HAS	his
+CON	parents
+NIL	.

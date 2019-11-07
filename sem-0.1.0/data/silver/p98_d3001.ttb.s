@@ -1,0 +1,12 @@
+PRO	I
+NOW	wonder
+QUE	why
+PER	Tom
+NOW	has
+PFT	been
+IST	so
+EXS	nice
+SUB	to
+PRO	me
+IST	recently
+NIL	.

@@ -1,0 +1,13 @@
+QUE	What
+NIL	!
+PRX	This
+CON	T-shirt
+NOW	is
+NIL	3,000
+UOM	yen
+QUE	?
+PRX	This
+NOW	is
+DIS	a
+CON	rip-off
+NIL	!

@@ -1,0 +1,12 @@
+PER	Tom
+EPS	picked
+IST	up
+QUC	one
+AND	of
+HAS	his
+CON	gloves
+COO	and
+EPS	put
+PRO	it
+REL	on
+NIL	.

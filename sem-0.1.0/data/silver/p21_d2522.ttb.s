@@ -1,0 +1,12 @@
+IMP	If
+PRO	it
+PST	had
+PFT	been
+EXS	important
+NIL	,
+PRO	I
+FUT	would
+EXT	've
+EXS	done
+PRO	it
+NIL	.

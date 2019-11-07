@@ -1,0 +1,11 @@
+SUB	When
+PRO	you
+EXS	yawn
+NIL	,
+EXS	cover
+HAS	your
+CON	mouth
+REL	with
+HAS	your
+CON	hand
+NIL	.

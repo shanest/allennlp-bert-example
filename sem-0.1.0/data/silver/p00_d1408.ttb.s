@@ -1,0 +1,10 @@
+DEF	The
+ROL	princess
+EPS	fell
+REL	in
+CON	love
+REL	with
+DIS	an
+GPO	Elven
+ROL	prince
+NIL	.

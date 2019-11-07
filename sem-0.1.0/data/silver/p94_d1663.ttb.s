@@ -1,0 +1,11 @@
+PRO	He
+FUT	wo
+NOT	n't
+EXS	say
+NOT	no
+REL	to
+DIS	a
+CON	glass
+AND	of
+CON	liqueur
+NIL	.

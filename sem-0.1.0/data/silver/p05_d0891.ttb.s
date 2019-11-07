@@ -1,0 +1,11 @@
+NIL	"
+NIL	Tatoeba
+NIL	"
+REL	in
+CON	Japanese
+CON	means
+NIL	"
+REL	for
+CON	example
+NIL	"
+NIL	.

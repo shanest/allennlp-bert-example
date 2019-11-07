@@ -1,0 +1,11 @@
+PER	Tom
+EPS	tried
+SUB	to
+EXS	convince
+PER	Mary
+SUB	to
+EXS	dye
+HAS	her
+CON	hair
+COL	red
+NIL	.

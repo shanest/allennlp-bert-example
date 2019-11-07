@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+SUB	whether
+PER	Mary
+FUT	will
+EXS	come
+DIS	or
+NOT	not
+NIL	.

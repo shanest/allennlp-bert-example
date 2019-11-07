@@ -1,0 +1,11 @@
+NOW	Have
+PRO	you
+EPS	picked
+IST	out
+DIS	a
+CON	name
+IST	yet
+REL	for
+DEF	the
+CON	baby
+QUE	?

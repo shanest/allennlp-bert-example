@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	I
+EPS	caught
+DIS	a
+CON	bug
+AND	over
+DEF	the
+CON	weekend
+NIL	.

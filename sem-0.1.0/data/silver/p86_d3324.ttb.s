@@ -1,0 +1,12 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	seem
+REL	to
+IST	even
+CON	notice
+SUB	that
+PER	Mary
+PST	was
+IST	there
+NIL	.

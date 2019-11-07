@@ -1,0 +1,17 @@
+EXS	Turning
+AND	around
+NIL	,
+PER	Jesus
+EPS	saw
+PRO	them
+IST	following
+COO	and
+EPS	asked
+NIL	,
+NIL	‘
+QUE	What
+NOW	do
+PRO	you
+ENS	want
+QUE	?
+NIL	’

@@ -1,0 +1,15 @@
+PRO	We
+FUT	'll
+EXS	go
+REL	to
+AND	any
+CON	length
+SUB	to
+EXS	send
+HAS	our
+CON	child
+REL	to
+DIS	a
+IST	good
+CON	university
+NIL	.

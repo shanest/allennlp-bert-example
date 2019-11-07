@@ -1,0 +1,10 @@
+PRO	We
+NOW	are
+EXS	going
+SUB	to
+EXS	have
+DIS	a
+CON	baby
+AND	next
+CON	month
+NIL	.

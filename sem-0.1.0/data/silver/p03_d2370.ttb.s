@@ -1,0 +1,13 @@
+PER	Tom
+HAS	's
+IST	impeccable
+CON	manners
+EPS	made
+DIS	a
+IST	big
+CON	impression
+REL	on
+PER	Mary
+HAS	's
+CON	parents
+NIL	.

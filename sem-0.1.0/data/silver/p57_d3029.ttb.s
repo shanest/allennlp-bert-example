@@ -1,0 +1,10 @@
+DIS	A
+CON	lot
+AND	of
+CON	kids
+NOW	do
+NOT	n't
+EXS	wear
+CON	bicycle
+CON	helmets
+NIL	.

@@ -1,0 +1,9 @@
+ITJ	Oh
+NIL	,
+PRO	it
+ENS	's
+PRO	you
+NIL	.
+EXS	Come
+REL	in
+NIL	.

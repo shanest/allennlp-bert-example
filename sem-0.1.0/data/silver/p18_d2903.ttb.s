@@ -1,0 +1,11 @@
+QUE	What
+HAS	's
+DEF	the
+CON	title
+AND	of
+DEF	the
+CON	book
+PRO	you
+NOW	're
+EXG	reading
+QUE	?

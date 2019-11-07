@@ -1,0 +1,15 @@
+PRO	It
+NOW	's
+IST	just
+REL	between
+PRO	you
+COO	and
+PRO	me
+NIL	,
+COO	but
+PER	Kazuo
+HAS	's
+CON	wife
+NOW	is
+EXS	pregnant
+NIL	.

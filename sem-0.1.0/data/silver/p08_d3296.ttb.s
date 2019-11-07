@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+NOT	no
+CON	way
+SUB	to
+EXS	talk
+REL	to
+HAS	your
+ROL	teacher
+NIL	.

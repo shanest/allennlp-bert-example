@@ -1,0 +1,12 @@
+IMP	If
+PRO	we
+NOW	do
+NOT	n't
+EXS	hurry
+NIL	,
+PRO	we
+FUT	'll
+EXS	miss
+HAS	our
+CON	train
+NIL	.

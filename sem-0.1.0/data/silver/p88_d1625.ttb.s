@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+DIS	a
+CON	picture
+PRO	he
+ENS	wants
+SUB	to
+EXS	show
+PRO	us
+NIL	.

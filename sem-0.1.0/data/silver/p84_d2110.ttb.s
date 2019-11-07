@@ -1,0 +1,9 @@
+PRO	He
+EPS	got
+QUE	what
+PRO	he
+EPS	wanted
+AND	against
+AND	all
+CON	odds
+NIL	.

@@ -1,0 +1,14 @@
+SUB	When
+PRO	I
+EPS	opened
+DEF	the
+CON	door
+NIL	,
+PER	Tom
+PST	was
+EXS	standing
+IST	there
+EXG	wearing
+DIS	a
+CON	suit
+NIL	.

@@ -1,0 +1,12 @@
+PRO	We
+PST	were
+REL	in
+DEF	the
+CON	neighborhood
+COO	and
+EPS	thought
+PRO	we
+PST	'd
+EXS	drop
+REL	by
+NIL	.

@@ -1,0 +1,14 @@
+PER	Tom
+EPS	found
+DIS	a
+IST	dusty
+CON	box
+IST	full
+AND	of
+CON	photos
+REL	in
+HAS	his
+ROL	grandfather
+HAS	's
+CON	attic
+NIL	.

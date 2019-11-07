@@ -1,0 +1,13 @@
+PRO	I
+NOW	think
+PRO	we
+NOW	're
+EXS	taking
+QUC	three
+CON	steps
+AND	forward
+IST	then
+QUC	two
+CON	steps
+IST	back
+NIL	.

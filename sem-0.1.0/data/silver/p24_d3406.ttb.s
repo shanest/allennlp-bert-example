@@ -1,0 +1,11 @@
+PRO	He
+EPS	explained
+REL	to
+PRO	her
+SUB	that
+PRO	he
+EPS	came
+REL	from
+DEF	the
+CON	future
+NIL	.

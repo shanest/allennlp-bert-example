@@ -1,0 +1,12 @@
+PRO	I
+AND	like
+PRX	this
+CON	song
+COM	better
+AND	than
+DEF	the
+IST	last
+QUC	one
+PRO	you
+EPS	wrote
+NIL	.

@@ -1,0 +1,12 @@
+QUE	How
+NOW	do
+PRO	I
+EXS	know
+PRO	you
+NOW	're
+NOT	not
+IST	just
+EXS	making
+PRX	this
+IST	up
+QUE	?

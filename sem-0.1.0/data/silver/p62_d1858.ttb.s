@@ -1,0 +1,11 @@
+PRO	He
+EPS	failed
+DEF	the
+CON	exam
+SUB	because
+PRO	he
+PST	had
+NOT	not
+EXS	studied
+IST	enough
+NIL	.

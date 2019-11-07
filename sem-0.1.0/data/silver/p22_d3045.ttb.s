@@ -1,0 +1,9 @@
+HAS	My
+ROL	father
+ENS	thinks
+SUB	that
+PRO	he
+HAS	's
+IST	always
+CON	right
+NIL	.

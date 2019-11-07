@@ -1,0 +1,15 @@
+DIS	A
+CON	doctor
+REL	from
+GEO	Michigan
+EPS	helped
+DIS	an
+CON	Oregon
+CON	woman
+REL	with
+GEO	Alzheimer
+HAS	's
+CON	disease
+NOW	commit
+CON	suicide
+NIL	.

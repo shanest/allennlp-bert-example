@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+NOT	not
+EXS	good
+REL	at
+EXS	speaking
+GPO	French
+ALT	yet
+NIL	.

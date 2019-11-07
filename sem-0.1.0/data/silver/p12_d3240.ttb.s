@@ -1,0 +1,11 @@
+PRO	We
+FUT	'll
+NEC	have
+SUB	to
+CON	shovel
+DEF	the
+CON	snow
+REL	off
+DEF	the
+CON	roof
+NIL	.

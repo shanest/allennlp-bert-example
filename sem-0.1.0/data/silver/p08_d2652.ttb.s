@@ -1,0 +1,11 @@
+PRO	I
+POS	might
+EXS	be
+IST	able
+SUB	to
+EXS	come
+COO	and
+EXS	pick
+PRO	you
+IST	up
+NIL	.

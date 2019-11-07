@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+DEF	the
+CON	couple
+AND	who
+EPS	showed
+PRO	me
+DEF	the
+CON	way
+NIL	.

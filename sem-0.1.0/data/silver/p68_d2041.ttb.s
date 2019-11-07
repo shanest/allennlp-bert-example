@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	impossible
+SUB	to
+EXS	make
+PRO	her
+EXS	understand
+DEF	the
+CON	theory
+NIL	.

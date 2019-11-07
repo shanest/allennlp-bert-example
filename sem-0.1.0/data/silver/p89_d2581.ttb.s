@@ -1,0 +1,9 @@
+PRO	I
+EPS	bought
+DIS	a
+CON	loaf
+AND	of
+CON	bread
+REL	for
+CON	breakfast
+NIL	.

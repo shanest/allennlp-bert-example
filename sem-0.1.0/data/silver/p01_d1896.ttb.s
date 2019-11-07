@@ -1,0 +1,9 @@
+DIS	Some
+CON	doctors
+ENS	say
+DIS	something
+NIL	to
+EXS	please
+HAS	their
+CON	patients
+NIL	.

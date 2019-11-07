@@ -1,0 +1,9 @@
+PER	Tom
+EPS	laid
+DEF	the
+CON	book
+IST	aside
+COO	and
+EPS	looked
+IST	up
+NIL	.

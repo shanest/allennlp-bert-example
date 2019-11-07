@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXG	wondering
+QUE	what
+SUB	to
+EXS	cook
+REL	for
+CON	dinner
+NIL	.

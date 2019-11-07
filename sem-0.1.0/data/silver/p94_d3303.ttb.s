@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+IST	never
+NOW	do
+DIS	anything
+IST	together
+CON	anymore
+NIL	.

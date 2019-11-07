@@ -1,0 +1,11 @@
+PER	Tom
+PST	was
+EXG	hoping
+PER	Mary
+FUT	would
+NOT	n't
+EXS	find
+AND	out
+DEF	the
+CON	truth
+NIL	.

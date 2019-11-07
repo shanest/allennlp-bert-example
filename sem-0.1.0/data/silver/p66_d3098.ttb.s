@@ -1,0 +1,12 @@
+ORG	Products
+NIL	,
+HAS	whose
+CON	prices
+NOW	have
+PFT	been
+EXS	reduced
+NIL	,
+NOW	are
+NOT	not
+EXS	returnable
+NIL	.

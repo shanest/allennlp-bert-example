@@ -1,0 +1,13 @@
+ITJ	Yes
+NIL	,
+PRO	I
+PST	was
+IST	outside
+COO	and
+PRO	it
+NOW	's
+EXS	raining
+CON	cats
+AND	and
+CON	dogs
+NIL	.

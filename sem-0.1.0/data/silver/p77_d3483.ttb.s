@@ -1,0 +1,9 @@
+PRO	I
+EPS	put
+REL	on
+HAS	my
+CON	cap
+SUB	to
+EXS	go
+IST	out
+NIL	.

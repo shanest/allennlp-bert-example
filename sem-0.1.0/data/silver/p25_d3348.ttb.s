@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXS	making
+IST	spare
+CON	parts
+REL	in
+DIS	a
+CON	car
+CON	factory
+NIL	.

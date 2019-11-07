@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+EXS	given
+IST	up
+REL	on
+DEF	the
+CON	idea
+AND	of
+EXS	buying
+DIS	a
+CON	house
+NIL	.

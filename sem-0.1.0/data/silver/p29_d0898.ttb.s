@@ -1,0 +1,10 @@
+PRO	He
+HAS	's
+DIS	an
+CON	Englishman
+NIL	,
+BUT	but
+ENS	lives
+REL	in
+GPE	India
+NIL	.

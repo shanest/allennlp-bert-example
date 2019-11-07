@@ -1,0 +1,11 @@
+PRO	It
+PST	was
+DIS	a
+IST	strange
+CON	chance
+SUB	that
+PRO	we
+EPS	met
+IST	there
+ALT	again
+NIL	.

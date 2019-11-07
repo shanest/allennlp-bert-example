@@ -1,0 +1,13 @@
+AND	According
+REL	to
+HAS	my
+CON	calculation
+NIL	,
+PRO	she
+NEC	should
+EXS	be
+REL	in
+GPE	India
+REL	by
+NOW	now
+NIL	.

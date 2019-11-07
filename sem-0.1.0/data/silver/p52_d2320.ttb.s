@@ -1,0 +1,16 @@
+CON	Children
+IST	often
+ENS	want
+SUB	to
+EXS	do
+CON	things
+AND	that
+NOW	are
+IST	dangerous
+NOT	without
+EXG	knowing
+SUB	that
+PRO	they
+NOW	are
+EXS	dangerous
+NIL	.

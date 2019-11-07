@@ -1,0 +1,13 @@
+QUE	Who
+ENS	sends
+CON	letters
+REL	by
+CON	mail
+QUE	?
+PRX	These
+CON	days
+PRO	we
+NOW	have
+IST	electronic
+CON	mail
+NIL	.

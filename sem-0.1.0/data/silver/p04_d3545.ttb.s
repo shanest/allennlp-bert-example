@@ -1,0 +1,12 @@
+SUB	When
+PRO	I
+NOW	think
+AND	of
+GPE	Germany
+REL	at
+CON	night
+NIL	,
+PRO	I
+NOW	feel
+EXS	sleepless
+NIL	.

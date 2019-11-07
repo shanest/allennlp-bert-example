@@ -1,0 +1,11 @@
+PRO	I
+EPS	met
+PER	Mary
+AND	and
+PER	John
+SUB	when
+PRO	I
+PST	was
+REL	in
+GPE	London
+NIL	.

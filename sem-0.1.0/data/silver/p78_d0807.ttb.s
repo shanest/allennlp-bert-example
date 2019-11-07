@@ -1,0 +1,15 @@
+NIL	"
+AND	How
+COM	old
+NOW	is
+PRO	she
+QUE	?
+NIL	"
+NIL	"
+PRO	She
+NOW	is
+QUC	twelve
+CON	years
+COM	old
+NIL	.
+NIL	"

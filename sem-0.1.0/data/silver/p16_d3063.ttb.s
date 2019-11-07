@@ -1,0 +1,11 @@
+IST	Due
+REL	to
+CON	illness
+NIL	,
+PRO	he
+NEC	had
+SUB	to
+EXS	give
+IST	up
+CON	smoking
+NIL	.

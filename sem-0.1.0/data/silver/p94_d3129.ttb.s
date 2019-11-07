@@ -1,0 +1,9 @@
+DEF	The
+QUC	one
+CON	person
+PRO	I
+ENS	know
+PRX	here
+NOW	is
+PER	Tom
+NIL	.

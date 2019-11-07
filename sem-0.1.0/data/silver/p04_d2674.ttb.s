@@ -1,0 +1,11 @@
+PER	Tom
+HAS	's
+REL	in
+PER	Mary
+HAS	's
+IST	good
+CON	books
+REL	at
+DEF	the
+CON	moment
+NIL	.

@@ -1,0 +1,11 @@
+QUE	How
+QUC	much
+NOW	do
+PRO	you
+EXS	leave
+REL	for
+DIS	a
+CON	tip
+REL	in
+GPE	Spain
+QUE	?

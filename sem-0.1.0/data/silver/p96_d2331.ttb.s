@@ -1,0 +1,12 @@
+PRO	I
+NOW	think
+SUB	that
+QUE	why
+PRO	he
+EPS	killed
+HAS	his
+CON	wife
+NOW	is
+DIS	a
+CON	mystery
+NIL	.

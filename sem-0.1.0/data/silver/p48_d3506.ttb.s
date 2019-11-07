@@ -1,0 +1,11 @@
+AND	Last
+TIM	month
+HAS	my
+ROL	sister
+EPS	gave
+CON	birth
+REL	to
+DIS	a
+IST	six-pound
+CON	baby
+NIL	.

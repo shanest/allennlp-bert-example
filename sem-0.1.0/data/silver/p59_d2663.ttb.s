@@ -1,0 +1,17 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PER	Tom
+NIL	,
+PRO	I
+PST	did
+NOT	n't
+EXS	mean
+SUB	that
+REL	to
+CON	sound
+AND	like
+DIS	an
+CON	insult
+NIL	.

@@ -1,0 +1,11 @@
+QUE	What
+CON	site
+PST	did
+IST	Lindbergh
+EXS	begin
+HAS	his
+CON	flight
+REL	from
+REL	in
+YOC	1927
+QUE	?

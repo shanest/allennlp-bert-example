@@ -1,0 +1,13 @@
+DEF	The
+CON	ICJ
+EPS	ruled
+REL	in
+YOC	1948
+SUB	that
+GPE	Albania
+NEC	should
+EXS	pay
+GPE	Britain
+QUC	843,947
+UOM	pounds
+NIL	.

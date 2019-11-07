@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	lent
+HAS	your
+CON	car
+REL	to
+DIS	someone
+QUE	?

@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	you
+NOW	're
+EXS	going
+SUB	to
+EXS	like
+PRX	this
+CON	movie
+NIL	.

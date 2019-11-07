@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+NOT	n't
+EXS	seen
+PER	Mary
+SUB	since
+PRO	they
+PST	got
+EXS	divorced
+NIL	.

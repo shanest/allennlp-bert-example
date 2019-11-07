@@ -1,0 +1,10 @@
+PRO	He
+PST	was
+EXS	known
+REL	to
+AND	every
+CON	body
+REL	in
+DEF	the
+CON	village
+NIL	.

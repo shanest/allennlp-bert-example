@@ -1,0 +1,14 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	win
+NIL	,
+BUT	but
+SUB	at
+EXS	least
+PRO	I
+EPS	got
+DIS	a
+CON	consolation
+CON	prize
+NIL	.

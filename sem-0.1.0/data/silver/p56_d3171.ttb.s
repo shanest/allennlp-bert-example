@@ -1,0 +1,17 @@
+QUC	Three
+CON	months
+PST	ago
+NIL	,
+PRO	I
+PST	did
+NOT	n't
+IST	even
+EXS	know
+QUE	how
+SUB	to
+EXS	say
+QUC	one
+CON	word
+AND	of
+GPO	French
+NIL	.

@@ -1,0 +1,11 @@
+NOW	Have
+PRO	you
+EPS	put
+IST	out
+DEF	the
+CON	light
+REL	in
+DEF	the
+CON	dining
+CON	room
+QUE	?

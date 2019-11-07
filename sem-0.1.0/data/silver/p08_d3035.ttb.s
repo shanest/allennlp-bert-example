@@ -1,0 +1,10 @@
+PRO	We
+NEC	have
+SUB	to
+EXS	stop
+PRO	him
+REL	from
+EXG	drinking
+IST	more
+CON	alcohol
+NIL	.

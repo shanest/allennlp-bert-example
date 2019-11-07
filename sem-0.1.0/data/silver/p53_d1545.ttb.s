@@ -1,0 +1,10 @@
+PER	Tom
+ENS	puts
+CON	salt
+REL	on
+IST	just
+AND	about
+AND	everything
+PRO	he
+ENS	eats
+NIL	.

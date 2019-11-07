@@ -1,0 +1,14 @@
+PER	Tom
+EPS	bought
+DIS	a
+CON	bottle
+AND	of
+CON	vodka
+AND	and
+DIS	some
+CON	perfume
+REL	at
+DEF	the
+IST	duty-free
+CON	shop
+NIL	.

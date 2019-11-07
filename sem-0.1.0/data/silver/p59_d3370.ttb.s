@@ -1,0 +1,12 @@
+PER	Tom
+EPS	met
+PER	Mary
+REL	by
+CON	chance
+REL	on
+HAS	his
+CON	way
+CON	home
+REL	from
+CON	school
+NIL	.

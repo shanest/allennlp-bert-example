@@ -1,0 +1,9 @@
+PRO	I
+FUT	wo
+NOT	n't
+EXS	make
+DEF	the
+IST	same
+CON	mistake
+ALT	again
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+INT	very
+IST	hard
+EXG	getting
+DIS	a
+CON	taxi
+REL	in
+PRX	this
+CON	city
+NIL	.

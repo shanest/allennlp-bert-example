@@ -1,0 +1,15 @@
+HAS	My
+TOP	youngest
+ROL	sister
+NOW	is
+DIS	a
+ROL	teacher
+NIL	,
+HAS	my
+TOP	oldest
+CON	one
+EQU	,
+DIS	a
+IST	medical
+CON	doctor
+NIL	.

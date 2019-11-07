@@ -1,0 +1,13 @@
+PRO	I
+FUT	'll
+EXS	bet
+PRO	you
+POS	ca
+NOT	n't
+EXS	guess
+QUE	what
+EPS	happened
+REL	to
+PRO	me
+NOW	today
+NIL	.

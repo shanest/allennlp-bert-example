@@ -1,0 +1,10 @@
+PRO	She
+NOW	is
+EXS	brave
+SUB	to
+EXS	live
+AND	alone
+REL	in
+DEF	the
+CON	desert
+NIL	.

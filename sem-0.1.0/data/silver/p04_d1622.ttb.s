@@ -1,0 +1,16 @@
+DEF	The
+TOP	slowest
+CON	one
+SUB	to
+EXS	make
+DIS	a
+CON	promise
+NOW	is
+DEF	the
+TOP	most
+IST	faithful
+CON	one
+REL	in
+EXG	keeping
+PRO	it
+NIL	.

@@ -1,0 +1,9 @@
+PRO	She
+EPS	gave
+PRO	me
+DIS	a
+CON	bag
+EPS	made
+AND	of
+CON	leather
+NIL	.

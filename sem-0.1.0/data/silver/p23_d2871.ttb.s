@@ -1,0 +1,10 @@
+PER	Keiko
+HAS	's
+CON	parents
+EPS	talked
+HAS	her
+IST	out
+AND	of
+EXG	dating
+PRO	him
+NIL	.

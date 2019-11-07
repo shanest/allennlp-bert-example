@@ -1,0 +1,16 @@
+PRO	I
+NEC	should
+EXS	like
+SUB	to
+EXS	introduce
+SUB	to
+PRO	you
+DEF	the
+CON	gentleman
+PRO	I
+EPS	spoke
+AND	of
+DEF	the
+ALT	other
+CON	day
+NIL	.

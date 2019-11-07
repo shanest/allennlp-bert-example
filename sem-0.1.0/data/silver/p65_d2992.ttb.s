@@ -1,0 +1,14 @@
+AND	Even
+DEF	the
+IST	periodical
+CON	pay
+CON	raise
+POS	could
+NOT	not
+EXS	keep
+IST	abreast
+AND	of
+MOR	higher
+EXG	living
+CON	costs
+NIL	.

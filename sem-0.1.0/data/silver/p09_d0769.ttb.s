@@ -1,0 +1,9 @@
+NOW	Are
+PRO	you
+EXG	saying
+HAS	my
+CON	life
+NOW	is
+REL	in
+CON	danger
+QUE	?

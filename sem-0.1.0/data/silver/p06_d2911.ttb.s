@@ -1,0 +1,10 @@
+PER	Tom
+EPS	claimed
+SUB	that
+PRO	he
+EPS	came
+REL	from
+DIS	a
+IST	rich
+CON	family
+NIL	.

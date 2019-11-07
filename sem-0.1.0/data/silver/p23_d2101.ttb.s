@@ -1,0 +1,13 @@
+AND	All
+IST	economic
+CON	problems
+FUT	would
+EXS	be
+EXS	solved
+NIL	,
+IMP	if
+PRO	they
+EPS	made
+CON	complacency
+IST	taxable
+NIL	.

@@ -1,0 +1,14 @@
+REL	In
+DIS	a
+CON	democracy
+NIL	,
+PRO	it
+NOW	's
+IST	important
+REL	for
+DEF	the
+CON	press
+SUB	to
+EXS	be
+IST	independent
+NIL	.

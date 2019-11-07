@@ -1,0 +1,11 @@
+PRO	I
+ENS	need
+DIS	a
+CON	pair
+AND	of
+CON	scissors
+SUB	to
+EXS	cut
+PRX	this
+CON	paper
+NIL	.

@@ -1,0 +1,16 @@
+PRO	I
+IST	never
+EPS	imagined
+SUB	that
+HAS	my
+CON	skills
+AND	as
+DIS	a
+ROL	lawyer
+FUT	would
+EXS	be
+EXS	used
+SUB	to
+EXS	defend
+PER	Tom
+NIL	.

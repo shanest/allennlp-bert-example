@@ -1,0 +1,9 @@
+PRO	We
+EPS	spent
+INT	too
+QUC	much
+REL	for
+DEF	the
+IST	Christmas
+CON	presents
+NIL	.

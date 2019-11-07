@@ -1,0 +1,10 @@
+DEF	The
+IST	big
+CON	question
+NOW	is
+QUE	what
+NOW	do
+PRO	we
+NOW	do
+NOW	now
+NIL	.

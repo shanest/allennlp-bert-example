@@ -1,0 +1,10 @@
+QUE	What
+PST	did
+PRO	you
+EXS	do
+SUB	to
+EXS	get
+EXT	expelled
+REL	from
+CON	school
+QUE	?

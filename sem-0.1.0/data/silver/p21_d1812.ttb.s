@@ -1,0 +1,11 @@
+PRO	It
+FUT	'll
+EXS	be
+IST	easy
+SUB	to
+EXS	finish
+PRX	this
+CON	job
+REL	by
+DOW	Tuesday
+NIL	.

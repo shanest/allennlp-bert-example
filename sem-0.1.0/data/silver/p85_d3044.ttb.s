@@ -1,0 +1,12 @@
+GPO	British
+AND	and
+GPO	Japanese
+CON	cars
+NOW	have
+EXS	steering
+CON	wheels
+REL	on
+DEF	the
+IST	right
+CON	side
+NIL	.

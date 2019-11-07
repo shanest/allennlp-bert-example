@@ -1,0 +1,11 @@
+PER	Tom
+EPS	tied
+DEF	the
+CON	canoe
+REL	to
+DEF	the
+CON	top
+AND	of
+HAS	his
+CON	car
+NIL	.

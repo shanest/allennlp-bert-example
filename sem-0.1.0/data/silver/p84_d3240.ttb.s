@@ -1,0 +1,12 @@
+REL	In
+GPE	Japan
+NIL	,
+CON	people
+IST	legally
+EXS	become
+CON	adults
+SUB	when
+PRO	they
+NOW	turn
+QUC	twenty
+NIL	.

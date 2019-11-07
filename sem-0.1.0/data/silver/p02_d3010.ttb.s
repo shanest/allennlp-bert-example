@@ -1,0 +1,12 @@
+ORG	Travel
+AND	and
+IST	public
+CON	speaking
+NOW	are
+IST	integral
+CON	parts
+AND	of
+PER	Tom
+HAS	's
+CON	job
+NIL	.

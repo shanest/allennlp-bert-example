@@ -1,0 +1,13 @@
+PER	Tom
+EPS	gave
+IST	up
+HAS	his
+CON	teaching
+CON	job
+SUB	to
+EXS	become
+DIS	a
+IST	full-time
+CON	studio
+CON	musician
+NIL	.

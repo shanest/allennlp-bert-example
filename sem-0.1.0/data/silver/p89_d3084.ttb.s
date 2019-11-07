@@ -1,0 +1,9 @@
+PRO	I
+NEC	have
+NIL	to
+EXS	give
+REL	in
+REL	to
+HAS	his
+CON	order
+NIL	.

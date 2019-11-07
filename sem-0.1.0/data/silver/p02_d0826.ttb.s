@@ -1,0 +1,10 @@
+PRO	I
+FUT	'll
+EXS	come
+SUB	when
+PRO	I
+NOW	have
+EXS	done
+HAS	my
+CON	homework
+NIL	.

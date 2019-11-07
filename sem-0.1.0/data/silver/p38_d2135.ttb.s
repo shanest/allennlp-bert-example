@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+EXS	used
+SUB	to
+EXS	eating
+REL	in
+DIS	a
+CON	rush
+NIL	.

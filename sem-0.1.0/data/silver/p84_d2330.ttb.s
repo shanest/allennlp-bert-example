@@ -1,0 +1,12 @@
+PRO	You
+NOW	've
+NOT	never
+PFT	been
+IST	as
+EXS	busy
+SUB	as
+PRO	I
+NOW	am
+EXS	right
+NOW	now
+NIL	.

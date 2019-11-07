@@ -1,0 +1,10 @@
+ITJ	Well
+NIL	,
+DIS	someone
+NOW	's
+FUT	gonna
+NEC	have
+SUB	to
+EXS	do
+PRO	it
+NIL	.

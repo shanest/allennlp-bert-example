@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+PRO	you
+NOW	're
+REL	in
+CON	love
+REL	with
+PRO	me
+NIL	.

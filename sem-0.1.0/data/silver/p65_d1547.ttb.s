@@ -1,0 +1,13 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	take
+IST	up
+INT	too
+QUC	much
+AND	of
+HAS	your
+CON	time
+NIL	.

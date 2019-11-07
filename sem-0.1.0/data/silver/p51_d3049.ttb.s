@@ -1,0 +1,11 @@
+ITJ	Oh
+NIL	,
+IST	yes
+NIL	.
+PRO	I
+IST	sometimes
+EXS	see
+PRO	him
+REL	on
+CON	TV
+NIL	.

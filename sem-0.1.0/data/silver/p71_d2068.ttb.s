@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	know
+QUE	why
+PER	Tom
+NOW	is
+EXS	doing
+PRX	this
+NIL	.

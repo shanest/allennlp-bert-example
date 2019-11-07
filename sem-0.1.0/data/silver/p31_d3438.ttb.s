@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+NOT	never
+EXT	said
+AND	such
+DIS	a
+IST	stupid
+CON	thing
+NIL	.

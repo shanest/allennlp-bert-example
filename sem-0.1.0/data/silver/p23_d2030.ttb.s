@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+REL	to
+PER	Tom
+HAS	's
+CON	house
+SUB	to
+EXS	study
+NIL	.

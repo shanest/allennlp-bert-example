@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+DEF	the
+CON	reason
+SUB	that
+PRO	she
+EPS	quit
+HAS	her
+CON	job
+NIL	.

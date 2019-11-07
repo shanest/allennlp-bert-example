@@ -1,0 +1,10 @@
+DEF	The
+ROL	poet
+NOW	is
+NOT	not
+EXS	used
+SUB	to
+EXS	speaking
+REL	in
+CON	public
+NIL	.

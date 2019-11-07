@@ -1,0 +1,13 @@
+NOW	Does
+PER	Betty
+HAS	's
+CON	son
+ENS	know
+SUB	that
+HAS	his
+CON	mother
+NOW	is
+DIS	a
+IST	serial
+CON	killer
+QUE	?

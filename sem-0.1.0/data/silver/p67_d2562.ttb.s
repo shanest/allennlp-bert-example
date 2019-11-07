@@ -1,0 +1,10 @@
+PRO	He
+EPS	bought
+SUB	that
+CON	house
+AND	because
+HAS	his
+CON	wife
+EPS	liked
+PRO	it
+NIL	.

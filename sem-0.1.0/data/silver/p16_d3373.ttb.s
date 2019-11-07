@@ -1,0 +1,12 @@
+PRO	She
+POS	ca
+NOT	n't
+IST	even
+EXS	speak
+HAS	her
+IST	native
+CON	language
+NOT	without
+EXG	making
+CON	mistakes
+NIL	.

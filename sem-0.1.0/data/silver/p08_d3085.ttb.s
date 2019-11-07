@@ -1,0 +1,14 @@
+DEF	The
+CON	future
+NOW	belongs
+REL	to
+DST	those
+AND	who
+ENS	believe
+REL	in
+DEF	the
+CON	beauty
+AND	of
+HAS	their
+CON	dreams
+NIL	.

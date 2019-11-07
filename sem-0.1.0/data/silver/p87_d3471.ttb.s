@@ -1,0 +1,15 @@
+PRO	You
+EPS	opened
+IST	up
+HAS	my
+CON	eyes
+SUB	to
+QUE	what
+PRO	it
+NOW	's
+EXS	like
+SUB	when
+AND	everything
+NOW	is
+EXS	right
+NIL	.

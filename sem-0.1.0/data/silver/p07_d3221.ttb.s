@@ -1,0 +1,15 @@
+PRO	We
+NOW	're
+EXG	expecting
+APX	about
+QUC	3,000
+CON	people
+SUB	to
+EXS	come
+REL	to
+HAS	our
+CON	concert
+REL	in
+DEF	the
+CON	park
+NIL	.

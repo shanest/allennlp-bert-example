@@ -1,0 +1,10 @@
+EXS	Stop
+EXS	sticking
+HAS	your
+CON	nose
+REL	into
+ALT	other
+CON	people
+HAS	's
+CON	business
+NIL	.

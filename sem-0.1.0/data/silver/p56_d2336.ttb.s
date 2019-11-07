@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+IST	already
+PFT	been
+QUC	ten
+CON	years
+SUB	since
+PRO	we
+PST	got
+EXS	married
+NIL	.

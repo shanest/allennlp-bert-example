@@ -1,0 +1,11 @@
+PRO	We
+NOW	have
+NOT	n't
+EXS	tried
+DEF	the
+CON	drug
+AND	out
+REL	on
+CON	humans
+ALT	yet
+NIL	.

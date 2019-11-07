@@ -1,0 +1,11 @@
+PER	Tom
+ENS	says
+PRO	he
+POS	ca
+NOT	n't
+EXS	ignore
+DEF	the
+CON	noise
+AND	any
+IST	longer
+NIL	.

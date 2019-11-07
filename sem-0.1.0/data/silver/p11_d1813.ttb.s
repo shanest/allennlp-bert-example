@@ -1,0 +1,9 @@
+SUB	When
+PRO	I
+EPS	heard
+PRO	it
+NIL	,
+PRO	I
+PST	was
+EXS	dumbfounded
+NIL	.

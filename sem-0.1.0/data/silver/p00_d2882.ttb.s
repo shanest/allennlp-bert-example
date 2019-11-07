@@ -1,0 +1,12 @@
+PER	Tom
+EPS	changed
+DIS	a
+IST	few
+CON	words
+REL	on
+DEF	the
+CON	report
+COO	and
+EPS	resubmitted
+PRO	it
+NIL	.

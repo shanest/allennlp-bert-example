@@ -1,0 +1,11 @@
+REL	On
+DEF	the
+IST	following
+CON	day
+NIL	,
+PRO	we
+AND	all
+PST	had
+IST	terrible
+CON	hangovers
+NIL	.

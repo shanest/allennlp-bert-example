@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+NOW	is
+INT	too
+EXS	stubborn
+SUB	to
+EXS	admit
+HAS	his
+CON	faults
+NIL	.

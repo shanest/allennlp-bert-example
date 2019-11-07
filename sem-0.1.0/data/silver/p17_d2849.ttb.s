@@ -1,0 +1,13 @@
+PER	Tom
+EPS	knew
+AND	who
+PRO	I
+PST	was
+EXS	trying
+SUB	to
+EXS	get
+SUB	to
+EXS	join
+HAS	our
+CON	team
+NIL	.

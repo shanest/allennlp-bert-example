@@ -1,0 +1,11 @@
+PRO	I
+CON	foam
+REL	at
+DEF	the
+CON	mouth
+AND	whenever
+DIS	someone
+CON	mentions
+HAS	his
+CON	name
+NIL	.

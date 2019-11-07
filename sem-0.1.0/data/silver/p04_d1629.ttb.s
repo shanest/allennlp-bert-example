@@ -1,0 +1,10 @@
+PRO	She
+POS	can
+EXS	speak
+GPO	French
+AND	and
+PRO	she
+ENS	speaks
+PRO	it
+CON	fluently
+NIL	.

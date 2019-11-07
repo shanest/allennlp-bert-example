@@ -1,0 +1,17 @@
+PER	Tom
+NOW	's
+DIS	a
+CON	creature
+AND	of
+CON	habit
+NIL	,
+COO	and
+NOW	does
+INT	pretty
+QUV	much
+DEF	the
+IST	same
+CON	things
+AND	every
+CON	day
+NIL	.

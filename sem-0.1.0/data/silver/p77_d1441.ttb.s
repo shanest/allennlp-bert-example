@@ -1,0 +1,11 @@
+FUT	Tomorrow
+PRO	he
+FUT	'll
+TOP	at
+EXS	least
+EXS	be
+IST	able
+SUB	to
+EXS	drink
+DIS	something
+NIL	.

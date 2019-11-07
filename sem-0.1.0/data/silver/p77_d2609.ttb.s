@@ -1,0 +1,10 @@
+ROL	President
+PER	Jefferson
+EPS	ordered
+DIS	a
+CON	ban
+REL	on
+CON	trade
+REL	with
+GEO	Europe
+NIL	.

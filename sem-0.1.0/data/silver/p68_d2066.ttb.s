@@ -1,0 +1,11 @@
+PRO	It
+NOW	looks
+AND	like
+PRO	you
+NOW	've
+EXS	put
+REL	on
+DIS	a
+IST	little
+CON	weight
+NIL	.

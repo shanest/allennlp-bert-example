@@ -1,0 +1,9 @@
+DEF	The
+ROL	farmer
+ENS	keeps
+HAS	his
+CON	tractor
+REL	in
+DEF	the
+CON	barn
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+ENS	doubts
+IMP	if
+PER	Mary
+FUT	will
+EXS	keep
+HAS	her
+CON	promise
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	hope
+PER	Tom
+HAS	's
+NOT	not
+INT	too
+IST	mad
+REL	at
+PRO	me
+NIL	.

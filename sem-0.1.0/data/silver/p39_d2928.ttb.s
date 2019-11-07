@@ -1,0 +1,12 @@
+PRO	You
+NOW	're
+EXS	lying
+COO	and
+PRO	you
+NOW	're
+NOT	not
+INT	very
+EXS	good
+REL	at
+PRO	it
+NIL	.

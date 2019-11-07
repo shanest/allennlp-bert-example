@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+PRO	you
+NEC	have
+SUB	to
+EXS	go
+IST	back
+REL	to
+GPE	Boston
+NIL	.

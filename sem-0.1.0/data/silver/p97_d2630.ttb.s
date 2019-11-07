@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+HAS	my
+CON	mother
+NOW	is
+IST	out
+REL	at
+DEF	the
+CON	moment
+NIL	.

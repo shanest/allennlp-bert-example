@@ -1,0 +1,13 @@
+PRO	I
+NOW	've
+IST	already
+EXT	said
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	how
+SUB	to
+EXS	do
+PRO	it
+NIL	.

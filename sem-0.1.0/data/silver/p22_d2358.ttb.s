@@ -1,0 +1,12 @@
+PRO	I
+PST	thought
+PRO	it
+FUT	would
+EXS	be
+TOP	best
+IMP	if
+PRO	you
+EPS	told
+PER	Tom
+REF	yourself
+NIL	.

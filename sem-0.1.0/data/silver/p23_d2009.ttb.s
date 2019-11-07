@@ -1,0 +1,9 @@
+CON	Love
+AND	and
+DIS	a
+CON	cough
+POS	can
+NOT	not
+EXS	be
+EPS	hid
+NIL	.

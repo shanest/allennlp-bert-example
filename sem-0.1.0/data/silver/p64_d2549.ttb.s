@@ -1,0 +1,10 @@
+AND	All
+SUB	that
+PRO	I
+ENS	know
+NOW	is
+SUB	that
+PER	Tom
+NOW	is
+EXG	lying
+NIL	.

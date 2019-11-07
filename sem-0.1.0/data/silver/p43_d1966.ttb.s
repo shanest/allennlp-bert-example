@@ -1,0 +1,10 @@
+PRO	I
+PST	had
+PFT	been
+EXS	waiting
+DIS	an
+CON	hour
+SUB	when
+PRO	he
+EPS	appeared
+NIL	.

@@ -1,0 +1,12 @@
+SUB	When
+DEF	the
+ROL	sisters
+EPS	came
+IST	back
+NIL	,
+HAS	their
+CON	mother
+PST	was
+IST	still
+EXS	awake
+NIL	.

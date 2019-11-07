@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+EXS	possible
+SUB	that
+DEF	the
+CON	victim
+NOW	is
+EXS	wounded
+REL	in
+DEF	the
+CON	head
+NIL	.

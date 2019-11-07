@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXG	turning
+IST	down
+DEF	the
+CON	sound
+REL	of
+DEF	the
+CON	radio
+NIL	.

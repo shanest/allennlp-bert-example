@@ -1,0 +1,10 @@
+PRO	You
+NOW	've
+EXS	chosen
+DIS	a
+IST	good
+CON	time
+SUB	to
+EXS	visit
+GPE	Boston
+NIL	.

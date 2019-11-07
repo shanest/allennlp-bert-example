@@ -1,0 +1,11 @@
+PRO	He
+EPS	fell
+COO	and
+EPS	broke
+HAS	his
+CON	arm
+SUB	while
+PRO	he
+PST	was
+CON	skiing
+NIL	.

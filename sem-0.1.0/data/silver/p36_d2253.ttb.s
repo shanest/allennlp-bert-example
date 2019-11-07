@@ -1,0 +1,13 @@
+PRO	You
+NOW	are
+NOT	n't
+DEF	the
+XCL	only
+QUC	one
+AND	who
+HAS	's
+REL	in
+CON	love
+REL	with
+PER	Mary
+NIL	.

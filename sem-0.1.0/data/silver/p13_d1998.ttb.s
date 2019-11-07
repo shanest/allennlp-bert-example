@@ -1,0 +1,9 @@
+DEF	The
+CON	book
+PRO	you
+EPS	gave
+PRO	me
+NOW	is
+INT	very
+EXS	interesting
+NIL	.

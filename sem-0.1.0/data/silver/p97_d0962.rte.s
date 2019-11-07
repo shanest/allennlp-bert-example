@@ -1,0 +1,16 @@
+REL	In
+IST	most
+CON	cases
+NIL	,
+DEF	the
+CON	patient
+NOW	is
+IST	comatose
+DIS	or
+IST	mentally
+IST	unable
+SUB	to
+EXS	communicate
+NIL	his/her
+CON	feelings
+NIL	.

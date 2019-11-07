@@ -1,0 +1,10 @@
+NOT	No
+CON	city
+REL	in
+GEO	Europe
+NOW	is
+INT	so
+IST	populous
+AND	as
+GPE	Tokyo
+NIL	.

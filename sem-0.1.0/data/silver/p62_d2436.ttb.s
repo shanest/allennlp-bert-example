@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+NOT	not
+EXS	interested
+REL	in
+QUE	what
+PER	Tom
+ENS	thinks
+NIL	.

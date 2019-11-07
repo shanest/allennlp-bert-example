@@ -1,0 +1,14 @@
+PRO	I
+EPS	drank
+DIS	some
+AND	of
+DEF	the
+CON	milk
+COO	and
+EPS	kept
+DEF	the
+CON	rest
+REL	in
+DEF	the
+CON	refrigerator
+NIL	.

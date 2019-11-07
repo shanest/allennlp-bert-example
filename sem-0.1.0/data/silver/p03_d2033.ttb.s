@@ -1,0 +1,17 @@
+PRO	I
+NOW	'm
+EXS	grateful
+SUB	to
+PRO	him
+REL	for
+EXG	catching
+HAS	my
+CON	hat
+SUB	that
+PRO	I
+EPS	lost
+REL	on
+DEF	the
+IST	windy
+CON	street
+NIL	.

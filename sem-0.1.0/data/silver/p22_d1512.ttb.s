@@ -1,0 +1,9 @@
+PER	Tom
+NOW	looks
+IST	just
+EXS	like
+DIS	a
+CON	guy
+PRO	I
+ENS	know
+NIL	.

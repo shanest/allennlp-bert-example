@@ -1,0 +1,15 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	you
+PST	were
+DIS	a
+CON	victim
+AND	of
+CON	racism
+SUB	when
+PRO	you
+PST	were
+DIS	a
+CON	kid
+NIL	.

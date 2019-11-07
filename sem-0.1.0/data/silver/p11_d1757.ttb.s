@@ -1,0 +1,9 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	become
+DIS	a
+ROL	teacher
+AND	of
+CON	Japanese
+NIL	.

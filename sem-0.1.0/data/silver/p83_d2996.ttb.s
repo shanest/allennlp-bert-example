@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXG	sending
+PRO	you
+DIS	a
+CON	birthday
+EXS	present
+REL	by
+CON	airmail
+NIL	.

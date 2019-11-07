@@ -1,0 +1,12 @@
+CON	Perseverance
+NIL	,
+SUB	as
+PRO	you
+ENS	know
+NIL	,
+NOW	is
+DEF	the
+CON	key
+REL	to
+CON	success
+NIL	.

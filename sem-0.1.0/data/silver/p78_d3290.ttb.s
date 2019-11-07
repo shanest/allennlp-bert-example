@@ -1,0 +1,9 @@
+EXS	Tell
+PRO	me
+QUE	what
+PRO	you
+ENS	want
+PRO	me
+SUB	to
+EXS	do
+NIL	.

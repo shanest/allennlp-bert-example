@@ -1,0 +1,10 @@
+DEF	The
+CON	Shitennouji
+NOW	is
+DEF	the
+INT	most
+IST	ancient
+CON	temple
+REL	in
+GPE	Japan
+NIL	.

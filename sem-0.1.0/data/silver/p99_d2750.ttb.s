@@ -1,0 +1,9 @@
+QUE	Who
+HAS	's
+DEF	the
+CON	guy
+PER	Tom
+NOW	is
+EXS	talking
+REL	to
+QUE	?

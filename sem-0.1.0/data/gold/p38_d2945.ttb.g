@@ -1,0 +1,14 @@
+DEF	The
+CON	food
+REL	in
+HAS	my
+CON	country
+NOW	is
+NOT	not
+INT	very
+IST	different
+REL	from
+PRO	that
+REL	of
+GPE	Spain
+NIL	.

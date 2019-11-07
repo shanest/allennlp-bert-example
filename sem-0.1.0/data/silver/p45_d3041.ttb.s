@@ -1,0 +1,10 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	perform
+REL	at
+GEO	Carnegie
+GEO	Hall
+FUT	someday
+NIL	.

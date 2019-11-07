@@ -1,0 +1,12 @@
+PRO	You
+ENS	see
+REL	in
+PRX	this
+CON	world
+UNK	there
+NOW	are
+XCL	only
+DEF	scoundrels
+AND	and
+CON	hypocrites
+NIL	.

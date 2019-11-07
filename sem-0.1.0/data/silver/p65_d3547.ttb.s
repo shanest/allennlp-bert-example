@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+EXS	known
+REL	to
+PRO	us
+AND	all
+AND	as
+DIS	a
+CON	novelist
+NIL	.

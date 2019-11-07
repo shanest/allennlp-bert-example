@@ -1,0 +1,15 @@
+PRO	I
+PST	had
+DIS	a
+IST	hard
+CON	time
+EXS	trying
+SUB	to
+EXS	talk
+PRO	him
+IST	out
+AND	of
+EXG	taking
+DEF	the
+CON	trip
+NIL	.

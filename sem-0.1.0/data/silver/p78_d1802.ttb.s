@@ -1,0 +1,10 @@
+CON	Fold
+DEF	the
+CON	napkins
+COO	and
+EPS	put
+QUC	one
+REL	by
+AND	each
+CON	plate
+NIL	.

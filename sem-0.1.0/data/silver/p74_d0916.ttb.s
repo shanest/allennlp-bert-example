@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	mind
+SUB	that
+PER	Mary
+PST	had
+IST	small
+CON	breasts
+NIL	.

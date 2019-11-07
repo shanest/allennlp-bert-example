@@ -1,0 +1,25 @@
+PER	Tom
+HAS	's
+CON	mind
+PST	was
+EXS	divided
+REL	into
+QUC	ten
+ALT	different
+CON	personalities
+NIL	,
+AND	who
+IST	alternately
+EPS	took
+CON	control
+NIL	.
+PRO	They
+AND	all
+EPS	knew
+REF	each other
+COO	and
+EXS	considered
+REF	themselves
+ALT	different
+CON	individuals
+NIL	.

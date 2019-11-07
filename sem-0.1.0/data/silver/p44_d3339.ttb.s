@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+POS	can
+EXS	deny
+DEF	the
+CON	fact
+AND	that
+CON	fire
+ENS	burns
+NIL	.

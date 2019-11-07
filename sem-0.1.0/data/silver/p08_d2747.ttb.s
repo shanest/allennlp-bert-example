@@ -1,0 +1,12 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+NOW	'm
+EXS	concerned
+DEF	the
+CON	topic
+NOW	is
+IST	worth
+EXS	discussing
+NIL	.

@@ -1,0 +1,10 @@
+AND	Seeing
+PRO	you
+IST	always
+NOW	makes
+PRO	me
+NOW	think
+AND	about
+HAS	my
+ROL	father
+NIL	.

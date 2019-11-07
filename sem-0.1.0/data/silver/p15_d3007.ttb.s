@@ -1,0 +1,10 @@
+HAS	Your
+QUC	one
+CON	year
+EXS	stay
+REL	in
+GPE	Germany
+PST	was
+INT	very
+EXS	useful
+NIL	.

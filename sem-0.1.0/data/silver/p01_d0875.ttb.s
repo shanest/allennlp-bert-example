@@ -1,0 +1,12 @@
+SUB	When
+PRO	I
+EPS	entered
+DEF	the
+CON	room
+NIL	,
+PRO	she
+PST	was
+EXG	playing
+DEF	the
+CON	piano
+NIL	.

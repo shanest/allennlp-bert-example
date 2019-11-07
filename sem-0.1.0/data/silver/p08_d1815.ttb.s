@@ -1,0 +1,9 @@
+PRO	You
+ENS	need
+SUB	to
+EXS	follow
+HAS	your
+ROL	mother
+HAS	's
+CON	advice
+NIL	.

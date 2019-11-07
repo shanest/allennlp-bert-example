@@ -1,0 +1,9 @@
+DEF	The
+CON	sentence
+REL	with
+DEF	the
+EXG	preceding
+CON	number
+NOW	is
+EXS	false
+NIL	.

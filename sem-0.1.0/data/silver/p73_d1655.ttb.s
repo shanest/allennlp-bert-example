@@ -1,0 +1,12 @@
+PRO	It
+EPS	took
+PRO	me
+QUC	five
+CON	hours
+SUB	to
+EXS	drive
+REL	from
+PRX	here
+REL	to
+GEO	Tokyo
+NIL	.

@@ -1,0 +1,11 @@
+CON	Rocks
+AND	and
+CON	minerals
+NOW	are
+EXS	useful
+REL	for
+PRO	us
+REL	in
+QUV	many
+CON	ways
+NIL	.

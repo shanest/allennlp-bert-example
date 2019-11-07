@@ -1,0 +1,14 @@
+QUC	One
+CON	thing
+PRO	I
+NOW	've
+IST	always
+EPS	wanted
+SUB	to
+EXS	do
+NOW	is
+EXS	run
+HAS	my
+IST	own
+CON	restaurant
+NIL	.

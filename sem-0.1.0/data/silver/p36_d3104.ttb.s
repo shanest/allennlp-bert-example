@@ -1,0 +1,14 @@
+REL	In
+DEF	the
+CON	beginning
+PRO	I
+PST	did
+NOT	not
+EXS	like
+PRO	him
+NIL	,
+BUT	but
+NOW	now
+PRO	I
+NOW	do
+NIL	.

@@ -1,0 +1,12 @@
+DEF	The
+ROL	policeman
+EPS	told
+PRO	me
+SUB	that
+DEF	the
+IST	last
+CON	bus
+ENS	leaves
+REL	at
+CLO	ten
+NIL	.

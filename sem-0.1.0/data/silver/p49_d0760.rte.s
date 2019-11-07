@@ -1,0 +1,15 @@
+REL	In
+YOC	2001
+NIL	,
+DEF	the
+ORG	EU
+EPS	introduced
+DIS	a
+IST	six-month
+IST	compulsory
+CON	quarantine
+REL	for
+AND	all
+IST	domestic
+CON	pets
+NIL	.

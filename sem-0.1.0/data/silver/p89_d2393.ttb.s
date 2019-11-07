@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	entered
+AND	through
+DEF	the
+IST	back
+CON	door
+NIL	.

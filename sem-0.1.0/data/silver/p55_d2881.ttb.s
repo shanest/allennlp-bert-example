@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+NOT	not
+EXS	stupid
+NIL	.
+PRO	I
+NOW	'm
+IST	just
+EXS	bad
+REL	at
+CON	math
+NIL	.

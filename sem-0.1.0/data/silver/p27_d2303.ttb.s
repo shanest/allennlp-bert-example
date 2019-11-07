@@ -1,0 +1,10 @@
+POS	Possibly
+DEF	the
+CON	factory
+FUT	will
+EXS	be
+EXS	closed
+IST	down
+IST	next
+CON	week
+NIL	.

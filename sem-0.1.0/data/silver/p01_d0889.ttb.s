@@ -1,0 +1,13 @@
+DEF	The
+CON	world
+NOW	is
+DIS	a
+IST	grand
+CON	ball
+REL	in
+AND	which
+AND	everyone
+ENS	wears
+DIS	a
+CON	mask
+NIL	.

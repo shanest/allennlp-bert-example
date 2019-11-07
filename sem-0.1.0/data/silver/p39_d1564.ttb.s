@@ -1,0 +1,9 @@
+SUB	When
+PRO	you
+NOW	're
+EXS	right
+NIL	,
+PRO	you
+NOW	're
+EXS	right
+NIL	.

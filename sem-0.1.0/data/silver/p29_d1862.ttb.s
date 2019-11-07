@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	began
+CON	spending
+IST	more
+CON	time
+IST	together
+NIL	.

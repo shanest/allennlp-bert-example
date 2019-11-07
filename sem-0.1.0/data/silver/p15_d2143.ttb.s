@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+EPS	knew
+REL	for
+IST	certain
+QUE	how
+DEF	the
+CON	accident
+EPS	happened
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	believe
+PRO	you
+NIL	.
+PRO	You
+NOW	're
+AND	always
+EXG	telling
+ENS	lies
+NIL	.

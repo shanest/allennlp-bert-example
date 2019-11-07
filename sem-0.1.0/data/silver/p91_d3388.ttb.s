@@ -1,0 +1,12 @@
+PRO	He
+EPS	went
+REL	to
+GPE	England
+REL	for
+DEF	the
+CON	purpose
+AND	of
+EXS	studying
+GPO	English
+CON	literature
+NIL	.

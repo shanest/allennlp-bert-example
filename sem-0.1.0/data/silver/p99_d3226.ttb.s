@@ -1,0 +1,12 @@
+PRO	I
+FUT	'd
+EXS	be
+EXS	curious
+SUB	to
+EXS	know
+QUE	what
+PER	Tom
+ENS	has
+SUB	to
+EXS	say
+NIL	.

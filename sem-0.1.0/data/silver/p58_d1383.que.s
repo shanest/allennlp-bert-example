@@ -1,0 +1,11 @@
+CON	Where
+PST	was
+DEF	the
+CON	movie
+NIL	"
+AND	Somewhere
+REL	in
+CON	Time
+NIL	"
+EXS	filmed
+QUE	?

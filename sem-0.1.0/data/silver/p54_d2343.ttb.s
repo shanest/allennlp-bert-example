@@ -1,0 +1,17 @@
+PRO	He
+EPS	ran
+IST	off
+REL	with
+HAS	his
+TOP	best
+CON	friend
+HAS	's
+CON	wife
+COO	and
+NOW	has
+NOT	n't
+PFT	been
+EXS	heard
+REL	from
+REL	since
+NIL	.

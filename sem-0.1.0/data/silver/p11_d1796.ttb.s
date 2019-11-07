@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+PER	Mary
+IMP	if
+PRO	she
+EPS	knew
+HAS	his
+IST	new
+CON	address
+NIL	.

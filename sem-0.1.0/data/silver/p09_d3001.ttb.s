@@ -1,0 +1,12 @@
+NOT	Without
+HAS	his
+CON	glasses
+NIL	,
+PRO	he
+NOW	is
+AND	as
+EXS	blind
+AND	as
+DIS	a
+CON	bat
+NIL	.

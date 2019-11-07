@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	sleep
+REL	on
+DEF	the
+CON	couch
+ALT	again
+CON	tonight
+NIL	.

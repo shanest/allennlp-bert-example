@@ -1,0 +1,9 @@
+PRO	She
+EPS	bought
+DIS	a
+IST	new
+CON	house
+DEF	the
+ALT	other
+CON	day
+NIL	.

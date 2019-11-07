@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+ENS	knows
+SUB	whether
+PRO	he
+ENS	loves
+PRO	her
+DIS	or
+NOT	not
+NIL	.

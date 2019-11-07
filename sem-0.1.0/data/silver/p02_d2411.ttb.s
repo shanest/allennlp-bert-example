@@ -1,0 +1,10 @@
+PRO	I
+FUT	wo
+NOT	n't
+EXS	tell
+DIS	anyone
+IMP	if
+PRO	you
+FUT	wo
+NOT	n't
+NIL	.

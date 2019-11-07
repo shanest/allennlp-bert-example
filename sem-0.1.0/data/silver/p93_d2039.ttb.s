@@ -1,0 +1,14 @@
+SUB	When
+DEF	the
+ROL	president
+NOW	does
+PRO	it
+NIL	,
+AND	that
+NOW	means
+SUB	that
+PRO	it
+NOW	is
+NOT	not
+IST	illegal
+NIL	.

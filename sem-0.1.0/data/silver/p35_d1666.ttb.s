@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+IST	constantly
+EXS	telling
+PRO	her
+SUB	to
+EXS	behave
+REF	herself
+NIL	.

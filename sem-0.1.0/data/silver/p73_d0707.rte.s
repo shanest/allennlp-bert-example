@@ -1,0 +1,21 @@
+ART	Hubble
+NOW	is
+DIS	a
+CON	satellite
+REL	in
+CON	orbit
+AND	about
+QUC	355
+UOM	miles
+REL	above
+GEO	Earth
+NIL	.
+PER	Space shuttles
+NOW	have
+EXS	made
+QUC	four
+EXG	servicing
+CON	flights
+REL	to
+ART	Hubble
+NIL	.

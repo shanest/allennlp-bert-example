@@ -1,0 +1,17 @@
+PRO	They
+EPS	took
+DIS	a
+QUC	two
+CON	week
+CON	vacation
+REL	on
+DEF	Phuket
+CON	island
+REL	in
+IST	southern
+GEO	Thailand
+AND	through
+DIS	a
+CON	travel
+CON	agency
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	fail
+DIS	a
+CON	subject
+NIL	.

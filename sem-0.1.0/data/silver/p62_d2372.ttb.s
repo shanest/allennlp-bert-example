@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	.
+PRO	I
+PST	thought
+PRO	I
+PST	had
+IST	already
+EXS	responded
+REL	to
+PRO	you
+NIL	.

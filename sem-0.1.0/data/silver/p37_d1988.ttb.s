@@ -1,0 +1,11 @@
+REL	At
+DEF	the
+TOP	most
+NIL	,
+DEF	the
+CON	trip
+FUT	will
+EXS	cost
+UOM	$
+QUC	1,000
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+NOW	has
+EXS	arranged
+REL	for
+PER	Mary
+SUB	to
+EXS	meet
+PER	John
+REL	on
+DOW	Wednesday
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	told
+SUB	that
+PRO	he
+NOW	is
+EXS	ill
+REL	in
+CON	bed
+NIL	.

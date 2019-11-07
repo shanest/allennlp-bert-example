@@ -1,0 +1,10 @@
+AND	Just
+EXS	tell
+PRO	me
+QUE	what
+PRO	I
+ENS	need
+SUB	to
+EXS	tell
+PER	Tom
+NIL	.

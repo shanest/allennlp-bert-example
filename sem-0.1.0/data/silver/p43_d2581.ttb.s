@@ -1,0 +1,13 @@
+PER	Tom
+HAS	's
+CON	parents
+PST	were
+EXS	disappointed
+SUB	that
+PRO	he
+POS	could
+NOT	n't
+EXS	get
+REL	into
+ORG	Harvard
+NIL	.

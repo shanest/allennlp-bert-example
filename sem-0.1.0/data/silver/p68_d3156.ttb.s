@@ -1,0 +1,14 @@
+PRO	We
+ENS	know
+SUB	that
+PER	Tom
+NOW	has
+PFT	been
+EXS	shot
+NIL	.
+DST	That
+HAS	's
+AND	all
+PRO	we
+ENS	know
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+ENS	like
+PER	Tom
+NIL	.
+PRO	He
+NOW	's
+DIS	a
+IST	nice
+CON	guy
+NIL	.

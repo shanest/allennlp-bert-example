@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+EXS	impossible
+NOT	not
+SUB	to
+EXS	be
+EXS	fascinated
+REL	by
+HAS	his
+CON	beauty
+NIL	.

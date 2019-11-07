@@ -1,0 +1,11 @@
+PRO	It
+ENS	seems
+SUB	that
+PER	Tom
+NOW	is
+IST	unable
+SUB	to
+EXS	solve
+DEF	the
+CON	problem
+NIL	.

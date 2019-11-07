@@ -1,0 +1,10 @@
+NOT	Without
+EXS	saying
+GRE	goodbye
+NIL	,
+PRO	he
+EPS	disappeared
+REL	into
+DEF	the
+CON	crowd
+NIL	.

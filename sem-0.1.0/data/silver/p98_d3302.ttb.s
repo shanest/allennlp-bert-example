@@ -1,0 +1,9 @@
+QUC	Ten
+CON	years
+NOW	have
+EXS	gone
+REL	by
+REL	since
+HAS	her
+CON	death
+NIL	.

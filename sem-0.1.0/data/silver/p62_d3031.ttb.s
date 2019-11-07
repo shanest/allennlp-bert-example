@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+DIS	a
+CON	man
+AND	who
+POS	can
+EXS	speak
+GPO	French
+IST	well
+NIL	.

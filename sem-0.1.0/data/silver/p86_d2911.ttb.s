@@ -1,0 +1,15 @@
+DEF	Esperanto
+CON	sentence
+CON	structure
+SUB	(
+GEO	i.e.
+EQU	,
+CON	word
+CON	order
+NIL	)
+NOW	is
+INT	extremely
+IST	flexible
+AND	and
+IST	diverse
+NIL	.

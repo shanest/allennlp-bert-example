@@ -1,0 +1,9 @@
+PRO	He
+PST	was
+NOT	n't
+IST	able
+SUB	to
+EXS	attend
+DEF	the
+CON	party
+NIL	.

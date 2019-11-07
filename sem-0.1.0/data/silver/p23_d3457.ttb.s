@@ -1,0 +1,10 @@
+NOW	Has
+NOT	n't
+PRO	he
+EPS	looked
+REL	at
+REF	himself
+REL	in
+DIS	a
+CON	mirror
+QUE	?

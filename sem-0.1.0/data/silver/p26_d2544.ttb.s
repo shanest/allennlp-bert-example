@@ -1,0 +1,11 @@
+PRO	He
+EPS	used
+SUB	to
+EXS	ask
+PRO	me
+INT	so
+QUC	many
+CON	questions
+AND	about
+GPE	Germany
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	person
+PRO	I
+NOW	am
+EXS	writing
+REL	to
+NOW	is
+HAS	my
+CON	mother
+NIL	.

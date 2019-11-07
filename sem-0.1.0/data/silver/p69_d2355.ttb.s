@@ -1,0 +1,12 @@
+PER	John
+NOW	is
+EXS	going
+SUB	to
+EXS	tell
+PER	Lucy
+AND	about
+DEF	the
+CON	origin
+AND	of
+CON	rugby
+NIL	.

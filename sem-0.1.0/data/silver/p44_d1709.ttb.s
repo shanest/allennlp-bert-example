@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+EXS	having
+DIS	a
+CON	party
+REL	for
+HAS	my
+CON	birthday
+NIL	.
+NOW	Do
+PRO	you
+ENS	want
+SUB	to
+EXS	come
+QUE	?

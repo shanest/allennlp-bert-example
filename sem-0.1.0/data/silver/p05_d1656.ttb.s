@@ -1,0 +1,12 @@
+PER	Love
+HAS	your
+ROL	enemies
+NIL	,
+NOW	do
+EXS	good
+REL	to
+DST	those
+AND	who
+NOW	hate
+PRO	you
+NIL	.

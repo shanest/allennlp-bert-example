@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+DIS	a
+CON	consolation
+SUB	that
+NOT	no
+CON	one
+PST	was
+EXS	killed
+NIL	.

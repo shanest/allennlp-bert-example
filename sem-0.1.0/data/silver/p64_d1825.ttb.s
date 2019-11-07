@@ -1,0 +1,10 @@
+PER	Tom
+HAS	's
+REL	in
+CON	love
+REL	with
+PER	John
+HAS	's
+PST	ex
+ROL	wife
+NIL	.

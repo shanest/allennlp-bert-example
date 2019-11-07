@@ -1,0 +1,11 @@
+PRO	She
+EPS	got
+AND	all
+DEF	the
+IST	more
+EXS	angry
+SUB	because
+PRO	I
+PST	kept
+EXS	silent
+NIL	.

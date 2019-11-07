@@ -1,0 +1,9 @@
+PRX	This
+EXS	stuffed
+CON	animal
+NOW	belongs
+REL	to
+DEF	the
+IST	little
+CON	girl
+NIL	.

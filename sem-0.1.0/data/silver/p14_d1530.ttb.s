@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+EXS	going
+SUB	to
+EXS	be
+IST	more
+EXS	useful
+REL	in
+DEF	the
+IST	long
+CON	run
+NIL	.

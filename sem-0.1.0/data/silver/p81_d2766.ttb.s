@@ -1,0 +1,12 @@
+DEF	The
+CON	house
+NOW	is
+IST	small
+NIL	,
+COO	but
+PRO	it
+NOW	's
+IST	enough
+REL	for
+PRO	us
+NIL	.

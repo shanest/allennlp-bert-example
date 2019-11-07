@@ -1,0 +1,16 @@
+NIL	"
+PRO	I
+NOW	'm
+IST	too
+IST	old
+SUB	to
+EXS	be
+EXS	playing
+REL	with
+CON	bugs
+NIL	"
+NIL	,
+EPS	said
+DEF	the
+CON	boy
+NIL	.

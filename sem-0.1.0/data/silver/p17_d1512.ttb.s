@@ -1,0 +1,9 @@
+NOW	Now
+NIL	,
+EXS	quit
+EXS	being
+AND	so
+CON	blasé
+AND	about
+PRX	this
+NIL	.

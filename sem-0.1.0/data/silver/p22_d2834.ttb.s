@@ -1,0 +1,11 @@
+AND	Last
+DOW	Wednesday
+HAS	my
+CON	dog
+EPS	passed
+IST	away
+NIL	.
+PRO	She
+PST	was
+QUC	16
+NIL	.

@@ -1,0 +1,13 @@
+DEF	The
+CON	translation
+AND	of
+DEF	the
+GPO	French
+CON	novel
+EPS	took
+PRO	him
+MOR	more
+MOR	than
+QUC	three
+CON	months
+NIL	.

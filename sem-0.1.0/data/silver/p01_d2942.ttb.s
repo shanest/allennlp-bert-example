@@ -1,0 +1,9 @@
+PRO	She
+EPS	heard
+DIS	a
+CON	dog
+EXS	barking
+REL	in
+DEF	the
+CON	distance
+NIL	.

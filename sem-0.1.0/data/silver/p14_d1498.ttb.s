@@ -1,0 +1,11 @@
+PRO	I
+EPS	made
+IST	up
+HAS	my
+CON	mind
+SUB	to
+EXS	come
+PRX	here
+REL	after
+AND	all
+NIL	.

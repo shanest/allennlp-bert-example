@@ -1,0 +1,11 @@
+DEF	The
+CON	university
+PST	was
+EXS	founded
+REL	by
+HAS	his
+ROL	father
+QUC	twenty
+CON	years
+PST	ago
+NIL	.

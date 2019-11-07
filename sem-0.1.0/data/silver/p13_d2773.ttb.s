@@ -1,0 +1,9 @@
+POS	Maybe
+PER	Tom
+NEC	should
+EXS	quit
+SUB	before
+PRO	he
+ENS	hurts
+REF	himself
+NIL	.

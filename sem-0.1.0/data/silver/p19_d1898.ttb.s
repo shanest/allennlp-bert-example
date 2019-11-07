@@ -1,0 +1,12 @@
+PER	Tom
+EPS	took
+DIS	a
+EXT	folded
+CON	piece
+AND	of
+CON	paper
+AND	out
+AND	of
+HAS	his
+CON	pocket
+NIL	.

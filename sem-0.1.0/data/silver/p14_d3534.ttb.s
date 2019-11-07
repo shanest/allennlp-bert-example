@@ -1,0 +1,11 @@
+REL	In
+DEF	the
+CON	south
+AND	of
+GPE	China
+EQU	,
+DEF	the
+CON	situation
+NOW	is
+EXS	different
+NIL	.

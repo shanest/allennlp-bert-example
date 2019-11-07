@@ -1,0 +1,15 @@
+IMP	If
+PRO	I
+NEC	should
+EXS	be
+IST	suddenly
+EXS	spoken
+REL	to
+REL	in
+GPO	English
+NIL	,
+PRO	I
+POS	might
+EXS	run
+IST	away
+NIL	.

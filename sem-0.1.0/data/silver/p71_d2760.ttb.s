@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+PRO	I
+PST	did
+NOT	n't
+EXS	reply
+REL	to
+PRO	you
+IST	sooner
+NIL	.

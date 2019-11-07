@@ -1,0 +1,11 @@
+PER	Tom
+NOW	has
+DIS	a
+INT	pretty
+IST	good
+CON	idea
+AND	who
+EPS	stole
+HAS	his
+CON	trumpet
+NIL	.

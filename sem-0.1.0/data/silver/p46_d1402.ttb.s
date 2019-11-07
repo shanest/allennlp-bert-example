@@ -1,0 +1,12 @@
+PRO	He
+EPS	tricked
+PRO	me
+REL	into
+EXG	thinking
+SUB	that
+HAS	his
+IST	favorite
+CON	color
+NOW	is
+COL	beige
+NIL	.

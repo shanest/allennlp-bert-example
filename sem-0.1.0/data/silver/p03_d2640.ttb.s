@@ -1,0 +1,13 @@
+QUV	Many
+IST	complicated-looking
+IST	real
+CON	integrals
+POS	can
+EXS	be
+EXS	solved
+EXG	using
+CON	methods
+REL	from
+IST	complex
+CON	analysis
+NIL	.

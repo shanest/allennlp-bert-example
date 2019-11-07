@@ -1,0 +1,9 @@
+PER	Tom
+EXS	tossed
+HAS	his
+IST	dirty
+CON	clothes
+REL	in
+DEF	the
+CON	hamper
+NIL	.

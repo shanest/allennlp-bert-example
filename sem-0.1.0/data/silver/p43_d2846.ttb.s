@@ -1,0 +1,10 @@
+DIS	Some
+AND	of
+DEF	the
+CON	dolls
+NOW	are
+INT	too
+EXS	expensive
+SUB	to
+EXS	buy
+NIL	.

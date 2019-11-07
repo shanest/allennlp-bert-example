@@ -1,0 +1,10 @@
+DIS	A
+IST	small
+EQU	,
+IST	naked
+CON	bulb
+EPS	gave
+DEF	the
+XCL	only
+CON	illumination
+NIL	.

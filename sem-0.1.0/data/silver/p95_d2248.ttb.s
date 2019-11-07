@@ -1,0 +1,9 @@
+PER	Tom
+ENS	knows
+PRO	he
+HAS	's
+NOT	not
+EXS	going
+SUB	to
+EXS	win
+NIL	.

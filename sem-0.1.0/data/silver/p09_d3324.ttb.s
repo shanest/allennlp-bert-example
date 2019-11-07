@@ -1,0 +1,14 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	go
+NIL	,
+BUT	but
+HAS	his
+ROL	father
+EPS	made
+PRO	him
+EXS	go
+NIL	.

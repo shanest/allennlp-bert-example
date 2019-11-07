@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+DIS	anyone
+AND	who
+HAS	's
+NOT	not
+REL	on
+ART	Facebook
+QUE	?

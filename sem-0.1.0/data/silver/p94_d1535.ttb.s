@@ -1,0 +1,14 @@
+PRO	He
+NOW	is
+IST	sure
+SUB	to
+EXS	pass
+DEF	the
+CON	exam
+IMP	if
+PRO	he
+ENS	studies
+REL	at
+PRX	this
+CON	rate
+NIL	.

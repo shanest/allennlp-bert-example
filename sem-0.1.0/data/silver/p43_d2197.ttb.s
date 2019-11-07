@@ -1,0 +1,12 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	know
+SUB	that
+QUE	what
+PRO	I
+NOW	'm
+EXS	doing
+NOW	is
+EXS	right
+NIL	.

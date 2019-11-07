@@ -1,0 +1,12 @@
+PRO	It
+NOW	goes
+NOT	without
+EXG	saying
+DST	that
+CON	honesty
+NOW	is
+DEF	the
+CON	key
+REL	to
+CON	success
+NIL	.

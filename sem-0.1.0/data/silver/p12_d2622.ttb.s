@@ -1,0 +1,14 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	have
+DEF	the
+CON	heart
+SUB	to
+EXS	eat
+DEF	the
+CON	cake
+PRO	she
+EPS	made
+PRO	me
+NIL	.

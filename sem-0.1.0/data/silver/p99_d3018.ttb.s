@@ -1,0 +1,17 @@
+REL	At
+DEF	the
+CON	age
+AND	of
+QUC	55
+NIL	,
+PER	Tom
+IST	suddenly
+EPS	decided
+SUB	that
+PRO	he
+EPS	wanted
+SUB	to
+EXS	become
+DIS	an
+ROL	artist
+NIL	.

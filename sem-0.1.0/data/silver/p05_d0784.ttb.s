@@ -1,0 +1,9 @@
+ROL	Mr
+PER	Hobson
+EPS	shut
+DEF	the
+CON	shop
+COO	and
+EPS	went
+CON	home
+NIL	.

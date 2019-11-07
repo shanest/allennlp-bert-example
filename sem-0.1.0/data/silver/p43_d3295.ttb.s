@@ -1,0 +1,9 @@
+PER	Tom
+ENS	comes
+PRX	here
+AND	every
+CON	day
+REL	at
+AND	about
+CLO	2:30
+NIL	.

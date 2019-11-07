@@ -1,0 +1,9 @@
+PRO	He
+EPS	came
+IST	back
+REL	from
+IST	abroad
+XCL	only
+IST	last
+CON	month
+NIL	.

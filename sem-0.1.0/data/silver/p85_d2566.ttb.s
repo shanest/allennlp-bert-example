@@ -1,0 +1,11 @@
+PRO	I
+POS	can
+EXS	assure
+PRO	you
+AND	everything
+NOW	has
+PFT	been
+EXS	taken
+CON	care
+AND	of
+NIL	.

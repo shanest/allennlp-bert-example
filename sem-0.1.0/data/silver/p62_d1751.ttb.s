@@ -1,0 +1,10 @@
+PRO	It
+EPS	took
+PER	Jane
+QUC	twenty
+CON	hours
+SUB	to
+EXS	fly
+REL	to
+GPE	Japan
+NIL	.

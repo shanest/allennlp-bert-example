@@ -1,0 +1,11 @@
+NOT	No
+CON	one
+POS	may
+EXS	be
+EXS	compelled
+SUB	to
+EXS	belong
+REL	to
+DIS	an
+CON	association
+NIL	.

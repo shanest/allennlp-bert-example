@@ -1,0 +1,35 @@
+REL	On
+MOY	March
+DOM	10
+NIL	,
+YOC	1969
+NIL	,
+PER	James Earl Ray
+PST	was
+EXS	sentenced
+REL	to
+QUC	99
+CON	years
+REL	in
+DIS	a
+IST	Tennessee
+CON	prison
+SUB	after
+PRO	he
+EPS	pleaded
+EXS	guilty
+REL	to
+DEF	the
+CON	murder
+AND	of
+PER	Martin Luther King
+PER	Jr.
+NIL	,
+BUT	but
+REL	for
+CON	blacks
+AND	that
+IST	hardly
+EPS	seemed
+CON	recompense
+NIL	.

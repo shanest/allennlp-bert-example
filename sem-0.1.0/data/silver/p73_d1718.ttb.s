@@ -1,0 +1,13 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	write
+NIL	"
+GEO	Pfirsichbäumchen
+NIL	"
+QUE	?
+PRO	It
+NOW	's
+INT	so
+EXS	simple
+NIL	!

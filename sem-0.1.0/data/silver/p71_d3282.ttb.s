@@ -1,0 +1,12 @@
+PER	Tom
+EPS	ate
+AND	all
+DEF	the
+CON	bread
+NIL	,
+AND	so
+UNK	there
+NOW	is
+CON	none
+EPS	left
+NIL	.

@@ -1,0 +1,9 @@
+HAS	My
+CON	daughter
+NOW	is
+EXG	buying
+CON	milk
+REL	from
+DEF	the
+CON	store
+NIL	.

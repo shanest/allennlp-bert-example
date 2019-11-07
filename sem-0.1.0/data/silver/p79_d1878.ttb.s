@@ -1,0 +1,16 @@
+SUB	To
+EXS	talk
+AND	about
+REF	oneself
+DIS	a
+IST	great
+CON	deal
+POS	can
+ALT	also
+EXS	be
+DIS	a
+CON	means
+AND	of
+EXS	concealing
+REF	oneself
+NIL	.

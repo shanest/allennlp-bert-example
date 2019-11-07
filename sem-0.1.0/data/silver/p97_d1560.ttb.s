@@ -1,0 +1,13 @@
+PRO	She
+NOW	's
+EXS	trying
+SUB	to
+EXS	create
+DIS	a
+CON	sense
+AND	of
+CON	identity
+AND	through
+IST	several
+CON	sources
+NIL	.

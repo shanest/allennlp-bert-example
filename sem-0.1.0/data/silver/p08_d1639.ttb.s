@@ -1,0 +1,11 @@
+PER	Mary
+NOW	has
+AND	always
+EXS	made
+IST	good
+REL	in
+AND	everything
+PRO	she
+NOW	has
+EXS	done
+NIL	.

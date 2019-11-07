@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+NOT	not
+EXS	interested
+REL	in
+DIS	anything
+PER	Tom
+ENS	has
+SUB	to
+EXS	say
+NIL	.

@@ -1,0 +1,10 @@
+AND	Such
+DIS	an
+IST	old
+CON	fan
+FUT	would
+EXS	be
+IST	next
+REL	to
+EXS	useless
+NIL	.

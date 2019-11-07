@@ -1,0 +1,11 @@
+PRO	It
+FUT	will
+EXS	be
+EXS	reported
+SUB	when
+PRO	he
+NOW	is
+EXS	coming
+REL	to
+GPE	Japan
+NIL	.

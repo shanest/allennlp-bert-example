@@ -1,0 +1,9 @@
+PRO	He
+EPS	said
+SUB	that
+PRO	he
+EPS	bought
+DIS	an
+IST	old
+CON	car
+NIL	.

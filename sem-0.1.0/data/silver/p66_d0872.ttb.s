@@ -1,0 +1,9 @@
+QUE	What
+PRO	he
+EPS	ate
+PST	was
+INT	very
+EXS	simple
+COO	and
+EXS	humble
+NIL	.

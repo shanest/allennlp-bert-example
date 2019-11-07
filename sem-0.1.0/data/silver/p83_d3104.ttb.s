@@ -1,0 +1,11 @@
+PER	Tom
+COO	and
+PRO	I
+NOW	are
+AND	both
+DIS	a
+IST	little
+IST	busy
+CON	right
+NOW	now
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	wonder
+QUE	what
+PRX	this
+CON	place
+PST	was
+EXS	like
+QUC	three
+CON	years
+PST	ago
+NIL	.

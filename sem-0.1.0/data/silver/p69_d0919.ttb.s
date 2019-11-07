@@ -1,0 +1,10 @@
+NOW	Do
+NOT	n't
+EXS	talk
+REL	to
+PRO	him
+SUB	while
+PRO	he
+NOW	's
+EXS	driving
+NIL	.

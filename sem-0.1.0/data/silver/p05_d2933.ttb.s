@@ -1,0 +1,11 @@
+PRO	I
+EPS	caught
+DIS	a
+IST	big
+CON	fish
+PST	yesterday
+REL	with
+HAS	my
+IST	bare
+CON	hands
+NIL	.

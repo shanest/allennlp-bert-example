@@ -1,0 +1,12 @@
+QUE	Who
+PST	did
+PRO	you
+EXS	have
+REL	in
+CON	mind
+SUB	when
+PRO	you
+EPS	made
+DST	those
+CON	remarks
+QUE	?

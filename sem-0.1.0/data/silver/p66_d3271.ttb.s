@@ -1,0 +1,11 @@
+PRO	I
+FUT	would
+NIL	rather
+PRO	you
+EPS	came
+REL	on
+DOW	Friday
+AND	than
+REL	on
+DOW	Thursday
+NIL	.

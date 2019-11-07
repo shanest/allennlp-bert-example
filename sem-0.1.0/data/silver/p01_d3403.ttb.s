@@ -1,0 +1,12 @@
+PRO	I
+XCL	only
+ENS	know
+QUE	how
+NIL	to
+EXS	play
+QUC	one
+CON	song
+REL	on
+DEF	the
+CON	guitar
+NIL	.

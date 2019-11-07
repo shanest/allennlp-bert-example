@@ -1,0 +1,11 @@
+PRO	I
+EPS	forgot
+SUB	to
+EXS	lift
+DEF	the
+CON	receiver
+SUB	before
+EXS	dialing
+DEF	the
+CON	number
+NIL	.

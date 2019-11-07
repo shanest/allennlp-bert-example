@@ -1,0 +1,16 @@
+PRO	I
+NOW	'm
+IST	just
+EXS	calling
+SUB	to
+EXS	let
+PRO	you
+ENS	know
+PRO	I
+FUT	'll
+EXS	be
+IST	late
+REL	for
+DEF	the
+FUT	tomorrow
+CON	dinner

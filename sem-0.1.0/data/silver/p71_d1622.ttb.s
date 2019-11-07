@@ -1,0 +1,10 @@
+DEF	The
+CON	referee
+EPS	blew
+HAS	his
+CON	whistle
+SUB	to
+EXS	end
+DEF	the
+CON	match
+NIL	.

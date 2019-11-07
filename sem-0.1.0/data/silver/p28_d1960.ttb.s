@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+EXS	buying
+CON	letter
+CON	paper
+EQU	,
+DIS	some
+CON	stamps
+NIL	,
+AND	and
+DIS	some
+CON	tissue
+CON	paper
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	blame
+PER	Mary
+SUB	for
+EXS	getting
+EXS	angry
+NIL	.

@@ -1,0 +1,15 @@
+PRO	I
+NOW	've
+EXS	got
+EXS	work
+SUB	to
+EXS	do
+NIL	,
+AND	so
+ENS	piss
+REL	off
+COO	and
+EXS	leave
+PRO	me
+AND	alone
+NIL	.

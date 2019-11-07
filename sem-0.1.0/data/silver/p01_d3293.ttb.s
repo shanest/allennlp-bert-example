@@ -1,0 +1,9 @@
+PRO	I
+ENS	have
+DIS	something
+NIL	to
+EXS	talk
+REL	to
+PRO	you
+REL	about
+NIL	.

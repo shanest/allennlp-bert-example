@@ -1,0 +1,10 @@
+PER	Tom
+HAS	's
+CON	taste
+REL	in
+CON	music
+NOW	is
+IST	similar
+REL	to
+HAS	mine
+NIL	.

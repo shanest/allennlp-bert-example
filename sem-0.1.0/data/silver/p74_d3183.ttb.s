@@ -1,0 +1,12 @@
+DEF	The
+CON	fact
+SUB	that
+PRO	I
+NOW	'm
+PRX	here
+NOW	proves
+SUB	that
+PRO	I
+NOW	'm
+EXS	innocent
+NIL	.

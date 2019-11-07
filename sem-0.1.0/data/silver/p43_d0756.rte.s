@@ -1,0 +1,25 @@
+PER	Gabriel
+PER	Garcia
+PER	Marquez
+NOW	is
+DEF	the
+CON	author
+AND	of
+NIL	"
+QUC	One Hundred
+CON	Years
+AND	of
+GEO	Solitude
+NIL	"
+NIL	,
+NIL	"
+DEF	The
+CON	Autumn
+AND	of
+DEF	the
+ORG	Patriarch
+NIL	"
+AND	and
+ALT	other
+CON	novels
+NIL	.

@@ -1,0 +1,11 @@
+QUE	What
+PST	did
+PRO	I
+EXS	tell
+PRO	you
+REL	about
+EXG	eating
+AND	over
+DEF	the
+CON	keyboard
+QUE	?

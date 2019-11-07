@@ -1,0 +1,13 @@
+PER	Tom
+NOW	assumes
+PER	Mary
+FUT	will
+EXS	be
+IST	willing
+SUB	to
+EXS	help
+REL	with
+DEF	the
+EXS	bake
+CON	sale
+NIL	.

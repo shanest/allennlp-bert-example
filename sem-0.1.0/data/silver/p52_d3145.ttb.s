@@ -1,0 +1,11 @@
+PER	Tom
+ENS	knows
+PRO	I
+ENS	want
+SUB	to
+EXS	leave
+AND	as
+IST	soon
+SUB	as
+EXS	possible
+NIL	.

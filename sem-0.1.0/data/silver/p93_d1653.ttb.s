@@ -1,0 +1,10 @@
+PER	Tom
+ENS	lives
+REL	on
+DEF	the
+IST	same
+CON	street
+AND	as
+PER	Mary
+NOW	does
+NIL	.

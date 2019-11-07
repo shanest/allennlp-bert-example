@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+AND	such
+DIS	a
+IST	nice
+CON	person
+SUB	that
+AND	everybody
+ENS	likes
+PRO	him
+NIL	.

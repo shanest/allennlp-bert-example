@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+IST	ever
+EXS	speak
+SUB	to
+PRO	you
+ALT	again
+NIL	.

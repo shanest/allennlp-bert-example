@@ -1,0 +1,11 @@
+NOT	No
+NIL	,
+NOT	no
+NIL	!
+PRO	I
+NOW	am
+EXS	going
+IST	back
+REL	to
+CON	town
+NIL	.

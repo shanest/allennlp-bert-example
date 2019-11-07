@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+AND	all
+DEF	the
+CON	information
+PRO	we
+ENS	need
+IST	right
+NOW	now
+NIL	.

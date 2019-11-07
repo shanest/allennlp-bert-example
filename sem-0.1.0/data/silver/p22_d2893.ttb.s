@@ -1,0 +1,12 @@
+UNK	There
+NOW	is
+NOT	n't
+DIS	anybody
+REL	in
+CON	front
+AND	of
+DEF	the
+IST	main
+CON	gate
+ALT	yet
+NIL	.

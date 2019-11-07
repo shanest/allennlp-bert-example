@@ -1,0 +1,12 @@
+DEF	The
+CON	committee
+EPS	met
+COO	and
+EPS	discussed
+UNK	whom
+SUB	to
+EXS	appoint
+REL	to
+DEF	the
+CON	post
+NIL	.

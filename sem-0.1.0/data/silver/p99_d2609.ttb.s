@@ -1,0 +1,12 @@
+PRO	It
+NOW	has
+PFT	been
+QUC	six
+CON	years
+SUB	since
+PRO	I
+EPS	started
+SUB	to
+EXS	study
+GPO	English
+NIL	.

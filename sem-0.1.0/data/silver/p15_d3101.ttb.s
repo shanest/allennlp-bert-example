@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	like
+PRO	him
+EXS	coming
+REL	to
+PRO	me
+AND	so
+IST	often
+NIL	.

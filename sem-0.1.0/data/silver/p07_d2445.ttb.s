@@ -1,0 +1,15 @@
+CON	Newts
+AND	and
+CON	salamanders
+NIL	,
+REL	unlike
+CON	frogs
+AND	and
+CON	toads
+NIL	,
+EXS	keep
+HAS	their
+CON	tails
+AND	as
+CON	adults
+NIL	.

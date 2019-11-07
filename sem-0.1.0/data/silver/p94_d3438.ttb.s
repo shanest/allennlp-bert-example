@@ -1,0 +1,9 @@
+PRO	I
+XCL	only
+ENS	want
+QUE	what
+HAS	's
+TOP	best
+REL	for
+PER	Tom
+NIL	.

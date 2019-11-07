@@ -1,0 +1,9 @@
+PER	Tom
+EPS	took
+DIS	some
+CON	money
+AND	out
+AND	of
+HAS	his
+CON	wallet
+NIL	.

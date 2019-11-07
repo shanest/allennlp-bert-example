@@ -1,0 +1,13 @@
+PRO	She
+EPS	looked
+REL	at
+DIS	a
+IST	few
+CON	dresses
+COO	and
+EPS	picked
+DEF	the
+INT	most
+IST	expensive
+CON	one
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	I
+NEC	should
+NOT	not
+EXS	tell
+PRO	him
+DIS	a
+CON	lie
+NIL	.

@@ -1,0 +1,9 @@
+ITJ	Hey
+NIL	,
+ITJ	Zgana
+NIL	,
+QUE	how
+IST	old
+NOW	are
+PRO	you
+QUE	?

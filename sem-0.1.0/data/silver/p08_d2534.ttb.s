@@ -1,0 +1,10 @@
+DEF	The
+ROL	teacher
+EPS	caught
+DEF	the
+CON	student
+EXG	cheating
+REL	on
+DEF	the
+CON	examination
+NIL	.

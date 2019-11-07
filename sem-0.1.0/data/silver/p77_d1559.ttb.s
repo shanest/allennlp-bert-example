@@ -1,0 +1,11 @@
+PRO	I
+EPS	wanted
+SUB	to
+EXS	add
+PER	Mary
+AND	as
+DIS	a
+CON	friend
+REL	on
+ART	Facebook
+NIL	.

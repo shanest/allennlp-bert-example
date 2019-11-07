@@ -1,0 +1,11 @@
+PER	Tom
+ENS	knows
+SUB	that
+PRO	it
+NOW	's
+EXS	dangerous
+SUB	to
+EXS	play
+REL	with
+CON	scissors
+NIL	.

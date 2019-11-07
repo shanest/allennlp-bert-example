@@ -1,0 +1,10 @@
+PRO	I
+EPS	met
+PRO	him
+REL	on
+DEF	the
+CON	day
+PRO	I
+EPS	arrived
+PRX	here
+NIL	.

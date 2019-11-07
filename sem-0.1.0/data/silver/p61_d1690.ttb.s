@@ -1,0 +1,10 @@
+PRO	I
+ENS	go
+REL	to
+CON	bed
+REL	at
+QUC	ten
+AND	almost
+AND	every
+CON	day
+NIL	.

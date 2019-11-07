@@ -1,0 +1,15 @@
+DIS	Someone
+AND	else
+POS	might
+EXS	want
+HAS	your
+IST	old
+CON	desk
+IMP	if
+PRO	you
+NOW	do
+NOT	n't
+EXS	want
+PRO	it
+CON	anymore
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+EXS	acquainted
+REL	with
+DEF	the
+IST	modern
+CON	history
+AND	of
+GPE	France
+NIL	.

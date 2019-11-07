@@ -1,0 +1,11 @@
+PER	Liisa
+COO	and
+PER	Markku
+PST	were
+CON	panic-stricken
+COO	and
+EPS	took
+REL	to
+HAS	their
+CON	heels
+NIL	.

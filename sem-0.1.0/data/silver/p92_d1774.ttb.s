@@ -1,0 +1,12 @@
+NOW	Are
+PRO	you
+IST	sure
+PRO	you
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	wait
+REL	for
+PER	Tom
+QUE	?

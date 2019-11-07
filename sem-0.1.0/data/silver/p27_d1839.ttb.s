@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	think
+SUB	that
+PER	Mary
+NOW	is
+REL	at
+CON	home
+NIL	.

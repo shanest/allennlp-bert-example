@@ -1,0 +1,16 @@
+PRO	I
+NOW	do
+NOT	not
+EXS	believe
+REL	in
+DEF	the
+CON	God
+AND	of
+CON	theology
+AND	who
+ENS	rewards
+IST	good
+AND	and
+ENS	punishes
+EXS	evil
+NIL	.

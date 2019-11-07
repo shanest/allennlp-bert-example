@@ -1,0 +1,17 @@
+PRO	You
+NOW	're
+EXS	right
+NIL	,
+UNK	there
+HAS	's
+DIS	a
+CON	lot
+SUB	to
+EXS	do
+NIL	.
+EXS	Let
+HAS	's
+EXS	get
+EPS	started
+IST	then
+NIL	!

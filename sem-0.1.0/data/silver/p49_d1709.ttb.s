@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXS	going
+SUB	to
+EXS	pick
+IST	up
+HAS	my
+CON	brother
+REL	from
+CON	school
+NIL	.

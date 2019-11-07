@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+ENS	know
+DEF	the
+CON	story
+AND	of
+PER	Hansel
+AND	and
+PER	Gretel
+QUE	?

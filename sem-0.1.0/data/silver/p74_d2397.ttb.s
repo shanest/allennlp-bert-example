@@ -1,0 +1,13 @@
+PER	Tom
+EPS	opened
+DIS	a
+CON	can
+AND	of
+CON	soup
+COO	and
+EPS	emptied
+PRO	it
+REL	into
+DIS	a
+CON	saucepan
+NIL	.

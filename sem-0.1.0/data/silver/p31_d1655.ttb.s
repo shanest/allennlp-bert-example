@@ -1,0 +1,14 @@
+SUB	Since
+PRO	he
+EPS	started
+REL	at
+CLO	eight
+NIL	,
+PRO	he
+NEC	ought
+SUB	to
+EXS	be
+IST	there
+REL	by
+NOW	now
+NIL	.

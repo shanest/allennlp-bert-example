@@ -1,0 +1,13 @@
+GPO	French
+NOW	is
+QUC	one
+AND	of
+DEF	the
+CON	languages
+PRO	I
+NOW	've
+IST	always
+EPS	wanted
+SUB	to
+EXS	learn
+NIL	.

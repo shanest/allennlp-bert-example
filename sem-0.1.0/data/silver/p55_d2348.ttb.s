@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+DIS	a
+CON	crowd
+AND	of
+CON	children
+REL	at
+DEF	the
+CON	cinema
+NIL	.

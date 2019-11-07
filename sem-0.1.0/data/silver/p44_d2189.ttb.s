@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+IST	always
+ENS	seem
+SUB	to
+EXS	be
+EXG	hanging
+IST	out
+IST	together
+NIL	.

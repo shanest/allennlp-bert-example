@@ -1,0 +1,10 @@
+PRO	I
+EPS	found
+DEF	the
+CON	key
+PRO	I
+PST	had
+PFT	been
+EXS	looking
+REL	for
+NIL	.

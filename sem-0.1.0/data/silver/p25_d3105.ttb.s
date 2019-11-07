@@ -1,0 +1,12 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	think
+PER	Mary
+NOW	is
+EXS	saying
+QUE	what
+PRO	she
+IST	really
+ENS	thinks
+NIL	.

@@ -1,0 +1,9 @@
+DIS	A
+IST	sound
+CON	sleep
+EPS	made
+PRO	me
+NOW	feel
+QUC	much
+COM	better
+NIL	.

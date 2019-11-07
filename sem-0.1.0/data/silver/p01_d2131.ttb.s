@@ -1,0 +1,10 @@
+PRO	I
+ENS	have
+DIS	a
+CON	right
+NIL	to
+EXS	be
+REL	on
+PRX	this
+CON	ship
+NIL	.

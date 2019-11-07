@@ -1,0 +1,12 @@
+EXS	Let
+PRO	's
+EPS	put
+IST	up
+DEF	the
+CON	tent
+SUB	while
+PRO	it
+NOW	is
+IST	still
+CON	light
+NIL	.

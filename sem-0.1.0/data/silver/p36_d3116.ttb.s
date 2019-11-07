@@ -1,0 +1,9 @@
+AND	Would
+PRO	you
+EXS	sing
+PRO	us
+DIS	a
+CON	song
+REL	in
+GPO	English
+QUE	?

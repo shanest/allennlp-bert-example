@@ -1,0 +1,9 @@
+AND	Would
+PRO	you
+ENS	like
+NIL	to
+EXS	see
+HAS	my
+CON	stamp
+CON	collection
+QUE	?

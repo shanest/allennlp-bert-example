@@ -1,0 +1,9 @@
+PER	Mom
+NIL	!
+EXS	Stop
+NIL	!
+PRO	You
+NOW	're
+EXS	embarrassing
+PRO	me
+NIL	.

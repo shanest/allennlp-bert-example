@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+EXS	known
+PRO	him
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

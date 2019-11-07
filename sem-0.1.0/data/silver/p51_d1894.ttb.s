@@ -1,0 +1,9 @@
+PRO	I
+FUT	would
+ALT	also
+EXS	take
+DIS	a
+CON	lot
+AND	of
+CON	money
+NIL	.

@@ -1,0 +1,12 @@
+PER	Gadaffi
+NOW	has
+EPS	accused
+DEF	the
+ORG	USA
+AND	and
+GPE	Britain
+AND	of
+EXS	breaking
+IST	international
+CON	law
+NIL	.

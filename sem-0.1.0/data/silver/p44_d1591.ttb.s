@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+PER	Tom
+SUB	to
+EXS	know
+SUB	that
+EXS	right
+NOW	now
+NIL	.

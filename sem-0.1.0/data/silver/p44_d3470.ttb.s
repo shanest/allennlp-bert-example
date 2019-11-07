@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	tired
+AND	of
+DEF	the
+REL	day-to-day
+CON	routine
+AND	of
+CON	life
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+EXS	taught
+HAS	my
+CON	parrot
+SUB	to
+EXS	speak
+GPO	Welsh
+NIL	.

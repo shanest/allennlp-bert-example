@@ -1,0 +1,10 @@
+QUE	What
+FUT	would
+PRO	you
+NOW	have
+EXS	done
+REL	in
+PER	Tom
+HAS	's
+CON	place
+QUE	?

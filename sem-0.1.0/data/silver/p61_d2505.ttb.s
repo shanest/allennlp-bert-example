@@ -1,0 +1,9 @@
+PRO	He
+HAS	's
+IST	old
+IST	enough
+SUB	to
+EXS	be
+HAS	her
+ROL	father
+NIL	.

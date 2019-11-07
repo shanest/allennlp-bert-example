@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	running
+REL	in
+CON	order
+SUB	to
+EXS	catch
+DEF	the
+CON	train
+NIL	.

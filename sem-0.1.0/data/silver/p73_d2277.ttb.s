@@ -1,0 +1,9 @@
+PRO	I
+EPS	called
+PRO	him
+DIS	a
+CON	coward
+REL	to
+HAS	his
+CON	face
+NIL	.

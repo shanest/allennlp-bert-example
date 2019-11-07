@@ -1,0 +1,12 @@
+PRO	They
+NOW	are
+EXS	trying
+SUB	to
+EXS	drive
+GPO	Japanese
+CON	goods
+AND	out
+AND	of
+DEF	the
+CON	market
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+EPS	paid
+ALT	too
+EXS	high
+DIS	a
+CON	price
+REL	for
+CON	success
+NIL	.

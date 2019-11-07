@@ -1,0 +1,16 @@
+PRO	He
+EPS	took
+NOT	no
+EXS	notice
+SUB	that
+UNK	there
+PST	was
+DIS	a
+IST	sick
+CON	man
+EXS	sleeping
+REL	in
+DEF	the
+IST	next
+CON	room
+NIL	.

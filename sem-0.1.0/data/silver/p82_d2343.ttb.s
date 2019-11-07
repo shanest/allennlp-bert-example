@@ -1,0 +1,9 @@
+PRO	I
+FUT	'd
+EXS	like
+DIS	someone
+SUB	to
+EXS	ask
+PER	Tom
+SUB	that
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+PST	was
+INT	too
+EXS	young
+SUB	to
+EXS	go
+REL	to
+CON	school
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+CON	warehouse
+PST	was
+EXS	empty
+NOT	except
+REL	for
+DIS	a
+CON	piece
+AND	of
+CON	furniture
+NIL	.

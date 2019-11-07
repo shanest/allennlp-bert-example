@@ -1,0 +1,17 @@
+GEO	Columbus
+EQU	,
+GEO	Ericson
+NIL	,
+COO	and
+PER	Magellan
+QUC	once
+EPS	walked
+REL	into
+DIS	a
+CON	bar
+NIL	.
+AND	Only
+PER	Columbus
+EPS	walked
+IST	out
+NIL	.

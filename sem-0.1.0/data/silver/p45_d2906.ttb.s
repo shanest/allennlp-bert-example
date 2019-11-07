@@ -1,0 +1,11 @@
+PRX	This
+CON	ship
+NOW	is
+INT	too
+EXS	big
+SUB	to
+EXS	pass
+AND	through
+DEF	the
+CON	canal
+NIL	.

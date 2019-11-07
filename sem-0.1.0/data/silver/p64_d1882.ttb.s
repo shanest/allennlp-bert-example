@@ -1,0 +1,15 @@
+PRO	I
+PST	was
+UNK	unable
+SUB	to
+EXS	leave
+CON	home
+AND	last
+DOW	Saturday
+NIL	,
+REL	with
+HAS	my
+CON	mother
+EXS	being
+EXS	ill
+NIL	.

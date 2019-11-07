@@ -1,0 +1,14 @@
+PRO	You
+NEC	must
+EXS	be
+IST	able
+SUB	to
+EXS	speak
+AND	either
+GPO	English
+DIS	or
+GPO	Spanish
+REL	in
+PRX	this
+CON	company
+NIL	.

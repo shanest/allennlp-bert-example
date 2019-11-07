@@ -1,0 +1,9 @@
+PER	Tom
+PST	was
+QUV	much
+COM	stronger
+SUB	when
+PRO	he
+PST	was
+EXS	younger
+NIL	.

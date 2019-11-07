@@ -1,0 +1,13 @@
+PER	Tom
+EPS	promised
+SUB	to
+EXS	come
+NIL	,
+BUT	but
+PRO	he
+NOW	has
+NOT	n't
+EXS	turned
+IST	up
+ALT	yet
+NIL	.

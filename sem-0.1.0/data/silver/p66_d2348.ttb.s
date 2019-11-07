@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	buying
+DIS	a
+CON	ladder
+REL	in
+DEF	the
+CON	hardware
+CON	store
+NIL	.

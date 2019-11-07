@@ -1,0 +1,12 @@
+CON	Judging
+REL	from
+HAS	her
+CON	appearance
+NIL	,
+PRO	she
+ENS	seems
+SUB	to
+EXS	be
+INT	very
+EXS	rich
+NIL	.

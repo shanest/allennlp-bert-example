@@ -1,0 +1,14 @@
+PRO	You
+NEC	should
+IST	probably
+EXS	tell
+PER	Tom
+AND	who
+FUT	'll
+EXS	be
+EXG	meeting
+PRO	him
+REL	at
+DEF	the
+CON	station
+NIL	.

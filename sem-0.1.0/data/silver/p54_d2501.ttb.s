@@ -1,0 +1,15 @@
+AND	Sometime
+PRO	I
+FUT	'll
+NEC	definitely
+EXS	visit
+GPE	France
+NIL	.
+PRO	I
+IST	just
+NOW	do
+NOT	n't
+EXS	know
+IST	exactly
+SUB	when
+NIL	.

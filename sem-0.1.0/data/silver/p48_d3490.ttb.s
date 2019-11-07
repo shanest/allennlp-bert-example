@@ -1,0 +1,12 @@
+PER	Tom
+EPS	chose
+DIS	a
+CON	song
+REL	from
+DEF	the
+CON	list
+COO	and
+EPS	began
+EXS	singing
+PRO	it
+NIL	.

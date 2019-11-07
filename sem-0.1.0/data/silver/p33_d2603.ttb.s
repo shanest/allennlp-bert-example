@@ -1,0 +1,13 @@
+NIL	"
+PER	Mary
+NIL	,
+PRO	I
+ENS	love
+PRO	you
+NIL	.
+NIL	"
+NIL	"
+PRO	I
+ENS	know
+NIL	.
+NIL	"

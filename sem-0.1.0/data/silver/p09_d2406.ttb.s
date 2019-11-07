@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+EXS	lost
+NIL	,
+BUT	but
+NOW	is
+IST	unwilling
+SUB	to
+EXS	admit
+PRO	it
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+ENS	knows
+DIS	a
+CON	man
+HAS	whose
+CON	daughter
+ENS	lives
+REL	in
+GPE	Boston
+NIL	.

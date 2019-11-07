@@ -1,0 +1,10 @@
+PER	Tom
+EPS	rushed
+REL	into
+HAS	his
+CON	office
+COO	and
+EPS	slammed
+DEF	the
+CON	door
+NIL	.

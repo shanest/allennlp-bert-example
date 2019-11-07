@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+PRO	you
+PST	were
+EXS	expecting
+PER	Tom
+SUB	to
+EXS	be
+PRX	here
+NIL	.

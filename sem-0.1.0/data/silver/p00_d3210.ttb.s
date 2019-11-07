@@ -1,0 +1,9 @@
+NIL	There
+NOW	are
+CON	plenty
+NIL	of
+CON	fish
+REL	in
+PRX	this
+CON	river
+NIL	.

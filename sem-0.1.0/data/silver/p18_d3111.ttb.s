@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	no
+CON	clue
+QUE	what
+PRO	I
+NOW	'm
+EXG	doing
+NIL	.

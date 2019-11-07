@@ -1,0 +1,9 @@
+PER	Tom
+EPS	wondered
+SUB	where
+PER	Mary
+PST	had
+EXS	spent
+DEF	the
+CON	weekend
+NIL	.

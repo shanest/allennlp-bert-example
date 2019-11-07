@@ -1,0 +1,12 @@
+PRO	He
+EPS	came
+REL	to
+GPE	Japan
+SUB	when
+PRO	he
+PST	was
+DIS	a
+CON	boy
+AND	of
+QUC	ten
+NIL	.

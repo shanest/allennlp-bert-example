@@ -1,0 +1,10 @@
+NOW	Do
+NOT	n't
+EXS	talk
+SUB	to
+PRO	me
+SUB	while
+PRO	I
+NOW	'm
+EXS	working
+NIL	.

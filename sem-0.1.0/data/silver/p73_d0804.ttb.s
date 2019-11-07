@@ -1,0 +1,11 @@
+QUE	What
+PST	did
+PRO	you
+NOW	say
+PRO	you
+EPS	gave
+PRO	her
+REL	for
+HAS	her
+CON	birthday
+QUE	?

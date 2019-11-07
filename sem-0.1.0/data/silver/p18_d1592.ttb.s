@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	work
+REL	on
+AND	either
+DOW	Saturday
+DIS	or
+DOW	Sunday
+NIL	.

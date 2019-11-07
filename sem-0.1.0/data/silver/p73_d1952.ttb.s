@@ -1,0 +1,11 @@
+PRO	We
+EPS	came
+REL	to
+DEF	the
+CON	conclusion
+SUB	that
+PRO	he
+PST	had
+PFT	been
+EXS	right
+NIL	.

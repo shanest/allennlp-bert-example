@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+DEF	the
+INT	very
+CON	man
+SUB	that
+PRO	I
+NOW	'm
+EXS	looking
+REL	for
+NIL	.

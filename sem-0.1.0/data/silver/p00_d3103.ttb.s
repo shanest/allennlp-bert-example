@@ -1,0 +1,13 @@
+DST	That
+SUB	whoever
+ENS	believes
+REL	in
+PRO	him
+NEC	shall
+NOT	not
+EXS	perish
+BUT	but
+ENS	have
+IST	eternal
+CON	life
+NIL	.

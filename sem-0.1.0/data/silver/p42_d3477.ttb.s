@@ -1,0 +1,15 @@
+DEF	The
+CON	front
+AND	of
+PER	Tom
+HAS	's
+CON	shirt
+PST	was
+EXS	stained
+REL	with
+CON	blood
+REL	from
+DIS	a
+CON	gunshot
+CON	wound
+NIL	.

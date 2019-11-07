@@ -1,0 +1,10 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+PRO	he
+NOW	is
+GPO	American
+NIL	.

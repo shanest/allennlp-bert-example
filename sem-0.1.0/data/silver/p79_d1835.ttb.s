@@ -1,0 +1,11 @@
+PRO	It
+EPS	cost
+PRO	him
+DEF	3000
+UOM	yen
+SUB	to
+EXS	have
+HAS	his
+CON	hair
+EXS	cut
+NIL	.

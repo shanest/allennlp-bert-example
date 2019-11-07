@@ -1,0 +1,9 @@
+PRO	He
+EPS	ran
+REL	at
+DEF	the
+CON	sight
+REL	of
+DEF	the
+CON	policeman
+NIL	.

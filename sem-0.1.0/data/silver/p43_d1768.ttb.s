@@ -1,0 +1,13 @@
+PRO	He
+NOW	is
+IST	sure
+SUB	to
+EXS	set
+DIS	a
+IST	new
+CON	record
+REL	in
+DEF	the
+IST	triple
+CON	jump
+NIL	.

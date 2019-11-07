@@ -1,0 +1,13 @@
+CON	Go
+AND	ahead
+NIL	,
+DEF	the
+COL	brown
+CON	dog
+FUT	wo
+NOT	n't
+EXS	do
+PRO	you
+AND	any
+CON	harm
+NIL	.

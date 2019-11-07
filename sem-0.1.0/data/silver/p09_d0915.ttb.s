@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	work
+AND	during
+DEF	the
+CON	spring
+CON	vacation
+NIL	.

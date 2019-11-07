@@ -1,0 +1,11 @@
+PRO	I
+NOW	hope
+PER	Tom
+POS	can
+EXS	fit
+PRO	me
+REL	into
+HAS	his
+IST	tight
+CON	schedule
+NIL	.

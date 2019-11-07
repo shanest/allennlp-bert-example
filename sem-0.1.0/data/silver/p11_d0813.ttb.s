@@ -1,0 +1,11 @@
+DEF	The
+CON	man
+PRO	I
+PST	was
+EXS	talking
+REL	to
+NOW	is
+HAS	my
+GPO	English
+ROL	teacher
+NIL	.

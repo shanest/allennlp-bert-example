@@ -1,0 +1,12 @@
+PRO	I
+IST	nearly
+EPS	wet
+EMP	myself
+SUB	when
+PRO	I
+EPS	saw
+DEF	the
+CON	scene
+REL	with
+PRO	them
+NIL	.

@@ -1,0 +1,13 @@
+PRO	They
+NOW	are
+EXS	going
+SUB	to
+NOW	exhibit
+QUC	many
+IST	famous
+IST	old
+CON	paintings
+REL	at
+DEF	the
+CON	gallery
+NIL	.

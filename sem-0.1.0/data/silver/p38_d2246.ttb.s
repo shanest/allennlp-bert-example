@@ -1,0 +1,14 @@
+DIS	A
+IST	large
+CON	quantity
+AND	of
+CON	air-conditioners
+NOW	has
+PFT	been
+EXS	sold
+REL	since
+DEF	the
+CON	temperature
+NOW	is
+IST	high
+NIL	.

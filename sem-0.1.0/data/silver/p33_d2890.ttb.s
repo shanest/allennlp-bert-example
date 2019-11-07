@@ -1,0 +1,13 @@
+HAS	My
+ROL	uncle
+NIL	,
+AND	who
+ENS	lives
+REL	in
+GEO	Paris
+NIL	,
+EPS	came
+SUB	to
+EXS	see
+PRO	us
+NIL	.

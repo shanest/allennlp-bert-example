@@ -1,0 +1,16 @@
+DIS	An
+CON	integer
+NOW	is
+IST	natural
+IMP	if
+AND	and
+XCL	only
+IMP	if
+PRO	it
+NOW	is
+MOR	greater
+DIS	or
+IST	equal
+REL	to
+NIL	0
+NIL	.

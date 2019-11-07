@@ -1,0 +1,9 @@
+PRO	I
+FUT	wo
+NOT	n't
+EXS	let
+PRO	him
+EXS	come
+PRX	here
+ALT	again
+NIL	.

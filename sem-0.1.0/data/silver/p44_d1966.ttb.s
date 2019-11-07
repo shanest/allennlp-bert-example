@@ -1,0 +1,12 @@
+PRO	He
+NOW	's
+EXS	trying
+SUB	to
+EXS	use
+PRO	you
+NIL	.
+NOW	Do
+NOT	n't
+EXS	marry
+PRO	him
+NIL	!

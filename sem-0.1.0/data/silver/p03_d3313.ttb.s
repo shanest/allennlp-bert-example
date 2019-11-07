@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+EXS	quick
+SUB	to
+EXS	speak
+COO	but
+EXS	slow
+SUB	to
+EXS	act
+NIL	.

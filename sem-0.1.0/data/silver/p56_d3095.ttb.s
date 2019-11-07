@@ -1,0 +1,12 @@
+PER	Mary
+EPS	returned
+CON	home
+REL	from
+GPE	Japan
+REL	with
+QUV	many
+IST	new
+AND	and
+IST	progressive
+CON	ideas
+NIL	.

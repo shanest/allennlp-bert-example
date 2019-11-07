@@ -1,0 +1,12 @@
+PRX	This
+PST	was
+DEF	the
+INT	most
+IST	interesting
+CON	book
+SUB	that
+PRO	she
+PST	had
+IST	ever
+EXS	read
+NIL	.

@@ -1,0 +1,10 @@
+PRO	We
+EPS	saw
+DEF	the
+CON	boat
+EXS	tossing
+REL	on
+DEF	the
+IST	stormy
+CON	sea
+NIL	.

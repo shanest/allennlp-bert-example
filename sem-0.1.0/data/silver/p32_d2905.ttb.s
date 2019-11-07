@@ -1,0 +1,13 @@
+REL	In
+HAS	his
+CON	eyes
+PRO	she
+CON	eclipses
+AND	and
+ENS	predominates
+DEF	the
+CON	whole
+AND	of
+HAS	her
+CON	sex
+NIL	.

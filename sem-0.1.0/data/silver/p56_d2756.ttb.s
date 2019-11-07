@@ -1,0 +1,10 @@
+CON	Translations
+POS	can
+EXS	provide
+CON	explanations
+REL	to
+QUE	what
+NOW	has
+PFT	been
+EXS	said
+NIL	.

@@ -1,0 +1,16 @@
+PRO	I
+EPS	tried
+SUB	to
+EXS	cheer
+HAS	her
+IST	up
+NIL	,
+BUT	but
+AND	all
+PRO	she
+EPS	wanted
+PST	was
+SUB	to
+EXS	be
+EXS	alone
+NIL	.

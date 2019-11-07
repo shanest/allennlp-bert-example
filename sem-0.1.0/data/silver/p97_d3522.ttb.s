@@ -1,0 +1,10 @@
+DEF	The
+CON	book
+PRO	I
+EPS	bought
+IST	last
+CON	week
+PST	was
+IST	really
+EXS	interesting
+NIL	.

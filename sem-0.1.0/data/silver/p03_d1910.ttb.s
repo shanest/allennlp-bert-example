@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	think
+PRO	it
+NOW	's
+EXS	going
+SUB	to
+CON	snow
+FUT	tomorrow
+QUE	?

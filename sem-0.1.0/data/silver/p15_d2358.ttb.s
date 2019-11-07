@@ -1,0 +1,16 @@
+PER	Tom
+PST	was
+EXG	observing
+DEF	the
+CON	sky
+REL	with
+HAS	his
+CON	telescope
+SUB	when
+PRO	he
+EPS	discovered
+DIS	a
+IST	mysterious
+IST	new
+CON	object
+NIL	.

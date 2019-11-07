@@ -1,0 +1,11 @@
+DIS	A
+CON	dog
+CON	bite
+NOW	is
+MOR	more
+IST	serious
+AND	than
+DIS	a
+CON	mosquito
+CON	bite
+NIL	.

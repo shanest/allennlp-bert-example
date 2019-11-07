@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	calling
+REL	to
+CON	book
+DIS	a
+CON	reservation
+REL	at
+HAS	your
+CON	restaurant
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+IST	already
+IST	able
+SUB	to
+EXS	write
+GPO	Chinese
+CON	characters
+NIL	.

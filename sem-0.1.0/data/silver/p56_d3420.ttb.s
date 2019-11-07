@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+SUB	that
+PER	Tom
+PST	was
+REL	at
+HAS	your
+CON	house
+NOW	today
+NIL	.

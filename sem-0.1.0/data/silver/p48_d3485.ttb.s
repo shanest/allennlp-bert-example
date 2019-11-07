@@ -1,0 +1,10 @@
+PRO	We
+PST	were
+AND	all
+EXS	surprised
+SUB	that
+PER	Tom
+EPS	won
+DEF	the
+CON	race
+NIL	.

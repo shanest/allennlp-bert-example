@@ -1,0 +1,12 @@
+SUB	To
+EXS	tell
+DEF	the
+CON	truth
+NIL	,
+PRO	I
+NOW	'm
+EXS	tired
+AND	of
+IST	violent
+CON	movies
+NIL	.

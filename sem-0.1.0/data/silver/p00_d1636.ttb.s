@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	never
+EXT	felt
+MOR	prouder
+REL	in
+HAS	my
+IST	whole
+CON	life
+NIL	.

@@ -1,0 +1,11 @@
+REL	From
+NOW	now
+REL	on
+NIL	,
+PRO	we
+FUT	'll
+EXS	do
+PRO	it
+PRX	this
+CON	way
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+EPS	felt
+DEF	the
+CON	warmth
+AND	of
+DEF	the
+CON	sun
+REL	on
+HAS	his
+CON	skin
+NIL	.

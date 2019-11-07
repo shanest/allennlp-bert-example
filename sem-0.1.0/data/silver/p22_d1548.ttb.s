@@ -1,0 +1,12 @@
+PRO	I
+FUT	'll
+EXS	be
+IST	able
+SUB	to
+EXS	finish
+REL	in
+DIS	a
+CON	day
+DIS	or
+QUC	two
+NIL	.

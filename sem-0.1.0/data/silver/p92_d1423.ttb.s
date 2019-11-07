@@ -1,0 +1,13 @@
+GPO	Greek
+AND	and
+GEO	Latin
+NOW	are
+IST	useful
+CON	languages
+NIL	,
+COO	so
+PRO	I
+NOW	'm
+EXS	studying
+PRO	them
+NIL	.

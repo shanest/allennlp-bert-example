@@ -1,0 +1,9 @@
+NOT	No
+QUC	one
+ENS	thinks
+PER	Tom
+FUT	will
+EXS	win
+DEF	the
+CON	race
+NIL	.

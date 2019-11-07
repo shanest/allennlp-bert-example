@@ -1,0 +1,11 @@
+QUE	How
+QUV	many
+GPO	American
+CON	deaths
+PST	were
+NIL	there
+REL	in
+DEF	the
+GPO	Korean
+CON	war
+QUE	?

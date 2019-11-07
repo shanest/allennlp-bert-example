@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+IST	ashamed
+AND	of
+IST	myself
+REL	for
+HAS	my
+IST	poor
+CON	English
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+UNK	which
+AND	of
+DEF	the
+QUC	two
+CON	girls
+PRO	you
+AND	like
+COM	better
+NIL	.

@@ -1,0 +1,12 @@
+EXS	Get
+IST	back
+REL	before
+CLO	midnight
+NIL	,
+DIS	or
+PRO	you
+FUT	will
+EXS	be
+EXS	locked
+IST	out
+NIL	.

@@ -1,0 +1,16 @@
+PRO	I
+NOW	'm
+IST	sure
+PER	Tom
+EPS	told
+PRO	you
+PER	Mary
+EPS	wanted
+SUB	to
+EXS	come
+REL	to
+DEF	the
+CON	party
+NIL	,
+ALT	too
+NIL	.

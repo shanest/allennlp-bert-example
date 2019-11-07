@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+REL	on
+DEF	the
+CON	interstate
+AND	and
+PER	Tom
+NOW	is
+EXS	right
+AND	behind
+PRO	me
+NIL	.

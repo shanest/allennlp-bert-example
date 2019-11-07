@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	happy
+NIL	,
+EXS	cause
+PRO	I
+NOW	'm
+EXS	learning
+DIS	some
+GPO	Dutch
+NIL	.

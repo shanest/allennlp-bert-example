@@ -1,0 +1,10 @@
+PER	Tom
+ENS	knows
+DIS	something
+DST	that
+PRO	he
+NOW	's
+NOT	not
+EXS	telling
+PRO	us
+NIL	.

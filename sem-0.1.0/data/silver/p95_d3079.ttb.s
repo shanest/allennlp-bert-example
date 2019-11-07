@@ -1,0 +1,12 @@
+REL	In
+DEF	the
+DEC	1600s
+NIL	,
+CON	tea
+PST	was
+EXS	introduced
+REL	into
+GEO	Europe
+REL	from
+GPE	India
+NIL	.

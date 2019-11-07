@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+NIL	to
+EXS	be
+INT	very
+EXS	honest
+REL	with
+PRO	you
+NIL	.

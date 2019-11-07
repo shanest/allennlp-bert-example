@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+IST	afraid
+PRO	he
+PST	had
+EXS	hurt
+PER	Mary
+HAS	's
+CON	feelings
+NIL	.

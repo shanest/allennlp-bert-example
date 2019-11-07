@@ -1,0 +1,14 @@
+NIL	"
+IST	Surely
+NIL	,
+NIL	"
+PER	Dima
+EPS	grinned
+NIL	.
+NIL	"
+PRO	You
+NEC	must
+NOW	be
+EXG	joking
+NIL	!
+NIL	"

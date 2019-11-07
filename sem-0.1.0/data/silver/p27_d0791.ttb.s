@@ -1,0 +1,9 @@
+NOT	No
+CON	one
+POS	can
+EXS	read
+DEF	the
+CON	book
+NOT	without
+EXS	crying
+NIL	.

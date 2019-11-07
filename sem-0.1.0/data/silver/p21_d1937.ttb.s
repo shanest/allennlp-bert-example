@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+EPS	took
+PRO	me
+REL	to
+DEF	the
+CON	movies
+AND	last
+CON	night
+NIL	.

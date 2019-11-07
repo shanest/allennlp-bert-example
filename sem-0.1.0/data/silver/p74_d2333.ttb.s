@@ -1,0 +1,10 @@
+PRO	I
+EPS	spent
+DEF	the
+IST	whole
+CON	night
+EXS	trying
+SUB	to
+EXS	fall
+EXS	asleep
+NIL	.

@@ -1,0 +1,12 @@
+CON	Steel
+CON	production
+FUT	will
+EXS	increase
+INT	2
+UOM	%
+PRX	this
+CON	month
+REL	from
+IST	last
+CON	month
+NIL	.

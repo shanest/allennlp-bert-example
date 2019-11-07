@@ -1,0 +1,10 @@
+QUE	What
+NOW	does
+PER	Tom
+ENS	want
+SUB	to
+EXS	talk
+REL	to
+PER	Mary
+AND	about
+QUE	?

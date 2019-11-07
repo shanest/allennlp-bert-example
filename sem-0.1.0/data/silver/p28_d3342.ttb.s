@@ -1,0 +1,9 @@
+PRO	I
+FUT	'll
+EXS	return
+REL	to
+HAS	my
+CON	country
+FUT	someday
+IST	soon
+NIL	.

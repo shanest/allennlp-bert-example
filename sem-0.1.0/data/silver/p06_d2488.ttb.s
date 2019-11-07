@@ -1,0 +1,11 @@
+ITJ	Frankly
+EXS	speaking
+NIL	,
+HAS	his
+IST	new
+CON	novel
+NOW	is
+NOT	not
+INT	very
+EXS	interesting
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	decided
+SUB	to
+EXS	send
+PER	Mary
+REL	to
+DIS	a
+IST	private
+CON	school
+NIL	.

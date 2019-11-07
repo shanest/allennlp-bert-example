@@ -1,0 +1,11 @@
+CON	Magicians
+CON	trick
+HAS	their
+CON	audience
+REL	into
+EXS	believing
+PRO	they
+NOW	have
+IST	special
+CON	powers
+NIL	.

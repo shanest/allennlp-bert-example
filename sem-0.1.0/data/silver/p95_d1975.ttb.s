@@ -1,0 +1,10 @@
+AND	How
+QUC	much
+REL	for
+DIS	a
+UOM	kilo
+AND	of
+PRX	this
+CON	mustard
+CON	seed
+QUE	?

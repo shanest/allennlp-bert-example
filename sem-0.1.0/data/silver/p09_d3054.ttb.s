@@ -1,0 +1,9 @@
+PRX	This
+CON	tree
+NOW	has
+PFT	been
+EXS	standing
+REL	for
+QUC	five
+CON	decades
+NIL	.

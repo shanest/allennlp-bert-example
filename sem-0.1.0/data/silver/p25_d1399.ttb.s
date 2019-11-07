@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	never
+EXS	heard
+AND	such
+CON	stories
+AND	as
+PRO	he
+ENS	tells
+NIL	.

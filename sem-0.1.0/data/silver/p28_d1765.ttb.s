@@ -1,0 +1,10 @@
+EXS	Wring
+DST	those
+CON	clothes
+IST	well
+REL	before
+PRO	you
+ENS	hang
+PRO	them
+IST	up
+NIL	.

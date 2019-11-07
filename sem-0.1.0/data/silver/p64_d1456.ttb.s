@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+IST	just
+EXS	going
+SUB	to
+EXS	run
+IST	down
+SUB	to
+EXS	buy
+DIS	some
+CON	tickets
+NIL	.

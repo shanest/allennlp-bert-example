@@ -1,0 +1,14 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	working
+REL	on
+PRX	this
+REL	for
+IST	just
+REL	for
+DIS	a
+CON	couple
+AND	of
+CON	days
+NIL	.

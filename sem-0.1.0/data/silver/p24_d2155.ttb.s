@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	glad
+SUB	that
+PRO	you
+EPS	asked
+PER	Tom
+REL	for
+CON	advice
+NIL	.

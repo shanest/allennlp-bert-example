@@ -1,0 +1,9 @@
+AND	Anyone
+ENS	know
+SUB	where
+PER	Nikolai
+NOW	's
+EXS	gone
+REL	off
+SUB	to
+QUE	?

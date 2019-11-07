@@ -1,0 +1,9 @@
+PRO	You
+NOW	've
+EXS	got
+DEF	the
+CON	right
+SUB	to
+EXS	be
+EXS	happy
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+PST	had
+NOT	no
+CON	idea
+SUB	that
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+CON	husband
+AND	and
+CON	wife
+NIL	.

@@ -1,0 +1,10 @@
+DST	That
+CON	island
+PST	was
+EXS	governed
+REL	by
+GPE	France
+REL	at
+QUC	one
+CON	time
+NIL	.

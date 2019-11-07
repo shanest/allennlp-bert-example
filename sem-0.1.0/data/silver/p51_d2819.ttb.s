@@ -1,0 +1,12 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	complain
+AND	about
+DEF	the
+CON	way
+PRO	I
+NOW	've
+PFT	been
+EXS	treated
+NIL	.

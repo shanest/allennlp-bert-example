@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	get
+PRO	you
+DIS	something
+SUB	to
+EXS	drink
+NIL	.

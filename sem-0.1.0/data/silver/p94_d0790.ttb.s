@@ -1,0 +1,13 @@
+DST	That
+IST	old
+CON	man
+NOW	is
+NIL	,
+IST	so
+SUB	to
+EXS	speak
+NIL	,
+DIS	a
+EXS	walking
+CON	dictionary
+NIL	.

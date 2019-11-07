@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	go
+REL	to
+CON	bed
+ALT	yet
+NIL	!

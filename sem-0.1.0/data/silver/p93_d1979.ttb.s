@@ -1,0 +1,10 @@
+PRX	This
+CON	book
+NOW	belongs
+REL	to
+PRO	them
+NIL	.
+PRO	It
+ENS	's
+HAS	theirs
+NIL	.

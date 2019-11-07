@@ -1,0 +1,10 @@
+ROL	Professor
+PER	Kay
+NOW	has
+PFT	been
+EXS	studying
+CON	insects
+REL	for
+QUC	forty
+CON	years
+NIL	.

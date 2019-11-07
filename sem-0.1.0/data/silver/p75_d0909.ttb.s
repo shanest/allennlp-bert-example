@@ -1,0 +1,13 @@
+PRO	You
+EPS	told
+PRO	her
+SUB	that
+PRO	you
+PST	had
+EXS	finished
+DEF	the
+CON	work
+QUC	three
+CON	days
+REL	before
+NIL	.

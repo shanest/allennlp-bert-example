@@ -1,0 +1,19 @@
+ALT	Again and again
+UNK	there
+NOW	are
+CON	challenges
+REL	in
+HAS	our
+CON	life
+NIL	.
+DIS	Some
+NOW	call
+PRO	them
+CON	problems
+NIL	,
+ALT	others
+NOW	call
+PRO	them
+CON	growth
+CON	opportunities
+NIL	.

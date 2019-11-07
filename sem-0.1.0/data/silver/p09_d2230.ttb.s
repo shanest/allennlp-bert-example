@@ -1,0 +1,10 @@
+PER	Tom
+NOT	never
+EPS	asked
+PRO	me
+QUE	what
+PRO	I
+EPS	wanted
+SUB	to
+EXS	do
+NIL	.

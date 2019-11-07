@@ -1,0 +1,14 @@
+AND	All
+IST	great
+CON	men
+NOW	are
+EXS	dead
+COO	and
+PRO	I
+NOW	am
+NOT	not
+EXS	feeling
+IST	too
+IST	well
+EMP	myself
+NIL	.

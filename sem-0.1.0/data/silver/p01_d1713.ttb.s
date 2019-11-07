@@ -1,0 +1,12 @@
+IMP	If
+PRO	you
+POS	ca
+NOT	n't
+EXS	have
+CON	children
+NIL	,
+PRO	you
+POS	could
+AND	always
+EXS	adopt
+NIL	.

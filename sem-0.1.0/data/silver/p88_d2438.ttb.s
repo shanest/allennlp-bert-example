@@ -1,0 +1,14 @@
+EXS	Did
+PRO	you
+ENS	know
+SUB	that
+HAS	his
+CON	wife
+PST	was
+EXS	cheating
+REL	on
+PRO	him
+REL	with
+DEF	the
+CON	milkman
+QUE	?

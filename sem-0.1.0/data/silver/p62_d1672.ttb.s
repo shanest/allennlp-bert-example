@@ -1,0 +1,12 @@
+REL	In
+GPE	Britain
+EQU	,
+DEF	the
+CON	banks
+EXS	open
+REL	at
+CLO	9:00
+REL	in
+DEF	the
+CON	morning
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+ROL	teacher
+EPS	made
+DEF	the
+CON	students
+NOW	do
+DIS	a
+CON	lot
+AND	of
+CON	homework
+NIL	.

@@ -1,0 +1,16 @@
+AND	As
+DIS	a
+CON	boy
+PRO	I
+EPS	used
+SUB	to
+EXS	lie
+REL	on
+HAS	my
+IST	back
+COO	and
+EXS	look
+REL	at
+COL	white
+CON	clouds
+NIL	.

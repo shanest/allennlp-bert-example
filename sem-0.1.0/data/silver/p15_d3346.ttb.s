@@ -1,0 +1,14 @@
+PRO	You
+PST	were
+NOT	n't
+EXS	married
+REL	to
+DEF	the
+IST	tattooed
+CON	guy
+PRO	they
+EPS	took
+IST	away
+REL	in
+CON	handcaffs
+QUE	?

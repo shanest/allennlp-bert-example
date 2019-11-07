@@ -1,0 +1,10 @@
+PRO	It
+PST	was
+EXS	raining
+REL	on
+AND	and
+REL	off
+AND	all
+CON	night
+IST	long
+NIL	.

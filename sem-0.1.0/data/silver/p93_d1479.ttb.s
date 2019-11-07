@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	we
+NEC	should
+EXS	wait
+SUB	until
+PER	Tom
+NOW	gets
+PRX	here
+NIL	.

@@ -1,0 +1,9 @@
+NOW	Are
+PRO	you
+EXG	saying
+SUB	that
+PRO	I
+NOW	'm
+DIS	a
+CON	liar
+QUE	?

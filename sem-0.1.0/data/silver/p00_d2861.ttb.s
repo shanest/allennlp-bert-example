@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+DIS	a
+CON	map
+REL	of
+DEF	the
+CON	city
+REL	of
+GPE	Sendai
+NIL	.

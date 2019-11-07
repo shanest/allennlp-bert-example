@@ -1,0 +1,12 @@
+HAS	My
+CON	grandpa
+EPS	blew
+IST	out
+AND	all
+DEF	97
+CON	candles
+REL	on
+HAS	his
+CON	birthday
+CON	cake
+NIL	.

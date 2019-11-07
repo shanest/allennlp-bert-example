@@ -1,0 +1,9 @@
+QUC	One
+AND	of
+DEF	the
+CON	children
+AND	over
+UNK	there
+NOW	is
+PER	Tom
+NIL	.

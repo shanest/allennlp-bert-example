@@ -1,0 +1,11 @@
+PER	Tom
+ENS	says
+SUB	that
+PRO	he
+FUT	'll
+EXS	be
+REL	at
+DEF	the
+CON	meeting
+FUT	tomorrow
+NIL	.

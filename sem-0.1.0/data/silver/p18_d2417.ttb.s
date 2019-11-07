@@ -1,0 +1,17 @@
+PER	Tom
+EPS	thought
+PRO	he
+PST	had
+DIS	a
+CON	chance
+SUB	to
+EXS	make
+DIS	a
+CON	lot
+AND	of
+CON	money
+REL	on
+DEF	the
+CON	stock
+CON	market
+NIL	.

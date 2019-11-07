@@ -1,0 +1,14 @@
+PRO	I
+NEC	have
+SUB	to
+EXS	lose
+CON	weight
+NIL	,
+COO	so
+PRO	I
+NOW	'm
+EXS	going
+REL	on
+DIS	a
+CON	diet
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+NOT	not
+IST	really
+DIS	a
+ROL	millionaire
+NIL	,
+NOW	are
+PRO	you
+QUE	?

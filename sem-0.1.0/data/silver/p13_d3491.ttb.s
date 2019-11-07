@@ -1,0 +1,10 @@
+DIS	A
+CON	lot
+AND	of
+CON	people
+NOW	are
+EXS	dealing
+REL	with
+CON	allergies
+NOW	now
+NIL	.

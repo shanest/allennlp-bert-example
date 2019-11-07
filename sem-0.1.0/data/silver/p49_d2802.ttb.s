@@ -1,0 +1,13 @@
+PRO	It
+HAS	's
+DIS	a
+CON	waste
+AND	of
+CON	time
+SUB	to
+EXS	study
+SUB	when
+PRO	you
+NOW	're
+EXS	sleepy
+NIL	.

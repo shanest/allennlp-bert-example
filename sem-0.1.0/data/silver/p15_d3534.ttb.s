@@ -1,0 +1,11 @@
+CON	Listening
+REL	to
+DEF	the
+CON	radio
+NIL	,
+PRO	I
+EPS	heard
+DEF	the
+CON	telephone
+CON	ring
+NIL	.

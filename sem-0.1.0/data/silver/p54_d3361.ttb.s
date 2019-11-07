@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+QUC	one
+CON	daughter
+AND	and
+QUC	two
+CON	sons
+NIL	.

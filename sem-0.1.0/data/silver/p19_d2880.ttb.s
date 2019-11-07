@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	acquainted
+REL	with
+PRO	her
+REL	for
+MOR	more
+MOR	than
+QUC	20
+CON	years
+NIL	.

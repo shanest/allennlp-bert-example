@@ -1,0 +1,14 @@
+SUB	When
+EXG	making
+DIS	a
+CON	cake
+NIL	,
+PRO	you
+NEC	must
+EXS	use
+CON	eggs
+EQU	,
+CON	butter
+AND	and
+CON	sugar
+NIL	.

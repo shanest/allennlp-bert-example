@@ -1,0 +1,16 @@
+IMP	If
+PRO	they
+ENS	admit
+PRO	me
+REL	to
+DEF	the
+CON	university
+NIL	,
+PRO	I
+NOW	think
+PRO	I
+FUT	will
+IST	major
+REL	in
+CON	economics
+NIL	.

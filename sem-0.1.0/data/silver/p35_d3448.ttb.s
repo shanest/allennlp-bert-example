@@ -1,0 +1,13 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+POS	could
+EXS	see
+NIL	,
+PRO	I
+EPS	saw
+NOT	nothing
+BUT	but
+CON	sand
+NIL	.

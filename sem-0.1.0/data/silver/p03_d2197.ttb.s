@@ -1,0 +1,17 @@
+CON	Suicide
+NOW	is
+DIS	an
+CON	act
+AND	of
+CON	revenge
+REL	against
+REF	yourself
+NIL	,
+COO	and
+PRO	I
+IST	personally
+NOW	have
+NOT	nothing
+REL	against
+EMP	myself
+NIL	.

@@ -1,0 +1,17 @@
+PRO	I
+EPS	told
+PER	Tom
+SUB	that
+PRO	he
+PST	was
+DIS	a
+CON	fool
+SUB	to
+EXS	let
+PER	Mary
+EXS	talk
+SUB	to
+PRO	him
+SUB	that
+CON	way
+NIL	.

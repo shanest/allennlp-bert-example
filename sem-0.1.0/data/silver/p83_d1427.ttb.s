@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+DEF	the
+TOP	ugliest
+CON	hat
+PRO	I
+NOW	've
+IST	ever
+EXS	seen
+NIL	.

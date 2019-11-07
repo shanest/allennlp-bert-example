@@ -1,0 +1,15 @@
+DEF	The
+CON	situation
+PST	was
+INT	extremely
+EXS	dangerous
+COO	;
+PRO	it
+PST	was
+DIS	a
+CON	matter
+AND	of
+CON	life
+AND	and
+CON	death
+NIL	.

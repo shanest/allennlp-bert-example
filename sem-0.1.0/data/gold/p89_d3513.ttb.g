@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+NOT	not
+IST	resentful
+NIL	,
+BUT	but
+PRO	I
+ALT	also
+EXS	forget
+NOT	nothing
+NIL	.

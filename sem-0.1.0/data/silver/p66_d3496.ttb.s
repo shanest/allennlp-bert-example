@@ -1,0 +1,13 @@
+PRO	I
+EPS	took
+PRO	it
+REL	for
+EXS	granted
+SUB	that
+PRO	you
+PST	were
+IST	aware
+AND	of
+DEF	the
+CON	danger
+NIL	.

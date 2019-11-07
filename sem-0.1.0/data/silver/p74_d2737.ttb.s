@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+IST	next
+SUB	to
+EXS	impossible
+SUB	to
+EXS	carry
+PRO	it
+IST	out
+NIL	.

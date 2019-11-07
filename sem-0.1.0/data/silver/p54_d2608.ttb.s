@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXS	putting
+HAS	his
+CON	pens
+REL	into
+DEF	the
+CON	pencil
+CON	case
+NIL	.

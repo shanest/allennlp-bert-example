@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+NOT	n't
+ALT	yet
+EXS	read
+DEF	the
+IST	new
+CON	memorandum
+REL	on
+IST	internal
+CON	security
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+NEC	must
+EXS	be
+CON	morning
+NIL	,
+REL	for
+DEF	the
+CON	birds
+NOW	are
+EXG	singing
+NIL	.

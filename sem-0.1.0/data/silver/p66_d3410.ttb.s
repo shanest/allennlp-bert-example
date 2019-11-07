@@ -1,0 +1,16 @@
+PRO	I
+ENS	know
+HAS	your
+CON	time
+NOW	is
+EXS	valuable
+NIL	,
+BUT	but
+POS	could
+PRO	I
+EXS	ask
+PRO	you
+IST	just
+QUC	one
+CON	question
+QUE	?

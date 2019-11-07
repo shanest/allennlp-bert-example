@@ -1,0 +1,11 @@
+PRO	We
+NOW	are
+EXS	worn
+IST	out
+SUB	because
+PRO	we
+EPS	fucked
+AND	all
+CON	day
+IST	long
+NIL	.

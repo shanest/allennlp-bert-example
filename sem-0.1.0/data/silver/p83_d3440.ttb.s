@@ -1,0 +1,9 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	know
+SUB	where
+PER	Tom
+NOW	is
+REL	from
+NIL	.

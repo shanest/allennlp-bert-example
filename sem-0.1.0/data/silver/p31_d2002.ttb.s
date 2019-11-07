@@ -1,0 +1,13 @@
+PRO	It
+FUT	wo
+NOT	n't
+EXS	be
+DEF	the
+IST	first
+CON	time
+PRO	it
+NOW	's
+EXS	happened
+REL	to
+PRO	me
+NIL	.

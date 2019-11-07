@@ -1,0 +1,9 @@
+PRO	It
+ENS	seems
+NIL	to
+PRO	me
+SUB	that
+PRO	he
+ENS	likes
+CON	music
+NIL	.

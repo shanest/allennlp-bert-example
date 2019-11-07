@@ -1,0 +1,15 @@
+PRO	I
+ENS	grind
+HAS	my
+CON	coffee
+REL	by
+CON	hand
+REL	with
+DIS	a
+CON	coffee
+CON	grinder
+REL	with
+DIS	a
+CON	crank
+EXS	handle
+NIL	.

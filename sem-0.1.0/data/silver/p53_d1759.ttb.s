@@ -1,0 +1,12 @@
+DEF	The
+CON	movement
+EPS	added
+DIS	a
+IST	new
+CON	page
+REL	to
+DEF	the
+CON	history
+AND	of
+GPE	Japan
+NIL	.

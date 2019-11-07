@@ -1,0 +1,13 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	talked
+AND	about
+QUE	what
+PRO	they
+NEC	should
+EXS	do
+REL	with
+DEF	the
+CON	money
+NIL	.

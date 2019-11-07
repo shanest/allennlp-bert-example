@@ -1,0 +1,11 @@
+SUB	When
+HAS	my
+ROL	mother
+PST	was
+EXS	young
+NIL	,
+PRO	she
+PST	was
+INT	very
+EXS	beautiful
+NIL	.

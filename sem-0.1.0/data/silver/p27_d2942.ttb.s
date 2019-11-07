@@ -1,0 +1,11 @@
+QUE	How
+QUC	much
+CON	money
+NOW	has
+PFT	been
+EXS	spent
+REL	on
+CON	building
+DEF	the
+CON	museum
+QUE	?

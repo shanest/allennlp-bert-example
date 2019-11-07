@@ -1,0 +1,10 @@
+SUB	When
+PST	did
+PRO	you
+IST	last
+EXS	wipe
+DIS	someone
+HAS	's
+CON	tears
+IST	away
+QUE	?

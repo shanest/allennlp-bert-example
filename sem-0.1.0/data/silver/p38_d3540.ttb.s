@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	not
+PFT	been
+EXS	studying
+REL	for
+QUC	two
+CON	days
+NIL	.

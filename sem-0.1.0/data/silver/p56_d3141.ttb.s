@@ -1,0 +1,13 @@
+DEF	The
+CON	ship
+PST	was
+EPS	searched
+IST	thoroughly
+NIL	,
+BUT	but
+NOT	no
+IST	illegal
+CON	drugs
+PST	were
+EXS	found
+NIL	.

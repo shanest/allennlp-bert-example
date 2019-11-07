@@ -1,0 +1,12 @@
+QUC	One
+AND	of
+PER	Tom
+HAS	's
+CON	problems
+NOW	is
+SUB	that
+PRO	he
+POS	ca
+NOT	n't
+EXS	read
+NIL	.

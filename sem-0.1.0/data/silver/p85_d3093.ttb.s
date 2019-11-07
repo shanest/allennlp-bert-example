@@ -1,0 +1,13 @@
+AND	As
+IST	soon
+AND	as
+DEF	the
+CON	dog
+EPS	saw
+PRO	me
+NIL	,
+PRO	it
+EPS	began
+REL	to
+CON	bark
+NIL	.

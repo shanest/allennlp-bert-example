@@ -1,0 +1,15 @@
+PRO	He
+ENS	thinks
+SUB	that
+PRO	he
+HAS	's
+DEF	the
+XCL	only
+QUC	one
+AND	who
+ENS	knows
+QUE	how
+SUB	to
+EXS	set
+CON	traps
+NIL	.

@@ -1,0 +1,10 @@
+PRO	She
+NOW	is
+EXS	recognized
+SUB	to
+EXS	be
+DIS	an
+CON	expert
+REL	on
+CON	linguistics
+NIL	.

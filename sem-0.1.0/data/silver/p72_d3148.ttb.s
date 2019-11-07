@@ -1,0 +1,11 @@
+PRX	This
+CON	book
+NOW	is
+INT	very
+EXS	good
+NOT	except
+REL	for
+DIS	a
+IST	few
+CON	mistakes
+NIL	.

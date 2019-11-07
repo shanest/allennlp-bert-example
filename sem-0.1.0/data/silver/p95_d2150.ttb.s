@@ -1,0 +1,16 @@
+PRO	It
+EPS	took
+PER	Tom
+DIS	a
+IST	few
+CON	weeks
+SUB	to
+EXS	get
+EXS	used
+SUB	to
+EXS	working
+REL	in
+HAS	his
+IST	new
+CON	office
+NIL	.

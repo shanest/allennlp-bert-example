@@ -1,0 +1,11 @@
+HAS	My
+CON	grades
+PST	had
+EPS	dived
+REL	to
+DEF	the
+CON	bottom
+AND	of
+DEF	the
+CON	class
+NIL	.

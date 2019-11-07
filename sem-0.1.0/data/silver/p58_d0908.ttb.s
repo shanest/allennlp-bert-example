@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	eating
+CON	fruits
+SUB	because
+PRO	I
+NOW	'm
+EXS	hungry
+NIL	.

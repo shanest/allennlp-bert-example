@@ -1,0 +1,9 @@
+PRO	He
+EPS	tried
+SUB	to
+EXS	make
+IST	up
+REL	for
+IST	lost
+CON	time
+NIL	.

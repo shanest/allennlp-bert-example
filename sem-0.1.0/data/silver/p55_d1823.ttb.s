@@ -1,0 +1,10 @@
+AND	Upon
+EXS	hearing
+DEF	the
+CON	news
+NIL	,
+PRO	she
+EPS	broke
+IST	down
+EXS	crying
+NIL	.

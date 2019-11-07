@@ -1,0 +1,10 @@
+PRO	I
+ENS	take
+DIS	a
+CON	walk
+REL	at
+CLO	two
+REL	in
+DEF	the
+CON	afternoon
+NIL	.

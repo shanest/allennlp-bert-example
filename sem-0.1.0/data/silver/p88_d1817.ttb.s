@@ -1,0 +1,9 @@
+PRO	I
+EPS	found
+PRO	it
+IST	easy
+SUB	to
+EXS	answer
+DEF	the
+CON	question
+NIL	.

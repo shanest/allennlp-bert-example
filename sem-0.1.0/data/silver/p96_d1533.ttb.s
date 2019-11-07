@@ -1,0 +1,12 @@
+SUB	When
+PRO	they
+EPS	saw
+SUB	that
+PRO	they
+PST	were
+EXS	losing
+NIL	,
+PRO	they
+EPS	gave
+IST	up
+NIL	.

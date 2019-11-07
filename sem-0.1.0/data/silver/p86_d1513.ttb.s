@@ -1,0 +1,10 @@
+PRO	We
+NOW	are
+EXS	looking
+REL	into
+DEF	the
+CON	cause
+AND	of
+DEF	the
+CON	accident
+NIL	.

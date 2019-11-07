@@ -1,0 +1,10 @@
+PRO	He
+EPS	earned
+NOT	no
+MOR	more
+MOR	than
+QUC	ten
+UOM	dollars
+DIS	a
+CON	day
+NIL	.

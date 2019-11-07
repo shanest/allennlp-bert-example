@@ -1,0 +1,12 @@
+DEF	The
+CON	robbers
+EPS	made
+IST	away
+REL	with
+AND	all
+DEF	the
+CON	money
+REL	in
+DEF	the
+CON	safe
+NIL	.

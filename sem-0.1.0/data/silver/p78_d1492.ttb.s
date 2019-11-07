@@ -1,0 +1,12 @@
+CON	One
+NOW	does
+NOT	not
+EXS	wear
+DIS	a
+IST	red
+CON	mini
+CON	skirt
+REL	to
+DIS	a
+CON	funeral
+NIL	.

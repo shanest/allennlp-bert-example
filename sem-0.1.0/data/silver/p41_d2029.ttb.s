@@ -1,0 +1,9 @@
+SUB	To
+QUE	what
+NOW	do
+PRO	I
+EXS	owe
+PRX	this
+IST	unexpected
+CON	pleasure
+QUE	?

@@ -1,0 +1,13 @@
+PRO	He
+NOW	is
+NIL	,
+IST	so
+SUB	to
+EXS	speak
+NIL	,
+DIS	a
+CON	fish
+AND	out
+AND	of
+CON	water
+NIL	.

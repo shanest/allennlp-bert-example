@@ -1,0 +1,12 @@
+PER	Tom
+EPS	put
+DIS	a
+CON	dish
+REL	with
+CON	cheese
+AND	and
+CON	crackers
+REL	on
+DEF	the
+CON	table
+NIL	.

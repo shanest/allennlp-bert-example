@@ -1,0 +1,11 @@
+PER	Tom
+EPS	made
+DIS	a
+CON	lot
+AND	of
+CON	money
+REL	in
+DEF	the
+CON	stock
+CON	market
+NIL	.

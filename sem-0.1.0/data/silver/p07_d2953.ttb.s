@@ -1,0 +1,10 @@
+GRE	Welcome
+IST	back
+EQU	,
+PER	Tom
+NIL	.
+PRO	We
+NOW	've
+EXS	missed
+PRO	you
+NIL	.

@@ -1,0 +1,11 @@
+IMP	If
+PER	Tom
+FUT	would
+EXS	eat
+LES	less
+NIL	,
+PRO	he
+FUT	'd
+EXS	be
+IST	healthier
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+PST	did
+DIS	something
+PRO	he
+PST	did
+NOT	n't
+EXS	want
+PER	Mary
+SUB	to
+EXS	know
+IST	about
+NIL	.

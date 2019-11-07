@@ -1,0 +1,9 @@
+CON	Cows
+NOW	are
+EXS	sacred
+REL	to
+QUV	many
+CON	people
+REL	in
+GPE	India
+NIL	.

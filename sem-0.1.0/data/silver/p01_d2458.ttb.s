@@ -1,0 +1,16 @@
+DIS	An
+IST	ignorant
+CON	person
+NOW	is
+QUC	one
+AND	who
+NOW	does
+NOT	n't
+EXS	know
+QUE	what
+PRO	you
+NOW	have
+IST	just
+EXS	found
+IST	out
+NIL	.

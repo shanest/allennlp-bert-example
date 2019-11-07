@@ -1,0 +1,10 @@
+PER	Elizabeth
+PRO	I
+EPS	became
+DEF	the
+CON	Queen
+AND	of
+GPE	England
+REL	in
+YOC	1558
+NIL	.

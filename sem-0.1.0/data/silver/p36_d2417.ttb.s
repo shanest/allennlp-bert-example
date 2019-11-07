@@ -1,0 +1,9 @@
+PER	Emi
+EPS	gave
+HAS	her
+CON	seat
+REL	to
+DIS	a
+IST	handicapped
+CON	man
+NIL	.

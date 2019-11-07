@@ -1,0 +1,11 @@
+PER	Emily
+ENS	needs
+SUB	to
+EXS	eat
+DIS	something
+NIL	,
+SUB	because
+PRO	she
+NOW	's
+EXS	hungry
+NIL	.

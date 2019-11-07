@@ -1,0 +1,10 @@
+DEF	The
+CON	notebook
+NOW	is
+NOT	not
+HAS	yours
+NIL	.
+PRO	It
+HAS	's
+HAS	his
+NIL	.

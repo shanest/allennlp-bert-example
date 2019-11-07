@@ -1,0 +1,15 @@
+UNK	There
+HAS	's
+IST	still
+DIS	a
+IST	real
+CON	lot
+SUB	to
+EXS	do
+NIL	.
+EXS	Let
+PRO	's
+EXS	get
+REL	into
+PRO	it
+NIL	!

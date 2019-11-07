@@ -1,0 +1,12 @@
+PER	Tom
+ENS	thinks
+HAS	his
+CON	country
+NOW	is
+DEF	the
+TOP	greatest
+CON	country
+REL	in
+DEF	the
+CON	world
+NIL	.

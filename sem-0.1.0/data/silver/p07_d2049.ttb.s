@@ -1,0 +1,13 @@
+PER	Tom
+IST	finally
+EPS	managed
+SUB	to
+EXS	get
+PER	Mary
+HAS	's
+IST	true
+CON	opinion
+AND	out
+AND	of
+PRO	her
+NIL	.

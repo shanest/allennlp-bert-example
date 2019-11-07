@@ -1,0 +1,14 @@
+PER	Tom
+EPS	wrote
+PER	Mary
+DIS	a
+CON	love
+CON	letter
+NIL	,
+BUT	but
+PRO	he
+PST	did
+NOT	not
+EXS	send
+PRO	it
+NIL	.

@@ -1,0 +1,10 @@
+NOT	Never
+EXS	choose
+DIS	a
+CON	vocation
+AND	just
+SUB	because
+PRO	it
+ENS	looks
+EXS	profitable
+NIL	.

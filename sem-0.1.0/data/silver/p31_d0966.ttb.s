@@ -1,0 +1,12 @@
+DEF	The
+CON	newspaper
+EPS	published
+DIS	a
+IST	hilarious
+CON	parody
+AND	of
+DEF	the
+ROL	president
+HAS	's
+CON	speech
+NIL	.

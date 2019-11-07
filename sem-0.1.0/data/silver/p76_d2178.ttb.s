@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+IMP	if
+PRO	I
+NOW	'm
+EXS	stupid
+DIS	or
+NOT	not
+NIL	.

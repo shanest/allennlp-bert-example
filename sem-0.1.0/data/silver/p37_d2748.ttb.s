@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+EXS	tried
+SUB	to
+EXS	change
+HAS	my
+CON	shyness
+COO	but
+REL	to
+NOT	no
+EXS	avail
+NIL	.

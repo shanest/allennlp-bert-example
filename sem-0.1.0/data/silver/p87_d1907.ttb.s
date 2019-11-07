@@ -1,0 +1,11 @@
+IMP	If
+PRO	I
+ENS	know
+DEF	the
+CON	context
+NIL	,
+PRO	I
+ENS	understand
+DEF	the
+CON	text
+NIL	.

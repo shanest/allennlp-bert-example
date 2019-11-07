@@ -1,0 +1,11 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	have
+HAS	your
+CON	cake
+COO	and
+EXS	eat
+PRO	it
+ALT	too
+NIL	.

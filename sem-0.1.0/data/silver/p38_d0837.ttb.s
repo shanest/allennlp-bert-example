@@ -1,0 +1,9 @@
+PRO	He
+EPS	thought
+SUB	that
+PRO	he
+POS	could
+EXS	climb
+DEF	the
+CON	mountain
+NIL	.

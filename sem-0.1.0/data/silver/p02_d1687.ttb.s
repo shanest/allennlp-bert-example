@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+EXS	furious
+SUB	that
+PER	Mary
+NOW	is
+EXG	going
+REL	to
+GPE	Boston
+NOT	without
+PRO	him
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	going
+AND	outside
+SUB	to
+EXS	play
+NIL	.
+NOW	Are
+PRO	you
+EXS	coming
+REL	with
+QUE	?

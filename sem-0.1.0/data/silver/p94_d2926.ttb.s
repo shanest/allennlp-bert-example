@@ -1,0 +1,37 @@
+DEF	The
+IST	individual
+CON	stars
+REL	in
+DIS	a
+CON	constellation
+POS	may
+EXS	appear
+SUB	to
+EXS	be
+INT	very
+EXS	close
+REL	to
+REF	each other
+NIL	,
+BUT	but
+REL	in
+CON	fact
+PRO	they
+POS	can
+EXS	be
+EXS	separated
+REL	by
+IST	huge
+CON	distances
+REL	in
+CON	space
+COO	and
+NOW	have
+NOT	no
+IST	real
+CON	connection
+REL	to
+CON	each other
+REL	at
+AND	all
+NIL	.

@@ -1,0 +1,9 @@
+PRO	You
+PST	'd
+EXS	be
+COM	better
+REL	off
+AND	following
+HAS	my
+CON	advice
+NIL	.

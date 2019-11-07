@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	clear
+SUB	that
+PRO	he
+NOW	is
+DIS	a
+IST	great
+ROL	artist
+NIL	.

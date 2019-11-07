@@ -1,0 +1,9 @@
+NOW	Are
+PRO	you
+EXG	waiting
+REL	for
+PRO	me
+SUB	to
+EXS	do
+PRO	it
+QUE	?

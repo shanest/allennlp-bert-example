@@ -1,0 +1,12 @@
+NOT	Not
+XCL	only
+HAS	his
+CON	son
+NIL	,
+BUT	but
+HAS	his
+CON	daughter
+NOW	is
+ALT	also
+EXS	famous
+NIL	.

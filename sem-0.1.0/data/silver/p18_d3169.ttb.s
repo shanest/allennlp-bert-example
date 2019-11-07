@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+DIS	something
+IST	really
+CON	fun
+PRO	we
+POS	can
+EXS	do
+FUT	tomorrow
+NIL	.

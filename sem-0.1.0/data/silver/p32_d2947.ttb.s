@@ -1,0 +1,15 @@
+CON	Orly
+AND	,
+DOW	Sunday
+NIL	.
+CON	Parents
+NOW	take
+HAS	their
+CON	children
+UNK	there
+SUB	to
+EXS	watch
+DEF	the
+REL	departing
+CON	planes
+NIL	.

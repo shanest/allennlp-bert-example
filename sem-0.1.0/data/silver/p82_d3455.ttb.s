@@ -1,0 +1,9 @@
+PRO	We
+NOW	're
+EXS	expecting
+DIS	a
+IST	good
+CON	harvest
+PRX	this
+CON	year
+NIL	.

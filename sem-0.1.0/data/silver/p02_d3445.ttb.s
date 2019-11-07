@@ -1,0 +1,16 @@
+QUE	What
+PRO	we
+NOW	are
+EXG	seeing
+NOW	now
+NOW	is
+DIS	a
+CON	country
+NIL	teetering
+REL	on
+DEF	the
+CON	brink
+AND	of
+IST	civil
+CON	war
+NIL	.

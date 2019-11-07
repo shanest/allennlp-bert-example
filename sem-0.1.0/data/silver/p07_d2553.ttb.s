@@ -1,0 +1,11 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	drink
+CON	seawater
+SUB	because
+PRO	it
+NOW	's
+INT	too
+EXS	salty
+NIL	.

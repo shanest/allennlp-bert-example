@@ -1,0 +1,10 @@
+PRO	I
+EPS	persuaded
+PRO	her
+REL	after
+AND	all
+AND	and
+EPS	went
+REL	to
+CON	camp
+NIL	.

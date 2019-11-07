@@ -1,0 +1,10 @@
+PER	Mary
+NOW	is
+DEF	the
+XCL	only
+CON	girl
+PRO	I
+NOW	've
+IST	ever
+EXS	loved
+NIL	.

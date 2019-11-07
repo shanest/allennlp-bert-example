@@ -1,0 +1,11 @@
+CON	Talking
+AND	of
+PER	Shakespeare
+NIL	,
+NOW	have
+PRO	you
+IST	ever
+EPS	read
+HAS	his
+CON	work
+QUE	?

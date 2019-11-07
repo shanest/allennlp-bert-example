@@ -1,0 +1,10 @@
+PRO	I
+EPS	broke
+HAS	my
+CON	arm
+SUB	when
+PRO	I
+PST	was
+DIS	a
+CON	child
+NIL	.

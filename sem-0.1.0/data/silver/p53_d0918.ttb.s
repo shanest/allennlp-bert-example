@@ -1,0 +1,10 @@
+NOT	No
+CON	country
+POS	can
+EXS	match
+GPE	France
+HAS	's
+IST	good
+CON	quality
+CON	wine
+NIL	.

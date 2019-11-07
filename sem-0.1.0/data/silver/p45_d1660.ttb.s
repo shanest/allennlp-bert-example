@@ -1,0 +1,9 @@
+DEF	The
+CON	leaves
+EPS	began
+SUB	to
+EXS	turn
+IST	red
+AND	and
+COL	yellow
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+ENS	understand
+PRO	you
+PST	had
+DIS	a
+CON	fight
+REL	with
+PER	Tom
+PST	yesterday
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+NOT	not
+AND	any
+MOR	better
+MOR	than
+DIS	a
+ROL	politician
+NIL	.

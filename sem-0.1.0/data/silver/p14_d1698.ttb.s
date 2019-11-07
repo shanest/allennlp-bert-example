@@ -1,0 +1,9 @@
+PER	Tom
+PST	was
+EXG	holding
+DIS	something
+REL	in
+HAS	his
+IST	left
+CON	hand
+NIL	.

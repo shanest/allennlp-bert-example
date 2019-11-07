@@ -1,0 +1,11 @@
+DEF	The
+CON	story
+PST	was
+IST	so
+EXS	funny
+SUB	that
+PRO	I
+EPS	split
+HAS	my
+CON	sides
+NIL	.

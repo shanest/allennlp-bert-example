@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+XCL	only
+CON	picture
+PRO	I
+NOW	have
+AND	of
+HAS	my
+ROL	great-great-grandfather
+NIL	.

@@ -1,0 +1,9 @@
+QUE	Who
+HAS	's
+FUT	gonna
+EXS	read
+AND	such
+DIS	a
+IST	thick
+CON	book
+QUE	?

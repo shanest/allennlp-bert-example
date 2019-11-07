@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+ENS	love
+PRO	me
+AND	just
+SUB	because
+PRO	I
+NOW	'm
+IST	black
+QUE	?

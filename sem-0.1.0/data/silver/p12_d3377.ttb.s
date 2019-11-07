@@ -1,0 +1,11 @@
+PER	Tom
+PST	was
+EXS	standing
+REL	at
+DEF	the
+CON	bar
+NIL	,
+EXG	having
+DIS	a
+CON	beer
+NIL	.

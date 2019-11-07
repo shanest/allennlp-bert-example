@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+IST	better
+IST	able
+SUB	to
+EXS	teach
+AND	than
+PRO	I
+NOW	am
+NIL	.

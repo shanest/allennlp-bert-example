@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+QUC	one
+AND	of
+PRO	Tatoeba
+NOW	's
+TOP	best
+EXS	kept
+CON	secrets
+NIL	.

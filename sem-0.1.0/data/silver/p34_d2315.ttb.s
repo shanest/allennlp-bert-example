@@ -1,0 +1,10 @@
+PRO	I
+EPS	made
+DIS	a
+IST	good
+CON	profit
+REL	by
+EXS	selling
+HAS	my
+CON	car
+NIL	.

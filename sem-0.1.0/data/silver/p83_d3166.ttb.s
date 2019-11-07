@@ -1,0 +1,11 @@
+PER	Tom
+HAS	's
+IST	creative
+EXS	thinking
+IST	nicely
+EXS	complemented
+PER	Mary
+HAS	's
+IST	organizational
+CON	talents
+NIL	.

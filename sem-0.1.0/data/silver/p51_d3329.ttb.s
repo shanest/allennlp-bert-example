@@ -1,0 +1,9 @@
+PRO	I
+FUT	'll
+EXS	be
+IST	happy
+SUB	to
+EXS	answer
+HAS	your
+CON	question
+NIL	.

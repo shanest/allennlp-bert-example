@@ -1,0 +1,9 @@
+CON	Thanks
+REL	for
+DEF	the
+CON	cookies
+NIL	.
+PRO	They
+PST	were
+IST	delicious
+NIL	.

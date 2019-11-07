@@ -1,0 +1,12 @@
+PRO	I
+FUT	would
+NOT	n't
+EXS	mind
+SUB	to
+EXS	have
+AND	such
+CON	patience
+AND	of
+PER	Job
+AND	either
+NIL	.

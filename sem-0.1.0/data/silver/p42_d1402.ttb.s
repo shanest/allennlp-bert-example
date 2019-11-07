@@ -1,0 +1,9 @@
+PER	Tom
+EPS	said
+PRO	he
+NOW	does
+NOT	n't
+EXS	work
+REL	on
+DOW	Mondays
+NIL	.

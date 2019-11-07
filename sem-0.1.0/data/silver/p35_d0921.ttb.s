@@ -1,0 +1,16 @@
+REL	In
+MOY	March
+NIL	,
+DEF	the
+CON	ground
+NOW	is
+IST	still
+INT	too
+CON	cold
+REL	to
+CON	plant
+AND	anything
+REL	in
+DEF	the
+CON	garden
+NIL	.

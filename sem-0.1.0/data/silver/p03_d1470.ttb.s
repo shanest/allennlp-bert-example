@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+EXS	gone
+HAS	their
+IST	separate
+CON	ways
+NIL	.

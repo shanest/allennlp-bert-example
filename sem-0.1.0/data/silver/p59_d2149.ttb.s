@@ -1,0 +1,11 @@
+PRO	He
+ENS	knows
+PRO	I
+NOW	do
+NOT	n't
+EXS	like
+CON	face
+REL	to
+CON	face
+CON	meetings
+NIL	.

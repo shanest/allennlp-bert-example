@@ -1,0 +1,13 @@
+PRO	I
+NOW	buy
+CON	things
+SUB	that
+PRO	I
+ENS	know
+PRO	I
+NOW	am
+NOT	not
+EXS	going
+SUB	to
+EXS	use
+NIL	.

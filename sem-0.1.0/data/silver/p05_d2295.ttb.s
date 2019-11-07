@@ -1,0 +1,9 @@
+NOW	Is
+PER	Tom
+IST	still
+DEF	the
+ROL	captain
+AND	of
+HAS	your
+CON	ship
+QUE	?

@@ -1,0 +1,9 @@
+PRO	You
+EPS	saw
+DEF	the
+CON	news
+NIL	,
+PST	did
+NOT	n't
+PRO	you
+QUE	?

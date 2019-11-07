@@ -1,0 +1,14 @@
+EXS	Come
+REL	on
+NIL	,
+PRO	we
+FUT	'll
+EXS	be
+IST	late
+IMP	if
+PRO	you
+NOW	do
+NOT	n't
+EXS	hurry
+IST	up
+NIL	.

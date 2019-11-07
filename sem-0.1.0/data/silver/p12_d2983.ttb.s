@@ -1,0 +1,15 @@
+PER	Tom
+PST	was
+EXS	sentenced
+REL	to
+QUC	fifteen
+CON	years
+REL	in
+CON	jail
+REL	for
+EXG	being
+DIS	an
+CON	accessory
+REL	to
+CON	murder
+NIL	.

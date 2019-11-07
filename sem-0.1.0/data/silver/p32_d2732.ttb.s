@@ -1,0 +1,9 @@
+PER	Tom
+ENS	speaks
+ART	English
+REL	with
+DIS	a
+IST	heavy
+GPO	French
+CON	accent
+NIL	.

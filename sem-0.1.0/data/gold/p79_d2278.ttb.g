@@ -1,0 +1,11 @@
+DEF	The
+CON	world
+ENS	rests
+REL	on
+DEF	the
+CON	back
+REL	of
+DIS	a
+SST	great
+CON	turtle
+NIL	.

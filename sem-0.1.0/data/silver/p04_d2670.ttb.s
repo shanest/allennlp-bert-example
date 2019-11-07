@@ -1,0 +1,11 @@
+DEF	The
+ROL	policeman
+EPS	called
+HAS	our
+CON	attention
+REL	to
+DEF	the
+CON	danger
+AND	of
+CON	pickpockets
+NIL	.

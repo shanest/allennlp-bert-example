@@ -1,0 +1,9 @@
+PER	Tom
+EPS	saw
+PER	Mary
+EXG	talking
+REL	to
+DEF	the
+GPO	French
+CON	teacher
+NIL	.

@@ -1,0 +1,9 @@
+PER	Mary
+EPS	saw
+PER	Tom
+EXS	exiting
+DEF	the
+CON	hotel
+REL	with
+PER	Conchita
+NIL	.

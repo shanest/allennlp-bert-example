@@ -1,0 +1,11 @@
+HAS	Her
+CON	income
+IST	barely
+EPS	maintained
+PRO	her
+REL	in
+DEF	the
+MOR	lower
+IST	middle
+CON	class
+NIL	.

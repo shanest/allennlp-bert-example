@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+UNK	there
+NOW	is
+NOT	no
+CON	life
+REL	on
+GEO	Mars
+NIL	.

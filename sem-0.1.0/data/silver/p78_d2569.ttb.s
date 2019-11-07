@@ -1,0 +1,14 @@
+PRO	She
+EPS	took
+IST	full
+CON	advantage
+AND	of
+HAS	her
+EXS	stay
+REL	in
+GPE	London
+SUB	to
+EXS	improve
+HAS	her
+CON	English
+NIL	.

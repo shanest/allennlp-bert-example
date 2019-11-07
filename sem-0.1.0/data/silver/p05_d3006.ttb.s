@@ -1,0 +1,17 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	go
+REL	to
+DEF	the
+CON	market
+NIL	,
+NOT	no
+EXS	matter
+IMP	if
+PER	Mary
+ENS	goes
+REL	to
+DEF	the
+CON	market
+NIL	.

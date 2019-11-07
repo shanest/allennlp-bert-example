@@ -1,0 +1,10 @@
+QUE	What
+EPS	came
+IST	first
+QUE	?
+DEF	The
+CON	egg
+DIS	or
+DEF	the
+CON	hen
+QUE	?

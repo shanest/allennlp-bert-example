@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+NOT	not
+DEF	the
+IST	same
+CON	fool
+PRO	I
+PST	was
+QUC	fifteen
+CON	years
+PST	ago
+NIL	.

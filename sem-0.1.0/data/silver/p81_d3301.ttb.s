@@ -1,0 +1,12 @@
+PRO	He
+PST	had
+NOT	n't
+EXS	eaten
+AND	anything
+DEF	the
+IST	whole
+CON	day
+AND	and
+PST	was
+EXS	hungry
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+ENS	likes
+PRO	me
+AND	and
+PRO	I
+AND	like
+PRO	him
+ALT	too
+NIL	.

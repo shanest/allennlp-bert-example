@@ -1,0 +1,16 @@
+PRO	They
+NOW	are
+EXS	happy
+REL	with
+HAS	your
+CON	plan
+AND	and
+REL	for
+PRO	you
+SUB	to
+EXS	proceed
+REL	with
+EXS	writing
+HAS	your
+CON	material
+NIL	.

@@ -1,0 +1,14 @@
+PER	Tom
+IST	finally
+EPS	mustered
+IST	up
+DEF	the
+CON	courage
+NIL	to
+EXS	say
+QUE	what
+EPS	needed
+NIL	to
+EXS	be
+EXS	said
+NIL	.

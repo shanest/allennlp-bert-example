@@ -1,0 +1,12 @@
+IMP	If
+PRO	I
+PST	were
+EXS	invisible
+PRO	I
+FUT	would
+NOT	n't
+EXS	have
+REL	to
+CON	dress
+EMP	myself
+NIL	.

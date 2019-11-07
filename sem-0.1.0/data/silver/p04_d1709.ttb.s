@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+DEF	the
+QUC	one
+PRO	you
+EPS	talked
+REL	to
+REL	on
+DEF	the
+CON	phone
+NIL	.

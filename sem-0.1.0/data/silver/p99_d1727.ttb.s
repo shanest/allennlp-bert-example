@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	afraid
+PRO	I
+POS	ca
+NOT	n't
+EXS	help
+PRO	you
+NOW	now
+NIL	.

@@ -1,0 +1,12 @@
+NIL	"
+GRE	Hi
+EQU	,
+PER	Tom
+NIL	!
+NIL	"
+NIL	"
+GRE	Hi
+EQU	,
+PER	Mary
+NIL	!
+NIL	"

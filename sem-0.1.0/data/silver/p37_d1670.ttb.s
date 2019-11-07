@@ -1,0 +1,11 @@
+DEF	The
+IST	little
+CON	boy
+PST	felt
+EXS	secure
+REL	in
+HAS	his
+ROL	father
+HAS	's
+CON	arms
+NIL	.

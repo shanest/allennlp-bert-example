@@ -1,0 +1,16 @@
+SUB	Once
+PRO	he
+EPS	got
+DEF	the
+CON	news
+AND	of
+HAS	his
+CON	daughter-in-law
+HAS	's
+CON	death
+NIL	,
+PRO	he
+IST	totally
+EPS	freaked
+IST	out
+NIL	.

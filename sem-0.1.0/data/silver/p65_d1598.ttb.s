@@ -1,0 +1,13 @@
+PRO	You
+PST	had
+IST	better
+NOT	not
+EXS	go
+IST	out
+NOW	now
+NIL	.
+PRO	It
+HAS	's
+IST	almost
+CON	11
+NIL	.

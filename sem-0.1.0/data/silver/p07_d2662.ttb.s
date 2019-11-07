@@ -1,0 +1,14 @@
+PRO	I
+FUT	would
+NOT	n't
+EXS	want
+PER	Tom
+AND	as
+DIS	a
+CON	friend
+SUB	because
+PRO	he
+NOW	's
+INT	very
+EXS	selfish
+NIL	.

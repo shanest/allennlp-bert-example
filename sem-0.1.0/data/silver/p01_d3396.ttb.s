@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PER	Tom
+FUT	will
+EXS	be
+IST	able
+NIL	to
+EXS	do
+DST	that
+NIL	.

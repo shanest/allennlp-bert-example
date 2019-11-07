@@ -1,0 +1,9 @@
+EXS	Tell
+PRO	me
+ALT	again
+AND	who
+FUT	will
+EXS	be
+EXG	helping
+PRO	us
+NIL	.

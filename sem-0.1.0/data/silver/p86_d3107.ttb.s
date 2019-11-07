@@ -1,0 +1,12 @@
+PRO	We
+NOW	're
+EXS	spending
+REL	Christmas
+PER	Eve
+REL	at
+HAS	our
+IST	grown
+CON	daughter
+HAS	's
+CON	house
+NIL	.

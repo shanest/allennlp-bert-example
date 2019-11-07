@@ -1,0 +1,10 @@
+PRO	You
+NEC	should
+EXS	be
+IST	proud
+AND	of
+QUE	what
+PRO	you
+NOW	have
+EXS	accomplished
+NIL	.

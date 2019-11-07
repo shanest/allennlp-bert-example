@@ -1,0 +1,10 @@
+PER	Tom
+EPS	pushed
+REL	against
+DEF	the
+CON	door
+REL	with
+AND	all
+HAS	his
+CON	weight
+NIL	.

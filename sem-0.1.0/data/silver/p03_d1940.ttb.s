@@ -1,0 +1,13 @@
+PER	Xavier
+NOW	is
+DIS	a
+IST	young
+CON	student
+EXG	studying
+CON	economics
+REL	at
+DEF	the
+ORG	University
+AND	of
+GEO	Paris
+NIL	.

@@ -1,0 +1,10 @@
+GPE	China
+NOW	is
+DEF	the
+CON	world
+HAS	's
+EXG	leading
+CON	producer
+AND	of
+CON	rice
+NIL	.

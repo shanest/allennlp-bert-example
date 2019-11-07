@@ -1,0 +1,9 @@
+DEF	The
+CON	boy
+EPS	thrust
+DEF	the
+CON	coin
+REL	into
+HAS	his
+CON	pocket
+NIL	.

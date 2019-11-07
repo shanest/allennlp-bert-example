@@ -1,0 +1,10 @@
+PRO	I
+EPS	asked
+PRO	him
+IMP	if
+PRO	he
+PST	had
+EXS	got
+HAS	my
+CON	letter
+NIL	.

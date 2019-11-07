@@ -1,0 +1,11 @@
+DEF	The
+CON	plants
+NEC	must
+EXT	have
+EXS	died
+SUB	because
+NOT	no
+CON	one
+EPS	watered
+PRO	them
+NIL	.

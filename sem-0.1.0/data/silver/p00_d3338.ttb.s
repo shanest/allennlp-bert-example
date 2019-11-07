@@ -1,0 +1,11 @@
+DEF	The
+CON	scholarship
+EPS	gave
+PRO	me
+DIS	a
+CON	chance
+NIL	to
+EXS	continue
+HAS	my
+CON	studies
+NIL	.

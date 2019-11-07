@@ -1,0 +1,14 @@
+DEF	The
+GPO	Japanese
+NOW	do
+NOT	not
+AND	always
+EXS	make
+DIS	a
+CON	bow
+AND	as
+DIS	a
+CON	mark
+AND	of
+CON	respect
+NIL	.

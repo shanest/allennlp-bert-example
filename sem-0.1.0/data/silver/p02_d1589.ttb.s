@@ -1,0 +1,11 @@
+PER	Diane
+PST	was
+EXG	singing
+DIS	a
+CON	song
+SUB	while
+PER	Jane
+EPS	played
+DEF	the
+CON	piano
+NIL	.

@@ -1,0 +1,15 @@
+AND	Compared
+SUB	to
+QUC	fifty
+CON	years
+PST	ago
+NIL	,
+NOW	today
+HAS	's
+CON	aviation
+CON	technology
+NOW	has
+EXS	made
+IST	great
+CON	progress
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+NOW	think
+PRO	it
+POS	might
+EXS	help
+IMP	if
+PRO	you
+PST	'd
+EXS	talk
+REL	to
+PER	Tom
+REF	yourself
+NIL	.

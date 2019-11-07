@@ -1,0 +1,16 @@
+AND	Last
+CON	summer
+NIL	,
+PRO	I
+IST	finally
+EPS	left
+DEF	the
+CON	firm
+SUB	that
+PRO	I
+PST	had
+EXS	joined
+QUC	twelve
+CON	years
+REL	before
+NIL	.

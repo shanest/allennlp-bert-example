@@ -1,0 +1,15 @@
+DEF	The
+XCL	only
+CON	reason
+PRO	I
+PST	got
+EXS	blamed
+EPS	was
+SUB	that
+DEF	the
+CON	boss
+EPS	needed
+DIS	someone
+SUB	to
+EXS	blame
+NIL	.

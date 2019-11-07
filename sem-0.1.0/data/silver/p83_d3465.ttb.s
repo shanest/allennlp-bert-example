@@ -1,0 +1,10 @@
+PRO	We
+EPS	put
+REL	off
+HAS	our
+CON	departure
+EXS	owing
+REL	to
+DEF	the
+CON	storm
+NIL	.

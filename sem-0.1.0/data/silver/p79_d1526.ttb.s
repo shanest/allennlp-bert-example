@@ -1,0 +1,17 @@
+PER	Christian
+PST	had
+PFT	been
+EXS	playing
+DEF	the
+CON	piano
+REL	for
+QUC	three
+CON	years
+SUB	when
+PRO	he
+EPS	decided
+SUB	to
+EXS	play
+DEF	the
+CON	drums
+NIL	.

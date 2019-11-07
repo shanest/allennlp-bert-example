@@ -1,0 +1,14 @@
+PRO	I
+EPS	watched
+SUB	that
+IST	new
+CON	film
+REL	about
+CON	giraffes
+NIL	;
+PRO	I
+PST	did
+NOT	n't
+EXS	like
+PRO	it
+NIL	.

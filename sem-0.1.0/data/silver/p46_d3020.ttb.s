@@ -1,0 +1,11 @@
+PRO	He
+EPS	told
+PRO	me
+SUB	that
+PRO	he
+FUT	would
+EXS	wait
+REL	till
+PRO	I
+EPS	returned
+NIL	.

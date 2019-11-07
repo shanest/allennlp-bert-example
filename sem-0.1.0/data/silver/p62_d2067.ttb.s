@@ -1,0 +1,10 @@
+EXS	Let
+HAS	's
+ENS	go
+DIS	somewhere
+IST	nice
+REL	for
+HAS	our
+CON	wedding
+CON	anniversary
+NIL	.

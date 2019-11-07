@@ -1,0 +1,11 @@
+PER	Tom
+PST	was
+IST	sound
+EXS	asleep
+SUB	when
+PER	Mary
+EPS	walked
+REL	into
+DEF	the
+CON	room
+NIL	.

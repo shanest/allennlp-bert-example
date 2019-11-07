@@ -1,0 +1,12 @@
+DEF	The
+CON	dealer
+EPS	gave
+DIS	an
+IST	old
+CON	Nissan
+REL	to
+PRO	me
+REL	for
+QUC	200,000
+UOM	yen
+NIL	.

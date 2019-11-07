@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	sorry
+PRO	I
+NOW	do
+NOT	n't
+EXS	agree
+REL	with
+PRO	you
+REL	on
+DST	that
+CON	matter
+NIL	.

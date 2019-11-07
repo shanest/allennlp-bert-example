@@ -1,0 +1,12 @@
+NOW	Do
+PRO	you
+NOW	think
+PRO	he
+NOW	is
+DEF	the
+CON	guy
+AND	that
+EPS	broke
+DEF	the
+CON	window
+QUE	?

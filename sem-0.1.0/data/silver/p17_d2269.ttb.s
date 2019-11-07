@@ -1,0 +1,12 @@
+PRO	They
+NOW	do
+NOT	n't
+EXS	want
+PRO	us
+SUB	to
+EXS	see
+QUE	what
+PRO	they
+NOW	're
+EXG	doing
+NIL	.

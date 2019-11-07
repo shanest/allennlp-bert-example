@@ -1,0 +1,9 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	be
+REL	on
+CON	TV
+FUT	someday
+NIL	.

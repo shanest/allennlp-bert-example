@@ -1,0 +1,12 @@
+AND	Unfortunately
+NIL	,
+PRO	I
+EPS	believed
+AND	all
+DEF	the
+ENS	lies
+SUB	that
+PER	Tom
+PST	was
+EXS	telling
+NIL	.

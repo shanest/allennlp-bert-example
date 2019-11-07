@@ -1,0 +1,9 @@
+EXS	Tell
+PRO	me
+DEF	the
+CON	reason
+QUE	why
+PRO	they
+NOW	are
+EXS	absent
+NIL	.

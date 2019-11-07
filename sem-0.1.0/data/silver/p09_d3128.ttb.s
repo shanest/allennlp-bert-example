@@ -1,0 +1,9 @@
+PRO	He
+NOW	's
+INT	rather
+EXS	handsome
+NIL	,
+NOW	is
+NOT	n't
+PRO	he
+QUE	?

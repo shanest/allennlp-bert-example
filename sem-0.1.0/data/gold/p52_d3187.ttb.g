@@ -1,0 +1,10 @@
+AND	Each
+ROL	player
+REL	on
+DEF	the
+CON	team
+ENS	has
+HAS	his
+IST	own
+CON	bat
+NIL	.

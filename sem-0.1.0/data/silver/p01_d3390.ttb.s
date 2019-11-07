@@ -1,0 +1,13 @@
+PER	Tom
+PST	was
+IST	upset
+SUB	because
+PRO	he
+PST	was
+NOT	n't
+EXS	invited
+REL	to
+PER	Mary
+HAS	's
+CON	party
+NIL	.

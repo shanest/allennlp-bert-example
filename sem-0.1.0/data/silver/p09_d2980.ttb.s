@@ -1,0 +1,13 @@
+PRO	I
+NOW	've
+EXS	made
+DIS	a
+CON	list
+AND	of
+CON	foods
+SUB	that
+PRO	I
+POS	ca
+NOT	n't
+EXS	eat
+NIL	.

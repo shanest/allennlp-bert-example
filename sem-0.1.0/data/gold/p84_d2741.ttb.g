@@ -1,0 +1,10 @@
+AND	Every
+CON	body
+AND	that
+EPS	came
+REL	to
+DEF	the
+CON	street
+PST	was
+EXS	surprised
+NIL	.

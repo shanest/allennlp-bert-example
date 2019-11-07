@@ -1,0 +1,10 @@
+DEF	The
+CON	people
+AND	who
+EXS	stay
+REL	in
+CON	prison
+NOW	are
+EXS	called
+CON	prisoners
+NIL	.

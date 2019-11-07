@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+EXS	easy
+SUB	to
+EXS	get
+REL	into
+CON	debt
+IST	quickly
+REL	with
+CON	charge
+CON	cards
+NIL	.

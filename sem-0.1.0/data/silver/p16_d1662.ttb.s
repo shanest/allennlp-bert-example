@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+NOT	not
+HAS	your
+CON	book
+NIL	,
+PRO	it
+HAS	's
+HAS	mine
+NIL	.

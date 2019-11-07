@@ -1,0 +1,12 @@
+PRO	I
+PST	was
+EXS	mistaken
+REL	in
+EXG	thinking
+SUB	that
+PRO	he
+PST	was
+DIS	a
+IST	trustworthy
+CON	man
+NIL	.

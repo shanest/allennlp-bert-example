@@ -1,0 +1,13 @@
+REL	Until
+DEF	the
+CON	morning
+NIL	,
+DEF	the
+CON	camp
+AND	of
+DEF	the
+ROL	enemy
+CON	army
+PST	was
+EXS	surrounded
+NIL	.

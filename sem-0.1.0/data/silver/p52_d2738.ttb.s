@@ -1,0 +1,15 @@
+HAS	My
+CON	grandmother
+ENS	walks
+IST	faster
+AND	than
+PRO	me
+NIL	,
+COO	and
+NOW	plays
+CON	tennis
+COM	better
+MOR	than
+PRO	I
+NOW	do
+NIL	.

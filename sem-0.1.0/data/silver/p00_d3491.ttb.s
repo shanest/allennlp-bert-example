@@ -1,0 +1,11 @@
+QUE	What
+NEC	should
+PRO	we
+EXS	do
+IMP	if
+PRO	he
+ENS	happens
+NIL	to
+EXS	come
+IST	late
+QUE	?

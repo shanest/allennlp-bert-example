@@ -1,0 +1,10 @@
+DEF	The
+CON	island
+NOW	is
+EXS	situated
+QUC	five
+UOM	kilometers
+REL	off
+DEF	the
+CON	coast
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+REL	from
+GPE	Hiroshima
+NIL	,
+COO	but
+NOW	now
+PRO	I
+ENS	live
+REL	in
+GEO	Tokyo
+NIL	.

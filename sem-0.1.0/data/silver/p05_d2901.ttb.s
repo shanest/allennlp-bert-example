@@ -1,0 +1,10 @@
+QUE	What
+HAS	's
+SUB	that
+PRO	you
+NOW	have
+REL	in
+HAS	your
+IST	left
+CON	hand
+QUE	?

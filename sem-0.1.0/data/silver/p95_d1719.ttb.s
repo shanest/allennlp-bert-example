@@ -1,0 +1,13 @@
+EXS	Did
+PER	Tom
+NOW	give
+DIS	a
+CON	reason
+QUE	why
+PRO	he
+PST	was
+EXS	going
+SUB	to
+EXS	be
+IST	late
+QUE	?

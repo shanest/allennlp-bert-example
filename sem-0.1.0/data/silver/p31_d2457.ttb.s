@@ -1,0 +1,15 @@
+PRO	She
+PST	was
+NIL	,
+AND	as
+QUV	many
+AND	of
+PRO	us
+PST	were
+AND	,
+INT	very
+EXS	shy
+REL	in
+HAS	her
+CON	childhood
+NIL	.

@@ -1,0 +1,14 @@
+PRO	I
+POS	can
+NOT	not
+EXS	get
+EXS	angry
+REL	with
+PER	Taninna
+NIL	.
+PRO	She
+HAS	's
+HAS	my
+XCL	only
+ROL	sister
+NIL	.

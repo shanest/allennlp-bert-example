@@ -1,0 +1,14 @@
+PRO	It
+NOW	's
+IST	far
+SUB	to
+EXS	go
+REL	by
+CON	feet
+NIL	!
+EXS	Let
+PRO	's
+EXS	take
+DEF	the
+CON	car
+NIL	.

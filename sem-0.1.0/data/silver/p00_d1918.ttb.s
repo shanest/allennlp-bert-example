@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	remember
+DEF	the
+IST	last
+CON	time
+PRO	I
+EPS	saw
+PER	Mary
+NIL	.

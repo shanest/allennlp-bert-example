@@ -1,0 +1,9 @@
+PRO	We
+EPS	took
+DIS	a
+IST	short
+CON	rest
+REL	on
+DEF	the
+CON	way
+NIL	.

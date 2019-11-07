@@ -1,0 +1,9 @@
+PRO	I
+EPS	saw
+PER	Tom
+EXG	talking
+REL	to
+DIS	a
+IST	beautiful
+CON	girl
+NIL	.

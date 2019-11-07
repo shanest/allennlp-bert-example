@@ -1,0 +1,11 @@
+PRO	He
+FUT	will
+EXS	explain
+PRO	it
+REL	to
+PRO	you
+SUB	when
+PRO	he
+ENS	comes
+IST	back
+NIL	.

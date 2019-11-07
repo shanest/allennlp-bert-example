@@ -1,0 +1,11 @@
+EXS	Let
+PRO	's
+CON	face
+PRO	it
+AND	:
+PRX	this
+CON	sentence
+NOW	is
+IST	simply
+EXS	bad
+NIL	.

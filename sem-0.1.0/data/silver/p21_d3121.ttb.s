@@ -1,0 +1,10 @@
+PRO	I
+IST	just
+EPS	sang
+DIS	a
+CON	couple
+AND	of
+CON	songs
+REL	with
+PER	Tom
+NIL	.

@@ -1,0 +1,19 @@
+PER	Pat Schroeder
+EPS	said
+SUB	that
+PRO	you
+POS	ca
+NOT	n't
+EXS	wring
+HAS	your
+CON	hands
+COO	and
+EXS	roll
+IST	up
+HAS	your
+CON	sleeves
+REL	at
+DEF	the
+IST	same
+CON	time
+NIL	.

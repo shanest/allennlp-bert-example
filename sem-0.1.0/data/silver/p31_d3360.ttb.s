@@ -1,0 +1,9 @@
+PER	Tom
+EPS	lost
+CON	sight
+AND	of
+PER	Mary
+REL	in
+DEF	the
+CON	crowd
+NIL	.

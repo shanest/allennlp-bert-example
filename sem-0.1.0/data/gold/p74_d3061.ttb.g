@@ -1,0 +1,11 @@
+PRO	I
+POS	can
+NOT	not
+EXS	phone
+PER	Marika
+NIL	.
+PRO	She
+ENS	lives
+REL	in
+GPE	Finland
+NIL	!

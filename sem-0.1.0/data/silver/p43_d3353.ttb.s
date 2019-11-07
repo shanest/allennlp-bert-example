@@ -1,0 +1,9 @@
+DEF	The
+ROL	Queen
+ENS	is
+SUB	to
+EXS	visit
+GPE	China
+AND	next
+CON	year
+NIL	.

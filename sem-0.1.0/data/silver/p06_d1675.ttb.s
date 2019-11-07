@@ -1,0 +1,13 @@
+ROL	Grandfather
+EPS	opened
+DEF	the
+CON	car
+CON	window
+COO	and
+EXS	aimed
+DEF	the
+CON	gun
+REL	at
+DIS	a
+CON	bird
+NIL	.

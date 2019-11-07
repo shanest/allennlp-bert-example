@@ -1,0 +1,13 @@
+PRO	He
+NOW	is
+EXS	worried
+SUB	whether
+HAS	his
+CON	wife
+POS	can
+EXS	get
+REL	on
+REL	with
+HAS	his
+CON	mother
+NIL	.

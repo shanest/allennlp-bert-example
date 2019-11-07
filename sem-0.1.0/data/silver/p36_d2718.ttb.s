@@ -1,0 +1,12 @@
+PRO	I
+EPS	saw
+PRO	you
+REL	in
+DEF	the
+AND	strip
+CON	club
+DEF	the
+CON	day
+REL	before
+PST	yesterday
+NIL	.

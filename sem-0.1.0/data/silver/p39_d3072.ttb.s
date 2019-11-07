@@ -1,0 +1,13 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PER	Tom
+EPS	realized
+IST	just
+QUE	how
+QUC	much
+PER	Mary
+EPS	loved
+PRO	him
+NIL	.

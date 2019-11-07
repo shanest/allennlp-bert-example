@@ -1,0 +1,12 @@
+REL	By
+YOC	2030
+QUC	twenty-one
+UOM	percent
+REL	of
+HAS	its
+CON	population
+FUT	will
+EXS	be
+REL	over
+QUC	sixty-five
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+EPS	won
+DEF	the
+CON	lottery
+NIL	,
+COO	but
+EPS	went
+IST	bankrupt
+DIS	a
+CON	year
+AND	later
+NIL	.

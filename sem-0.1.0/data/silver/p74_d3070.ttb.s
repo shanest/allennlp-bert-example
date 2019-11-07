@@ -1,0 +1,9 @@
+NOW	Today
+DIS	a
+CON	law
+PST	was
+EXS	enacted
+AND	which
+ENS	allows
+CON	abortion
+NIL	.

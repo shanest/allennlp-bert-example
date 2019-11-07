@@ -1,0 +1,11 @@
+IMP	If
+EXS	fired
+REL	upon
+NIL	,
+PRO	you
+NOW	're
+EXS	permitted
+SUB	to
+EXS	return
+CON	fire
+NIL	.

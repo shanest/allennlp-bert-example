@@ -1,0 +1,17 @@
+IMP	If
+PRO	I
+PST	had
+NEC	had
+SUB	to
+EXS	do
+PRO	it
+NIL	,
+PRO	I
+FUT	would
+EXT	have
+EXS	done
+PRO	it
+REL	at
+DST	that
+CON	time
+NIL	.

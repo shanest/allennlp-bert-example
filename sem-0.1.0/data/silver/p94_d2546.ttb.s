@@ -1,0 +1,16 @@
+PRO	I
+ENS	wish
+PRO	you
+FUT	would
+NOT	n't
+EXS	drive
+AND	so
+IST	fast
+NIL	.
+PRO	You
+NOW	're
+EXS	making
+DEF	the
+CON	baby
+EXS	sick
+NIL	!

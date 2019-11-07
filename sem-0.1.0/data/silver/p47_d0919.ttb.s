@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+DIS	a
+IST	good
+CON	restaurant
+NIL	,
+COO	but
+PRO	it
+NOW	's
+INT	quite
+EXS	expensive
+NIL	.

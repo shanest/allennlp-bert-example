@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+DEF	the
+QUC	one
+AND	who
+EPS	gave
+PER	Tom
+SUB	that
+CON	scarf
+NIL	.

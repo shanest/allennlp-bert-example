@@ -1,0 +1,16 @@
+CON	Children
+AND	of
+PER	Łazarz
+NOW	think
+HAS	their
+ROL	mother
+NIL	Felicja
+NOW	is
+DEF	the
+INT	most
+IST	beautiful
+CON	woman
+REL	in
+DEF	the
+CON	world
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+EPS	gave
+PRO	him
+QUE	what
+IST	little
+CON	information
+PRO	I
+PST	had
+NIL	.

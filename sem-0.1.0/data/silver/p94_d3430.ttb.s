@@ -1,0 +1,14 @@
+PRO	She
+EPS	said
+SUB	that
+PRO	she
+FUT	would
+EXS	come
+IST	back
+ALT	again
+NIL	,
+UNK	which
+PST	was
+DIS	a
+CON	lie
+NIL	.

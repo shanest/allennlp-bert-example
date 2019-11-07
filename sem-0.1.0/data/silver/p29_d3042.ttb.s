@@ -1,0 +1,10 @@
+EXS	Excuse
+PRO	me
+NIL	,
+BUT	but
+POS	may
+PRO	I
+NOW	use
+DEF	the
+CON	phone
+QUE	?

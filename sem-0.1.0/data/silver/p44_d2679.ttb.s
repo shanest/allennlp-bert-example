@@ -1,0 +1,13 @@
+ROL	Scientists
+NOW	have
+IST	just
+EXS	discovered
+DIS	a
+CON	colony
+AND	of
+EXS	flying
+CON	penguins
+EXS	living
+REL	in
+GEO	Antarctica
+NIL	.

@@ -1,0 +1,11 @@
+PRO	You
+POS	can
+NOT	not
+EXS	be
+INT	too
+EXS	careful
+REL	in
+EXG	riding
+DIS	a
+CON	bicycle
+NIL	.

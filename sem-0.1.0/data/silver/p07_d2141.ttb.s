@@ -1,0 +1,12 @@
+PER	Tom
+EPS	picked
+IST	up
+PER	John
+HAS	's
+CON	briefcase
+COO	and
+EPS	handed
+PRO	it
+REL	to
+PRO	him
+NIL	.

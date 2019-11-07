@@ -1,0 +1,10 @@
+DEF	The
+CON	fracture
+PST	was
+NOT	n't
+AND	as
+IST	serious
+SUB	as
+PRO	we
+EPS	thought
+NIL	.

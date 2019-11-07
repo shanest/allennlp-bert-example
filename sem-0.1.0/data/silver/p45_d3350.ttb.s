@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+EXG	reading
+DEF	the
+CON	newspaper
+SUB	when
+PER	Mary
+EPS	walked
+REL	in
+NIL	.

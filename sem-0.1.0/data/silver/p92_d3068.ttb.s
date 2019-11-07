@@ -1,0 +1,14 @@
+PER	Beth
+PST	was
+EXS	looking
+IST	forward
+SUB	to
+EXS	meeting
+PRO	him
+NIL	,
+BUT	but
+PRO	he
+IST	never
+EPS	showed
+IST	up
+NIL	.

@@ -1,0 +1,13 @@
+IST	Full
+IST	diplomatic
+CON	relations
+REL	between
+GPE	Argentina
+AND	and
+GPE	Britain
+PST	were
+EXS	re-established
+REL	after
+CON	74
+CON	days
+NIL	.

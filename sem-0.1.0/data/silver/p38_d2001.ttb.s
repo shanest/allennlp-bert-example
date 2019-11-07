@@ -1,0 +1,9 @@
+HAS	My
+CON	cousin
+REL	in
+GEO	Hokkaido
+NOW	is
+DIS	a
+IST	good
+ROL	skier
+NIL	.

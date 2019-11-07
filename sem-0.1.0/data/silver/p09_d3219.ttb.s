@@ -1,0 +1,14 @@
+EXS	Thank
+PRO	you
+INT	very
+QUV	much
+REL	for
+EXG	driving
+PRO	me
+AND	all
+DEF	the
+CON	way
+REL	to
+HAS	my
+CON	house
+NIL	.

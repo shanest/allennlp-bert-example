@@ -1,0 +1,10 @@
+PER	Markku
+PST	was
+CON	head
+AND	over
+CON	heels
+REL	in
+CON	love
+REL	with
+PER	Liisa
+NIL	.

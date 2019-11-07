@@ -1,0 +1,17 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	find
+IST	out
+IMP	if
+PER	Tom
+NOW	is
+EXS	going
+SUB	to
+EXS	go
+IST	out
+COO	and
+EXS	eat
+REL	with
+PRO	us
+NIL	.

@@ -1,0 +1,13 @@
+DEF	The
+IST	ideal
+CON	lexicographer
+ENS	knows
+IST	simply
+AND	everything
+NIL	;
+IST	unfortunately
+NIL	,
+SUB	that
+HAS	's
+EXS	impossible
+NIL	.

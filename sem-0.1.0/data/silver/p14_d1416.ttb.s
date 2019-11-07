@@ -1,0 +1,15 @@
+IMP	If
+PRO	I
+PST	had
+NOT	not
+PFT	been
+EXS	convinced
+NIL	,
+PRO	I
+FUT	would
+NOT	not
+EXT	have
+EXS	found
+DEF	the
+CON	courage
+NIL	!

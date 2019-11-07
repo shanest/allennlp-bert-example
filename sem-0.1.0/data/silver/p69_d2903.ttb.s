@@ -1,0 +1,10 @@
+AND	Why
+NOW	do
+NOT	n't
+PRO	we
+EXS	wait
+REL	till
+PER	Tom
+ENS	comes
+IST	back
+QUE	?

@@ -1,0 +1,14 @@
+PRO	I
+PST	was
+EXG	hoping
+PRO	you
+FUT	'd
+EXS	let
+PRO	me
+EXS	buy
+PRO	you
+DIS	a
+CON	slice
+AND	of
+CON	pizza
+NIL	.

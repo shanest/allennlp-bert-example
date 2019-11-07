@@ -1,0 +1,10 @@
+IMP	If
+PER	Tom
+POS	ca
+NOT	n't
+EXS	do
+PRO	it
+NIL	,
+NOT	nobody
+POS	can
+NIL	.

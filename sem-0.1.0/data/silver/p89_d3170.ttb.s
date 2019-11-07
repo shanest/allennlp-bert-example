@@ -1,0 +1,11 @@
+NOW	Has
+DIS	anyone
+IST	here
+REL	in
+DEF	the
+CON	classroom
+EPS	heard
+AND	about
+PER	Norman
+GEO	Finkelstein
+QUE	?

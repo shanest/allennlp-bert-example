@@ -1,0 +1,10 @@
+PRO	She
+EPS	took
+CON	hold
+AND	of
+HAS	my
+CON	hand
+SUB	to
+EXS	teach
+PRO	me
+NIL	.

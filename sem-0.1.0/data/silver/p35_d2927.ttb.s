@@ -1,0 +1,10 @@
+PRO	He
+EPS	took
+CON	charge
+AND	of
+DEF	the
+CON	arrangements
+REL	for
+DEF	the
+CON	party
+NIL	.

@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	know
+QUE	how
+QUC	much
+PRO	it
+EPS	cost
+PRO	me
+QUE	?

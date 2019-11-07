@@ -1,0 +1,13 @@
+REL	At
+IST	first
+PRO	I
+PST	did
+NOT	not
+EXS	like
+PRO	him
+NIL	,
+BUT	but
+NOW	now
+PRO	I
+NOW	do
+NIL	.

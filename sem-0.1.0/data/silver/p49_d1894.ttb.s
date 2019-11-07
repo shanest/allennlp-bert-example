@@ -1,0 +1,10 @@
+PER	Vivaldi
+EPS	wrote
+DIS	a
+CON	lot
+AND	of
+CON	music
+REL	for
+DEF	the
+CON	bassoon
+NIL	.

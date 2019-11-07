@@ -1,0 +1,10 @@
+PRO	You
+NEC	must
+EXS	think
+AND	of
+PRX	this
+AND	as
+DIS	a
+IST	great
+CON	improvement
+NIL	.

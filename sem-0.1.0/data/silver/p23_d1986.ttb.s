@@ -1,0 +1,11 @@
+CON	Time
+NOW	passes
+IST	quickly
+SUB	when
+PRO	we
+NOW	are
+EXG	doing
+DIS	something
+PRO	we
+ENS	like
+NIL	.

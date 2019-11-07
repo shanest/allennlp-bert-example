@@ -1,0 +1,10 @@
+PRX	This
+CON	car
+AND	of
+HAS	yours
+NOW	is
+DIS	a
+IST	real
+CON	gas
+CON	guzzler
+NIL	.

@@ -1,0 +1,12 @@
+PRO	You
+ENS	need
+NOT	n't
+EXT	have
+EXS	hurried
+COO	;
+PRO	you
+NOW	've
+EXS	arrived
+IST	too
+IST	early
+NIL	.

@@ -1,0 +1,14 @@
+PRO	You
+NEC	should
+EXS	apologize
+REL	to
+GEO	Dad
+REL	for
+NOT	not
+EXG	coming
+CON	home
+REL	in
+CON	time
+REL	for
+CON	supper
+NIL	.

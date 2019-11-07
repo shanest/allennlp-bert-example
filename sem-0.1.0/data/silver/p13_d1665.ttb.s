@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+NOW	has
+IST	already
+EXS	given
+IST	up
+CON	smoking
+AND	and
+CON	drinking
+NIL	.

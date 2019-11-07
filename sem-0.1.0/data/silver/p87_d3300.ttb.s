@@ -1,0 +1,12 @@
+PRX	These
+CON	girls
+NOW	are
+IST	more
+CON	charming
+AND	than
+DEF	the
+CON	ones
+PRO	I
+EPS	met
+PST	yesterday
+NIL	.

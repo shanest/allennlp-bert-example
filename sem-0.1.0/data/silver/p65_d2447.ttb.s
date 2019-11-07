@@ -1,0 +1,13 @@
+IMP	If
+PRO	you
+NOW	do
+NOT	n't
+EXS	have
+ALT	other
+CON	ideas
+NIL	,
+IST	then
+ENS	accept
+PRX	this
+CON	idea
+NIL	.

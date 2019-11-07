@@ -1,0 +1,11 @@
+PRO	You
+NOW	pay
+QUC	10,000
+UOM	yen
+DIS	a
+CON	month
+AND	as
+DIS	an
+CON	insurance
+CON	premium
+NIL	.

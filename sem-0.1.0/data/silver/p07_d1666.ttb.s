@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	seem
+IST	terribly
+EXS	interested
+REL	in
+EXG	learning
+GPO	French
+NIL	.

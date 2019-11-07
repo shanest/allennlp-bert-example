@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+PER	Mary
+IMP	if
+PRO	he
+POS	could
+EXS	walk
+HAS	her
+CON	home
+NIL	.

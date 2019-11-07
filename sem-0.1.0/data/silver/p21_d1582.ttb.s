@@ -1,0 +1,10 @@
+PRO	I
+NOT	never
+EPS	imagined
+PRO	we
+PST	'd
+EXS	end
+IST	up
+AND	like
+PRX	this
+NIL	.

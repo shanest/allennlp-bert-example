@@ -1,0 +1,11 @@
+PER	Tom
+PST	was
+NIL	fatter
+QUC	three
+CON	years
+AND	ago
+AND	than
+PRO	he
+NOW	is
+NOW	now
+NIL	.

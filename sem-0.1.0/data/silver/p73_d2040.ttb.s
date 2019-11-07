@@ -1,0 +1,10 @@
+SUB	Once
+CON	gold
+PST	was
+LES	less
+IST	valuable
+MOR	than
+CON	silver
+REL	in
+GPE	Japan
+NIL	.

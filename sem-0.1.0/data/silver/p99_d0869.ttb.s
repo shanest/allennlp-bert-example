@@ -1,0 +1,9 @@
+QUC	One
+AND	who
+ENS	knows
+NOT	no
+CON	love
+ENS	knows
+NOT	no
+CON	unhappiness
+NIL	.

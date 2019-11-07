@@ -1,0 +1,16 @@
+PRO	I
+FUT	'll
+EXS	give
+UOM	R$
+QUC	50.00
+SUB	to
+QUE	whoever
+ENS	succeeds
+REL	in
+EXG	balancing
+PRX	this
+CON	ball
+REL	on
+DEF	the
+CON	head
+NIL	.

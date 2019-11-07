@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	not
+EXS	got
+DEF	the
+NOW	feel
+AND	of
+DEF	the
+CON	language
+NIL	.

@@ -1,0 +1,11 @@
+CON	Whales
+NOW	are
+EXS	said
+SUB	to
+EXT	have
+EXS	lived
+REL	on
+CON	land
+IST	long
+PST	ago
+NIL	.

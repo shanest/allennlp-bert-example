@@ -1,0 +1,10 @@
+PRO	It
+EPS	took
+QUC	ten
+CON	years
+SUB	to
+EXS	build
+DEF	the
+CON	amusement
+CON	park
+NIL	.

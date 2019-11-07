@@ -1,0 +1,16 @@
+NOT	No
+CON	matter
+QUE	how
+QUV	much
+PRO	you
+EXS	hurry
+HAS	your
+CON	effort
+NOW	is
+IST	just
+DIS	a
+CON	drop
+REL	in
+DEF	the
+CON	bucket
+NIL	.

@@ -1,0 +1,9 @@
+SUB	To
+NOW	do
+PRO	him
+CON	justice
+NIL	,
+PRO	he
+NOW	is
+IST	able
+NIL	.

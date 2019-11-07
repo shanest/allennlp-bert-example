@@ -1,0 +1,10 @@
+UNK	There
+HAS	's
+ALT	also
+CON	anger
+REL	at
+EXT	having
+EXS	seen
+CON	rights
+EPS	seized
+NIL	.

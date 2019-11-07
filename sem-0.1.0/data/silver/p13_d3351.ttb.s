@@ -1,0 +1,12 @@
+PER	Rice
+CON	farming
+NOW	has
+PFT	been
+EXS	developed
+REL	to
+DIS	a
+IST	high
+CON	degree
+REL	in
+GPE	Japan
+NIL	.

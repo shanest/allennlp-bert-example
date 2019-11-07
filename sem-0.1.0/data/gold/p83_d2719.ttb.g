@@ -1,0 +1,11 @@
+PRO	I
+ENS	like
+NIL	to
+EXS	add
+CON	basil
+NIL	to
+EXS	season
+HAS	my
+CON	spaghetti
+CON	sauce
+NIL	.

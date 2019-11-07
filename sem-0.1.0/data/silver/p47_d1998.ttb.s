@@ -1,0 +1,11 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	know
+QUE	what
+HAS	's
+EXG	going
+REL	on
+IST	out
+IST	there
+NIL	.

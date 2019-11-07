@@ -1,0 +1,9 @@
+PRO	She
+NOW	has
+PFT	been
+EXS	watching
+CON	television
+REL	for
+QUC	three
+UOM	hours
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+IST	electrical
+CON	appliance
+NEC	must
+EXT	have
+PFT	been
+EXS	damaged
+REL	in
+CON	transit
+NIL	.

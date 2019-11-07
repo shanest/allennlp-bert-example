@@ -1,0 +1,10 @@
+PRO	He
+EPS	waited
+REL	for
+IST	several
+CON	seconds
+COO	and
+EPS	opened
+DEF	the
+CON	door
+NIL	.

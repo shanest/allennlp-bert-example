@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	coming
+REL	to
+HAS	your
+CON	party
+COO	and
+EXG	bringing
+PRO	you
+DIS	an
+IST	unusual
+CON	present
+NIL	.

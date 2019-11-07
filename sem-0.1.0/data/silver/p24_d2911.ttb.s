@@ -1,0 +1,11 @@
+QUE	How
+NOW	do
+PRO	you
+NOW	think
+PER	Tom
+FUT	will
+EXS	cope
+REL	with
+DEF	the
+CON	situation
+QUE	?

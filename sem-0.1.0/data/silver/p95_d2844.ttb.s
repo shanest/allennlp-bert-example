@@ -1,0 +1,10 @@
+DEF	The
+CON	trouble
+NOW	is
+SUB	that
+PRO	he
+ENS	thinks
+XCL	only
+AND	of
+REF	himself
+NIL	.

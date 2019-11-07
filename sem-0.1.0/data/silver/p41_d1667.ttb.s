@@ -1,0 +1,11 @@
+DEF	The
+IST	last
+CON	time
+PRO	I
+EPS	spoke
+REL	to
+PER	Tom
+PST	was
+IST	last
+DOW	Monday
+NIL	.

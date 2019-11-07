@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+EXS	faint
+NIL	!
+NOT	Not
+SUB	until
+PRO	you
+EXS	sign
+DEF	the
+CON	contract
+NIL	.

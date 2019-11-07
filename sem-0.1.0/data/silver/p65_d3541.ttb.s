@@ -1,0 +1,16 @@
+HAS	My
+ROL	wife
+ENS	throws
+HAS	my
+CON	money
+AND	around
+AND	as
+IMP	if
+PRO	I
+PST	were
+DEF	the
+TOP	richest
+CON	man
+REL	in
+CON	town
+NIL	.

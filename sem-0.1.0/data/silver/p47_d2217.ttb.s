@@ -1,0 +1,11 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	he
+PST	had
+EXS	seen
+PER	John
+REL	in
+MOY	January
+NIL	.

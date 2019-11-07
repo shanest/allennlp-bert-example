@@ -1,0 +1,10 @@
+PER	Tom
+PST	had
+DIS	a
+CON	lot
+AND	of
+EXG	catching
+IST	up
+SUB	to
+EXS	do
+NIL	.

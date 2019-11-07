@@ -1,0 +1,9 @@
+HAS	My
+ROL	sister
+EPS	went
+REL	to
+GPE	Italy
+SUB	to
+EXS	study
+CON	music
+NIL	.

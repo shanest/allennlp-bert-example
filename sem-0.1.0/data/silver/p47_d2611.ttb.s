@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	have
+CON	breakfast
+REL	with
+PER	Tom
+FUT	tomorrow
+NIL	.

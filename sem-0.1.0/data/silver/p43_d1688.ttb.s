@@ -1,0 +1,10 @@
+PRO	He
+EPS	got
+HAS	his
+CON	car
+EPS	washed
+REL	at
+DEF	the
+CON	filling
+CON	station
+NIL	.

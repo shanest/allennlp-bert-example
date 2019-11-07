@@ -1,0 +1,11 @@
+QUC	One
+POS	can
+NOT	not
+EXS	judge
+CON	people
+XCL	only
+REL	by
+HAS	their
+IST	outward
+CON	appearances
+NIL	.

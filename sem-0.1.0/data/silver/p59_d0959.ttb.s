@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+IST	afraid
+PRO	it
+NOW	's
+EXS	going
+SUB	to
+CON	rain
+NIL	.

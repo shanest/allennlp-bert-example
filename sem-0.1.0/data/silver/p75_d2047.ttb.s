@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+ENS	like
+SUB	to
+EXS	get
+IST	together
+COO	and
+EXS	play
+CON	cards
+NIL	.

@@ -1,0 +1,16 @@
+PER	Tom
+EPS	opened
+IST	up
+DEF	the
+CON	crate
+REL	with
+DIS	a
+CON	crowbar
+COO	and
+EPS	took
+IST	out
+DIS	a
+CON	stick
+REL	of
+CON	dynamite
+NIL	.

@@ -1,0 +1,10 @@
+SUB	Since
+PRO	it
+PST	was
+DOW	Sunday
+NIL	,
+DEF	the
+CON	store
+PST	was
+EXS	closed
+NIL	.

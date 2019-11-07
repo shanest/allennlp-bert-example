@@ -1,0 +1,12 @@
+MOR	More
+MOR	than
+QUC	75
+UOM	%
+AND	of
+CON	farms
+EXS	raised
+CON	pigs
+AND	and
+CON	milk
+CON	cows
+NIL	.

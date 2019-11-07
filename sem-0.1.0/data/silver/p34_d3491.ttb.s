@@ -1,0 +1,10 @@
+PER	Tom
+EPS	picked
+IST	up
+HAS	his
+CON	clarinet
+COO	and
+EPS	started
+SUB	to
+EXS	play
+NIL	.

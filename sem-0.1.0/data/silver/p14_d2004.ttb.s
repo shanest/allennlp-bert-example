@@ -1,0 +1,12 @@
+DEF	The
+CON	manager
+EPS	suggested
+SUB	that
+PRO	I
+ENS	go
+REL	with
+PRO	him
+REL	to
+DEF	the
+CON	airport
+NIL	.

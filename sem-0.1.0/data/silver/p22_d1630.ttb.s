@@ -1,0 +1,10 @@
+PER	Tom
+ENS	says
+SUB	that
+PRO	he
+NOW	has
+NOT	never
+EXS	eaten
+DIS	an
+EXS	artichoke
+NIL	.

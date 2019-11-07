@@ -1,0 +1,16 @@
+PER	Tom
+PST	twisted
+PER	Mary
+HAS	's
+CON	arm
+COO	and
+PRO	she
+EPS	agreed
+SUB	to
+EXS	donate
+DIS	some
+CON	money
+REL	to
+HAS	our
+CON	charity
+NIL	.

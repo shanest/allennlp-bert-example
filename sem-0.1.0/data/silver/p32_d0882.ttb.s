@@ -1,0 +1,11 @@
+PRO	They
+EPS	gave
+PRO	me
+DIS	an
+CON	offer
+SUB	that
+PRO	I
+POS	could
+NOT	n't
+EXS	refuse
+NIL	.

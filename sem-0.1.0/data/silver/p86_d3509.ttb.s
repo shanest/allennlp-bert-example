@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+QUE	how
+IST	embarrassing
+PRX	this
+NOW	is
+REL	for
+PER	Tom
+QUE	?

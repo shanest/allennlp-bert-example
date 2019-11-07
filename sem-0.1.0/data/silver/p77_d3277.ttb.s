@@ -1,0 +1,14 @@
+DEF	The
+IST	main
+CON	islands
+AND	of
+GPE	Japan
+NOW	are
+GEO	Hokkaido
+EQU	,
+GEO	Shikoku
+EQU	,
+GEO	Honshu
+EQU	and
+GEO	Kyushu
+NIL	.

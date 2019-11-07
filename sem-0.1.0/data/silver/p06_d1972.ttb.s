@@ -1,0 +1,9 @@
+PRO	We
+FUT	'll
+NOT	never
+NEC	have
+SUB	to
+EXS	do
+PRX	this
+ALT	again
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	said
+PRO	he
+FUT	would
+NOT	n't
+EXS	shoot
+DIS	an
+NOT	un
+IST	armed
+CON	man
+NIL	.

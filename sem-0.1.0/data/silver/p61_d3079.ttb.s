@@ -1,0 +1,10 @@
+PER	Tom
+CON	suspects
+SUB	that
+PER	Mary
+COO	and
+PRO	I
+NOW	are
+EXS	plotting
+DIS	something
+NIL	.

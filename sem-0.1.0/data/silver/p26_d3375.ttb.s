@@ -1,0 +1,9 @@
+DST	That
+IST	obviously
+PST	was
+NOT	n't
+DIS	a
+CON	problem
+REL	for
+PER	Tom
+NIL	.

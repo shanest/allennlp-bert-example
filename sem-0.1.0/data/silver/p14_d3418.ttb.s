@@ -1,0 +1,10 @@
+PRO	I
+EPS	used
+SUB	to
+EXS	play
+REL	in
+DIS	a
+CON	band
+REL	with
+PER	Tom
+NIL	.

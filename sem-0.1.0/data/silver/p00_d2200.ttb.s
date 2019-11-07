@@ -1,0 +1,12 @@
+PER	Tom
+HAS	's
+CON	eyes
+EPS	lit
+IST	up
+SUB	when
+PER	Mary
+EPS	walked
+REL	into
+DEF	the
+CON	room
+NIL	.

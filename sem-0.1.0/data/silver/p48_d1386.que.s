@@ -1,0 +1,11 @@
+QUE	What
+NOW	is
+DEF	the
+CON	name
+AND	of
+DEF	the
+CON	currency
+EPS	used
+REL	in
+GEO	Russia
+QUE	?

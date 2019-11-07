@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+EXS	said
+SUB	that
+NOT	nothing
+NOW	is
+IST	more
+CON	precious
+AND	than
+CON	time
+NIL	.

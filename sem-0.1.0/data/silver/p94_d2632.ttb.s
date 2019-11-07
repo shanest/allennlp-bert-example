@@ -1,0 +1,11 @@
+NOT	Nobody
+ENS	knows
+QUE	how
+IST	long
+DEF	the
+IST	sick
+CON	man
+POS	can
+EXS	hold
+REL	on
+NIL	.

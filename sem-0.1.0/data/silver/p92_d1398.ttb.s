@@ -1,0 +1,13 @@
+PRO	She
+EPS	threw
+HAS	her
+CON	arms
+AND	around
+HAS	her
+CON	husband
+NOW	’s
+CON	neck
+COO	and
+EPS	kissed
+PRO	him
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+CON	hen
+NOW	has
+PFT	been
+DEF	brooding
+HAS	its
+CON	eggs
+REL	for
+DIS	a
+CON	week
+NIL	.

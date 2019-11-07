@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+EXS	tall
+NIL	,
+BUT	but
+HAS	his
+CON	brother
+NOW	is
+QUV	much
+COM	taller
+NIL	.

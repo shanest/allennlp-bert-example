@@ -1,0 +1,10 @@
+PST	Yesterday
+PRO	I
+EPS	saw
+DIS	a
+CON	man
+AND	who
+PST	was
+EXS	crying
+IST	bitterly
+NIL	.

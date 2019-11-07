@@ -1,0 +1,15 @@
+SUB	While
+PRO	we
+PST	were
+EXS	discussing
+DEF	the
+CON	situation
+NIL	,
+PER	Terri
+EPS	broke
+REL	in
+SUB	to
+EXS	give
+HAS	her
+CON	opinion
+NIL	.

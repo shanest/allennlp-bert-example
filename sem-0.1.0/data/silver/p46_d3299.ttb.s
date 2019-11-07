@@ -1,0 +1,19 @@
+PRO	It
+NOW	's
+CLO	five o'clock
+NIL	.
+IMP	If
+PRO	you
+IST	quickly
+CON	post
+HAS	your
+CON	letter
+NIL	,
+PRO	it
+IST	still
+POS	might
+EXS	make
+PRO	it
+REL	in
+CON	time
+NIL	.

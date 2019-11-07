@@ -1,0 +1,9 @@
+PRO	He
+EPS	added
+SUB	that
+PRO	he
+PST	did
+NOT	n't
+EXS	believe
+PRO	it
+NIL	.

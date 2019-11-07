@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	feel
+AND	like
+EXG	telling
+HAS	her
+DEF	the
+CON	truth
+NIL	.

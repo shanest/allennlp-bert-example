@@ -1,0 +1,13 @@
+PER	Tom
+EPS	took
+PER	Mary
+HAS	's
+IST	empty
+CON	glass
+REL	from
+HAS	her
+CON	hand
+COO	and
+EXS	refilled
+PRO	it
+NIL	.

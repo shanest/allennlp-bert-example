@@ -1,0 +1,9 @@
+PRO	I
+ENS	wish
+PRO	you
+PST	had
+IST	more
+CON	time
+REL	for
+PRO	me
+NIL	.

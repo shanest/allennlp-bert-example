@@ -1,0 +1,9 @@
+PER	Mary
+EPS	mixed
+DEF	the
+CON	ingredients
+SUB	to
+EXS	make
+DIS	a
+CON	cake
+NIL	.

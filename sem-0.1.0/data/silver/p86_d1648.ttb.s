@@ -1,0 +1,13 @@
+PER	Tom
+EPS	dropped
+DIS	a
+CON	strawberry
+REL	on
+DEF	the
+CON	floor
+AND	and
+PER	Mary
+EPS	stepped
+REL	on
+PRO	it
+NIL	.

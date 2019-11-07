@@ -1,0 +1,10 @@
+PRO	I
+EPS	broke
+HAS	his
+CON	heart
+NIL	,
+COO	but
+PRO	I
+ENS	love
+PRO	him
+NIL	.

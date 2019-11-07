@@ -1,0 +1,11 @@
+QUE	What
+NOW	makes
+PRO	you
+NOW	think
+SUB	that
+PER	Tom
+FUT	will
+EXS	listen
+REL	to
+PRO	me
+QUE	?

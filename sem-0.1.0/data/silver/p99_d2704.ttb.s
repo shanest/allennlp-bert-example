@@ -1,0 +1,14 @@
+PRO	He
+EPS	told
+PRO	me
+SUB	that
+FUT	tomorrow
+PRO	he
+ENS	goes
+REL	from
+GEO	Beijing
+REL	to
+GPE	England
+REL	by
+CON	plane
+NIL	.

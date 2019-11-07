@@ -1,0 +1,10 @@
+DIS	A
+CON	bicycle
+CON	race
+PST	was
+EXS	held
+REL	in
+GEO	Nagoya
+AND	last
+CON	year
+NIL	.

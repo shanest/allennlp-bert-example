@@ -1,0 +1,13 @@
+PER	Tom
+EPS	told
+PRO	her
+SUB	that
+PRO	he
+PST	had
+EXS	written
+SUB	that
+CON	poem
+QUC	two
+CON	years
+REL	before
+NIL	.

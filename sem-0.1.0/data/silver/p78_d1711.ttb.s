@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	begging
+PRO	you
+NIL	.
+PRO	I
+FUT	'll
+EXS	do
+AND	anything
+PRO	you
+ENS	want
+NIL	!

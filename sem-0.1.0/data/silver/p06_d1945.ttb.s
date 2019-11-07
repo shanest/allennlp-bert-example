@@ -1,0 +1,10 @@
+AND	Why
+NOW	do
+NOT	n't
+PRO	you
+ENS	want
+SUB	to
+EXS	wear
+DIS	a
+CON	tie
+QUE	?

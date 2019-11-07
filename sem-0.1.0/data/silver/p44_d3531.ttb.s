@@ -1,0 +1,12 @@
+ITJ	Oh
+NIL	,
+PRO	I
+NOW	'm
+IST	late
+NIL	.
+PRO	I
+NEC	should
+EXS	be
+EXS	going
+NOW	now
+NIL	.

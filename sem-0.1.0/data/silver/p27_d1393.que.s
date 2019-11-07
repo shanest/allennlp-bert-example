@@ -1,0 +1,12 @@
+QUE	What
+CON	island
+PST	was
+PER	Napoleon
+EXS	exiled
+SUB	to
+REL	after
+HAS	his
+CON	defeat
+REL	at
+GEO	Waterloo
+QUE	?

@@ -1,0 +1,10 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	hide
+DEF	the
+CON	truth
+REL	from
+PER	Mary
+CON	anymore
+NIL	.

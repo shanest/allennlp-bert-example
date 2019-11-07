@@ -1,0 +1,10 @@
+QUE	What
+EPS	made
+PRO	him
+SUB	so
+EXS	angry
+IST	then
+NIL	,
+PRO	I
+NOW	wonder
+QUE	?

@@ -1,0 +1,17 @@
+CON	Admittedly
+NIL	,
+PRX	this
+NOW	is
+DIS	an
+EXS	unrewarding
+CON	task
+NIL	,
+BUT	but
+DIS	somebody
+NOW	has
+EXS	got
+SUB	to
+EXS	deal
+REL	with
+PRO	it
+NIL	.

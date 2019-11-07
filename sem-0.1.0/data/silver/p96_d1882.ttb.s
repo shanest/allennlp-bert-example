@@ -1,0 +1,10 @@
+REL	Search
+HAS	your
+CON	pockets
+ALT	again
+SUB	to
+EXS	make
+IST	sure
+AND	of
+PRO	it
+NIL	.

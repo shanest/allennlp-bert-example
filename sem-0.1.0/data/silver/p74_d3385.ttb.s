@@ -1,0 +1,12 @@
+CON	Needless
+SUB	to
+EXS	say
+NIL	,
+PRO	I
+NOW	've
+EXS	come
+PRX	here
+SUB	to
+EXS	help
+PRO	you
+NIL	.

@@ -1,0 +1,9 @@
+AND	Everyone
+EPS	liked
+PRO	her
+SUB	because
+PRO	she
+PST	was
+INT	very
+CON	kind
+NIL	.

@@ -1,0 +1,10 @@
+PER	Mary
+PST	was
+EXS	accused
+AND	of
+EXG	practising
+CON	witchcraft
+REL	by
+HAS	her
+CON	neighbours
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+CON	film
+PST	was
+NOT	not
+QUE	what
+PRO	I
+PST	had
+EXS	thought
+PRO	it
+PST	was
+NIL	.

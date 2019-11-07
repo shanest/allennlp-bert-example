@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	give
+PRO	it
+REL	to
+PER	Tom
+NIL	.

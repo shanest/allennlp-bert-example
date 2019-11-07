@@ -1,0 +1,9 @@
+PRO	We
+EPS	spent
+DIS	a
+IST	wonderful
+CON	day
+REL	at
+DEF	the
+CON	beach
+NIL	!

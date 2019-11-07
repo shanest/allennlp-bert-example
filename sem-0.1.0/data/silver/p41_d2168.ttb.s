@@ -1,0 +1,17 @@
+PRO	It
+NOW	is
+IST	hard
+SUB	to
+EXS	make
+DIS	a
+CON	sentence
+REL	in
+DIS	a
+CON	language
+SUB	that
+PRO	you
+NOW	know
+INT	very
+IST	little
+IST	about
+NIL	.

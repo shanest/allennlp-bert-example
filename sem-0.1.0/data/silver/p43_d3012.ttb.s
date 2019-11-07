@@ -1,0 +1,9 @@
+PRO	She
+EPS	won
+IST	first
+CON	prize
+REL	in
+DEF	the
+CON	speech
+CON	contest
+NIL	.

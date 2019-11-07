@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	standing
+REL	in
+DEF	the
+CON	middle
+AND	of
+DEF	the
+CON	schoolyard
+NIL	.

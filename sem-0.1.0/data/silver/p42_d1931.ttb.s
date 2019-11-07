@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+PER	Tom
+NOW	is
+REL	in
+CON	lots
+AND	of
+CON	trouble
+NIL	.

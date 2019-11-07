@@ -1,0 +1,10 @@
+PRO	She
+EPS	gave
+PRO	me
+DIS	an
+CON	album
+AND	as
+DIS	a
+CON	birthday
+CON	present
+NIL	.

@@ -1,0 +1,9 @@
+POS	Maybe
+QUE	what
+PRO	I
+ENS	want
+NOW	does
+NOT	n't
+EXS	matter
+CON	anymore
+NIL	.

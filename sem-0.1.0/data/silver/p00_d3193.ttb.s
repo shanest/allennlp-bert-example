@@ -1,0 +1,12 @@
+PRO	It
+NOW	has
+PFT	been
+EXS	found
+SUB	that
+CON	smoking
+NOW	is
+EXS	bad
+REL	for
+HAS	your
+CON	health
+NIL	.

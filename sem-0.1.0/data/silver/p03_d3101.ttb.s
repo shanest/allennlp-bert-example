@@ -1,0 +1,11 @@
+PER	Tom
+ENS	wants
+PER	Mary
+SUB	to
+EXS	know
+PRO	he
+ENS	likes
+PRO	her
+DIS	a
+CON	lot
+NIL	.

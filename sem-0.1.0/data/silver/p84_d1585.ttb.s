@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+EXS	learning
+ART	English
+REL	with
+DEF	the
+CON	idea
+AND	of
+EXS	going
+REL	to
+GEO	America
+NIL	.

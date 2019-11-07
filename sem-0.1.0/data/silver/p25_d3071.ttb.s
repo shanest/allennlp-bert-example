@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+NOT	not
+PFT	been
+EXS	charged
+REL	with
+AND	any
+CON	crime
+NIL	.

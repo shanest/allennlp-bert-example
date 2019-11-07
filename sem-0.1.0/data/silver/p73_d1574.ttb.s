@@ -1,0 +1,10 @@
+DEF	The
+ALT	other
+CON	girls
+EPS	mocked
+PRO	her
+COO	and
+EPS	picked
+REL	on
+PRO	her
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+EXS	said
+SUB	to
+EXT	have
+PFT	been
+DEF	the
+TOP	best
+CON	football
+CON	player
+NIL	.

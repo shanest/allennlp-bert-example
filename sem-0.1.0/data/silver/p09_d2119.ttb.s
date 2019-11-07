@@ -1,0 +1,9 @@
+PER	Tom
+EPS	suggested
+SUB	that
+PRO	we
+NOT	not
+EXS	watch
+DST	that
+CON	movie
+NIL	.

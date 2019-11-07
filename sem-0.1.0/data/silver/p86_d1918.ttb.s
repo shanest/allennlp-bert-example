@@ -1,0 +1,9 @@
+PRO	I
+EPS	bought
+DIS	a
+CON	book
+AND	and
+PRO	he
+DIS	a
+CON	ruler
+NIL	.

@@ -1,0 +1,14 @@
+PER	Tom
+EPS	pulled
+DIS	something
+IST	out
+AND	of
+HAS	his
+CON	pocket
+COO	and
+EPS	put
+PRO	it
+REL	on
+HAS	his
+CON	desk
+NIL	.

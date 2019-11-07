@@ -1,0 +1,12 @@
+PRO	We
+AND	all
+EPS	took
+REL	for
+EXS	granted
+SUB	that
+DEF	the
+CON	professor
+POS	could
+EXS	speak
+GPO	English
+NIL	.

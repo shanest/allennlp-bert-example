@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXS	surprised
+SUB	that
+PRO	she
+EPS	refused
+AND	such
+DIS	a
+IST	good
+CON	offer
+NIL	.

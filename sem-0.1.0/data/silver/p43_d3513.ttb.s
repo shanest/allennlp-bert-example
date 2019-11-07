@@ -1,0 +1,16 @@
+PRO	You
+FUT	will
+EXS	receive
+DIS	a
+CON	confirmation
+CON	email
+REL	after
+HAS	your
+CON	account
+NOW	has
+PFT	been
+EXS	activated
+REL	by
+DIS	an
+CON	administrator
+NIL	.

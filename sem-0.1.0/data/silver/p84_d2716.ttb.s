@@ -1,0 +1,9 @@
+DIS	A
+COL	white
+CON	yacht
+PST	was
+EXG	sailing
+REL	over
+DEF	the
+CON	sea
+NIL	.

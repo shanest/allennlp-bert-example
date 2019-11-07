@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+IST	already
+EXT	tried
+EXS	doing
+PRO	it
+SUB	that
+CON	way
+NIL	.

@@ -1,0 +1,13 @@
+DEF	The
+IST	standard
+GPO	Australian
+GPO	English
+CON	accent
+ENS	comes
+REL	from
+DEF	the
+IST	South-eastern
+CON	part
+AND	of
+GPE	England
+NIL	.

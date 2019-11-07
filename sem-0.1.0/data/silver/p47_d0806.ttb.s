@@ -1,0 +1,17 @@
+REL	Between
+PRO	you
+COO	and
+PRO	me
+EQU	,
+PER	Lisa
+NIL	,
+PRO	we
+ENS	know
+SUB	that
+PRO	I
+IST	simply
+NOW	do
+NOT	n't
+EXS	like
+PER	Nick
+NIL	.

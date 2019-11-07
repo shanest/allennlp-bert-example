@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+IST	hard
+REL	for
+PRO	me
+SUB	to
+EXS	decide
+QUE	where
+SUB	to
+EXS	go
+CON	tonight
+NIL	.

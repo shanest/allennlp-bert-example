@@ -1,0 +1,12 @@
+NOT	No
+CON	one
+REL	in
+HAS	his
+CON	class
+POS	can
+EXS	run
+COM	faster
+AND	than
+PRO	he
+NOW	does
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+ENS	wish
+PER	Tom
+FUT	would
+EXS	help
+PRO	me
+EXS	move
+DEF	the
+CON	sofa
+NIL	.

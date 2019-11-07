@@ -1,0 +1,13 @@
+AND	Then
+DEF	the
+CON	grandmother
+EPS	smoothed
+HAS	his
+CON	hair
+COO	and
+EPS	told
+PRO	him
+DIS	some
+IST	more
+CON	tales
+NIL	.

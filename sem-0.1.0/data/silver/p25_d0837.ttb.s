@@ -1,0 +1,10 @@
+PRO	He
+PST	was
+EXS	accused
+AND	of
+EXS	having
+EXT	lied
+AND	about
+DEF	the
+CON	affair
+NIL	.

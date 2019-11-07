@@ -1,0 +1,11 @@
+PRO	They
+XCL	only
+EPS	wrote
+IST	idle
+CON	chatter
+AND	about
+HAS	her
+REL	in
+DEF	the
+CON	newspaper
+NIL	.

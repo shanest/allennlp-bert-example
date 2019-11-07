@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+DIS	an
+IST	old
+CON	film
+EXG	featuring
+PER	Charlie
+PER	Chaplin
+PST	yesterday
+NIL	.

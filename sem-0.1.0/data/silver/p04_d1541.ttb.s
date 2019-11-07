@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	wanted
+SUB	to
+EXS	be
+AND	anything
+AND	else
+AND	but
+DIS	a
+ROL	teacher
+NIL	.

@@ -1,0 +1,14 @@
+PRO	I
+EPS	fell
+REL	in
+CON	love
+REL	with
+PER	Mary
+DEF	the
+INT	very
+IST	first
+CON	time
+PRO	I
+EPS	saw
+PRO	her
+NIL	.

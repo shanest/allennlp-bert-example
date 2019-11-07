@@ -1,0 +1,11 @@
+PER	Mary
+PST	was
+EXG	wearing
+DIS	a
+COL	black
+CON	sweater
+SUB	when
+PRO	I
+EPS	met
+PRO	her
+NIL	.

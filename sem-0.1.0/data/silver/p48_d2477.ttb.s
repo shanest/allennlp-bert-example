@@ -1,0 +1,12 @@
+IMP	Suppose
+PRO	you
+PST	had
+QUC	ten
+QUC	million
+UOM	yen
+NIL	,
+QUE	what
+FUT	would
+PRO	you
+EXS	do
+QUE	?

@@ -1,0 +1,17 @@
+IST	Physical
+CON	closeness
+EPS	made
+PRO	him
+NOW	feel
+EXS	threatened
+NIL	,
+AND	so
+HAS	his
+CON	girlfriend
+EPS	took
+CON	things
+IST	very
+NIL	,
+INT	very
+EXS	slow
+NIL	.

@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+NOW	have
+CON	difficulties
+EXS	getting
+HAS	your
+CON	weight
+IST	down
+QUE	?

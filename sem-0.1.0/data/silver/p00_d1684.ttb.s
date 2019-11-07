@@ -1,0 +1,10 @@
+NIL	There
+NOW	is
+DIS	a
+CON	bank
+REL	in
+CON	front
+REL	of
+DEF	the
+CON	station
+NIL	.

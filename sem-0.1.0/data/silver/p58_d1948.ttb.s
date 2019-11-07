@@ -1,0 +1,11 @@
+AND	Such
+EXS	being
+DEF	the
+CON	case
+NIL	,
+PRO	he
+NOW	is
+IST	unable
+SUB	to
+EXS	pay
+NIL	.

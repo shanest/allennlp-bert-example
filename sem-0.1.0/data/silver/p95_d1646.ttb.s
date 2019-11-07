@@ -1,0 +1,13 @@
+PRO	She
+PST	was
+EXS	born
+REL	in
+YOC	1946
+NIL	,
+REL	on
+MOY	August
+DOM	19
+NIL	,
+REL	in
+GPE	California
+NIL	.

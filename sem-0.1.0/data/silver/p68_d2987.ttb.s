@@ -1,0 +1,10 @@
+PRO	She
+EPS	took
+DIS	a
+IST	long
+CON	time
+SUB	to
+EXS	choose
+HAS	her
+CON	hat
+NIL	.

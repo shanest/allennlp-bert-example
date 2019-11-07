@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+COM	easier
+SUB	to
+EXS	learn
+DIS	a
+IST	new
+CON	language
+SUB	when
+PRO	you
+NOW	are
+IST	young
+NIL	.

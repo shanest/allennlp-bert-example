@@ -1,0 +1,10 @@
+PER	Tom
+ENS	puts
+CON	honey
+REL	in
+HAS	his
+CON	tea
+NIL	instead
+AND	of
+CON	sugar
+NIL	.

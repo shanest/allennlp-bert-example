@@ -1,0 +1,10 @@
+PRO	They
+NOW	've
+EXS	had
+IST	heavy
+CON	rains
+REL	for
+AND	over
+DIS	a
+CON	week
+NIL	.

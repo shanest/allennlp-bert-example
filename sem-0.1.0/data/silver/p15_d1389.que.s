@@ -1,0 +1,10 @@
+DEF	Which
+CON	company
+EPS	took
+AND	over
+GEO	Rover
+EQU	,
+DEF	the
+CON	car
+CON	producer
+QUE	?

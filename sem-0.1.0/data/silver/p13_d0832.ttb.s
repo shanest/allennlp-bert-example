@@ -1,0 +1,13 @@
+AND	During
+HAS	his
+QUC	seven
+CON	years
+REL	in
+GPE	Japan
+NIL	,
+PRO	he
+EPS	studied
+GPO	Japanese
+REL	in
+CON	earnest
+NIL	.

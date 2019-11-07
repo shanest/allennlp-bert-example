@@ -1,0 +1,13 @@
+PRX	This
+NOW	is
+HAS	my
+IST	first
+CON	time
+NIL	,
+COO	so
+PRO	I
+NOW	'm
+DIS	a
+IST	little
+IST	nervous
+NIL	.

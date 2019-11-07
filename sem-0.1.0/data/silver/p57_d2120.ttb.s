@@ -1,0 +1,17 @@
+REL	In
+DEF	the
+CON	meantime
+PRO	I
+NOW	've
+EXS	come
+SUB	to
+EXS	understand
+SUB	that
+PRX	this
+NOW	is
+NOT	not
+AND	such
+DIS	an
+IST	easy
+CON	question
+NIL	.

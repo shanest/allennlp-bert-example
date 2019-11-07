@@ -1,0 +1,10 @@
+PRO	I
+NEC	ought
+SUB	to
+EXS	have
+DIS	a
+IST	little
+EXS	talk
+REL	with
+PER	Tom
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	asked
+PER	Mary
+IST	out
+REL	on
+DIS	a
+CON	date
+COO	and
+PRO	she
+EPS	accepted
+NIL	.

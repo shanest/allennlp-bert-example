@@ -1,0 +1,11 @@
+PRO	I
+NOW	guess
+NOW	now
+PRO	you
+ENS	know
+QUE	how
+PER	Tom
+NEC	must
+EXT	've
+EXS	felt
+NIL	.

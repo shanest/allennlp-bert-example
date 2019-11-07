@@ -1,0 +1,14 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PRO	you
+NOW	're
+EXS	going
+SUB	to
+EXS	give
+IST	away
+AND	all
+HAS	your
+CON	money
+NIL	.

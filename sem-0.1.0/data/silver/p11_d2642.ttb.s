@@ -1,0 +1,10 @@
+PRO	I
+POS	could
+NOT	n't
+EXS	think
+REL	up
+AND	such
+DIS	a
+IST	brief
+CON	explanation
+NIL	.

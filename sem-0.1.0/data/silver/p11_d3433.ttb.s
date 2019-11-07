@@ -1,0 +1,14 @@
+PRO	I
+FUT	will
+EXS	see
+SUB	that
+AND	such
+DIS	a
+CON	thing
+NOW	does
+NOT	not
+EXS	come
+SUB	to
+EXS	pass
+ALT	again
+NIL	.

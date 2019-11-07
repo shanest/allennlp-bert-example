@@ -1,0 +1,9 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	get
+REL	in
+CON	touch
+REL	with
+PER	Mary
+NIL	.

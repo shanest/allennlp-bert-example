@@ -1,0 +1,17 @@
+PER	Tom
+EPS	called
+SUB	to
+EXS	say
+PRO	you
+POS	ca
+NOT	n't
+EXS	stay
+REL	with
+PRO	him
+AND	next
+CON	week
+SUB	when
+PRO	you
+NOW	visit
+GEO	Boston
+NIL	.

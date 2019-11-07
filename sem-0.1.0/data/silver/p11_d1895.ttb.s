@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+NOT	not
+EXG	casting
+DIS	a
+CON	spell
+AND	over
+HAS	their
+CON	children
+NIL	.

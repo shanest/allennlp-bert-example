@@ -1,0 +1,11 @@
+GPE	Japan
+NOW	is
+DIS	a
+CON	country
+REL	in
+UNK	which
+UNK	there
+NOW	are
+QUV	many
+CON	earthquakes
+NIL	.

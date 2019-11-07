@@ -1,0 +1,12 @@
+PRO	She
+EPS	followed
+PRO	me
+REL	into
+DEF	the
+CON	kitchen
+COO	and
+EPS	picked
+IST	up
+DIS	a
+CON	knife
+NIL	.

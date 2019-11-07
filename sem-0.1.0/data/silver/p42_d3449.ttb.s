@@ -1,0 +1,9 @@
+NOW	Do
+NOT	n't
+EXS	interrupt
+PRO	me
+SUB	when
+PRO	I
+NOW	'm
+EXS	talking
+NIL	!

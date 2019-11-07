@@ -1,0 +1,9 @@
+PRO	You
+PST	had
+IST	better
+EXS	avail
+REF	yourself
+AND	of
+PRX	this
+CON	opportunity
+NIL	.

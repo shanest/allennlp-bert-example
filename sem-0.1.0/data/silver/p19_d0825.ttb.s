@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+NOT	not
+EXS	certain
+QUE	what
+PRO	I
+NOW	have
+REL	in
+CON	mind
+EMP	myself
+NIL	.

@@ -1,0 +1,17 @@
+SUB	When
+PRO	we
+NOW	are
+EXS	told
+NOT	not
+SUB	to
+EXS	come
+NIL	,
+PRO	we
+NOW	become
+AND	all
+DEF	the
+IST	more
+IST	eager
+SUB	to
+EXS	go
+NIL	.

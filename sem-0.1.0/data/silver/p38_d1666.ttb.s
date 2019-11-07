@@ -1,0 +1,9 @@
+PRO	I
+EPS	found
+PRO	it
+IST	easy
+SUB	to
+EXS	operate
+DEF	the
+CON	computer
+NIL	.

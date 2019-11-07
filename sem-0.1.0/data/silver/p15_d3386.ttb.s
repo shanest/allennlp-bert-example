@@ -1,0 +1,11 @@
+PRO	I
+EPS	changed
+HAS	my
+CON	mind
+AND	about
+EXS	going
+IST	out
+COO	and
+EPS	stayed
+CON	home
+NIL	.

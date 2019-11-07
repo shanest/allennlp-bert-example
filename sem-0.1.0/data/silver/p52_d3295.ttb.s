@@ -1,0 +1,16 @@
+PRO	He
+PST	thought
+IST	about
+EXS	growing
+DIS	a
+CON	beard
+NIL	,
+COO	but
+EPS	gave
+IST	up
+DEF	the
+CON	idea
+AND	of
+EXG	growing
+CON	one
+NIL	.

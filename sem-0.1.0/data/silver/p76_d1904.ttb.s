@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+AND	and
+PER	Tom
+IST	ever
+EXS	gone
+CON	ice
+EXS	skating
+IST	together
+QUE	?

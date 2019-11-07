@@ -1,0 +1,10 @@
+PRO	I
+IST	politely
+EPS	turned
+REL	down
+HAS	his
+CON	offer
+COO	and
+EPS	hung
+REL	up
+NIL	.

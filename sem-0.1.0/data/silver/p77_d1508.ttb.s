@@ -1,0 +1,14 @@
+DST	That
+CON	woman
+NOW	is
+NOT	n't
+EXS	fat
+NIL	,
+PRO	she
+NOW	is
+EXS	going
+SUB	to
+EXS	have
+DIS	a
+CON	baby
+NIL	.

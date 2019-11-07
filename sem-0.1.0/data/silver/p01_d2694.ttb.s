@@ -1,0 +1,9 @@
+DEF	The
+QUC	two
+CON	companies
+EXT	combined
+REL	in
+DIS	a
+IST	joint
+CON	corporation
+NIL	.

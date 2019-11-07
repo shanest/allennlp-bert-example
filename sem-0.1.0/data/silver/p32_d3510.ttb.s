@@ -1,0 +1,9 @@
+PER	Mary
+AND	and
+PRO	I
+NOW	are
+EXS	getting
+EXS	married
+REL	in
+MOY	August
+NIL	.

@@ -1,0 +1,11 @@
+HAS	His
+CON	eyes
+PST	got
+EXS	stuck
+REL	on
+DEF	the
+CON	canvas
+REL	on
+DEF	the
+CON	wall
+NIL	.

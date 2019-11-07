@@ -1,0 +1,10 @@
+IST	Most
+CON	experts
+NOW	predict
+SUB	that
+GPE	Brazil
+FUT	will
+EXS	win
+AND	over
+GPE	Chile
+NIL	.

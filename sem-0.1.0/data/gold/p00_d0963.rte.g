@@ -1,0 +1,9 @@
+CON	Cyanide
+CON	fumes
+EPS	killed
+QUC	five
+ROL	workers
+EXG	cleaning
+QUC	one
+CON	tank
+NIL	.

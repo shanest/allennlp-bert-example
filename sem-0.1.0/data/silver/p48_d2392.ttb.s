@@ -1,0 +1,10 @@
+EXS	Let
+HAS	's
+CON	hope
+PER	Tom
+NOW	has
+NOT	n't
+EXS	made
+DIS	a
+CON	mistake
+NIL	.

@@ -1,0 +1,10 @@
+PER	Jane
+EPS	gave
+PRO	me
+DEF	the
+IST	same
+CON	present
+AND	as
+PER	Wendy
+PST	did
+NIL	.

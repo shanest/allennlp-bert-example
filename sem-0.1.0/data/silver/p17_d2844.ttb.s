@@ -1,0 +1,9 @@
+PRO	You
+ENS	know
+EQU	exactly
+QUE	what
+PRO	he
+HAS	's
+EXS	talking
+IST	about
+NIL	.

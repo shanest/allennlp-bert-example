@@ -1,0 +1,13 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+SUB	that
+PER	Tom
+ENS	realizes
+QUE	how
+IST	rude
+PRO	he
+NOW	's
+EXS	being
+NIL	.

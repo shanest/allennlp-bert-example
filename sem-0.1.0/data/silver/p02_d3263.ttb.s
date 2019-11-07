@@ -1,0 +1,10 @@
+PRO	I
+EPS	said
+IST	so
+REL	with
+DIS	a
+CON	view
+SUB	to
+EXG	pleasing
+PRO	him
+NIL	.

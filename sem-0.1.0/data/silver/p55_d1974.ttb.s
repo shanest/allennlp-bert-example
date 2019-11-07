@@ -1,0 +1,15 @@
+HAS	My
+ROL	father
+EPS	bought
+PRO	me
+DIS	a
+CON	watch
+NIL	,
+AND	which
+PRO	I
+NOW	do
+NOT	n't
+EXS	like
+INT	very
+QUC	much
+NIL	.

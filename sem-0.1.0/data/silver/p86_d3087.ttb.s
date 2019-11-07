@@ -1,0 +1,10 @@
+PRO	We
+FUT	'll
+EXS	make
+DIS	a
+CON	sailor
+AND	out
+AND	of
+PRO	you
+ALT	yet
+NIL	.

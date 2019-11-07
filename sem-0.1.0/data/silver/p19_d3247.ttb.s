@@ -1,0 +1,10 @@
+PER	Tom
+EPS	watched
+DIS	a
+CON	cartoon
+REL	with
+HAS	his
+CON	children
+REL	after
+CON	dinner
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	return
+REL	to
+GPE	Tokyo
+AND	via
+GEO	Honolulu
+NIL	.

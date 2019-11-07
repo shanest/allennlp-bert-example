@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+DEF	the
+IST	first
+CON	time
+PRO	I
+NOW	've
+EXS	heard
+SUB	that
+NIL	.

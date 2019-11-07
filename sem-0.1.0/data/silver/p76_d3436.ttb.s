@@ -1,0 +1,11 @@
+IST	Most
+CON	people
+NOW	think
+CON	computers
+FUT	will
+NOT	never
+EXS	be
+IST	able
+SUB	to
+EXS	think
+NIL	.

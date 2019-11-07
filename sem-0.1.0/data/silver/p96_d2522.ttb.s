@@ -1,0 +1,10 @@
+PER	Tom
+IST	really
+EPS	made
+PRO	you
+IST	happy
+NIL	,
+PST	did
+NOT	n't
+PRO	he
+QUE	?

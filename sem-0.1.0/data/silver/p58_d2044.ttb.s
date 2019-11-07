@@ -1,0 +1,11 @@
+QUE	What
+PST	was
+PER	Mary
+HAS	's
+IST	last
+CON	name
+SUB	before
+PRO	she
+PST	got
+EXS	married
+QUE	?

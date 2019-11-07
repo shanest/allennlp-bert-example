@@ -1,0 +1,16 @@
+DEF	The
+CON	man
+AND	who
+NOW	fears
+NOT	nothing
+NOW	is
+AND	as
+IST	powerful
+AND	as
+PRO	he
+AND	who
+NOW	is
+EXS	feared
+REL	by
+AND	everybody
+NIL	.

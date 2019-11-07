@@ -1,0 +1,12 @@
+AND	Why
+NOW	do
+PRO	we
+EXS	care
+AND	about
+QUE	what
+PER	Tom
+NOW	is
+EXS	going
+SUB	to
+EXS	do
+QUE	?

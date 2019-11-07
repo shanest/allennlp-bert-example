@@ -1,0 +1,17 @@
+ITJ	Ah
+NIL	,
+IMP	if
+PRO	you
+POS	can
+EXS	dub
+PRO	it
+NIL	,
+POS	can
+PRO	I
+EXS	ask
+REL	for
+DIS	a
+CON	copy
+AND	as
+IST	well
+QUE	?

@@ -1,0 +1,10 @@
+PRO	She
+IST	first
+EPS	met
+PRO	him
+REL	at
+DIS	a
+CON	conference
+REL	in
+GPE	Boston
+NIL	.

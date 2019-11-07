@@ -1,0 +1,9 @@
+PER	Tom
+EPS	blamed
+PER	Mary
+REL	for
+DEF	the
+CON	project
+HAS	's
+CON	failure
+NIL	.

@@ -1,0 +1,11 @@
+CON	Where
+NOW	are
+PRO	you
+REL	off
+SUB	to
+QUE	?
+FUT	Should
+PRO	we
+EXS	come
+REL	with
+QUE	?

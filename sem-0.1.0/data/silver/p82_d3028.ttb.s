@@ -1,0 +1,12 @@
+NOT	No
+CON	one
+FUT	will
+EXS	believe
+REL	in
+PRO	you
+SUB	until
+PRO	you
+NOW	believe
+REL	in
+REF	yourself
+NIL	.

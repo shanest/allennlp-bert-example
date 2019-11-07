@@ -1,0 +1,12 @@
+PER	Tom
+EPS	apologized
+REL	for
+NOT	not
+EXS	doing
+QUE	what
+PRO	he
+PST	was
+EXS	supposed
+SUB	to
+EXS	do
+NIL	.

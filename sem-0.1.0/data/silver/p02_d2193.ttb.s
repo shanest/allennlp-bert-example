@@ -1,0 +1,9 @@
+FUT	Will
+PRO	you
+EXS	help
+PRO	me
+CON	pack
+IST	up
+HAS	my
+CON	suitcase
+QUE	?

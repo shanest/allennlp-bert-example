@@ -1,0 +1,13 @@
+PRO	I
+PST	had
+NOT	not
+PFT	been
+EXS	waiting
+IST	long
+SUB	before
+PRO	I
+EPS	heard
+CON	footsteps
+EXS	coming
+CON	upstairs
+NIL	.

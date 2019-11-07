@@ -1,0 +1,10 @@
+INT	Very
+QUV	few
+CON	people
+ENS	know
+QUE	what
+HAS	their
+CON	blood
+CON	group
+NOW	is
+NIL	.

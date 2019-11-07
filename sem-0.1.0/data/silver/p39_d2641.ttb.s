@@ -1,0 +1,9 @@
+PRO	We
+NOW	have
+NOT	n't
+EXS	had
+QUC	much
+CON	rain
+PRX	this
+CON	year
+NIL	.

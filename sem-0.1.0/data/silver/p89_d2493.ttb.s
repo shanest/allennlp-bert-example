@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+UNK	difficult
+SUB	to
+EXS	leave
+QUC	one
+HAS	's
+CON	homeland
+NIL	.

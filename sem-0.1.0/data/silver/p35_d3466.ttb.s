@@ -1,0 +1,11 @@
+PRO	I
+EPS	saw
+HAS	my
+CON	neighbor
+HAS	's
+CON	dog
+EXS	running
+REL	in
+HAS	my
+CON	yard
+NIL	.

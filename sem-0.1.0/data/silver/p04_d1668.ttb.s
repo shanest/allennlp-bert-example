@@ -1,0 +1,13 @@
+UNK	There
+PST	was
+DIS	a
+CON	sign
+EXS	saying
+NIL	,
+NIL	"
+EXS	Keep
+REL	off
+DEF	the
+CON	grass
+NIL	.
+NIL	"

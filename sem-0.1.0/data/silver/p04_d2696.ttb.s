@@ -1,0 +1,12 @@
+AND	As
+REL	to
+DEF	the
+CON	source
+AND	of
+PRX	this
+CON	statement
+NIL	,
+PRO	I
+ENS	know
+NOT	nothing
+NIL	.

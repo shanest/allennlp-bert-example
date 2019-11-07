@@ -1,0 +1,10 @@
+PER	Mary
+EPS	came
+REL	into
+DEF	the
+EXG	living
+CON	room
+EXG	wearing
+DIS	a
+CON	bathrobe
+NIL	.

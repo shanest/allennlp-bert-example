@@ -1,0 +1,11 @@
+PRO	He
+ENS	loves
+PRO	her
+NIL	,
+BUT	but
+PRO	she
+NOW	does
+NOT	n't
+EXS	like
+PRO	him
+NIL	.

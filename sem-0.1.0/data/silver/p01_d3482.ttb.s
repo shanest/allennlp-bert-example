@@ -1,0 +1,13 @@
+DEF	The
+CON	friendship
+AND	of
+DIS	a
+IST	great
+CON	man
+NOW	is
+DIS	a
+CON	gift
+REL	from
+DEF	the
+CON	gods
+NIL	.

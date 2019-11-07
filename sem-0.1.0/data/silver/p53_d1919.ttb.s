@@ -1,0 +1,13 @@
+AND	All
+SUB	that
+PRO	I
+PST	was
+EXS	looking
+REL	for
+PST	was
+DIS	somebody
+AND	who
+PST	looked
+AND	like
+PRO	you
+NIL	.

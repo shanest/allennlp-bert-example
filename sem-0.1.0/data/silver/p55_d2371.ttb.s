@@ -1,0 +1,10 @@
+EXS	Let
+PRO	me
+EXS	see
+DEF	the
+CON	pictures
+PRO	you
+EPS	took
+REL	in
+GEO	Paris
+NIL	.

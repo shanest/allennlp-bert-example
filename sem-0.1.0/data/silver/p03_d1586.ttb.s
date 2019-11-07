@@ -1,0 +1,15 @@
+AND	Once
+IST	thawed
+NIL	,
+NOW	do
+NOT	not
+EXS	freeze
+ALT	again
+COO	and
+NOW	use
+IST	right
+IST	away
+NIL	.
+EXS	Cook
+IST	well
+NIL	.

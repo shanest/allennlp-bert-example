@@ -1,0 +1,13 @@
+QUC	One
+AND	of
+PRO	us
+ENS	has
+SUB	to
+EXS	stay
+PRX	here
+COO	and
+EXS	take
+CON	care
+AND	of
+PER	Tom
+NIL	.

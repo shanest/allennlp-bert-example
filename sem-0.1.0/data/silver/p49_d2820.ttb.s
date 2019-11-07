@@ -1,0 +1,12 @@
+GRE	Hurry
+IST	up
+EQU	,
+CON	girls
+NIL	,
+PRO	you
+NOW	're
+EXS	going
+SUB	to
+EXS	be
+IST	late
+NIL	.

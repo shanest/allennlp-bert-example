@@ -1,0 +1,14 @@
+CON	Listening
+REL	to
+GEO	Mahler
+EQU	,
+PER	Lyusya
+FUT	would
+IST	always
+EXS	think
+AND	of
+CON	death
+AND	and
+CON	life
+IST	eternal
+NIL	.

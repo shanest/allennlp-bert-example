@@ -1,0 +1,11 @@
+PER	Tom
+EPS	wondered
+SUB	where
+PER	Mary
+PST	was
+AND	and
+QUE	what
+PRO	she
+PST	was
+EXG	doing
+NIL	.

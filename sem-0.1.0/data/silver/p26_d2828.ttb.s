@@ -1,0 +1,16 @@
+PRO	I
+NOW	'm
+REL	on
+DEF	the
+IST	late
+CON	shift
+CON	tonight
+COO	and
+FUT	wo
+NOT	n't
+EXS	be
+CON	home
+REL	until
+CLO	around
+CLO	midnight
+NIL	.

@@ -1,0 +1,9 @@
+REL	Since
+DST	that
+CON	time
+NIL	,
+EXS	crying
+NOW	has
+PFT	been
+EXS	forbidden
+NIL	.

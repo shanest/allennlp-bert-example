@@ -1,0 +1,10 @@
+PRO	We
+NOW	've
+IST	only
+EXS	corresponded
+COO	and
+NOT	never
+EPS	met
+REL	in
+CON	person
+NIL	.

@@ -1,0 +1,11 @@
+PRO	She
+EPS	complained
+SUB	that
+PRO	it
+PST	was
+INT	too
+EXS	hot
+REL	in
+DEF	the
+CON	room
+NIL	.

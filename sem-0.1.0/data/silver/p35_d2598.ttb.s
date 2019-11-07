@@ -1,0 +1,14 @@
+PRX	This
+CON	photo
+NOW	is
+INT	too
+CON	blurry
+NIL	.
+PRO	I
+POS	ca
+NOT	n't
+EXS	make
+IST	out
+HAS	your
+CON	face
+NIL	.

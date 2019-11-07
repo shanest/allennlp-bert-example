@@ -1,0 +1,12 @@
+QUE	Which
+NOW	is
+IST	easier
+SUB	to
+EXS	read
+NIL	,
+PRX	this
+CON	book
+DIS	or
+DST	that
+QUC	one
+QUE	?

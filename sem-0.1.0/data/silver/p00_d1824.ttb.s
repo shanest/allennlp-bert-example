@@ -1,0 +1,14 @@
+QUE	What
+DIS	a
+CON	lot
+NIL	of
+CON	books
+NIL	!
+NOW	Do
+PRO	they
+EXS	belong
+NIL	to
+DEF	the
+CON	university
+CON	library
+QUE	?

@@ -1,0 +1,11 @@
+AND	Unfortunately
+NIL	,
+PRO	I
+NOT	never
+EPS	got
+DEF	the
+CON	chance
+SUB	to
+EXS	meet
+PRO	her
+NIL	.

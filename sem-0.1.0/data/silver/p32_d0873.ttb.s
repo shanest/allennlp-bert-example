@@ -1,0 +1,16 @@
+CON	Tickets
+NOW	are
+EXS	valid
+REL	for
+INT	just
+QUC	two
+CON	days
+NIL	,
+AND	including
+DEF	the
+CON	day
+PRO	they
+NOW	are
+EXS	purchased
+REL	on
+NIL	.

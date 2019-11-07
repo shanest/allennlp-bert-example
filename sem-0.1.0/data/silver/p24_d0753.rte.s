@@ -1,0 +1,22 @@
+DEF	The
+IST	south
+GPO	Indian
+CON	flute
+PST	had
+XCL	only
+QUC	seven
+CON	finger
+CON	holes
+REL	till
+DEF	the
+DEC	1970s
+SUB	when
+DEF	the
+IST	legendary
+PER	T.R. Mahalingam
+EPS	introduced
+DEF	the
+QUC	eight
+IST	holed
+CON	variety
+NIL	.

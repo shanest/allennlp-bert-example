@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+PRO	he
+PST	was
+INT	very
+EXS	rich
+NIL	.

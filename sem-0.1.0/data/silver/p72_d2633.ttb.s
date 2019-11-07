@@ -1,0 +1,15 @@
+PRO	I
+IST	always
+EPS	hated
+CON	dodgeball
+NIL	,
+AND	especially
+REL	after
+DEF	the
+CON	ball
+EPS	hit
+PRO	me
+REL	in
+DEF	the
+CON	face
+NIL	.

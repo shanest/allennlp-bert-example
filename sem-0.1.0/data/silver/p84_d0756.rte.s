@@ -1,0 +1,21 @@
+DEF	The
+IST	official
+CON	religion
+NOW	is
+GEO	Theravada
+GEO	Buddhism
+NIL	,
+UNK	which
+NOW	is
+ALT	also
+EXS	practiced
+REL	in
+IST	neighboring
+CON	Laos
+EQU	,
+GEO	Thailand
+EQU	,
+GEO	Burma
+EQU	and
+GPE	Sri Lanka
+NIL	.

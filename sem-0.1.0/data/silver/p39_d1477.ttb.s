@@ -1,0 +1,13 @@
+REL	By
+DEF	the
+CON	way
+NIL	,
+NOW	do
+PRO	you
+EXS	know
+DIS	a
+IST	good
+CON	restaurant
+AND	around
+PRX	here
+QUE	?

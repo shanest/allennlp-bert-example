@@ -1,0 +1,11 @@
+PER	Tom
+EPS	said
+SUB	that
+PRO	you
+COO	and
+PRO	he
+EPS	went
+CON	camping
+AND	last
+CON	weekend
+NIL	.

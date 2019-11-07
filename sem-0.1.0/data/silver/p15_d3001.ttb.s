@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	I
+FUT	'll
+EXS	be
+IST	able
+SUB	to
+EXS	fix
+PRO	it
+NIL	.

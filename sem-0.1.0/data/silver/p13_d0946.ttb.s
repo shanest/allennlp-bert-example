@@ -1,0 +1,9 @@
+HAS	My
+CON	nephew
+EPS	watched
+DEF	the
+CON	animals
+REL	in
+DEF	the
+CON	zoo
+NIL	.

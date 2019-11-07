@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	believe
+SUB	that
+PER	Tom
+NOW	is
+DIS	a
+CON	murderer
+NIL	.

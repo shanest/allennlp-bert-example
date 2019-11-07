@@ -1,0 +1,9 @@
+QUC	One
+AND	of
+HAS	my
+CON	hobbies
+NOW	is
+EXG	collecting
+IST	old
+CON	stamps
+NIL	.

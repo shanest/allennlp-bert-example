@@ -1,0 +1,11 @@
+NOT	No
+CON	matter
+QUE	what
+PRO	you
+ENS	say
+NIL	,
+GPO	Japanese
+CON	Anglicisms
+NOW	are
+GPO	Japanese
+NIL	.

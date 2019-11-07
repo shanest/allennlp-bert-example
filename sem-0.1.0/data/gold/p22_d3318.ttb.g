@@ -1,0 +1,10 @@
+PRO	I
+EPS	realized
+SUB	that
+CON	cats
+POS	can
+EXS	see
+REL	in
+DEF	the
+CON	dark
+NIL	.

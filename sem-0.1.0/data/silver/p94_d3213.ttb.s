@@ -1,0 +1,10 @@
+DEF	The
+GEO	Netherlands
+NOW	is
+EXS	called
+NIL	"
+PER	Nederland
+NIL	"
+REL	in
+GPO	Dutch
+NIL	.

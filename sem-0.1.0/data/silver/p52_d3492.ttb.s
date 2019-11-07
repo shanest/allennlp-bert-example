@@ -1,0 +1,12 @@
+GPO	French
+NOW	is
+EXS	spoken
+REL	in
+GPE	France
+AND	and
+REL	in
+DIS	some
+CON	parts
+AND	of
+GPE	Italy
+NIL	.

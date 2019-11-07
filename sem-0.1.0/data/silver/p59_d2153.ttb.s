@@ -1,0 +1,9 @@
+PRO	I
+NOW	wonder
+QUE	what
+EPS	happened
+REL	to
+SUB	that
+EXS	lost
+CON	child
+NIL	.

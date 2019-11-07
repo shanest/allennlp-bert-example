@@ -1,0 +1,11 @@
+PRO	I
+PST	thought
+PER	Tom
+AND	and
+PER	Mary
+EPS	made
+AND	such
+DIS	a
+IST	nice
+CON	couple
+NIL	.

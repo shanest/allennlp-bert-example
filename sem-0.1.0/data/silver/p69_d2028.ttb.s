@@ -1,0 +1,10 @@
+QUE	Who
+POS	can
+EXS	speak
+GPO	English
+COM	better
+AND	,
+PER	Yoko
+DIS	or
+PER	Yumi
+QUE	?

@@ -1,0 +1,10 @@
+PRO	We
+NOW	've
+PFT	been
+EXS	asked
+REL	to
+NOT	not
+EXS	do
+PRX	this
+CON	anymore
+NIL	.

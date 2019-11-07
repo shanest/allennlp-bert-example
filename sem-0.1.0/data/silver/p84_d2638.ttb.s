@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+QUE	what
+AND	else
+SUB	to
+EXS	do
+NIL	.

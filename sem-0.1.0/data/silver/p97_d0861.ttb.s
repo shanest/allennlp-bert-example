@@ -1,0 +1,13 @@
+REL	On
+DOW	Saturday
+PRO	we
+EPS	went
+REL	to
+DEF	the
+CON	movies
+NIL	,
+AND	then
+REL	to
+DEF	the
+CON	restaurant
+NIL	.

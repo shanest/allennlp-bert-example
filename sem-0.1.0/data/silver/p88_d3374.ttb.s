@@ -1,0 +1,14 @@
+PRO	She
+EPS	laughed
+DEF	the
+CON	way
+CON	schoolgirls
+NOW	do
+NIL	,
+REL	with
+HAS	her
+CON	hand
+AND	over
+HAS	her
+CON	mouth
+NIL	.

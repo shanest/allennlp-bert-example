@@ -1,0 +1,11 @@
+NOT	No
+CON	one
+POS	can
+EXS	tell
+QUE	what
+FUT	will
+EXS	happen
+REL	in
+DEF	the
+CON	future
+NIL	.

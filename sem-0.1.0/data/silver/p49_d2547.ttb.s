@@ -1,0 +1,10 @@
+QUC	One
+NEC	should
+EXS	read
+QUV	many
+CON	books
+SUB	when
+CON	one
+NOW	is
+IST	young
+NIL	.

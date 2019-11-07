@@ -1,0 +1,9 @@
+PRO	I
+ENS	believe
+QUE	what
+NOW	is
+EXS	written
+REL	in
+HAS	her
+CON	letter
+NIL	.

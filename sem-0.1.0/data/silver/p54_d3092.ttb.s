@@ -1,0 +1,11 @@
+PRO	I
+PST	had
+PFT	been
+EXS	reading
+DIS	a
+CON	letter
+SUB	when
+PRO	he
+EPS	came
+REL	in
+NIL	.

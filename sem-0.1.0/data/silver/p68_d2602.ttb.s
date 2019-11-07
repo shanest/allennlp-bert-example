@@ -1,0 +1,13 @@
+PRO	I
+POS	could
+NOT	n't
+EXS	believe
+PRO	I
+NOW	have
+EXS	let
+PER	Tom
+EXS	talk
+PRO	me
+REL	into
+PRX	this
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+ENS	have
+EXS	plenty
+AND	of
+CON	time
+NIL	,
+BUT	but
+NOT	not
+IST	enough
+CON	money
+NIL	.

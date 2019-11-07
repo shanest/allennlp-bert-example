@@ -1,0 +1,10 @@
+PRO	I
+EPS	wrote
+QUC	five
+CON	letters
+SUB	before
+PRO	I
+EPS	went
+REL	to
+CON	bed
+NIL	.

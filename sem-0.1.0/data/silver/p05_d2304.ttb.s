@@ -1,0 +1,9 @@
+AND	Would
+DIS	someone
+EXS	tell
+PRO	me
+QUE	what
+HAS	's
+EXG	going
+REL	on
+QUE	?

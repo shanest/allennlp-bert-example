@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	no
+CON	idea
+QUE	what
+DST	that
+CON	guy
+NOW	is
+EXG	thinking
+NIL	.

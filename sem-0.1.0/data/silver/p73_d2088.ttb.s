@@ -1,0 +1,17 @@
+PER	Tom
+EPS	used
+SUB	to
+EXS	have
+DIS	a
+CON	penpal
+REL	in
+GPE	Australia
+SUB	that
+PRO	he
+EPS	wrote
+REL	to
+QUV	several
+CON	times
+DIS	a
+CON	month
+NIL	.

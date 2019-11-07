@@ -1,0 +1,14 @@
+CON	Way
+REL	off
+REL	in
+DEF	the
+CON	distance
+PRO	she
+POS	could
+EXS	see
+DEF	the
+CON	lights
+AND	of
+DEF	the
+CON	city
+NIL	.

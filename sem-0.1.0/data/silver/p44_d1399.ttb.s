@@ -1,0 +1,12 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	be
+DIS	a
+ROL	lawyer
+DIS	or
+DIS	a
+CON	doctor
+NIL	.

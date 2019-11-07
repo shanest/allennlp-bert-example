@@ -1,0 +1,13 @@
+AND	Would
+PRO	you
+ENS	like
+SUB	to
+EXS	hear
+DEF	the
+IST	new
+CON	song
+PRO	I
+NOW	'm
+EXS	working
+REL	on
+QUE	?

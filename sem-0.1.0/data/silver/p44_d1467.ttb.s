@@ -1,0 +1,11 @@
+PRO	He
+HAS	's
+PST	got
+DIS	an
+ROL	uncle
+AND	who
+ENS	works
+REL	in
+DIS	a
+CON	bank
+NIL	.

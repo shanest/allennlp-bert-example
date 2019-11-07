@@ -1,0 +1,10 @@
+PRO	I
+EPS	met
+PRO	her
+REL	in
+GPE	London
+REL	for
+DEF	the
+IST	first
+CON	time
+NIL	.

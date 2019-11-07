@@ -1,0 +1,10 @@
+DST	That
+EXS	haughty
+CON	girl
+ENS	thinks
+PRO	she
+HAS	's
+COM	better
+AND	than
+AND	everyone
+NIL	.

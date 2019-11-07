@@ -1,0 +1,14 @@
+QUE	Which
+GPO	American
+CON	general
+PST	was
+REL	in
+CON	charge
+AND	of
+DEF	the
+IST	Allied
+ORG	General
+ORG	Staff
+REL	in
+YOC	1943
+QUE	?

@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	thirsty
+NIL	.
+POS	Can
+PRO	I
+NOW	have
+DIS	a
+CON	glass
+AND	of
+CON	water
+QUE	?

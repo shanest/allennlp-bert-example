@@ -1,0 +1,10 @@
+PER	Tom
+EPS	refused
+PER	Mary
+HAS	's
+CON	offer
+SUB	to
+EXS	drive
+PRO	him
+CON	home
+NIL	.

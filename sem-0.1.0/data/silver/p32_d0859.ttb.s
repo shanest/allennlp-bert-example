@@ -1,0 +1,15 @@
+HAS	His
+IST	favorite
+CON	baseball
+CON	team
+NOW	is
+DEF	the
+CON	Giants
+NIL	,
+BUT	but
+PRO	he
+ALT	also
+ENS	likes
+DEF	the
+CON	Lions
+NIL	.

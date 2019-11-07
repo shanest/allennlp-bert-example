@@ -1,0 +1,11 @@
+PRO	She
+EPS	shut
+HAS	her
+CON	eyes
+AND	because
+DEF	the
+CON	light
+PST	was
+INT	so
+EXS	strong
+NIL	.

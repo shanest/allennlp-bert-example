@@ -1,0 +1,9 @@
+PRO	You
+ENS	know
+QUE	how
+QUC	much
+PER	Tom
+ENS	loves
+GPO	Chinese
+CON	food
+NIL	.

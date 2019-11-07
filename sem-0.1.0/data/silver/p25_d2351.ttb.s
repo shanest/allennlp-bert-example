@@ -1,0 +1,10 @@
+PRO	She
+EPS	droned
+REL	on
+REL	for
+CON	hours
+AND	about
+HAS	her
+CON	family
+CON	history
+NIL	.

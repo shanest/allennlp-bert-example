@@ -1,0 +1,12 @@
+NOW	Is
+PRX	this
+IST	real
+CON	turquoise
+QUE	?
+REL	At
+PRX	this
+CON	price
+QUE	?
+EXS	Come
+REL	on
+NIL	!

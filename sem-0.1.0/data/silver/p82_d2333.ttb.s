@@ -1,0 +1,16 @@
+PRO	I
+NOW	hope
+PRO	he
+FUT	'll
+EXS	be
+IST	able
+SUB	to
+EXS	come
+NIL	!
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	see
+PRO	him
+NIL	.

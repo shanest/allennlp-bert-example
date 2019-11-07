@@ -1,0 +1,13 @@
+PRO	I
+ENS	need
+SUB	to
+EXS	ask
+PER	Tom
+REL	about
+QUE	how
+SUB	to
+EXS	get
+REL	to
+HAS	his
+CON	house
+NIL	.

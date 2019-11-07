@@ -1,0 +1,11 @@
+PRO	We
+NIL	,
+DEF	the
+GPO	Japanese
+NIL	,
+NOW	now
+EXS	feed
+REF	ourselves
+REL	with
+CON	rice
+NIL	.

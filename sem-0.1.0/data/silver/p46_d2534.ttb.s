@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	play
+CON	tennis
+AND	as
+IST	well
+AND	as
+PER	Tom
+NIL	.

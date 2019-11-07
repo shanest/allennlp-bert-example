@@ -1,0 +1,10 @@
+DEF	The
+IST	young
+CON	girl
+PST	was
+EXS	chased
+REL	by
+DEF	the
+IST	old
+CON	man
+NIL	.

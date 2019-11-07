@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	thinking
+SUB	about
+EXS	breaking
+IST	up
+REL	with
+HAS	my
+CON	girlfriend
+NIL	.

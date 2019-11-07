@@ -1,0 +1,12 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	ask
+PRO	you
+AND	about
+DIS	a
+CON	student
+AND	of
+HAS	yours
+NIL	.

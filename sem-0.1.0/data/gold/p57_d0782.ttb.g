@@ -1,0 +1,10 @@
+IMP	If
+PRO	I
+EXS	had
+CON	money
+NIL	,
+PRO	I
+POS	could
+EXS	buy
+PRO	it
+NIL	.

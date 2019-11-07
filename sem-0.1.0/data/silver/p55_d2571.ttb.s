@@ -1,0 +1,15 @@
+PRO	It
+NOW	's
+EXS	inconceivable
+SUB	that
+PRO	you
+FUT	would
+EXS	talk
+REL	on
+DEF	the
+CON	phone
+AND	whilst
+AND	behind
+DEF	the
+CON	wheel
+NIL	.

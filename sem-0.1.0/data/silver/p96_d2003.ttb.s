@@ -1,0 +1,11 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	speak
+CON	French
+SUB	when
+PRO	I
+IST	first
+EPS	met
+PRO	him
+NIL	.

@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+NOW	think
+PRO	it
+PST	had
+DIS	something
+SUB	to
+EXS	do
+REL	with
+PER	Tom
+QUE	?

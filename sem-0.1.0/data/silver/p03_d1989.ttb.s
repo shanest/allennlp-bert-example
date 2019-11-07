@@ -1,0 +1,11 @@
+PRO	She
+EPS	told
+PRO	me
+AND	which
+CON	clothes
+FUT	would
+EXS	be
+EXS	good
+SUB	to
+EXS	wear
+NIL	.

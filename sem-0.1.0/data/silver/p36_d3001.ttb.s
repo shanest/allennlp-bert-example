@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	given
+XCL	only
+QUC	twelve
+CON	months
+SUB	to
+EXS	live
+NIL	.

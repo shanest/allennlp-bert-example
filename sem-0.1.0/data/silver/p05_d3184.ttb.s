@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+DEF	the
+TOP	biggest
+CON	book
+PRO	I
+NOW	've
+IST	ever
+EXS	seen
+NIL	.

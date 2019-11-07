@@ -1,0 +1,13 @@
+PER	Tom
+EPS	took
+REL	off
+HAS	his
+CON	bicycle
+CON	helmet
+COO	and
+EPS	put
+PRO	it
+REL	on
+DEF	the
+CON	table
+NIL	.

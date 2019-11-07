@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+IST	strange
+QUE	how
+AND	everything
+POS	can
+EXS	change
+REL	in
+QUC	one
+CON	day
+NIL	.

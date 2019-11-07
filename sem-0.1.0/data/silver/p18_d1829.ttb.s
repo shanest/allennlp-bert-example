@@ -1,0 +1,11 @@
+DEF	The
+CON	history
+AND	of
+GPE	China
+NOW	is
+COM	older
+AND	than
+DST	that
+AND	of
+GPE	Japan
+NIL	.

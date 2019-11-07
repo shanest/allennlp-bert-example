@@ -1,0 +1,12 @@
+PRO	I
+EPS	bought
+REF	myself
+PRX	this
+IST	superfast
+CON	popcorn
+CON	machine
+REL	as
+DIS	a
+HAP	Christmas
+CON	present
+NIL	.

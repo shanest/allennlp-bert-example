@@ -1,0 +1,9 @@
+PER	Tom
+AND	always
+ENS	wants
+SUB	to
+EXS	do
+AND	everything
+REL	by
+REF	himself
+NIL	.

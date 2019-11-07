@@ -1,0 +1,10 @@
+DEF	The
+CON	Higgs
+CON	boson
+NOW	has
+PFT	been
+EXS	called
+DEF	the
+CON	God
+CON	particle
+NIL	.

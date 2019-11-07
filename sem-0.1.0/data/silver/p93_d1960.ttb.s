@@ -1,0 +1,11 @@
+PRO	I
+NOW	feel
+AND	as
+IMP	if
+PRO	I
+NOW	've
+EXS	known
+PER	Tom
+REL	for
+CON	years
+NIL	.

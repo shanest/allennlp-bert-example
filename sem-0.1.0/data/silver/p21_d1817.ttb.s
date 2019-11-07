@@ -1,0 +1,16 @@
+REL	On
+HAS	his
+CON	way
+CON	home
+NIL	,
+PER	Tom
+EPS	met
+DIS	a
+CON	man
+AND	who
+PRO	he
+EPS	thought
+PST	was
+DIS	an
+GPO	American
+NIL	.

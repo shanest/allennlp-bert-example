@@ -1,0 +1,10 @@
+PER	Tom
+EPS	laughed
+IST	so
+QUC	much
+CON	tears
+EPS	ran
+IST	down
+HAS	his
+CON	cheeks
+NIL	.

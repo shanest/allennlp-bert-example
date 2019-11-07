@@ -1,0 +1,9 @@
+PER	Tom
+ENS	takes
+DIS	a
+CON	shower
+AND	every
+CON	morning
+REL	before
+CON	breakfast
+NIL	.

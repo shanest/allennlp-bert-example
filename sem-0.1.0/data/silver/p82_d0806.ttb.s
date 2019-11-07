@@ -1,0 +1,10 @@
+GEO	Asia
+NOW	is
+APX	roughly
+QUC	four
+CON	times
+DEF	the
+CON	size
+AND	of
+GEO	Europe
+NIL	.

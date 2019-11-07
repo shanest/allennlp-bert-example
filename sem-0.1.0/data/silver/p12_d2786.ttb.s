@@ -1,0 +1,14 @@
+SUB	Besides
+EXG	being
+DIS	a
+IST	great
+ROL	statesman
+EQU	,
+ROL	Sir
+PER	Winston
+PER	Churchill
+PST	was
+DIS	a
+IST	great
+ROL	writer
+NIL	.

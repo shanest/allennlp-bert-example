@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	important
+REL	for
+PRO	you
+SUB	to
+EXS	read
+QUV	many
+CON	books
+NIL	.

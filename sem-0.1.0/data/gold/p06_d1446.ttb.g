@@ -1,0 +1,10 @@
+ROL	Mr
+PER	Jones
+NOW	is
+EXG	tasting
+DEF	the
+CON	soup
+HAS	his
+ROL	wife
+EPS	made
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	wore
+DIS	a
+IST	hard
+CON	hat
+COO	and
+EPS	winked
+REL	at
+PRO	us
+NIL	.

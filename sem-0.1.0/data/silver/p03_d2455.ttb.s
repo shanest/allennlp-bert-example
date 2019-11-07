@@ -1,0 +1,15 @@
+PRO	You
+NOW	do
+NOT	n't
+EXS	know
+PRX	this
+CON	song
+NIL	,
+UNK	so
+NOW	do
+NOT	n't
+EXS	try
+SUB	to
+EXS	sing
+REL	along
+NIL	.

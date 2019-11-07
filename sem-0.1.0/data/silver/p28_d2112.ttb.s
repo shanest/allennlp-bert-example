@@ -1,0 +1,11 @@
+QUC	Four
+CON	years
+REL	from
+NOW	now
+NIL	,
+PRO	you
+FUT	'll
+EXS	have
+NOT	no
+CON	competition
+NIL	.

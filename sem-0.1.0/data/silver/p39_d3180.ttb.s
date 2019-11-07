@@ -1,0 +1,13 @@
+AND	Even
+IMP	if
+PRO	it
+ENS	costs
+QUC	10,000
+UOM	yen
+UOM	,
+PRO	I
+NEC	must
+EXS	buy
+DEF	the
+CON	dictionary
+NIL	.

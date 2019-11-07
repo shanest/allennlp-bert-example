@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	going
+IST	out
+SUB	to
+EXS	buy
+DEF	the
+CON	newspaper
+NIL	.

@@ -1,0 +1,11 @@
+HAS	My
+ROL	father
+NOW	does
+NOT	n't
+IST	just
+CON	smoke
+NIL	,
+PRO	he
+ENS	drinks
+ALT	too
+NIL	.

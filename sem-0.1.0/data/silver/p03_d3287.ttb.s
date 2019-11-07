@@ -1,0 +1,11 @@
+CON	Hackers
+NOW	find
+IST	new
+CON	ways
+AND	of
+EXG	infiltrating
+IST	private
+DIS	or
+IST	public
+CON	networks
+NIL	.

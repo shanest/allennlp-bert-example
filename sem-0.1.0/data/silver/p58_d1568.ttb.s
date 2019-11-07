@@ -1,0 +1,13 @@
+PRO	I
+NOW	have
+NOT	n't
+EXT	heard
+DIS	a
+CON	word
+REL	from
+PRO	them
+REL	in
+MOR	over
+QUC	four
+UOM	years
+NIL	.

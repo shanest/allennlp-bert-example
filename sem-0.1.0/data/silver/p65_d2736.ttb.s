@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+NOT	no
+EXS	use
+EXS	pretending
+PRO	you
+ENS	know
+NOT	nothing
+AND	about
+PRO	it
+NIL	.

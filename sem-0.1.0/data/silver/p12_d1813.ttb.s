@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	afraid
+DEF	the
+CON	book
+NOW	is
+AND	beyond
+DEF	the
+CON	reach
+AND	of
+HAS	his
+CON	understanding
+NIL	.

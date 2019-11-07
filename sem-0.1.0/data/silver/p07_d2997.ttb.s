@@ -1,0 +1,10 @@
+EXS	Stop
+EXG	watching
+CON	TV
+NIL	.
+PRO	It
+FUT	will
+EXS	destroy
+HAS	your
+CON	brain
+NIL	.

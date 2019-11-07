@@ -1,0 +1,9 @@
+PRO	I
+NEC	ought
+SUB	to
+EXT	have
+EXS	told
+HAS	her
+DEF	the
+CON	truth
+NIL	.

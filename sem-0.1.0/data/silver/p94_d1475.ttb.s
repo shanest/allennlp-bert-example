@@ -1,0 +1,11 @@
+EXS	Let
+PRO	's
+CON	resume
+EXS	reading
+SUB	where
+PRO	we
+EPS	left
+REL	off
+IST	last
+CON	week
+NIL	.

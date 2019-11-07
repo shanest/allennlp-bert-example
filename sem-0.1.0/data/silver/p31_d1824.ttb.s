@@ -1,0 +1,14 @@
+CON	Footsteps
+AND	outside
+DEF	the
+CON	house
+NIL	.
+PRO	It
+EPS	sounded
+AND	like
+DIS	someone
+CON	jumping
+REL	from
+DEF	the
+CON	wall
+NIL	.

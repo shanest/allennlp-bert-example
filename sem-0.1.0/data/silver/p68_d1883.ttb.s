@@ -1,0 +1,10 @@
+PER	Tom
+ENS	doubts
+QUE	what
+EPS	happened
+NOW	today
+FUT	will
+IST	ever
+EXS	happen
+ALT	again
+NIL	.

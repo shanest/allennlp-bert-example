@@ -1,0 +1,9 @@
+GPE	Morocco
+NOW	is
+EXS	called
+NIL	"
+PER	Al-Maghrib
+NIL	"
+REL	in
+CON	Arabic
+NIL	.

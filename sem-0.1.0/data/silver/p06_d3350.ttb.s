@@ -1,0 +1,15 @@
+SUB	When
+PRO	you
+NOW	've
+EXS	finished
+EXG	reading
+DEF	the
+CON	book
+NIL	,
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	borrow
+PRO	it
+NIL	.

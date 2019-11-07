@@ -1,0 +1,10 @@
+EXS	Let
+DEF	the
+ROL	fathers
+EXS	be
+ROL	fathers
+AND	and
+DEF	the
+CON	sons
+CON	sons
+NIL	.

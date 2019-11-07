@@ -1,0 +1,11 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PRO	you
+NOW	're
+EXS	taking
+CON	pictures
+AND	of
+CON	cockroaches
+NIL	.

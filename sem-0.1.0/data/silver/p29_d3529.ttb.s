@@ -1,0 +1,11 @@
+AND	Kissing
+DIS	a
+CON	person
+AND	who
+ENS	smokes
+NOW	is
+AND	like
+EXG	licking
+DIS	an
+COL	ashtray
+NIL	.

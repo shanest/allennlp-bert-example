@@ -1,0 +1,12 @@
+IST	Please
+EXS	tell
+PRO	me
+PRO	you
+NOW	're
+EXS	getting
+PRX	this
+IST	ready
+REL	for
+HAS	my
+CON	birthday
+NIL	!

@@ -1,0 +1,11 @@
+PRO	I
+EPS	saw
+PRO	you
+EXS	working
+COO	and
+PRO	I
+PST	did
+NOT	n't
+EXS	bother
+PRO	you
+NIL	.

@@ -1,0 +1,9 @@
+HAS	My
+ROL	father
+NOW	does
+NOT	n't
+EXS	drink
+INT	too
+QUC	much
+CON	sake
+NIL	.

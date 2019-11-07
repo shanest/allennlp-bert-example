@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+EXS	said
+SUB	to
+EXS	be
+EXS	qualified
+AND	as
+DIS	a
+CON	doctor
+NIL	.

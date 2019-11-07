@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+QUE	why
+PRO	she
+NOW	's
+EXS	jealous
+AND	of
+PRO	me
+QUE	?

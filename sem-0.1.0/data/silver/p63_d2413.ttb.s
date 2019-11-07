@@ -1,0 +1,13 @@
+PRO	I
+NOW	wonder
+IMP	if
+PER	Tom
+ENS	is
+SUB	as
+EXS	excited
+AND	about
+PRX	this
+AND	as
+PER	Mary
+NOW	is
+NIL	.

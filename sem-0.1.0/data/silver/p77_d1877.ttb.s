@@ -1,0 +1,13 @@
+PER	Tom
+HAS	's
+CON	mother
+EPS	died
+IST	just
+QUC	one
+CON	week
+REL	before
+PER	Tom
+EPS	graduated
+REL	from
+CON	college
+NIL	.

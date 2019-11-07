@@ -1,0 +1,10 @@
+PRO	He
+EPS	took
+HAS	my
+CON	umbrella
+NOT	without
+AND	so
+QUV	much
+AND	as
+EXG	asking
+NIL	.

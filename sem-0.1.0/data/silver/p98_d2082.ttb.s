@@ -1,0 +1,11 @@
+NOW	Have
+NOT	n't
+PRO	I
+EPS	told
+PRO	you
+NOT	not
+SUB	to
+EXS	call
+PRO	me
+PER	Tom
+QUE	?

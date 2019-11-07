@@ -1,0 +1,16 @@
+EXS	Eat
+AND	all
+DEF	the
+CON	food
+REL	on
+HAS	your
+CON	plate
+SUB	because
+UNK	there
+NOW	are
+EXS	starving
+CON	children
+REL	in
+DEF	the
+CON	world
+NIL	.

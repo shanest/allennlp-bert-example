@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+EXS	stable
+SUB	because
+AND	all
+DEF	the
+CON	roots
+AND	of
+PRX	this
+CON	equation
+NOW	are
+IST	negative
+NIL	.

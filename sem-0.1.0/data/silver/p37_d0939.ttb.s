@@ -1,0 +1,9 @@
+QUE	What
+NOW	makes
+PRO	you
+NOW	think
+PRO	I
+NOW	'm
+EXS	hiding
+DIS	something
+QUE	?

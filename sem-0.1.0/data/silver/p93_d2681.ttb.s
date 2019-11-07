@@ -1,0 +1,16 @@
+HAS	Our
+ROL	sister
+EPS	bought
+DIS	some
+CON	eggplants
+EQU	,
+CON	potatoes
+EQU	,
+CON	zucchinis
+AND	and
+GPO	Chinese
+CON	cabbage
+REL	at
+DEF	the
+CON	market
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+ROL	princess
+EPS	gave
+HAS	her
+CON	lover
+DIS	a
+CON	sabre
+EXS	covered
+REL	with
+CON	gold
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	remember
+SUB	where
+PRO	he
+EPS	put
+HAS	his
+CON	pen
+NIL	.

@@ -1,0 +1,16 @@
+QUE	What
+NOW	is
+DEF	the
+CON	area
+AND	of
+IST	western
+GPE	Germany
+AND	that
+NOW	is
+EXS	known
+REL	for
+HAS	its
+IST	rich
+CON	coal
+CON	deposits
+QUE	?

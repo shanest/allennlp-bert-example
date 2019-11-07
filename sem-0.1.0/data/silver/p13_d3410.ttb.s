@@ -1,0 +1,10 @@
+PRO	You
+ENS	need
+NOT	not
+EXS	come
+REL	to
+DEF	the
+CON	office
+REL	on
+DOW	Saturdays
+NIL	.

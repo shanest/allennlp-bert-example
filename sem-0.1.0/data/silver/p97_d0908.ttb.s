@@ -1,0 +1,15 @@
+REL	At
+DEF	the
+CON	market
+SUB	where
+PRO	I
+EPS	bought
+DEF	the
+CON	vegetables
+NIL	,
+PRO	you
+POS	can
+ALT	also
+EXS	buy
+CON	flowers
+NIL	.

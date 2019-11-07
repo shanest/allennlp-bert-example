@@ -1,0 +1,13 @@
+ITJ	Oh
+HAS	my
+CON	God
+NIL	,
+PRO	she
+NOW	's
+EXS	wearing
+DEF	the
+IST	same
+CON	dress
+AND	as
+PRO	me
+NIL	!

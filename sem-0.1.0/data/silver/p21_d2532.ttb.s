@@ -1,0 +1,9 @@
+QUV	Many
+CON	people
+ENS	believe
+SUB	that
+CON	acupuncture
+POS	can
+EXS	cure
+CON	diseases
+NIL	.

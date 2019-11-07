@@ -1,0 +1,10 @@
+ORG	Health
+CON	advocates
+NOW	have
+EXS	pushed
+REL	for
+CON	laws
+EXS	restricting
+REL	work-place
+CON	smoking
+NIL	.

@@ -1,0 +1,11 @@
+PRO	We
+EPS	saw
+SUB	that
+DIS	a
+CON	nail
+PST	was
+EXS	stuck
+REL	in
+DEF	the
+CON	tyre
+NIL	.

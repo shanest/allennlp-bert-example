@@ -1,0 +1,11 @@
+PRO	I
+ENS	need
+DIS	a
+CON	bag
+NIL	.
+FUT	Will
+PRO	you
+EXS	lend
+PRO	me
+QUC	one
+QUE	?

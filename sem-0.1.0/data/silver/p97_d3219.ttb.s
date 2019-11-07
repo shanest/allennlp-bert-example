@@ -1,0 +1,9 @@
+PRO	I
+NOW	think
+PER	Tom
+NOW	is
+EXS	beating
+AND	around
+DEF	the
+CON	bush
+NIL	.

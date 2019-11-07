@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+EXS	standing
+REL	near
+DEF	the
+CON	end
+AND	of
+DEF	the
+CON	line
+NIL	.

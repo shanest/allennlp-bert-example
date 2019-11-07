@@ -1,0 +1,9 @@
+PRO	I
+EPS	saw
+PER	Tom
+HAS	's
+CON	name
+REL	on
+DEF	the
+CON	cover
+NIL	.

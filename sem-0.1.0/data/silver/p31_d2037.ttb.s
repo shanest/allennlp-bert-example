@@ -1,0 +1,12 @@
+PRO	I
+PST	was
+NOT	n't
+IST	able
+SUB	to
+EXS	remember
+DEF	the
+CON	title
+AND	of
+DST	that
+CON	song
+NIL	.

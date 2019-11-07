@@ -1,0 +1,10 @@
+DEF	The
+CON	principal
+EPS	shook
+CON	hands
+REL	with
+AND	each
+AND	of
+DEF	the
+CON	graduates
+NIL	.

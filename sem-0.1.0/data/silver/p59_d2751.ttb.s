@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+IST	actually
+NOT	never
+EXS	been
+REL	on
+DIS	a
+CON	date
+ALT	yet
+NIL	.

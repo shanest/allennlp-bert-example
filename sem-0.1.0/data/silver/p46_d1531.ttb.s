@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	given
+PRO	it
+DIS	a
+IST	second
+CON	thought
+NIL	.

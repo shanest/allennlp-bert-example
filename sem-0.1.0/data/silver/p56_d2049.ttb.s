@@ -1,0 +1,16 @@
+PRO	I
+IST	truly
+CON	value
+HAS	my
+CON	friends
+COO	and
+FUT	will
+NOT	never
+EXS	have
+NIL	"
+IST	enough
+NIL	"
+DIS	or
+IST	too
+QUV	many
+NIL	.

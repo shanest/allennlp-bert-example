@@ -1,0 +1,9 @@
+NOT	Never
+PST	did
+PRO	I
+CON	dream
+AND	of
+EXG	winning
+IST	first
+CON	prize
+NIL	.

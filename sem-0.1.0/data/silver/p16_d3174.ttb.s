@@ -1,0 +1,9 @@
+PRO	I
+PST	thought
+DIS	a
+CON	lot
+AND	about
+QUE	what
+PER	Tom
+EPS	said
+NIL	.

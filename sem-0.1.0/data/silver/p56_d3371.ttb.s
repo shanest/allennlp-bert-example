@@ -1,0 +1,15 @@
+PRO	They
+NOW	consider
+PRO	it
+EXS	impolite
+SUB	to
+EXS	disagree
+REL	with
+DIS	someone
+PRO	they
+NOW	do
+NOT	n't
+EXS	know
+INT	very
+IST	well
+NIL	.

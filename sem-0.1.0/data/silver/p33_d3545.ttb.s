@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+DIS	a
+CON	dress
+SUB	that
+PER	Mary
+EPS	made
+REL	by
+REF	herself
+NIL	.

@@ -1,0 +1,9 @@
+PRX	This
+CON	window
+NOW	has
+PFT	been
+EXS	broken
+REL	for
+DIS	a
+CON	month
+NIL	.

@@ -1,0 +1,16 @@
+AND	As
+IST	far
+AND	as
+CON	politics
+NOW	is
+EXS	concerned
+NIL	,
+PRO	he
+NOW	's
+IST	still
+SUB	as
+EXS	innocent
+AND	as
+DIS	a
+CON	child
+NIL	.

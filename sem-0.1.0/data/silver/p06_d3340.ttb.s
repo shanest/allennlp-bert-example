@@ -1,0 +1,14 @@
+SUB	While
+PRO	I
+ENS	understand
+QUE	what
+PRO	you
+NOW	say
+NIL	,
+PRO	I
+POS	ca
+NOT	n't
+EXS	agree
+REL	with
+PRO	you
+NIL	.

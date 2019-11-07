@@ -1,0 +1,11 @@
+PER	Tom
+EPS	hopped
+REL	into
+DEF	the
+CON	car
+COO	and
+EPS	put
+PRO	it
+REL	in
+CON	gear
+NIL	.

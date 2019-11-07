@@ -1,0 +1,12 @@
+PER	Tom
+IST	politely
+EPS	pretended
+NOT	not
+SUB	to
+EXS	notice
+SUB	that
+PER	Mary
+PST	had
+PFT	been
+EXS	crying
+NIL	.

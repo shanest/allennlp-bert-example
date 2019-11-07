@@ -1,0 +1,11 @@
+IST	Please
+NOW	think
+PRO	it
+AND	over
+COO	and
+EXS	let
+PRO	me
+EXS	know
+HAS	your
+CON	decision
+NIL	.

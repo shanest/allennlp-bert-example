@@ -1,0 +1,12 @@
+DEF	The
+CON	speed
+AND	of
+CON	light
+NOW	is
+QUV	much
+COM	greater
+AND	than
+DST	that
+AND	of
+CON	sound
+NIL	.

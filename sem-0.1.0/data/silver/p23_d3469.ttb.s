@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+NOT	not
+DEF	the
+ROL	captain
+AND	of
+DEF	the
+IST	new
+CON	team
+NIL	.

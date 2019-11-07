@@ -1,0 +1,17 @@
+REL	On
+HAS	my
+CON	days
+REL	off
+PRO	I
+NOW	look
+REL	after
+HAS	my
+CON	nephew
+COO	and
+EXS	go
+IST	out
+REL	for
+CON	dinner
+REL	with
+CON	friends
+NIL	.

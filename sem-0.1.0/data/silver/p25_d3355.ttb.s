@@ -1,0 +1,12 @@
+NOW	Is
+UNK	there
+DIS	a
+CON	rule
+AND	that
+ENS	says
+PRO	I
+POS	ca
+NOT	n't
+EXS	do
+PRX	this
+QUE	?

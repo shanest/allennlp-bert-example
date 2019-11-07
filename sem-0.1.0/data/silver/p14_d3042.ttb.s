@@ -1,0 +1,12 @@
+NIL	"
+PRO	He
+NOW	looks
+AND	like
+HAS	your
+ROL	father
+NIL	.
+NIL	"
+NIL	"
+QUE	What
+QUE	?
+NIL	"

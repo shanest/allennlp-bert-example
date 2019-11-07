@@ -1,0 +1,12 @@
+REL	By
+DEF	the
+CON	way
+NIL	,
+NOW	have
+PRO	you
+EPS	heard
+REL	from
+HAS	her
+REL	since
+CON	then
+QUE	?

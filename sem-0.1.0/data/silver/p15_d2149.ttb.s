@@ -1,0 +1,13 @@
+REL	At
+DEF	the
+CON	time
+PRO	we
+PST	got
+EXS	married
+NIL	,
+HAS	his
+CON	parents
+PST	had
+IST	already
+EXS	died
+NIL	.

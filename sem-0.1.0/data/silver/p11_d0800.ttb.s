@@ -1,0 +1,9 @@
+EXS	Get
+AND	over
+PRX	here
+COO	and
+EXS	be
+IST	quick
+AND	about
+PRO	it
+NIL	!

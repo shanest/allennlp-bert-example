@@ -1,0 +1,11 @@
+AND	Even
+SUB	though
+PRO	it
+PST	was
+INT	very
+EXS	cold
+NIL	,
+PRO	we
+EPS	went
+IST	out
+NIL	.

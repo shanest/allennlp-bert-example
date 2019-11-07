@@ -1,0 +1,11 @@
+DEF	The
+CON	company
+NEC	had
+SUB	to
+EXS	let
+QUC	many
+AND	of
+HAS	its
+ROL	employees
+ENS	go
+NIL	.

@@ -1,0 +1,9 @@
+QUE	What
+NOW	is
+DEF	the
+IST	traditional
+CON	dish
+EPS	served
+REL	at
+GEO	Wimbledon
+QUE	?

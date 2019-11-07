@@ -1,0 +1,16 @@
+PRO	It
+HAS	's
+NOT	not
+IST	nearly
+AND	as
+IST	cold
+NOW	today
+SUB	as
+PRO	I
+EPS	thought
+PRO	it
+PST	was
+EXS	going
+SUB	to
+EXS	be
+NIL	.

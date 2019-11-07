@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+INT	almost
+EXS	impossible
+SUB	to
+EXS	read
+PER	Tom
+HAS	's
+CON	handwriting
+NIL	.

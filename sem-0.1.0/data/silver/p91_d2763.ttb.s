@@ -1,0 +1,12 @@
+EXS	Did
+PER	Marika
+ENS	accept
+SUB	to
+EXS	come
+COO	and
+EXS	live
+REL	with
+PRO	you
+REL	in
+GPE	Algeria
+QUE	?

@@ -1,0 +1,11 @@
+PRO	I
+EPS	left
+GPE	Japan
+REL	for
+DEF	the
+IST	first
+CON	time
+REL	in
+QUC	ten
+CON	years
+NIL	.

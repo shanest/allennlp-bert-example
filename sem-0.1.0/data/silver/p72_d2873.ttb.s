@@ -1,0 +1,15 @@
+PRO	I
+IST	almost
+PST	did
+QUE	what
+PRO	you
+NOW	're
+EXS	accusing
+PRO	me
+AND	of
+NIL	,
+BUT	but
+PRO	I
+PST	did
+NOT	n't
+NIL	.

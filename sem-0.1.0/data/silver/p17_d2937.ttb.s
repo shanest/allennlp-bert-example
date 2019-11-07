@@ -1,0 +1,16 @@
+IMP	If
+XCL	only
+HAS	her
+CON	husband
+EPS	helped
+PRO	her
+NIL	,
+TOP	most
+AND	of
+HAS	her
+CON	problems
+REL	at
+CON	home
+FUT	would
+EXS	disappear
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+IMP	if
+PRO	I
+FUT	'll
+EXT	have
+CON	time
+SUB	to
+EXS	do
+PRO	it
+NIL	.

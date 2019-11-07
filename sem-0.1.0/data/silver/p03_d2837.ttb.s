@@ -1,0 +1,13 @@
+PER	Tom
+PST	was
+EXG	feeling
+REL	on
+CON	top
+AND	of
+DEF	the
+CON	world
+SUB	after
+EXG	getting
+DIS	a
+CON	promotion
+NIL	.

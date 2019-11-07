@@ -1,0 +1,17 @@
+PRO	I
+NOW	find
+PRO	it
+IST	difficult
+SUB	to
+EXS	believe
+SUB	that
+PRO	you
+AND	of
+AND	all
+CON	people
+NOW	have
+EXS	come
+REL	to
+PRX	this
+CON	place
+NIL	.

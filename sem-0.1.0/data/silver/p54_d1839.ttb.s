@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+NOT	no
+EXS	use
+EXG	pretending
+SUB	that
+PRO	you
+POS	ca
+NOT	n't
+EXS	speak
+GPO	French
+NIL	.

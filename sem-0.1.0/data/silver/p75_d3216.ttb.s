@@ -1,0 +1,9 @@
+PRO	I
+EPS	taught
+CON	French
+REL	to
+PER	Tom
+QUC	three
+CON	years
+PST	ago
+NIL	.

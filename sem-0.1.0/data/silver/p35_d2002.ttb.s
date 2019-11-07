@@ -1,0 +1,15 @@
+PRO	She
+PST	'd
+IST	just
+EXS	begun
+SUB	to
+EXS	read
+DEF	the
+CON	book
+SUB	when
+DIS	someone
+EPS	knocked
+REL	on
+DEF	the
+CON	door
+NIL	.

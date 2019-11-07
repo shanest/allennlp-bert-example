@@ -1,0 +1,10 @@
+PRO	She
+EPS	told
+PRO	him
+SUB	that
+PRO	she
+PST	did
+NOT	n't
+EXS	love
+PRO	him
+NIL	.

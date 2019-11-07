@@ -1,0 +1,10 @@
+PRO	I
+PST	thought
+PRO	I
+PST	'd
+NOT	never
+EXS	hear
+REL	from
+PRO	you
+ALT	again
+NIL	.

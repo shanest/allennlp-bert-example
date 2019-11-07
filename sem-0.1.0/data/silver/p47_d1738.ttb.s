@@ -1,0 +1,12 @@
+PER	Tom
+HAS	's
+CON	house
+NOW	is
+TOP	at
+EXS	least
+QUC	twice
+AND	as
+IST	big
+AND	as
+HAS	mine
+NIL	.

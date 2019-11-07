@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	afraid
+PRO	I
+NOW	'm
+EXS	coming
+IST	down
+REL	with
+DIS	a
+CON	cold
+NIL	.

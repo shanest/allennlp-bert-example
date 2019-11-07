@@ -1,0 +1,13 @@
+DEF	The
+CON	police
+EPS	found
+DIS	a
+CON	body
+EPS	washed
+IST	up
+REL	on
+DEF	the
+CON	beach
+AND	near
+PRX	here
+NIL	.

@@ -1,0 +1,15 @@
+NIL	"
+NOW	Are
+IST	there
+NOT	no
+CON	cakes
+EPS	left
+QUE	?
+NIL	"
+NIL	"
+PRO	I
+EPS	ate
+PRO	them
+AND	both
+NIL	.
+NIL	"

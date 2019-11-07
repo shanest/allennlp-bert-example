@@ -1,0 +1,9 @@
+PRX	This
+CON	custom
+EPS	became
+IST	extinct
+DIS	a
+IST	long
+CON	time
+PST	ago
+NIL	.

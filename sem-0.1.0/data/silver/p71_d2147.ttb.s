@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+PFT	been
+AND	over
+DIS	a
+CON	week
+REL	since
+PRO	I
+IST	last
+EPS	saw
+PER	Tom
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+AND	always
+NOW	have
+QUC	two
+CON	cups
+AND	of
+CON	coffee
+REL	in
+DEF	the
+CON	morning
+NIL	.

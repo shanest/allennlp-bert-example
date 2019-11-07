@@ -1,0 +1,9 @@
+PER	Tom
+POS	ca
+NOT	n't
+POS	possibly
+EXS	do
+AND	that
+REL	by
+REF	himself
+NIL	.

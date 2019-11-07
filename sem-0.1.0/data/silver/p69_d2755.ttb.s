@@ -1,0 +1,10 @@
+PRO	I
+FUT	will
+EXS	be
+XCL	only
+IST	too
+IST	pleased
+SUB	to
+EXS	help
+PRO	you
+NIL	.

@@ -1,0 +1,9 @@
+PRO	She
+NOW	is
+EXS	said
+SUB	to
+EXS	be
+DIS	a
+IST	domestic
+CON	woman
+NIL	.

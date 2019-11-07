@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+EXS	going
+SUB	to
+EXS	be
+IST	good
+REL	for
+PRO	you
+NIL	,
+ALT	too
+NIL	.

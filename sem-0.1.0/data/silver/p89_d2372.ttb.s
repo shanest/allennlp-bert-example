@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+UNK	difficult
+SUB	to
+EXS	have
+QUC	one
+HAS	's
+IST	own
+CON	house
+REL	in
+GEO	Tokyo
+NIL	.

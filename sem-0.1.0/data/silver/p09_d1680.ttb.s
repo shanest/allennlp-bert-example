@@ -1,0 +1,15 @@
+NOW	Do
+NOT	n't
+EXS	ruin
+HAS	my
+CON	fun
+REL	after
+AND	all
+DEF	the
+CON	pain
+SUB	that
+PRO	I
+EPS	put
+IST	myself
+AND	through
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+EPS	thought
+PRO	it
+PST	was
+NOT	n't
+EXS	supposed
+SUB	to
+CON	rain
+NOW	today
+NIL	.

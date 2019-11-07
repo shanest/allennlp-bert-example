@@ -1,0 +1,12 @@
+PRO	I
+PST	'd
+MOR	better
+EXS	get
+EXG	going
+NIL	.
+HAS	My
+ROL	father
+NOW	is
+IST	really
+IST	strict
+NIL	.

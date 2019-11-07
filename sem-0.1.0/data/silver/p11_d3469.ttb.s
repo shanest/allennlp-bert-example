@@ -1,0 +1,9 @@
+REL	In
+GPE	Japan
+PRO	we
+POS	may
+EXS	criticize
+DEF	the
+CON	government
+IST	freely
+NIL	.

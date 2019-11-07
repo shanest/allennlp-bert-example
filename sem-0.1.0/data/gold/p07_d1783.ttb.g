@@ -1,0 +1,11 @@
+DEF	The
+ART	Titanic
+EPS	sank
+REL	at
+CLO	02:20
+REL	on
+DOW	Monday
+NIL	,
+MOY	April
+DOM	15th
+NIL	.

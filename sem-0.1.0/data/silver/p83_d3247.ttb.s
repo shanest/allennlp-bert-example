@@ -1,0 +1,9 @@
+HAS	My
+CON	wife
+EPS	took
+IST	good
+CON	care
+AND	of
+PRX	this
+CON	dog
+NIL	.

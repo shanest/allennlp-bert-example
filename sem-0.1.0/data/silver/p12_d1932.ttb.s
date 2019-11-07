@@ -1,0 +1,16 @@
+PER	Tom
+EPS	liked
+SUB	to
+EXS	sit
+AND	outside
+AND	during
+DEF	the
+IST	warm
+CON	summer
+CON	nights
+AND	and
+CON	gaze
+REL	at
+DEF	the
+CON	stars
+NIL	.

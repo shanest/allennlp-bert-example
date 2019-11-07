@@ -1,0 +1,9 @@
+DEF	The
+IST	lost
+CON	child
+PST	was
+EXS	found
+REL	after
+QUC	two
+UOM	days
+NIL	.

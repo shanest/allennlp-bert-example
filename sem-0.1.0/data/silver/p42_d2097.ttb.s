@@ -1,0 +1,9 @@
+REL	In
+GPE	Japan
+AND	almost
+AND	all
+CON	roads
+NOW	are
+IST	single
+CON	lane
+NIL	.

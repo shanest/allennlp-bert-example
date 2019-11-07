@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	help
+PRO	him
+NOW	do
+HAS	his
+CON	homework
+NIL	.

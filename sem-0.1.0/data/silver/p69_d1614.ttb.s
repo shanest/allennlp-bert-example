@@ -1,0 +1,14 @@
+DIS	A
+CON	camel
+NOW	is
+NIL	,
+IST	so
+SUB	to
+EXS	speak
+NIL	,
+DIS	a
+CON	ship
+REL	on
+DEF	the
+CON	desert
+NIL	.

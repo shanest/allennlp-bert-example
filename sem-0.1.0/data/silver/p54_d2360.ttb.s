@@ -1,0 +1,10 @@
+PER	Tom
+EPS	saw
+DIS	something
+REL	in
+DEF	the
+CON	woods
+SUB	that
+EXS	scared
+PRO	him
+NIL	.

@@ -1,0 +1,13 @@
+EXS	Did
+PRO	you
+EXS	happen
+SUB	to
+EXS	hear
+QUE	what
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXG	talking
+IST	about
+QUE	?

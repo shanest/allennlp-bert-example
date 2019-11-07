@@ -1,0 +1,16 @@
+NIL	"
+FUT	Will
+PRO	they
+EXS	go
+REL	on
+EXS	strike
+ALT	again
+QUE	?
+NIL	"
+NIL	"
+PRO	I
+NOW	'm
+IST	afraid
+IST	so
+NIL	.
+NIL	"

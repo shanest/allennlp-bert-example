@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	not
+EXS	have
+CON	money
+REL	with
+PRO	me
+REL	at
+DEF	the
+NOW	moment
+NIL	.

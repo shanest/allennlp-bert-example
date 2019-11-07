@@ -1,0 +1,11 @@
+PRO	He
+EPS	showed
+CON	kindness
+REL	by
+EXG	giving
+PRO	me
+DIS	a
+CON	piece
+AND	of
+CON	advice
+NIL	.

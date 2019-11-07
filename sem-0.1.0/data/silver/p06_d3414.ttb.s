@@ -1,0 +1,10 @@
+PRO	We
+NOW	've
+EXS	got
+ALT	other
+CON	things
+SUB	to
+EXS	take
+CON	care
+AND	of
+NIL	.

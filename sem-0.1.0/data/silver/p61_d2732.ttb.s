@@ -1,0 +1,9 @@
+PER	Tom
+EPS	received
+DIS	a
+CON	fax
+REL	from
+PER	Mary
+PRX	this
+CON	morning
+NIL	.

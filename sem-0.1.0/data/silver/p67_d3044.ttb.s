@@ -1,0 +1,10 @@
+PRO	You
+NEC	ought
+SUB	to
+EXS	ask
+REL	for
+HAS	your
+CON	teacher
+HAS	's
+CON	permission
+NIL	.

@@ -1,0 +1,13 @@
+PRO	We
+EPS	found
+IST	out
+IST	recently
+SUB	that
+DIS	some
+CON	foxes
+EXS	live
+PRX	here
+REL	on
+PRX	this
+CON	mountain
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+EPS	committed
+CON	crimes
+NIL	,
+BUT	but
+PST	was
+NOT	never
+EXS	convicted
+NIL	.

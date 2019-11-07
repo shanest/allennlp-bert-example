@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+EPS	underestimated
+DEF	the
+CON	strength
+AND	of
+HAS	my
+CON	opponent
+NIL	.

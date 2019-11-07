@@ -1,0 +1,11 @@
+UNK	Windows
+NOW	is
+DEF	the
+INT	most
+IST	used
+EXG	operating
+CON	system
+REL	in
+DEF	the
+CON	world
+NIL	.

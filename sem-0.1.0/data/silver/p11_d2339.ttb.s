@@ -1,0 +1,9 @@
+PER	Tom
+EPS	watched
+DIS	a
+GPO	Japanese
+CON	movie
+EPS	subtitled
+REL	in
+GPO	French
+NIL	.

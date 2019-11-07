@@ -1,0 +1,12 @@
+DIS	A
+CON	boy
+AND	of
+QUC	seventeen
+NOW	is
+IST	usually
+AND	as
+IST	tall
+AND	as
+HAS	his
+CON	father
+NIL	.

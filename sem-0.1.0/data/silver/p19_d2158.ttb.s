@@ -1,0 +1,10 @@
+DEF	The
+IST	more
+ROL	volunteers
+PRO	you
+NOW	get
+NIL	,
+DEF	the
+IST	more
+CON	vandals
+NIL	.

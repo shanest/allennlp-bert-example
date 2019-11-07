@@ -1,0 +1,13 @@
+PRO	I
+EPS	told
+PER	Tom
+PRO	I
+PST	was
+EXS	interested
+REL	in
+EXS	buying
+QUC	one
+AND	of
+HAS	his
+CON	paintings
+NIL	.

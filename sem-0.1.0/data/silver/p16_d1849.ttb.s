@@ -1,0 +1,12 @@
+PRO	I
+POS	can
+NOT	not
+EXS	lie
+REL	to
+PER	Taninna
+NIL	.
+PRO	She
+HAS	's
+HAS	my
+ROL	wife
+NIL	.

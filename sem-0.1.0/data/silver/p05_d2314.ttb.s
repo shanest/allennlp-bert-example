@@ -1,0 +1,9 @@
+DEF	The
+ORG	Department
+AND	of
+ORG	Health
+NOW	is
+EXG	issuing
+DIS	a
+CON	warning
+NIL	.

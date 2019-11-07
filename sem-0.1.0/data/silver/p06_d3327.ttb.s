@@ -1,0 +1,13 @@
+PRO	You
+NEC	should
+XCL	only
+EXS	count
+REL	on
+CON	yourself--but
+AND	even
+IST	then
+NIL	,
+NOT	not
+INT	too
+QUV	much
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+ENS	knows
+QUE	how
+SUB	to
+EXS	swim
+AND	like
+DIS	a
+CON	fish
+NIL	.

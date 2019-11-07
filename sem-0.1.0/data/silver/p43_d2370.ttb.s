@@ -1,0 +1,11 @@
+PRO	I
+ENS	wish
+SUB	to
+EXS	revisit
+GPE	England
+REL	before
+PRO	I
+NOW	get
+IST	too
+COM	old
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+SUB	that
+PRO	I
+POS	ca
+NOT	n't
+EXS	come
+NOW	today
+NIL	.

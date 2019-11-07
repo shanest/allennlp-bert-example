@@ -1,0 +1,9 @@
+GEO	Haiku
+NOW	is
+DIS	a
+IST	poetic
+CON	form
+EXS	originating
+REL	in
+GPE	Japan
+NIL	.

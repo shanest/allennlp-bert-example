@@ -1,0 +1,14 @@
+PER	Pharamp
+ENS	wishes
+AND	everyone
+DIS	a
+IST	Merry
+TIM	Christmas
+AND	and
+DIS	a
+IST	great
+CON	summer
+REL	with
+QUV	many
+CON	concerts
+NIL	!

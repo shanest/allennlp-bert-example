@@ -1,0 +1,11 @@
+PRO	She
+EPS	looked
+REL	at
+PRO	him
+COO	and
+EPS	knew
+SUB	that
+PRO	he
+PST	was
+EXS	angry
+NIL	.

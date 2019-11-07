@@ -1,0 +1,10 @@
+DEF	The
+ROL	politician
+PST	was
+NOT	not
+IST	ashamed
+AND	of
+EXT	having
+EXS	taken
+CON	bribes
+NIL	.

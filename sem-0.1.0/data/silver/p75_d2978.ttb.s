@@ -1,0 +1,10 @@
+AND	Everyone
+ENS	knows
+SUB	that
+PRX	this
+CON	chemical
+NOW	is
+IST	harmful
+REL	to
+CON	man
+NIL	.

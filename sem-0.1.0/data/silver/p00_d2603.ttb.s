@@ -1,0 +1,12 @@
+PRX	These
+CON	letters
+NIL	,
+REL	in
+DEF	the
+IST	main
+NIL	,
+NOW	are
+REL	from
+HAS	my
+ROL	mother
+NIL	.

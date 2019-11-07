@@ -1,0 +1,10 @@
+PER	Tom
+NEC	should
+EXT	have
+EXT	paid
+CON	attention
+NIL	to
+QUE	what
+PER	Mary
+EPS	said
+NIL	.

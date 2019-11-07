@@ -1,0 +1,9 @@
+QUC	One
+CON	day
+NIL	,
+AND	all
+PRX	this
+FUT	will
+EXS	become
+HAS	yours
+NIL	.

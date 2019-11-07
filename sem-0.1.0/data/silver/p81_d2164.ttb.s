@@ -1,0 +1,11 @@
+PRO	I
+ENS	expect
+PRO	I
+FUT	'll
+NEC	have
+NIL	to
+EXS	do
+SUB	that
+REL	for
+PER	Tom
+NIL	.

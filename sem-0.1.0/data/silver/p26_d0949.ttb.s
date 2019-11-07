@@ -1,0 +1,13 @@
+DEF	The
+IST	main
+CON	reason
+EPS	was
+SUB	that
+PRO	he
+EPS	had
+INT	too
+IST	little
+CON	time
+REL	for
+PRO	it
+NIL	.

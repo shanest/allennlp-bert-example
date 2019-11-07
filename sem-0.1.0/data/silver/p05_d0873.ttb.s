@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+ENS	see
+HAS	his
+CON	house
+NIL	,
+PRO	you
+FUT	'll
+EXS	know
+SUB	that
+PRO	he
+NOW	is
+EXS	poor
+NIL	.

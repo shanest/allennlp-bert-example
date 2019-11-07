@@ -1,0 +1,17 @@
+PER	Tom
+ENS	says
+PRO	he
+POS	ca
+NOT	n't
+EXS	remember
+QUE	what
+PRO	he
+AND	and
+PER	Mary
+PST	were
+EXS	talking
+AND	about
+REL	at
+DST	that
+CON	time
+NIL	.

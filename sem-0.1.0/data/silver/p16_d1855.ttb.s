@@ -1,0 +1,16 @@
+DST	That
+CON	report
+PST	was
+EXS	important
+SUB	because
+PRO	it
+EPS	pointed
+IST	out
+AND	all
+DEF	the
+CON	errors
+DEF	the
+CON	committee
+PST	had
+EXS	made
+NIL	.

@@ -1,0 +1,9 @@
+PER	Maria
+NOW	is
+IST	probably
+GPE	Germany
+HAS	's
+TOP	most
+IST	talented
+ROL	artist
+NIL	.

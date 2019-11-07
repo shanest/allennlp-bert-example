@@ -1,0 +1,9 @@
+PER	Tom
+PST	was
+EXG	looking
+IST	forward
+SUB	to
+EXG	seeing
+PER	Mary
+ALT	again
+NIL	.

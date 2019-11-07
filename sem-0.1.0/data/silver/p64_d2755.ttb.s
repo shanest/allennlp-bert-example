@@ -1,0 +1,11 @@
+PER	Tom
+IST	never
+NEC	should
+EXT	've
+EXS	let
+PER	Mary
+AND	out
+AND	of
+HAS	his
+CON	sight
+NIL	.

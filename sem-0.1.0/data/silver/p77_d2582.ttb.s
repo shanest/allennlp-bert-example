@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	capable
+AND	of
+EXS	dealing
+REL	with
+CON	problems
+AND	like
+PRX	this
+EMP	myself
+NIL	.

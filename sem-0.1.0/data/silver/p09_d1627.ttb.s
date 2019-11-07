@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+NOW	prefer
+EXG	using
+IST	sanitary
+CON	napkins
+DIS	or
+CON	tampons
+QUE	?

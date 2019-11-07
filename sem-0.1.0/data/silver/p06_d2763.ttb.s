@@ -1,0 +1,9 @@
+PRO	He
+PST	had
+NOT	no
+CON	difficulty
+REL	in
+EXG	finding
+DEF	the
+CON	place
+NIL	.

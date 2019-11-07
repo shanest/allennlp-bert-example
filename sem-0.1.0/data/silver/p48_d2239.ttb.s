@@ -1,0 +1,12 @@
+PRO	It
+IST	never
+EPS	occurred
+REL	to
+PRO	me
+SUB	that
+PRO	she
+PST	was
+EXS	ill
+REL	in
+CON	hospital
+NIL	.

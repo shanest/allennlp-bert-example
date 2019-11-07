@@ -1,0 +1,14 @@
+PRO	You
+NEC	should
+EXT	've
+EXS	heard
+PRO	me
+NIL	.
+PRO	I
+EPS	shouted
+SUB	as
+EXS	loud
+SUB	as
+PRO	I
+POS	could
+NIL	.

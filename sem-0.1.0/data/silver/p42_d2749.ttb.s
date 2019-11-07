@@ -1,0 +1,16 @@
+PRO	I
+EPS	met
+QUC	two
+CON	foreigners
+NIL	,
+QUC	one
+PST	was
+REL	from
+GPE	Canada
+NIL	,
+COO	and
+DEF	the
+ALT	other
+REL	from
+GPE	England
+NIL	.

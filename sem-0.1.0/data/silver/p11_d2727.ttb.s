@@ -1,0 +1,10 @@
+PRO	I
+EPS	told
+PRO	him
+HAS	his
+CON	services
+PST	were
+NOT	no
+IST	longer
+EXS	required
+NIL	.

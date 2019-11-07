@@ -1,0 +1,11 @@
+QUE	What
+NOW	is
+DEF	the
+IST	Christmas
+CON	gift
+PRO	we
+NOW	are
+EXS	giving
+REL	to
+PRO	her
+QUE	?

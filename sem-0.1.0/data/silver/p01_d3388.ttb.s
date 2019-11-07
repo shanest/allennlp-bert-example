@@ -1,0 +1,13 @@
+IMP	If
+PRO	you
+CON	telephone
+HAS	her
+ALT	again
+NIL	,
+DST	that
+FUT	'll
+EXS	be
+DEF	the
+IST	last
+CON	straw
+NIL	!

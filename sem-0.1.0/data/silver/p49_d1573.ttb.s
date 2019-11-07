@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	being
+IST	sincere
+SUB	when
+PRO	I
+NOW	say
+SUB	that
+PRO	I
+ENS	love
+PRO	you
+NIL	.

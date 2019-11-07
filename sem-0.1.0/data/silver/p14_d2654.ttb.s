@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+DIS	a
+IST	complete
+CON	list
+AND	of
+AND	everything
+PER	Tom
+EPS	purchased
+NIL	.

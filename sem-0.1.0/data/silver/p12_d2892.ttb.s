@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+NOT	no
+CON	accident
+SUB	that
+PRO	she
+EPS	won
+DEF	the
+IST	first
+CON	prize
+NIL	.

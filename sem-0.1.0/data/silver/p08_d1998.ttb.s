@@ -1,0 +1,13 @@
+PRO	He
+EPS	played
+DIS	a
+CON	tune
+REL	for
+DEF	the
+CON	girl
+SUB	that
+PRO	he
+FUT	'd
+EXS	written
+REF	himself
+NIL	.

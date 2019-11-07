@@ -1,0 +1,9 @@
+PRO	She
+EPS	became
+DIS	a
+CON	teacher
+SUB	when
+PRO	she
+PST	was
+QUC	twenty
+NIL	.

@@ -1,0 +1,10 @@
+AND	Could
+PRO	you
+ENS	go
+COO	and
+EXS	see
+IMP	if
+PER	Tom
+NOW	is
+EXS	OK
+QUE	?

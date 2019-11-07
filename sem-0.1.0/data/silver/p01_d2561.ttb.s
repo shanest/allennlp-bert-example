@@ -1,0 +1,10 @@
+PER	Tom
+EPS	caught
+PER	Mary
+IST	secretly
+EXG	watching
+CON	soap
+CON	operas
+REL	at
+CON	night
+NIL	.

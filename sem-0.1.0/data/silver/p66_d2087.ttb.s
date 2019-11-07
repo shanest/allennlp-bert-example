@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	told
+AND	anyone
+AND	that
+HAS	my
+ROL	father
+NOW	is
+REL	in
+CON	prison
+NIL	.

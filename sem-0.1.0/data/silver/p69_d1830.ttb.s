@@ -1,0 +1,10 @@
+PER	Tom
+POS	can
+EXS	afford
+SUB	to
+EXS	buy
+PER	Mary
+AND	anything
+PRO	she
+ENS	wants
+NIL	.

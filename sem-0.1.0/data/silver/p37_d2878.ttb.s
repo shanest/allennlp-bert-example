@@ -1,0 +1,19 @@
+NIL	"
+NOW	Do
+PRO	you
+CON	mind
+IMP	if
+PRO	I
+NOW	call
+REL	on
+PRO	you
+AND	sometime
+QUE	?
+NIL	"
+NIL	"
+NOT	No
+NIL	,
+NOT	not
+EMP	at all
+NIL	.
+NIL	"

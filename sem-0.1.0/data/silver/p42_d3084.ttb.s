@@ -1,0 +1,13 @@
+SUB	Although
+PRO	she
+EPS	grew
+IST	up
+REL	in
+GPE	Japan
+NIL	,
+PRO	she
+IST	still
+ENS	speaks
+IST	fluent
+CON	English
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	picked
+DEF	the
+CON	diamond
+REL	up
+COO	and
+EPS	looked
+REL	at
+PRO	it
+NIL	.

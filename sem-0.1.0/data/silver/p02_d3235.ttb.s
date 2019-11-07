@@ -1,0 +1,12 @@
+REL	For
+DEF	the
+CON	authoress
+AND	of
+DST	that
+CON	book
+NIL	,
+CON	ladders
+NOW	are
+AND	always
+IST	steep
+NIL	.

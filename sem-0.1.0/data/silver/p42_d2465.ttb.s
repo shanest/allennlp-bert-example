@@ -1,0 +1,13 @@
+PRO	I
+NOW	've
+EXS	seen
+PRO	them
+NIL	,
+REL	at
+EXS	least
+NIL	,
+COO	and
+PRO	they
+NOW	are
+EXS	safe
+NIL	.

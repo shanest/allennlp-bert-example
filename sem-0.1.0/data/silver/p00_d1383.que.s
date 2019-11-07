@@ -1,0 +1,10 @@
+QUE	What
+CON	roller
+CON	coaster
+NOW	is
+DEF	the
+TOP	fastest
+REL	in
+DEF	the
+CON	world
+QUE	?

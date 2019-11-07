@@ -1,0 +1,13 @@
+PRO	We
+FUT	'll
+NEC	have
+NIL	to
+EXS	be
+IST	careful
+NOT	not
+NIL	to
+EXS	play
+REL	into
+HAS	his
+CON	hands
+NIL	.

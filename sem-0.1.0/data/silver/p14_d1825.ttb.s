@@ -1,0 +1,12 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	to
+EXS	listen
+IST	carefully
+NIL	,
+BUT	but
+PRO	she
+PST	did
+NOT	n't
+NIL	.

@@ -1,0 +1,16 @@
+NIL	"
+EXS	Let
+HAS	's
+CON	head
+IST	back
+NIL	.
+NIL	"
+NIL	"
+FUT	Shall
+PRO	we
+EXS	drop
+REL	by
+PER	McDonald
+HAS	's
+QUE	?
+NIL	"

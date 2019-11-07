@@ -1,0 +1,12 @@
+REL	In
+DEF	the
+IST	next
+QUC	four
+UOM	years
+NIL	,
+UOM	€
+QUC	15,000,000,000
+NEC	must
+EXS	be
+EXS	saved
+NIL	.

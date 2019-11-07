@@ -1,0 +1,12 @@
+GRE	Hello
+NIL	,
+POS	could
+PRO	you
+EXS	tell
+PRO	me
+SUB	where
+DIS	a
+CON	telephone
+CON	box
+NOW	is
+QUE	?

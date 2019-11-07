@@ -1,0 +1,10 @@
+ROL	Mr.
+PER	Sato
+EPS	asked
+PRO	me
+QUV	many
+CON	questions
+AND	about
+DEF	the
+CON	election
+NIL	.

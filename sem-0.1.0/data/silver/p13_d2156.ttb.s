@@ -1,0 +1,13 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	say
+QUE	what
+PRO	he
+PST	did
+SUB	that
+EPS	made
+PRO	you
+SUB	so
+EXS	angry
+NIL	.

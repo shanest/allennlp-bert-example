@@ -1,0 +1,12 @@
+PRO	He
+PST	was
+IST	mad
+REL	at
+PRO	me
+SUB	because
+PRO	I
+EPS	broke
+IST	up
+REL	with
+PRO	him
+NIL	.

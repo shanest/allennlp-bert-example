@@ -1,0 +1,10 @@
+SUB	When
+PRO	he
+EPS	saw
+DEF	the
+CON	policeman
+NIL	,
+PRO	he
+EPS	ran
+IST	away
+NIL	.

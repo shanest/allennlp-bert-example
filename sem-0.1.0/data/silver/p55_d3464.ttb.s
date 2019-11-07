@@ -1,0 +1,13 @@
+PRO	She
+NOW	is
+EXS	said
+SUB	to
+EXT	have
+EXS	been
+DIS	an
+CON	actress
+AND	about
+QUC	twenty
+CON	years
+PST	ago
+NIL	.

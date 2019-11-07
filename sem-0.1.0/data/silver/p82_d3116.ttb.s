@@ -1,0 +1,12 @@
+PRO	He
+NOW	has
+NOT	not
+PFT	been
+IST	able
+SUB	to
+EXS	attend
+CON	school
+REL	for
+DIS	a
+CON	week
+NIL	.

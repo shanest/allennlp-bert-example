@@ -1,0 +1,13 @@
+SUB	Once
+PRO	you
+NOW	have
+EXS	begun
+SUB	to
+EXS	do
+DIS	anything
+NIL	,
+NOT	never
+EXS	give
+PRO	it
+IST	up
+NIL	.

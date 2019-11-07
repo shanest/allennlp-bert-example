@@ -1,0 +1,9 @@
+PER	Tom
+EPS	stepped
+IST	aside
+COO	and
+EXS	let
+PER	Mary
+ENS	walk
+REL	in
+NIL	.

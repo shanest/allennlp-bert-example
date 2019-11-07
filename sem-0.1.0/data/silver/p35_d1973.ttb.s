@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+ALT	also
+EXS	thinking
+AND	of
+EXS	going
+REL	to
+GPE	Korea
+NIL	.

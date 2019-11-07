@@ -1,0 +1,10 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	tell
+PER	Tom
+REL	about
+QUE	what
+PRO	we
+EPS	did
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+PST	begged
+PER	Mary
+SUB	to
+EXS	give
+PRO	him
+QUC	one
+IST	more
+CON	chance
+NIL	.

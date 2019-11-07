@@ -1,0 +1,10 @@
+HAS	My
+ROL	mother
+PST	was
+INT	very
+EXS	weak
+REL	from
+DIS	a
+IST	long
+CON	illness
+NIL	.

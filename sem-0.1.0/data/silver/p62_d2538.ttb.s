@@ -1,0 +1,14 @@
+PRO	It
+HAS	's
+IST	worth
+EXS	going
+REL	to
+GPE	Bali
+SUB	because
+PRO	you
+POS	can
+EXS	see
+DEF	the
+IST	amazing
+CON	sunset
+NIL	.

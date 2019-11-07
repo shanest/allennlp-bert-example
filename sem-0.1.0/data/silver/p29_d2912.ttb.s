@@ -1,0 +1,10 @@
+PRO	They
+NOW	've
+PFT	been
+EXS	spending
+DIS	a
+CON	lot
+AND	of
+CON	time
+IST	together
+NIL	.

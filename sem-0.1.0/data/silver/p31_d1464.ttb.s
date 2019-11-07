@@ -1,0 +1,14 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	marry
+PRO	him
+NIL	,
+BUT	but
+PRO	she
+EPS	turned
+IST	down
+HAS	his
+CON	proposal
+NIL	.

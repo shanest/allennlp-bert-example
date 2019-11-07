@@ -1,0 +1,11 @@
+PRO	He
+NOW	defends
+AND	everybody
+NIL	,
+SUB	whether
+PRO	they
+NOW	are
+EXS	rich
+DIS	or
+CON	poor
+NIL	.

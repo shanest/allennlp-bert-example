@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+PFT	been
+QUC	three
+CON	years
+SUB	since
+PRO	they
+PST	got
+EXS	married
+NIL	.

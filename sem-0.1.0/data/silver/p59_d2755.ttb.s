@@ -1,0 +1,13 @@
+DIS	A
+CON	person
+REL	with
+DIS	a
+CON	BMI
+AND	of
+QUC	25
+REL	to
+QUC	29
+NOW	is
+EXS	considered
+EXS	overweight
+NIL	.

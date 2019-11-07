@@ -1,0 +1,11 @@
+PRO	I
+PST	thought
+PRO	you
+PST	were
+EXS	going
+SUB	to
+EXS	wear
+HAS	your
+IST	new
+CON	suit
+NIL	.

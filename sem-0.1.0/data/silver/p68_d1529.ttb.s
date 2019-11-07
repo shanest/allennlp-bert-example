@@ -1,0 +1,10 @@
+PER	Tom
+EPS	committed
+CON	suicide
+SUB	because
+PRO	he
+PST	was
+EXS	bullied
+REL	at
+CON	school
+NIL	.

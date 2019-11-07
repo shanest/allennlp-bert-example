@@ -1,0 +1,13 @@
+AND	As
+IST	soon
+SUB	as
+PRO	he
+EPS	sat
+IST	down
+NIL	,
+PRO	he
+EPS	picked
+IST	up
+DEF	the
+CON	telephone
+NIL	.

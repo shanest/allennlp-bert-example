@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	clear
+SUB	that
+PRO	we
+POS	can
+NOT	not
+EXS	live
+NOT	without
+CON	air
+NIL	.

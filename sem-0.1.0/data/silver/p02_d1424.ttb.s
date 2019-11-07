@@ -1,0 +1,16 @@
+IMP	If
+DEF	the
+CON	weather
+FUT	's
+EXS	good
+FUT	tomorrow
+NIL	,
+EXS	let
+PRO	's
+ENS	go
+REL	to
+DEF	the
+CON	river
+SUB	to
+EXS	swim
+NIL	.

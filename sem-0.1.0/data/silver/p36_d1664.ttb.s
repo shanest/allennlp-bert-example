@@ -1,0 +1,13 @@
+QUE	How
+IST	long
+NOW	are
+PRO	you
+EXS	going
+SUB	to
+EXS	keep
+EXG	giving
+PRO	me
+DEF	the
+IST	silent
+CON	treatment
+QUE	?

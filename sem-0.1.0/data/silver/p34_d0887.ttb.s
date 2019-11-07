@@ -1,0 +1,14 @@
+PRO	He
+EPS	made
+DIS	an
+IST	official
+CON	visit
+REL	to
+DEF	the
+GPO	French
+ROL	president
+DEF	the
+CON	day
+REL	before
+PST	yesterday
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+PST	was
+DIS	a
+CON	man
+AND	who
+NOT	never
+EPS	hesitated
+SUB	to
+EXS	disagree
+NIL	.

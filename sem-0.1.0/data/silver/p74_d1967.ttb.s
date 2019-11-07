@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	talk
+REL	to
+HAS	my
+ROL	lawyer
+IST	straight
+IST	away
+NIL	.

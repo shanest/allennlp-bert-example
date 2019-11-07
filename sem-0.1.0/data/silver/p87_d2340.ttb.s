@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+IST	afraid
+PRO	we
+FUT	wo
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	help
+PRO	you
+FUT	tomorrow
+NIL	.

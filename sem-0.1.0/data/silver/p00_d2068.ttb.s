@@ -1,0 +1,15 @@
+NIL	"
+PRO	You
+NOT	never
+EPS	told
+PRO	me
+SUB	that
+NIL	!
+NIL	"
+NIL	"
+ITJ	Yes
+NIL	,
+PRO	I
+PST	did
+NIL	!
+NIL	"

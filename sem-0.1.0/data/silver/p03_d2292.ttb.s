@@ -1,0 +1,10 @@
+PER	Tom
+EPS	took
+DIS	a
+CON	year
+REL	off
+SUB	to
+EXS	write
+DIS	a
+CON	book
+NIL	.

@@ -1,0 +1,10 @@
+IST	Please
+EXS	tell
+PER	Tom
+AND	everything
+PRO	we
+ENS	want
+PRO	him
+SUB	to
+EXS	know
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	think
+PER	Tom
+ENS	hates
+DEF	the
+CON	way
+PRO	I
+ENS	sing
+NIL	.

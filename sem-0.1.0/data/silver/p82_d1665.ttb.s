@@ -1,0 +1,14 @@
+PER	Mary
+HAS	's
+CON	mother
+EPS	took
+DIS	a
+CON	liking
+REL	to
+PER	Tom
+DEF	the
+CON	moment
+PRO	she
+EPS	met
+PRO	him
+NIL	.

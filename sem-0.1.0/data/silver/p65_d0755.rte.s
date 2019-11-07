@@ -1,0 +1,33 @@
+GEO	U.S.
+CON	space shuttle
+CON	Atlantis
+AND	and
+HAS	its
+IST	seven-member
+CON	crew
+EPS	concluded
+HAS	their
+CON	pursuit
+AND	of
+DEF	the
+ORG	International
+ORG	Space Station
+SUB	(
+UNK	ISS
+NIL	)
+REL	on
+DOW	Wednesday
+AND	and
+EPS	docked
+REL	with
+DEF	the
+IST	orbital
+CON	outpost
+REL	at
+CLO	12:05
+NIL	EDT
+SUB	(
+CLO	1605
+NIL	GMT
+NIL	)
+NIL	.

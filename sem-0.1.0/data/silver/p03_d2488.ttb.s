@@ -1,0 +1,9 @@
+AND	Actually
+PRO	it
+NOW	is
+NOT	n't
+DIS	a
+CON	theory
+AND	of
+HAS	mine
+NIL	.

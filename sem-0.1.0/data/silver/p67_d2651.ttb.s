@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+HAS	my
+CON	answer
+NOW	is
+NOT	no
+NIL	.

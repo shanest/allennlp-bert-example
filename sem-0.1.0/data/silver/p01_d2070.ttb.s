@@ -1,0 +1,10 @@
+ITJ	Oh
+HAS	my
+CON	God
+NIL	,
+PRO	I
+IST	so
+ENS	hate
+PRX	this
+CON	movie
+NIL	!

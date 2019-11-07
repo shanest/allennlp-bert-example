@@ -1,0 +1,12 @@
+ROL	Uncle
+PER	Bob
+EPS	fixed
+HAS	my
+CON	clock
+NIL	.
+PRO	It
+ENS	keeps
+IST	good
+CON	time
+NOW	now
+NIL	.

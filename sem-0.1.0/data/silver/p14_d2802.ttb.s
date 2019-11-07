@@ -1,0 +1,10 @@
+PER	Robert
+ENS	comes
+SUB	to
+EXS	visit
+PRO	me
+AND	every
+NOW	now
+AND	and
+IST	then
+NIL	.

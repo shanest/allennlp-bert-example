@@ -1,0 +1,12 @@
+DEF	The
+CON	foreigner
+EPS	spoke
+CON	Japanese
+AND	as
+IMP	if
+PRO	it
+PST	were
+HAS	her
+CON	mother
+CON	tongue
+NIL	.

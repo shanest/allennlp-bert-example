@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+EXS	known
+PER	Tom
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

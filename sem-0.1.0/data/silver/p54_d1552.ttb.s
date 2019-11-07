@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	see
+AND	who
+PER	Tom
+NOW	is
+EXS	talking
+REL	to
+NIL	.

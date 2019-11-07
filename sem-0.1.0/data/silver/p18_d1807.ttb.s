@@ -1,0 +1,15 @@
+HAS	My
+ROL	mother
+IST	always
+ENS	says
+NIL	,
+NIL	"
+PRO	You
+XCL	only
+ENS	have
+SUB	to
+EXS	study
+IST	hard
+NOW	now
+NIL	.
+NIL	"

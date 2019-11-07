@@ -1,0 +1,11 @@
+PRO	I
+EPS	gave
+PER	Tom
+AND	all
+DEF	the
+CON	money
+PRO	I
+PST	had
+REL	on
+PRO	me
+NIL	.

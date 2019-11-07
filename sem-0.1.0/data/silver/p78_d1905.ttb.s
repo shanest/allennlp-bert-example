@@ -1,0 +1,9 @@
+DEF	The
+CON	couple
+EPS	parted
+NIL	,
+NOT	never
+SUB	to
+EXS	meet
+ALT	again
+NIL	.

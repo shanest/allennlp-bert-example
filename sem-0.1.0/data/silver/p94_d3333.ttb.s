@@ -1,0 +1,9 @@
+PRO	I
+NOW	study
+GPO	French
+NIL	.
+PRO	I
+ALT	also
+NOW	study
+GPO	German
+NIL	.

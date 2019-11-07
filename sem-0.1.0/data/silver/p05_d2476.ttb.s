@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	accountable
+REL	to
+PRO	him
+REL	for
+DEF	the
+CON	loss
+NIL	.

@@ -1,0 +1,54 @@
+PER	Arnold Schwarzenegger
+NIL	,
+TOP	best
+EXS	known
+REL	for
+HAS	his
+CON	role
+REL	in
+DEF	The
+ROL	Terminator
+AND	and
+EXS	being
+DEF	the
+ROL	Governor
+AND	of
+GEO	California
+NIL	(
+AND	which
+EPS	earned
+PRO	him
+DEF	the
+CON	nickname
+DEF	The
+ROL	Governator
+NIL	)
+NIL	,
+NOW	has
+PFT	been
+EXS	invited
+REL	by
+DEF	the
+ROL	Prime Minister
+HAS	's
+ORG	Office
+SUB	to
+EXS	visit
+GPE	Canada
+NIL	.
+PER	Schwarzenegger
+NOW	is
+EXS	reported
+SUB	to
+EXS	have
+MOR	higher
+CON	expectations
+REL	for
+EXG	reducing
+CON	greenhouse
+CON	gas
+CON	emissions
+AND	than
+ROL	Prime Minister
+PER	Stephen Harper
+NIL	.

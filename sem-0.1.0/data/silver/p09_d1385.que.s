@@ -1,0 +1,12 @@
+QUE	How
+QUV	much
+PST	did
+DIS	a
+CON	quart
+AND	of
+CON	milk
+CON	cost
+REL	in
+DEF	the
+CON	1930's
+QUE	?

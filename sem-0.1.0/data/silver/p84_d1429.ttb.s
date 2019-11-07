@@ -1,0 +1,10 @@
+UNK	There
+NEC	must
+EXS	be
+ALT	another
+CON	way
+PRO	we
+POS	can
+EXS	help
+PER	Tom
+NIL	.

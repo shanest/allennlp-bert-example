@@ -1,0 +1,10 @@
+QUV	Many
+CON	years
+NOW	have
+PFT	been
+EXS	spent
+REL	in
+CON	building
+DEF	the
+CON	tower
+NIL	.

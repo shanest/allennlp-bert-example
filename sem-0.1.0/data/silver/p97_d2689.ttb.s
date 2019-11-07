@@ -1,0 +1,9 @@
+PRO	They
+NOW	've
+PFT	been
+IST	out
+IST	there
+DIS	a
+IST	long
+CON	time
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+POS	could
+NOT	n't
+EXT	have
+EXS	done
+PRO	it
+NOT	without
+PRO	you
+NIL	.
+EXS	Thank
+PRO	you
+NIL	.

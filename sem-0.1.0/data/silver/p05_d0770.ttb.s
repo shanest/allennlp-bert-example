@@ -1,0 +1,11 @@
+DIS	An
+CON	opinion
+NOW	is
+EXS	shocking
+XCL	only
+IMP	if
+PRO	it
+NOW	is
+DIS	a
+CON	conviction
+NIL	.

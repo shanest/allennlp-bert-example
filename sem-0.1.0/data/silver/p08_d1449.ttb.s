@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+INT	pretty
+IST	sure
+PRO	I
+FUT	'll
+NOT	never
+EXS	see
+PER	Tom
+ALT	again
+NIL	.

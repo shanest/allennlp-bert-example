@@ -1,0 +1,10 @@
+PER	Tom
+EPS	got
+DIS	an
+SCO	A
+REL	on
+HAS	his
+IST	last
+GPO	French
+CON	test
+NIL	.

@@ -1,0 +1,10 @@
+FUT	Shall
+PRO	I
+EXS	get
+PRO	you
+DIS	a
+CON	ticket
+REL	for
+DEF	the
+CON	concert
+QUE	?

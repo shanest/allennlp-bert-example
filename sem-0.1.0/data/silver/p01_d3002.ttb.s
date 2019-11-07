@@ -1,0 +1,10 @@
+QUE	What
+HAS	's
+EXS	wrong
+REL	with
+EXG	running
+AND	around
+HAS	your
+CON	house
+IST	naked
+QUE	?

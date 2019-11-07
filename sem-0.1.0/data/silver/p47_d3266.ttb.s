@@ -1,0 +1,12 @@
+PRO	We
+EPS	thought
+SUB	that
+PRO	you
+FUT	would
+NOT	not
+EXS	come
+AND	because
+AND	of
+HAS	your
+CON	commitments
+NIL	.

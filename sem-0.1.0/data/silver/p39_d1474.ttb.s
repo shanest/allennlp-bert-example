@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+INT	very
+QUC	much
+AND	against
+QUE	what
+PRO	you
+NOW	're
+EXS	suggesting
+NIL	.

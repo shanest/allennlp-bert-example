@@ -1,0 +1,9 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	thank
+PER	Mary
+REL	for
+DEF	the
+CON	gift
+NIL	.

@@ -1,0 +1,9 @@
+PRO	We
+NOW	've
+IST	really
+EXS	got
+SUB	to
+EXS	step
+REL	on
+PRO	it
+NIL	.

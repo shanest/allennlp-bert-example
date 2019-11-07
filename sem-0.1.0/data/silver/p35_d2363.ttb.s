@@ -1,0 +1,11 @@
+DEF	The
+EXT	lost
+CON	boy
+EPS	held
+IST	out
+REL	until
+DEF	the
+CON	rescue
+CON	team
+EPS	came
+NIL	.

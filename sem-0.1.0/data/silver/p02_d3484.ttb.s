@@ -1,0 +1,11 @@
+REL	In
+TOP	most
+CON	countries
+NIL	,
+ROL	teachers
+NOW	do
+NOT	not
+EXS	receive
+IST	high
+CON	wages
+NIL	.

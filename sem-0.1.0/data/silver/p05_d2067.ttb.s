@@ -1,0 +1,12 @@
+NOW	Are
+PRO	you
+IST	sure
+PER	Tom
+PST	did
+NOT	n't
+EXS	pick
+PER	Mary
+IST	up
+REL	at
+CON	school
+QUE	?

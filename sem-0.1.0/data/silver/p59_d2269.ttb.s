@@ -1,0 +1,10 @@
+PRO	He
+EPS	requested
+SUB	that
+PRO	I
+ENS	come
+PRX	here
+ALT	again
+PRX	this
+CON	afternoon
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+EQU	's
+NOT	not
+DIS	a
+CON	crow
+NIL	.
+PRO	It
+EQU	's
+DIS	a
+CON	raven
+NIL	.

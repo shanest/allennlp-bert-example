@@ -1,0 +1,9 @@
+PRO	She
+EPS	ran
+DEF	the
+CON	risk
+AND	of
+EXG	having
+DIS	an
+CON	accident
+NIL	.

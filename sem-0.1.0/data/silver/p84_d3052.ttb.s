@@ -1,0 +1,11 @@
+SUB	When
+PST	did
+PER	Tom
+EXS	find
+IST	out
+SUB	that
+PER	Mary
+PST	was
+EXS	seeing
+PER	John
+QUE	?

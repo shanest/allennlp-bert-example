@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+IST	certain
+PRO	you
+NOW	've
+EXS	made
+DEF	the
+IST	right
+CON	decision
+QUE	?

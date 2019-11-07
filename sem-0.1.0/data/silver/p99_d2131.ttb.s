@@ -1,0 +1,10 @@
+PRX	This
+CON	cathedral
+PST	was
+EXS	built
+MOR	more
+MOR	than
+QUC	four
+CON	centuries
+PST	ago
+NIL	.

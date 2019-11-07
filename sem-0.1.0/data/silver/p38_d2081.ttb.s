@@ -1,0 +1,10 @@
+PRO	I
+EPS	spoke
+REL	to
+PER	Tom
+AND	just
+DIS	a
+IST	few
+CON	minutes
+PST	ago
+NIL	.

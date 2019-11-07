@@ -1,0 +1,13 @@
+AND	So
+IST	far
+NIL	,
+NOT	nobody
+HAS	's
+EPS	laughed
+REL	at
+AND	any
+AND	of
+PER	Tom
+HAS	's
+CON	jokes
+NIL	.

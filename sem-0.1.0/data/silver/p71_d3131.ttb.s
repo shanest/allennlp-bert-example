@@ -1,0 +1,9 @@
+PRO	I
+IST	just
+ENS	want
+PRX	this
+SUB	to
+NOT	never
+EXS	happen
+ALT	again
+NIL	.

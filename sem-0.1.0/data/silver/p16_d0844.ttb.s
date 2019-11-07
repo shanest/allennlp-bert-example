@@ -1,0 +1,16 @@
+QUE	What
+PRO	they
+EPS	said
+SUB	to
+PRO	you
+NOW	is
+EQU	exactly
+DEF	the
+CON	opposite
+AND	of
+QUE	what
+PRO	they
+EPS	told
+PRO	me
+PST	yesterday
+NIL	.

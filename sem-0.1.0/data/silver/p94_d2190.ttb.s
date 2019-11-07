@@ -1,0 +1,9 @@
+GPE	Japan
+NOW	is
+INT	highly
+EXS	competitive
+REL	in
+IST	high
+CON	technology
+CON	industries
+NIL	.

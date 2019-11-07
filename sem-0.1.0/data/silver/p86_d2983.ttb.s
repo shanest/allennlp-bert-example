@@ -1,0 +1,11 @@
+PRO	He
+EPS	abandoned
+HAS	his
+CON	family
+COO	and
+EPS	went
+SUB	to
+EXS	live
+REL	in
+GEO	Tahiti
+NIL	.

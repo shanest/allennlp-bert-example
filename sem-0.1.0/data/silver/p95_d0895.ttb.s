@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	studying
+REL	in
+GEO	China
+REL	for
+QUC	ten
+CON	months
+NIL	.

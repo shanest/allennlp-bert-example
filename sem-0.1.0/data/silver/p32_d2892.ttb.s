@@ -1,0 +1,12 @@
+PRO	I
+ENS	admit
+NIL	,
+REL	at
+DST	that
+CON	time
+PRO	I
+PST	was
+DIS	a
+IST	little
+EXS	drunk
+NIL	.

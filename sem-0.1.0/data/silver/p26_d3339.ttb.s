@@ -1,0 +1,13 @@
+PRO	You
+NOT	never
+EXS	listen
+NIL	.
+PRO	I
+POS	might
+AND	as
+IST	well
+EXS	talk
+REL	to
+DEF	the
+CON	wall
+NIL	.

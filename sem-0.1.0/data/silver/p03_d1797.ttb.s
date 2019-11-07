@@ -1,0 +1,12 @@
+DEF	The
+ROL	politician
+EPS	had
+SUB	to
+EXS	take
+IST	back
+HAS	his
+CON	words
+COO	and
+EXS	eat
+CON	crow
+NIL	.

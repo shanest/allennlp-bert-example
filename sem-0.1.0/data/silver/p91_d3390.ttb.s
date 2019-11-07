@@ -1,0 +1,13 @@
+IMP	If
+PRO	you
+NOW	complain
+IST	further
+NIL	,
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	get
+IST	really
+EXS	angry
+NIL	.

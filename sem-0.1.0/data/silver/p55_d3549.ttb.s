@@ -1,0 +1,9 @@
+POS	May
+PRO	I
+NOW	have
+DIS	a
+CON	look
+REL	at
+HAS	your
+CON	ticket
+QUE	?

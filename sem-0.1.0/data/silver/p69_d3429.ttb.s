@@ -1,0 +1,17 @@
+NIL	"
+PER	Wo
+NOT	n't
+PRO	you
+EXS	come
+REL	with
+PRO	us
+QUE	?
+NIL	"
+NIL	"
+PRO	I
+FUT	'd
+EXS	be
+IST	glad
+SUB	to
+NIL	.
+NIL	"

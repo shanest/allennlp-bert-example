@@ -1,0 +1,12 @@
+PER	Recreativo
+PER	de
+PER	Huelva
+PST	was
+DEF	the
+IST	first
+CON	football
+CON	club
+EXS	founded
+REL	in
+GPE	Spain
+NIL	.

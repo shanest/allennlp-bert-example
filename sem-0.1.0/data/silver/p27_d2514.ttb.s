@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	having
+DIS	a
+CON	bash
+EMP	myself
+REL	at
+DEF	the
+CON	ballet
+NIL	.

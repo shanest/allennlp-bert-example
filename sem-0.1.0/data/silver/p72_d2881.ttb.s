@@ -1,0 +1,9 @@
+AND	Now
+NIL	,
+PRO	I
+NOW	'm
+EXS	going
+REL	to
+HAS	my
+CON	room
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+DIS	a
+IST	great
+CON	honor
+SUB	to
+EXS	be
+IST	able
+SUB	to
+EXS	meet
+PRO	you
+NIL	.

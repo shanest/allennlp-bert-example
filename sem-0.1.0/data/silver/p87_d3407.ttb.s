@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	looking
+IST	forward
+SUB	to
+EXS	getting
+HAS	your
+CON	letter
+NIL	.

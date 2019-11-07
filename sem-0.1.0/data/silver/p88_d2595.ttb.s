@@ -1,0 +1,9 @@
+PRO	I
+NOW	suppose
+PRO	you
+NOW	think
+PER	Tom
+NOW	is
+IST	really
+EXS	stupid
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+NOW	looks
+AND	like
+PRO	you
+CON	guys
+EXT	have
+EXS	done
+DIS	some
+IST	serious
+EXS	studying
+NIL	!

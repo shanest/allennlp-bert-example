@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+UNK	difficult
+SUB	to
+EXS	finish
+DEF	the
+CON	work
+REL	in
+DIS	a
+CON	day
+NIL	.

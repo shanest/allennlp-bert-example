@@ -1,0 +1,10 @@
+PRO	I
+ENS	go
+REL	to
+CON	bed
+REL	at
+APX	around
+CLO	ten
+REL	at
+CON	night
+NIL	.

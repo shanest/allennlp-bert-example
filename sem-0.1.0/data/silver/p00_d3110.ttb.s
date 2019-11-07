@@ -1,0 +1,10 @@
+NIL	There
+ENS	seem
+NIL	to
+EXS	be
+IST	several
+CON	reasons
+REL	for
+HAS	his
+CON	failure
+NIL	.

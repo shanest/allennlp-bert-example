@@ -1,0 +1,10 @@
+PRO	He
+EPS	sawed
+REL	off
+DEF	the
+CON	branch
+PRO	he
+PST	was
+EXS	sitting
+REL	on
+NIL	.

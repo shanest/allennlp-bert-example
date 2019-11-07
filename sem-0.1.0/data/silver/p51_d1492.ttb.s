@@ -1,0 +1,12 @@
+UNK	There
+PST	was
+DIS	a
+IST	large
+CON	sound
+SUB	when
+PRO	I
+PST	was
+EXS	reading
+DIS	a
+CON	book
+NIL	.

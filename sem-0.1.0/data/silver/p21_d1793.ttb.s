@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+EXT	bought
+PRO	me
+DIS	a
+CON	pair
+AND	of
+CON	shoes
+NIL	.

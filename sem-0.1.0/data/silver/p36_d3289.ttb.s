@@ -1,0 +1,15 @@
+PRO	You
+NOW	're
+DEF	the
+XCL	only
+QUC	one
+AND	who
+ENS	knows
+QUE	how
+SUB	to
+EXS	get
+REL	to
+PER	Tom
+HAS	's
+CON	house
+NIL	.

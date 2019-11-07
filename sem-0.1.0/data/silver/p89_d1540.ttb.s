@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	regrettable
+SUB	that
+PRO	she
+NEC	should
+EXT	have
+EXS	died
+SUB	so
+EXS	young
+NIL	.

@@ -1,0 +1,14 @@
+ORG	Education
+NOW	is
+EXG	learning
+QUE	what
+PRO	you
+PST	did
+NOT	n't
+IST	even
+EXS	know
+PRO	you
+PST	did
+NOT	n't
+EXS	know
+NIL	.

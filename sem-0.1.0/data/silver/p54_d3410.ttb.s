@@ -1,0 +1,9 @@
+POS	Can
+PRO	you
+EXS	wake
+PRO	me
+REL	up
+REL	at
+CLO	7:00
+FUT	tomorrow
+QUE	?

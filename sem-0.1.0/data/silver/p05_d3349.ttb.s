@@ -1,0 +1,12 @@
+PRO	He
+EPS	came
+REL	across
+HAS	his
+IST	old
+CON	friend
+SUB	while
+EXS	walking
+REL	in
+DEF	the
+CON	park
+NIL	.

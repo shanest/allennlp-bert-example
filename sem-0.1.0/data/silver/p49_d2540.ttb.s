@@ -1,0 +1,10 @@
+PER	Tom
+ENS	wants
+PRO	you
+SUB	to
+EXS	meet
+PRO	him
+REL	at
+PER	Mary
+HAS	's
+NIL	.

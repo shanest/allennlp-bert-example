@@ -1,0 +1,9 @@
+PRO	He
+NOW	's
+EXS	being
+EXS	threatened
+REL	by
+DIS	a
+IST	certain
+CON	gangster
+NIL	.

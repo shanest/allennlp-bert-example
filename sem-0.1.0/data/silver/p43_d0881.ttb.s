@@ -1,0 +1,15 @@
+NOT	No
+CON	one
+ENS	knows
+QUE	how
+SUB	to
+EXS	think
+NIL	,
+BUT	but
+AND	everyone
+HAS	's
+EPS	got
+DIS	an
+CON	opinion
+IST	ready
+NIL	.

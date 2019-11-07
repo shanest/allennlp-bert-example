@@ -1,0 +1,11 @@
+DST	That
+IST	last
+CON	sentence
+AND	of
+HAS	yours
+NOW	does
+NOT	n't
+EXS	make
+QUV	much
+CON	sense
+NIL	.

@@ -1,0 +1,9 @@
+PER	Mary
+EPS	sat
+IST	down
+COO	and
+EPS	opened
+HAS	her
+CON	shoulder
+CON	bag
+NIL	.

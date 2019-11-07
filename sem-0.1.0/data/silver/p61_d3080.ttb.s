@@ -1,0 +1,14 @@
+SUB	When
+CON	spring
+ENS	arrives
+NIL	,
+PRO	I
+NOW	am
+EXS	going
+SUB	to
+EXS	take
+IST	up
+DIS	a
+IST	new
+CON	sport
+NIL	.

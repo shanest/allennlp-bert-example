@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	you
+IST	still
+ENS	want
+SUB	to
+EXS	be
+REL	with
+PRO	me
+NIL	.

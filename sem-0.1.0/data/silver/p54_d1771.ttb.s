@@ -1,0 +1,11 @@
+IST	New
+CON	facts
+AND	about
+IST	ancient
+GPE	China
+NOW	have
+IST	recently
+EXS	come
+REL	to
+CON	light
+NIL	.

@@ -1,0 +1,10 @@
+QUV	Few
+CON	people
+ENS	know
+SUB	that
+ROL	Mr
+PER	Itsumi
+NOW	is
+REL	from
+GEO	Kansai
+NIL	.

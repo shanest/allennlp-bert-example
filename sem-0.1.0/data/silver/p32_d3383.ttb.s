@@ -1,0 +1,12 @@
+PRO	He
+NOW	's
+NOT	not
+EXS	dead
+ALT	yet
+COO	;
+PRO	we
+NOW	're
+EXS	bringing
+PRO	him
+PRX	here
+NIL	.

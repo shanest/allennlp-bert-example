@@ -1,0 +1,11 @@
+DEF	The
+CON	population
+AND	of
+GPE	Japan
+NOW	is
+CON	one-eighth
+AND	as
+DST	that
+AND	of
+GPE	China
+NIL	.

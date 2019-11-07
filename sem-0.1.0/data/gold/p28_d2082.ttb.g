@@ -1,0 +1,9 @@
+DEF	The
+CON	boy
+EPS	drew
+DIS	a
+CON	picture
+REL	on
+DEF	the
+CON	wall
+NIL	.

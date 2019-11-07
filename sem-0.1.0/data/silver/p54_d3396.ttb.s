@@ -1,0 +1,12 @@
+DEF	The
+IST	confused
+CON	travelers
+EPS	realized
+PRO	they
+PST	were
+EXS	headed
+AND	toward
+DEF	the
+IST	wrong
+CON	town
+NIL	.

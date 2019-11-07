@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+EXS	killed
+REL	in
+DIS	an
+CON	accident
+QUC	three
+CON	years
+PST	ago
+NIL	.

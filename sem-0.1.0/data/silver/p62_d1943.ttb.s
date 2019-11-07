@@ -1,0 +1,11 @@
+AND	As
+DIS	a
+CON	child
+NIL	,
+HAS	my
+CON	daughter
+PST	had
+IST	frequent
+CON	asthma
+CON	attacks
+NIL	.

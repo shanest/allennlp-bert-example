@@ -1,0 +1,11 @@
+HAS	My
+CON	place
+NOW	is
+NOT	n't
+IST	usually
+PRX	this
+QUV	much
+AND	of
+DIS	a
+CON	mess
+NIL	.

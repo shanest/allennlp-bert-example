@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+NIL	fatter
+AND	than
+SUB	when
+PRO	I
+IST	last
+EPS	saw
+PRO	him
+NIL	.

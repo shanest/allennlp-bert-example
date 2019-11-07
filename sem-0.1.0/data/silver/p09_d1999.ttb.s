@@ -1,0 +1,9 @@
+PRO	I
+NOW	wonder
+IMP	if
+PRO	she
+NOW	's
+IST	still
+REL	in
+CON	jail
+NIL	!

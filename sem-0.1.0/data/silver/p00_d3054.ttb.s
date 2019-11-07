@@ -1,0 +1,12 @@
+DEF	The
+CON	room
+NOW	is
+INT	very
+EXS	cold
+NIL	.
+DEF	The
+CON	fire
+NOW	has
+EXT	gone
+IST	out
+NIL	.

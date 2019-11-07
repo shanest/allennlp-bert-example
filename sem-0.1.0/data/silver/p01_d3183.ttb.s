@@ -1,0 +1,9 @@
+EXS	Write
+DIS	a
+CON	poem
+REL	with
+QUC	three
+QUC	four
+CON	line
+CON	stanzas
+NIL	.

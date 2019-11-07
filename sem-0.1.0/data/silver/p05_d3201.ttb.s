@@ -1,0 +1,11 @@
+PER	Tom
+PST	felt
+EXS	guilty
+AND	about
+DEF	the
+CON	way
+PRO	he
+PST	'd
+EXS	treated
+PER	Mary
+NIL	.

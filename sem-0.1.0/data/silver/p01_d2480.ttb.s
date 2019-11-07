@@ -1,0 +1,11 @@
+ITJ	OK
+NIL	.
+PRO	I
+ENS	think
+PRO	I
+ENS	understand
+QUE	what
+PRO	you
+NOW	're
+EXG	asking
+NIL	.

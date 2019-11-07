@@ -1,0 +1,10 @@
+PRO	He
+IST	seldom
+NIL	,
+IMP	if
+IST	ever
+NIL	,
+ENS	reads
+DIS	a
+CON	book
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+EPS	took
+DEF	the
+CON	bottle
+REL	from
+PER	Mary
+COO	and
+EPS	poured
+REF	himself
+DIS	a
+CON	drink
+NIL	.

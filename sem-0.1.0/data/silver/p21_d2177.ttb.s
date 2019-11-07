@@ -1,0 +1,16 @@
+NOW	Do
+PRO	you
+NOW	think
+PRO	it
+FUT	'll
+EXS	be
+IST	difficult
+SUB	to
+EXS	finish
+EXG	reading
+PRX	this
+CON	book
+REL	in
+DIS	a
+CON	week
+QUE	?

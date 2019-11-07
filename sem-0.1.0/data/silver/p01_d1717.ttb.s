@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXG	serving
+DIS	a
+CON	life
+CON	sentence
+REL	in
+CON	prison
+NIL	.

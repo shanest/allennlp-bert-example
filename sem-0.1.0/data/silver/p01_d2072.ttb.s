@@ -1,0 +1,10 @@
+PRO	He
+NOT	never
+ENS	laughs
+SUB	when
+PRO	I
+ENS	tell
+PRO	him
+DIS	a
+CON	joke
+NIL	.

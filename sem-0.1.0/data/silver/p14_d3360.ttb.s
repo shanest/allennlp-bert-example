@@ -1,0 +1,10 @@
+DEF	The
+CON	movie
+PST	was
+QUV	much
+MOR	more
+EXS	enjoyable
+AND	than
+PER	Hemingway
+NOW	is
+NIL	.

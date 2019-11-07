@@ -1,0 +1,13 @@
+EXT	Having
+EXS	failed
+QUC	twice
+PST	yesterday
+NIL	,
+PRO	he
+NOW	does
+NOT	n't
+EXS	want
+SUB	to
+EXS	try
+ALT	again
+NIL	.

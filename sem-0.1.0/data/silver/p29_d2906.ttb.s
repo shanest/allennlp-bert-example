@@ -1,0 +1,10 @@
+AND	Just
+EPS	shut
+IST	up
+COO	and
+EXS	get
+REL	on
+REL	with
+HAS	your
+CON	work
+NIL	!

@@ -1,0 +1,14 @@
+PRO	I
+AND	like
+CON	grapes
+NIL	,
+BUT	but
+PRO	I
+POS	ca
+NOT	n't
+EXS	eat
+INT	too
+QUV	many
+AND	of
+PRO	them
+NIL	.

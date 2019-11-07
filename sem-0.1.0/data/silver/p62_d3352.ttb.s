@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	wondering
+QUE	what
+FUT	will
+EXS	happen
+IMP	if
+PRO	I
+NOW	push
+PRX	this
+CON	button
+NIL	.

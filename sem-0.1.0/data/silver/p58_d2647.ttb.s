@@ -1,0 +1,9 @@
+QUE	How
+QUV	many
+CON	pupils
+NOW	are
+IST	there
+REL	in
+HAS	your
+CON	class
+QUE	?

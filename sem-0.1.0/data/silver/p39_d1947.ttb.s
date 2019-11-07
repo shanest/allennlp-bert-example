@@ -1,0 +1,11 @@
+PRO	I
+EPS	got
+DEF	the
+IST	bilingual
+CON	dictionary
+REL	for
+DIS	an
+IST	unbelievably
+IST	cheap
+CON	price
+NIL	.

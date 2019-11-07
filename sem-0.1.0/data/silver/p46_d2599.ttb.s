@@ -1,0 +1,12 @@
+PRO	He
+EPS	made
+DIS	a
+CON	resolution
+SUB	to
+EXS	write
+REL	in
+HAS	his
+CON	diary
+AND	every
+CON	day
+NIL	.

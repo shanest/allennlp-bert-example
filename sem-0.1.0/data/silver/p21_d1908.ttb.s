@@ -1,0 +1,12 @@
+PRO	They
+PST	were
+EXS	forced
+SUB	to
+EXS	kill
+COO	and
+EXS	eat
+QUV	several
+AND	of
+HAS	their
+CON	horses
+NIL	.

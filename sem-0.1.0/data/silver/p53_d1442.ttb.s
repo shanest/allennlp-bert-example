@@ -1,0 +1,15 @@
+PRO	You
+EPS	chose
+SUB	to
+EXS	do
+PRX	this
+NIL	.
+NOT	No
+CON	one
+EPS	held
+DIS	a
+CON	gun
+REL	to
+HAS	your
+CON	head
+NIL	.

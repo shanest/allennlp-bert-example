@@ -1,0 +1,10 @@
+PRO	You
+ENS	know
+AND	who
+PER	Tom
+NOW	is
+NIL	,
+NOW	do
+NOT	n't
+PRO	you
+QUE	?

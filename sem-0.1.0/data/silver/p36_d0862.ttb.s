@@ -1,0 +1,11 @@
+PRO	I
+PST	had
+IST	already
+EXS	sent
+PRO	you
+DEF	the
+CON	letter
+SUB	when
+PRO	you
+EPS	called
+NIL	.

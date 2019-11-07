@@ -1,0 +1,13 @@
+EXS	Joking
+IST	apart
+NIL	,
+PRO	you
+NEC	ought
+SUB	to
+EXS	see
+DIS	a
+CON	doctor
+AND	about
+HAS	your
+CON	headache
+NIL	.

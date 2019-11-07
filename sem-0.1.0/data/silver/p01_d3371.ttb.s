@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXG	looking
+REL	for
+DIS	a
+CON	cream
+CON	color
+IST	long
+CON	sleeve
+CON	shirt
+NIL	.

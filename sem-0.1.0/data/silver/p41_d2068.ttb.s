@@ -1,0 +1,11 @@
+EXS	Surrounded
+REL	by
+DEF	the
+CON	sea
+NIL	,
+GPE	Japan
+NOW	has
+DIS	a
+IST	mild
+CON	climate
+NIL	.

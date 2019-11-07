@@ -1,0 +1,10 @@
+AND	All
+CON	men
+NOW	are
+CON	pigs
+SUB	(
+EXS	present
+CON	company
+NOT	excepted
+NIL	)
+NIL	.

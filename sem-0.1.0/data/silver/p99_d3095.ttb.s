@@ -1,0 +1,10 @@
+DEF	The
+CON	invention
+AND	of
+DEF	the
+CON	transistor
+EPS	introduced
+DIS	a
+IST	new
+CON	era
+NIL	.

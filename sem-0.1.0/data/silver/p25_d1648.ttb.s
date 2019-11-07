@@ -1,0 +1,9 @@
+PRO	I
+EPS	told
+PER	Tom
+SUB	that
+PRO	he
+NEC	should
+EXS	call
+PER	Mary
+NIL	.

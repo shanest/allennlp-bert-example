@@ -1,0 +1,9 @@
+PER	Tom
+NEC	had
+SUB	to
+EXS	go
+REL	to
+GEO	Boston
+REL	with
+PER	Mary
+NIL	.

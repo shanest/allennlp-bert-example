@@ -1,0 +1,11 @@
+HAS	Our
+CON	neighbor
+ENS	owns
+QUC	three
+CON	Porsches
+NIL	,
+COO	so
+PRO	he
+NOW	's
+CON	rich
+NIL	.

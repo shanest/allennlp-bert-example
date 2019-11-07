@@ -1,0 +1,14 @@
+SUB	To
+HAS	my
+CON	horror
+NIL	,
+DEF	the
+CON	man
+EPS	took
+DIS	a
+CON	gun
+AND	out
+AND	of
+HAS	his
+CON	pocket
+NIL	.

@@ -1,0 +1,11 @@
+PRO	We
+NOW	have
+EXS	used
+HAS	our
+CON	ration
+AND	of
+CON	coal
+REL	for
+DEF	the
+CON	week
+NIL	.

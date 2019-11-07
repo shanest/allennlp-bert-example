@@ -1,0 +1,10 @@
+EXS	Let
+HAS	's
+NOW	think
+AND	about
+DEF	the
+BOT	worst
+AND	that
+POS	could
+EXS	happen
+NIL	.

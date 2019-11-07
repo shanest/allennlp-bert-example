@@ -1,0 +1,10 @@
+PRO	She
+EPS	devoted
+HAS	her
+CON	life
+REL	to
+DEF	the
+CON	study
+AND	of
+CON	science
+NIL	.

@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+QUE	what
+PRO	I
+NOW	've
+PFT	been
+EXS	saying
+AND	all
+REL	along
+NIL	.

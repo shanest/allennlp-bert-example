@@ -1,0 +1,9 @@
+PRO	He
+EPS	threw
+DIS	a
+CON	stone
+REL	at
+DEF	the
+IST	big
+CON	dog
+NIL	.

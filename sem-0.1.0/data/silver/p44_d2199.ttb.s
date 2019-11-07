@@ -1,0 +1,9 @@
+NOT	Not
+XCL	only
+PRO	you
+COO	but
+ALT	also
+PRO	I
+PST	was
+EXS	involved
+NIL	.

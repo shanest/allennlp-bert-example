@@ -1,0 +1,11 @@
+PER	Tom
+EPS	grabbed
+DEF	the
+CON	rope
+AND	that
+PST	was
+EXS	lowered
+REL	from
+DEF	the
+CON	helicopter
+NIL	.

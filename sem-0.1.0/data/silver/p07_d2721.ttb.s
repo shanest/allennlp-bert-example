@@ -1,0 +1,13 @@
+PER	Tom
+HAS	's
+CON	wife
+FUT	would
+IST	probably
+EXS	leave
+PRO	him
+IMP	if
+PRO	she
+EPS	knew
+DEF	the
+CON	truth
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	sleep
+NIL	,
+SUB	because
+PRO	I
+NOW	'm
+EXS	getting
+EXS	tired
+NIL	.

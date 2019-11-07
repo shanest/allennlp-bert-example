@@ -1,0 +1,11 @@
+DST	That
+HAS	's
+DEF	the
+TOP	best
+CON	concert
+PRO	I
+NOW	have
+IST	ever
+EXT	been
+REL	to
+NIL	.

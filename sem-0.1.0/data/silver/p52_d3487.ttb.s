@@ -1,0 +1,11 @@
+PER	Tom
+IST	really
+ENS	knows
+QUE	how
+SUB	to
+EXS	cook
+NIL	,
+NOW	does
+NOT	n't
+PRO	he
+QUE	?

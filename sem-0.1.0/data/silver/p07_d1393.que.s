@@ -1,0 +1,11 @@
+QUE	What
+IST	comic
+CON	book
+CON	friend
+AND	of
+PER	Archie
+ENS	wears
+DIS	a
+IST	crown-shaped
+CON	hat
+QUE	?

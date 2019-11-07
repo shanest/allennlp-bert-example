@@ -1,0 +1,9 @@
+SUB	When
+PER	Tom
+EPS	spoke
+NIL	,
+PRO	they
+AND	all
+EPS	remained
+EXS	silent
+NIL	.

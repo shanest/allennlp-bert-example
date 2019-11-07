@@ -1,0 +1,13 @@
+NOW	Does
+NOT	n't
+DIS	anyone
+EXS	know
+QUE	how
+IST	long
+PRO	we
+NOW	are
+EXS	going
+SUB	to
+EXS	be
+PRX	here
+QUE	?

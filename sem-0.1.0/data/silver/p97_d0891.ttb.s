@@ -1,0 +1,13 @@
+HAS	My
+IST	old
+GPO	English
+CON	teacher
+NOW	is
+IST	certainly
+CON	rolling
+REL	in
+HAS	her
+CON	grave
+CON	right
+NOW	now
+NIL	.

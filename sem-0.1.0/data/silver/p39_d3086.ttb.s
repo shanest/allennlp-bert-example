@@ -1,0 +1,17 @@
+HAS	My
+EXS	being
+IST	male
+AND	and
+IST	white
+ALT	also
+EXS	removed
+IST	huge
+CON	obstacles
+AND	that
+DIS	a
+CON	majority
+AND	of
+GPE	Americans
+AND	then
+EXS	faced
+NIL	.

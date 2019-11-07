@@ -1,0 +1,11 @@
+DST	That
+CON	man
+CON	bows
+REL	to
+PRO	me
+AND	as
+IMP	if
+PRO	he
+EPS	knew
+PRO	me
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	told
+PER	Mary
+NIL	to
+EXS	meet
+PRO	him
+REL	at
+DEF	the
+CON	library
+NIL	.

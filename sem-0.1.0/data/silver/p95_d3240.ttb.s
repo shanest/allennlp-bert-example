@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	met
+PER	Taninna
+REL	at
+DEF	the
+CON	library
+QUE	?

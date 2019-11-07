@@ -1,0 +1,12 @@
+PRO	You
+NOW	are
+EXS	generous
+SUB	to
+EXS	give
+PRO	me
+AND	such
+DIS	a
+CON	lot
+AND	of
+CON	money
+NIL	.

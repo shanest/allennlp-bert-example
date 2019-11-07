@@ -1,0 +1,17 @@
+PRO	She
+EPS	wrote
+SUB	to
+PRO	him
+SUB	to
+EXS	tell
+PRO	him
+SUB	that
+PRO	she
+POS	could
+NOT	n't
+EXS	come
+SUB	to
+EXS	visit
+IST	next
+CON	summer
+NIL	.

@@ -1,0 +1,13 @@
+REL	In
+GPE	Japan
+UNK	there
+NOW	are
+CON	train
+CON	stations
+REL	with
+DIS	a
+CON	cat
+REL	for
+DIS	a
+CON	stationmaster
+NIL	.

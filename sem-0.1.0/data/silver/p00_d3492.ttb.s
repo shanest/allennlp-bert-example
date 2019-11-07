@@ -1,0 +1,15 @@
+IMP	If
+PRO	I
+ENS	act
+EXS	weird
+AND	around
+PRO	you
+NIL	,
+PRO	it
+ENS	means
+PRO	I
+NOW	'm
+EXS	comfortable
+REL	with
+PRO	you
+NIL	.

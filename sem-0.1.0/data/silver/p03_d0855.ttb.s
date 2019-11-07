@@ -1,0 +1,10 @@
+DEF	The
+IST	old
+CON	man
+EPS	told
+DEF	the
+CON	children
+DIS	an
+IST	amusing
+CON	story
+NIL	.

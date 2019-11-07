@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+DIS	a
+CON	place
+AND	that
+NOW	is
+INT	very
+EXS	pleasant
+NIL	.

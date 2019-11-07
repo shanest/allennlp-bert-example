@@ -1,0 +1,10 @@
+PRO	I
+EPS	met
+PRO	him
+REL	on
+DEF	the
+CON	street
+DEF	the
+ALT	other
+CON	day
+NIL	.

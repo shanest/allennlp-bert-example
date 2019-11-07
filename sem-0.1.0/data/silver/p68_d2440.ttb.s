@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	trying
+SUB	to
+EXS	tell
+PRO	you
+QUE	what
+ENS	needs
+SUB	to
+EXS	be
+EXS	done
+NIL	.

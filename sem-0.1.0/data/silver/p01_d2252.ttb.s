@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	what
+ENS	plan
+PER	Mary
+FUT	will
+EXS	choose
+NIL	.

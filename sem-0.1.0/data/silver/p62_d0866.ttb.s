@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	going
+SUB	to
+EXS	introduce
+PRO	you
+REL	to
+HAS	my
+CON	family
+NIL	.

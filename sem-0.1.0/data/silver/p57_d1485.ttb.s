@@ -1,0 +1,13 @@
+PRO	I
+ENS	need
+PRO	you
+SUB	to
+EXS	help
+PRO	me
+EXS	take
+CON	care
+AND	of
+PER	Tom
+HAS	's
+CON	kids
+NIL	.

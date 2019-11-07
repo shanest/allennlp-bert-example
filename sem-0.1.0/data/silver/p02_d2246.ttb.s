@@ -1,0 +1,10 @@
+PRO	I
+NEC	definitely
+EXS	do
+NOT	not
+EXS	miss
+EXG	working
+REL	in
+DEF	the
+CON	city
+NIL	!

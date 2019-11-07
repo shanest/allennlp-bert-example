@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	ready
+NIL	,
+CON	man
+NIL	.
+EXS	Bring
+PRO	it
+NIL	!

@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXS	going
+SUB	to
+EXS	write
+DIS	a
+CON	letter
+REL	to
+PER	Mary
+NIL	.

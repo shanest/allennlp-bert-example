@@ -1,0 +1,10 @@
+NOW	Is
+PRO	it
+EXS	true
+SUB	that
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	dating
+QUE	?

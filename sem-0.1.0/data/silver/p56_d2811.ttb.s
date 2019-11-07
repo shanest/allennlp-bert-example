@@ -1,0 +1,10 @@
+QUC	Many
+NOW	are
+EXS	convinced
+SUB	that
+PRO	he
+NOW	is
+IST	resistant
+REL	to
+CON	advice
+NIL	.

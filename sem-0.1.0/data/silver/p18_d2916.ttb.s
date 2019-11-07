@@ -1,0 +1,10 @@
+UNK	There
+PRO	you
+ENS	see
+DEF	the
+CON	gate
+AND	that
+ROL	Mr.
+PER	Jones
+EPS	built
+NIL	.

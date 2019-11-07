@@ -1,0 +1,15 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	remember
+DEF	the
+CON	meaning
+AND	of
+DEF	the
+CON	word
+SUB	that
+PRO	I
+EPS	looked
+IST	up
+PST	yesterday
+NIL	.

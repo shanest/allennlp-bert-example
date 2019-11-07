@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+NOT	not
+EXS	easy
+REL	for
+PRO	me
+SUB	to
+EXS	travel
+EXS	alone
+REL	in
+GPE	Japan
+NIL	.

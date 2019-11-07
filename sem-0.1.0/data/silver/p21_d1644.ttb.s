@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+EXS	trained
+HAS	my
+CON	dog
+SUB	to
+EXS	come
+SUB	when
+PRO	I
+ENS	whistle
+NIL	.

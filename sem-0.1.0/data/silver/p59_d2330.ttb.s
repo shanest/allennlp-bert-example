@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	told
+SUB	that
+PRO	he
+HAS	's
+DIS	a
+INT	very
+IST	competent
+CON	person
+NIL	.

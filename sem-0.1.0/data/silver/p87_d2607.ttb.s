@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	afraid
+SUB	that
+HAS	's
+NOT	not
+EXS	going
+SUB	to
+EXS	happen
+NIL	.

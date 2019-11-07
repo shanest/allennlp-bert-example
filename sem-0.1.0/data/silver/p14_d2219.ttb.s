@@ -1,0 +1,10 @@
+CON	Sorry
+NIL	,
+PRO	I
+POS	could
+NOT	n't
+EXS	catch
+QUE	what
+PRO	you
+EPS	said
+NIL	.

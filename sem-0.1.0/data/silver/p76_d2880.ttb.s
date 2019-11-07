@@ -1,0 +1,12 @@
+PRO	You
+NOW	worry
+INT	about
+EXS	helping
+PER	Tom
+COO	and
+EXS	let
+PRO	me
+EXS	worry
+REL	about
+PER	Mary
+NIL	.

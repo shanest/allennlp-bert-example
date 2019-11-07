@@ -1,0 +1,10 @@
+CON	Turn
+REL	off
+DEF	the
+CON	TV
+SUB	before
+EXS	going
+REL	to
+CON	bed
+CON	OK
+QUE	?

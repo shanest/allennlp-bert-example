@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	teaching
+GPO	French
+REL	for
+QUC	three
+CON	years
+NIL	.

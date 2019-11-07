@@ -1,0 +1,12 @@
+PRO	He
+EPS	ate
+QUC	three
+AND	and
+EPS	said
+PRO	he
+POS	could
+EXS	eat
+AND	as
+QUV	many
+ALT	again
+NIL	.

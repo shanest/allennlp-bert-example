@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+EXS	good
+SUB	to
+EXS	be
+CON	kind
+REL	to
+ALT	others
+NIL	.

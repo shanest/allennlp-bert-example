@@ -1,0 +1,9 @@
+EXS	Let
+HAS	's
+EXS	go
+AND	as
+IST	soon
+SUB	as
+PER	John
+ENS	comes
+NIL	.

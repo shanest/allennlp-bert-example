@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	believe
+PRO	I
+EPS	caught
+HAS	your
+CON	name
+NIL	.

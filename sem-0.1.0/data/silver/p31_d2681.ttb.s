@@ -1,0 +1,14 @@
+PRO	It
+EPS	took
+PRO	me
+MOR	more
+MOR	than
+DIS	a
+CON	week
+SUB	to
+EXS	put
+DEF	the
+CON	model
+CON	ship
+IST	together
+NIL	.

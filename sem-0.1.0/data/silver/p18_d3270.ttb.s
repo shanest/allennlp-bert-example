@@ -1,0 +1,9 @@
+HAS	Her
+ROL	mother
+NOW	has
+PFT	been
+EXS	sick
+REL	since
+IST	last
+DOW	Thursday
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Is
+PRO	he
+IST	really
+DEF	the
+CON	man
+PRO	you
+NOW	're
+EXS	looking
+REL	for
+QUE	?

@@ -1,0 +1,12 @@
+PRO	She
+EPS	had
+NOT	no
+ALT	other
+CON	choice
+COO	but
+SUB	to
+EXS	marry
+DEF	the
+IST	old
+CON	man
+NIL	.

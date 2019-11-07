@@ -1,0 +1,17 @@
+DEF	The
+IST	following
+CON	day
+NIL	,
+PER	Sophie
+EPS	combed
+AND	and
+EXS	dressed
+HAS	her
+CON	doll
+AND	because
+HAS	her
+CON	friends
+PST	were
+EXS	coming
+IST	over
+NIL	.

@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+NOT	not
+EXS	going
+SUB	to
+EXS	sit
+PRX	here
+COO	and
+EXS	listen
+REL	to
+PRO	you
+EXS	complaining
+AND	all
+CON	day
+NIL	.

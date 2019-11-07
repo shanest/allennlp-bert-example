@@ -1,0 +1,9 @@
+DIS	A
+ROL	burglar
+EPS	broke
+REL	into
+DEF	the
+CON	shop
+AND	last
+CON	night
+NIL	.

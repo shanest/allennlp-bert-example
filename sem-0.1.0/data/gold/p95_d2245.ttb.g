@@ -1,0 +1,10 @@
+IMP	If
+DIS	a
+CON	woman
+ENS	knows
+NIL	,
+DEF	the
+IST	whole
+CON	world
+ENS	knows
+NIL	.

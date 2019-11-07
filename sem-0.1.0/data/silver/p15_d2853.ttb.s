@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+IST	proud
+AND	of
+EXT	having
+EXS	graduated
+REL	from
+GPE	Tokyo
+ORG	University
+NIL	.

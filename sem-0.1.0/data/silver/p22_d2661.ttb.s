@@ -1,0 +1,13 @@
+PER	Tom
+PST	had
+IST	barely
+EXS	taken
+HAS	his
+CON	coat
+REL	off
+SUB	when
+PRO	they
+EPS	started
+EXG	asking
+CON	questions
+NIL	.

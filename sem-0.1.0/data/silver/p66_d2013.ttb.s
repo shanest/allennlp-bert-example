@@ -1,0 +1,14 @@
+QUE	How
+IST	long
+NOW	has
+PRO	it
+PFT	been
+REL	since
+PRO	you
+EPS	gave
+IST	up
+CON	teaching
+REL	at
+DST	that
+CON	school
+QUE	?

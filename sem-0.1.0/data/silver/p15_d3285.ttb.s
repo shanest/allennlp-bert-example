@@ -1,0 +1,10 @@
+PRO	She
+EPS	looked
+REL	at
+PRO	me
+COO	and
+EPS	said
+NIL	"
+GRE	Hi
+NIL	!
+NIL	"

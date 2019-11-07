@@ -1,0 +1,13 @@
+SUB	When
+PRO	he
+EPS	heard
+DEF	the
+CON	voice
+NIL	,
+PRO	he
+EPS	looked
+IST	out
+AND	of
+DEF	the
+CON	window
+NIL	.

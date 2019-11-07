@@ -1,0 +1,10 @@
+PER	Tom
+HAS	's
+CON	love
+REL	for
+PER	Mary
+IST	probably
+FUT	wo
+NOT	n't
+EXS	last
+NIL	.

@@ -1,0 +1,12 @@
+PRO	She
+EPS	tasted
+DEF	the
+CON	cake
+SUB	to
+EXS	see
+IMP	if
+PRO	it
+PST	was
+EXS	sweet
+IST	enough
+NIL	.

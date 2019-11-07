@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+INT	too
+EXS	good
+AND	of
+DIS	an
+CON	opportunity
+SUB	to
+EXS	miss
+NIL	.

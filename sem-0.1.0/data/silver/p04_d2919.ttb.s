@@ -1,0 +1,9 @@
+PRO	He
+PST	had
+EXS	worked
+IST	hard
+SUB	to
+EXS	keep
+GEO	Kansas
+IST	peaceful
+NIL	.

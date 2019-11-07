@@ -1,0 +1,12 @@
+PER	Tom
+PST	was
+NOT	n't
+UNK	ready
+SUB	to
+EXS	accept
+PER	Mary
+HAS	's
+CON	love
+DIS	or
+CON	friendship
+NIL	.

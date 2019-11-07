@@ -1,0 +1,9 @@
+PER	Tom
+EPS	opened
+HAS	his
+CON	beer
+COO	and
+EPS	took
+DIS	a
+NOW	sip
+NIL	.

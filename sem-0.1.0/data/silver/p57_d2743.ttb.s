@@ -1,0 +1,11 @@
+PER	Tom
+EPS	knew
+PER	Mary
+FUT	would
+NOT	n't
+EXS	let
+PRO	him
+EXS	kiss
+HAS	her
+ALT	again
+NIL	.

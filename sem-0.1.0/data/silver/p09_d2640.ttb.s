@@ -1,0 +1,10 @@
+PRO	It
+ENS	seems
+SUB	that
+ROL	Mr.
+PER	Tanaka
+NOW	has
+EXS	taken
+HAS	his
+CON	exam
+NIL	.

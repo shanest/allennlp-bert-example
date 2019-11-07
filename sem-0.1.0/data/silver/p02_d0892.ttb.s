@@ -1,0 +1,9 @@
+DEF	The
+IST	new
+CON	E10
+CON	gas
+ENS	contains
+QUC	ten
+UOM	percent
+CON	bioethanol
+NIL	.

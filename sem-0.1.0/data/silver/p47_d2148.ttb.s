@@ -1,0 +1,9 @@
+PER	Tom
+EPS	threatened
+SUB	to
+EXS	burn
+PER	Mary
+HAS	's
+CON	house
+IST	down
+NIL	.

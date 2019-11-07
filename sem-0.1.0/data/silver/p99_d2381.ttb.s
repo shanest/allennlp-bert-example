@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+GEO	Tokyo
+NOW	is
+DIS	a
+INT	very
+IST	safe
+CON	city
+NIL	.

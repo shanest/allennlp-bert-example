@@ -1,0 +1,10 @@
+PRO	I
+IST	strongly
+NOW	suggest
+SUB	that
+PRO	you
+NOW	get
+REF	yourself
+ALT	another
+ROL	lawyer
+NIL	.

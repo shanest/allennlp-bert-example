@@ -1,0 +1,11 @@
+ROL	Dr
+PER	Fiona
+PER	Wood
+NOW	has
+PST	invented
+DIS	a
+CON	treatment
+REL	for
+CON	burns
+CON	victims
+NIL	.

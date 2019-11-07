@@ -1,0 +1,11 @@
+PRO	I
+EPS	saw
+DIS	something
+INT	very
+IST	bright
+CON	fly
+REL	across
+DEF	the
+CON	night
+CON	sky
+NIL	.

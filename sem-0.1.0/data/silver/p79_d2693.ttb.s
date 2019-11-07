@@ -1,0 +1,9 @@
+PRO	I
+EPS	met
+PRO	her
+REL	at
+DEF	the
+CON	station
+REL	by
+CON	accident
+NIL	.

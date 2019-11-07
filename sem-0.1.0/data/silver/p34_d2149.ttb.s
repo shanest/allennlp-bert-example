@@ -1,0 +1,13 @@
+PRO	I
+NOW	think
+PER	Tom
+HAS	's
+CON	grandmother
+NOW	is
+INT	too
+IST	old
+SUB	to
+EXS	wear
+DIS	a
+CON	miniskirt
+NIL	.

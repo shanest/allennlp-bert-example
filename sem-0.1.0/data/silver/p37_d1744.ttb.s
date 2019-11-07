@@ -1,0 +1,9 @@
+PRO	She
+EPS	helped
+DEF	the
+IST	elderly
+CON	man
+EXS	cross
+DEF	the
+CON	road
+NIL	.

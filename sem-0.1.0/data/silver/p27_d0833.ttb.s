@@ -1,0 +1,9 @@
+PRO	I
+PST	was
+EXS	writing
+DIS	a
+CON	letter
+SUB	when
+PRO	he
+EPS	came
+NIL	.

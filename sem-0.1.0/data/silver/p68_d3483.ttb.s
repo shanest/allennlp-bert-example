@@ -1,0 +1,12 @@
+UNK	There
+NOW	is
+DIS	a
+CON	fly
+EXG	buzzing
+REL	in
+CON	front
+AND	of
+DEF	the
+CON	fish
+CON	shop
+NIL	.

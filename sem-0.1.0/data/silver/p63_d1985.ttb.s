@@ -1,0 +1,9 @@
+PRO	She
+EPS	began
+EXS	doing
+HAS	her
+CON	homework
+IST	immediately
+REL	after
+CON	dinner
+NIL	.

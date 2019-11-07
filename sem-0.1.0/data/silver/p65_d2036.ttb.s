@@ -1,0 +1,17 @@
+DST	That
+POS	might
+EXT	have
+PFT	been
+EXS	true
+DIS	a
+IST	long
+CON	time
+PST	ago
+NIL	,
+BUT	but
+PRO	it
+NOW	's
+NOT	not
+EXS	true
+CON	anymore
+NIL	.

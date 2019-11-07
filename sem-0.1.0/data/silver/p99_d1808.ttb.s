@@ -1,0 +1,9 @@
+HAS	My
+CON	dog
+PST	was
+EXS	taken
+CON	care
+AND	of
+REL	by
+PER	Lucy
+NIL	.

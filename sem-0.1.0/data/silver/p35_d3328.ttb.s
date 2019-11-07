@@ -1,0 +1,17 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	noticed
+SUB	that
+PER	Tom
+HAS	's
+IST	right
+CON	ear
+NOW	is
+QUC	much
+COM	larger
+AND	than
+HAS	his
+IST	left
+CON	ear
+QUE	?

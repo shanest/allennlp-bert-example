@@ -1,0 +1,9 @@
+PRO	He
+EPS	took
+DIS	a
+CON	coin
+AND	out
+AND	of
+HAS	his
+CON	pocket
+NIL	.

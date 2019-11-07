@@ -1,0 +1,9 @@
+DEF	The
+CON	canal
+ENS	connects
+DEF	the
+GEO	Atlantic
+REL	with
+DEF	the
+GEO	Pacific
+NIL	.

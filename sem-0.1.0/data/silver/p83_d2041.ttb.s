@@ -1,0 +1,10 @@
+DEF	The
+ROL	captain
+EPS	went
+REL	to
+CON	sea
+SUB	when
+PRO	he
+PST	was
+QUC	nineteen
+NIL	.

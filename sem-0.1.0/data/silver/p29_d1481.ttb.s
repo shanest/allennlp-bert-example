@@ -1,0 +1,11 @@
+DIS	A
+CON	lot
+AND	of
+HAS	my
+CON	classmates
+NOW	think
+SUB	that
+PRO	I
+NOW	'm
+EXS	dumb
+NIL	.

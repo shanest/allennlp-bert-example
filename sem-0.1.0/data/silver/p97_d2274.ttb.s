@@ -1,0 +1,11 @@
+PER	Tom
+EPS	lowered
+HAS	his
+CON	voice
+COO	so
+NOT	no
+CON	one
+AND	else
+POS	could
+EXS	hear
+NIL	.

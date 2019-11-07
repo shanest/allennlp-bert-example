@@ -1,0 +1,11 @@
+EXS	Slow
+IST	down
+DIS	or
+PRO	you
+NOW	're
+EXS	going
+SUB	to
+EXS	work
+REF	yourself
+EXS	sick
+NIL	.

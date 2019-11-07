@@ -1,0 +1,12 @@
+PRO	I
+ENS	suspect
+SUB	that
+PER	Tom
+NOW	is
+DEF	the
+QUC	one
+AND	who
+EPS	stole
+DEF	the
+CON	money
+NIL	.

@@ -1,0 +1,9 @@
+UNK	There
+HAS	's
+DIS	someone
+AND	else
+PRO	I
+ENS	want
+SUB	to
+EXS	see
+NIL	.

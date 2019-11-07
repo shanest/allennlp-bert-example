@@ -1,0 +1,11 @@
+REL	After
+DEF	the
+CON	rain
+NIL	,
+QUV	many
+CON	mushrooms
+ENS	grow
+REL	in
+DEF	the
+CON	forest
+NIL	.

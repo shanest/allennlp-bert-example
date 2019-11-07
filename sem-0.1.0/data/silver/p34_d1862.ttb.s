@@ -1,0 +1,9 @@
+HAS	My
+ROL	uncle
+NOW	has
+DIS	a
+IST	good
+CON	knowledge
+AND	of
+GPO	French
+NIL	.

@@ -1,0 +1,9 @@
+AND	Finishing
+PRX	this
+CON	job
+REL	by
+DOW	Tuesday
+FUT	will
+EXS	be
+EXS	easy
+NIL	.

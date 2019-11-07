@@ -1,0 +1,10 @@
+DEF	The
+CON	person
+REL	in
+CON	question
+NOW	is
+NOW	now
+EXS	staying
+REL	in
+GEO	America
+NIL	.

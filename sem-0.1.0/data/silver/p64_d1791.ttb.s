@@ -1,0 +1,10 @@
+REL	In
+DST	that
+CON	respect
+NIL	,
+HAS	my
+CON	opinion
+ENS	differs
+REL	from
+HAS	yours
+NIL	.

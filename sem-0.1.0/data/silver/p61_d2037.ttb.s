@@ -1,0 +1,14 @@
+DEF	The
+CON	child
+NOW	is
+EXG	opening
+DEF	the
+CON	window
+AND	even
+SUB	though
+HAS	his
+CON	mother
+EPS	forbade
+PRO	him
+SUB	to
+NIL	.

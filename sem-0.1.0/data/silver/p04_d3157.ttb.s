@@ -1,0 +1,13 @@
+CON	Meditation
+NOW	helps
+EXG	downshifting
+MOR	more
+IST	easily
+REL	after
+CON	work
+COO	and
+EXG	sleeping
+IST	better
+REL	at
+CON	night
+NIL	.

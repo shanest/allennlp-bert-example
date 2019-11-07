@@ -1,0 +1,14 @@
+PER	Tom
+EPS	bought
+DIS	some
+CON	mosquito
+CON	nets
+EPS	made
+REL	in
+GPE	China
+SUB	to
+EXS	give
+REL	to
+HAS	his
+CON	friends
+NIL	.

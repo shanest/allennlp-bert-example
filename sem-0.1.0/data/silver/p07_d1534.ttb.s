@@ -1,0 +1,15 @@
+PRO	You
+POS	might
+EXS	say
+DST	that
+NOW	does
+NOT	n't
+EXS	matter
+INT	very
+QUV	much
+NIL	,
+BUT	but
+IST	actually
+PRO	it
+NOW	does
+NIL	.

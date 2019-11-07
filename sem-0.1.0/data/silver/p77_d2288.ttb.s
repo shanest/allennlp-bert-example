@@ -1,0 +1,10 @@
+PRO	I
+EPS	used
+SUB	to
+IST	often
+EXS	take
+ENS	walks
+REL	along
+DST	that
+CON	river
+NIL	.

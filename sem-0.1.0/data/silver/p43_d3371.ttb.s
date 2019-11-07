@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+IST	young
+NIL	,
+BUT	but
+PRO	he
+NOW	is
+DIS	an
+IST	able
+CON	man
+NIL	.

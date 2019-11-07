@@ -1,0 +1,9 @@
+HAS	My
+CON	father
+EXS	polished
+HAS	his
+CON	car
+REL	till
+PRO	it
+EPS	shone
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+EPS	said
+SUB	that
+PRO	he
+AND	and
+PER	Mary
+FUT	would
+IST	probably
+EXS	be
+DIS	a
+IST	little
+IST	late
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	tired
+AND	of
+EXS	eating
+REL	at
+DEF	the
+CON	school
+CON	cafeteria
+NIL	.

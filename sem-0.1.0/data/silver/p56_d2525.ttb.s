@@ -1,0 +1,12 @@
+NOW	Does
+DIS	someone
+EXS	know
+QUE	how
+SUB	to
+EXS	earn
+CON	money
+REL	in
+CON	time
+AND	of
+CON	crisis
+QUE	?

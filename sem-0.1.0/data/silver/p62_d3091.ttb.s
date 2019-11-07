@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	living
+REL	in
+GPE	Boston
+REL	for
+QUC	three
+CON	years
+NIL	.

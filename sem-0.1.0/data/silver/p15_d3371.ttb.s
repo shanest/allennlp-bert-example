@@ -1,0 +1,12 @@
+PER	Franklin
+ENS	writes
+CON	articles
+REL	for
+HAS	his
+CON	brothers
+HAS	'
+CON	newpaper
+REL	under
+ALT	another
+CON	name
+NIL	.

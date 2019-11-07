@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+PER	Tom
+PST	had
+NOT	nothing
+SUB	to
+EXS	do
+REL	with
+DST	that
+NIL	.

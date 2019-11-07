@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	told
+AND	anyone
+QUE	why
+PRO	I
+NOW	have
+CON	trouble
+EXS	sleeping
+NIL	.

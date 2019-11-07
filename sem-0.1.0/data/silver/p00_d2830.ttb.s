@@ -1,0 +1,12 @@
+QUE	What
+HAS	's
+DEF	the
+IST	right
+CON	spirit
+NIL	to
+EXS	adopt
+SUB	when
+EXG	learning
+DIS	a
+CON	language
+QUE	?

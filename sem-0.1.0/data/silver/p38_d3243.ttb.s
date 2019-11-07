@@ -1,0 +1,14 @@
+AND	Even
+PRO	I
+POS	can
+EXS	understand
+PRX	this
+CON	sentence
+NIL	.
+PRO	It
+NOW	's
+INT	very
+EXS	easy
+SUB	to
+EXS	understand
+NIL	.

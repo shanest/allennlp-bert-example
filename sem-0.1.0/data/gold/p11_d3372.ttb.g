@@ -1,0 +1,11 @@
+PRO	He
+ENS	earns
+MOR	over
+QUC	500
+UOM	dollars
+AND	a
+UOM	month
+REL	from
+DST	that
+CON	job
+NIL	.

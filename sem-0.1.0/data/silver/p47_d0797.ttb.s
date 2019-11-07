@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	.
+PRO	I
+NOW	take
+IST	back
+HAS	my
+CON	words
+NIL	.

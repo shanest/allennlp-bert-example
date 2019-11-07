@@ -1,0 +1,13 @@
+PRO	I
+NOW	am
+EXS	going
+SUB	to
+EXS	visit
+DEF	the
+CON	art
+CON	exhibition
+QUC	one
+AND	of
+PRX	these
+CON	days
+NIL	.

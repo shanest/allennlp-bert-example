@@ -1,0 +1,9 @@
+PRO	He
+EPS	got
+DIS	a
+CON	prize
+REL	for
+EXG	winning
+DEF	the
+CON	competition
+NIL	.

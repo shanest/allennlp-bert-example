@@ -1,0 +1,10 @@
+PRO	I
+EPS	paid
+PRO	him
+REL	on
+DEF	the
+CON	spot
+REL	for
+HAS	his
+CON	work
+NIL	.

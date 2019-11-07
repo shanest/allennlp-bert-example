@@ -1,0 +1,10 @@
+PRO	She
+HAS	's
+PFT	been
+EXS	cheating
+REL	on
+HAS	her
+CON	husband
+REL	for
+CON	years
+NIL	.

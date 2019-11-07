@@ -1,0 +1,13 @@
+HAS	Her
+IST	ideal
+CON	type
+ENS	seems
+SUB	to
+EXS	be
+DIS	someone
+AND	like
+DEF	the
+CON	announcer
+PER	Shinichiro
+PER	Azumi
+NIL	.

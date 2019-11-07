@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+IST	so
+EXS	tired
+SUB	that
+PRO	I
+POS	ca
+NOT	n't
+EXS	walk
+AND	any
+IST	longer
+NIL	.

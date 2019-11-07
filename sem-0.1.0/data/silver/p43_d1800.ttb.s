@@ -1,0 +1,13 @@
+CON	Pinocchio
+EPS	turned
+COO	and
+EPS	saw
+DIS	a
+IST	large
+CON	cricket
+EXS	crawling
+IST	slowly
+IST	up
+DEF	the
+CON	wall
+NIL	.

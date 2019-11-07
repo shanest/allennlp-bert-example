@@ -1,0 +1,14 @@
+PRO	He
+PST	was
+IST	still
+IST	mad
+AND	about
+DEF	the
+CON	accident
+AND	despite
+HAS	his
+CON	wife
+HAS	's
+IST	conciliatory
+CON	words
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+FUT	would
+NOT	never
+EXT	have
+EXS	guessed
+SUB	that
+PER	Tom
+POS	could
+EXS	speak
+GPO	French
+AND	so
+IST	well
+NIL	.

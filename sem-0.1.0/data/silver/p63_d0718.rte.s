@@ -1,0 +1,12 @@
+DEF	The
+GPO	British
+ORG	Arms
+CON	embargo
+EPS	began
+REL	in
+YOC	1982
+AND	and
+EPS	continued
+AND	through
+YOC	1994
+NIL	.

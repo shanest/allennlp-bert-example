@@ -1,0 +1,13 @@
+NOW	Do
+NOT	n't
+EXS	come
+PRX	here
+IST	again
+DIS	or
+PRO	we
+FUT	'll
+NEC	definitely
+EXT	have
+DIS	a
+CON	problem
+NIL	.

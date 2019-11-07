@@ -1,0 +1,9 @@
+HAS	His
+ROL	grandfather
+EPS	died
+AND	of
+CON	cancer
+DIS	a
+CON	year
+PST	ago
+NIL	.

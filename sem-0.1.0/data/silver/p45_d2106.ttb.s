@@ -1,0 +1,13 @@
+PER	Tom
+NOW	has
+DIS	some
+INT	very
+IST	important
+CON	things
+PRO	he
+ENS	needs
+SUB	to
+EXS	do
+REL	before
+CLO	2:30
+NIL	.

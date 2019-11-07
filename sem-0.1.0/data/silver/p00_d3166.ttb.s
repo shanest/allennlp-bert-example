@@ -1,0 +1,10 @@
+PRO	I
+IST	often
+ENS	use
+CON	SSH
+NIL	to
+EXS	access
+HAS	my
+CON	computers
+IST	remotely
+NIL	.

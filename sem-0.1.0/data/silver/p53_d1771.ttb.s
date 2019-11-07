@@ -1,0 +1,11 @@
+REL	In
+IST	severe
+CON	weather
+NIL	,
+PRO	it
+NOW	's
+TOP	best
+SUB	to
+EXS	stay
+IST	indoors
+NIL	.

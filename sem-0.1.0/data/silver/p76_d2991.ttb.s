@@ -1,0 +1,12 @@
+AND	Maybe
+DIS	a
+IST	few
+AND	of
+PRO	you
+NOW	have
+EXS	seen
+CON	pandas
+REL	in
+DEF	the
+CON	zoo
+NIL	.

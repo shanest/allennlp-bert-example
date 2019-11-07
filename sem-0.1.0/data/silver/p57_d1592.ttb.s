@@ -1,0 +1,14 @@
+PRO	I
+FUT	would
+EXS	scream
+INT	very
+IST	loudly
+IMP	if
+PRO	I
+EPS	saw
+DIS	a
+CON	scorpion
+REL	in
+HAS	my
+CON	room
+NIL	.

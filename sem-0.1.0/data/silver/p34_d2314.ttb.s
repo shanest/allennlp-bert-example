@@ -1,0 +1,10 @@
+PRO	I
+PST	was
+EXS	absent
+AND	last
+DOW	Tuesday
+REL	on
+CON	account
+AND	of
+CON	illness
+NIL	.

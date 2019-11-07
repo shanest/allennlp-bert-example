@@ -1,0 +1,10 @@
+PRO	I
+EPS	made
+CON	friends
+REL	with
+PRO	them
+REL	at
+DEF	the
+CON	school
+CON	festival
+NIL	.

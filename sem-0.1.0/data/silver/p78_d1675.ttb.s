@@ -1,0 +1,9 @@
+PER	Tom
+EPS	began
+SUB	to
+NOW	suspect
+PER	Mary
+FUT	would
+EXS	leave
+PRO	him
+NIL	.

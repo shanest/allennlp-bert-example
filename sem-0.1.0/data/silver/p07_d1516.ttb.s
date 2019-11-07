@@ -1,0 +1,10 @@
+PER	Tom
+ENS	wants
+PER	Mary
+SUB	to
+EXS	help
+PRO	him
+REL	with
+HAS	his
+CON	homework
+NIL	.

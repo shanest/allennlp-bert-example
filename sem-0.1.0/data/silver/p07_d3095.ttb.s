@@ -1,0 +1,9 @@
+PRO	We
+POS	ca
+NOT	n't
+EXS	worry
+AND	about
+SUB	that
+EXS	right
+NOW	now
+NIL	.

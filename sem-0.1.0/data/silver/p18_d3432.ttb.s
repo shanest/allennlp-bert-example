@@ -1,0 +1,14 @@
+DEF	The
+CON	researchers
+ENS	believe
+PRO	they
+POS	may
+EXT	have
+EXS	found
+DEF	the
+ORG	Holy
+CON	Grail
+AND	of
+CON	cancer
+CON	research
+NIL	.

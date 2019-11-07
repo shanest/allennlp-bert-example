@@ -1,0 +1,10 @@
+PRO	She
+NOW	is
+NOT	not
+XCL	only
+IST	pretty
+NIL	,
+BUT	but
+ALT	also
+IST	bright
+NIL	.

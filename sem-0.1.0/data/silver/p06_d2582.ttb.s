@@ -1,0 +1,12 @@
+PRO	They
+EPS	fled
+DEF	the
+EXS	doomed
+CON	company
+AND	like
+CON	rats
+EXG	deserting
+DIS	a
+EXG	sinking
+CON	ship
+NIL	.

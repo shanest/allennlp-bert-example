@@ -1,0 +1,11 @@
+PER	Tom
+HAS	's
+GPO	French
+NOW	has
+IST	improved
+SUB	since
+PRO	he
+EPS	moved
+REL	to
+GPE	France
+NIL	.

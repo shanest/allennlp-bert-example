@@ -1,0 +1,13 @@
+PER	Tom
+NIL	,
+EPS	put
+HAS	your
+CON	money
+IST	away
+NIL	.
+PRO	I
+NOW	'm
+EXS	paying
+PRX	this
+CON	time
+NIL	.

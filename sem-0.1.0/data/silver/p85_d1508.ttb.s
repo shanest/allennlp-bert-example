@@ -1,0 +1,12 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+PRO	she
+NOW	is
+DIS	a
+CON	kind
+CON	girl
+NIL	.

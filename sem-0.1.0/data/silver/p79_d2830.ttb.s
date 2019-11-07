@@ -1,0 +1,11 @@
+PRX	This
+CON	book
+NOW	has
+PFT	been
+EXS	translated
+REL	into
+MOR	more
+MOR	than
+QUC	fifty
+CON	languages
+NIL	.

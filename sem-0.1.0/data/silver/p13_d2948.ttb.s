@@ -1,0 +1,17 @@
+PRO	You
+PST	'd
+IST	better
+NOT	not
+EXS	come
+INT	too
+EXS	close
+REL	to
+PRO	me
+NIL	.
+PRO	I
+NOW	'm
+REL	in
+DIS	a
+IST	bad
+CON	mood
+NIL	.

@@ -1,0 +1,14 @@
+UNK	There
+HAS	's
+IST	often
+DIS	a
+IST	simple
+CON	solution
+REL	to
+QUE	what
+ENS	seems
+AND	like
+DIS	a
+IST	complicated
+CON	problem
+NIL	.

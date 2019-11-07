@@ -1,0 +1,11 @@
+PER	Tom
+PST	had
+DIS	something
+PRO	he
+EPS	needed
+SUB	to
+EXS	talk
+REL	to
+PER	Mary
+AND	about
+NIL	.

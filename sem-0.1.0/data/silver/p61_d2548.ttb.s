@@ -1,0 +1,14 @@
+PRO	I
+ENS	know
+SUB	that
+PRX	this
+NOW	is
+DEF	the
+IST	first
+CON	time
+PRX	this
+NOW	has
+EXS	happened
+REL	to
+PRO	you
+NIL	.

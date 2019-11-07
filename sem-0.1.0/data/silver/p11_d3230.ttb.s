@@ -1,0 +1,12 @@
+DEF	The
+CON	strain
+AND	of
+DEF	the
+IST	last
+QUV	few
+CON	days
+PST	was
+EXS	beginning
+SUB	to
+EXS	tell
+NIL	.

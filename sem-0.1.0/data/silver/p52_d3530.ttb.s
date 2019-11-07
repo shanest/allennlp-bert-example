@@ -1,0 +1,9 @@
+AND	Everybody
+PST	had
+EXS	looked
+REL	on
+PRO	him
+AND	as
+DIS	a
+CON	good-for-nothing
+NIL	.

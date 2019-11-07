@@ -1,0 +1,4 @@
+POS	May
+PRO	I
+ENS	go
+QUE	?

@@ -1,0 +1,11 @@
+PRO	I
+FUT	'll
+EXS	stand
+CON	guard
+NOW	now
+NIL	.
+CON	Go
+NOW	get
+DIS	some
+CON	sleep
+NIL	.

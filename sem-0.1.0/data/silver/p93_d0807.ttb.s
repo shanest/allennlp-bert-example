@@ -1,0 +1,14 @@
+PER	John
+EPS	said
+NIL	,
+NIL	"
+ITJ	Hey
+ENS	guys
+NIL	,
+EXS	let
+PRO	's
+EXS	take
+DIS	a
+CON	break
+NIL	.
+NIL	"

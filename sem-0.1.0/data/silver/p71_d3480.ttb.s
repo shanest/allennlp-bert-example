@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	saving
+IST	up
+SUB	to
+EXS	buy
+DIS	a
+IST	new
+CON	car
+NIL	.

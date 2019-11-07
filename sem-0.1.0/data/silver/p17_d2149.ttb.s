@@ -1,0 +1,10 @@
+AND	Compared
+REL	to
+HAS	our
+CON	house
+NIL	,
+HAS	yours
+NOW	is
+DIS	a
+CON	palace
+NIL	.

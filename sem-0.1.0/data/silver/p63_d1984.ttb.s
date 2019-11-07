@@ -1,0 +1,11 @@
+QUC	One
+CON	thing
+PER	Tom
+IST	really
+ENS	enjoys
+NOW	is
+EXS	playing
+CON	chess
+REL	with
+PER	Mary
+NIL	.

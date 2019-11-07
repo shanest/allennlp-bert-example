@@ -1,0 +1,10 @@
+PRO	He
+EPS	attempted
+NIL	to
+EXS	sidestep
+DIS	a
+CON	conflict
+REL	with
+HAS	his
+ROL	chief
+NIL	.

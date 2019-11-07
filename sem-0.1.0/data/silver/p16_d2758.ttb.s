@@ -1,0 +1,9 @@
+PER	Tom
+HAS	's
+CON	girlfriend
+EPS	saw
+PRO	him
+REL	with
+ALT	another
+CON	girl
+NIL	.

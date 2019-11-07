@@ -1,0 +1,15 @@
+PER	Tom
+HAS	's
+IST	third
+CON	marriage
+PST	was
+NOT	un
+EXS	happy
+COO	and
+PRO	he
+PST	was
+EXS	considering
+ALT	yet
+ALT	another
+CON	divorce
+NIL	.

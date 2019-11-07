@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+NOW	have
+DIS	any
+CON	idea
+QUE	what
+PRO	you
+NOW	're
+EXG	saying
+QUE	?

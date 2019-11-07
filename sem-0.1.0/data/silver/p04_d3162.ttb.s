@@ -1,0 +1,17 @@
+PER	Tom
+NOW	has
+EPS	lied
+SUB	to
+PRO	me
+REL	in
+DEF	the
+CON	past
+NIL	,
+COO	so
+PRO	I
+NOW	do
+NOT	n't
+EXS	trust
+PRO	him
+CON	anymore
+NIL	.

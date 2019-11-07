@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+AND	either
+AND	of
+DEF	the
+QUC	two
+ROL	sisters
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+EPS	took
+HAS	my
+CON	shoes
+REL	off
+COO	and
+EPS	threw
+PRO	them
+AND	out
+DEF	the
+CON	window
+NIL	.

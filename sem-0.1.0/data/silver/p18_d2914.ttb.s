@@ -1,0 +1,12 @@
+PER	Tom
+POS	could
+EXT	've
+EXS	had
+PRX	this
+CON	job
+IMP	if
+PRO	he
+PST	'd
+EPS	wanted
+PRO	it
+NIL	.

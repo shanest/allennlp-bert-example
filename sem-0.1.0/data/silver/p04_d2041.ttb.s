@@ -1,0 +1,10 @@
+PRO	She
+EPS	put
+DIS	a
+CON	lot
+AND	of
+CON	sugar
+REL	in
+DEF	the
+CON	coffee
+NIL	.

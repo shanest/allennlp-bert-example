@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	possible
+SUB	that
+PRO	I
+POS	might
+EXS	run
+REL	into
+PER	Tom
+NIL	.

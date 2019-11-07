@@ -1,0 +1,11 @@
+SUB	To
+EXS	err
+NOW	is
+IST	human
+NIL	.
+EXS	Blaming
+DIS	someone
+AND	else
+NOW	is
+IST	wise
+NIL	.

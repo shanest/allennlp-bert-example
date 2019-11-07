@@ -1,0 +1,16 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+SUB	that
+PRO	we
+FUT	will
+EXS	be
+IST	able
+SUB	to
+EXS	solve
+PRX	this
+CON	problem
+REL	by
+REF	ourselves
+NIL	.

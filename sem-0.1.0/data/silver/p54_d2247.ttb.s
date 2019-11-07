@@ -1,0 +1,10 @@
+PER	Ben
+PST	committed
+HAS	his
+CON	diary
+REL	to
+DEF	the
+ROL	lawyer
+HAS	's
+CON	care
+NIL	.

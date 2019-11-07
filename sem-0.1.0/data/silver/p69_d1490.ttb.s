@@ -1,0 +1,9 @@
+PRO	She
+EPS	made
+PRO	me
+EXS	wait
+REL	for
+QUC	half
+DIS	an
+UOM	hour
+NIL	.

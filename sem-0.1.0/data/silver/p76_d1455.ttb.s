@@ -1,0 +1,15 @@
+PER	Tom
+EPS	lived
+REL	in
+HAS	his
+CON	car
+REL	for
+DIS	a
+SUB	while
+SUB	after
+PRO	he
+EPS	broke
+IST	up
+REL	with
+PER	Mary
+NIL	.

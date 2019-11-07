@@ -1,0 +1,13 @@
+PER	Tom
+FUT	would
+EXT	've
+EXS	called
+PER	Mary
+IMP	if
+PRO	he
+PST	'd
+EXS	had
+HAS	her
+CON	phone
+CON	number
+NIL	.

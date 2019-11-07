@@ -1,0 +1,12 @@
+DEF	The
+CON	castle
+NOW	has
+PFT	been
+EXS	restored
+COO	and
+NOW	is
+IST	open
+REL	to
+DEF	the
+CON	public
+NIL	.

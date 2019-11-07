@@ -1,0 +1,11 @@
+PRO	You
+PST	did
+NOT	n't
+IST	actually
+EXS	lie
+REL	to
+PER	Tom
+NIL	,
+PST	did
+PRO	you
+QUE	?

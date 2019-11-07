@@ -1,0 +1,11 @@
+NIL	"
+SUB	To
+EXS	hire
+DIS	a
+IST	good
+ROL	lawyer
+QUE	?
+NIL	"
+PER	Al-Sayib
+EPS	asked
+NIL	.

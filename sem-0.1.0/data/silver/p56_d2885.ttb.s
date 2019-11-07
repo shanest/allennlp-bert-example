@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	have
+QUC	two
+CON	pieces
+REL	in
+HAS	her
+CON	gallery
+NIL	.

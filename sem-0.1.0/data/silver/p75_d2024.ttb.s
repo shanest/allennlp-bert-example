@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	want
+PRO	me
+SUB	to
+EXS	go
+CON	shopping
+REL	with
+PER	Mary
+NIL	.

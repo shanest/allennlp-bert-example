@@ -1,0 +1,11 @@
+DEF	The
+CON	cake
+PST	was
+AND	all
+EXS	eaten
+IST	up
+SUB	before
+PRO	I
+EPS	got
+CON	home
+NIL	.

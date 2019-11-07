@@ -1,0 +1,11 @@
+PRO	I
+ENS	think
+PRO	it
+NOW	's
+IST	cruel
+SUB	to
+EXS	keep
+DIS	a
+CON	cat
+IST	indoors
+NIL	.

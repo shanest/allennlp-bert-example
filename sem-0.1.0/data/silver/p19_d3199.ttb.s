@@ -1,0 +1,11 @@
+PER	Tom
+PST	was
+EXS	attacked
+REL	by
+DIS	a
+IST	rabid
+CON	squirrel
+REL	on
+HAP	Halloween
+CON	day
+NIL	.

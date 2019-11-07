@@ -1,0 +1,13 @@
+PRO	I
+PST	was
+IST	so
+IST	afraid
+SUB	that
+NOT	no
+CON	one
+FUT	would
+EXS	ask
+PRO	me
+SUB	to
+EXS	dance
+NIL	.

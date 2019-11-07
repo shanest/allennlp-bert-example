@@ -1,0 +1,11 @@
+NIL	There
+NOW	is
+DIS	a
+CON	lot
+PRO	I
+POS	ca
+NOT	n't
+EXS	do
+REL	until
+FUT	tomorrow
+NIL	.

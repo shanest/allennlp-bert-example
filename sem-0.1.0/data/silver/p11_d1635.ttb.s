@@ -1,0 +1,12 @@
+DEF	The
+IST	periodic
+CON	flooding
+AND	of
+DEF	the
+GEO	Nile
+NOW	is
+INT	very
+EXS	important
+REL	to
+GPE	Egypt
+NIL	.

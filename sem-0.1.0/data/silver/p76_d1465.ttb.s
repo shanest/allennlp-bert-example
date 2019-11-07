@@ -1,0 +1,13 @@
+AND	During
+DEF	the
+DEC	60s
+AND	and
+DEC	70s
+NIL	,
+PRO	she
+EPS	published
+HAS	her
+INT	most
+IST	famous
+CON	books
+NIL	.

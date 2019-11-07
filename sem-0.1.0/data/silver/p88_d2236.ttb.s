@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	trying
+SUB	to
+EXS	figure
+AND	out
+DIS	a
+CON	solution
+NIL	.

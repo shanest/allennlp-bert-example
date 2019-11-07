@@ -1,0 +1,10 @@
+DIS	Some
+CON	pupils
+NOW	find
+PRO	it
+UNK	difficult
+SUB	to
+EXS	follow
+DEF	the
+CON	rules
+NIL	.

@@ -1,0 +1,10 @@
+FUT	Will
+PRO	I
+EXS	be
+IST	able
+SUB	to
+EXS	get
+PRO	it
+REL	before
+CON	then
+QUE	?

@@ -1,0 +1,9 @@
+PRO	He
+EPS	remained
+EXS	poor
+AND	despite
+EXS	being
+DIS	a
+IST	hard
+CON	worker
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+FUT	wo
+NOT	n't
+EXS	let
+PRO	you
+EXS	speak
+REL	to
+PRO	me
+SUB	that
+CON	way
+NIL	.

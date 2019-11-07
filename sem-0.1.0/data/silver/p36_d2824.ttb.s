@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	trying
+SUB	to
+EXS	keep
+PER	Tom
+IST	away
+REL	from
+PER	Mary
+NIL	.

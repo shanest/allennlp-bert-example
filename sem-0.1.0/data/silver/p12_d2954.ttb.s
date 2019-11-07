@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	pitched
+HAS	their
+CON	tent
+REL	near
+DEF	the
+CON	stream
+NIL	.

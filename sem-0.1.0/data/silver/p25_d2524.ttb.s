@@ -1,0 +1,11 @@
+AND	Why
+NOW	do
+NOT	n't
+PRO	you
+IST	just
+EXS	admit
+SUB	that
+PRO	you
+NOW	're
+EXS	wrong
+QUE	?

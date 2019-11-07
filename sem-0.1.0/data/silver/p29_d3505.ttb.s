@@ -1,0 +1,10 @@
+PRO	They
+NOW	have
+IST	less
+CON	rain
+REL	in
+GPE	Egypt
+AND	than
+REL	in
+GPE	Japan
+NIL	.

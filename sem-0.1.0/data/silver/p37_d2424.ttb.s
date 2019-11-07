@@ -1,0 +1,15 @@
+PER	Tom
+EPS	bought
+DIS	a
+CON	couple
+AND	of
+CON	loaves
+AND	of
+CON	bread
+REL	on
+HAS	his
+CON	way
+CON	home
+REL	from
+CON	work
+NIL	.

@@ -1,0 +1,17 @@
+IMP	If
+PRO	you
+ENS	wish
+SUB	to
+EXS	speak
+REL	to
+PER	Tom
+NIL	,
+PRO	you
+FUT	'll
+EXS	need
+SUB	to
+EXS	wait
+INT	about
+QUC	three
+CON	hours
+NIL	.

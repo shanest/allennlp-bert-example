@@ -1,0 +1,10 @@
+PER	Tom
+EPS	opened
+HAS	his
+CON	locker
+COO	and
+EPS	took
+IST	out
+HAS	his
+CON	books
+NIL	.

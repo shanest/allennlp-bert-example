@@ -1,0 +1,10 @@
+PRO	We
+EPS	invited
+DIS	a
+CON	novelist
+AND	and
+ROL	poet
+REL	to
+DEF	the
+CON	party
+NIL	.

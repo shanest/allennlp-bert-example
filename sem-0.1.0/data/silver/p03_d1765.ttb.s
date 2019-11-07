@@ -1,0 +1,10 @@
+PRO	I
+ENS	wish
+PRO	I
+PST	'd
+PFT	been
+PRX	here
+QUC	three
+CON	hours
+PST	ago
+NIL	.

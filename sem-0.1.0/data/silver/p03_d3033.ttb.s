@@ -1,0 +1,10 @@
+SUB	When
+AND	and
+SUB	where
+PST	did
+PRO	you
+EXS	buy
+SUB	that
+IST	old
+CON	clock
+QUE	?

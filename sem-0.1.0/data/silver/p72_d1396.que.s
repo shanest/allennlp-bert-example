@@ -1,0 +1,12 @@
+QUE	What
+IST	20th
+CON	century
+GPO	American
+ROL	president
+EPS	died
+REL	at
+ORG	Warm
+ORG	Springs
+EQU	,
+GEO	Georgia
+QUE	?

@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	see
+HAS	your
+CON	face
+ALT	again
+NIL	.

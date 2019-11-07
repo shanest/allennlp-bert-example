@@ -1,0 +1,13 @@
+HAS	My
+ROL	neighbors
+NOW	are
+EXG	hogging
+DEF	the
+CON	laundry
+CON	room
+REL	in
+HAS	my
+CON	apartment
+CON	building
+ALT	again
+NIL	.

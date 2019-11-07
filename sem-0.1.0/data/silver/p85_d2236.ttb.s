@@ -1,0 +1,13 @@
+DST	That
+PST	was
+DIS	a
+IST	respectable
+CON	performance
+NIL	,
+BUT	but
+PRO	it
+NEC	definitely
+PST	was
+NOT	n't
+EXS	sensational
+NIL	.

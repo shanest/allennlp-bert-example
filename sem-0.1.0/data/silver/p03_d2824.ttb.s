@@ -1,0 +1,12 @@
+CON	Weeds
+NOW	are
+CON	nature
+HAS	's
+CON	opposition
+REL	against
+DEF	the
+CON	rule
+AND	of
+DEF	the
+CON	gardeners
+NIL	.

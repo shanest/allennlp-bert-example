@@ -1,0 +1,15 @@
+SUB	Who
+EPS	paid
+DEF	the
+GEO	indemnities
+REL	for
+DEF	the
+CON	accident
+AND	of
+DEF	the
+CON	oil
+CON	tanker
+NIL	"
+GPO	Aegean
+CON	Sea"
+QUE	?

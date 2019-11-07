@@ -1,0 +1,11 @@
+PRO	She
+HAS	's
+NOT	not
+REL	in
+DEF	the
+CON	habit
+AND	of
+EXG	showing
+HAS	her
+CON	feelings
+NIL	.

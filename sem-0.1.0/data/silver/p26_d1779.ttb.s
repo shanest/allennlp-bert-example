@@ -1,0 +1,11 @@
+UNK	First
+EPS	beat
+DEF	the
+CON	eggs
+COO	and
+EXS	add
+PRO	them
+REL	to
+DEF	the
+CON	soup
+NIL	.

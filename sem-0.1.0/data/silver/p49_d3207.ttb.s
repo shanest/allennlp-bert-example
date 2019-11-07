@@ -1,0 +1,10 @@
+PRO	They
+NOW	have
+NOT	no
+CON	children
+NIL	,
+REL	for
+AND	all
+PRO	I
+ENS	know
+NIL	.

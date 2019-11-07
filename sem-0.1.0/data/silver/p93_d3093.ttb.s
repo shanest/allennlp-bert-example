@@ -1,0 +1,11 @@
+PRO	It
+ENS	seems
+SUB	that
+PER	Tom
+NOW	has
+NOT	no
+CON	idea
+SUB	where
+PER	Mary
+NOW	is
+NIL	.

@@ -1,0 +1,13 @@
+DEF	The
+CON	life
+AND	of
+PER	Lincoln
+NOW	is
+EXS	read
+REL	by
+CON	children
+AND	all
+AND	over
+DEF	the
+CON	world
+NIL	.

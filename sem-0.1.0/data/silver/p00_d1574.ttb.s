@@ -1,0 +1,13 @@
+NOW	Do
+PRO	you
+EXS	happen
+NIL	to
+EXS	know
+DIS	a
+CON	man
+REL	by
+DEF	the
+CON	name
+REL	of
+PER	Brown
+QUE	?

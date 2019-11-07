@@ -1,0 +1,13 @@
+PRO	She
+EPS	called
+IST	out
+REL	to
+PRO	him
+NIL	,
+REL	with
+CON	tears
+EXG	running
+IST	down
+HAS	her
+CON	cheeks
+NIL	.

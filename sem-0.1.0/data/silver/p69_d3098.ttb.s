@@ -1,0 +1,10 @@
+PRO	I
+EPS	read
+PRO	it
+REL	in
+DEF	the
+CON	magazine
+QUC	three
+CON	days
+PST	ago
+NIL	.

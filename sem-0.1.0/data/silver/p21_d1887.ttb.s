@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+COM	better
+SUB	to
+EXS	lie
+IST	low
+REL	until
+PRX	this
+CON	affair
+CON	blows
+AND	over
+NIL	.

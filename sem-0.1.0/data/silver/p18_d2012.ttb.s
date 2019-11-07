@@ -1,0 +1,10 @@
+PRO	You
+ENS	need
+NOT	not
+EXS	take
+DEF	the
+CON	trouble
+SUB	to
+EXS	go
+IST	there
+NIL	.

@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+EXS	think
+PRO	you
+NOW	're
+EXS	going
+SUB	to
+EXS	get
+IST	away
+PRX	this
+NIL	.

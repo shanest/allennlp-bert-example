@@ -1,0 +1,9 @@
+QUC	Four
+UOM	percent
+CON	inflation
+NOW	is
+EXS	forecast
+REL	for
+PRX	this
+CON	year
+NIL	.

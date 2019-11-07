@@ -1,0 +1,10 @@
+CON	Machines
+AND	that
+HAS	his
+CON	company
+ENS	produces
+NOW	are
+IST	superior
+REL	to
+CON	ours
+NIL	.

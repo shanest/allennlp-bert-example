@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+NOW	has
+IST	ever
+EXS	been
+IST	able
+SUB	to
+EXS	do
+PRO	it
+NIL	.

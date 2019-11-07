@@ -1,0 +1,10 @@
+PRO	I
+EPS	forgot
+SUB	to
+EXS	write
+DEF	the
+CON	address
+REL	on
+DEF	the
+CON	envelope
+NIL	.

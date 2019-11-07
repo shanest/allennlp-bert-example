@@ -1,0 +1,10 @@
+DEF	The
+CON	idea
+AND	of
+EXG	surprising
+PRO	her
+IST	suddenly
+EPS	crossed
+HAS	my
+CON	mind
+NIL	.

@@ -1,0 +1,10 @@
+HAS	My
+ROL	grandmother
+PST	was
+EXG	pulling
+REL	up
+CON	weeds
+REL	in
+HAS	her
+CON	backyard
+NIL	.

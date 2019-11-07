@@ -1,0 +1,12 @@
+POS	Can
+PRO	it
+EXS	be
+SUB	that
+DEF	the
+COL	white
+CON	horse
+NOW	is
+NOT	not
+DIS	a
+CON	horse
+QUE	?

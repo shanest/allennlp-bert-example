@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	waiting
+REL	for
+PRO	you
+REL	in
+DEF	the
+CON	lobby
+NIL	.

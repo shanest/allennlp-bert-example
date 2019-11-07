@@ -1,0 +1,9 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	clap
+REL	after
+PER	Mary
+HAS	's
+CON	performance
+NIL	.

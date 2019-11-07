@@ -1,0 +1,12 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	show
+PRO	you
+DIS	something
+PRO	I
+NOW	've
+PFT	been
+EXG	working
+REL	on
+NIL	.

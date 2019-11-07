@@ -1,0 +1,14 @@
+DIS	A
+IST	new
+CON	version
+AND	of
+ORG	Microsoft
+HAS	's
+CON	now-standard
+REL	Windows
+EXG	operating
+CON	system
+NOW	has
+PFT	been
+EXS	unwrapped
+NIL	.

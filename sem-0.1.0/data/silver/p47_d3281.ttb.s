@@ -1,0 +1,11 @@
+PRO	I
+EPS	met
+PRO	her
+REL	in
+DIS	a
+CON	coffee
+CON	shop
+AND	near
+DEF	the
+CON	station
+NIL	.

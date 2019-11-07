@@ -1,0 +1,10 @@
+PER	Bert
+HAS	's
+CON	bisexuality
+PST	was
+EXG	troubling
+PER	Tom
+COO	and
+EXS	excited
+PER	Mary
+NIL	.

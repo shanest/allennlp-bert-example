@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+EXS	good
+SUB	to
+EXS	have
+CON	ideals
+NIL	...
+NOW	do
+NOT	n't
+PRO	you
+EXS	think
+QUE	?

@@ -1,0 +1,10 @@
+HAS	My
+IST	little
+ROL	sister
+IST	sometimes
+EPS	wished
+PRO	she
+PST	was
+DIS	a
+CON	boy
+NIL	.

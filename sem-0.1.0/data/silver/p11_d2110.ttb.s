@@ -1,0 +1,10 @@
+PRX	This
+CON	letter
+ENS	says
+SUB	that
+PRO	he
+FUT	will
+EXS	arrive
+REL	on
+DOW	Monday
+NIL	.

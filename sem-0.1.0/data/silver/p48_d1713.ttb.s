@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	understand
+QUE	why
+PRO	she
+NOW	is
+EXS	opposed
+REL	to
+HAS	my
+CON	opinion
+NIL	.

@@ -1,0 +1,16 @@
+EXS	Come
+ALT	again
+FUT	tomorrow
+CON	afternoon
+NIL	,
+SUB	when
+PRO	I
+FUT	will
+EXS	have
+IST	more
+CON	time
+SUB	to
+EXS	talk
+REL	with
+PRO	you
+NIL	.

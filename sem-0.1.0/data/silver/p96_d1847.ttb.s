@@ -1,0 +1,14 @@
+PRO	We
+EPS	used
+SUB	to
+EXS	discuss
+AND	everything
+AND	and
+NOW	now
+PRO	we
+POS	ca
+NOT	n't
+EXS	talk
+AND	about
+AND	anything
+NIL	.

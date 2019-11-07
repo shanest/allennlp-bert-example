@@ -1,0 +1,14 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	feel
+INT	very
+IST	well
+NIL	,
+BUT	but
+PRO	I
+EPS	went
+REL	to
+EXS	work
+IST	anyway
+NIL	.

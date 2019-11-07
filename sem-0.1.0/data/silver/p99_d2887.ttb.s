@@ -1,0 +1,9 @@
+PRO	You
+NOW	are
+EXS	looking
+IST	quite
+EXS	inviting
+REL	at
+DEF	the
+CON	moment
+NIL	.

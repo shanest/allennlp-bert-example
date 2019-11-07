@@ -1,0 +1,10 @@
+PRO	I
+NOW	hear
+SUB	that
+PER	Bob
+AND	and
+PER	Lucy
+NOW	have
+EXS	broken
+IST	up
+NIL	.

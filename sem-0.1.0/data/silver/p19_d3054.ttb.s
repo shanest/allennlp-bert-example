@@ -1,0 +1,13 @@
+EXS	Let
+HAS	's
+EXS	see
+QUE	how
+DEF	the
+CON	negotiations
+NOW	play
+IST	out
+SUB	before
+EXG	making
+HAS	our
+CON	decision
+NIL	.

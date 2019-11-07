@@ -1,0 +1,14 @@
+PRO	I
+ENS	know
+SUB	that
+AND	even
+DEF	the
+INT	most
+IST	beautiful
+CON	kiss
+NEC	must
+EXS	come
+REL	to
+DIS	an
+CON	end
+NIL	.

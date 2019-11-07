@@ -1,0 +1,10 @@
+PRO	We
+EPS	drove
+INT	too
+IST	fast
+SUB	to
+EXS	enjoy
+DEF	the
+IST	beautiful
+CON	scenery
+NIL	.

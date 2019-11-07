@@ -1,0 +1,15 @@
+DEF	The
+CON	commentator
+EPS	began
+EXS	yelling
+SUB	when
+DEF	the
+CON	referee
+EPS	gave
+DEF	the
+CON	defender
+DIS	a
+IST	second
+COL	yellow
+CON	card
+NIL	.

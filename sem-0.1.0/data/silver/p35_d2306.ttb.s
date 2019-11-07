@@ -1,0 +1,9 @@
+DEF	The
+CON	region
+NOW	has
+NOT	never
+PFT	been
+EXS	inhabited
+REL	by
+CON	people
+NIL	.

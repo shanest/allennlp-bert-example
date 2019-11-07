@@ -1,0 +1,11 @@
+PRO	It
+PST	was
+EXS	interesting
+SUB	to
+EXS	hear
+AND	about
+CON	school
+CON	life
+REL	in
+GPE	Britain
+NIL	.

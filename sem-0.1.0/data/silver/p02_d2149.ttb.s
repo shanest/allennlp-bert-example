@@ -1,0 +1,11 @@
+NOT	Something
+EXS	like
+SUB	that
+EXS	had
+NOT	never
+NIL	,
+IST	ever
+EPS	happened
+REL	to
+PRO	me
+NIL	.

@@ -1,0 +1,14 @@
+CON	Look
+EQU	,
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXG	holding
+CON	hands
+NIL	!
+PRO	They
+NOW	're
+INT	so
+EXS	cute
+NIL	!

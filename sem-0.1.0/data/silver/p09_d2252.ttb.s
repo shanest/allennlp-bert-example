@@ -1,0 +1,12 @@
+PER	Tom
+COO	and
+PRO	I
+PST	were
+AND	both
+REL	at
+PER	John
+AND	and
+PER	Mary
+HAS	's
+CON	wedding
+NIL	.

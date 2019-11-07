@@ -1,0 +1,10 @@
+PRO	I
+EPS	gave
+PRO	you
+IST	explicit
+CON	instructions
+NOT	not
+SUB	to
+EXS	touch
+DIS	anything
+NIL	.

@@ -1,0 +1,12 @@
+NOW	Is
+PRX	this
+QUE	what
+PRO	you
+NOW	've
+PFT	been
+EXS	searching
+REL	for
+AND	all
+PRX	this
+CON	time
+QUE	?

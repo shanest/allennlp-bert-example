@@ -1,0 +1,9 @@
+PER	Tom
+EPS	noticed
+SUB	that
+DIS	someone
+PST	was
+EXS	standing
+AND	behind
+PER	Mary
+NIL	.

@@ -1,0 +1,16 @@
+PRO	You
+POS	can
+EXS	get
+REL	to
+DEF	the
+ALT	other
+CON	side
+AND	of
+DEF	the
+CON	road
+REL	by
+EXG	going
+AND	through
+PRX	this
+CON	underpass
+NIL	.

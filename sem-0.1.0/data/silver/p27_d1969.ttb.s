@@ -1,0 +1,11 @@
+PER	Tom
+ENS	speaks
+IST	excellent
+GPO	Russian
+NIL	,
+BUT	but
+HAS	his
+GPO	German
+NOW	is
+IST	abysmal
+NIL	.

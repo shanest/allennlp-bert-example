@@ -1,0 +1,17 @@
+CON	Poetry
+NOW	is
+QUE	what
+NOW	is
+EXS	lost
+REL	in
+CON	translation
+NIL	.
+PRO	It
+NOW	is
+ALT	also
+QUE	what
+NOW	is
+EXS	lost
+REL	in
+CON	interpretation
+NIL	.

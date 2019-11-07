@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+AND	like
+DEF	the
+IST	big
+CON	brother
+PRO	I
+NOT	never
+EPS	had
+NIL	.

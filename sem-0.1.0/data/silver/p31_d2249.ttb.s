@@ -1,0 +1,11 @@
+AND	Could
+PRO	I
+ENS	go
+AND	over
+REL	to
+PER	Mary
+HAS	's
+CON	house
+SUB	to
+EXS	play
+QUE	?

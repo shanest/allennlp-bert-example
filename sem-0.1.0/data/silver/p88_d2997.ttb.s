@@ -1,0 +1,16 @@
+PRO	They
+EPS	told
+PRO	me
+SUB	that
+PRO	I
+FUT	would
+EXS	feel
+DIS	a
+IST	little
+COM	better
+IMP	if
+PRO	I
+EPS	took
+PRX	this
+CON	medicine
+NIL	.

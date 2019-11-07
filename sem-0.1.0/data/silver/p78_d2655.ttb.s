@@ -1,0 +1,9 @@
+QUE	How
+IST	long
+NOW	have
+PRO	you
+EXS	been
+DIS	a
+CON	doctor
+PRX	here
+QUE	?

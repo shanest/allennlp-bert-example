@@ -1,0 +1,9 @@
+PRO	She
+ENS	says
+PRO	she
+FUT	will
+NOT	not
+EXS	give
+IST	up
+CON	smoking
+NIL	.

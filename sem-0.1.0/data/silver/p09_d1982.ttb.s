@@ -1,0 +1,12 @@
+EXS	Let
+HAS	's
+CON	hope
+PRO	we
+NOW	do
+NOT	n't
+NEC	have
+SUB	to
+EXS	do
+PRX	this
+ALT	again
+NIL	.

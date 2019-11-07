@@ -1,0 +1,9 @@
+PER	Tom
+EPS	put
+INT	too
+QUC	much
+CON	sugar
+REL	in
+HAS	my
+CON	coffee
+NIL	.

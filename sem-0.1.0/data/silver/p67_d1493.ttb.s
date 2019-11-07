@@ -1,0 +1,10 @@
+PER	Tom
+PST	had
+NOT	no
+EXS	desire
+SUB	to
+EXS	go
+IST	out
+REL	with
+PER	Mary
+NIL	.

@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+EXS	have
+DEF	the
+IST	same
+CON	thing
+REL	in
+DIS	a
+ALT	different
+CON	color
+QUE	?

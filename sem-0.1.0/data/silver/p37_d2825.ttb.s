@@ -1,0 +1,11 @@
+AND	Besides
+CON	fruit
+NIL	,
+PRO	we
+NOW	're
+EXS	going
+SUB	to
+EXS	have
+CON	ice
+CON	cream
+NIL	.

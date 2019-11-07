@@ -1,0 +1,10 @@
+PRO	I
+NOT	never
+EPS	meant
+SUB	to
+EXS	put
+PRO	you
+REL	in
+AND	any
+CON	danger
+NIL	.

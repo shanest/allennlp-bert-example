@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+PRO	you
+FUT	'll
+EXS	do
+QUE	what
+HAS	's
+EXS	necessary
+NIL	.

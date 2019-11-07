@@ -1,0 +1,10 @@
+SUB	When
+PRO	I
+EPS	awoke
+NIL	,
+PRO	he
+PST	had
+IST	already
+PFT	been
+UNK	there
+NIL	.

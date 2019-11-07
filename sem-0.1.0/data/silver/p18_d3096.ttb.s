@@ -1,0 +1,12 @@
+QUE	What
+EPS	happened
+PST	was
+COM	worse
+AND	than
+DIS	anything
+PER	Tom
+PST	had
+EPS	imagined
+FUT	would
+EXS	happen
+NIL	.

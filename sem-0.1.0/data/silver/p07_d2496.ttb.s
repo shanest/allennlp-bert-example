@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+IST	quite
+EXS	satisfied
+REL	with
+PER	Tom
+HAS	's
+CON	answer
+NIL	.

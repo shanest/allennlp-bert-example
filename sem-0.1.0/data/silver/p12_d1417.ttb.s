@@ -1,0 +1,13 @@
+UNK	There
+NOW	are
+ALT	also
+IST	high-quality
+IST	Bordeaux
+CON	wines
+AND	which
+AND	everybody
+POS	can
+EXS	treat
+REF	themselves
+REL	to
+NIL	.

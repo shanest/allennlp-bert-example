@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	looking
+REL	for
+DIS	a
+CON	job
+AND	near
+HAS	my
+CON	house
+NIL	.

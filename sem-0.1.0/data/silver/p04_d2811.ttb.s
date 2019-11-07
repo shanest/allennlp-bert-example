@@ -1,0 +1,10 @@
+AND	Why
+PST	did
+NOT	n't
+PRO	you
+EXS	tell
+PER	Tom
+PRO	you
+PST	were
+EXS	thirsty
+QUE	?

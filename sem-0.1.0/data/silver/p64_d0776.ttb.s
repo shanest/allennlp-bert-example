@@ -1,0 +1,9 @@
+PRO	We
+EPS	looked
+IST	out
+DEF	the
+CON	window
+BUT	but
+EPS	saw
+NOT	nothing
+NIL	.

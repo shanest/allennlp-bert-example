@@ -1,0 +1,12 @@
+AND	Could
+PRO	you
+EXS	tell
+PRO	me
+DEF	the
+CON	way
+REL	to
+DEF	the
+CON	station
+NIL	,
+IST	please
+QUE	?

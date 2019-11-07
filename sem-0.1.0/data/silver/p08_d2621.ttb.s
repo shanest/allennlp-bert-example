@@ -1,0 +1,10 @@
+PRO	She
+NOW	is
+DEF	the
+INT	most
+IST	boring
+CON	girl
+PRO	I
+IST	ever
+EPS	knew
+NIL	.

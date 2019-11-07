@@ -1,0 +1,12 @@
+EXS	Let
+PRO	me
+EXS	know
+SUB	once
+PRO	you
+NOW	've
+EXS	decided
+SUB	when
+PRO	you
+FUT	'll
+EXS	come
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	loved
+HAS	her
+IST	ever
+SUB	since
+PRO	I
+EPS	met
+PRO	her
+NIL	.

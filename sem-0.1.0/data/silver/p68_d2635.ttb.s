@@ -1,0 +1,10 @@
+PRO	She
+EPS	asked
+PRO	me
+QUE	how
+IST	long
+PST	ago
+HAS	my
+CON	parents
+EPS	died
+NIL	.

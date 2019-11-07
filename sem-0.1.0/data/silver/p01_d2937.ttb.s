@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+IST	afraid
+PRO	I
+NOW	'm
+EXG	feeling
+IST	out
+AND	of
+CON	sorts
+AND	right
+NOW	now
+NIL	.

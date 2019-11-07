@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+IST	hard
+REL	for
+PRO	me
+SUB	to
+EXS	believe
+PRX	this
+NIL	.

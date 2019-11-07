@@ -1,0 +1,13 @@
+AND	And
+SUB	to
+EXS	make
+CON	matters
+COM	worse
+NIL	,
+PRO	he
+EPS	met
+REL	with
+DIS	a
+CON	traffic
+CON	accident
+NIL	.

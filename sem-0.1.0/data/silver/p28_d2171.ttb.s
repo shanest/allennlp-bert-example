@@ -1,0 +1,14 @@
+PRO	I
+NOW	think
+PRO	it
+NOW	's
+EXS	unhealthy
+SUB	to
+EXS	eat
+MOR	more
+MOR	than
+QUC	20
+CON	oranges
+DIS	a
+CON	day
+NIL	.

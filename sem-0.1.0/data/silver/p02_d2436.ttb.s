@@ -1,0 +1,12 @@
+ROL	Mr.
+PER	Morita
+EPS	started
+DIS	a
+CON	business
+REL	by
+EXG	using
+PST	borrowed
+CON	money
+AND	as
+CON	capital
+NIL	.

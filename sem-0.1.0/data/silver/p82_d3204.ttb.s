@@ -1,0 +1,9 @@
+PRO	I
+ENS	need
+DIS	a
+CON	shirt
+REL	with
+DIS	a
+IST	stiff
+CON	collar
+NIL	.

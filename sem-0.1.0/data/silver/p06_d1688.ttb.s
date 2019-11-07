@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+IST	afraid
+PRO	I
+NEC	have
+SUB	to
+EXS	go
+NOW	now
+NIL	.

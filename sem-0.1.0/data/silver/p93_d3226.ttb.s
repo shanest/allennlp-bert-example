@@ -1,0 +1,11 @@
+AND	Up
+SUB	to
+NOW	now
+NIL	,
+PRO	we
+NOW	've
+NOT	never
+EXS	had
+PRX	this
+CON	problem
+NIL	.

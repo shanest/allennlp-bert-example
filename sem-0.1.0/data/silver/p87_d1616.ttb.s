@@ -1,0 +1,13 @@
+DEF	The
+IST	whole
+CON	soccer
+CON	team
+PST	was
+REL	on
+CON	cloud
+QUC	nine
+REL	after
+EXG	winning
+DEF	the
+CON	championship
+NIL	.

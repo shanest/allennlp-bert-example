@@ -1,0 +1,12 @@
+DEF	The
+CON	refugees
+EPS	took
+CON	shelter
+REL	in
+DIS	a
+CON	refugee
+CON	camp
+REL	from
+DEF	the
+CON	Red-Cross
+NIL	.

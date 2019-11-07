@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+NOT	not
+IST	just
+IST	illegal
+NIL	,
+PRO	it
+NOW	's
+ALT	also
+EXS	dangerous
+NIL	.

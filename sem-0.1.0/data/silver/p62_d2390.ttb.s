@@ -1,0 +1,10 @@
+DEF	The
+CON	peacock
+HAS	's
+IST	beautiful
+CON	tail
+ENS	helps
+PRO	it
+EXS	attract
+CON	females
+NIL	.

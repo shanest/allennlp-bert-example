@@ -1,0 +1,13 @@
+QUE	Who
+ENS	's
+SUB	that
+EXS	cute
+CON	girl
+PRO	I
+EPS	saw
+PRO	you
+REL	with
+REL	at
+DEF	the
+CON	mall
+QUE	?

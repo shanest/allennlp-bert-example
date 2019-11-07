@@ -1,0 +1,10 @@
+CON	Islam
+EPS	arrived
+REL	to
+GPE	Suriname
+REL	in
+DEF	the
+IST	late
+IST	nineteenth
+CON	century
+NIL	.

@@ -1,0 +1,10 @@
+AND	Would
+PRO	you
+SUB	mind
+EXG	telling
+PRO	me
+QUE	what
+PRO	you
+NOW	're
+EXS	doing
+QUE	?

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	apologized
+REL	to
+PER	Mary
+REL	for
+HAS	his
+CON	son
+HAS	's
+CON	rudeness
+NIL	.

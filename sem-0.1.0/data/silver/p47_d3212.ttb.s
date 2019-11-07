@@ -1,0 +1,10 @@
+PER	Keiko
+EPS	buried
+HAS	her
+CON	head
+REL	in
+DEF	the
+CON	pillow
+COO	and
+EPS	cried
+NIL	.

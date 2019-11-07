@@ -1,0 +1,9 @@
+REL	On
+PRX	this
+CON	day
+PRO	I
+PST	had
+CON	difficulties
+REL	with
+EXS	speaking
+NIL	.

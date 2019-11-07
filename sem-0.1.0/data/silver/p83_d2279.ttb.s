@@ -1,0 +1,9 @@
+PER	Tom
+EPS	found
+HAS	his
+CON	glasses
+COO	and
+EPS	put
+PRO	them
+REL	on
+NIL	.

@@ -1,0 +1,12 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+PRO	he
+NOW	has
+NOT	never
+PFT	been
+IST	overseas
+NIL	.

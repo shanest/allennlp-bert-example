@@ -1,0 +1,10 @@
+PRO	I
+FUT	would
+EXS	think
+SUB	that
+PER	Tom
+FUT	would
+EXS	appreciate
+HAS	your
+CON	help
+NIL	.

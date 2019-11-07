@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+QUC	three
+NIL	,
+QUC	twenty-five
+REL	off
+HAS	your
+IST	next
+CON	shop
+NIL	.

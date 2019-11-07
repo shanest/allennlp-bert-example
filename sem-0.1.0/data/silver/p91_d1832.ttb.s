@@ -1,0 +1,12 @@
+HAS	Our
+CON	teacher
+NOW	does
+NOT	n't
+IST	just
+EXS	speak
+GPO	English
+NIL	,
+BUT	but
+GPO	French
+ALT	too
+NIL	.

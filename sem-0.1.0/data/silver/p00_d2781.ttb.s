@@ -1,0 +1,12 @@
+DEF	The
+CON	criminal
+NOW	is
+IST	sure
+NIL	to
+EXS	do
+CON	time
+REL	for
+EXG	robbing
+DEF	the
+CON	store
+NIL	.

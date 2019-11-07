@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	work
+AND	as
+DIS	a
+ROL	builder
+REL	with
+HAS	my
+CON	father
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+CON	dream
+SUB	to
+EXS	go
+COO	and
+EXS	live
+REL	in
+GPE	Lithuania
+NIL	.

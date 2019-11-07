@@ -1,0 +1,11 @@
+PRX	This
+CON	jacket
+NOW	has
+DEF	the
+CON	virtue
+AND	of
+EXS	being
+IST	easy
+SUB	to
+EXS	wash
+NIL	.

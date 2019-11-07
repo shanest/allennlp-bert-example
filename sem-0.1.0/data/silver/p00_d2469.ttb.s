@@ -1,0 +1,17 @@
+DIS	A
+CON	hero
+NOW	is
+IST	often
+AND	just
+DIS	a
+CON	person
+AND	who
+NOW	does
+NOT	n't
+EXS	have
+DEF	the
+CON	ability
+NIL	to
+EXS	recognise
+CON	danger
+NIL	.

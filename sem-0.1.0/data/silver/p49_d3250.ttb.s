@@ -1,0 +1,10 @@
+PRO	I
+FUT	'll
+EXS	bring
+DEF	the
+CON	book
+IST	back
+REL	to
+PRO	you
+FUT	tomorrow
+NIL	.

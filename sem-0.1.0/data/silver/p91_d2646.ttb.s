@@ -1,0 +1,10 @@
+QUE	How
+NOW	do
+PRO	I
+EXS	know
+PRO	you
+NOW	're
+NOT	not
+DIS	an
+CON	imposter
+QUE	?

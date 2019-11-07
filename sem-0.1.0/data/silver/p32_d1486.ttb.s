@@ -1,0 +1,11 @@
+DEF	The
+IST	prominent
+ROL	poet
+EPS	attempted
+SUB	to
+EXS	commit
+CON	suicide
+REL	in
+HAS	his
+CON	study
+NIL	.

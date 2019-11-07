@@ -1,0 +1,11 @@
+REL	In
+DEF	the
+CON	past
+PRO	it
+PST	was
+EPS	thought
+DEF	the
+CON	world
+PST	was
+EXS	flat
+NIL	.

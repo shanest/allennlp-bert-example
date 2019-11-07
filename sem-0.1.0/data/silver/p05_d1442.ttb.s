@@ -1,0 +1,12 @@
+PER	Tom
+EPS	caught
+PER	Mary
+HAS	's
+CON	eye
+COO	and
+IST	then
+EPS	pointed
+REL	at
+HAS	his
+CON	watch
+NIL	.

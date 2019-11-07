@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	do
+DIS	a
+CON	trick
+REL	with
+XCL	only
+QUC	four
+CON	cards
+NIL	.

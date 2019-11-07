@@ -1,0 +1,16 @@
+PRO	I
+NOW	'm
+EXS	lazy
+AND	about
+HAS	my
+CON	hair
+NIL	,
+COO	so
+PRO	I
+ENS	tend
+SUB	to
+EXS	look
+AND	like
+DIS	a
+CON	slob
+NIL	.

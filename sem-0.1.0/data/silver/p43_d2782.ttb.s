@@ -1,0 +1,10 @@
+NOW	Do
+PRO	slugs
+EXS	die
+IMP	if
+PRO	you
+EPS	put
+CON	salt
+REL	on
+PRO	them
+QUE	?

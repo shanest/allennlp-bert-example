@@ -1,0 +1,9 @@
+DEF	The
+ORG	FBI
+IST	secretly
+EPS	wiretapped
+DEF	the
+IST	criminal
+HAS	's
+CON	room
+NIL	.

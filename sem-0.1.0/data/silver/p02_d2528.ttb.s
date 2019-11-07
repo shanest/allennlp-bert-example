@@ -1,0 +1,11 @@
+REL	In
+GPE	Tokyo
+EQU	,
+DEF	the
+CON	cherry
+CON	blossoms
+NOW	are
+REL	in
+IST	full
+CON	bloom
+NIL	.

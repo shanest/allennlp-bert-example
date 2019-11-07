@@ -1,0 +1,10 @@
+HAS	My
+CON	parents
+NOW	have
+EXS	made
+PRO	me
+QUE	what
+PRO	I
+NOW	am
+NOW	today
+NIL	.

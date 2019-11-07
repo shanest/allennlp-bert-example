@@ -1,0 +1,10 @@
+AND	Throughout
+GEO	Europe
+NIL	,
+CON	people
+EPS	withdrew
+HAS	their
+CON	money
+REL	from
+CON	banks
+NIL	.

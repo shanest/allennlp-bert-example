@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	know
+QUE	what
+PER	Tom
+PST	was
+EXS	doing
+IST	there
+QUE	?

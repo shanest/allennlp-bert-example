@@ -1,0 +1,11 @@
+PRO	I
+EPS	saw
+PER	Tom
+EXS	give
+PER	Mary
+DIS	something
+REL	in
+DIS	a
+IST	small
+CON	box
+NIL	.

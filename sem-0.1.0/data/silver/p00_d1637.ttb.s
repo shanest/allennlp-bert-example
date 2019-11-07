@@ -1,0 +1,11 @@
+PRO	He
+PST	was
+REL	in
+DEF	the
+CON	process
+REL	of
+EXG	making
+DIS	a
+IST	final
+CON	decision
+NIL	.

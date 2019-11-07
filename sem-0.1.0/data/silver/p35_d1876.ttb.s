@@ -1,0 +1,12 @@
+PER	Bob
+EPS	said
+REL	to
+HAS	his
+CON	friend
+NIL	:
+NIL	"
+AND	What
+DIS	a
+CON	looker
+NIL	"
+NIL	.

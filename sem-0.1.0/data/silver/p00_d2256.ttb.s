@@ -1,0 +1,11 @@
+PRO	You
+NOW	've
+PFT	been
+AND	through
+DIS	a
+CON	lot
+NIL	,
+NOW	have
+NOT	n't
+PRO	you
+QUE	?

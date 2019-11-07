@@ -1,0 +1,9 @@
+PRO	He
+NOW	has
+DIS	a
+CON	date
+REL	with
+PER	Mary
+PRX	this
+CON	afternoon
+NIL	.

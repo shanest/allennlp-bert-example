@@ -1,0 +1,11 @@
+PRO	I
+EPS	spoke
+IST	so
+CON	loudly
+AND	as
+SUB	to
+EXS	be
+EXS	heard
+REL	by
+AND	everyone
+NIL	.

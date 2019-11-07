@@ -1,0 +1,9 @@
+AND	Would
+PRO	you
+AND	like
+DIS	a
+CON	cup
+AND	of
+CON	tea
+NOW	now
+QUE	?

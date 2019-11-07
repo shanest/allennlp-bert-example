@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+NOW	think
+PER	Tom
+NOW	is
+REL	in
+CON	love
+REL	with
+PRO	you
+QUE	?

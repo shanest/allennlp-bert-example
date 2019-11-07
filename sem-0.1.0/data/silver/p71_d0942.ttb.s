@@ -1,0 +1,10 @@
+PRO	I
+NOW	guess
+PRO	you
+NOW	've
+EXS	got
+DIS	a
+CON	lot
+AND	of
+CON	questions
+NIL	.

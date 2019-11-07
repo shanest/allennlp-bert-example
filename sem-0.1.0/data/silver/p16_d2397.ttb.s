@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+EXS	leave
+HAS	your
+CON	dog
+EPS	locked
+AND	inside
+DIS	a
+IST	hot
+CON	car
+NIL	.

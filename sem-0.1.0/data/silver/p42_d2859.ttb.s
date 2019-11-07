@@ -1,0 +1,10 @@
+PER	Tom
+EPS	called
+PRO	me
+PST	yesterday
+REL	at
+CLO	nine
+REL	in
+DEF	the
+CON	morning
+NIL	.

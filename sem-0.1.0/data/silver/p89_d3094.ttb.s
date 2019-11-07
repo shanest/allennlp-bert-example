@@ -1,0 +1,15 @@
+PRO	I
+EPS	saw
+QUV	many
+CON	patients
+REL	at
+DEF	the
+CON	hospital
+NIL	,
+DIS	some
+AND	of
+UNK	whom
+PST	were
+IST	badly
+EXS	injured
+NIL	.

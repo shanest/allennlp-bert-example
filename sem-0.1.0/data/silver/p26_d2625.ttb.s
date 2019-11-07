@@ -1,0 +1,11 @@
+PRO	It
+EPS	took
+DIS	a
+CON	moment
+REL	for
+PER	Tom
+SUB	to
+EXS	find
+HAS	his
+CON	voice
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Mary
+IST	never
+PST	had
+CON	trouble
+EXS	finding
+DIS	something
+SUB	to
+EXS	talk
+IST	about
+NIL	.

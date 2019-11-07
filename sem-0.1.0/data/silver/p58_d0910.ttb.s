@@ -1,0 +1,11 @@
+DEF	The
+CON	price
+AND	of
+PRX	this
+CON	book
+NOW	has
+PFT	been
+EXS	reduced
+REL	by
+CON	half
+NIL	.

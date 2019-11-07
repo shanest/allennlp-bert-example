@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	filled
+REL	with
+CON	joy
+AND	every
+CON	time
+PRO	I
+ENS	see
+PRO	you
+NIL	.

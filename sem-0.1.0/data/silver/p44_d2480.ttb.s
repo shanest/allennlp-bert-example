@@ -1,0 +1,11 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	afford
+DIS	a
+CON	camera
+AND	as
+IST	good
+AND	as
+HAS	yours
+NIL	.

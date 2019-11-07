@@ -1,0 +1,10 @@
+SUB	When
+PRO	he
+EPS	saw
+PER	Jesus
+EXS	passing
+REL	by
+NIL	,
+PRO	he
+EPS	said
+NIL	...

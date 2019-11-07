@@ -1,0 +1,13 @@
+PRO	We
+NEC	have
+SUB	to
+EXS	tell
+PER	Tom
+SUB	before
+PRO	he
+NOW	hears
+PRO	it
+REL	from
+DIS	someone
+AND	else
+NIL	.

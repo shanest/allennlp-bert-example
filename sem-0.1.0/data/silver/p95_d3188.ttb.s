@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	interrupt
+PER	Tom
+SUB	while
+PRO	he
+NOW	's
+EXS	working
+NIL	.

@@ -1,0 +1,12 @@
+AND	As
+NOW	is
+IST	often
+DEF	the
+CON	case
+REL	with
+CON	foreigners
+EQU	,
+PER	John
+ENS	dislikes
+PER	nattou
+NIL	.

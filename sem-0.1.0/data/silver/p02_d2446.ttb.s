@@ -1,0 +1,12 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	do
+QUE	what
+PRO	I
+NOW	'm
+EXS	being
+EXS	paid
+SUB	to
+EXS	do
+NIL	.

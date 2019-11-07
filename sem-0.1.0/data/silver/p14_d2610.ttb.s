@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	keep
+HAS	my
+CON	distance
+REL	from
+PRO	her
+REL	for
+DIS	a
+CON	while
+NIL	.

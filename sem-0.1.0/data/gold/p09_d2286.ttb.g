@@ -1,0 +1,13 @@
+DEF	The
+ROL	teacher
+ENS	wants
+NIL	to
+EXS	do
+REL	away
+REL	with
+CON	cheating
+REL	on
+CON	tests
+REL	in
+CON	school
+NIL	.

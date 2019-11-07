@@ -1,0 +1,10 @@
+DEF	The
+CON	girl
+PRO	I
+EPS	told
+PRO	you
+IST	about
+ENS	lives
+REL	in
+GEO	Kyoto
+NIL	.

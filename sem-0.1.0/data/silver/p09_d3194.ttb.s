@@ -1,0 +1,14 @@
+AND	As
+IST	soon
+SUB	as
+PRO	she
+EPS	saw
+PRO	me
+NIL	,
+PRO	she
+EPS	greeted
+PRO	me
+REL	with
+DIS	a
+CON	smile
+NIL	.

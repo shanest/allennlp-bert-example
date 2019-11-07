@@ -1,0 +1,11 @@
+DEF	The
+ROL	magician
+EPS	made
+DEF	the
+IST	young
+CON	lady
+EXS	float
+REL	into
+DEF	the
+CON	air
+NIL	.

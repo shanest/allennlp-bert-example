@@ -1,0 +1,11 @@
+QUE	Who
+ENS	knows
+QUE	what
+PRO	he
+FUT	'll
+EXS	accomplish
+IMP	if
+EXS	given
+DEF	the
+CON	chance
+QUE	?

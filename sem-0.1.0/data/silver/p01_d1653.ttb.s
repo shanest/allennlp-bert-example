@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	why
+PER	Mary
+NOW	is
+NOT	n't
+PRX	here
+NIL	.

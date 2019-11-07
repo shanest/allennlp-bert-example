@@ -1,0 +1,12 @@
+PRO	It
+PST	was
+IST	so
+EXS	cold
+SUB	that
+NOT	no
+CON	one
+EPS	wanted
+SUB	to
+EXS	go
+IST	outside
+NIL	.

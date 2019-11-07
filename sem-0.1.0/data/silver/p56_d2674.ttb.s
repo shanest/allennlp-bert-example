@@ -1,0 +1,16 @@
+AND	Then
+PRO	he
+EPS	cried
+IST	out
+AND	as
+IST	loud
+SUB	as
+PRO	he
+POS	could
+NIL	,
+BUT	but
+NOT	no
+CON	one
+EPS	heard
+PRO	him
+NIL	.

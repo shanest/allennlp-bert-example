@@ -1,0 +1,12 @@
+DEF	The
+CON	lecturer
+POS	could
+NOT	n't
+EXS	get
+HAS	his
+CON	message
+REL	across
+REL	to
+DEF	the
+CON	audience
+NIL	.

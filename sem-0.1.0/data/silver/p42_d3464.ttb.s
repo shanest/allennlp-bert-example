@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+COM	easier
+SUB	to
+EXS	stay
+IST	out
+AND	than
+SUB	to
+EXS	get
+IST	out
+NIL	.

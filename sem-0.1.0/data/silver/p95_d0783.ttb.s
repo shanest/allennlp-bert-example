@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	see
+DIS	a
+CON	horror
+CON	film
+NIL	.

@@ -1,0 +1,10 @@
+IST	Recent
+CON	comics
+NOW	have
+INT	too
+QUV	many
+IST	violent
+AND	and
+IST	sexual
+CON	scenes
+NIL	.

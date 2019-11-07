@@ -1,0 +1,9 @@
+PRO	He
+EPS	got
+REL	into
+DEF	the
+CON	car
+COO	and
+EPS	drove
+IST	off
+NIL	.

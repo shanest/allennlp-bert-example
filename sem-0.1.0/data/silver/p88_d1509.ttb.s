@@ -1,0 +1,9 @@
+PER	Tom
+EPS	ate
+AND	everything
+AND	that
+PST	was
+REL	on
+HAS	his
+CON	plate
+NIL	.

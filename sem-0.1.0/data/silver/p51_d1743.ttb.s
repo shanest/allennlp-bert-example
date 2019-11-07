@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+INT	very
+CON	CD
+PRO	I
+NOW	've
+PFT	been
+EXG	looking
+REL	for
+NIL	.

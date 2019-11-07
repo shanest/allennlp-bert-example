@@ -1,0 +1,10 @@
+PRO	She
+NOW	has
+ALT	yet
+SUB	to
+EXS	answer
+AND	any
+AND	of
+DEF	the
+CON	questions
+NIL	.

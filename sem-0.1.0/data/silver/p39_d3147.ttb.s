@@ -1,0 +1,10 @@
+DEF	The
+CON	hotel
+EPS	charged
+PRO	me
+QUC	8000
+UOM	yen
+UOM	for
+DEF	the
+CON	room
+NIL	.

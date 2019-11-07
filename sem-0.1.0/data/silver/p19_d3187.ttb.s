@@ -1,0 +1,10 @@
+PRO	I
+PST	persuaded
+HAS	my
+ROL	mother
+SUB	to
+EXS	lend
+PRO	me
+HAS	her
+CON	car
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+EPS	said
+PRO	he
+PST	did
+NOT	n't
+EXS	see
+DIS	anything
+IST	out
+AND	of
+DEF	the
+IST	ordinary
+NIL	.

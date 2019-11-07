@@ -1,0 +1,12 @@
+PRO	She
+NOW	does
+NOT	n't
+EXS	remember
+IMP	if
+HAS	his
+CON	car
+PST	was
+COL	yellow
+DIS	or
+NOT	not
+NIL	.

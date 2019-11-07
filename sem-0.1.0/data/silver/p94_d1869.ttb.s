@@ -1,0 +1,11 @@
+PER	Tom
+IST	still
+POS	ca
+NOT	n't
+EXS	get
+PER	Mary
+AND	out
+AND	of
+HAS	his
+CON	head
+NIL	.

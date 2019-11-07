@@ -1,0 +1,9 @@
+AND	Next
+CON	time
+NIL	,
+PRO	I
+NOW	'm
+EXS	coming
+NIL	,
+ALT	too
+NIL	.

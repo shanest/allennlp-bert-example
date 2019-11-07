@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+QUC	thirty
+NIL	,
+BUT	but
+PRO	he
+NOW	looks
+QUV	much
+COM	younger
+NIL	.

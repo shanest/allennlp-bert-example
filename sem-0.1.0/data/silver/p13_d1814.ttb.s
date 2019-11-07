@@ -1,0 +1,10 @@
+IMP	If
+PRO	you
+NOW	are
+IST	busy
+NIL	,
+PRO	I
+FUT	will
+EXS	help
+PRO	you
+NIL	.

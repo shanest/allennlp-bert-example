@@ -1,0 +1,10 @@
+PRX	This
+CON	sentence
+NOW	sounds
+EXS	unnatural
+REL	to
+PRO	me
+AND	as
+DIS	an
+GPO	American
+NIL	.

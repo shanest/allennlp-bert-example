@@ -1,0 +1,14 @@
+TOP	Most
+AND	of
+DEF	the
+ALT	others
+ALT	also
+EPS	lit
+HAS	their
+CON	pipes
+AND	and
+DIS	a
+IST	desultory
+CON	conversation
+EPS	ensued
+NIL	.

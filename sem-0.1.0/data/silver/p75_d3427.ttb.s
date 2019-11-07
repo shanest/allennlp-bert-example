@@ -1,0 +1,10 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+PRO	he
+PST	had
+EXS	decided
+SUB	to
+EXS	leave
+NIL	.

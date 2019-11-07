@@ -1,0 +1,13 @@
+POS	Can
+PRO	you
+EXS	charge
+HAS	your
+CON	phone
+QUE	?
+PRO	I
+ENS	want
+SUB	to
+EXS	talk
+REL	with
+DIS	somebody
+NIL	.

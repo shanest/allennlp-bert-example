@@ -1,0 +1,14 @@
+PER	Tom
+EPS	wanted
+NIL	to
+EXS	talk
+REL	to
+PER	Mary
+NIL	,
+BUT	but
+PRO	he
+POS	could
+NOT	n't
+EXS	find
+PRO	her
+NIL	.

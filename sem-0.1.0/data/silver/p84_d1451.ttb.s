@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+EXG	saying
+PRO	you
+IST	intentionally
+EXS	hide
+HAS	your
+IST	good
+NOW	looks
+QUE	?

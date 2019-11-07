@@ -1,0 +1,10 @@
+GPE	Seychelles
+NOW	is
+EXS	called
+NIL	"
+LIT	Sesel
+NIL	"
+REL	in
+REL	Seychellois
+CON	Creole
+NIL	.

@@ -1,0 +1,16 @@
+REL	In
+DEF	the
+IST	first
+CON	place
+NIL	,
+NOT	no
+CON	harm
+FUT	will
+EXS	come
+REL	to
+PRO	us
+AND	even
+IMP	if
+PRO	we
+ENS	try
+NIL	.

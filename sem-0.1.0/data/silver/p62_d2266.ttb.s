@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+IST	hard
+REL	for
+PRO	me
+SUB	to
+EXS	keep
+IST	up
+REL	with
+PER	Tom
+NIL	.

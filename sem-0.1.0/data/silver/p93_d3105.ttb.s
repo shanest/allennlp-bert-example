@@ -1,0 +1,12 @@
+DEF	The
+CON	property
+NEC	must
+EXT	have
+PFT	been
+INT	nearly
+DIS	a
+QUC	thousand
+UOM	acres
+AND	all
+EPS	told
+NIL	.

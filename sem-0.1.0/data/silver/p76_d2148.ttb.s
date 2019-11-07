@@ -1,0 +1,10 @@
+CON	Look
+QUE	how
+DEF	the
+CON	plane
+NOW	is
+EXG	gliding
+AND	toward
+DEF	the
+CON	field
+NIL	!

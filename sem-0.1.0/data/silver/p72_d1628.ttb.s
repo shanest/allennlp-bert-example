@@ -1,0 +1,14 @@
+PER	Long
+EQU	,
+IST	long
+PST	ago
+NIL	,
+UNK	there
+EPS	lived
+DIS	an
+IST	old
+CON	man
+AND	and
+HAS	his
+CON	wife
+NIL	.

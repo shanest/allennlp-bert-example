@@ -1,0 +1,11 @@
+HAS	His
+CON	knee
+EPS	turned
+DIS	a
+IST	ghastly
+IST	blackish
+COL	purple
+REL	from
+DEF	the
+CON	swelling
+NIL	.

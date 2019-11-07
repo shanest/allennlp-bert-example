@@ -1,0 +1,15 @@
+HAS	My
+CON	mom
+PST	had
+EXS	specified
+DEF	the
+CON	chores
+AND	that
+AND	each
+QUC	one
+AND	of
+PRO	us
+NEC	had
+SUB	to
+EXS	do
+NIL	.

@@ -1,0 +1,9 @@
+AND	Every
+CON	boss
+NOW	has
+HAS	his
+DIS	or
+HAS	her
+IST	favorite
+ROL	employee
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+EPS	said
+PRO	he
+EPS	feared
+HAS	his
+CON	speech
+PST	had
+EXS	been
+DIS	a
+CON	failure
+NIL	.

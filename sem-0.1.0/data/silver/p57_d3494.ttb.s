@@ -1,0 +1,11 @@
+PER	Mary
+EPS	took
+DIS	a
+CON	picture
+AND	of
+HAS	her
+CON	cat
+REL	with
+HAS	her
+CON	cellphone
+NIL	.

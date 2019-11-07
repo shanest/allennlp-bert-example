@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	think
+DEF	the
+CON	rain
+FUT	would
+EXS	last
+INT	so
+IST	long
+NIL	.

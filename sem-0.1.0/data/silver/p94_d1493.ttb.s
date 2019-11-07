@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+NOT	not
+ALT	yet
+EXS	used
+SUB	to
+EXS	writing
+CON	business
+CON	letters
+NIL	.

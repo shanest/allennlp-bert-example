@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	read
+DEF	the
+ORG	Constitution
+AND	of
+GPE	Japan
+QUE	?

@@ -1,0 +1,9 @@
+XCL	Only
+QUC	ten
+CON	people
+EPS	showed
+IST	up
+REL	for
+DEF	the
+CON	party
+NIL	.

@@ -1,0 +1,11 @@
+DIS	A
+CON	penny
+PST	spent
+NOW	is
+IST	often
+MOR	more
+IST	useful
+MOR	than
+CON	one
+EXS	saved
+NIL	.

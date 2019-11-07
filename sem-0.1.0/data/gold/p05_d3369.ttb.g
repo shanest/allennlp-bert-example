@@ -1,0 +1,10 @@
+PRO	He
+ENS	wants
+NIL	to
+EXS	be
+DIS	a
+ROL	scientist
+REL	in
+DEF	the
+FUT	future
+NIL	.

@@ -1,0 +1,16 @@
+PRO	I
+NOW	've
+EXS	heard
+SUB	that
+REL	in
+GPE	Germany
+CON	beer
+NOW	is
+MOR	cheaper
+MOR	than
+CON	water
+NIL	.
+NOW	Is
+SUB	that
+EXS	true
+QUE	?

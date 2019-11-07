@@ -1,0 +1,10 @@
+DIS	A
+CON	lot
+HAS	's
+EPS	happened
+SUB	while
+PRO	you
+NOW	've
+PFT	been
+IST	away
+NIL	.

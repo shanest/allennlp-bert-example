@@ -1,0 +1,14 @@
+SUB	While
+PRO	we
+PST	were
+EXS	discussing
+DEF	the
+CON	problem
+NIL	,
+PRO	I
+EPS	hit
+AND	upon
+DIS	a
+IST	good
+CON	idea
+NIL	.

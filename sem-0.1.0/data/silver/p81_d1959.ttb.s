@@ -1,0 +1,13 @@
+ROL	Mrs
+PER	Klein
+NOW	is
+IST	over
+QUC	80
+NIL	,
+BUT	but
+PRO	she
+NOW	's
+IST	still
+INT	very
+EXS	active
+NIL	.

@@ -1,0 +1,17 @@
+PRO	I
+EPS	found
+QUE	Volapük
+SUB	to
+EXS	be
+INT	very
+EXS	complicated
+NIL	,
+CON	contrary
+REL	to
+CON	Esperanto
+NIL	,
+UNK	which
+NOW	is
+INT	very
+EXS	simple
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+ENS	work
+AND	every
+ALT	other
+CON	day
+AND	:
+DOW	Monday
+NIL	,
+DOW	Wednesday
+AND	and
+DOW	Friday
+NIL	.

@@ -1,0 +1,11 @@
+DIS	A
+CON	lot
+NIL	of
+IST	wild
+CON	animals
+EPS	died
+REL	for
+CON	lack
+REL	of
+CON	food
+NIL	.

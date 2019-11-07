@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+AND	such
+DIS	an
+IST	old
+CON	song
+SUB	that
+AND	everybody
+ENS	knows
+PRO	it
+NIL	.

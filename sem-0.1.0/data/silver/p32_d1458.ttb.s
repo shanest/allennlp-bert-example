@@ -1,0 +1,11 @@
+NOW	Is
+PRO	it
+EXS	true
+SUB	that
+DEF	the
+CON	world
+FUT	will
+EXS	end
+REL	in
+YOC	2012
+QUE	?

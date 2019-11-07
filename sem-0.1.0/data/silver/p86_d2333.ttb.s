@@ -1,0 +1,10 @@
+EPS	Put
+DIS	some
+EXS	grease
+REL	on
+DEF	the
+CON	wheel
+NIL	.
+PRO	It
+ENS	squeaks
+NIL	.

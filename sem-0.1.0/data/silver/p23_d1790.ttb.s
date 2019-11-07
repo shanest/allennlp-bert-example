@@ -1,0 +1,11 @@
+FUT	Will
+PRO	you
+IST	please
+NOW	stick
+DIS	a
+IST	60-yen
+CON	stamp
+REL	on
+DEF	the
+CON	envelope
+QUE	?

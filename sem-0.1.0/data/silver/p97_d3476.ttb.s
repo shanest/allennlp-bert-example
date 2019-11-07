@@ -1,0 +1,12 @@
+PRO	He
+NOW	is
+EXS	working
+IST	hard
+REL	in
+CON	order
+SUB	to
+EXS	pass
+DEF	the
+CON	entrance
+CON	examination
+NIL	.

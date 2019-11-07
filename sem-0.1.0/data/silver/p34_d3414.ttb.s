@@ -1,0 +1,12 @@
+IMP	If
+PRO	you
+NOW	're
+EXS	wrong
+NIL	,
+AND	then
+PRO	I
+NOW	'm
+EXS	wrong
+NIL	,
+ALT	too
+NIL	.

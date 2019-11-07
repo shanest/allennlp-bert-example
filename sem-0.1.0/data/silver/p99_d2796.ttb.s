@@ -1,0 +1,10 @@
+PRO	I
+FUT	'll
+EXS	be
+IST	able
+SUB	to
+EXS	see
+PRO	you
+IST	next
+CON	year
+NIL	.

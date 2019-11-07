@@ -1,0 +1,11 @@
+FUT	Will
+PRO	you
+EXS	take
+PRX	this
+CON	bag
+SUB	while
+PRO	I
+EXS	consult
+DEF	the
+CON	map
+QUE	?

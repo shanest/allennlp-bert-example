@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	I
+EPS	met
+PRO	you
+REL	in
+DIS	a
+IST	past
+CON	life
+NIL	.

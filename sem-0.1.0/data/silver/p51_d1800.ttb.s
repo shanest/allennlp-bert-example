@@ -1,0 +1,13 @@
+REL	In
+DEF	the
+CON	bus
+NIL	,
+DIS	a
+CON	boy
+EPS	made
+CON	room
+REL	for
+DIS	an
+IST	old
+CON	woman
+NIL	.

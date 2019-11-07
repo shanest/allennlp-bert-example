@@ -1,0 +1,9 @@
+PER	Mary
+EPS	wore
+DIS	a
+CON	silver
+CON	pin
+REL	on
+HAS	her
+CON	coat
+NIL	.

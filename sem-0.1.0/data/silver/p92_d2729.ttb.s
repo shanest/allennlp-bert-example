@@ -1,0 +1,10 @@
+PRO	I
+EPS	bought
+AND	every
+CON	book
+REL	on
+GPE	Japan
+PRO	I
+POS	could
+EXS	find
+NIL	.

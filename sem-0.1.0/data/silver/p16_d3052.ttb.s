@@ -1,0 +1,13 @@
+PER	Tom
+EPS	asked
+PER	Mary
+IMP	if
+PRO	she
+EPS	wanted
+DIS	a
+CON	sandwich
+COO	and
+PRO	she
+EPS	said
+IST	yes
+NIL	.

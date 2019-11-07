@@ -1,0 +1,10 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	realize
+PRO	it
+PST	had
+EXS	gotten
+IST	so
+IST	late
+NIL	.

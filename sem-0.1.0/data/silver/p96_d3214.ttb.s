@@ -1,0 +1,12 @@
+PRO	I
+NOW	think
+PRO	I
+NOW	've
+EXS	found
+QUE	what
+PRO	we
+NOW	've
+PFT	been
+EXG	looking
+REL	for
+NIL	.

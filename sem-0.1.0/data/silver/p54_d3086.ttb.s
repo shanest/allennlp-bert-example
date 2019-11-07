@@ -1,0 +1,16 @@
+SUB	After
+PRO	we
+PST	had
+CON	sex
+NIL	,
+PRO	I
+EPS	fell
+EXS	asleep
+REL	with
+HAS	my
+CON	head
+EXS	lying
+REL	on
+HAS	her
+CON	stomach
+NIL	.

@@ -1,0 +1,13 @@
+PRO	It
+HAS	's
+AND	all
+CON	right
+EQU	,
+PER	Tom
+NIL	.
+AND	Everything
+HAS	's
+AND	all
+CON	right
+NOW	now
+NIL	.

@@ -1,0 +1,11 @@
+GPE	France
+EQU	,
+GEO	Austria
+EQU	and
+GEO	Russia
+EPS	formed
+DIS	an
+CON	alliance
+AND	against
+GEO	Prussia
+NIL	.

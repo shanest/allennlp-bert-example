@@ -1,0 +1,13 @@
+NTH	Mercury
+NOW	is
+DEF	the
+TOP	smallest
+AND	of
+DEF	the
+QUC	eight
+CON	planets
+REL	in
+DEF	the
+ORG	Solar
+ORG	System
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	acting
+DIS	a
+IST	little
+IST	strange
+IST	lately
+NIL	.

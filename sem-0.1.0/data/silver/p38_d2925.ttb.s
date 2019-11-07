@@ -1,0 +1,13 @@
+FUT	Will
+PRO	you
+EXS	introduce
+PRO	me
+REL	to
+DEF	the
+IST	young
+CON	woman
+EXS	talking
+REL	with
+ROL	Mrs.
+PER	Allen
+QUE	?

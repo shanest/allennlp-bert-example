@@ -1,0 +1,14 @@
+PER	Tom
+EPS	tried
+NOT	not
+SUB	to
+EXS	listen
+REL	to
+PER	Mary
+AND	and
+PER	John
+EXS	discussing
+HAS	their
+IST	financial
+CON	situation
+NIL	.

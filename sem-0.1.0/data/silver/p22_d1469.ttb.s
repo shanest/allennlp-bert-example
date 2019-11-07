@@ -1,0 +1,9 @@
+PRO	We
+NOW	have
+EXS	become
+DIS	an
+EXS	intolerant
+NIL	,
+IST	inward-looking
+CON	society
+NIL	.

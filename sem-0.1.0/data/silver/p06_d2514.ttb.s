@@ -1,0 +1,9 @@
+PER	Tom
+EPS	told
+PER	Mary
+NOT	not
+SUB	to
+EXS	swim
+REL	with
+PER	John
+NIL	.

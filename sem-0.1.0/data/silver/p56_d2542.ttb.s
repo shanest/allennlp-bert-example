@@ -1,0 +1,10 @@
+DEF	The
+IST	holy
+CON	man
+EPS	tiptoed
+HAS	his
+CON	way
+REL	across
+DEF	the
+CON	Ganges
+NIL	.

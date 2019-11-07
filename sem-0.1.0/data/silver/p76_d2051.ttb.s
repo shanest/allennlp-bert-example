@@ -1,0 +1,10 @@
+PRO	It
+PST	was
+ROL	Mr.
+PER	White
+SUB	that
+EPS	gave
+PER	Joe
+PRX	this
+CON	ticket
+NIL	.

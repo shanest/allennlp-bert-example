@@ -1,0 +1,14 @@
+NOW	Do
+NOT	n't
+EXS	ask
+QUE	what
+PRO	they
+NOW	're
+EXS	thinking
+NIL	.
+AND	Ask
+QUE	what
+PRO	they
+NOW	're
+EXS	doing
+NIL	.

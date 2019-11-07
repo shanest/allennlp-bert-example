@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	n't
+EXT	spoken
+CON	French
+REL	in
+DIS	a
+IST	long
+CON	time
+NIL	.

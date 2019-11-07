@@ -1,0 +1,12 @@
+HAS	My
+CON	husband
+NOW	tells
+PRO	me
+CON	feminist
+NIL	,
+BUT	but
+PRO	he
+NOW	is
+INT	too
+CON	sexist
+NIL	.

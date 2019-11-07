@@ -1,0 +1,10 @@
+PRO	He
+IST	still
+ENS	writes
+REL	to
+PRO	me
+REL	from
+CON	time
+REL	to
+CON	time
+NIL	.

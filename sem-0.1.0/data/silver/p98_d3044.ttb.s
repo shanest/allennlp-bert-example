@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	know
+PER	Mary
+EPS	spoke
+GPO	French
+IST	so
+CON	fluently
+NIL	.

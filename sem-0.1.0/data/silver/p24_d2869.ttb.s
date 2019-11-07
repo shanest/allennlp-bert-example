@@ -1,0 +1,10 @@
+DEF	The
+CON	problem
+NOW	is
+REL	in
+DST	that
+PRO	it
+NOW	's
+INT	too
+EXS	expensive
+NIL	.

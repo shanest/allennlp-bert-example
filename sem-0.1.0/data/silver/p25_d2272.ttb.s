@@ -1,0 +1,17 @@
+AND	All
+AND	of
+HAS	your
+CON	brothers
+AND	and
+ROL	sisters
+NOW	are
+EXS	married
+NIL	.
+SUB	When
+NOW	are
+PRO	you
+EXS	going
+SUB	to
+EXS	get
+EXS	married
+QUE	?

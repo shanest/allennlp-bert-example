@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+DEF	the
+CON	book
+PRO	I
+NOW	've
+PFT	been
+EXG	looking
+REL	for
+NIL	.

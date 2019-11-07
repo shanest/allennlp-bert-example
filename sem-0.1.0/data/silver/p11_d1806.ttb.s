@@ -1,0 +1,10 @@
+DEF	The
+IST	quick
+COL	brown
+CON	fox
+CON	jumps
+REL	over
+DEF	the
+IST	lazy
+CON	dog
+NIL	.

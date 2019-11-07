@@ -1,0 +1,10 @@
+PRO	I
+XCL	only
+EPS	bought
+DIS	a
+CON	sheep
+AND	while
+REL	at
+DEF	the
+CON	market
+NIL	.

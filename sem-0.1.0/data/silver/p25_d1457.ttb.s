@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	tried
+SUB	to
+EXS	swim
+REL	across
+PRX	this
+CON	river
+QUE	?

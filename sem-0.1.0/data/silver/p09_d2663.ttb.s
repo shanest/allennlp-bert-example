@@ -1,0 +1,10 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	speak
+REL	with
+PER	Tom
+REL	in
+IST	private
+NIL	.

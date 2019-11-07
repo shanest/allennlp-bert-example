@@ -1,0 +1,11 @@
+PRO	I
+NOW	think
+PRO	it
+NOW	's
+EXS	going
+SUB	to
+EXS	be
+DIS	a
+IST	nice
+CON	day
+NIL	.

@@ -1,0 +1,17 @@
+PRO	I
+NOW	have
+QUC	much
+EXS	studied
+DEF	both
+CON	cats
+AND	and
+CON	philosophers
+NIL	.
+DEF	The
+CON	wisdom
+AND	of
+CON	cats
+NOW	is
+IST	infinitely
+IST	superior
+NIL	.

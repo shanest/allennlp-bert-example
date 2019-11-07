@@ -1,0 +1,10 @@
+PRO	He
+EPS	called
+PRO	us
+REL	at
+DEF	the
+CON	top
+AND	of
+HAS	his
+CON	lungs
+NIL	.

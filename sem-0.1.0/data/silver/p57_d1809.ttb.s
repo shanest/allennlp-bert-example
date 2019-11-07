@@ -1,0 +1,13 @@
+PRO	It
+NOW	is
+EXS	true
+SUB	that
+PRO	she
+NOW	is
+IST	pretty
+NIL	,
+BUT	but
+PRO	she
+NOW	is
+EXS	selfish
+NIL	.

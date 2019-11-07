@@ -1,0 +1,9 @@
+HAS	My
+IST	old
+CON	car
+NOW	is
+NOW	now
+REL	in
+DEF	the
+CON	junkyard
+NIL	.

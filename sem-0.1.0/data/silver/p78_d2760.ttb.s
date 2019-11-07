@@ -1,0 +1,13 @@
+IMP	If
+PRO	you
+ENS	need
+EXS	help
+NIL	,
+AND	all
+PRO	you
+NEC	have
+SUB	to
+EXS	do
+NOW	is
+EXS	call
+NIL	.

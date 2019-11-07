@@ -1,0 +1,10 @@
+HAS	My
+ROL	brother
+HAS	's
+CON	football
+CON	team
+EPS	won
+DIS	a
+CON	tournament
+PST	yesterday
+NIL	.

@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+SUB	where
+PER	Tom
+EPS	met
+PER	Mary
+REL	for
+DEF	the
+IST	first
+CON	time
+NIL	.

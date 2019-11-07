@@ -1,0 +1,11 @@
+PRO	We
+EPS	took
+CON	advantage
+AND	of
+DEF	the
+IST	good
+CON	weather
+SUB	to
+EXS	play
+CON	tennis
+NIL	.

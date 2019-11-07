@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	clear
+SUB	that
+DEF	the
+CON	passport
+NOW	is
+DIS	a
+CON	forgery
+NIL	.

@@ -1,0 +1,9 @@
+AND	Even
+NOW	now
+NIL	,
+PRO	it
+FUT	would
+NOT	n't
+EXS	be
+EXS	possible
+NIL	.

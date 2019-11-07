@@ -1,0 +1,12 @@
+PRO	You
+ENS	have
+NOT	no
+EXS	right
+SUB	to
+EXS	interfere
+REL	in
+ALT	other
+CON	people
+HAS	's
+CON	affairs
+NIL	.

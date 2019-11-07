@@ -1,0 +1,12 @@
+IMP	If
+PRO	you
+EXS	mix
+COL	blue
+AND	and
+IST	red
+NIL	,
+DEF	the
+CON	result
+NOW	is
+COL	purple
+NIL	.

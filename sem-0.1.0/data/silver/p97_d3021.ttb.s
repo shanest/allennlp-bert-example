@@ -1,0 +1,9 @@
+EXS	Watch
+PER	Tom
+REL	for
+DIS	a
+CON	moment
+NIL	,
+FUT	will
+PRO	you
+QUE	?

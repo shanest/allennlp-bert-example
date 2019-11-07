@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+DEF	the
+IST	rainy
+CON	season
+REL	in
+GPE	Japan
+AND	right
+NOW	now
+NIL	.

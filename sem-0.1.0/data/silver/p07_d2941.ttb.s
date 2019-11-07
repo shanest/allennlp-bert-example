@@ -1,0 +1,14 @@
+PER	Tom
+EPS	said
+SUB	that
+PRO	he
+EPS	thought
+PER	Mary
+EPS	knew
+SUB	why
+PER	John
+PST	had
+EXS	become
+DIS	a
+CON	policeman
+NIL	.

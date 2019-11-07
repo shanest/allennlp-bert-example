@@ -1,0 +1,12 @@
+DEF	The
+CON	bus
+PST	had
+EXS	left
+REL	by
+DEF	the
+CON	time
+HAS	my
+CON	wife
+EPS	finished
+EXS	dressing
+NIL	.

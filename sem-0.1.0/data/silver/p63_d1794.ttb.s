@@ -1,0 +1,11 @@
+PRO	It
+EPS	took
+AND	all
+CON	weekend
+REL	for
+PRO	us
+SUB	to
+EXS	paint
+DEF	the
+CON	garage
+NIL	.

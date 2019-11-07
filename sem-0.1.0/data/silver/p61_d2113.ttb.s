@@ -1,0 +1,9 @@
+PER	Tom
+NOW	now
+ENS	knows
+QUE	what
+PRO	he
+ENS	has
+SUB	to
+EXS	do
+NIL	.

@@ -1,0 +1,14 @@
+PRO	I
+ENS	cry
+AND	almost
+AND	every
+CON	day
+NIL	.
+UNK	There
+HAS	's
+IST	always
+DIS	something
+AND	that
+ENS	touches
+PRO	me
+NIL	.

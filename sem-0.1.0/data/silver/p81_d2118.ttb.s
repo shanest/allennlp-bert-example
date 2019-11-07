@@ -1,0 +1,15 @@
+DST	Those
+AND	who
+NOW	use
+CON	forks
+DIS	or
+CON	chopsticks
+IST	often
+NOW	think
+CON	people
+AND	who
+NOW	do
+NOT	n't
+NOW	are
+IST	uncivilized
+NIL	.

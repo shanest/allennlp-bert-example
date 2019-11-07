@@ -1,0 +1,9 @@
+PRO	I
+EPS	visited
+HAS	my
+ROL	father
+HAS	's
+CON	hometown
+AND	last
+CON	summer
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	put
+HAS	his
+CON	wallet
+REL	on
+CON	top
+AND	of
+DEF	the
+CON	dresser
+NIL	.

@@ -1,0 +1,11 @@
+PST	Excuse
+PRO	me
+NIL	,
+BUT	but
+POS	may
+PRO	I
+EPS	put
+HAS	my
+CON	books
+PRX	here
+QUE	?

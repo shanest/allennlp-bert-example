@@ -1,0 +1,10 @@
+PRO	She
+FUT	will
+EXS	be
+EXS	coming
+SUB	to
+EXS	see
+PRO	us
+ALT	again
+IST	soon
+NIL	.

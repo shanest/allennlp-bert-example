@@ -1,0 +1,12 @@
+HAS	My
+ROL	sister
+EPS	took
+CON	care
+AND	of
+DEF	the
+CON	dog
+SUB	while
+PRO	I
+PST	was
+IST	away
+NIL	.

@@ -1,0 +1,12 @@
+DEF	The
+CON	kitchen
+CON	table
+PST	was
+EXS	bare
+NOT	except
+REL	for
+DIS	a
+CON	bowl
+AND	of
+CON	fruit
+NIL	.

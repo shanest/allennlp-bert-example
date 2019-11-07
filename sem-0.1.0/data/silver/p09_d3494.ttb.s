@@ -1,0 +1,11 @@
+PRO	I
+NOW	hear
+PRO	you
+NOW	have
+IST	always
+PFT	been
+EXS	loved
+REL	by
+PRX	this
+CON	man
+NIL	.

@@ -1,0 +1,12 @@
+CON	Being
+REL	in
+DIS	a
+CON	hurry
+NIL	,
+PRO	I
+EPS	forgot
+DEF	the
+CON	money
+REL	at
+CON	home
+NIL	.

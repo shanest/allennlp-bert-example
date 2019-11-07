@@ -1,0 +1,10 @@
+PRO	I
+FUT	'd
+EXS	like
+NIL	to
+EXS	thank
+AND	every
+CON	one
+AND	who
+EPS	helped
+NIL	.

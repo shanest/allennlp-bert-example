@@ -1,0 +1,11 @@
+PRO	I
+NOT	never
+EPS	said
+SUB	that
+PRO	it
+PST	was
+NOT	n't
+DIS	a
+IST	good
+CON	idea
+NIL	.

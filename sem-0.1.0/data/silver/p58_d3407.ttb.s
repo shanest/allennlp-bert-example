@@ -1,0 +1,14 @@
+PRO	It
+HAS	's
+NOT	not
+DIS	a
+CON	wife
+SUB	that
+PRO	I
+ENS	want
+NIL	,
+BUT	but
+DIS	a
+CON	sex
+CON	friend
+NIL	.

@@ -1,0 +1,10 @@
+PRO	We
+NOW	use
+CON	chopsticks
+REL	in
+CON	place
+AND	of
+CON	knives
+AND	and
+CON	forks
+NIL	.

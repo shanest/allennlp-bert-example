@@ -1,0 +1,11 @@
+PRO	She
+EPS	shook
+DEF	the
+CON	rug
+SUB	to
+EXS	get
+CON	dust
+AND	out
+AND	of
+PRO	it
+NIL	.

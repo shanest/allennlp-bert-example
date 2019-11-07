@@ -1,0 +1,9 @@
+PRX	This
+CON	museum
+NOW	has
+PFT	been
+EXS	closed
+REL	for
+QUC	five
+CON	years
+NIL	.

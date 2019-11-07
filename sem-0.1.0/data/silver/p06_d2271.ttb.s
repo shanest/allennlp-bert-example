@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+PRO	you
+SUB	to
+EXS	quit
+QUE	what
+PRO	you
+NOW	're
+EXG	doing
+NIL	.

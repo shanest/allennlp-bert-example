@@ -1,0 +1,13 @@
+ROL	Ms.
+PER	Eichler
+PST	had
+DIS	a
+IST	notorious
+CON	reputation
+REL	for
+EXS	being
+CON	austere
+REL	to
+HAS	her
+CON	students
+NIL	.

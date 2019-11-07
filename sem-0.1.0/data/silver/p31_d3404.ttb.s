@@ -1,0 +1,12 @@
+UNK	There
+NOW	are
+QUV	many
+IST	more
+IST	beautiful
+CON	ladies
+REL	in
+GEO	Shanghai
+AND	than
+REL	in
+GPE	Tokyo
+NIL	.

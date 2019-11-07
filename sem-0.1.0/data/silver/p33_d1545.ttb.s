@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	I
+EPS	saw
+DIS	an
+CON	elf
+REL	in
+DEF	the
+CON	forest
+NIL	.

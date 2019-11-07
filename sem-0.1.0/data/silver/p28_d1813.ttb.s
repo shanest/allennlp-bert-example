@@ -1,0 +1,13 @@
+PRO	He
+PST	was
+EXS	ignorant
+AND	of
+DEF	the
+CON	fact
+AND	that
+DEF	the
+CON	town
+PST	had
+PFT	been
+EXS	destroyed
+NIL	.

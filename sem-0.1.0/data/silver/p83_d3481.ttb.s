@@ -1,0 +1,10 @@
+DIS	A
+QUC	6
+UOM	%
+CON	yield
+NOW	is
+EXS	guaranteed
+REL	on
+DEF	the
+CON	investment
+NIL	.

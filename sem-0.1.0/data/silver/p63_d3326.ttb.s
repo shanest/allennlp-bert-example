@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+NOT	not
+HAS	your
+IST	little
+CON	daughter
+CON	anymore
+NIL	.
+PRO	I
+NOW	'm
+NOW	now
+HAS	your
+IST	adult
+CON	daughter
+NIL	.

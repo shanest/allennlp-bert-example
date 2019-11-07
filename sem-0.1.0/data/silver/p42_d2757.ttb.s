@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+IST	ever
+PST	had
+DIS	a
+CON	nap
+REL	at
+DEF	the
+CON	library
+QUE	?

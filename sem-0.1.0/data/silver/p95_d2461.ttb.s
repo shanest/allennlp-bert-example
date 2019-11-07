@@ -1,0 +1,11 @@
+DEF	The
+CON	moment
+PRO	she
+EPS	saw
+PRO	me
+NIL	,
+PRO	she
+EPS	started
+SUB	to
+EXS	laugh
+NIL	.

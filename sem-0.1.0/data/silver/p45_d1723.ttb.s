@@ -1,0 +1,14 @@
+IMP	If
+PRO	we
+EXS	unite
+HAS	our
+CON	efforts
+NIL	,
+PRO	we
+FUT	will
+EXS	be
+IST	able
+SUB	to
+EXS	finish
+PRX	this
+NIL	.

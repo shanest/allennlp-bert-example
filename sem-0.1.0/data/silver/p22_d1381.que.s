@@ -1,0 +1,13 @@
+DEF	The
+ORG	Hindenburg
+CON	disaster
+EPS	took
+CON	place
+REL	in
+GEO	1937
+REL	in
+AND	which
+IST	New
+GEO	Jersey
+CON	town
+QUE	?

@@ -1,0 +1,13 @@
+PRO	I
+NOW	suppose
+PRO	it
+POS	could
+EXT	have
+EXS	been
+PER	Tom
+AND	who
+EPS	ate
+HAS	my
+CON	ham
+CON	sandwich
+NIL	.

@@ -1,0 +1,15 @@
+PRO	I
+EPS	came
+REL	to
+GPE	Tokyo
+QUC	three
+CON	years
+PST	ago
+AND	and
+NOW	have
+PFT	been
+EXS	living
+PRX	here
+IST	ever
+REL	since
+NIL	.

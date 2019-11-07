@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	n't
+EXT	played
+DEF	the
+CON	ukulele
+REL	in
+CON	years
+NIL	.

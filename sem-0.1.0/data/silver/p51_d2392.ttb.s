@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	afraid
+PER	Tom
+FUT	wo
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	come
+NIL	.

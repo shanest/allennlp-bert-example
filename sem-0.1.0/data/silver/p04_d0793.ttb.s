@@ -1,0 +1,17 @@
+DEF	The
+IST	old
+CON	cottage
+PST	had
+XCL	only
+QUC	one
+CON	bed
+NIL	,
+AND	so
+PRO	we
+AND	all
+EPS	took
+NOW	turns
+EXG	sleeping
+REL	in
+PRO	it
+NIL	.

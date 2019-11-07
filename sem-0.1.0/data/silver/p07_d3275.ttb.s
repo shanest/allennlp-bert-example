@@ -1,0 +1,9 @@
+PRO	I
+PST	was
+EXS	embarrassed
+SUB	when
+PRO	he
+EPS	talked
+REL	to
+PRO	me
+NIL	.

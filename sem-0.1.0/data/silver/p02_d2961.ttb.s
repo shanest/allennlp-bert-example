@@ -1,0 +1,10 @@
+PRO	I
+PST	had
+IST	hardly
+EXS	fallen
+EXS	asleep
+SUB	when
+DEF	the
+CON	telephone
+EPS	rang
+NIL	.

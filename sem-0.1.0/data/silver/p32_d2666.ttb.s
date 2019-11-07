@@ -1,0 +1,11 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	watch
+QUE	what
+HAS	's
+REL	on
+CON	TV
+AND	right
+NOW	now
+NIL	.

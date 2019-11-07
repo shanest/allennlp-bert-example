@@ -1,0 +1,10 @@
+PER	Napoleon
+EPS	lived
+REL	in
+CON	exile
+REL	on
+DEF	the
+CON	island
+AND	of
+GEO	Elba
+NIL	.

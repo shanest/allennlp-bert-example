@@ -1,0 +1,11 @@
+PRO	He
+HAS	's
+IST	always
+EPS	broke
+REL	at
+DEF	the
+CON	end
+AND	of
+DEF	the
+CON	month
+NIL	.

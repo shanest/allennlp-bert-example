@@ -1,0 +1,10 @@
+PRO	You
+EPS	bought
+PRX	these
+CON	articles
+REL	at
+INT	too
+IST	high
+DIS	a
+CON	price
+NIL	.

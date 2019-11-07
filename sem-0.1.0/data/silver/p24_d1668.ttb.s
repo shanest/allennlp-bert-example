@@ -1,0 +1,10 @@
+PRO	You
+NOW	look
+AND	like
+PRO	you
+NOW	're
+IST	about
+NIL	to
+EXS	throw
+REL	up
+NIL	.

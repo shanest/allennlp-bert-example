@@ -1,0 +1,10 @@
+PRO	I
+EPS	stopped
+EXS	sending
+REL	Christmas
+CON	cards
+DIS	a
+IST	few
+CON	years
+PST	ago
+NIL	.

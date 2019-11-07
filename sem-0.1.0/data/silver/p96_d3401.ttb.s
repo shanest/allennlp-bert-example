@@ -1,0 +1,9 @@
+PRO	I
+EPS	fell
+EXS	asleep
+SUB	while
+EXS	listening
+REL	to
+DEF	the
+CON	radio
+NIL	.

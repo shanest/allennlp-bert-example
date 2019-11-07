@@ -1,0 +1,12 @@
+REL	At
+IST	first
+PRO	he
+PST	had
+CON	trouble
+EXS	getting
+EXS	used
+REL	to
+HAS	his
+IST	new
+CON	house
+NIL	.

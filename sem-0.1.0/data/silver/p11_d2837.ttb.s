@@ -1,0 +1,10 @@
+PRO	We
+PST	were
+IST	just
+EXS	talking
+AND	about
+PRO	you
+SUB	when
+PRO	you
+EPS	called
+NIL	.

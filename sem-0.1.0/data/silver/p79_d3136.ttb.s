@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	I
+NOW	have
+DIS	a
+CON	picture
+AND	of
+PER	Tom
+DIS	somewhere
+NIL	.

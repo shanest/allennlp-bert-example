@@ -1,0 +1,17 @@
+PRO	She
+NOW	has
+NOT	n't
+EXS	come
+PRX	here
+ALT	yet
+NIL	.
+PRO	I
+NOW	am
+IST	afraid
+PRO	she
+POS	may
+EXT	have
+EXS	lost
+HAS	her
+CON	way
+NIL	.

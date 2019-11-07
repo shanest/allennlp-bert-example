@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+NOT	n't
+EXS	going
+SUB	to
+EXS	work
+NIL	,
+PRO	you
+ENS	know
+NIL	.

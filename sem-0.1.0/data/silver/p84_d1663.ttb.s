@@ -1,0 +1,12 @@
+PRO	He
+PST	was
+IST	able
+SUB	to
+EXS	ski
+IST	down
+DEF	the
+CON	slope
+REL	in
+QUC	three
+UOM	minutes
+NIL	.

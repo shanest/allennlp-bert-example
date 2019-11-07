@@ -1,0 +1,15 @@
+NOW	Now
+SUB	that
+PRO	you
+NOW	are
+EXS	grown
+IST	up
+NIL	,
+PRO	you
+NEC	must
+NOT	not
+EXS	behave
+AND	like
+DIS	a
+CON	child
+NIL	.

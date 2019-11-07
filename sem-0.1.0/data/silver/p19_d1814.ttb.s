@@ -1,0 +1,10 @@
+GPE	Tokyo
+NOW	is
+COM	larger
+AND	than
+AND	any
+ALT	other
+CON	city
+REL	in
+GPE	Japan
+NIL	.

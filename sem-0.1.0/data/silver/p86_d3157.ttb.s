@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	think
+SUB	that
+QUE	what
+PER	Mary
+EPS	said
+PST	was
+EXS	true
+NIL	.

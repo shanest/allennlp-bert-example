@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+EXS	lucky
+SUB	because
+PRO	he
+PST	did
+NOT	n't
+EXS	bite
+PRO	you
+NIL	.

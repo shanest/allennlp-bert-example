@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PER	Tom
+ENS	thinks
+PRO	I
+NOW	'm
+EXS	lying
+REL	to
+PRO	him
+NIL	.

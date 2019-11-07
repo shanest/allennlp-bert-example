@@ -1,0 +1,12 @@
+AND	Both
+HAS	my
+CON	mom
+AND	and
+HAS	my
+CON	dad
+NOW	are
+NOT	n't
+CON	home
+AND	right
+NOW	now
+NIL	.

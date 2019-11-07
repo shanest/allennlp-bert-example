@@ -1,0 +1,12 @@
+HAS	My
+CON	e-mail
+CON	address
+FUT	will
+EXS	be
+EXS	changed
+IST	effective
+MOY	Aug.
+DOM	1
+SUB	as
+EXS	follows
+NIL	.

@@ -1,0 +1,11 @@
+HAS	My
+CON	dad
+ENS	thinks
+HAS	my
+CON	boyfriend
+NOW	is
+DIS	a
+IST	real
+CON	whack
+CON	job
+NIL	.

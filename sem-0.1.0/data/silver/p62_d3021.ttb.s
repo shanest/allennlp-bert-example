@@ -1,0 +1,9 @@
+CON	Sadly
+NIL	,
+HAS	my
+CON	cat
+NOW	has
+EXS	gone
+IST	away
+DIS	somewhere
+NIL	.

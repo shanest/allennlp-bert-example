@@ -1,0 +1,10 @@
+PRO	I
+EPS	exchanged
+DIS	some
+UOM	yen
+REL	for
+UOM	dollars
+REL	at
+DEF	the
+CON	bank
+NIL	.

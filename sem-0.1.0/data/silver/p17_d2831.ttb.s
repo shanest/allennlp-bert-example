@@ -1,0 +1,11 @@
+PRO	He
+NOW	has
+DEF	the
+CON	habit
+AND	of
+EXG	reading
+DEF	the
+CON	newspaper
+AND	during
+CON	meals
+NIL	.

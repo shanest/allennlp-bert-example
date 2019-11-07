@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+IST	afraid
+SUB	to
+EXS	go
+IST	first
+NIL	,
+PRO	it
+NOW	's
+INT	too
+EXS	dark
+NIL	.

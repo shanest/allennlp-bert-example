@@ -1,0 +1,10 @@
+PRO	She
+PST	was
+EXS	right
+REL	in
+DEF	the
+CON	middle
+AND	of
+EXG	cutting
+CON	cucumbers
+NIL	.

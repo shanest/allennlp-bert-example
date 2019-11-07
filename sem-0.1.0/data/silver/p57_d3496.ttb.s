@@ -1,0 +1,10 @@
+UNK	There
+PST	were
+NOT	no
+CON	railroads
+REL	at
+DST	that
+CON	time
+REL	in
+GPE	Japan
+NIL	.

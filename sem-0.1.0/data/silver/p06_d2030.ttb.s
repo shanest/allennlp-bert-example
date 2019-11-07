@@ -1,0 +1,11 @@
+UNK	There
+HAS	's
+IST	more
+EXG	going
+REL	on
+PRX	here
+AND	than
+ENS	meets
+DEF	the
+CON	eye
+NIL	.

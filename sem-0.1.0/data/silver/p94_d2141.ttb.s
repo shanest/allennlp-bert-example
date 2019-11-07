@@ -1,0 +1,14 @@
+AND	And
+PRO	you
+NOW	think
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	pay
+REL	for
+PRO	it
+QUE	?
+EXS	Catch
+PRO	me
+NIL	!

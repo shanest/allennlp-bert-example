@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+QUE	what
+PRO	he
+EPS	told
+HAS	his
+CON	friends
+AND	about
+PRO	me
+NIL	.

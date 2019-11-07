@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+NOT	n't
+ALT	yet
+IST	able
+SUB	to
+EXS	write
+HAS	his
+IST	own
+CON	name
+NIL	.

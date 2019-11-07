@@ -1,0 +1,9 @@
+PRX	This
+CON	summer
+PRO	I
+EPS	went
+REL	on
+CON	vacation
+REL	in
+GPE	Scotland
+NIL	.

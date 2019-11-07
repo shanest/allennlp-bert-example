@@ -1,0 +1,11 @@
+PER	Tom
+EPS	promised
+PER	Mary
+SUB	that
+PRO	he
+PST	'd
+EXS	keep
+HAS	their
+CON	engagement
+CON	secret
+NIL	.

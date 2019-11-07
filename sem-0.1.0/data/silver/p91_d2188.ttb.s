@@ -1,0 +1,13 @@
+PRO	He
+NOW	's
+INT	so
+EXS	stupid
+NIL	,
+PRO	I
+NOW	swear
+PRO	I
+POS	ca
+NOT	n't
+EXS	stand
+PRO	him
+NIL	.

@@ -1,0 +1,11 @@
+IMP	If
+XCL	only
+PRO	she
+PST	had
+PFT	been
+EXS	home
+SUB	when
+PRO	I
+EPS	called
+PST	yesterday
+NIL	!

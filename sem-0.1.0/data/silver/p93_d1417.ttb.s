@@ -1,0 +1,12 @@
+PRO	I
+POS	might
+EXS	be
+IST	able
+SUB	to
+EXS	find
+DEF	the
+CON	time
+SUB	to
+EXS	help
+PRO	you
+NIL	.

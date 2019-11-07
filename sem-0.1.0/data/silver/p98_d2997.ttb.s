@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	hungry
+NIL	.
+PRO	I
+NOW	'm
+NOT	not
+EXS	angry
+NIL	.

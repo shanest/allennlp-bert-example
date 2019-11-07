@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	be
+EXS	married
+REL	to
+PRO	you
+CON	anymore
+NIL	.

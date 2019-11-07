@@ -1,0 +1,10 @@
+PRO	He
+PST	did
+NOT	n't
+EXS	speak
+REL	to
+PRO	me
+REL	for
+IST	several
+CON	days
+NIL	.

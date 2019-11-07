@@ -1,0 +1,9 @@
+PRO	I
+EPS	watched
+DEF	the
+CON	game
+REL	from
+CON	beginning
+REL	to
+CON	end
+NIL	.

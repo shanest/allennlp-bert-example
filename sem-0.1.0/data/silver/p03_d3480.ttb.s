@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	say
+NIL	"
+GRE	hello
+NIL	"
+NIL	.

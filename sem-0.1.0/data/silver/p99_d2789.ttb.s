@@ -1,0 +1,11 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	waiting
+REL	for
+DIS	an
+CON	hour
+AND	and
+DIS	a
+CON	half
+NIL	.

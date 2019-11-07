@@ -1,0 +1,11 @@
+PRO	I
+FUT	'll
+EXS	be
+EXS	damned
+IMP	if
+PRO	I
+ENS	let
+PRX	this
+EXS	stop
+PRO	me
+NIL	!

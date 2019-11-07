@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	glad
+SUB	that
+PRO	you
+ENS	want
+SUB	to
+EXS	support
+PRX	this
+CON	project
+NIL	.

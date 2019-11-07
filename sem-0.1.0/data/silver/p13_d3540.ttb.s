@@ -1,0 +1,10 @@
+REL	At
+HAS	your
+CON	age
+NIL	,
+PRO	you
+NEC	ought
+SUB	to
+EXS	know
+COM	better
+NIL	.

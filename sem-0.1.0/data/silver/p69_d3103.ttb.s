@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+UNK	difficult
+SUB	to
+EXS	walk
+QUC	60
+CON	kilometers
+DIS	a
+CON	day
+NIL	.

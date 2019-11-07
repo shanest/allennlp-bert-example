@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	trying
+SUB	to
+EXS	get
+DIS	someone
+SUB	to
+EXS	help
+PRO	me
+NIL	.

@@ -1,0 +1,9 @@
+QUE	What
+NIL	!
+QUE	?
+PRO	You
+EPS	ate
+HAS	my
+CON	chocolate
+CON	bear
+QUE	?

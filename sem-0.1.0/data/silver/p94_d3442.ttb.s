@@ -1,0 +1,10 @@
+EXS	Let
+PRO	's
+NOW	do
+XCL	only
+QUC	one
+CON	thing
+REL	at
+DIS	a
+CON	time
+NIL	.

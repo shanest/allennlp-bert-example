@@ -1,0 +1,13 @@
+ROL	Ms.
+PER	Minton
+EPS	left
+GPE	Australia
+REL	in
+YOC	1961
+SUB	to
+EXS	pursue
+HAS	her
+CON	studies
+REL	in
+GPE	London
+NIL	.

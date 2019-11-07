@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+NOT	n't
+IST	able
+SUB	to
+EXS	buy
+DIS	a
+CON	car
+NIL	.

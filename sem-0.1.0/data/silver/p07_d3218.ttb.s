@@ -1,0 +1,10 @@
+UNK	There
+NOW	is
+DIS	an
+CON	air
+CON	service
+REL	between
+GPE	Tokyo
+AND	and
+GEO	Moscow
+NIL	.

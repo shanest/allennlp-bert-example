@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+PFT	been
+REL	to
+GPE	Italy
+REL	on
+DIS	a
+CON	study
+AND	abroad
+CON	program
+NIL	.

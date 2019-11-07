@@ -1,0 +1,16 @@
+PRO	It
+PST	was
+IST	still
+IST	really
+EXS	hot
+NIL	,
+AND	even
+SUB	though
+DEF	the
+CON	sun
+PST	had
+IST	already
+EXS	gotten
+IST	quite
+IST	low
+NIL	.

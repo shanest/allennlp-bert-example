@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	you
+NOW	've
+PFT	been
+EXS	watching
+INT	too
+QUC	much
+CON	TV
+NIL	.

@@ -1,0 +1,14 @@
+PRO	He
+NOW	has
+QUC	two
+CON	houses
+NIL	,
+QUC	one
+REL	in
+GEO	Turkey
+AND	and
+ALT	another
+QUC	one
+REL	in
+GPE	Germany
+NIL	.

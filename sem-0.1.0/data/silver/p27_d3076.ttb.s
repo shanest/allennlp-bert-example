@@ -1,0 +1,12 @@
+PRO	It
+PST	was
+QUC	ten
+CON	years
+PST	ago
+SUB	that
+PRO	he
+IST	first
+EPS	came
+REL	to
+GPE	Japan
+NIL	.

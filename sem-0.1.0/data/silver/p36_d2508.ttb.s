@@ -1,0 +1,13 @@
+SUB	When
+PRO	she
+EPS	returned
+REL	to
+HAS	her
+CON	room
+NIL	,
+DEF	the
+CON	diamond
+CON	ring
+PST	was
+EXS	gone
+NIL	.

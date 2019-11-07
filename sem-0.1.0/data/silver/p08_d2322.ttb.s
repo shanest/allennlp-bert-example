@@ -1,0 +1,9 @@
+HAS	My
+ROL	mother
+NOW	does
+NOT	n't
+EXS	like
+HAS	my
+EXG	watching
+CON	TV
+NIL	.

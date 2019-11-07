@@ -1,0 +1,10 @@
+PRO	You
+NOW	've
+EXS	put
+REL	on
+CON	weight
+NIL	,
+NOW	have
+NOT	n't
+PRO	you
+QUE	?

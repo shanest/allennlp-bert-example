@@ -1,0 +1,11 @@
+PER	Tom
+EPS	thought
+PRO	he
+PST	was
+EXS	surrounded
+REL	at
+CON	night
+REL	by
+EXG	threatening
+CON	spirits
+NIL	.

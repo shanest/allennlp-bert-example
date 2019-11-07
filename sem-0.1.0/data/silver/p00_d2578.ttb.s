@@ -1,0 +1,14 @@
+PRO	I
+EPS	wanted
+SUB	to
+EXS	help
+PER	Tom
+EXS	understand
+QUE	what
+PER	Mary
+PST	was
+EXS	trying
+SUB	to
+EXS	tell
+PRO	him
+NIL	.

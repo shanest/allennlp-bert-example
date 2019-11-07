@@ -1,0 +1,13 @@
+DEF	The
+CON	highway
+EXS	leading
+REL	to
+DEF	the
+CON	city
+NOW	is
+NOW	now
+EXS	free
+AND	of
+EXS	fallen
+CON	rocks
+NIL	.

@@ -1,0 +1,15 @@
+DIS	An
+CON	awareness
+AND	of
+IST	international
+CON	relations
+NOW	is
+IST	more
+EXS	important
+NOW	now
+SUB	that
+PRO	it
+NOW	has
+IST	ever
+EXS	been
+NIL	.

@@ -1,0 +1,14 @@
+AND	Even
+SUB	though
+PRO	he
+HAS	's
+DEF	38
+NIL	,
+PRO	he
+NOW	's
+IST	still
+EXS	dependent
+REL	on
+HAS	his
+CON	parents
+NIL	.

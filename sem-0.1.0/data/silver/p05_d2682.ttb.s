@@ -1,0 +1,12 @@
+HAS	My
+ROL	father
+NOW	has
+EXS	lived
+REL	in
+GEO	Nagoya
+REL	for
+MOR	more
+MOR	than
+QUC	fifteen
+CON	years
+NIL	.

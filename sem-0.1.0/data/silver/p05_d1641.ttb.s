@@ -1,0 +1,10 @@
+PER	Tony
+EPS	saw
+COL	green
+CON	fields
+AND	and
+IST	small
+EQU	,
+IST	quiet
+CON	villages
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	going
+SUB	to
+EXS	get
+EXS	married
+IST	next
+CON	month
+NIL	.

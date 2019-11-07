@@ -1,0 +1,9 @@
+UNK	There
+HAS	's
+INT	very
+IST	little
+PRO	we
+POS	can
+EXS	do
+NOW	now
+NIL	.

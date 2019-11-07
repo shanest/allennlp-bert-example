@@ -1,0 +1,10 @@
+EXS	Be
+REL	at
+DEF	the
+CON	station
+REL	at
+CLO	eleven
+REL	on
+DEF	the
+CON	dot
+NIL	.

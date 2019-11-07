@@ -1,0 +1,16 @@
+PRO	I
+EPS	lived
+REL	in
+GPE	Japan
+REL	for
+QUC	2
+CON	years
+NIL	,
+BUT	but
+NOW	now
+PRO	I
+NOW	'm
+EXS	living
+REL	in
+GEO	California
+NIL	.

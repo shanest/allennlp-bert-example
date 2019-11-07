@@ -1,0 +1,9 @@
+PRO	We
+NOW	're
+NOT	not
+IST	able
+SUB	to
+EXS	solve
+PRX	this
+CON	problem
+NIL	.

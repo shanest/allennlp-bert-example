@@ -1,0 +1,10 @@
+PRO	She
+EPS	told
+PRO	me
+DEF	the
+CON	project
+PST	had
+EXS	been
+DIS	a
+CON	failure
+NIL	.

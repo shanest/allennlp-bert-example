@@ -1,0 +1,9 @@
+DST	That
+HAS	's
+NOT	not
+EXS	true
+NIL	!
+PRO	You
+NOW	're
+EXS	lying
+NIL	!

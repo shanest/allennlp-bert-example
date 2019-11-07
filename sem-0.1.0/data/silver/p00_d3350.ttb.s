@@ -1,0 +1,11 @@
+NIL	There
+NOW	is
+DIS	a
+INT	very
+IST	strict
+CON	rule
+EXG	forbidding
+CON	smoking
+REL	in
+CON	bed
+NIL	.

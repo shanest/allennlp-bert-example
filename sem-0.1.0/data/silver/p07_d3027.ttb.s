@@ -1,0 +1,14 @@
+PRO	She
+PST	was
+IST	proud
+SUB	that
+PRO	she
+PST	had
+EXS	shaken
+CON	hands
+REL	with
+DEF	the
+ROL	President
+AND	of
+DEF	the
+GEO	U.S.

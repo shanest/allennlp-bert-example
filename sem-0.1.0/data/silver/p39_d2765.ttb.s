@@ -1,0 +1,12 @@
+PRO	She
+FUT	'd
+EXS	like
+PRO	him
+SUB	to
+EXS	come
+REL	to
+HAS	her
+CON	house
+REL	at
+CLO	2:30
+NIL	.

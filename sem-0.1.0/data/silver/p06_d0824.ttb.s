@@ -1,0 +1,10 @@
+PRO	I
+EPS	talked
+REL	with
+HAS	my
+CON	parents
+AND	about
+HAS	my
+EXS	studying
+IST	abroad
+NIL	.

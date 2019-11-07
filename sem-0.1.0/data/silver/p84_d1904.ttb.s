@@ -1,0 +1,11 @@
+SUB	To
+HAS	my
+CON	dismay
+PRO	I
+EPS	found
+PRO	I
+PST	had
+EXS	lost
+HAS	my
+CON	money
+NIL	.

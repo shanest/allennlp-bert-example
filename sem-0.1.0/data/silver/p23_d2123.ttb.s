@@ -1,0 +1,11 @@
+PRO	She
+NOW	looks
+IST	young
+NIL	,
+COO	but
+PRO	she
+HAS	's
+IST	actually
+AND	over
+QUC	forty
+NIL	.

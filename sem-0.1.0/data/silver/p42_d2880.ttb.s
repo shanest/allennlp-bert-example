@@ -1,0 +1,9 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	live
+REL	in
+GEO	Rome
+FUT	someday
+NIL	.

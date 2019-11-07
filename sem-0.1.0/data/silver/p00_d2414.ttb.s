@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+NOT	not
+EXS	known
+AND	who
+ENS	has
+DEF	the
+CON	authority
+REL	in
+PRX	this
+CON	matter
+NIL	.

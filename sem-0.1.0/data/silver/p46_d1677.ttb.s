@@ -1,0 +1,9 @@
+PRO	It
+ENS	sounds
+REL	to
+PRO	me
+AND	like
+PRO	you
+NOW	're
+EXS	interested
+NIL	.

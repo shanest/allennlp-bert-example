@@ -1,0 +1,11 @@
+PRO	It
+NOW	looks
+AND	like
+PRO	it
+NOW	's
+EXS	going
+SUB	to
+EXS	clear
+IST	up
+IST	soon
+NIL	.

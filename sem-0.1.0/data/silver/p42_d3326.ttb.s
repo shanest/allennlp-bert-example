@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	know
+SUB	where
+PER	Jim
+AND	and
+PER	Nancy
+NOW	are
+QUE	?

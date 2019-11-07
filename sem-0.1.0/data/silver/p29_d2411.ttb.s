@@ -1,0 +1,15 @@
+DEF	The
+CON	thing
+SUB	that
+EXS	left
+DEF	the
+TOP	biggest
+CON	impression
+REL	from
+GPE	China
+NIL	,
+NOW	is
+DEF	the
+GPO	Chinese
+CON	food
+NIL	.

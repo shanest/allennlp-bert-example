@@ -1,0 +1,9 @@
+EXS	Tell
+PER	Tom
+PRO	I
+NOW	'm
+EXS	coming
+SUB	to
+EXS	see
+PRO	him
+NIL	.

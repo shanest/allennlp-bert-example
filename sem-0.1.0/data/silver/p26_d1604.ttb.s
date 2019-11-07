@@ -1,0 +1,12 @@
+IMP	If
+PRO	you
+ENS	go
+CON	fishing
+FUT	tomorrow
+NIL	,
+PRO	I
+FUT	'll
+EXS	go
+NIL	,
+ALT	too
+NIL	.

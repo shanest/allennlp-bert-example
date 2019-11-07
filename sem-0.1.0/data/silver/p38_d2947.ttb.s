@@ -1,0 +1,16 @@
+PRO	It
+NOW	is
+DEF	the
+CON	things
+SUB	that
+PRO	we
+NOW	do
+NOT	not
+EXS	possess
+AND	which
+ENS	seem
+REL	to
+PRO	us
+INT	most
+EXS	desirable
+NIL	.

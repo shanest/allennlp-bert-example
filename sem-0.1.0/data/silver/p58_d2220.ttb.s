@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	asked
+SUB	to
+EXS	give
+PRO	you
+DIS	a
+CON	message
+NIL	.

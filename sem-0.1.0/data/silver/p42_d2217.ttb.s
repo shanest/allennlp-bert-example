@@ -1,0 +1,12 @@
+SUB	When
+PRO	I
+EPS	saw
+PRO	him
+IST	last
+NIL	,
+PRO	he
+PST	was
+IST	still
+DIS	a
+CON	child
+NIL	.

@@ -1,0 +1,12 @@
+NOW	Are
+PRO	you
+IST	able
+SUB	to
+EXS	tell
+DEF	the
+CON	difference
+REL	between
+CON	butter
+AND	and
+CON	margarine
+QUE	?

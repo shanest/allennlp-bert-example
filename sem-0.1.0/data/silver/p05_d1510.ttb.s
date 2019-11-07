@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+ENS	knows
+QUE	what
+FUT	'll
+EXS	happen
+REL	in
+DEF	the
+CON	future
+NIL	.

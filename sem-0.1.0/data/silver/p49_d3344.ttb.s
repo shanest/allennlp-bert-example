@@ -1,0 +1,10 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	think
+PER	Mary
+FUT	would
+EXS	enjoy
+HAS	his
+CON	party
+NIL	.

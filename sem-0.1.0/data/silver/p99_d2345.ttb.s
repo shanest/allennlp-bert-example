@@ -1,0 +1,13 @@
+PER	Tom
+NOW	has
+NOT	n't
+PFT	been
+IST	able
+SUB	to
+EXS	get
+DIS	a
+CON	hold
+AND	of
+PER	Mary
+ALT	yet
+NIL	.

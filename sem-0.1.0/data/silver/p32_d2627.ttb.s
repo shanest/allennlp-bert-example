@@ -1,0 +1,10 @@
+DEF	The
+CON	teacher
+NOW	has
+IST	always
+PFT	been
+EXS	easy
+SUB	to
+EXS	consult
+REL	with
+NIL	.

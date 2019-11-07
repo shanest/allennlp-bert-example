@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+CON	guys
+EXS	play
+REL	on
+DEF	the
+IST	same
+CON	team
+QUE	?

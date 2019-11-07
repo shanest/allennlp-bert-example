@@ -1,0 +1,10 @@
+EXS	Tell
+PRO	her
+SUB	that
+PRO	I
+NOW	am
+EXS	talking
+REL	on
+DEF	the
+CON	phone
+NIL	.

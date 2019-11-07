@@ -1,0 +1,10 @@
+PRO	He
+EPS	asked
+HAS	her
+IST	out
+NIL	,
+BUT	but
+PRO	she
+EPS	said
+NOT	no
+NIL	.

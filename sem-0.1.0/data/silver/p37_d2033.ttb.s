@@ -1,0 +1,12 @@
+DEF	The
+CON	police
+CON	dog
+EPS	found
+EXS	trace
+CON	amounts
+AND	of
+CON	cocaine
+REL	in
+HAS	his
+CON	luggage
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	I
+POS	might
+EXS	be
+REL	in
+GPE	Boston
+AND	next
+DOW	Monday
+NIL	.

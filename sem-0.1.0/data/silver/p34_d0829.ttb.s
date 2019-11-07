@@ -1,0 +1,13 @@
+DIS	A
+CON	lot
+AND	of
+CON	companies
+NOW	have
+EXS	pared
+HAS	their
+CON	staff
+IST	down
+REL	to
+DIS	a
+IST	minimum
+NIL	.

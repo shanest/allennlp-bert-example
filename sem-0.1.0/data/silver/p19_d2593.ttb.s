@@ -1,0 +1,15 @@
+DEF	The
+CON	suspects
+FUT	will
+EXS	face
+CON	charges
+REL	for
+CON	importing
+COO	and
+EXG	possessing
+CON	drugs
+REL	in
+DIS	a
+CON	Sydney
+CON	court
+NIL	.

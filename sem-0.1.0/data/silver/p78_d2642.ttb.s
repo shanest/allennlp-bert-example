@@ -1,0 +1,13 @@
+DEF	The
+IST	instant
+DEF	the
+CON	girl
+EPS	saw
+HAS	her
+CON	mother
+NIL	,
+PRO	she
+EPS	burst
+IST	out
+EXS	crying
+NIL	.

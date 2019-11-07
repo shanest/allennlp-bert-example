@@ -1,0 +1,13 @@
+GEO	Atlanta
+EQU	,
+GEO	Georgia
+NOW	has
+QUC	one
+AND	of
+DEF	the
+TOP	busiest
+CON	airports
+REL	in
+DEF	the
+CON	world
+NIL	.

@@ -1,0 +1,10 @@
+AND	Why
+NOW	does
+NOT	n't
+PER	Marika
+EXS	work
+AND	as
+DIS	a
+GPO	Japanese-Finnish
+ROL	translator
+QUE	?

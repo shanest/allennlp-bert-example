@@ -1,0 +1,9 @@
+NOW	Do
+NOT	n't
+EXS	depend
+REL	on
+HAS	your
+CON	parents
+INT	too
+QUV	much
+NIL	.

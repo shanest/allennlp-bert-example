@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+DIS	a
+CON	bit
+INT	too
+IST	tight
+AND	around
+HAS	my
+CON	neck
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+IST	new
+CON	hotel
+EPS	invited
+CON	suggestions
+REL	from
+DEF	the
+CON	guests
+NIL	.

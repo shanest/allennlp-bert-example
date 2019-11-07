@@ -1,0 +1,12 @@
+NIL	"
+POS	Can
+DIS	somebody
+EXS	help
+PRO	me
+QUE	?
+NIL	"
+NIL	"
+PRO	I
+FUT	will
+NIL	.
+NIL	"

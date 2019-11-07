@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+ENS	walk
+SUB	to
+CON	school
+IST	together
+AND	almost
+AND	every
+CON	morning
+NIL	.

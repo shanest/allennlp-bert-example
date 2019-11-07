@@ -1,0 +1,10 @@
+PRO	We
+NOW	've
+PFT	been
+PRX	here
+REL	for
+DIS	a
+CON	couple
+AND	of
+CON	minutes
+NIL	.

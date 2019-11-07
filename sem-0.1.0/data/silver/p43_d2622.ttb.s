@@ -1,0 +1,15 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	met
+DIS	someone
+SUB	that
+PRO	I
+ENS	love
+AND	as
+QUC	much
+AND	as
+PRO	I
+ENS	love
+PRO	you
+NIL	.

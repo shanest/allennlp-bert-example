@@ -1,0 +1,11 @@
+DEF	The
+ROL	soldier
+PST	was
+NOT	not
+REL	in
+DEF	the
+EXS	least
+IST	afraid
+SUB	to
+EXS	die
+NIL	.

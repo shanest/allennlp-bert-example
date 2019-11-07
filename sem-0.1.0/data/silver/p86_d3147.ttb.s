@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	looking
+IST	forward
+SUB	to
+EXS	doing
+PRX	this
+ALT	again
+NIL	.

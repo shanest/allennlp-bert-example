@@ -1,0 +1,10 @@
+PRO	She
+EPS	won
+DIS	an
+CON	Oscar
+CON	nomination
+REL	for
+TOP	best
+EXS	supporting
+CON	actress
+NIL	.

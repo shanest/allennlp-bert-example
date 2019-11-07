@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+EXS	got
+SUB	to
+EXS	go
+REL	to
+DEF	the
+CON	hospital
+NIL	.

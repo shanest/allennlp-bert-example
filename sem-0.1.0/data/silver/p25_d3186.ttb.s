@@ -1,0 +1,11 @@
+PER	Tom
+EPS	asked
+PER	Mary
+IMP	if
+PRO	she
+EPS	spoke
+MOR	more
+MOR	than
+QUC	three
+CON	languages
+NIL	.

@@ -1,0 +1,13 @@
+PRO	We
+NEC	should
+EXS	make
+IST	good
+CON	use
+AND	of
+CON	dictionaries
+SUB	when
+EXG	studying
+DIS	a
+IST	foreign
+CON	language
+NIL	.

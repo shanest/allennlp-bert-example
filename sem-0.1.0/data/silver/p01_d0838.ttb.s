@@ -1,0 +1,10 @@
+SUB	Although
+PRO	he
+NOW	is
+INT	very
+IST	old
+NIL	,
+PRO	he
+NOW	is
+IST	strong
+NIL	.

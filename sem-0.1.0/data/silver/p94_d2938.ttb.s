@@ -1,0 +1,9 @@
+DEF	The
+IST	angry
+CON	crowd
+EPS	threw
+CON	missiles
+REL	at
+DEF	the
+CON	police
+NIL	.

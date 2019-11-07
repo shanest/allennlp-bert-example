@@ -1,0 +1,10 @@
+ROL	Dr.
+PER	Miller
+ENS	wants
+PRO	you
+SUB	to
+EXS	wait
+REL	for
+DIS	a
+CON	while
+NIL	.

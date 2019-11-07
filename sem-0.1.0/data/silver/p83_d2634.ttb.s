@@ -1,0 +1,14 @@
+DEF	Maybe
+PER	Tom
+NEC	should
+EXS	consider
+DEF	the
+CON	possibility
+AND	that
+PER	Mary
+NOW	has
+EPS	left
+PRO	him
+REL	for
+IST	good
+NIL	.

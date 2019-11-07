@@ -1,0 +1,12 @@
+PRO	I
+EPS	wrote
+DIS	a
+CON	novel
+IST	exactly
+SUB	as
+PRO	I
+EPS	wanted
+SUB	to
+EXS	write
+PRO	it
+NIL	.

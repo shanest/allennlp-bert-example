@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+IST	too
+EXS	tired
+SUB	to
+EXS	work
+CON	anymore
+NIL	.

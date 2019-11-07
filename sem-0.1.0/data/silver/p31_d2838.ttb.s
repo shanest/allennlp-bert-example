@@ -1,0 +1,12 @@
+PRX	This
+NOW	is
+PER	Tom
+HAS	's
+CON	pet
+CON	turtle
+NIL	.
+PRO	She
+HAS	's
+EPS	called
+PER	Mary
+NIL	.

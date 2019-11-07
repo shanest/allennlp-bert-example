@@ -1,0 +1,15 @@
+PRO	I
+POS	can
+EXS	say
+PRX	this
+NOW	now
+NIL	,
+BUT	but
+REL	for
+DIS	a
+SUB	while
+PRO	I
+EPS	hated
+HAS	your
+CON	guts
+NIL	.

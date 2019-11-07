@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+EXS	worry
+NIL	.
+PRO	It
+NOW	's
+EXS	going
+SUB	to
+EXS	be
+IST	fine
+NIL	.

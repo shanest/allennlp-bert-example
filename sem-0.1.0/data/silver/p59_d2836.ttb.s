@@ -1,0 +1,10 @@
+FUT	Tomorrow
+NIL	,
+PRO	I
+NOW	have
+ENS	plans
+SUB	to
+EXS	go
+REL	to
+GEO	Tokyo
+NIL	.

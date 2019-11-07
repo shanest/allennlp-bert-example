@@ -1,0 +1,9 @@
+PRO	We
+EPS	blew
+IST	up
+DIS	a
+IST	huge
+CON	rock
+REL	with
+CON	dynamite
+NIL	.

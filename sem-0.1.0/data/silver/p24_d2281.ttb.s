@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+AND	of
+DIS	a
+CON	city
+HAS	whose
+CON	inhabitants
+NOT	never
+EPS	smoked
+NIL	.

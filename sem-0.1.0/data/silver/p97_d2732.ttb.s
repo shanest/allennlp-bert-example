@@ -1,0 +1,9 @@
+PER	Tom
+NOW	grows
+CON	tomatoes
+AND	and
+CON	lettuce
+REL	in
+HAS	his
+CON	garden
+NIL	.

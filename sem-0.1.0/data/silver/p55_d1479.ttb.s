@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+UNK	difficult
+SUB	to
+EXS	say
+AND	which
+CON	vehicle
+NOW	is
+IST	more
+EXS	beautiful
+NIL	.

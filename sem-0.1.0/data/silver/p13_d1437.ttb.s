@@ -1,0 +1,10 @@
+IMP	If
+DST	that
+HAS	's
+CON	true
+NIL	,
+AND	then
+PER	Tom
+NOW	is
+EXS	innocent
+NIL	.

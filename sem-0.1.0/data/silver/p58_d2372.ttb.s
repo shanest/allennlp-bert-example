@@ -1,0 +1,12 @@
+PRO	It
+NOW	has
+PFT	been
+QUC	ten
+CON	years
+SUB	since
+PRO	I
+EPS	came
+REL	to
+PRX	this
+CON	town
+NIL	.

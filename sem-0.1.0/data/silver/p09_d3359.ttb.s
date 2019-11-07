@@ -1,0 +1,10 @@
+ORG	Was
+SUB	that
+PER	Tom
+PRO	I
+EPS	saw
+PRO	you
+REL	with
+IST	last
+CON	night
+QUE	?

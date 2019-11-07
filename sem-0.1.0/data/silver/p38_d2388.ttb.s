@@ -1,0 +1,15 @@
+PRO	It
+NOW	has
+PFT	been
+EXS	so
+IST	long
+REL	since
+PRO	I
+IST	last
+EPS	went
+REL	to
+CON	Disneyland
+REL	with
+HAS	my
+CON	family
+NIL	.

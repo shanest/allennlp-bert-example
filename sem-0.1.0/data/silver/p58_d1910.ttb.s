@@ -1,0 +1,15 @@
+PER	Tom
+PST	had
+HAS	his
+CON	headphones
+REL	on
+UNK	so
+PRO	he
+PST	did
+NOT	n't
+EXS	hear
+PER	Mary
+NOW	enter
+DEF	the
+CON	room
+NIL	.

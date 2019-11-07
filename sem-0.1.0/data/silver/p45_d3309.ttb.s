@@ -1,0 +1,10 @@
+DST	That
+CON	fellow
+NOW	has
+DEF	the
+CON	nerve
+SUB	to
+EXS	show
+IST	up
+ALT	again
+NIL	!

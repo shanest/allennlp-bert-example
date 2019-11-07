@@ -1,0 +1,16 @@
+PRO	I
+NOW	'm
+EXS	listening
+REL	to
+DIS	a
+PER	Harry
+PER	Potter
+REL	audio
+CON	book
+REL	with
+DEF	the
+CON	Walkman
+PRO	I
+IST	just
+EPS	bought
+NIL	.

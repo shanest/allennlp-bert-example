@@ -1,0 +1,11 @@
+PRO	It
+NOW	looks
+AND	as
+SUB	though
+PRX	this
+CON	summer
+FUT	will
+EXS	be
+IST	cold
+ALT	again
+NIL	.

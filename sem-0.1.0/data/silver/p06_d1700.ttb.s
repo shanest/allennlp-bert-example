@@ -1,0 +1,17 @@
+PER	Tom
+EPS	bought
+DIS	a
+CON	bag
+AND	of
+CON	apples
+COO	and
+PRO	he
+EPS	ate
+DIS	a
+CON	third
+AND	of
+PRO	them
+REL	in
+QUC	one
+CON	day
+NIL	.

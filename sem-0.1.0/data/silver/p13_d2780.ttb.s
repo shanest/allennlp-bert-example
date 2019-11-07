@@ -1,0 +1,10 @@
+ALT	Again
+NIL	,
+CON	Hawking
+PST	was
+IST	almost
+IST	ready
+SUB	to
+EXS	give
+IST	up
+NIL	.

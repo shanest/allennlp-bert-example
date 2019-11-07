@@ -1,0 +1,10 @@
+HAS	My
+ROL	mother
+EPS	bought
+DIS	a
+CON	refrigerator
+COO	and
+PST	had
+PRO	it
+EXS	delivered
+NIL	.

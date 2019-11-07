@@ -1,0 +1,12 @@
+DEF	The
+CON	bride
+HAS	's
+CON	father
+EPS	showed
+IST	up
+AND	late
+REL	for
+DEF	the
+CON	wedding
+CON	ceremony
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+IST	really
+ENS	appreciate
+AND	everything
+PRO	you
+NOW	've
+EXS	done
+REL	for
+PRO	us
+NIL	.

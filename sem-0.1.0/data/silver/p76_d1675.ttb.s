@@ -1,0 +1,9 @@
+PRO	We
+EPS	understood
+SUB	that
+PRO	you
+NOW	've
+EXS	eaten
+DIS	a
+CON	lot
+NIL	.

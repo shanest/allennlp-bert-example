@@ -1,0 +1,12 @@
+PER	Tom
+EXS	choked
+IST	back
+CON	tears
+AND	as
+PRO	he
+EPS	gave
+HAS	his
+CON	mother
+HAS	's
+CON	eulogy
+NIL	.

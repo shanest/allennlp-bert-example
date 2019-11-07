@@ -1,0 +1,9 @@
+PER	Tom
+ENS	has
+NOT	no
+CON	idea
+QUE	why
+PER	Mary
+ENS	hates
+PRO	him
+NIL	.

@@ -1,0 +1,11 @@
+IMP	If
+PRO	I
+PST	had
+CON	money
+NIL	,
+PRO	I
+FUT	'd
+EXS	buy
+DIS	a
+CON	computer
+NIL	.

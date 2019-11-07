@@ -1,0 +1,9 @@
+DEF	The
+CON	garden
+PST	was
+IST	full
+REL	of
+IST	beautiful
+COL	yellow
+CON	flowers
+NIL	.

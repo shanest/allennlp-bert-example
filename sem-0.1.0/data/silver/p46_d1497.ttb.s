@@ -1,0 +1,10 @@
+PRO	He
+EPS	caught
+PRO	me
+EXS	staring
+REL	at
+PRO	him
+COO	and
+PRO	I
+NOW	blushed
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+EPS	called
+PRO	him
+NIL	,
+BUT	but
+DIS	a
+CON	girl
+EPS	answered
+DEF	the
+CON	phone
+NIL	.

@@ -1,0 +1,9 @@
+ITJ	Hey
+NIL	,
+POS	can
+PRO	you
+EXS	turn
+DEF	the
+CON	lights
+REL	off
+QUE	?

@@ -1,0 +1,10 @@
+POS	May
+PRO	I
+NOW	see
+HAS	your
+ROL	driver
+HAS	's
+CON	license
+NIL	,
+CON	sir
+QUE	?

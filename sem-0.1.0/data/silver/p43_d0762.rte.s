@@ -1,0 +1,9 @@
+GPE	Greece
+AND	and
+GEO	Macedonia
+NOW	are
+REL	in
+CON	dispute
+AND	over
+CON	name
+NIL	.

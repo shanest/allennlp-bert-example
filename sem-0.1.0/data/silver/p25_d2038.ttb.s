@@ -1,0 +1,9 @@
+PRO	She
+NOW	has
+PFT	been
+EXS	hospitalized
+REL	for
+QUC	2
+CON	months
+IST	already
+NIL	.

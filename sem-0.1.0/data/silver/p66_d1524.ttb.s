@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	bound
+REL	to
+PRO	him
+REL	by
+DIS	a
+IST	close
+CON	friendship
+NIL	.

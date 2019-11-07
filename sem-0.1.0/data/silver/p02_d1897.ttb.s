@@ -1,0 +1,13 @@
+AND	Just
+SUB	because
+PRO	he
+NOW	's
+IST	wise
+NOW	does
+NOT	n't
+EXS	mean
+SUB	that
+PRO	he
+NOW	's
+EXS	honest
+NIL	.

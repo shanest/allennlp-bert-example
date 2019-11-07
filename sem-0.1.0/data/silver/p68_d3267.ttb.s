@@ -1,0 +1,11 @@
+HAS	My
+CON	mother
+EPS	bought
+PRO	me
+DIS	a
+IST	pretty
+CON	dress
+PRX	this
+CON	past
+DOW	Sunday
+NIL	.

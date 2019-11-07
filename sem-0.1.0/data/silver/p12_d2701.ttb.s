@@ -1,0 +1,11 @@
+PER	Tom
+EPS	put
+IST	out
+DEF	the
+CON	fire
+REL	with
+DIS	a
+CON	bucket
+AND	of
+CON	water
+NIL	.

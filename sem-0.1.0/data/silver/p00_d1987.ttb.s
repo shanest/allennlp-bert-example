@@ -1,0 +1,12 @@
+PRO	He
+NOW	has
+NOT	n't
+EXT	got
+AND	over
+DEF	the
+CON	death
+REL	of
+HAS	his
+CON	wife
+ALT	yet
+NIL	.

@@ -1,0 +1,14 @@
+PER	Tom
+NOW	helps
+PER	Mary
+SUB	because
+PRO	he
+ENS	wants
+SUB	to
+NIL	,
+NOT	not
+SUB	because
+PRO	he
+ENS	has
+SUB	to
+NIL	.

@@ -1,0 +1,12 @@
+PRO	They
+EPS	decided
+SUB	that
+PER	Johannes
+NEC	should
+EXS	be
+DEF	the
+ROL	captain
+REL	of
+DEF	the
+CON	team
+NIL	.

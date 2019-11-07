@@ -1,0 +1,10 @@
+PRO	He
+EPS	gave
+PRO	me
+DIS	a
+CON	promise
+SUB	to
+EXS	come
+IST	back
+IST	soon
+NIL	.

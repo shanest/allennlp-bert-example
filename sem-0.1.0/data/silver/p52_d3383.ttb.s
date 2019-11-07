@@ -1,0 +1,14 @@
+AND	Everything
+PRO	you
+EPS	said
+REL	in
+HAS	your
+CON	mail
+NOW	is
+IST	just
+CON	right
+NIL	-
+NOT	except
+DEF	the
+CON	price
+NIL	.

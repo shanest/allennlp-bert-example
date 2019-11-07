@@ -1,0 +1,10 @@
+PRO	She
+EPS	came
+REL	to
+GEO	Tokyo
+REL	at
+DEF	the
+CON	age
+AND	of
+QUC	eighteen
+NIL	.

@@ -1,0 +1,11 @@
+CON	Experience
+NOW	is
+DEF	the
+CON	name
+QUV	many
+CON	people
+EXS	give
+REL	to
+HAS	their
+CON	mistakes
+NIL	.

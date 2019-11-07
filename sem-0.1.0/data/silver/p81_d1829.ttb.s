@@ -1,0 +1,10 @@
+DEF	The
+CON	cost
+AND	of
+EXS	living
+REL	in
+GPE	Japan
+NOW	is
+EXS	going
+IST	down
+NIL	.

@@ -1,0 +1,15 @@
+NOW	Now
+NIL	,
+SUB	when
+AND	everything
+NOW	is
+EXS	gone
+NIL	,
+AND	all
+PRO	we
+NOW	have
+EXS	left
+NOW	is
+DEF	the
+CON	memory
+NIL	.

@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+IST	essential
+SUB	that
+PRO	you
+ENS	eat
+IST	more
+CON	vegetables
+NIL	.

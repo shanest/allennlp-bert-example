@@ -1,0 +1,15 @@
+REL	From
+CON	time
+REL	to
+CON	time
+PRO	she
+EPS	looked
+IST	outside
+SUB	to
+EXS	see
+SUB	whether
+PRO	it
+PST	was
+IST	still
+EXG	snowing
+NIL	.

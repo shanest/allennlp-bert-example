@@ -1,0 +1,12 @@
+PRO	She
+EPS	gave
+PRO	me
+DIS	a
+CON	necktie
+AND	which
+PST	was
+IST	completely
+REL	to
+HAS	my
+CON	liking
+NIL	.

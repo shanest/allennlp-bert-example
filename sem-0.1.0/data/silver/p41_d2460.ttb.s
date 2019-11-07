@@ -1,0 +1,14 @@
+SUB	When
+PRO	I
+ENS	grow
+IST	up
+NIL	,
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	get
+EXS	married
+REL	to
+PER	Tom
+NIL	.

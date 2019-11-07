@@ -1,0 +1,10 @@
+DEF	The
+CON	man
+PRO	we
+EPS	saw
+PRX	this
+CON	morning
+PST	was
+ROL	Mr
+PER	Green
+NIL	.

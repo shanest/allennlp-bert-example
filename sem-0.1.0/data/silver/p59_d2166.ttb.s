@@ -1,0 +1,11 @@
+HAS	My
+CON	mother
+EPS	bought
+PRO	me
+QUC	two
+CON	pairs
+AND	of
+CON	pants
+AND	last
+DOW	Sunday
+NIL	.

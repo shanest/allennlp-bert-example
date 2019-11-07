@@ -1,0 +1,10 @@
+PRX	Here
+NOW	's
+DIS	a
+CON	book
+REL	for
+HAS	your
+CON	mother
+SUB	to
+EXS	read
+NIL	.

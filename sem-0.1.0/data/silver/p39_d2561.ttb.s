@@ -1,0 +1,11 @@
+EXS	Stop
+NIL	!
+UNK	There
+HAS	's
+DIS	an
+IST	old
+CON	lady
+EXS	crossing
+DEF	the
+CON	street
+NIL	!

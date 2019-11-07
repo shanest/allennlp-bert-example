@@ -1,0 +1,11 @@
+NOW	Is
+PRX	this
+DEF	the
+CON	book
+PRO	you
+EPS	spoke
+AND	of
+DEF	the
+ALT	other
+CON	day
+QUE	?

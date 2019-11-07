@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+PRO	you
+PST	were
+REL	in
+GPE	Boston
+AND	last
+CON	summer
+NIL	.

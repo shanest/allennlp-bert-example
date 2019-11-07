@@ -1,0 +1,11 @@
+PER	Tom
+EPS	said
+PRO	you
+PST	were
+INT	too
+EXS	busy
+SUB	to
+EXS	talk
+REL	to
+PRO	us
+NIL	.

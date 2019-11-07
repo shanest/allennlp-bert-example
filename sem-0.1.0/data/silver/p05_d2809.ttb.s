@@ -1,0 +1,9 @@
+PRO	He
+NOW	has
+CON	half
+AND	as
+QUV	many
+CON	books
+AND	as
+PRO	me
+NIL	.

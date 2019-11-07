@@ -1,0 +1,13 @@
+PER	Tom
+NOW	is
+IST	well
+IST	aware
+AND	of
+QUE	what
+NOW	is
+EXG	going
+REL	on
+REL	at
+DEF	the
+CON	office
+NIL	.

@@ -1,0 +1,11 @@
+UNK	There
+HAS	's
+NOT	nobody
+REL	in
+DEF	the
+CON	house
+NIL	.
+AND	Everybody
+HAS	's
+IST	outside
+NIL	.

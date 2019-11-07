@@ -1,0 +1,11 @@
+PRO	He
+EPS	talked
+REL	to
+DIS	a
+IST	high
+CON	official
+AND	of
+DEF	the
+ORG	Treasury
+ORG	Department
+NIL	.

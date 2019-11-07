@@ -1,0 +1,10 @@
+REL	In
+CON	comparison
+REL	with
+HAS	yours
+NIL	,
+HAS	my
+CON	car
+NOW	is
+IST	small
+NIL	.

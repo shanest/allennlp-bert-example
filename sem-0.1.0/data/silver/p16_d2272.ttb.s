@@ -1,0 +1,14 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	tell
+PRO	you
+AND	about
+QUE	what
+EPS	happened
+REL	to
+PER	Mary
+NIL	,
+PST	did
+PRO	he
+QUE	?

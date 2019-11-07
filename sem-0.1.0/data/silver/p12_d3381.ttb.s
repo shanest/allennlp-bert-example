@@ -1,0 +1,17 @@
+PRO	It
+NOW	is
+IST	apt
+SUB	to
+EXS	get
+AND	either
+IST	cloudy
+DIS	or
+CON	windy
+SUB	when
+DEF	the
+CON	cherry-blossoms
+NOW	are
+REL	in
+IST	full
+CON	bloom
+NIL	.

@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+EPS	made
+IST	sure
+DEF	the
+CON	door
+NOW	is
+EXS	locked
+QUE	?

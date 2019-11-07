@@ -1,0 +1,9 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	get
+PER	Mary
+SUB	to
+EXS	stop
+CON	smoking
+NIL	.

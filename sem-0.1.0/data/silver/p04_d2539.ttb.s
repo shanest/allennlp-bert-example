@@ -1,0 +1,12 @@
+HAS	Your
+CON	eyelids
+NOW	are
+EXS	closed
+NIL	,
+BUT	but
+PRO	I
+ENS	know
+PRO	you
+NOW	're
+EXS	awake
+NIL	.

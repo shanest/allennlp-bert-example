@@ -1,0 +1,9 @@
+PRO	They
+NOW	have
+EXS	left
+PRX	here
+NIL	,
+POS	perhaps
+REL	for
+IST	good
+NIL	.

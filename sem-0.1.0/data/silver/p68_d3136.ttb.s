@@ -1,0 +1,12 @@
+PRO	He
+EPS	fell
+EXS	asleep
+REL	on
+DEF	the
+CON	train
+COO	and
+EPS	woke
+IST	up
+REL	in
+GPE	Germany
+NIL	.

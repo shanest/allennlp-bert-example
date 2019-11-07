@@ -1,0 +1,9 @@
+AND	Everybody
+PST	was
+IST	anxious
+SUB	to
+EXS	know
+QUE	what
+PST	had
+EXS	happened
+NIL	.

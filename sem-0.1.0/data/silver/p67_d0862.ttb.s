@@ -1,0 +1,12 @@
+PRO	I
+EPS	bought
+XCL	only
+QUC	one
+CON	book
+AND	which
+PRO	I
+EPS	gave
+REL	to
+DIS	a
+CON	student
+NIL	.

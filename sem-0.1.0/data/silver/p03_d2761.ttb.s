@@ -1,0 +1,11 @@
+HAS	His
+CON	command
+AND	of
+GPO	English
+ENS	is
+REL	on
+DIS	a
+CON	par
+REL	with
+HAS	mine
+NIL	.

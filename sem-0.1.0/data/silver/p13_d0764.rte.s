@@ -1,0 +1,13 @@
+PER	Fernando
+ORG	Henrique
+GEO	Cardoso
+NOW	is
+DIS	a
+GPO	Brazilian
+PST	former
+ORG	Senate
+CON	leader
+AND	and
+ORG	Cabinet
+CON	minister
+NIL	.

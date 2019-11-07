@@ -1,0 +1,14 @@
+TOP	At
+AND	last
+PRO	we
+EXS	meet
+NIL	!
+PRO	I
+NOW	've
+EPS	waited
+INT	so
+IST	long
+REL	for
+PRX	this
+CON	day
+NIL	!

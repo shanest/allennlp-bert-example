@@ -1,0 +1,9 @@
+PRO	I
+EPS	forgot
+HAS	my
+CON	phone
+REL	at
+DEF	the
+CON	meeting
+CON	room
+NIL	.

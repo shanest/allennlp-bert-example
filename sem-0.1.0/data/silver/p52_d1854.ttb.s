@@ -1,0 +1,12 @@
+PRO	He
+EPS	picked
+IST	up
+DEF	the
+CON	rifle
+COO	and
+EXS	aimed
+PRO	it
+REL	at
+DEF	the
+CON	target
+NIL	.

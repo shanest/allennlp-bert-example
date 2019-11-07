@@ -1,0 +1,12 @@
+QUE	How
+QUC	much
+NOW	does
+DIS	a
+UOM	litre
+AND	of
+IST	olive
+CON	oil
+CON	cost
+REL	on
+CON	average
+QUE	?

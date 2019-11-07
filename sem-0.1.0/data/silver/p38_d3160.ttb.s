@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	have
+CON	time
+SUB	to
+EXS	help
+PRO	you
+EXS	right
+NOW	now
+NIL	.

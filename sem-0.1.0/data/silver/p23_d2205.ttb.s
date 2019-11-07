@@ -1,0 +1,11 @@
+NOW	Are
+PRO	you
+IST	able
+SUB	to
+EXS	get
+PRX	this
+IST	rare
+CON	book
+REL	for
+PRO	me
+QUE	?

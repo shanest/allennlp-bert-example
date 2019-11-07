@@ -1,0 +1,14 @@
+NIL	"
+NOW	Are
+PRO	you
+EXS	okay
+QUE	?
+NIL	"
+NIL	"
+ITJ	Yeah
+NIL	,
+PRO	I
+NOW	'm
+EXS	fine
+NIL	.
+NIL	"

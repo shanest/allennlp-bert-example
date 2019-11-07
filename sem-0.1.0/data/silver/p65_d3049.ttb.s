@@ -1,0 +1,11 @@
+DEF	The
+XCL	only
+CON	thing
+PRO	he
+NOW	's
+EXS	thinking
+AND	about
+NOW	is
+EXS	seeing
+PRO	her
+NIL	.

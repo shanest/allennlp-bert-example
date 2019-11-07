@@ -1,0 +1,9 @@
+POS	Perhaps
+HAS	our
+CON	emotions
+NOW	make
+PRO	us
+AND	who
+PRO	we
+NOW	are
+NIL	.

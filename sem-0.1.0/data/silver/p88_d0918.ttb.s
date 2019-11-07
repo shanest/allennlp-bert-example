@@ -1,0 +1,12 @@
+IMP	If
+PRO	I
+PST	were
+PRO	you
+NIL	,
+PRO	I
+FUT	would
+ALT	also
+EXS	do
+DEF	the
+CON	same
+NIL	.

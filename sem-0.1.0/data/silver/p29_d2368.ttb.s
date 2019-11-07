@@ -1,0 +1,17 @@
+NIL	"
+SUB	When
+NEC	should
+PRO	we
+EXS	tell
+PER	Tom
+PRX	this
+QUE	?
+NIL	"
+NIL	"
+NOW	Now
+NOW	is
+DEF	the
+TOP	best
+CON	time
+NIL	.
+NIL	"

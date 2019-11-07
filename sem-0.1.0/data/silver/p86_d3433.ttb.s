@@ -1,0 +1,17 @@
+HAS	My
+CON	appointment
+REL	at
+DEF	the
+CON	hospital
+IST	completely
+EPS	slipped
+HAS	my
+CON	mind
+NIL	.
+AND	Why
+PST	did
+NOT	n't
+PRO	you
+EXS	remind
+PRO	me
+QUE	?

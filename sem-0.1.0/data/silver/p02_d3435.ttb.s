@@ -1,0 +1,10 @@
+NIL	There
+HAS	's
+NOT	nothing
+EXG	going
+REL	on
+REL	between
+PER	Tom
+AND	and
+PER	Mary
+NIL	.

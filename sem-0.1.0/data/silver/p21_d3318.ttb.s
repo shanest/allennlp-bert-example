@@ -1,0 +1,15 @@
+PRO	I
+NOW	've
+EXS	heard
+SUB	that
+CON	plants
+NOW	are
+IST	better
+EXS	adapted
+REL	to
+CON	space
+CON	travel
+AND	than
+CON	people
+NOW	are
+NIL	.

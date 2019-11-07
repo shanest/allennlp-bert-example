@@ -1,0 +1,10 @@
+PRO	She
+PST	was
+IST	always
+IST	able
+SUB	to
+EXS	answer
+AND	all
+DEF	the
+CON	questions
+NIL	.

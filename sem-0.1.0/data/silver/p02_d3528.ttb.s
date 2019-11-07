@@ -1,0 +1,9 @@
+PER	Tom
+IST	usually
+ENS	sleeps
+REL	in
+REL	on
+DOW	Saturdays
+AND	and
+DOW	Sundays
+NIL	.

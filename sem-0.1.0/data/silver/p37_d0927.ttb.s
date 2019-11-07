@@ -1,0 +1,13 @@
+PRO	I
+EPS	sold
+HAS	my
+CON	soul
+NIL	,
+BUT	but
+PRO	I
+PST	was
+NOT	n't
+EXS	using
+PRO	it
+CON	anyways
+NIL	.

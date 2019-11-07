@@ -1,0 +1,11 @@
+AND	Nowadays
+PRO	we
+NOW	are
+IST	apt
+SUB	to
+EXS	forget
+DEF	the
+CON	benefits
+AND	of
+CON	nature
+NIL	.

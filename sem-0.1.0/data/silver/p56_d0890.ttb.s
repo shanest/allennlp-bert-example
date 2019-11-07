@@ -1,0 +1,13 @@
+REL	Melting
+IST	polar
+CON	icecaps
+POS	could
+ALT	also
+EXS	contribute
+REL	to
+DIS	an
+CON	increase
+REL	in
+CON	sea
+CON	levels
+NIL	.

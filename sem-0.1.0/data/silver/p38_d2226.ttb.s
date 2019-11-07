@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+EPS	met
+DEF	the
+IST	new
+CON	family
+REL	on
+DEF	the
+CON	block
+QUE	?

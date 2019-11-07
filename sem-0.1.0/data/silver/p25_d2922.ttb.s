@@ -1,0 +1,17 @@
+PER	Tom
+EPS	asked
+REL	for
+PER	Mary
+HAS	's
+CON	address
+COO	and
+EPS	wrote
+PRO	it
+IST	down
+REL	on
+DIS	a
+CON	piece
+AND	of
+CON	scrap
+CON	paper
+NIL	.

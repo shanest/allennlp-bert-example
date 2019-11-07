@@ -1,0 +1,12 @@
+REL	After
+CON	skiing
+NIL	,
+PRO	I
+NOW	find
+SUB	that
+PRO	I
+ENS	have
+DIS	a
+IST	voracious
+CON	appetite
+NIL	.

@@ -1,0 +1,10 @@
+IST	Please
+EXS	write
+IST	down
+QUE	what
+PRO	I
+NOW	am
+EXS	going
+SUB	to
+EXS	say
+NIL	.

@@ -1,0 +1,10 @@
+REL	After
+QUC	two
+CON	years
+NIL	,
+PRO	she
+IST	already
+EPS	spoke
+IST	fluent
+GPO	German
+NIL	.

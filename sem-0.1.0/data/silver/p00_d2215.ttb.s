@@ -1,0 +1,9 @@
+REL	In
+DST	those
+CON	days
+NIL	,
+NIL	there
+PST	were
+NOT	no
+CON	radios
+NIL	.

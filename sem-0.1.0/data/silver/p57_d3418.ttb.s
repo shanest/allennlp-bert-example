@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+EXT	devoted
+HAS	his
+CON	life
+REL	to
+DEF	the
+IST	anti-nuclear-energy
+CON	movement
+NIL	.

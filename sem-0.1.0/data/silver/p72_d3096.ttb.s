@@ -1,0 +1,11 @@
+PER	Tom
+EPS	folded
+HAS	his
+CON	clothes
+COO	and
+EPS	put
+PRO	them
+REL	in
+HAS	his
+CON	suitcase
+NIL	.

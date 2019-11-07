@@ -1,0 +1,10 @@
+QUE	What
+NOW	is
+SUB	that
+EXS	building
+HAS	whose
+CON	door
+NOW	is
+EXS	painted
+COL	white
+QUE	?

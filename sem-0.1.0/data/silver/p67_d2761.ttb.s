@@ -1,0 +1,14 @@
+AND	Why
+PST	did
+NOT	n't
+PRO	you
+EXS	tell
+PRO	me
+PRO	you
+PST	were
+EXS	planning
+SUB	to
+EXS	go
+REL	to
+GPE	Boston
+QUE	?

@@ -1,0 +1,14 @@
+GPE	Peru
+NOW	is
+DEF	the
+ORD	third
+TOP	largest
+CON	country
+REL	in
+GEO	South
+GEO	America
+REL	after
+GPE	Brazil
+AND	and
+GPE	Argentina
+NIL	.

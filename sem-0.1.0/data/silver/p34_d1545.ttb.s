@@ -1,0 +1,12 @@
+DEF	The
+CON	honor
+PRO	you
+NOW	are
+EXG	giving
+PRO	me
+NOW	is
+MOR	more
+MOR	than
+PRO	I
+NOW	deserve
+NIL	.

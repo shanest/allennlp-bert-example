@@ -1,0 +1,11 @@
+PRO	I
+EPS	forgot
+HAS	my
+CON	lunch
+COO	and
+EPS	bought
+DIS	a
+CON	sandwich
+REL	at
+CON	school
+NIL	.

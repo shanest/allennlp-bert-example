@@ -1,0 +1,11 @@
+FUT	Will
+PRO	you
+EXS	do
+QUE	what
+PRO	you
+NOW	're
+EXS	told
+NIL	,
+REL	for
+QUC	once
+QUE	?

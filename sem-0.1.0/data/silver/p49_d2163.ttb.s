@@ -1,0 +1,15 @@
+PRX	This
+CON	book
+NIL	,
+AND	which
+PRO	I
+NOW	've
+EXS	read
+QUC	twice
+NIL	,
+PST	was
+DIS	a
+CON	gift
+REL	from
+PER	Peter
+NIL	.

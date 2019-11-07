@@ -1,0 +1,11 @@
+SUB	When
+PRO	she
+EPS	came
+IST	inside
+NIL	,
+PRO	we
+PST	had
+EXS	finished
+EXG	eating
+CON	dinner
+NIL	.

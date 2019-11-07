@@ -1,0 +1,10 @@
+PER	Tom
+POS	could
+NOT	never
+EXS	fall
+REL	for
+DIS	a
+CON	woman
+AND	like
+PER	Mary
+NIL	.

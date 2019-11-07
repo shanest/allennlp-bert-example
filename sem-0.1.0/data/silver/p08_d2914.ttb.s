@@ -1,0 +1,9 @@
+PER	Tom
+ENS	regrets
+NOT	not
+EXG	doing
+QUE	what
+HAS	his
+ROL	father
+EPS	recommended
+NIL	.

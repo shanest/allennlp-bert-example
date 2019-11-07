@@ -1,0 +1,14 @@
+IMP	If
+PRO	it
+NOW	sounds
+INT	too
+EXS	good
+SUB	to
+EXS	be
+EXS	true
+NIL	,
+PRO	it
+IST	probably
+NOW	is
+NOT	n't
+NIL	.

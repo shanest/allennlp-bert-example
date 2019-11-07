@@ -1,0 +1,10 @@
+PRO	I
+FUT	'll
+EXS	give
+PRO	you
+AND	as
+QUV	many
+AND	as
+PRO	you
+AND	like
+NIL	.

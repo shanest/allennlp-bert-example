@@ -1,0 +1,13 @@
+AND	How
+QUC	many
+UOM	litres
+AND	of
+CON	petrol
+NOW	does
+PRO	it
+EXS	take
+SUB	to
+EXS	fill
+HAS	your
+CON	car
+QUE	?

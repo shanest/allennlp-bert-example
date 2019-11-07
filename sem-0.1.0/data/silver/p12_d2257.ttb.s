@@ -1,0 +1,12 @@
+PER	Tom
+IST	usually
+ENS	says
+NIL	"
+EXS	Pardon
+HAS	my
+CON	French
+NIL	"
+SUB	whenever
+PRO	he
+ENS	swears
+NIL	.

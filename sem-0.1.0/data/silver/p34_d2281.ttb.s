@@ -1,0 +1,12 @@
+PRO	You
+POS	could
+EXT	have
+EXS	let
+PRO	me
+EXS	know
+PRO	you
+PST	were
+EXS	going
+IST	out
+CON	tonight
+NIL	.

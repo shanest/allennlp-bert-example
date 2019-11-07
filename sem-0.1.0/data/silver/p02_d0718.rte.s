@@ -1,0 +1,10 @@
+REL	In
+YOC	1948
+DEF	the
+ORG	ICJ
+EXS	ruled
+REL	in
+CON	favour
+AND	of
+GPE	Albania
+NIL	.

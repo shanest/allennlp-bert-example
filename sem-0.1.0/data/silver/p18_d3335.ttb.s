@@ -1,0 +1,12 @@
+PRO	You
+IST	never
+ENS	know
+SUB	when
+PRO	he
+NOW	's
+EXS	going
+SUB	to
+EXS	throw
+ALT	another
+CON	tantrum
+NIL	.

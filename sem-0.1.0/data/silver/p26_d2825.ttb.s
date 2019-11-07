@@ -1,0 +1,9 @@
+PRO	He
+HAS	's
+PFT	been
+EXS	awarded
+DIS	a
+CON	gold
+CON	medal
+QUC	once
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	write
+PER	Tom
+DIS	a
+CON	note
+NIL	.

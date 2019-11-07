@@ -1,0 +1,11 @@
+HAS	His
+CON	daughter
+NOW	is
+IST	able
+SUB	to
+EXS	recite
+DIS	a
+CON	lot
+AND	of
+CON	poems
+NIL	.

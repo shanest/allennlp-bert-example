@@ -1,0 +1,11 @@
+PRO	She
+EPS	came
+REL	to
+GEO	Tokyo
+SUB	when
+PRO	she
+PST	was
+QUC	eighteen
+CON	years
+COM	old
+NIL	.

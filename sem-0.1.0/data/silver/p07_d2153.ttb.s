@@ -1,0 +1,9 @@
+HAS	My
+ROL	father
+PST	had
+IST	far
+MOR	bigger
+CON	ambitions
+AND	than
+PRO	I
+NIL	.

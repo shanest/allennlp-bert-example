@@ -1,0 +1,12 @@
+PER	Einstein
+EPS	showed
+SUB	that
+CON	mass
+POS	can
+EXS	be
+EXS	converted
+REL	into
+CON	energy
+AND	and
+CON	vice-versa
+NIL	.

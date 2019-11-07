@@ -1,0 +1,9 @@
+PER	Tom
+PST	was
+NOT	n't
+IST	entirely
+EXS	surprised
+SUB	to
+EXS	see
+PER	Mary
+NIL	.

@@ -1,0 +1,11 @@
+NOW	Have
+PRO	you
+IST	ever
+EXS	been
+REL	to
+DEF	the
+CON	end
+AND	of
+DEF	the
+CON	world
+QUE	?

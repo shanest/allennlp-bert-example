@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+IST	even
+EXS	get
+DIS	a
+CON	chance
+SUB	to
+EXS	say
+GRE	goodbye
+NIL	.

@@ -1,0 +1,11 @@
+DST	That
+IST	old
+CON	man
+PST	was
+IST	sound
+EXS	asleep
+SUB	when
+DEF	the
+CON	bear
+EPS	came
+NIL	.

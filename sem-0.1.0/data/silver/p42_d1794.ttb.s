@@ -1,0 +1,11 @@
+EXS	Let
+PRO	's
+CON	pitch
+DEF	the
+CON	tent
+SUB	while
+PRO	it
+HAS	's
+IST	still
+CON	light
+NIL	.

@@ -1,0 +1,9 @@
+NOT	No
+NIL	,
+PRO	I
+NOW	do
+NOT	n't
+EXS	understand
+ROL	Mrs.
+PER	Kunze
+NIL	.

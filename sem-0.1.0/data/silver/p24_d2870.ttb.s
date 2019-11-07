@@ -1,0 +1,9 @@
+PER	Tom
+EPS	blew
+AND	all
+HAS	his
+CON	money
+REL	on
+DIS	a
+CON	motorcycle
+NIL	.

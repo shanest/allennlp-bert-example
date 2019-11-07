@@ -1,0 +1,14 @@
+QUE	What
+PRO	he
+EPS	said
+NOW	applies
+NIL	,
+REL	to
+DIS	a
+IST	certain
+CON	extent
+NIL	,
+REL	to
+PRX	this
+CON	case
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+EPS	saw
+HAS	her
+IST	just
+DIS	a
+IST	few
+CON	hours
+PST	ago
+NIL	.

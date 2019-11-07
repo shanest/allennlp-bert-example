@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PRO	we
+NOW	do
+NOT	n't
+EXS	accept
+CON	checks
+NIL	.

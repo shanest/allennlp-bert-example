@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	mind
+EXG	walking
+REL	in
+DEF	the
+CON	rain
+NIL	.

@@ -1,0 +1,10 @@
+QUE	Which
+NOW	do
+PRO	you
+EXS	like
+COM	better
+EQU	,
+GPE	Boston
+DIS	or
+GPE	Chicago
+QUE	?

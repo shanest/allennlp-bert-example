@@ -1,0 +1,11 @@
+PRO	We
+NOW	are
+EXS	spending
+DEF	the
+CON	night
+REL	at
+HAS	my
+ROL	uncle
+HAS	's
+CON	house
+NIL	.

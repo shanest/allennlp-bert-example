@@ -1,0 +1,10 @@
+POS	Can
+PRO	you
+NOW	describe
+DEF	the
+CON	man
+AND	who
+EPS	took
+HAS	your
+CON	wallet
+QUE	?

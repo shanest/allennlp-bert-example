@@ -1,0 +1,12 @@
+PER	Tom
+ENS	spends
+DIS	a
+CON	lot
+AND	of
+CON	time
+EXS	helping
+PER	Mary
+NOW	do
+HAS	her
+CON	homework
+NIL	.

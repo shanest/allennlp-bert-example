@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+PFT	been
+EXS	playing
+CON	tennis
+AND	all
+CON	day
+NIL	.

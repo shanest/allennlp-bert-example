@@ -1,0 +1,16 @@
+REL	In
+DIS	a
+CON	court
+AND	of
+CON	justice
+CON	women
+NOW	are
+MOR	more
+IST	often
+EPS	found
+EXS	guilty
+AND	of
+CON	perjury
+AND	than
+CON	men
+NIL	.

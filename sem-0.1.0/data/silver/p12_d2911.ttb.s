@@ -1,0 +1,9 @@
+PER	Tom
+ENS	says
+PRO	he
+EPS	heard
+PER	Mary
+AND	and
+PER	John
+EXS	arguing
+NIL	.

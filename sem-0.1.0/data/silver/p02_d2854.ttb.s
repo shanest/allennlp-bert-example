@@ -1,0 +1,10 @@
+PER	Tom
+IST	deleted
+AND	all
+DEF	the
+CON	files
+REL	off
+HAS	his
+IST	thumb
+CON	drive
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	apples
+AND	which
+PRO	he
+EPS	sent
+REL	to
+PRO	me
+PST	were
+IST	delicious
+NIL	.

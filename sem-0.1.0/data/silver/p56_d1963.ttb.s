@@ -1,0 +1,9 @@
+EXS	Tell
+PRO	us
+DEF	the
+CON	story
+REL	from
+CON	beginning
+REL	to
+CON	end
+NIL	.

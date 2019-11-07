@@ -1,0 +1,12 @@
+PRO	We
+NOW	have
+EXS	made
+QUV	several
+IST	failed
+CON	attempts
+REL	at
+EXS	foresting
+DEF	the
+IST	local
+CON	landfill
+NIL	.

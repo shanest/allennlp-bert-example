@@ -1,0 +1,16 @@
+IMP	If
+PRO	we
+PST	'd
+EXS	gotten
+PRX	here
+IST	sooner
+NIL	,
+PRO	we
+POS	might
+EXT	've
+EXS	been
+UNK	able
+SUB	to
+EXS	save
+PER	Tom
+NIL	.

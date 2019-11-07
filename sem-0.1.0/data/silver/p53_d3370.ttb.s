@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+DEF	the
+TOP	best
+CON	investment
+PRO	I
+NOW	've
+IST	ever
+EXS	made
+NIL	.

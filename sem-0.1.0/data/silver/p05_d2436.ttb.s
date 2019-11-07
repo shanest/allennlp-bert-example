@@ -1,0 +1,13 @@
+EXS	Put
+DEF	the
+CON	book
+IST	back
+REL	in
+DEF	the
+IST	same
+CON	place
+SUB	where
+PRO	you
+EPS	found
+PRO	it
+NIL	.

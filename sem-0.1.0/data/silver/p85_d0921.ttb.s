@@ -1,0 +1,17 @@
+REL	After
+DEF	125
+CON	years
+AND	of
+CON	development
+PRO	it
+NOW	's
+EXS	clear
+SUB	:
+CON	Esperanto
+NOW	is
+MOR	more
+MOR	than
+AND	just
+DIS	a
+CON	language
+NIL	.

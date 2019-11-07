@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+QUC	one
+AND	of
+DEF	the
+TOP	best
+CON	poker
+CON	players
+PRO	I
+ENS	know
+NIL	.

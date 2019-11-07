@@ -1,0 +1,11 @@
+POS	Can
+PRO	you
+EXS	lend
+PRO	me
+DIS	some
+CON	money
+QUE	?
+PRO	I
+NOW	'm
+EXS	skint
+NIL	.

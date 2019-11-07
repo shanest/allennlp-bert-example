@@ -1,0 +1,10 @@
+SUB	When
+PRO	I
+NOW	'm
+REL	with
+PRO	you
+NIL	,
+PRO	I
+NOW	'm
+EXS	happy
+NIL	.

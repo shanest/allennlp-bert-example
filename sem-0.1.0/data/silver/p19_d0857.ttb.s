@@ -1,0 +1,13 @@
+PRX	These
+CON	glasses
+NOW	do
+NOT	not
+EXS	fit
+PRO	me
+IST	well
+NIL	.
+PRO	They
+NOW	are
+INT	too
+IST	large
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	gave
+REL	away
+AND	all
+HAS	his
+CON	money
+NIL	,
+REL	then
+EPS	committed
+CON	suicide
+NIL	.

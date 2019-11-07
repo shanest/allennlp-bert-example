@@ -1,0 +1,9 @@
+ROL	Grandfather
+NOW	has
+EXS	retired
+SUB	because
+PRO	he
+NOW	is
+EXS	getting
+COM	old
+NIL	.

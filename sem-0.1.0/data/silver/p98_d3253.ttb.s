@@ -1,0 +1,15 @@
+UNK	There
+NOW	is
+NOT	no
+EXS	denying
+DEF	the
+CON	fact
+SUB	that
+NOT	no
+CON	one
+NOW	is
+EXS	free
+REL	from
+IST	racial
+CON	prejudice
+NIL	.

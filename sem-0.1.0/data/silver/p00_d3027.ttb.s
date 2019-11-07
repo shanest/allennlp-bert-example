@@ -1,0 +1,12 @@
+QUC	Five
+AND	of
+PRO	them
+EPS	attacked
+PRO	me
+NIL	,
+BUT	but
+PRO	I
+EPS	overcame
+PRO	them
+AND	all
+NIL	.

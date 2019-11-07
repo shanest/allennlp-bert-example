@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+PRO	you
+SUB	to
+EXS	think
+PRO	I
+NOW	'm
+EXS	crazy
+NIL	.

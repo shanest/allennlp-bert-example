@@ -1,0 +1,12 @@
+PER	Tom
+ENS	says
+PRO	he
+HAS	's
+DEF	the
+TOP	best
+CON	tennis
+CON	player
+REL	at
+HAS	his
+CON	club
+NIL	.

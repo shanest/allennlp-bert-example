@@ -1,0 +1,13 @@
+PRO	It
+PST	was
+NOT	not
+REL	till
+DEF	the
+IST	next
+CON	morning
+SUB	that
+PRO	we
+EPS	knew
+DEF	the
+CON	fact
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+PFT	been
+REL	to
+GEO	Kyoto
+CON	station
+SUB	to
+EXS	see
+HAS	my
+CON	father
+REL	off
+NIL	.

@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+PRO	you
+IST	ever
+NOW	make
+PRO	me
+EXS	cry
+ALT	again
+AND	like
+DST	that
+NIL	!

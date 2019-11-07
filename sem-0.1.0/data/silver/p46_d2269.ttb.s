@@ -1,0 +1,10 @@
+HAS	Our
+IST	artificial
+CON	island
+NOW	is
+NOT	n't
+INT	very
+IST	well
+IST	forested
+ALT	yet
+NIL	.

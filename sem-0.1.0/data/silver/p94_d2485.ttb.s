@@ -1,0 +1,9 @@
+PRO	I
+EPS	met
+NIL	José
+SUB	when
+PRO	I
+PST	was
+REL	in
+GEO	Bilbao
+NIL	.

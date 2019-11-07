@@ -1,0 +1,12 @@
+EXS	Believe
+DST	those
+AND	who
+ENS	seek
+CON	truth
+NIL	,
+EXS	beware
+DST	those
+AND	who
+NOW	find
+PRO	it
+NIL	.

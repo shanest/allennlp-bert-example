@@ -1,0 +1,11 @@
+PER	Tom
+EPS	folded
+DEF	the
+CON	letter
+COO	and
+EPS	put
+PRO	it
+REL	into
+DEF	the
+CON	envelope
+NIL	.

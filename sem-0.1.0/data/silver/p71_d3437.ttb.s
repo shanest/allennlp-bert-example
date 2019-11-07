@@ -1,0 +1,11 @@
+PER	Tom
+EPS	slipped
+REL	on
+CON	ice
+COO	and
+EPS	broke
+HAS	his
+CON	hip
+AND	last
+CON	winter
+NIL	.

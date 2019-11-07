@@ -1,0 +1,15 @@
+NOW	Have
+PRO	you
+IST	already
+EPS	decided
+QUE	how
+PRO	you
+NOW	're
+EXS	going
+SUB	to
+EXS	take
+CON	care
+AND	of
+PRX	this
+CON	problem
+QUE	?

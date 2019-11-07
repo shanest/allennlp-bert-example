@@ -1,0 +1,14 @@
+SUB	When
+PRO	she
+EPS	came
+REL	to
+GEO	Berlin
+SUB	to
+EXS	study
+NIL	,
+PRO	she
+PST	was
+IST	still
+INT	very
+EXS	young
+NIL	.

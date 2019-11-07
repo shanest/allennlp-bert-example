@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+DEF	the
+INT	most
+IST	artistic
+CON	picture
+PRO	I
+NOW	have
+IST	ever
+EXS	taken
+NIL	.

@@ -1,0 +1,12 @@
+DEF	The
+ROL	president
+NOW	is
+EXS	expected
+SUB	to
+EXS	put
+IST	forward
+DIS	a
+IST	new
+CON	energy
+CON	policy
+NIL	.

@@ -1,0 +1,23 @@
+DEF	The
+CON	death
+AND	of
+IST	much-loved
+CON	TV
+ROL	anchorman
+PER	Vladislav Listyev
+DEF	the
+ALT	previous
+CON	year
+PST	had
+IST	already
+EXS	established
+SUB	that
+CON	fame
+PST	was
+NOT	no
+CON	protection
+REL	from
+DEF	the
+IST	hired
+CON	guns
+NIL	.

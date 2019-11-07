@@ -1,0 +1,15 @@
+NIL	"
+QUE	What
+IMP	if
+PRO	you
+NOW	're
+EXS	wrong
+QUE	?
+NIL	"
+NIL	"
+PRO	I
+NOW	'm
+NOT	not
+EXS	wrong
+NIL	.
+NIL	"

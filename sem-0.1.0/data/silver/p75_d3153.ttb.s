@@ -1,0 +1,11 @@
+PRO	I
+ENS	owe
+PRO	it
+SUB	to
+PRO	you
+SUB	that
+PRO	I
+NOW	am
+IST	still
+EXS	alive
+NIL	.

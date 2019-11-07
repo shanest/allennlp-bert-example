@@ -1,0 +1,11 @@
+PRO	We
+NOW	've
+EXS	got
+SUB	to
+EXS	do
+DIS	something
+AND	about
+PRX	this
+CON	problem
+IST	soon
+NIL	.

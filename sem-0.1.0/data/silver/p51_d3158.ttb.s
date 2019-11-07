@@ -1,0 +1,10 @@
+QUE	What
+DIS	a
+CON	viper
+PRO	I
+NOW	have
+EXS	nourished
+REL	in
+HAS	my
+CON	bosom
+NIL	!

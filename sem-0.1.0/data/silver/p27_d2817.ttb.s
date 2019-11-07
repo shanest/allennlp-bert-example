@@ -1,0 +1,12 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	be
+EXS	hungry
+NIL	.
+PRO	You
+NOW	've
+IST	just
+EXT	had
+CON	dinner
+NIL	.

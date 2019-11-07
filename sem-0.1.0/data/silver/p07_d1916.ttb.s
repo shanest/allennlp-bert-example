@@ -1,0 +1,11 @@
+PRO	It
+EPS	seemed
+SUB	that
+UNK	there
+PST	was
+NOT	no
+CON	one
+REL	in
+DEF	the
+CON	village
+NIL	.

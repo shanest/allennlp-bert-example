@@ -1,0 +1,12 @@
+PRO	I
+EPS	caught
+HAS	my
+CON	son
+EXG	making
+CON	prank
+CON	calls
+REL	to
+IST	random
+CON	phone
+CON	numbers
+NIL	.

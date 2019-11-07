@@ -1,0 +1,13 @@
+AND	So
+PRO	you
+NOW	are
+IST	really
+EXG	offering
+PRO	me
+DIS	a
+IST	Roflex
+CON	watch
+REL	for
+QUC	5
+UOM	dollars
+QUE	?

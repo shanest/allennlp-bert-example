@@ -1,0 +1,13 @@
+PRO	I
+POS	can
+NOT	not
+EXS	make
+PER	Taninna
+EXS	happy
+NIL	.
+PRO	She
+NOW	does
+NOT	n't
+EXS	love
+PRO	me
+NIL	.

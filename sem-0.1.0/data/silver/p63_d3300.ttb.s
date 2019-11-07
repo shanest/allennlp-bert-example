@@ -1,0 +1,10 @@
+DEF	The
+CON	book
+PRO	I
+EPS	bought
+PST	yesterday
+NOW	is
+DIS	a
+IST	real
+IST	soporific
+NIL	.

@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+TOP	biggest
+CON	cat
+SUB	that
+PRO	I
+NOW	've
+IST	ever
+EXS	seen
+NIL	.

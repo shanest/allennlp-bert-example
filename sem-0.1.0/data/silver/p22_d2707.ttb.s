@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXG	trying
+SUB	to
+EXS	work
+REL	out
+PRX	this
+CON	problem
+NIL	.

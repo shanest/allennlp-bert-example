@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	know
+QUE	why
+PRO	you
+NOW	're
+EXS	doing
+PRX	this
+NIL	.

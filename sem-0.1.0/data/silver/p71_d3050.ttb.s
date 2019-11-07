@@ -1,0 +1,11 @@
+PRO	He
+EPS	shot
+REF	himself
+REL	in
+DEF	the
+CON	foot
+REL	by
+EXS	accepting
+DEF	the
+CON	contract
+NIL	.

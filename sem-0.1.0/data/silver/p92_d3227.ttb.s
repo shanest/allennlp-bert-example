@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+REL	to
+DEF	the
+CON	center
+AND	of
+DEF	the
+CON	city
+NIL	.

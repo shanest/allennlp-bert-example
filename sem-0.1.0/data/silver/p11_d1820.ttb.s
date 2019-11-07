@@ -1,0 +1,12 @@
+NOT	Nobody
+EPS	contributed
+REL	to
+DEF	the
+CON	understanding
+AND	of
+CON	dreams
+AND	as
+QUV	much
+AND	as
+PER	Freud
+NIL	.

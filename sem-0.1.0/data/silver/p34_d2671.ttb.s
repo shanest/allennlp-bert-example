@@ -1,0 +1,13 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+PRO	he
+NOW	is
+DIS	a
+INT	very
+IST	kind
+CON	man
+NIL	.

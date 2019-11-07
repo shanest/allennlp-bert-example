@@ -1,0 +1,12 @@
+NOT	Not
+XCL	only
+PRO	he
+COO	but
+ALT	also
+HAS	his
+ROL	sisters
+EPS	went
+REL	to
+DEF	the
+CON	movies
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+EPS	decided
+NOT	not
+SUB	to
+EXS	come
+NIL	.

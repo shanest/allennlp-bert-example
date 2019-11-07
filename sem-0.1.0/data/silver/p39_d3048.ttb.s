@@ -1,0 +1,12 @@
+AND	Everybody
+NOW	has
+DEF	the
+CON	right
+SUB	to
+EXS	talk
+HAS	their
+CON	way
+AND	out
+AND	of
+CON	things
+NIL	.

@@ -1,0 +1,11 @@
+REL	After
+DIS	a
+IST	short
+EXS	break
+DEF	the
+CON	show
+PST	was
+NIL	to
+EXS	be
+EXS	resumed
+NIL	...

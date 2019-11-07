@@ -1,0 +1,9 @@
+EXS	Find
+IST	out
+QUE	what
+CON	hotel
+PRO	they
+NOW	're
+EXS	living
+REL	at
+NIL	.

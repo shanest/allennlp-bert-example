@@ -1,0 +1,17 @@
+REL	In
+GEO	America
+NIL	,
+CON	rice
+POS	can
+EXS	be
+EXS	bought
+REL	for
+DIS	a
+IST	fifth
+AND	of
+QUE	what
+PRO	it
+ENS	costs
+REL	in
+GPE	Japan
+NIL	.

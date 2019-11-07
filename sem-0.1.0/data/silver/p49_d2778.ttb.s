@@ -1,0 +1,14 @@
+NOT	Not
+SUB	that
+PRO	I
+ENS	dislike
+DEF	the
+CON	work
+NIL	,
+BUT	but
+SUB	that
+PRO	I
+NOW	have
+NOT	no
+CON	time
+NIL	.

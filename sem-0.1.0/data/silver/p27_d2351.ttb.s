@@ -1,0 +1,9 @@
+PER	Eric
+EPS	played
+DIS	a
+IST	sweet
+CON	tune
+REL	on
+DEF	the
+CON	piano
+NIL	.

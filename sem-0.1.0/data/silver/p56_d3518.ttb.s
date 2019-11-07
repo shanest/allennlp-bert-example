@@ -1,0 +1,11 @@
+PER	Tom
+EPS	went
+SUB	to
+EXS	get
+DIS	a
+CON	glass
+AND	of
+CON	water
+REL	for
+PER	Mary
+NIL	.

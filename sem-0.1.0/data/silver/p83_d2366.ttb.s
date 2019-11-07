@@ -1,0 +1,11 @@
+CON	Transtextuality
+AND	and
+CON	transsexuality
+CON	sound
+IST	similar
+BUT	but
+NOW	have
+IST	totally
+ALT	different
+CON	meanings
+NIL	.

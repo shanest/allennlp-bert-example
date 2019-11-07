@@ -1,0 +1,16 @@
+EXS	Excuse
+PRO	me
+NIL	,
+BUT	but
+FUT	would
+PRO	you
+IST	please
+EXS	tell
+PRO	me
+DEF	the
+CON	way
+REL	to
+DEF	the
+CON	post
+CON	office
+QUE	?

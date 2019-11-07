@@ -1,0 +1,10 @@
+AND	All
+PRO	you
+NEC	had
+SUB	to
+EXS	do
+PST	was
+EXS	talk
+REL	to
+PER	Tom
+NIL	.

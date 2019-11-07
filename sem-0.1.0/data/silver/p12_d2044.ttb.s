@@ -1,0 +1,11 @@
+PRO	I
+FUT	will
+NOT	never
+EXS	forget
+CON	meeting
+SUB	that
+EXS	popular
+ROL	writer
+AND	last
+CON	year
+NIL	.

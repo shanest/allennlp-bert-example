@@ -1,0 +1,9 @@
+PRO	We
+ENS	need
+DIS	a
+CON	press
+EXS	unhampered
+REL	by
+CON	government
+CON	censorship
+NIL	.

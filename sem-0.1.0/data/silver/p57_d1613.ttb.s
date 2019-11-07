@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	wrote
+QUC	many
+AND	of
+HAS	their
+CON	songs
+IST	together
+NIL	.

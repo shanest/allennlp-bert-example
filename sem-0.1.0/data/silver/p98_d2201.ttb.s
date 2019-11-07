@@ -1,0 +1,13 @@
+PRO	It
+ENS	smells
+AND	like
+PER	Tom
+NOW	is
+EXS	wearing
+DEF	the
+IST	same
+CON	perfume
+SUB	that
+PER	Mary
+NOW	is
+NIL	.

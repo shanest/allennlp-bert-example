@@ -1,0 +1,10 @@
+ORG	Scientific
+CON	knowledge
+NOW	has
+IST	greatly
+EXS	advanced
+REL	since
+DEF	the
+ORD	16th
+CON	century
+NIL	.

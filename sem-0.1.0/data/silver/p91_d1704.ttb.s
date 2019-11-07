@@ -1,0 +1,14 @@
+PER	Mary
+NIL	,
+PRO	I
+NOW	'm
+UNK	afraid
+PER	Tom
+NOW	has
+NOT	n't
+PFT	been
+IST	totally
+EXS	honest
+REL	with
+PRO	you
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+CON	book
+PRO	you
+NOW	're
+EXS	looking
+REL	for
+NOW	is
+REL	on
+HAS	my
+CON	desk
+NIL	.

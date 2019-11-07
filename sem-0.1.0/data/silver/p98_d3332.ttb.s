@@ -1,0 +1,9 @@
+PRO	I
+NOW	now
+ENS	live
+REL	in
+DIS	a
+INT	very
+IST	small
+CON	house
+NIL	.

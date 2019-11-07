@@ -1,0 +1,11 @@
+DEF	The
+ROL	poet
+AND	and
+CON	novelist
+PST	were
+DEF	both
+CON	present
+REL	at
+DEF	the
+CON	meeting
+NIL	.

@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+CON	time
+PRO	you
+EPS	told
+HAS	her
+DEF	the
+CON	truth
+NIL	.

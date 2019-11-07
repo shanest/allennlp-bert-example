@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	know
+QUE	what
+PRO	I
+PST	was
+EXS	trying
+SUB	to
+EXS	do
+NIL	.

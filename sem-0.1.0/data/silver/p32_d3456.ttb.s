@@ -1,0 +1,14 @@
+GEO	South
+UNK	Tyrol
+NOW	is
+QUC	one
+AND	of
+DEF	the
+TOP	wealthiest
+CON	regions
+REL	in
+GPE	Italy
+AND	and
+REL	in
+GEO	Europe
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+NOW	am
+DIS	a
+CON	cat
+NIL	.
+PRO	I
+NOW	do
+NOT	n't
+EXS	have
+DIS	a
+CON	name
+ALT	yet
+NIL	.

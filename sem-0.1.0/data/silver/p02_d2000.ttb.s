@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+EXS	important
+CON	business
+SUB	to
+EXS	take
+CON	care
+AND	of
+REL	in
+HAS	my
+CON	office
+NIL	.

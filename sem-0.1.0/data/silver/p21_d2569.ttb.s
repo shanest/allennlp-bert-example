@@ -1,0 +1,13 @@
+DEF	The
+CON	man
+ENS	lives
+REL	from
+CON	hand
+REL	to
+CON	mouth
+AND	and
+NOT	never
+NOW	saves
+DIS	a
+CON	cent
+NIL	.

@@ -1,0 +1,14 @@
+DEF	The
+CON	letter
+NOW	does
+NOT	not
+EXS	say
+QUE	what
+CON	time
+PRO	she
+FUT	will
+EXS	come
+IST	up
+REL	to
+GPE	Tokyo
+NIL	.

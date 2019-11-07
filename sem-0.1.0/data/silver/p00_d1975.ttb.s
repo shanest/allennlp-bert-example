@@ -1,0 +1,10 @@
+NOW	Has
+PER	Tom
+IST	ever
+EXT	told
+PRO	you
+QUE	how
+PRO	he
+EPS	met
+PER	Mary
+QUE	?

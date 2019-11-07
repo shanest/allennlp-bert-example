@@ -1,0 +1,10 @@
+DIS	A
+CON	grasshopper
+AND	and
+QUV	many
+CON	ants
+EPS	lived
+REL	in
+DIS	a
+CON	field
+NIL	.

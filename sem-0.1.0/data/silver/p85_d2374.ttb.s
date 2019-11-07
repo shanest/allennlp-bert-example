@@ -1,0 +1,14 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	understand
+PER	Mary
+HAS	's
+CON	reluctance
+SUB	to
+EXS	go
+IST	out
+REL	with
+HAS	his
+CON	brother
+NIL	.

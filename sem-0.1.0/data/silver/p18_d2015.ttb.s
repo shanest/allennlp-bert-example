@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	you
+NOW	are
+EXG	learning
+GPO	French
+REL	at
+CON	school
+NIL	.

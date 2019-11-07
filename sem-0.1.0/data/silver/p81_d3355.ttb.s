@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	stay
+REL	with
+HAS	my
+CON	uncle
+REL	in
+GEO	Kyoto
+NIL	.

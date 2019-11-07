@@ -1,0 +1,13 @@
+PRO	It
+NOT	never
+EPS	occurred
+REL	to
+PRO	me
+SUB	that
+PRO	she
+PST	was
+EXS	sick
+REL	in
+DEF	the
+CON	hospital
+NIL	.

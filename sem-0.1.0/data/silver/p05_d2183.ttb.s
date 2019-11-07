@@ -1,0 +1,11 @@
+PRO	They
+NOW	are
+EXS	planning
+SUB	to
+EXS	connect
+DEF	the
+CON	cities
+REL	with
+DIS	a
+CON	railroad
+NIL	.

@@ -1,0 +1,12 @@
+CON	Smoking
+NOW	is
+NOT	not
+EXS	allowed
+PRX	here
+NIL	.
+IST	Please
+EXS	feed
+HAS	your
+CON	cancer
+AND	outside
+NIL	!

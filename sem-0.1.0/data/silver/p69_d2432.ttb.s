@@ -1,0 +1,15 @@
+REL	After
+CON	spending
+QUC	three
+CON	weeks
+EXS	looking
+REL	for
+DIS	a
+CON	job
+NIL	,
+PRO	he
+EPS	found
+DIS	a
+IST	well-paid
+CON	one
+NIL	.

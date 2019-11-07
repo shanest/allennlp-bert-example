@@ -1,0 +1,16 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	give
+PRO	him
+DIS	a
+CON	massage
+NIL	,
+BUT	but
+PRO	she
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+NIL	.

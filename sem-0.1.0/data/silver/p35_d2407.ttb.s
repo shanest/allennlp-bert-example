@@ -1,0 +1,11 @@
+REL	On
+DEF	the
+CON	internet
+NIL	,
+NOT	nobody
+ENS	knows
+PRO	you
+NOW	're
+DIS	a
+CON	cat
+NIL	.

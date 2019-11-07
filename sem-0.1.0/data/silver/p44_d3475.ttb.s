@@ -1,0 +1,13 @@
+NOW	Are
+PRO	you
+IST	honestly
+EXG	telling
+PRO	me
+PRO	you
+IST	never
+ENS	want
+SUB	to
+EXS	see
+PER	Tom
+IST	again
+QUE	?

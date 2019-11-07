@@ -1,0 +1,17 @@
+NIL	Carrots
+NOW	are
+EXS	good
+REL	for
+DEF	the
+CON	eyes
+NIL	.
+NOW	Have
+PRO	you
+IST	ever
+EXS	seen
+DIS	a
+CON	rabbit
+REL	with
+CON	glasses
+REL	on
+QUE	?

@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	imagine
+QUE	what
+PER	Tom
+NOW	is
+EXS	feeling
+NOW	now
+NIL	.

@@ -1,0 +1,17 @@
+PRO	I
+PST	had
+IST	hardly
+EPS	sat
+IST	down
+REL	on
+DEF	the
+CON	bench
+SUB	when
+PRO	I
+EPS	found
+PRO	it
+PST	had
+IST	just
+PFT	been
+EXS	painted
+NIL	.

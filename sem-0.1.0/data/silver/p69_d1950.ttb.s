@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+SUB	whether
+PER	Mary
+ENS	likes
+PRO	him
+DIS	or
+NOT	not
+NIL	.

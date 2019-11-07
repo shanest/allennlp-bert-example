@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+NOT	not
+IST	sure
+ALT	yet
+NIL	,
+BUT	but
+PRO	I
+NOW	think
+PRO	I
+FUT	'll
+EXS	become
+DIS	a
+CON	teacher
+NIL	.

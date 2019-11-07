@@ -1,0 +1,13 @@
+SUB	When
+PRO	I
+EPS	talked
+REL	with
+PRO	him
+REL	on
+DEF	the
+CON	phone
+NIL	,
+PRO	he
+EPS	sounded
+EXS	tired
+NIL	.

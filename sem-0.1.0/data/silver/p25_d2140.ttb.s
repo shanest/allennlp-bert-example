@@ -1,0 +1,16 @@
+PER	Liisa
+PST	had
+DIS	a
+CON	problem
+REL	with
+DEF	the
+CON	fact
+SUB	that
+PER	Markku
+IST	constantly
+EPS	tried
+SUB	to
+EXS	exploit
+HAS	his
+CON	superiority
+NIL	.

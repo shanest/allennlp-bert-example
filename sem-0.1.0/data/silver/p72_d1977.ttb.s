@@ -1,0 +1,9 @@
+PRO	I
+EPS	felt
+SUB	that
+HAS	my
+CON	honor
+PST	was
+REL	at
+CON	stake
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+NOW	've
+EXS	made
+DIS	a
+CON	list
+AND	of
+CON	things
+PRO	I
+PST	'd
+EXS	like
+SUB	to
+EXS	buy
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+IST	always
+EXS	drop
+REL	in
+REL	at
+HAS	her
+CON	house
+SUB	when
+PRO	I
+ENS	go
+REL	to
+GPE	Tokyo
+NIL	.

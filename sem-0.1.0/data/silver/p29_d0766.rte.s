@@ -1,0 +1,9 @@
+CON	Sales
+NOW	have
+EXS	declined
+IST	due
+REL	to
+CON	restrictions
+REL	on
+CON	advertising
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NEC	ought
+SUB	to
+EXT	have
+EXS	made
+DIS	a
+CON	hotel
+CON	reservation
+AND	earlier
+NIL	.

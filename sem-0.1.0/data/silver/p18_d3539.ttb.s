@@ -1,0 +1,12 @@
+DEF	The
+CON	rescuers
+EPS	searched
+DEF	the
+CON	surroundings
+REL	in
+CON	hopes
+AND	of
+EXG	finding
+DEF	the
+CON	child
+NIL	.

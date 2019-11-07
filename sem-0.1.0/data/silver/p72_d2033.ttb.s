@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	still
+PER	Mary
+HAS	's
+CON	boyfriend
+NIL	,
+PRO	I
+NOW	think
+NIL	.

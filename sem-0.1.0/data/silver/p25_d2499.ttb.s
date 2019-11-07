@@ -1,0 +1,13 @@
+AND	Just
+EXS	looking
+REL	at
+PRO	her
+NIL	,
+PRO	you
+POS	can
+EXS	tell
+SUB	that
+PRO	she
+ENS	likes
+PRO	you
+NIL	.

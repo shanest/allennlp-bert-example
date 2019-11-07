@@ -1,0 +1,10 @@
+PRO	It
+NOW	does
+NOT	n't
+EXS	necessarily
+EXS	mean
+SUB	that
+PRO	you
+NOW	're
+EXS	right
+NIL	.

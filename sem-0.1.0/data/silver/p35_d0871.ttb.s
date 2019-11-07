@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+EXS	remember
+QUE	what
+PER	Cathy
+PST	was
+EXS	wearing
+REL	at
+DEF	the
+CON	party
+QUE	?

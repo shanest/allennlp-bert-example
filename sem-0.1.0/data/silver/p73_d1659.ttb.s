@@ -1,0 +1,17 @@
+DEF	The
+ROL	teacher
+EPS	caned
+DEF	the
+CON	children
+IMP	if
+PRO	they
+EPS	misbehaved
+DIS	or
+PST	were
+IST	unable
+SUB	to
+EXS	recite
+HAS	their
+CON	times
+CON	tables
+NIL	.

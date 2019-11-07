@@ -1,0 +1,13 @@
+PER	Tom
+EPS	took
+REL	off
+HAS	his
+CON	socks
+AND	and
+CON	shoes
+COO	and
+EPS	walked
+REL	into
+DEF	the
+CON	sea
+NIL	.

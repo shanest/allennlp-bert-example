@@ -1,0 +1,12 @@
+PER	Tom
+EPS	moved
+AND	over
+AND	so
+SUB	that
+PER	Mary
+POS	could
+EXS	sit
+IST	next
+REL	to
+PRO	him
+NIL	.

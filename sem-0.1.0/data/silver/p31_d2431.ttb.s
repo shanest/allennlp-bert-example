@@ -1,0 +1,9 @@
+PRO	They
+IST	really
+ENS	know
+QUE	how
+SUB	to
+EXS	throw
+DIS	a
+CON	party
+NIL	!

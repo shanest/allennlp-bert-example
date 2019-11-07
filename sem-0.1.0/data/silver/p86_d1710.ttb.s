@@ -1,0 +1,9 @@
+AND	Everyone
+NOW	is
+EXG	waiting
+REL	for
+PER	Tom
+SUB	to
+EXS	say
+DIS	something
+NIL	.

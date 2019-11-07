@@ -1,0 +1,16 @@
+PRO	She
+EPS	hired
+PRO	him
+AND	as
+DIS	an
+CON	interpreter
+SUB	because
+PRO	she
+PST	had
+EXS	heard
+SUB	that
+PRO	he
+PST	was
+DEF	the
+TOP	best
+NIL	.

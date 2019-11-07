@@ -1,0 +1,12 @@
+QUE	What
+NOW	do
+PRO	you
+NOW	think
+AND	about
+DEF	the
+CON	films
+SUB	that
+PRO	we
+EPS	saw
+PST	yesterday
+QUE	?

@@ -1,0 +1,11 @@
+PRO	It
+NOW	’s
+DEF	the
+IST	first
+CON	time
+SUB	that
+PRO	I
+ENS	read
+DEF	the
+CON	Bible
+NIL	.

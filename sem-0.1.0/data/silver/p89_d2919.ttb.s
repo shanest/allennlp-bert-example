@@ -1,0 +1,11 @@
+DEF	The
+IST	last
+CON	time
+PRO	I
+EPS	saw
+PER	Tom
+PRO	he
+PST	was
+REL	with
+PER	Mary
+NIL	.

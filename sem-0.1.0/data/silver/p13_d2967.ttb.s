@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+DIS	a
+CON	lot
+MOR	more
+CON	homework
+AND	than
+PER	Tom
+NOW	does
+NIL	.

@@ -1,0 +1,15 @@
+SUB	When
+PRO	I
+EPS	went
+REL	to
+PRO	him
+PRO	he
+PST	was
+EXS	sleeping
+NIL	,
+BUT	but
+PRO	I
+EPS	woke
+PRO	him
+IST	up
+NIL	.

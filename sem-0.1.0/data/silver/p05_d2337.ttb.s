@@ -1,0 +1,14 @@
+DEF	The
+IST	little
+CON	girl
+EPS	took
+IST	great
+CON	delight
+REL	in
+EXG	giving
+HAS	her
+IST	new
+CON	puppy
+DIS	a
+CON	bath
+NIL	.

@@ -1,0 +1,14 @@
+PRO	I
+POS	can
+NOT	not
+EXS	set
+DIS	a
+CON	trap
+PRX	here
+NIL	.
+PRO	It
+NOW	's
+EXS	forbidden
+SUB	to
+EXS	hunt
+NIL	.

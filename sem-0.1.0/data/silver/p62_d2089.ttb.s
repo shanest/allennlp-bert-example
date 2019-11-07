@@ -1,0 +1,13 @@
+IMP	If
+PRO	I
+PST	had
+CON	time
+AND	and
+CON	money
+NIL	,
+PRO	I
+FUT	'd
+EXS	travel
+REL	to
+GEO	Europe
+NIL	.

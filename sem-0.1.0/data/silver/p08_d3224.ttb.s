@@ -1,0 +1,10 @@
+POS	Can
+PRO	I
+EXS	see
+DEF	the
+IST	special
+CON	exhibit
+REL	with
+PRX	this
+CON	ticket
+QUE	?

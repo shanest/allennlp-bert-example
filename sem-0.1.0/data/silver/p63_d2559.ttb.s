@@ -1,0 +1,11 @@
+PER	Tom
+EPS	used
+SUB	to
+EXS	drink
+DIS	a
+CON	lot
+SUB	before
+PRO	he
+EPS	met
+PER	Mary
+NIL	.

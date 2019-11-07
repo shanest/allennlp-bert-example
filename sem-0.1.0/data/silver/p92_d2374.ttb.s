@@ -1,0 +1,11 @@
+PRO	I
+PST	was
+EXS	furious
+SUB	when
+PRO	I
+EPS	saw
+DIS	a
+CON	newspaper
+CON	headline
+NOW	today
+NIL	.

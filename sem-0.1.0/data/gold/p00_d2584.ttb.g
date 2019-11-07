@@ -1,0 +1,9 @@
+PRO	He
+PST	was
+EXG	watching
+DEF	the
+CON	scene
+REL	with
+IST	breathless
+CON	interest
+NIL	.

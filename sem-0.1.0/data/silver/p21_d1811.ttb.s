@@ -1,0 +1,14 @@
+POS	Can
+PRO	you
+EXS	understand
+QUE	why
+PRO	they
+NEC	have
+SUB	to
+CON	pig
+PRO	it
+REL	in
+QUC	one
+IST	sordid
+CON	room
+QUE	?

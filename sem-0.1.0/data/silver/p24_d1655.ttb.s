@@ -1,0 +1,10 @@
+DEF	The
+CON	boy
+NOW	is
+UNK	able
+SUB	to
+EXS	memorize
+AND	everything
+PRO	he
+ENS	reads
+NIL	.

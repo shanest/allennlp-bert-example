@@ -1,0 +1,14 @@
+NOT	No
+NIL	.
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PRO	I
+NOW	've
+EXS	got
+SUB	to
+EXS	go
+IST	back
+IST	early
+NIL	.

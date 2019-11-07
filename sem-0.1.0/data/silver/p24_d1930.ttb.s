@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	tired
+AND	of
+EXG	waiting
+REL	for
+CON	things
+SUB	to
+EXS	happen
+NIL	.

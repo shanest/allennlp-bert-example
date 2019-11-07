@@ -1,0 +1,13 @@
+PER	Tom
+IST	usually
+ENS	watches
+DEF	the
+CON	weather
+CON	report
+REL	in
+DEF	the
+CON	morning
+SUB	before
+EXG	leaving
+CON	home
+NIL	.

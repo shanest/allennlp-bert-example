@@ -1,0 +1,10 @@
+UNK	There
+NOW	are
+AND	as
+QUV	many
+CON	museums
+AND	as
+UNK	there
+NOW	are
+CON	churches
+NIL	.

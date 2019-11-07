@@ -1,0 +1,12 @@
+PRO	She
+POS	could
+IST	hardly
+EXS	keep
+REL	from
+EXS	laughing
+SUB	when
+PRO	she
+EPS	saw
+DEF	the
+CON	dress
+NIL	.

@@ -1,0 +1,10 @@
+PRO	She
+ENS	seems
+REL	to
+PRO	me
+DIS	a
+IST	serious
+AND	and
+IST	reliable
+CON	person
+NIL	.

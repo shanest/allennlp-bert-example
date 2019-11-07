@@ -1,0 +1,9 @@
+AND	Every
+CON	day
+REL	in
+HAS	your
+CON	life
+PRO	you
+NOW	're
+EXS	lonely
+NIL	.

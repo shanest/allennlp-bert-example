@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	boldfaced
+DEF	the
+CON	articles
+SUB	that
+PRO	I
+EPS	found
+EXS	interesting
+NIL	.

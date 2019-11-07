@@ -1,0 +1,13 @@
+PRO	He
+ENS	works
+AND	as
+DIS	a
+ROL	teacher
+NIL	,
+BUT	but
+IST	actually
+PRO	he
+HAS	's
+DIS	a
+CON	vampire
+NIL	.

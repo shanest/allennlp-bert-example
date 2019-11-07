@@ -1,0 +1,13 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	be
+IST	sure
+NIL	,
+BUT	but
+PRO	I
+NOW	think
+PER	Tom
+ENS	likes
+PER	Mary
+NIL	.

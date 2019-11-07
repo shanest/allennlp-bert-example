@@ -1,0 +1,15 @@
+IST	Most
+CON	constellations
+NOW	do
+NOT	n't
+IST	really
+EXS	resemble
+DEF	the
+CON	creatures
+DIS	or
+CON	characters
+PRO	they
+NOW	are
+EXS	named
+REL	after
+NIL	.

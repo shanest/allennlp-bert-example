@@ -1,0 +1,17 @@
+CON	One
+NOW	sees
+IST	clearly
+XCL	only
+REL	with
+DEF	the
+CON	heart
+NIL	.
+QUE	What
+NOW	is
+EXS	essential
+NOW	is
+EXS	invisible
+REL	to
+DEF	the
+CON	eye
+NIL	.

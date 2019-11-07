@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	thinking
+SUB	about
+EXS	getting
+DIS	a
+CON	divorce
+NIL	.

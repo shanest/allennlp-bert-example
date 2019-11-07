@@ -1,0 +1,9 @@
+PER	Tom
+ENS	seems
+SUB	to
+EXS	be
+EXG	having
+DIS	a
+IST	little
+CON	difficulty
+NIL	.

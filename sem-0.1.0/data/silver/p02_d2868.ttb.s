@@ -1,0 +1,11 @@
+DEF	The
+CON	word
+CON	processor
+REL	on
+DEF	the
+CON	desk
+NOW	is
+HAS	my
+ROL	father
+HAS	's
+NIL	.

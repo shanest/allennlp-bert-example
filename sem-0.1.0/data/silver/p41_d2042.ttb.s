@@ -1,0 +1,16 @@
+PER	Socrates
+EPS	said
+NIL	,
+NIL	"
+DST	Those
+AND	who
+NOW	want
+TOP	fewest
+CON	things
+NOW	are
+IST	nearest
+REL	to
+DEF	the
+CON	gods
+NIL	.
+NIL	"

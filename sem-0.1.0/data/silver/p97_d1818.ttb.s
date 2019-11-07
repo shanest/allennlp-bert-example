@@ -1,0 +1,10 @@
+PRO	She
+EPS	telephoned
+HAS	her
+TOP	best
+CON	friend
+SUB	to
+EXS	vent
+HAS	her
+CON	frustration
+NIL	.

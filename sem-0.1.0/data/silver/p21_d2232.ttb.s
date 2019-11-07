@@ -1,0 +1,10 @@
+PER	Tom
+ENS	thinks
+SUB	that
+NOT	nothing
+EXS	bad
+POS	can
+EXS	happen
+REL	to
+PRO	him
+NIL	.

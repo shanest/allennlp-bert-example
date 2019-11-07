@@ -1,0 +1,14 @@
+PRO	I
+NOW	understand
+DEF	the
+CON	sentence
+NIL	,
+BUT	but
+PRO	I
+NOW	'm
+NOT	not
+IST	able
+SUB	to
+EXS	translate
+PRO	it
+NIL	.

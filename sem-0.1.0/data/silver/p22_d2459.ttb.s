@@ -1,0 +1,12 @@
+PRO	I
+EPS	met
+DIS	some
+CON	friends
+SUB	while
+PRO	I
+PST	was
+EXS	waiting
+REL	for
+DIS	a
+CON	bus
+NIL	.

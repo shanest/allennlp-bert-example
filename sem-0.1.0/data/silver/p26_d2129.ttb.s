@@ -1,0 +1,9 @@
+PER	Tom
+EPS	saw
+PER	Mary
+EXS	waiting
+REL	at
+DEF	the
+CON	bus
+EXS	stop
+NIL	.

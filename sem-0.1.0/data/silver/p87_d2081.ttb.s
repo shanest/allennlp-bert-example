@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	.
+PRO	I
+IST	never
+EPS	meant
+SUB	to
+EXS	hurt
+PRO	you
+NIL	.

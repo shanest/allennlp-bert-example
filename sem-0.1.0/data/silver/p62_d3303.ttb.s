@@ -1,0 +1,9 @@
+PRO	He
+EPS	forgot
+SUB	to
+EXS	buy
+DIS	a
+CON	present
+REL	for
+PRO	her
+NIL	.

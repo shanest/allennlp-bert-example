@@ -1,0 +1,9 @@
+DEF	The
+IST	first
+CON	phase
+AND	of
+CON	construction
+NOW	has
+PFT	been
+EXS	completed
+NIL	.

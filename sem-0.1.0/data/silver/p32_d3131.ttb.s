@@ -1,0 +1,15 @@
+UNK	There
+HAS	's
+DIS	a
+CON	train
+CON	station
+REL	in
+GPE	Japan
+SUB	where
+DEF	the
+CON	station
+CON	master
+NOW	is
+DIS	a
+CON	cat
+NIL	.

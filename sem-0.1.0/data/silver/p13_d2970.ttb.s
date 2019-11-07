@@ -1,0 +1,12 @@
+HAS	Your
+CON	home
+NOW	is
+SUB	where
+DIS	someone
+ENS	thinks
+AND	of
+PRO	you
+AND	and
+ENS	likes
+PRO	you
+NIL	.

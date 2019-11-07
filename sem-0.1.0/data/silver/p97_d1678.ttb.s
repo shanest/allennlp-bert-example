@@ -1,0 +1,13 @@
+SUB	To
+EXS	tell
+DEF	the
+CON	truth
+NIL	,
+PRO	I
+PST	had
+EXS	forgotten
+AND	all
+AND	about
+HAS	our
+CON	appointment
+NIL	.

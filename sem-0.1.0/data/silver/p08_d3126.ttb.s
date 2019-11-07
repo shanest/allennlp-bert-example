@@ -1,0 +1,13 @@
+REL	After
+DIS	a
+SUB	while
+PRO	he
+EPS	came
+IST	back
+REL	with
+DIS	a
+CON	dictionary
+REL	under
+HAS	his
+CON	arm
+NIL	.

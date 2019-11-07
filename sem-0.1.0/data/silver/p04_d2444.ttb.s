@@ -1,0 +1,16 @@
+PRO	He
+EPS	got
+IST	out
+HAS	his
+CON	guitar
+REL	after
+CON	dinner
+COO	and
+EPS	played
+DIS	some
+IST	beautiful
+GPO	Spanish
+CON	ballads
+REL	for
+PRO	us
+NIL	.

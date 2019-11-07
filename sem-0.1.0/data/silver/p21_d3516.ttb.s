@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+IST	hard
+SUB	to
+EXS	distinguish
+PRO	you
+REL	from
+HAS	your
+CON	brother
+NIL	.

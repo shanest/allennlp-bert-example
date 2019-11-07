@@ -1,0 +1,11 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	she
+NEC	should
+EXS	be
+IST	ashamed
+AND	of
+REF	herself
+NIL	.

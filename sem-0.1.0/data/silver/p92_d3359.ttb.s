@@ -1,0 +1,13 @@
+NIL	"
+PRO	I
+FUT	'll
+EXS	sleep
+SUB	when
+PRO	I
+NOW	'm
+EXS	dead
+NIL	,
+NIL	"
+EPS	said
+PER	Tom
+NIL	.

@@ -1,0 +1,10 @@
+HAS	My
+CON	mother
+NOT	never
+EPS	wanted
+SUB	to
+EXS	be
+AND	just
+DIS	a
+CON	housewife
+NIL	.

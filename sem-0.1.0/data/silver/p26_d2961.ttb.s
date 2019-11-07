@@ -1,0 +1,13 @@
+PER	Tom
+EPS	left
+QUC	three
+UOM	hours
+PST	ago
+AND	so
+PRO	he
+NEC	should
+EXT	've
+EXS	arrived
+REL	by
+IST	now
+NIL	.

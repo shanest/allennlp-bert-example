@@ -1,0 +1,12 @@
+PER	Bob
+NIL	,
+EXS	help
+PRO	me
+EXS	carry
+HAS	his
+CON	suitcase
+REL	to
+DEF	the
+IST	living
+CON	room
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+IST	still
+ENS	need
+DIS	a
+CON	babysitter
+REL	for
+DOW	Monday
+CON	night
+QUE	?

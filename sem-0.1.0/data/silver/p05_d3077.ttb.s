@@ -1,0 +1,9 @@
+PRO	I
+NOW	wonder
+IMP	if
+CON	life
+ENS	exists
+REL	on
+ALT	other
+CON	planets
+NIL	.

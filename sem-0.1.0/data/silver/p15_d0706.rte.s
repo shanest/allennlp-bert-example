@@ -1,0 +1,16 @@
+AND	However
+NIL	,
+ALT	also
+IST	minor
+IST	tropical
+CON	storms
+EXS	passing
+REL	at
+INT	relatively
+IST	great
+CON	distance
+POS	can
+EXS	cause
+IST	severe
+CON	damage
+NIL	.

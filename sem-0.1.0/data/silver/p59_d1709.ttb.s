@@ -1,0 +1,10 @@
+FUT	Tomorrow
+NOW	is
+HAS	my
+CON	birthday
+COO	and
+PRO	I
+FUT	will
+EXS	be
+QUC	seventeen
+NIL	.

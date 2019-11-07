@@ -1,0 +1,10 @@
+PER	Tom
+EPS	put
+HAS	his
+CON	shoes
+REL	on
+REL	with
+HAS	his
+CON	shoe
+CON	horn
+NIL	.

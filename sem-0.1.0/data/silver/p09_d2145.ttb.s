@@ -1,0 +1,12 @@
+CON	Thanks
+INT	very
+QUV	much
+REL	for
+EXS	having
+PRO	me
+REL	to
+CON	dinner
+DEF	the
+ALT	other
+CON	night
+NIL	.

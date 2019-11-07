@@ -1,0 +1,10 @@
+PER	Tom
+NIL	,
+NOW	do
+NOT	n't
+EXS	worry
+NIL	.
+PRO	I
+NOW	'm
+EXS	alright
+NIL	.

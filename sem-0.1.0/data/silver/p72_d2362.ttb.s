@@ -1,0 +1,12 @@
+IMP	If
+PRO	you
+NOW	're
+EXS	going
+REL	to
+DEF	the
+CON	beach
+NIL	,
+PRO	you
+ENS	need
+CON	sunscreen
+NIL	.

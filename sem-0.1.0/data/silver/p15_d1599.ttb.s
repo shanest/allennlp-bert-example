@@ -1,0 +1,10 @@
+PER	Tom
+HAS	's
+ROL	mother
+EPS	told
+PRO	him
+SUB	to
+EXS	eat
+HAS	his
+CON	vegetables
+NIL	.

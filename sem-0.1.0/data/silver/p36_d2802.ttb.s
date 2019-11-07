@@ -1,0 +1,10 @@
+PRO	I
+PST	thought
+PRO	I
+EPS	heard
+DIS	someone
+CON	knocking
+REL	on
+DEF	the
+CON	door
+NIL	.

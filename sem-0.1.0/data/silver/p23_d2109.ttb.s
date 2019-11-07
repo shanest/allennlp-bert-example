@@ -1,0 +1,11 @@
+PER	Tom
+PST	was
+NOT	n't
+IST	able
+SUB	to
+EXS	read
+REL	in
+DEF	the
+IST	dim
+CON	light
+NIL	.

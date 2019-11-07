@@ -1,0 +1,11 @@
+NIL	There
+PST	were
+DIS	a
+CON	lot
+NIL	of
+CON	people
+REL	at
+PER	Tom
+HAS	's
+CON	funeral
+NIL	.

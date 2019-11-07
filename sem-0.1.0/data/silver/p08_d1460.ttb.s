@@ -1,0 +1,10 @@
+PRO	She
+FUT	will
+EXS	help
+PRO	me
+NOW	choose
+REF	myself
+DIS	a
+IST	new
+CON	car
+NIL	.

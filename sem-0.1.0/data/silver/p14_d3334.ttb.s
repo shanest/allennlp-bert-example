@@ -1,0 +1,9 @@
+PRO	I
+EPS	took
+DEF	the
+CON	elevator
+REL	to
+DEF	the
+IST	fourth
+CON	floor
+NIL	.

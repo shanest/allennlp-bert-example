@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+IST	always
+EPS	wanted
+SUB	to
+EXS	read
+ORG	War
+AND	and
+ORG	Peace
+NIL	.

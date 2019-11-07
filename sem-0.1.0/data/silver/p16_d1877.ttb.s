@@ -1,0 +1,13 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	think
+SUB	that
+PER	Mary
+FUT	would
+IST	actually
+EXS	carry
+AND	out
+HAS	her
+CON	threat
+NIL	.

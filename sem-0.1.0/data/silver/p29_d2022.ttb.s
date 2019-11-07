@@ -1,0 +1,9 @@
+NOW	Now
+NIL	,
+PRO	he
+NOW	's
+EXS	hiding
+AND	like
+DIS	a
+CON	mouse
+NIL	.

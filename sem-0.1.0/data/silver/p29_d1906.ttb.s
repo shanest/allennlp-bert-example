@@ -1,0 +1,9 @@
+DST	That
+HAS	's
+IST	just
+QUE	what
+PRO	I
+ENS	need
+IST	right
+NOW	now
+NIL	.

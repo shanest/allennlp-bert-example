@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+DIS	a
+CON	son
+HAS	whose
+CON	name
+NOW	is
+PER	John
+NIL	.

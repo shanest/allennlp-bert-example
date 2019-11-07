@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	been
+REL	in
+CON	therapy
+SUB	since
+PRO	I
+PST	was
+QUC	thirteen
+NIL	.

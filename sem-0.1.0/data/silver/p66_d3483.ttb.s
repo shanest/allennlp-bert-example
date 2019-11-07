@@ -1,0 +1,14 @@
+IMP	If
+PRO	it
+PST	had
+NOT	n't
+EXS	been
+REL	for
+HAS	his
+CON	help
+NIL	,
+PRO	she
+POS	might
+EXT	have
+EXS	drowned
+NIL	.

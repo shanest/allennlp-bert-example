@@ -1,0 +1,9 @@
+PRO	You
+NOW	have
+IST	absolutely
+NOT	no
+CON	reason
+SUB	to
+EXS	feel
+EXS	offended
+NIL	.

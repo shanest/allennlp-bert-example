@@ -1,0 +1,10 @@
+PER	Jim
+HAS	's
+ROL	uncle
+NOW	is
+IST	due
+SUB	to
+EXS	retire
+IST	next
+CON	year
+NIL	.

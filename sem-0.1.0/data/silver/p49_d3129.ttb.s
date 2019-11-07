@@ -1,0 +1,9 @@
+QUE	What
+HAS	's
+PRX	this
+EPS	got
+SUB	to
+EXS	do
+REL	with
+PER	Tom
+QUE	?

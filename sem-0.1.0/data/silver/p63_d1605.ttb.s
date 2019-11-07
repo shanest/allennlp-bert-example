@@ -1,0 +1,16 @@
+PER	Joaquim
+NOW	is
+EXS	said
+SUB	to
+EXS	be
+IST	religious
+NIL	,
+BUT	but
+PRO	he
+IST	hardly
+ENS	knows
+DEF	the
+ORG	Lord
+HAS	's
+CON	prayer
+NIL	.

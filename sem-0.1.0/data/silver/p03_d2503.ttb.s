@@ -1,0 +1,12 @@
+PER	Tom
+EPS	asked
+PRO	me
+QUE	how
+QUV	many
+CON	students
+PST	were
+IST	still
+REL	in
+DEF	the
+CON	classroom
+NIL	.

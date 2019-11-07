@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+IST	hard
+SUB	to
+EXS	define
+NIL	"
+CON	triangle
+NIL	.
+NIL	"

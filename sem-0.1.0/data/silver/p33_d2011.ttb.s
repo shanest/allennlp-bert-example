@@ -1,0 +1,11 @@
+PRO	We
+POS	ca
+NOT	n't
+EXS	predict
+QUE	how
+PER	Tom
+NOW	is
+EXS	going
+SUB	to
+EXS	feel
+NIL	.

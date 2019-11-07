@@ -1,0 +1,11 @@
+ITJ	Frankly
+NIL	,
+PRO	I
+NOW	do
+NOT	n't
+EXS	like
+QUE	what
+PRO	you
+NOW	're
+EXG	wearing
+NIL	.

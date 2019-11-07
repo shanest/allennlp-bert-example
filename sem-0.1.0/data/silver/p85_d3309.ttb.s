@@ -1,0 +1,9 @@
+HAS	My
+CON	mother
+EPS	put
+IST	clean
+CON	sheets
+REL	on
+DEF	the
+CON	bed
+NIL	.

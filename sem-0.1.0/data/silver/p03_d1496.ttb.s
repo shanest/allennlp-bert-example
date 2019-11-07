@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+ENS	plan
+SUB	to
+EXS	have
+DIS	a
+CON	party
+AND	next
+CON	week
+NIL	.

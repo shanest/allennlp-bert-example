@@ -1,0 +1,10 @@
+PER	Tom
+ENS	says
+PRO	he
+HAS	's
+DIS	an
+IST	old
+CON	friend
+AND	of
+HAS	yours
+NIL	.

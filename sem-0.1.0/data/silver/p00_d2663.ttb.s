@@ -1,0 +1,9 @@
+DIS	Some
+CON	families
+EXS	spend
+HAS	their
+CON	vacation
+REL	near
+DEF	the
+CON	beach
+NIL	.

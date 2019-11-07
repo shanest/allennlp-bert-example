@@ -1,0 +1,15 @@
+AND	Could
+DIS	someone
+EXS	make
+DIS	an
+CON	example
+CON	sentence
+REL	in
+GPE	German
+EXS	using
+DEF	the
+CON	word
+NIL	"
+PER	Beispiel
+QUE	?
+NIL	"

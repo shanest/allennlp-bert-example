@@ -1,0 +1,12 @@
+PRO	It
+EPS	took
+PRO	me
+QUC	half
+DIS	an
+UOM	hour
+SUB	to
+EXS	work
+IST	out
+PRX	this
+CON	problem
+NIL	.

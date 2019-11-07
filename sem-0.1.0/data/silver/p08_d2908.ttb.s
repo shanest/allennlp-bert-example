@@ -1,0 +1,13 @@
+DIS	A
+CON	person
+HAS	's
+CON	heart
+NOW	is
+APX	approximately
+DEF	the
+IST	same
+CON	size
+AND	as
+HAS	their
+CON	fist
+NIL	.

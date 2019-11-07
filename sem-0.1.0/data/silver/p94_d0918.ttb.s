@@ -1,0 +1,11 @@
+SUB	When
+PRO	she
+EPS	entered
+DEF	the
+CON	kitchen
+NIL	,
+NOT	no
+CON	one
+PST	was
+IST	there
+NIL	.

@@ -1,0 +1,17 @@
+PER	Tom
+ENS	thinks
+SUB	that
+EXS	vaping
+NOW	is
+MOR	safer
+MOR	than
+CON	smoking
+CON	cigarettes
+NIL	,
+COO	but
+PER	Mary
+NOW	's
+NOT	not
+EXS	so
+IST	sure
+NIL	.

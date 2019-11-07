@@ -1,0 +1,17 @@
+SUB	To
+EXS	get
+DEF	the
+IST	full
+CON	value
+AND	of
+CON	joy
+NIL	,
+PRO	you
+NEC	must
+EXT	have
+DIS	someone
+SUB	to
+EXS	divide
+PRO	it
+REL	with
+NIL	.

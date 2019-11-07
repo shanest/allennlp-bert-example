@@ -1,0 +1,13 @@
+DIS	Sometimes
+PRO	you
+NEC	have
+SUB	to
+EXS	do
+CON	things
+PRO	you
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	do
+NIL	.

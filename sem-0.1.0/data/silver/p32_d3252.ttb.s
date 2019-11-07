@@ -1,0 +1,10 @@
+PRO	I
+PST	thought
+PRO	you
+PST	'd
+IST	already
+PFT	been
+EXS	compensated
+REL	for
+DST	that
+NIL	.

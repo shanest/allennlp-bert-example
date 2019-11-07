@@ -1,0 +1,17 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	care
+QUE	how
+QUC	much
+PRO	it
+CON	costs
+NIL	.
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	buy
+PRO	it
+IST	anyway
+NIL	.

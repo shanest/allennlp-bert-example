@@ -1,0 +1,11 @@
+PER	Tom
+NOW	has
+QUC	three
+CON	sons
+NIL	.
+CON	One
+HAS	's
+AND	almost
+HAS	your
+CON	age
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+NOT	not
+EXS	angry
+REL	with
+PRO	him
+SUB	because
+PRO	he
+EPS	made
+DIS	a
+CON	mistake
+NIL	.

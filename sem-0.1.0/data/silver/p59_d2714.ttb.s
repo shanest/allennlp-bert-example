@@ -1,0 +1,11 @@
+PRO	She
+EPS	sat
+IST	next
+SUB	to
+PRO	him
+EXG	wishing
+PRO	she
+PST	were
+DIS	somewhere
+AND	else
+NIL	.

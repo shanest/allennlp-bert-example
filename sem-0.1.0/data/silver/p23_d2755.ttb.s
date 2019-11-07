@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+NOT	not
+QUV	much
+AND	of
+DIS	a
+CON	companion
+REL	for
+HAS	his
+CON	wife
+NIL	.

@@ -1,0 +1,13 @@
+SUB	When
+PRO	I
+EPS	got
+CON	home
+NIL	,
+PRO	I
+PST	had
+DIS	a
+IST	nice
+EQU	,
+IST	ice-cold
+CON	shower
+NIL	.

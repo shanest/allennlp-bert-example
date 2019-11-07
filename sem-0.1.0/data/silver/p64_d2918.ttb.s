@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	reply
+REL	to
+AND	any
+AND	of
+PER	Mary
+HAS	's
+CON	letter
+NIL	.

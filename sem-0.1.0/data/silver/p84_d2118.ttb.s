@@ -1,0 +1,9 @@
+EXS	Tell
+PRO	us
+AND	everything
+PRO	you
+ENS	know
+AND	about
+DST	that
+CON	matter
+NIL	.

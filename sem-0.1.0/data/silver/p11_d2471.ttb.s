@@ -1,0 +1,10 @@
+DEF	The
+CON	dog
+AND	who
+PRO	he
+EPS	kept
+DIS	sometimes
+CON	barked
+REL	at
+CON	strangers
+NIL	.

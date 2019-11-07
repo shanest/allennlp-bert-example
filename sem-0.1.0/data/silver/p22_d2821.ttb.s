@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	surprised
+PER	Tom
+NOW	is
+NOT	n't
+REL	with
+PER	Mary
+NOW	now
+NIL	.

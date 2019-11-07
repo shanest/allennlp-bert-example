@@ -1,0 +1,9 @@
+REL	In
+DEF	the
+CON	end
+NIL	,
+PRO	they
+EPS	approved
+DEF	the
+CON	proposal
+NIL	.

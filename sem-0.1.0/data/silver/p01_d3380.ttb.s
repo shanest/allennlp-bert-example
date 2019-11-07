@@ -1,0 +1,9 @@
+PRO	I
+EPS	came
+PRX	here
+AND	as
+IST	fast
+SUB	as
+PRO	I
+POS	could
+NIL	.

@@ -1,0 +1,17 @@
+PRO	It
+NOW	is
+IST	up
+REL	to
+PRO	you
+NIL	to
+EXS	see
+REL	to
+PRO	it
+SUB	that
+AND	such
+DIS	a
+CON	thing
+NOW	does
+NOT	n't
+EXS	happen
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+EPS	wanted
+SUB	to
+EXS	help
+PER	Mary
+NOW	pick
+IST	up
+CON	chestnuts
+NIL	.

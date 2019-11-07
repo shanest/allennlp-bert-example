@@ -1,0 +1,12 @@
+DEF	The
+CON	boy
+EPS	dug
+DIS	a
+CON	grave
+REL	for
+HAS	his
+CON	dog
+AND	that
+PST	had
+EXT	died
+NIL	.

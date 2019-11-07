@@ -1,0 +1,14 @@
+PRO	I
+IST	just
+EPS	got
+DIS	a
+CON	letter
+REL	from
+DIS	someone
+PRO	I
+EPS	knew
+DIS	a
+IST	long
+CON	time
+PST	ago
+NIL	.

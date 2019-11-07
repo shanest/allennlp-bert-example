@@ -1,0 +1,11 @@
+EXS	Come
+PRX	here
+GEO	Emilia
+NIL	!
+HAS	Your
+ROL	father
+NOW	is
+EXS	waiting
+REL	for
+PRO	you
+NIL	!

@@ -1,0 +1,11 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	relax
+SUB	when
+PRO	I
+NOW	'm
+EXS	talking
+REL	with
+PRO	him
+NIL	.

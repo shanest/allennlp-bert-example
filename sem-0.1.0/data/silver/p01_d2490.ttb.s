@@ -1,0 +1,11 @@
+FUT	Tomorrow
+PRO	i
+NOW	am
+EXG	going
+REL	to
+DEF	the
+CON	countryside
+REL	by
+HAS	my
+CON	car
+NIL	.

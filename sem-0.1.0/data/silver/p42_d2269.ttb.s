@@ -1,0 +1,10 @@
+PRO	It
+EPS	took
+PRO	him
+QUC	ten
+CON	minutes
+SUB	to
+EXS	solve
+DEF	the
+CON	problem
+NIL	.

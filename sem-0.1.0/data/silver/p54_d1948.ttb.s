@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+EXS	going
+SUB	to
+EXS	be
+ALT	another
+IST	hot
+CON	day
+NIL	.

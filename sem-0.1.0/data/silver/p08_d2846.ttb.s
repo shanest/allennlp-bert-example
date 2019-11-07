@@ -1,0 +1,13 @@
+REL	In
+CON	order
+SUB	to
+EXS	avoid
+CON	misunderstandings
+NIL	,
+PRO	they
+EPS	went
+AND	through
+DEF	the
+CON	contract
+ALT	again
+NIL	.

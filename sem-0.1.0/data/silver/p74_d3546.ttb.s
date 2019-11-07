@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+DEF	the
+XCL	only
+QUC	one
+AND	who
+ENS	laughs
+REL	at
+PER	Mary
+HAS	's
+CON	jokes
+NIL	.

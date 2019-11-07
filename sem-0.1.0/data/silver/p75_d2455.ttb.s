@@ -1,0 +1,12 @@
+IMP	If
+PRO	you
+ENS	want
+SUB	to
+EXS	stay
+PRX	here
+NIL	,
+PRO	you
+NOW	are
+EXS	welcome
+SUB	to
+NIL	.

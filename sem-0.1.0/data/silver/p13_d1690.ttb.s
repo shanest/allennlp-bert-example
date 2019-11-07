@@ -1,0 +1,11 @@
+DEF	The
+CON	train
+SUB	that
+PER	Tom
+PST	was
+EXG	riding
+PST	was
+EXS	hit
+REL	by
+CON	lightning
+NIL	.

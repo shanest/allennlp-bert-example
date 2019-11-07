@@ -1,0 +1,11 @@
+PER	Tom
+EPS	earned
+CON	money
+REL	by
+EXG	playing
+HAS	his
+CON	guitar
+REL	on
+CON	street
+CON	corners
+NIL	.

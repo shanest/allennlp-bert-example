@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+NOW	turn
+SUB	to
+DEF	the
+CON	left
+NIL	,
+PRO	you
+FUT	'll
+EXS	see
+DIS	a
+COL	white
+CON	building
+NIL	.

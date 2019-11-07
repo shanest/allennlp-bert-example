@@ -1,0 +1,10 @@
+DIS	A
+CON	honeymoon
+REL	in
+GPE	Canada
+CON	costs
+DIS	a
+CON	lot
+AND	of
+CON	money
+NIL	.

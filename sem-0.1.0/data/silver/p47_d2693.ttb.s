@@ -1,0 +1,11 @@
+EXS	Let
+PRO	him
+AND	who
+NOW	is
+NOT	without
+CON	sin
+EPS	cast
+DEF	the
+IST	first
+CON	stone
+NIL	.

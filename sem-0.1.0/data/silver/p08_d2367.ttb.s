@@ -1,0 +1,10 @@
+PER	Tom
+EPS	told
+PRO	me
+PRO	I
+NEC	should
+EXS	make
+DIS	a
+IST	fresh
+CON	start
+NIL	.

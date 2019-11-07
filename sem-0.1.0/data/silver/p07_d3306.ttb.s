@@ -1,0 +1,12 @@
+DEF	The
+CON	man
+AND	whom
+PRO	she
+NOW	is
+EXS	going
+SUB	to
+EXS	marry
+NOW	is
+DIS	an
+CON	astronaut
+NIL	.

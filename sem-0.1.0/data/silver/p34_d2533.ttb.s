@@ -1,0 +1,10 @@
+NIL	"
+ITJ	Oh
+NIL	"
+POS	can
+EXS	give
+CON	emphasis
+REL	to
+DEF	the
+CON	statement
+NIL	.

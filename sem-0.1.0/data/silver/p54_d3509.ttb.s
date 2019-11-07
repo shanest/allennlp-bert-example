@@ -1,0 +1,9 @@
+PRO	We
+AND	all
+EXS	know
+SUB	that
+NOT	no
+CON	one
+NOW	is
+EXS	perfect
+NIL	.

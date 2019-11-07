@@ -1,0 +1,13 @@
+DEF	The
+ROL	burglar
+EPS	gained
+CON	access
+REL	to
+DEF	the
+CON	house
+AND	through
+DIS	an
+IST	unlocked
+CON	side
+CON	window
+NIL	.

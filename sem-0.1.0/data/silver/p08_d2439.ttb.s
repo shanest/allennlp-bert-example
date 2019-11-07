@@ -1,0 +1,16 @@
+PER	Bob
+FUT	will
+EXS	play
+DEF	the
+IST	leading
+CON	role
+REL	for
+DEF	the
+IST	first
+CON	time
+REL	in
+DEF	the
+IST	next
+CON	school
+CON	festival
+NIL	.

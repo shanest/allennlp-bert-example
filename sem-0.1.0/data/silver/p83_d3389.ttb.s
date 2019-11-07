@@ -1,0 +1,12 @@
+PRO	They
+NOW	have
+EXS	decided
+SUB	to
+EXS	stick
+REL	to
+DEF	the
+IST	original
+CON	plan
+REL	after
+AND	all
+NIL	.

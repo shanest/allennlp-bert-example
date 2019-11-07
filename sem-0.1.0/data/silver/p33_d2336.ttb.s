@@ -1,0 +1,10 @@
+DEF	The
+CON	eye
+AND	of
+CON	God
+CON	watches
+AND	over
+DEF	the
+IST	little
+CON	ones
+NIL	.

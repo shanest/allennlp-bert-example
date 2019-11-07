@@ -1,0 +1,11 @@
+PER	Tom
+IST	certainly
+EPS	knew
+SUB	that
+QUE	what
+PRO	he
+PST	was
+EXS	doing
+PST	was
+IST	illegal
+NIL	.

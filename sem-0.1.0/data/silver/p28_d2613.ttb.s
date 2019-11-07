@@ -1,0 +1,9 @@
+PRO	We
+NOW	write
+ORG	Çorum
+NIL	"
+ORG	Ĉorum
+NIL	"
+REL	in
+CON	Esperanto
+NIL	.

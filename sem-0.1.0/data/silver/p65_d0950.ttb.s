@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	know
+SUB	where
+DEF	the
+CON	police
+CON	station
+NOW	is
+QUE	?

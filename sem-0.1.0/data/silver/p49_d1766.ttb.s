@@ -1,0 +1,10 @@
+PER	Tom
+EPS	broke
+HAS	his
+IST	left
+CON	ankle
+AND	during
+DIS	a
+CON	rugby
+CON	match
+NIL	.

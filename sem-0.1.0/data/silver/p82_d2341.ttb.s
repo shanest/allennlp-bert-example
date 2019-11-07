@@ -1,0 +1,10 @@
+PRO	He
+EPS	reached
+REL	across
+DEF	the
+CON	table
+COO	and
+EPS	shook
+HAS	my
+CON	hand
+NIL	.

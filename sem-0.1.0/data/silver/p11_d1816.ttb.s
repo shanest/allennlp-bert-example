@@ -1,0 +1,9 @@
+PRO	He
+EPS	spent
+IST	countless
+CON	hours
+EXS	preparing
+REL	for
+DEF	the
+CON	test
+NIL	.

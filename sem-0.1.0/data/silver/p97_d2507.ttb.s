@@ -1,0 +1,12 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	he
+PST	did
+NOT	n't
+NEC	have
+SUB	to
+EXS	do
+DIS	anything
+NIL	.

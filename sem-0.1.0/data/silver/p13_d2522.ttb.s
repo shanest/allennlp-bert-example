@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+SUB	to
+EXS	take
+AND	over
+HAS	my
+ROL	father
+HAS	's
+CON	business
+NIL	.

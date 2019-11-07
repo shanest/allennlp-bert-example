@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+EPS	heard
+AND	of
+DEF	the
+GPO	German
+CON	Beer
+ORG	Purity
+ORG	Law
+QUE	?

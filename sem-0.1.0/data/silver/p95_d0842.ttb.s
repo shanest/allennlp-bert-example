@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+QUC	one
+AND	of
+DEF	the
+INT	most
+IST	famous
+CON	singers
+REL	in
+GPE	Japan
+NIL	.

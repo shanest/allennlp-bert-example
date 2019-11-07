@@ -1,0 +1,13 @@
+IMP	If
+PRO	I
+EPS	had
+IST	more
+CON	time
+NIL	,
+PRO	I
+FUT	would
+EXS	learn
+QUE	how
+SUB	to
+EXS	dance
+NIL	.

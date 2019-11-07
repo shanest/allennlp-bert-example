@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXG	spreading
+CON	mustard
+REL	on
+DIS	a
+CON	slice
+REL	of
+CON	bread
+NIL	.

@@ -1,0 +1,10 @@
+PST	Yesterday
+PRO	I
+PST	was
+EXS	told
+PRO	I
+EPS	looked
+AND	like
+PER	Kohei
+PER	Tanaka
+NIL	.

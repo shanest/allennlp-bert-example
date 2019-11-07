@@ -1,0 +1,12 @@
+PRX	This
+NOW	is
+DEF	the
+CON	end
+AND	of
+DEF	the
+CON	world
+AND	as
+PRO	we
+ENS	know
+PRO	it
+NIL	.

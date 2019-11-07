@@ -1,0 +1,11 @@
+PRO	You
+EPS	ordered
+DEF	the
+CON	dog
+SUB	to
+EXS	sit
+NIL	,
+PST	did
+NOT	n't
+PRO	you
+QUE	?

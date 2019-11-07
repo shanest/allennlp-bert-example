@@ -1,0 +1,9 @@
+POS	Maybe
+PRX	this
+CON	world
+NOW	is
+ALT	another
+CON	planet
+HAS	's
+GEO	Hell
+NIL	.

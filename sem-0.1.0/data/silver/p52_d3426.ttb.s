@@ -1,0 +1,12 @@
+PRO	You
+NEC	should
+EXS	read
+DIS	a
+CON	lot
+AND	of
+CON	books
+SUB	while
+PRO	you
+NOW	're
+EXS	young
+NIL	.

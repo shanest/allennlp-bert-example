@@ -1,0 +1,12 @@
+GPE	Salzburg
+CON	dumplings
+NOW	are
+EXS	sweet
+SUB	as
+EXS	love
+AND	and
+CON	tender
+AND	as
+DIS	a
+CON	kiss
+NIL	.

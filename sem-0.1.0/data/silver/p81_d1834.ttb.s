@@ -1,0 +1,16 @@
+AND	Even
+SUB	after
+PER	Tom
+PST	had
+PFT	been
+EXS	drinking
+AND	all
+CON	night
+NIL	,
+PRO	he
+PST	did
+NOT	n't
+EXS	find
+PER	Mary
+IST	attractive
+NIL	.

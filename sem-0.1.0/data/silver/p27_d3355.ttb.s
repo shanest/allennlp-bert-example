@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+AND	indeed
+INT	very
+IST	glad
+SUB	to
+EXS	hear
+DST	that
+NIL	.

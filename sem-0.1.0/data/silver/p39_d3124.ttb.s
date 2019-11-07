@@ -1,0 +1,16 @@
+PRO	I
+EPS	realized
+SUB	that
+PRO	I
+PST	had
+EXS	grown
+IST	up
+SUB	when
+PRO	I
+EPS	started
+EXS	heeding
+HAS	my
+CON	parents
+HAS	'
+CON	advice
+NIL	.

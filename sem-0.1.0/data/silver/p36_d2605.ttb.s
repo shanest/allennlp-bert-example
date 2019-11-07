@@ -1,0 +1,10 @@
+IMP	If
+PRO	he
+EPS	saw
+PRO	you
+NIL	,
+PRO	he
+FUT	'd
+EXS	be
+EXS	surprised
+NIL	.

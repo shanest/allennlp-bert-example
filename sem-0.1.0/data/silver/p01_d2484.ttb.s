@@ -1,0 +1,9 @@
+PRX	This
+NOW	has
+PFT	been
+EXG	happening
+IST	quite
+DIS	a
+CON	lot
+IST	lately
+NIL	.

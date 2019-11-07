@@ -1,0 +1,11 @@
+IMP	If
+PRO	you
+ENS	love
+PRO	me
+NIL	,
+EXS	love
+HAS	my
+CON	dog
+NIL	,
+ALT	too
+NIL	.

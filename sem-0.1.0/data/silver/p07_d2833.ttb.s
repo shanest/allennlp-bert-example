@@ -1,0 +1,12 @@
+NOW	Do
+PRO	you
+NOW	think
+PRO	I
+NOW	'm
+INT	too
+IST	old
+SUB	to
+EXS	have
+ALT	another
+CON	baby
+QUE	?

@@ -1,0 +1,13 @@
+HAS	My
+CON	wife
+IST	often
+CON	telephones
+PRO	me
+SUB	when
+PRO	I
+NOW	'm
+EXS	traveling
+REL	in
+ALT	another
+CON	country
+NIL	.

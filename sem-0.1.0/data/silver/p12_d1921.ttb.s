@@ -1,0 +1,10 @@
+EXS	Did
+PRO	you
+NOW	hear
+AND	about
+PER	Tom
+HAS	's
+CON	fight
+REL	with
+PER	Mary
+QUE	?

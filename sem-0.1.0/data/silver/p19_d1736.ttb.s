@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXS	planning
+SUB	to
+EXS	eat
+CON	dinner
+REL	with
+PER	Mary
+CON	tonight
+NIL	.

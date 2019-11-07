@@ -1,0 +1,9 @@
+DEF	Both
+CON	men
+AND	and
+CON	women
+EPS	won
+DEF	the
+CON	tennis
+CON	championship
+NIL	.

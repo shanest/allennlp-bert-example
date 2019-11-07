@@ -1,0 +1,10 @@
+CON	Children
+NEC	should
+IST	only
+EXS	speak
+SUB	when
+PRO	they
+NOW	're
+EXS	spoken
+REL	to
+NIL	.

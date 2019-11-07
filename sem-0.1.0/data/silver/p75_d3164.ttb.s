@@ -1,0 +1,12 @@
+ROL	Pollsters
+EPS	conducted
+DIS	a
+CON	poll
+REL	on
+DEF	the
+CON	popularity
+AND	of
+DEF	the
+IST	political
+CON	candidates
+NIL	.

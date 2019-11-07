@@ -1,0 +1,13 @@
+PRO	I
+EPS	found
+DIS	a
+IST	lost
+CON	cat
+REL	for
+AND	which
+HAS	its
+ROL	owner
+PST	had
+PFT	been
+EXS	searching
+NIL	.

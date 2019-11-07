@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+EXS	managed
+SUB	to
+EXS	talk
+PRO	him
+REL	into
+EXS	buying
+DIS	a
+IST	new
+CON	bed
+NIL	.

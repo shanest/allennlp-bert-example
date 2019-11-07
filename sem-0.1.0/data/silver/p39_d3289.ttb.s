@@ -1,0 +1,14 @@
+AND	Why
+NOW	do
+PRO	you
+NOW	have
+DIS	a
+CON	house
+REL	in
+GPE	Germany
+AND	and
+ALT	another
+QUC	one
+REL	in
+GEO	Turkey
+QUE	?

@@ -1,0 +1,9 @@
+PRO	We
+NOW	think
+PRO	you
+NOW	're
+EXS	doing
+INT	very
+IST	well
+PRX	here
+NIL	.

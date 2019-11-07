@@ -1,0 +1,13 @@
+NOW	Is
+UNK	there
+AND	any
+CON	chance
+SUB	that
+ROL	Mr.
+PER	Black
+FUT	will
+EXS	agree
+REL	to
+DEF	the
+CON	plan
+QUE	?

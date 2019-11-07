@@ -1,0 +1,15 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	hear
+QUE	what
+PRO	you
+NOW	're
+EXS	saying
+COO	;
+PRO	it
+NOW	's
+INT	too
+EXS	noisy
+PRX	here
+NIL	.

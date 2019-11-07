@@ -1,0 +1,14 @@
+SUB	Since
+PER	Mac
+ENS	wants
+SUB	to
+EXS	buy
+DIS	a
+IST	new
+CON	Mustang
+NIL	,
+PRO	he
+NOW	is
+EXS	saving
+CON	money
+NIL	.

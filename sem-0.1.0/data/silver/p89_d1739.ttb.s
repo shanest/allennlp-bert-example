@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+EXS	worried
+REL	about
+PER	Tom
+NIL	,
+NOW	are
+NOT	n't
+PRO	you
+QUE	?

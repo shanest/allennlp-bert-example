@@ -1,0 +1,11 @@
+HAS	My
+CON	son
+EPS	came
+SUB	to
+EXS	see
+PRO	me
+REL	from
+CON	time
+REL	to
+CON	time
+NIL	.

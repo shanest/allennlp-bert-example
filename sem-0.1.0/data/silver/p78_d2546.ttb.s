@@ -1,0 +1,9 @@
+PRO	I
+PST	was
+EXS	leaving
+CON	home
+SUB	when
+PER	Tom
+EPS	telephoned
+PRO	me
+NIL	.

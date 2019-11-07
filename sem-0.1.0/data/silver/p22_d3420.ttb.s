@@ -1,0 +1,10 @@
+HAS	My
+ROL	uncle
+NOW	has
+EXS	lived
+REL	in
+GEO	Paris
+REL	for
+QUC	ten
+CON	years
+NIL	.

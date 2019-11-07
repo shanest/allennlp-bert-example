@@ -1,0 +1,10 @@
+PRO	It
+FUT	will
+EXT	have
+PFT	been
+EXS	raining
+REL	for
+DIS	a
+CON	week
+FUT	tomorrow
+NIL	.

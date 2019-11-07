@@ -1,0 +1,12 @@
+AND	All
+DEF	the
+CON	students
+EPS	stood
+IST	up
+SUB	when
+PER	Dan
+EPS	played
+DEF	the
+IST	national
+CON	anthem
+NIL	.

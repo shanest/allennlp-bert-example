@@ -1,0 +1,12 @@
+UNK	There
+NOW	are
+QUV	few
+NIL	,
+IMP	if
+AND	any
+EQU	,
+CON	mistakes
+REL	in
+HAS	his
+CON	English
+NIL	.

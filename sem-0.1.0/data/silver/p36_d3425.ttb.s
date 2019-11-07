@@ -1,0 +1,14 @@
+NOW	Do
+PRO	you
+EXS	know
+QUE	how
+IST	far
+PRO	it
+NOW	is
+REL	from
+DEF	the
+CON	station
+REL	to
+CON	city
+CON	hall
+QUE	?

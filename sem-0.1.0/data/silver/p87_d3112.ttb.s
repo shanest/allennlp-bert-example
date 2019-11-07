@@ -1,0 +1,12 @@
+PRO	We
+ENS	know
+PRO	it
+FUT	'll
+EXS	happen
+AND	sometime
+REL	in
+DEF	the
+IST	next
+QUC	three
+CON	days
+NIL	.

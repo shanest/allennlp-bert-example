@@ -1,0 +1,13 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	doing
+DIS	a
+CON	lot
+AND	of
+EXS	thinking
+AND	about
+QUE	what
+PRO	you
+EPS	said
+NIL	.

@@ -1,0 +1,9 @@
+ITJ	Hey
+CON	guys
+NIL	,
+PRO	I
+NOW	think
+PRO	I
+EPS	found
+DIS	something
+NIL	.

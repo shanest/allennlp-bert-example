@@ -1,0 +1,9 @@
+PRO	You
+PST	had
+IST	better
+EXS	supplement
+HAS	your
+CON	diet
+REL	with
+CON	vitamins
+NIL	.

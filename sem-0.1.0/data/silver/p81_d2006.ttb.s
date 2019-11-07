@@ -1,0 +1,13 @@
+PER	Kate
+ENS	wants
+SUB	to
+EXS	work
+REL	in
+GPE	Italy
+NIL	,
+COO	so
+PRO	she
+NOW	's
+EXS	learning
+GPO	Italian
+NIL	.

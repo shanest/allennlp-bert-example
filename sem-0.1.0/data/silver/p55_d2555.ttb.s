@@ -1,0 +1,11 @@
+DEF	The
+CON	neighbours
+NOW	have
+PFT	been
+EXS	banging
+AND	about
+IST	next
+CON	door
+AND	all
+CON	morning
+NIL	.

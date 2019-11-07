@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+QUE	what
+PRO	you
+EPS	wanted
+NIL	,
+NOW	is
+NOT	n't
+PRO	it
+QUE	?

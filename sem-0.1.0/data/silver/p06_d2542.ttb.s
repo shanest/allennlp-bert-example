@@ -1,0 +1,11 @@
+PRO	She
+EPS	advised
+PRO	him
+NOT	not
+SUB	to
+EXS	believe
+AND	everything
+DEF	the
+CON	teacher
+ENS	says
+NIL	.

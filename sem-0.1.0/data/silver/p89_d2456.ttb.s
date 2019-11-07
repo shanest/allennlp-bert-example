@@ -1,0 +1,12 @@
+PER	Tom
+POS	may
+EXS	do
+QUE	whatever
+PRO	he
+ENS	likes
+REL	with
+QUE	what
+PRO	I
+EPS	gave
+PRO	him
+NIL	.

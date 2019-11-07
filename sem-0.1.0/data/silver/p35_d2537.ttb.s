@@ -1,0 +1,9 @@
+PRO	I
+FUT	would
+ALT	also
+EXS	like
+SUB	to
+EXS	rent
+DIS	a
+CON	car
+NIL	.

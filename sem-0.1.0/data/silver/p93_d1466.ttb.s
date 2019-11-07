@@ -1,0 +1,10 @@
+ITJ	Oh
+NIL	,
+NOT	no
+NIL	!
+PRO	We
+NOW	're
+IST	out
+AND	of
+CON	gas
+NIL	!

@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+UNK	likely
+PER	Tom
+ENS	knows
+PER	Mary
+HAS	's
+CON	phone
+CON	number
+NIL	.

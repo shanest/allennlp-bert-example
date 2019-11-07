@@ -1,0 +1,9 @@
+DEF	The
+CON	city
+IST	literally
+ENS	owes
+HAS	its
+CON	existence
+REL	to
+PER	Mussolini
+NIL	.

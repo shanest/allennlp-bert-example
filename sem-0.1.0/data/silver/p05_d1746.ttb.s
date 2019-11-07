@@ -1,0 +1,17 @@
+REL	In
+CON	order
+SUB	to
+EXS	know
+DIS	a
+CON	man
+NIL	,
+PRO	you
+NOW	have
+XCL	only
+SUB	to
+EXS	travel
+REL	with
+PRO	him
+DIS	a
+CON	week
+NIL	.

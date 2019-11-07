@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+DEF	the
+ORG	Vikings
+EPS	preceded
+GEO	Columbus
+REL	in
+EXS	discovering
+GEO	America
+NIL	.

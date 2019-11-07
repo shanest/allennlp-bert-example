@@ -1,0 +1,10 @@
+PRO	I
+IST	still
+NOW	have
+CON	things
+EXS	stored
+REL	in
+PER	Tom
+HAS	's
+CON	garage
+NIL	.

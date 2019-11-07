@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	go
+GEO	Boston
+REL	with
+PER	Mary
+NIL	.

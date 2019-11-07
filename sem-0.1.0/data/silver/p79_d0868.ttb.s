@@ -1,0 +1,15 @@
+PRO	I
+NOW	have
+QUC	three
+CON	dogs
+NIL	.
+CON	One
+NOW	is
+IST	male
+AND	and
+DEF	the
+ALT	other
+QUC	two
+NOW	are
+IST	female
+NIL	.

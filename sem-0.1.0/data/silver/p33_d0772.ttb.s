@@ -1,0 +1,9 @@
+HAS	Your
+CON	book
+NOW	is
+IST	double
+DEF	the
+CON	size
+AND	of
+HAS	mine
+NIL	.

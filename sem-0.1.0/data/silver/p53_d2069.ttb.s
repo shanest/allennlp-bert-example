@@ -1,0 +1,9 @@
+PER	Tom
+ENS	has
+NOT	no
+CON	idea
+QUE	what
+PER	Mary
+NOW	is
+EXS	thinking
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+NEC	ought
+NIL	to
+EXT	have
+EXS	started
+QUC	half
+DIS	an
+UOM	hour
+PST	ago
+NIL	.

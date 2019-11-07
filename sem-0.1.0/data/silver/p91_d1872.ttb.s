@@ -1,0 +1,10 @@
+EXS	Let
+PRO	me
+EXS	know
+AND	about
+DEF	the
+CON	result
+AND	of
+DEF	the
+CON	exam
+NIL	.

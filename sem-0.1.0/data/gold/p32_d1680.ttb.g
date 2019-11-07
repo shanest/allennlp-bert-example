@@ -1,0 +1,9 @@
+HAS	His
+IST	humble
+CON	background
+ENS	parallels
+PRO	that
+REL	of
+HAS	his
+ROL	predecessor
+NIL	.

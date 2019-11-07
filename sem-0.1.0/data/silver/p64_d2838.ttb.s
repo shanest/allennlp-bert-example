@@ -1,0 +1,11 @@
+PRO	She
+EPS	spoke
+REL	with
+DIS	a
+CON	suggestion
+AND	of
+CON	sarcasm
+REL	in
+HAS	her
+CON	voice
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+CON	pig
+EPS	snorted
+SUB	while
+EXG	rooting
+IST	around
+REL	in
+CON	search
+AND	of
+CON	truffles
+NIL	.

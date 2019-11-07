@@ -1,0 +1,10 @@
+EXS	Tell
+PER	Tom
+PRO	I
+FUT	wo
+NOT	n't
+EXS	be
+EXG	needing
+HAS	his
+CON	help
+NIL	.

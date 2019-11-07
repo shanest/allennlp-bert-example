@@ -1,0 +1,11 @@
+AND	Everyone
+NOW	expects
+ROL	politicians
+SUB	to
+EXS	break
+HAS	their
+CON	promises
+REL	to
+DEF	the
+CON	voters
+NIL	.

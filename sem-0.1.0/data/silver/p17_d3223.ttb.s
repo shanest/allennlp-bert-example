@@ -1,0 +1,14 @@
+PER	Tom
+ENS	has
+SUB	to
+EXS	learn
+GPO	Japanese
+SUB	because
+PRO	he
+NOW	's
+EXS	going
+SUB	to
+GPE	Japan
+AND	next
+CON	year
+NIL	.

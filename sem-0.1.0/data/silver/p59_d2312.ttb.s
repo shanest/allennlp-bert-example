@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	n't
+PFT	been
+IST	able
+SUB	to
+EXS	remember
+HAS	her
+CON	address
+NIL	.

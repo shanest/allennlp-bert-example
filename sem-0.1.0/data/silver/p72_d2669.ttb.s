@@ -1,0 +1,14 @@
+PRX	This
+NOW	is
+DEF	the
+IST	first
+CON	time
+PRO	I
+NOW	've
+IST	ever
+EXS	asked
+DEF	the
+CON	teacher
+DIS	a
+CON	question
+NIL	.

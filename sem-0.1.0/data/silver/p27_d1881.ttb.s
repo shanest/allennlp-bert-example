@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	interested
+REL	in
+QUE	why
+NOW	bears
+NOW	are
+EXS	important
+REL	to
+CON	Lojbanists
+NIL	.

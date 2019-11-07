@@ -1,0 +1,11 @@
+DEF	The
+CON	police
+EPS	got
+DIS	an
+IST	important
+CON	piece
+AND	of
+CON	information
+REL	from
+PRO	him
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+EPS	put
+DEF	the
+CON	guitar
+CON	case
+IST	down
+SUB	so
+PRO	he
+POS	could
+EXS	hug
+PER	Mary
+NIL	.

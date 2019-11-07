@@ -1,0 +1,17 @@
+PER	Tom
+ENS	says
+SUB	that
+PRO	he
+POS	ca
+NOT	n't
+EXS	remember
+AND	anything
+SUB	that
+EXS	happened
+REL	on
+DEF	the
+CON	day
+AND	of
+DEF	the
+CON	accident
+NIL	.

@@ -1,0 +1,11 @@
+HAS	My
+ROL	father
+ENS	goes
+REL	to
+GEO	Sydney
+QUC	twice
+DIS	a
+CON	year
+REL	on
+CON	business
+NIL	.

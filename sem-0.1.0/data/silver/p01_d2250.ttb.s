@@ -1,0 +1,12 @@
+PRO	I
+EPS	stayed
+REL	at
+CON	home
+AND	all
+CON	day
+NIL	instead
+AND	of
+EXS	going
+NIL	to
+EXS	work
+NIL	.

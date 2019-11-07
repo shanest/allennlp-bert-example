@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+NOW	has
+IST	ever
+EXS	said
+AND	such
+CON	things
+REL	to
+PRO	me
+NIL	.

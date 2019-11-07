@@ -1,0 +1,9 @@
+PER	Tom
+GRP	and
+PER	Mary
+EPS	swam
+REL	in
+DEF	the
+IST	ice-cold
+CON	lake
+NIL	.

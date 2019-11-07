@@ -1,0 +1,13 @@
+SUB	When
+PRO	they
+EPS	swore
+REL	at
+HAS	my
+CON	father
+NIL	,
+PRO	they
+EPS	swore
+REL	at
+PRO	me
+ALT	too
+NIL	.

@@ -1,0 +1,10 @@
+CON	Hackers
+NOW	are
+IST	adept
+REL	at
+EXG	getting
+AND	around
+CON	computer
+CON	security
+CON	measures
+NIL	.

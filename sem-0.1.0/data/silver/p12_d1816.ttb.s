@@ -1,0 +1,9 @@
+PRO	We
+NOW	are
+EXS	hoping
+SUB	to
+EXS	visit
+GPE	Spain
+PRX	this
+CON	summer
+NIL	.

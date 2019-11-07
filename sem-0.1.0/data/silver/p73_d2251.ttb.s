@@ -1,0 +1,11 @@
+PRO	I
+FUT	'll
+NEC	have
+SUB	to
+EXS	catch
+DEF	the
+CLO	8:15
+CON	train
+REL	to
+GEO	Paris
+NIL	.

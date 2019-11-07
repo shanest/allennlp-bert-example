@@ -1,0 +1,9 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	know
+SUB	that
+PER	Mary
+EPS	understood
+CON	French
+NIL	.

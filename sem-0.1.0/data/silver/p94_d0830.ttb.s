@@ -1,0 +1,11 @@
+DEF	The
+ROL	thief
+EPS	ran
+IST	away
+REL	in
+DEF	the
+CON	direction
+AND	of
+DEF	the
+CON	station
+NIL	.

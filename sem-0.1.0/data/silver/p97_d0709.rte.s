@@ -1,0 +1,21 @@
+PRO	They
+EPS	refused
+SUB	to
+EXS	appear
+REL	in
+DEF	the
+CON	World Court
+QUC	10
+CON	years
+PST	ago
+SUB	when
+GEO	Washington
+EPS	sought
+DEF	the
+CON	release
+AND	of
+GPO	American
+CON	hostages
+REL	in
+GPE	Tehran
+NIL	.

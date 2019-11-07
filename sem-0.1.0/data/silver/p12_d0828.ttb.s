@@ -1,0 +1,10 @@
+PRO	I
+NOT	never
+EPS	told
+AND	anybody
+AND	about
+PRO	it
+NIL	,
+PRO	I
+NOW	swear
+NIL	.

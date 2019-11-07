@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+AND	just
+DEF	the
+CON	type
+REL	of
+CON	car
+PRO	I
+ENS	want
+NIL	.

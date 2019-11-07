@@ -1,0 +1,13 @@
+PRO	I
+EPS	thought
+AND	about
+QUE	how
+QUV	much
+PST	had
+EPS	happened
+REL	in
+DEF	the
+IST	last
+QUC	two
+CON	hours
+NIL	.

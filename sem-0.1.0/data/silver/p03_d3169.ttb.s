@@ -1,0 +1,9 @@
+NOW	Do
+NOT	n't
+EXS	think
+REL	about
+PRO	it
+NIL	.
+NOW	Do
+PRO	it
+NIL	.

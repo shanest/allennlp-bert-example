@@ -1,0 +1,21 @@
+SUB	When
+PRO	I
+EPS	moved
+REL	to
+DEF	the
+CON	United States
+QUC	four
+CON	years
+PST	ago
+NIL	,
+PRO	I
+PST	had
+CON	problems
+EXS	adapting
+REL	to
+DIS	a
+IST	new
+CON	language
+AND	and
+CON	culture
+NIL	.

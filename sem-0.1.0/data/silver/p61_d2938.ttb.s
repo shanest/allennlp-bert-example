@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+NOT	n't
+HAS	my
+ROL	boyfriend
+NIL	.
+PRO	He
+HAS	's
+HAS	my
+ROL	cousin
+NIL	.

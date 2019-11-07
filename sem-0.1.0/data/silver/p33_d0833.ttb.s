@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+PRO	he
+EPS	wrote
+PRX	this
+CON	book
+NIL	.

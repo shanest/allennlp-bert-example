@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	study
+GPO	French
+PRX	this
+CON	afternoon
+NIL	.

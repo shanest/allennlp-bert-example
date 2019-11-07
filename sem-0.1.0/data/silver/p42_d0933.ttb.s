@@ -1,0 +1,15 @@
+AND	All
+PRO	I
+ENS	know
+IST	about
+CON	humor
+NOW	is
+SUB	that
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+AND	anything
+AND	about
+PRO	it
+NIL	.

@@ -1,0 +1,10 @@
+AND	Compared
+REL	with
+HAS	his
+ROL	father
+PRO	he
+NOW	is
+EXS	lacking
+REL	in
+CON	depth
+NIL	.

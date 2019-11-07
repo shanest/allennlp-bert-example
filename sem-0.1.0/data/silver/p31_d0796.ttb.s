@@ -1,0 +1,9 @@
+AND	Such
+DIS	a
+CON	thing
+POS	ca
+NOT	n't
+EXS	happen
+REL	in
+GPE	Japan
+NIL	.

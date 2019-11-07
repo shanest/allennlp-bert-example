@@ -1,0 +1,9 @@
+NIL	There
+EPS	lived
+DIS	a
+IST	pretty
+CON	girl
+REL	in
+DEF	the
+CON	village
+NIL	.

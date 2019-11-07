@@ -1,0 +1,12 @@
+PRO	You
+NOW	are
+EXS	free
+SUB	to
+EXS	do
+AND	as
+PRO	you
+IST	please
+REL	with
+HAS	your
+CON	money
+NIL	.

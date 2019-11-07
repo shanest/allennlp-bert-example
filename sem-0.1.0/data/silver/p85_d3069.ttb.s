@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+QUC	five
+CON	years
+SUB	since
+PRO	they
+EPS	came
+REL	to
+GPE	Japan
+NIL	.

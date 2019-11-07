@@ -1,0 +1,12 @@
+AND	Both
+PER	Tom
+AND	and
+PER	Mary
+EPS	wanted
+SUB	to
+EXS	visit
+PER	John
+REL	in
+DEF	the
+CON	hospital
+NIL	.

@@ -1,0 +1,14 @@
+UNK	There
+EPS	being
+NOT	no
+EXS	vacant
+CON	seat
+REL	in
+DEF	the
+CON	bus
+NIL	,
+PRO	I
+EPS	kept
+REL	on
+EXS	standing
+NIL	.

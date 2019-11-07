@@ -1,0 +1,17 @@
+SUB	After
+EXS	getting
+IST	out
+AND	of
+DEF	the
+CON	shower
+NIL	,
+PER	Tom
+EPS	wiped
+DEF	the
+CON	fog
+REL	off
+DEF	the
+CON	mirror
+AND	and
+EXS	shaved
+NIL	.

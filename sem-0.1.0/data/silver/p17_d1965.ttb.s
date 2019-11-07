@@ -1,0 +1,10 @@
+PRO	We
+NOW	're
+EXS	safe
+REL	in
+PRX	here
+NIL	,
+NOW	are
+NOT	n't
+PRO	we
+QUE	?

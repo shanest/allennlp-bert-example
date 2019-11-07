@@ -1,0 +1,10 @@
+EXS	Thank
+PRO	you
+REL	for
+EXS	helping
+PRO	me
+SUB	to
+EXS	cross
+DEF	the
+CON	road
+NIL	.

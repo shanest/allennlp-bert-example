@@ -1,0 +1,9 @@
+DEF	The
+CON	boy
+EXG	singing
+DIS	a
+CON	song
+NOW	is
+HAS	my
+CON	brother
+NIL	.

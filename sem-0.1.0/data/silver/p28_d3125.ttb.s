@@ -1,0 +1,9 @@
+REL	By
+CON	God
+NIL	,
+PRO	I
+FUT	'll
+EXS	finish
+PRX	this
+CON	homework
+NIL	.

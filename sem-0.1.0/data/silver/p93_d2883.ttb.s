@@ -1,0 +1,11 @@
+DST	That
+HAS	's
+REL	to
+PRO	me
+AND	like
+DIS	a
+CON	flower
+REL	on
+IST	lofty
+CON	heights
+NIL	.

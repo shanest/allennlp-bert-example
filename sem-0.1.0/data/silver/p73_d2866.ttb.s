@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+PRO	I
+PST	did
+NOT	n't
+EXS	understand
+QUE	what
+PRO	you
+EPS	said
+REL	in
+GPO	English
+NIL	.

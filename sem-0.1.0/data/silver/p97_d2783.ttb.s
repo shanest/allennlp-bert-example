@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXS	obliged
+SUB	to
+EXS	leave
+IST	early
+SUB	to
+EXS	catch
+HAS	my
+CON	train
+NIL	.

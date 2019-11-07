@@ -1,0 +1,15 @@
+NIL	"
+QUC	Thirty
+UOM	dollars
+NOW	is
+DIS	a
+CON	lot
+REL	for
+DST	that
+IST	small
+CON	room
+NIL	,
+NIL	"
+PRO	he
+EPS	thought
+NIL	.

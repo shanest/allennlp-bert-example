@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+PFT	been
+EXS	studying
+GPO	French
+IST	together
+AND	all
+CON	afternoon
+NIL	.

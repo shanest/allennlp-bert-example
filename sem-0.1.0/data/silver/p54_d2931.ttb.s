@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	put
+DIS	a
+CON	curse
+REL	on
+PRO	you
+NIL	.

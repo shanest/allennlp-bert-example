@@ -1,0 +1,13 @@
+REL	As
+DEF	the
+CON	woman
+REL	on
+DEF	the
+CON	train
+EPS	dozed
+REL	off
+NIL	,
+HAS	her
+CON	head
+EPS	slumped
+NIL	.

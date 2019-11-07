@@ -1,0 +1,10 @@
+PRO	She
+EPS	asked
+PRO	me
+IMP	if
+PRO	she
+POS	could
+EXS	use
+DEF	the
+CON	phone
+NIL	.

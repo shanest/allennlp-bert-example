@@ -1,0 +1,9 @@
+QUE	Who
+NOW	are
+DEF	the
+CON	people
+PRO	I
+EPS	saw
+PRO	her
+REL	with
+QUE	?

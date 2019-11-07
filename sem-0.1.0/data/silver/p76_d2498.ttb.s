@@ -1,0 +1,13 @@
+PRO	You
+NOW	're
+NOT	not
+EXS	going
+SUB	to
+EXS	like
+QUE	what
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	say
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+ENS	know
+QUE	what
+HAS	's
+IST	about
+SUB	to
+EXS	happen
+NIL	,
+CON	right
+QUE	?

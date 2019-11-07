@@ -1,0 +1,9 @@
+PRO	He
+EPS	gave
+DIS	a
+IST	good
+CON	impression
+REL	to
+HAS	my
+CON	parents
+NIL	.

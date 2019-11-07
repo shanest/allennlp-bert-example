@@ -1,0 +1,15 @@
+PRO	It
+NOW	's
+EXS	easy
+SUB	to
+EXS	quit
+CON	smoking
+NIL	.
+PRO	I
+NOW	've
+EXS	done
+PRO	it
+CON	hundreds
+AND	of
+CON	times
+NIL	.

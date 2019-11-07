@@ -1,0 +1,11 @@
+EXS	Let
+PRO	's
+NOW	get
+QUE	what
+PRO	we
+ENS	need
+SUB	to
+EXS	keep
+DIS	a
+CON	parrot
+NIL	.

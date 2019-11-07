@@ -1,0 +1,13 @@
+EXS	Excuse
+PRO	me
+NIL	.
+POS	Can
+PRO	you
+EXS	direct
+PRO	me
+REL	to
+DEF	the
+IST	nearest
+CON	subway
+CON	station
+QUE	?

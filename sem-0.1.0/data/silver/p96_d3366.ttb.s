@@ -1,0 +1,10 @@
+PRO	He
+NIL	,
+AND	like
+IST	most
+CON	Incas
+NIL	,
+EPS	believed
+PRX	this
+CON	story
+NIL	.

@@ -1,0 +1,13 @@
+ITJ	Well
+NIL	,
+PRO	it
+ENS	seems
+AND	like
+PER	Phil
+PER	Anselmo
+FUT	will
+NEC	have
+SUB	to
+EXS	step
+IST	aside
+NIL	.

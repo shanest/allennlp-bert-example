@@ -1,0 +1,10 @@
+HAS	My
+CON	heart
+EPS	beat
+SUB	when
+PRO	I
+EPS	heard
+HAS	my
+CON	name
+EPS	called
+NIL	.

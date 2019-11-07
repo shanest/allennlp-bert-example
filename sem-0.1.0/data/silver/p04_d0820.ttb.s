@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+NOT	not
+IST	pleased
+REL	with
+QUE	what
+PRO	you
+NOW	have
+EXT	done
+NIL	.

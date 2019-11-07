@@ -1,0 +1,12 @@
+PRO	She
+EPS	bought
+PRO	him
+DIS	a
+CON	sweater
+NIL	,
+BUT	but
+PRO	he
+EPS	hated
+DEF	the
+CON	color
+NIL	.

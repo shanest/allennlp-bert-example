@@ -1,0 +1,9 @@
+UNK	Internet
+EPS	gave
+PRO	me
+DEF	the
+CON	chance
+SUB	to
+EXS	be
+EXS	popular
+NIL	.

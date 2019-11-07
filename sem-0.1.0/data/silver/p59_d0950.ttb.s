@@ -1,0 +1,11 @@
+IST	Please
+EXS	take
+DIS	a
+CON	look
+REL	at
+DEF	the
+CON	picture
+SUB	that
+PRO	I
+EPS	chose
+NIL	.

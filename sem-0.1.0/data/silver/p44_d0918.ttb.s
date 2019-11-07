@@ -1,0 +1,10 @@
+PER	Tom
+NOT	never
+EPS	told
+PER	Mary
+QUE	how
+QUC	much
+PRO	he
+EPS	loved
+PRO	her
+NIL	.

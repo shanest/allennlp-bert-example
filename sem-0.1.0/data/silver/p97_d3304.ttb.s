@@ -1,0 +1,12 @@
+DEF	The
+CON	boy
+PST	had
+IST	bad
+CON	teeth
+SUB	because
+PRO	he
+EXS	neglected
+SUB	to
+EXS	brush
+PRO	them
+NIL	.

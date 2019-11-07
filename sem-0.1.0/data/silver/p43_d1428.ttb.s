@@ -1,0 +1,10 @@
+DEF	The
+CON	police
+PST	were
+IST	able
+SUB	to
+EXS	verify
+PER	Tom
+HAS	's
+CON	alibi
+NIL	.

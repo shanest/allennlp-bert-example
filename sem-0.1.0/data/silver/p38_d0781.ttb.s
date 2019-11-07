@@ -1,0 +1,10 @@
+AND	During
+HAS	my
+EXS	stay
+REL	in
+GPE	London
+NIL	,
+PRO	I
+EPS	met
+PRO	him
+NIL	.

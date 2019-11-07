@@ -1,0 +1,9 @@
+EXS	Let
+PRO	's
+EPS	split
+IST	up
+COO	and
+EXS	look
+REL	for
+PER	Tom
+NIL	.

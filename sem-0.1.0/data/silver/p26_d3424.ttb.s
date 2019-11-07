@@ -1,0 +1,12 @@
+PRO	I
+PST	thought
+IST	about
+EXS	giving
+HAS	my
+CON	saxophone
+REL	to
+PER	Tom
+AND	as
+DIS	a
+CON	gift
+NIL	.

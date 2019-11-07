@@ -1,0 +1,9 @@
+PRO	He
+PST	was
+IST	unwilling
+NIL	to
+EXS	tell
+PRO	us
+HAS	his
+CON	name
+NIL	.

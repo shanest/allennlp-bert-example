@@ -1,0 +1,14 @@
+CON	Prices
+NOW	have
+EXS	risen
+REL	in
+GPE	Japan
+AND	and
+GPE	Tokyo
+NOW	is
+INT	very
+EXS	expensive
+SUB	to
+EXS	live
+REL	in
+NIL	.

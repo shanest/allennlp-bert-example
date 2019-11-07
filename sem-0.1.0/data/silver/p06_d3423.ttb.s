@@ -1,0 +1,12 @@
+EXS	Excuse
+PRO	me
+NIL	,
+QUE	what
+HAS	's
+DEF	the
+TOP	shortest
+CON	route
+REL	to
+DEF	the
+CON	station
+QUE	?

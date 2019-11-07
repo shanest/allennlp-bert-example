@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+EXG	saving
+CON	money
+REL	in
+CON	order
+SUB	to
+EXS	go
+REL	to
+CON	university
+NIL	.

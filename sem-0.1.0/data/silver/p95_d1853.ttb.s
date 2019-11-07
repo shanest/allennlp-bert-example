@@ -1,0 +1,11 @@
+CON	Fashions
+AND	of
+QUC	thirty
+CON	years
+PST	ago
+NOW	have
+EXS	come
+IST	back
+REL	in
+CON	style
+NIL	.

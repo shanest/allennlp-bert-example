@@ -1,0 +1,10 @@
+PRO	She
+NOW	has
+PFT	been
+EXG	dyeing
+HAS	her
+CON	hair
+IST	black
+REL	for
+CON	years
+NIL	.

@@ -1,0 +1,15 @@
+PER	Tom
+EPS	asked
+PER	Mary
+IMP	if
+PRO	she
+EPS	knew
+QUE	how
+NIL	to
+EXS	play
+DST	that
+CON	song
+REL	on
+DEF	the
+CON	flute
+NIL	.

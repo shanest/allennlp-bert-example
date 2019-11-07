@@ -1,0 +1,11 @@
+PER	Tom
+EPS	asked
+PER	Mary
+QUE	what
+PRO	she
+PST	had
+PFT	been
+EXS	doing
+AND	all
+CON	morning
+NIL	.

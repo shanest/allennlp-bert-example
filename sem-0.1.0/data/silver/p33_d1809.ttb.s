@@ -1,0 +1,15 @@
+DEF	The
+XCL	only
+CON	time
+SUB	that
+PER	Tom
+EPS	left
+DEF	the
+CON	room
+PST	was
+IST	just
+SUB	before
+PRO	we
+EPS	ate
+CON	dinner
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+DIS	an
+CON	advantage
+SUB	to
+EXS	be
+IST	able
+SUB	to
+EXS	use
+DIS	a
+CON	computer
+NIL	.

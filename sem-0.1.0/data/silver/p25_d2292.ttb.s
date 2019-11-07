@@ -1,0 +1,10 @@
+HAS	My
+CON	niece
+NOW	is
+REL	from
+GPE	Libya
+NIL	.
+PRO	She
+NOW	is
+GPO	Libyan
+NIL	.

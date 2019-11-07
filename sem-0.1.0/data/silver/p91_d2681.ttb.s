@@ -1,0 +1,9 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	mention
+QUE	what
+PRO	he
+PST	'd
+EXS	done
+NIL	.

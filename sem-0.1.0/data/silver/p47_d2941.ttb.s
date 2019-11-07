@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+EXS	known
+PER	Tom
+DIS	a
+CON	lot
+IST	longer
+AND	than
+PRO	you
+NOW	have
+NIL	.

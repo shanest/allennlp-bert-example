@@ -1,0 +1,10 @@
+HAS	Their
+CON	party
+EPS	won
+DEF	the
+TOP	most
+CON	votes
+REL	in
+DEF	the
+CON	election
+NIL	.

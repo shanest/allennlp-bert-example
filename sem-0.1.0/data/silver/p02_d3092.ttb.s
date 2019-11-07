@@ -1,0 +1,13 @@
+PER	Tom
+EPS	told
+PRO	me
+SUB	that
+PRO	he
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	come
+CON	home
+IST	empty-handed
+NIL	.

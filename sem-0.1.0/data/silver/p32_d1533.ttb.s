@@ -1,0 +1,15 @@
+PRO	I
+NOW	have
+IST	better
+CON	things
+SUB	to
+EXS	do
+AND	than
+EXS	sit
+AND	around
+AND	all
+CON	day
+EXS	waiting
+REL	for
+PER	Tom
+NIL	.

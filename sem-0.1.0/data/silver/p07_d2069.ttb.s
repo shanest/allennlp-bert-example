@@ -1,0 +1,11 @@
+PER	Tom
+EPS	promised
+PER	Mary
+SUB	that
+PRO	he
+FUT	would
+NOT	n't
+EXS	do
+DST	that
+ALT	again
+NIL	.

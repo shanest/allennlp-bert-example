@@ -1,0 +1,16 @@
+AND	Everyone
+EPS	rushed
+IST	over
+REL	to
+DEF	the
+ALT	other
+CON	side
+AND	of
+DEF	the
+CON	ship
+SUB	to
+EXS	see
+QUE	what
+PST	was
+EXS	happening
+NIL	.

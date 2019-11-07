@@ -1,0 +1,11 @@
+PER	Tom
+ENS	wishes
+PER	Mary
+FUT	would
+NOT	n't
+AND	always
+EXS	go
+CON	shopping
+REL	on
+DOW	Saturdays
+NIL	.

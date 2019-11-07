@@ -1,0 +1,9 @@
+ORG	Right
+NOW	now
+NIL	,
+PRO	we
+NOW	've
+EXS	got
+MOR	bigger
+CON	problems
+NIL	.

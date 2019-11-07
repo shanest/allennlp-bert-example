@@ -1,0 +1,12 @@
+SUB	Whenever
+PRO	he
+ENS	comes
+IST	up
+REL	to
+GPE	Tokyo
+NIL	,
+PRO	he
+ENS	stays
+REL	with
+PRO	us
+NIL	.

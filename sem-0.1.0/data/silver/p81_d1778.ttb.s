@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	really
+EXS	busy
+NOW	today
+NIL	,
+IST	otherwise
+PRO	I
+FUT	would
+EXS	accept
+NIL	.

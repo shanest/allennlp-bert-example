@@ -1,0 +1,13 @@
+PRO	She
+EPS	wore
+AND	such
+IST	thin
+CON	clothes
+SUB	that
+PRO	she
+POS	might
+IST	well
+EXS	catch
+DIS	a
+CON	cold
+NIL	.

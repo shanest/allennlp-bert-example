@@ -1,0 +1,10 @@
+PRO	He
+EPS	wrote
+PRO	it
+REL	down
+SUB	lest
+PRO	he
+NEC	should
+EXS	forget
+PRO	it
+NIL	.

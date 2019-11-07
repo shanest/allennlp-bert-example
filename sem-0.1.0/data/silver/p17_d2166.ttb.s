@@ -1,0 +1,12 @@
+PRO	I
+ENS	wish
+PRO	you
+PST	had
+NOT	not
+EXS	told
+DEF	the
+CON	story
+REL	to
+HAS	my
+ROL	mother
+NIL	.

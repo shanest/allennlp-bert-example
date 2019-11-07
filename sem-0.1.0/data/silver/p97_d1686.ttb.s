@@ -1,0 +1,10 @@
+PRO	He
+EPS	grew
+DIS	a
+CON	beard
+SUB	while
+PRO	he
+PST	was
+REL	on
+CON	holiday
+NIL	.

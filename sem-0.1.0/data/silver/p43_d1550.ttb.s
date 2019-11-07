@@ -1,0 +1,12 @@
+PER	Tom
+HAS	's
+CON	dream
+NOW	is
+SUB	to
+EXS	travel
+AND	around
+DEF	the
+CON	world
+REL	with
+PER	Mary
+NIL	.

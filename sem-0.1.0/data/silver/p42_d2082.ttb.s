@@ -1,0 +1,11 @@
+PRO	I
+FUT	'll
+EXS	be
+IST	glad
+SUB	to
+EXS	drink
+DIS	a
+CON	glass
+AND	of
+CON	champagne
+NIL	.

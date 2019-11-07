@@ -1,0 +1,11 @@
+CON	One
+NOW	does
+NOT	n't
+EXS	count
+DEF	the
+CON	teeth
+AND	of
+DIS	a
+CON	gift
+CON	horse
+NIL	.

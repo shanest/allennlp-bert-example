@@ -1,0 +1,10 @@
+PRO	He
+EPS	met
+REL	with
+CON	reporters
+SUB	to
+EXS	talk
+AND	about
+HAS	his
+CON	decision
+NIL	.

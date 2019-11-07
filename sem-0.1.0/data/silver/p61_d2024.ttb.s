@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+REL	in
+CON	love
+NIL	.
+HAS	Her
+CON	name
+NOW	is
+PER	Mary
+NIL	.

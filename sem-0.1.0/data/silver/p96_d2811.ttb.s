@@ -1,0 +1,11 @@
+PER	Tom
+NEC	must
+EXS	be
+IST	aware
+SUB	that
+PER	Mary
+NOW	is
+PER	John
+HAS	's
+CON	girlfriend
+NIL	.

@@ -1,0 +1,13 @@
+REL	In
+IST	certain
+CON	parts
+AND	of
+DEF	the
+CON	world
+NIL	,
+ART	English
+ENS	has
+DIS	a
+IST	special
+CON	role
+NIL	.

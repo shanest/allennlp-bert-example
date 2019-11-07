@@ -1,0 +1,10 @@
+GPE	France
+NOW	has
+DIS	a
+MOR	higher
+EXS	birthrate
+MOR	than
+IST	most
+AND	of
+GEO	Europe
+NIL	.

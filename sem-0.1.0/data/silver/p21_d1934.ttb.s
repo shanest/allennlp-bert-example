@@ -1,0 +1,12 @@
+EXG	Crossing
+DEF	the
+CON	street
+NIL	,
+PRO	he
+PST	was
+EXS	knocked
+IST	down
+REL	by
+DIS	a
+CON	car
+NIL	.

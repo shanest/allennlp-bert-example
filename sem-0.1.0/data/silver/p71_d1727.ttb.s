@@ -1,0 +1,9 @@
+PER	Tom
+HAS	's
+IST	personal
+ROL	assistant
+NOW	has
+DIS	a
+IST	personal
+ROL	assistant
+NIL	.

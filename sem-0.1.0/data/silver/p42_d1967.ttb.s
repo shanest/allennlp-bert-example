@@ -1,0 +1,11 @@
+PRO	She
+PST	was
+EXS	carrying
+DIS	a
+IST	large
+CON	leather
+CON	bag
+REL	under
+HAS	her
+CON	arm
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+IST	never
+EPS	thought
+SUB	that
+PRO	they
+FUT	would
+EXS	like
+HAS	their
+CON	teacher
+AND	so
+QUC	much
+NIL	.

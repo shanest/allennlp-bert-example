@@ -1,0 +1,11 @@
+PRO	You
+NOW	're
+EXS	supposed
+SUB	to
+EXS	be
+EXS	helping
+PER	Tom
+NIL	,
+PRO	you
+NOW	know
+NIL	.

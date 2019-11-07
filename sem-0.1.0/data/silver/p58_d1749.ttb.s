@@ -1,0 +1,10 @@
+PER	Tom
+ENS	talks
+AND	as
+IMP	if
+PRO	he
+IST	already
+ENS	knows
+DEF	the
+CON	secret
+NIL	.

@@ -1,0 +1,14 @@
+AND	Everything
+NOW	looks
+CON	blurry
+NIL	.
+PRO	I
+NOW	think
+PRO	I
+ENS	need
+DIS	a
+IST	new
+CON	pair
+AND	of
+CON	glasses
+NIL	.

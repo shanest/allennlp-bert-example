@@ -1,0 +1,11 @@
+HAS	My
+CON	father
+NOT	never
+EPS	came
+IST	back
+CON	home
+REL	before
+QUC	9
+DIS	or
+QUC	10
+NIL	.

@@ -1,0 +1,14 @@
+PRO	It
+EPS	looked
+AND	like
+PRO	you
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	do
+QUE	what
+PRO	you
+PST	were
+EXS	doing
+NIL	.

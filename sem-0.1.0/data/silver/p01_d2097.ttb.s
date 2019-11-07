@@ -1,0 +1,11 @@
+PRO	I
+EPS	regaled
+DEF	the
+CON	devil
+COO	;
+PRO	he
+EPS	gave
+PRO	me
+DIS	a
+CON	fable
+NIL	.

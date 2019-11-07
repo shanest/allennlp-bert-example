@@ -1,0 +1,12 @@
+GPE	Japan
+NOW	is
+QUC	one
+AND	of
+DEF	the
+TOP	greatest
+IST	economic
+CON	powers
+REL	in
+DEF	the
+CON	world
+NIL	.

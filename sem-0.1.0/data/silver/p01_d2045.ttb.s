@@ -1,0 +1,15 @@
+PRO	It
+HAS	's
+DEF	the
+CON	law
+AND	:
+IST	always
+EXS	buckle
+HAS	your
+CON	safety
+CON	belt
+REL	in
+CON	cars
+AND	and
+CON	airplanes
+NIL	.

@@ -1,0 +1,12 @@
+AND	Recently
+NIL	,
+PER	Tom
+NOW	has
+EXS	stopped
+EXS	seeing
+AND	anything
+EXS	worthwhile
+REL	in
+HAS	his
+CON	work
+NIL	.

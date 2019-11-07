@@ -1,0 +1,10 @@
+PER	Tom
+AND	almost
+IST	always
+NOW	gets
+CON	home
+REL	from
+CON	school
+REL	before
+CLO	5:30
+NIL	.

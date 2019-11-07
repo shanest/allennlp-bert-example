@@ -1,0 +1,9 @@
+HAS	My
+IST	new
+CON	book
+NOW	is
+NOT	not
+ALT	yet
+REL	in
+CON	print
+NIL	.

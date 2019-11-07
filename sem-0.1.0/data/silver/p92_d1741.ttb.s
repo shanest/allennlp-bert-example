@@ -1,0 +1,12 @@
+AND	Recently
+NIL	,
+PRO	I
+EPS	saw
+DIS	an
+IST	attractive
+EXS	mature
+CON	woman
+REL	on
+DEF	the
+CON	train
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+EPS	gave
+PER	Mary
+DEF	the
+CON	benefit
+AND	of
+DEF	the
+CON	doubt
+NIL	.

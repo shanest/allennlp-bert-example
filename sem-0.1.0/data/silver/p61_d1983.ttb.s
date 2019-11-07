@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+AND	precisely
+DEF	the
+CON	man
+PRO	we
+NOW	're
+EXS	looking
+REL	for
+NIL	.

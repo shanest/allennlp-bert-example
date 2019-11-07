@@ -1,0 +1,10 @@
+PRO	She
+NOW	is
+EXS	convinced
+SUB	that
+HAS	her
+CON	son
+NOW	is
+IST	still
+EXS	alive
+NIL	.

@@ -1,0 +1,9 @@
+EXS	Did
+PRO	you
+NOT	not
+EXS	have
+AND	anything
+SUB	to
+EXS	eat
+ALT	yet
+QUE	?

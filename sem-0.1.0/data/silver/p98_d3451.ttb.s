@@ -1,0 +1,14 @@
+PER	Tom
+EPS	asked
+PER	Mary
+IMP	if
+PRO	she
+EPS	wanted
+SUB	to
+EXS	come
+AND	over
+AND	and
+EXS	watch
+DIS	a
+CON	movie
+NIL	.

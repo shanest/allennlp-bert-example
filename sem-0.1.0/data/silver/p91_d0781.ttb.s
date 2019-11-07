@@ -1,0 +1,15 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	remember
+IST	exactly
+NIL	,
+BUT	but
+PRO	I
+NOW	suppose
+PRO	it
+PST	was
+DOW	Friday
+IST	last
+CON	week
+NIL	.

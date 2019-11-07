@@ -1,0 +1,15 @@
+PRX	This
+CON	pension
+ENS	costs
+PRO	7000
+UOM	yen
+NIL	.
+AND	Without
+CON	meals
+NIL	,
+PRO	it
+HAS	's
+QUC	2000
+UOM	yen
+COM	cheaper
+NIL	.

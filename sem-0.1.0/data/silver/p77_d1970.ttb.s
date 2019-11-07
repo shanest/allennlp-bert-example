@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PER	Mary
+NOW	is
+INT	too
+EXS	young
+SUB	to
+EXS	wear
+CON	makeup
+NIL	.

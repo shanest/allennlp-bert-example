@@ -1,0 +1,11 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	instructed
+SUB	to
+EXS	take
+PRO	you
+REL	to
+DEF	the
+CON	airport
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+CON	sausages
+EXS	sizzled
+REL	in
+DEF	the
+EXS	frying
+CON	pan
+COO	and
+EXS	smelt
+IST	delicious
+NIL	.

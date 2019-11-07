@@ -1,0 +1,11 @@
+AND	A
+CON	fox
+NOW	is
+NOT	not
+EXS	caught
+QUC	twice
+REL	in
+DEF	the
+IST	same
+CON	snare
+NIL	.

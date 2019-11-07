@@ -1,0 +1,10 @@
+GPO	American
+CON	bombers
+EPS	attacked
+GPE	Japan
+HAS	's
+TOP	largest
+CON	cities
+REL	with
+CON	napalm
+NIL	.

@@ -1,0 +1,9 @@
+PRX	This
+NOW	is
+DEF	the
+BOT	worst
+CON	storm
+REL	in
+QUC	ten
+CON	years
+NIL	.

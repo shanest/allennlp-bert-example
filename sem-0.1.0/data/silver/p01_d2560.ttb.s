@@ -1,0 +1,9 @@
+PRO	He
+EPS	played
+DIS	a
+IST	minor
+CON	part
+REL	in
+DEF	the
+CON	play
+NIL	.

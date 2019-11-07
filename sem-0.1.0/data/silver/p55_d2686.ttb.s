@@ -1,0 +1,13 @@
+AND	Feeling
+EXS	tired
+REL	from
+EXS	walking
+REL	in
+DEF	the
+CON	countryside
+NIL	,
+PRO	he
+EPS	took
+DIS	a
+CON	nap
+NIL	.

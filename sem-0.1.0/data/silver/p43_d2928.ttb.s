@@ -1,0 +1,13 @@
+DEF	The
+ROL	lawyer
+HAS	's
+CON	job
+NOW	is
+SUB	to
+EXS	prove
+SUB	that
+HAS	her
+CON	client
+NOW	is
+EXS	innocent
+NIL	.

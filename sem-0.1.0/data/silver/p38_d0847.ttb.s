@@ -1,0 +1,9 @@
+PRO	It
+EPS	happened
+SUB	that
+PRO	she
+PST	was
+EXS	taking
+DIS	a
+CON	bath
+NIL	.

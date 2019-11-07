@@ -1,0 +1,9 @@
+PRO	I
+FUT	'll
+EXS	take
+PRO	you
+ALT	also
+DEF	the
+IST	printed
+CON	stuff
+NIL	.

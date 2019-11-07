@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+INT	very
+EXS	difficult
+SUB	to
+EXS	translate
+PRX	this
+CON	word
+NIL	.

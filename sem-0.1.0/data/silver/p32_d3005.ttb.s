@@ -1,0 +1,9 @@
+PRO	She
+NOW	is
+DIS	a
+CON	doctor
+AND	and
+ALT	also
+DIS	an
+CON	alpinist
+NIL	.

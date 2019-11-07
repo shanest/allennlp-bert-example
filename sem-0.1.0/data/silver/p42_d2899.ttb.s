@@ -1,0 +1,11 @@
+PRO	You
+NOW	are
+EXS	going
+REL	to
+DEF	the
+CON	phone
+AND	and
+EXS	calling
+DEF	the
+CON	doctor
+NIL	!

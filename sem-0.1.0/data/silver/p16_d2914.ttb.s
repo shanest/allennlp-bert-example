@@ -1,0 +1,12 @@
+PER	Tom
+EPS	thought
+PRO	he
+PST	was
+IST	better
+REL	at
+CON	French
+AND	than
+PRO	he
+IST	really
+PST	was
+NIL	.

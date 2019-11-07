@@ -1,0 +1,12 @@
+PER	Tom
+EPS	told
+PRO	me
+PRO	he
+PST	was
+EXS	going
+SUB	to
+EXS	clean
+IST	up
+HAS	his
+CON	room
+NIL	.

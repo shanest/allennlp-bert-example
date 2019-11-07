@@ -1,0 +1,13 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	intend
+SUB	to
+EXS	spend
+INT	so
+QUV	much
+CON	time
+CON	painting
+DEF	the
+CON	fence
+NIL	.

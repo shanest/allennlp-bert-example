@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+IST	even
+EXS	know
+SUB	where
+PRO	she
+NOW	is
+IST	right
+NOW	now
+NIL	.

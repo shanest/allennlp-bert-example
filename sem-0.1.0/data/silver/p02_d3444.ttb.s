@@ -1,0 +1,13 @@
+PST	Did
+PRO	they
+NOW	do
+PRX	this
+CON	kind
+AND	of
+CON	thing
+SUB	when
+PRO	you
+PST	were
+DIS	a
+CON	child
+QUE	?

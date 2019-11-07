@@ -1,0 +1,11 @@
+PER	Tom
+EPS	deposited
+DIS	some
+CON	money
+REL	in
+HAS	his
+CON	savings
+CON	account
+IST	just
+PST	yesterday
+NIL	.

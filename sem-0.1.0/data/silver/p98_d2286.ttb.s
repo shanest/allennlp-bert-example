@@ -1,0 +1,11 @@
+PER	Tom
+EPS	signed
+AND	all
+DEF	the
+CON	documents
+PER	Mary
+HAS	's
+ROL	lawyer
+EPS	gave
+PRO	him
+NIL	.

@@ -1,0 +1,16 @@
+PER	Tom
+EPS	put
+REL	on
+INT	so
+QUV	much
+CON	weight
+SUB	that
+PRO	he
+NEC	had
+SUB	to
+EXS	have
+HAS	his
+CON	pants
+EXS	let
+IST	out
+NIL	.

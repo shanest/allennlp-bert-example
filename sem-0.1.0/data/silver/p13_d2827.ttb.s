@@ -1,0 +1,12 @@
+PRO	He
+HAS	's
+PFT	been
+EXS	confined
+REL	to
+CON	bed
+REL	for
+DEF	the
+IST	past
+QUC	three
+CON	months
+NIL	.

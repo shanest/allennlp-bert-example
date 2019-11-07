@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	be
+DIS	somebody
+SUB	when
+PRO	I
+ENS	grow
+IST	up
+NIL	.

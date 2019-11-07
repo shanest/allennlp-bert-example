@@ -1,0 +1,13 @@
+PER	Tom
+NOW	has
+EXS	changed
+DIS	a
+CON	lot
+REL	since
+DEF	the
+IST	last
+CON	time
+PRO	I
+EPS	saw
+PRO	him
+NIL	.

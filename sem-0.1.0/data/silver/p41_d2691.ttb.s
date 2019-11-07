@@ -1,0 +1,9 @@
+DEF	The
+CON	man
+IST	finally
+EPS	confessed
+QUE	what
+PRO	he
+PST	had
+EXS	done
+NIL	.

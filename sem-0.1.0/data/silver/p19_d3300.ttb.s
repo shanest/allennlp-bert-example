@@ -1,0 +1,12 @@
+PER	Tom
+EPS	asked
+PER	Mary
+IMP	if
+PRO	she
+EPS	wanted
+SUB	to
+EXS	go
+REL	to
+DIS	a
+CON	movie
+NIL	.

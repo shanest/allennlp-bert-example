@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+EXS	easy
+SUB	to
+EXS	say
+NIL	,
+BUT	but
+NOT	not
+SUB	to
+EXS	do
+NIL	.

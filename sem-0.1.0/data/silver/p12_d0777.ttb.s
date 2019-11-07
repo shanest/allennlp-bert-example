@@ -1,0 +1,13 @@
+PER	Mars
+NOW	is
+DIS	a
+IST	promising
+CON	place
+SUB	where
+PRO	we
+POS	may
+EXS	be
+IST	able
+SUB	to
+EXS	live
+NIL	.

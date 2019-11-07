@@ -1,0 +1,12 @@
+DST	That
+CON	child
+FUT	would
+NOT	n't
+EXS	let
+EXS	go
+AND	of
+HAS	his
+ROL	mother
+HAS	's
+CON	hand
+NIL	.

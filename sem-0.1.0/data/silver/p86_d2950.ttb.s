@@ -1,0 +1,13 @@
+DEF	The
+ROL	lawyer
+EPS	needed
+SUB	to
+EXS	take
+DEF	the
+CON	interests
+AND	of
+DEF	both
+CON	parties
+REL	into
+CON	consideration
+NIL	.

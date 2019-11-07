@@ -1,0 +1,12 @@
+PRO	He
+NOW	does
+NOT	n't
+EXS	know
+AND	even
+DEF	the
+IST	proper
+CON	way
+AND	of
+EXG	greeting
+CON	people
+NIL	.

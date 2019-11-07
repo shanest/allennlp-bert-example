@@ -1,0 +1,9 @@
+EXS	Come
+COO	and
+EXS	see
+PRO	me
+REL	on
+DOW	Sunday
+AND	next
+TIM	week
+NIL	.

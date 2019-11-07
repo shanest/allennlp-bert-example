@@ -1,0 +1,11 @@
+SUB	When
+DEF	the
+CON	bell
+EPS	rang
+NIL	,
+DEF	the
+CON	teacher
+EPS	ended
+DEF	the
+CON	class
+NIL	.

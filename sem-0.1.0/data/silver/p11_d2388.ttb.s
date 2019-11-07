@@ -1,0 +1,11 @@
+DEF	The
+CON	doctor
+NOW	is
+EXS	young
+NIL	.
+NOW	Is
+DEF	the
+CON	pilot
+NIL	,
+ALT	too
+QUE	?

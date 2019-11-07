@@ -1,0 +1,11 @@
+PRO	We
+NOW	are
+EXS	trying
+SUB	to
+EXS	do
+IST	away
+REL	with
+DEF	the
+IST	old
+CON	customs
+NIL	.

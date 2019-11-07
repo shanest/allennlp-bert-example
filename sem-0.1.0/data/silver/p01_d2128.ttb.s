@@ -1,0 +1,13 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	asked
+PRO	you
+PRX	this
+REL	before
+NIL	,
+BUT	but
+NOW	are
+PRO	you
+IST	religious
+QUE	?

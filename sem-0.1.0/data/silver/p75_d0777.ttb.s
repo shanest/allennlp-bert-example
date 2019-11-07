@@ -1,0 +1,10 @@
+QUV	Several
+CON	cottages
+NOW	have
+PFT	been
+EXS	isolated
+REL	by
+DEF	the
+CON	flood
+CON	water
+NIL	.

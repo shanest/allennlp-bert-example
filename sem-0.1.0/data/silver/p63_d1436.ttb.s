@@ -1,0 +1,17 @@
+DEF	The
+CON	boy
+NOW	has
+DIS	a
+IST	huge
+EXS	bump
+REL	on
+HAS	his
+CON	head
+NIL	.
+NOT	No
+NOW	wonder
+PRO	he
+EPS	cried
+IST	so
+QUC	much
+NIL	!

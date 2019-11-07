@@ -1,0 +1,16 @@
+AND	Even
+SUB	when
+PRO	she
+EPS	thought
+AND	about
+DIS	something
+AND	else
+NIL	,
+CON	ideas
+AND	of
+CON	death
+EPS	returned
+REL	to
+HAS	her
+CON	mind
+NIL	.

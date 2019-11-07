@@ -1,0 +1,9 @@
+PER	Niel
+PER	Tupas
+PST	was
+EXS	arrested
+AND	during
+DIS	a
+CON	police
+CON	assault
+NIL	.

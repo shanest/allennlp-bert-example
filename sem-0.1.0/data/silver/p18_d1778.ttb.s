@@ -1,0 +1,15 @@
+PRO	You
+NOW	are
+EXS	supposed
+SUB	to
+EXS	take
+REL	off
+HAS	your
+CON	shoes
+SUB	when
+EXG	entering
+DIS	a
+CON	house
+REL	in
+GPE	Japan
+NIL	.

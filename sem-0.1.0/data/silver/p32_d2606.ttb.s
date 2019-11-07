@@ -1,0 +1,11 @@
+PRO	We
+EPS	found
+PRO	it
+IST	difficult
+SUB	to
+EXS	walk
+REL	in
+DEF	the
+IST	deep
+CON	snow
+NIL	.

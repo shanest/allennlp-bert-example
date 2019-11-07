@@ -1,0 +1,10 @@
+GPE	Kenya
+HAS	's
+CON	wildlife
+NOW	is
+EXS	managed
+REL	in
+DIS	a
+IST	profitable
+CON	manner
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	bought
+HAS	his
+CON	magic
+EPS	wand
+REL	at
+DIS	a
+CON	magic
+IST	wand
+CON	shop
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+NOW	forgive
+PRO	you
+SUB	because
+PRO	you
+PST	did
+NOT	n't
+EXS	know
+QUE	what
+PRO	you
+PST	were
+EXS	doing
+NIL	.

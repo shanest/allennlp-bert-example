@@ -1,0 +1,10 @@
+DST	That
+CON	blonde
+CON	girl
+REL	with
+EXS	curly
+CON	hair
+NOW	is
+REL	from
+GPE	Sweden
+NIL	.

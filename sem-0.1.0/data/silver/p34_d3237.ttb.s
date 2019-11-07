@@ -1,0 +1,9 @@
+PRO	He
+EPS	assumed
+CON	responsibility
+REL	for
+HAS	his
+CON	father
+HAS	's
+CON	project
+NIL	.

@@ -1,0 +1,11 @@
+EXS	Try
+NIL	to
+EXS	raise
+PRX	this
+CON	topic
+SUB	when
+PRO	you
+ENS	speak
+REL	to
+PRO	her
+NIL	!

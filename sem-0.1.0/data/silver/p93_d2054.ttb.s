@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	dangerous
+SUB	to
+EXS	ride
+DIS	a
+CON	motorbike
+NOT	without
+DIS	a
+CON	helmet
+NIL	.

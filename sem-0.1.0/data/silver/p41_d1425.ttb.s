@@ -1,0 +1,9 @@
+PRO	He
+EPS	gave
+PRO	her
+DIS	an
+CON	engagement
+CON	ring
+AND	last
+CON	night
+NIL	.

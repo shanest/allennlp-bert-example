@@ -1,0 +1,13 @@
+PER	Tom
+EPS	promised
+PRO	he
+FUT	would
+EXS	be
+IST	there
+NIL	,
+BUT	but
+PRO	he
+IST	never
+EPS	showed
+IST	up
+NIL	.

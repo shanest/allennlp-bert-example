@@ -1,0 +1,12 @@
+NOW	Do
+PRO	you
+IST	really
+ENS	want
+PRO	me
+SUB	to
+EXS	give
+HAS	your
+CON	computer
+REL	to
+PER	Tom
+QUE	?

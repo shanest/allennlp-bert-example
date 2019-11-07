@@ -1,0 +1,14 @@
+PER	Tom
+EPS	wondered
+QUE	why
+PER	Mary
+POS	could
+NOT	n't
+EXS	speak
+GPO	French
+AND	any
+MOR	better
+MOR	than
+PRO	she
+PST	did
+NIL	.

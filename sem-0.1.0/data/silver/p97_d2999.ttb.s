@@ -1,0 +1,10 @@
+CON	Where
+NOW	do
+PRO	you
+EPS	put
+DEF	the
+CON	garbage
+REL	in
+PRX	this
+CON	kitchen
+QUE	?

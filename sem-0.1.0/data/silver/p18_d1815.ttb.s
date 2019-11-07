@@ -1,0 +1,9 @@
+DEF	The
+CON	temperature
+AND	outside
+NOW	is
+QUC	four
+UOM	degrees
+REL	below
+QUC	zero
+NIL	.

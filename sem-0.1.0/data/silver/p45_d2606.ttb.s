@@ -1,0 +1,15 @@
+PER	Mary
+QUC	once
+ALT	again
+EPS	tried
+REL	on
+AND	all
+DEF	the
+CON	clothes
+PRO	she
+PST	had
+EXS	bought
+DEF	the
+CON	day
+REL	before
+NIL	.

@@ -1,0 +1,13 @@
+DEF	The
+CON	books
+AND	and
+CON	documents
+NOW	are
+EXS	scattered
+AND	all
+AND	over
+HAS	your
+ROL	sister
+HAS	's
+CON	room
+NIL	!

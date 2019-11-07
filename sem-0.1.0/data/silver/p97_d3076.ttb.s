@@ -1,0 +1,9 @@
+PRO	I
+NEC	have
+SUB	to
+EXS	share
+DIS	an
+CON	office
+REL	with
+PER	Tom
+NIL	.

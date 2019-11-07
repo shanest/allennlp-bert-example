@@ -1,0 +1,12 @@
+PER	Tom
+POS	might
+EXS	go
+REL	to
+DEF	the
+CON	zoo
+REL	with
+PER	Mary
+PRX	this
+EXS	coming
+DOW	Saturday
+NIL	.

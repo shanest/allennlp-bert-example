@@ -1,0 +1,17 @@
+PRO	I
+NOW	'm
+REL	at
+DEF	the
+IST	main
+CON	lecture
+CON	hall
+AND	right
+NOW	now
+NIL	.
+PER	Udo
+HAS	's
+IST	already
+IST	here
+AND	as
+IST	well
+NIL	.

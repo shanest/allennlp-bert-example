@@ -1,0 +1,14 @@
+EXS	Rejoice
+REL	with
+PRO	them
+SUB	that
+EXS	do
+EXS	rejoice
+NIL	,
+COO	and
+EXS	weep
+REL	with
+PRO	them
+SUB	that
+EXS	weep
+NIL	.

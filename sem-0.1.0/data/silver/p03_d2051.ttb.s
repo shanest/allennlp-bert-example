@@ -1,0 +1,10 @@
+DEF	The
+CON	beggar
+NOW	is
+EXG	asking
+REL	for
+DIS	a
+CON	piece
+AND	of
+CON	bread
+NIL	.

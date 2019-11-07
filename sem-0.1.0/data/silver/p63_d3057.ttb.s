@@ -1,0 +1,16 @@
+NIL	"
+ITJ	Um
+NIL	,
+QUE	what
+CON	day
+PST	was
+PRO	it
+NOW	today
+ALT	again
+QUE	?
+NIL	"
+NIL	"
+MOY	August
+DOM	5th
+NIL	.
+NIL	"

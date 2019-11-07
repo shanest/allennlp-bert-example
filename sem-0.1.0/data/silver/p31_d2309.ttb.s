@@ -1,0 +1,9 @@
+PRO	I
+NOW	connect
+REL	to
+DEF	the
+UNK	Internet
+AND	almost
+AND	every
+CON	day
+NIL	.

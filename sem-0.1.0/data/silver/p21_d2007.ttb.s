@@ -1,0 +1,16 @@
+XCL	Only
+QUC	2.1
+UOM	percent
+AND	of
+DEF	the
+CON	music
+CON	albums
+EXS	released
+REL	in
+MOY	2009
+EPS	sold
+QUC	5,000
+CON	copies
+DIS	or
+CON	more
+NIL	.

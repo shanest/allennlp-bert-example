@@ -1,0 +1,11 @@
+NOW	Are
+PRO	you
+EXG	suggesting
+PER	Tom
+PST	did
+NOT	n't
+EXS	die
+AND	of
+IST	natural
+CON	causes
+QUE	?

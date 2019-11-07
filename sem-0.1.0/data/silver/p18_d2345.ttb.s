@@ -1,0 +1,14 @@
+PRO	It
+HAS	's
+DIS	a
+CON	peacock
+NIL	.
+PRO	It
+PST	was
+DIS	a
+CON	peacock
+SUB	that
+EXS	cried
+IST	just
+NOW	now
+NIL	.

@@ -1,0 +1,11 @@
+QUV	Many
+CON	groups
+AND	of
+CON	immigrants
+NOW	have
+PFT	been
+EXS	assimilated
+REL	into
+GPO	American
+CON	society
+NIL	.

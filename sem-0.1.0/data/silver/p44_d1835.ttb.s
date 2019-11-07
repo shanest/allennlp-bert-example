@@ -1,0 +1,17 @@
+PRO	He
+ENS	goes
+REL	to
+CON	bed
+AND	early
+COO	but
+PRO	it
+NOW	takes
+PRO	him
+DIS	a
+IST	long
+CON	time
+SUB	to
+EXS	get
+SUB	to
+EXS	sleep
+NIL	.

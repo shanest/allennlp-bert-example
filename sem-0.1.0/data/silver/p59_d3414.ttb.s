@@ -1,0 +1,11 @@
+PER	Tom
+ENS	wants
+SUB	to
+EXS	see
+IMP	if
+PER	Mary
+ENS	likes
+HAS	his
+IST	new
+CON	song
+NIL	.

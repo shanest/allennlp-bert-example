@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	no
+IST	more
+CON	time
+SUB	to
+EXS	talk
+REL	with
+PRO	you
+NIL	.

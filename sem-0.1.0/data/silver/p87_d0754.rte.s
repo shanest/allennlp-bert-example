@@ -1,0 +1,59 @@
+IST	Political
+CON	parties
+REL	in
+CON	PNG
+NOW	lack
+IST	ideological
+CON	conviction
+COO	and
+EXS	rely
+IST	almost
+IST	exclusively
+REL	on
+CON	patronage
+CON	politics
+EQU	,
+CON	personalism
+NIL	,
+AND	and
+IST	regional
+CON	bases
+NIL	.
+IST	Several
+CON	parties
+NOW	have
+EXT	emerged
+REL	in
+GPO	Papua New Guinean
+CON	politics
+NIL	.
+REL	In
+DEF	the
+ORG	House
+AND	of
+ORG	Assembly
+EXS	elected
+REL	in
+GEO	1973
+EQU	,
+DEF	the
+GEO	Pangu Pati
+NIL	,
+EPS	headed
+REL	by
+GEO	Michael Somare
+NIL	,
+EPS	formed
+DIS	a
+CON	coalition
+CON	government
+REL	with
+DEF	the
+ORG	People's
+ORG	Progress Party
+NIL	,
+COO	and
+GEO	Somare
+EPS	became
+ROL	prime minister
+NIL	.

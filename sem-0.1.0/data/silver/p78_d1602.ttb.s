@@ -1,0 +1,10 @@
+PRO	You
+NEC	should
+EXS	listen
+SUB	to
+HAS	your
+HAS	's
+ROL	fathers
+IST	wise
+CON	counsel
+NIL	.

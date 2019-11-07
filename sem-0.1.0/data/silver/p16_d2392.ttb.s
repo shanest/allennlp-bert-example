@@ -1,0 +1,11 @@
+PER	Tom
+PST	was
+NOT	n't
+EXS	satisfied
+REL	with
+DEF	the
+CON	pay
+PRO	he
+PST	was
+EXG	getting
+NIL	.

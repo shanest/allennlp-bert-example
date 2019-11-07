@@ -1,0 +1,11 @@
+EXS	Forget
+PRO	it
+NIL	.
+UNK	There
+HAS	's
+NOT	no
+SUB	sense
+EXG	giving
+PRO	him
+CON	advice
+NIL	.

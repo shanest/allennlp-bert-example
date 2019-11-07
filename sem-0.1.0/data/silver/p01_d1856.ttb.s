@@ -1,0 +1,9 @@
+PRO	I
+NOT	never
+EPS	heard
+AND	of
+AND	such
+DIS	a
+CON	machine
+REL	before
+NIL	.

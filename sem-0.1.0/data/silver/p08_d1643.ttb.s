@@ -1,0 +1,10 @@
+QUC	One
+POS	can
+EXS	acquire
+PRX	this
+CON	book
+REL	in
+QUC	one
+CON	store
+XCL	only
+NIL	.

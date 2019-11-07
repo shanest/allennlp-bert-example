@@ -1,0 +1,15 @@
+CON	Thanks
+REL	to
+IST	digital
+CON	photography
+PRO	it
+ENS	seems
+SUB	that
+NOT	no
+CON	one
+NOW	has
+HAS	their
+CON	film
+IST	developed
+CON	anymore
+NIL	.

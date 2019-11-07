@@ -1,0 +1,11 @@
+PRO	I
+EPS	thought
+PRO	I
+EPS	told
+PRO	you
+NOT	never
+NIL	to
+EXS	go
+IST	there
+EXS	alone
+NIL	.

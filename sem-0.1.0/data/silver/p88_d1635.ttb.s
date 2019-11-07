@@ -1,0 +1,10 @@
+GEO	North
+GEO	Korea
+NOW	is
+EXS	called
+NIL	"
+ORG	Chosŏn
+NIL	"
+REL	in
+GPO	Korean
+NIL	.

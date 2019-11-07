@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+XCL	only
+EXS	married
+REL	for
+DIS	a
+IST	few
+CON	months
+NIL	.

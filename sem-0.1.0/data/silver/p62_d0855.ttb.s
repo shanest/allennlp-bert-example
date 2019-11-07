@@ -1,0 +1,15 @@
+AND	Thinking
+AND	about
+DST	those
+CON	sort
+AND	of
+CON	things
+NIL	,
+PRO	I
+EPS	watched
+NIL	"
+CON	Duck
+CON	Soup
+NIL	"
+ALT	again
+NIL	.

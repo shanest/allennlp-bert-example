@@ -1,0 +1,9 @@
+DEF	The
+CON	woman
+AND	whom
+PRO	he
+EPS	married
+NOW	is
+INT	very
+EXS	beautiful
+NIL	.

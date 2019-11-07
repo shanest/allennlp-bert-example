@@ -1,0 +1,10 @@
+PER	Capri
+NOW	is
+UNK	one
+DEF	the
+INT	most
+IST	beautiful
+CON	islands
+AND	of
+GPE	Italy
+NIL	.

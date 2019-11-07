@@ -1,0 +1,11 @@
+NOW	Have
+PRO	you
+IST	already
+EPS	carried
+DEF	the
+CON	boxes
+IST	up
+REL	to
+DEF	the
+CON	attic
+QUE	?

@@ -1,0 +1,11 @@
+PRO	You
+FUT	'd
+EXS	be
+EXS	dead
+IMP	if
+PER	Tom
+PST	had
+NOT	n't
+EXS	saved
+PRO	you
+NIL	.

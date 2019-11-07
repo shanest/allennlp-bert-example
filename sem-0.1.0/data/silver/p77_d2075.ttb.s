@@ -1,0 +1,10 @@
+DST	That
+CON	diamond
+CON	ring
+EPS	cost
+DIS	an
+CON	arm
+AND	and
+DIS	a
+CON	leg
+NIL	.

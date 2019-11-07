@@ -1,0 +1,11 @@
+PRO	I
+FUT	'd
+EXS	want
+DIS	someone
+SUB	to
+EXS	tell
+PRO	me
+QUE	what
+SUB	to
+EXS	do
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+IST	finally
+EXS	learned
+QUE	how
+SUB	to
+EXS	roll
+HAS	my
+CON	R's
+NIL	!

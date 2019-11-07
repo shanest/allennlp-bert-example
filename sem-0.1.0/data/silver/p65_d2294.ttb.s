@@ -1,0 +1,10 @@
+PER	Tom
+EPS	got
+PER	Mary
+EXS	good
+REL	on
+MOY	April
+ORG	Fools
+HAS	'
+TIM	Day
+NIL	.

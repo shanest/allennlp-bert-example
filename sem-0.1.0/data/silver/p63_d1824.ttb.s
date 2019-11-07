@@ -1,0 +1,10 @@
+DEF	The
+UOM	yen
+NOW	is
+EXS	rising
+COO	and
+DEF	the
+CON	dollar
+NOW	is
+EXS	falling
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+SUB	where
+PER	Tom
+COO	and
+HAS	his
+CON	friends
+EPS	went
+QUE	?

@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+DIS	a
+CON	miracle
+SUB	that
+PRO	I
+NOW	've
+EXS	got
+IST	over
+CON	cancer
+NIL	.

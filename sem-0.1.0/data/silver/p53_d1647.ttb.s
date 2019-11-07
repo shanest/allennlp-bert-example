@@ -1,0 +1,7 @@
+PRO	We
+FUT	'll
+EXS	be
+CON	OK
+EQU	,
+PER	Tom
+NIL	.

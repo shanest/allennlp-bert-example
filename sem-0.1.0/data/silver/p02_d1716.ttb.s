@@ -1,0 +1,9 @@
+EXS	Come
+REL	on
+NIL	,
+CON	baby
+NIL	,
+EXS	fight
+HAS	my
+CON	liar
+NIL	!

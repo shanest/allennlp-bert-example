@@ -1,0 +1,12 @@
+PRO	We
+NOW	are
+NOT	not
+EXS	alone
+REL	in
+EXG	believing
+SUB	that
+PRO	he
+NOW	is
+NOT	not
+EXS	guilty
+NIL	.

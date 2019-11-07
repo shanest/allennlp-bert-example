@@ -1,0 +1,9 @@
+PRO	You
+ENS	know
+QUV	many
+CON	things
+NIL	,
+NOW	do
+NOT	n't
+PRO	you
+QUE	?

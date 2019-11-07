@@ -1,0 +1,12 @@
+AND	Now
+NIL	,
+PRO	I
+EPS	put
+PRX	this
+CON	card
+REL	into
+DEF	the
+CON	hat
+NIL	.
+AND	See
+QUE	?

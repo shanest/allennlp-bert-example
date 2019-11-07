@@ -1,0 +1,17 @@
+IMP	If
+PRO	you
+ENS	want
+SUB	to
+EXS	become
+HAS	my
+CON	friend
+NIL	,
+AND	then
+ALT	also
+EXS	become
+DEF	the
+CON	friend
+AND	of
+HAS	my
+CON	friend
+NIL	.

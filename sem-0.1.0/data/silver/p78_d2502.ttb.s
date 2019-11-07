@@ -1,0 +1,11 @@
+PRO	I
+PST	was
+EXS	ill
+PST	yesterday
+COO	but
+PRO	I
+NOW	am
+EXS	feeling
+EXS	fine
+NOW	today
+NIL	!

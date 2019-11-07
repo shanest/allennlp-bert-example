@@ -1,0 +1,9 @@
+AND	An
+CON	ostrich
+NOW	does
+NOT	not
+EXS	fly
+REL	through
+DEF	the
+CON	air
+NIL	.

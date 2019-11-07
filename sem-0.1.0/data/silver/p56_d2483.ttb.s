@@ -1,0 +1,10 @@
+ORG	Power
+ENS	tends
+REL	to
+EXS	corrupt
+AND	and
+IST	absolute
+CON	power
+NOW	corrupts
+IST	absolutely
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+PST	was
+INT	very
+IST	glad
+SUB	to
+EXS	see
+PRO	him
+EXS	come
+IST	back
+NIL	.

@@ -1,0 +1,17 @@
+SUB	When
+PER	Angela
+PER	Merkel
+EPS	rang
+PER	Barack
+PER	Obama
+NIL	,
+PRO	he
+IST	already
+EPS	knew
+QUE	what
+PRO	she
+PST	was
+EXS	going
+SUB	to
+EXS	say
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+SUB	to
+EXS	hear
+AND	about
+QUE	what
+EPS	happened
+REL	to
+PER	Tom
+NIL	.

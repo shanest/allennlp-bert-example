@@ -1,0 +1,12 @@
+PER	Mary
+NOW	gets
+IST	mad
+SUB	when
+PRO	she
+ENS	thinks
+HAS	her
+CON	parents
+NOW	are
+EXS	judging
+PRO	her
+NIL	.

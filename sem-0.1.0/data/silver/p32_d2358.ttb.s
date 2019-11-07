@@ -1,0 +1,15 @@
+PER	Tom
+NEC	should
+EXS	be
+CON	home
+REL	by
+NOW	now
+NIL	,
+COO	but
+PRO	he
+NOW	's
+IST	still
+REL	at
+HAS	his
+CON	office
+NIL	.

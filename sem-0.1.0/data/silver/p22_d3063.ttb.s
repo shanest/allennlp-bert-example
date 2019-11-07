@@ -1,0 +1,16 @@
+NIL	"
+NIL	Zelda
+NIL	,
+DEF	the
+CON	floor
+NOW	is
+REL	under
+HAS	my
+CON	feet
+NIL	!
+NIL	"
+NIL	"
+PRO	I
+ENS	know
+NIL	!
+NIL	"

@@ -1,0 +1,16 @@
+NIL	"
+PER	Tom
+ENS	likes
+PER	Mary
+NIL	.
+NIL	"
+NIL	"
+EXS	Tell
+PRO	me
+DIS	something
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+NIL	.
+NIL	"

@@ -1,0 +1,11 @@
+PER	Junko
+IST	still
+ENS	depends
+REL	on
+HAS	her
+CON	parents
+REL	for
+HAS	her
+IST	living
+CON	expenses
+NIL	.

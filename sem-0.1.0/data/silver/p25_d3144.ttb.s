@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	study
+GPE	Japan
+HAS	's
+CON	history
+REL	at
+CON	university
+NIL	.

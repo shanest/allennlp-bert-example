@@ -1,0 +1,15 @@
+IMP	If
+PRO	you
+NOW	're
+NOT	not
+EXS	quiet
+NIL	,
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	ask
+PRO	you
+SUB	to
+EXS	leave
+NIL	.

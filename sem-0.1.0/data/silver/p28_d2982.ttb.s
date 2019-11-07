@@ -1,0 +1,11 @@
+DEF	The
+CON	girl
+PST	had
+NOT	no
+CON	one
+SUB	to
+EXS	turn
+REL	to
+REL	for
+CON	advice
+NIL	.

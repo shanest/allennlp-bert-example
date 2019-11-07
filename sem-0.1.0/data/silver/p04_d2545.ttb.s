@@ -1,0 +1,10 @@
+NOW	Does
+EXG	doing
+CON	things
+REL	in
+PRX	this
+CON	way
+NOW	have
+DIS	a
+CON	benefit
+QUE	?

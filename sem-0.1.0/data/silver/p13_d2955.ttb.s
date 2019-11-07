@@ -1,0 +1,15 @@
+DEF	The
+CON	house
+PST	did
+NOT	not
+EXS	suffer
+QUV	much
+CON	damage
+AND	because
+DEF	the
+CON	fire
+PST	was
+IST	quickly
+EXS	put
+IST	out
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+PST	thought
+PRO	you
+EPS	said
+DIS	someone
+PST	was
+EXS	going
+SUB	to
+EXS	meet
+PRO	us
+NIL	.

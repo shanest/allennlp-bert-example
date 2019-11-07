@@ -1,0 +1,13 @@
+PRO	He
+HAS	's
+QUC	two
+CON	years
+COM	older
+MOR	than
+PRO	me
+NIL	,
+COO	but
+PRO	he
+NOW	's
+COM	shorter
+NIL	.

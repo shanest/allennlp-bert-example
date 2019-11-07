@@ -1,0 +1,16 @@
+PRO	He
+PST	had
+NOT	not
+PFT	been
+EXS	employed
+REL	by
+DEF	the
+CON	company
+QUC	three
+CON	years
+SUB	before
+PRO	he
+NOW	become
+DIS	a
+ROL	director
+NIL	.

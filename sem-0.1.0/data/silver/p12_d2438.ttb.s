@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	interested
+REL	in
+DEF	the
+CON	history
+AND	of
+GPE	Australia
+NIL	.

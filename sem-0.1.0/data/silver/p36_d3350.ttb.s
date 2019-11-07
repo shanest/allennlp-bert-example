@@ -1,0 +1,10 @@
+XCL	Only
+DIS	a
+IST	hungry
+CON	person
+ENS	knows
+DEF	the
+CON	value
+AND	of
+CON	hunger
+NIL	.

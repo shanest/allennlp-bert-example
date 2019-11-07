@@ -1,0 +1,11 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	expect
+SUB	to
+EXS	see
+PRO	you
+ALT	again
+AND	so
+IST	soon
+NIL	.

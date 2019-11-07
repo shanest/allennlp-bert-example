@@ -1,0 +1,10 @@
+DIS	A
+CON	lot
+NIL	of
+CON	insects
+NOW	are
+CON	chirping
+REL	in
+DEF	the
+CON	field
+NIL	.

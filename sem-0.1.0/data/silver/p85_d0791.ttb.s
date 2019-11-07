@@ -1,0 +1,11 @@
+PRO	She
+EPS	became
+EXS	scared
+SUB	when
+PRO	she
+EPS	noticed
+DEF	the
+CON	man
+AND	following
+PRO	her
+NIL	.

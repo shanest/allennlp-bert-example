@@ -1,0 +1,11 @@
+AND	But
+PST	was
+PRO	he
+EXG	sitting
+IST	next
+REL	to
+PRO	you
+REL	on
+DEF	the
+CON	plane
+QUE	?

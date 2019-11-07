@@ -1,0 +1,16 @@
+QUE	How
+NOW	are
+CON	air
+CON	traffic
+CON	controllers
+IST	able
+SUB	to
+EXS	keep
+CON	track
+AND	of
+INT	so
+QUV	many
+CON	planes
+REL	at
+QUC	once
+QUE	?

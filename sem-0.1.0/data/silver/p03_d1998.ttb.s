@@ -1,0 +1,9 @@
+PRO	You
+NOW	're
+NOT	not
+EXS	curvy
+NIL	.
+PRO	You
+NOW	're
+EXS	fat
+NIL	.

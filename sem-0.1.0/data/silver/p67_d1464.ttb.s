@@ -1,0 +1,12 @@
+PRO	You
+FUT	would
+EXS	do
+IST	well
+SUB	to
+EXS	tell
+PRO	it
+REL	to
+PRO	him
+REL	in
+CON	advance
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+EPS	saw
+DEF	the
+IST	old
+CON	man
+EXS	feed
+HAS	his
+CON	dog
+CON	chicken
+CON	bones
+NIL	.

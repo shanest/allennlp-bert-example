@@ -1,0 +1,11 @@
+PRO	We
+ENS	need
+DIS	a
+CON	car
+EXS	big
+IST	enough
+REL	for
+DEF	the
+IST	whole
+CON	family
+NIL	.

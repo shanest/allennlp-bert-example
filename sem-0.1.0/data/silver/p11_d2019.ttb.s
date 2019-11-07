@@ -1,0 +1,13 @@
+HAS	Her
+CON	composition
+NOW	is
+INT	very
+EXS	good
+NOT	except
+REL	for
+QUC	two
+DIS	or
+QUC	three
+REL	spelling
+CON	errors
+NIL	.

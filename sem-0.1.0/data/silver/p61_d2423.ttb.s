@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	waiting
+REL	at
+DEF	the
+CON	park
+CON	entrance
+NIL	.

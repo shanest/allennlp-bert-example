@@ -1,0 +1,14 @@
+PRO	You
+ALT	too
+POS	can
+IST	easily
+EXS	become
+DIS	a
+ROL	millionaire
+NIL	...
+IMP	if
+PRO	you
+NOW	are
+DIS	a
+ROL	billionaire
+NIL	.

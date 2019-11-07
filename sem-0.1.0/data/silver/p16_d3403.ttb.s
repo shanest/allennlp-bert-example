@@ -1,0 +1,14 @@
+REL	At
+EXS	travel
+CON	plazas
+REL	in
+GPE	Germany
+NIL	,
+QUV	many
+CON	people
+EXS	eat
+PRO	currywurst
+REL	with
+CON	french
+CON	fries
+NIL	.

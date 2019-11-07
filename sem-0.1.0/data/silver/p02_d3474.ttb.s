@@ -1,0 +1,9 @@
+PRO	It
+HAS	's
+DEF	the
+TOP	best
+CON	score
+IST	up
+REL	to
+NOW	now
+NIL	.

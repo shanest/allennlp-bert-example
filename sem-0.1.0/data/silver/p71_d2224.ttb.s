@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+EXS	telling
+PRO	me
+PRO	I
+NOW	'm
+EXS	wasting
+HAS	my
+CON	time
+QUE	?

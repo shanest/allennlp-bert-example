@@ -1,0 +1,13 @@
+NOW	Do
+PRO	you
+EXS	know
+AND	of
+DIS	an
+CON	apartment
+PRO	I
+POS	can
+EXS	rent
+DST	that
+ENS	allows
+CON	pets
+QUE	?

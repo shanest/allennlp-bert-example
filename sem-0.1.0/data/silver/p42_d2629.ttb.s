@@ -1,0 +1,12 @@
+CON	Time
+NOW	does
+NOT	n't
+EXS	change
+PRO	us
+NIL	,
+PRO	it
+NOW	reveals
+QUE	what
+PRO	we
+NOW	are
+NIL	.

@@ -1,0 +1,11 @@
+QUE	What
+CON	album
+EPS	became
+DEF	the
+TOP	greatest
+CON	selling
+CON	album
+AND	of
+AND	all
+CON	time
+QUE	?

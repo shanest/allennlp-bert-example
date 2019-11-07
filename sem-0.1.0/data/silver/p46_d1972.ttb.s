@@ -1,0 +1,11 @@
+DEF	The
+IST	old
+CON	man
+EPS	retired
+REL	from
+IST	public
+CON	life
+QUC	ten
+CON	years
+PST	ago
+NIL	.

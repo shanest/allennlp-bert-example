@@ -1,0 +1,9 @@
+PER	Katia
+EPS	broke
+HAS	her
+CON	leg
+EXS	falling
+REL	from
+DEF	the
+CON	ladders
+NIL	.

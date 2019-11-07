@@ -1,0 +1,9 @@
+PRO	It
+HAS	's
+NOT	nothing
+AND	compared
+REL	to
+QUE	what
+PRO	he
+PST	did
+NIL	.

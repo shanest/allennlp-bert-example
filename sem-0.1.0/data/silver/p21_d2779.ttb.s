@@ -1,0 +1,10 @@
+PRO	He
+HAS	's
+DEF	the
+XCL	only
+QUC	one
+AND	who
+ENS	knows
+DEF	the
+CON	truth
+NIL	.

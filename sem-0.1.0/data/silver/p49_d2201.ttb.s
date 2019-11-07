@@ -1,0 +1,10 @@
+PRO	I
+NOW	prefer
+PER	Luca
+HAS	's
+CON	dog
+AND	than
+PER	Paul
+HAS	's
+CON	one
+NIL	!

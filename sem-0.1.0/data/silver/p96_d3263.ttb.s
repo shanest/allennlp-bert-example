@@ -1,0 +1,12 @@
+PRO	She
+EPS	tried
+SUB	to
+EXS	lift
+DEF	the
+CON	box
+NIL	,
+COO	but
+EPS	found
+PRO	it
+EXS	impossible
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	remember
+SUB	when
+PRO	I
+IST	first
+EPS	met
+PER	Tom
+NIL	.

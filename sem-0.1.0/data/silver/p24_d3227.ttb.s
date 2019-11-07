@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	had
+INT	so
+QUV	much
+CON	fun
+REL	since
+HAS	our
+IST	first
+CON	date
+NIL	.

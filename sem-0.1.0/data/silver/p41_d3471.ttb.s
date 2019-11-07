@@ -1,0 +1,10 @@
+NOW	Do
+NOT	n't
+EXS	challenge
+DIS	someone
+AND	who
+NOW	has
+NOT	nothing
+SUB	to
+EXS	lose
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NOT	never
+EPS	said
+SUB	that
+PRO	he
+EPS	wanted
+SUB	to
+EXS	go
+NIL	.

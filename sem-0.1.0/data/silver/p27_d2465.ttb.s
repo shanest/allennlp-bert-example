@@ -1,0 +1,11 @@
+DEF	The
+CON	alarm
+EPS	went
+IST	off
+COO	and
+DIS	a
+COL	red
+CON	light
+EPS	started
+EXS	flashing
+NIL	.

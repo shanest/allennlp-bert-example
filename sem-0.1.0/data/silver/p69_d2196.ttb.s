@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+CON	kids
+EXS	going
+SUB	to
+EXS	be
+PRX	here
+ALT	again
+FUT	tomorrow
+QUE	?

@@ -1,0 +1,13 @@
+PRO	I
+IST	really
+EPS	opened
+IST	up
+DIS	a
+CON	can
+AND	of
+CON	worms
+NIL	,
+PST	did
+NOT	n't
+PRO	I
+QUE	?

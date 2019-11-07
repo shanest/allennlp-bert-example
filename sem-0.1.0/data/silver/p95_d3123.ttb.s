@@ -1,0 +1,10 @@
+PRO	I
+EPS	took
+IST	down
+HAS	her
+CON	telephone
+CON	number
+REL	in
+HAS	my
+CON	notebook
+NIL	.

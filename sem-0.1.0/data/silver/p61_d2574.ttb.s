@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+DEF	the
+QUC	one
+AND	who
+EPS	suggested
+EXS	buying
+PRX	this
+CON	computer
+NIL	.

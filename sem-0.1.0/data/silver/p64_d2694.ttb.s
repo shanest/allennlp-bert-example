@@ -1,0 +1,10 @@
+PRO	He
+EPS	said
+HAS	'
+GRE	Goodbye
+AND	everyone
+CON	'
+COO	and
+EPS	stood
+IST	up
+NIL	.

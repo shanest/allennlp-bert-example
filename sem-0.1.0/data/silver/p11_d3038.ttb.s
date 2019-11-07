@@ -1,0 +1,11 @@
+PER	Tom
+ENS	has
+NOT	no
+CON	qualms
+SUB	about
+EXG	stealing
+ALT	other
+CON	people
+HAS	's
+CON	food
+NIL	.

@@ -1,0 +1,11 @@
+PER	Jim
+HAS	's
+NOT	not
+DIS	a
+ROL	lawyer
+NIL	.
+PRO	He
+HAS	's
+DIS	a
+CON	doctor
+NIL	.

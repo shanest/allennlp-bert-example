@@ -1,0 +1,10 @@
+EXS	Give
+REF	yourself
+REL	to
+HAS	your
+CON	work
+REL	with
+CON	body
+AND	and
+CON	soul
+NIL	.

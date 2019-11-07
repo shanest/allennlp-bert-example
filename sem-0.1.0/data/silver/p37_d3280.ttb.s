@@ -1,0 +1,10 @@
+PRO	I
+EPS	talked
+REL	to
+PRO	him
+REL	on
+DEF	the
+CON	telephone
+PST	yesterday
+CON	night
+NIL	.

@@ -1,0 +1,12 @@
+AND	How
+COM	old
+NOW	are
+PRO	you
+QUE	?
+AND	-
+PRO	I
+NOW	'm
+QUC	twenty-three
+CON	years
+COM	old
+NIL	.

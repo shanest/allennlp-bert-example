@@ -1,0 +1,15 @@
+EXS	Let
+HAS	's
+NOT	not
+EXS	forget
+PRO	we
+IST	never
+POS	could
+EXT	have
+EXS	done
+PRX	this
+NOT	without
+PER	Tom
+HAS	's
+CON	help
+NIL	.

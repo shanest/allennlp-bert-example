@@ -1,0 +1,9 @@
+PRO	He
+POS	may
+IST	well
+EXS	be
+IST	proud
+AND	of
+HAS	his
+ROL	father
+NIL	.

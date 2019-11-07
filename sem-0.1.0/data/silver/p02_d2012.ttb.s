@@ -1,0 +1,9 @@
+ORG	Education
+ENS	means
+DIS	something
+MOR	more
+MOR	than
+EXG	going
+REL	to
+CON	school
+NIL	.

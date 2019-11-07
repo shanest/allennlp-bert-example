@@ -1,0 +1,10 @@
+QUV	Many
+CON	flights
+PST	were
+EXS	canceled
+NIL	,
+EXS	owing
+REL	to
+DEF	the
+CON	typhoon
+NIL	.

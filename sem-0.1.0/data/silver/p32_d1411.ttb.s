@@ -1,0 +1,11 @@
+PER	Tom
+EPS	pretended
+SUB	that
+PRO	he
+PST	did
+NOT	n't
+EXS	see
+QUE	what
+PST	was
+EXS	happening
+NIL	.

@@ -1,0 +1,15 @@
+PER	Mary
+EPS	asked
+PER	Alice
+IMP	if
+PRO	she
+POS	could
+EXS	borrow
+DIS	a
+CON	dress
+SUB	to
+EXS	wear
+REL	to
+DEF	the
+CON	dance
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+FUT	would
+EXT	have
+PFT	been
+INT	very
+IST	proud
+AND	of
+PRO	you
+NIL	.

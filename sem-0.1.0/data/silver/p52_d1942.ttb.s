@@ -1,0 +1,13 @@
+PER	Tom
+EPS	opened
+DEF	the
+CON	freezer
+COO	and
+EPS	took
+IST	out
+DIS	a
+CON	container
+AND	of
+CON	ice
+CON	cream
+NIL	.

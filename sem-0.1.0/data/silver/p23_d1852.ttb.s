@@ -1,0 +1,9 @@
+PRO	She
+EPS	talked
+AND	as
+IMP	if
+PRO	she
+PST	were
+HAS	my
+CON	mother
+NIL	.

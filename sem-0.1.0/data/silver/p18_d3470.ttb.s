@@ -1,0 +1,14 @@
+DEF	The
+IST	last
+CON	time
+PRO	I
+EPS	saw
+PER	Tom
+PRO	he
+PST	was
+AND	as
+EXS	drunk
+AND	as
+DIS	a
+CON	skunk
+NIL	.

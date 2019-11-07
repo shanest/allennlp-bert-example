@@ -1,0 +1,10 @@
+HAS	My
+IST	little
+ROL	sister
+PST	was
+IST	excited
+SUB	to
+EXS	see
+DEF	the
+CON	waterfowl
+NIL	.

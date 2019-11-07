@@ -1,0 +1,12 @@
+PER	Tom
+NOW	has
+NOT	not
+ALT	yet
+PFT	been
+EXS	told
+AND	of
+HAS	his
+ROL	father
+HAS	's
+CON	death
+NIL	.

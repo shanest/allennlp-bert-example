@@ -1,0 +1,14 @@
+PER	Tom
+HAS	's
+CON	happiness
+NOW	means
+IST	more
+REL	to
+PRO	me
+AND	than
+AND	anything
+AND	else
+REL	in
+DEF	the
+CON	world
+NIL	.

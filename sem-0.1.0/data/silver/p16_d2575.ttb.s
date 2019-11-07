@@ -1,0 +1,11 @@
+PER	Tom
+ENS	says
+PRO	he
+NOW	does
+NOT	n't
+EXS	know
+SUB	when
+PER	Mary
+PST	was
+EXS	born
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+IST	new
+CON	term
+ENS	starts
+REL	in
+MOY	April
+REL	in
+GPE	Japan
+NIL	.

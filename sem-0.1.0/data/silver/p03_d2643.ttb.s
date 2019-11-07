@@ -1,0 +1,10 @@
+EXS	Put
+HAS	your
+CON	hand
+IST	up
+SUB	when
+PRO	I
+NOW	call
+HAS	your
+CON	name
+NIL	.

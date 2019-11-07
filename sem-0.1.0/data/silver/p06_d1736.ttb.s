@@ -1,0 +1,13 @@
+IST	Speaking
+CON	Esperanto
+NOW	is
+IST	so
+EXS	easy
+SUB	that
+DIS	sometimes
+PRO	it
+NOW	requires
+DIS	a
+IST	real
+CON	effort
+NIL	.

@@ -1,0 +1,11 @@
+REL	In
+GPE	France
+EQU	,
+DIS	a
+IST	great
+CON	amount
+AND	of
+CON	wine
+NOW	is
+EXS	consumed
+NIL	.

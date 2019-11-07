@@ -1,0 +1,13 @@
+PRO	You
+PST	'd
+MOR	better
+EXS	find
+AND	out
+SUB	when
+PRO	we
+NOW	're
+EXS	supposed
+NIL	to
+EXS	be
+IST	there
+NIL	.

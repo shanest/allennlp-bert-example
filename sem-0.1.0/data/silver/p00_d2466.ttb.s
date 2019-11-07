@@ -1,0 +1,12 @@
+ITJ	Oh
+NIL	,
+FUT	would
+PRO	you
+EXS	catch
+DEF	the
+CON	phone
+REL	for
+PRO	me
+NIL	,
+IST	please
+QUE	?

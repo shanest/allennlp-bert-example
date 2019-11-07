@@ -1,0 +1,13 @@
+PER	Tom
+NOW	has
+EXS	done
+AND	everything
+PRO	we
+NOW	've
+EXS	asked
+PRO	him
+SUB	to
+NOW	do
+NOT	without
+EXS	complaining
+NIL	.

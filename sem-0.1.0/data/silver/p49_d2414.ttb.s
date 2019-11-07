@@ -1,0 +1,10 @@
+PRO	I
+EPS	ate
+DIS	something
+PRO	I
+EPS	wished
+PRO	I
+PST	had
+NOT	n't
+EXT	eaten
+NIL	.

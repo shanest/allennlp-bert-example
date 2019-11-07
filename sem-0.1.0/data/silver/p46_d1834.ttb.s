@@ -1,0 +1,17 @@
+AND	Now
+SUB	that
+PRO	you
+NOW	are
+CON	grown-up
+NIL	,
+PRO	it
+NOW	is
+IST	up
+REL	to
+PRO	you
+SUB	to
+EXS	decide
+QUE	what
+SUB	to
+EXS	do
+NIL	.

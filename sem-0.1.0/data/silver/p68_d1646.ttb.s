@@ -1,0 +1,10 @@
+PRO	I
+PST	had
+EXS	forgotten
+SUB	that
+HAS	my
+IST	short-term
+CON	memory
+NOW	is
+EXS	terrible
+NIL	.

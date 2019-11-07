@@ -1,0 +1,13 @@
+PRO	We
+ENS	know
+SUB	that
+AND	everything
+PRO	we
+ENS	need
+SUB	to
+EXS	do
+NOW	is
+REL	on
+DEF	the
+CON	list
+NIL	.

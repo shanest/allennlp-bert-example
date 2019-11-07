@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+PRO	we
+POS	can
+NOT	not
+EXS	meet
+HAS	your
+CON	requirements
+NIL	.

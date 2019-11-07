@@ -1,0 +1,9 @@
+ROL	Mr.
+PER	Jones
+PST	had
+PER	Mary
+EXS	go
+REL	to
+DEF	the
+CON	dentist
+NIL	.

@@ -1,0 +1,15 @@
+PRO	We
+EPS	used
+SUB	to
+EXS	live
+REL	in
+GPE	London
+QUC	three
+CON	years
+PST	ago
+NIL	,
+AND	then
+PRO	we
+EPS	moved
+PRX	here
+NIL	.

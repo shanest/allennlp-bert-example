@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	nothing
+SUB	to
+EXS	say
+REL	to
+AND	any
+AND	of
+PRO	you
+NIL	.

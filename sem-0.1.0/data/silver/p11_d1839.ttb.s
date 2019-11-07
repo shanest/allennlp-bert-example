@@ -1,0 +1,10 @@
+PRX	This
+CON	story
+NOW	is
+IST	far
+MOR	more
+EXS	interesting
+MOR	than
+AND	that
+CON	one
+NIL	.

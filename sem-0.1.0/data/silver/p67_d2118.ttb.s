@@ -1,0 +1,9 @@
+PRO	He
+EPS	returned
+REL	to
+GPE	Japan
+SUB	after
+EXS	graduating
+REL	from
+CON	college
+NIL	.

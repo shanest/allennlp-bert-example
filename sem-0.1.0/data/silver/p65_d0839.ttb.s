@@ -1,0 +1,10 @@
+PRO	He
+EPS	felt
+DIS	a
+IST	sudden
+CON	urge
+SUB	to
+EXS	write
+DIS	a
+CON	novel
+NIL	.

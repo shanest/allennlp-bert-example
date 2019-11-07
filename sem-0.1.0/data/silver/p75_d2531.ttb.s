@@ -1,0 +1,13 @@
+PRO	We
+PST	were
+EXS	surprised
+SUB	when
+PRO	we
+EPS	saw
+PRO	him
+REL	in
+DEF	the
+CON	office
+PRX	this
+CON	morning
+NIL	.

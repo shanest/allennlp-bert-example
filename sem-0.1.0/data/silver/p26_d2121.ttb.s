@@ -1,0 +1,10 @@
+CON	Go
+AND	and
+EXS	say
+GRE	goodbye
+REL	to
+PRO	him
+SUB	before
+PRO	he
+ENS	leaves
+NIL	.

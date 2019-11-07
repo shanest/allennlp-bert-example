@@ -1,0 +1,11 @@
+QUE	How
+QUV	many
+CON	people
+REL	in
+GPE	U.S.
+NOW	do
+NOT	not
+EXS	have
+CON	health
+CON	insurance
+QUE	?

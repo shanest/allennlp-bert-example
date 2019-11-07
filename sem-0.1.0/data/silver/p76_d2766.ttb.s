@@ -1,0 +1,12 @@
+PRO	She
+PST	was
+EXG	waving
+CON	good-bye
+NIL	,
+REL	with
+HAS	her
+CON	eyes
+IST	full
+AND	of
+CON	tears
+NIL	.

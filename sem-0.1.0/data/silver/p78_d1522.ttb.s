@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PRO	I
+NOW	are
+EXS	getting
+EXS	married
+REL	in
+MOY	May
+NIL	.

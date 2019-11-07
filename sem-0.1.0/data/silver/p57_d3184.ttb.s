@@ -1,0 +1,13 @@
+PER	Tom
+IST	only
+PST	had
+DIS	a
+IST	faint
+CON	inkling
+AND	of
+QUE	what
+PER	Mary
+PST	was
+EXS	talking
+IST	about
+NIL	.

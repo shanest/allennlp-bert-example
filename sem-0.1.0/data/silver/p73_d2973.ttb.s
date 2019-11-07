@@ -1,0 +1,10 @@
+EXS	Open
+DEF	the
+CON	door
+NIL	.
+PRO	They
+NOW	are
+EXG	ringing
+DEF	the
+CON	bell
+NIL	.

@@ -1,0 +1,17 @@
+SUB	When
+PRO	you
+NOW	rely
+REL	on
+DEF	the
+CON	team
+INT	too
+QUV	much
+NIL	,
+PRO	it
+POS	may
+EXS	reduce
+HAS	your
+IST	individual
+IST	competitive
+CON	instincts
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+IST	usually
+ENS	goes
+SUB	to
+CON	bed
+IST	just
+REL	before
+CLO	midnight
+NIL	.

@@ -1,0 +1,9 @@
+PRO	You
+EPS	said
+PRO	it
+PST	was
+NOT	n't
+EXS	going
+SUB	to
+EXS	happen
+NIL	.

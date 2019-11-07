@@ -1,0 +1,10 @@
+DIS	Someone
+NOW	is
+EXG	calling
+PRO	me
+NIL	.
+PRO	It
+POS	might
+EXS	be
+PER	Adil
+NIL	.

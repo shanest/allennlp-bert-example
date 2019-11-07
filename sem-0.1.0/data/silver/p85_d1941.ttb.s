@@ -1,0 +1,17 @@
+AND	Shortly
+REL	after
+DEF	the
+CON	war
+HAS	my
+CON	father
+EPS	bought
+DIS	a
+IST	new
+CON	house
+NIL	,
+REL	in
+UNK	which
+PRO	I
+PST	was
+EXS	born
+NIL	.

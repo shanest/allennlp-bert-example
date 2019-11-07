@@ -1,0 +1,11 @@
+SUB	When
+PRO	you
+NOW	're
+EXS	tired
+NIL	,
+CON	sleeping
+NOW	is
+DEF	the
+TOP	best
+CON	thing
+NIL	.

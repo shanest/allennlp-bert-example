@@ -1,0 +1,9 @@
+CON	Relax
+NIL	.
+PRO	It
+NOW	's
+EXS	supposed
+SUB	to
+EXS	be
+CON	fun
+NIL	.

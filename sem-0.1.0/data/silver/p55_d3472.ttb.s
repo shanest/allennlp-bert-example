@@ -1,0 +1,11 @@
+DEF	The
+CON	clock
+NOW	has
+EXS	stopped
+NIL	.
+PRO	It
+ENS	needs
+DIS	a
+IST	new
+CON	battery
+NIL	.

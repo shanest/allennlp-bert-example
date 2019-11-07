@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+NOW	have
+AND	any
+CON	idea
+SUB	where
+PER	Tom
+POS	might
+EXS	be
+QUE	?

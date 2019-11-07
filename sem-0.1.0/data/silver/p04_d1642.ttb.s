@@ -1,0 +1,16 @@
+REL	In
+IST	due
+CON	course
+EQU	,
+EXG	eating
+CON	meat
+FUT	will
+EXS	be
+EXS	considered
+SUB	as
+EXS	horrible
+SUB	as
+EXG	eating
+IST	human
+CON	flesh
+NIL	.

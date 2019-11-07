@@ -1,0 +1,9 @@
+ROL	Gangsters
+EPS	robbed
+DIS	a
+CON	bank
+AND	of
+CON	thousands
+AND	of
+CON	dollars
+NIL	.

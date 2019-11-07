@@ -1,0 +1,14 @@
+PER	Tom
+ENS	shaves
+AND	every
+CON	morning
+AND	as
+IST	soon
+SUB	as
+PRO	he
+NOW	gets
+IST	out
+AND	of
+DEF	the
+CON	shower
+NIL	.

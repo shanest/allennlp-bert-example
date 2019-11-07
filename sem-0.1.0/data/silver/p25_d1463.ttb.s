@@ -1,0 +1,10 @@
+PRO	I
+NOW	feel
+AND	like
+PRO	I
+NOW	've
+IST	already
+EXS	seen
+PRX	this
+CON	movie
+NIL	.

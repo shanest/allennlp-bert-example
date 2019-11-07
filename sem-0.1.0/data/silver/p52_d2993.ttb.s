@@ -1,0 +1,10 @@
+IST	Most
+ROL	employees
+NOW	expect
+DIS	a
+CON	pay
+EXS	raise
+AND	once
+DIS	a
+CON	year
+NIL	.

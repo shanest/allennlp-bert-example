@@ -1,0 +1,11 @@
+PRO	I
+EPS	called
+PRO	you
+REL	in
+PRX	here
+SUB	to
+EXS	ask
+PRO	you
+DIS	a
+CON	question
+NIL	.

@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+UNK	difficult
+SUB	to
+EXS	teach
+CON	people
+QUE	what
+PRO	they
+NOW	are
+UNK	unwilling
+SUB	to
+EXS	learn
+NIL	.

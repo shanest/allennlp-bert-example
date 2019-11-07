@@ -1,0 +1,11 @@
+HAS	My
+CON	father
+NOW	has
+PFT	been
+EXS	living
+REL	in
+GEO	Nagoya
+REL	for
+QUC	30
+CON	years
+NIL	.

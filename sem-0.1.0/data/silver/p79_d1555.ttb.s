@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+INT	almost
+EXS	impossible
+SUB	to
+EXS	avoid
+EXS	eating
+INT	genetically
+IST	modified
+CON	food
+NIL	.

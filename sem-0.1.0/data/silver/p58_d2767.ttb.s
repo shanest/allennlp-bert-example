@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+IST	hard
+SUB	to
+EXS	admit
+REL	to
+REF	yourself
+SUB	that
+PRO	you
+NOW	are
+DIS	a
+CON	failure
+NIL	.

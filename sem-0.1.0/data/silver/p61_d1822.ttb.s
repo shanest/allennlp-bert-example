@@ -1,0 +1,10 @@
+ROL	Mrs.
+PER	Smith
+EPS	asked
+PRO	me
+SUB	to
+EXS	go
+REL	to
+DEF	the
+CON	city
+NIL	.

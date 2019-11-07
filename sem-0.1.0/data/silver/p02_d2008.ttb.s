@@ -1,0 +1,13 @@
+HAS	Your
+CON	sneakers
+NOW	are
+EXS	dirty
+COO	;
+EXS	take
+PRO	them
+REL	off
+SUB	before
+PRO	you
+ENS	come
+REL	in
+NIL	.

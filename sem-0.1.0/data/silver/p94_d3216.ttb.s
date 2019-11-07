@@ -1,0 +1,9 @@
+EXS	Let
+PRO	's
+NOW	hope
+DEF	the
+CON	government
+NOW	respects
+HAS	our
+CON	agreement
+NIL	.

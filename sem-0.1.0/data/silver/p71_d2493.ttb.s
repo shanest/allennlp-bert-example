@@ -1,0 +1,12 @@
+PRO	It
+EPS	took
+PRO	me
+INT	almost
+QUC	three
+CON	hours
+SUB	to
+EXS	finish
+HAS	my
+CON	math
+CON	homework
+NIL	.

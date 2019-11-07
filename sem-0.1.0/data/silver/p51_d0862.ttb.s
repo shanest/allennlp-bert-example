@@ -1,0 +1,13 @@
+DEF	The
+CON	professor
+AND	that
+EPS	took
+DEF	the
+CON	floor
+NOW	is
+REL	from
+DEF	the
+ORG	University
+AND	of
+GEO	Bucharest
+NIL	.

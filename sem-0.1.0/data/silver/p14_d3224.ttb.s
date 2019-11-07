@@ -1,0 +1,10 @@
+DEF	The
+CON	phrase
+HAS	'
+IST	honest
+ROL	politician
+HAS	'
+NOW	is
+DIS	an
+CON	oxymoron
+NIL	.

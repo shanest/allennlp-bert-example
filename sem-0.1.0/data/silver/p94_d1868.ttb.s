@@ -1,0 +1,11 @@
+DIS	A
+IST	white-haired
+CON	man
+PST	was
+EXG	playing
+DIS	an
+CON	accordion
+REL	outside
+DEF	the
+CON	shop
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+INT	pretty
+IST	sure
+PER	Tom
+HAS	's
+FUT	will
+EXS	be
+REL	at
+DEF	the
+CON	party
+NIL	.

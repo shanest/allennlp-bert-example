@@ -1,0 +1,10 @@
+QUE	What
+CON	time
+NOW	do
+PRO	you
+EPS	put
+HAS	your
+CON	son
+REL	to
+CON	bed
+QUE	?

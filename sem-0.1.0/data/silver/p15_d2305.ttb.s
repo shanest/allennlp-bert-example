@@ -1,0 +1,14 @@
+PRO	They
+EPS	knocked
+REL	on
+DEF	the
+CON	door
+COO	and
+EPS	said
+PRO	they
+PST	had
+EXS	come
+SUB	to
+EXS	arrest
+PRO	him
+NIL	.

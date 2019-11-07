@@ -1,0 +1,12 @@
+PER	Tom
+EPS	wanted
+NIL	to
+EXS	spend
+DEF	the
+CON	rest
+AND	of
+HAS	his
+CON	life
+REL	with
+PER	Mary
+NIL	.

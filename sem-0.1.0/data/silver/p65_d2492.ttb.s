@@ -1,0 +1,10 @@
+POS	Can
+PRO	you
+EXS	manage
+SUB	to
+EXS	complete
+DEF	the
+CON	manuscript
+REL	by
+DOW	Friday
+QUE	?

@@ -1,0 +1,12 @@
+PRX	This
+NOW	has
+NOT	nothing
+SUB	to
+EXS	do
+REL	with
+QUE	what
+PRO	we
+PST	were
+EXS	talking
+IST	about
+NIL	.

@@ -1,0 +1,11 @@
+PRO	We
+NOW	're
+EXS	sorry
+PRO	we
+PST	were
+NOT	n't
+IST	able
+SUB	to
+EXS	help
+PRO	you
+NIL	.

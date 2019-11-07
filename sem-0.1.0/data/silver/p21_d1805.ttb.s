@@ -1,0 +1,12 @@
+PRO	I
+ENS	owe
+PRO	him
+DIS	a
+IST	great
+CON	deal
+SUB	because
+PRO	he
+EPS	saved
+HAS	my
+CON	life
+NIL	.

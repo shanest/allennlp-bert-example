@@ -1,0 +1,12 @@
+PRO	It
+EPS	took
+PRO	me
+QUC	ten
+CON	minutes
+SUB	to
+EXS	walk
+REL	to
+DEF	the
+IST	metro
+CON	station
+NIL	.

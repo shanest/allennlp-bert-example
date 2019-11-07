@@ -1,0 +1,12 @@
+NOW	Do
+PRO	you
+NOW	have
+DIS	any
+CON	idea
+QUE	why
+PER	Tom
+EPS	gave
+PRO	it
+REL	to
+PRO	you
+QUE	?

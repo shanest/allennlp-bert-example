@@ -1,0 +1,15 @@
+DEF	The
+CON	policeman
+EPS	talked
+REL	to
+DEF	the
+CON	children
+REL	in
+AND	as
+EXS	friendly
+DIS	a
+CON	manner
+AND	as
+PRO	he
+POS	could
+NIL	.

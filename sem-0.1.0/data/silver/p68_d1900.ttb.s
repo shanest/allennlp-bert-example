@@ -1,0 +1,11 @@
+PRO	I
+PST	was
+CON	dog
+EXS	tired
+SUB	when
+PRO	I
+EPS	got
+CON	home
+AND	last
+CON	night
+NIL	.

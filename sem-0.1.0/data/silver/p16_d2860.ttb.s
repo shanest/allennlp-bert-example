@@ -1,0 +1,10 @@
+CON	Voters
+POS	may
+ALT	yet
+EXS	reject
+DEF	the
+CON	misbegotten
+HAS	'
+ORG	Dream
+CON	Act'
+NIL	.

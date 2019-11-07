@@ -1,0 +1,12 @@
+SUB	While
+PRO	we
+NOW	're
+EXS	sleeping
+DEF	the
+IST	immune
+CON	system
+ENS	opens
+HAS	its
+CON	repair
+CON	workshop
+NIL	.

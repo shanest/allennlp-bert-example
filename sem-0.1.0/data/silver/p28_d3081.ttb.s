@@ -1,0 +1,9 @@
+PRO	She
+PST	was
+EXS	giving
+DIS	a
+CON	speech
+REL	at
+DEF	the
+CON	park
+NIL	.

@@ -1,0 +1,14 @@
+PER	Tom
+HAS	's
+CON	son
+EQU	,
+PER	John
+NIL	,
+EPS	died
+AND	of
+DIS	an
+CON	overdose
+REL	at
+CON	age
+QUC	seventeen
+NIL	.

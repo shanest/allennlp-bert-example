@@ -1,0 +1,11 @@
+EXS	Did
+PRO	you
+NOW	have
+CON	fun
+REL	at
+DEF	the
+CON	game
+QUE	?
+QUE	Who
+EPS	won
+QUE	?

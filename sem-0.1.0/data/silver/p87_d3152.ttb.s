@@ -1,0 +1,9 @@
+PER	Tom
+EPS	challenged
+PER	Mary
+REL	to
+DIS	a
+CON	game
+AND	of
+CON	chess
+NIL	.

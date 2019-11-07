@@ -1,0 +1,14 @@
+IMP	If
+PRO	she
+PST	'd
+EXS	set
+REL	off
+NOW	now
+NIL	,
+PRO	she
+FUT	would
+EXS	make
+PRO	it
+REL	on
+CON	time
+NIL	.

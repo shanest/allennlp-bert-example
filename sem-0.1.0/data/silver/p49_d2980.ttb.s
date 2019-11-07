@@ -1,0 +1,9 @@
+DIS	Someone
+EPS	tried
+SUB	to
+EXS	poison
+HAS	our
+CON	dog
+HAS	's
+CON	food
+NIL	.

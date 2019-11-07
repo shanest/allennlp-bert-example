@@ -1,0 +1,15 @@
+IMP	If
+PER	Maria
+EPS	spoke
+LES	less
+IST	hastily
+NIL	,
+CON	people
+FUT	would
+EXS	be
+IST	able
+SUB	to
+EXS	understand
+HAS	her
+IST	better
+NIL	.

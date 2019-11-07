@@ -1,0 +1,9 @@
+DEF	The
+CON	dog
+EPS	bit
+DEF	the
+CON	cat
+REL	on
+DEF	the
+CON	tail
+NIL	.

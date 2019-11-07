@@ -1,0 +1,11 @@
+PER	Mary
+EPS	thought
+SUB	that
+PER	Tom
+PST	was
+EXG	wasting
+HAS	his
+CON	time
+EXG	studying
+IST	Latin
+NIL	.

@@ -1,0 +1,12 @@
+REL	In
+INT	about
+QUC	ten
+CON	days
+DEF	the
+IST	first
+CON	fermentation
+FUT	will
+NEC	definitely
+EXS	be
+EXS	finished
+NIL	.

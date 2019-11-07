@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+EXS	getting
+IST	late
+NIL	,
+SUB	so
+PRO	we
+FUT	'd
+MOR	better
+EXS	get
+EXG	going
+NIL	.

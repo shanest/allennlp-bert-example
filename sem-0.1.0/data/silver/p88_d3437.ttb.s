@@ -1,0 +1,10 @@
+DEF	The
+CON	taxi
+PRO	I
+EPS	took
+PST	was
+INT	very
+IST	old
+AND	and
+IST	small
+NIL	.

@@ -1,0 +1,12 @@
+REL	At
+AND	last
+NIL	,
+CON	spring
+NOW	has
+EXS	come
+REL	to
+PRX	this
+CON	part
+AND	of
+GPE	Japan
+NIL	.

@@ -1,0 +1,9 @@
+AND	Any
+CON	dish
+FUT	will
+EXS	do
+IMP	if
+PRO	it
+NOW	is
+IST	delicious
+NIL	.

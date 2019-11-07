@@ -1,0 +1,12 @@
+SUB	When
+PRO	he
+ENS	writes
+NIL	,
+PRO	he
+IST	always
+NOW	keeps
+DIS	a
+CON	dictionary
+REL	at
+CON	hand
+NIL	.

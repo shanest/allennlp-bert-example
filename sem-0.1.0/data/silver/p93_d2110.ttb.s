@@ -1,0 +1,11 @@
+PRO	He
+EPS	met
+HAS	his
+GPO	English
+CON	teacher
+REL	at
+DEF	the
+CON	station
+REL	by
+CON	accident
+NIL	.

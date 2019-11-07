@@ -1,0 +1,9 @@
+GEO	Blackpool
+NOW	is
+DEF	the
+CON	symbol
+AND	of
+DIS	a
+CON	disappearing
+GPE	England
+NIL	.

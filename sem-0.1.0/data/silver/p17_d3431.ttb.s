@@ -1,0 +1,10 @@
+HAS	My
+CON	nurse
+EPS	took
+PRO	me
+PRX	this
+CON	morning
+REL	into
+DEF	the
+CON	streets
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	just
+EXS	kidding
+NIL	.
+DST	That
+IST	really
+PST	did
+NOT	n't
+EXS	happen
+NIL	.

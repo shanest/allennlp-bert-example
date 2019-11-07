@@ -1,0 +1,10 @@
+PRO	It
+PST	being
+INT	very
+EXS	cold
+NIL	,
+PRO	we
+EPS	stayed
+REL	at
+CON	home
+NIL	.

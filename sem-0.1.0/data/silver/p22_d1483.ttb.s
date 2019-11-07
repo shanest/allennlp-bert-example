@@ -1,0 +1,10 @@
+CON	God
+EPS	gave
+HAS	her
+DIS	a
+IST	beautiful
+CON	face
+AND	and
+IST	sweet
+CON	voice
+NIL	.

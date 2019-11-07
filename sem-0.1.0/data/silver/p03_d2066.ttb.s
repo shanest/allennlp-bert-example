@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	bored
+COO	and
+NOW	do
+NOT	n't
+EXS	know
+QUE	what
+SUB	to
+EXS	do
+NIL	.

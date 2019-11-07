@@ -1,0 +1,11 @@
+PER	John
+NOW	is
+REL	in
+DEF	the
+CON	habit
+AND	of
+EXS	staying
+IST	up
+REL	until
+CLO	midnight
+NIL	.

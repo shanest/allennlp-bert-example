@@ -1,0 +1,10 @@
+DIS	An
+CON	axe
+REL	in
+DEF	the
+CON	house
+NOW	keeps
+DEF	the
+ROL	carpenter
+IST	away
+NIL	.

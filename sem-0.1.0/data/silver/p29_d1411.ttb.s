@@ -1,0 +1,11 @@
+REL	In
+GPE	Japan
+EQU	,
+DEF	the
+IST	new
+CON	school
+CON	year
+ENS	begins
+REL	in
+MOY	April
+NIL	.

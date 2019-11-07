@@ -1,0 +1,17 @@
+PRO	I
+NOW	'm
+EXS	flabbergasted
+SUB	to
+EXS	hear
+SUB	that
+HAS	my
+TOP	best
+CON	friend
+EPS	died
+IST	last
+CON	night
+REL	in
+DIS	a
+CON	car
+CON	accident
+NIL	.

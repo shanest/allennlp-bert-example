@@ -1,0 +1,17 @@
+DIS	Some
+CON	years
+PST	ago
+NIL	,
+EXS	learning
+SUB	that
+QUC	one
+PST	had
+CON	tuberculosis
+EPS	amounted
+SUB	to
+EXS	hearing
+DIS	a
+CON	sentence
+AND	of
+CON	death
+NIL	.

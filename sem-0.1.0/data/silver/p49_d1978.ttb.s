@@ -1,0 +1,10 @@
+AND	Could
+PRO	you
+EPS	put
+PRX	this
+CON	report
+REL	into
+GPO	Italian
+REL	for
+PRO	me
+QUE	?

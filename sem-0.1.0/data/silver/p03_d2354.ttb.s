@@ -1,0 +1,15 @@
+PRO	He
+HAS	's
+DIS	an
+IST	old
+CON	windbag
+NIL	,
+PRO	you
+POS	ca
+NOT	n't
+EXS	believe
+DIS	a
+CON	word
+PRO	he
+ENS	says
+NIL	.

@@ -1,0 +1,11 @@
+DIS	An
+CON	ostrich
+CON	egg
+ENS	weighs
+AND	as
+QUV	much
+AND	as
+QUC	twenty-four
+CON	chicken
+CON	eggs
+NIL	.

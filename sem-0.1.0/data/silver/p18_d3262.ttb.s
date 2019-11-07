@@ -1,0 +1,10 @@
+PRO	He
+EPS	stuck
+DEF	the
+CON	notice
+REL	on
+DEF	the
+CON	board
+REL	with
+CON	tacks
+NIL	.

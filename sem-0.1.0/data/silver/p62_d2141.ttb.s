@@ -1,0 +1,9 @@
+PER	Tom
+PST	was
+DEF	the
+QUC	one
+AND	who
+EPS	wrote
+PRX	this
+CON	story
+NIL	.

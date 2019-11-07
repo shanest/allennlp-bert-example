@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+UNK	necessary
+SUB	that
+AND	everybody
+EXS	observe
+PRX	these
+CON	rules
+NIL	.

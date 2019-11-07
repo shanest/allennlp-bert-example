@@ -1,0 +1,11 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+QUE	what
+PRO	I
+PST	was
+EXS	supposed
+SUB	to
+EXS	do
+NIL	.

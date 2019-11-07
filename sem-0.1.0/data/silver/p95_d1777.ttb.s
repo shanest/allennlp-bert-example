@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+NOT	n't
+SUB	that
+QUC	much
+MOR	younger
+MOR	than
+PER	Mary
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+ENS	think
+PRO	I
+FUT	'll
+EXS	get
+IST	back
+REL	to
+CON	work
+NIL	.

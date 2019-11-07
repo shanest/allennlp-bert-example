@@ -1,0 +1,13 @@
+CON	Step
+IST	away
+REL	from
+DEF	the
+CON	car
+COO	and
+EPS	put
+HAS	your
+CON	hands
+REL	on
+HAS	your
+CON	head
+NIL	.

@@ -1,0 +1,10 @@
+QUE	How
+QUV	many
+CON	bus
+CON	stations
+NOW	are
+IST	there
+REL	in
+PRX	this
+CON	city
+QUE	?

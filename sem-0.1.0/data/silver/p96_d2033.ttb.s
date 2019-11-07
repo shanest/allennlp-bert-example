@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+INT	very
+EXS	angry
+COO	and
+PRO	I
+PST	was
+NIL	,
+ALT	too
+NIL	.

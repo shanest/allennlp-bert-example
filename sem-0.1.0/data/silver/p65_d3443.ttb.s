@@ -1,0 +1,12 @@
+PER	Tom
+EPS	wondered
+QUE	how
+IST	long
+PRO	he
+FUT	'd
+NEC	have
+SUB	to
+EXS	wait
+REL	for
+PER	Mary
+NIL	.

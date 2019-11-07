@@ -1,0 +1,11 @@
+PRO	He
+HAS	's
+QUC	one
+AND	of
+DEF	the
+TOP	best
+PRO	I
+NOW	've
+IST	ever
+EXS	seen
+NIL	.

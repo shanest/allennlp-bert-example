@@ -1,0 +1,11 @@
+DEF	The
+CON	climate
+PRX	here
+NOW	is
+INT	very
+IST	similar
+REL	to
+SUB	that
+AND	of
+GPE	England
+NIL	.

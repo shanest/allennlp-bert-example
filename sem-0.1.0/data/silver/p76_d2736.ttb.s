@@ -1,0 +1,9 @@
+PRO	I
+EPS	called
+HAS	my
+CON	mother
+IST	up
+REL	from
+DEF	the
+CON	station
+NIL	.

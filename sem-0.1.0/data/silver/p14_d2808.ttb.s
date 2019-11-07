@@ -1,0 +1,12 @@
+AND	As
+DIS	a
+CON	matter
+AND	of
+CON	fact
+NIL	,
+PRO	I
+NOW	've
+NOT	never
+EXS	seen
+PRO	it
+NIL	.

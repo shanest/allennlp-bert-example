@@ -1,0 +1,11 @@
+ROL	Dr.
+PER	Yukawa
+EPS	played
+DIS	an
+IST	important
+CON	part
+REL	in
+DEF	the
+IST	scientific
+CON	study
+NIL	.

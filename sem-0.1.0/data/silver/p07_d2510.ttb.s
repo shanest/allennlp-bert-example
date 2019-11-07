@@ -1,0 +1,11 @@
+EXS	Let
+PRO	's
+ENS	try
+SUB	to
+EXS	find
+DIS	a
+CON	way
+SUB	to
+EXS	help
+PER	Tom
+NIL	.

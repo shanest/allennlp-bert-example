@@ -1,0 +1,9 @@
+REL	In
+DEF	the
+CON	summer
+NIL	,
+PRO	it
+NOW	's
+INT	very
+EXS	humid
+NIL	.

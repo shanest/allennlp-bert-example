@@ -1,0 +1,9 @@
+AND	Why
+NOW	does
+NOT	n't
+PER	Tom
+ENS	want
+SUB	to
+EXS	help
+PER	Mary
+QUE	?

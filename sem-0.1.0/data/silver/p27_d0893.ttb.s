@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+NOT	not
+EQU	exactly
+QUE	what
+PRO	I
+PST	had
+REL	in
+CON	mind
+NIL	.

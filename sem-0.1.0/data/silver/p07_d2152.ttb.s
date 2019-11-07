@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+NOT	not
+EXS	used
+SUB	to
+EXG	making
+CON	speeches
+REL	in
+CON	public
+NIL	.

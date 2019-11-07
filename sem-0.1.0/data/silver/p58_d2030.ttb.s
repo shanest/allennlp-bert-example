@@ -1,0 +1,10 @@
+DEF	The
+CON	hall
+ENS	allows
+CON	children
+REL	in
+XCL	only
+REL	on
+DST	that
+CON	day
+NIL	.

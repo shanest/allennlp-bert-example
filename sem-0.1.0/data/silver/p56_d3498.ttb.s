@@ -1,0 +1,13 @@
+PRO	He
+EPS	came
+IST	up
+REL	with
+QUV	many
+CON	ideas
+EQU	,
+CON	none
+AND	of
+AND	which
+PST	were
+EXS	good
+NIL	.

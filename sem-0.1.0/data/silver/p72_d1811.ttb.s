@@ -1,0 +1,12 @@
+DEF	The
+IST	old
+CON	man
+PST	had
+PFT	been
+EXS	making
+IST	white
+CON	lightning
+REL	for
+QUC	50
+CON	years
+NIL	.

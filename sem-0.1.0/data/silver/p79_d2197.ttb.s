@@ -1,0 +1,10 @@
+PRO	I
+EPS	knocked
+NIL	,
+BUT	but
+NOT	no
+CON	one
+EPS	opened
+DEF	the
+CON	door
+NIL	.

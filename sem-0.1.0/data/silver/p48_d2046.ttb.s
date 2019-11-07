@@ -1,0 +1,14 @@
+NOW	Do
+NOT	n't
+EXS	look
+REL	to
+PRO	me
+REL	for
+AND	any
+EXS	help
+NOT	except
+REL	in
+CON	case
+AND	of
+CON	emergency
+NIL	.

@@ -1,0 +1,9 @@
+PRO	You
+NOW	have
+DEF	the
+CON	right
+SUB	to
+EXS	consult
+DIS	a
+ROL	lawyer
+NIL	.

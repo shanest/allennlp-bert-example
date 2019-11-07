@@ -1,0 +1,11 @@
+DEF	The
+CON	house
+PST	had
+HAS	its
+CON	roof
+EPS	ripped
+REL	off
+REL	by
+DEF	the
+CON	storm
+NIL	.

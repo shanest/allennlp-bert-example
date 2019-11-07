@@ -1,0 +1,14 @@
+PER	Tom
+EPS	saw
+QUC	two
+CON	men
+EXS	lying
+REL	on
+DEF	the
+CON	floor
+NIL	,
+EXS	bleeding
+REL	from
+CON	gunshot
+CON	wounds
+NIL	.

@@ -1,0 +1,16 @@
+IMP	If
+PER	Tom
+PST	had
+EXS	had
+IST	enough
+CON	money
+NIL	,
+PRO	he
+FUT	would
+EXT	have
+EXS	gone
+REL	to
+GEO	Boston
+REL	with
+PER	Mary
+NIL	.

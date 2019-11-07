@@ -1,0 +1,9 @@
+PRO	We
+NOW	have
+QUV	many
+CON	friends
+SUB	to
+EXS	visit
+REL	in
+GPE	Tokyo
+NIL	.

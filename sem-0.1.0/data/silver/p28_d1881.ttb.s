@@ -1,0 +1,10 @@
+PER	Tom
+EPS	showed
+PER	Mary
+QUE	how
+SUB	to
+EXS	use
+DEF	the
+CON	washing
+CON	machine
+NIL	.

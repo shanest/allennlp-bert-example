@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	used
+SUB	to
+EXG	staying
+EXS	awake
+IST	late
+REL	into
+DEF	the
+CON	night
+NIL	.

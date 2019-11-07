@@ -1,0 +1,17 @@
+SUB	Once
+PRO	you
+NOW	've
+EXS	formed
+DIS	a
+IST	bad
+CON	habit
+NIL	,
+PRO	you
+POS	ca
+NOT	n't
+EXS	get
+EXS	rid
+AND	of
+PRO	it
+IST	easily
+NIL	.

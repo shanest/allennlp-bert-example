@@ -1,0 +1,10 @@
+HAS	My
+CON	room
+NOW	is
+QUC	three
+CON	times
+AND	as
+IST	large
+AND	as
+HAS	yours
+NIL	.

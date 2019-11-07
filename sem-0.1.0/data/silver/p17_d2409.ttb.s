@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+QUE	why
+PER	Tom
+NOW	is
+EXS	absent
+REL	from
+CON	school
+QUE	?

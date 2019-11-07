@@ -1,0 +1,10 @@
+PRO	I
+EPS	got
+DIS	a
+IST	new
+CON	hat
+REL	at
+DEF	the
+CON	department
+CON	store
+NIL	.

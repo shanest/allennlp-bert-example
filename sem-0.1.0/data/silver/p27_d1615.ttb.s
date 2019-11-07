@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	living
+REL	in
+GPE	Boston
+REL	since
+YOC	2013
+NIL	.

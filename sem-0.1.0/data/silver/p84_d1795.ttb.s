@@ -1,0 +1,14 @@
+PRO	He
+NOW	is
+IST	apt
+SUB	to
+EXS	get
+EXS	angry
+IMP	if
+PRO	you
+NOW	ask
+DIS	a
+CON	lot
+AND	of
+CON	questions
+NIL	.

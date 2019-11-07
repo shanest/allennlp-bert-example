@@ -1,0 +1,14 @@
+PRO	I
+FUT	would
+EXS	like
+NIL	to
+EXS	learn
+NIL	to
+EXS	play
+DEF	the
+CON	piano
+EQU	,
+CON	guitar
+DIS	or
+CON	flute
+NIL	.

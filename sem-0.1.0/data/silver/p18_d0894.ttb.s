@@ -1,0 +1,10 @@
+PER	Wo
+NOT	n't
+DIS	somebody
+IST	please
+EXS	think
+AND	of
+DEF	the
+CON	children
+QUE	?
+NIL	!

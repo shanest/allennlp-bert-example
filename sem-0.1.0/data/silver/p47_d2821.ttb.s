@@ -1,0 +1,12 @@
+REL	In
+YOC	1900
+NIL	,
+PRO	he
+EPS	left
+GPE	England
+NIL	,
+COO	and
+PRO	he
+IST	never
+EPS	returned
+NIL	.

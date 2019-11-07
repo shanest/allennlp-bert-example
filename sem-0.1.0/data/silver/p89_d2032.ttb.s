@@ -1,0 +1,13 @@
+AND	Because
+AND	of
+PRO	you
+NIL	,
+PRO	I
+NOW	'm
+EXS	having
+CON	problems
+REL	with
+HAS	my
+CON	blood
+CON	pressure
+NIL	.

@@ -1,0 +1,12 @@
+APX	Roughly
+CON	half
+AND	of
+GEO	America
+HAS	's
+CON	fruits
+AND	and
+CON	vegetables
+EXS	come
+REL	from
+GEO	California
+NIL	.

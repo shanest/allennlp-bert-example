@@ -1,0 +1,10 @@
+DEF	The
+CON	Rhine
+NOW	is
+DEF	the
+CON	boundary
+REL	between
+GPE	France
+AND	and
+GPE	Germany
+NIL	.

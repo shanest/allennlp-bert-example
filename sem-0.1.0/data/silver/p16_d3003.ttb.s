@@ -1,0 +1,11 @@
+DEF	The
+CON	idea
+AND	of
+EXG	seeing
+HAS	my
+ROL	mother
+NOW	thrills
+PRO	me
+INT	very
+QUV	much
+NIL	.

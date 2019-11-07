@@ -1,0 +1,10 @@
+PRO	I
+EPS	heard
+DIS	a
+IST	strange
+CON	sound
+EXS	coming
+REL	from
+DEF	the
+CON	garage
+NIL	.

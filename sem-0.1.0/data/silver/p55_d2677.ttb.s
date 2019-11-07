@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+IST	next
+SUB	to
+EXS	impossible
+SUB	to
+EXS	finish
+PRO	it
+REL	in
+DIS	a
+CON	day
+NIL	.

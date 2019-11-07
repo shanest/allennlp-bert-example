@@ -1,0 +1,12 @@
+PER	Tom
+EQU	,
+PER	Mary
+AND	and
+PER	John
+EPS	shared
+DEF	the
+CON	cost
+AND	of
+DEF	the
+CON	party
+NIL	.

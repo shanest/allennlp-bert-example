@@ -1,0 +1,11 @@
+PRO	He
+FUT	would
+NOT	n't
+EXS	dare
+EXS	show
+HAS	his
+CON	face
+AND	around
+PRX	here
+ALT	again
+NIL	.

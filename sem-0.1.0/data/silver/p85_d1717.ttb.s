@@ -1,0 +1,9 @@
+PRO	She
+EPS	shut
+DIS	an
+CON	umbrella
+COO	and
+EPS	began
+SUB	to
+EXS	run
+NIL	.

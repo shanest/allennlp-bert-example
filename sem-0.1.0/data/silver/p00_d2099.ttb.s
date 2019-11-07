@@ -1,0 +1,16 @@
+DEF	The
+IST	next
+CON	morning
+PRO	I
+EPS	woke
+NIL	to
+EXS	see
+DEF	the
+CON	fruit
+CON	trees
+REL	in
+CON	bloom
+AND	underneath
+HAS	my
+CON	window
+NIL	.

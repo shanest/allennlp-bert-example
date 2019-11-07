@@ -1,0 +1,11 @@
+PRO	I
+IST	just
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	do
+SUB	that
+EXS	right
+NOW	now
+NIL	.

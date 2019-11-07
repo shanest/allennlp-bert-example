@@ -1,0 +1,12 @@
+PRO	I
+EPS	saw
+PER	Tom
+AND	here
+REL	in
+DEF	the
+CON	park
+AND	just
+DIS	a
+CON	while
+PST	ago
+NIL	.

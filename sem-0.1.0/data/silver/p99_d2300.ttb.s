@@ -1,0 +1,12 @@
+PRO	He
+NOW	is
+EXS	considered
+QUC	one
+AND	of
+DEF	the
+TOP	greatest
+ROL	scientists
+REL	in
+HAS	our
+CON	country
+NIL	.

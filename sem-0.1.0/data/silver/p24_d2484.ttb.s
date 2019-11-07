@@ -1,0 +1,11 @@
+PRO	You
+PST	were
+CON	friends
+REL	with
+DEF	both
+PER	Tom
+AND	and
+PER	Mary
+NIL	,
+CON	right
+QUE	?

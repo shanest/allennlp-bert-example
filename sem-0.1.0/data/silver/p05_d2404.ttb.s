@@ -1,0 +1,13 @@
+PER	Tom
+NOW	is
+IST	likely
+SUB	to
+EXS	tell
+PRO	you
+DIS	some
+CON	things
+AND	that
+NOW	are
+NOT	n't
+EXS	true
+NIL	.

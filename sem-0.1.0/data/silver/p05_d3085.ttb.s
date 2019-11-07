@@ -1,0 +1,14 @@
+HAS	My
+CON	aunt
+NIL	,
+AND	who
+ENS	lives
+REL	in
+GPE	Tokyo
+NIL	,
+EPS	sent
+PRO	me
+DIS	a
+IST	beautiful
+CON	blouse
+NIL	.

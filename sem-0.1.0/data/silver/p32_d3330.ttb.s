@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	played
+REL	with
+PER	Tom
+HAS	's
+CON	dog
+QUE	?

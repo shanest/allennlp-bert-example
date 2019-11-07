@@ -1,0 +1,10 @@
+PRO	They
+NOW	are
+EXS	going
+SUB	to
+EXS	meet
+REL	at
+DEF	the
+CON	hotel
+FUT	tomorrow
+NIL	.

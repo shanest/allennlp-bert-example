@@ -1,0 +1,9 @@
+PRO	You
+NEC	ought
+SUB	to
+EXT	have
+EXS	told
+PRO	me
+SUB	that
+REL	before
+NIL	.

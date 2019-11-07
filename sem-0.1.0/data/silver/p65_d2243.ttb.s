@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	do
+PRO	it
+NOT	without
+DIS	somebody
+HAS	's
+CON	help
+NIL	.

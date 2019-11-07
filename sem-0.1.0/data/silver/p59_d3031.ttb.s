@@ -1,0 +1,11 @@
+PER	Tom
+POS	can
+EXS	speak
+GPO	French
+IST	almost
+AND	as
+IST	well
+SUB	as
+PER	Mary
+POS	can
+NIL	.

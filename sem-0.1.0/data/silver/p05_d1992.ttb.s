@@ -1,0 +1,9 @@
+PRO	He
+NOW	's
+EPS	changed
+DIS	a
+CON	lot
+REL	in
+HAS	his
+CON	looks
+NIL	.

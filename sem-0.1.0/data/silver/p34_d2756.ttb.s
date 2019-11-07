@@ -1,0 +1,10 @@
+PER	Tom
+PST	borrowed
+DIS	a
+IST	large
+CON	amount
+AND	of
+CON	money
+REL	from
+PER	Mary
+NIL	.

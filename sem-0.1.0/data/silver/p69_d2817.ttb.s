@@ -1,0 +1,9 @@
+PRO	I
+PST	was
+EXS	born
+REL	on
+MOY	January
+DOM	2
+REL	in
+YOC	1968
+NIL	.

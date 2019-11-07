@@ -1,0 +1,9 @@
+EXS	Come
+REL	on
+NIL	,
+NOW	do
+NOT	n't
+EXS	be
+DIS	a
+CON	coward
+NIL	!

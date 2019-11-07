@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	learning
+GPO	English
+PRX	these
+QUC	four
+CON	years
+NIL	.

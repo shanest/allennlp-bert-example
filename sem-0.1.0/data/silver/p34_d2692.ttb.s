@@ -1,0 +1,12 @@
+IST	Please
+EXS	let
+PRO	me
+EXS	know
+REL	by
+DOW	Wednesday
+IMP	if
+PRO	you
+POS	ca
+NOT	n't
+EXS	attend
+NIL	.

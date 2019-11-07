@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+IST	sure
+PRO	I
+EPS	saw
+PRO	her
+QUC	two
+CON	years
+PST	ago
+NIL	.

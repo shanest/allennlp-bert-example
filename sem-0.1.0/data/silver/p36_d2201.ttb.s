@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	looking
+IST	forward
+REL	to
+DEF	the
+CON	return
+AND	of
+CON	spring
+NIL	.

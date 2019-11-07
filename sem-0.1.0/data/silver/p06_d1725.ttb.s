@@ -1,0 +1,11 @@
+IMP	If
+PRO	I
+NOW	remember
+IST	correctly
+NIL	,
+DST	that
+HAS	's
+QUE	what
+PRO	you
+EPS	said
+NIL	.

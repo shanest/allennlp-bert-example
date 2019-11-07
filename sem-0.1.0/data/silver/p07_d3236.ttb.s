@@ -1,0 +1,10 @@
+PER	Tom
+ENS	wants
+SUB	to
+EXS	know
+SUB	when
+PER	Mary
+FUT	will
+EXS	go
+CON	shopping
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	make
+DIS	a
+CON	decision
+AND	about
+SUB	that
+EXS	right
+NOW	now
+NIL	.

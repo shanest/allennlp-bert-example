@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+DEF	the
+CON	garden
+PRO	I
+EPS	laid
+IST	out
+IST	last
+CON	year
+NIL	.

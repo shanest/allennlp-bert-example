@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+IST	proud
+AND	of
+NOT	never
+EXT	having
+PFT	been
+AND	late
+REL	for
+CON	school
+NIL	.

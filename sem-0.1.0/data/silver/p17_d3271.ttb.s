@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+DIS	something
+PRO	I
+EPS	wished
+PRO	I
+PST	had
+NOT	n't
+EXS	seen
+NIL	.

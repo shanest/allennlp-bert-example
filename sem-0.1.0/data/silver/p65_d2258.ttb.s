@@ -1,0 +1,11 @@
+PRO	I
+NOW	think
+GPE	France
+NOW	is
+DEF	the
+INT	most
+IST	beautiful
+CON	country
+REL	in
+GEO	Europe
+NIL	.

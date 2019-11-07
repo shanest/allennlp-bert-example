@@ -1,0 +1,10 @@
+PRO	He
+PST	was
+IST	afraid
+SUB	that
+PRO	he
+POS	might
+EXS	hurt
+HAS	her
+CON	feelings
+NIL	.

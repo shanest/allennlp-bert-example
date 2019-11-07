@@ -1,0 +1,13 @@
+DEF	The
+IST	first
+CON	immigrants
+REL	in
+GPO	American
+CON	history
+EPS	came
+REL	from
+GPE	England
+AND	and
+DEF	the
+GEO	Netherlands
+NIL	.

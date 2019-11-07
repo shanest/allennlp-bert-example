@@ -1,0 +1,10 @@
+CON	Titan
+NOW	is
+DEF	the
+CON	fifteenth
+AND	of
+NTH	Saturn
+HAS	's
+IST	known
+CON	satellites
+NIL	.

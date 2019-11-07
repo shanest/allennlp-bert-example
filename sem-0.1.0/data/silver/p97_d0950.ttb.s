@@ -1,0 +1,14 @@
+PRO	I
+NOW	've
+EXS	heard
+AND	of
+PRO	him
+NIL	,
+BUT	but
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+PRO	him
+IST	personally
+NIL	.

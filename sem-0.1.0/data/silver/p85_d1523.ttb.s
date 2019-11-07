@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	want
+DEF	the
+IST	same
+CON	thing
+SUB	to
+EXS	happen
+ALT	again
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+CON	man
+PRO	you
+EPS	met
+REL	at
+DEF	the
+CON	station
+NOW	is
+HAS	my
+CON	father
+NIL	.

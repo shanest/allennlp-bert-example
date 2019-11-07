@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	read
+DIS	a
+CON	book
+EXS	written
+REL	about
+GPE	Japan
+QUE	?

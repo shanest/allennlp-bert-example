@@ -1,0 +1,10 @@
+PER	Tom
+HAS	's
+PST	had
+HAS	his
+IST	fair
+CON	share
+AND	of
+CON	problems
+IST	lately
+NIL	.

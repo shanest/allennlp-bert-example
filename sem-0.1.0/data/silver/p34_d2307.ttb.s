@@ -1,0 +1,12 @@
+PRO	He
+EPS	stood
+PRO	me
+IST	up
+COO	;
+PRO	I
+EPS	waited
+AND	all
+CON	evening
+REL	for
+PRO	him
+NIL	!

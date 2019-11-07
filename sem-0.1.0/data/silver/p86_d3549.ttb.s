@@ -1,0 +1,12 @@
+PRO	I
+EPS	became
+INT	very
+IST	nervous
+SUB	when
+PRO	I
+POS	could
+NOT	n't
+EXS	locate
+HAS	my
+CON	passport
+NIL	.

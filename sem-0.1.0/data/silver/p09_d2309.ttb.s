@@ -1,0 +1,10 @@
+QUE	How
+SUB	about
+EXG	eating
+IST	out
+PRX	this
+CON	morning
+REL	for
+DIS	a
+CON	change
+QUE	?

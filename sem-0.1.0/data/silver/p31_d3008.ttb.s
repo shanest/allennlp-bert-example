@@ -1,0 +1,10 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PRO	I
+EPS	locked
+EMP	myself
+IST	out
+ALT	again
+NIL	.

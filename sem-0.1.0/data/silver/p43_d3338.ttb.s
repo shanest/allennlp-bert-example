@@ -1,0 +1,10 @@
+EXS	Did
+PRO	you
+ENS	want
+SUB	to
+EXS	invite
+PER	Mary
+NIL	,
+AND	as
+IST	well
+QUE	?

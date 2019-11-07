@@ -1,0 +1,11 @@
+PRO	I
+EPS	used
+PRO	it
+SUB	when
+PRO	I
+PST	was
+REL	in
+GPE	China
+AND	last
+CON	summer
+NIL	.

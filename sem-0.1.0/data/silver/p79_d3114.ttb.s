@@ -1,0 +1,10 @@
+HAS	My
+MOR	younger
+CON	brother
+ENS	swims
+AND	every
+CON	day
+REL	in
+DEF	the
+CON	summer
+NIL	.

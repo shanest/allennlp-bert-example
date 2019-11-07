@@ -1,0 +1,10 @@
+PRO	I
+PST	felt
+INT	very
+EPS	relieved
+SUB	when
+PRO	I
+EPS	heard
+DEF	the
+CON	news
+NIL	.

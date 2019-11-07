@@ -1,0 +1,13 @@
+NOW	Are
+UNK	there
+QUV	many
+CON	people
+REL	in
+GEO	Europe
+AND	who
+EXS	believe
+REL	in
+CON	ghosts
+AND	even
+NOW	now
+QUE	?

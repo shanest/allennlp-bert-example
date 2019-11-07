@@ -1,0 +1,17 @@
+UNK	There
+HAS	's
+NOT	no
+CON	sense
+EXG	acting
+AND	all
+CON	triumphant
+AND	like
+DIS	a
+IST	conquering
+CON	hero
+AND	over
+AND	such
+DIS	a
+IST	minor
+CON	thing
+NIL	.

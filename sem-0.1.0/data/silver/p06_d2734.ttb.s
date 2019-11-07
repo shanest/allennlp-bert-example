@@ -1,0 +1,10 @@
+PRO	I
+ENS	believe
+SUB	that
+DEF	the
+CON	world
+NOW	has
+QUV	many
+IST	serious
+CON	problems
+NIL	.

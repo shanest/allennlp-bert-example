@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	I
+NEC	should
+EXS	be
+EXS	sleeping
+NOW	now
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NEC	had
+SUB	to
+EXS	leave
+GEO	Warsaw
+AND	and
+EXS	make
+HAS	my
+CON	living
+DIS	somewhere
+AND	else
+NIL	.

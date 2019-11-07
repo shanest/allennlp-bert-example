@@ -1,0 +1,11 @@
+NOT	Without
+CON	music
+NIL	,
+DEF	the
+CON	world
+ENS	is
+DIS	a
+CON	valley
+REL	of
+CON	tears
+NIL	.

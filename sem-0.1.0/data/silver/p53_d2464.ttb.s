@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+DEF	the
+XCL	only
+QUC	one
+AND	who
+POS	can
+EXS	help
+PER	Tom
+IST	right
+NOW	now
+NIL	.

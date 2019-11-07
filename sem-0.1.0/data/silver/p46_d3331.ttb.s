@@ -1,0 +1,17 @@
+PRO	I
+EPS	saw
+PRO	her
+REL	for
+DIS	a
+CON	moment
+NIL	,
+BUT	but
+IST	then
+EPS	lost
+CON	sight
+AND	of
+HAS	her
+REL	in
+DEF	the
+CON	crowd
+NIL	.

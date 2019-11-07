@@ -1,0 +1,12 @@
+DEF	The
+ORG	Golden
+CON	Palm
+NOW	has
+PFT	been
+EXS	awarded
+REL	at
+DEF	the
+ORG	Cannes
+AND	film
+ORG	Festival
+NIL	.

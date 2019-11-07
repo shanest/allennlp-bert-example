@@ -1,0 +1,14 @@
+DST	That
+CON	child
+NOW	is
+EXS	sick
+COO	and
+NOW	has
+EXS	been
+REL	in
+DEF	the
+CON	hospital
+REL	since
+IST	last
+DOW	Sunday
+NIL	.

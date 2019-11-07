@@ -1,0 +1,17 @@
+REL	In
+CON	countries
+AND	such
+AND	as
+GPE	Norway
+AND	and
+GPE	Finland
+NIL	,
+PRO	they
+NOW	have
+CON	lots
+AND	of
+CON	snow
+REL	in
+DEF	the
+CON	winter
+NIL	.

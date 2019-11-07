@@ -1,0 +1,9 @@
+DEF	Which
+ROL	politician
+EPS	decided
+SUB	to
+EXS	intervene
+IST	militarily
+REL	in
+GEO	Chechnya
+QUE	?

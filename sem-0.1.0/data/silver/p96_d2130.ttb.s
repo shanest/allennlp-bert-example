@@ -1,0 +1,10 @@
+AND	Why
+NOW	do
+NOT	n't
+PRO	you
+EXS	wait
+SUB	until
+PER	Tom
+NOW	gets
+PRX	here
+QUE	?

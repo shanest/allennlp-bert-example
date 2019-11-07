@@ -1,0 +1,10 @@
+PRO	We
+NOW	hope
+REL	for
+DEF	the
+TOP	best
+AND	but
+NOW	expect
+DEF	the
+BOT	worst
+NIL	.

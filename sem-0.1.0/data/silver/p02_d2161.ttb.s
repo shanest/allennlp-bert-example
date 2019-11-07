@@ -1,0 +1,10 @@
+PRO	I
+EPS	got
+PRX	this
+CON	job
+REL	with
+HAS	my
+ROL	teacher
+HAS	's
+CON	help
+NIL	.

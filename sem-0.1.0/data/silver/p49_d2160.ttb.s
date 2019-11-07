@@ -1,0 +1,12 @@
+DEF	The
+CON	government
+IST	official
+EPS	spoke
+REL	to
+DEF	the
+CON	reporter
+REL	on
+CON	condition
+AND	of
+CON	anonymity
+NIL	.

@@ -1,0 +1,15 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	help
+EXG	feeling
+SUB	that
+PER	Tom
+NOW	has
+NOT	n't
+EXS	told
+PRO	me
+DEF	the
+IST	whole
+CON	truth
+NIL	.

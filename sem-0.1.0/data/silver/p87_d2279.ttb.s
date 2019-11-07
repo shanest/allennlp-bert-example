@@ -1,0 +1,9 @@
+PRX	This
+NOW	is
+AND	all
+PRO	I
+NOW	'm
+EXS	taking
+REL	with
+PRO	me
+NIL	.

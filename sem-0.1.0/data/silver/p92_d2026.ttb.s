@@ -1,0 +1,13 @@
+PRO	I
+NOW	've
+EXS	married
+COO	and
+PRO	I
+NOW	realize
+NIL	,
+SUB	that
+HAS	my
+CON	childhood
+ENS	ends
+NOW	now
+NIL	.

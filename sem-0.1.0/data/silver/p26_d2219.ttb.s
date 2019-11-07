@@ -1,0 +1,11 @@
+PRO	They
+NOW	're
+AND	all
+EXS	dead
+NIL	!
+AND	All
+EXS	dead
+NIL	!
+AND	All
+EXS	dead
+NIL	!

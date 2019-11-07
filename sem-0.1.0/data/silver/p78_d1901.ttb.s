@@ -1,0 +1,9 @@
+ITJ	Oh
+IST	yes
+NIL	,
+PRO	we
+ENS	love
+DEF	the
+CON	computer
+CON	voice
+NIL	!

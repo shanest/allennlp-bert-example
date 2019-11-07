@@ -1,0 +1,9 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	notice
+QUE	how
+PER	Mary
+PST	was
+EXS	dressed
+NIL	.

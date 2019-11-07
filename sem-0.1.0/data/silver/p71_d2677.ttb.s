@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	sure
+PRO	it
+PST	was
+NOT	n't
+PRO	me
+QUE	who
+EPS	broke
+PRX	this
+NIL	.

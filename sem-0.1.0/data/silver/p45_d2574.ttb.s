@@ -1,0 +1,11 @@
+PRX	This
+CON	vase
+NOW	has
+PFT	been
+EXS	sitting
+REL	on
+DEF	the
+CON	shelf
+REL	for
+CON	years
+NIL	.

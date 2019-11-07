@@ -1,0 +1,10 @@
+DEF	The
+CON	factory
+NOW	has
+PFT	been
+EXS	lying
+EXS	idle
+REL	for
+DIS	a
+CON	year
+NIL	.

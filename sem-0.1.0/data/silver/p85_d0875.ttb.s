@@ -1,0 +1,11 @@
+PRO	We
+PST	were
+IST	able
+SUB	to
+EXS	see
+DEF	the
+CON	sunset
+REL	from
+HAS	our
+CON	window
+NIL	.

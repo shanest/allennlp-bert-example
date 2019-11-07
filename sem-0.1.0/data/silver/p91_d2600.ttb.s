@@ -1,0 +1,12 @@
+NOW	Do
+PRO	you
+EXS	know
+QUE	what
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	do
+QUE	?
+NOT	Nothing
+NIL	.

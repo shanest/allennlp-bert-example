@@ -1,0 +1,9 @@
+PER	Tom
+EPS	thought
+SUB	that
+PER	Mary
+FUT	would
+EXS	like
+GPO	Indonesian
+CON	food
+NIL	.

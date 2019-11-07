@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+IST	sweet
+AND	and
+IST	noble
+NIL	to
+EXS	die
+REL	for
+QUC	one
+HAS	's
+CON	country
+NIL	.

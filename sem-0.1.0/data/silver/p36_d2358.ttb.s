@@ -1,0 +1,10 @@
+PER	Mary
+EPS	cut
+REF	herself
+SUB	while
+PRO	she
+PST	was
+EXG	chopping
+IST	up
+CON	onions
+NIL	.

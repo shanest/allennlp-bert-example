@@ -1,0 +1,16 @@
+PRO	I
+EPS	asked
+QUV	many
+CON	persons
+AND	about
+DEF	the
+CON	store
+NIL	,
+BUT	but
+NOT	no
+CON	one
+NEC	had
+EXS	heard
+AND	of
+PRO	it
+NIL	.

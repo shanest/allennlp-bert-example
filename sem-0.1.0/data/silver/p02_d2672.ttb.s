@@ -1,0 +1,14 @@
+NIL	There
+NOW	are
+XCL	only
+DIS	a
+IST	few
+CON	days
+EPS	left
+REL	before
+DEF	the
+CON	end
+AND	of
+DEF	the
+CON	year
+NIL	.

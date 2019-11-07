@@ -1,0 +1,9 @@
+PRO	He
+EPS	kissed
+PRO	her
+NIL	,
+REL	with
+HAS	his
+CON	eyes
+EPS	closed
+NIL	.

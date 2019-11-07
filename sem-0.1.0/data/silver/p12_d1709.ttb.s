@@ -1,0 +1,10 @@
+PER	Tom
+EPS	took
+ALT	another
+NOW	sip
+REL	from
+HAS	his
+CON	glass
+AND	of
+CON	beer
+NIL	.

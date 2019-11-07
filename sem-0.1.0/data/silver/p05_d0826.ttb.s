@@ -1,0 +1,12 @@
+NOW	Do
+NOT	n't
+EXS	forget
+SUB	to
+EXS	turn
+REL	off
+DEF	the
+CON	gas
+SUB	before
+EXG	going
+IST	out
+NIL	.

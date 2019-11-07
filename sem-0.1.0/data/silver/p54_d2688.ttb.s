@@ -1,0 +1,10 @@
+PER	Tom
+EPS	stopped
+DEF	the
+CON	car
+COO	and
+EPS	turned
+REL	off
+DEF	the
+CON	engine
+NIL	.

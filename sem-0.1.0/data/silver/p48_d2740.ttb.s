@@ -1,0 +1,9 @@
+PER	Tom
+ENS	wants
+SUB	to
+EXS	buy
+DIS	a
+CON	necklace
+REL	for
+PER	Mary
+NIL	.

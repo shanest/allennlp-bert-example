@@ -1,0 +1,13 @@
+PRO	He
+EPS	killed
+DEF	the
+CON	girl
+REL	in
+IST	cold
+CON	blood
+AND	just
+SUB	to
+EXS	get
+DEF	the
+CON	money
+NIL	.

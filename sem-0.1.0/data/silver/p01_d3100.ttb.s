@@ -1,0 +1,15 @@
+DIS	Some
+CON	people
+ENS	think
+SUB	that
+DEF	the
+CON	works
+EXS	attributed
+REL	to
+PER	Shakespeare
+PST	were
+EXS	written
+REL	by
+DIS	somebody
+AND	else
+NIL	.

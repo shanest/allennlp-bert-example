@@ -1,0 +1,11 @@
+PRO	He
+IST	always
+ENS	forgets
+SUB	to
+EXS	say
+GRE	goodbye
+REL	to
+CON	people
+SUB	when
+EXS	leaving
+NIL	.

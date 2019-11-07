@@ -1,0 +1,11 @@
+PER	Tom
+EPS	thought
+SUB	that
+PER	Mary
+PST	was
+IST	probably
+IST	still
+DIS	somewhere
+REL	in
+GPE	Boston
+NIL	.

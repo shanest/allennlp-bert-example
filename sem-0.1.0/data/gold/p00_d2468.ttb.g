@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+EXT	bought
+DIS	a
+CON	house
+REL	which
+ENS	has
+QUC	six
+CON	rooms
+NIL	.

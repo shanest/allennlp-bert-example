@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	dangerous
+SUB	to
+EXS	jump
+REL	into
+DIS	a
+EXG	moving
+CON	train
+NIL	.

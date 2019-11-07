@@ -1,0 +1,15 @@
+GRE	Hi
+NIL	,
+POS	could
+PRO	you
+EXS	move
+QUE	?
+PRO	We
+NOW	're
+IST	about
+SUB	to
+EXS	have
+DIS	a
+CON	meeting
+PRX	here
+NIL	.

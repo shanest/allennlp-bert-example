@@ -1,0 +1,14 @@
+PER	Tom
+EPS	used
+SUB	to
+EXS	think
+PER	Mary
+PST	was
+DEF	the
+INT	most
+IST	beautiful
+CON	woman
+REL	in
+DEF	the
+CON	world
+NIL	.

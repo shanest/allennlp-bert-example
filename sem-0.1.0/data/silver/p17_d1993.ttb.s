@@ -1,0 +1,11 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	thank
+PRO	you
+REL	for
+AND	everything
+PRO	you
+NOW	've
+EXS	done
+NIL	.

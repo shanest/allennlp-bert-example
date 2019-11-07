@@ -1,0 +1,9 @@
+FUT	Will
+PRO	you
+EXS	explain
+DEF	the
+IST	last
+CON	part
+REL	in
+CON	detail
+QUE	?

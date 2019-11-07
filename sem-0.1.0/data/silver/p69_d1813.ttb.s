@@ -1,0 +1,11 @@
+PRO	I
+NOW	think
+PRO	you
+NOW	're
+EXS	trying
+SUB	to
+EXS	take
+CON	advantage
+AND	of
+PRO	me
+NIL	.

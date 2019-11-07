@@ -1,0 +1,17 @@
+PRO	I
+NOW	have
+PFT	been
+EXG	typing
+PRX	this
+CON	report
+REL	since
+PRX	this
+CON	morning
+NIL	,
+BUT	but
+PRO	I
+NOW	'm
+XCL	only
+AND	halfway
+AND	through
+NIL	.

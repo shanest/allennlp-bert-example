@@ -1,0 +1,11 @@
+DEF	The
+GPO	Iranian
+IST	nuclear
+CON	program
+NOW	has
+IST	just
+PFT	been
+EXS	attacked
+REL	by
+CON	malware
+NIL	.

@@ -1,0 +1,9 @@
+AND	Even
+DEF	the
+INT	most
+IST	beautiful
+EPS	rose
+FUT	will
+FUT	someday
+CON	wilt
+NIL	.

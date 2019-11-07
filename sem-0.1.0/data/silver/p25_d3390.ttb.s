@@ -1,0 +1,17 @@
+NOW	Now
+SUB	that
+PRO	he
+HAS	's
+CON	retired
+NIL	,
+CON	Yves
+POS	can
+EXS	look
+IST	forward
+REL	to
+DIS	a
+EXS	contented
+AND	and
+CON	placid
+CON	life
+NIL	.

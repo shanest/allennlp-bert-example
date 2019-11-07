@@ -1,0 +1,12 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PRO	you
+NOW	've
+NOT	never
+EXS	heard
+AND	of
+DIS	a
+CON	kumquat
+NIL	!

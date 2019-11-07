@@ -1,0 +1,11 @@
+EXS	Let
+PRO	us
+EXS	know
+IMP	if
+DIS	anyone
+AND	else
+ENS	comes
+REL	into
+DEF	the
+CON	theater
+NIL	.

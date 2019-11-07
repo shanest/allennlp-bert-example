@@ -1,0 +1,12 @@
+NOT	No
+CON	one
+REL	in
+DEF	the
+CON	class
+ENS	runs
+SUB	as
+EXS	fast
+SUB	as
+PRO	he
+NOW	does
+NIL	.

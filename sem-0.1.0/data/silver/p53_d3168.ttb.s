@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+IST	ever
+ENS	want
+SUB	to
+EXS	do
+PRX	this
+ALT	again
+NIL	.

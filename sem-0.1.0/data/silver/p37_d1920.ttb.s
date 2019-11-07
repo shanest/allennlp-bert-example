@@ -1,0 +1,10 @@
+HAS	My
+ROL	grandfather
+EXS	founded
+AND	and
+HAS	my
+CON	parents
+EPS	developed
+PRX	this
+CON	company
+NIL	.

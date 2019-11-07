@@ -1,0 +1,10 @@
+NIL	There
+HAS	's
+DIS	something
+IST	important
+PRO	I
+ENS	need
+NIL	to
+EXS	tell
+PRO	her
+NIL	.

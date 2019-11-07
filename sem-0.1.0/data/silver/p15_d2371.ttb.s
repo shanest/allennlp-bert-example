@@ -1,0 +1,14 @@
+DEF	The
+IST	new
+CON	season
+HAS	's
+ORG	T.V.
+CON	programs
+NOW	are
+AND	as
+QUV	much
+IST	old
+CON	hat
+AND	as
+IST	ever
+NIL	.

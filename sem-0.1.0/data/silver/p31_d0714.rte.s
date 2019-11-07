@@ -1,0 +1,9 @@
+DEF	The
+CON	assassination
+AND	of
+PER	Rabin
+EPS	took
+CON	place
+REL	in
+YOC	1995
+NIL	.

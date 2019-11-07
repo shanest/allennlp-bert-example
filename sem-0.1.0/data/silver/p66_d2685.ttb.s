@@ -1,0 +1,12 @@
+PER	Tom
+EPS	smiled
+REL	at
+PER	Mary
+NIL	,
+COO	but
+PRO	she
+PST	did
+NOT	n't
+EXS	smile
+IST	back
+NIL	.

@@ -1,0 +1,9 @@
+DEF	The
+CON	watch
+PRO	you
+EPS	gave
+PRO	me
+NOW	is
+EXS	behaving
+IST	strangely
+NIL	.

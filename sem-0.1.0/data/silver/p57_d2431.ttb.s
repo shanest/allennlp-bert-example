@@ -1,0 +1,10 @@
+PRO	I
+IST	really
+EPS	missed
+PRO	you
+SUB	when
+PRO	you
+PST	were
+REL	in
+GPE	France
+NIL	.

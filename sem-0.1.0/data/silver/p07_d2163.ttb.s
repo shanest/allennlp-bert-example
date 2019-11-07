@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+EPS	died
+SUB	when
+PRO	I
+PST	was
+QUC	seven
+CON	years
+COM	old
+NIL	.

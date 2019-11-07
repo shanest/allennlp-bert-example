@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	just
+EXS	trying
+SUB	to
+EXS	be
+DIS	a
+IST	good
+CON	neighbor
+NIL	.

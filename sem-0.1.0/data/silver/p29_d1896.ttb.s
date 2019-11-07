@@ -1,0 +1,11 @@
+SUB	Because
+PRO	he
+POS	could
+NOT	n't
+EXS	kill
+PRO	me
+NIL	,
+PRO	I
+EPS	killed
+PRO	him
+NIL	.

@@ -1,0 +1,15 @@
+QUC	One
+AND	of
+PER	Tom
+HAS	's
+CON	teachers
+EPS	told
+PRO	him
+SUB	that
+PRO	he
+PST	'd
+NOT	never
+CON	amount
+REL	to
+AND	anything
+NIL	.

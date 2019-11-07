@@ -1,0 +1,14 @@
+PRO	I
+FUT	will
+EXT	have
+PFT	been
+EXS	staying
+REL	in
+PRX	this
+CON	hotel
+REL	for
+QUC	one
+CON	month
+AND	next
+DOW	Sunday
+NIL	.

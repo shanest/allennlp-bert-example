@@ -1,0 +1,11 @@
+NOT	Not
+AND	every
+CON	one
+AND	who
+ENS	wants
+NIL	to
+POS	may
+EXS	be
+DIS	a
+ROL	gourmand
+NIL	.

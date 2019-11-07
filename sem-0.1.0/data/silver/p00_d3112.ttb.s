@@ -1,0 +1,17 @@
+PRO	He
+NOW	is
+EXS	trying
+NIL	to
+EXS	fool
+CON	people
+REL	into
+EXG	thinking
+SUB	that
+PRO	I
+ENS	think
+CON	things
+SUB	that
+PRO	I
+NOW	do
+NOT	n’t
+NIL	.

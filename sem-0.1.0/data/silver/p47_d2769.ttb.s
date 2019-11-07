@@ -1,0 +1,16 @@
+IMP	If
+PER	Markku
+PST	had
+EXT	had
+IST	more
+CON	time
+NIL	,
+PRO	he
+FUT	would
+EXT	have
+EXS	written
+PER	Liisa
+DIS	a
+IST	longer
+CON	letter
+NIL	.

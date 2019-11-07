@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	planning
+SUB	to
+EXS	study
+IST	abroad
+IST	next
+CON	year
+NIL	.

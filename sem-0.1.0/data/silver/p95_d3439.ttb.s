@@ -1,0 +1,10 @@
+PRO	She
+EPS	gave
+IST	up
+HAS	her
+CON	seat
+REL	for
+DEF	the
+IST	old
+CON	person
+NIL	.

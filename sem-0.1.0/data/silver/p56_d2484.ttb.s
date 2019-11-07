@@ -1,0 +1,9 @@
+PRO	She
+POS	may
+EXS	be
+IST	able
+SUB	to
+EXS	answer
+DEF	the
+CON	question
+NIL	.

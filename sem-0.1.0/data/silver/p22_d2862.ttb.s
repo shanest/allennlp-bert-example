@@ -1,0 +1,9 @@
+AND	Everyone
+NOW	is
+EXS	looking
+IST	forward
+SUB	to
+EXG	watching
+DEF	the
+CON	game
+NIL	.

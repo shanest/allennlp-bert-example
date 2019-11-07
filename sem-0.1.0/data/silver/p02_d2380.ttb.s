@@ -1,0 +1,11 @@
+DEF	The
+MOR	older
+PRO	we
+EXS	become
+NIL	,
+DEF	the
+COM	worse
+HAS	our
+CON	memory
+ENS	gets
+NIL	.

@@ -1,0 +1,17 @@
+ITJ	Oh
+CON	luck
+NIL	!
+AND	Like
+DEF	the
+CON	moon
+PRO	you
+CON	change
+COO	;
+IST	steadily
+PRO	you
+CON	wax
+AND	and
+IST	then
+EXS	wane
+ALT	again
+NIL	.

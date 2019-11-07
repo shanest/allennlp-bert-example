@@ -1,0 +1,11 @@
+SUB	When
+PST	was
+DEF	the
+IST	last
+CON	time
+PRO	you
+EPS	played
+DIS	an
+IST	acoustic
+CON	guitar
+QUE	?

@@ -1,0 +1,10 @@
+DEF	The
+CON	room
+PST	was
+EXS	empty
+NOT	except
+REL	for
+DIS	a
+IST	shabby
+CON	bed
+NIL	.

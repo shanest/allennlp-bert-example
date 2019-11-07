@@ -1,0 +1,13 @@
+PRO	She
+EPS	vacated
+DEF	the
+CON	apartment
+DIS	a
+CON	month
+PST	ago
+AND	and
+EXS	left
+NOT	no
+REL	forwarding
+CON	address
+NIL	.

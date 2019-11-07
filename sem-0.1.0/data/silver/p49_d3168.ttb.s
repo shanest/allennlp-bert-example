@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	visited
+DEF	the
+CON	Louvre
+DIS	a
+QUC	hundred
+CON	times
+NOW	now
+NIL	!

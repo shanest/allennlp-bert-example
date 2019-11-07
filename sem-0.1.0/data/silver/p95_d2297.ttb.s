@@ -1,0 +1,12 @@
+HAS	Hers
+NOW	is
+DIS	a
+IST	respectable
+CON	family
+REL	with
+DIS	a
+IST	long
+CON	history
+AND	behind
+PRO	it
+NIL	.

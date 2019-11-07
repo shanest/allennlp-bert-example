@@ -1,0 +1,10 @@
+PRO	He
+ENS	likes
+REL	to
+CON	party
+REL	until
+DEF	the
+CON	sun
+ENS	comes
+IST	up
+NIL	.

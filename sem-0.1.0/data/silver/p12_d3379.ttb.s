@@ -1,0 +1,12 @@
+DEF	The
+XCL	only
+CON	weapons
+PRO	I
+NOW	have
+REL	in
+HAS	my
+CON	home
+NOW	are
+CON	water
+CON	pistols
+NIL	.

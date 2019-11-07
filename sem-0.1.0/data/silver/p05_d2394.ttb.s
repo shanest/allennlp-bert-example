@@ -1,0 +1,11 @@
+PRO	He
+EPS	dropped
+HAS	his
+CON	wallet
+NIL	,
+COO	and
+NOW	now
+PRO	it
+HAS	's
+HAS	mine
+NIL	.

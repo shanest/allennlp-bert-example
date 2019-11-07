@@ -1,0 +1,12 @@
+PRO	He
+NOW	is
+SST	poor
+COO	but
+NOW	is
+INT	too
+EXS	proud
+SUB	to
+EXS	ask
+REL	for
+CON	help
+NIL	.

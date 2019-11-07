@@ -1,0 +1,11 @@
+IMP	If
+PRO	it
+ENS	happens
+ALT	again
+NIL	,
+PRO	we
+ENS	want
+SUB	to
+EXS	be
+IST	ready
+NIL	.

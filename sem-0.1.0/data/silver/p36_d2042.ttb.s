@@ -1,0 +1,13 @@
+PER	Tom
+EPS	pulled
+IST	out
+DIS	an
+IST	old
+CON	shoebox
+REL	from
+HAS	his
+CON	closet
+COO	and
+EPS	opened
+PRO	it
+NIL	.

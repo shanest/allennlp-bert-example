@@ -1,0 +1,11 @@
+PER	Tom
+IST	certainly
+EPS	helped
+EXS	make
+PRX	this
+DIS	a
+IST	better
+CON	place
+SUB	to
+EXS	live
+NIL	.

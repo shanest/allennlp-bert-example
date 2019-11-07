@@ -1,0 +1,12 @@
+PRO	He
+NOW	is
+EXS	going
+SUB	to
+EXS	stay
+REL	with
+HAS	his
+ROL	uncle
+REL	for
+DEF	the
+CON	weekend
+NIL	.

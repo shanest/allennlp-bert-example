@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	writing
+PRX	this
+CON	letter
+REL	to
+HAS	my
+CON	wife
+NIL	.

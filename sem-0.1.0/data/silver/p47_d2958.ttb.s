@@ -1,0 +1,9 @@
+PRO	He
+NOW	's
+EXS	happy
+SUB	that
+PRO	he
+EPS	passed
+SUB	that
+CON	exam
+NIL	.

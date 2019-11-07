@@ -1,0 +1,13 @@
+REL	When
+HAS	my
+CON	bicycle
+EPS	hit
+DEF	the
+CON	rock
+NIL	,
+DEF	the
+CON	front
+CON	tire
+EPS	blew
+IST	out
+NIL	.

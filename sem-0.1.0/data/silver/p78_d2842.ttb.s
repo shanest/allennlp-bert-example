@@ -1,0 +1,11 @@
+EXT	Having
+EXS	studied
+GPO	Japanese
+NIL	,
+PER	Jenny
+PST	had
+NOT	no
+CON	trouble
+REL	in
+GPE	Japan
+NIL	.

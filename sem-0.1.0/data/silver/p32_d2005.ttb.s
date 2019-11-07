@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+DIS	a
+CON	girl
+AND	who
+POS	can
+EXS	ride
+DIS	a
+CON	unicycle
+NIL	.

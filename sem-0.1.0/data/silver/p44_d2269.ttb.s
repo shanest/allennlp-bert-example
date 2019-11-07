@@ -1,0 +1,14 @@
+PER	Tom
+HAS	's
+CON	grandmother
+NOW	is
+INT	quite
+EXS	feeble
+COO	and
+ENS	needs
+EXS	help
+REL	with
+HAS	her
+IST	daily
+CON	activities
+NIL	.

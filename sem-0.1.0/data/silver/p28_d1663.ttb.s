@@ -1,0 +1,10 @@
+PRO	We
+NOW	do
+NOT	n't
+IST	even
+EXS	know
+QUE	why
+PRO	we
+NOW	're
+EXS	fighting
+NIL	.

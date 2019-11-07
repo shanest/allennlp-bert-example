@@ -1,0 +1,9 @@
+PER	Tom
+ENS	knows
+DEF	the
+CON	way
+REL	to
+PER	Mary
+HAS	's
+CON	house
+NIL	.

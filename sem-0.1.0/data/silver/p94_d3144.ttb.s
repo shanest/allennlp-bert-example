@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	poor
+NIL	,
+COO	and
+PRO	I
+POS	ca
+NOT	n't
+EXS	buy
+PRO	it
+NIL	.

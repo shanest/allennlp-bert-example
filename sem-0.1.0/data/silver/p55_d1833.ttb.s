@@ -1,0 +1,10 @@
+PRO	You
+NEC	should
+EXS	read
+AND	as
+QUV	many
+CON	books
+SUB	as
+PRO	you
+POS	can
+NIL	.

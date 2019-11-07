@@ -1,0 +1,16 @@
+NIL	"
+CON	Where
+NOW	are
+PER	Tom
+AND	and
+PER	Mary
+QUE	?
+NIL	"
+NIL	"
+PRO	They
+NOW	're
+REL	on
+HAS	their
+CON	way
+NIL	.
+NIL	"

@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+PER	Tom
+NIL	to
+EXS	know
+REL	about
+PRX	this
+NIL	.

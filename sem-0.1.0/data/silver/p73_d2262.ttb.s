@@ -1,0 +1,14 @@
+AND	Everybody
+ENS	knows
+QUE	what
+PRO	he
+ENS	wants
+NIL	,
+BUT	but
+NOT	not
+AND	everyone
+ENS	knows
+QUE	what
+PRO	he
+POS	can
+NIL	.

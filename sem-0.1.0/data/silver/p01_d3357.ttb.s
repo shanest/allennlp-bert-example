@@ -1,0 +1,12 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	want
+NIL	to
+EXS	go
+REL	to
+DEF	the
+CON	circus
+REL	with
+PER	Mary
+NIL	.

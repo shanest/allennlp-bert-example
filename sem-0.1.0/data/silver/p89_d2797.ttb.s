@@ -1,0 +1,9 @@
+NOT	No
+QUC	one
+IST	ever
+EPS	doubted
+SUB	that
+PER	Tom
+FUT	would
+EXS	win
+NIL	.

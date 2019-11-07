@@ -1,0 +1,10 @@
+HAS	My
+CON	name
+NOW	is
+CON	Legion
+COO	;
+REL	for
+PRO	we
+NOW	are
+QUV	many
+NIL	.

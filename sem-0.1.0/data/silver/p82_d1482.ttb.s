@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+EXS	busy
+EXS	preparing
+REL	for
+DEF	the
+CON	entrance
+CON	examination
+NIL	.

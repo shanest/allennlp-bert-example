@@ -1,0 +1,16 @@
+PRO	I
+PST	had
+DIS	a
+CON	feeling
+AND	that
+PER	Tom
+AND	and
+PER	Mary
+FUT	would
+EXS	decide
+NOT	not
+SUB	to
+EXS	buy
+DST	that
+CON	house
+NIL	.

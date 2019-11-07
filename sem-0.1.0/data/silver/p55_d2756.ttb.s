@@ -1,0 +1,10 @@
+PER	Mary
+AND	and
+DEF	the
+ALT	other
+CON	women
+EPS	left
+QUC	thirty
+UOM	minutes
+PST	ago
+NIL	.

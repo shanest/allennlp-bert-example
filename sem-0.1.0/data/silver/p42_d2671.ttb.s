@@ -1,0 +1,13 @@
+NOW	Are
+PRO	you
+EXG	saying
+PRO	you
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	be
+DIS	a
+CON	teacher
+CON	anymore
+QUE	?

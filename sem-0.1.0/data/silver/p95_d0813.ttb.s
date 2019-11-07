@@ -1,0 +1,9 @@
+PRO	We
+EPS	put
+IST	up
+DEF	the
+CON	flags
+REL	on
+IST	national
+CON	holidays
+NIL	.

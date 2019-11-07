@@ -1,0 +1,10 @@
+AND	Could
+DEF	the
+IST	last
+QUC	one
+IST	out
+CON	turn
+REL	off
+DEF	the
+CON	light
+QUE	?

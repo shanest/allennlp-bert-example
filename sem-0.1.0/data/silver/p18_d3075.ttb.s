@@ -1,0 +1,15 @@
+IST	Barely
+DIS	a
+CON	third
+AND	of
+DEF	the
+CON	population
+REL	in
+PRX	this
+CON	country
+NOW	have
+EXS	access
+REL	to
+DEF	the
+CON	Internet
+NIL	.

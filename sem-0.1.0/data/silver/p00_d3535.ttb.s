@@ -1,0 +1,11 @@
+PRO	I
+ENS	want
+PRO	you
+NIL	to
+EXS	come
+REL	with
+PRO	me
+NIL	to
+EXS	see
+PER	Tom
+NIL	.

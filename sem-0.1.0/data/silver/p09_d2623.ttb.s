@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	heart-warming
+SUB	to
+EXS	see
+SUB	that
+EXS	happy
+IST	old
+CON	couple
+NIL	.

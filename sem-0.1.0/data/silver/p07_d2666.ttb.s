@@ -1,0 +1,14 @@
+DEF	The
+ROL	scientist
+NOW	is
+EXS	famous
+NOT	not
+XCL	only
+REL	in
+GPE	Japan
+BUT	but
+ALT	also
+REL	in
+IST	foreign
+CON	countries
+NIL	.

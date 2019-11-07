@@ -1,0 +1,11 @@
+PRO	You
+NOW	are
+EXS	mistaken
+AND	as
+REL	to
+QUE	what
+NOW	makes
+PRO	him
+AND	so
+IST	nervous
+NIL	.

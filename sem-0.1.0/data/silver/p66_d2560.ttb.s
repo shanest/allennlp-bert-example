@@ -1,0 +1,10 @@
+PRO	We
+EPS	shouted
+REL	for
+CON	help
+NIL	,
+BUT	but
+NOT	no
+CON	one
+EPS	came
+NIL	.

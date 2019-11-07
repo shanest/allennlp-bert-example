@@ -1,0 +1,14 @@
+PER	Tom
+ENS	knows
+PRO	he
+NEC	should
+EXS	do
+PRO	it
+NIL	,
+BUT	but
+PRO	he
+NOW	does
+NOT	n't
+EXS	want
+SUB	to
+NIL	.

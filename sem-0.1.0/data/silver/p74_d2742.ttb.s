@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+NOT	n't
+EXS	made
+IST	up
+HAS	his
+CON	mind
+ALT	yet
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+SUB	to
+EXS	give
+PRO	you
+AND	all
+PRX	this
+CON	trouble
+NIL	.

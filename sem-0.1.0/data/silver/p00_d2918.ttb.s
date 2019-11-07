@@ -1,0 +1,12 @@
+CON	French
+NOW	is
+EXS	taught
+REL	by
+ROL	Mr
+PER	White
+NIL	,
+NOT	not
+REL	by
+ROL	Miss
+PER	Green
+NIL	.

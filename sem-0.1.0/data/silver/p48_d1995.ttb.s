@@ -1,0 +1,9 @@
+PRO	It
+NOW	looks
+AND	like
+PRO	you
+EPS	changed
+DEF	the
+IST	whole
+CON	room
+NIL	.

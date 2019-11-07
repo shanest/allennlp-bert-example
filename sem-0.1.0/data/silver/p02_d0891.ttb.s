@@ -1,0 +1,11 @@
+PRO	I
+FUT	would
+EXS	like
+NIL	to
+EXS	see
+PRO	you
+REL	before
+EXG	leaving
+REL	for
+GEO	Europe
+NIL	.

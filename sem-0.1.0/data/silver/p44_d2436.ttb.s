@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PRO	I
+NOW	'm
+EXS	busy
+IST	right
+NOW	now
+NIL	.

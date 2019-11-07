@@ -1,0 +1,9 @@
+HAS	Your
+CON	homeland
+EPS	became
+IST	foreign
+SUB	to
+PRO	you
+IST	long
+PST	ago
+NIL	.

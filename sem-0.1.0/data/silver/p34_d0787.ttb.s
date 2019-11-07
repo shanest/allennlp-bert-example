@@ -1,0 +1,10 @@
+AND	Much
+REL	to
+HAS	my
+CON	surprise
+NIL	,
+DEF	the
+CON	door
+EPS	opened
+AND	noiselessly
+NIL	.

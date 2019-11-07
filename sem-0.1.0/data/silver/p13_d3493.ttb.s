@@ -1,0 +1,10 @@
+PRO	We
+NOW	are
+EXS	looking
+IST	forward
+REL	to
+HAS	our
+ROL	uncle
+HAS	's
+CON	visit
+NIL	.

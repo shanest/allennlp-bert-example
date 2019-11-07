@@ -1,0 +1,9 @@
+PER	Tom
+EPS	loosened
+HAS	his
+CON	tie
+COO	and
+EPS	removed
+HAS	his
+CON	glasses
+NIL	.

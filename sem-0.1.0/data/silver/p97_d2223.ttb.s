@@ -1,0 +1,15 @@
+REL	In
+HAS	her
+CON	speech
+NIL	,
+PRO	she
+EPS	emphasized
+DEF	the
+CON	issues
+AND	that
+PST	had
+IST	direct
+CON	relevance
+REL	to
+CON	practice
+NIL	.

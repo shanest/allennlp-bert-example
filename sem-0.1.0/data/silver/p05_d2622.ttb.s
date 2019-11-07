@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	not
+QUV	much
+CON	care
+REL	for
+PRX	this
+CON	kind
+AND	of
+CON	drink
+NIL	.

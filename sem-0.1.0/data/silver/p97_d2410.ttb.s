@@ -1,0 +1,10 @@
+PER	Tom
+EPS	realized
+SUB	that
+QUE	what
+PER	Mary
+EPS	said
+PST	was
+NOT	n't
+EXS	true
+NIL	.

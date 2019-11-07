@@ -1,0 +1,12 @@
+IMP	If
+PER	Tom
+ENS	comes
+NIL	,
+FUT	wo
+NOT	n't
+PRO	you
+IST	please
+EXS	let
+PRO	me
+EXS	know
+QUE	?

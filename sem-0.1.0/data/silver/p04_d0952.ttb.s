@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	have
+DIS	anyone
+AND	who
+PST	'd
+EXS	travel
+REL	with
+PRO	me
+NIL	.

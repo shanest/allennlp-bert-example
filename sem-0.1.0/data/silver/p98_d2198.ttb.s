@@ -1,0 +1,15 @@
+PRO	You
+POS	could
+EXS	tell
+REL	by
+DEF	the
+CON	look
+REL	on
+PER	Tom
+HAS	's
+CON	face
+SUB	that
+PRO	he
+PST	was
+EXS	lying
+NIL	.

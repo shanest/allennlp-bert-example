@@ -1,0 +1,10 @@
+PRO	I
+NOW	hope
+HAS	your
+CON	business
+CON	trip
+REL	to
+GPE	France
+PST	was
+EXS	successful
+NIL	.

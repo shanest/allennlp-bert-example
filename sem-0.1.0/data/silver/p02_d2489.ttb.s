@@ -1,0 +1,12 @@
+PER	Mary
+POS	ca
+NOT	n't
+EXS	swim
+NIL	,
+COO	and
+PER	John
+POS	ca
+NOT	n't
+NIL	,
+AND	either
+NIL	.

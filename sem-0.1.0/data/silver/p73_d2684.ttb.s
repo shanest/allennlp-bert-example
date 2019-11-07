@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+DEF	the
+CON	situation
+NOW	is
+INT	very
+EXS	difficult
+REL	for
+PRO	us
+NIL	.

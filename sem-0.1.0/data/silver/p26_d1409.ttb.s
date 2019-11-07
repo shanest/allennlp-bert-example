@@ -1,0 +1,11 @@
+SUB	When
+PRO	I
+ENS	study
+NIL	,
+PRO	I
+ENS	listen
+REL	to
+CON	music
+REL	with
+CON	earphones
+NIL	.

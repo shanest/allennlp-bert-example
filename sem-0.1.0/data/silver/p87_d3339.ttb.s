@@ -1,0 +1,12 @@
+AND	Finishing
+PRX	this
+CON	job
+REL	by
+DOW	Tuesday
+FUT	will
+EXS	be
+DIS	a
+CON	piece
+AND	of
+CON	cake
+NIL	.

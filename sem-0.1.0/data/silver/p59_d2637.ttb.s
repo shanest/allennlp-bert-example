@@ -1,0 +1,9 @@
+PRO	He
+EPS	kissed
+PRO	me
+COO	and
+IST	then
+PRO	I
+EPS	slapped
+PRO	him
+NIL	.

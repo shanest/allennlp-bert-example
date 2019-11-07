@@ -1,0 +1,10 @@
+CON	People
+REL	in
+GPE	Cusco
+NOW	are
+IST	glad
+SUB	when
+PRO	we
+NOW	speak
+PER	Quechua
+NIL	.

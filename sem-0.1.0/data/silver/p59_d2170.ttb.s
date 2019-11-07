@@ -1,0 +1,11 @@
+REL	At
+DEF	the
+CON	moment
+NIL	,
+PRO	I
+NOW	'm
+EXS	reading
+DIS	an
+IST	interesting
+CON	book
+NIL	.

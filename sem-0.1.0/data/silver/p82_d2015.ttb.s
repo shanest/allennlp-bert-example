@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXS	given
+DIS	a
+CON	bonus
+QUC	three
+CON	times
+DIS	a
+CON	year
+NIL	.

@@ -1,0 +1,14 @@
+NOW	Today
+HAS	's
+CON	weather
+CON	forecast
+ENS	says
+SUB	that
+PRO	it
+NOW	is
+IST	likely
+SUB	to
+EXS	be
+EXS	fine
+FUT	tomorrow
+NIL	.

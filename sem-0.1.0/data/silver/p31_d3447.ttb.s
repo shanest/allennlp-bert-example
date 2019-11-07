@@ -1,0 +1,13 @@
+AND	Just
+SUB	because
+DIS	something
+NOW	is
+EXS	possible
+NOW	does
+NOT	n't
+EXS	make
+PRO	it
+DIS	a
+IST	good
+CON	idea
+NIL	.

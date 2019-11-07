@@ -1,0 +1,11 @@
+NOW	Is
+PRO	it
+INT	too
+IST	early
+REL	in
+DEF	the
+CON	morning
+SUB	to
+EXS	be
+EXS	playing
+QUE	?

@@ -1,0 +1,12 @@
+AND	As
+IST	soon
+SUB	as
+PRO	she
+EPS	saw
+PRO	me
+NIL	,
+PRO	she
+EPS	started
+SUB	to
+EXS	cry
+NIL	.

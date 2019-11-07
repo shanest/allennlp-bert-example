@@ -1,0 +1,9 @@
+PER	Tom
+HAS	's
+ROL	mother
+NOW	is
+EXS	worried
+AND	about
+HAS	his
+CON	cough
+NIL	.

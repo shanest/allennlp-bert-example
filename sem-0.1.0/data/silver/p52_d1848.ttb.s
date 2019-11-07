@@ -1,0 +1,10 @@
+PRO	You
+NOW	've
+EXS	got
+DIS	a
+IST	good
+CON	head
+REL	on
+HAS	your
+CON	shoulders
+NIL	.

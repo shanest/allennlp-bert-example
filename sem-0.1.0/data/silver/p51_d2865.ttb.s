@@ -1,0 +1,11 @@
+PRO	It
+EPS	took
+PRO	me
+DIS	a
+CON	month
+SUB	to
+EXS	get
+AND	over
+HAS	my
+CON	cold
+NIL	.

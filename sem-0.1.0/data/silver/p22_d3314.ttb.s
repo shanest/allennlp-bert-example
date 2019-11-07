@@ -1,0 +1,12 @@
+GEO	Venice
+EQU	,
+GPE	Italy
+NOW	is
+QUC	one
+AND	of
+DEF	the
+CON	wonders
+AND	of
+DEF	the
+CON	world
+NIL	.

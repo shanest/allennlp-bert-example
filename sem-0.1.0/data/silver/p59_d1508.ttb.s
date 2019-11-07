@@ -1,0 +1,10 @@
+PRO	We
+EPS	took
+CON	shelter
+REL	from
+DEF	the
+CON	rain
+REL	under
+DIS	a
+CON	tree
+NIL	.

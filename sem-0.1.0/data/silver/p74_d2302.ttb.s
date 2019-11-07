@@ -1,0 +1,14 @@
+PRO	It
+POS	ca
+NOT	n't
+EXS	be
+CON	right
+NIL	.
+PRO	He
+NOW	's
+IST	still
+REL	on
+CON	vacation
+REL	in
+GPE	Hawaii
+NIL	.

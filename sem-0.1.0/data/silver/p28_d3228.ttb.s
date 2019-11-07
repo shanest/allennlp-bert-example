@@ -1,0 +1,12 @@
+PRO	We
+EPS	played
+DIS	a
+CON	joke
+REL	on
+PRO	him
+REL	by
+EXG	leaving
+PRO	him
+DEF	the
+CON	bill
+NIL	.

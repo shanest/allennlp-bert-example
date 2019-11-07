@@ -1,0 +1,13 @@
+PRO	I
+EPS	hoped
+SUB	that
+PRO	I
+FUT	would
+EXS	marry
+SUB	while
+HAS	my
+ROL	mother
+PST	was
+IST	still
+EXS	alive
+NIL	.

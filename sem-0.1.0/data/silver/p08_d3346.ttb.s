@@ -1,0 +1,9 @@
+PRO	We
+NOW	've
+PST	had
+NOT	no
+CON	word
+REL	from
+PER	Brian
+ALT	yet
+NIL	.

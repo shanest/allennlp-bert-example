@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	questionable
+SUB	whether
+PRX	this
+CON	data
+POS	can
+EXS	be
+EXS	relied
+REL	on
+NIL	.

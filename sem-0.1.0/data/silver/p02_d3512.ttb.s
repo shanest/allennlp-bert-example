@@ -1,0 +1,12 @@
+PER	Susie
+NOW	does
+NOT	n't
+EXS	speak
+CON	Japanese
+NIL	,
+COO	and
+PER	Tom
+NOW	does
+NOT	n't
+IST	either
+NIL	.

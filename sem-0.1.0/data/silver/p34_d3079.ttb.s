@@ -1,0 +1,9 @@
+PRO	She
+NOT	never
+EPS	dreamed
+PRO	she
+PST	'd
+EXS	meet
+PRO	him
+IST	overseas
+NIL	.

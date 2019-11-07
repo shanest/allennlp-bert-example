@@ -1,0 +1,9 @@
+QUE	What
+DEF	the
+CON	heart
+ENS	thinks
+NIL	,
+DEF	the
+CON	mouth
+ENS	speaks
+NIL	.

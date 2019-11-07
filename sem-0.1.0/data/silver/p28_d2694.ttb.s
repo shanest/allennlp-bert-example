@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+AND	any
+AND	of
+PER	Mary
+HAS	's
+CON	friends
+NIL	.

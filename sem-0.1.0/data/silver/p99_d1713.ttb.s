@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+DIS	an
+IST	old
+CON	score
+SUB	to
+EXS	settle
+REL	with
+PER	Tom
+NIL	.

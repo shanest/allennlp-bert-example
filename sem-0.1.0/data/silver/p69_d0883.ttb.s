@@ -1,0 +1,9 @@
+GPE	Portugal
+NOW	has
+EXS	decriminalized
+DEF	the
+IST	personal
+CON	possession
+AND	of
+CON	drugs
+NIL	.

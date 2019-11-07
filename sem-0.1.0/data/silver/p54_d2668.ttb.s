@@ -1,0 +1,12 @@
+REL	For
+IST	small
+CON	children
+PRO	it
+NOW	's
+CON	time
+SUB	to
+EXS	go
+REL	to
+CON	bed
+NOW	now
+NIL	.

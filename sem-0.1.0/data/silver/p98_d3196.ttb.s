@@ -1,0 +1,15 @@
+SUB	When
+PRO	I
+PST	was
+DIS	a
+CON	child
+NIL	,
+PRO	I
+EPS	spent
+TOP	most
+AND	of
+HAS	my
+CON	time
+IST	indoors
+EXS	reading
+NIL	.

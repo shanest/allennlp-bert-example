@@ -1,0 +1,12 @@
+PRO	I
+POS	can
+NOT	not
+EXS	see
+PRO	you
+NOT	without
+EXS	thinking
+AND	of
+HAS	your
+IST	late
+ROL	father
+NIL	.

@@ -1,0 +1,12 @@
+DEF	The
+IST	young
+CON	man
+EPS	put
+IST	out
+HAS	his
+CON	hand
+COO	and
+PRO	I
+EPS	shook
+PRO	it
+NIL	.

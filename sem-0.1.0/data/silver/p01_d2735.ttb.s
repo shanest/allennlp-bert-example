@@ -1,0 +1,13 @@
+NOW	Do
+PRO	you
+IST	really
+EXS	want
+DIS	a
+CON	job
+REL	in
+DEF	the
+IST	same
+CON	office
+AND	as
+PER	Tom
+QUE	?

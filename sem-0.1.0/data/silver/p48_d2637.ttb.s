@@ -1,0 +1,17 @@
+SUB	After
+EXS	reading
+PER	Tom
+HAS	's
+CON	forum
+CON	post
+NIL	,
+PER	Mary
+EPS	resisted
+DEF	the
+CON	impulse
+SUB	to
+EXS	post
+DIS	a
+IST	crude
+CON	reply
+NIL	.

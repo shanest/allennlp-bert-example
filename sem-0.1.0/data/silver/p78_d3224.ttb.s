@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	taking
+DIS	a
+CON	couple
+AND	of
+CON	days
+REL	off
+NIL	.

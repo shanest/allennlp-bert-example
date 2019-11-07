@@ -1,0 +1,12 @@
+SUB	When
+PRO	you
+ENS	fall
+REL	off
+DEF	the
+CON	stairs
+NIL	,
+PRO	you
+NOW	're
+EXS	downstairs
+IST	quickly
+NIL	.

@@ -1,0 +1,9 @@
+PRO	She
+NOW	is
+EXS	going
+SUB	to
+EXS	learn
+QUE	how
+SUB	to
+EXS	drive
+NIL	.

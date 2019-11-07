@@ -1,0 +1,12 @@
+PRX	This
+CON	kind
+AND	of
+CON	shoe
+NOW	is
+IST	apt
+SUB	to
+EXS	slip
+REL	on
+IST	wet
+CON	ground
+NIL	.

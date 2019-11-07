@@ -1,0 +1,10 @@
+PRO	She
+ENS	wants
+DIS	someone
+PRO	she
+POS	can
+EXS	turn
+REL	to
+REL	for
+CON	advice
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	bumped
+REL	into
+PER	Mary
+DEF	the
+ALT	other
+CON	day
+REL	at
+DEF	the
+CON	supermarket
+NIL	.

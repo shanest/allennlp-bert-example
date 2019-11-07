@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+PER	Mary
+IMP	if
+PRO	she
+FUT	would
+EXS	teach
+PRO	him
+GPO	French
+NIL	.

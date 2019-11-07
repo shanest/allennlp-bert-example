@@ -1,0 +1,10 @@
+PRO	We
+EPS	watched
+PRO	him
+SUB	until
+PRO	he
+PST	was
+IST	out
+AND	of
+CON	sight
+NIL	.

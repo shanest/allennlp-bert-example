@@ -1,0 +1,13 @@
+PRO	He
+EPS	called
+IST	up
+HAS	his
+CON	uncle
+AND	as
+IST	soon
+SUB	as
+PRO	he
+EPS	got
+REL	to
+PER	Matsuyama
+NIL	.

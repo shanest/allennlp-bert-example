@@ -1,0 +1,12 @@
+PRX	This
+CON	flower
+NOW	is
+COL	yellow
+NIL	,
+COO	but
+AND	all
+DEF	the
+ALT	others
+NOW	are
+COL	blue
+NIL	.

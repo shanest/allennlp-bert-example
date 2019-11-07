@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+EXS	managing
+DEF	the
+CON	business
+REL	for
+HAS	his
+CON	father
+NIL	.

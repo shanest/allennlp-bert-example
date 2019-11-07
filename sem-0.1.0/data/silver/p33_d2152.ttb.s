@@ -1,0 +1,9 @@
+PER	Tom
+ENS	wants
+SUB	to
+EXS	know
+SUB	when
+PRO	you
+NOW	're
+EXS	coming
+NIL	.

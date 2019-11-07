@@ -1,0 +1,10 @@
+SUB	When
+PRO	we
+EPS	made
+CON	fun
+AND	of
+PRO	her
+NIL	,
+PRO	she
+NOW	blushed
+NIL	.

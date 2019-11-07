@@ -1,0 +1,11 @@
+HAS	His
+CON	plan
+NOW	is
+NIL	to
+EXS	build
+DIS	a
+CON	bridge
+AND	over
+DST	that
+CON	river
+NIL	.

@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+EPS	lived
+REL	on
+DEF	the
+CON	island
+REL	at
+DST	that
+CON	time
+NIL	.

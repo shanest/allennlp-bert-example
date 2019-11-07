@@ -1,0 +1,10 @@
+PRO	You
+ENS	need
+NOT	n't
+EXT	have
+EXS	taken
+DIS	an
+CON	umbrella
+REL	with
+PRO	you
+NIL	.

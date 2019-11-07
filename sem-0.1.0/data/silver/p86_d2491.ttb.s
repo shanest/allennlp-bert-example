@@ -1,0 +1,10 @@
+PRO	We
+NOW	're
+EXS	going
+SUB	to
+EXS	see
+DIS	a
+IST	foreign
+CON	film
+CON	tonight
+NIL	.

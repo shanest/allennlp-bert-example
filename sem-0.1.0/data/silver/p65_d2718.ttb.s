@@ -1,0 +1,11 @@
+NOW	Is
+UNK	there
+AND	anyone
+PRO	we
+EPS	invited
+AND	who
+NOW	has
+NOT	n't
+EXS	come
+ALT	yet
+QUE	?

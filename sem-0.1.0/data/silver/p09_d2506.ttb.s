@@ -1,0 +1,14 @@
+PRO	I
+NOW	hope
+PRO	you
+AND	all
+EPS	liked
+PRO	it
+AND	and
+SUB	that
+PRO	you
+AND	all
+EXS	come
+IST	back
+IST	soon
+NIL	.

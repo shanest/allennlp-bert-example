@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+IST	old
+IST	enough
+SUB	to
+EXS	be
+PER	Mary
+HAS	's
+ROL	grandfather
+NIL	.

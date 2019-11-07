@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	drank
+QUC	three
+CON	pitchers
+AND	of
+CON	beer
+NIL	.

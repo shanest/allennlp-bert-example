@@ -1,0 +1,10 @@
+PRO	It
+ENS	seems
+SUB	to
+PRO	me
+SUB	that
+DIS	someone
+NOW	is
+EXG	calling
+PRO	you
+NIL	.

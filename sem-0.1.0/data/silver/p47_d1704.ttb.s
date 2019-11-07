@@ -1,0 +1,9 @@
+PRO	I
+EPS	tried
+SUB	to
+EXS	get
+PER	Tom
+SUB	to
+EXS	help
+PER	Mary
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+EPS	selected
+DIS	a
+CON	pair
+AND	of
+CON	socks
+SUB	to
+EXS	match
+HAS	his
+CON	suit
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+ENS	let
+PER	Tom
+EXS	know
+SUB	that
+PRO	I
+PST	was
+EXS	dissatisfied
+REL	with
+HAS	his
+CON	performance
+NIL	.

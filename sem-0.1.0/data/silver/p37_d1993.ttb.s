@@ -1,0 +1,12 @@
+PER	Tom
+EPS	said
+PRO	he
+EPS	saw
+PER	Mary
+EXG	sitting
+REL	in
+DEF	the
+CON	park
+REL	by
+REF	herself
+NIL	.

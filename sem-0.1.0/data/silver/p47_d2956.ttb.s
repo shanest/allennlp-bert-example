@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+PFT	been
+CON	friends
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

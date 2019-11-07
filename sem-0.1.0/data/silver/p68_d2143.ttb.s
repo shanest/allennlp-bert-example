@@ -1,0 +1,12 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	carry
+PRX	this
+CON	suitcase
+NIL	.
+PRO	It
+NOW	's
+INT	too
+EXS	heavy
+NIL	.

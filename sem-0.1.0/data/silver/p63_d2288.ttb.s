@@ -1,0 +1,10 @@
+PRO	She
+EPS	said
+SUB	that
+PRO	she
+NOW	's
+EXS	turning
+SUB	16
+IST	next
+CON	month
+NIL	.

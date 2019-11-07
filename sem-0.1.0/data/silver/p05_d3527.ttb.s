@@ -1,0 +1,10 @@
+PER	Tom
+EPS	walked
+IST	past
+DEF	the
+CON	table
+SUB	where
+PER	Mary
+PST	was
+EXS	sitting
+NIL	.

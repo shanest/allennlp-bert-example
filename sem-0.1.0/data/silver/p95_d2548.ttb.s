@@ -1,0 +1,12 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	believe
+DST	that
+NOT	no
+CON	one
+EPS	laughed
+REL	at
+HAS	his
+CON	jokes
+NIL	.

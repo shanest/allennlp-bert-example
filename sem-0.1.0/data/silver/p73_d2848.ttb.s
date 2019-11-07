@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	living
+REL	in
+GEO	Milan
+REL	for
+QUC	ten
+CON	years
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+EPS	put
+REF	himself
+REL	into
+DEF	the
+CON	lion
+HAS	's
+CON	den
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+EPS	saw
+DEF	the
+CON	newspaper
+REL	on
+DEF	the
+CON	floor
+COO	and
+EPS	picked
+PRO	it
+IST	up
+NIL	.

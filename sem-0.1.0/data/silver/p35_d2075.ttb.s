@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PRO	I
+NOW	do
+NOT	n't
+EXS	follow
+NIL	.

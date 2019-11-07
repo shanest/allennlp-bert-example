@@ -1,0 +1,12 @@
+HAS	His
+CON	income
+NOW	is
+NOW	now
+IST	double
+QUE	what
+PRO	it
+PST	was
+QUC	ten
+CON	years
+PST	ago
+NIL	.

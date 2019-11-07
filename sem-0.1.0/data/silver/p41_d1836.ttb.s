@@ -1,0 +1,10 @@
+PRO	I
+PST	thought
+PER	Tom
+PST	was
+EXS	supposed
+SUB	to
+EXS	be
+PRX	here
+PST	yesterday
+NIL	.

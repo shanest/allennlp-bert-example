@@ -1,0 +1,11 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	clean
+DEF	the
+CON	house
+REL	before
+HAS	my
+CON	parents
+ENS	come
+NIL	.

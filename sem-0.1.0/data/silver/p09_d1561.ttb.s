@@ -1,0 +1,11 @@
+POS	Can
+PRO	I
+EXS	go
+IST	over
+REL	to
+PER	Tom
+HAS	's
+CON	house
+SUB	to
+EXS	play
+QUE	?

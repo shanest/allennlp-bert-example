@@ -1,0 +1,9 @@
+PER	Tom
+EPS	wrote
+REL	on
+DEF	the
+CON	ground
+REL	with
+DIS	a
+CON	stick
+NIL	.

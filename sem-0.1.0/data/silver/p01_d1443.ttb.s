@@ -1,0 +1,12 @@
+DEF	The
+CON	law
+NIL	,
+SUB	as
+PRO	it
+NOW	is
+NIL	,
+NOW	is
+NOT	not
+INT	so
+EXS	severe
+NIL	.

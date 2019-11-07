@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	just
+EXS	going
+SUB	to
+EXS	go
+CON	powder
+HAS	my
+CON	nose
+NIL	.

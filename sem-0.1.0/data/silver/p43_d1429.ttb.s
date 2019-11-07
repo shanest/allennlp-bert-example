@@ -1,0 +1,9 @@
+AND	All
+PRO	I
+ENS	want
+SUB	to
+EXS	do
+NOW	now
+NOW	is
+EXS	sleep
+NIL	.

@@ -1,0 +1,15 @@
+PRO	I
+NOW	think
+PRO	it
+HAS	's
+INT	highly
+EXS	unlikely
+SUB	that
+PER	Tom
+FUT	will
+EXS	get
+CON	custody
+AND	of
+DEF	the
+CON	kids
+NIL	.

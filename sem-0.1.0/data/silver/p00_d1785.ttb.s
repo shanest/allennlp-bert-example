@@ -1,0 +1,16 @@
+PRO	You
+NOW	are
+NOT	n't
+IST	likely
+NIL	to
+EXS	find
+DST	that
+CON	word
+REL	in
+DIS	a
+CON	dictionary
+AND	that
+NOW	's
+PRX	this
+IST	small
+NIL	.

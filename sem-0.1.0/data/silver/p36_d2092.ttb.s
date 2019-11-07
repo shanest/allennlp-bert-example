@@ -1,0 +1,9 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	send
+PRX	this
+CON	postcard
+REL	to
+GPE	Japan
+NIL	.

@@ -1,0 +1,14 @@
+IMP	If
+PRO	I
+PST	had
+EXT	had
+IST	enough
+CON	money
+NIL	,
+PRO	I
+FUT	would
+EXT	have
+EXS	bought
+DEF	the
+CON	bag
+NIL	.

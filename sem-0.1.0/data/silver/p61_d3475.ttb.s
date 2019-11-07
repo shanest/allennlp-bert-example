@@ -1,0 +1,16 @@
+EXS	Did
+PRO	you
+ENS	know
+SUB	that
+CON	men
+AND	who
+IST	regularly
+EXS	take
+CON	birth
+CON	control
+CON	pills
+NOW	do
+NOT	n't
+EXS	get
+EXS	pregnant
+QUE	?

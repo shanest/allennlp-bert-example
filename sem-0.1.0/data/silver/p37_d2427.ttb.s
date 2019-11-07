@@ -1,0 +1,10 @@
+EXS	Did
+PRO	you
+ENS	want
+SUB	to
+EXS	go
+REL	to
+GEO	Boston
+REL	with
+PER	Tom
+QUE	?

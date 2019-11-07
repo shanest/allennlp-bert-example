@@ -1,0 +1,12 @@
+PER	Tom
+EPS	picked
+IST	up
+HAS	his
+CON	toys
+COO	and
+EPS	put
+PRO	them
+REL	in
+DIS	a
+CON	box
+NIL	.

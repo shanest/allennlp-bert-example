@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+NOW	think
+PER	Tom
+NOW	is
+EXS	coming
+REL	to
+DEF	the
+CON	party
+QUE	?

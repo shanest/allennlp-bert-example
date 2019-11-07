@@ -1,0 +1,15 @@
+PRO	I
+NOW	guess
+SUB	that
+DEF	the
+IST	beautiful
+CON	girl
+FUT	will
+EXS	say
+GRE	goodbye
+REL	to
+DEF	the
+IST	shy
+IST	young
+CON	man
+NIL	.

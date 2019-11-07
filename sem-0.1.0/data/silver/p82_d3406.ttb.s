@@ -1,0 +1,9 @@
+PRO	I
+NOW	think
+SUB	that
+DIS	someone
+EPS	spiked
+PER	Mary
+HAS	's
+CON	drink
+NIL	.

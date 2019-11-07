@@ -1,0 +1,13 @@
+CON	God
+EPS	created
+GEO	Padania
+AND	and
+NIL	,
+EXS	realizing
+DEF	the
+CON	error
+NIL	,
+EPS	created
+DEF	the
+CON	fog
+NIL	.

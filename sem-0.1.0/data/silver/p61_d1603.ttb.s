@@ -1,0 +1,10 @@
+PER	Tom
+HAS	's
+ROL	father
+EPS	died
+REL	from
+CON	overwork
+QUC	five
+CON	years
+PST	ago
+NIL	.

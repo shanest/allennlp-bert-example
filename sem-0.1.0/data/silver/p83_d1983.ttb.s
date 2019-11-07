@@ -1,0 +1,15 @@
+PRO	I
+ENS	know
+SUB	that
+PRO	you
+NOW	're
+IST	afraid
+AND	of
+EXS	flying
+NIL	,
+COO	but
+EXS	flying
+NOW	is
+NOT	not
+EXS	dangerous
+NIL	.

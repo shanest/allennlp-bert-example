@@ -1,0 +1,10 @@
+UNK	There
+NOW	are
+QUV	many
+CON	problems
+REL	for
+PRO	them
+SUB	to
+EXS	deal
+REL	with
+NIL	.

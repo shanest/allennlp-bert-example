@@ -1,0 +1,11 @@
+QUE	What
+NOW	is
+DEF	the
+ROL	ranger
+HAS	's
+CON	name
+REL	in
+DEF	Yogi
+IST	Bear
+CON	cartoons
+QUE	?

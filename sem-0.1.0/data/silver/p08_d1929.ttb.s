@@ -1,0 +1,9 @@
+PRO	He
+PST	was
+DIS	a
+QUV	much
+MOR	better
+ROL	general
+AND	than
+ROL	politician
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+FUT	will
+NOT	not
+EXS	be
+IST	able
+SUB	to
+EXS	do
+DEF	the
+CON	work
+NIL	.

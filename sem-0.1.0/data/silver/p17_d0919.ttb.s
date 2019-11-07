@@ -1,0 +1,9 @@
+DEF	The
+CON	train
+PST	was
+EXG	going
+QUC	500
+UOM	miles
+REL	per
+UOM	hour
+NIL	.

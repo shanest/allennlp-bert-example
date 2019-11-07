@@ -1,0 +1,15 @@
+QUE	How
+QUV	many
+CON	times
+NOW	do
+PRO	I
+NEC	have
+SUB	to
+EXS	repeat
+SUB	that
+PRO	she
+NOW	is
+NOT	n't
+HAS	my
+CON	friend
+QUE	?

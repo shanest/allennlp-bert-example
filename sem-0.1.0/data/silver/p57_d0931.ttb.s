@@ -1,0 +1,9 @@
+PRO	He
+EPS	promised
+NOT	not
+SUB	to
+EXS	tell
+SUB	that
+REL	to
+DIS	anyone
+NIL	.

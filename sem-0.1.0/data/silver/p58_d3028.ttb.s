@@ -1,0 +1,12 @@
+PRO	He
+NOW	is
+NOW	now
+EXS	looking
+REL	for
+DIS	a
+MOR	bigger
+CON	house
+SUB	to
+EXS	live
+REL	in
+NIL	.

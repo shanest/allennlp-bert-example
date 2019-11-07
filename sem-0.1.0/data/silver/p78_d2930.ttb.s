@@ -1,0 +1,10 @@
+PER	Tom
+EPS	smiled
+REL	at
+DEF	the
+CON	audience
+COO	and
+EPS	took
+DIS	a
+CON	bow
+NIL	.

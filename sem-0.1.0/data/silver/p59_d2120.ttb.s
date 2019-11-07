@@ -1,0 +1,11 @@
+PRO	We
+NOW	are
+EXS	going
+REL	to
+DEF	the
+CON	movies
+NIL	.
+EXS	Come
+REL	with
+PRO	us
+NIL	.

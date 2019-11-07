@@ -1,0 +1,10 @@
+HAS	Your
+CON	car
+NOW	is
+IST	fast
+NIL	,
+BUT	but
+HAS	mine
+NOW	is
+COM	faster
+NIL	.

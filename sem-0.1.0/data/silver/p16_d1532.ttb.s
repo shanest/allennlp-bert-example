@@ -1,0 +1,12 @@
+DIS	Someone
+EPS	told
+PRO	me
+IST	recently
+SUB	that
+CON	hairspray
+NOW	is
+EXS	good
+REL	for
+CON	killing
+CON	spiders
+NIL	.

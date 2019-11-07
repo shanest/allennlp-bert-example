@@ -1,0 +1,9 @@
+PRX	This
+CON	room
+EQU	is
+QUC	twelve
+UOM	feet
+REL	by
+QUC	twenty-four
+UOM	feet
+NIL	.

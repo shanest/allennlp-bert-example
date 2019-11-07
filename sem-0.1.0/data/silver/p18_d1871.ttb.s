@@ -1,0 +1,9 @@
+NOW	Are
+NOT	n't
+PRO	you
+IST	glad
+PER	Tom
+NOW	is
+NOT	n't
+PRX	here
+QUE	?

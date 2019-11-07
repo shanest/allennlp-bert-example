@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	seen
+DST	that
+CON	man
+REL	before
+REL	in
+HAS	my
+CON	life
+NIL	.

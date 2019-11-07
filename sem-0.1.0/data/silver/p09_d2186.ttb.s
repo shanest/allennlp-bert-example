@@ -1,0 +1,16 @@
+PER	Argleton
+NOW	is
+DIS	a
+CON	town
+REL	in
+GEO	West
+GEO	Lancashire
+EQU	,
+GPE	England
+AND	which
+ENS	exists
+XCL	only
+REL	on
+ORG	Google
+CON	maps
+NIL	.

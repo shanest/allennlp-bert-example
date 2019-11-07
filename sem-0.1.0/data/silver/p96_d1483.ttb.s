@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	glad
+SUB	to
+EXS	be
+EXS	rid
+AND	of
+DST	that
+CON	trouble
+NIL	.

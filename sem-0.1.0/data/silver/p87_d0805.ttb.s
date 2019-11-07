@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+PRO	I
+EPS	opened
+HAS	your
+CON	mail
+REL	by
+CON	mistake
+NIL	.

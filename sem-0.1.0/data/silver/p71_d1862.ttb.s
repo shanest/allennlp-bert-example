@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+ENS	want
+SUB	to
+EXS	talk
+REL	to
+PRO	us
+DIS	a
+CON	moment
+NIL	.

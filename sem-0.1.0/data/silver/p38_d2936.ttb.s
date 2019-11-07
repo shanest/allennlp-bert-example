@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	seen
+PRO	him
+REL	since
+IST	last
+DOW	Sunday
+NIL	.

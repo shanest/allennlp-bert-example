@@ -1,0 +1,9 @@
+QUE	Which
+NOW	is
+DEF	the
+CON	fuel
+AND	that
+ENS	stinks
+DEF	the
+TOP	most
+QUE	?

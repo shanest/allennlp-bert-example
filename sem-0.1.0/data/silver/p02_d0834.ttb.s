@@ -1,0 +1,10 @@
+QUC	Ten
+CON	years
+NOW	have
+EXT	passed
+SUB	since
+PRO	he
+EPS	went
+REL	to
+GEO	America
+NIL	.

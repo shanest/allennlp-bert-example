@@ -1,0 +1,9 @@
+QUC	Many
+NOW	are
+EXS	called
+NIL	,
+BUT	but
+IST	few
+NOW	are
+EXS	chosen
+NIL	.

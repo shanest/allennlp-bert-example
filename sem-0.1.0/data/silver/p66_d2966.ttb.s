@@ -1,0 +1,11 @@
+HAS	Your
+GPO	English
+NOW	is
+IST	too
+EXS	good
+SUB	to
+EXS	be
+REL	in
+PRX	this
+CON	class
+NIL	.

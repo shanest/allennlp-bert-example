@@ -1,0 +1,14 @@
+PRO	It
+IST	never
+EPS	occurred
+SUB	to
+PRO	me
+SUB	that
+QUE	what
+PRO	I
+PST	was
+EXS	doing
+POS	might
+EXS	be
+IST	illegal
+NIL	.

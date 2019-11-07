@@ -1,0 +1,13 @@
+PRO	You
+PST	did
+NOT	n't
+EXS	tell
+PRO	us
+QUE	what
+PRO	he
+PST	had
+EXS	written
+REL	in
+PRX	this
+CON	letter
+NIL	.

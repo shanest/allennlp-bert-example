@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+EPS	sent
+PRO	him
+DIS	a
+IST	Christmas
+CON	card
+ALT	yet
+QUE	?

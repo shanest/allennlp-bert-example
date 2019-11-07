@@ -1,0 +1,11 @@
+PER	Tom
+EPS	blamed
+PER	Mary
+REL	for
+DEF	the
+CON	accident
+SUB	that
+EPS	killed
+HAS	their
+CON	son
+NIL	.

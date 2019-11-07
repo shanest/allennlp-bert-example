@@ -1,0 +1,11 @@
+PRO	He
+EPS	thought
+SUB	that
+PRO	he
+FUT	would
+EXS	write
+DIS	something
+REL	for
+DEF	the
+CON	newspaper
+NIL	.

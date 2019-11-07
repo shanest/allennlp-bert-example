@@ -1,0 +1,10 @@
+PER	Tom
+ENS	says
+SUB	that
+PRO	he
+POS	can
+EXS	be
+PRX	here
+REL	by
+CLO	2:30
+NIL	.

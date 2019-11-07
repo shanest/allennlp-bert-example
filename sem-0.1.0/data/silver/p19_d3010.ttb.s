@@ -1,0 +1,12 @@
+PER	Tom
+EPS	bought
+DIS	a
+CON	camera
+SUB	to
+EXS	give
+REL	to
+PER	Mary
+REL	on
+HAS	her
+CON	birthday
+NIL	.

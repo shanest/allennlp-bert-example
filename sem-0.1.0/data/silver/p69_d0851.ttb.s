@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	looking
+REL	for
+DIS	a
+CON	present
+REL	for
+HAS	my
+CON	mother
+NIL	.

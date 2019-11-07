@@ -1,0 +1,13 @@
+QUE	What
+PER	Tom
+PST	was
+EXS	trying
+SUB	to
+EXS	tell
+PER	Mary
+EPS	made
+NOT	no
+CON	sense
+REL	to
+PRO	her
+NIL	.

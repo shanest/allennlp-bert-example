@@ -1,0 +1,10 @@
+PRO	It
+PST	cost
+PRO	me
+QUC	100
+UOM	yen
+SUB	to
+EXS	send
+DEF	the
+CON	letter
+NIL	.

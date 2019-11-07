@@ -1,0 +1,13 @@
+IMP	If
+PER	Tom
+NOW	does
+NOT	n't
+EXS	eat
+PRX	this
+NIL	,
+IST	please
+EXS	give
+PRO	it
+REL	to
+PER	Mary
+NIL	.

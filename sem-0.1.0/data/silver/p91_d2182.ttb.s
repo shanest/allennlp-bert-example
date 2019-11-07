@@ -1,0 +1,11 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	know
+IST	exactly
+QUE	what
+PRO	you
+EPS	said
+REL	to
+PER	Tom
+NIL	.

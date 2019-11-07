@@ -1,0 +1,12 @@
+GPE	China
+AND	and
+GEO	Mongolia
+NOW	are
+EXS	separated
+REL	by
+DEF	the
+ORG	Great
+ORG	Wall
+AND	of
+GPE	China
+NIL	.

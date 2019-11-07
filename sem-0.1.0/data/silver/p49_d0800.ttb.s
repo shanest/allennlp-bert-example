@@ -1,0 +1,16 @@
+REL	Between
+PRO	you
+COO	and
+PRO	me
+EQU	,
+PER	Tom
+HAS	's
+CON	idea
+NOW	does
+NOT	n't
+EXS	appeal
+REL	to
+PRO	me
+INT	very
+QUC	much
+NIL	.

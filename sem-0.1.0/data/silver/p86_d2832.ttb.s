@@ -1,0 +1,16 @@
+PRO	I
+NOW	have
+LES	less
+MOR	than
+DIS	an
+CON	hour
+EPS	left
+SUB	until
+PRO	I
+NEC	have
+SUB	to
+EXS	tell
+PER	Tom
+HAS	my
+CON	decision
+NIL	.

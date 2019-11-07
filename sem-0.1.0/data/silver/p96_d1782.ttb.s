@@ -1,0 +1,14 @@
+DIS	A
+CON	helicopter
+NOW	is
+IST	able
+SUB	to
+EXS	take
+REL	off
+AND	and
+CON	land
+AND	straight
+IST	up
+AND	and
+IST	down
+NIL	.

@@ -1,0 +1,10 @@
+HAS	My
+ROL	sister
+EPS	sang
+DIS	an
+CON	English
+CON	song
+REL	at
+DEF	the
+CON	party
+NIL	.

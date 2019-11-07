@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+NOT	n't
+EXS	heard
+REL	from
+PER	Mary
+REL	since
+IST	last
+MOY	June
+NIL	.

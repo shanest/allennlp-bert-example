@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	leaving
+PRO	it
+SUB	to
+PRO	you
+SUB	to
+EXS	decide
+DST	that
+NIL	.

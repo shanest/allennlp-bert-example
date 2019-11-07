@@ -1,0 +1,13 @@
+DEF	The
+CON	painting
+NOW	shows
+DIS	a
+IST	young
+CON	woman
+EXG	combing
+HAS	her
+CON	hair
+REL	before
+DIS	a
+CON	mirror
+NIL	.

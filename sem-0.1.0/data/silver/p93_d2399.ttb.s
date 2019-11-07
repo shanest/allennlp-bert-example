@@ -1,0 +1,16 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+IST	exactly
+QUE	what
+CON	time
+PER	Mary
+HAS	's
+CON	train
+EPS	pulled
+IST	out
+AND	of
+DEF	the
+CON	station
+NIL	.

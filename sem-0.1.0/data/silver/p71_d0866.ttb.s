@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	visiting
+HAS	my
+CON	grandmother
+REL	in
+DEF	the
+CON	hospital
+NIL	.

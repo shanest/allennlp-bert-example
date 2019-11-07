@@ -1,0 +1,10 @@
+AND	Could
+PRO	you
+IST	please
+EXS	move
+AND	over
+NIL	to
+EXS	make
+DIS	some
+CON	room
+QUE	?

@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+AND	always
+PFT	been
+EXS	afraid
+SUB	that
+PRX	this
+FUT	would
+EXS	happen
+NIL	.

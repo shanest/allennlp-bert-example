@@ -1,0 +1,9 @@
+QUC	One
+IST	rainy
+CON	evening
+PRO	he
+PST	was
+EXS	driving
+DIS	a
+CON	car
+NIL	.

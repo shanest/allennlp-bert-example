@@ -1,0 +1,14 @@
+FUT	Will
+PRO	you
+EXS	help
+PRO	me
+EXS	pick
+AND	out
+DIS	a
+CON	tie
+SUB	to
+EXS	go
+REL	with
+PRX	this
+CON	suit
+QUE	?

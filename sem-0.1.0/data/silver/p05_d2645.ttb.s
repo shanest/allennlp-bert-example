@@ -1,0 +1,17 @@
+PRO	It
+NOW	is
+XCL	only
+IST	recently
+SUB	that
+IST	crude
+CON	oil
+NOW	has
+EXS	come
+SUB	to
+EXS	be
+EXS	used
+SUB	to
+EXS	make
+REL	chemical
+CON	products
+NIL	.

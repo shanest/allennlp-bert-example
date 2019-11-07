@@ -1,0 +1,9 @@
+PRO	You
+NOW	are
+DEF	the
+INT	most
+IST	boring
+CON	person
+PRO	I
+ENS	know
+NIL	.

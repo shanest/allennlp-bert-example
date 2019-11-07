@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+EXS	leaving
+REL	for
+GPE	Peru
+FUT	tomorrow
+NIL	,
+NOW	is
+NOT	n't
+PRO	he
+QUE	?

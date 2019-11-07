@@ -1,0 +1,12 @@
+AND	And
+AND	then
+PER	Tom
+EPS	started
+CON	shouting
+COO	and
+EPS	told
+AND	everyone
+SUB	to
+EXS	go
+CON	home
+NIL	.

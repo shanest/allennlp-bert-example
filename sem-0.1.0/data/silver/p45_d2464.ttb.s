@@ -1,0 +1,10 @@
+DEF	The
+CON	ear
+IST	canal
+ENS	sends
+IST	sound
+CON	waves
+REL	to
+DEF	the
+CON	eardrum
+NIL	.

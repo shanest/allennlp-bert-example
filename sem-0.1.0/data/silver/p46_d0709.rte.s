@@ -1,0 +1,36 @@
+GPE	Argentina
+AND	and
+GEO	Britain
+EPS	announced
+DIS	an
+CON	agreement
+DOW	Thursday
+SUB	to
+EXS	restore
+IST	full
+IST	diplomatic
+CON	ties
+INT	nearly
+QUC	eight
+CON	years
+SUB	after
+PRO	they
+EPS	fought
+DIS	a
+CON	74
+CON	day
+CON	war
+AND	over
+DEF	the
+CON	Falkland Islands
+DIS	a
+IST	sparsely
+IST	populated
+CON	archipelago
+REL	off
+GPE	Argentina
+CON	coast
+REL	in
+DEF	the
+CON	South Atlantic Ocean
+NIL	.

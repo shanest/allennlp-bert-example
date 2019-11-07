@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	met
+DIS	a
+IST	Canadian
+PRO	I
+PST	did
+NOT	n't
+EXS	like
+NIL	.

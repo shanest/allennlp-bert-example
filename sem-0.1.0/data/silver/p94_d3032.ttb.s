@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	want
+AND	any
+AND	of
+PER	Mary
+HAS	's
+CON	money
+NIL	.

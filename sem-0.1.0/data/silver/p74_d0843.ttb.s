@@ -1,0 +1,9 @@
+PRO	He
+EPS	entered
+DEF	the
+CON	room
+REL	with
+HAS	his
+CON	hat
+REL	off
+NIL	.

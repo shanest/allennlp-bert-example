@@ -1,0 +1,11 @@
+PRO	I
+EPS	bought
+DIS	some
+CON	bread
+REL	on
+DEF	the
+CON	way
+CON	home
+REL	from
+CON	work
+NIL	.

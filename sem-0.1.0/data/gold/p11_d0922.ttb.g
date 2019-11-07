@@ -1,0 +1,9 @@
+DEF	The
+CON	hare
+EPS	stole
+DIS	a
+CON	carrot
+REL	from
+DEF	the
+CON	garden
+NIL	.

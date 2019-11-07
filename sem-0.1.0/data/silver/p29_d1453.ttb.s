@@ -1,0 +1,11 @@
+DEF	The
+CON	man
+EPS	stepped
+IST	aside
+REL	for
+PRO	her
+SUB	to
+EXS	enter
+DEF	the
+CON	room
+NIL	.

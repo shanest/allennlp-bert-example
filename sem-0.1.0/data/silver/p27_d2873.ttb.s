@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	trying
+SUB	to
+EXS	remember
+QUE	what
+HAS	his
+CON	name
+NOW	is
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+POS	can
+NOT	not
+EXS	drop
+PER	Taninna
+PRX	here
+NIL	.
+UNK	There
+NOW	is
+DIS	a
+CON	policeman
+NIL	.

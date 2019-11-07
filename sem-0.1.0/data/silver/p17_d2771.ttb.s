@@ -1,0 +1,12 @@
+PER	Tom
+EPS	told
+PER	Mary
+AND	that
+PER	John
+NOW	does
+NOT	n't
+EXS	like
+SUB	to
+EXS	play
+CON	tennis
+NIL	.

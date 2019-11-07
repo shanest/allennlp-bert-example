@@ -1,0 +1,10 @@
+PER	Tom
+EPS	noticed
+DEF	the
+CON	wedding
+CON	ring
+REL	on
+PER	Mary
+HAS	's
+CON	finger
+NIL	.

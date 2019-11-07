@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+PRO	you
+NOW	're
+NOT	not
+UNK	ready
+SUB	to
+EXS	deal
+REL	with
+PRX	this
+NIL	.

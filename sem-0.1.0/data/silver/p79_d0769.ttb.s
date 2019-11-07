@@ -1,0 +1,11 @@
+DEF	The
+CON	spirit
+NOW	is
+IST	willing
+NIL	,
+COO	but
+DEF	the
+CON	flesh
+NOW	is
+IST	weak
+NIL	.

@@ -1,0 +1,10 @@
+CON	Time
+ENS	goes
+REL	by
+IST	quickly
+SUB	when
+PRO	you
+NOW	're
+EXS	having
+CON	fun
+NIL	.

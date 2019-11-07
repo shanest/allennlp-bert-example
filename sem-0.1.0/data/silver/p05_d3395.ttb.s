@@ -1,0 +1,12 @@
+PRO	I
+EPS	thought
+PRO	you
+PST	'd
+EXS	be
+IST	busy
+EXS	getting
+IST	ready
+REL	for
+HAS	your
+CON	trip
+NIL	.

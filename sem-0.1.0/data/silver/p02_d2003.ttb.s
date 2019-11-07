@@ -1,0 +1,12 @@
+PRO	He
+EPS	paid
+AND	as
+QUV	much
+AND	as
+DIS	a
+QUC	million
+UOM	dollars
+REL	for
+DEF	the
+CON	painting
+NIL	.

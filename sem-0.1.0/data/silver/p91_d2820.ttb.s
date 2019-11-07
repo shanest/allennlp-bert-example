@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	how
+QUC	much
+PER	Mary
+ENS	loves
+PRO	him
+NIL	.

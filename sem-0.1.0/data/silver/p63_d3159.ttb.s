@@ -1,0 +1,14 @@
+DEF	The
+ROL	lawyer
+ENS	seems
+SUB	to
+EXS	think
+PRO	it
+FUT	'll
+EXS	be
+DIS	an
+IST	open
+COO	and
+EPS	shut
+CON	case
+NIL	.

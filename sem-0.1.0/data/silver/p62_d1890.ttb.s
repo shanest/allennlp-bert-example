@@ -1,0 +1,13 @@
+PRO	I
+EPS	wrote
+IST	down
+HAS	her
+CON	address
+AND	so
+SUB	that
+PRO	I
+FUT	would
+NOT	n't
+EXS	forget
+PRO	it
+NIL	.

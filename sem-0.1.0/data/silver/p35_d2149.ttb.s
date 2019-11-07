@@ -1,0 +1,10 @@
+PER	Tom
+EPS	dropped
+IST	out
+AND	of
+CON	school
+SUB	when
+PRO	he
+PST	was
+QUC	thirteen
+NIL	.

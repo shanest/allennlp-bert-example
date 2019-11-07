@@ -1,0 +1,14 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	take
+PRX	this
+CON	anymore
+NIL	.
+PRO	I
+NOW	've
+EXS	lost
+HAS	my
+CON	temper
+IST	completely
+NIL	.

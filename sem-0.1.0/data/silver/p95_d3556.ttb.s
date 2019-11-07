@@ -1,0 +1,10 @@
+PRO	He
+FUT	'll
+EXS	make
+DIS	a
+IST	good
+ROL	lawyer
+IST	sooner
+DIS	or
+IST	later
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+EPS	happened
+SUB	that
+PRO	I
+EPS	sat
+IST	next
+REL	to
+PRO	her
+REL	at
+DIS	a
+CON	meeting
+NIL	.

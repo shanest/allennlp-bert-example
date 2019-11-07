@@ -1,0 +1,10 @@
+PRO	I
+EPS	waited
+AND	all
+CON	day
+NIL	,
+COO	but
+PER	Tom
+NOT	never
+EPS	came
+NIL	.

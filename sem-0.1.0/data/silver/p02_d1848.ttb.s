@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+EXT	known
+PER	Mary
+IST	ever
+SUB	since
+PRO	they
+PST	were
+CON	children
+NIL	.

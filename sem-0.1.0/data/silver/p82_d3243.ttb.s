@@ -1,0 +1,11 @@
+DEF	The
+CON	meeting
+POS	ca
+NOT	n't
+EXS	be
+EXS	held
+REL	until
+DOW	Monday
+REL	at
+TOP	earliest
+NIL	.

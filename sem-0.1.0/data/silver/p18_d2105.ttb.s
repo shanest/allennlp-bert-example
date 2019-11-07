@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PER	Tom
+NOW	is
+INT	too
+EXS	young
+SUB	to
+EXS	be
+EXS	dating
+NIL	.

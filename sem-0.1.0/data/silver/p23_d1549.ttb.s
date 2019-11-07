@@ -1,0 +1,10 @@
+EXS	Write
+REL	to
+PRO	me
+AND	as
+IST	soon
+AND	as
+PRO	you
+EXS	reach
+IST	there
+NIL	.

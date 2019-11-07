@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+NOT	nothing
+AND	about
+PRO	him
+AND	beyond
+QUE	what
+PRO	you
+EPS	told
+PRO	me
+NIL	.

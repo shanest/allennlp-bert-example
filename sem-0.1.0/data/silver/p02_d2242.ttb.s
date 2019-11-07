@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	like
+CON	girls
+AND	who
+EPS	put
+REL	on
+CON	airs
+NIL	.

@@ -1,0 +1,9 @@
+PRX	This
+CON	bastard
+ENS	thinks
+SUB	that
+AND	everyone
+NEC	should
+NOW	worship
+PRO	him
+NIL	.

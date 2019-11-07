@@ -1,0 +1,11 @@
+PRO	I
+NOW	think
+AND	about
+PRO	you
+AND	every
+CON	time
+PRO	I
+ENS	brush
+HAS	my
+CON	teeth
+NIL	.

@@ -1,0 +1,10 @@
+EXS	Tell
+PRO	us
+QUE	what
+PRO	you
+NOW	know
+AND	about
+PER	Tom
+HAS	's
+CON	problems
+NIL	.

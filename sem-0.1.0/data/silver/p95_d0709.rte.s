@@ -1,0 +1,22 @@
+DEF	The
+ORG	International Court
+AND	of
+ORG	Justice
+EPS	ruled
+REL	in
+GPE	Chad
+HAS	's
+CON	favour
+REL	in
+DIS	a
+IST	20-year
+CON	border
+CON	dispute
+REL	with
+GEO	Libya
+AND	which
+NOW	has
+EXS	caused
+QUC	two
+CON	wars
+NIL	.

@@ -1,0 +1,11 @@
+NOT	No
+QUC	one
+EPS	won
+DEF	the
+CON	game
+NIL	.
+PRO	It
+PST	was
+DIS	a
+CON	draw
+NIL	.

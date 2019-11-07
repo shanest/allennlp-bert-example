@@ -1,0 +1,11 @@
+PER	Tom
+EPS	made
+DIS	a
+CON	list
+REL	of
+CON	places
+PRO	he
+ENS	wants
+NIL	to
+EXS	visit
+NIL	.

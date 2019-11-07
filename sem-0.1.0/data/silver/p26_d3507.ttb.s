@@ -1,0 +1,9 @@
+NOW	Now
+EXS	let
+HAS	's
+EXS	see
+QUE	what
+PRO	you
+POS	can
+EXS	do
+NIL	!

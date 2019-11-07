@@ -1,0 +1,10 @@
+PRO	I
+ENS	go
+REL	for
+DIS	a
+CON	jog
+AND	every
+CON	morning
+REL	before
+CON	breakfast
+NIL	.

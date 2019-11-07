@@ -1,0 +1,11 @@
+FUT	Will
+PRO	you
+NOW	promise
+PRO	me
+SUB	that
+PRO	you
+FUT	will
+NOT	never
+EXS	leave
+PRO	me
+QUE	?

@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+EXS	unusual
+REL	for
+PER	Tom
+SUB	to
+EXS	be
+SUB	so
+EXS	quiet
+NIL	.

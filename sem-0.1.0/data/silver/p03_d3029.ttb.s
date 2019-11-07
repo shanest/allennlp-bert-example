@@ -1,0 +1,10 @@
+PRX	This
+CON	work
+POS	can
+NIL	be
+EXS	finished
+REL	in
+QUC	half
+DIS	an
+UOM	hour
+NIL	.

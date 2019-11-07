@@ -1,0 +1,14 @@
+PER	Love
+NOW	is
+EXS	like
+DEF	the
+CON	measles
+COO	;
+PRO	we
+AND	all
+NEC	have
+SUB	to
+EXS	go
+AND	through
+PRO	it
+NIL	.

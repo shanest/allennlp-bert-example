@@ -1,0 +1,10 @@
+DST	That
+ENS	's
+INT	quite
+ALT	another
+CON	thing
+NIL	to
+QUE	what
+PRO	you
+EPS	promised
+NIL	.

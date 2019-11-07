@@ -1,0 +1,11 @@
+DEF	The
+CON	police
+EPS	arrested
+DEF	the
+CON	man
+AND	who
+PST	had
+EXS	murdered
+DEF	the
+CON	girl
+NIL	.

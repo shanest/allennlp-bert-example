@@ -1,0 +1,16 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	feel
+AND	like
+EXS	studying
+NOW	today
+NIL	.
+EXS	Let
+PRO	's
+ENS	go
+REL	to
+DIS	a
+CON	soccer
+CON	game
+NIL	.

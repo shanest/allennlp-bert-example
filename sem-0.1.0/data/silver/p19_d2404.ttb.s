@@ -1,0 +1,13 @@
+CON	Curiosity
+EPS	killed
+DEF	the
+CON	cat
+NIL	,
+COO	but
+CON	satisfaction
+EPS	brought
+PRO	it
+IST	back
+REL	to
+CON	life
+NIL	.

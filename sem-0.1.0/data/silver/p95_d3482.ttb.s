@@ -1,0 +1,11 @@
+PRO	We
+NOW	get
+EXS	paid
+REL	on
+DEF	the
+IST	third
+DOW	Friday
+AND	of
+AND	every
+CON	month
+NIL	.

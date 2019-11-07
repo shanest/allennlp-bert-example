@@ -1,0 +1,11 @@
+PER	Tom
+EPS	took
+HAS	his
+CON	sunglasses
+IST	off
+COO	and
+EPS	handed
+PRO	them
+REL	to
+PER	Mary
+NIL	.

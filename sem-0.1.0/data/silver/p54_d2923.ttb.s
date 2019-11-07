@@ -1,0 +1,9 @@
+PRO	We
+EPS	beat
+HAS	our
+CON	brains
+SUB	to
+EXS	solve
+PRX	this
+CON	problem
+NIL	.

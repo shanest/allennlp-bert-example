@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	afraid
+PRO	we
+POS	ca
+NOT	n't
+EXS	go
+REL	on
+DOW	Monday
+NIL	.

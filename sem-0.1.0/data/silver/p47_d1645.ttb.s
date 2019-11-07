@@ -1,0 +1,9 @@
+PRO	She
+EPS	made
+QUV	many
+CON	mistakes
+REL	in
+EXS	typing
+DEF	the
+CON	report
+NIL	.

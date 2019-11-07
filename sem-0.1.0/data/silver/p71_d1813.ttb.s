@@ -1,0 +1,9 @@
+AND	As
+ALT	yet
+NIL	,
+DEF	the
+CON	body
+NOW	has
+NOT	not
+EXS	resurfaced
+NIL	.

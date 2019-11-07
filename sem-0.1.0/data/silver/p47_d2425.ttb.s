@@ -1,0 +1,11 @@
+PRO	He
+EPS	said
+SUB	that
+PRO	he
+PST	had
+EXS	met
+PRO	him
+DIS	a
+CON	week
+PST	ago
+NIL	.

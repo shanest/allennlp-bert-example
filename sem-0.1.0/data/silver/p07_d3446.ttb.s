@@ -1,0 +1,11 @@
+DEF	The
+CON	truth
+NOW	is
+EQU	,
+PER	Ellen
+EPS	liked
+PRO	you
+DIS	a
+IST	whole
+CON	lot
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	help
+COO	but
+EXS	be
+EXS	impressed
+REL	by
+PER	Mary
+HAS	's
+CON	courage
+NIL	.

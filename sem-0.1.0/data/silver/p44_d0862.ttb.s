@@ -1,0 +1,13 @@
+DEF	The
+IST	first
+CON	time
+PRO	I
+EPS	saw
+DEF	the
+GPO	Romanian
+CON	soccer
+CON	players
+PST	was
+REL	in
+GEO	Madrid
+NIL	.

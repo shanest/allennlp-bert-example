@@ -1,0 +1,9 @@
+EXS	Let
+HAS	's
+NOW	see
+QUE	what
+PER	Tom
+POS	can
+EXS	tell
+PRO	us
+NIL	.

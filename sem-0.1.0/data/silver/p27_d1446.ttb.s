@@ -1,0 +1,10 @@
+HAS	My
+ROL	cousin
+ENS	is
+REL	from
+GPE	Egypt
+NIL	.
+PRO	He
+NOW	is
+GPO	Egyptian
+NIL	.

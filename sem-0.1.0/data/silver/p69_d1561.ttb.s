@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	understand
+QUE	why
+PRO	we
+NOW	're
+EXS	doing
+PRX	this
+NIL	.

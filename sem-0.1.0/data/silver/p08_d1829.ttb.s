@@ -1,0 +1,10 @@
+PRO	We
+NOW	're
+EXG	doing
+AND	everything
+PRO	we
+POS	can
+SUB	to
+EXS	find
+PER	Tom
+NIL	.

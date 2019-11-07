@@ -1,0 +1,12 @@
+DEF	The
+ROL	natives
+PST	were
+EXS	tormented
+REL	by
+DIS	a
+IST	long
+CON	spell
+REL	of
+IST	dry
+CON	weather
+NIL	.

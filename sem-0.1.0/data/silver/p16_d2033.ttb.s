@@ -1,0 +1,11 @@
+NOW	Have
+PRO	you
+PST	had
+DIS	a
+CON	chance
+SUB	to
+EXS	talk
+REL	to
+PER	Tom
+ALT	yet
+QUE	?

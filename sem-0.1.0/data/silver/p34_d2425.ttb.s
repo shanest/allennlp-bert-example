@@ -1,0 +1,16 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+REL	at
+QUC	one
+AND	of
+DEF	the
+CON	tables
+REL	in
+DEF	the
+CON	back
+AND	of
+DEF	the
+CON	restaurant
+NIL	.

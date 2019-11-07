@@ -1,0 +1,12 @@
+PRO	I
+EPS	liked
+DEF	the
+IST	sour
+CON	cherry
+CON	strudel
+AND	and
+DEF	the
+CON	nut
+EPS	filled
+IST	strudel
+NIL	.

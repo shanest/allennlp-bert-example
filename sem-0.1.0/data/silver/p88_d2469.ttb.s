@@ -1,0 +1,10 @@
+PRO	I
+EPS	met
+DIS	a
+CON	party
+AND	of
+CON	students
+REL	on
+DEF	the
+CON	street
+NIL	.

@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+IST	ever
+PFT	been
+EXS	stuck
+REL	in
+DIS	an
+CON	elevator
+QUE	?

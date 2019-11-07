@@ -1,0 +1,9 @@
+PRO	I
+EPS	wondered
+QUE	why
+PER	Tom
+PST	was
+EXS	absent
+REL	from
+CON	school
+NIL	.

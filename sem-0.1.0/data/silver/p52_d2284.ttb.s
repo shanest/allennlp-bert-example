@@ -1,0 +1,11 @@
+ORG	Depression
+NOW	is
+IST	common
+AND	among
+IST	young
+CON	adults
+AND	who
+NOW	have
+NOW	Asperger
+EXS	syndrome
+NIL	.

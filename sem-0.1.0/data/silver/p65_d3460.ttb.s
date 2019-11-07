@@ -1,0 +1,11 @@
+IMP	If
+DIS	someone
+HAS	's
+REL	in
+CON	trouble
+NIL	,
+PRO	you
+NEC	should
+EXS	help
+PRO	them
+NIL	.

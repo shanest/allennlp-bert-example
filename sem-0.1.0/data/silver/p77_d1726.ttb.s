@@ -1,0 +1,9 @@
+PRO	I
+FUT	would
+EXS	like
+SUB	to
+EXS	go
+SUB	to
+EXS	sleep
+NOW	now
+NIL	.

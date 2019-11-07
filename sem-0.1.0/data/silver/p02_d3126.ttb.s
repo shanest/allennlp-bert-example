@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+EXG	growing
+AND	like
+CON	mushrooms
+REL	in
+DEF	the
+CON	rain
+NIL	.

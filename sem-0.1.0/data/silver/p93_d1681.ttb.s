@@ -1,0 +1,12 @@
+DEF	The
+CON	plan
+FUT	would
+EXT	've
+EXS	worked
+NIL	,
+IMP	if
+PRO	you
+PST	had
+NOT	n't
+EXS	interfered
+NIL	.

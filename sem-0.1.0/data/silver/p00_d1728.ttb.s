@@ -1,0 +1,11 @@
+DEF	The
+IST	old
+CON	man
+NOW	is
+EXG	taking
+DIS	a
+CON	walk
+REL	in
+DEF	the
+CON	park
+NIL	.

@@ -1,0 +1,10 @@
+QUV	Many
+CON	industrialists
+NOW	have
+EXS	expressed
+HAS	their
+CON	concern
+AND	about
+DEF	the
+CON	economy
+NIL	.

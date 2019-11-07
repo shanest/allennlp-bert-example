@@ -1,0 +1,14 @@
+ROL	Mr.
+PER	Satoyama
+HAS	's
+CON	work
+EPS	made
+DIS	a
+IST	big
+CON	impression
+REL	in
+DEF	the
+CON	world
+AND	of
+GEO	haiku
+NIL	.

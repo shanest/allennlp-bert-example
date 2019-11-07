@@ -1,0 +1,11 @@
+DEF	The
+IST	sleepy
+CON	town
+NOW	has
+PFT	been
+EXS	transformed
+REL	into
+DIS	a
+EXS	bustling
+CON	city
+NIL	.

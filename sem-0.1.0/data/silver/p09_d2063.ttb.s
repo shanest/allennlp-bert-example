@@ -1,0 +1,13 @@
+PER	Tom
+EPS	opened
+DEF	the
+CON	envelope
+NIL	,
+EPS	pulled
+IST	out
+DEF	the
+CON	letter
+COO	and
+EPS	unfolded
+PRO	it
+NIL	.

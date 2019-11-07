@@ -1,0 +1,10 @@
+DEF	The
+CON	queue
+NOW	is
+INT	too
+IST	long
+REL	at
+DEF	the
+CON	ticket
+CON	office
+NIL	.

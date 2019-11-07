@@ -1,0 +1,10 @@
+NOT	Not
+XCL	only
+PRO	he
+COO	but
+ALT	also
+PRO	I
+NOW	am
+SUB	to
+EXS	go
+NIL	.

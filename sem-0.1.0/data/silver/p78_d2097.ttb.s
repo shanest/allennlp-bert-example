@@ -1,0 +1,16 @@
+PRO	We
+POS	could
+EXS	do
+REL	with
+PER	Tom
+HAS	's
+CON	help
+NIL	.
+AND	Could
+PRO	you
+ENS	work
+REL	on
+PRO	him
+DIS	a
+CON	bit
+QUE	?

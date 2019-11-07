@@ -1,0 +1,11 @@
+PRO	He
+EXS	gone
+NIL	,
+PER	Mary
+EPS	remained
+IST	thus
+EXS	alone
+REL	in
+PRX	this
+CON	sentence
+NIL	.

@@ -1,0 +1,9 @@
+AND	Everyone
+NOW	has
+HAS	their
+IST	own
+IST	strong
+AND	and
+IST	weak
+CON	points
+NIL	.

@@ -1,0 +1,11 @@
+QUE	What
+NOW	is
+DEF	the
+IST	real
+CON	name
+AND	of
+NIL	"
+ROL	Dr.
+ORG	Death
+NIL	"
+QUE	?

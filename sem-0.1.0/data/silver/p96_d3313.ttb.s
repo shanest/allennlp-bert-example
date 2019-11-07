@@ -1,0 +1,9 @@
+PRO	He
+EPS	examined
+DEF	the
+IST	spare
+CON	parts
+QUC	one
+REL	after
+ALT	another
+NIL	.

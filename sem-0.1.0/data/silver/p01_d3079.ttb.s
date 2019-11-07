@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+EXS	going
+NIL	to
+EXS	chock
+DEF	the
+CON	wheels
+SUB	so
+DEF	the
+CON	car
+FUT	wo
+NOT	n't
+EXS	move
+NIL	.

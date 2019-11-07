@@ -1,0 +1,9 @@
+PER	Tom
+EPS	tried
+SUB	to
+EXS	get
+PER	Mary
+SUB	to
+EXS	help
+PER	John
+NIL	.

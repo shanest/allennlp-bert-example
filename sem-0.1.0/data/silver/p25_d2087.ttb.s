@@ -1,0 +1,10 @@
+GEO	Yokohama
+NOW	is
+QUC	one
+AND	of
+DEF	the
+TOP	largest
+CON	cities
+REL	in
+GPE	Japan
+NIL	.

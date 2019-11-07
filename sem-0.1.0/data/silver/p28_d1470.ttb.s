@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+IST	ready
+SUB	to
+EXS	give
+IST	up
+HAS	my
+CON	position
+NIL	.

@@ -1,0 +1,11 @@
+UNK	Spring
+NOW	is
+PRX	here
+NIL	.
+PRO	It
+NOW	is
+EXS	getting
+IST	warmer
+AND	every
+CON	day
+NIL	.

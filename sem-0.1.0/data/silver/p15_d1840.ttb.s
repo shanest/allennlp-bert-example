@@ -1,0 +1,11 @@
+PRO	I
+FUT	'll
+EXS	call
+PRO	you
+AND	as
+IST	soon
+SUB	as
+PRO	I
+NOW	'm
+EXS	free
+NIL	.

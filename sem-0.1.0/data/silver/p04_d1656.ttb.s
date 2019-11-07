@@ -1,0 +1,10 @@
+PRO	He
+EPS	stood
+IST	out
+SUB	because
+PRO	he
+PST	was
+EXG	wearing
+DIS	a
+CON	suit
+NIL	.

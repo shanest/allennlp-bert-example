@@ -1,0 +1,11 @@
+PRO	I
+NOW	have
+DIS	a
+CON	friend
+REL	in
+GPE	Spain
+AND	who
+ENS	speaks
+QUC	five
+CON	languages
+NIL	.

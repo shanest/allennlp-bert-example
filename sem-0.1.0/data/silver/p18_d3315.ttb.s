@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	dying
+SUB	to
+EXS	know
+QUE	what
+HAS	's
+CON	inside
+NIL	.

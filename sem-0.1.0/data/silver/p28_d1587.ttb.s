@@ -1,0 +1,11 @@
+PER	Tom
+ENS	has
+NOT	no
+CON	idea
+QUE	how
+SUB	to
+EXS	deal
+REL	with
+PRX	this
+CON	problem
+NIL	.

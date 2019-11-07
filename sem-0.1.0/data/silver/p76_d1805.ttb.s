@@ -1,0 +1,9 @@
+PRO	He
+EPS	took
+IST	away
+QUE	what
+IST	little
+CON	money
+PRO	I
+PST	had
+NIL	.

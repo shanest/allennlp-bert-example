@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	taking
+DIS	a
+CON	trip
+REL	to
+GPE	Armenia
+AND	next
+CON	year
+NIL	.

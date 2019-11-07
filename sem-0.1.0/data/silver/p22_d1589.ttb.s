@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	been
+REL	on
+HAS	my
+CON	feet
+REL	for
+QUC	three
+CON	days
+NIL	.

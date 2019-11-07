@@ -1,0 +1,15 @@
+PER	Tom
+NOW	is
+DEF	the
+XCL	only
+GPO	American
+PER	Mary
+ENS	knows
+HAS	whose
+CON	father
+PST	was
+NOT	n't
+EXS	born
+REL	in
+GEO	America
+NIL	.

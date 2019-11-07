@@ -1,0 +1,10 @@
+NIL	There
+NOW	are
+QUV	many
+CON	tourists
+REL	in
+DEF	the
+CON	city
+REL	on
+CON	holidays
+NIL	.

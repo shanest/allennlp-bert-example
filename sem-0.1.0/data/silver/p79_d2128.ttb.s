@@ -1,0 +1,13 @@
+SUB	When
+PRO	I
+EPS	woke
+IST	up
+NIL	,
+PRO	I
+EPS	found
+PRO	I
+PST	had
+PFT	been
+EXS	tied
+IST	up
+NIL	.

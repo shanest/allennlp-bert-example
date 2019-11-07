@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	do
+NOT	n't
+EXS	go
+REL	to
+DEF	the
+CON	movies
+INT	very
+IST	often
+NIL	.

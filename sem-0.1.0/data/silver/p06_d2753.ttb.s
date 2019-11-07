@@ -1,0 +1,11 @@
+CON	Hundreds
+AND	of
+CON	people
+NOW	have
+EPS	starved
+REL	to
+CON	death
+REL	in
+DST	that
+CON	district
+NIL	.

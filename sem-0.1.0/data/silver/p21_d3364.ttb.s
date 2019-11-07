@@ -1,0 +1,11 @@
+PRO	He
+EPS	opened
+DEF	the
+CON	window
+SUB	to
+EXS	let
+REL	in
+DIS	some
+IST	fresh
+CON	air
+NIL	.

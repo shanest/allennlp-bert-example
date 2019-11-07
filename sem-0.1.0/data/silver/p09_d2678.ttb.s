@@ -1,0 +1,10 @@
+PRO	I
+PST	was
+EXS	given
+DIS	a
+IST	nice
+CON	present
+REL	by
+HAS	my
+ROL	uncle
+NIL	.

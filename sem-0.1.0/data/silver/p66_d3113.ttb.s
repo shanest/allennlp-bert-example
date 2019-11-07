@@ -1,0 +1,10 @@
+HAS	My
+CON	husband
+NOW	is
+REL	from
+GPE	Angola
+NIL	.
+PRO	He
+NOW	is
+GPO	Angolan
+NIL	.

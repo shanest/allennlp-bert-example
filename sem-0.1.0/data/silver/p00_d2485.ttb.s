@@ -1,0 +1,10 @@
+PER	Tom
+EPS	left
+REL	for
+CON	home
+NIL	well
+AND	over
+DIS	an
+CON	hour
+PST	ago
+NIL	.

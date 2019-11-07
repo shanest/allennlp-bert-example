@@ -1,0 +1,9 @@
+DEF	The
+XCL	only
+CON	thing
+PRO	I
+NOW	have
+NOW	now
+NOW	are
+CON	memories
+NIL	.

@@ -1,0 +1,16 @@
+PRO	She
+EPS	bought
+DIS	a
+CON	toaster
+NIL	,
+DIS	a
+CON	coffeemaker
+NIL	,
+DIS	an
+CON	egg
+CON	cooker
+AND	and
+DIS	a
+CON	hand
+CON	mixer
+NIL	.

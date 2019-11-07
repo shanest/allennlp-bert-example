@@ -1,0 +1,9 @@
+PRO	We
+ENS	go
+SUB	to
+EXS	see
+PRO	her
+QUC	twice
+DIS	a
+CON	day
+NIL	.

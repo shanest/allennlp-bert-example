@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+EXT	gotten
+EXS	used
+SUB	to
+EXS	eating
+GPO	Japanese
+CON	food
+ALT	yet
+QUE	?

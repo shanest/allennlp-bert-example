@@ -1,0 +1,10 @@
+PRO	He
+EPS	broke
+IST	off
+REL	in
+DEF	the
+CON	middle
+AND	of
+HAS	his
+CON	speech
+NIL	.

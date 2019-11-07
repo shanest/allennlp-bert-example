@@ -1,0 +1,10 @@
+PER	Tom
+ENS	bakes
+HAS	his
+IST	own
+CON	bread
+REL	with
+DIS	a
+CON	bread
+CON	machine
+NIL	.

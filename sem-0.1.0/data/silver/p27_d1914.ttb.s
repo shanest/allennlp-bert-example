@@ -1,0 +1,10 @@
+PRO	She
+PST	had
+NOT	no
+CON	idea
+QUE	what
+PRO	I
+PST	was
+EXS	talking
+IST	about
+NIL	.

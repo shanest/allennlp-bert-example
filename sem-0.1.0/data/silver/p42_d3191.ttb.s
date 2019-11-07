@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+IST	able
+SUB	to
+EXS	buy
+AND	anything
+REL	in
+DIS	a
+CON	convenience
+CON	store
+NIL	.

@@ -1,0 +1,12 @@
+EXS	Keep
+REL	in
+CON	mind
+AND	that
+CON	smoking
+NOW	is
+NOT	not
+EXS	good
+REL	for
+HAS	your
+CON	health
+NIL	.

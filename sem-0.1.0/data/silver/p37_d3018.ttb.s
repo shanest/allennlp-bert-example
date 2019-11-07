@@ -1,0 +1,15 @@
+PER	Tom
+EPS	loved
+EXG	singing
+NIL	.
+AND	However
+NIL	,
+NOT	no
+CON	one
+EPS	wanted
+SUB	to
+EXS	listen
+REL	to
+PRO	him
+EXS	sing
+NIL	.

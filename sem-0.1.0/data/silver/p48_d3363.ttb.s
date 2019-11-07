@@ -1,0 +1,9 @@
+EXS	Open
+DEF	the
+CON	door
+AND	and
+EXS	let
+REL	in
+DEF	the
+CON	dog
+NIL	.

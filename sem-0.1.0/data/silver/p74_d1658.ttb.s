@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+IST	always
+EXT	had
+CON	trouble
+EXS	reading
+REL	between
+DEF	the
+CON	lines
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+EPS	took
+REL	off
+HAS	his
+CON	wedding
+CON	ring
+COO	and
+EPS	threw
+PRO	it
+REL	into
+DEF	the
+CON	pond
+NIL	.

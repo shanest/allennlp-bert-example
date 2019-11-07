@@ -1,0 +1,12 @@
+UNK	There
+NOW	is
+NOT	no
+CON	way
+PRO	I
+NOW	'm
+EXS	letting
+PRO	you
+NOW	do
+PRX	this
+AND	alone
+NIL	.

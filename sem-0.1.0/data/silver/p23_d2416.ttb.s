@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+IST	quite
+IST	healthy
+EXG	being
+DIS	a
+IST	little
+CON	ill
+REL	for
+DIS	a
+CON	while
+NIL	.

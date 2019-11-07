@@ -1,0 +1,14 @@
+PRO	It
+NOT	never
+EPS	crossed
+HAS	my
+CON	mind
+SUB	that
+PRO	he
+FUT	would
+IST	actually
+EXS	carry
+AND	out
+HAS	his
+CON	threat
+NIL	.

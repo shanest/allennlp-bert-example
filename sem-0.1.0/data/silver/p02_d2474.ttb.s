@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+NOT	n't
+SUB	as
+EXS	stupid
+SUB	as
+PRO	he
+ENS	looks
+NIL	.

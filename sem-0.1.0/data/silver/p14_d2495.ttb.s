@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+AND	both
+EXS	talking
+REL	at
+DEF	the
+IST	same
+CON	time
+NIL	.

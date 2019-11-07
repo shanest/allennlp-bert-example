@@ -1,0 +1,12 @@
+PRO	It
+PST	was
+EXS	naughty
+AND	of
+PER	Mary
+SUB	to
+EXS	pull
+DEF	the
+CON	kitten
+HAS	's
+CON	tail
+NIL	.

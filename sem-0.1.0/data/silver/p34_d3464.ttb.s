@@ -1,0 +1,16 @@
+CON	Sound
+ENS	needs
+EXS	matter
+SUB	to
+EXS	propagate
+AND	through
+NIL	,
+IST	however
+IST	cosmic
+CON	noise
+DIS	or
+IST	electromagnetic
+CON	waves
+NOW	do
+NOT	n't
+NIL	.

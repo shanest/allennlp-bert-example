@@ -1,0 +1,14 @@
+SUB	When
+PRO	I
+EPS	got
+IST	up
+NIL	,
+DEF	the
+CON	sun
+PST	was
+IST	already
+EXS	high
+REL	in
+DEF	the
+CON	sky
+NIL	.

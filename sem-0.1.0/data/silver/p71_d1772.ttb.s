@@ -1,0 +1,9 @@
+PRO	I
+EPS	talked
+REL	to
+HAS	my
+CON	friend
+REL	in
+DEF	the
+ORG	FBI
+NIL	.

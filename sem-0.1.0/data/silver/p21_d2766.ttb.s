@@ -1,0 +1,14 @@
+PRO	I
+EPS	had
+CON	stage
+EXS	fright
+REL	at
+IST	first
+NIL	,
+BUT	but
+PRO	I
+PST	got
+AND	over
+PRO	it
+IST	quickly
+NIL	.

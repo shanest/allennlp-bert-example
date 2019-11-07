@@ -1,0 +1,10 @@
+PRO	I
+ENS	hate
+CON	quotations
+NIL	.
+EXS	Tell
+PRO	me
+QUE	what
+PRO	you
+NOW	know
+NIL	.

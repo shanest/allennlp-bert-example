@@ -1,0 +1,11 @@
+PER	Tom
+ENS	likes
+GPO	American
+CON	movies
+NIL	,
+COO	but
+PER	Mary
+ENS	likes
+IST	European
+CON	movies
+NIL	.

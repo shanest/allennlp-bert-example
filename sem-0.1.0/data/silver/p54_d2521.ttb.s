@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+PFT	been
+EXS	bosom
+CON	friends
+REL	for
+CON	years
+NIL	.

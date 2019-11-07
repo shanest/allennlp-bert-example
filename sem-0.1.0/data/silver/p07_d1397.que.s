@@ -1,0 +1,15 @@
+QUE	What
+IST	ancient
+CON	tribe
+AND	of
+GEO	Mexico
+EPS	left
+AND	behind
+IST	huge
+CON	stone
+CON	heads
+EXG	standing
+INT	6-11
+UOM	feet
+IST	tall
+QUE	?

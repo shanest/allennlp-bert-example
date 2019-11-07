@@ -1,0 +1,15 @@
+NOT	Not
+XCL	only
+CON	Esperantists
+NIL	,
+BUT	but
+ALT	also
+CON	supporters
+AND	of
+CON	Esperanto
+POS	may
+EXS	participate
+REL	in
+DEF	the
+ORG	Congress
+NIL	.

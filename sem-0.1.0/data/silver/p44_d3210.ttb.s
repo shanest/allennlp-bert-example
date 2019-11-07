@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	go
+REL	on
+DIS	a
+CON	picnic
+FUT	tomorrow
+NIL	.

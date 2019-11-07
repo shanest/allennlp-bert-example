@@ -1,0 +1,11 @@
+PER	Mary
+NOW	is
+IST	Catholic
+NIL	,
+BUT	but
+HAS	her
+CON	boyfriend
+NOW	is
+DIS	an
+CON	atheist
+NIL	.

@@ -1,0 +1,15 @@
+IMP	If
+DEF	the
+CON	situation
+NOW	does
+NOT	n't
+EXS	improve
+NIL	,
+PRO	I
+FUT	'll
+EXS	be
+IST	obliged
+SUB	to
+EXS	take
+CON	measures
+NIL	.

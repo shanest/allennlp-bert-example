@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+SUB	to
+EXT	have
+EXS	caused
+PRO	you
+AND	such
+CON	inconvenience
+NIL	.

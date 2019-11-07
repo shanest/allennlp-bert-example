@@ -1,0 +1,11 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	have
+INT	too
+QUV	much
+AND	of
+DIS	a
+IST	good
+CON	thing
+NIL	.

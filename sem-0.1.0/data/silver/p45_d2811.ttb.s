@@ -1,0 +1,14 @@
+PER	Tom
+EPS	said
+PRO	he
+PST	was
+INT	so
+IST	full
+PRO	he
+PST	had
+NOT	no
+CON	room
+EPS	left
+REL	for
+CON	dessert
+NIL	.

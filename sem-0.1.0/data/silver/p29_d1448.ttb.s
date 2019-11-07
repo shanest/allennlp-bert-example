@@ -1,0 +1,13 @@
+PER	Bush
+ENS	loves
+GPE	China
+COO	and
+ENS	has
+NOT	no
+CON	intention
+REL	in
+EXS	making
+CON	war
+REL	with
+PRO	it
+NIL	.

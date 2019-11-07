@@ -1,0 +1,10 @@
+DEF	The
+IST	new
+CON	thin-casting
+CON	process
+EPS	shook
+IST	up
+DEF	the
+CON	steel
+CON	industry
+NIL	.

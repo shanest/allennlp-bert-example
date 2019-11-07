@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	how
+PER	Tom
+EPS	found
+IST	out
+NIL	.

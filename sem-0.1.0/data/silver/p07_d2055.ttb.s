@@ -1,0 +1,13 @@
+PRO	He
+HAS	's
+EXT	been
+EXS	saying
+DEF	the
+IST	same
+CON	things
+REL	since
+PRO	I
+IST	first
+EPS	met
+PRO	him
+NIL	.

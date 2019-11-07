@@ -1,0 +1,12 @@
+PRO	They
+NOW	are
+EXS	waiting
+REL	for
+PRO	you
+AND	next
+REL	to
+DEF	the
+IST	long
+COL	white
+CON	house
+NIL	.

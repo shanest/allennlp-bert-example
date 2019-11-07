@@ -1,0 +1,11 @@
+HAS	My
+CON	wife
+FUT	will
+EXS	be
+IST	glad
+SUB	to
+EXS	see
+PRO	you
+NIL	,
+ALT	too
+NIL	.

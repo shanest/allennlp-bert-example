@@ -1,0 +1,13 @@
+NOW	Now
+EXS	listen
+IST	up
+IST	well
+NIL	,
+PRX	these
+POS	might
+IST	well
+EXS	be
+HAS	my
+IST	last
+CON	words
+NIL	.

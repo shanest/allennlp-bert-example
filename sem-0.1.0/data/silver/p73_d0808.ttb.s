@@ -1,0 +1,12 @@
+DEF	The
+CON	police
+NOW	are
+EXS	treating
+HAS	his
+CON	death
+AND	as
+DIS	a
+CON	case
+AND	of
+CON	murder
+NIL	.

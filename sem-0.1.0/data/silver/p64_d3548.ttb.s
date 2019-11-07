@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	have
+CON	dinner
+REL	with
+HAS	my
+CON	son
+NIL	.

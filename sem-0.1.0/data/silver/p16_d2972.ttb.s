@@ -1,0 +1,11 @@
+REL	In
+YOC	1835
+NIL	,
+DIS	a
+CON	barrel
+AND	of
+CON	flour
+EPS	cost
+QUC	six
+UOM	dollars
+NIL	.

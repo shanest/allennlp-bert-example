@@ -1,0 +1,9 @@
+AND	All
+AND	of
+HAS	my
+CON	friends
+ENS	go
+REL	to
+IST	public
+CON	schools
+NIL	.

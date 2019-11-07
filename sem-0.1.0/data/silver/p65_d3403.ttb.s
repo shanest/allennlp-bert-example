@@ -1,0 +1,13 @@
+PRO	You
+NOW	're
+EXS	right
+NIL	.
+DEF	The
+CON	noodle
+AND	broth
+PRX	here
+NOW	is
+DIS	a
+CON	bit
+EXS	expensive
+NIL	.

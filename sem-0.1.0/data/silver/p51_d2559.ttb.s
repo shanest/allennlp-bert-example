@@ -1,0 +1,11 @@
+DEF	The
+CON	cow
+EPS	gave
+CON	birth
+REL	to
+DIS	a
+CON	calf
+REL	with
+QUC	two
+CON	heads
+NIL	.

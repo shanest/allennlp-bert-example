@@ -1,0 +1,10 @@
+PER	Tom
+EPS	knocked
+REL	on
+DEF	the
+CON	door
+REL	to
+PER	Mary
+HAS	's
+CON	room
+NIL	.

@@ -1,0 +1,16 @@
+PRO	He
+NOW	has
+QUC	two
+CON	daughters
+NIL	,
+CON	one
+NOW	is
+DIS	a
+ROL	pianist
+AND	and
+DEF	the
+ALT	other
+NOW	is
+DIS	a
+CON	violist
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+QUC	three
+CON	cats
+AND	and
+QUC	two
+CON	dogs
+NIL	.

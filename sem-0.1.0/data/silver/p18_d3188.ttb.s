@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+EPS	heard
+AND	about
+DEF	the
+CON	result
+AND	of
+DEF	the
+CON	game
+QUE	?

@@ -1,0 +1,16 @@
+PRO	He
+PST	was
+EXS	busy
+NIL	,
+BUT	but
+PRO	he
+EPS	took
+DEF	the
+CON	time
+SUB	to
+EXS	show
+PRO	me
+AND	around
+DEF	the
+CON	city
+NIL	.

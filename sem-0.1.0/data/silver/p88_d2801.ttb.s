@@ -1,0 +1,12 @@
+UNK	There
+NOW	are
+CON	people
+PRO	you
+NEC	have
+SUB	to
+EXS	watch
+REL	through
+DEF	the
+CON	beer
+CON	goggles
+NIL	.

@@ -1,0 +1,12 @@
+DEF	The
+CON	child
+PST	was
+IST	afraid
+SUB	of
+EXS	being
+EXS	left
+AND	alone
+REL	in
+DEF	the
+CON	dark
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+EXS	seen
+DEF	the
+CON	recipe
+CON	book
+SUB	that
+PRO	I
+EPS	wrote
+QUE	?

@@ -1,0 +1,9 @@
+PRO	I
+EPS	took
+HAS	my
+CON	umbrella
+REL	in
+CON	case
+PRO	it
+CON	rains
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+EXS	done
+AND	everything
+PRO	I
+PST	was
+EXS	supposed
+SUB	to
+EXS	do
+NIL	.

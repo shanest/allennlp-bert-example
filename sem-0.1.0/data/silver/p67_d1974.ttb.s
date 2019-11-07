@@ -1,0 +1,14 @@
+PRO	I
+XCL	only
+EPS	met
+PER	Tom
+QUC	once
+NIL	,
+BUT	but
+PRO	he
+PST	seemed
+AND	like
+DIS	a
+IST	nice
+CON	guy
+NIL	.

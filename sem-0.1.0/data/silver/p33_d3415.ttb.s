@@ -1,0 +1,15 @@
+PRO	You
+NEC	must
+EXS	be
+IST	willing
+SUB	to
+EXS	commit
+REL	to
+DEF	the
+CON	program
+REL	for
+TOP	at
+EXS	least
+DIS	a
+CON	year
+NIL	.

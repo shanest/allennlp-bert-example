@@ -1,0 +1,6 @@
+PRO	I
+PST	was
+EXS	born
+REL	in
+YOC	1979
+NIL	.

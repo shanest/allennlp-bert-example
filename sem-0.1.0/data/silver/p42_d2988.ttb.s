@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+IST	wonderful
+CON	news
+REL	for
+AND	all
+AND	of
+PRO	you
+NIL	.

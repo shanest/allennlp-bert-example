@@ -1,0 +1,10 @@
+PER	Tom
+ENS	eats
+AND	anything
+SUB	that
+PER	Mary
+ENS	puts
+REL	on
+DEF	the
+CON	table
+NIL	.

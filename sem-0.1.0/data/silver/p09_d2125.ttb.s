@@ -1,0 +1,12 @@
+PRO	He
+EPS	took
+DIS	a
+CON	look
+REL	at
+DEF	the
+CON	newspaper
+SUB	before
+EXS	going
+REL	to
+CON	bed
+NIL	.

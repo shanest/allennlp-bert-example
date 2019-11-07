@@ -1,0 +1,10 @@
+DEF	The
+CON	loss
+AND	of
+HAS	their
+CON	mother
+EPS	grieved
+PRO	them
+INT	very
+QUC	much
+NIL	.

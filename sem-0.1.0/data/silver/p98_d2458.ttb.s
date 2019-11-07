@@ -1,0 +1,11 @@
+DEF	The
+CON	mother
+EPS	tied
+DIS	a
+CON	ribbon
+REL	in
+HAS	her
+CON	daughter
+HAS	's
+CON	hair
+NIL	.

@@ -1,0 +1,15 @@
+IMP	If
+PRO	you
+EPS	put
+IST	more
+CON	tea-leaves
+REL	in
+DEF	the
+CON	teapot
+NIL	,
+DEF	the
+CON	tea
+FUT	will
+CON	taste
+COM	better
+NIL	.

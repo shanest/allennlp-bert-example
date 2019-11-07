@@ -1,0 +1,15 @@
+PRO	I
+EPS	made
+IST	up
+HAS	my
+CON	mind
+SUB	to
+EXS	do
+DEF	the
+CON	work
+AND	however
+IST	hard
+PRO	it
+POS	may
+EXS	be
+NIL	.

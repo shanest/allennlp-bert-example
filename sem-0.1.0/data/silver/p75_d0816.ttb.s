@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+NOT	never
+EXS	heard
+PRO	you
+EXS	talk
+AND	like
+DST	that
+NIL	.

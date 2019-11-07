@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+QUC	20
+UOM	%
+AND	of
+DEF	the
+CON	world
+HAS	's
+CON	population
+NIL	.

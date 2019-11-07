@@ -1,0 +1,11 @@
+PRO	I
+EPS	asked
+HAS	my
+ROL	father
+SUB	to
+EXS	bring
+PRO	me
+REL	to
+DEF	the
+CON	circus
+NIL	.

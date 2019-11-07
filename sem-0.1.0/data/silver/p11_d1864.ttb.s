@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+DIS	a
+CON	woman
+NIL	,
+REL	in
+CON	case
+PRO	you
+NOW	're
+EXS	wondering
+NIL	.

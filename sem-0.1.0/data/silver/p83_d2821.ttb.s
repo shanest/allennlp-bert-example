@@ -1,0 +1,12 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	remember
+QUE	what
+PER	Mary
+PST	had
+EPS	told
+PRO	him
+SUB	to
+EXS	do
+NIL	.

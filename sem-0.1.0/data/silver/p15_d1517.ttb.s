@@ -1,0 +1,10 @@
+EXS	Get
+PRO	it
+NIL	,
+COO	and
+EPS	put
+PRO	it
+REL	on
+DEF	the
+CON	fire
+NIL	.

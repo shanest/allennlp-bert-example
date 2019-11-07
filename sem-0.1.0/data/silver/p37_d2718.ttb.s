@@ -1,0 +1,11 @@
+PER	Tom
+NOT	never
+EPS	told
+PER	Mary
+AND	about
+QUE	what
+PRO	he
+PST	did
+SUB	that
+CON	weekend
+NIL	.

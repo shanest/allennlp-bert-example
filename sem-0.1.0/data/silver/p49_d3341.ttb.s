@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+DIS	a
+CON	house
+AND	just
+AND	like
+SUB	that
+PRO	I
+NOW	have
+EXS	seen
+NIL	.

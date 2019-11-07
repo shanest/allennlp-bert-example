@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+IST	seriously
+EXS	thinking
+SUB	about
+EXG	giving
+PER	Tom
+HAS	your
+CON	computer
+QUE	?

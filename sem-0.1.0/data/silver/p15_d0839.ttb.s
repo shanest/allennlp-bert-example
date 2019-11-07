@@ -1,0 +1,10 @@
+PRO	He
+EPS	went
+REL	to
+GPE	Italy
+REL	in
+CON	order
+SUB	to
+EXS	study
+CON	music
+NIL	.

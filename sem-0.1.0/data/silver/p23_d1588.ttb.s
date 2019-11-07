@@ -1,0 +1,16 @@
+AND	As
+DIS	a
+CON	rule
+NIL	,
+PRO	he
+ENS	arrives
+REL	at
+DEF	the
+CON	office
+REL	at
+APX	about
+CLO	nine-thirty
+REL	in
+DEF	the
+CON	morning
+NIL	.

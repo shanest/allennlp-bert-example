@@ -1,0 +1,9 @@
+PRO	You
+PST	had
+IST	better
+NOT	not
+EXS	use
+DST	those
+IST	four-letter
+CON	words
+NIL	.

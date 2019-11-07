@@ -1,0 +1,9 @@
+PRX	Here
+NOW	's
+DEF	the
+CON	magazine
+PRO	you
+PST	were
+EXG	looking
+REL	for
+NIL	.

@@ -1,0 +1,9 @@
+PRO	She
+EPS	went
+REL	in
+CON	search
+AND	of
+HAS	her
+IST	lost
+CON	child
+NIL	.

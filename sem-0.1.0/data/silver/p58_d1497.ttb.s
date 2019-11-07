@@ -1,0 +1,19 @@
+PRO	I
+FUT	would
+EXS	recommend
+REL	to
+AND	everyone
+AND	that
+POS	can
+EXS	speak
+GPO	German
+SUB	that
+PRO	they
+EPS	read
+NIL	"
+CON	Liebesgeschichte
+NIL	"
+REL	by
+PER	Hans
+GEO	Peter Richter
+NIL	.

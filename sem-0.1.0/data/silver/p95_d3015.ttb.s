@@ -1,0 +1,16 @@
+AND	Even
+SUB	though
+PRO	I
+EPS	ate
+QUC	three
+CON	bowls
+AND	of
+CON	cereal
+REL	for
+CON	breakfast
+NIL	,
+PRO	I
+NOW	'm
+IST	still
+EXS	hungry
+NIL	.

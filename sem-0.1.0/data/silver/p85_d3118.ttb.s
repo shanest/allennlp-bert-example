@@ -1,0 +1,11 @@
+NOW	Have
+PRO	you
+IST	ever
+EXS	seen
+AND	any
+IST	famous
+CON	people
+REL	in
+PRX	this
+CON	restaurant
+QUE	?

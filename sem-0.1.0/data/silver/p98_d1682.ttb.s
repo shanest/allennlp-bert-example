@@ -1,0 +1,11 @@
+PER	Tom
+EPS	spread
+DIS	some
+CON	strawberry
+CON	jam
+REL	on
+DIS	a
+CON	slice
+AND	of
+CON	bread
+NIL	.

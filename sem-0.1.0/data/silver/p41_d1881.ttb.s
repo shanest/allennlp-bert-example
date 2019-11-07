@@ -1,0 +1,12 @@
+NOW	Has
+DIS	anyone
+EPS	attempted
+REL	to
+NIL	"
+CON	surf
+NIL	"
+DEF	the
+UNK	Internet
+REL	since
+GEO	1998
+QUE	?

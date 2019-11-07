@@ -1,0 +1,11 @@
+CON	Debtors
+NOW	are
+CON	people
+AND	who
+POS	can
+NOT	not
+EXS	re-pay
+CON	money
+PRO	they
+ENS	owe
+NIL	.

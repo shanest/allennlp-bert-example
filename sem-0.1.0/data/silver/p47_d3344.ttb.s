@@ -1,0 +1,11 @@
+NOW	Has
+PER	Tom
+IST	already
+EPS	looked
+REL	for
+HAS	his
+CON	ball
+REL	in
+DEF	the
+CON	closet
+QUE	?

@@ -1,0 +1,10 @@
+DEF	The
+CON	grass
+REL	in
+DEF	the
+CON	park
+NOW	is
+COL	green
+COO	and
+IST	beautiful
+NIL	.

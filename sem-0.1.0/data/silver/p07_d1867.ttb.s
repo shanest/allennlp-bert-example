@@ -1,0 +1,10 @@
+IST	Good
+CON	words
+NOW	are
+IST	worth
+QUV	much
+NIL	,
+COO	and
+EXS	cost
+IST	little
+NIL	.

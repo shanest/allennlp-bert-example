@@ -1,0 +1,12 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	shake
+DIS	someone
+HAS	's
+CON	hand
+REL	with
+DIS	a
+AND	clenched
+CON	fist
+NIL	.

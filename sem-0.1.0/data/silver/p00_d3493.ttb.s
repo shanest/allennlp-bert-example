@@ -1,0 +1,14 @@
+PER	Tom
+EPS	took
+DIS	a
+CON	flower
+AND	out
+AND	of
+DEF	the
+CON	vase
+SUB	while
+NOT	no
+CON	one
+PST	was
+EXG	looking
+NIL	.

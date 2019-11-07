@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	looking
+IST	forward
+SUB	to
+EXS	visiting
+HAS	your
+CON	country
+PRX	this
+CON	winter
+NIL	.

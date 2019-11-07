@@ -1,0 +1,9 @@
+DEF	The
+CON	door
+ENS	opens
+AND	and
+REL	in
+ENS	walks
+HAS	my
+CON	friend
+NIL	.

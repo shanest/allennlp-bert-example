@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+EXG	remember
+DEF	the
+CON	day
+SUB	when
+PRO	we
+IST	first
+EPS	met
+PER	Dick
+QUE	?

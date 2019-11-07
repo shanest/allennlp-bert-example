@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+EXS	know
+DIS	a
+IST	good
+CON	way
+SUB	to
+EXS	learn
+IST	new
+CON	words
+QUE	?

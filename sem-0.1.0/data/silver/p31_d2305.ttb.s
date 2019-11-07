@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	remember
+EXS	seeing
+PRO	you
+QUC	two
+CON	years
+PST	ago
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	told
+DEF	the
+CON	doctor
+SUB	that
+PRO	he
+EPS	felt
+NOT	no
+CON	pain
+NIL	.

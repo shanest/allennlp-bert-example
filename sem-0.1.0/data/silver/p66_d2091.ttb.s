@@ -1,0 +1,11 @@
+PRO	I
+POS	could
+NOT	n't
+EXS	stand
+PER	Tom
+SUB	when
+PRO	I
+IST	first
+EPS	met
+PRO	him
+NIL	.

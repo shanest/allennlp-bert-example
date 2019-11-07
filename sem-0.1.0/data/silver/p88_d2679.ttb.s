@@ -1,0 +1,15 @@
+PRO	You
+NOW	're
+IST	just
+AND	as
+IST	annoying
+SUB	as
+PRO	you
+PST	were
+DEF	the
+IST	last
+CON	time
+PRO	I
+EPS	met
+PRO	you
+NIL	.

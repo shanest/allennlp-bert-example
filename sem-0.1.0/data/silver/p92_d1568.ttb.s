@@ -1,0 +1,10 @@
+PRO	We
+NOW	do
+NOT	n't
+EXS	have
+AND	anything
+SUB	to
+EXS	do
+IST	right
+NOW	now
+NIL	.

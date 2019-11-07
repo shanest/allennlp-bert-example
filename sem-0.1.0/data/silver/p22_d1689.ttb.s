@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+EPS	finished
+HAS	your
+CON	preparations
+REL	for
+DEF	the
+CON	trip
+QUE	?

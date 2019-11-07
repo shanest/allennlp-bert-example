@@ -1,0 +1,13 @@
+GRE	Hello
+CON	guys
+NIL	,
+PRO	I
+NOW	'm
+PER	Tom
+COO	and
+PRO	I
+NOW	'm
+PRX	here
+REL	with
+PER	Mary
+NIL	.

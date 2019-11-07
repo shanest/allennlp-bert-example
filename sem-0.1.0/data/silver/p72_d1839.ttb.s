@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+EXS	supposed
+SUB	to
+EXS	be
+PRX	here
+QUC	thirty
+CON	minutes
+PST	ago
+NIL	.

@@ -1,0 +1,15 @@
+PER	Tom
+EPS	took
+REL	off
+HAS	his
+CON	coat
+SUB	because
+PRO	it
+PST	was
+EXS	getting
+IST	too
+EXS	hot
+SUB	to
+EXS	wear
+PRO	it
+NIL	.

@@ -1,0 +1,14 @@
+CON	Mistakes
+NOW	do
+EXS	give
+PRO	us
+CON	wit
+NIL	,
+DIS	a
+XCL	sole
+QUC	one
+AND	-
+NOT	not
+DIS	a
+CON	bit
+NIL	!

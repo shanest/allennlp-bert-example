@@ -1,0 +1,13 @@
+PER	Mary
+EPS	announced
+SUB	to
+PER	Oliver
+SUB	that
+PRO	he
+FUT	would
+IST	soon
+EXS	have
+DIS	a
+IST	new
+ROL	brother
+NIL	.

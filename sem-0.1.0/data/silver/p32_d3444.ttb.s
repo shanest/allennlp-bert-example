@@ -1,0 +1,10 @@
+DEF	The
+IST	motive
+REL	for
+DEF	the
+CON	murder
+NOW	is
+NOT	not
+ALT	yet
+EXS	known
+NIL	.

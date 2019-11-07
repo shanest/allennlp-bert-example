@@ -1,0 +1,13 @@
+PRO	He
+ENS	seems
+IST	young
+NIL	,
+COO	but
+PRO	he
+HAS	's
+IST	actually
+MOR	over
+QUC	40
+CON	years
+COM	old
+NIL	.

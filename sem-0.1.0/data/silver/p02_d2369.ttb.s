@@ -1,0 +1,9 @@
+NIL	There
+NOW	are
+CON	people
+PRX	here
+AND	who
+ENS	need
+HAS	your
+CON	help
+NIL	.

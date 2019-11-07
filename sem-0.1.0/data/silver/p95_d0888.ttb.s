@@ -1,0 +1,10 @@
+UNK	There
+HAS	's
+XCL	only
+QUC	one
+CON	thing
+PRO	we
+POS	can
+EXS	do
+NOW	now
+NIL	!

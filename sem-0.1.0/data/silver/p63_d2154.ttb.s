@@ -1,0 +1,11 @@
+DIS	Sometimes
+HAS	my
+CON	dog
+ENS	barks
+REL	in
+DEF	the
+CON	middle
+AND	of
+DEF	the
+CON	night
+NIL	.

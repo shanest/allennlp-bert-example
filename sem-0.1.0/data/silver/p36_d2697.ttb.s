@@ -1,0 +1,10 @@
+PRO	He
+EPS	asked
+PER	Mary
+SUB	to
+EXS	accompany
+PRO	him
+REL	to
+DEF	the
+CON	party
+NIL	.

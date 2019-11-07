@@ -1,0 +1,11 @@
+IMP	If
+PRO	he
+ENS	knows
+DEF	the
+CON	truth
+NIL	,
+PRO	he
+FUT	will
+EXS	tell
+PRO	us
+NIL	.

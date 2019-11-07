@@ -1,0 +1,11 @@
+PRO	They
+EPS	won
+DEF	the
+CON	battle
+REL	at
+DEF	the
+CON	cost
+AND	of
+QUV	many
+CON	lives
+NIL	.

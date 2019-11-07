@@ -1,0 +1,12 @@
+HAS	My
+ROL	sister
+POS	ca
+NOT	n't
+EXS	start
+DEF	the
+CON	day
+NOT	without
+EXG	reading
+HAS	her
+CON	horoscope
+NIL	.

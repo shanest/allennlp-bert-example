@@ -1,0 +1,14 @@
+PRO	I
+POS	can
+NOT	not
+EXS	argue
+REL	with
+PER	Taninna
+NIL	.
+PRO	She
+HAS	's
+HAS	my
+ROL	uncle
+HAS	's
+ROL	wife
+NIL	.

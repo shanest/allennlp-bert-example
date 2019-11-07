@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	ask
+REL	for
+DIS	a
+IST	new
+CON	desk
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+PST	had
+NOT	n't
+EXS	seen
+PRO	him
+REL	for
+QUC	ten
+CON	years
+NIL	.

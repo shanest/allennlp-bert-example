@@ -1,0 +1,16 @@
+PER	Tom
+NOW	is
+IST	better
+EXS	prepared
+PRX	this
+CON	time
+NIL	,
+COO	so
+PRO	he
+NEC	should
+EXS	be
+IST	able
+SUB	to
+EXS	do
+PRO	it
+NIL	.

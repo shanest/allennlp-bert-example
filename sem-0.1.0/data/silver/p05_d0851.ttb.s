@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+NOW	is
+EXS	going
+SUB	to
+EXS	go
+IST	abroad
+IST	next
+CON	week
+NIL	.

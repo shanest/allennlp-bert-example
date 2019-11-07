@@ -1,0 +1,10 @@
+DEF	The
+CON	newspaper
+EPS	called
+REL	for
+DEF	the
+CON	government
+NIL	to
+EXS	stop
+CON	inflation
+NIL	.

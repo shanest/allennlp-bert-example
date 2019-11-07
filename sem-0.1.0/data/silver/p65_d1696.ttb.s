@@ -1,0 +1,13 @@
+NIL	"
+NOW	Has
+AND	anybody
+EPS	called
+DEF	the
+CON	police
+QUE	?
+NIL	"
+NIL	"
+PRO	I
+NOW	have
+NIL	.
+NIL	"

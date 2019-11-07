@@ -1,0 +1,13 @@
+NOT	Nobody
+ENS	is
+REL	in
+DEF	the
+IST	living
+CON	room
+NIL	,
+BUT	but
+DEF	the
+CON	TV
+NOW	is
+REL	on
+NIL	.

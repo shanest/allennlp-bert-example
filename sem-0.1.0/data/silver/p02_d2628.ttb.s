@@ -1,0 +1,10 @@
+ORG	College
+NOW	is
+NOT	not
+REL	for
+CON	partying
+NIL	,
+BUT	but
+SUB	for
+EXG	studying
+NIL	.

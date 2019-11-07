@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	working
+AND	here
+MOR	more
+MOR	than
+QUC	three
+CON	years
+NIL	.

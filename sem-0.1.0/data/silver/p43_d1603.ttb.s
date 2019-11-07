@@ -1,0 +1,12 @@
+CON	Esperanto
+NOW	belongs
+REL	to
+AND	everyone
+NIL	.
+AND	Unfortunately
+NIL	,
+NOT	not
+AND	everybody
+ENS	knows
+SUB	that
+NIL	.

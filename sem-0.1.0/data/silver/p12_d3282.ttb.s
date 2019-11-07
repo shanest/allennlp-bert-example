@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+PER	Mary
+HAS	's
+PST	ex
+ROL	boyfriend
+HAS	's
+ROL	brother
+NIL	.

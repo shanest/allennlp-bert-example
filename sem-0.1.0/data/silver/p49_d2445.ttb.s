@@ -1,0 +1,16 @@
+PRO	It
+IST	never
+EPS	occurred
+REL	to
+PRO	me
+SUB	that
+PRO	he
+PST	was
+DEF	the
+IST	right
+CON	man
+REL	in
+DEF	the
+IST	right
+CON	place
+NIL	.

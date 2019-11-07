@@ -1,0 +1,12 @@
+REL	In
+HAS	my
+CON	opinion
+NIL	,
+PRO	it
+NOW	's
+COM	better
+SUB	to
+EXS	change
+DEF	the
+CON	policy
+NIL	.

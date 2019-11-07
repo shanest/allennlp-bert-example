@@ -1,0 +1,15 @@
+PRO	You
+NEC	have
+NIL	to
+EXS	acquire
+AND	as
+IST	soon
+SUB	as
+EXS	possible
+DIS	a
+IST	good
+CON	knowledge
+REL	of
+CON	business
+ART	English
+NIL	.

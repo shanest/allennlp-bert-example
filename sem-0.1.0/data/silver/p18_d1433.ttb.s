@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+AND	anyone
+AND	who
+CON	hums
+SUB	while
+PRO	they
+ENS	work
+QUE	?

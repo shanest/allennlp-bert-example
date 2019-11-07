@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	have
+IST	enough
+CON	time
+NIL	to
+EXS	eat
+CON	lunch
+NOW	today
+NIL	.

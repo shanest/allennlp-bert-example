@@ -1,0 +1,11 @@
+PRO	It
+HAS	's
+DOW	Monday
+CON	today
+COO	and
+PRO	it
+FUT	will
+EXS	be
+DOW	Tuesday
+FUT	tomorrow
+NIL	.

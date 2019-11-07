@@ -1,0 +1,14 @@
+ITJ	Oh
+NIL	,
+PRO	I
+IST	just
+EPS	gained
+QUC	two
+UOM	kilos
+NIL	.
+PRO	I
+NEC	should
+EXS	stop
+EXS	eating
+CON	snacks
+NIL	.

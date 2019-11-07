@@ -1,0 +1,12 @@
+PER	Tom
+EPS	pressed
+DEF	the
+COL	green
+CON	button
+COO	and
+EPS	waited
+REL	for
+DIS	something
+SUB	to
+EXS	happen
+NIL	.

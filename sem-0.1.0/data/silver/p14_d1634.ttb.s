@@ -1,0 +1,17 @@
+NIL	"
+NOW	Do
+ROL	abbots
+EXS	mow
+CON	hay
+QUE	?
+NIL	"
+NIL	"
+CON	Abbots
+NOT	never
+IST	mow
+CON	hay
+NIL	.
+PER	Abbots
+ENS	pray
+NIL	.
+NIL	"

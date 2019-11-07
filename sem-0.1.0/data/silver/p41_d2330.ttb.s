@@ -1,0 +1,11 @@
+CON	Children
+ENS	need
+NOT	not
+EXS	know
+AND	every
+CON	detail
+AND	of
+DEF	the
+CON	family
+CON	budget
+NIL	.

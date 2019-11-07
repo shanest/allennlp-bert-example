@@ -1,0 +1,9 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	explain
+PRO	it
+REL	to
+PRO	you
+NOW	now
+NIL	.

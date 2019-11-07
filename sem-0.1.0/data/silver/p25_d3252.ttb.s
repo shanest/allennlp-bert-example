@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+NOT	n't
+ALT	yet
+UNK	ready
+SUB	to
+EXS	receive
+CON	visitors
+NIL	.

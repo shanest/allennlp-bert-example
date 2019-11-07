@@ -1,0 +1,9 @@
+PER	Tom
+EPS	put
+HAS	his
+CON	glasses
+REL	in
+HAS	his
+CON	shirt
+CON	pocket
+NIL	.

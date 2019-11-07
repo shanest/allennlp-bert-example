@@ -1,0 +1,10 @@
+SUB	Who
+ENS	hurts
+HAS	his
+CON	nose
+NIL	,
+ALT	also
+ENS	hurts
+HAS	his
+CON	face
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+PST	was
+EXS	sitting
+REL	in
+DEF	the
+CON	library
+SUB	when
+PRO	I
+EPS	saw
+PRO	him
+NIL	.

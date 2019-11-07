@@ -1,0 +1,11 @@
+PER	Tom
+EPS	went
+IST	back
+REL	to
+HAS	his
+CON	car
+COO	and
+EPS	got
+DIS	a
+CON	flashlight
+NIL	.

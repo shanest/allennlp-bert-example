@@ -1,0 +1,11 @@
+GPE	Spain
+NOW	is
+DEF	the
+CON	host
+CON	country
+REL	for
+DEF	the
+CON	Olympics
+REL	in
+YOC	1992
+NIL	.

@@ -1,0 +1,14 @@
+CON	Thanks
+REL	to
+AND	each
+AND	and
+AND	every
+QUC	one
+AND	of
+PRO	you
+REL	for
+HAS	your
+CON	friendship
+AND	and
+CON	support
+NIL	.

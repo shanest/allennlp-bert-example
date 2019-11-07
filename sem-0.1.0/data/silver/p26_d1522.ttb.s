@@ -1,0 +1,9 @@
+PER	Tom
+EPS	put
+HAS	his
+CON	hat
+REL	on
+AND	and
+EPS	went
+IST	outside
+NIL	.

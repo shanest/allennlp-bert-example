@@ -1,0 +1,12 @@
+PER	Tom
+FUT	would
+IST	still
+EXS	be
+EXS	alive
+IMP	if
+PRO	he
+PST	had
+PFT	been
+IST	more
+EXS	careful
+NIL	.

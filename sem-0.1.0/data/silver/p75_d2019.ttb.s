@@ -1,0 +1,12 @@
+PER	Tom
+POS	could
+EXS	hear
+PER	Mary
+NIL	,
+BUT	but
+PRO	he
+POS	could
+NOT	n't
+EXS	see
+PRO	her
+NIL	.

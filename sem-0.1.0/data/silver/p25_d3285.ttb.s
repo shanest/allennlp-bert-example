@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	trying
+SUB	to
+EXS	do
+PRO	you
+DIS	a
+CON	favor
+NIL	.

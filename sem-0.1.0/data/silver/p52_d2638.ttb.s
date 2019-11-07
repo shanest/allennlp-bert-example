@@ -1,0 +1,13 @@
+PRO	I
+PST	was
+EXS	going
+REL	120
+CON	kilometers
+DIS	an
+CON	hour
+SUB	when
+DEF	the
+CON	police
+EPS	stopped
+PRO	me
+NIL	.

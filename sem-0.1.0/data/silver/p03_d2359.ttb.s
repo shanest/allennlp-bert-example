@@ -1,0 +1,10 @@
+TOP	Most
+AND	of
+DEF	the
+CON	people
+EXG	working
+PRX	here
+NOW	are
+IST	unpaid
+ROL	volunteers
+NIL	.

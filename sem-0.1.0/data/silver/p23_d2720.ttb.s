@@ -1,0 +1,13 @@
+SUB	To
+EXS	tell
+DEF	the
+CON	truth
+NIL	,
+PRO	I
+NOW	have
+NOT	no
+CON	money
+REL	with
+PRO	me
+NOW	now
+NIL	.

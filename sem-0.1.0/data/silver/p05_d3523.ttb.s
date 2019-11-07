@@ -1,0 +1,14 @@
+PER	Tom
+EXS	dipped
+DIS	a
+CON	strawberry
+REL	in
+CON	chocolate
+COO	and
+IST	then
+EPS	put
+PRO	it
+REL	in
+HAS	his
+CON	mouth
+NIL	.

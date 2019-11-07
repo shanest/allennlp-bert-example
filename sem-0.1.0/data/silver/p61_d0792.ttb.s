@@ -1,0 +1,9 @@
+PRO	You
+NEC	must
+NOT	n't
+EXS	tell
+SUB	that
+REL	to
+HAS	your
+CON	parents
+NIL	.

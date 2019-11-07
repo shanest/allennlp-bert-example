@@ -1,0 +1,9 @@
+QUE	What
+EPS	happened
+REL	to
+PRO	them
+NOW	is
+IST	still
+DIS	a
+CON	mystery
+NIL	.

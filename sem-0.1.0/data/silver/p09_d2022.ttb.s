@@ -1,0 +1,14 @@
+PRO	We
+EPS	concluded
+NIL	,
+AND	however
+SUB	that
+DEF	the
+CON	price
+AND	of
+QUC	5,000,000
+UOM	yen
+PST	was
+INT	too
+EXS	high
+NIL	.

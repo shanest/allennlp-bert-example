@@ -1,0 +1,11 @@
+PER	Tom
+EPS	drew
+HAS	his
+CON	gun
+COO	and
+EPS	shot
+QUC	one
+AND	of
+DEF	the
+CON	men
+NIL	.

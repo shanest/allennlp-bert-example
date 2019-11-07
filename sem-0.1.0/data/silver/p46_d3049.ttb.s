@@ -1,0 +1,15 @@
+DST	That
+IST	new
+CON	biography
+AND	of
+DEF	the
+CON	prince
+ENS	puts
+PRO	him
+REL	in
+DIS	a
+LES	less
+MOR	than
+EXG	flattering
+CON	light
+NIL	.

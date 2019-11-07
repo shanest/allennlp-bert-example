@@ -1,0 +1,9 @@
+PRO	I
+ENS	need
+DIS	a
+IST	good
+EXS	steed
+REL	for
+HAS	my
+CON	voyage
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	figured
+SUB	that
+PER	Mary
+FUT	would
+EXS	like
+SUB	to
+EXS	know
+DEF	the
+CON	news
+NIL	.

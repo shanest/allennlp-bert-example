@@ -1,0 +1,9 @@
+PRO	I
+EPS	arrived
+ALT	too
+IST	late
+COO	and
+EPS	missed
+DEF	the
+CON	train
+NIL	.

@@ -1,0 +1,12 @@
+CON	Language
+NIL	,
+SUB	as
+PRO	we
+ENS	know
+PRO	it
+NIL	,
+NOW	is
+DIS	a
+IST	human
+CON	invention
+NIL	.

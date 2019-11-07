@@ -1,0 +1,10 @@
+EXS	Tell
+PRO	them
+PRO	I
+NOW	'm
+NOT	not
+REL	in
+HAS	my
+CON	office
+NOW	today
+NIL	.

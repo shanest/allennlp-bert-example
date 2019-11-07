@@ -1,0 +1,9 @@
+NOT	Noone
+ENS	knows
+QUE	what
+FUT	will
+EXS	happen
+REL	in
+DEF	the
+CON	future
+NIL	.

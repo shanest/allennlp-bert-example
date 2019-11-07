@@ -1,0 +1,11 @@
+DIS	A
+CON	man
+AND	who
+ENS	speaks
+DEF	the
+CON	truth
+ENS	needs
+DIS	a
+IST	fast
+CON	horse
+NIL	.

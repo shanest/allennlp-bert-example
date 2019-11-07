@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+INT	very
+EXS	difficult
+SUB	to
+EXS	communicate
+REL	with
+CON	people
+REL	from
+ALT	other
+CON	cultures
+NIL	.

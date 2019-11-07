@@ -1,0 +1,11 @@
+DEF	The
+CON	hostess
+POS	could
+NOT	n't
+POS	possibly
+EXS	put
+IST	up
+REL	with
+HAS	his
+CON	arrogance
+NIL	.

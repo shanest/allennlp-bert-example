@@ -1,0 +1,11 @@
+PRO	She
+EPS	took
+DEF	the
+CON	trouble
+SUB	to
+EXS	find
+DIS	a
+CON	home
+REL	for
+PRO	them
+NIL	.

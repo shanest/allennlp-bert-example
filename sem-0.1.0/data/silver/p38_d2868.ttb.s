@@ -1,0 +1,10 @@
+PER	Tom
+EPS	said
+SUB	that
+PRO	he
+PST	was
+INT	too
+EXS	busy
+SUB	to
+EXS	eat
+NIL	.

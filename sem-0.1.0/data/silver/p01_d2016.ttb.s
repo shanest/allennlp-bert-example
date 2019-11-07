@@ -1,0 +1,16 @@
+IMP	If
+NIL	there
+EPS	existed
+DIS	a
+CON	market
+REL	for
+CON	sentences
+NIL	,
+HAS	our
+IST	grammatical
+CON	speculations
+FUT	would
+IST	suddenly
+EXS	make
+CON	sense
+NIL	.

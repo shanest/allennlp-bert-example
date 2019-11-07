@@ -1,0 +1,10 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	forget
+DEF	the
+CON	day
+PRO	he
+EPS	met
+PER	Mary
+NIL	.

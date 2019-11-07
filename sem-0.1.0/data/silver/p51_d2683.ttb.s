@@ -1,0 +1,13 @@
+PER	Tom
+EPS	ate
+DEF	the
+IST	free
+CON	bread
+COO	and
+IST	then
+EPS	walked
+IST	out
+AND	of
+DEF	the
+CON	restaurant
+NIL	.

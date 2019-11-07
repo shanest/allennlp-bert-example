@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	understand
+QUE	what
+HAS	's
+EXG	bothering
+PRO	you
+NIL	.

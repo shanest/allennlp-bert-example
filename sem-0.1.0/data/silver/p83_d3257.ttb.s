@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	sign
+IST	up
+REL	for
+DIS	a
+GPO	German
+CON	class
+CON	right
+NOW	now
+NIL	.

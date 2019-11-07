@@ -1,0 +1,10 @@
+PRO	I
+EPS	heard
+SUB	that
+PRO	you
+NOW	share
+DIS	an
+CON	apartment
+REL	with
+PER	Tom
+NIL	.

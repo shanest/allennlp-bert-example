@@ -1,0 +1,11 @@
+AND	All
+SUB	that
+NOW	has
+EPS	happened
+REL	before
+NIL	,
+COO	and
+FUT	will
+EXS	happen
+ALT	again
+NIL	.

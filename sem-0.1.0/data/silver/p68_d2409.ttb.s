@@ -1,0 +1,23 @@
+PER	John
+PER	Locke
+EQU	,
+DEF	the
+IST	well-known
+CON	philosopher
+AND	of
+CON	freedom
+NIL	,
+PST	was
+DIS	a
+CON	shareholder
+AND	of
+DEF	the
+IST	Royal African
+ORG	Company
+NIL	,
+AND	which
+EPS	bought
+COO	and
+EPS	sold
+CON	slaves
+NIL	.

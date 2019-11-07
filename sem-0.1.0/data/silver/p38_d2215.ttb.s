@@ -1,0 +1,11 @@
+PER	Lucy
+EPS	accepted
+SUB	to
+EXS	marry
+DIS	a
+IST	rich
+IST	young
+CON	man
+EPS	called
+CON	Cecil
+NIL	.

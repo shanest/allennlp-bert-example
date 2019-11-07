@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+UNK	difficult
+SUB	to
+EXS	wake
+IST	up
+REL	on
+IST	cold
+CON	mornings
+NIL	.

@@ -1,0 +1,9 @@
+PRO	He
+EPS	made
+DEF	the
+TOP	best
+AND	of
+DEF	the
+CON	time
+EPS	left
+NIL	.

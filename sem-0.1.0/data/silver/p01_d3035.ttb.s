@@ -1,0 +1,10 @@
+PRO	I
+ENS	have
+DIS	a
+CON	feeling
+SUB	that
+PRO	he
+ENS	knows
+DEF	the
+CON	secret
+NIL	.

@@ -1,0 +1,9 @@
+GPE	Americans
+EPS	liked
+QUE	what
+PRO	they
+EPS	heard
+REL	from
+PER	Franklin
+PER	Roosevelt
+NIL	.

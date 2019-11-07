@@ -1,0 +1,10 @@
+PER	Tom
+EPS	took
+DIS	a
+CON	picture
+AND	of
+REF	himself
+REL	with
+HAS	his
+CON	iPhone
+NIL	.

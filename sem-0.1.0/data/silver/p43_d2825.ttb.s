@@ -1,0 +1,15 @@
+NOW	Today
+NOW	is
+DOW	Friday
+NIL	,
+COO	and
+PRO	I
+NOW	've
+EXS	done
+QUE	what
+PRO	I
+NOW	do
+IST	almost
+AND	every
+DOW	Friday
+NIL	.

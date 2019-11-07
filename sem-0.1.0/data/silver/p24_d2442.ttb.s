@@ -1,0 +1,10 @@
+EXS	Let
+HAS	's
+EXS	see
+IMP	if
+PRO	I
+NOW	've
+EXS	got
+SUB	that
+EXS	right
+NIL	.

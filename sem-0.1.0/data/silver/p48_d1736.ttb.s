@@ -1,0 +1,16 @@
+DST	That
+IST	popular
+CON	television
+CON	series
+NOW	is
+EXS	going
+REL	to
+CON	spin
+REL	off
+QUC	two
+IST	new
+CON	shows
+REL	in
+DEF	the
+CON	fall
+NIL	.

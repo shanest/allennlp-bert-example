@@ -1,0 +1,13 @@
+QUE	What
+QUE	?
+PRO	You
+NOW	do
+NOT	n't
+EXS	know
+QUE	how
+SUB	to
+EXS	drive
+DIS	a
+CON	car
+ALT	yet
+QUE	?

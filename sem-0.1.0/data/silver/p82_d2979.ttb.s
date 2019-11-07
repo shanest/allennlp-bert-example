@@ -1,0 +1,9 @@
+PRO	He
+EPS	watched
+AND	as
+DEF	the
+CON	doctors
+PST	bent
+AND	over
+PRO	her
+NIL	.

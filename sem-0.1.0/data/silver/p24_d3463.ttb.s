@@ -1,0 +1,10 @@
+PRO	You
+NOW	have
+NOT	n't
+EXS	heard
+DEF	the
+CON	half
+AND	of
+PRO	it
+ALT	yet
+NIL	.

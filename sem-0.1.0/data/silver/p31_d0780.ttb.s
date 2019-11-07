@@ -1,0 +1,11 @@
+PRO	You
+NEC	should
+EXS	brush
+HAS	your
+CON	teeth
+REL	at
+TOP	least
+QUC	twice
+DIS	a
+CON	day
+NIL	.

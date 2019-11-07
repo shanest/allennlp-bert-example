@@ -1,0 +1,12 @@
+PER	Tom
+EPS	found
+DEF	the
+CON	evidence
+PRO	we
+EPS	needed
+SUB	to
+ROL	convict
+PER	Mary
+HAS	's
+CON	killer
+NIL	.

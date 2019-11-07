@@ -1,0 +1,13 @@
+PER	Socrates
+PST	was
+EXS	accused
+AND	of
+QUE	atheism
+SUB	because
+PRO	he
+PST	did
+NOT	not
+EXS	believe
+REL	in
+GEO	Zeus
+NIL	.

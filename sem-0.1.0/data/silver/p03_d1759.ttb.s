@@ -1,0 +1,16 @@
+IMP	If
+PRO	you
+ENS	think
+SUB	that
+PRO	he
+HAS	's
+EXS	experienced
+IST	enough
+REL	with
+DST	that
+NIL	,
+PRO	I
+FUT	'll
+EXS	hire
+PRO	him
+NIL	.

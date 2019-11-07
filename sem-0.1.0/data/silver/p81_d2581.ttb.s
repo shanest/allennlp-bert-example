@@ -1,0 +1,13 @@
+PRO	It
+HAS	's
+EXS	freezing
+REL	in
+PRX	here
+NIL	!
+POS	Can
+DIS	somebody
+EXS	turn
+REL	off
+DEF	the
+CON	air-conditioner
+QUE	?

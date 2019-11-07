@@ -1,0 +1,17 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	living
+REL	in
+GEO	Kassel
+REL	for
+QUC	two
+CON	years
+AND	and
+IST	still
+NOW	have
+NOT	n't
+EXS	been
+REL	to
+CON	Herkules
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+QUC	two
+CON	men
+EPS	competed
+REL	for
+PER	Lady
+PER	Mary
+HAS	's
+CON	heart
+NIL	.

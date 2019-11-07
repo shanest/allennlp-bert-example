@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+IST	still
+EXG	making
+IST	up
+HAS	their
+CON	minds
+NIL	.

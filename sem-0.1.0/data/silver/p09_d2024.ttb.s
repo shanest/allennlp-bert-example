@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+PFT	been
+IST	quite
+CON	ages
+REL	since
+PRO	we
+IST	last
+EPS	met
+NIL	.

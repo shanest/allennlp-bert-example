@@ -1,0 +1,16 @@
+PRO	You
+NEC	should
+EXS	take
+PRO	her
+REL	at
+HAS	her
+CON	word
+SUB	because
+PRO	I
+NOW	've
+NOT	never
+EXS	known
+PRO	her
+SUB	to
+EXS	lie
+NIL	.

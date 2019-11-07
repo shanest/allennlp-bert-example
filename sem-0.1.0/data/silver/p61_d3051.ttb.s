@@ -1,0 +1,9 @@
+AND	Both
+PER	Nancy
+AND	and
+PER	Jane
+PST	were
+EXS	absent
+REL	from
+CON	school
+NIL	.

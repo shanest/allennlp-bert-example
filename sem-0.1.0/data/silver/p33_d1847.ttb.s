@@ -1,0 +1,11 @@
+PER	Paul
+PST	was
+NOT	n't
+REL	with
+PER	Mary
+SUB	when
+HAS	her
+CON	purse
+PST	was
+EXS	stolen
+NIL	.

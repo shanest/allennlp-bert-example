@@ -1,0 +1,15 @@
+HAS	My
+ROL	father
+NOW	is
+DIS	an
+IST	early
+CON	riser
+COO	;
+PRO	he
+NOW	gets
+IST	up
+REL	at
+CLO	5:30
+AND	every
+CON	day
+NIL	.

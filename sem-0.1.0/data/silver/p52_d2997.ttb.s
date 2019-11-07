@@ -1,0 +1,13 @@
+REL	In
+DEF	the
+CON	speech
+NIL	,
+PRO	he
+EPS	referred
+REL	to
+DEF	the
+CON	strength
+AND	of
+DEF	the
+CON	company
+NIL	.

@@ -1,0 +1,9 @@
+PRO	She
+EPS	started
+EXS	crying
+COO	and
+PRO	I
+EPS	started
+EXS	crying
+ALT	too
+NIL	.

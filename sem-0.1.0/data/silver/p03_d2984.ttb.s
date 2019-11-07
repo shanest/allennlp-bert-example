@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+QUC	99
+UOM	%
+IST	sure
+PRO	it
+NOW	's
+EXS	true
+NIL	.

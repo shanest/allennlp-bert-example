@@ -1,0 +1,9 @@
+PRO	We
+EPS	spent
+DIS	a
+IST	quiet
+CON	day
+REL	in
+DEF	the
+CON	country
+NIL	.

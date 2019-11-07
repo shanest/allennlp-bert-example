@@ -1,0 +1,12 @@
+PRO	I
+POS	can
+NOT	not
+EXS	mop
+PRX	this
+CON	floor
+NIL	.
+PRO	It
+NOW	's
+INT	too
+EXS	dirty
+NIL	.

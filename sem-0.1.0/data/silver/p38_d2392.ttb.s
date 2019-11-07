@@ -1,0 +1,15 @@
+QUE	What
+NOW	have
+PRO	you
+EXS	done
+REL	with
+HAS	my
+CON	pen
+QUE	?
+PRO	It
+PST	was
+AND	here
+DIS	a
+CON	minute
+PST	ago
+NIL	.

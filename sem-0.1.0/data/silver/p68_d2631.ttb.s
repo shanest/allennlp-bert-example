@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+DIS	a
+CON	feeling
+SUB	that
+DIS	something
+NOW	is
+EXS	lacking
+REL	in
+HAS	my
+CON	life
+NIL	.

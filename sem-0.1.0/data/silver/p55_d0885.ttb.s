@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	looking
+REL	for
+PER	Andy
+NIL	.
+NOW	Do
+PRO	you
+EXS	know
+SUB	where
+PRO	he
+NOW	is
+QUE	?

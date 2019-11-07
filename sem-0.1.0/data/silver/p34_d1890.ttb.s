@@ -1,0 +1,13 @@
+PRO	You
+NOW	're
+EXS	wearing
+DEF	the
+CON	ring
+PER	Tom
+EPS	gave
+PRO	you
+NIL	,
+NOW	are
+NOT	n't
+PRO	you
+QUE	?

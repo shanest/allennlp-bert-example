@@ -1,0 +1,12 @@
+PRO	I
+IST	still
+NOW	do
+NOT	n't
+EXS	know
+QUE	what
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	say
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+IST	really
+EXS	know
+QUE	why
+PRO	he
+EPS	wrote
+DEF	the
+CON	book
+NIL	.

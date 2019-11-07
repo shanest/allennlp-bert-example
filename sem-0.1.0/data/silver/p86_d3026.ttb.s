@@ -1,0 +1,11 @@
+IST	Please
+EPS	put
+HAS	their
+CON	name
+REL	on
+AND	everything
+PRO	they
+EXS	take
+REL	with
+PRO	them
+NIL	.

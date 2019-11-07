@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	going
+SUB	to
+EXS	want
+SUB	to
+EXS	read
+PRX	this
+NIL	.

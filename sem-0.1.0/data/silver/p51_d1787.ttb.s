@@ -1,0 +1,17 @@
+DEF	The
+CON	petrol
+CON	pump
+ROL	attendant
+PST	was
+NOT	n't
+INT	very
+EXS	thrilled
+SUB	when
+PRO	we
+IST	only
+EPS	bought
+DIS	a
+CON	newspaper
+REL	from
+PRO	him
+NIL	.

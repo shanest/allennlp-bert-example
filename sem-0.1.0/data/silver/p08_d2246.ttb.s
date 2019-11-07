@@ -1,0 +1,10 @@
+PRO	He
+ENS	reminds
+PRO	me
+AND	of
+HAS	his
+ROL	father
+SUB	when
+PRO	he
+ENS	speaks
+NIL	.

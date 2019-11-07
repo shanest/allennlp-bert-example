@@ -1,0 +1,10 @@
+PRO	We
+FUT	will
+EXS	have
+DIS	a
+CON	period
+REL	of
+CON	orientation
+REL	for
+CON	freshmen
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	really
+EXS	looking
+IST	forward
+REL	to
+CON	spending
+CON	time
+REL	with
+PER	Tom
+NIL	.

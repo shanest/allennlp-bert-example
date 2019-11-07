@@ -1,0 +1,12 @@
+AND	Unwittingly
+NIL	,
+PRO	he
+EPS	told
+HAS	her
+EQU	exactly
+QUE	what
+PRO	she
+EPS	wanted
+SUB	to
+EXS	know
+NIL	.

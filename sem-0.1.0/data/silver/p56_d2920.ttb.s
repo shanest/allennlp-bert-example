@@ -1,0 +1,15 @@
+IST	Sound
+CON	knowledge
+AND	of
+CON	computer
+CON	systems
+AND	and
+CON	programming
+CON	languages
+NOW	is
+IST	integral
+REL	to
+PER	Tom
+HAS	's
+CON	job
+NIL	.

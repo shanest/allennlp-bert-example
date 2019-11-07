@@ -1,0 +1,9 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	talk
+REL	to
+AND	all
+AND	of
+PRO	them
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	like
+PRO	him
+QUC	much
+NIL	,
+REL	in
+CON	fact
+PRO	I
+EPS	hated
+PRO	him
+NIL	.

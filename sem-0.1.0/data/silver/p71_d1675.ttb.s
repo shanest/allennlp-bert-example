@@ -1,0 +1,9 @@
+PRO	You
+NOW	're
+EXS	lucky
+PRO	it
+PST	did
+NOT	n't
+CON	rain
+PST	yesterday
+NIL	.

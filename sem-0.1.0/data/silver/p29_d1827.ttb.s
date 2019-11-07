@@ -1,0 +1,12 @@
+PER	John
+AND	and
+PER	Mary
+EPS	differed
+REL	in
+CON	opinion
+AND	as
+REL	to
+DST	that
+IST	important
+CON	matter
+NIL	.

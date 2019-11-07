@@ -1,0 +1,13 @@
+HAS	Your
+CON	wife
+ENS	's
+REL	on
+DEF	the
+CON	phone
+NIL	.
+PRO	She
+ENS	says
+PRO	it
+HAS	's
+IST	urgent
+NIL	.

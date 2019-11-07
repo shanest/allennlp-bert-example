@@ -1,0 +1,15 @@
+PRO	I
+NEC	have
+SUB	to
+EXS	go
+REL	to
+DIS	a
+IST	stupid
+CON	party
+REL	with
+PER	Tom
+COO	and
+HAS	his
+IST	stupid
+CON	friends
+NIL	.

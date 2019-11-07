@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+NOT	not
+DIS	a
+IST	big
+CON	fan
+AND	of
+DEF	the
+ORG	Hollywood
+CON	superhero
+CON	movies
+NIL	.

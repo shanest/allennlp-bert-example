@@ -1,0 +1,10 @@
+SUB	When
+PRO	we
+EPS	married
+HAS	my
+CON	parents
+EPS	gave
+PRO	me
+DIS	a
+CON	house
+NIL	.

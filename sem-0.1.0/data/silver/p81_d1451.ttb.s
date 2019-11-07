@@ -1,0 +1,10 @@
+HAS	My
+ROL	godfather
+EPS	gave
+PRO	me
+DIS	a
+CON	watch
+AND	as
+DIS	a
+CON	gift
+NIL	.

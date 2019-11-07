@@ -1,0 +1,9 @@
+PRO	We
+EPS	saw
+DEF	the
+CON	child
+EXS	get
+REL	on
+DEF	the
+CON	bus
+NIL	.

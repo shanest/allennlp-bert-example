@@ -1,0 +1,9 @@
+PER	Maria
+ENS	spends
+DIS	a
+CON	lot
+AND	of
+CON	money
+REL	on
+CON	clothes
+NIL	.

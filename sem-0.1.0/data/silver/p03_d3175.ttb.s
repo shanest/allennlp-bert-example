@@ -1,0 +1,10 @@
+PER	Tom
+ENS	wishes
+SUB	that
+PRO	he
+EPS	knew
+QUE	how
+SUB	to
+EXS	play
+CON	mahjong
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+EPS	enjoyed
+DEF	the
+CON	concert
+NOT	except
+SUB	that
+DEF	the
+CON	hall
+PST	was
+EXS	cold
+NIL	.

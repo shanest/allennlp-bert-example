@@ -1,0 +1,10 @@
+QUE	Which
+CON	film
+EPS	received
+DEF	the
+IST	first
+TOP	best
+CON	picture
+ORG	Academy
+ORG	Award
+QUE	?

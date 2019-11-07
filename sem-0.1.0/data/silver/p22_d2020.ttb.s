@@ -1,0 +1,10 @@
+PRO	I
+ENS	plan
+SUB	to
+EXS	hire
+DIS	someone
+AND	who
+POS	can
+EXS	speak
+GPO	English
+NIL	.

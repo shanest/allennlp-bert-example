@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+NOT	n't
+EXS	told
+QUE	why
+PER	Mary
+PST	was
+NOT	n't
+UNK	there
+NIL	.

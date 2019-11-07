@@ -1,0 +1,10 @@
+PRO	We
+NOW	are
+NOT	n't
+QUE	where
+PRO	we
+NOW	are
+EXS	supposed
+SUB	to
+EXS	be
+NIL	.

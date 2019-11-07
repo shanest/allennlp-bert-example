@@ -1,0 +1,13 @@
+PRO	I
+NOW	've
+EXS	heard
+SUB	that
+EXG	sitting
+IST	up
+IST	straight
+NOW	is
+EXS	bad
+REL	for
+HAS	your
+IST	back
+NIL	.

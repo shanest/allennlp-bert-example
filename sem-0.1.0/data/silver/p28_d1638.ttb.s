@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+PRX	this
+CON	area
+AND	like
+DEF	the
+IST	back
+AND	of
+HAS	my
+CON	hand
+NIL	.

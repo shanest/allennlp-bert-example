@@ -1,0 +1,13 @@
+PER	Tom
+NIL	,
+PRO	she
+EPS	told
+PRO	me
+SUB	that
+PRO	you
+EPS	made
+HAS	her
+CON	cry
+NIL	.
+QUC	Twice
+NIL	.

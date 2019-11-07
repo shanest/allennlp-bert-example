@@ -1,0 +1,9 @@
+PRO	She
+EPS	planted
+DIS	some
+CON	pansies
+REL	in
+DEF	the
+CON	flower
+CON	bed
+NIL	.

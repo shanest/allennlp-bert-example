@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	sure
+PRO	you
+NOW	've
+EXS	seen
+AND	everything
+PRO	you
+ENS	need
+SUB	to
+NIL	.

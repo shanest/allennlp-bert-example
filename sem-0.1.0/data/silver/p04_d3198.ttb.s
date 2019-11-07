@@ -1,0 +1,10 @@
+PST	Yesterday
+PST	was
+DOW	Tuesday
+NIL	,
+MOY	2010
+EQU	,
+MOY	January
+DEF	the
+PRO	26th
+NIL	.

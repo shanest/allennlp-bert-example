@@ -1,0 +1,12 @@
+NOW	Do
+PRO	you
+IST	really
+NOW	think
+PRO	I
+NOW	'm
+EXS	stupid
+IST	enough
+SUB	to
+EXS	believe
+DST	that
+QUE	?

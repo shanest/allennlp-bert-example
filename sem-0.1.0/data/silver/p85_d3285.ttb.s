@@ -1,0 +1,11 @@
+REL	At
+DEF	the
+CON	moment
+NIL	,
+PRO	I
+NOW	have
+NOT	no
+ENS	plans
+SUB	to
+EXS	travel
+NIL	.

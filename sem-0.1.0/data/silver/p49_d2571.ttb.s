@@ -1,0 +1,10 @@
+PRO	We
+NOW	've
+EXS	had
+DIS	a
+CON	lot
+AND	of
+CON	rain
+PRX	this
+CON	year
+NIL	.

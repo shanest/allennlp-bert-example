@@ -1,0 +1,14 @@
+DEF	The
+IST	entire
+CON	theater
+EPS	turned
+REL	to
+CON	chaos
+SUB	when
+DIS	somebody
+EPS	cried
+NIL	"
+CON	Fire
+NIL	!
+NIL	"
+NIL	.

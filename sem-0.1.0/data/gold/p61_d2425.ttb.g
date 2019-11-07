@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXG	coming
+REL	to
+DEF	the
+CON	party
+NIL	,
+ALT	too
+NIL	.

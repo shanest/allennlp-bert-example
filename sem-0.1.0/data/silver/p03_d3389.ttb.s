@@ -1,0 +1,13 @@
+PER	Tom
+EPS	took
+REL	off
+HAS	his
+CON	shoes
+COO	and
+EPS	put
+REL	on
+DIS	a
+CON	pair
+AND	of
+GEO	slippers
+NIL	.

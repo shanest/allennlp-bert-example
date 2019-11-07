@@ -1,0 +1,9 @@
+PRO	She
+NOW	's
+NOT	not
+EXG	paying
+AND	any
+CON	attention
+REL	to
+PRO	me
+NIL	.

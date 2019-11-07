@@ -1,0 +1,9 @@
+QUE	What
+PRO	we
+NOW	're
+EXS	doing
+NOW	now
+NOW	is
+INT	very
+EXS	dangerous
+NIL	.

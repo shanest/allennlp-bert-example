@@ -1,0 +1,13 @@
+PRO	We
+NOW	are
+EXS	speaking
+AND	about
+DEF	the
+IST	same
+CON	thing
+NIL	,
+AND	just
+REL	in
+ALT	different
+CON	words
+NIL	.

@@ -1,0 +1,11 @@
+NOT	Nobody
+NOW	is
+EXS	going
+SUB	to
+EXS	know
+SUB	where
+PRO	you
+EPS	purchased
+HAS	your
+CON	clothes
+NIL	.

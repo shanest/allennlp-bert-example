@@ -1,0 +1,12 @@
+IMP	If
+PRO	you
+ENS	want
+SUB	to
+EXS	yell
+REL	at
+DIS	someone
+NIL	,
+EXS	yell
+REL	at
+PRO	me
+NIL	.

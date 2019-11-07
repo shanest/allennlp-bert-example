@@ -1,0 +1,10 @@
+PRO	You
+POS	can
+NOT	not
+EXS	be
+INT	too
+EXS	careful
+SUB	when
+PRO	you
+ENS	drive
+NIL	.

@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+INT	most
+IST	ridiculous
+CON	thing
+PRO	I
+NOW	have
+IST	ever
+EXS	heard
+NIL	.

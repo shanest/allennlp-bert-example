@@ -1,0 +1,11 @@
+PRO	I
+PST	had
+DIS	a
+CON	feeling
+PRO	you
+PST	were
+EXS	going
+SUB	to
+EXS	say
+DST	that
+NIL	.

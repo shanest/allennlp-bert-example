@@ -1,0 +1,9 @@
+PRO	I
+IST	finally
+EPS	managed
+SUB	to
+EXS	find
+HAS	my
+IST	lost
+CON	wallet
+NIL	.

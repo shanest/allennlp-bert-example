@@ -1,0 +1,10 @@
+PRO	I
+EPS	ate
+QUC	one
+COO	and
+IST	then
+PRO	I
+EPS	ate
+DEF	the
+ALT	other
+NIL	.

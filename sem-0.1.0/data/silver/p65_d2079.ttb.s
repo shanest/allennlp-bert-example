@@ -1,0 +1,12 @@
+PER	Tom
+PST	was
+IST	able
+SUB	to
+EXS	get
+IST	there
+REL	in
+LES	less
+MOR	than
+QUC	twenty
+UOM	minutes
+NIL	.

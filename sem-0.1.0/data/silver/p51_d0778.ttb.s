@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	looking
+REL	for
+DIS	a
+IST	warm
+EQU	,
+IST	woolen
+CON	skirt
+NIL	.

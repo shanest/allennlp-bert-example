@@ -1,0 +1,11 @@
+PRO	We
+ENS	have
+DIS	a
+IST	wide
+CON	choice
+REL	of
+CON	fruits
+REL	at
+DEF	the
+CON	supermarket
+NIL	.

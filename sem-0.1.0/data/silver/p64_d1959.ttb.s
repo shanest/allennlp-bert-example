@@ -1,0 +1,13 @@
+PER	Tom
+EPS	slipped
+IST	quietly
+REL	into
+HAS	his
+CON	clothes
+COO	and
+EPS	tiptoed
+IST	out
+AND	of
+DEF	the
+CON	room
+NIL	.

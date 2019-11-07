@@ -1,0 +1,13 @@
+PER	Tom
+EPS	happened
+SUB	to
+EXS	sit
+IST	next
+REL	to
+PER	Mary
+REL	at
+DEF	the
+CON	concert
+AND	last
+CON	night
+NIL	.

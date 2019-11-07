@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	getting
+IST	back
+IST	together
+REL	with
+HAS	my
+PST	ex
+ROL	girlfriend
+NIL	.

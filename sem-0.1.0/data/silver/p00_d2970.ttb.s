@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	have
+DIS	a
+CON	house
+NIL	to
+EXS	live
+REL	in
+NIL	.

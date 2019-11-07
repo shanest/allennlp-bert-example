@@ -1,0 +1,15 @@
+PRO	We
+NOW	're
+EXS	heading
+REL	for
+DEF	the
+CON	beach
+NIL	.
+AND	Would
+PRO	you
+ENS	like
+SUB	to
+EXS	come
+REL	with
+PRO	us
+QUE	?

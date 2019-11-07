@@ -1,0 +1,11 @@
+PER	Tom
+HAS	's
+CON	brain
+PST	was
+EXS	deprived
+AND	of
+CON	oxygen
+REL	for
+INT	too
+IST	long
+NIL	.

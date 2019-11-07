@@ -1,0 +1,9 @@
+QUE	How
+IST	far
+NOW	is
+PRO	it
+REL	from
+PRX	here
+REL	to
+GPE	Boston
+QUE	?

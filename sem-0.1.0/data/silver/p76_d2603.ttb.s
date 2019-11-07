@@ -1,0 +1,10 @@
+PRO	I
+ENS	bet
+AND	all
+DEF	the
+CON	boys
+ENS	want
+HAS	your
+CON	phone
+CON	number
+NIL	.

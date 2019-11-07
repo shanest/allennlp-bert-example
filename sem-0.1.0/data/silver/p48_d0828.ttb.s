@@ -1,0 +1,10 @@
+PRO	I
+EPS	ran
+REL	into
+PER	Mary
+REL	at
+DIS	a
+CON	party
+AND	last
+CON	week
+NIL	.

@@ -1,0 +1,12 @@
+EXT	Having
+EXS	failed
+QUC	twice
+NIL	,
+PER	William
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	try
+ALT	again
+NIL	.

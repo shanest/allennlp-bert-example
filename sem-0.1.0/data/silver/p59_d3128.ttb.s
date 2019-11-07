@@ -1,0 +1,9 @@
+PRO	He
+EPS	promised
+SUB	that
+PRO	he
+FUT	would
+NOT	never
+EXS	lie
+ALT	again
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+PST	was
+EXS	hungry
+NIL	,
+COO	so
+PRO	he
+EPS	asked
+PER	Mary
+SUB	to
+EXS	cook
+DIS	something
+NIL	.

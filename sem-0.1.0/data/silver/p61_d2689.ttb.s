@@ -1,0 +1,12 @@
+ITJ	Oh
+NIL	,
+NOW	look
+NIL	!
+UNK	There
+HAS	's
+DIS	a
+IST	big
+CON	snake
+AND	over
+IST	there
+NIL	!

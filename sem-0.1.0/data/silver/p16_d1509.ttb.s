@@ -1,0 +1,12 @@
+AND	All
+PRO	I
+ENS	know
+AND	about
+PER	Tom
+NOW	is
+SUB	that
+PRO	he
+HAS	's
+DIS	a
+CON	teacher
+NIL	.

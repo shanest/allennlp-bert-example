@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	writing
+CON	letters
+AND	all
+CON	day
+IST	long
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	told
+PER	Mary
+AND	that
+PER	John
+PST	was
+EXS	sick
+REL	in
+CON	bed
+NIL	.

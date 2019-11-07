@@ -1,0 +1,10 @@
+REL	On
+EXG	hearing
+DEF	the
+CON	news
+NIL	,
+PRO	he
+EPS	shouted
+REL	with
+CON	joy
+NIL	.

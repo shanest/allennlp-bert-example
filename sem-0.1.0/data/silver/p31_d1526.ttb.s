@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	funny
+SUB	that
+DEF	the
+CON	mailman
+NOW	has
+NOT	n't
+EXS	come
+ALT	yet
+NIL	.

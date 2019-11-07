@@ -1,0 +1,9 @@
+PER	Tom
+EPS	paid
+NOT	no
+CON	attention
+REL	to
+PER	Mary
+AND	all
+CON	afternoon
+NIL	.

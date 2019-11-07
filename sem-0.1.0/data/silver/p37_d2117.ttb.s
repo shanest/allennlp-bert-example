@@ -1,0 +1,10 @@
+NOT	No
+CON	one
+EXS	found
+AND	any
+CON	reason
+SUB	to
+EXS	criticize
+HAS	his
+CON	actions
+NIL	.

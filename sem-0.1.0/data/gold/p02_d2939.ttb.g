@@ -1,0 +1,9 @@
+GPE	Ireland
+NOW	is
+EXS	called
+NIL	"
+LIT	Ireland
+NIL	"
+REL	in
+CON	English
+NIL	.

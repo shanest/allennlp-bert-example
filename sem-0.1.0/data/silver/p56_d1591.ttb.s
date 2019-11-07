@@ -1,0 +1,9 @@
+PRO	I
+NIL	,
+ALT	too
+NIL	,
+PST	did
+NOT	n't
+EXS	understand
+AND	anything
+NIL	.

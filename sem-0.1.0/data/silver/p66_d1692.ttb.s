@@ -1,0 +1,16 @@
+PRO	I
+EPS	spent
+QUC	three
+CON	years
+EXS	looking
+REL	for
+DIS	a
+SST	good
+ROL	director
+NIL	,
+BUT	but
+POS	could
+NOT	n't
+EXS	find
+QUC	one
+NIL	.

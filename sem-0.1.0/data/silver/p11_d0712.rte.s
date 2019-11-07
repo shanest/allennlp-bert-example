@@ -1,0 +1,11 @@
+DEF	The
+SST	atomic
+CON	tests
+REL	at
+PER	Bikini
+PER	Atoll
+EPS	took
+CON	place
+REL	in
+YOC	1946
+NIL	.

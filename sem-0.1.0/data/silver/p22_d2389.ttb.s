@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	cut
+CON	right
+REL	to
+DEF	the
+EXS	chase
+NIL	.

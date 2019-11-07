@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	reduced
+DEF	the
+CON	amount
+AND	of
+CON	meat
+PRO	I
+ENS	eat
+NIL	.

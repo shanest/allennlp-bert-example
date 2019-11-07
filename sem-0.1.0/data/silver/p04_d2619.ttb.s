@@ -1,0 +1,11 @@
+ITJ	Well
+NIL	,
+PRO	you
+NOW	have
+XCL	only
+SUB	to
+EXS	ask
+REL	for
+HAS	his
+CON	help
+NIL	.

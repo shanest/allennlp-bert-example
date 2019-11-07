@@ -1,0 +1,9 @@
+PRO	They
+PST	were
+NOT	n't
+IST	able
+SUB	to
+EXS	discover
+AND	any
+CON	secrets
+NIL	.

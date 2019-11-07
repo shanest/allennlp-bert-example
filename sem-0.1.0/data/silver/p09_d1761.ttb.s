@@ -1,0 +1,11 @@
+PRO	You
+NOW	do
+NOT	n't
+EXS	know
+AND	who
+EPS	did
+PRO	it
+NIL	,
+NOW	do
+PRO	you
+QUE	?

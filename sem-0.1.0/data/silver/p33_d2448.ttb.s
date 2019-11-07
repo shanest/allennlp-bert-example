@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+NOT	no
+CON	intention
+AND	of
+EXG	telling
+PRO	you
+DEF	the
+CON	result
+NIL	.

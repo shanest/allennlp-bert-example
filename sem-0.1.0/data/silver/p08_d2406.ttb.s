@@ -1,0 +1,14 @@
+PER	Tom
+EPS	liked
+DEF	the
+CON	idea
+SUB	until
+PRO	I
+EPS	told
+PRO	him
+PRO	it
+PST	was
+PER	Mary
+HAS	's
+CON	idea
+NIL	.

@@ -1,0 +1,10 @@
+FUT	Tomorrow
+PRO	it
+FUT	will
+EXS	rain
+REL	in
+DEF	the
+CON	south
+AND	of
+GPE	England
+NIL	.

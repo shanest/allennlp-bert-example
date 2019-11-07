@@ -1,0 +1,13 @@
+PRO	He
+EPS	popped
+DIS	a
+CON	balloon
+REL	besides
+HAS	my
+CON	ear
+COO	and
+PRO	I
+PST	was
+IST	really
+EXS	scared
+NIL	.

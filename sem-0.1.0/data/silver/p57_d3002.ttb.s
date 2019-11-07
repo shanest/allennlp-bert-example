@@ -1,0 +1,11 @@
+PER	Tom
+EPS	put
+DEF	the
+CON	letter
+CON	opener
+IST	back
+REL	in
+DEF	the
+CON	desk
+CON	drawer
+NIL	.

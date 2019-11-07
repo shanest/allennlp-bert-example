@@ -1,0 +1,9 @@
+EXS	Did
+PRO	you
+EXS	remember
+NIL	to
+EXS	turn
+REL	off
+DEF	the
+CON	gas
+QUE	?

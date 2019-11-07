@@ -1,0 +1,11 @@
+AND	And
+ALT	yet
+NIL	,
+DEF	the
+CON	contrary
+NOW	is
+IST	always
+EXS	true
+AND	as
+IST	well
+NIL	.

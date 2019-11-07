@@ -1,0 +1,10 @@
+DIS	A
+IST	blind
+CON	person
+HAS	's
+CON	hearing
+NOW	is
+IST	often
+INT	very
+EXS	acute
+NIL	.

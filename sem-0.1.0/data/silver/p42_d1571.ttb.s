@@ -1,0 +1,11 @@
+PER	Tom
+IST	finally
+EPS	figured
+IST	out
+QUE	what
+PRO	he
+PST	'd
+PFT	been
+EXS	doing
+EXS	wrong
+NIL	.

@@ -1,0 +1,14 @@
+PRO	They
+NOW	are
+NOW	now
+IST	widely
+EXS	used
+REL	for
+CON	communication
+EQU	,
+CON	calculation
+NIL	,
+AND	and
+ALT	other
+CON	activities
+NIL	.

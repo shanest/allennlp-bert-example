@@ -1,0 +1,11 @@
+PER	Markku
+EPS	put
+HAS	his
+CON	life
+REL	on
+DEF	the
+CON	line
+REL	to
+EXS	rescue
+PER	Liisa
+NIL	.

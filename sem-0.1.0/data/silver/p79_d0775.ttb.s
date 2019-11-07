@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	absurd
+SUB	to
+EXS	idle
+IST	away
+DEF	the
+CON	student
+CON	life
+NIL	.

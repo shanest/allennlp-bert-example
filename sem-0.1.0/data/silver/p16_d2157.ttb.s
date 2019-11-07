@@ -1,0 +1,12 @@
+PRO	I
+EPS	told
+PRO	you
+REL	before
+DST	that
+PRO	you
+NEC	should
+EXS	ask
+HAS	your
+ROL	mother
+IST	first
+NIL	.

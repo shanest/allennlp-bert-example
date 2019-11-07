@@ -1,0 +1,9 @@
+PRO	We
+EPS	spoke
+REL	with
+DEF	the
+CON	help
+AND	of
+DIS	a
+ROL	translator
+NIL	.

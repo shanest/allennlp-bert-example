@@ -1,0 +1,9 @@
+PRO	I
+ENS	need
+DIS	a
+CON	hammer
+REL	to
+CON	nail
+DEF	the
+CON	boards
+NIL	.

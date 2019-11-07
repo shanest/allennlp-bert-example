@@ -1,0 +1,10 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+AND	anything
+AND	about
+PER	Mary
+HAS	's
+CON	family
+NIL	.

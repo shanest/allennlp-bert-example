@@ -1,0 +1,15 @@
+QUC	Two
+CON	years
+PST	ago
+PER	Tom
+AND	and
+PER	Mary
+EPS	split
+IST	up
+COO	but
+IST	recently
+PRO	they
+EPS	got
+IST	together
+ALT	again
+NIL	.

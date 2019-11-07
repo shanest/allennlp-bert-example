@@ -1,0 +1,15 @@
+PER	Tom
+EPS	asked
+DEF	the
+IST	same
+CON	question
+AND	over
+AND	and
+IST	over
+NIL	,
+BUT	but
+NOT	never
+EPS	got
+DIS	an
+CON	answer
+NIL	.

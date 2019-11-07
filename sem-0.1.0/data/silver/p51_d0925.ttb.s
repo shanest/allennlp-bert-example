@@ -1,0 +1,12 @@
+IMP	If
+PRO	I
+PST	had
+EXS	done
+HAS	my
+TOP	best
+NIL	,
+PRO	I
+POS	might
+EXT	have
+EXS	succeeded
+NIL	.

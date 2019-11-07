@@ -1,0 +1,11 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	say
+REL	for
+IST	sure
+SUB	when
+PER	Mary
+FUT	will
+EXS	arrive
+NIL	.

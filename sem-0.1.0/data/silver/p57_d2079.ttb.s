@@ -1,0 +1,9 @@
+PRO	You
+NOW	have
+EXS	exceeded
+DEF	the
+IST	maximum
+CON	number
+AND	of
+ENS	invites
+NIL	.

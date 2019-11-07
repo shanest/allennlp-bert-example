@@ -1,0 +1,9 @@
+PER	Tom
+PST	helped
+PER	Mary
+EXS	get
+IST	up
+REL	from
+HAS	her
+CON	seat
+NIL	.

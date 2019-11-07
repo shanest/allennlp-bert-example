@@ -1,0 +1,10 @@
+PRO	We
+NEC	must
+EXS	make
+EXS	do
+REL	with
+QUE	what
+PRO	we
+NOW	have
+EXS	got
+NIL	.

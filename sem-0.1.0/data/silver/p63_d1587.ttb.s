@@ -1,0 +1,14 @@
+PRO	It
+IST	absolutely
+PST	was
+NOT	n't
+PER	Mary
+AND	who
+EPS	went
+REL	with
+PRO	him
+REL	to
+DEF	the
+CON	art
+CON	gallery
+NIL	.

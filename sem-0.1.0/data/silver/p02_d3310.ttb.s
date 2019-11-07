@@ -1,0 +1,9 @@
+SUB	As
+PRO	he
+EPS	came
+CON	home
+PRO	it
+EPS	started
+REL	to
+CON	rain
+NIL	.

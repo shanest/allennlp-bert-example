@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+QUE	what
+NOW	is
+EXS	called
+DIS	a
+REL	self-made
+CON	man
+NIL	.

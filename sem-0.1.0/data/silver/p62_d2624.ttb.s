@@ -1,0 +1,11 @@
+EXS	Speak
+AND	of
+DEF	the
+CON	devil
+COO	and
+PRO	he
+NOW	is
+IST	sure
+SUB	to
+EXS	appear
+NIL	.

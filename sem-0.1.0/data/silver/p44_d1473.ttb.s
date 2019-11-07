@@ -1,0 +1,13 @@
+PRO	It
+HAS	's
+CON	time
+SUB	to
+EXS	wake
+IST	up
+NOW	now
+NIL	.
+PER	Tom
+NIL	,
+EXS	wake
+IST	up
+NIL	!

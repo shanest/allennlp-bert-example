@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	planning
+SUB	to
+EXS	leave
+REL	for
+GEO	Europe
+AND	next
+CON	week
+NIL	.

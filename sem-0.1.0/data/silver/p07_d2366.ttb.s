@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXS	going
+SUB	to
+EXS	let
+PRO	her
+NOW	do
+SUB	as
+PRO	she
+ENS	likes
+NIL	.

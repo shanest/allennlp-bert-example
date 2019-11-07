@@ -1,0 +1,10 @@
+PER	Loraine
+EPS	took
+REL	part
+REL	in
+DEF	the
+CON	musical
+NIL	"
+NTH	Dreamgirls
+NIL	"
+NIL	.

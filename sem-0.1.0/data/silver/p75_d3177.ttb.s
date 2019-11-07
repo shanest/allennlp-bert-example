@@ -1,0 +1,12 @@
+PER	Tom
+EPS	said
+SUB	that
+PRO	he
+PST	was
+IST	eager
+SUB	to
+EXS	eat
+CON	lunch
+REL	with
+PER	Mary
+NIL	.

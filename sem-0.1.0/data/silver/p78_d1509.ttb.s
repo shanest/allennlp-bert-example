@@ -1,0 +1,11 @@
+PRO	I
+NOW	have
+EXS	found
+DIS	a
+IST	dead
+CON	cockroach
+REL	in
+DEF	the
+CON	meeting
+CON	room
+NIL	.

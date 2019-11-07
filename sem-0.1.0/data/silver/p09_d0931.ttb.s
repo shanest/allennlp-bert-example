@@ -1,0 +1,9 @@
+NOW	Have
+PRO	you
+EXS	seen
+DIS	a
+COL	brown
+CON	wallet
+AND	around
+PRX	here
+QUE	?

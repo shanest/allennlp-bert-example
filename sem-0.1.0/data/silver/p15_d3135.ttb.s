@@ -1,0 +1,10 @@
+AND	Could
+PRO	you
+NOW	send
+DIS	someone
+IST	up
+SUB	to
+EXS	make
+DEF	the
+CON	bed
+QUE	?

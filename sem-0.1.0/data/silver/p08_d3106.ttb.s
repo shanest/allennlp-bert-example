@@ -1,0 +1,16 @@
+PER	Tom
+EPS	made
+DIS	some
+IST	extra
+CON	money
+REL	by
+EXG	renting
+QUC	one
+AND	of
+HAS	his
+CON	rooms
+REL	to
+DIS	a
+CON	college
+CON	student
+NIL	.

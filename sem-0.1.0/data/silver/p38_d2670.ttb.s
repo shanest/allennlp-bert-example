@@ -1,0 +1,9 @@
+EXS	Let
+PRO	's
+CON	rewrite
+DEF	the
+CON	end
+AND	of
+DEF	the
+CON	play
+NIL	.

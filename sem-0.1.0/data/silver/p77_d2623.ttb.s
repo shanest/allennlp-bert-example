@@ -1,0 +1,14 @@
+PRO	I
+NOW	've
+EXS	made
+DIS	some
+CON	mistakes
+SUB	that
+PRO	I
+NEC	should
+EXT	've
+EXS	been
+IST	able
+SUB	to
+EXS	avoid
+NIL	.

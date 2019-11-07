@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EPS	waited
+AND	all
+HAS	my
+CON	life
+REL	for
+PRX	this
+CON	day
+NIL	.

@@ -1,0 +1,16 @@
+CON	Hutongs
+NOW	are
+DIS	a
+CON	type
+AND	of
+IST	narrow
+CON	street
+EQU	,
+INT	most
+IST	commonly
+EXS	associated
+REL	with
+GEO	Beijing
+EQU	,
+GPE	China
+NIL	.

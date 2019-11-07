@@ -1,0 +1,9 @@
+PRO	We
+EPS	watched
+GPO	Ukrainian
+CON	movies
+REL	with
+CON	subtitles
+REL	in
+CON	Esperanto
+NIL	.

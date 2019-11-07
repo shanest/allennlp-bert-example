@@ -1,0 +1,14 @@
+PRO	We
+NOW	're
+EXS	going
+SUB	to
+EXS	have
+SUB	to
+EXS	remove
+HAS	your
+CON	wisdom
+CON	teeth
+NIL	.
+ORG	Right
+NOW	now
+NIL	.

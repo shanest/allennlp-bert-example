@@ -1,0 +1,12 @@
+PRO	It
+EPS	was
+AND	because
+AND	of
+DEF	the
+CON	storm
+AND	that
+DEF	the
+CON	trains
+PST	were
+EXS	halted
+NIL	.

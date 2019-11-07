@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+REL	in
+CON	debt
+REL	to
+HAS	my
+ROL	uncle
+REL	for
+UOM	$
+QUC	10,000
+NIL	.

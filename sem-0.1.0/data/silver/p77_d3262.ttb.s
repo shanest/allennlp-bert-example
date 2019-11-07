@@ -1,0 +1,11 @@
+DEF	The
+CON	rumor
+NOW	is
+NOT	not
+EXS	true
+AND	as
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	.

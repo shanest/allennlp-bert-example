@@ -1,0 +1,10 @@
+AND	Every
+CON	lock
+AND	of
+PER	Mary
+HAS	's
+CON	hair
+PST	was
+REL	in
+CON	place
+NIL	.

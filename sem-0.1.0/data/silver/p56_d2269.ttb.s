@@ -1,0 +1,10 @@
+AND	All
+HAS	my
+CON	doubts
+AND	about
+PRO	it
+NOW	have
+PFT	been
+EXS	driven
+IST	away
+NIL	.

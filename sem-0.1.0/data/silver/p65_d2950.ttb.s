@@ -1,0 +1,9 @@
+PRO	He
+EPS	took
+IST	out
+DIS	a
+CON	dollar
+REL	from
+HAS	his
+CON	wallet
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+ENS	hope
+AND	everything
+FUT	will
+EXS	be
+EXS	fine
+REL	in
+DEF	the
+CON	end
+NIL	.

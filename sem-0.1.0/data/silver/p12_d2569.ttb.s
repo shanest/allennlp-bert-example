@@ -1,0 +1,11 @@
+PRO	I
+FUT	'll
+AND	always
+EXS	remember
+DEF	the
+IST	first
+CON	time
+PRO	I
+EPS	saw
+PRO	you
+NIL	.

@@ -1,0 +1,11 @@
+NOW	Are
+PRO	you
+IST	still
+EXG	thinking
+SUB	that
+PRO	you
+PST	'd
+EXS	like
+DEF	the
+CON	job
+QUE	?

@@ -1,0 +1,9 @@
+NOW	Is
+SUB	that
+QUE	what
+PRO	I
+NOW	'm
+EXS	supposed
+SUB	to
+EXS	do
+QUE	?

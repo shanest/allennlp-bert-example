@@ -1,0 +1,13 @@
+HAS	My
+CON	wife
+HAS	's
+CON	hands
+NOW	are
+IST	slightly
+COM	smaller
+AND	than
+DEF	the
+CON	shop
+ROL	assistant
+HAS	's
+NIL	.

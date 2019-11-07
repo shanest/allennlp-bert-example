@@ -1,0 +1,12 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	keep
+EXS	living
+DEF	the
+CON	way
+PRO	I
+NOW	've
+PFT	been
+EXS	living
+NIL	.

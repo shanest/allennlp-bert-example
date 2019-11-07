@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+DIS	anything
+REL	about
+DEF	the
+CON	situation
+NIL	.

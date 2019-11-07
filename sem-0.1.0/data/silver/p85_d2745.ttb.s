@@ -1,0 +1,14 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	spent
+DIS	a
+CON	lot
+AND	of
+CON	time
+IST	together
+SUB	when
+PRO	they
+PST	were
+CON	kids
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+EPS	called
+DIS	a
+CON	guy
+PRO	I
+ENS	know
+REL	in
+DEF	the
+ORG	FBI
+AND	and
+EXS	requested
+EXS	help
+NIL	.

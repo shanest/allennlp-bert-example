@@ -1,0 +1,13 @@
+PRO	She
+EPS	got
+REL	on
+DIS	a
+CON	bus
+COO	and
+EPS	took
+DIS	a
+CON	seat
+REL	in
+DEF	the
+CON	front
+NIL	.

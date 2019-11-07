@@ -1,0 +1,11 @@
+PER	Tom
+EPS	waited
+REL	for
+PER	Mary
+NIL	,
+COO	but
+PRO	she
+PST	did
+NOT	n't
+EXS	come
+NIL	.

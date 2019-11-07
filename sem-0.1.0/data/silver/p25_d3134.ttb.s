@@ -1,0 +1,14 @@
+DIS	Someone
+NOW	is
+REL	at
+DEF	the
+CON	front
+CON	door
+NIL	.
+CON	Go
+AND	and
+EXS	see
+AND	who
+PRO	it
+NOW	is
+NIL	.

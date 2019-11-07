@@ -1,0 +1,10 @@
+PRO	We
+NOW	are
+EXS	going
+SUB	to
+EXS	spend
+DEF	the
+CON	vacation
+REL	in
+GEO	Corsica
+NIL	.

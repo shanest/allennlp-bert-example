@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+REL	in
+DEF	the
+IST	same
+CON	class
+AND	last
+CON	year
+NIL	.

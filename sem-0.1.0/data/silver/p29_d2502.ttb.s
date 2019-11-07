@@ -1,0 +1,11 @@
+AND	Last
+TIM	night
+DIS	an
+CON	explosion
+EPS	took
+CON	place
+REL	at
+DIS	a
+CON	fireworks
+CON	factory
+NIL	.

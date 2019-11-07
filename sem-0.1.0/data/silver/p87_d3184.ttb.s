@@ -1,0 +1,17 @@
+SUB	As
+PRO	he
+PST	was
+AND	about
+SUB	to
+EXS	fall
+REL	into
+DEF	the
+CON	river
+NIL	,
+PRO	he
+EPS	took
+CON	hold
+AND	of
+DEF	the
+CON	tree
+NIL	.

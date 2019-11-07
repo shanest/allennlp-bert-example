@@ -1,0 +1,14 @@
+PRO	He
+EPS	got
+IST	up
+IST	early
+SUB	so
+PRO	he
+PST	'd
+EXS	be
+REL	in
+CON	time
+REL	for
+DEF	the
+CON	train
+NIL	.

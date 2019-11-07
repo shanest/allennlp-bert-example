@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	sure
+HAS	my
+CON	passport
+NOW	is
+REL	in
+PRX	this
+CON	room
+DIS	somewhere
+NIL	.

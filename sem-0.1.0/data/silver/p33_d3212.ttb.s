@@ -1,0 +1,9 @@
+DEF	The
+IST	rich
+CON	friend
+EPS	gave
+PRO	him
+DEF	the
+IST	cold
+CON	shoulder
+NIL	.

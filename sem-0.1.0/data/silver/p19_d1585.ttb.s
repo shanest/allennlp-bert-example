@@ -1,0 +1,9 @@
+GPE	Egypt
+NOW	is
+EXS	called
+NIL	"
+ORG	Misr
+NIL	"
+REL	in
+CON	Arabic
+NIL	.

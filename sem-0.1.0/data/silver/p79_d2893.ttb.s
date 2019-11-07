@@ -1,0 +1,10 @@
+PRO	I
+IST	already
+EPS	spoke
+REL	to
+DIS	someone
+REL	in
+PER	Tom
+HAS	's
+CON	office
+NIL	.

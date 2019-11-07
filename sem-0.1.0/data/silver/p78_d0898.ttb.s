@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+UNK	possible
+SUB	to
+EXS	eat
+COL	green
+CON	beans
+IST	raw
+NIL	.

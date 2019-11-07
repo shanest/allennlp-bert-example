@@ -1,0 +1,13 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	find
+PRO	it
+DIS	anywhere
+NIL	.
+PRO	It
+HAS	's
+EXS	driving
+PRO	me
+IST	mad
+NIL	!

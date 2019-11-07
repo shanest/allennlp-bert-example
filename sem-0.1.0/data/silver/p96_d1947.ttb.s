@@ -1,0 +1,13 @@
+AND	As
+IST	soon
+SUB	as
+PRO	he
+EPS	took
+DEF	the
+CON	medicine
+NIL	,
+HAS	his
+CON	fever
+EPS	went
+IST	down
+NIL	.

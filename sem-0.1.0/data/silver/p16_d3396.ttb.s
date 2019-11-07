@@ -1,0 +1,13 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	eating
+REL	at
+DST	that
+CON	restaurant
+SUB	since
+PRO	he
+PST	was
+DIS	a
+CON	teenager
+NIL	.

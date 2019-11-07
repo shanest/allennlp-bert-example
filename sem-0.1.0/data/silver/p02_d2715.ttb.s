@@ -1,0 +1,9 @@
+EXS	Hold
+HAS	my
+CON	hand
+COO	and
+EXS	look
+REL	into
+HAS	my
+CON	eyes
+NIL	.

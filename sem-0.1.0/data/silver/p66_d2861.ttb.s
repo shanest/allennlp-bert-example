@@ -1,0 +1,10 @@
+CON	None
+AND	of
+DEF	the
+CON	boys
+EPS	paid
+AND	any
+CON	attention
+REL	to
+PER	Mary
+NIL	.

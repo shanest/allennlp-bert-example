@@ -1,0 +1,9 @@
+HAS	My
+IST	normal
+CON	body
+CON	temperature
+NOW	is
+INT	around
+QUC	37
+UOM	degrees
+NIL	.

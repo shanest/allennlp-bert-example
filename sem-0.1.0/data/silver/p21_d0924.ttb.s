@@ -1,0 +1,10 @@
+EXS	Did
+ROL	Mr.
+PER	Davis
+ENS	come
+REL	to
+GPE	Japan
+SUB	to
+EXS	teach
+GPO	English
+QUE	?

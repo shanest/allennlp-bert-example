@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+IST	even
+MOR	prettier
+AND	than
+PER	Tom
+EPS	said
+PRO	you
+PST	were
+NIL	.

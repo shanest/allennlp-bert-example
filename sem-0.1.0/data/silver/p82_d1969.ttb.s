@@ -1,0 +1,11 @@
+HAS	His
+CON	salary
+NOW	is
+IST	double
+QUE	what
+PRO	it
+PST	was
+QUC	seven
+CON	years
+PST	ago
+NIL	.

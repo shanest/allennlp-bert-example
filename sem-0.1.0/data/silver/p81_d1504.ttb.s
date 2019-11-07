@@ -1,0 +1,11 @@
+PER	Tom
+EPS	took
+REL	off
+HAS	his
+CON	clothes
+COO	and
+EPS	stepped
+REL	into
+DEF	the
+CON	shower
+NIL	.

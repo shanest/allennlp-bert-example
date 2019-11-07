@@ -1,0 +1,13 @@
+PRO	You
+NOW	've
+EXS	hit
+PRO	it
+NIL	!
+DEF	The
+CON	book
+PST	was
+IST	still
+REL	in
+DEF	the
+CON	car
+NIL	.

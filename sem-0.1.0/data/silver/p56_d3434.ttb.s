@@ -1,0 +1,12 @@
+PRX	This
+NOW	is
+DEF	the
+INT	very
+CON	dictionary
+SUB	that
+PRO	I
+NOW	have
+PFT	been
+EXG	looking
+REL	for
+NIL	.

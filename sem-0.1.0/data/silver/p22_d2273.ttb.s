@@ -1,0 +1,12 @@
+HAS	My
+ROL	father
+NOW	does
+NOT	n't
+EXS	let
+PRO	me
+EXS	go
+IST	out
+AND	alone
+REL	at
+CON	night
+NIL	.

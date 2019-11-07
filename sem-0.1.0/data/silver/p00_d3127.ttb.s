@@ -1,0 +1,11 @@
+AND	Would
+PRO	you
+ENS	like
+NIL	to
+EXS	play
+DIS	a
+CON	game
+REL	of
+GPO	Japanese
+CON	chess
+QUE	?

@@ -1,0 +1,11 @@
+CON	Baseball
+NOW	is
+REL	by
+AND	far
+DEF	the
+INT	most
+IST	popular
+CON	sport
+REL	in
+GPE	Japan
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+PRO	I
+IST	already
+NOW	have
+DIS	a
+CON	boyfriend
+NIL	.

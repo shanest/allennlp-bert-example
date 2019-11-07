@@ -1,0 +1,12 @@
+PRO	I
+NOW	hope
+PRO	we
+NOW	do
+NOT	n't
+NEC	have
+SUB	to
+EXS	wait
+REL	for
+INT	too
+IST	long
+NIL	.

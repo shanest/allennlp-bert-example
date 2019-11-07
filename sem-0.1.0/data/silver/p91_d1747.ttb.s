@@ -1,0 +1,14 @@
+IMP	If
+HAS	his
+CON	father
+PST	was
+NOT	n't
+UNK	there
+NIL	,
+PRO	he
+FUT	'd
+EXS	be
+IST	poor
+CON	right
+NOW	now
+NIL	.

@@ -1,0 +1,16 @@
+NIL	"
+QUE	What
+NOW	are
+PRO	you
+EXS	thinking
+AND	about
+QUE	?
+NIL	"
+NIL	"
+PRO	I
+NOW	'm
+EXS	thinking
+AND	about
+PRO	you
+NIL	.
+NIL	"

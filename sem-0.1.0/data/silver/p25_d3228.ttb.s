@@ -1,0 +1,12 @@
+PER	Tom
+EPS	looked
+IST	around
+COO	and
+IST	then
+EPS	whispered
+DIS	something
+REL	into
+PER	Mary
+HAS	's
+CON	ear
+NIL	.

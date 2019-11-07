@@ -1,0 +1,10 @@
+QUE	What
+PRO	I
+NOW	'm
+EXS	looking
+REL	for
+NOW	looks
+DIS	something
+AND	like
+PRX	this
+NIL	.

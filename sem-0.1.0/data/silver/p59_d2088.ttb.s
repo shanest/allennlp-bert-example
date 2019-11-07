@@ -1,0 +1,9 @@
+EXS	Stop
+EXS	being
+IST	lazy
+COO	and
+EXS	find
+DIS	something
+SUB	to
+EXS	do
+NIL	.

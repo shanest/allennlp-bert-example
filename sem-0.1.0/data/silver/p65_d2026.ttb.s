@@ -1,0 +1,15 @@
+DEF	The
+INT	most
+IST	important
+CON	thing
+REL	in
+DEF	the
+ORG	Olympic
+ORG	Games
+NOW	is
+NOT	not
+EXG	winning
+COO	but
+EXS	taking
+CON	part
+NIL	.

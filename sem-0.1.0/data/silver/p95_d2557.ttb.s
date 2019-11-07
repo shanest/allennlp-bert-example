@@ -1,0 +1,14 @@
+PER	Tom
+EPS	sat
+IST	down
+REL	on
+DIS	a
+CON	rock
+COO	and
+EPS	removed
+DIS	a
+CON	stone
+REL	from
+HAS	his
+CON	shoe
+NIL	.

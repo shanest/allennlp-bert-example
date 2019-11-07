@@ -1,0 +1,11 @@
+PER	Tom
+EPS	spent
+DEF	the
+IST	last
+CON	years
+AND	of
+HAS	his
+CON	life
+REL	in
+GPE	Boston
+NIL	.

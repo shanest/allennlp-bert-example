@@ -1,0 +1,11 @@
+AND	So
+SUB	where
+NOW	does
+PER	Al
+PER	Gore
+EXS	fit
+REL	in
+REL	to
+DEF	the
+CON	story
+QUE	?

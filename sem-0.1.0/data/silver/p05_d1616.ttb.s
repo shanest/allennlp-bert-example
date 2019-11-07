@@ -1,0 +1,10 @@
+PER	Tom
+EPS	opened
+DEF	the
+CON	safe
+COO	and
+EPS	took
+IST	out
+HAS	his
+CON	passport
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+PST	was
+AND	beside
+IST	myself
+REL	with
+CON	joy
+SUB	when
+PRO	I
+EPS	heard
+DEF	the
+CON	news
+NIL	.

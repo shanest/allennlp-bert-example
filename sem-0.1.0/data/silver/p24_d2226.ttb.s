@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXG	telling
+PRO	him
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	how
+PRO	it
+NOW	is
+EXS	written
+NIL	.

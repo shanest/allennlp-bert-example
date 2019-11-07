@@ -1,0 +1,11 @@
+PER	Tom
+EPS	noticed
+PER	Mary
+HAS	's
+CON	bed
+PST	had
+NOT	n't
+PFT	been
+EXS	slept
+REL	in
+NIL	.

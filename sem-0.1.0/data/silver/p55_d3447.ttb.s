@@ -1,0 +1,9 @@
+POS	Maybe
+PRO	we
+NEC	should
+IST	just
+EXS	sit
+REL	for
+DIS	a
+CON	while
+NIL	.

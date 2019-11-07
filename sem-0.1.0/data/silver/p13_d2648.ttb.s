@@ -1,0 +1,17 @@
+PER	Tom
+NOW	's
+NOT	not
+QUV	much
+AND	of
+DIS	a
+CON	cook
+NIL	,
+BUT	but
+SUB	at
+EXS	least
+PRO	he
+NOW	gives
+PRO	it
+DIS	a
+EXS	go
+NIL	.

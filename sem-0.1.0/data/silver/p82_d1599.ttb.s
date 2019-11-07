@@ -1,0 +1,17 @@
+CON	Evaporation
+REL	from
+CON	oceans
+EQU	,
+CON	lakes
+NIL	,
+COO	and
+CON	rivers
+NOW	creates
+QUC	90
+UOM	%
+AND	of
+DEF	the
+CON	water
+REL	in
+CON	air
+NIL	.

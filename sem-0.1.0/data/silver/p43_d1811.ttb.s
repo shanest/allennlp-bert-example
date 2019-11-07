@@ -1,0 +1,9 @@
+QUE	What
+NOW	do
+PRO	they
+EXS	know
+SUB	that
+PRO	we
+NOW	do
+NOT	n't
+QUE	?

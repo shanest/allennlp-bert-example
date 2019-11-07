@@ -1,0 +1,9 @@
+AND	Now
+PRO	we
+NOW	have
+IST	enough
+CON	people
+SUB	to
+EXS	play
+CON	mahjong
+NIL	.

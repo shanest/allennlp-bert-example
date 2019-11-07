@@ -1,0 +1,10 @@
+REL	In
+DEF	the
+CON	German
+CON	language
+NIL	there
+NOW	are
+QUV	many
+IST	long
+CON	words
+NIL	.

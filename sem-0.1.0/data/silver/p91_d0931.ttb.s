@@ -1,0 +1,12 @@
+AND	Why
+NOW	are
+PRO	you
+EXG	saying
+PRO	you
+ENS	want
+SUB	to
+EXS	walk
+REL	in
+DEF	the
+CON	park
+QUE	?

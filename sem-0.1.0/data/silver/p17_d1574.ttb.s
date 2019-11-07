@@ -1,0 +1,11 @@
+PER	Tom
+HAS	's
+CON	boss
+EPS	criticised
+PRO	him
+REL	for
+NOT	not
+EXG	having
+AND	any
+CON	initiative
+NIL	.

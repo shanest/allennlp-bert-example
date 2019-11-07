@@ -1,0 +1,12 @@
+PER	Tom
+NOW	has
+EXS	given
+PER	Mary
+IST	several
+CON	gifts
+REL	in
+DEF	the
+IST	past
+QUC	three
+CON	weeks
+NIL	.

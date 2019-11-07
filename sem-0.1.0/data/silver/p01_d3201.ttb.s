@@ -1,0 +1,9 @@
+PRO	We
+ENS	have
+QUC	five
+CON	classes
+AND	every
+CON	day
+NOT	except
+DOW	Saturday
+NIL	.

@@ -1,0 +1,10 @@
+PRO	It
+EXS	being
+DOW	Sunday
+CON	today
+NIL	,
+PRO	we
+NOW	have
+NOT	no
+CON	school
+NIL	.

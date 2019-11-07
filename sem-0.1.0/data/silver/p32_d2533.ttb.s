@@ -1,0 +1,10 @@
+DEF	The
+IST	heavy
+CON	rain
+EPS	made
+PRO	them
+EPS	put
+REL	off
+HAS	their
+CON	departure
+NIL	.

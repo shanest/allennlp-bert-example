@@ -1,0 +1,10 @@
+PRO	I
+EPS	entered
+DEF	the
+CON	room
+COO	and
+EPS	shook
+CON	hands
+REL	with
+PRO	him
+NIL	.

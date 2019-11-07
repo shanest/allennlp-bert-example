@@ -1,0 +1,10 @@
+PRO	He
+EPS	exposed
+REF	himself
+REL	to
+DEF	the
+CON	ridicule
+AND	of
+HAS	his
+CON	classmates
+NIL	.

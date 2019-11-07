@@ -1,0 +1,11 @@
+EXS	Did
+PER	Marika
+EXS	translate
+AND	any
+IST	comic
+CON	books
+REL	from
+GPO	Japanese
+REL	into
+GPO	Finnish
+QUE	?

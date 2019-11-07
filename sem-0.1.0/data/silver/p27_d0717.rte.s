@@ -1,0 +1,9 @@
+GEO	Iran
+HAS	's
+CON	growth
+CON	rate
+PST	was
+QUC	once
+UOM	3.9
+UOM	percent
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	stand
+DEF	the
+CON	idea
+SUB	that
+PER	Martha
+PST	was
+EXS	right
+REL	about
+PRX	this
+NIL	.

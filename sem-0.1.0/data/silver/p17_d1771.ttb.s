@@ -1,0 +1,11 @@
+PRO	He
+EPS	flipped
+DEF	the
+CON	switch
+COO	and
+EPS	threw
+DEF	the
+CON	room
+REL	into
+CON	brightness
+NIL	.

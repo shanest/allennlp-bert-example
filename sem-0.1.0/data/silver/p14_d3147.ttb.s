@@ -1,0 +1,10 @@
+PER	Tom
+EPS	took
+DIS	something
+SUB	that
+PST	did
+NOT	n't
+EXS	belong
+REL	to
+PRO	him
+NIL	.

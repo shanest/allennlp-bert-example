@@ -1,0 +1,16 @@
+PER	Tom
+EPS	claimed
+SUB	that
+DEF	the
+CON	contract
+PST	was
+IST	invalid
+SUB	because
+PRO	he
+PST	'd
+PFT	been
+EXS	coerced
+REL	into
+EXS	signing
+PRO	it
+NIL	.

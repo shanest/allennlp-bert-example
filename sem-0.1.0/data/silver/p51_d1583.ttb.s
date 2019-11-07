@@ -1,0 +1,10 @@
+PER	Tom
+EPS	broke
+HAS	his
+CON	promise
+COO	and
+PST	did
+NOT	n't
+EXS	help
+PER	Mary
+NIL	.

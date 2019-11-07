@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	sorry
+PRO	I
+NEC	had
+SUB	to
+EXS	do
+DST	that
+NIL	.

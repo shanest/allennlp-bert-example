@@ -1,0 +1,16 @@
+PER	Mother
+PER	Teresa
+EPS	used
+DEF	the
+CON	prize
+CON	money
+REL	for
+HAS	her
+CON	work
+REL	in
+GPE	India
+AND	and
+AND	around
+DEF	the
+CON	world
+NIL	.

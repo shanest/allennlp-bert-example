@@ -1,0 +1,10 @@
+PRO	I
+INT	very
+QUC	much
+EPS	regretted
+EXT	having
+EXS	lost
+AND	so
+QUC	much
+CON	time
+NIL	.

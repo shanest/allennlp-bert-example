@@ -1,0 +1,12 @@
+PRO	I
+NEC	ought
+SUB	to
+EXT	have
+EXS	attended
+DEF	the
+CON	lecture
+COO	but
+PRO	I
+PST	did
+NOT	n't
+NIL	.

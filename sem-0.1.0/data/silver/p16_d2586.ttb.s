@@ -1,0 +1,11 @@
+PRO	I
+EPS	thought
+PRO	I
+EPS	told
+PRO	you
+SUB	to
+EXS	keep
+DEF	the
+CON	door
+EPS	closed
+NIL	.

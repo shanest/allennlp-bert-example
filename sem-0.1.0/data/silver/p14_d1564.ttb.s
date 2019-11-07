@@ -1,0 +1,14 @@
+PER	Sophie
+PST	had
+PFT	been
+EXG	looking
+IST	forward
+SUB	to
+EXG	getting
+ALT	another
+CON	letter
+REL	from
+DEF	the
+IST	unknown
+CON	sender
+NIL	.

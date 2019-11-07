@@ -1,0 +1,13 @@
+PER	Tom
+NOW	has
+PFT	been
+EXG	waiting
+AND	all
+HAS	his
+CON	life
+REL	for
+DIS	a
+CON	woman
+AND	like
+PER	Mary
+NIL	.

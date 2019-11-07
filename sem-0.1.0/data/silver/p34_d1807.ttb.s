@@ -1,0 +1,10 @@
+PRO	I
+EPS	congratulated
+PRO	him
+REL	on
+DEF	the
+CON	birth
+AND	of
+HAS	his
+CON	son
+NIL	.

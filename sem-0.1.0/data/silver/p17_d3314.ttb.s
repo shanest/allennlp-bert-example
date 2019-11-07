@@ -1,0 +1,10 @@
+PRO	I
+EPS	met
+PRO	him
+REL	by
+CON	accident
+REL	at
+DEF	the
+CON	airport
+PST	yesterday
+NIL	.

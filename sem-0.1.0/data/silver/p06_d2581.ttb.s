@@ -1,0 +1,11 @@
+AND	Why
+POS	ca
+NOT	n't
+PRO	you
+EXS	be
+IST	more
+AND	like
+HAS	your
+MOR	older
+ROL	sister
+QUE	?

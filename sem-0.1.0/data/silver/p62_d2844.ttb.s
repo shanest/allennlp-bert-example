@@ -1,0 +1,16 @@
+PRO	She
+ENS	claims
+SUB	that
+PRO	she
+ENS	knows
+NOT	nothing
+AND	about
+PRO	him
+NIL	,
+BUT	but
+PRO	I
+NOW	do
+NOT	n't
+EXS	believe
+PRO	her
+NIL	.

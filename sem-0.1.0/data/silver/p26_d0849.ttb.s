@@ -1,0 +1,11 @@
+PRO	She
+EPS	gave
+CON	birth
+REL	to
+DIS	a
+IST	pretty
+CON	baby
+CON	girl
+AND	last
+CON	week
+NIL	.

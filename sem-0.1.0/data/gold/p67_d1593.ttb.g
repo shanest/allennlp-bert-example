@@ -1,0 +1,10 @@
+PER	Tom
+EPS	put
+REL	on
+HAS	his
+CON	spectacles
+REL	to
+EXS	read
+DEF	the
+CON	letter
+NIL	.

@@ -1,0 +1,14 @@
+DIS	A
+CON	cart
+REL	with
+QUC	four
+CON	horses
+NOW	is
+NOT	not
+IST	able
+SUB	to
+EXS	overtake
+DEF	the
+IST	human
+CON	tongue
+NIL	.

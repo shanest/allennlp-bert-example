@@ -1,0 +1,13 @@
+PRO	I
+POS	can
+NOT	not
+AND	scold
+PER	Taninna
+NIL	.
+PRO	She
+HAS	's
+IST	still
+DIS	a
+IST	little
+CON	girl
+NIL	.

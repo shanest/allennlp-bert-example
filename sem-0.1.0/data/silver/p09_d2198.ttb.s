@@ -1,0 +1,13 @@
+NOT	No
+CON	bird
+EPS	soars
+INT	too
+IST	high
+IMP	if
+PRO	he
+EPS	soars
+REL	with
+HAS	his
+IST	own
+CON	wings
+NIL	.

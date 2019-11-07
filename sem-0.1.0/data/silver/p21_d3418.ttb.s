@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+NOT	not
+EXS	looking
+IST	forward
+SUB	to
+EXG	seeing
+PER	Tom
+NIL	.

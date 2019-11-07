@@ -1,0 +1,16 @@
+IMP	If
+PRO	I
+NOW	'm
+NOT	not
+EXS	mistaken
+NIL	,
+PRO	I
+NOW	think
+PRO	we
+EPS	took
+DIS	a
+IST	wrong
+CON	turn
+AND	back
+IST	there
+NIL	.

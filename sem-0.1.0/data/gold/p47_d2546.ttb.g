@@ -1,0 +1,9 @@
+PRO	I
+NOW	've
+EXT	ordered
+QUC	two
+CON	teas
+AND	and
+QUC	three
+CON	coffees
+NIL	.

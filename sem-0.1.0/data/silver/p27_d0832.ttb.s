@@ -1,0 +1,9 @@
+GPE	Japan
+NOW	is
+IST	still
+EXS	struggling
+SUB	to
+EXS	emerge
+REL	from
+CON	recession
+NIL	.

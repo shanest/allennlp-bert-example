@@ -1,0 +1,12 @@
+PRO	He
+EPS	killed
+CON	time
+REL	in
+DIS	a
+CON	coffee
+CON	shop
+EXS	watching
+CON	girls
+EXS	pass
+REL	by
+NIL	.

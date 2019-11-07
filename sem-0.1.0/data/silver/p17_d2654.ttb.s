@@ -1,0 +1,15 @@
+EXS	Keeping
+DIS	a
+CON	diary
+ALT	also
+NOW	gives
+PRO	us
+DIS	a
+CON	chance
+SUB	to
+EXS	reflect
+REL	on
+HAS	our
+IST	daily
+CON	life
+NIL	.

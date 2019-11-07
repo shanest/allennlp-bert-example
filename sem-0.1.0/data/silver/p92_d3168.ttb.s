@@ -1,0 +1,9 @@
+CON	Smoke
+PST	was
+EXS	coming
+IST	out
+AND	of
+PER	Tom
+HAS	's
+CON	room
+NIL	.

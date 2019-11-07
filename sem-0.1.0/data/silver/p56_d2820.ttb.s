@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+NOT	not
+IST	able
+SUB	to
+EXS	fix
+DEF	the
+CON	computer
+NIL	.

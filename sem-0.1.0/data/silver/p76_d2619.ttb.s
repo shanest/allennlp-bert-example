@@ -1,0 +1,14 @@
+NOT	No
+CON	one
+NOW	is
+EXS	free
+COO	;
+AND	even
+DEF	the
+CON	birds
+NOW	are
+EPS	chained
+REL	to
+DEF	the
+CON	sky
+NIL	.

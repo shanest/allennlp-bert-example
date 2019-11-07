@@ -1,0 +1,12 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	seem
+SUB	to
+EXS	be
+SUB	as
+EXS	busy
+AND	as
+PER	Mary
+NOW	is
+NIL	.

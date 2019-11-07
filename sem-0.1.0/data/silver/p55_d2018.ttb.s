@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+NOW	're
+EXS	going
+SUB	to
+EXS	doubt
+AND	everything
+NIL	,
+REL	at
+TOP	least
+EXS	doubt
+HAS	your
+CON	doubt
+NIL	.

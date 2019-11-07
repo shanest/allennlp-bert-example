@@ -1,0 +1,11 @@
+PRO	He
+FUT	'll
+EXS	be
+IST	able
+SUB	to
+EXS	make
+PRO	it
+REL	in
+QUC	three
+UOM	hours
+NIL	.

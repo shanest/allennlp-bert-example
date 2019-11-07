@@ -1,0 +1,11 @@
+PER	Tom
+PST	was
+EXS	furious
+SUB	when
+PRO	he
+EPS	saw
+PER	Mary
+NOW	kiss
+DIS	someone
+AND	else
+NIL	.

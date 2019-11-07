@@ -1,0 +1,10 @@
+UNK	There
+PST	were
+NOT	no
+CON	radios
+REL	in
+GPE	Japan
+REL	in
+DST	those
+CON	days
+NIL	.

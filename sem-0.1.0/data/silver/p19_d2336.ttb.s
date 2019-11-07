@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+IST	traditional
+SUB	to
+EXS	wear
+IST	black
+REL	to
+DIS	a
+CON	funeral
+NIL	.

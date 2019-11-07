@@ -1,0 +1,11 @@
+SUB	When
+PST	was
+DEF	the
+ORG	Buckingham
+ORG	Palace
+EPS	built
+REL	in
+GPE	London
+EQU	,
+GPE	England
+QUE	?

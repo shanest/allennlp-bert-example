@@ -1,0 +1,9 @@
+PER	Tom
+EPS	turned
+REL	off
+DEF	the
+CON	lamp
+REL	on
+DEF	the
+CON	nightstand
+NIL	.

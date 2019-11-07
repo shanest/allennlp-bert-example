@@ -1,0 +1,15 @@
+DEF	The
+CON	construction
+AND	of
+DEF	the
+CON	dam
+EPS	created
+DIS	an
+IST	artificial
+CON	lake
+SUB	that
+EXS	destroyed
+DIS	a
+IST	whole
+CON	ecosystem
+NIL	.

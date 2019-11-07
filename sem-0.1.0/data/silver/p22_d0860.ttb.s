@@ -1,0 +1,11 @@
+REL	In
+DEF	the
+CON	evening
+NIL	,
+PRO	I
+ENS	go
+REL	to
+CON	bed
+REL	at
+CLO	ten
+NIL	.

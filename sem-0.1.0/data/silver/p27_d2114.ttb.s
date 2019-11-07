@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+EXS	going
+SUB	to
+EXS	pick
+PRO	me
+IST	up
+REL	at
+DEF	the
+CON	station
+NIL	.

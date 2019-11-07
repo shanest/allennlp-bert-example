@@ -1,0 +1,9 @@
+PRO	I
+ENS	bet
+PRO	you
+FUT	'll
+EXS	be
+DIS	a
+IST	great
+CON	father
+NIL	.

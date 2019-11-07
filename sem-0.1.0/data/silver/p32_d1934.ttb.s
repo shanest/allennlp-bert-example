@@ -1,0 +1,10 @@
+PER	Tom
+POS	could
+EXS	hear
+PER	Mary
+EXS	talking
+REL	in
+DEF	the
+IST	next
+CON	room
+NIL	.

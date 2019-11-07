@@ -1,0 +1,15 @@
+DIS	A
+IST	female
+CON	friend
+AND	of
+CON	ours
+EPS	took
+DIS	a
+CON	trip
+REL	to
+DIS	a
+IST	small
+CON	village
+AND	last
+CON	week
+NIL	.

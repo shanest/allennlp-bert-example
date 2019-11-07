@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	studying
+GPO	French
+QUC	four
+UOM	years
+NOW	now
+NIL	.

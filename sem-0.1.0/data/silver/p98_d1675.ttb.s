@@ -1,0 +1,9 @@
+PRO	I
+IST	almost
+EPS	forgot
+SUB	that
+PRO	it
+PST	was
+HAS	his
+CON	birthday
+NIL	.

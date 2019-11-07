@@ -1,0 +1,11 @@
+DEF	The
+CON	Democrats
+EPS	bought
+CON	space
+REL	on
+IST	commercial
+CON	television
+REL	for
+DEF	the
+CON	campaign
+NIL	.

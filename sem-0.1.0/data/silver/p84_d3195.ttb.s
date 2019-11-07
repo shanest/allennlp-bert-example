@@ -1,0 +1,10 @@
+PRO	You
+NOW	've
+IST	always
+EXS	loved
+PER	Tom
+NIL	,
+NOW	have
+NOT	n't
+PRO	you
+QUE	?

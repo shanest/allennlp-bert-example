@@ -1,0 +1,10 @@
+AND	Just
+EXG	reading
+DEF	the
+CON	medicine
+EPS	made
+DEF	the
+CON	cough
+ENS	go
+IST	away
+NIL	.

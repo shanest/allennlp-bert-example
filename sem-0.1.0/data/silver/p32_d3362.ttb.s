@@ -1,0 +1,17 @@
+IMP	If
+PRO	you
+NOW	're
+EXS	going
+REL	to
+DEF	the
+CON	supermarket
+NIL	,
+FUT	will
+PRO	you
+IST	please
+EXS	bring
+PRO	me
+IST	back
+DIS	some
+CON	oranges
+QUE	?

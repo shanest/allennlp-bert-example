@@ -1,0 +1,10 @@
+HAS	My
+ROL	mother
+NOW	is
+REL	from
+GPE	Benin
+NIL	.
+PRO	She
+NOW	is
+GPO	Beninese
+NIL	.

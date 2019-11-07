@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	why
+PER	Tom
+NOW	is
+INT	so
+IST	nervous
+NIL	.

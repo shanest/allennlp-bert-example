@@ -1,0 +1,11 @@
+PRO	He
+EPS	wanted
+SUB	to
+EXS	know
+IST	more
+AND	about
+DEF	the
+CON	trees
+NIL	,
+ALT	too
+NIL	.

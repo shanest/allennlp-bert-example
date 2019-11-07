@@ -1,0 +1,9 @@
+GEO	Osaka
+NOW	is
+DEF	the
+IST	second
+TOP	largest
+CON	city
+AND	of
+GPE	Japan
+NIL	.

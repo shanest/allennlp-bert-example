@@ -1,0 +1,9 @@
+PRO	It
+ENS	seems
+SUB	that
+PRO	they
+EPS	took
+DEF	the
+IST	wrong
+CON	train
+NIL	.

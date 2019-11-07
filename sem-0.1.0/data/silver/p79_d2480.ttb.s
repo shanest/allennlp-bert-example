@@ -1,0 +1,12 @@
+PER	Tom
+EPS	added
+AND	both
+HAS	his
+AND	and
+PER	Mary
+HAS	's
+CON	name
+REL	to
+DEF	the
+CON	list
+NIL	.

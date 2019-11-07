@@ -1,0 +1,9 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	argue
+REL	with
+PER	Mary
+NIL	.

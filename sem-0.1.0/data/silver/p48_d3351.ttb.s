@@ -1,0 +1,16 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+CON	dog
+CON	lovers
+NIL	,
+COO	and
+NOW	have
+HAS	their
+CON	pooch
+EPS	groomed
+QUC	once
+DIS	a
+CON	month
+NIL	.

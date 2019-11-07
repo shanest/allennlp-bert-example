@@ -1,0 +1,9 @@
+PRX	This
+NOW	is
+HAS	mine
+NIL	,
+COO	and
+PRX	this
+NOW	is
+HAS	yours
+NIL	.

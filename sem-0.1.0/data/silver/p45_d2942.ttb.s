@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	heard
+AND	that
+REL	from
+DIS	a
+CON	lot
+AND	of
+CON	people
+NIL	.

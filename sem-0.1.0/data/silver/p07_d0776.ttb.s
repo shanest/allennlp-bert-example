@@ -1,0 +1,9 @@
+REL	After
+DEF	the
+CON	revolution
+NIL	,
+GPE	France
+EPS	became
+DIS	a
+CON	republic
+NIL	.

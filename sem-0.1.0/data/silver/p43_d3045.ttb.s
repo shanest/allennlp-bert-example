@@ -1,0 +1,10 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	send
+PRX	this
+CON	postcard
+REL	to
+GPE	Japan
+NIL	.

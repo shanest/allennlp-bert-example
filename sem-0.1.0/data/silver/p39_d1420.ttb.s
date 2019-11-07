@@ -1,0 +1,10 @@
+DIS	A
+IST	cornered
+CON	fox
+NOW	is
+MOR	more
+DEG	dangerous
+REL	than
+DIS	a
+CON	jackal
+NIL	.

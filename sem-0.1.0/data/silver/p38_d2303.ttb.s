@@ -1,0 +1,14 @@
+PRO	We
+POS	ca
+NOT	n't
+IST	just
+EXS	cut
+CON	people
+HAS	's
+CON	salaries
+NOT	without
+EXG	giving
+PRO	them
+DIS	some
+CON	warning
+NIL	.

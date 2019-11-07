@@ -1,0 +1,14 @@
+IMP	If
+DIS	anyone
+ENS	comes
+NIL	to
+EXS	see
+PRO	me
+NIL	,
+EXS	tell
+PRO	him
+SUB	that
+PRO	I
+NOW	am
+IST	out
+NIL	.

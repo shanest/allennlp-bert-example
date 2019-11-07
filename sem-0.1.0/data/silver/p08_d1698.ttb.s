@@ -1,0 +1,15 @@
+AND	Why
+NOW	do
+CON	humans
+CON	fear
+CON	monsters
+QUE	?
+PRO	They
+NOW	are
+DEF	the
+BOT	worst
+CON	monsters
+REL	in
+DEF	the
+CON	world
+NIL	!

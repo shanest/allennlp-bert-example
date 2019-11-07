@@ -1,0 +1,12 @@
+QUE	What
+FUT	would
+HAS	your
+CON	mother
+NOW	think
+IMP	if
+PRO	she
+EPS	saw
+PRO	you
+AND	like
+PRX	this
+QUE	?

@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+CON	time
+ENS	heals
+AND	all
+DEF	the
+CON	wounds
+NIL	.

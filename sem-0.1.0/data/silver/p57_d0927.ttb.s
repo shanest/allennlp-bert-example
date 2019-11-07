@@ -1,0 +1,12 @@
+PER	Tom
+ENS	thinks
+SUB	that
+HAS	his
+CON	computer
+NOW	is
+EPS	possessed
+REL	by
+DIS	an
+IST	evil
+CON	spirit
+NIL	.

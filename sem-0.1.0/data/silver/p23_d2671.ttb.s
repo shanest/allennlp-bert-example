@@ -1,0 +1,12 @@
+DEF	The
+CON	colors
+AND	of
+GPO	Italian
+CON	flag
+NOW	are
+COL	white
+NIL	,
+IST	red
+AND	and
+COL	green
+NIL	.

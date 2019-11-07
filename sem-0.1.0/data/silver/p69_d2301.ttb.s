@@ -1,0 +1,14 @@
+PRO	I
+EPS	came
+REL	to
+GPE	Japan
+QUC	four
+CON	years
+PST	ago
+EXS	intending
+SUB	to
+EXS	stay
+REL	for
+QUC	one
+CON	year
+NIL	.

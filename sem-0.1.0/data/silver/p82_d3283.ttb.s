@@ -1,0 +1,13 @@
+CON	Where
+DEF	the
+CON	hell
+PST	were
+PRO	you
+QUE	?
+AND	Why
+PST	did
+NOT	n't
+PRO	you
+EXS	call
+PRO	me
+QUE	?

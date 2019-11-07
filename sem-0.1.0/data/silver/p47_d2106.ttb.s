@@ -1,0 +1,10 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	take
+HAS	his
+CON	eyes
+REL	off
+AND	of
+PER	Mary
+NIL	.

@@ -1,0 +1,12 @@
+AND	As
+IST	soon
+SUB	as
+PRO	I
+PST	got
+IST	out
+NIL	,
+PRO	I
+EPS	kicked
+DEF	the
+CON	wall
+NIL	.

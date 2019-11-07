@@ -1,0 +1,15 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+AND	who
+PER	Mary
+NOW	is
+EXS	planning
+SUB	to
+EXS	go
+REL	to
+DEF	the
+CON	prom
+REL	with
+NIL	.

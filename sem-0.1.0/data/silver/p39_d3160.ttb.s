@@ -1,0 +1,12 @@
+PRO	She
+EPS	put
+REL	on
+DIS	a
+CON	sweater
+AND	so
+AND	as
+NOT	not
+SUB	to
+EXS	catch
+IST	cold
+NIL	.

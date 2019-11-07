@@ -1,0 +1,16 @@
+SUB	Until
+NOW	now
+DEF	the
+CON	city
+AND	of
+GEO	Bilbao
+NOW	has
+PFT	been
+EXS	characterized
+AND	as
+DIS	a
+IST	rough
+EQU	,
+IST	industrial
+CON	city
+NIL	.

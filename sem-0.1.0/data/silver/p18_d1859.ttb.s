@@ -1,0 +1,13 @@
+QUE	Who
+ENS	knows
+DEF	the
+CON	flavor
+AND	of
+CON	misfortune
+ENS	knows
+QUE	how
+PRO	it
+ENS	tastes
+REL	to
+ALT	others
+NIL	.

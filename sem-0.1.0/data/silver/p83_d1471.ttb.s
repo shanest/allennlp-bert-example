@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+EXS	taking
+CON	care
+AND	of
+HAS	his
+IST	old
+ROL	Mom
+NIL	.

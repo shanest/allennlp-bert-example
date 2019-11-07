@@ -1,0 +1,11 @@
+PER	Tom
+IST	often
+ENS	walks
+AND	around
+DEF	the
+CON	house
+NOT	without
+AND	any
+CON	clothes
+REL	on
+NIL	.

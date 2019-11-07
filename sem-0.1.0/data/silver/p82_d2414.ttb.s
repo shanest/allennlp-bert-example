@@ -1,0 +1,16 @@
+PRO	It
+FUT	would
+EXT	have
+PFT	been
+EXS	nice
+IMP	if
+PER	Tom
+PST	had
+EXS	listened
+IST	more
+IST	closely
+SUB	to
+QUE	what
+PST	was
+EXS	said
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+NEC	ought
+SUB	to
+EXT	have
+EXS	made
+CON	allowances
+REL	for
+HAS	his
+CON	age
+NIL	.

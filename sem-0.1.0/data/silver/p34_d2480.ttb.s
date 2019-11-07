@@ -1,0 +1,9 @@
+AND	Everyone
+PST	had
+DIS	a
+IST	good
+CON	time
+REL	at
+DEF	the
+CON	party
+NIL	.

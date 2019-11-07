@@ -1,0 +1,13 @@
+DEF	The
+IST	last
+CON	time
+PRO	I
+EPS	saw
+PER	Tom
+PRO	he
+PST	was
+EXS	headed
+AND	towards
+DEF	the
+CON	beach
+NIL	.

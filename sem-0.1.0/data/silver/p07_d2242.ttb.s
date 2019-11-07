@@ -1,0 +1,14 @@
+PER	Tom
+PST	did
+NOT	n't
+IST	even
+EXS	write
+QUC	one
+CON	letter
+REL	to
+PER	Mary
+SUB	while
+PRO	he
+PST	was
+IST	away
+NIL	.

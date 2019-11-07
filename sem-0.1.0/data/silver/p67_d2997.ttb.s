@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+XCL	only
+CON	kimono
+SUB	that
+HAS	my
+CON	mother
+EPS	bought
+PRO	me
+NIL	.

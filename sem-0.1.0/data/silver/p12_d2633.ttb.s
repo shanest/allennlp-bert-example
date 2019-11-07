@@ -1,0 +1,10 @@
+PER	Tom
+POS	can
+NOT	never
+EXS	remember
+QUE	how
+SUB	to
+EXS	spell
+HAS	my
+CON	name
+NIL	.

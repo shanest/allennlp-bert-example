@@ -1,0 +1,17 @@
+PRO	It
+NOW	's
+INT	so
+EXS	hot
+SUB	that
+PRO	you
+POS	could
+EXS	cook
+DIS	an
+CON	egg
+REL	on
+DEF	the
+CON	hood
+AND	of
+DIS	a
+CON	car
+NIL	.

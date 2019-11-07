@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+COO	but
+ROL	Mr.
+PER	Rooney
+NOW	is
+EXS	tied
+IST	up
+REL	at
+DEF	the
+CON	moment
+NIL	.

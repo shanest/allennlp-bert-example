@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+EXS	going
+REL	to
+DEF	the
+IST	post
+CON	office
+NOW	now
+SUB	to
+EXS	get
+DIS	a
+IST	few
+CON	stamps
+NIL	.

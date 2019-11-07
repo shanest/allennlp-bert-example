@@ -1,0 +1,9 @@
+PRO	I
+EPS	went
+REL	to
+DEF	the
+ROL	lawyer
+REL	for
+IST	legal
+CON	help
+NIL	.

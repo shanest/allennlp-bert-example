@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXG	looking
+IST	out
+REL	for
+DIS	a
+CON	house
+REL	to
+CON	rent
+NIL	.

@@ -1,0 +1,10 @@
+SUB	While
+EXS	eating
+DIS	a
+CON	pizza
+PRO	he
+PST	was
+EXS	annoying
+HAS	his
+ROL	sister
+NIL	.

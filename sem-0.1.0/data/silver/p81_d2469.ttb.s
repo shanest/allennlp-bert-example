@@ -1,0 +1,15 @@
+CON	People
+EXS	driving
+AND	through
+IST	southern
+GPE	Germany
+FUT	will
+EXS	see
+CON	farmhouses
+REL	with
+IST	solar
+CON	panels
+AND	everywhere
+PRO	they
+NOW	look
+NIL	.

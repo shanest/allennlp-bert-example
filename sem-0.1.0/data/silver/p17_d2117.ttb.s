@@ -1,0 +1,11 @@
+QUE	What
+PER	Tom
+IST	really
+EPS	wanted
+PST	was
+DIS	some
+CON	time
+REL	with
+HAS	his
+CON	children
+NIL	.

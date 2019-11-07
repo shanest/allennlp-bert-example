@@ -1,0 +1,14 @@
+IMP	If
+PRO	you
+NOW	behave
+AND	like
+DIS	a
+CON	flunkey
+NIL	,
+PRO	you
+NOW	're
+EXS	treated
+AND	like
+DIS	a
+CON	flunkey
+NIL	.

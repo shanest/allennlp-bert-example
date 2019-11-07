@@ -1,0 +1,16 @@
+AND	Scarcely
+DIS	an
+CON	hour
+ENS	goes
+REL	by
+SUB	that
+PRO	I
+NOW	do
+NOT	n't
+PRO	I
+NOW	think
+AND	of
+PRO	you
+REL	with
+CON	love
+NIL	.

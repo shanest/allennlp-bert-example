@@ -1,0 +1,13 @@
+NIL	"
+QUE	What
+NOW	is
+HAS	your
+CON	wish
+QUE	?
+NIL	"
+EPS	asked
+DEF	the
+IST	little
+COL	white
+CON	rabbit
+NIL	.

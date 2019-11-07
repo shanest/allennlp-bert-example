@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+UNK	necessary
+SUB	that
+DEF	the
+CON	bill
+EXS	pass
+DEF	the
+CON	Diet
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+PRO	him
+NIL	,
+DIS	a
+IST	wily
+NIL	,
+CON	cheeky
+CON	lad
+NIL	.

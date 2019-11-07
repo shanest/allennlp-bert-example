@@ -1,0 +1,10 @@
+EXS	Put
+HAS	your
+CON	coat
+REL	on
+NIL	.
+PRO	It
+HAS	's
+IST	cold
+IST	outside
+NIL	.

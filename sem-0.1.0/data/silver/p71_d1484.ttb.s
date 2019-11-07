@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+DEF	the
+QUC	one
+AND	who
+EPS	showed
+PRO	me
+QUE	how
+SUB	to
+EXS	do
+PRO	it
+NIL	.

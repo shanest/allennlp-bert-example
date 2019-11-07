@@ -1,0 +1,11 @@
+PRO	He
+EPS	told
+HAS	his
+CON	children
+NOT	not
+SUB	to
+EXS	make
+INT	so
+QUV	much
+CON	noise
+NIL	.

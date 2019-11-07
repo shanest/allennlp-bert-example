@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+EPS	heard
+AND	about
+DIS	a
+GPO	German
+ROL	singer
+EPS	called
+PER	Blümchen
+QUE	?

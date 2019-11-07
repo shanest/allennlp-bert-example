@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXS	going
+SUB	to
+EXS	work
+IST	out
+DEF	the
+CON	problem
+REL	by
+REF	myself
+NIL	.

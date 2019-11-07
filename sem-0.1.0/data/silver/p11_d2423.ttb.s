@@ -1,0 +1,10 @@
+PRO	You
+NOW	do
+NOT	n't
+EXS	want
+PRO	me
+PRX	here
+NIL	,
+NOW	do
+PRO	you
+QUE	?

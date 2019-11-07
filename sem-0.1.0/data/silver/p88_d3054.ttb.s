@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+DEF	the
+CON	reason
+QUE	why
+PER	Mary
+NOW	is
+EXS	absent
+NIL	.

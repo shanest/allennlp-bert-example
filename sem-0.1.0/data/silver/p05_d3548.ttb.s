@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+EXS	known
+PRO	her
+SUB	since
+PRO	she
+PST	was
+DIS	a
+CON	child
+NIL	.

@@ -1,0 +1,9 @@
+PRO	It
+NOW	sounds
+AND	like
+PRO	they
+NOW	're
+EXS	going
+REL	to
+PER	Kashgar
+NIL	.

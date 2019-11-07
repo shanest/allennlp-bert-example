@@ -1,0 +1,10 @@
+PER	Tom
+NEC	definitely
+NOW	does
+NOT	n't
+EXS	want
+SUB	to
+EXS	be
+CON	class
+ROL	president
+NIL	.

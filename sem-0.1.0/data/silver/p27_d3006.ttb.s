@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	connecting
+PRX	this
+CON	computer
+REL	to
+DEF	the
+CON	Internet
+NIL	.

@@ -1,0 +1,10 @@
+PER	Susan
+EPS	spent
+DEF	the
+CON	summer
+CON	vacation
+REL	at
+HAS	her
+ROL	grandmother
+HAS	's
+NIL	.

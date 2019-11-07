@@ -1,0 +1,9 @@
+EXG	Holding
+CON	hands
+POS	can
+EXS	express
+EXS	love
+REL	between
+QUC	two
+CON	people
+NIL	.

@@ -1,0 +1,14 @@
+PRO	He
+EPS	kept
+PRO	it
+IST	secret
+SUB	that
+PRO	he
+PST	had
+EXS	bought
+DIS	a
+CON	bicycle
+REL	for
+HAS	his
+CON	son
+NIL	.

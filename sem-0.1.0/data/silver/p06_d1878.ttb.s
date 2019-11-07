@@ -1,0 +1,9 @@
+INT	Too
+QUV	many
+CON	trees
+EXS	deprive
+DIS	a
+CON	house
+AND	of
+CON	light
+NIL	.

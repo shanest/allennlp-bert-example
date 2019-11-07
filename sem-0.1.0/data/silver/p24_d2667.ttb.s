@@ -1,0 +1,12 @@
+EXS	Let
+HAS	's
+ENS	sit
+REL	at
+QUC	one
+AND	of
+DEF	the
+CON	tables
+REL	near
+DEF	the
+IST	back
+NIL	.

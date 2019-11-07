@@ -1,0 +1,13 @@
+DST	That
+CON	man
+NOW	is
+GPO	French
+NIL	.
+NOW	Are
+PRO	you
+AND	and
+HAS	your
+ROL	sister
+NIL	,
+ALT	too
+QUE	?

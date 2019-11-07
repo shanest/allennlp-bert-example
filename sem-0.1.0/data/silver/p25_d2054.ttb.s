@@ -1,0 +1,9 @@
+GPO	British
+CON	people
+NOW	are
+EXS	used
+SUB	to
+EXS	standing
+REL	in
+CON	queues
+NIL	.

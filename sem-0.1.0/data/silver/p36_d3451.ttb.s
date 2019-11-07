@@ -1,0 +1,15 @@
+SUB	As
+PRO	it
+HAS	's
+HAS	your
+CON	birthday
+NIL	,
+PRO	we
+NOW	're
+EXS	going
+SUB	to
+EXS	sing
+PRO	you
+DIS	a
+CON	song
+NIL	.

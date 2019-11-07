@@ -1,0 +1,10 @@
+PER	Tom
+EPS	looked
+AND	around
+NIL	to
+EXS	see
+IMP	if
+DIS	anybody
+PST	was
+EXG	watching
+NIL	.

@@ -1,0 +1,9 @@
+ROL	Dr.
+PER	Hawking
+PST	had
+INT	almost
+EXS	finished
+EXS	writing
+DIS	a
+CON	book
+NIL	.

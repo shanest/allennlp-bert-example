@@ -1,0 +1,13 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+SUB	whether
+PRO	you
+NOW	are
+EXG	telling
+DEF	the
+CON	truth
+DIS	or
+NOT	not
+NIL	.

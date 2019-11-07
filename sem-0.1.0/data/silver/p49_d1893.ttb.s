@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	allowed
+SUB	to
+EXS	swim
+REL	in
+DEF	the
+CON	river
+NIL	.

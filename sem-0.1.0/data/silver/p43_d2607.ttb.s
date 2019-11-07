@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	happy
+SUB	that
+PRO	you
+NOW	are
+HAS	my
+CON	friend
+NIL	.

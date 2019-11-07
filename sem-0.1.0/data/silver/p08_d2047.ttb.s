@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PRO	I
+NOW	have
+EXS	written
+QUV	several
+CON	books
+IST	together
+NIL	.

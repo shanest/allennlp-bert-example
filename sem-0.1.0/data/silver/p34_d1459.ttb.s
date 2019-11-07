@@ -1,0 +1,11 @@
+PRO	You
+NOW	're
+IST	just
+EXS	making
+SUB	that
+IST	up
+NIL	,
+NOW	are
+NOT	n't
+PRO	you
+QUE	?

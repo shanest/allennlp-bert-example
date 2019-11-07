@@ -1,0 +1,11 @@
+PRO	I
+NOW	have
+NOT	not
+EXS	heard
+REL	from
+PRO	him
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

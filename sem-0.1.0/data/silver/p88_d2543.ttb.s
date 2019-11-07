@@ -1,0 +1,11 @@
+PRO	I
+NOW	feel
+AND	like
+EXG	telling
+PRO	him
+QUE	what
+PRO	I
+NOW	think
+AND	of
+PRO	him
+NIL	.

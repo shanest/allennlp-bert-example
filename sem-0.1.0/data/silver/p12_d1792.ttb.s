@@ -1,0 +1,14 @@
+UNK	Blessed
+NOW	is
+PRO	he
+AND	who
+NOW	expects
+NOT	nothing
+NIL	,
+REL	for
+PRO	he
+FUT	will
+NOT	never
+EXS	be
+EXS	disillusioned
+NIL	.

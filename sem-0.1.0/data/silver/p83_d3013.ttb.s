@@ -1,0 +1,14 @@
+AND	Nowadays
+NIL	,
+CON	people
+ENS	know
+DEF	the
+CON	price
+AND	of
+AND	everything
+AND	and
+DEF	the
+CON	value
+AND	of
+NOT	nothing
+NIL	.

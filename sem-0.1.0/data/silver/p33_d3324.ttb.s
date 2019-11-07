@@ -1,0 +1,14 @@
+PRO	I
+NEC	had
+SUB	to
+EXS	stop
+PER	Tom
+REL	from
+EXG	making
+DEF	the
+TOP	biggest
+CON	mistake
+REL	in
+HAS	his
+CON	life
+NIL	.

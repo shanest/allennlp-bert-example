@@ -1,0 +1,13 @@
+PER	Tom
+PST	was
+NOT	n't
+EXS	allowed
+SUB	to
+EXS	visit
+HAS	his
+ROL	father
+AND	who
+PST	was
+REL	in
+CON	prison
+NIL	.

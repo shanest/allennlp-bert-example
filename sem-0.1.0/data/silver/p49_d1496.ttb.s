@@ -1,0 +1,11 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	jumped
+REL	from
+DIS	a
+CON	bridge
+REL	into
+DEF	the
+CON	sea
+QUE	?

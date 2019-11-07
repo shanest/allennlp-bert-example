@@ -1,0 +1,15 @@
+PRO	We
+ENS	know
+DEF	the
+CON	truth
+NIL	,
+NOT	not
+XCL	only
+REL	by
+CON	reason
+NIL	,
+BUT	but
+ALT	also
+REL	at
+CON	heart
+NIL	.

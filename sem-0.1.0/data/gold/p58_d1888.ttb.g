@@ -1,0 +1,11 @@
+DEF	The
+CON	river
+AND	which
+ENS	flows
+REL	through
+GPE	London
+NOW	is
+EXS	called
+DEF	the
+LIT	Thames
+NIL	.

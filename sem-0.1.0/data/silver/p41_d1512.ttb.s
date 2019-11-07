@@ -1,0 +1,16 @@
+NIL	"
+NOW	Do
+PRO	you
+EXS	need
+DIS	a
+CON	T-shirt
+QUE	?
+NIL	"
+NIL	"
+AND	Yes
+NIL	,
+DIS	a
+IST	red
+CON	one
+NIL	.
+NIL	"

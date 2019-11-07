@@ -1,0 +1,11 @@
+PRO	She
+ENS	thinks
+AND	everything
+FUT	will
+EXS	come
+REL	to
+DIS	a
+CON	head
+AND	next
+CON	week
+NIL	.

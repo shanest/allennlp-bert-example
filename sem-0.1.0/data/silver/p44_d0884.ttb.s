@@ -1,0 +1,10 @@
+DST	That
+HAS	's
+IST	enough
+REL	for
+NOW	today
+NIL	.
+PRO	I
+NOW	'm
+EXS	tired
+NIL	.

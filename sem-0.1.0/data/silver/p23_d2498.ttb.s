@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	looking
+IST	forward
+SUB	to
+EXG	going
+EXS	hunting
+REL	with
+HAS	my
+ROL	father
+NIL	.

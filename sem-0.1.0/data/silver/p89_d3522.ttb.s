@@ -1,0 +1,17 @@
+AND	Indeed
+PRO	you
+ENS	know
+DIS	a
+CON	lot
+AND	of
+CON	things
+NIL	,
+BUT	but
+PRO	you
+NOW	're
+NOT	not
+EXS	good
+REL	at
+EXS	teaching
+PRO	them
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+XCL	only
+QUC	three
+CON	months
+COM	older
+MOR	than
+PER	Mary
+NIL	.

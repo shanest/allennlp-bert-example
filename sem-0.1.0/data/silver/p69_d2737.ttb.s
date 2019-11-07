@@ -1,0 +1,13 @@
+UNK	There
+NOW	is
+NOT	no
+EXS	use
+REL	in
+EXS	crying
+NIL	.
+NOT	No
+CON	one
+FUT	will
+EXS	hear
+PRO	you
+NIL	.

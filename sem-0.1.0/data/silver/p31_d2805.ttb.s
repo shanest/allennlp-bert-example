@@ -1,0 +1,11 @@
+PER	Mayumi
+EPS	gathered
+HAS	her
+IST	small
+CON	change
+COO	and
+EPS	bought
+DIS	a
+CON	beach
+CON	ball
+NIL	.

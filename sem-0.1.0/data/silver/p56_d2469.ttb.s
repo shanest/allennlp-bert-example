@@ -1,0 +1,13 @@
+PRO	We
+NOW	've
+IST	always
+PFT	been
+EXS	told
+SUB	to
+EXS	do
+QUE	what
+HAS	's
+TOP	best
+REL	for
+PRO	us
+NIL	.

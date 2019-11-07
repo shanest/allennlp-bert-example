@@ -1,0 +1,14 @@
+PER	Socrates
+EPS	said
+SUB	that
+EXS	recognising
+HAS	your
+IST	own
+CON	ignorance
+NOW	is
+DEF	the
+IST	first
+CON	step
+AND	towards
+CON	wisdom
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+EPS	finished
+EXG	eating
+CON	breakfast
+AND	while
+PER	Tom
+PST	was
+EXS	getting
+IST	ready
+REL	for
+CON	school
+NIL	.

@@ -1,0 +1,12 @@
+DIS	A
+UOM	kilo
+AND	of
+CON	ketchup
+NOW	is
+EXS	equivalent
+REL	to
+QUC	two
+UOM	kilos
+AND	of
+CON	tomatoes
+NIL	.

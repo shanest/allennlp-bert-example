@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	hear
+HAS	your
+IST	lame
+CON	excuses
+NIL	.

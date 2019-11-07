@@ -1,0 +1,10 @@
+PER	Tom
+PST	had
+NOT	no
+CON	one
+SUB	to
+EXS	tell
+HAS	his
+CON	story
+REL	to
+NIL	.

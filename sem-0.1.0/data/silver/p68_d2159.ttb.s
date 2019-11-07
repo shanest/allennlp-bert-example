@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	so
+EXS	happy
+SUB	to
+IST	finally
+EXS	be
+IST	back
+CON	home
+NIL	.

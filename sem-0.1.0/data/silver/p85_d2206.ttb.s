@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+PRO	you
+ENS	want
+SUB	to
+EXS	make
+PRO	me
+EXS	happy
+NIL	.

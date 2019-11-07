@@ -1,0 +1,12 @@
+CON	Watch
+CON	attentively
+NIL	.
+PRO	I
+FUT	'll
+EXS	show
+PRO	you
+QUE	how
+PRO	it
+NOW	's
+EXS	done
+NIL	.

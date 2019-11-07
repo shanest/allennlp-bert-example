@@ -1,0 +1,9 @@
+PRO	I
+EPS	dreamed
+PRO	I
+PST	had
+PRG	been
+EXS	abducted
+REL	by
+CON	aliens
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+BUT	but
+PRO	I
+NOW	'm
+NOT	not
+EXS	confident
+AND	of
+HAS	her
+CON	success
+NIL	.

@@ -1,0 +1,11 @@
+AND	But
+PRO	you
+ENS	know
+IST	well
+SUB	that
+PRX	this
+FUT	would
+EXS	have
+IST	negative
+CON	consequences
+NIL	.

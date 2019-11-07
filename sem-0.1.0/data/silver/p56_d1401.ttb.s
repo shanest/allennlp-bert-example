@@ -1,0 +1,12 @@
+REL	In
+CON	addition
+REL	to
+DST	that
+CON	sum
+PRO	he
+IST	still
+ENS	owes
+PRO	me
+QUC	ten
+UOM	dollars
+NIL	.

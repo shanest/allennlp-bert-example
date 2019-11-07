@@ -1,0 +1,10 @@
+PER	Tom
+ENS	thinks
+PRO	you
+ENS	want
+PRO	me
+SUB	to
+EXS	pay
+REL	for
+PRO	it
+NIL	.

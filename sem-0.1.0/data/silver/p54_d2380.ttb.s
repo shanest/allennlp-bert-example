@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+CON	kind
+AND	of
+IST	cute
+SUB	when
+PRO	you
+NOW	're
+IST	mad
+NIL	.

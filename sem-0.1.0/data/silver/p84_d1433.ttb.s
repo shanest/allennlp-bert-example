@@ -1,0 +1,10 @@
+PER	Markku
+EPS	acted
+AND	as
+IMP	if
+PRO	he
+PST	had
+NOT	n't
+EXS	heard
+PRO	me
+NIL	.

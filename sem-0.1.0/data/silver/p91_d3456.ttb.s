@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+IST	so
+EXS	embarrassed
+PRO	I
+POS	could
+EXS	dig
+DIS	a
+CON	hole
+AND	and
+EXS	crawl
+REL	into
+PRO	it
+NIL	.

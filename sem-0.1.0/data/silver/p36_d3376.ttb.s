@@ -1,0 +1,12 @@
+PRO	We
+NOW	're
+EXS	meeting
+REL	in
+DIS	an
+CON	hour
+REL	in
+CON	front
+AND	of
+DEF	the
+CON	hotel
+NIL	.

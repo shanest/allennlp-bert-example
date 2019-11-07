@@ -1,0 +1,10 @@
+DIS	Somebody
+NEC	must
+EXS	break
+DEF	the
+IST	sad
+CON	news
+REL	to
+HAS	her
+CON	mother
+NIL	.

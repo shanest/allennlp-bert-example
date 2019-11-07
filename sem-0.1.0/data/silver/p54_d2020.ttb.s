@@ -1,0 +1,10 @@
+PRO	She
+EPS	bought
+DEF	the
+IST	old
+CON	table
+REL	for
+IST	next
+REL	to
+NOT	nothing
+NIL	.

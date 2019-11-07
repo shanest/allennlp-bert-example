@@ -1,0 +1,10 @@
+PRO	I
+NOT	never
+EPS	imagined
+PRO	he
+PST	'd
+EXS	do
+SUB	that
+REL	to
+PRO	me
+NIL	.

@@ -1,0 +1,12 @@
+UNK	There
+HAS	's
+NOT	no
+CON	chance
+SUB	that
+PER	Tom
+FUT	will
+EXS	be
+PRX	here
+REL	on
+CON	time
+NIL	.

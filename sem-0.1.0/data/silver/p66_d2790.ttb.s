@@ -1,0 +1,9 @@
+PRO	I
+NEC	have
+SUB	to
+EXS	find
+IST	out
+QUE	what
+EPS	killed
+PER	Tom
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	assume
+PRO	you
+NOW	're
+EXS	getting
+EXS	paid
+REL	for
+PRX	this
+NIL	.

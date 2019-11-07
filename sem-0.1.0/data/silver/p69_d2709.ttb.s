@@ -1,0 +1,11 @@
+PRO	I
+NOW	have
+NOT	not
+PFT	been
+EXS	sick
+REL	for
+DEF	the
+IST	past
+QUC	ten
+CON	years
+NIL	.

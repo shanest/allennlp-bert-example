@@ -1,0 +1,10 @@
+PRO	She
+NOW	is
+IST	well
+EXS	known
+REL	in
+DEF	both
+GPE	India
+AND	and
+GPE	China
+NIL	.

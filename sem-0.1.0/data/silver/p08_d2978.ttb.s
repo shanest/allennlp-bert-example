@@ -1,0 +1,13 @@
+PRO	I
+NOW	am
+EXG	saving
+CON	money
+REL	in
+CON	order
+SUB	to
+EXS	buy
+DIS	a
+IST	new
+IST	personal
+CON	computer
+NIL	.

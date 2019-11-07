@@ -1,0 +1,12 @@
+PRO	We
+NOW	're
+IST	still
+EXS	waiting
+REL	for
+DEF	the
+CON	wedding
+CON	cake
+SUB	to
+EXS	be
+EXS	delivered
+NIL	.

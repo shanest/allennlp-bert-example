@@ -1,0 +1,16 @@
+IMP	If
+PRO	you
+NOW	think
+PRO	it
+PST	was
+HAS	my
+CON	fault
+NIL	,
+PRO	you
+NOW	're
+EXG	barking
+IST	up
+DEF	the
+IST	wrong
+CON	tree
+NIL	.

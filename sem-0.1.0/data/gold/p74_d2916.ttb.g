@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXG	playing
+DIS	a
+CON	game
+REL	with
+HAS	my
+ROL	sister
+NIL	.

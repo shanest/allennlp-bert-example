@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	keep
+DIS	an
+CON	eye
+REL	on
+PER	John
+NIL	.

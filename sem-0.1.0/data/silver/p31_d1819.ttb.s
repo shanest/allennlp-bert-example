@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	married
+NIL	,
+PRO	you
+NOW	're
+EXS	married
+NIL	,
+EXS	let
+HAS	's
+NOW	get
+EXS	married
+NIL	!

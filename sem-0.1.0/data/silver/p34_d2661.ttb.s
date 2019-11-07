@@ -1,0 +1,9 @@
+DEF	The
+CON	accident
+EPS	took
+CON	place
+DEF	the
+CON	day
+REL	before
+PST	yesterday
+NIL	.

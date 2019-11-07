@@ -1,0 +1,16 @@
+QUE	What
+HAS	's
+DEF	the
+CON	point
+REL	of
+HAS	my
+EXS	knowing
+QUC	three
+IST	foreign
+CON	languages
+IMP	if
+NOT	no-one
+ENS	listens
+REL	to
+PRO	me
+QUE	?

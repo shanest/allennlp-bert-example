@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+NOT	not
+EXS	clear
+AND	who
+EPS	wrote
+PRX	this
+CON	letter
+NIL	.

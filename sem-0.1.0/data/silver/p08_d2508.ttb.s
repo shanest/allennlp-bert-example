@@ -1,0 +1,9 @@
+DEF	The
+CON	hairstyle
+IST	soon
+EPS	became
+IST	popular
+AND	among
+IST	young
+CON	people
+NIL	.

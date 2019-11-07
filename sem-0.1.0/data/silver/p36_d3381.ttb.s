@@ -1,0 +1,11 @@
+PER	Tom
+EPS	said
+PST	yesterday
+PST	was
+DEF	the
+IST	happiest
+CON	day
+AND	of
+HAS	his
+CON	life
+NIL	.

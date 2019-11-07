@@ -1,0 +1,9 @@
+PRX	This
+NOW	is
+DEF	the
+CON	camera
+AND	which
+PRO	I
+EPS	bought
+PST	yesterday
+NIL	.

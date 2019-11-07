@@ -1,0 +1,13 @@
+PRO	He
+NOW	is
+EXS	trying
+SUB	to
+EXS	keep
+IST	up
+REL	with
+DEF	the
+CON	current
+AND	of
+DEF	the
+CON	times
+NIL	.

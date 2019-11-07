@@ -1,0 +1,10 @@
+PRO	It
+EQU	's
+NOT	not
+DIS	a
+CON	crow
+NIL	,
+BUT	but
+DIS	a
+CON	jackdaw
+NIL	.

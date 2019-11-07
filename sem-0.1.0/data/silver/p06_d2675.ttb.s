@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+IST	hard
+SUB	to
+EXS	live
+IST	up
+REL	to
+HAS	your
+CON	convictions
+NIL	.

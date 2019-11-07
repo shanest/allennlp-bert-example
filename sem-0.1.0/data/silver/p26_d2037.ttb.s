@@ -1,0 +1,10 @@
+AND	Could
+PRO	you
+NOW	give
+DIS	a
+PRO	me
+CON	hand
+CON	packing
+REL	on
+DOW	Saturday
+QUE	?

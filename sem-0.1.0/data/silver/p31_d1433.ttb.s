@@ -1,0 +1,10 @@
+DIS	Some
+AND	of
+QUE	what
+PRO	you
+EPS	said
+PST	did
+NOT	n't
+EXS	sound
+EXS	truthful
+NIL	.

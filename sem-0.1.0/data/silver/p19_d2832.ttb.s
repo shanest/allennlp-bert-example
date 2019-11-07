@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+IST	always
+EPS	wanted
+SUB	to
+EXS	learn
+REL	to
+EXS	cook
+AND	like
+PRO	you
+NIL	.

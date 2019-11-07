@@ -1,0 +1,13 @@
+PRO	He
+EPS	gave
+PRO	me
+DIS	an
+CON	orange
+REL	in
+CON	exchange
+REL	for
+DIS	a
+CON	piece
+AND	of
+CON	cake
+NIL	.

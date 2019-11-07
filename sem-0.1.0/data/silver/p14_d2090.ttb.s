@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+EXS	essential
+SUB	that
+AND	every
+CON	child
+NOW	have
+DEF	the
+IST	same
+IST	educational
+CON	opportunities
+NIL	.

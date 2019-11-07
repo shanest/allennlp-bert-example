@@ -1,0 +1,15 @@
+DEF	The
+CON	walls
+REL	between
+IST	old
+CON	allies
+REL	on
+AND	either
+CON	side
+AND	of
+DEF	the
+GPE	Atlantic
+POS	can
+NOT	not
+EXS	stand
+NIL	.

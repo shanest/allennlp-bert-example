@@ -1,0 +1,12 @@
+PRO	I
+NOW	wonder
+IMP	if
+PRO	it
+NOW	's
+POS	possible
+SUB	to
+EXS	teach
+REF	myself
+IST	perfect
+CON	pitch
+NIL	.

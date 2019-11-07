@@ -1,0 +1,10 @@
+AND	Both
+PRO	he
+COO	and
+PRO	I
+PST	were
+CON	members
+AND	of
+DST	that
+CON	club
+NIL	.

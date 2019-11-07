@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+SUB	that
+DIS	some
+CON	people
+CON	value
+HAS	my
+CON	work
+NIL	.

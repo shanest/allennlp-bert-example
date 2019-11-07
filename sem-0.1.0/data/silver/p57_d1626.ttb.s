@@ -1,0 +1,10 @@
+PER	Tom
+EPS	wanted
+SUB	to
+EXS	go
+REL	to
+DEF	the
+CON	beach
+REL	with
+PER	Mary
+NIL	.

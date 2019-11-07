@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+DEF	the
+XCL	only
+QUC	one
+AND	who
+ENS	wants
+NIL	to
+EXS	go
+CON	home
+IST	early
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	like
+EXG	traveling
+AND	all
+SUB	that
+QUV	much
+NIL	.

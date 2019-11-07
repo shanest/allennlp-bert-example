@@ -1,0 +1,10 @@
+PRO	I
+EPS	gave
+CON	birth
+REL	to
+HAS	my
+IST	first
+CON	child
+AND	last
+CON	year
+NIL	.

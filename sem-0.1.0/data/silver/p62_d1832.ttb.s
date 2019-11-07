@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+CON	lunch
+REL	at
+CLO	noon
+REL	with
+HAS	my
+CON	friends
+NIL	.

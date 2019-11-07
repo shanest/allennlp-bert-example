@@ -1,0 +1,12 @@
+TOP	Most
+AND	of
+DEF	the
+GPO	Finnish
+CON	people
+NOW	are
+INT	very
+EXS	friendly
+REL	to
+GPO	Chinese
+CON	people
+NIL	.

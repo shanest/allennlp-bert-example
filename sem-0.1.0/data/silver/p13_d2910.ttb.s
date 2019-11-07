@@ -1,0 +1,13 @@
+PER	Father
+NIL	,
+EXS	forgive
+PRO	them
+NIL	;
+REL	for
+PRO	they
+ENS	know
+NOT	not
+QUE	what
+PRO	they
+NOW	do
+NIL	.

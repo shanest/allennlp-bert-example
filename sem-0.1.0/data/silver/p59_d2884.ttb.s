@@ -1,0 +1,10 @@
+PER	Tom
+POS	ca
+NOT	n't
+IST	even
+EXS	write
+HAS	his
+IST	own
+CON	name
+ALT	yet
+NIL	.

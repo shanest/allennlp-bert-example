@@ -1,0 +1,11 @@
+PRO	I
+NOW	take
+HAS	my
+CON	hat
+REL	off
+REL	to
+PRO	her
+REL	for
+HAS	her
+CON	effort
+NIL	.

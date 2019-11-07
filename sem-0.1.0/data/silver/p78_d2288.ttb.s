@@ -1,0 +1,14 @@
+SUB	When
+PER	Mary
+EPS	reached
+DEF	the
+CON	bus
+EXS	stop
+NIL	,
+DEF	the
+IST	last
+CON	bus
+PST	had
+IST	already
+EXS	left
+NIL	.

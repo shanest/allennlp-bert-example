@@ -1,0 +1,11 @@
+AND	And
+PRO	you
+NOW	are
+EXS	going
+SUB	to
+EXS	raise
+PRO	it
+REL	in
+QUC	three
+CON	days
+QUE	?

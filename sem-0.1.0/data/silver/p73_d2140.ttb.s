@@ -1,0 +1,17 @@
+PRO	She
+EPS	went
+IST	out
+REL	on
+DIS	a
+CON	limb
+EXS	defending
+PRO	him
+NIL	,
+COO	and
+NOW	now
+PRO	she
+NOW	has
+EXS	lost
+HAS	her
+CON	job
+NIL	.

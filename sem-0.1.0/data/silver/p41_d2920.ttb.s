@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	getting
+DEF	the
+EXS	hang
+AND	of
+PRX	this
+IST	new
+CON	machine
+NIL	.

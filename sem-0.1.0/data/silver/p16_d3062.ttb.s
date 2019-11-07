@@ -1,0 +1,12 @@
+REL	Start
+CON	right
+NOW	now
+NIL	,
+COO	and
+PRO	you
+FUT	'll
+EXS	catch
+IST	up
+REL	with
+PRO	them
+NIL	.

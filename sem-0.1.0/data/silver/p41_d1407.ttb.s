@@ -1,0 +1,12 @@
+PRO	He
+ENS	says
+QUE	what
+PRO	he
+ENS	thinks
+AND	regardless
+AND	of
+ALT	other
+CON	people
+HAS	's
+CON	feelings
+NIL	.

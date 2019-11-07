@@ -1,0 +1,11 @@
+REL	From
+DEF	the
+CON	moment
+PRO	he
+EPS	saw
+PRO	him
+NIL	,
+HAS	his
+CON	heart
+EPS	stopped
+NIL	.

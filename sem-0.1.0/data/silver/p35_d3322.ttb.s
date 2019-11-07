@@ -1,0 +1,14 @@
+PRO	She
+HAS	's
+DIS	an
+GPO	English
+CON	girl
+AND	of
+GPO	Indian
+CON	origin
+AND	who
+ENS	goes
+SUB	to
+EXS	visit
+GPE	India
+NIL	.

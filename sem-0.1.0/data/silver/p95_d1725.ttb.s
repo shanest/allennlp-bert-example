@@ -1,0 +1,15 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+PER	Tom
+SUB	to
+EXS	know
+NIL	.
+PRX	This
+NOW	has
+SUB	to
+EXS	be
+HAS	our
+CON	secret
+NIL	.

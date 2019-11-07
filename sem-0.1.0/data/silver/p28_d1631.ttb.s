@@ -1,0 +1,10 @@
+NIL	There
+PST	were
+DIS	a
+CON	lot
+AND	of
+CON	people
+REL	on
+DEF	the
+CON	street
+NIL	.

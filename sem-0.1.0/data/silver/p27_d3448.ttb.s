@@ -1,0 +1,9 @@
+NIL	There
+NOW	is
+NOT	nobody
+REL	at
+CON	home
+AND	who
+ENS	knows
+SUB	that
+NIL	.

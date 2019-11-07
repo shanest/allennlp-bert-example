@@ -1,0 +1,14 @@
+PRO	It
+NOW	's
+EXS	easy
+SUB	to
+EXS	have
+DIS	a
+IST	clear
+CON	conscience
+SUB	when
+PRO	it
+NOW	's
+NOT	not
+EXS	used
+NIL	.

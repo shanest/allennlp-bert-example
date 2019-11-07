@@ -1,0 +1,9 @@
+CON	Ca
+NOT	n't
+PRO	you
+EPS	put
+PRO	it
+IST	off
+REL	until
+FUT	tomorrow
+QUE	?

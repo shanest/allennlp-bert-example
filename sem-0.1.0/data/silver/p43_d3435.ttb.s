@@ -1,0 +1,16 @@
+PRO	He
+NOT	never
+EPS	spoke
+AND	of
+DEF	the
+CON	softer
+CON	passions
+NIL	,
+EXS	save
+REL	with
+DIS	a
+CON	gibe
+AND	and
+DIS	a
+CON	sneer
+NIL	.

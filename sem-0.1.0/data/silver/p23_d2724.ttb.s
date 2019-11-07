@@ -1,0 +1,10 @@
+AND	Every
+ROL	hunter
+ENS	wants
+SUB	to
+EXS	know
+SUB	where
+DEF	the
+CON	pheasant
+NOW	is
+NIL	.

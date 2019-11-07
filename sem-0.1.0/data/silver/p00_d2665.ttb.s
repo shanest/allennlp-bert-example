@@ -1,0 +1,14 @@
+PRO	I
+EPS	took
+DIS	a
+CON	bus
+SUB	so
+PRO	I
+FUT	would
+NOT	n't
+EXS	be
+IST	late
+REL	for
+HAS	my
+CON	appointment
+NIL	.

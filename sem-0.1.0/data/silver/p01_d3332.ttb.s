@@ -1,0 +1,11 @@
+QUE	What
+PRO	I
+ENS	want
+ENS	is
+SUB	to
+EXS	know
+QUE	what
+EPS	happened
+AND	and
+QUE	why
+NIL	.

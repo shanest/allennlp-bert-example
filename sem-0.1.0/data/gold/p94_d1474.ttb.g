@@ -1,0 +1,14 @@
+IMP	If
+DIS	a
+CON	dog
+ENS	bites
+PRO	you
+NIL	,
+EXS	wash
+DEF	the
+CON	wound
+REL	with
+CON	soap
+GRP	and
+CON	water
+NIL	.

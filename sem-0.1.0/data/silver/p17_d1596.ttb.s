@@ -1,0 +1,15 @@
+DEF	The
+ROL	Queen
+ENS	smiles
+IST	happily
+NIL	.
+GPE	England
+NOW	is
+EXS	allowed
+SUB	to
+EXS	remain
+DIS	a
+CON	part
+AND	of
+GPE	Scotland
+NIL	.

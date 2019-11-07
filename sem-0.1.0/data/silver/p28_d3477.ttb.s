@@ -1,0 +1,14 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	he
+PST	was
+NOT	n't
+DEF	the
+ROL	captain
+AND	of
+DEF	the
+CON	wrestling
+CON	team
+NIL	.

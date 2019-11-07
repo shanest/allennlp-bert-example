@@ -1,0 +1,11 @@
+QUE	What
+NOW	are
+PRO	you
+EXS	going
+SUB	to
+EXS	be
+REL	for
+HAP	Halloween
+PRX	this
+CON	year
+QUE	?

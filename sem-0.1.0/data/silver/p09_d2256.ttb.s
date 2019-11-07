@@ -1,0 +1,9 @@
+PRX	This
+NOW	is
+EXS	going
+SUB	to
+EXS	be
+INT	so
+QUV	much
+CON	fun
+NIL	.

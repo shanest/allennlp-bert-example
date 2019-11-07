@@ -1,0 +1,11 @@
+PRO	You
+NOW	're
+NOT	not
+QUV	much
+AND	of
+DIS	a
+CON	talker
+NIL	,
+NOW	are
+PRO	you
+QUE	?

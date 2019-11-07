@@ -1,0 +1,9 @@
+PER	Tom
+EPS	stood
+REL	on
+DEF	the
+CON	sidewalk
+EXS	talking
+REL	to
+PER	Mary
+NIL	.

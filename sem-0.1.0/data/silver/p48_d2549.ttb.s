@@ -1,0 +1,13 @@
+PRO	You
+NOW	are
+IST	mad
+SUB	to
+EXS	go
+IST	out
+REL	in
+DEF	the
+CON	snow
+NOT	without
+DIS	a
+CON	coat
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	watching
+CON	TV
+REL	in
+DEF	the
+EXG	living
+CON	room
+NIL	.

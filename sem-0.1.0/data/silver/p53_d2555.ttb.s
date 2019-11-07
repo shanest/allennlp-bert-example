@@ -1,0 +1,9 @@
+GPE	India
+NOW	is
+DEF	the
+ORD	third
+TOP	largest
+CON	country
+REL	in
+GEO	Asia
+NIL	.

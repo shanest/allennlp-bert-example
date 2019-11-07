@@ -1,0 +1,12 @@
+DEF	The
+IST	sooner
+PRO	you
+CON	return
+NIL	,
+DEF	the
+CON	happier
+HAS	your
+ROL	father
+FUT	will
+EXS	be
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+EPS	wondered
+QUE	why
+AND	everyone
+PST	was
+EXS	staring
+REL	at
+PRO	him
+NIL	.

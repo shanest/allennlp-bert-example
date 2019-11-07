@@ -1,0 +1,16 @@
+PER	Tom
+ENS	hates
+PRO	it
+SUB	when
+PER	Mary
+ENS	asks
+PRO	him
+SUB	to
+EXS	explain
+DEF	the
+IST	same
+CON	thing
+MOR	more
+MOR	than
+QUC	once
+NIL	.

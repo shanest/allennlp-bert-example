@@ -1,0 +1,9 @@
+PRO	I
+FUT	would
+NOT	n't
+EXS	mind
+EXG	losing
+DIS	a
+IST	few
+CON	pounds
+NIL	.

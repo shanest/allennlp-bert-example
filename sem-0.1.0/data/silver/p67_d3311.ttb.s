@@ -1,0 +1,12 @@
+PER	Tom
+EPS	broke
+HAS	his
+CON	leg
+AND	last
+CON	year
+AND	and
+NOW	has
+EXS	limped
+IST	ever
+REL	since
+NIL	.

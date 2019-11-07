@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	made
+HAS	their
+CON	way
+AND	through
+DEF	the
+IST	crowded
+CON	bar
+NIL	.

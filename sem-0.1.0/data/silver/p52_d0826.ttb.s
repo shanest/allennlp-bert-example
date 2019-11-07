@@ -1,0 +1,12 @@
+DEF	The
+CON	girl
+EPS	made
+DIS	a
+CON	doll
+AND	out
+AND	of
+DIS	a
+CON	piece
+AND	of
+CON	cloth
+NIL	.

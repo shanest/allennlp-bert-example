@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	see
+IMP	if
+PRO	he
+IST	really
+EPS	fixed
+PRX	this
+NIL	.

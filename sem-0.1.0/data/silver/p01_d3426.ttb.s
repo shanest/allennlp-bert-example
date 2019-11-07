@@ -1,0 +1,10 @@
+HAS	My
+ROL	father
+NOW	does
+NOT	n't
+EXS	lift
+DIS	a
+CON	finger
+REL	at
+CON	home
+NIL	.

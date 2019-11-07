@@ -1,0 +1,16 @@
+NOW	Do
+NOT	n't
+EXS	try
+SUB	to
+EXS	remember
+AND	every
+CON	sentence
+AND	of
+DEF	the
+CON	text
+NIL	,
+PRO	it
+NOW	's
+INT	almost
+EXS	impossible
+NIL	.

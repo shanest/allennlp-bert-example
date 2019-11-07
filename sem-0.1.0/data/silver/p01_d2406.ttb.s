@@ -1,0 +1,9 @@
+PRO	You
+NEC	must
+EXS	be
+EXS	careful
+REL	in
+EXG	crossing
+DEF	the
+CON	street
+NIL	.

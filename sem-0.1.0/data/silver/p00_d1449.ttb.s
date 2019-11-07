@@ -1,0 +1,11 @@
+PRO	She
+ENS	loves
+DEF	the
+CON	boy
+AND	like
+PRO	he
+ENS	's
+HAS	her
+IST	own
+CON	son
+NIL	.

@@ -1,0 +1,14 @@
+SUB	When
+PRO	I
+NOW	hear
+SUB	that
+CON	song
+NIL	,
+PRO	I
+NOW	think
+IST	about
+SUB	when
+PRO	I
+PST	was
+EXS	young
+NIL	.

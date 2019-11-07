@@ -1,0 +1,10 @@
+QUE	What
+HAS	's
+DEF	the
+TOP	craziest
+CON	thing
+PRO	you
+NOW	've
+EXS	done
+IST	lately
+QUE	?

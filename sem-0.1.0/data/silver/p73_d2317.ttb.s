@@ -1,0 +1,13 @@
+REL	For
+AND	all
+PRO	I
+ENS	know
+NIL	,
+PRO	he
+POS	could
+EXS	be
+REL	in
+GEO	Paris
+AND	right
+NOW	now
+NIL	.

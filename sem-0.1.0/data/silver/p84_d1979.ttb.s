@@ -1,0 +1,13 @@
+REL	Since
+PER	Liisa
+POS	ca
+NOT	n't
+EXS	come
+NIL	,
+PRO	it
+FUT	will
+IST	just
+EXS	be
+PRO	us
+QUC	three
+NIL	.

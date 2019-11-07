@@ -1,0 +1,9 @@
+PER	Little
+CON	mistakes
+NOW	are
+EXS	like
+CON	salt
+REL	in
+DIS	a
+CON	soup
+NIL	.

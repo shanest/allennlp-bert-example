@@ -1,0 +1,10 @@
+PRO	She
+ENS	seems
+SUB	to
+EXS	be
+EXG	laboring
+REL	under
+DEF	the
+CON	family
+CON	handicap
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+EPS	got
+IST	back
+REL	in
+HAS	his
+CON	car
+COO	and
+EPS	drove
+IST	away
+NIL	.

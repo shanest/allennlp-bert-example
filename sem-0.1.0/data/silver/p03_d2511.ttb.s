@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	lucky
+SUB	to
+EXT	have
+EXS	had
+IST	good
+ROL	teachers
+NIL	.

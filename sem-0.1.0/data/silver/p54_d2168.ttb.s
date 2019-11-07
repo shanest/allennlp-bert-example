@@ -1,0 +1,14 @@
+QUE	How
+NOW	do
+PRO	you
+EXS	calculate
+DEF	the
+CON	length
+AND	of
+DEF	the
+CON	circumference
+QUE	?
+PRO	I
+NOW	've
+EXS	forgotten
+NIL	.

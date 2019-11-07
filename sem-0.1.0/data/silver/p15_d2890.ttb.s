@@ -1,0 +1,15 @@
+PRO	I
+NOW	have
+DEF	the
+CON	feeling
+AND	that
+REL	since
+IST	last
+DOW	Sunday
+CON	morning
+NIL	,
+CON	years
+NOW	have
+EXS	gone
+REL	by
+NIL	.

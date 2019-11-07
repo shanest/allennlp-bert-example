@@ -1,0 +1,12 @@
+EXS	Arriving
+REL	at
+DEF	the
+CON	airport
+NIL	,
+PRO	I
+EPS	saw
+DEF	the
+CON	plane
+EXG	taking
+REL	off
+NIL	.

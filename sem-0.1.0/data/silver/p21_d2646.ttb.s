@@ -1,0 +1,9 @@
+PRO	They
+EPS	saw
+DIS	a
+CON	cat
+EXG	climbing
+IST	up
+DEF	the
+CON	tree
+NIL	.

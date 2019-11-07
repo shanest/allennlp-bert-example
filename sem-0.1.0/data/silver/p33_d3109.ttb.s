@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+EXS	written
+HAS	his
+CON	address
+REL	on
+DEF	the
+CON	back
+AND	of
+DEF	the
+CON	envelope
+NIL	.

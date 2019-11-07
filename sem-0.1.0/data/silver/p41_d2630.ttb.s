@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+NOT	n't
+EXS	done
+AND	anything
+SUB	to
+EXS	be
+IST	ashamed
+AND	of
+NIL	.

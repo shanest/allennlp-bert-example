@@ -1,0 +1,10 @@
+PER	Tom
+EPS	took
+DIS	a
+NOW	sip
+AND	of
+HAS	his
+CON	margarita
+COO	and
+EPS	smiled
+NIL	.

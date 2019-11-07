@@ -1,0 +1,16 @@
+NOW	Do
+PRO	you
+NOW	think
+PRO	it
+FUT	'll
+EXS	be
+IST	easy
+SUB	to
+EXS	find
+DEF	the
+CON	kind
+AND	of
+CON	job
+PRO	you
+ENS	want
+QUE	?

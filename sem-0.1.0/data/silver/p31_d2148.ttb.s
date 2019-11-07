@@ -1,0 +1,9 @@
+FUT	Will
+PRX	this
+CON	road
+NOW	take
+PRO	me
+REL	to
+DEF	the
+CON	station
+QUE	?

@@ -1,0 +1,13 @@
+PRO	We
+PST	had
+NOT	not
+EXS	gone
+IST	far
+SUB	before
+PRO	we
+PST	were
+EXS	caught
+REL	in
+DIS	a
+CON	shower
+NIL	.

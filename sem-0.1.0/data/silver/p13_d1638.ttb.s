@@ -1,0 +1,12 @@
+PRO	We
+NOW	're
+EXS	thinking
+AND	of
+EXS	adding
+REL	on
+ALT	another
+CON	bedroom
+REL	to
+DEF	the
+CON	house
+NIL	.

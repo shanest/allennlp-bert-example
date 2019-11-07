@@ -1,0 +1,10 @@
+EXS	Cloning
+AND	of
+CON	supermen
+REL	in
+DEF	the
+CON	military
+EPS	became
+DEF	the
+CON	norm
+NIL	.

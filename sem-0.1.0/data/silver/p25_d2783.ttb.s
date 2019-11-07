@@ -1,0 +1,9 @@
+DST	Those
+AND	who
+ENS	know
+PRO	him
+NOW	speak
+IST	well
+AND	of
+PRO	him
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+INT	highly
+EXS	educated
+COO	and
+EPS	spoke
+IST	several
+CON	languages
+CON	fluently
+NIL	.

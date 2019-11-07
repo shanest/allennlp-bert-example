@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+INT	too
+EXS	small
+DIS	a
+CON	hat
+REL	for
+PRO	you
+NIL	.

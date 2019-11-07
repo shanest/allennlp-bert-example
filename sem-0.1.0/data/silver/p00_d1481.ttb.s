@@ -1,0 +1,12 @@
+PER	Mary
+EPS	had
+DIS	a
+IST	little
+CON	lamb
+HAS	whose
+CON	fleece
+PST	was
+COL	white
+AND	as
+CON	snow
+NIL	.

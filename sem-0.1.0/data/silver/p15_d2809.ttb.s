@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+PFT	been
+EXG	driving
+PRX	this
+CON	car
+REL	for
+QUC	three
+CON	years
+NIL	.

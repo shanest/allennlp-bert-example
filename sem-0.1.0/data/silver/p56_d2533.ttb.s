@@ -1,0 +1,10 @@
+DEF	The
+CON	minister
+PST	was
+REL	in
+DIS	a
+CON	fix
+MOR	over
+IST	illegal
+CON	dealings
+NIL	.

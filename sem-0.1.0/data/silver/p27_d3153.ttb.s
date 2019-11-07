@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+UNK	necessary
+SUB	that
+DEF	the
+CON	halls
+EXS	be
+IST	well
+EXS	cleaned
+NIL	.

@@ -1,0 +1,13 @@
+SUB	When
+PRO	I
+EPS	entered
+HAS	his
+CON	room
+NIL	,
+PRO	I
+EPS	found
+PRO	him
+EXG	reading
+DIS	a
+CON	book
+NIL	.

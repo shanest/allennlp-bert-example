@@ -1,0 +1,9 @@
+PRO	We
+NEC	ought
+SUB	to
+EXS	send
+PER	Jordan
+REL	to
+DEF	the
+CON	hospital
+NIL	.

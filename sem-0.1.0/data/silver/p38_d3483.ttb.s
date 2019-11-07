@@ -1,0 +1,16 @@
+IMP	If
+PRO	you
+NOW	're
+EXS	going
+SUB	to
+EXS	go
+REL	to
+GPE	France
+NIL	,
+PRO	you
+NEC	should
+EXS	brush
+IST	up
+HAS	your
+GPO	French
+NIL	.

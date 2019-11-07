@@ -1,0 +1,11 @@
+PER	Tom
+ENS	says
+SUB	that
+DEF	the
+QUC	three
+AND	of
+PRO	you
+NOW	are
+HAS	his
+CON	brothers
+NIL	.

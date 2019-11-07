@@ -1,0 +1,13 @@
+PRO	We
+POS	can
+NOT	not
+EXS	finish
+PRO	it
+REL	before
+DOW	Saturday
+AND	even
+IMP	if
+AND	everything
+ENS	goes
+IST	well
+NIL	.

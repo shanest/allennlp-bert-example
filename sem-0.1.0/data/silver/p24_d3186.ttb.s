@@ -1,0 +1,15 @@
+UNK	There
+PST	was
+IST	so
+QUV	much
+CON	stuff
+REL	on
+HAS	his
+CON	desk
+SUB	that
+PRO	he
+PST	had
+EXS	nowhere
+SUB	to
+EXS	write
+NIL	.

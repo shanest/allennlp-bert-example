@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+CON	guys
+EXS	intend
+SUB	to
+EXS	go
+REL	to
+DEF	the
+CON	movies
+NOW	today
+QUE	?

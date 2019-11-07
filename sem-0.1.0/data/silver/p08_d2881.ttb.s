@@ -1,0 +1,10 @@
+DST	Those
+CON	children
+NOW	have
+NOT	no
+CON	one
+SUB	to
+EXS	care
+REL	for
+PRO	them
+NIL	.

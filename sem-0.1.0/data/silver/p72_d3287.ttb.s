@@ -1,0 +1,9 @@
+PER	Tom
+ENS	has
+SUB	to
+EXS	clean
+HAS	his
+CON	room
+REL	before
+CLO	2:30
+NIL	.

@@ -1,0 +1,12 @@
+PRO	He
+EPS	gave
+PRO	me
+NOT	not
+IST	just
+CON	advice
+NIL	,
+BUT	but
+CON	money
+AND	as
+IST	well
+NIL	.

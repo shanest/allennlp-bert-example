@@ -1,0 +1,9 @@
+EXS	Did
+NOT	n't
+PER	Tom
+EXS	go
+REL	to
+PER	Mary
+HAS	's
+CON	house
+QUE	?

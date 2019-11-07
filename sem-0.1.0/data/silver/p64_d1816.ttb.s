@@ -1,0 +1,11 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PRO	you
+NOW	're
+EXS	trying
+REL	to
+CON	bribe
+PRO	me
+NIL	.

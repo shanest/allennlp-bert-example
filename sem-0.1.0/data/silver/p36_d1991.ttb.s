@@ -1,0 +1,10 @@
+PER	Mary
+NIL	,
+PRO	you
+NOW	're
+EXS	beautiful
+NIL	.
+PRO	I
+ENS	love
+PRO	you
+NIL	.

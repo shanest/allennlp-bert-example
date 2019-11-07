@@ -1,0 +1,10 @@
+PRO	He
+PST	was
+EXS	born
+IST	poor
+NIL	,
+BUT	but
+EPS	died
+DIS	a
+ROL	millionaire
+NIL	.

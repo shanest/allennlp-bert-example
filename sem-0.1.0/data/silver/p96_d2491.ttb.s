@@ -1,0 +1,9 @@
+NOW	Are
+PRO	you
+EXS	familiar
+REL	with
+DEF	the
+IST	new
+CON	song
+ALT	yet
+QUE	?

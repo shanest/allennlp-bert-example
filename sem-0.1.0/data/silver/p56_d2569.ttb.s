@@ -1,0 +1,17 @@
+PRO	I
+POS	can
+NOT	not
+EXS	shout
+REL	at
+PER	Marika
+NIL	.
+PRO	She
+HAS	's
+DIS	a
+CON	guest
+COO	and
+PRO	she
+ENS	comes
+REL	from
+IST	abroad
+NIL	.

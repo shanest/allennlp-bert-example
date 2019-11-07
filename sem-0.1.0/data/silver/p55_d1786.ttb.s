@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	familiar
+REL	with
+DEF	the
+CON	way
+PRO	he
+ENS	asks
+CON	questions
+NIL	.

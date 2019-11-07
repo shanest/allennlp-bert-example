@@ -1,0 +1,11 @@
+UNK	There
+HAS	's
+EXS	been
+DIS	a
+ROL	lawyer
+REL	in
+DEF	the
+CON	family
+REL	for
+CON	generations
+NIL	.

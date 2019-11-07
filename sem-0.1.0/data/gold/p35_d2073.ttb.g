@@ -1,0 +1,9 @@
+PRO	I
+EPS	got
+CON	home
+COO	and
+EPS	took
+HAS	my
+CON	shoes
+REL	off
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+ENS	has
+NOT	no
+CON	idea
+QUE	how
+SUB	to
+EXS	operate
+PRX	this
+CON	machine
+NIL	.

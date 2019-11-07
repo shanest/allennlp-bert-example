@@ -1,0 +1,15 @@
+NIL	"
+PER	Tom
+EPS	stole
+HAS	my
+CON	wallet
+NIL	.
+NIL	"
+NIL	"
+NOW	Are
+PRO	you
+IST	sure
+AND	about
+SUB	that
+QUE	?
+NIL	"

@@ -1,0 +1,14 @@
+PRO	It
+NOW	is
+EXS	becoming
+EXS	important
+REL	for
+PRO	us
+SUB	to
+EXS	know
+QUE	how
+SUB	to
+EXS	use
+DIS	a
+CON	computer
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+IST	risky
+REL	for
+PRO	you
+SUB	to
+EXS	go
+REL	into
+DST	that
+CON	area
+AND	alone
+NIL	.

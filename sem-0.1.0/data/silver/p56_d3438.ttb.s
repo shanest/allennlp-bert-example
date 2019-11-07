@@ -1,0 +1,13 @@
+PER	Tom
+EPS	ate
+DEF	the
+CON	chocolate
+CON	donut
+AND	that
+PRO	I
+PST	had
+EXT	smuggled
+REL	into
+DEF	the
+CON	hospital
+NIL	.

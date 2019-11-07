@@ -1,0 +1,11 @@
+PRO	They
+NOW	are
+EXG	waiting
+REL	for
+PRO	you
+REL	in
+CON	front
+REL	of
+DEF	the
+CON	door
+NIL	.

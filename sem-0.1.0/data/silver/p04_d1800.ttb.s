@@ -1,0 +1,15 @@
+PRO	I
+NOW	am
+EXG	writing
+REL	on
+CON	behalf
+AND	of
+HAS	my
+CON	husband
+NIL	,
+AND	who
+NOW	is
+REL	in
+DEF	the
+CON	hospital
+NIL	.

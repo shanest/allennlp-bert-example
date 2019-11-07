@@ -1,0 +1,9 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	go
+REL	to
+DEF	the
+CON	sea
+ALT	again
+NIL	.

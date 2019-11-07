@@ -1,0 +1,12 @@
+NOW	Do
+PRO	you
+EXS	know
+DEF	the
+CON	difference
+REL	between
+DIS	a
+CON	microscope
+AND	and
+DIS	a
+CON	telescope
+QUE	?

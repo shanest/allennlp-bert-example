@@ -1,0 +1,15 @@
+REL	From
+NOW	now
+REL	on
+QUV	many
+IST	petty
+CON	men
+FUT	will
+NOT	not
+EXS	be
+IST	able
+SUB	to
+EXS	be
+IST	cowards
+CON	anymore
+NIL	.

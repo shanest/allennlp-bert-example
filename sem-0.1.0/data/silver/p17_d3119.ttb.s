@@ -1,0 +1,15 @@
+REL	In
+GPE	Germany
+PRO	you
+NOW	're
+DIS	a
+IST	minor
+IMP	if
+PRO	you
+NOW	're
+MOR	younger
+MOR	than
+QUC	18
+CON	years
+COM	old
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+COM	easier
+SUB	to
+EXS	make
+CON	war
+AND	than
+SUB	to
+EXS	make
+CON	peace
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+PFT	been
+INT	very
+EXS	unlucky
+NIL	,
+NOW	has
+NOT	n't
+PRO	he
+QUE	?

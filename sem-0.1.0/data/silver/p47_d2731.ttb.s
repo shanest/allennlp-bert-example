@@ -1,0 +1,11 @@
+DEF	The
+IST	stout
+CON	man
+EPS	leaped
+AND	over
+DEF	the
+IST	shallow
+CON	ditch
+COO	and
+EPS	stumbled
+NIL	.

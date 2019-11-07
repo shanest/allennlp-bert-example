@@ -1,0 +1,9 @@
+PRO	I
+ENS	regret
+NOT	not
+EXT	having
+EXS	studied
+IST	harder
+REL	at
+CON	school
+NIL	.

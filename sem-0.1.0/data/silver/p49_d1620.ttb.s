@@ -1,0 +1,17 @@
+AND	Any
+CON	jackass
+POS	can
+EXS	kick
+IST	down
+DIS	a
+CON	barn
+NIL	,
+BUT	but
+PRO	it
+NOW	takes
+DIS	a
+ROL	carpenter
+SUB	to
+EXS	build
+QUC	one
+NIL	.

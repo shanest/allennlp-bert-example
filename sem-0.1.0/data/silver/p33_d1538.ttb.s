@@ -1,0 +1,13 @@
+PRO	He
+NOW	does
+NOT	n't
+EXS	want
+PRO	you
+SUB	to
+EXS	tell
+PRO	him
+AND	about
+HAS	your
+CON	sex
+CON	life
+NIL	.

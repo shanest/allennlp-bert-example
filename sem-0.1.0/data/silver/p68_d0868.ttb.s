@@ -1,0 +1,14 @@
+PRO	She
+NOW	is
+XCL	only
+QUC	two
+CON	years
+COM	old
+BUT	but
+NOW	is
+IST	able
+SUB	to
+EXS	count
+REL	to
+QUC	100
+NIL	.

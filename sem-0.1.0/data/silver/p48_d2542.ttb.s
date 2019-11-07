@@ -1,0 +1,10 @@
+EXS	Come
+REL	on
+NIL	!
+PRO	I
+POS	ca
+NOT	n't
+EXS	wait
+AND	any
+CON	more
+NIL	.

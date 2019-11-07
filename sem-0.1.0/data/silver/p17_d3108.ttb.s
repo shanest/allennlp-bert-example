@@ -1,0 +1,12 @@
+CON	God
+XCL	only
+ENS	knows
+IMP	if
+PRO	I
+POS	can
+EXS	live
+AND	out
+DEF	the
+IST	20th
+CON	century
+NIL	.

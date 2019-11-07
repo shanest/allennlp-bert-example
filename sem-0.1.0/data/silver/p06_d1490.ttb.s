@@ -1,0 +1,10 @@
+PRO	I
+PST	was
+IST	able
+SUB	to
+EXS	see
+DEF	the
+CON	smoke
+REL	from
+PRX	here
+NIL	.

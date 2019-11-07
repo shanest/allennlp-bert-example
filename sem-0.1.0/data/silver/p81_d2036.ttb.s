@@ -1,0 +1,13 @@
+PRO	It
+NOW	is
+EXS	important
+SUB	to
+EXS	understand
+SUB	that
+AND	each
+CON	country
+NOW	has
+HAS	its
+IST	own
+CON	culture
+NIL	.

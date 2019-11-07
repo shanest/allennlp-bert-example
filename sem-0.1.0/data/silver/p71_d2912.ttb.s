@@ -1,0 +1,9 @@
+PRO	He
+EPS	took
+DIS	a
+CON	picture
+AND	of
+DEF	the
+IST	beautiful
+CON	landscape
+NIL	.

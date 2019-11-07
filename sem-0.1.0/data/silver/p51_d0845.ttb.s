@@ -1,0 +1,10 @@
+PRO	I
+POS	could
+NOT	not
+EXS	help
+EXS	laughing
+SUB	when
+PRO	I
+EPS	saw
+PRO	him
+NIL	.

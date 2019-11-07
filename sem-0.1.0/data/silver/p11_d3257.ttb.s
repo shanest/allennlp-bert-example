@@ -1,0 +1,11 @@
+PER	Tom
+EPS	kicked
+DEF	the
+CON	door
+IST	open
+COO	and
+EPS	went
+REL	into
+DEF	the
+CON	room
+NIL	.

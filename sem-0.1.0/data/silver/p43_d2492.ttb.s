@@ -1,0 +1,15 @@
+NIL	"
+CON	Novels
+QUE	?
+PRO	I
+ENS	hate
+CON	novels
+NIL	.
+NIL	"
+ITJ	Oh
+CON	muse
+NIL	,
+EXS	forgive
+HAS	her
+CON	blasphemy
+NIL	.

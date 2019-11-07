@@ -1,0 +1,12 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	afford
+NIL	to
+EXS	buy
+DIS	a
+CON	laptop
+REL	for
+HAS	my
+ROL	son
+NIL	.

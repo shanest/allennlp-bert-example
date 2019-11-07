@@ -1,0 +1,13 @@
+PRO	I
+NOW	am
+QUC	one
+AND	of
+DST	those
+AND	who
+ENS	know
+PRX	this
+CON	feeling
+AND	only
+IST	too
+IST	well
+NIL	.

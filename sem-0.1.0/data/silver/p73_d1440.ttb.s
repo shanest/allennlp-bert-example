@@ -1,0 +1,14 @@
+EXG	Winning
+DEF	the
+CON	election
+PST	was
+DIS	a
+IST	great
+CON	victory
+REL	for
+DEF	the
+CON	candidate
+HAS	's
+IST	political
+CON	party
+NIL	.

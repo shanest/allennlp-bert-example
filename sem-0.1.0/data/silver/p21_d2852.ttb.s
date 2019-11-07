@@ -1,0 +1,13 @@
+PRO	I
+PST	was
+EXG	dialing
+HAS	his
+CON	number
+AND	just
+SUB	as
+PRO	he
+EPS	walked
+AND	through
+DEF	the
+CON	door
+NIL	.

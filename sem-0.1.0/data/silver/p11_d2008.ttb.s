@@ -1,0 +1,11 @@
+PRO	We
+EPS	held
+DIS	a
+IST	farewell
+CON	party
+REL	in
+CON	honor
+AND	of
+ROL	Dr.
+PER	Kawamura
+NIL	.

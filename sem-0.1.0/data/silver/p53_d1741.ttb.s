@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	have
+DIS	a
+CON	daughter
+AND	and
+DIS	a
+CON	son
+NIL	.

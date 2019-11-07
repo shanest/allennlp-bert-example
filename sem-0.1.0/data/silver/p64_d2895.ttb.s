@@ -1,0 +1,9 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	help
+EXG	feeling
+DIS	something
+HAS	's
+EXS	wrong
+NIL	.

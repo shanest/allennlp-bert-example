@@ -1,0 +1,12 @@
+ROL	Mr.
+PER	Wang
+EXS	learned
+GPO	German
+SUB	because
+PRO	he
+EPS	wanted
+SUB	to
+EXS	work
+REL	in
+GPE	Germany
+NIL	.

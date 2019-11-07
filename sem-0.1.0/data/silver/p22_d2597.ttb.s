@@ -1,0 +1,12 @@
+PER	Kenji
+EPS	told
+HAS	his
+CON	friends
+DIS	a
+CON	story
+AND	about
+HAS	his
+CON	trip
+REL	to
+GPE	India
+NIL	.

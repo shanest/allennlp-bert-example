@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+EXS	lose
+HAS	your
+CON	temper
+NOT	no
+EXS	matter
+QUE	what
+PRO	he
+ENS	says
+NIL	.

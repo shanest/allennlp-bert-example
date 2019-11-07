@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+QUC	one
+AND	of
+DEF	the
+TOP	tallest
+CON	guys
+PRO	I
+ENS	know
+NIL	.

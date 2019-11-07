@@ -1,0 +1,9 @@
+IMP	If
+PRO	you
+POS	could
+EXS	do
+PRO	it
+NIL	,
+FUT	would
+PRO	you
+QUE	?

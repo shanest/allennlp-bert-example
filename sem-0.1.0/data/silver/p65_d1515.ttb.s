@@ -1,0 +1,9 @@
+PRO	We
+POS	ca
+NOT	n't
+EXS	release
+AND	any
+CON	details
+AND	right
+NOW	now
+NIL	.

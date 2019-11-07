@@ -1,0 +1,11 @@
+SUB	While
+PRO	we
+PST	were
+EXG	doing
+SUB	that
+NIL	,
+ALT	another
+QUC	two
+CON	hours
+EPS	passed
+NIL	.

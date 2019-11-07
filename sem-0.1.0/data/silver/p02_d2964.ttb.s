@@ -1,0 +1,10 @@
+PER	Mary
+EPS	became
+IST	worried
+SUB	after
+PRO	she
+EPS	read
+PER	Tom
+HAS	's
+CON	letter
+NIL	.

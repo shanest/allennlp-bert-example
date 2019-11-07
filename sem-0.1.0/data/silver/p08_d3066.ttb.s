@@ -1,0 +1,10 @@
+PRO	He
+AND	always
+ENS	leaves
+DEF	the
+CON	window
+EXS	open
+SUB	while
+PRO	he
+ENS	sleeps
+NIL	.

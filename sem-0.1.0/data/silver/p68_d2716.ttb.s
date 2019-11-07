@@ -1,0 +1,11 @@
+PRO	It
+PST	was
+NOT	not
+SUB	until
+AND	then
+SUB	that
+PRO	I
+EPS	realized
+HAS	my
+CON	mistake
+NIL	.

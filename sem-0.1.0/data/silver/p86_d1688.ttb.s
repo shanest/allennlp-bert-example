@@ -1,0 +1,10 @@
+PER	Tom
+EPS	told
+PER	Mary
+AND	that
+PER	John
+PST	did
+NOT	n't
+EXS	like
+PRO	her
+NIL	.

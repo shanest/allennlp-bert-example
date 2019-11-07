@@ -1,0 +1,13 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	give
+PRO	him
+DIS	a
+CON	ride
+REL	to
+DEF	the
+CON	amusement
+CON	park
+NIL	.

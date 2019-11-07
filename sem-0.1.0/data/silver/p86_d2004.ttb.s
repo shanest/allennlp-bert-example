@@ -1,0 +1,9 @@
+POS	Maybe
+PRO	they
+ENS	know
+DIS	something
+SUB	that
+PRO	we
+NOW	do
+NOT	n't
+NIL	.

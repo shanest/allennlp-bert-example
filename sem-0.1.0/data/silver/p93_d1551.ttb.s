@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+PFT	been
+INT	very
+EXS	busy
+REL	since
+DEF	the
+IST	new
+CON	term
+EPS	started
+NIL	.

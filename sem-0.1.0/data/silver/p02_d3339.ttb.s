@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+IST	sure
+PRO	you
+FUT	'll
+EXS	be
+IST	able
+SUB	to
+EXS	do
+DEF	the
+CON	job
+NIL	.

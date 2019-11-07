@@ -1,0 +1,12 @@
+PRO	I
+POS	can
+NOT	not
+EXS	kiss
+PER	Taninna
+NIL	.
+PRO	We
+NOW	are
+NOT	not
+EXS	married
+ALT	yet
+NIL	.

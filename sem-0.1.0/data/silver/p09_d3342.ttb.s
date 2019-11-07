@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	blame
+PRO	you
+REL	for
+EXG	doing
+DST	that
+NIL	.

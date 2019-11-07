@@ -1,0 +1,9 @@
+PRO	I
+NOT	never
+EXS	let
+AND	anyone
+AND	else
+EXS	feed
+HAS	my
+CON	dog
+NIL	.

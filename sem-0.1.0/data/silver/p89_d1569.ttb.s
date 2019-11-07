@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+INT	extremely
+EXS	important
+SUB	to
+EXS	do
+CON	sport
+AND	every
+CON	day
+NIL	.

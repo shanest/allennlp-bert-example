@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	known
+PRO	her
+REL	for
+MOR	more
+MOR	than
+QUC	twenty
+CON	years
+NIL	.

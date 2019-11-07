@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+INT	very
+EXS	difficult
+SUB	to
+EXS	carry
+IST	out
+AND	that
+CON	project
+NIL	.

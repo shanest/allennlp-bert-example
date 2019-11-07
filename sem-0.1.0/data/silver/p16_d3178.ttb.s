@@ -1,0 +1,9 @@
+PRO	He
+NOW	has
+QUV	much
+IST	practical
+CON	experience
+AND	as
+DIS	a
+CON	doctor
+NIL	.

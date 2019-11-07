@@ -1,0 +1,12 @@
+PRO	She
+EPS	said
+SUB	that
+HAS	her
+CON	job
+EPS	gave
+PRO	her
+DIS	a
+CON	sense
+AND	of
+CON	identity
+NIL	.

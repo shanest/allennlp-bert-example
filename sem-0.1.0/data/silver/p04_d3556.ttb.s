@@ -1,0 +1,12 @@
+PER	Tom
+NOT	never
+ENS	seems
+SUB	to
+EXS	get
+EXS	upset
+NOT	no
+EXS	matter
+QUE	what
+PER	Mary
+NOW	does
+NIL	.

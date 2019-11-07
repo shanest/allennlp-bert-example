@@ -1,0 +1,9 @@
+DEF	The
+CON	church
+PST	was
+EXS	built
+CON	hundreds
+AND	of
+CON	years
+PST	ago
+NIL	.

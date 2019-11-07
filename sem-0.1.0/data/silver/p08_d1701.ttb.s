@@ -1,0 +1,16 @@
+SUB	Although
+HAS	his
+CON	exam
+CON	scores
+PST	were
+NOT	n't
+INT	very
+EXS	high
+NIL	,
+PRO	he
+PST	was
+IST	still
+EXS	successful
+REL	after
+CON	graduation
+NIL	.

@@ -1,0 +1,13 @@
+PRO	You
+NOW	've
+EXS	blocked
+PRO	me
+REL	on
+ART	Facebook
+NIL	,
+COO	and
+NOW	now
+PRO	you
+IST	suddenly
+EXS	disappear
+NIL	.

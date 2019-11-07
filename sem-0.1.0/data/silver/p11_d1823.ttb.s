@@ -1,0 +1,13 @@
+PER	Tom
+NOW	has
+EPS	started
+CON	coughing
+IST	heavily
+COO	and
+PRO	I
+NOW	'm
+EXS	worried
+AND	about
+HAS	his
+CON	health
+NIL	.

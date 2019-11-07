@@ -1,0 +1,16 @@
+PRO	I
+NOW	'm
+NOT	not
+IST	even
+IST	capable
+AND	of
+EXS	pinpointing
+GPE	Germany
+REL	on
+DIS	a
+CON	map
+NIL	!
+PRO	I
+NOW	'm
+IST	ashamed
+NIL	!

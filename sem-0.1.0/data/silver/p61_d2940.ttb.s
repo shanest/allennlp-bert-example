@@ -1,0 +1,10 @@
+CON	Sorry
+NIL	,
+BUT	but
+DST	that
+HAS	's
+NOT	not
+QUE	what
+PRO	I
+EPS	ordered
+NIL	.

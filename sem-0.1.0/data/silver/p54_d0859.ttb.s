@@ -1,0 +1,25 @@
+IMP	If
+PRO	you
+ENS	want
+SUB	to
+EXS	become
+IST	big
+AND	and
+IST	strong
+SUB	when
+PRO	you
+ENS	grow
+IST	up
+NIL	,
+PRO	you
+NEC	have
+NIL	to
+EXS	eat
+DIS	a
+CON	lot
+AND	of
+CON	spinach
+AND	and
+CON	peanut butter
+CON	sandwiches
+NIL	.

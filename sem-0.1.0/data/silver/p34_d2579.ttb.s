@@ -1,0 +1,9 @@
+PRO	We
+EPS	ordered
+COL	pink
+NIL	,
+COO	but
+PRO	we
+EPS	received
+COL	blue
+NIL	.

@@ -1,0 +1,11 @@
+DIS	A
+CON	page
+AND	of
+CON	history
+NOW	is
+IST	worth
+DIS	a
+CON	volume
+AND	of
+CON	logic
+NIL	.

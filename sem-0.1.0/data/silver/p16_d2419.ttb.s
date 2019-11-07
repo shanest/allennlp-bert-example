@@ -1,0 +1,10 @@
+PER	Tom
+EPS	tore
+IST	up
+PER	Mary
+HAS	's
+CON	letter
+SUB	after
+EXG	reading
+PRO	it
+NIL	.

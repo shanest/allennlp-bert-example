@@ -1,0 +1,13 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	intend
+SUB	to
+EXS	have
+DIS	anything
+CON	more
+SUB	to
+EXS	do
+REL	with
+PER	Tom
+NIL	.

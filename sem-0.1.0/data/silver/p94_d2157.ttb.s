@@ -1,0 +1,14 @@
+PRO	He
+IST	finally
+EXS	yielded
+REL	to
+DEF	the
+CON	request
+AND	of
+HAS	his
+CON	wife
+COO	and
+EPS	bought
+DIS	a
+CON	house
+NIL	.

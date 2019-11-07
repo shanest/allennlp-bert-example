@@ -1,0 +1,12 @@
+PER	Tom
+NEC	should
+EXT	have
+EXS	known
+COM	better
+AND	than
+SUB	to
+EXS	lend
+CON	money
+REL	to
+PER	Mary
+NIL	.

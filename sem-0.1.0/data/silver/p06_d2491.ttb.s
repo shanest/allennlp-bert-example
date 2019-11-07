@@ -1,0 +1,11 @@
+DEF	The
+CON	boy
+EPS	said
+NIL	,
+NIL	"
+PRO	He
+NOW	has
+DEF	the
+CON	book
+NIL	.
+NIL	"

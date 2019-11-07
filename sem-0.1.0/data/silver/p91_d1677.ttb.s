@@ -1,0 +1,9 @@
+PRO	I
+EPS	laid
+HAS	my
+IST	new
+CON	clothes
+REL	on
+DEF	the
+CON	bed
+NIL	.

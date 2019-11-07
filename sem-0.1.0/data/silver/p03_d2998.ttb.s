@@ -1,0 +1,10 @@
+PRO	It
+EPS	looked
+AND	like
+NOT	no
+CON	one
+POS	could
+EXS	stop
+ROL	President
+PER	Reagan
+NIL	.

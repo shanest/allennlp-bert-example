@@ -1,0 +1,12 @@
+PRO	He
+NOW	makes
+PRO	it
+DIS	a
+CON	rule
+NOT	never
+SUB	to
+EXS	speak
+EXS	ill
+AND	of
+ALT	others
+NIL	.

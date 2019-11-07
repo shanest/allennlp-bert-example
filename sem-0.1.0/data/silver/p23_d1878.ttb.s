@@ -1,0 +1,10 @@
+DEF	The
+CON	light
+EPS	went
+REL	off
+IST	last
+CON	night
+REL	in
+DEF	the
+CON	storm
+NIL	.

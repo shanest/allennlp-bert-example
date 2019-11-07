@@ -1,0 +1,9 @@
+DEF	The
+CON	Sphinx
+NOW	is
+DEF	the
+TOP	largest
+CON	statue
+REL	in
+GPE	Egypt
+NIL	.

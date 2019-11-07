@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+IST	already
+PFT	been
+EXG	working
+PRX	here
+REL	for
+IST	several
+CON	hours
+NIL	.

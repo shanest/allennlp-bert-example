@@ -1,0 +1,13 @@
+PER	Tom
+PST	was
+EXS	talking
+REL	on
+DEF	the
+CON	phone
+SUB	when
+PER	Mary
+EPS	walked
+REL	into
+DEF	the
+CON	room
+NIL	.

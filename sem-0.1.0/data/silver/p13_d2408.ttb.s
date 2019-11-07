@@ -1,0 +1,11 @@
+PRO	He
+HAS	's
+IST	just
+NOT	not
+DEF	the
+CON	person
+PRO	I
+EPS	thought
+PRO	he
+PST	was
+NIL	.

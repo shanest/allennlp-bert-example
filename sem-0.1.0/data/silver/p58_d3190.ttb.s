@@ -1,0 +1,10 @@
+DEF	The
+CON	maid
+NOW	has
+NOT	n't
+EXS	made
+IST	up
+DEF	the
+CON	room
+ALT	yet
+NIL	.

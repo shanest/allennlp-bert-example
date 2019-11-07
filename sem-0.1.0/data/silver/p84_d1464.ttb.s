@@ -1,0 +1,13 @@
+PRO	She
+NOW	's
+INT	very
+EXS	ill
+COO	and
+NOW	has
+EXS	been
+REL	in
+CON	bed
+REL	for
+DIS	a
+CON	week
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+EPS	put
+IST	down
+DEF	the
+CON	book
+PRO	he
+PST	was
+EXS	reading
+NIL	.

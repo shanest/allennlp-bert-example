@@ -1,0 +1,16 @@
+NIL	"
+QUE	How
+NOW	does
+PER	Jim
+ENS	go
+REL	to
+CON	school
+QUE	?
+NIL	"
+NIL	"
+PRO	He
+ENS	goes
+REL	by
+CON	bus
+NIL	.
+NIL	"

@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+EXS	doubtful
+SUB	whether
+PRO	we
+POS	can
+IST	really
+EXS	sell
+HAS	our
+IST	old
+CON	car
+NIL	.

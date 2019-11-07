@@ -1,0 +1,11 @@
+NIL	"
+PRO	I
+ENS	work
+REL	on
+DIS	a
+CON	farm
+NIL	,
+NIL	"
+EPS	said
+PER	Tom
+NIL	.

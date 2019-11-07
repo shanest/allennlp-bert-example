@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	understand
+SUB	where
+DEF	the
+CON	trick
+ENS	lies
+PRX	here
+NIL	.

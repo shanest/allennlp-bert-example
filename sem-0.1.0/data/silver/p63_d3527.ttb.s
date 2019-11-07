@@ -1,0 +1,12 @@
+SUB	To
+EXS	begin
+REL	with
+NIL	,
+PRO	you
+NOW	have
+NOT	no
+EXS	right
+SUB	to
+EXS	be
+PRX	here
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+EPS	saw
+PRO	him
+REL	at
+DEF	the
+CON	station
+DIS	a
+IST	few
+CON	days
+PST	ago
+NIL	.

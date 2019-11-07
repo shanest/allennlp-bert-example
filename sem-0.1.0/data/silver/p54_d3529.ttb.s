@@ -1,0 +1,9 @@
+AND	Even
+NOT	without
+CON	makeup
+NIL	,
+PRO	she
+NOW	's
+INT	very
+EXS	cute
+NIL	.

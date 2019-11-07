@@ -1,0 +1,11 @@
+EXS	Give
+PRO	me
+IST	back
+DEF	the
+CON	book
+SUB	after
+PRO	you
+NOW	have
+EXS	read
+PRO	it
+NIL	.

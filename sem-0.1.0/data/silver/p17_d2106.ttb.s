@@ -1,0 +1,10 @@
+CON	Look
+REL	at
+PRO	me
+SUB	when
+PRO	I
+NOW	'm
+EXS	talking
+REL	to
+PRO	you
+NIL	!

@@ -1,0 +1,15 @@
+AND	Everyone
+ENS	thinks
+AND	of
+EXG	changing
+DEF	the
+CON	world
+NIL	,
+BUT	but
+NOT	no
+QUC	one
+ENS	thinks
+SUB	of
+EXG	changing
+REF	himself
+NIL	.

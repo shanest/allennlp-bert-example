@@ -1,0 +1,9 @@
+ROL	Grandmother
+ENS	believes
+SUB	that
+GPO	Chinese
+CON	medicines
+NOW	are
+DEF	the
+TOP	best
+NIL	.

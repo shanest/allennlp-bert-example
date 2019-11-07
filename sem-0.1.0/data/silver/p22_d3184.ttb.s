@@ -1,0 +1,17 @@
+PER	Edward
+EPS	looked
+PER	Kathy
+REL	in
+DEF	the
+CON	eye
+COO	and
+EPS	asked
+PRO	her
+IMP	if
+PRO	she
+IST	really
+EPS	meant
+QUE	what
+PRO	she
+EPS	said
+NIL	.

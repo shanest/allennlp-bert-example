@@ -1,0 +1,13 @@
+PER	Tom
+EPS	called
+PER	Mary
+IST	last
+CON	night
+COO	and
+EPS	encouraged
+PRO	her
+SUB	to
+EXS	join
+DEF	the
+CON	team
+NIL	.

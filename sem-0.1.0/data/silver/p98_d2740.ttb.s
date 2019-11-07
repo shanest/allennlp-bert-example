@@ -1,0 +1,10 @@
+ITJ	Oh
+HAS	my
+CON	God
+NIL	,
+PRO	I
+POS	ca
+NOT	n’t
+EXS	believe
+PRX	this
+NIL	.

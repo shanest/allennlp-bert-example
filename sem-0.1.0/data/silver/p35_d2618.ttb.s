@@ -1,0 +1,15 @@
+EXS	Try
+SUB	to
+EXS	put
+REF	yourself
+REL	in
+HAS	her
+CON	shoes
+COO	and
+EXS	understand
+QUE	what
+PRO	she
+HAS	's
+PFT	been
+AND	through
+NIL	.

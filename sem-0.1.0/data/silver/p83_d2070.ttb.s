@@ -1,0 +1,16 @@
+DEF	The
+CON	king
+AND	of
+GPE	Sweden
+HAS	's
+IST	only
+CON	son
+NOW	is
+EXS	married
+REL	to
+QUC	one
+AND	of
+PER	Herbert
+HAS	's
+CON	daughters
+NIL	.

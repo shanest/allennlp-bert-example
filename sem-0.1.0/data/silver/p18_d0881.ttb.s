@@ -1,0 +1,13 @@
+ROL	Mommy
+NIL	,
+QUE	why
+NOW	do
+NOT	n't
+PRO	I
+NOW	have
+DIS	an
+ROL	uncle
+REL	with
+DIS	a
+CON	beard
+QUE	?

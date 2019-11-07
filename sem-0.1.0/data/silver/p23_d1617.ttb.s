@@ -1,0 +1,9 @@
+PRO	I
+NOW	think
+PER	Tom
+NOW	does
+NOT	n't
+EXS	like
+SUB	to
+EXS	ski
+NIL	.

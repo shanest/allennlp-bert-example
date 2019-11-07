@@ -1,0 +1,14 @@
+PER	Tom
+EPS	blew
+PER	Mary
+DIS	a
+CON	kiss
+NIL	,
+EXS	got
+REL	into
+HAS	his
+CON	car
+COO	and
+EPS	drove
+IST	away
+NIL	.

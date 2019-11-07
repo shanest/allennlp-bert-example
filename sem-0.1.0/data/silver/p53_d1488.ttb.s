@@ -1,0 +1,10 @@
+SUB	When
+PRO	you
+PST	were
+DIS	a
+CON	child
+PRO	you
+EPS	feared
+DEF	the
+CON	gloom
+NIL	.

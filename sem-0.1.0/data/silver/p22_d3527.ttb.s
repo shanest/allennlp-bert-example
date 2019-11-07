@@ -1,0 +1,11 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	speak
+REL	to
+PER	Tom
+IMP	if
+PRO	I
+POS	may
+NIL	.

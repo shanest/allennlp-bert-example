@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+UNK	so
+IST	wonderful
+SUB	to
+EXS	smell
+IST	freshly
+EPS	made
+CON	coffee
+NIL	!

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+NOT	not
+IST	sure
+SUB	whether
+PER	Tom
+POS	can
+EXS	swim
+DIS	or
+NOT	not
+NIL	.

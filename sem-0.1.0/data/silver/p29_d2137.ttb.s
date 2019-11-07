@@ -1,0 +1,14 @@
+PRO	I
+NOW	've
+EXS	made
+CON	peace
+REL	with
+HAS	my
+CON	maker
+NIL	.
+PRO	I
+NOW	'm
+IST	ready
+SUB	to
+EXS	die
+NIL	.

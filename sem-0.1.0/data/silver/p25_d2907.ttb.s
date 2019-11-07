@@ -1,0 +1,12 @@
+AND	Would
+PRO	you
+ENS	like
+SUB	to
+EXS	add
+AND	anything
+REL	to
+QUE	what
+PRO	I
+NOW	've
+EXS	said
+QUE	?

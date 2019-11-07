@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+REL	in
+HAS	his
+CON	element
+SUB	when
+PRO	he
+NOW	is
+EXS	playing
+CON	baseball
+NIL	.

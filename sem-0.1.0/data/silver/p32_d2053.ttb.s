@@ -1,0 +1,12 @@
+PRO	He
+PST	was
+SUB	to
+EXT	have
+EXS	called
+HAS	her
+IST	up
+NIL	,
+BUT	but
+PRO	he
+EPS	forgot
+NIL	.

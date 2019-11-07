@@ -1,0 +1,11 @@
+EXS	Give
+PRO	me
+IST	back
+HAS	my
+CON	book
+NIL	.
+PRO	I
+ENS	need
+PRO	it
+ALT	again
+NIL	.

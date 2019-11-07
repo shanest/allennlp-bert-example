@@ -1,0 +1,10 @@
+EXS	Ask
+PRO	him
+SUB	whether
+PER	Mary
+NOW	is
+REL	at
+CON	home
+DIS	or
+NOT	not
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	drinking
+REL	since
+CLO	2:30
+COO	and
+NOW	is
+IST	already
+DIS	a
+IST	little
+EXS	drunk
+NIL	.

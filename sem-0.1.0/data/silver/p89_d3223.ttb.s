@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	believed
+SUB	that
+CON	whales
+NOW	have
+HAS	their
+IST	own
+CON	language
+NIL	.

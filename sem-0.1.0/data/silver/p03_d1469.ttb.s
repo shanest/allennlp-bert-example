@@ -1,0 +1,11 @@
+AND	Like
+PER	Tom
+EPS	said
+NIL	,
+PRX	this
+NOW	is
+DIS	a
+CON	waste
+AND	of
+CON	time
+NIL	.

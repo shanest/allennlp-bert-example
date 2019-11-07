@@ -1,0 +1,17 @@
+SUB	To
+EXS	leave
+NOW	is
+SUB	to
+EXS	die
+DIS	a
+CON	little
+NIL	,
+BUT	but
+SUB	to
+EXS	die
+NOW	is
+SUB	to
+EXS	leave
+INT	very
+QUV	much
+NIL	.

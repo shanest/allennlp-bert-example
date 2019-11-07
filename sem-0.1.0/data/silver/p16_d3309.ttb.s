@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+IST	likely
+SUB	to
+EXS	be
+IST	late
+REL	for
+CON	dinner
+NIL	.

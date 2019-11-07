@@ -1,0 +1,10 @@
+GPE	Japan
+NOW	is
+ALT	also
+EXS	called
+NIL	"
+CON	Nihon
+NIL	"
+REL	in
+CON	Japanese
+NIL	.

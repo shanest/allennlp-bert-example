@@ -1,0 +1,11 @@
+ROL	Pollsters
+EXS	polled
+QUC	1,000
+CON	families
+REL	on
+HAS	their
+CON	preferences
+REL	in
+CON	TV
+CON	programs
+NIL	.

@@ -1,0 +1,10 @@
+EXS	Did
+PRO	you
+EXS	know
+SUB	that
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXS	dating
+QUE	?

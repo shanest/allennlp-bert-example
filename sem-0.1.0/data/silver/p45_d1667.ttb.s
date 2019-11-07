@@ -1,0 +1,10 @@
+PRO	He
+NOW	makes
+PRO	it
+DIS	a
+CON	habit
+AND	of
+EXG	waking
+IST	up
+IST	early
+NIL	.

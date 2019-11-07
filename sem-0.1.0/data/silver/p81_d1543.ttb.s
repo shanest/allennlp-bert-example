@@ -1,0 +1,10 @@
+PRO	We
+NOW	've
+EXS	decided
+SUB	to
+EXS	remove
+PER	Tom
+REL	from
+CON	life
+CON	support
+NIL	.

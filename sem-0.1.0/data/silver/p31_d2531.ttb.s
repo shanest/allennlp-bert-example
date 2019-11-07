@@ -1,0 +1,12 @@
+SUB	After
+EXS	working
+AND	all
+CON	week
+NIL	,
+PRO	we
+EPS	took
+PRO	it
+EXS	easy
+REL	on
+DOW	Sunday
+NIL	.

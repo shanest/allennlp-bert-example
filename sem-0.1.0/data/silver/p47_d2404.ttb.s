@@ -1,0 +1,10 @@
+PER	Tom
+NEC	must
+EXT	have
+EXS	seen
+PER	Mary
+SUB	when
+PRO	he
+EPS	visited
+GPE	Boston
+NIL	.

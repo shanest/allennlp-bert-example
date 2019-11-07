@@ -1,0 +1,13 @@
+PRO	She
+EPS	put
+REL	on
+HAS	her
+ROL	sister
+HAS	's
+CON	jeans
+COO	and
+EPS	looked
+REL	in
+DEF	the
+CON	mirror
+NIL	.

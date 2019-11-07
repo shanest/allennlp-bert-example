@@ -1,0 +1,11 @@
+PER	Tom
+EPS	told
+PER	Mary
+SUB	to
+EXS	wear
+QUE	what
+PRO	she
+EPS	wanted
+SUB	to
+EXS	wear
+NIL	.

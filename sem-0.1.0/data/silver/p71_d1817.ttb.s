@@ -1,0 +1,15 @@
+PRO	We
+NOW	're
+EXS	confident
+SUB	that
+PRO	you
+NOW	are
+IST	up
+REL	to
+DEF	the
+CON	challenge
+AND	of
+DEF	the
+IST	new
+CON	position
+NIL	.

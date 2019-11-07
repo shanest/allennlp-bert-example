@@ -1,0 +1,9 @@
+PER	Mike
+PST	had
+DIS	a
+IST	good
+CON	time
+EXS	talking
+REL	to
+PER	Yumi
+NIL	.

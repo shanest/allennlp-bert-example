@@ -1,0 +1,11 @@
+FUT	Will
+PRO	you
+EXS	give
+PRO	me
+DIS	a
+IST	free
+CON	hand
+REL	in
+DEF	the
+CON	matter
+QUE	?

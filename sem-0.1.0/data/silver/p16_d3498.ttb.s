@@ -1,0 +1,11 @@
+QUE	What
+NOW	are
+PRO	you
+EXS	going
+SUB	to
+EXS	do
+QUE	?
+EXS	Tell
+HAS	your
+CON	mom
+QUE	?

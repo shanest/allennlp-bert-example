@@ -1,0 +1,17 @@
+PRO	It
+HAS	's
+COM	better
+MOR	than
+CON	drinking
+CON	cola
+NIL	,
+SUB	though
+PRO	it
+NOW	's
+NOT	not
+SUB	as
+EXS	good
+SUB	as
+EXG	drinking
+CON	champagne
+NIL	.

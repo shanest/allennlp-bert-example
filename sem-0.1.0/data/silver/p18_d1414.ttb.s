@@ -1,0 +1,12 @@
+UNK	There
+NOW	are
+CON	people
+AND	who
+NOW	do
+NOT	n't
+EXS	know
+ALT	yet
+SUB	that
+EXS	transgender
+EXS	exist
+NIL	.

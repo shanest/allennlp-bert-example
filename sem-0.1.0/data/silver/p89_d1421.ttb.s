@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXS	busy
+NOW	now
+COO	and
+POS	ca
+NOT	n't
+EXS	play
+REL	with
+PRO	you
+NIL	.

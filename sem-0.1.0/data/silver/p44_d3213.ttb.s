@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	wont
+SUB	to
+EXS	take
+DIS	a
+CON	shower
+REL	in
+DEF	the
+CON	morning
+NIL	.

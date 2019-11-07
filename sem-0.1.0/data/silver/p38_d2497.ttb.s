@@ -1,0 +1,10 @@
+POS	Can
+DIS	someone
+EXS	tell
+PRO	me
+QUE	what
+HAS	's
+EXG	going
+REL	on
+PRX	here
+QUE	?

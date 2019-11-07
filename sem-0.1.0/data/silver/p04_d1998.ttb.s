@@ -1,0 +1,11 @@
+PRO	She
+AND	always
+NOW	finds
+CON	fault
+REL	with
+DEF	the
+CON	way
+PRO	I
+NOW	do
+CON	things
+NIL	.

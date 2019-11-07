@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+EXT	had
+DIS	a
+IST	slight
+CON	fever
+REL	since
+PRX	this
+CON	morning
+NIL	.

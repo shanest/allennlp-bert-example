@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+UNK	there
+NOW	is
+DIS	a
+CON	treasure
+EXS	buried
+AND	around
+PRX	here
+NIL	.

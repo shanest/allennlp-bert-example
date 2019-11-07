@@ -1,0 +1,12 @@
+IST	Please
+NOW	do
+NOT	n't
+EXS	cut
+REL	in
+SUB	while
+PRO	I
+NOW	'm
+EXS	talking
+REL	with
+PRO	him
+NIL	.

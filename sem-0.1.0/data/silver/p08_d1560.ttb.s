@@ -1,0 +1,9 @@
+QUE	How
+QUV	many
+CON	aunts
+AND	and
+CON	uncles
+NOW	do
+PRO	you
+NOW	have
+QUE	?

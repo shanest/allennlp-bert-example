@@ -1,0 +1,10 @@
+FUT	Will
+PRO	you
+EXS	let
+PRO	me
+EXS	use
+HAS	your
+CON	telephone
+NIL	,
+IST	please
+QUE	?

@@ -1,0 +1,11 @@
+IMP	If
+XCL	only
+PRO	I
+PST	had
+NOT	n't
+PFT	been
+REL	in
+AND	such
+DIS	a
+CON	hurry
+NIL	!

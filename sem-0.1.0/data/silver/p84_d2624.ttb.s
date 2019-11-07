@@ -1,0 +1,11 @@
+UNK	There
+PST	was
+NOT	no
+CON	one
+SUB	that
+PST	did
+NOT	not
+EXS	admire
+DEF	the
+CON	boy
+NIL	.

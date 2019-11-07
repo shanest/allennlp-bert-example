@@ -1,0 +1,9 @@
+PRO	It
+NOW	looks
+AND	like
+PRO	you
+IST	just
+EPS	saw
+DIS	a
+CON	ghost
+NIL	.

@@ -1,0 +1,13 @@
+POS	Can
+PRO	we
+IST	really
+EXS	learn
+SUB	to
+EXS	speak
+DIS	a
+IST	foreign
+CON	language
+AND	like
+DIS	a
+ROL	native
+QUE	?

@@ -1,0 +1,11 @@
+PER	Tom
+NOW	has
+NOT	n't
+EXS	said
+DIS	a
+CON	word
+REL	to
+PRO	me
+AND	all
+CON	day
+NIL	.

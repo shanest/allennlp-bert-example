@@ -1,0 +1,9 @@
+PRO	They
+NOW	say
+PRO	we
+NOW	're
+EXS	going
+SUB	to
+EXS	get
+CON	rain
+NIL	!

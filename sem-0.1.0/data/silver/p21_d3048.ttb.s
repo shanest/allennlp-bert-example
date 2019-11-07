@@ -1,0 +1,10 @@
+PRO	It
+HAS	's
+PFT	been
+QUC	33
+CON	years
+REL	since
+PER	Marilyn
+PER	Monroe
+EPS	died
+NIL	.

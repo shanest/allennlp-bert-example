@@ -1,0 +1,9 @@
+PRO	It
+EPS	took
+CON	guts
+SUB	to
+EXS	do
+QUE	what
+PER	Tom
+PST	did
+NIL	.

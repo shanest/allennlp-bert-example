@@ -1,0 +1,9 @@
+DEF	The
+CON	audience
+EPS	clapped
+SUB	when
+DEF	the
+CON	concert
+PST	was
+IST	over
+NIL	.

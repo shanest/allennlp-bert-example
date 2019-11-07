@@ -1,0 +1,13 @@
+EXS	Let
+HAS	's
+NOW	see
+QUE	what
+PER	Tom
+ENS	has
+SUB	to
+EXS	say
+AND	about
+PER	Mary
+HAS	's
+CON	plan
+NIL	.

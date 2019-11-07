@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+QUC	three
+EXS	cousins
+REL	on
+HAS	my
+CON	mother
+HAS	's
+CON	side
+NIL	.

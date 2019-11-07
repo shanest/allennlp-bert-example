@@ -1,0 +1,14 @@
+PRO	He
+NOW	is
+REL	at
+CON	work
+NOW	now
+NIL	,
+BUT	but
+FUT	will
+EXS	be
+EXS	coming
+CON	home
+REL	at
+CLO	seven
+NIL	.

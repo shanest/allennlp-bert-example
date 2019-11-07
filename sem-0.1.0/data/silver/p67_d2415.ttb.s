@@ -1,0 +1,15 @@
+PRO	It
+NOW	's
+EXS	useless
+SUB	to
+EXS	talk
+REL	to
+PRO	her
+NIL	.
+PRO	She
+FUT	wo
+NOT	n't
+EXS	listen
+REL	to
+PRO	you
+NIL	.

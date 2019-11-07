@@ -1,0 +1,15 @@
+PRO	She
+EPS	took
+DIS	a
+CON	change
+AND	of
+CON	clothes
+REL	in
+HAS	her
+CON	suitcase
+SUB	as
+PRO	they
+PST	were
+EXS	staying
+IST	overnight
+NIL	.

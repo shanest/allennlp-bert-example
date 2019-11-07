@@ -1,0 +1,12 @@
+DEF	The
+ROL	lawyer
+EPS	said
+PRO	he
+FUT	would
+EXS	speak
+REL	on
+CON	behalf
+AND	of
+ROL	Mr.
+PER	Smith
+NIL	.

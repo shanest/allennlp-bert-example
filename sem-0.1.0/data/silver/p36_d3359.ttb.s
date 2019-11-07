@@ -1,0 +1,11 @@
+PRO	I
+EPS	started
+CON	liking
+PER	Mary
+AND	as
+IST	soon
+SUB	as
+PRO	I
+EPS	met
+PRO	her
+NIL	.

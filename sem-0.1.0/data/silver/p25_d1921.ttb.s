@@ -1,0 +1,13 @@
+PER	Tom
+EPS	rang
+CON	home
+SUB	to
+EXS	see
+IMP	if
+DIS	anyone
+EXS	needed
+AND	anything
+REL	at
+DEF	the
+CON	shop
+NIL	.

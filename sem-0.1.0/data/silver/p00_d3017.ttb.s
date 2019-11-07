@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXS	waiting
+NIL	to
+EXS	see
+QUE	how
+CON	things
+FUT	will
+EXS	develop
+NIL	.

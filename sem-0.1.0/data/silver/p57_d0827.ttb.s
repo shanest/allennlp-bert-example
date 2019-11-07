@@ -1,0 +1,13 @@
+ORG	Life
+EXS	being
+INT	very
+IST	short
+NIL	,
+PRO	you
+NEC	ought
+NOT	not
+SUB	to
+EXS	waste
+HAS	your
+CON	time
+NIL	.

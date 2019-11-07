@@ -1,0 +1,10 @@
+PRO	I
+EPS	saw
+DIS	a
+COL	white
+CON	dog
+EXS	jump
+AND	over
+DEF	the
+CON	fence
+NIL	.

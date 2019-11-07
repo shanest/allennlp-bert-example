@@ -1,0 +1,11 @@
+SUB	Once
+PRO	she
+ENS	starts
+EXS	talking
+NIL	,
+PRO	she
+NOW	is
+IST	hard
+SUB	to
+EXS	stop
+NIL	.

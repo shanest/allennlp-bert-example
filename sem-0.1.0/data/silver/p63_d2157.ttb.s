@@ -1,0 +1,10 @@
+SUB	Since
+PRO	I
+PST	was
+EXS	tired
+NIL	,
+PRO	I
+EPS	took
+DIS	a
+CON	nap
+NIL	.

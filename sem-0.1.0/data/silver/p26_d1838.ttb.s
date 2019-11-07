@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	decided
+SUB	to
+EXS	go
+REL	to
+GEO	Boston
+REL	with
+PER	Tom
+NIL	.

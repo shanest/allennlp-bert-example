@@ -1,0 +1,11 @@
+PRO	I
+EPS	became
+CON	friends
+REL	with
+PRO	him
+SUB	while
+PRO	I
+PST	was
+REL	in
+GPE	Taiwan
+NIL	.

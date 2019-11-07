@@ -1,0 +1,10 @@
+PRO	I
+ENS	hate
+DEF	the
+CON	world
+AND	because
+DEF	the
+CON	world
+ENS	hates
+PRO	me
+NIL	.

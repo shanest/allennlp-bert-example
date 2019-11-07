@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+IST	willing
+SUB	to
+EXS	take
+DIS	a
+EXS	cut
+REL	in
+EXS	pay
+QUE	?

@@ -1,0 +1,10 @@
+PRO	He
+EPS	used
+SUB	to
+EXS	go
+REL	to
+DEF	the
+CON	museum
+REL	on
+DOW	Sunday
+NIL	.

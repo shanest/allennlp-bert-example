@@ -1,0 +1,9 @@
+PRO	He
+EPS	put
+DIS	a
+CON	lot
+AND	of
+CON	money
+REL	in
+CON	savings
+NIL	.

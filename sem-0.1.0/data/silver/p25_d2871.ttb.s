@@ -1,0 +1,15 @@
+PER	Mary
+NOW	is
+NOT	n't
+EXG	going
+IST	out
+REL	with
+PER	Tom
+NIL	,
+PRO	she
+NOW	's
+EXG	going
+IST	out
+REL	with
+PER	Konrad
+NIL	.

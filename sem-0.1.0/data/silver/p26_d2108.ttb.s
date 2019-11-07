@@ -1,0 +1,11 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+PRO	he
+FUT	wo
+NOT	n't
+EXS	come
+NIL	.

@@ -1,0 +1,16 @@
+PRO	I
+POS	ca
+NOT	n't
+IST	just
+EXS	leave
+NIL	.
+PRO	I
+NEC	have
+SUB	to
+EXS	tell
+DEF	the
+CON	boss
+PRO	I
+NOW	'm
+EXS	leaving
+NIL	.

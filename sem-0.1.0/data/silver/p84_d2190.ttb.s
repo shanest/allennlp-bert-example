@@ -1,0 +1,10 @@
+PRO	I
+EPS	came
+IST	here
+SUB	to
+EXS	see
+QUE	how
+PRO	you
+NOW	're
+EXS	doing
+NIL	.

@@ -1,0 +1,10 @@
+PRO	It
+EPS	was
+REL	in
+GPE	London
+SUB	that
+PRO	I
+IST	last
+EPS	saw
+PRO	her
+NIL	.

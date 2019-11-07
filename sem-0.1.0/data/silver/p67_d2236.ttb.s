@@ -1,0 +1,9 @@
+PRO	You
+NOW	're
+EXS	sleepy
+NIL	,
+AND	so
+EXS	go
+REL	to
+CON	bed
+NIL	.

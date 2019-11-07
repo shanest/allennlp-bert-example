@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+NIL	,
+SUB	so
+NIL	to
+EXS	speak
+NIL	,
+HAS	her
+CON	servant
+NIL	.

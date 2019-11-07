@@ -1,0 +1,14 @@
+PRO	She
+EPS	became
+PER	Mother
+PER	Teresa
+CON	years
+AND	later
+SUB	when
+PRO	she
+EPS	founded
+DEF	the
+ORG	Missionaries
+AND	of
+ORG	Charity
+NIL	.

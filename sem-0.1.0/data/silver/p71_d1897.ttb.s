@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	raining
+NOW	today
+NIL	.
+CON	Where
+NOW	is
+HAS	my
+CON	umbrella
+QUE	?

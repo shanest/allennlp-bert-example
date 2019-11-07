@@ -1,0 +1,10 @@
+PER	Tom
+EPS	brought
+HAS	his
+CON	dog
+AND	over
+REL	to
+PER	Mary
+HAS	's
+CON	house
+NIL	.

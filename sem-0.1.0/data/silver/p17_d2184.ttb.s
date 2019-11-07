@@ -1,0 +1,10 @@
+DIS	A
+ROL	mother
+HAS	's
+CON	advice
+FUT	would
+EXS	outweigh
+DIS	a
+CON	friend
+HAS	's
+NIL	.

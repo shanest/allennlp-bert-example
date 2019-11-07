@@ -1,0 +1,13 @@
+PRO	I
+IST	just
+PST	did
+QUE	what
+PRO	I
+EPS	thought
+PRO	you
+PST	'd
+EXS	want
+PRO	me
+SUB	to
+EXS	do
+NIL	.

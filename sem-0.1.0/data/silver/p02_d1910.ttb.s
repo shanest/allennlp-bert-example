@@ -1,0 +1,14 @@
+PRO	He
+NOW	is
+REL	in
+DEF	the
+CON	habit
+AND	of
+EXG	reading
+DIS	a
+CON	paper
+SUB	while
+EXG	taking
+DIS	a
+CON	meal
+NIL	.

@@ -1,0 +1,10 @@
+SUB	When
+PRO	she
+EPS	heard
+DEF	the
+CON	news
+NIL	,
+PRO	she
+EPS	sighed
+PRX	disappointedly
+NIL	.

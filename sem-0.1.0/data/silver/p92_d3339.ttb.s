@@ -1,0 +1,9 @@
+CON	Fortunately
+NIL	,
+PER	Tom
+ENS	knows
+QUE	what
+DEF	the
+CON	problem
+NOW	is
+NIL	.

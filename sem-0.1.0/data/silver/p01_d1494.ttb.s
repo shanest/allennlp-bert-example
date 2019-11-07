@@ -1,0 +1,11 @@
+PRO	It
+ENS	means
+EXG	trying
+IST	hard
+NIL	,
+AND	even
+IMP	if
+PRO	we
+ENS	make
+CON	mistakes
+NIL	.

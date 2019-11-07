@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+IST	sure
+PRO	she
+NOW	is
+EXS	going
+SUB	to
+EXS	sing
+REL	at
+CON	church
+FUT	tomorrow
+NIL	.

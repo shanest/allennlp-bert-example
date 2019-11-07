@@ -1,0 +1,16 @@
+PER	Tom
+CON	converted
+AND	about
+CON	half
+AND	of
+HAS	his
+UOM	yen
+REL	into
+UOM	dollars
+AND	and
+DEF	the
+ALT	other
+CON	half
+REL	into
+CON	euros
+NIL	.

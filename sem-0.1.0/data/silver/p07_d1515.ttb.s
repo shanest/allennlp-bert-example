@@ -1,0 +1,11 @@
+PRO	I
+NOW	have
+EXS	spent
+DIS	a
+CON	lot
+AND	of
+CON	money
+REL	on
+HAS	my
+CON	house
+NIL	.

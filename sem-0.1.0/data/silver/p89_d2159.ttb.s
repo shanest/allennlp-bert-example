@@ -1,0 +1,9 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	look
+IST	happy
+SUB	to
+EXS	see
+PRO	me
+NIL	.

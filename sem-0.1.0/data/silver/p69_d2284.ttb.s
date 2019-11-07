@@ -1,0 +1,12 @@
+PRO	You
+NEC	should
+EXT	've
+EXS	heard
+PER	Tom
+EXS	sing
+NIL	.
+PRO	He
+PST	was
+IST	really
+EXS	good
+NIL	.

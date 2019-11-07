@@ -1,0 +1,9 @@
+PRO	He
+EPS	blew
+REL	on
+DEF	the
+CON	tip
+AND	of
+HAS	his
+CON	fingers
+NIL	.

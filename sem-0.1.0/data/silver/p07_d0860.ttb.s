@@ -1,0 +1,14 @@
+ITJ	Oh
+HAS	my
+IST	little
+ROL	sister
+NIL	,
+QUE	why
+FUT	wo
+NOT	n't
+PRO	you
+EXS	say
+AND	anything
+REL	to
+PRO	me
+QUE	?

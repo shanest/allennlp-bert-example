@@ -1,0 +1,14 @@
+HAS	Our
+ROL	captain
+PST	got
+EXS	sick
+NIL	,
+COO	so
+PRO	I
+EPS	attended
+DEF	the
+CON	meeting
+REL	in
+HAS	his
+CON	place
+NIL	.

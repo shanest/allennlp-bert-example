@@ -1,0 +1,10 @@
+PRO	I
+NOW	have
+PFT	been
+IST	anxious
+AND	about
+HAS	my
+CON	son
+HAS	's
+CON	safety
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+ENS	have
+CON	revenge
+REL	for
+CON	breakfast
+EQU	,
+CON	lunch
+NIL	,
+AND	and
+CON	dinner
+NIL	.

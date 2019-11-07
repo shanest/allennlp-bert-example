@@ -1,0 +1,9 @@
+QUE	Tatoeba
+HAS	's
+CON	corpus
+NOW	is
+IST	heterogeneous
+REL	in
+QUV	many
+CON	dimensions
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+EPS	gave
+PRO	me
+DIS	a
+INT	very
+IST	nice
+IST	Christmas
+CON	present
+NIL	.

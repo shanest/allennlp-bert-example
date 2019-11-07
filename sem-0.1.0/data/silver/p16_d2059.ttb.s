@@ -1,0 +1,15 @@
+QUC	Two
+CON	policemen
+EXS	arrested
+DIS	a
+ROL	burglar
+NIL	.
+PRO	They
+EPS	caught
+PRO	him
+EXS	sneaking
+REL	into
+ROL	Mrs.
+PER	Miller
+HAS	's
+NIL	.

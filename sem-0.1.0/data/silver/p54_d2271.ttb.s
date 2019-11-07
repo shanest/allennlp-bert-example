@@ -1,0 +1,9 @@
+PER	John
+ENS	writes
+REL	to
+HAS	his
+CON	parents
+AND	once
+DIS	a
+CON	month
+NIL	.

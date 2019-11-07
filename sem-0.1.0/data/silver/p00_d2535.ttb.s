@@ -1,0 +1,10 @@
+DEF	The
+CON	rest
+REL	of
+PRO	us
+AND	all
+EPS	had
+DEF	the
+IST	smoked
+CON	salmon
+NIL	.

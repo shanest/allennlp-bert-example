@@ -1,0 +1,10 @@
+PER	Tom
+EPS	said
+SUB	that
+PRO	he
+PST	was
+INT	very
+EXS	interested
+REL	in
+CON	archery
+NIL	.

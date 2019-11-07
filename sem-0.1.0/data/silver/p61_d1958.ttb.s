@@ -1,0 +1,10 @@
+QUE	How
+NOW	do
+PRO	you
+EXS	know
+SUB	that
+PRO	he
+HAS	's
+IST	already
+CON	dead
+QUE	?

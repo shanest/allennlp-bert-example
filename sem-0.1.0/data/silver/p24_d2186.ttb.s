@@ -1,0 +1,15 @@
+REL	In
+CON	retrospect
+NIL	,
+POS	maybe
+PRO	I
+NEC	should
+NOT	n't
+EXT	have
+EXS	posted
+SUB	that
+CON	photo
+REL	in
+HAS	my
+CON	blog
+NIL	.

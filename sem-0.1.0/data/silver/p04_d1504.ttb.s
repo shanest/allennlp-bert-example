@@ -1,0 +1,11 @@
+NOT	No
+CON	one
+PRO	I
+ENS	know
+POS	can
+EXS	afford
+SUB	to
+EXS	eat
+IST	out
+CON	anymore
+NIL	.

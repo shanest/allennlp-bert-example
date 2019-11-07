@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+NOT	n't
+PFT	been
+INT	very
+CON	kind
+REL	to
+PRO	us
+NIL	.

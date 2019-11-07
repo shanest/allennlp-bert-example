@@ -1,0 +1,9 @@
+PRO	He
+FUT	will
+EXS	be
+PRX	here
+REL	in
+QUC	half
+DIS	an
+UOM	hour
+NIL	.

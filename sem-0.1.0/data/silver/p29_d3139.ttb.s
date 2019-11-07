@@ -1,0 +1,9 @@
+PER	John
+PST	had
+PFT	been
+EXS	lazy
+SUB	before
+PRO	he
+EPS	met
+PRO	you
+NIL	.

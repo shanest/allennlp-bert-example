@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+IST	great
+SUB	to
+EXS	see
+PRO	you
+NOW	're
+EXG	having
+INT	so
+QUV	much
+CON	fun
+NIL	.

@@ -1,0 +1,11 @@
+PRO	She
+NOW	is
+DEF	the
+QUC	one
+AND	who
+EPS	took
+CON	care
+AND	of
+HAS	his
+CON	wound
+NIL	.

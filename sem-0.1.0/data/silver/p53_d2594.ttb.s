@@ -1,0 +1,15 @@
+PER	Tom
+NOW	has
+NOT	n't
+EXS	lost
+AND	any
+CON	weight
+AND	even
+SUB	though
+PRO	he
+ENS	says
+PRO	he
+HAS	's
+PFT	been
+EXS	dieting
+NIL	.

@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+EXS	shocking
+QUE	what
+PRO	they
+EPS	wrote
+AND	about
+HAS	her
+REL	in
+DEF	the
+CON	newspapers
+NIL	.

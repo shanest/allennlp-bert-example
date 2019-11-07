@@ -1,0 +1,14 @@
+QUE	What
+NOW	is
+DIS	a
+IST	young
+CON	lady
+AND	like
+PRO	you
+EXG	doing
+IST	out
+PRX	here
+AND	all
+REL	by
+REF	herself
+QUE	?

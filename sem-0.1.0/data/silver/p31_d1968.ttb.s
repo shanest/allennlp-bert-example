@@ -1,0 +1,16 @@
+PRO	I
+FUT	would
+EXS	love
+SUB	to
+EXS	marry
+HAS	my
+ROL	fiancé
+NIL	,
+IMP	if
+XCL	only
+PRO	he
+EPS	wanted
+REL	to
+AND	as
+IST	well
+NIL	.

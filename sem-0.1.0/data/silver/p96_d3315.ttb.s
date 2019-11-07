@@ -1,0 +1,10 @@
+NOW	Is
+UNK	there
+ALT	also
+DIS	a
+CON	paperback
+CON	edition
+AND	of
+PRX	this
+CON	book
+QUE	?

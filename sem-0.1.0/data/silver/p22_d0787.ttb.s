@@ -1,0 +1,12 @@
+AND	How
+QUV	much
+IST	longer
+FUT	will
+PRO	I
+NEC	have
+SUB	to
+EXS	stay
+REL	in
+DEF	the
+CON	hospital
+QUE	?

@@ -1,0 +1,10 @@
+TIM	Yesterday
+NIL	,
+PRO	I
+EPS	met
+QUC	one
+AND	of
+HAS	my
+IST	former
+CON	teachers
+NIL	.

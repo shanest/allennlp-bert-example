@@ -1,0 +1,15 @@
+AND	Apparently
+AND	all
+DST	that
+NOW	does
+NOT	n't
+EXS	work
+IST	perfectly
+ALT	yet
+NIL	,
+BUT	but
+DEF	the
+CON	system
+NOW	is
+EXS	interesting
+NIL	.

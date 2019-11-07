@@ -1,0 +1,11 @@
+PRO	It
+NOW	seems
+AND	like
+PRO	you
+NOW	're
+EXS	trying
+SUB	to
+EXS	provoke
+DIS	a
+CON	fight
+NIL	.

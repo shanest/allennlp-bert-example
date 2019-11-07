@@ -1,0 +1,13 @@
+PRO	I
+ENS	know
+HAS	your
+CON	mom
+NOW	does
+NOT	n't
+EXS	want
+PRO	you
+SUB	to
+EXS	talk
+REL	to
+PRO	me
+NIL	.

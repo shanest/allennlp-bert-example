@@ -1,0 +1,10 @@
+PER	Tom
+EPS	entered
+DEF	the
+CON	room
+COO	and
+EPS	turned
+REL	on
+DEF	the
+CON	lights
+NIL	.

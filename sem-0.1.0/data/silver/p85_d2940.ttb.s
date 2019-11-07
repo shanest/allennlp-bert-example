@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	why
+PER	Tom
+NOW	is
+IST	mad
+REL	at
+PRO	me
+NIL	.

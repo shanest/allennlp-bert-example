@@ -1,0 +1,14 @@
+GPE	Taiwan
+PST	was
+IST	far
+REL	from
+EXS	being
+AND	any
+CON	kind
+AND	of
+IST	economic
+CON	miracle
+REL	in
+DEF	the
+DEC	1950s
+NIL	.

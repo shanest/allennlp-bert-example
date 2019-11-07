@@ -1,0 +1,10 @@
+QUE	Who
+NOW	is
+IST	better
+REL	at
+GPO	French
+NIL	,
+PER	Tom
+DIS	or
+PER	Mary
+QUE	?

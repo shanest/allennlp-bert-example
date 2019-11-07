@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+CON	mind
+IMP	if
+PRO	I
+NOW	take
+HAS	my
+CON	shirt
+REL	off
+QUE	?

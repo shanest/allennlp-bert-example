@@ -1,0 +1,17 @@
+UNK	There
+NOW	is
+XCL	only
+QUC	one
+IST	evil
+CON	woman
+REL	in
+DEF	the
+CON	world
+NIL	,
+COO	but
+AND	everyone
+ENS	thinks
+PRO	he
+NOW	has
+PRO	her
+NIL	.

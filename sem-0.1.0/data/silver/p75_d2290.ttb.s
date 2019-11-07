@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXS	sending
+DIS	a
+CON	copy
+AND	of
+HAS	my
+CON	letter
+REL	to
+PRO	you
+NIL	.

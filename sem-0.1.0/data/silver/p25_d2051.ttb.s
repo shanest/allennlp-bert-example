@@ -1,0 +1,9 @@
+PRO	I
+FUT	'll
+EXS	be
+EXS	lonely
+REL	after
+PRO	you
+NOW	've
+EXS	gone
+NIL	.

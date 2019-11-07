@@ -1,0 +1,10 @@
+EXS	Tell
+PRO	me
+QUE	why
+PRO	you
+PST	were
+EXS	absent
+REL	from
+CON	school
+PST	yesterday
+NIL	.

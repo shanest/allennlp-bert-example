@@ -1,0 +1,9 @@
+QUC	Half
+DIS	a
+CON	loaf
+NOW	is
+COM	better
+AND	than
+NOT	no
+CON	bread
+NIL	.

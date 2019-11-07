@@ -1,0 +1,11 @@
+PRO	She
+EPS	heard
+PRO	him
+EXS	cry
+REL	in
+DEF	the
+CON	middle
+AND	of
+DEF	the
+CON	night
+NIL	.

@@ -1,0 +1,12 @@
+DIS	A
+IST	lightyear
+NOW	is
+DEF	the
+CON	distance
+AND	that
+CON	light
+ENS	travels
+REL	in
+QUC	one
+CON	year
+NIL	.

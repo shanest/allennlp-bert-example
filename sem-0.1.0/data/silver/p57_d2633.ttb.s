@@ -1,0 +1,10 @@
+PRO	I
+EPS	gave
+PRO	him
+DIS	a
+CON	deposit
+AND	and
+IST	then
+PRO	he
+EPS	disappeared
+NIL	.

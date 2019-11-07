@@ -1,0 +1,10 @@
+HAS	My
+CON	dinner
+IST	just
+EPS	came
+IST	back
+IST	up
+SUB	to
+EXS	say
+GRE	hello
+NIL	.

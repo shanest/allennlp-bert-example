@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+NOT	n't
+PER	Mary
+HAS	's
+ROL	father
+NIL	,
+BUT	but
+HAS	her
+CON	uncle
+NIL	.

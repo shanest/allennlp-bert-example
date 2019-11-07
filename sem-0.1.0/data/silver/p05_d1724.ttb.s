@@ -1,0 +1,10 @@
+PRO	He
+EPS	told
+PRO	me
+SUB	that
+HAS	his
+ROL	father
+PST	was
+DIS	a
+ROL	teacher
+NIL	.

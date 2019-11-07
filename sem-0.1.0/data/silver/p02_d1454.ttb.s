@@ -1,0 +1,13 @@
+IST	Archaeological
+CON	finds
+NOW	are
+EXS	being
+EXS	made
+REL	in
+GPE	Peru
+REL	on
+DIS	an
+INT	almost
+IST	daily
+CON	basis
+NIL	.

@@ -1,0 +1,10 @@
+EXS	Tell
+PER	Tom
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	talk
+REL	to
+PRO	him
+NIL	.

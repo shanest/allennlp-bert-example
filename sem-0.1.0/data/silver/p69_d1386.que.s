@@ -1,0 +1,9 @@
+QUE	How
+QUV	many
+GPO	Spanish
+IST	blue
+CON	helmets
+EPS	died
+REL	in
+GPE	Bosnia
+QUE	?

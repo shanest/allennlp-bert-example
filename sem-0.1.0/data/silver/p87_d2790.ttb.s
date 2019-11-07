@@ -1,0 +1,11 @@
+PER	Tom
+EPS	noticed
+DIS	a
+CON	gunshot
+CON	wound
+REL	in
+PER	Mary
+HAS	's
+IST	right
+CON	arm
+NIL	.

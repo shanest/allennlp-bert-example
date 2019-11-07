@@ -1,0 +1,11 @@
+GRE	Hi
+NIL	,
+PRO	I
+NOW	'm
+IST	special
+CON	agent
+PER	Tom
+REL	from
+DEF	the
+ORG	FBI
+NIL	.

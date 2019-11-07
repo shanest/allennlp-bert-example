@@ -1,0 +1,13 @@
+DEF	The
+ALT	other
+CON	girls
+NOW	are
+EXS	jealous
+AND	of
+CON	Lily
+SUB	because
+PRO	she
+NOW	is
+INT	extremely
+IST	pretty
+NIL	.

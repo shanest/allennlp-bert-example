@@ -1,0 +1,14 @@
+SUB	When
+PRO	I
+NOW	am
+EXS	finished
+REL	with
+QUE	what
+PRO	I
+NOW	am
+EXS	doing
+NIL	,
+PRO	I
+FUT	will
+EXS	come
+NIL	.

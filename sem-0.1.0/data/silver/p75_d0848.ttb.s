@@ -1,0 +1,10 @@
+PRO	She
+EPS	kissed
+PRO	me
+REL	on
+DEF	the
+CON	cheek
+COO	and
+EPS	said
+NIL	goodnight
+NIL	.

@@ -1,0 +1,15 @@
+QUE	What
+PST	did
+PRO	you
+EXS	say
+QUE	?
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PRO	I
+PST	was
+EXS	lost
+REL	in
+PST	thought
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+EPS	wore
+DEF	the
+CON	earrings
+SUB	that
+PRO	you
+EPS	gave
+PRO	me
+REL	for
+HAS	my
+CON	birthday
+NIL	.

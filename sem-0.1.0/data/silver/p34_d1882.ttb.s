@@ -1,0 +1,9 @@
+PER	Jim
+NOW	's
+EXS	coming
+REL	to
+DEF	the
+CON	party
+NIL	,
+ALT	too
+NIL	.

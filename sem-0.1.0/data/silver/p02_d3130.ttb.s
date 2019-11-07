@@ -1,0 +1,15 @@
+DEF	The
+IST	new
+CON	school
+EPS	failed
+SUB	to
+EXS	take
+REL	into
+CON	account
+DEF	the
+IST	special
+CON	needs
+AND	of
+IST	young
+CON	people
+NIL	.

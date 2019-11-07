@@ -1,0 +1,9 @@
+EXS	Be
+REL	at
+DEF	the
+CON	train
+CON	station
+REL	at
+CLO	eleven
+IST	sharp
+NIL	.

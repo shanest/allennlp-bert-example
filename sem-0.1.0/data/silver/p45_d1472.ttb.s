@@ -1,0 +1,10 @@
+PRO	She
+EPS	got
+DIS	a
+CON	master
+HAS	's
+CON	degree
+QUC	three
+CON	years
+PST	ago
+NIL	.

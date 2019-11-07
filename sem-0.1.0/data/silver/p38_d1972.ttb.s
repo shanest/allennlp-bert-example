@@ -1,0 +1,10 @@
+POS	Maybe
+DIS	a
+CON	child
+FUT	would
+EXS	do
+AND	such
+DIS	a
+IST	cruel
+CON	thing
+QUE	?

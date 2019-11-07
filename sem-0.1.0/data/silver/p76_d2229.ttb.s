@@ -1,0 +1,13 @@
+HAS	My
+CON	brother
+NOW	is
+INT	very
+EXS	important
+NIL	.
+TOP	At
+EXS	least
+PRO	he
+ENS	thinks
+PRO	he
+NOW	is
+NIL	.

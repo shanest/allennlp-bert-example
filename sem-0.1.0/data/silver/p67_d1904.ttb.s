@@ -1,0 +1,14 @@
+PRO	He
+NOW	has
+PFT	been
+IST	out
+AND	of
+CON	action
+SUB	since
+EXS	breaking
+HAS	his
+CON	leg
+DIS	a
+CON	month
+PST	ago
+NIL	.

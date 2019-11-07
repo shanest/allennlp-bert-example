@@ -1,0 +1,10 @@
+QUV	Many
+IST	new
+CON	properties
+NOW	are
+EXS	being
+EXS	built
+REL	in
+DEF	the
+CON	suburbs
+NIL	.

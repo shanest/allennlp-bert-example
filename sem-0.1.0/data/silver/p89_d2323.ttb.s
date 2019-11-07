@@ -1,0 +1,10 @@
+PER	Tom
+EPS	gazed
+REL	at
+PER	Mary
+REL	with
+CON	love
+REL	in
+HAS	his
+CON	eyes
+NIL	.

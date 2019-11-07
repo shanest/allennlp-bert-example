@@ -1,0 +1,14 @@
+SUB	Although
+PRO	I
+PST	was
+EXS	tired
+NIL	,
+PRO	I
+PST	did
+QUE	what
+PRO	I
+PST	was
+IST	able
+SUB	to
+EXS	do
+NIL	.

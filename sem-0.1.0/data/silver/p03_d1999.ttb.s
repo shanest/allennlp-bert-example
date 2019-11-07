@@ -1,0 +1,12 @@
+SUB	When
+PRO	I
+EPS	lived
+REL	in
+GEO	America
+PRO	I
+EPS	played
+CON	golf
+REL	with
+HAS	my
+CON	friends
+NIL	.

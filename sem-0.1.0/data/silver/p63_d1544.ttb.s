@@ -1,0 +1,10 @@
+POS	Perhaps
+PRO	you
+POS	could
+EXS	suggest
+DIS	something
+PRO	we
+POS	can
+EXS	do
+FUT	tomorrow
+NIL	.

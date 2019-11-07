@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+PFT	been
+EXG	living
+REL	in
+GPE	Boston
+REL	for
+QUC	three
+UOM	years
+NIL	.

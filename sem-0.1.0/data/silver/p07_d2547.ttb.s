@@ -1,0 +1,9 @@
+PRO	I
+NOW	think
+PRO	I
+NOW	've
+EXS	had
+QUC	one
+INT	too
+QUV	many
+NIL	.

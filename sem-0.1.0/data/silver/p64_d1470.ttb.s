@@ -1,0 +1,17 @@
+PRO	It
+POS	may
+EXS	be
+EXS	said
+NIL	,
+AND	as
+DIS	a
+CON	rule
+NIL	,
+SUB	that
+DEF	the
+CON	climate
+AND	of
+GPE	Japan
+NOW	is
+EXS	mild
+NIL	.

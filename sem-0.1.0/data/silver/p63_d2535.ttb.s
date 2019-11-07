@@ -1,0 +1,11 @@
+PER	Tom
+NIL	,
+PRO	I
+ENS	bet
+PRO	you
+PST	'd
+EXS	be
+DIS	a
+IST	good
+CON	teacher
+NIL	.

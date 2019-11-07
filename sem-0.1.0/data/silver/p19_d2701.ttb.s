@@ -1,0 +1,11 @@
+PER	Tom
+ENS	writes
+AND	everything
+IST	down
+SUB	so
+PRO	he
+FUT	wo
+NOT	n't
+EXS	forget
+PRO	it
+NIL	.

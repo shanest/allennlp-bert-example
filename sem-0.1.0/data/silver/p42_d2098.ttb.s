@@ -1,0 +1,13 @@
+PRO	I
+FUT	would
+XCL	only
+EXS	believe
+REL	in
+DIS	a
+CON	God
+AND	that
+ENS	knows
+QUE	how
+SUB	to
+EXS	dance
+NIL	.

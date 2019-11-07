@@ -1,0 +1,9 @@
+IST	Productive
+EXS	thinking
+COO	and
+GEO	creativity
+NOW	are
+EXS	unthinkable
+NOT	without
+CON	imagination
+NIL	.

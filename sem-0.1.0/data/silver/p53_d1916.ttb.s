@@ -1,0 +1,11 @@
+PRO	He
+EPS	took
+REL	to
+PER	Akiko
+REL	from
+DEF	the
+CON	moment
+PRO	he
+EPS	met
+PRO	her
+NIL	.

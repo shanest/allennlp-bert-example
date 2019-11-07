@@ -1,0 +1,13 @@
+PRO	He
+NOW	is
+EXS	being
+IST	harassed
+REL	by
+DIS	a
+CON	flood
+AND	of
+CON	questions
+REL	from
+HAS	his
+CON	students
+NIL	.

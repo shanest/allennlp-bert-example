@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	interested
+REL	in
+EXG	getting
+DIS	a
+CON	hat
+AND	like
+PRX	this
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	get
+IST	back
+REL	on
+DEF	the
+CLO	22.30
+SUB	(
+CON	train
+NIL	)
+SUB	to
+GEO	Bologna
+NIL	.

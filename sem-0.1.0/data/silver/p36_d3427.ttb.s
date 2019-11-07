@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	know
+DEF	the
+CON	name
+AND	of
+PRX	this
+CON	flower
+QUE	?

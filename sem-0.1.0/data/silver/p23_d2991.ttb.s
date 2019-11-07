@@ -1,0 +1,10 @@
+PER	Tom
+EPS	tied
+HAS	his
+CON	tomato
+CON	plants
+REL	to
+CON	stakes
+REL	with
+CON	twine
+NIL	.

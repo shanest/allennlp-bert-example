@@ -1,0 +1,14 @@
+HAS	My
+IST	nerdy
+CON	friend
+EPS	said
+PRO	it
+NOW	's
+EXS	dangerous
+SUB	to
+EXS	mix
+IST	muriatic
+CON	acid
+AND	and
+CON	bleach
+NIL	.

@@ -1,0 +1,11 @@
+IST	Due
+REL	to
+DEF	the
+IST	intense
+CON	sunlight
+NIL	,
+HAS	his
+CON	back
+PST	was
+EXS	sunburnt
+NIL	.

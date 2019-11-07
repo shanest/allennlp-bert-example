@@ -1,0 +1,16 @@
+PRO	He
+EPS	used
+SUB	to
+EXS	eat
+IST	out
+AND	every
+CON	day
+NIL	,
+BUT	but
+NOW	now
+PRO	he
+POS	ca
+NOT	n't
+EXS	afford
+PRO	it
+NIL	.

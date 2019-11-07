@@ -1,0 +1,20 @@
+AND	Finally
+NIL	,
+REL	in
+YOC	1314
+NIL	,
+PRX	these
+CON	games
+PST	had
+EXS	become
+AND	so
+IST	violent
+AND	and
+IST	dangerous
+SUB	that
+PER	King
+PER	Edward II
+EPS	made
+DIS	a
+CON	law
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+ENS	hope
+SUB	to
+EXS	go
+REL	to
+GPE	Canada
+AND	next
+CON	year
+NIL	.

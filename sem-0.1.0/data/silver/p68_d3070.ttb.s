@@ -1,0 +1,9 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	think
+PRO	he
+POS	could
+EXS	trust
+PER	Mary
+NIL	.

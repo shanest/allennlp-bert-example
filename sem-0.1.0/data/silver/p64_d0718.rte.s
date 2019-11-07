@@ -1,0 +1,13 @@
+GPE	Argentina
+EPS	demanded
+DIS	an
+CON	investigation
+AND	of
+PRI	alleged
+CON	war
+CON	crimes
+AND	during
+DEF	the
+CON	Falklands
+CON	War
+NIL	.

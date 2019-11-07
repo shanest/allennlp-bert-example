@@ -1,0 +1,10 @@
+DEF	The
+CON	people
+EPS	thought
+SUB	that
+PRO	he
+PST	was
+DIS	a
+IST	distinguished
+ROL	scientist
+NIL	.

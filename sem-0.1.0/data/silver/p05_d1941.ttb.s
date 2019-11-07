@@ -1,0 +1,11 @@
+PRO	She
+EPS	gave
+PRO	me
+CON	mouth
+REL	to
+CON	mouth
+COO	and
+EPS	saved
+HAS	my
+CON	life
+NIL	.

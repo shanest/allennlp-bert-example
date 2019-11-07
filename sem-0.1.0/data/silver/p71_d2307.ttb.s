@@ -1,0 +1,13 @@
+PER	Tom
+EPS	got
+DIS	a
+IST	casual
+CON	job
+AND	as
+DIS	a
+CON	fruit
+CON	picker
+REL	at
+DIS	an
+CON	orchard
+NIL	.

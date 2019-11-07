@@ -1,0 +1,10 @@
+PRO	I
+IST	just
+EPS	wanted
+SUB	to
+EXS	see
+QUE	how
+PER	Tom
+PST	was
+EXS	doing
+NIL	.

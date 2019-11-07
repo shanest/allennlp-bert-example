@@ -1,0 +1,14 @@
+EXS	Put
+HAS	your
+CON	hand
+AND	over
+HAS	your
+CON	mouth
+SUB	when
+PRO	you
+CON	cough
+NIL	,
+EPS	sneeze
+DIS	or
+EXS	yawn
+NIL	.

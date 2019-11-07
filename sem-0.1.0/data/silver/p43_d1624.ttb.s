@@ -1,0 +1,12 @@
+PER	Tom
+EPS	made
+NOT	no
+CON	attempt
+SUB	to
+EXS	convince
+PER	Mary
+SUB	that
+PRO	he
+PST	was
+EXS	innocent
+NIL	.

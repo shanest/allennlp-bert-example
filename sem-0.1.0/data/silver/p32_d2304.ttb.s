@@ -1,0 +1,9 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	think
+PER	Mary
+FUT	will
+EXS	say
+IST	yes
+NIL	.

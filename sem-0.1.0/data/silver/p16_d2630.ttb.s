@@ -1,0 +1,16 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	go
+IST	back
+REL	to
+GPE	Australia
+NIL	.
+PRO	I
+NOW	'm
+EXS	wanted
+REL	by
+DEF	the
+CON	police
+IST	there
+NIL	.

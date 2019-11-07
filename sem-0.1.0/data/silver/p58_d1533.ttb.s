@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+XCL	only
+AND	just
+DIS	a
+IST	little
+CON	bit
+COM	taller
+MOR	than
+PER	Mary
+NIL	.

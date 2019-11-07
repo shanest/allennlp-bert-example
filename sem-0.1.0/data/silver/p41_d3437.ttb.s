@@ -1,0 +1,12 @@
+PRO	I
+POS	could
+EXT	have
+EXS	done
+COM	better
+IMP	if
+PRO	I
+PST	had
+EXT	had
+IST	more
+CON	time
+NIL	.

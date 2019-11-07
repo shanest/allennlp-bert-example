@@ -1,0 +1,9 @@
+AND	Why
+NOW	does
+PER	Tom
+ENS	want
+NIL	to
+EXS	talk
+REL	to
+PRO	me
+QUE	?

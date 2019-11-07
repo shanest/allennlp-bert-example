@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	have
+AND	any
+CON	idea
+QUE	what
+PER	Mary
+NOW	is
+EXS	thinking
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+DIS	somebody
+AND	who
+ENS	speaks
+GPO	French
+IST	very
+IST	well
+NIL	.

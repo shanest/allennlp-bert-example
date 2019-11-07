@@ -1,0 +1,10 @@
+DEF	The
+CON	river
+AND	that
+ENS	flows
+REL	through
+GPE	London
+EQU	is
+DEF	the
+GEO	Thames
+NIL	.

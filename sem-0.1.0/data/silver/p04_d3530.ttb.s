@@ -1,0 +1,9 @@
+DEF	The
+CON	bus
+NOW	is
+IST	capable
+AND	of
+EXG	carrying
+QUC	thirty
+CON	people
+NIL	.

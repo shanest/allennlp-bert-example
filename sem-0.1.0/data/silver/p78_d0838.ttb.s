@@ -1,0 +1,16 @@
+PRO	He
+EPS	used
+SUB	to
+EXS	go
+REL	to
+CON	school
+REL	by
+CON	bicycle
+NIL	,
+BUT	but
+PRO	he
+NOW	takes
+DIS	a
+CON	bus
+NOW	now
+NIL	.

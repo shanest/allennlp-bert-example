@@ -1,0 +1,9 @@
+PRO	I
+EPS	found
+NOT	nothing
+BUT	but
+DIS	a
+CON	pair
+AND	of
+CON	scissors
+NIL	.

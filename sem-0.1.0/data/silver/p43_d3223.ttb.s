@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+EXS	busy
+IST	right
+NOW	now
+COO	and
+PRO	he
+POS	ca
+NOT	n't
+EXS	help
+PRO	you
+NIL	.

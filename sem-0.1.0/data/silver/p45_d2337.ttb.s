@@ -1,0 +1,10 @@
+IST	Please
+EXS	wait
+REL	till
+CLO	2:30
+NIL	.
+PER	Tom
+FUT	will
+IST	back
+IST	then
+NIL	.

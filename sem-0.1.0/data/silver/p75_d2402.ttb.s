@@ -1,0 +1,12 @@
+ROL	Mr.
+PER	Smith
+NOW	has
+NOT	n't
+EXS	turned
+IST	up
+ALT	yet
+SUB	though
+PRO	he
+EPS	promised
+SUB	to
+NIL	.

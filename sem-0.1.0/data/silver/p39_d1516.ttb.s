@@ -1,0 +1,19 @@
+REL	In
+DEF	the
+CON	garden
+NIL	,
+UNK	there
+NOW	are
+CON	apple trees
+EQU	,
+CON	plums
+EQU	,
+CON	cherries
+EQU	,
+CON	raspberries
+EQU	,
+CON	gooseberries
+NIL	,
+AND	and
+CON	currants
+NIL	.

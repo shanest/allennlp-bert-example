@@ -1,0 +1,11 @@
+PER	Adam
+PST	was
+EXS	furious
+REL	with
+PRO	me
+SUB	when
+PRO	I
+EPS	broke
+HAS	his
+CON	watch
+NIL	.

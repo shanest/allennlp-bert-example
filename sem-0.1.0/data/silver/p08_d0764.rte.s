@@ -1,0 +1,11 @@
+PER	Klaus
+PER	Pohl
+NOW	is
+QUC	one
+AND	of
+GPE	Germany
+HAS	's
+INT	most
+EPS	performed
+CON	dramatists
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+PST	felt
+AND	like
+EXG	hitting
+PRO	him
+SUB	when
+PRO	he
+EPS	tried
+SUB	to
+EXS	cheat
+PRO	me
+NIL	.

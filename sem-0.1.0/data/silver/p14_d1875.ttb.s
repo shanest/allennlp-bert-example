@@ -1,0 +1,13 @@
+PER	Margot
+AND	and
+PER	James
+NOW	are
+EXS	planning
+SUB	to
+EXS	move
+REL	in
+DEF	the
+CON	country
+AND	next
+CON	year
+NIL	.

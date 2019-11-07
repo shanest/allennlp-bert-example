@@ -1,0 +1,11 @@
+DEF	The
+IST	next
+CON	time
+PRO	you
+NOW	do
+SUB	that
+NIL	,
+PRO	you
+NOW	're
+EXS	fired
+NIL	.

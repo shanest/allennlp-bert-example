@@ -1,0 +1,13 @@
+PRX	This
+CON	woman
+NEC	definitely
+ENS	knows
+SUB	that
+PRO	she
+NOW	does
+NOT	n't
+EXS	know
+QUE	what
+PRO	she
+ENS	wants
+NIL	.

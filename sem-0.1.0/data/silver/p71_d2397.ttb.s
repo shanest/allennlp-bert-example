@@ -1,0 +1,13 @@
+QUV	Many
+CON	people
+NOW	have
+PFT	been
+EXS	vaccinated
+AND	against
+DEF	the
+CON	flu
+PRX	this
+CON	year
+AND	as
+IST	well
+NIL	.

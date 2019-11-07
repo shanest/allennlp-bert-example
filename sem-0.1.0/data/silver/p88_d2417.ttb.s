@@ -1,0 +1,9 @@
+PRO	I
+EPS	knew
+QUE	what
+PRO	I
+PST	was
+EXS	supposed
+SUB	to
+EXS	do
+NIL	.

@@ -1,0 +1,9 @@
+HAS	My
+CON	friend
+EPS	said
+PRO	she
+EPS	bought
+DIS	a
+IST	new
+CON	watch
+NIL	.

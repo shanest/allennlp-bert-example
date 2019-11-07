@@ -1,0 +1,9 @@
+PRO	I
+ENS	want
+NIL	to
+EXS	be
+SUB	as
+EXS	rich
+AND	as
+PER	Tom
+NIL	.

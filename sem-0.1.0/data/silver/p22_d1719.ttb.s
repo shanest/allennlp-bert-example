@@ -1,0 +1,9 @@
+PRO	She
+EPS	committed
+CON	suicide
+REL	by
+EXG	jumping
+REL	off
+DEF	the
+CON	bridge
+NIL	.

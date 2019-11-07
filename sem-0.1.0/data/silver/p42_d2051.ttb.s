@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+EXS	clear
+SUB	that
+PRO	he
+EPS	made
+DIS	a
+IST	big
+CON	mistake
+NIL	.

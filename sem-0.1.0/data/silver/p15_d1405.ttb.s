@@ -1,0 +1,11 @@
+PER	Tom
+EPS	sipped
+DEF	the
+CON	wine
+SUB	that
+PER	Mary
+PST	had
+EPS	poured
+REL	for
+PRO	him
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	whispered
+DIS	something
+REL	to
+PER	Mary
+COO	and
+IST	then
+EPS	left
+DEF	the
+CON	room
+NIL	.

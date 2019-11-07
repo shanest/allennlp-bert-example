@@ -1,0 +1,11 @@
+NOW	Do
+PRO	we
+ENS	need
+SUB	to
+EXS	bring
+HAS	our
+CON	dictionaries
+REL	to
+CON	class
+FUT	tomorrow
+QUE	?

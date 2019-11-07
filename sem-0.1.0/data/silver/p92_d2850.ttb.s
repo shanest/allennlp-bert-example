@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+IST	unable
+SUB	to
+EXS	agree
+REL	on
+DST	that
+CON	point
+NIL	.

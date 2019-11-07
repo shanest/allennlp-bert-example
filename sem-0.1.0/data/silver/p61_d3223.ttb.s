@@ -1,0 +1,14 @@
+DEF	The
+CON	questions
+AND	in
+PST	yesterday
+HAS	's
+CON	examination
+PST	were
+IST	far
+COM	easier
+AND	than
+PRO	I
+PST	had
+EXS	expected
+NIL	.

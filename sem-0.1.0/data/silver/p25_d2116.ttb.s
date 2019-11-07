@@ -1,0 +1,9 @@
+PRO	I
+EPS	heard
+DIS	someone
+REL	on
+DEF	the
+CON	street
+EXS	calling
+PRO	me
+NIL	.

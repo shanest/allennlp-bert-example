@@ -1,0 +1,10 @@
+PRO	I
+ENS	hate
+DOW	Sunday
+NIL	!
+PRO	It
+ENS	's
+DIS	a
+IST	horrible
+CON	day
+NIL	!

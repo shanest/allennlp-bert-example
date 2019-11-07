@@ -1,0 +1,12 @@
+QUC	One
+NEC	should
+ALT	also
+EXS	study
+CON	history
+REL	from
+DEF	the
+CON	viewpoint
+AND	of
+DEF	the
+CON	vanquished
+NIL	.

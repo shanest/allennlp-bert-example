@@ -1,0 +1,9 @@
+AND	Even
+DEF	the
+CON	devil
+NOW	has
+NOT	n't
+EXS	woken
+IST	up
+ALT	yet
+NIL	.

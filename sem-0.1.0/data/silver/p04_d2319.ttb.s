@@ -1,0 +1,17 @@
+PRO	I
+NOW	think
+PRO	it
+NOW	's
+UNK	unlikely
+SUB	that
+DEF	the
+IST	next
+CON	model
+FUT	will
+EXS	be
+AND	any
+MOR	better
+MOR	than
+PRX	this
+CON	one
+NIL	.

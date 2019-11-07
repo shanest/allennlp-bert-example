@@ -1,0 +1,16 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PRO	you
+NOW	're
+EXG	eating
+QUE	what
+DEF	the
+CON	doctor
+EPS	told
+PRO	you
+NOT	not
+SUB	to
+EXS	eat
+NIL	.

@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+EXS	impossible
+SUB	to
+EXS	learn
+ART	English
+REL	in
+DIS	a
+CON	month
+NIL	.

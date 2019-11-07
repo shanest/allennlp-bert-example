@@ -1,0 +1,11 @@
+PRO	It
+NOW	's
+IST	marvelous
+QUE	how
+IST	quickly
+DEF	the
+CON	medicine
+EPS	relieved
+HAS	my
+CON	pain
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+PFT	been
+REL	in
+CON	contact
+REL	with
+ROL	Mr
+PER	White
+IST	recently
+QUE	?

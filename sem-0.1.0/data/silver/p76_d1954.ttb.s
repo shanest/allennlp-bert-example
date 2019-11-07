@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+IST	natural
+REL	for
+PRO	him
+SUB	to
+EXS	get
+IST	mad
+NIL	.

@@ -1,0 +1,13 @@
+DEF	The
+IST	national
+CON	flag
+AND	of
+DEF	the
+ORG	USA
+NOW	is
+EXS	called
+DEF	the
+CON	Stars
+AND	and
+CON	Stripes
+NIL	.

@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	subscribed
+REL	to
+AND	any
+GPO	English
+CON	language
+CON	newspaper
+QUE	?

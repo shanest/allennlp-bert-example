@@ -1,0 +1,11 @@
+PRO	I
+FUT	'd
+EXT	have
+EXS	let
+PRO	you
+EXS	know
+IMP	if
+PRO	I
+PST	had
+EXS	known
+NIL	.

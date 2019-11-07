@@ -1,0 +1,14 @@
+HAS	My
+CON	father
+PST	was
+DIS	a
+CON	contestant
+REL	in
+DIS	a
+CON	cooking
+CON	contest
+COO	and
+EPS	won
+IST	first
+CON	prize
+NIL	.

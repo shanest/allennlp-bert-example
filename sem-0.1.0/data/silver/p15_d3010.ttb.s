@@ -1,0 +1,10 @@
+NOT	Never
+ALT	again
+FUT	would
+PRO	she
+EXS	be
+EXS	curious
+AND	about
+DEF	the
+CON	city
+NIL	.

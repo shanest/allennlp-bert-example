@@ -1,0 +1,9 @@
+CON	Go
+EXS	upstairs
+IST	right
+NOW	now
+COO	and
+EXS	clean
+HAS	your
+CON	room
+NIL	.

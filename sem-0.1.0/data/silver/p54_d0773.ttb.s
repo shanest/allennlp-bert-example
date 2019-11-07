@@ -1,0 +1,10 @@
+EXS	Arriving
+REL	at
+DEF	the
+CON	airport
+NIL	,
+PRO	I
+EPS	called
+HAS	her
+IST	up
+NIL	.

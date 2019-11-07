@@ -1,0 +1,9 @@
+POS	Can
+CON	man
+NOW	live
+NOT	without
+EXG	having
+DIS	a
+IST	social
+CON	life
+QUE	?

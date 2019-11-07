@@ -1,0 +1,9 @@
+CON	People
+REL	from
+GPE	China
+NOW	play
+ALT	another
+CON	kind
+AND	of
+CON	chess
+NIL	.

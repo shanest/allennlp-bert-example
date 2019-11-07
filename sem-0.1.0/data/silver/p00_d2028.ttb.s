@@ -1,0 +1,10 @@
+DIS	A
+CON	friend
+REL	of
+HAS	mine
+EPS	made
+PRO	it
+REL	with
+DIS	a
+CON	mask
+NIL	.

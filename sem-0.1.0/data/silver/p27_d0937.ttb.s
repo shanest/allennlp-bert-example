@@ -1,0 +1,10 @@
+AND	Why
+NOW	are
+PRO	you
+EXG	pretending
+PRO	you
+NOW	do
+NOT	n't
+EXS	know
+PRO	me
+QUE	?

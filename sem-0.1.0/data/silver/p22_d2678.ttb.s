@@ -1,0 +1,9 @@
+DEF	The
+CON	electricity
+NOW	has
+PFT	been
+IST	off
+REL	since
+PRX	this
+CON	morning
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+EXS	supposed
+SUB	to
+EXS	go
+REL	to
+GPE	Boston
+AND	next
+CON	week
+NIL	.

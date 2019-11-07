@@ -1,0 +1,12 @@
+AND	All
+DEF	the
+CON	members
+COO	but
+PRO	me
+NOW	have
+CON	faith
+REL	in
+QUE	what
+PRO	he
+ENS	says
+NIL	.

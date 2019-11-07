@@ -1,0 +1,13 @@
+PER	Tom
+FUT	wo
+NOT	n't
+EXS	permit
+PER	Mary
+SUB	to
+EXS	go
+REL	to
+DEF	the
+CON	party
+REL	with
+PER	John
+NIL	.

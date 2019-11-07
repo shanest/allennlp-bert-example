@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	no
+CON	one
+SUB	to
+EXS	blame
+COO	but
+IST	myself
+NIL	.

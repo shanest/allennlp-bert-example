@@ -1,0 +1,11 @@
+PRO	I
+PST	had
+NOT	no
+IST	sooner
+EPS	sat
+IST	down
+AND	than
+DEF	the
+CON	telephone
+EPS	rang
+NIL	.

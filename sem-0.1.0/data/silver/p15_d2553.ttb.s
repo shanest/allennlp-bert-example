@@ -1,0 +1,12 @@
+EXS	Tell
+DEF	the
+CON	children
+SUB	to
+EXS	keep
+IST	away
+REL	from
+DEF	the
+CON	water
+HAS	's
+CON	edge
+NIL	.

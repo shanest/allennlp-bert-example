@@ -1,0 +1,15 @@
+PRO	It
+NOW	is
+IST	possible
+SUB	to
+EXS	write
+CON	Braille
+REL	by
+CON	hand
+EXG	using
+DIS	a
+CON	slate
+AND	and
+DIS	a
+CON	stylus
+NIL	.

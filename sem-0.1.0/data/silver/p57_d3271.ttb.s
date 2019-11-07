@@ -1,0 +1,9 @@
+PRO	We
+NOW	are
+IST	able
+SUB	to
+EXS	deliver
+AND	within
+DIS	a
+CON	week
+NIL	.

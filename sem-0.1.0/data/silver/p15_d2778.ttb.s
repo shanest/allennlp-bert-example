@@ -1,0 +1,9 @@
+NOW	Has
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	he
+NOW	's
+EXS	married
+QUE	?

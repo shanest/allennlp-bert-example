@@ -1,0 +1,10 @@
+PER	Tom
+EPS	asked
+REL	for
+PER	Mary
+HAS	's
+CON	permission
+SUB	to
+EXS	leave
+IST	early
+NIL	.

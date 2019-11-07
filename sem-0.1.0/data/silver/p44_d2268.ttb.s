@@ -1,0 +1,9 @@
+NOT	No
+CON	body
+NOT	but
+PRO	you
+POS	can
+EXS	make
+PRO	me
+IST	happy
+NIL	.

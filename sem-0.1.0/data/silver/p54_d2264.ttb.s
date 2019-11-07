@@ -1,0 +1,11 @@
+IMP	If
+PRO	it
+ENS	rains
+FUT	tomorrow
+NIL	,
+UNK	there
+FUT	will
+EXS	be
+NOT	no
+CON	excursion
+NIL	.

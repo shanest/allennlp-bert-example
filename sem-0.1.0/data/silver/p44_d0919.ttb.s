@@ -1,0 +1,16 @@
+PRO	I
+NOW	've
+IST	just
+EXS	renewed
+HAS	my
+CON	passport
+NIL	,
+COO	so
+PRO	it
+NOW	's
+IST	good
+REL	for
+ALT	another
+QUC	ten
+CON	years
+NIL	.

@@ -1,0 +1,17 @@
+IMP	If
+PRO	he
+PST	had
+EXS	stayed
+REL	at
+CON	home
+AND	that
+CON	day
+NIL	,
+PRO	he
+FUT	would
+NOT	not
+EXT	have
+EXS	met
+REL	with
+CON	disaster
+NIL	.

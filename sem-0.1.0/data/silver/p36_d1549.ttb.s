@@ -1,0 +1,14 @@
+DIS	A
+ROL	poet
+NOW	looks
+REL	at
+DEF	the
+CON	world
+AND	as
+DIS	a
+CON	man
+NOW	looks
+REL	at
+DIS	a
+CON	woman
+NIL	.

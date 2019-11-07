@@ -1,0 +1,12 @@
+DEF	The
+ROL	Queen
+AND	of
+GPE	England
+NOW	is
+EXS	related
+REL	to
+DEF	the
+CON	King
+AND	of
+GPE	Sweden
+NIL	.

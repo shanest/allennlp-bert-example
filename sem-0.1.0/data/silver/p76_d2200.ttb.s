@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+NOT	n't
+SUB	that
+QUC	much
+MOR	taller
+MOR	than
+PER	Mary
+NIL	.

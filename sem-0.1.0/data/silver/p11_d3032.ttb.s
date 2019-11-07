@@ -1,0 +1,9 @@
+PER	Peter
+ENS	sees
+SUB	that
+DEF	the
+CON	garage
+CON	door
+NOW	is
+EXS	open
+NIL	.

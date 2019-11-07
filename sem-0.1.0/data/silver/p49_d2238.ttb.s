@@ -1,0 +1,10 @@
+PRO	They
+EPS	marked
+DEF	the
+IST	damaged
+CON	goods
+IST	down
+REL	by
+INT	40
+UOM	%
+NIL	.

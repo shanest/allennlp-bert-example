@@ -1,0 +1,10 @@
+HAS	My
+CON	mother
+EPS	forgot
+SUB	to
+EXS	add
+CON	salt
+REL	to
+DEF	the
+CON	salad
+NIL	.

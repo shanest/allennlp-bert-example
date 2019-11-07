@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+SUB	mind
+EXG	telling
+PRO	me
+QUE	what
+HAS	's
+EXS	happening
+QUE	?

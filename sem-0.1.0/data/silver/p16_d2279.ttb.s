@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+EXS	trying
+SUB	to
+EXS	make
+DEF	the
+TOP	best
+AND	of
+DIS	a
+IST	bad
+CON	situation
+NIL	.

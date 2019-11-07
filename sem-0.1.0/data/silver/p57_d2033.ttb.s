@@ -1,0 +1,12 @@
+DEF	The
+CON	doctor
+PST	was
+IST	finally
+IST	able
+SUB	to
+EXS	stanch
+DEF	the
+CON	flow
+AND	of
+CON	blood
+NIL	.

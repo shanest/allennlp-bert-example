@@ -1,0 +1,12 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	answer
+HAS	your
+CON	letter
+NIL	,
+SUB	because
+PRO	I
+PST	was
+IST	busy
+NIL	.

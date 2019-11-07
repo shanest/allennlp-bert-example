@@ -1,0 +1,9 @@
+PRO	I
+EPS	gave
+PRO	him
+AND	all
+DEF	the
+CON	money
+PRO	I
+PST	had
+NIL	.

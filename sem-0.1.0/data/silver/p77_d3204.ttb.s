@@ -1,0 +1,9 @@
+PRO	I
+EPS	walked
+DEF	the
+CON	dog
+REL	in
+CON	spite
+DEF	the
+CON	rain
+NIL	.

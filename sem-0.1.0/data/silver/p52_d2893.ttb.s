@@ -1,0 +1,13 @@
+EXS	Keep
+REL	in
+CON	mind
+AND	that
+CON	language
+NOW	is
+HAS	your
+CON	friend
+AND	and
+NOT	not
+HAS	your
+ROL	enemy
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+ALT	also
+EXS	writing
+DEF	the
+CON	translations
+REL	in
+GPO	English
+NIL	.

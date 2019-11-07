@@ -1,0 +1,12 @@
+DEF	The
+CON	downclimb
+AND	here
+NOW	is
+ALT	also
+EXS	dangerous
+SUB	as
+UNK	there
+NOW	are
+NOT	no
+CON	handholds
+NIL	.

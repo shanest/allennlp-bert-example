@@ -1,0 +1,14 @@
+HAS	My
+CON	problem
+NOW	is
+PRO	I
+ENS	love
+PER	Mary
+NIL	,
+COO	but
+PRO	she
+NOW	does
+NOT	n't
+EXS	love
+PRO	me
+NIL	.

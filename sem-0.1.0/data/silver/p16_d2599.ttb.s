@@ -1,0 +1,12 @@
+QUC	Four
+CON	weeks
+EPS	passed
+IST	away
+NIL	,
+COO	and
+PER	Jane
+EPS	saw
+NOT	nothing
+AND	of
+PRO	him
+NIL	.

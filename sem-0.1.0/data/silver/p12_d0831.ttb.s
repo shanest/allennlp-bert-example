@@ -1,0 +1,12 @@
+CON	Switch
+REL	off
+DEF	the
+CON	light
+NIL	.
+PRO	I
+POS	ca
+NOT	n't
+EXS	get
+SUB	to
+EXS	sleep
+NIL	.

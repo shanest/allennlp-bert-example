@@ -1,0 +1,9 @@
+UNK	There
+HAS	's
+NOT	no
+CON	reason
+SUB	to
+EXS	panic
+NIL	...
+ALT	yet
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+EPS	remembered
+SUB	that
+PER	Mary
+COO	and
+PER	John
+PST	had
+EPS	tried
+SUB	to
+EXS	kill
+PRO	him
+NIL	.

@@ -1,0 +1,13 @@
+ROL	Mr
+PER	Smith
+NIL	,
+SUB	as
+PRO	I
+EPS	knew
+PRO	him
+NIL	,
+PST	was
+DIS	a
+IST	modest
+CON	man
+NIL	.

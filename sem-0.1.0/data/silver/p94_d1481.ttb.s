@@ -1,0 +1,12 @@
+PRO	You
+NOW	think
+PRO	you
+ENS	know
+PRO	me
+IST	pretty
+IST	well
+NIL	,
+NOW	do
+NOT	n't
+PRO	you
+QUE	?

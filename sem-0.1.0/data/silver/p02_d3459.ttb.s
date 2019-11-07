@@ -1,0 +1,9 @@
+PRO	He
+NOW	has
+QUC	three
+CON	sons
+NIL	,
+AND	who
+EPS	became
+CON	musicians
+NIL	.

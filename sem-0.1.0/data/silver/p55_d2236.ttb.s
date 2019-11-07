@@ -1,0 +1,10 @@
+DEF	The
+CON	station
+NOW	is
+REL	to
+DEF	the
+CON	west
+AND	of
+DEF	the
+CON	hotel
+NIL	.

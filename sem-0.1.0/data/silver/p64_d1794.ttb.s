@@ -1,0 +1,13 @@
+IMP	If
+PRO	you
+ENS	need
+DIS	some
+CON	help
+NIL	,
+AND	just
+EXS	inquire
+DEF	the
+MOR	higher
+CON	ranking
+IST	official
+NIL	.

@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+EXS	know
+AND	any
+AND	of
+PER	Tom
+HAS	's
+CON	friends
+QUE	?

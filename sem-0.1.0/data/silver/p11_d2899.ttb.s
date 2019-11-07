@@ -1,0 +1,12 @@
+NOW	Do
+NOT	n't
+EXS	play
+REL	with
+DEF	the
+CON	mud
+NIL	.
+PRO	You
+NOW	're
+EXS	getting
+IST	dirty
+NIL	.

@@ -1,0 +1,15 @@
+IMP	If
+PRO	he
+PST	had
+NOT	n't
+EXS	taken
+SUB	that
+CON	flight
+IST	then
+NIL	,
+PRO	he
+FUT	would
+EXS	be
+EXS	alive
+NOW	now
+NIL	.

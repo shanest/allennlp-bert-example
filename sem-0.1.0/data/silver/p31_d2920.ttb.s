@@ -1,0 +1,12 @@
+SUB	While
+PRO	she
+PST	was
+EXS	staying
+REL	in
+GPE	Japan
+NIL	,
+PRO	she
+IST	often
+EPS	visited
+GEO	Kyoto
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	worked
+IST	up
+DEF	the
+CON	courage
+SUB	to
+EXS	tell
+HAS	her
+ALT	yet
+NIL	.

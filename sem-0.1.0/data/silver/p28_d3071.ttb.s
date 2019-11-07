@@ -1,0 +1,14 @@
+PER	Tom
+AND	and
+HAS	his
+ROL	lawyer
+EPS	left
+DEF	the
+CON	courtroom
+IST	together
+AND	just
+DIS	a
+IST	few
+CON	minutes
+PST	ago
+NIL	.

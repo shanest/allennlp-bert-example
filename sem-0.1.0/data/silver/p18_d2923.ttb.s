@@ -1,0 +1,10 @@
+PRO	He
+ENS	speaks
+NOT	not
+XCL	only
+GPO	Spanish
+NIL	,
+BUT	but
+ALT	also
+GPO	French
+NIL	.

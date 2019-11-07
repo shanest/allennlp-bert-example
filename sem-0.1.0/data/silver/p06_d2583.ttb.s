@@ -1,0 +1,15 @@
+IST	Black
+CON	people
+NOW	are
+NOT	not
+EXS	allowed
+SUB	to
+EXS	travel
+REL	by
+DEF	the
+IST	same
+CON	coaches
+COL	white
+CON	people
+CON	use
+NIL	.

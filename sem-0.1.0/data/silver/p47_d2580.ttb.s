@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	surprised
+PER	Tom
+PST	did
+NOT	n't
+EXS	notice
+PER	Mary
+EXS	leave
+NIL	.

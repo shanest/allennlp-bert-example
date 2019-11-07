@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+PER	Mary
+HAS	's
+CON	husband
+HAS	's
+TOP	best
+CON	friend
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+NOW	now
+QUE	what
+PRO	I
+NEC	have
+NIL	to
+EXS	do
+NIL	.

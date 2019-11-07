@@ -1,0 +1,9 @@
+PRO	She
+EPS	gave
+DIS	a
+IST	poor
+CON	explanation
+REL	for
+EXS	being
+IST	late
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+FUT	wo
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	go
+REL	with
+PRO	us
+NIL	.

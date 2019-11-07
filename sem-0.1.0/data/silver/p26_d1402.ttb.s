@@ -1,0 +1,16 @@
+AND	All
+PER	Tom
+EPS	wanted
+PST	was
+REL	for
+PER	Mary
+SUB	to
+EXS	love
+PRO	him
+AND	as
+QUC	much
+AND	as
+PRO	he
+EPS	loved
+PRO	her
+NIL	.

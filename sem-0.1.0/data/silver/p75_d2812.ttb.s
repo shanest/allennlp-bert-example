@@ -1,0 +1,9 @@
+PRO	She
+EPS	put
+HAS	her
+CON	head
+AND	out
+AND	of
+DEF	the
+CON	window
+NIL	.

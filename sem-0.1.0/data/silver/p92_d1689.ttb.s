@@ -1,0 +1,15 @@
+DEF	The
+ORG	Sagittarius
+AND	and
+ORG	Perseus
+ORG	Arms
+AND	of
+DEF	the
+CON	galaxy
+EPS	remained
+EXS	unexplored
+REL	for
+CON	thousands
+AND	of
+CON	years
+NIL	.

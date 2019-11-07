@@ -1,0 +1,14 @@
+EXG	Driving
+NOT	without
+DIS	a
+CON	safety
+CON	belt
+FUT	will
+EXS	cost
+PRO	you
+DIS	a
+CON	fine
+REL	of
+QUC	60
+UOM	euros
+NIL	.

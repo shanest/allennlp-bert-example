@@ -1,0 +1,14 @@
+HAS	My
+CON	car
+EPS	broke
+IST	down
+PRX	this
+CON	morning
+COO	and
+FUT	wo
+NOT	n't
+EXS	be
+EXS	repaired
+REL	until
+DOW	Friday
+NIL	.

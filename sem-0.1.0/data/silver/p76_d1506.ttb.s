@@ -1,0 +1,14 @@
+REL	At
+PRX	this
+CON	rate
+NIL	,
+PRO	we
+FUT	wo
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	buy
+DIS	a
+CON	house
+NIL	.

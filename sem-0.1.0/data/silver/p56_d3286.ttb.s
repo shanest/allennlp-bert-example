@@ -1,0 +1,9 @@
+HAS	My
+CON	father
+EPS	gave
+DIS	a
+IST	nice
+CON	watch
+REL	to
+PRO	me
+NIL	.

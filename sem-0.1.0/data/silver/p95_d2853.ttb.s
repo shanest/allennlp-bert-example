@@ -1,0 +1,11 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	have
+DEF	the
+CON	courage
+SUB	to
+EXS	speak
+REL	to
+PER	Mary
+NIL	.

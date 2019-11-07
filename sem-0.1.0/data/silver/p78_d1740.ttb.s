@@ -1,0 +1,12 @@
+PER	Tom
+EPS	stood
+IST	up
+AND	and
+IST	then
+AND	everyone
+AND	else
+EPS	stood
+IST	up
+NIL	,
+ALT	too
+NIL	.

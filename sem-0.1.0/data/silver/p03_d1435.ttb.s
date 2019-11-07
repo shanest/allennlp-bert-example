@@ -1,0 +1,9 @@
+REL	In
+PRX	this
+CON	city
+EXG	finding
+DIS	a
+CON	taxi
+NOW	is
+EXS	complicated
+NIL	.

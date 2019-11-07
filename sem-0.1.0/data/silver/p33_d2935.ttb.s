@@ -1,0 +1,15 @@
+PRO	I
+NOW	have
+NOT	never
+EXS	sung
+NIL	,
+COO	and
+NOT	never
+FUT	will
+EXS	sing
+NIL	,
+REL	in
+DIS	a
+CON	karaoke
+CON	bar
+NIL	.

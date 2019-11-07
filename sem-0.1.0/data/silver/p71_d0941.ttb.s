@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	report
+PRO	you
+REL	to
+CON	police
+NIL	.

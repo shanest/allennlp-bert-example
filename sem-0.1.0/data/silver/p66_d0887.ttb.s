@@ -1,0 +1,10 @@
+NOW	Do
+NOT	n't
+PRO	you
+EXS	get
+EXS	bored
+SUB	when
+PRO	you
+NOW	're
+EXS	alone
+QUE	?

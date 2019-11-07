@@ -1,0 +1,9 @@
+DEF	The
+BOT	worst
+CON	thing
+AND	about
+CON	spring
+NOW	is
+DEF	the
+CON	mud
+NIL	.

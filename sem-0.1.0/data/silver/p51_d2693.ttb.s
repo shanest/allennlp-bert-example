@@ -1,0 +1,15 @@
+IMP	If
+PRO	it
+PST	had
+NOT	not
+EXS	been
+REL	for
+HAS	your
+CON	help
+NIL	,
+PRO	he
+FUT	would
+EXT	have
+PFT	been
+EXS	ruined
+NIL	.

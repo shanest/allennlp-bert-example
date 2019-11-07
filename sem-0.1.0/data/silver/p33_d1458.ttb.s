@@ -1,0 +1,10 @@
+NOW	Do
+PRO	you
+EXS	know
+DIS	a
+IST	quiet
+CON	place
+PRO	we
+POS	can
+EXS	talk
+QUE	?

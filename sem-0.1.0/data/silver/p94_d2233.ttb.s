@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+IST	ever
+EXS	been
+REL	in
+DIS	a
+IST	long
+CON	distance
+CON	relationship
+QUE	?

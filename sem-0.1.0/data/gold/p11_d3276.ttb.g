@@ -1,0 +1,9 @@
+PRO	She
+EPS	wanted
+PRO	him
+NIL	to
+EXS	sing
+HAS	her
+DIS	a
+CON	song
+NIL	.

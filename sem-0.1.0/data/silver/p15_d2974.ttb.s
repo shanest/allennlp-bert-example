@@ -1,0 +1,11 @@
+PRO	He
+ENS	seems
+AND	like
+PRO	he
+HAS	's
+PST	got
+DIS	a
+IST	few
+CON	screws
+IST	loose
+NIL	.

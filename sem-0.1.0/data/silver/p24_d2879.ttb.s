@@ -1,0 +1,12 @@
+QUC	One
+AND	of
+DEF	the
+CON	cats
+NOW	is
+COL	black
+COO	,
+DEF	the
+CON	other
+NOW	is
+COL	brown
+NIL	.

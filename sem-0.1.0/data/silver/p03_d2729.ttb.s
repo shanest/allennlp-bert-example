@@ -1,0 +1,9 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	understand
+QUE	why
+PER	Tom
+ENS	hates
+PRO	me
+NIL	.

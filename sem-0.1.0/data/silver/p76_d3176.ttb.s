@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	what
+PRO	you
+NOW	're
+IST	so
+EXS	worried
+IST	about
+NIL	.

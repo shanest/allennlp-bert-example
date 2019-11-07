@@ -1,0 +1,13 @@
+DEF	The
+CON	tail
+REL	of
+DIS	a
+CON	fox
+NOW	is
+MOR	longer
+REL	than
+DST	that
+REL	of
+DIS	a
+CON	rabbit
+NIL	.

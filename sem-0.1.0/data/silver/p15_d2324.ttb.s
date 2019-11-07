@@ -1,0 +1,10 @@
+PRO	We
+NOW	've
+EXT	searched
+IST	high
+AND	and
+IST	low
+REL	for
+PRX	this
+CON	book
+NIL	.

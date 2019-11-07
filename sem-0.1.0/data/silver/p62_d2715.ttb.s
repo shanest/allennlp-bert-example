@@ -1,0 +1,9 @@
+PRO	I
+NOW	am
+EXS	writing
+DIS	a
+CON	draft
+AND	of
+DEF	the
+CON	speech
+NIL	.

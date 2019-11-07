@@ -1,0 +1,11 @@
+CON	Insects
+NOW	are
+INT	very
+EXS	nutritious
+AND	and
+DIS	a
+IST	good
+CON	source
+REL	of
+CON	proteins
+NIL	.

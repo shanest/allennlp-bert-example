@@ -1,0 +1,10 @@
+PRO	He
+NOW	has
+NOT	n't
+ALT	yet
+EXS	mastered
+DEF	the
+CON	art
+AND	of
+EXS	writing
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+POS	can
+EXS	swim
+IST	almost
+AND	as
+IST	fast
+SUB	as
+PER	Mary
+POS	can
+NIL	.

@@ -1,0 +1,14 @@
+PRO	I
+NOW	've
+EXS	tried
+EXS	calling
+PRO	him
+AND	all
+CON	day
+NIL	,
+BUT	but
+DEF	the
+CON	line
+NOW	is
+EXS	busy
+NIL	.

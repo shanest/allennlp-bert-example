@@ -1,0 +1,11 @@
+POS	May
+PRO	I
+ENS	go
+AND	over
+REL	to
+PER	Tom
+HAS	's
+CON	house
+SUB	to
+EXS	play
+QUE	?

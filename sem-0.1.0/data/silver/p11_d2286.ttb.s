@@ -1,0 +1,13 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+PRX	this
+NOW	is
+DEF	the
+XCL	only
+CON	translation
+EXS	available
+NIL	.

@@ -1,0 +1,17 @@
+PRO	I
+NOW	've
+EXS	heard
+PRO	you
+EXS	play
+DEF	the
+CON	viola
+COO	and
+PRO	you
+NOW	're
+NOT	not
+INT	very
+EXS	good
+NIL	,
+NOW	are
+PRO	you
+QUE	?

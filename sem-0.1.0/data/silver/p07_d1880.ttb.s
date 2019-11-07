@@ -1,0 +1,10 @@
+PRO	I
+IST	often
+EXS	listen
+REL	to
+CON	music
+SUB	while
+PRO	I
+NOW	'm
+EXS	studying
+NIL	.

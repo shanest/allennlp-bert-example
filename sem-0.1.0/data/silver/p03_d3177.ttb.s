@@ -1,0 +1,10 @@
+DST	That
+NOW	sounds
+EXS	interesting
+NIL	.
+QUE	What
+PST	did
+PRO	you
+EXS	tell
+PRO	him
+QUE	?

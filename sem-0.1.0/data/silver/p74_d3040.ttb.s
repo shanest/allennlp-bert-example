@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+EXS	wrong
+NIL	.
+DST	That
+HAS	's
+NOT	not
+DEF	the
+CON	case
+NIL	.

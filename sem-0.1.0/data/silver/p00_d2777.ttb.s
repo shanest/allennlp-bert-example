@@ -1,0 +1,13 @@
+DEF	The
+CON	office
+PST	was
+EXS	small
+COO	but
+PRO	it
+EPS	had
+DIS	a
+CON	view
+REL	of
+DEF	the
+CON	city
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	rope
+PST	was
+DIS	a
+CON	couple
+AND	of
+UOM	meters
+INT	too
+IST	short
+NIL	.

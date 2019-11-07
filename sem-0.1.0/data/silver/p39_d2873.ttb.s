@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+AND	like
+DIS	a
+CON	weight
+NOW	has
+PFT	been
+EXS	lifted
+REL	from
+HAS	my
+CON	shoulders
+NIL	.

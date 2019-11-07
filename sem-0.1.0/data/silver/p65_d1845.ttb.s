@@ -1,0 +1,12 @@
+SUB	When
+PRO	I
+PST	was
+IST	young
+PRO	I
+EPS	got
+CON	lots
+AND	of
+CON	things
+REL	for
+IST	free
+NIL	.

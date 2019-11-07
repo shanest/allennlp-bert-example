@@ -1,0 +1,13 @@
+PER	Tom
+EPS	saw
+QUE	what
+PRO	he
+EPS	thought
+PST	was
+DIS	a
+CON	gun
+REL	in
+PER	Mary
+HAS	's
+CON	hand
+NIL	.

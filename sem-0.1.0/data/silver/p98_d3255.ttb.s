@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+IST	allergic
+REL	to
+CON	aspirin
+EQU	,
+CON	penicillin
+NIL	,
+AND	and
+CON	sulfa
+CON	drugs
+NIL	.

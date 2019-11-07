@@ -1,0 +1,13 @@
+PER	Tom
+ENS	says
+PRO	he
+IST	never
+ENS	lies
+REL	to
+PER	Mary
+NIL	,
+BUT	but
+PRO	he
+IST	often
+NOW	does
+NIL	.

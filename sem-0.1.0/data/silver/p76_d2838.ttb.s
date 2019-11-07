@@ -1,0 +1,15 @@
+IMP	If
+PRO	you
+ENS	need
+DIS	some
+IST	more
+CON	practice
+NIL	,
+HAS	our
+CON	study
+ENS	needs
+DIS	a
+IST	good
+EXS	clean
+IST	out
+NIL	!

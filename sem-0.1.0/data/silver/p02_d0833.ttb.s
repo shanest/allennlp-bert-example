@@ -1,0 +1,12 @@
+PRO	It
+NOW	is
+IST	up
+REL	to
+PRO	you
+QUE	whether
+NIL	to
+EXS	buy
+PRO	it
+DIS	or
+NOT	not
+NIL	.

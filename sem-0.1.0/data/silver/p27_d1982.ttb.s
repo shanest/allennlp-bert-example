@@ -1,0 +1,9 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	blame
+PER	Mary
+SUB	for
+EXS	hitting
+PER	John
+NIL	.

@@ -1,0 +1,13 @@
+PRO	It
+HAS	's
+DIS	a
+IST	nice
+CON	victory
+NIL	,
+COO	but
+PRO	it
+HAS	's
+NOT	not
+IST	over
+ALT	yet
+NIL	.

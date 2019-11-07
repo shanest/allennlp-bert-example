@@ -1,0 +1,10 @@
+PRO	I
+ENS	want
+NIL	to
+EXS	buy
+DIS	a
+CON	pair
+REL	of
+CON	ski
+CON	boots
+NIL	.

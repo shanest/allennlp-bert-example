@@ -1,0 +1,9 @@
+PRO	She
+EPS	sat
+REL	in
+DIS	a
+CON	chair
+EXG	reading
+DIS	a
+CON	magazine
+NIL	.

@@ -1,0 +1,16 @@
+PRO	I
+NOW	'm
+EXS	talking
+AND	about
+PRX	this
+CON	pen
+NIL	,
+NOT	not
+SUB	that
+QUC	one
+AND	over
+UNK	there
+REL	on
+DEF	the
+CON	desk
+NIL	.

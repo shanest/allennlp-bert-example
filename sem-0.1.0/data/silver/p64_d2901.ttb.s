@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	energyless
+NIL	!
+PRO	I
+NEC	have
+NOT	n't
+EXT	slept
+REL	for
+QUC	three
+CON	days
+NIL	!

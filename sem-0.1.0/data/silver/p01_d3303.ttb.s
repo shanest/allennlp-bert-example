@@ -1,0 +1,9 @@
+DEF	The
+CON	girls
+EPS	talked
+REL	about
+HAS	her
+AND	behind
+HAS	her
+IST	back
+NIL	.

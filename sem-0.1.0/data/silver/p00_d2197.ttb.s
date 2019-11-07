@@ -1,0 +1,11 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+NIL	to
+EXS	have
+DIS	any
+CON	secrets
+REL	from
+PRO	you
+NIL	.

@@ -1,0 +1,10 @@
+PER	Abraham
+PER	Lincoln
+HAS	's
+CON	father
+PST	was
+DIS	a
+ROL	carpenter
+REL	by
+CON	trade
+NIL	.

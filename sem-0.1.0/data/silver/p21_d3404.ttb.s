@@ -1,0 +1,17 @@
+PRO	He
+NOW	has
+DIS	a
+IST	huge
+CON	capacity
+REL	for
+EXG	accepting
+ALT	other
+CON	people
+NIL	.
+DST	That
+HAS	's
+QUE	what
+NOW	makes
+PRO	him
+IST	special
+NIL	.

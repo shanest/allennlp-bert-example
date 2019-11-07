@@ -1,0 +1,9 @@
+HAS	Our
+CON	car
+NOW	is
+QUC	three
+CON	years
+COM	older
+MOR	than
+HAS	yours
+NIL	.

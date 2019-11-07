@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	like
+PRO	you
+SUB	when
+PRO	you
+NOW	're
+EXS	angry
+NIL	.

@@ -1,0 +1,10 @@
+PER	John
+PST	was
+DIS	a
+IST	lazy
+CON	person
+SUB	until
+PRO	he
+EPS	met
+PRO	you
+NIL	.

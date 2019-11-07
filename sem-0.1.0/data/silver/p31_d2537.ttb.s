@@ -1,0 +1,13 @@
+PER	Tom
+EPS	claimed
+SUB	that
+PRO	he
+EPS	saw
+DIS	a
+CON	man
+EXS	being
+EXS	eaten
+EXS	alive
+REL	by
+CON	piranhas
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+ENS	spends
+DIS	a
+CON	majority
+AND	of
+HAS	his
+CON	time
+EXG	helping
+PER	Mary
+NIL	.

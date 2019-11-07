@@ -1,0 +1,9 @@
+DIS	A
+IST	bare
+CON	word
+AND	of
+CON	criticism
+NOW	makes
+HAS	her
+IST	nervous
+NIL	.

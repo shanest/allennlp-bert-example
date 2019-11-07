@@ -1,0 +1,12 @@
+NOW	Do
+PRO	you
+NOW	think
+PER	Tom
+IST	still
+ENS	has
+AND	any
+CON	friends
+EPS	left
+REL	in
+GPE	Boston
+QUE	?

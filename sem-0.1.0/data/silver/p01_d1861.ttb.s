@@ -1,0 +1,9 @@
+ITJ	Wow
+NIL	!
+PRO	It
+HAS	's
+EXS	been
+DIS	a
+IST	long
+CON	time
+NIL	.

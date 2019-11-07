@@ -1,0 +1,12 @@
+UNK	There
+HAS	's
+DIS	a
+CON	rumor
+SUB	that
+PER	Mary
+NOW	has
+DIS	a
+CON	crush
+REL	on
+PER	Tom
+NIL	.

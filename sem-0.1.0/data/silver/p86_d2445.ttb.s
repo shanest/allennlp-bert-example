@@ -1,0 +1,11 @@
+PRO	It
+NOW	has
+PFT	been
+MOR	over
+QUC	three
+UOM	years
+SUB	since
+PRO	I
+EPS	moved
+PRX	here
+NIL	.

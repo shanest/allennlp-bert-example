@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+UNK	difficult
+SUB	to
+EXS	get
+IST	out
+AND	of
+CON	bed
+REL	on
+IST	cold
+CON	mornings
+NIL	.

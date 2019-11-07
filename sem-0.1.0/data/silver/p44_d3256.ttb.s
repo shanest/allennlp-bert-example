@@ -1,0 +1,14 @@
+EXG	Putting
+HAS	my
+EXG	traveling
+CON	experience
+REL	to
+IST	good
+CON	use
+NIL	,
+PRO	I
+EPS	started
+DIS	a
+CON	travel
+CON	agency
+NIL	.

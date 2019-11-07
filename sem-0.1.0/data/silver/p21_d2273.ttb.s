@@ -1,0 +1,11 @@
+ROL	Uncle
+EPS	asked
+NIL	:
+NIL	"
+QUE	What
+NOW	is
+QUC	three
+CON	plus
+QUC	four
+QUE	?
+NIL	"

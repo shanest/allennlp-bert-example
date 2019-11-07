@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+TOP	tallest
+CON	building
+SUB	that
+PRO	I
+NOW	have
+IST	ever
+EXS	seen
+NIL	.

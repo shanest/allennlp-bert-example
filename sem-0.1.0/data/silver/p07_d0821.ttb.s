@@ -1,0 +1,9 @@
+PRO	I
+EPS	decided
+REL	on
+EXG	telling
+HAS	her
+AND	of
+HAS	my
+CON	love
+NIL	.

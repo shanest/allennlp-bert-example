@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	feeling
+DIS	a
+IST	little
+IST	nervous
+CON	right
+NOW	now
+NIL	.

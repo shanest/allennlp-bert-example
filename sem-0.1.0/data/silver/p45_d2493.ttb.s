@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	bored
+COO	and
+PRO	I
+NOW	have
+NOT	nothing
+SUB	to
+EXS	do
+NIL	.

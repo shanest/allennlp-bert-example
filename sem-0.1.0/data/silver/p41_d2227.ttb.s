@@ -1,0 +1,10 @@
+IST	Please
+CON	promise
+PRO	you
+FUT	'll
+NOT	never
+EXS	lie
+REL	to
+PRO	me
+ALT	again
+NIL	.

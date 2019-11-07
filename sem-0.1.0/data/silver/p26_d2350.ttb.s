@@ -1,0 +1,10 @@
+AND	Actually
+NIL	,
+PRO	I
+EPS	talked
+REL	with
+PER	Tom
+AND	about
+PRX	this
+IST	already
+NIL	.

@@ -1,0 +1,13 @@
+PRO	I
+NOW	think
+PRO	I
+POS	might
+NOT	not
+EXS	be
+IST	able
+SUB	to
+EXS	come
+REL	into
+CON	work
+FUT	tomorrow
+NIL	.

@@ -1,0 +1,10 @@
+PRO	She
+NOW	is
+EXS	accustomed
+SUB	to
+EXG	doing
+HAS	her
+CON	homework
+REL	before
+CON	dinner
+NIL	.

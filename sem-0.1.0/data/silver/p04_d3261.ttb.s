@@ -1,0 +1,10 @@
+DEF	The
+CON	restaurant
+PRO	we
+EPS	went
+REL	to
+PST	was
+NOT	n't
+INT	so
+EXS	expensive
+NIL	.

@@ -1,0 +1,9 @@
+PRO	She
+NOW	is
+INT	too
+EXS	young
+SUB	to
+EXS	go
+REL	to
+CON	school
+NIL	.

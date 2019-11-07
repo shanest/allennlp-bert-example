@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	sure
+PRO	she
+FUT	'll
+EXS	be
+IST	pleased
+SUB	to
+EXS	hear
+DST	that
+NIL	.

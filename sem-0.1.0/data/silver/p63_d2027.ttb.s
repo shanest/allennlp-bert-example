@@ -1,0 +1,12 @@
+DEF	The
+CON	guard
+PST	thought
+PRO	they
+PST	were
+EXS	joking
+SUB	until
+PRO	he
+EPS	saw
+HAS	their
+CON	guns
+NIL	.

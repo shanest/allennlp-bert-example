@@ -1,0 +1,15 @@
+PER	Tom
+EPS	admitted
+SUB	that
+PRO	it
+PST	was
+IST	due
+REL	to
+HAS	his
+CON	carelessness
+AND	that
+DEF	the
+CON	accident
+PST	had
+EXS	happened
+NIL	.

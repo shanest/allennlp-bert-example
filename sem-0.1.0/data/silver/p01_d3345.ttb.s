@@ -1,0 +1,9 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+PRX	this
+CON	neighborhood
+INT	too
+IST	well
+NIL	.

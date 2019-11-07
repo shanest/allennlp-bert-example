@@ -1,0 +1,10 @@
+DST	That
+CON	dispute
+NOW	has
+PFT	been
+EXS	settled
+QUC	once
+AND	and
+REL	for
+AND	all
+NIL	.

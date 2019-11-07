@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+PFT	been
+EXS	waiting
+REL	for
+IST	slightly
+AND	over
+DIS	an
+CON	hour
+NIL	.

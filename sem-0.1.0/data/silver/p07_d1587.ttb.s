@@ -1,0 +1,11 @@
+PRO	You
+NOW	're
+EXG	wasting
+HAS	your
+CON	energy
+NIL	.
+HAS	Your
+CON	complaint
+NOW	is
+IST	groundless
+NIL	.

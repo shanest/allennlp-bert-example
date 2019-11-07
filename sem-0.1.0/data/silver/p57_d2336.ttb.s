@@ -1,0 +1,13 @@
+QUE	How
+QUV	many
+IST	sacrificial
+CON	lambs
+NOW	do
+PRO	we
+ENS	need
+SUB	to
+EXS	bring
+DEF	the
+CON	rain
+IST	back
+QUE	?

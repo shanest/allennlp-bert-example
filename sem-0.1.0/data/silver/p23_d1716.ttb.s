@@ -1,0 +1,10 @@
+PER	Tom
+EPS	said
+PRO	he
+PST	was
+IST	willing
+SUB	to
+EXS	help
+PRO	us
+IST	out
+NIL	.

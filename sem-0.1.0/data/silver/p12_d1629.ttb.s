@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+NOT	not
+INT	particularly
+IST	fond
+AND	of
+PER	Shaw
+HAS	's
+CON	plays
+NIL	.

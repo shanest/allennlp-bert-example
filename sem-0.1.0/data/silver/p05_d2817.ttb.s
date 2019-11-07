@@ -1,0 +1,11 @@
+PRO	I
+NOW	hope
+PRO	you
+NOW	are
+NOT	not
+EXG	thinking
+PRO	it
+NOW	is
+HAS	my
+CON	fault
+NIL	.

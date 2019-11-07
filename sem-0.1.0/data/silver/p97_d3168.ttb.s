@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+EXS	going
+SUB	to
+EXS	buy
+DIS	a
+IST	new
+CON	car
+AND	next
+CON	weekend
+NIL	.

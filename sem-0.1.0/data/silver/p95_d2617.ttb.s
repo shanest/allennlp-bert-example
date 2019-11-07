@@ -1,0 +1,9 @@
+HAS	Your
+CON	word
+ENS	puts
+PRO	me
+REL	in
+CON	fear
+AND	of
+CON	death
+NIL	.

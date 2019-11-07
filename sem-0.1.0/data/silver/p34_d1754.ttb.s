@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+UOM	in
+CON	debt
+REL	to
+PRO	him
+REL	for
+QUC	1,000
+UOM	yen
+NIL	.

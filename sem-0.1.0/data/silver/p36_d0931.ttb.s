@@ -1,0 +1,10 @@
+CON	Air
+NOW	is
+REL	to
+CON	men
+QUE	what
+CON	water
+NOW	is
+REL	to
+CON	fish
+NIL	.

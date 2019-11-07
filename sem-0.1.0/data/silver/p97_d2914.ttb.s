@@ -1,0 +1,11 @@
+PRO	I
+EPS	heard
+SUB	that
+PRO	he
+EPS	gave
+REF	himself
+IST	up
+REL	to
+DEF	the
+CON	police
+NIL	.

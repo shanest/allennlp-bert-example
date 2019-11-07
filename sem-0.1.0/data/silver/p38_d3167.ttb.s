@@ -1,0 +1,11 @@
+PRX	These
+CON	tales
+NOW	have
+PFT	been
+EXS	passed
+REL	on
+REL	from
+CON	generation
+REL	to
+CON	generation
+NIL	.

@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+NOT	n't
+DEF	the
+CON	knife
+PRO	I
+EPS	confiscated
+REL	from
+PER	Tom
+NIL	.

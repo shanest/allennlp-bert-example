@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+REL	in
+PER	Tom
+HAS	's
+CON	car
+NIL	.

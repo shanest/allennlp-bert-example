@@ -1,0 +1,9 @@
+GPE	Germany
+HAS	's
+CON	winters
+NOW	are
+MOR	colder
+MOR	than
+GPE	Italy
+NOW	's
+NIL	.

@@ -1,0 +1,14 @@
+IST	Most
+GPE	Americans
+NOW	do
+NOT	not
+EXS	object
+REL	to
+HAS	my
+EXG	calling
+PRO	them
+REL	by
+HAS	their
+IST	first
+CON	names
+NIL	.

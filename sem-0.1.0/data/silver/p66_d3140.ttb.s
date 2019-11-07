@@ -1,0 +1,14 @@
+NOW	Do
+PRO	you
+NOW	have
+DIS	some
+CON	bread
+QUE	?
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	feed
+DEF	the
+CON	pigeons
+NIL	.

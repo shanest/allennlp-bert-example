@@ -1,0 +1,9 @@
+PRO	I
+IST	just
+NOT	never
+EPS	seemed
+SUB	to
+EXS	fit
+REL	in
+IST	there
+NIL	.

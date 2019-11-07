@@ -1,0 +1,11 @@
+PRO	It
+PST	was
+EXS	love
+REL	at
+IST	first
+CON	sight
+SUB	when
+PRO	you
+EPS	met
+PRO	her
+QUE	?

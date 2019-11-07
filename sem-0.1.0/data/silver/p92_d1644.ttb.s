@@ -1,0 +1,13 @@
+PRO	We
+NOW	have
+EXS	established
+DEF	the
+CON	institute
+REL	with
+DIS	a
+CON	view
+SUB	to
+EXS	facilitating
+DEF	the
+CON	research
+NIL	.

@@ -1,0 +1,11 @@
+NOW	Is
+PRO	it
+IST	necessary
+SUB	to
+EXS	expand
+IST	human
+CON	knowledge
+REL	with
+CON	space
+CON	exploration
+QUE	?

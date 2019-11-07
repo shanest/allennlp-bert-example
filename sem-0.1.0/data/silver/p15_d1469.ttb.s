@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	angry
+SUB	because
+AND	of
+HAS	their
+EXS	impolite
+CON	attitude
+NIL	.

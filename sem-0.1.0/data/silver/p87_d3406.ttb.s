@@ -1,0 +1,15 @@
+PER	Tom
+NIL	,
+REL	with
+UNK	whom
+PRO	I
+PST	was
+EXS	sharing
+DEF	the
+CON	apartment
+NIL	,
+EXS	moved
+IST	out
+IST	last
+CON	month
+NIL	.

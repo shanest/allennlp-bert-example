@@ -1,0 +1,10 @@
+PRO	They
+EPS	named
+DEF	the
+CON	ship
+PER	Queen
+PER	Mary
+REL	after
+DEF	the
+CON	Queen
+NIL	.

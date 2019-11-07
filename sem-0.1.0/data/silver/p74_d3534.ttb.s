@@ -1,0 +1,9 @@
+PER	Tom
+HAS	's
+CON	house
+NOW	is
+AND	near
+PER	Mary
+HAS	's
+CON	school
+NIL	.

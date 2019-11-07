@@ -1,0 +1,12 @@
+PER	Italo
+PER	Calvino
+EPS	returned
+REL	to
+GPE	Italy
+SUB	when
+PRO	he
+PST	was
+IST	still
+DIS	a
+CON	child
+NIL	.

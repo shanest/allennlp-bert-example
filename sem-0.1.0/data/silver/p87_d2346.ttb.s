@@ -1,0 +1,14 @@
+ITJ	Oh
+NIL	,
+NOW	look
+NIL	,
+EXS	look
+NIL	!
+UNK	There
+HAS	's
+DIS	a
+IST	big
+CON	rainbow
+AND	over
+IST	there
+NIL	!

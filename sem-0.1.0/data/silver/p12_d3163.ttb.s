@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+NOT	n't
+IST	sure
+ALT	yet
+SUB	whether
+PRO	he
+FUT	'll
+EXS	go
+DIS	or
+NOT	not
+NIL	.

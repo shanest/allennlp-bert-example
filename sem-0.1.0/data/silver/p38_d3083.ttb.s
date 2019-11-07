@@ -1,0 +1,9 @@
+PRO	He
+EPS	contradicted
+REF	himself
+IST	several
+CON	times
+REL	in
+HAS	his
+CON	testimony
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+NOT	not
+DIS	a
+CON	lion
+COO	but
+PRO	I
+ALT	too
+POS	can
+ENS	roar
+NIL	.

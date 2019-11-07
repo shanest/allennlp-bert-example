@@ -1,0 +1,17 @@
+PRO	He
+EPS	promised
+SUB	to
+EXS	bring
+IST	new
+CON	industries
+REL	to
+DEF	the
+CON	region
+NIL	,
+BUT	but
+ROL	politicians
+IST	rarely
+EXS	keep
+HAS	their
+CON	word
+NIL	.

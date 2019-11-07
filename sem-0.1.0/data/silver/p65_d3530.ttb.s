@@ -1,0 +1,9 @@
+PRO	I
+EPS	found
+DEF	the
+CON	photo
+PRO	you
+PST	were
+EXG	looking
+REL	for
+NIL	.

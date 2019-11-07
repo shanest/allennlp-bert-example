@@ -1,0 +1,11 @@
+PRO	I
+POS	ca
+NOT	n't
+IST	really
+EXS	do
+AND	anything
+SUB	until
+PER	Tom
+NOW	gets
+PRX	here
+NIL	.

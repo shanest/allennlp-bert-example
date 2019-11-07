@@ -1,0 +1,10 @@
+AND	Therefore
+NIL	,
+PRO	it
+NOW	is
+IST	necessary
+SUB	to
+EXS	reduce
+DEF	the
+CON	cost
+NIL	.

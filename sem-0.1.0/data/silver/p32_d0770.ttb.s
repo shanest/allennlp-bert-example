@@ -1,0 +1,13 @@
+NIL	"
+QUE	What
+HAS	's
+DEF	the
+CON	matter
+QUE	?
+NIL	"
+EPS	asked
+DEF	the
+IST	little
+COL	white
+CON	rabbit
+NIL	.

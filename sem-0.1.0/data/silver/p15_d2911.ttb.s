@@ -1,0 +1,12 @@
+QUC	Three
+CON	workers
+REL	on
+CON	board
+DEF	the
+CON	truck
+PST	were
+EXS	killed
+REL	in
+DEF	the
+CON	accident
+NIL	.

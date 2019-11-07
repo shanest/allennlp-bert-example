@@ -1,0 +1,9 @@
+PRO	He
+NOW	's
+EXS	worried
+SUB	that
+PRO	he
+POS	might
+EXS	be
+IST	late
+NIL	.

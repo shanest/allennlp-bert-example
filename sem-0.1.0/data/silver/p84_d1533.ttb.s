@@ -1,0 +1,10 @@
+DEF	The
+MOR	more
+PRO	you
+EXS	study
+NIL	,
+DEF	the
+MOR	more
+PRO	you
+ENS	know
+NIL	.

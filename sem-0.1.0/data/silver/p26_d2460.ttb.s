@@ -1,0 +1,16 @@
+SUB	When
+HAS	his
+CON	wife
+EPS	heard
+AND	of
+HAS	his
+IST	violent
+CON	death
+NIL	,
+PRO	she
+PST	was
+AND	beside
+REF	herself
+REL	with
+CON	grief
+NIL	.

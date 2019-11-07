@@ -1,0 +1,11 @@
+PRO	We
+EPS	saw
+DIS	a
+CON	lot
+AND	of
+EXS	live
+CON	fish
+REL	in
+DEF	the
+CON	pond
+NIL	.

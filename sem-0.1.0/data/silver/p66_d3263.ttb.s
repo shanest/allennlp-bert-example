@@ -1,0 +1,9 @@
+REL	After
+DEF	the
+CON	war
+NIL	,
+GPE	Britain
+PST	had
+QUC	many
+CON	colonies
+NIL	.

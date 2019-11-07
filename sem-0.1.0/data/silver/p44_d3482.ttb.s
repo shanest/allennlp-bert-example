@@ -1,0 +1,9 @@
+QUE	What
+NOW	is
+DEF	the
+IST	average
+CON	life
+CON	span
+REL	in
+GPE	Japan
+QUE	?

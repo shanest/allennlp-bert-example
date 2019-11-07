@@ -1,0 +1,16 @@
+PRO	You
+NOW	do
+EXS	realise
+SUB	that
+PRO	I
+FUT	wo
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	come
+NIL	,
+NOW	do
+NOT	n't
+PRO	you
+QUE	?

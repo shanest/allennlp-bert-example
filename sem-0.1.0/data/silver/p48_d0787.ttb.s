@@ -1,0 +1,10 @@
+PRO	It
+NOW	does
+NOT	n't
+CON	matter
+AND	which
+CON	team
+ENS	wins
+DEF	the
+CON	game
+NIL	.

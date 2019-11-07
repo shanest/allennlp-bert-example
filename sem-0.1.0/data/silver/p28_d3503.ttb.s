@@ -1,0 +1,13 @@
+NIL	"
+DEF	Especially
+EPS	challenged
+CON	people
+NIL	"
+ENS	sounds
+MOR	better
+MOR	than
+NIL	"
+IST	handicapped
+CON	persons
+NIL	"
+NIL	.

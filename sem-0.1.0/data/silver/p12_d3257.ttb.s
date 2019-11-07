@@ -1,0 +1,10 @@
+PER	Tom
+EPS	stopped
+EXS	talking
+SUB	when
+PER	Mary
+EPS	walked
+REL	into
+DEF	the
+CON	room
+NIL	.

@@ -1,0 +1,9 @@
+PRX	This
+NOW	is
+NOT	n't
+AND	about
+PER	Tom
+NIL	,
+NOW	is
+PRO	it
+QUE	?

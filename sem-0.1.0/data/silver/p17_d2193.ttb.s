@@ -1,0 +1,11 @@
+DEF	The
+CON	immigrants
+CON	dream
+AND	of
+EXG	having
+DIS	a
+IST	new
+EQU	,
+IST	better
+CON	life
+NIL	.

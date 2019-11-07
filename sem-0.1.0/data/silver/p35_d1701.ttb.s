@@ -1,0 +1,11 @@
+PER	Tom
+NOW	makes
+DIS	a
+CON	lot
+AND	of
+CON	mistakes
+SUB	when
+PRO	he
+ENS	speaks
+GPO	French
+NIL	.

@@ -1,0 +1,17 @@
+PRX	This
+CON	table
+NOW	is
+EXS	fine
+NOT	except
+REL	in
+QUC	one
+CON	respect
+NIL	-
+PRO	it
+FUT	will
+NOT	not
+EXS	fit
+REL	into
+HAS	my
+CON	room
+NIL	.

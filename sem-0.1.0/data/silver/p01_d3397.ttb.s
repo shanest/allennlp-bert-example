@@ -1,0 +1,10 @@
+PRO	He
+NOW	has
+NOT	not
+EXS	paid
+HAS	his
+CON	portion
+AND	of
+DEF	the
+CON	rent
+NIL	.

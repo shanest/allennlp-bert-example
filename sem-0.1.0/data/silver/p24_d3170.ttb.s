@@ -1,0 +1,10 @@
+PRO	We
+FUT	'll
+EXS	visit
+DIS	a
+CON	factory
+AND	which
+ENS	produces
+CON	television
+CON	sets
+NIL	.

@@ -1,0 +1,13 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	want
+SUB	to
+EXS	come
+PRX	here
+NIL	,
+BUT	but
+PRO	he
+EPS	came
+IST	anyway
+NIL	.

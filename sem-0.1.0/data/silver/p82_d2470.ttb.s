@@ -1,0 +1,13 @@
+AND	And
+DEF	the
+CON	sun
+AND	of
+PER	Homer
+NIL	,
+EXS	look
+NIL	!
+PRO	It
+ENS	smiles
+REL	upon
+PRO	us
+NIL	.

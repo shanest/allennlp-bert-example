@@ -1,0 +1,10 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+NOT	no
+IST	longer
+REL	on
+EXG	speaking
+CON	terms
+NIL	.

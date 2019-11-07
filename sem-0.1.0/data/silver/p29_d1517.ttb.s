@@ -1,0 +1,12 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+QUE	what
+PST	had
+EXS	happened
+SUB	until
+PER	Tom
+EPS	told
+PRO	me
+NIL	.

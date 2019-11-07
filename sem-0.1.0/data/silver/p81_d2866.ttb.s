@@ -1,0 +1,9 @@
+PER	Tom
+AND	and
+PER	Mary
+HAS	's
+CON	wedding
+CON	anniversary
+NOW	is
+NOW	today
+NIL	.

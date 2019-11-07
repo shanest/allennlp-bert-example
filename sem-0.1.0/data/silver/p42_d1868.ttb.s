@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	read
+AND	both
+AND	of
+HAS	her
+CON	novels
+NIL	.

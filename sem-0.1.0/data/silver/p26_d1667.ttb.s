@@ -1,0 +1,11 @@
+HAS	My
+CON	son
+NOW	is
+EXS	working
+IST	hard
+REL	on
+DEF	the
+CON	field
+AND	right
+NOW	now
+NIL	.

@@ -1,0 +1,17 @@
+AND	And
+REL	in
+DIS	a
+CON	moment
+PRO	we
+EXS	smashed
+IST	up
+NIL	,
+QUE	what
+PRO	it
+PST	had
+EXS	taken
+PRO	us
+CON	years
+SUB	to
+EXS	build
+NIL	.

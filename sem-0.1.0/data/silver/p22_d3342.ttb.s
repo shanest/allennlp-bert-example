@@ -1,0 +1,12 @@
+PRX	This
+NOW	is
+HAS	my
+CON	coat
+NIL	,
+COO	and
+DST	that
+NOW	is
+HAS	my
+ROL	father
+HAS	's
+NIL	.

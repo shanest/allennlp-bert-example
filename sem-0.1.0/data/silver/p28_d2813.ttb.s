@@ -1,0 +1,11 @@
+PRO	He
+PST	was
+EXS	living
+REL	in
+GPE	England
+SUB	when
+DEF	the
+CON	war
+EPS	broke
+IST	out
+NIL	.

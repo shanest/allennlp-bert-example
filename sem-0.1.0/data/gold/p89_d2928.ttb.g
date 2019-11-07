@@ -1,0 +1,10 @@
+PRO	She
+EPS	claimed
+NIL	to
+EXS	be
+DEF	the
+ROL	owner
+REL	of
+DEF	the
+CON	land
+NIL	.

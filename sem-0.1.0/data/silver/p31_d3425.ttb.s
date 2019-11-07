@@ -1,0 +1,10 @@
+PRO	We
+NOW	are
+EXG	waiting
+REL	for
+PRO	him
+SUB	to
+EXS	make
+ALT	another
+CON	decision
+NIL	.

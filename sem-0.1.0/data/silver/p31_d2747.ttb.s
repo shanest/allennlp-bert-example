@@ -1,0 +1,9 @@
+PRO	It
+ENS	seems
+INT	too
+QUC	much
+REL	to
+PRO	me
+NIL	,
+ALT	too
+NIL	.

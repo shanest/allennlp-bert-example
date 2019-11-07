@@ -1,0 +1,9 @@
+PER	Tom
+EPS	put
+HAS	his
+CON	lunch
+EXS	tray
+REL	on
+DEF	the
+CON	table
+NIL	.

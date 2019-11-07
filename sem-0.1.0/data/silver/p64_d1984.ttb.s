@@ -1,0 +1,10 @@
+PRO	You
+EXS	scratch
+HAS	my
+CON	back
+NIL	,
+PRO	I
+FUT	'll
+EXS	scratch
+HAS	yours
+NIL	.

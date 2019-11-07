@@ -1,0 +1,14 @@
+NOT	No
+NIL	,
+PRO	I
+POS	ca
+NOT	n't
+EXS	clean
+HAS	your
+CON	house
+NIL	.
+PRO	It
+NOW	's
+INT	too
+EXS	big
+NIL	!

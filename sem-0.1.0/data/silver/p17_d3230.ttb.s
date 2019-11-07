@@ -1,0 +1,15 @@
+UNK	There
+NOW	is
+NOT	no
+CON	possibility
+SUB	that
+QUE	what
+PRO	he
+ENS	says
+POS	may
+EXT	have
+DIS	any
+CON	truth
+REL	in
+PRO	it
+NIL	.

@@ -1,0 +1,27 @@
+PER	David Millar
+PST	retained
+HAS	his
+ORG	Tour
+PER	de
+GEO	France
+CON	leader
+HAS	's
+COL	yellow
+CON	jersey
+AND	despite
+EXS	crashing
+REL	in
+DEF	the
+IST	final
+QUC	two
+UOM	kilometres
+AND	of
+DEF	the
+IST	third
+CON	stage
+AND	of
+DEF	the
+CON	race
+REL	to
+GEO	Nantes
+NIL	.

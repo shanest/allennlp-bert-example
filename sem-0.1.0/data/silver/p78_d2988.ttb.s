@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+INT	pretty
+EXS	clear
+SUB	that
+PRO	we
+NOW	have
+DIS	a
+CON	problem
+NIL	.

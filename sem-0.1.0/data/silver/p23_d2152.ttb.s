@@ -1,0 +1,17 @@
+NIL	"
+PER	Tom
+NOW	has
+PFT	been
+EXS	putting
+REL	on
+DIS	some
+CON	weight
+NIL	"
+NIL	"
+ITJ	Yeah
+NIL	,
+PRO	I
+EPS	noticed
+SUB	that
+NIL	.
+NIL	"

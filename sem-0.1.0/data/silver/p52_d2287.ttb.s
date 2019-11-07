@@ -1,0 +1,11 @@
+EXS	Let
+PER	Tom
+ENS	know
+UNK	there
+FUT	will
+EXS	be
+EXS	dancing
+REL	at
+DEF	the
+CON	party
+NIL	.

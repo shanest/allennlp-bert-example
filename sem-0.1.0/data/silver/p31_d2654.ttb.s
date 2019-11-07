@@ -1,0 +1,10 @@
+EXS	Did
+PRO	you
+ENS	know
+SUB	that
+CON	spaghetti
+NOW	grows
+REL	on
+CON	spaghetti
+CON	trees
+QUE	?

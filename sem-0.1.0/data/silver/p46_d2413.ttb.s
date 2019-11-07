@@ -1,0 +1,16 @@
+PRO	I
+NOW	am
+EXS	writing
+REL	to
+PRO	you
+NOW	today
+SUB	so
+PRO	you
+NOW	do
+NOT	n't
+EXS	start
+EXS	worrying
+AND	about
+PRO	me
+IST	unnecessarily
+NIL	.

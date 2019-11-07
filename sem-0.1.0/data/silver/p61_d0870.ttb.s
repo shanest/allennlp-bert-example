@@ -1,0 +1,11 @@
+DEF	The
+CON	bird
+HAS	's
+CON	cry
+EPS	broke
+DEF	the
+CON	silence
+AND	of
+DEF	the
+CON	woods
+NIL	.

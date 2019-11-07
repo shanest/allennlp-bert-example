@@ -1,0 +1,10 @@
+PRO	I
+POS	could
+EXT	have
+EXS	sworn
+PRO	I
+EPS	saw
+PER	Tom
+EXG	kissing
+PER	Mary
+NIL	.

@@ -1,0 +1,12 @@
+IMP	If
+PRO	you
+EPS	hurt
+PRO	him
+NIL	,
+PRO	I
+FUT	'll
+EXS	cut
+HAS	your
+CON	balls
+REL	off
+NIL	.

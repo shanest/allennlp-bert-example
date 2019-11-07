@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+DEF	the
+QUC	one
+AND	who
+EPS	broke
+DEF	the
+CON	window
+PST	yesterday
+NIL	.

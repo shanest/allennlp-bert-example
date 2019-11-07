@@ -1,0 +1,11 @@
+EXS	Excuse
+PRO	me
+NIL	.
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	rent
+DIS	a
+CON	car
+NIL	.

@@ -1,0 +1,16 @@
+PRO	We
+PST	were
+EXS	supposed
+SUB	to
+EXS	tell
+AND	everyone
+SUB	to
+EXS	be
+PRX	here
+REL	by
+CLO	2:30
+NIL	,
+COO	but
+PRO	we
+EPS	forgot
+NIL	.

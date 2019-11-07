@@ -1,0 +1,10 @@
+PRO	I
+FUT	will
+EXT	have
+EXS	finished
+EXS	reading
+PRX	this
+CON	book
+REL	by
+DOW	Tuesday
+NIL	.

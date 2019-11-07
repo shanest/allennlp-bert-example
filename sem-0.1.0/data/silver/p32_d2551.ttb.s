@@ -1,0 +1,15 @@
+AND	As
+IST	far
+SUB	as
+PRO	I
+ENS	know
+NIL	,
+PRO	it
+HAS	's
+NOT	not
+AND	all
+SUB	that
+IST	far
+SUB	to
+EXS	walk
+NIL	.

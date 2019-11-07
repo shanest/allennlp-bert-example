@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+DEF	the
+IST	second
+CON	time
+SUB	that
+PRO	I
+NOW	have
+EXS	met
+PRO	him
+NIL	.

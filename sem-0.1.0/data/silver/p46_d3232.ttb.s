@@ -1,0 +1,9 @@
+PER	Tom
+PST	had
+CON	trouble
+CON	understanding
+QUE	what
+PER	Mary
+PST	was
+EXS	saying
+NIL	.

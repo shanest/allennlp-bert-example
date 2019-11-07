@@ -1,0 +1,12 @@
+PER	Tom
+FUT	will
+EXS	be
+EXG	staying
+REL	with
+PRO	us
+REL	for
+DEF	the
+IST	next
+QUC	three
+CON	weeks
+NIL	.

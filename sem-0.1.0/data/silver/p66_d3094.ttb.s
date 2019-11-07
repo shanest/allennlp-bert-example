@@ -1,0 +1,15 @@
+PRO	They
+POS	can
+EXS	come
+REL	on
+DOW	Monday
+DIS	or
+DOW	Tuesday
+NIL	,
+BUT	but
+NOT	not
+REL	on
+DOW	Wednesday
+DIS	or
+DOW	Thursday
+NIL	.

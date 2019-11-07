@@ -1,0 +1,11 @@
+POS	Maybe
+PRO	we
+NEC	should
+EXS	tell
+PER	Tom
+SUB	that
+PRO	he
+NOW	's
+EXS	being
+EXS	obnoxious
+NIL	.

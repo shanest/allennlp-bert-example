@@ -1,0 +1,11 @@
+AND	But
+REL	for
+HAS	their
+CON	help
+NIL	,
+PRO	we
+POS	could
+NOT	not
+EXT	have
+EXT	succeeded
+NIL	.

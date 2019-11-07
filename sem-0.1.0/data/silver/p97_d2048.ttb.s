@@ -1,0 +1,10 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	understand
+QUE	what
+PRO	you
+CON	guys
+NOW	are
+EXS	saying
+NIL	.

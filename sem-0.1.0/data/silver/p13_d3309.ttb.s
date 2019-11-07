@@ -1,0 +1,16 @@
+PER	Tom
+PST	was
+DEF	the
+QUC	one
+AND	who
+EPS	gave
+PRO	me
+DEF	the
+CON	painting
+AND	that
+HAS	's
+CON	hanging
+REL	above
+HAS	my
+CON	fireplace
+NIL	.

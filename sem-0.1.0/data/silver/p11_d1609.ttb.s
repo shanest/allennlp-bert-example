@@ -1,0 +1,13 @@
+PER	Edoardo
+PST	got
+IST	really
+EXS	angry
+COO	and
+EPS	threw
+DEF	the
+CON	chair
+AND	over
+AND	onto
+DEF	the
+CON	floor
+NIL	.

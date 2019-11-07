@@ -1,0 +1,9 @@
+DEF	The
+CON	baby
+PST	was
+EXS	named
+IST	Alfred
+REL	after
+HAS	his
+ROL	grandfather
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Mary
+EPS	spent
+DEF	the
+CON	evening
+EXS	talking
+REL	about
+PER	John
+HAS	's
+CON	problems
+NIL	.

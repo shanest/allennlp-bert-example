@@ -1,0 +1,9 @@
+PER	Tom
+EPS	put
+DEF	the
+CON	book
+IST	back
+REL	on
+DEF	the
+CON	shelf
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EXS	forwarded
+DEF	the
+CON	email
+PRO	he
+EPS	received
+REL	from
+PER	Mary
+REL	to
+PER	John
+NIL	.

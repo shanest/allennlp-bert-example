@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+ENS	know
+SUB	whether
+DIS	or
+NOT	not
+PRO	she
+POS	can
+EXS	speak
+GPO	English
+QUE	?

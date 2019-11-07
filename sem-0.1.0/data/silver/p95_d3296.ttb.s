@@ -1,0 +1,9 @@
+HAS	Their
+CON	house
+NOW	is
+EXS	organized
+AND	according
+REL	to
+EXS	Feng
+PER	Shui
+NIL	.

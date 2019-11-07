@@ -1,0 +1,13 @@
+PRO	You
+NEC	ought
+NOT	not
+SUB	to
+EXT	have
+EXS	said
+DIS	a
+CON	thing
+AND	like
+DST	that
+REL	to
+PRO	him
+NIL	.

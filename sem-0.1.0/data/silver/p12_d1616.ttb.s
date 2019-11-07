@@ -1,0 +1,14 @@
+DEF	The
+CON	population
+AND	of
+PRX	this
+CON	town
+NOW	has
+PFT	been
+EXS	static
+REL	for
+DEF	the
+IST	last
+QUC	ten
+CON	years
+NIL	.

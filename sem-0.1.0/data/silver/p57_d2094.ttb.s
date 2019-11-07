@@ -1,0 +1,12 @@
+PRO	I
+IST	first
+EPS	met
+PER	Tom
+REL	in
+DIS	a
+IST	little
+CON	bar
+AND	outside
+AND	of
+CON	town
+NIL	.

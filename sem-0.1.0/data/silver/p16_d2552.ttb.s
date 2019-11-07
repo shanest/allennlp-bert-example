@@ -1,0 +1,12 @@
+PER	Tom
+EPS	peeked
+REL	in
+DEF	the
+CON	window
+COO	and
+EPS	saw
+PER	Mary
+AND	and
+PER	John
+EXG	kissing
+NIL	.

@@ -1,0 +1,20 @@
+PRO	I
+NOW	'm
+EXS	interested
+REL	in
+CON	data
+EXS	related
+REL	to
+DEF	the
+CON	Great Wall
+NIL	.
+QUE	What
+NOW	is
+HAS	its
+CON	length
+NIL	,
+HAS	its
+CON	breadth
+AND	and
+CON	height
+QUE	?

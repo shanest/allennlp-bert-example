@@ -1,0 +1,10 @@
+UNK	There
+AND	always
+ENS	seems
+AND	like
+UNK	there
+NOW	is
+DIS	something
+SUB	to
+EXS	do
+NIL	.

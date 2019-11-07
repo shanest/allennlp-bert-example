@@ -1,0 +1,10 @@
+PER	Tom
+IST	almost
+EPS	kissed
+PER	Mary
+NIL	,
+BUT	but
+EPS	decided
+NOT	not
+SUB	to
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+ENS	want
+SUB	to
+EXS	spend
+HAS	my
+CON	life
+REL	with
+PER	Mary
+NIL	.

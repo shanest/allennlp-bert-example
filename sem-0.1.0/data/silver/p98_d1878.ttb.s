@@ -1,0 +1,12 @@
+QUE	How
+IST	long
+PST	did
+PRO	it
+EXS	take
+PRO	you
+SUB	to
+EXS	collect
+AND	so
+QUV	many
+CON	coins
+QUE	?

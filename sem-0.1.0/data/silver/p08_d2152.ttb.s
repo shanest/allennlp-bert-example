@@ -1,0 +1,10 @@
+PRO	They
+EPS	said
+PRO	they
+XCL	only
+EPS	wanted
+SUB	to
+EXS	be
+EXS	left
+AND	alone
+NIL	.

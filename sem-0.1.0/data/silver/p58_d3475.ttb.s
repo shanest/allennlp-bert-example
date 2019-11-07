@@ -1,0 +1,12 @@
+DIS	A
+IST	gentle
+CON	wind
+EPS	made
+CON	ripples
+REL	on
+DEF	the
+CON	surface
+AND	of
+DEF	the
+CON	pond
+NIL	.

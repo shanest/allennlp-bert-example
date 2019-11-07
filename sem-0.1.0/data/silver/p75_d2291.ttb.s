@@ -1,0 +1,12 @@
+DEF	The
+CON	results
+AND	of
+DEF	the
+CON	experiment
+PST	were
+NOT	not
+SUB	as
+PRO	we
+PST	had
+EPS	hoped
+NIL	.

@@ -1,0 +1,13 @@
+DEF	The
+CON	boys
+AND	who
+ENS	commit
+CON	suicide
+AND	every
+NOW	now
+AND	and
+IST	then
+NOW	are
+IST	just
+CON	holograms
+QUE	?

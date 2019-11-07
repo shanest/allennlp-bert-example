@@ -1,0 +1,11 @@
+GPE	Ireland
+NOW	is
+DEF	the
+XCL	only
+CON	place
+SUB	that
+IST	really
+NOW	makes
+PRO	it
+CON	justice
+NIL	.

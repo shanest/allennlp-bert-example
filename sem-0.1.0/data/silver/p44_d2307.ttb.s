@@ -1,0 +1,9 @@
+PRO	I
+EPS	met
+PRO	him
+SUB	while
+PRO	he
+PST	was
+REL	in
+GPE	Japan
+NIL	.

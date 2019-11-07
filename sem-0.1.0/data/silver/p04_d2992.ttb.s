@@ -1,0 +1,14 @@
+QUV	Many
+REL	in
+GPE	Hamburg
+ENS	speak
+GEO	Missingsch
+EQU	,
+DIS	a
+CON	mix
+AND	of
+ORG	Low
+CON	Saxon
+AND	and
+GPO	German
+NIL	.

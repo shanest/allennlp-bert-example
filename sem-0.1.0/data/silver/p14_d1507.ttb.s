@@ -1,0 +1,11 @@
+CON	People
+REL	under
+QUC	eighteen
+NOW	are
+NOT	n't
+EXS	supposed
+SUB	to
+EXS	buy
+IST	alcoholic
+CON	drinks
+NIL	.

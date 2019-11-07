@@ -1,0 +1,11 @@
+PRO	They
+NOW	're
+EXG	doing
+HAS	their
+CON	work
+REL	at
+DIS	a
+CON	snail
+HAS	's
+CON	pace
+NIL	!

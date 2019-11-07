@@ -1,0 +1,14 @@
+NIL	"
+NOW	Do
+PRO	you
+EXS	know
+SUB	where
+GEO	Lapland
+NOW	is
+QUE	?
+NIL	"
+PRO	she
+EPS	asked
+DEF	the
+CON	reindeer
+NIL	.

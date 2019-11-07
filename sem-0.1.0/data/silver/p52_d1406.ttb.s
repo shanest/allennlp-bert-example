@@ -1,0 +1,15 @@
+DEF	The
+IST	young
+CON	man
+ENS	knows
+DEF	the
+CON	rules
+NIL	,
+BUT	but
+DEF	the
+IST	old
+CON	man
+ENS	knows
+DEF	the
+CON	exceptions
+NIL	.

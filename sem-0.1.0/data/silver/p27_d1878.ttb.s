@@ -1,0 +1,10 @@
+NIL	There
+NOW	are
+IST	still
+CON	people
+AND	who
+NOW	are
+IST	unable
+SUB	to
+EXS	read
+NIL	.

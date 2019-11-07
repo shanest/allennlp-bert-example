@@ -1,0 +1,10 @@
+PER	Tom
+EPS	kissed
+PER	Mary
+REL	on
+DEF	the
+CON	back
+AND	of
+HAS	her
+CON	head
+NIL	.

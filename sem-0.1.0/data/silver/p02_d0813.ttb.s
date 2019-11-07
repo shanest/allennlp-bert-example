@@ -1,0 +1,10 @@
+PRO	He
+EPS	took
+CON	advantage
+AND	of
+HAS	my
+CON	ignorance
+COO	and
+EPS	deceived
+PRO	me
+NIL	.

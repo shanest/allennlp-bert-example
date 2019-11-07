@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+EXS	possible
+SUB	that
+PRO	I
+EPS	forgot
+HAS	my
+CON	keys
+NIL	.

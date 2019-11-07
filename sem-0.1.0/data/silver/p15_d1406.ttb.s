@@ -1,0 +1,12 @@
+PRO	I
+NOW	think
+DEF	the
+CON	love
+AND	of
+CON	money
+NOW	is
+IST	common
+REL	to
+PRO	us
+AND	all
+NIL	.

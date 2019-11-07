@@ -1,0 +1,13 @@
+NOT	Seems
+EXS	like
+PRO	I
+NOW	'm
+IST	just
+EXG	playing
+REL	gooseberry
+PRX	here
+NIL	.
+PRO	I
+NEC	should
+EXS	go
+NIL	.

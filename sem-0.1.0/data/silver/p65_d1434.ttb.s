@@ -1,0 +1,10 @@
+PER	Tom
+EPS	said
+SUB	that
+PRO	he
+EPS	wanted
+NIL	to
+EXS	teach
+PRO	me
+CON	French
+NIL	.

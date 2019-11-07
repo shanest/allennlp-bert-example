@@ -1,0 +1,11 @@
+PRO	He
+ENS	likes
+NIL	to
+EXS	spend
+DIS	some
+CON	time
+REL	in
+CON	solitude
+AND	every
+CON	day
+NIL	.

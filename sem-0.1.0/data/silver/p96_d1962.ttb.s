@@ -1,0 +1,12 @@
+PER	Tom
+EPS	posted
+DIS	an
+IST	unboxing
+CON	video
+NIL	,
+COO	but
+PRO	it
+NOW	's
+INT	extremely
+EXS	boring
+NIL	.

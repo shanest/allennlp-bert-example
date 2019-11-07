@@ -1,0 +1,9 @@
+PRO	We
+NOW	are
+EXS	thinking
+AND	of
+EXS	buying
+DIS	some
+IST	new
+CON	furniture
+NIL	.

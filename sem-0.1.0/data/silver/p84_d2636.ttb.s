@@ -1,0 +1,14 @@
+AND	Halfway
+AND	through
+DEF	the
+IST	second
+CON	chapter
+PRO	I
+EPS	realized
+PRO	I
+PST	had
+NOT	n't
+EXS	taken
+AND	anything
+REL	in
+NIL	.

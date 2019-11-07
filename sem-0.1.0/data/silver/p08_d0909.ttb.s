@@ -1,0 +1,9 @@
+REL	In
+DEF	the
+CON	beginning
+CON	God
+EPS	created
+GEO	Heaven
+AND	and
+GEO	Earth
+NIL	.

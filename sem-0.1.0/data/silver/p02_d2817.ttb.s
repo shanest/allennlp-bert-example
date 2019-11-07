@@ -1,0 +1,14 @@
+REL	By
+DEF	the
+CON	year
+AND	2020
+NIL	,
+DEF	the
+CON	population
+AND	of
+PRX	this
+CON	city
+FUT	will
+EXT	have
+EXT	doubled
+NIL	.

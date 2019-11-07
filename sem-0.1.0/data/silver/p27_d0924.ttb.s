@@ -1,0 +1,9 @@
+QUE	How
+SUB	about
+EXS	having
+DIS	a
+IST	barbecue
+CON	party
+AND	next
+DOW	Sunday
+QUE	?

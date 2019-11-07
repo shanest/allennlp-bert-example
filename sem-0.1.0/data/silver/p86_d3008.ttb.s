@@ -1,0 +1,12 @@
+PRO	I
+NEC	should
+EXS	study
+NOW	now
+NIL	,
+BUT	but
+PRO	I
+NOW	prefer
+EXS	staying
+REL	on
+PRX	Tatoeba
+NIL	.

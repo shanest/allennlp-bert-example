@@ -1,0 +1,16 @@
+PRO	It
+EPS	took
+PER	Tom
+QUC	fifteen
+CON	minutes
+AND	of
+CON	googling
+SUB	before
+PRO	he
+EPS	found
+QUE	what
+PRO	he
+PST	was
+EXG	looking
+REL	for
+NIL	.

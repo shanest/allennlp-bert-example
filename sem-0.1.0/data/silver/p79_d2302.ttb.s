@@ -1,0 +1,13 @@
+PRO	He
+EPS	became
+EXS	convinced
+AND	of
+HAS	his
+IST	own
+CON	indispensability
+AND	and
+CON	centrality
+REL	to
+DEF	the
+CON	process
+NIL	.

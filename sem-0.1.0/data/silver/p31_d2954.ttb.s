@@ -1,0 +1,14 @@
+PER	Tom
+POS	could
+NOT	n't
+EXS	fall
+EXS	asleep
+SUB	so
+PRO	he
+EPS	got
+IST	up
+COO	and
+EPS	took
+DIS	a
+CON	walk
+NIL	.

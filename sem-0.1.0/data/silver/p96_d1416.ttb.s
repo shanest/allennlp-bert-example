@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	flabbergasted
+SUB	to
+EXS	know
+DEF	the
+CON	word
+NIL	"
+EXS	flabbergasted
+NIL	"
+NIL	.

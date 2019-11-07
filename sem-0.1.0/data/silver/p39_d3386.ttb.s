@@ -1,0 +1,10 @@
+PRO	You
+NEC	must
+EXS	be
+IST	back
+REL	on
+DOW	Sunday
+REL	at
+DEF	the
+TOP	latest
+NIL	.

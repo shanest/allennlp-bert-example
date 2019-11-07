@@ -1,0 +1,12 @@
+PRO	I
+NOW	am
+INT	very
+EXS	happy
+SUB	that
+PRO	you
+NOW	have
+EXS	been
+REL	with
+PRO	us
+NOW	today
+NIL	.

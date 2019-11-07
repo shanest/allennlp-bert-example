@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	flabbergasted
+SUB	to
+EXS	hear
+DST	that
+REL	from
+PRO	you
+NIL	.

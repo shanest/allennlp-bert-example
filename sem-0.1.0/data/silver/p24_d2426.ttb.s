@@ -1,0 +1,9 @@
+PER	Darren
+AND	and
+PER	Simon
+NOW	are
+EXS	going
+SUB	to
+EXS	play
+CON	tennis
+NIL	.

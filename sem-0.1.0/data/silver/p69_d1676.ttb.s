@@ -1,0 +1,15 @@
+PER	Oliver
+EPS	asked
+HAS	his
+CON	parents
+NIL	,
+PER	Tom
+AND	and
+PER	Mary
+NIL	,
+SUB	where
+EXS	do
+CON	children
+EXS	come
+REL	from
+NIL	.

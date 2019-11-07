@@ -1,0 +1,10 @@
+PRO	I
+NOW	think
+PRO	we
+AND	both
+ENS	know
+QUE	why
+PRO	I
+NOW	'm
+PRX	here
+NIL	.

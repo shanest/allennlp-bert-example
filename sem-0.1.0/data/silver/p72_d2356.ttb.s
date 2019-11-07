@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	hanging
+DIS	a
+CON	picture
+AND	of
+HAS	my
+CON	grandmother
+REL	on
+DEF	the
+CON	wall
+NIL	.

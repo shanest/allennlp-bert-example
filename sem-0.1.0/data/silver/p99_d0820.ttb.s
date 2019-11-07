@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	getting
+IST	off
+REL	at
+DEF	the
+IST	next
+CON	station
+NIL	.

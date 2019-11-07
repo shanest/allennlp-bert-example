@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+DEF	the
+IST	real
+CON	reason
+PRO	you
+NOW	're
+PRX	here
+NIL	.

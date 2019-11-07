@@ -1,0 +1,11 @@
+PRO	I
+EPS	spent
+DEF	the
+IST	whole
+CON	weekend
+REL	at
+CON	home
+REL	on
+DEF	the
+CON	computer
+NIL	.

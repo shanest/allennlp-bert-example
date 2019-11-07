@@ -1,0 +1,10 @@
+NOW	Are
+PRO	you
+IST	already
+EXS	thinking
+AND	of
+DIS	a
+CON	replacement
+REL	for
+PER	Tom
+QUE	?

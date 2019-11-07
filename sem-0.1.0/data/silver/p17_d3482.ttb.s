@@ -1,0 +1,9 @@
+NOW	Do
+NOT	n't
+PRO	you
+EXS	remember
+AND	who
+EPS	gave
+PRO	you
+SUB	that
+QUE	?

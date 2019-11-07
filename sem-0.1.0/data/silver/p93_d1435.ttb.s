@@ -1,0 +1,9 @@
+PRO	We
+EPS	gave
+DIS	a
+IST	farewell
+CON	party
+REL	in
+HAS	her
+CON	honor
+NIL	.

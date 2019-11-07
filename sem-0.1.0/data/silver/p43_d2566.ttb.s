@@ -1,0 +1,12 @@
+AND	Sometimes
+PRO	we
+ENS	lie
+SUB	to
+EXS	keep
+SUB	from
+EXS	hurting
+DIS	someone
+AND	else
+HAS	's
+CON	feelings
+NIL	.

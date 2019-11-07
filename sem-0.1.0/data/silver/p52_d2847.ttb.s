@@ -1,0 +1,13 @@
+PER	Liisa
+NOW	is
+NOT	n't
+IST	really
+EXS	sick
+COO	;
+PRO	she
+HAS	's
+XCL	only
+EXS	putting
+PRO	it
+REL	on
+NIL	.

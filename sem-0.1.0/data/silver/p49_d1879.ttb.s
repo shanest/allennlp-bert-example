@@ -1,0 +1,12 @@
+PRO	He
+EPS	wrote
+DIS	a
+CON	letter
+EXS	dealing
+REL	with
+DEF	the
+CON	matter
+REL	in
+AND	all
+CON	seriousness
+NIL	.

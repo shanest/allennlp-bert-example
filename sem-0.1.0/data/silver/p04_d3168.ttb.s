@@ -1,0 +1,10 @@
+DEF	The
+IST	middle-aged
+CON	women
+PST	kept
+EXG	talking
+CON	loudly
+AND	all
+DEF	the
+CON	way
+NIL	.

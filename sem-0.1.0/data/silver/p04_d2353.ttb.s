@@ -1,0 +1,11 @@
+CON	Usually
+NIL	,
+DEF	the
+IST	second
+CON	generation
+NOW	has
+NOT	never
+PFT	been
+REL	to
+GPE	India
+NIL	.

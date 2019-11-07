@@ -1,0 +1,13 @@
+PRO	It
+ENS	seems
+SUB	that
+HAS	my
+IST	little
+ROL	sister
+EPS	got
+HAS	her
+CON	wallet
+EXS	stolen
+REL	at
+CON	school
+NIL	.

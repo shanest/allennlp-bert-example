@@ -1,0 +1,17 @@
+PER	Tom
+FUT	would
+EXT	've
+EXS	made
+DEF	the
+IST	same
+CON	decision
+PRO	I
+NOW	'm
+EXS	making
+IMP	if
+PRO	he
+PST	were
+REL	in
+HAS	my
+CON	shoes
+NIL	.

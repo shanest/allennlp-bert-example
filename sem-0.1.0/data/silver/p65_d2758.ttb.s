@@ -1,0 +1,9 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PER	Tom
+EPS	accepted
+HAS	our
+CON	offer
+NIL	.

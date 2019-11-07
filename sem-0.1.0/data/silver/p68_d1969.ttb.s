@@ -1,0 +1,12 @@
+PRO	It
+NOW	takes
+QUC	165
+CON	years
+REL	for
+NTH	Neptune
+REL	to
+CON	orbit
+AND	around
+DEF	the
+CON	sun
+NIL	.

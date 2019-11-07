@@ -1,0 +1,9 @@
+PRO	He
+EPS	died
+SUB	as
+PRO	he
+PST	was
+EXS	returning
+REL	to
+GPE	England
+NIL	.

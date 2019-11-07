@@ -1,0 +1,10 @@
+EXS	Let
+HAS	's
+CON	check
+QUE	why
+HAS	your
+CON	answers
+ENS	differ
+REL	from
+HAS	mine
+NIL	.

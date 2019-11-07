@@ -1,0 +1,10 @@
+CON	Smoking
+NOW	is
+NOW	now
+EXS	banned
+REL	on
+AND	all
+IST	domestic
+CON	plane
+CON	flights
+NIL	.

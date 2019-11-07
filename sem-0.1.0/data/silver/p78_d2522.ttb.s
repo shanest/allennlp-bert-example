@@ -1,0 +1,12 @@
+GPE	Germany
+AND	of
+NOW	today
+NOW	is
+NOT	not
+QUE	what
+PRO	it
+PST	was
+QUC	ten
+CON	years
+PST	ago
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+PFT	been
+EXS	studying
+GPO	Chinese
+REL	for
+QUC	two
+CON	years
+NIL	.

@@ -1,0 +1,9 @@
+PRO	You
+ENS	know
+PRO	I
+POS	ca
+NOT	n't
+EXS	wait
+AND	any
+IST	longer
+NIL	.

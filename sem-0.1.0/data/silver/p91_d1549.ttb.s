@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+EXS	sorry
+PRO	I
+PST	did
+NOT	n't
+EXS	get
+DIS	a
+CON	chance
+SUB	to
+EXS	talk
+REL	with
+PRO	you
+PST	yesterday
+NIL	.

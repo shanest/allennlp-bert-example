@@ -1,0 +1,11 @@
+PRO	You
+NOW	have
+DIS	a
+CON	thing
+REL	for
+PER	Mary
+NIL	,
+NOW	do
+NOT	n't
+PRO	you
+QUE	?

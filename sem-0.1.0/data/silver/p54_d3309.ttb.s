@@ -1,0 +1,13 @@
+PRO	She
+EPS	made
+DIS	a
+IST	few
+IST	extra
+CON	bucks
+REL	writing
+DEF	the
+CON	fortunes
+REL	in
+CON	fortune
+CON	cookies
+NIL	.

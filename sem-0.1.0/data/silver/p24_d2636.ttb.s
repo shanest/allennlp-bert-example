@@ -1,0 +1,12 @@
+PRO	It
+HAS	's
+DIS	a
+CON	pity
+AND	that
+PER	Mary
+ENS	has
+NOT	no
+CON	sense
+AND	of
+CON	humor
+NIL	.

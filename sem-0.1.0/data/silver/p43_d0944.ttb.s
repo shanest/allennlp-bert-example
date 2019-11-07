@@ -1,0 +1,9 @@
+DEF	The
+CON	boss
+NOW	is
+EXS	thinking
+AND	of
+REL	firing
+DIS	an
+ROL	employee
+NIL	.

@@ -1,0 +1,13 @@
+DEF	The
+CON	thing
+SUB	that
+EXS	impressed
+PRO	me
+DEF	the
+TOP	most
+REL	in
+GPE	China
+PST	was
+DEF	the
+GPO	Chinese
+NIL	.

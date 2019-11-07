@@ -1,0 +1,10 @@
+PRO	We
+POS	ca
+NOT	n't
+EXS	live
+REL	on
+QUC	150,000
+UOM	yen
+DIS	a
+CON	month
+NIL	.

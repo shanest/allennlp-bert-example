@@ -1,0 +1,14 @@
+DEF	The
+CON	cat
+EPS	took
+CON	advantage
+AND	of
+DEF	the
+IST	high
+CON	grass
+SUB	to
+EXS	creep
+REL	on
+DEF	the
+CON	bird
+NIL	.

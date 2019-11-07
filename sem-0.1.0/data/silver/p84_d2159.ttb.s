@@ -1,0 +1,10 @@
+PRO	We
+ENS	need
+DIS	a
+CON	doctor
+NIL	.
+PRO	It
+HAS	's
+DIS	an
+CON	emergency
+NIL	.

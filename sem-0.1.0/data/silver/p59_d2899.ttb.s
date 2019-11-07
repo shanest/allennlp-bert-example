@@ -1,0 +1,9 @@
+PRO	We
+NOW	've
+EXS	got
+SUB	to
+EXS	find
+DIS	somewhere
+SUB	to
+EXS	hide
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NEC	must
+EXS	be
+IST	more
+EXS	careful
+REL	from
+NOW	now
+REL	on
+NIL	.

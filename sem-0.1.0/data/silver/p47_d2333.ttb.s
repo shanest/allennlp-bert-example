@@ -1,0 +1,17 @@
+EXS	Take
+HAS	your
+CON	time
+NIL	.
+PRO	I
+ENS	know
+PRO	you
+ENS	need
+DIS	a
+CON	couple
+AND	of
+CON	days
+SUB	to
+EXS	reflect
+REL	on
+PRO	it
+NIL	.

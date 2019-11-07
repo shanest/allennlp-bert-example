@@ -1,0 +1,14 @@
+PRO	He
+NOW	has
+EXS	created
+DIS	a
+CON	walk-in
+CON	closet
+NIL	,
+REL	with
+DEF	the
+CON	help
+AND	of
+EXG	sliding
+CON	walls
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+CON	man
+AND	who
+ENS	lives
+AND	next
+NIL	to
+PER	Tom
+NOW	is
+INT	quite
+EXS	peculiar
+NIL	.

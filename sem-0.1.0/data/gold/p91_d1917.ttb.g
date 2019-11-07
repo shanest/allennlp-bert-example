@@ -1,0 +1,9 @@
+PRO	I
+EPS	chopped
+REL	down
+DEF	the
+CON	branch
+REL	with
+DIS	an
+CON	ax
+NIL	.

@@ -1,0 +1,11 @@
+NOW	Today
+PST	was
+DEF	the
+IST	first
+CON	time
+PRO	I
+IST	ever
+EPS	saw
+PER	Tom
+CON	smile
+NIL	.

@@ -1,0 +1,10 @@
+AND	All
+PRO	I
+ENS	know
+NOW	is
+SUB	that
+PRO	she
+EPS	left
+IST	last
+CON	week
+NIL	.

@@ -1,0 +1,9 @@
+PRO	We
+NOW	've
+IST	only
+PFT	been
+EXS	married
+REL	for
+QUC	three
+CON	years
+NIL	.

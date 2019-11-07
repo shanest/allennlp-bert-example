@@ -1,0 +1,11 @@
+NOW	Are
+PRO	you
+EXS	going
+SUB	to
+EXS	cry
+REL	till
+DEF	the
+CON	cows
+EXS	come
+CON	home
+QUE	?

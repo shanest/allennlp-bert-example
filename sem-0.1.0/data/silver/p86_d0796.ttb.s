@@ -1,0 +1,12 @@
+PRX	This
+NOW	is
+NOT	n't
+HAS	my
+CON	umbrella
+COO	;
+PRO	it
+HAS	's
+DIS	somebody
+AND	else
+HAS	's
+NIL	.

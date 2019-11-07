@@ -1,0 +1,10 @@
+PRO	I
+NOW	am
+EXS	excited
+REL	at
+DEF	the
+CON	prospect
+AND	of
+EXG	seeing
+PRO	her
+NIL	.

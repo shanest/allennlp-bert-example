@@ -1,0 +1,11 @@
+DEF	The
+CON	girls
+EXS	teased
+PER	Tom
+COO	and
+PRO	they
+EPS	made
+CON	fun
+AND	of
+PRO	him
+NIL	.

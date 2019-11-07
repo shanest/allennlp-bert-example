@@ -1,0 +1,12 @@
+PST	Did
+PRO	you
+EXS	know
+PRO	you
+NOW	are
+COM	stronger
+MOR	than
+PRO	you
+ENS	think
+PRO	you
+NOW	are
+QUE	?

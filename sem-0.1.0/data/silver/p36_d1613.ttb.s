@@ -1,0 +1,12 @@
+PRX	This
+NOW	is
+DEF	the
+BOT	worst
+CON	thing
+AND	that
+NOW	has
+IST	ever
+EXS	happened
+REL	to
+PRO	me
+NIL	!

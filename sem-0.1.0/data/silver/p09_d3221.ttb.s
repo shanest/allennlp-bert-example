@@ -1,0 +1,9 @@
+PER	Tom
+EPS	took
+DIS	a
+CON	lot
+AND	of
+CON	pictures
+REL	in
+GPE	Boston
+NIL	.

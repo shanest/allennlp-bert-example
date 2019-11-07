@@ -1,0 +1,12 @@
+QUE	How
+IST	long
+NOW	has
+PRO	it
+PFT	been
+REL	since
+PRO	you
+NOW	've
+EXS	seen
+HAS	your
+CON	family
+QUE	?

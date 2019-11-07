@@ -1,0 +1,10 @@
+NIL	There
+HAS	's
+NOT	no
+CON	point
+REL	in
+CON	worrying
+AND	about
+PRO	it
+NOW	now
+NIL	.

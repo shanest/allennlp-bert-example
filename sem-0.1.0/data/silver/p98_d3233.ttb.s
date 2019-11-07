@@ -1,0 +1,10 @@
+PER	Tom
+HAS	's
+CON	wife
+NOW	does
+NOT	n't
+EXS	know
+PER	Mary
+HAS	's
+CON	husband
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+FUT	'll
+NOT	never
+EXS	achieve
+AND	anything
+SUB	unless
+PRO	he
+ENS	works
+IST	harder
+NIL	.

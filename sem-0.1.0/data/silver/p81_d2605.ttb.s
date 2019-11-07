@@ -1,0 +1,9 @@
+DEF	The
+CON	stain
+EPS	disappeared
+SUB	after
+PRO	we
+EPS	washed
+DEF	the
+CON	shirt
+NIL	.

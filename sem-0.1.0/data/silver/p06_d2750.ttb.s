@@ -1,0 +1,11 @@
+PRO	I
+ENS	want
+PRO	you
+SUB	to
+EXS	fuck
+PRO	me
+AND	even
+IMP	if
+PRO	it
+ENS	hurts
+NIL	.

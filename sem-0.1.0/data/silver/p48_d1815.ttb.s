@@ -1,0 +1,10 @@
+CON	Going
+CON	home
+AND	last
+CON	night
+NIL	,
+PRO	I
+EPS	saw
+HAS	her
+IST	again
+NIL	.

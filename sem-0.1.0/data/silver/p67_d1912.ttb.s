@@ -1,0 +1,11 @@
+PER	Tom
+NOW	has
+EXS	known
+PER	Mary
+SUB	since
+PRO	he
+PST	was
+DIS	a
+IST	little
+CON	boy
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	dying
+SUB	to
+EXS	check
+HAS	my
+CON	score
+REL	on
+DEF	the
+CON	test
+NIL	.

@@ -1,0 +1,11 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	help
+NOW	now
+NIL	.
+PRO	It
+HAS	's
+INT	too
+IST	late
+NIL	.

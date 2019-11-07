@@ -1,0 +1,12 @@
+DEF	The
+TOP	largest
+CON	recipient
+AND	of
+GPE	Japan
+HAS	's
+CON	ODA
+SUB	that
+CON	year
+PST	was
+GPE	China
+NIL	.

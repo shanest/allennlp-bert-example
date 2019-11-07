@@ -1,0 +1,10 @@
+DEF	The
+CON	tickets
+PST	were
+NOT	not
+EXS	available
+REL	for
+DOW	Friday
+HAS	's
+CON	performance
+NIL	.

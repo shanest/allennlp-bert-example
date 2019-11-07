@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	got
+NIL	to
+EXS	get
+IST	back
+CON	home
+REL	by
+CLO	midnight
+NIL	.

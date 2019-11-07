@@ -1,0 +1,9 @@
+PER	Tom
+EPS	gave
+HAS	his
+CON	son
+DIS	something
+SUB	to
+EXS	play
+REL	with
+NIL	.

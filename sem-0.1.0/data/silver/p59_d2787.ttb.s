@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	searching
+REL	for
+AND	any
+CON	kind
+AND	of
+CON	work
+NIL	.

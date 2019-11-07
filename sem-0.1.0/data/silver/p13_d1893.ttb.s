@@ -1,0 +1,10 @@
+PRO	I
+EPS	skipped
+DEF	the
+IST	first
+QUV	few
+CON	pages
+AND	of
+DEF	the
+CON	book
+NIL	.

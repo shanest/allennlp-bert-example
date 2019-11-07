@@ -1,0 +1,13 @@
+PRO	It
+NOW	's
+AND	like
+DIS	some
+CON	people
+AND	like
+CON	ketchup
+AND	and
+ALT	other
+CON	people
+AND	like
+CON	mustard
+NIL	.

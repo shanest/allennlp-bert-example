@@ -1,0 +1,9 @@
+PER	Tom
+NEC	should
+EXT	have
+EXS	helped
+PER	Mary
+EXS	move
+DEF	the
+CON	sofa
+NIL	.

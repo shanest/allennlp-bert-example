@@ -1,0 +1,11 @@
+PRO	She
+EPS	wrote
+DIS	a
+CON	book
+AND	about
+HAS	her
+CON	life
+AND	as
+DIS	a
+CON	dancer
+NIL	.

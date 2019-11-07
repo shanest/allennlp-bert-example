@@ -1,0 +1,11 @@
+REL	With
+QUE	what
+IST	radioactive
+CON	substance
+PST	was
+PER	Eda
+PER	Charlton
+EPS	injected
+REL	in
+YOC	1945
+QUE	?

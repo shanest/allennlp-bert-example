@@ -1,0 +1,14 @@
+NOW	Do
+NOT	n't
+EXS	think
+PRO	you
+FUT	'll
+IST	always
+EXS	be
+IST	able
+SUB	to
+EXS	placate
+PRO	me
+REL	with
+CON	food
+NIL	!

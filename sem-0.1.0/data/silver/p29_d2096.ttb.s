@@ -1,0 +1,13 @@
+PRO	It
+HAS	's
+QUC	half
+DIS	an
+UOM	hour
+REL	by
+CON	foot
+REL	from
+PRX	here
+REL	to
+DEF	the
+CON	station
+NIL	.

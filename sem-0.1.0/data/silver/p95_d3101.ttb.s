@@ -1,0 +1,11 @@
+PRO	He
+EPS	chose
+DEF	the
+IST	wrong
+CON	man
+SUB	to
+EXS	pick
+DIS	a
+CON	fight
+REL	with
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+PST	was
+EXS	surprised
+REL	at
+HAS	his
+IST	strong
+CON	resemblance
+REL	to
+HAS	his
+ROL	father
+NIL	.

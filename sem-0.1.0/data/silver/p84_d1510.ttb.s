@@ -1,0 +1,17 @@
+AND	Every
+CON	day
+PER	Mary
+EPS	took
+CON	baskets
+IST	full
+AND	of
+CON	bread
+REL	to
+DEF	the
+CON	poor
+COO	and
+EPS	cared
+REL	for
+DEF	the
+EXS	sick
+NIL	.

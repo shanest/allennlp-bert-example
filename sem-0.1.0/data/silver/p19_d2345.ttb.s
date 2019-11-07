@@ -1,0 +1,16 @@
+CON	People
+NOW	do
+NOT	n't
+EXS	like
+EXS	working
+REL	with
+PER	Tom
+SUB	because
+PRO	he
+NOW	's
+IST	hard
+SUB	to
+EXS	get
+REL	along
+REL	with
+NIL	.

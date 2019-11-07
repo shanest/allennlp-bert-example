@@ -1,0 +1,10 @@
+PRO	It
+FUT	wo
+NOT	n't
+EXS	be
+EXS	easy
+EXS	persuading
+PER	Mary
+SUB	to
+EXS	go
+NIL	.

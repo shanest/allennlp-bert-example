@@ -1,0 +1,10 @@
+PER	Maria
+PST	spent
+QUV	several
+CON	years
+EXG	investigating
+DEF	the
+CON	history
+AND	of
+GEO	Iceland
+NIL	.

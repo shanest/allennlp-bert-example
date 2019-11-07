@@ -1,0 +1,16 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	afford
+SUB	to
+EXS	go
+REL	to
+DEF	the
+CON	onsen
+PRX	this
+CON	weekend
+NIL	.
+PRO	I
+NOW	'm
+EXS	broke
+NIL	.

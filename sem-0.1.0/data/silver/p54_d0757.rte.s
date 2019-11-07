@@ -1,0 +1,36 @@
+PER	Salma
+PER	Hayek
+EPS	drew
+DIS	a
+CON	crowd
+REL	in
+GEO	Veracruz
+EQU	,
+GPE	Mexico
+NIL	,
+REL	at
+DEF	the
+MOY	July
+PRX	8
+CON	premiere
+AND	of
+HAS	'
+NOT	Nobody
+CON	Writes
+REL	to
+DEF	the
+ROL	Colonel
+HAS	'
+NIL	,
+DIS	a
+CON	movie
+EXS	based
+REL	on
+DIS	a
+IST	short
+CON	novel
+REL	by
+ORG	Nobel
+REL	laureate Gabriel
+GEO	Garcia Marquez
+NIL	.

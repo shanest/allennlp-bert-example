@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	trying
+SUB	to
+EXS	avoid
+CON	drinks
+REL	with
+CON	sugar
+NIL	.

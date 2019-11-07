@@ -1,0 +1,12 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	think
+SUB	that
+PER	Mary
+HAS	's
+CON	performance
+PST	was
+INT	very
+EXS	good
+NIL	.

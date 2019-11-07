@@ -1,0 +1,11 @@
+PRO	It
+FUT	will
+EXS	be
+REL	to
+HAS	your
+CON	advantage
+SUB	to
+EXS	study
+IST	hard
+NOW	now
+NIL	.

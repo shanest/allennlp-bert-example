@@ -1,0 +1,13 @@
+PER	Tom
+PST	did
+NOT	n't
+EXS	apply
+REL	for
+DEF	the
+CON	job
+SUB	that
+PER	Mary
+EPS	told
+PRO	him
+AND	about
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+FUT	will
+IST	badly
+EXS	miss
+PRO	you
+IMP	if
+PRO	you
+NOW	leave
+GPE	Japan
+NIL	.

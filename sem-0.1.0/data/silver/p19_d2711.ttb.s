@@ -1,0 +1,11 @@
+PRO	They
+EPS	stole
+HAS	my
+CON	lover
+AND	and
+AND	all
+DEF	the
+CON	colors
+AND	of
+CON	happiness
+NIL	.

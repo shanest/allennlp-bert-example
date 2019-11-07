@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+EXS	got
+DEF	the
+CON	feeling
+AND	of
+EXS	having
+IST	already
+EPS	met
+PRO	her
+DIS	somewhere
+NIL	.

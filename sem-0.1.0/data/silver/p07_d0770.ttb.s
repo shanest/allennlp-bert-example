@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+IST	over
+REL	between
+PRO	us
+NIL	.
+EXS	Give
+PRO	me
+IST	back
+HAS	my
+CON	ring
+NIL	!

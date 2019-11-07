@@ -1,0 +1,11 @@
+PST	Was
+NIL	there
+DIS	a
+CON	book
+REL	on
+DEF	the
+CON	desk
+DIS	a
+CON	moment
+PST	ago
+QUE	?

@@ -1,0 +1,10 @@
+PER	Tom
+ENS	says
+PRO	he
+NOW	does
+NOT	n't
+EXS	want
+SUB	to
+EXS	study
+GPO	French
+NIL	.

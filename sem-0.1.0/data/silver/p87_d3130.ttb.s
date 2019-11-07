@@ -1,0 +1,10 @@
+PRO	I
+NOW	’ve
+IST	always
+EPS	wanted
+SUB	to
+EXS	have
+DIS	a
+CON	pet
+CON	squirrel
+NIL	.

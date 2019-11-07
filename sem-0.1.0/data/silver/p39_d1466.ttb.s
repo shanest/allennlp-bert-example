@@ -1,0 +1,13 @@
+ITJ	Oh
+NIL	,
+PRO	I
+NOW	have
+DIS	a
+CON	plethora
+AND	of
+CON	choice
+CON	words
+REL	for
+DST	that
+CON	individual
+NIL	!

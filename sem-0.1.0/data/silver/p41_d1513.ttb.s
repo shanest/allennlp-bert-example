@@ -1,0 +1,10 @@
+PRO	She
+NOW	is
+IST	always
+EXS	curious
+AND	about
+QUE	what
+PRO	I
+NOW	am
+EXS	doing
+NIL	.

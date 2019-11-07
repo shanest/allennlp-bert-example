@@ -1,0 +1,11 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	when
+PRO	she
+PST	had
+EXS	sold
+HAS	her
+IST	first
+CON	painting
+NIL	.

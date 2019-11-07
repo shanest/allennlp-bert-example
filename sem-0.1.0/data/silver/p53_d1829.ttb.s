@@ -1,0 +1,15 @@
+PRO	I
+ENS	bet
+PRO	you
+NOW	're
+EXS	going
+SUB	to
+EXS	tell
+PRO	me
+PRO	you
+NOW	're
+IST	too
+EXS	tired
+SUB	to
+EXS	help
+NIL	.

@@ -1,0 +1,9 @@
+EXS	Did
+PRO	you
+ENS	know
+DEF	the
+CON	man
+REL	in
+DEF	the
+CON	newspaper
+QUE	?

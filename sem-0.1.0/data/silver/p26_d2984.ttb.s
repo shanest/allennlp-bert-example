@@ -1,0 +1,10 @@
+PRO	I
+EPS	made
+HAS	my
+CON	decision
+EXS	based
+REL	on
+QUE	what
+PRO	you
+EPS	said
+NIL	.

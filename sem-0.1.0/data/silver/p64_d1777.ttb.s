@@ -1,0 +1,11 @@
+PRO	He
+NOW	is
+IST	able
+SUB	to
+EXS	do
+PRO	it
+MOR	better
+MOR	than
+PRO	I
+NOW	am
+NIL	.

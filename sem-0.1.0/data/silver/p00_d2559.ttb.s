@@ -1,0 +1,17 @@
+PRO	It
+NOW	is
+COM	better
+NIL	to
+EXS	live
+QUC	one
+CON	day
+AND	as
+DIS	a
+CON	lion
+AND	than
+QUC	100
+UOM	years
+AND	as
+DIS	a
+CON	sheep
+NIL	.

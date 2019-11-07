@@ -1,0 +1,11 @@
+NOW	Are
+PRO	you
+EXS	going
+SUB	to
+EXS	come
+IST	back
+REL	to
+GPE	Italy
+AND	next
+CON	year
+QUE	?

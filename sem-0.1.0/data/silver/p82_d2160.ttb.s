@@ -1,0 +1,10 @@
+DIS	A
+CON	crisis
+POS	can
+EXS	bring
+IST	out
+DEF	the
+TOP	best
+REL	in
+DIS	someone
+NIL	.

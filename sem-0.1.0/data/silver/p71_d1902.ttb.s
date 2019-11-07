@@ -1,0 +1,12 @@
+QUE	What
+PST	was
+EXS	done
+REL	to
+PRO	you
+NOW	does
+NOT	n't
+CON	excuse
+QUE	what
+PRO	you
+PST	did
+NIL	.

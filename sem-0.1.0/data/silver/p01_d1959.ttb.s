@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+EXT	told
+PRO	you
+DIS	a
+QUC	million
+CON	times
+NOT	not
+NIL	to
+EXS	exaggerate
+NIL	.

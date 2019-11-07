@@ -1,0 +1,12 @@
+PER	Tom
+NOW	is
+COM	better
+REL	off
+AND	than
+PRO	he
+PST	was
+PRX	this
+CON	time
+AND	last
+CON	year
+NIL	.

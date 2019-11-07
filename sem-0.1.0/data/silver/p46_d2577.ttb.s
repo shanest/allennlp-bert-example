@@ -1,0 +1,12 @@
+PER	Tom
+NIL	,
+PRO	I
+NOW	'm
+EXS	bored
+NIL	.
+EXS	Let
+PRO	's
+NOW	do
+DIS	something
+CON	fun
+NIL	.

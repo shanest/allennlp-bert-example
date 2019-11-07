@@ -1,0 +1,12 @@
+DEF	The
+NOT	un
+IST	happy
+CON	event
+EPS	made
+PRO	him
+EPS	put
+DIS	an
+CON	end
+REL	to
+REF	himself
+NIL	.

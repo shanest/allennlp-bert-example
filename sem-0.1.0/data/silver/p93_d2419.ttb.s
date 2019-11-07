@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+IST	ever
+EPS	attended
+QUC	one
+AND	of
+PER	Tom
+HAS	's
+CON	conferences
+QUE	?

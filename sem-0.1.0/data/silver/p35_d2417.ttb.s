@@ -1,0 +1,9 @@
+AND	Would
+PRO	you
+IST	please
+NOW	look
+REL	after
+HAS	my
+CON	dog
+FUT	tomorrow
+QUE	?

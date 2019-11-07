@@ -1,0 +1,12 @@
+PRO	I
+PST	had
+EXS	had
+HAS	my
+CON	watch
+EXT	repaired
+NIL	,
+COO	but
+PRO	it
+EPS	broke
+IST	again
+NIL	.

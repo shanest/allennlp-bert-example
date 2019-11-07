@@ -1,0 +1,10 @@
+DIS	A
+CON	woman
+NOW	is
+EXG	giving
+DIS	a
+CON	book
+DIS	a
+IST	quick
+CON	once-over
+NIL	.

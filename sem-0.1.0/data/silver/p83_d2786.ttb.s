@@ -1,0 +1,11 @@
+QUE	How
+NOW	do
+PRO	you
+AND	like
+HAS	your
+CON	coffee
+QUE	?
+IST	Strong
+AND	and
+COL	black
+QUE	?

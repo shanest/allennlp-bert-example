@@ -1,0 +1,10 @@
+IST	Please
+EPS	put
+DIS	a
+CON	pitcher
+AND	of
+CON	water
+REL	in
+HAS	my
+CON	room
+NIL	.

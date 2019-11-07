@@ -1,0 +1,10 @@
+EXS	Come
+REL	on
+NIL	,
+PER	Tom
+NIL	.
+EXS	Say
+DIS	something
+REL	to
+PRO	her
+NIL	.

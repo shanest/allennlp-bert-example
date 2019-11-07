@@ -1,0 +1,9 @@
+PRO	I
+EPS	watched
+DEF	the
+CON	wife
+EXS	kill
+HAS	her
+IST	own
+CON	son
+NIL	.

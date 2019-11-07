@@ -1,0 +1,10 @@
+PRO	We
+EPS	took
+NOW	turns
+EXS	driving
+REL	on
+DEF	the
+CON	way
+REL	to
+GEO	Osaka
+NIL	.

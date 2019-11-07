@@ -1,0 +1,12 @@
+PRO	It
+NOW	's
+EXS	rude
+SUB	to
+EXS	make
+CON	fun
+AND	of
+HAS	your
+CON	boss
+REL	in
+CON	public
+NIL	.

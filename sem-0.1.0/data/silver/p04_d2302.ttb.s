@@ -1,0 +1,11 @@
+NOW	Are
+NOT	n't
+PRO	you
+EXS	going
+SUB	to
+EXS	introduce
+PRO	me
+REL	to
+HAS	your
+CON	friend
+QUE	?

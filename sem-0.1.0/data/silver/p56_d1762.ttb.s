@@ -1,0 +1,13 @@
+PRO	I
+ENS	wish
+PRO	you
+AND	all
+DIS	a
+IST	merry
+TIM	Christmas
+AND	and
+DIS	a
+IST	happy
+IST	new
+CON	year
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+ENS	see
+NOT	no
+CON	reason
+QUE	why
+PRO	I
+NEC	should
+NOT	n't
+EXS	accept
+HAS	her
+CON	offer
+NIL	.

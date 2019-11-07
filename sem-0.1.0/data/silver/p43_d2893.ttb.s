@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+IST	cruel
+SUB	to
+EXS	mock
+DIS	a
+IST	blind
+CON	man
+NIL	.

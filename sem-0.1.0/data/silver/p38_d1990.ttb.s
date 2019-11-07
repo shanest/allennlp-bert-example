@@ -1,0 +1,10 @@
+PER	Tom
+PST	was
+DEF	the
+QUC	one
+AND	who
+PST	introduced
+PER	Mary
+REL	to
+PRO	me
+NIL	.

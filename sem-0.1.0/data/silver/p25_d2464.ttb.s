@@ -1,0 +1,14 @@
+PRO	I
+EPS	stuck
+AND	around
+REL	for
+DIS	a
+CON	while
+SUB	to
+EXS	see
+IMP	if
+DIS	anyone
+AND	else
+FUT	would
+EXS	come
+NIL	.

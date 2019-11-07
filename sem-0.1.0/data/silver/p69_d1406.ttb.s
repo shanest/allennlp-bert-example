@@ -1,0 +1,12 @@
+PER	Tom
+PST	was
+EXS	supposed
+SUB	to
+EXS	be
+PRX	here
+REL	for
+CON	dinner
+DIS	an
+CON	hour
+PST	ago
+NIL	.

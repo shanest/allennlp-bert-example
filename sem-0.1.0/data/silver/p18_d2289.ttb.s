@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXG	taking
+REL	off
+HAS	my
+CON	jacket
+SUB	because
+PRO	it
+HAS	's
+IST	warm
+NIL	.

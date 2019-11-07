@@ -1,0 +1,12 @@
+NOT	No
+NIL	,
+PRO	I
+NOW	've
+PFT	been
+EXS	engaged
+REL	to
+PER	Mary
+REL	for
+QUC	two
+CON	years
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+PST	got
+EXS	caught
+REL	in
+DIS	a
+CON	traffic
+CON	jam
+REL	on
+DEF	the
+CON	expressway
+NIL	.

@@ -1,0 +1,17 @@
+NIL	"
+PST	Did
+PRO	you
+EXS	watch
+CON	TV
+AND	last
+CON	week
+QUE	?
+NIL	"
+NIL	"
+NOT	No
+NIL	,
+PRO	I
+PST	did
+NOT	n't
+NIL	.
+NIL	"

@@ -1,0 +1,10 @@
+AND	Could
+DIS	someone
+IST	please
+EXS	read
+PRX	this
+CON	sentence
+CON	aloud
+REL	for
+PRO	me
+QUE	?

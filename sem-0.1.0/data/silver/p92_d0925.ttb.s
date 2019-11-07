@@ -1,0 +1,11 @@
+DEF	The
+CON	man
+PRO	we
+EPS	saw
+REL	in
+DEF	the
+CON	park
+PST	was
+ROL	Mr.
+PER	Hill
+NIL	.

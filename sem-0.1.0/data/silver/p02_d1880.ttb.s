@@ -1,0 +1,13 @@
+CON	People
+REL	in
+DEF	the
+CON	world
+NOW	are
+AND	always
+EXG	advocating
+REL	for
+MOR	more
+CON	freedom
+AND	and
+CON	equality
+NIL	.

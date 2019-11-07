@@ -1,0 +1,13 @@
+SUB	When
+PRO	you
+CON	skateboard
+NIL	,
+PRO	it
+ENS	puts
+IST	quite
+DIS	a
+CON	strain
+REL	on
+HAS	your
+CON	knees
+NIL	.

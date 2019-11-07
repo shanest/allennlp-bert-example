@@ -1,0 +1,9 @@
+SUB	When
+NOW	does
+DEF	the
+IST	rainy
+CON	season
+REL	in
+GPE	Japan
+EXS	begin
+QUE	?

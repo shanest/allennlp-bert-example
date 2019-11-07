@@ -1,0 +1,14 @@
+PRO	It
+ENS	stands
+SUB	to
+CON	reason
+SUB	that
+NOT	nobody
+ENS	likes
+PRO	him
+NIL	.
+PRO	He
+NOW	's
+INT	too
+EXS	mean
+NIL	.

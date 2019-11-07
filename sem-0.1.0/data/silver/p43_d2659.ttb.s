@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+XCL	only
+EXG	pretending
+PRO	he
+HAS	's
+NOT	not
+EXS	interested
+NIL	.

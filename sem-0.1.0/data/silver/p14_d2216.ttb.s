@@ -1,0 +1,11 @@
+SUB	To
+HAS	my
+CON	relief
+NIL	,
+PRO	he
+EPS	came
+CON	home
+EXS	safe
+AND	and
+CON	sound
+NIL	.

@@ -1,0 +1,13 @@
+NIL	"
+NOW	Have
+NOT	n't
+PRO	we
+EPS	met
+DIS	somewhere
+REL	before
+QUE	?
+NIL	"
+EPS	asked
+DEF	the
+CON	student
+NIL	.

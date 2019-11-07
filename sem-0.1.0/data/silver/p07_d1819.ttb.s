@@ -1,0 +1,9 @@
+AND	Why
+NOW	do
+NOT	n't
+PRO	you
+EXS	keep
+HAS	your
+CON	eyes
+EXS	open
+QUE	?

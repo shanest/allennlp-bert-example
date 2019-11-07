@@ -1,0 +1,16 @@
+PRO	You
+NOW	're
+EXS	drunk
+NIL	,
+PER	Tom
+NIL	.
+EXS	Get
+REL	in
+DEF	the
+CON	taxi
+NIL	.
+PRO	We
+NOW	're
+EXS	going
+CON	home
+NIL	.

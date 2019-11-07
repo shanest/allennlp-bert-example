@@ -1,0 +1,13 @@
+DST	That
+HAS	's
+PRO	it
+NIL	.
+PRO	I
+NOW	'm
+NOT	not
+EXG	lending
+PRO	you
+AND	any
+IST	more
+CON	money
+NIL	.

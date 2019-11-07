@@ -1,0 +1,14 @@
+SUB	When
+PRO	I
+EPS	found
+HAS	my
+IST	true
+CON	identity
+NIL	,
+HAS	my
+CON	life
+EPS	began
+SUB	to
+EXS	make
+CON	sense
+NIL	.

@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+PFT	been
+EXG	talking
+REL	to
+PER	Mary
+AND	about
+PRO	me
+NIL	.

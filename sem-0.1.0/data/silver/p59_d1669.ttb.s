@@ -1,0 +1,13 @@
+ORG	Climate
+CON	change
+POS	could
+EXS	cause
+DEF	the
+CON	loss
+AND	of
+QUC	85
+UOM	%
+AND	of
+IST	coral
+CON	reefs
+NIL	.

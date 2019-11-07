@@ -1,0 +1,20 @@
+PRO	They
+PST	were
+NOT	not
+CON	brother
+AND	and
+ROL	sister
+NIL	,
+BUT	but
+PRO	they
+EPS	loved
+REF	each other
+AND	almost
+AND	as
+QUC	much
+AND	as
+IMP	if
+PRO	they
+PST	had
+EXS	been
+NIL	.

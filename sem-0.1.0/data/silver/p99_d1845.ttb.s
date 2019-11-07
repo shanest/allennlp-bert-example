@@ -1,0 +1,10 @@
+EXS	Come
+REL	on
+NIL	,
+PER	Tom
+NIL	.
+PRO	It
+FUT	'll
+EXS	be
+CON	fun
+NIL	.

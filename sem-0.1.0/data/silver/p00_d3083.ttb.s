@@ -1,0 +1,11 @@
+PRO	They
+EPS	seemed
+NIL	to
+EXG	be
+EXG	discussing
+DIS	a
+CON	matter
+REL	of
+IST	great
+CON	importance
+NIL	.

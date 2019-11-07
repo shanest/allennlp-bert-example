@@ -1,0 +1,11 @@
+SUB	As
+PRO	he
+EPS	talked
+NIL	,
+PRO	he
+PST	got
+MOR	more
+COO	and
+IST	more
+EXS	excited
+NIL	.

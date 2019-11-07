@@ -1,0 +1,15 @@
+PER	Tom
+EPS	turned
+REL	towards
+PER	Mary
+COO	and
+EPS	gave
+PRO	her
+QUC	two
+CON	kisses
+NIL	,
+QUC	one
+REL	on
+AND	each
+CON	cheek
+NIL	.

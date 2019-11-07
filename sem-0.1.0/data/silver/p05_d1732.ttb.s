@@ -1,0 +1,11 @@
+PER	Mary
+ENS	thinks
+SUB	that
+EXS	learning
+IST	foreign
+CON	languages
+NOW	is
+EXS	tedious
+COO	and
+EXS	boring
+NIL	.

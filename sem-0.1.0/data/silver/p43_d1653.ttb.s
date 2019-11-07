@@ -1,0 +1,10 @@
+PER	Tom
+HAS	's
+REL	in
+CON	love
+REL	with
+PER	Mary
+HAS	's
+TOP	best
+CON	friend
+NIL	.

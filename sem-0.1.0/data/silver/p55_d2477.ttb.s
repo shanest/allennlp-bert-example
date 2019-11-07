@@ -1,0 +1,10 @@
+PRX	These
+CON	days
+NIL	,
+TOP	most
+CON	clothing
+NOW	is
+EXS	imported
+REL	from
+GPE	China
+NIL	.

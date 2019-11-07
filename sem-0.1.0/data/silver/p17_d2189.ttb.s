@@ -1,0 +1,11 @@
+DEF	The
+COL	white
+CON	ball
+ENS	weighs
+AND	as
+QUV	much
+AND	as
+DEF	the
+IST	red
+QUC	one
+NIL	.

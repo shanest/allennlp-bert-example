@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	trying
+NIL	to
+EXS	find
+DEF	the
+CON	person
+AND	who
+ENS	owns
+PRX	this
+CON	guitar
+NIL	.

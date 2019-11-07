@@ -1,0 +1,12 @@
+PER	Tom
+EPS	felt
+SUB	that
+PRO	he
+EPS	needed
+SUB	to
+EXS	explain
+QUE	why
+PRO	he
+PST	was
+IST	late
+NIL	.

@@ -1,0 +1,10 @@
+PRO	He
+PST	was
+EXS	foolish
+IST	enough
+SUB	to
+EXS	believe
+QUE	what
+PRO	she
+EPS	said
+NIL	.

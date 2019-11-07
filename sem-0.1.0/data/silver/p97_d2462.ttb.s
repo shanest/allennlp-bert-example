@@ -1,0 +1,11 @@
+DEF	The
+CON	flood
+PST	was
+DEF	the
+TOP	greatest
+CON	disaster
+PRO	they
+PST	had
+IST	ever
+EXS	had
+NIL	.

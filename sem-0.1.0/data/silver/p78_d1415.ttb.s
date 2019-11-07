@@ -1,0 +1,14 @@
+AND	As
+IST	far
+SUB	as
+PRO	we
+ENS	know
+NIL	,
+PRO	we
+CON	humans
+NOW	are
+EXS	alone
+REL	in
+DEF	the
+CON	universe
+NIL	.

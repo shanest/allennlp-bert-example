@@ -1,0 +1,14 @@
+PRO	It
+EPS	was
+NOT	not
+SUB	that
+PRO	he
+EPS	felt
+AND	any
+CON	emotion
+EXS	akin
+SUB	to
+EXS	love
+REL	for
+PRO	her
+NIL	.

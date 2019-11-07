@@ -1,0 +1,14 @@
+PRO	It
+NOW	is
+EXS	unfortunate
+SUB	that
+HAS	our
+CON	mayor
+NOW	has
+EXS	brought
+CON	fame
+AND	and
+CON	shame
+REL	to
+GEO	Toronto
+NIL	.

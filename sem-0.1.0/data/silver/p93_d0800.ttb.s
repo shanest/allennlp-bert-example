@@ -1,0 +1,14 @@
+PRO	It
+NOW	is
+NOT	no
+EXS	use
+EXS	looking
+REL	for
+DEF	the
+CON	cake
+COO	;
+PRO	I
+IST	already
+EPS	ate
+PRO	it
+NIL	.

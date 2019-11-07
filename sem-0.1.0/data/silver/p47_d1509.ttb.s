@@ -1,0 +1,12 @@
+PRO	He
+EPS	tickled
+HAS	his
+IST	little
+ROL	sister
+SUB	until
+PRO	she
+EPS	peed
+HAS	her
+CON	pants
+IST	up
+NIL	.

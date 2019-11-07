@@ -1,0 +1,10 @@
+DST	That
+CON	boy
+ENS	speaks
+AND	as
+IMP	if
+PRO	he
+PST	were
+DIS	an
+IST	adult
+NIL	.

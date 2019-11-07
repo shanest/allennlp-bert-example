@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+EXS	tired
+NIL	,
+COO	so
+PRO	I
+NOW	'm
+FUT	gonna
+EXS	go
+SUB	to
+EXS	sleep
+NIL	.

@@ -1,0 +1,10 @@
+PRO	I
+NOW	make
+DIS	a
+CON	point
+AND	of
+EXG	getting
+REL	up
+REL	before
+CLO	six
+NIL	.

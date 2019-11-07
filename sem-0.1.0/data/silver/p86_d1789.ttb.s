@@ -1,0 +1,11 @@
+PRO	You
+ENS	need
+NOT	not
+EXT	have
+EXS	helped
+HAS	my
+CON	son
+REL	with
+HAS	his
+CON	homework
+NIL	.

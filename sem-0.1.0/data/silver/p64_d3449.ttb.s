@@ -1,0 +1,15 @@
+PER	Long
+EQU	,
+IST	long
+PST	ago
+NIL	,
+UNK	there
+EPS	lived
+DIS	an
+IST	old
+CON	king
+REL	on
+DIS	a
+IST	small
+CON	island
+NIL	.

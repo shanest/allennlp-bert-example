@@ -1,0 +1,12 @@
+AND	Would
+PRO	you
+CON	mind
+IMP	if
+PRO	I
+EPS	drank
+DEF	the
+CON	rest
+AND	of
+DEF	the
+CON	milk
+QUE	?

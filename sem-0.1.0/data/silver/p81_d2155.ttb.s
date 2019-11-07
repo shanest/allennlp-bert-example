@@ -1,0 +1,10 @@
+PER	Tom
+EPS	took
+REL	off
+HAS	his
+CON	coat
+COO	and
+EPS	hung
+PRO	it
+IST	up
+NIL	.

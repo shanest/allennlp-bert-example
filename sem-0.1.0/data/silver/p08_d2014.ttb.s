@@ -1,0 +1,9 @@
+PRO	We
+ROL	teachers
+NOW	are
+IST	human
+IST	just
+AND	like
+PRO	you
+CON	students
+NIL	.

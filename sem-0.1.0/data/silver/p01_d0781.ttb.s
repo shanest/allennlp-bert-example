@@ -1,0 +1,12 @@
+PRO	We
+NOW	are
+INT	very
+QUV	much
+EXS	concerned
+REL	about
+DEF	the
+CON	future
+AND	of
+PRX	this
+CON	country
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+HAS	's
+IST	new
+REL	in
+CON	town
+COO	and
+ENS	needs
+DIS	a
+CON	job
+NIL	.

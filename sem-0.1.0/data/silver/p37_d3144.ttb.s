@@ -1,0 +1,10 @@
+MOR	Better
+EXS	be
+EXS	careful
+NIL	,
+PRO	you
+NOW	're
+EXS	playing
+REL	with
+CON	fire
+NIL	.

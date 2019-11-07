@@ -1,0 +1,13 @@
+PRO	He
+EPS	went
+REL	to
+DEF	the
+CON	store
+AND	just
+SUB	as
+PRO	it
+PST	was
+EXS	going
+NIL	to
+EXS	close
+NIL	.

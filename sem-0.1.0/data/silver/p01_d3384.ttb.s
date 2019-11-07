@@ -1,0 +1,10 @@
+QUE	Who
+NOW	are
+PRO	you
+NIL	to
+EXS	tell
+PRO	me
+QUE	what
+PRO	I
+ENS	need
+QUE	?

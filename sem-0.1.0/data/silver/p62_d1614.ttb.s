@@ -1,0 +1,13 @@
+SUB	When
+PRO	we
+EPS	saw
+QUE	what
+PST	was
+EXS	happening
+IST	there
+NIL	,
+PRO	we
+EPS	decided
+SUB	to
+EXS	leave
+NIL	.

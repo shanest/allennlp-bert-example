@@ -1,0 +1,14 @@
+SUB	As
+PRO	we
+EPS	ate
+CON	dessert
+NIL	,
+DEF	the
+CON	desire
+EPS	grew
+SUB	to
+EXS	travel
+REL	in
+PRX	this
+CON	country
+NIL	.

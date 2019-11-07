@@ -1,0 +1,16 @@
+PER	Tom
+EPS	wanted
+SUB	to
+EXS	ask
+PRO	her
+SUB	to
+EXS	dance
+COO	but
+PST	was
+IST	afraid
+SUB	that
+PRO	she
+FUT	would
+EXS	say
+NOT	no
+NIL	.

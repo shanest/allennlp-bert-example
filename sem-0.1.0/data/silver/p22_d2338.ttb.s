@@ -1,0 +1,11 @@
+PER	Tom
+AND	and
+PER	Mary
+NOW	do
+NOT	n't
+EQU	exactly
+EXS	see
+CON	eye
+REL	to
+CON	eye
+NIL	.

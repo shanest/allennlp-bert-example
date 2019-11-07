@@ -1,0 +1,12 @@
+PST	Were
+PRO	you
+IST	able
+SUB	to
+EXS	do
+AND	everything
+PRO	you
+EPS	wanted
+SUB	to
+EXS	get
+EXS	done
+QUE	?

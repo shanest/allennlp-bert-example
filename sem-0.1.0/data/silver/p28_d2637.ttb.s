@@ -1,0 +1,11 @@
+PRO	I
+EPS	tried
+DIS	a
+CON	piece
+AND	of
+CON	cake
+COO	and
+PRO	it
+PST	was
+IST	delicious
+NIL	.

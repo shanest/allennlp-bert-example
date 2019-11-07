@@ -1,0 +1,11 @@
+PRO	They
+NOW	look
+EXS	alike
+NOT	except
+REL	for
+DEF	the
+CON	color
+AND	of
+HAS	their
+CON	hair
+NIL	.

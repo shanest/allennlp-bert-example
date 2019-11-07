@@ -1,0 +1,15 @@
+PRO	They
+NOW	have
+EXS	imitated
+HAS	his
+CON	style
+REL	in
+AND	all
+CON	areas
+NOT	except
+DST	those
+AND	that
+NOW	require
+IST	special
+CON	skill
+NIL	.

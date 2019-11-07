@@ -1,0 +1,9 @@
+DEF	The
+CON	song
+AND	always
+ENS	reminds
+PRO	me
+REL	of
+HAS	my
+CON	childhood
+NIL	.

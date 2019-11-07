@@ -1,0 +1,9 @@
+DEF	The
+CON	light
+NOW	is
+REL	on
+REL	in
+PER	Tom
+HAS	's
+CON	room
+NIL	.

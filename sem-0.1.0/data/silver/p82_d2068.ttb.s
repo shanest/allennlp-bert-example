@@ -1,0 +1,9 @@
+PRO	I
+ENS	dislike
+EXS	living
+REL	in
+AND	such
+DIS	a
+IST	noisy
+CON	place
+NIL	.

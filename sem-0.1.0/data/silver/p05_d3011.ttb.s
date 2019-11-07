@@ -1,0 +1,9 @@
+PRO	I
+NOW	have
+NOT	n't
+EXS	seen
+QUV	much
+AND	of
+PER	Tom
+IST	recently
+NIL	.

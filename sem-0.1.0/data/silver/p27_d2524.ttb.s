@@ -1,0 +1,11 @@
+DIS	A
+COL	green
+CON	carpet
+FUT	will
+NOT	not
+EXS	go
+REL	with
+PRX	this
+COL	blue
+CON	curtain
+NIL	.

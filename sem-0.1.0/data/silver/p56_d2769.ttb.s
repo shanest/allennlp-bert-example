@@ -1,0 +1,11 @@
+PRO	I
+NOW	imagine
+SUB	that
+PER	Tom
+AND	and
+PER	Mary
+FUT	will
+IST	eventually
+EXS	get
+EXS	married
+NIL	.

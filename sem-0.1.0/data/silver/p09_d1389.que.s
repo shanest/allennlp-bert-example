@@ -1,0 +1,15 @@
+AND	How
+QUV	much
+AND	of
+DEF	the
+CON	world
+CON	trade
+REL	in
+CON	cocaine
+NOW	is
+EXS	controlled
+REL	by
+DEF	the
+GEO	Cali
+CON	cartel
+QUE	?

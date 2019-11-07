@@ -1,0 +1,13 @@
+IMP	If
+PRO	it
+ENS	rains
+FUT	tomorrow
+NIL	,
+PRO	I
+NOW	'm
+NOT	not
+EXG	going
+REL	to
+DEF	the
+CON	meeting
+NIL	.

@@ -1,0 +1,9 @@
+QUV	Few
+CON	people
+NOW	are
+IST	able
+SUB	to
+EXS	understand
+HAS	his
+CON	theories
+NIL	.

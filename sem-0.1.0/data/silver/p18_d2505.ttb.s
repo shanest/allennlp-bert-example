@@ -1,0 +1,14 @@
+NOT	No
+CON	one
+POS	can
+EXS	see
+DEF	the
+CON	kingdom
+AND	of
+CON	God
+SUB	unless
+PRO	he
+NOW	is
+EXS	born
+ALT	again
+NIL	.

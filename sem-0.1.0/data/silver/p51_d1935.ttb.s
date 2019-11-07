@@ -1,0 +1,17 @@
+POS	Can
+DIS	someone
+AND	who
+NOW	does
+NOT	not
+EXS	know
+DEF	the
+CON	meaning
+AND	of
+IST	black
+IST	really
+CON	talk
+AND	about
+QUE	what
+IST	white
+NOW	is
+QUE	?

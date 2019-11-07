@@ -1,0 +1,13 @@
+DIS	Some
+AND	of
+PRX	these
+IST	young
+CON	people
+NOW	have
+CON	legs
+QUC	twice
+AND	as
+IST	long
+AND	as
+HAS	mine
+NIL	.

@@ -1,0 +1,10 @@
+QUE	What
+NOW	do
+PRO	you
+EXS	imagine
+SUB	when
+PRO	you
+ENS	see
+SUB	that
+CON	picture
+QUE	?

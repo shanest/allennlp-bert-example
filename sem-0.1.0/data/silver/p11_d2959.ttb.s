@@ -1,0 +1,10 @@
+PRO	She
+EPS	told
+PRO	me
+HAS	his
+CON	name
+SUB	after
+PRO	he
+PST	had
+EXS	left
+NIL	.

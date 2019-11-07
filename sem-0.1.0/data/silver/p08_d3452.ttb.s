@@ -1,0 +1,10 @@
+PRO	We
+NOW	're
+FUT	gonna
+EXS	teach
+PRO	them
+AND	all
+DIS	a
+IST	good
+CON	lesson
+NIL	.

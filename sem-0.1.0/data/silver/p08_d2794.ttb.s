@@ -1,0 +1,10 @@
+PRO	I
+ENS	wish
+PRO	I
+PST	had
+NOT	n't
+EXS	spent
+INT	so
+QUV	much
+CON	money
+NIL	.

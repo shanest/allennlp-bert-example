@@ -1,0 +1,16 @@
+QUE	Who
+PST	was
+PRO	I
+EXS	trying
+NIL	to
+EXS	fool
+SUB	when
+PRO	I
+EPS	cut
+SUB	that
+CON	slice
+REL	of
+CON	pizza
+REL	in
+CON	half
+QUE	?

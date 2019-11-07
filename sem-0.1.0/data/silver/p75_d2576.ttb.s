@@ -1,0 +1,11 @@
+PER	Young
+AND	as
+PRO	he
+NOW	is
+NIL	,
+PRO	he
+NOW	is
+DIS	a
+IST	good
+ROL	lawyer
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+EPS	thought
+PRO	you
+EPS	said
+PRO	you
+PST	were
+NOT	n't
+EXS	interested
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+ENS	know
+AND	that
+GPO	German
+REL	with
+DIS	a
+IST	long
+CON	beard
+NIL	.

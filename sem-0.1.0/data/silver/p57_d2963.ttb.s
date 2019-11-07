@@ -1,0 +1,13 @@
+PER	Tom
+EPS	took
+DIS	a
+CON	blanket
+REL	off
+DEF	the
+CON	bed
+COO	and
+EPS	wrapped
+PRO	it
+AND	around
+REF	himself
+NIL	.

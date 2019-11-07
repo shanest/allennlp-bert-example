@@ -1,0 +1,9 @@
+PER	Jane
+PST	did
+NOT	n't
+EXS	know
+SUB	that
+PER	Mary
+PST	was
+EXS	married
+NIL	.

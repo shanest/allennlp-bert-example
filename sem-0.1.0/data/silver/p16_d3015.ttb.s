@@ -1,0 +1,14 @@
+PER	Tom
+NOW	has
+DIS	a
+IST	good
+CON	grasp
+AND	of
+CON	grammar
+NIL	,
+BUT	but
+NOW	is
+IST	weak
+REL	in
+CON	spelling
+NIL	.

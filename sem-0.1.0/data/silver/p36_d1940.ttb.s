@@ -1,0 +1,12 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXS	trapped
+REL	in
+DEF	the
+CON	elevator
+REL	for
+QUC	three
+UOM	hours
+NIL	.

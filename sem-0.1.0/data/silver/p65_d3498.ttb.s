@@ -1,0 +1,11 @@
+NOW	Have
+PRO	I
+EPS	asked
+PRO	you
+SUB	whether
+PRO	you
+POS	can
+EXS	speak
+GEO	Zhenjiang
+CON	dialect
+QUE	?

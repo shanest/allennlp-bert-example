@@ -1,0 +1,9 @@
+UNK	There
+NOW	is
+QUV	much
+CON	water
+REL	in
+DEF	the
+CON	pond
+NOW	today
+NIL	.

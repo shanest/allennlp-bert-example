@@ -1,0 +1,11 @@
+PRO	He
+PST	had
+EXS	proposed
+REL	to
+PRO	me
+REL	in
+CON	front
+AND	of
+DEF	the
+CON	church
+NIL	.

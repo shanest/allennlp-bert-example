@@ -1,0 +1,10 @@
+HAS	His
+CON	story
+NOW	is
+INT	too
+IST	preposterous
+SUB	to
+EXS	be
+DIS	a
+CON	lie
+NIL	.

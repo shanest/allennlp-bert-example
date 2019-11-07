@@ -1,0 +1,9 @@
+PRO	I
+NOW	wonder
+IMP	if
+PER	Tom
+FUT	will
+EXS	be
+PRX	here
+NOW	today
+NIL	.

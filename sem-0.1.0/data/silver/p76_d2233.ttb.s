@@ -1,0 +1,13 @@
+SUB	When
+PRO	I
+EPS	lived
+REL	in
+GEO	Rome
+NIL	,
+PRO	I
+EPS	took
+DEF	the
+CON	subway
+AND	every
+CON	day
+NIL	.

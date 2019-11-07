@@ -1,0 +1,11 @@
+PRO	I
+NOW	am
+EXS	sorry
+SUB	to
+AND	all
+AND	of
+PRO	you
+REL	for
+EXS	being
+IST	late
+NIL	.

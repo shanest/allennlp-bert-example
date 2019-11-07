@@ -1,0 +1,14 @@
+HAS	My
+CON	grandmother
+HAS	's
+IST	old
+CON	watch
+NOW	has
+PFT	been
+EXS	lying
+REL	in
+DEF	the
+CON	drawer
+REL	for
+CON	years
+NIL	.

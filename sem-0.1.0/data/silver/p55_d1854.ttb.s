@@ -1,0 +1,12 @@
+PRO	I
+ENS	owe
+PRO	it
+REL	to
+HAS	my
+CON	doctor
+SUB	that
+PRO	I
+NOW	am
+IST	still
+EXS	alive
+NIL	.

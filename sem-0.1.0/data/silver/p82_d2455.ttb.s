@@ -1,0 +1,11 @@
+PRO	I
+PST	did
+NOT	n't
+EXS	bargain
+REL	for
+PER	Mary
+HAS	's
+IST	coming
+AND	so
+IST	soon
+NIL	.

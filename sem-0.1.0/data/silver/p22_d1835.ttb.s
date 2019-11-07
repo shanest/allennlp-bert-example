@@ -1,0 +1,15 @@
+PRO	I
+NOW	do
+PRX	this
+CON	work
+REL	for
+IST	free
+EQU	,
+IST	simply
+REL	for
+DEF	the
+CON	pleasure
+AND	of
+EXG	doing
+PRO	it
+NIL	.

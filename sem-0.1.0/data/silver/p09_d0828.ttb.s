@@ -1,0 +1,13 @@
+AND	According
+REL	to
+DEF	the
+CON	Bible
+NIL	,
+CON	God
+EPS	made
+DEF	the
+CON	world
+REL	in
+QUC	six
+CON	days
+NIL	.

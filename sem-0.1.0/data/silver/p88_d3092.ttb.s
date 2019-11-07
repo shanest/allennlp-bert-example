@@ -1,0 +1,14 @@
+SUB	As
+PER	Tom
+EPS	told
+PRO	me
+NIL	,
+CON	Esperanto
+NOW	has
+QUC	two
+CON	enemies
+EQU	,
+CON	ignorance
+AND	and
+CON	prejudice
+NIL	.

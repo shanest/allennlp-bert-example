@@ -1,0 +1,10 @@
+PRO	You
+NOW	are
+DEF	the
+CON	man
+PRO	I
+NOW	've
+PFT	been
+EXG	looking
+REL	for
+NIL	.

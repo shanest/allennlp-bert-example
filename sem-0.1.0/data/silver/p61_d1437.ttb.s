@@ -1,0 +1,14 @@
+PER	Tom
+NOW	is
+NOT	not
+SUB	as
+EXS	good
+DIS	a
+CON	chess
+CON	player
+AND	as
+PRO	he
+ENS	thinks
+PRO	he
+NOW	is
+NIL	.

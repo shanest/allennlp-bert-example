@@ -1,0 +1,10 @@
+PRO	He
+PST	dedicated
+HAS	his
+IST	whole
+CON	life
+SUB	to
+EXG	helping
+IST	poor
+CON	people
+NIL	.

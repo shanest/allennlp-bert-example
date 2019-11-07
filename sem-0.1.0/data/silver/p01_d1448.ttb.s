@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+IST	afraid
+PRO	I
+EPS	took
+HAS	your
+CON	umbrella
+REL	by
+CON	mistake
+NIL	.

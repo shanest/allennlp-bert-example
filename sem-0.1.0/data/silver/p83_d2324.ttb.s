@@ -1,0 +1,10 @@
+PRO	I
+NOW	believe
+IST	steadily
+SUB	that
+DIS	a
+IST	new
+CON	beginning
+NOW	is
+EXS	possible
+NIL	.

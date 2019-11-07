@@ -1,0 +1,12 @@
+PRO	He
+NOW	has
+NOT	n't
+PFT	been
+IST	able
+SUB	to
+EXS	come
+SUB	because
+PRO	he
+NOW	is
+EXS	sick
+NIL	.

@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+EXS	curious
+SUB	to
+EXS	know
+QUE	why
+PRO	they
+EPS	removed
+HAS	my
+CON	name
+REL	from
+DEF	the
+CON	list
+NIL	.

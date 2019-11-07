@@ -1,0 +1,11 @@
+PRO	You
+NEC	should
+EXS	phone
+HAS	your
+ROL	mother
+AND	as
+IST	soon
+SUB	as
+PRO	you
+POS	can
+NIL	.

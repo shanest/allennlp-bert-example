@@ -1,0 +1,14 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+IST	ever
+EXS	going
+SUB	to
+EXS	be
+CON	friends
+NIL	.

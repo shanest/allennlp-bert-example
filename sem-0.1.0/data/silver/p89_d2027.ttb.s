@@ -1,0 +1,12 @@
+PRO	She
+EPS	put
+DEF	the
+CON	blanket
+AND	over
+DEF	the
+CON	child
+EXS	sleeping
+REL	on
+DEF	the
+CON	sofa
+NIL	.

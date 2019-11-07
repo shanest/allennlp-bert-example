@@ -1,0 +1,11 @@
+PRO	I
+ENS	know
+DIS	someone
+AND	who
+POS	may
+EXS	be
+EXS	interested
+REL	in
+HAS	your
+CON	project
+NIL	.

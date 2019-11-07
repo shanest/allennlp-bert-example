@@ -1,0 +1,11 @@
+NOW	Do
+PRO	you
+EXS	know
+DEF	the
+CON	time
+AND	of
+CON	arrival
+AND	of
+HAS	his
+CON	plane
+QUE	?

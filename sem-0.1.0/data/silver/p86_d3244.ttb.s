@@ -1,0 +1,10 @@
+PER	Tom
+EPS	saw
+SUB	that
+PER	Mary
+PST	was
+NOT	n't
+REL	in
+DEF	the
+CON	room
+NIL	.

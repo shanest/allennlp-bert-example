@@ -1,0 +1,11 @@
+PRO	We
+ENS	know
+INT	very
+IST	little
+AND	about
+DEF	the
+CON	cause
+AND	of
+PRX	this
+CON	disease
+NIL	.

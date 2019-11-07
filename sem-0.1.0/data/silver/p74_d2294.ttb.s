@@ -1,0 +1,13 @@
+PRO	I
+NOW	think
+PRO	I
+FUT	would
+EXT	have
+EXS	heard
+CON	gunshots
+IMP	if
+DST	there
+PST	had
+EXS	been
+AND	any
+NIL	.

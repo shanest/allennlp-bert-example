@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+DEF	the
+TOP	nicest
+CON	present
+PRO	I
+NOW	've
+IST	ever
+EXS	had
+NIL	.

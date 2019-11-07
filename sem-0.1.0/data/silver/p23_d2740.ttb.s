@@ -1,0 +1,10 @@
+PRO	He
+HAS	's
+INT	very
+QUV	much
+IST	interested
+REL	in
+DEF	the
+GPO	Japanese
+CON	language
+NIL	.

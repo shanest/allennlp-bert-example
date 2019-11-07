@@ -1,0 +1,10 @@
+PRO	It
+NOW	is
+DIS	a
+CON	mystery
+QUE	how
+PRO	they
+EPS	escaped
+REL	from
+CON	prison
+NIL	.

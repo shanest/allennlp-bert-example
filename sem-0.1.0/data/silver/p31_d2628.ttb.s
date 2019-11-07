@@ -1,0 +1,11 @@
+PER	Tom
+EPS	said
+PRO	he
+PST	did
+NOT	n't
+EXS	feel
+AND	like
+EXS	talking
+REL	to
+PER	Mary
+NIL	.

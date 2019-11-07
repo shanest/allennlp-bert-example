@@ -1,0 +1,9 @@
+PER	Tom
+EPS	kissed
+PER	Mary
+COO	and
+IST	then
+EPS	went
+REL	to
+EXS	work
+NIL	.

@@ -1,0 +1,9 @@
+PRO	You
+POS	ca
+NOT	n't
+EXS	keep
+EXS	doing
+PRX	this
+REL	to
+PER	Tom
+NIL	.

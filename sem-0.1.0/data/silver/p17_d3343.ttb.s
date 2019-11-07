@@ -1,0 +1,9 @@
+PRO	He
+NOW	is
+IST	ashamed
+AND	of
+HAS	his
+CON	son
+HAS	's
+CON	conduct
+NIL	.

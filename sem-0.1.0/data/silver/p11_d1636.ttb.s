@@ -1,0 +1,15 @@
+PER	Tom
+NIL	,
+AND	who
+PST	had
+PFT	been
+EXS	working
+AND	all
+CON	day
+NIL	,
+EPS	wanted
+SUB	to
+EXS	have
+DIS	a
+CON	rest
+NIL	.

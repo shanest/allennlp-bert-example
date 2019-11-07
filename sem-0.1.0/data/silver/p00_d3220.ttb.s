@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+IST	sick
+REL	of
+EXG	listening
+REL	to
+HAS	your
+CON	complaints
+NIL	.

@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+EXS	pay
+AND	any
+CON	attention
+REL	to
+QUE	what
+PRO	he
+ENS	tells
+PRO	you
+NIL	.

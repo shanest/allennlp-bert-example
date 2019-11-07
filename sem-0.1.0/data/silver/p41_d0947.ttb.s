@@ -1,0 +1,12 @@
+NOT	No
+CON	one
+NOW	has
+EXS	crossed
+SUB	that
+IST	infernal
+CON	desert
+REL	in
+CON	hundreds
+AND	of
+CON	years
+NIL	.

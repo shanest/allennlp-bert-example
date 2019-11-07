@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+IST	strange
+SUB	that
+HAS	our
+CON	friends
+NOW	are
+NOT	not
+PRX	here
+NIL	.

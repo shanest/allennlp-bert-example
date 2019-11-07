@@ -1,0 +1,14 @@
+PER	Tom
+EPS	drew
+DEF	the
+CON	blinds
+AND	so
+AND	as
+NOT	not
+SUB	to
+EXS	be
+EXS	seen
+REL	from
+DEF	the
+CON	street
+NIL	.

@@ -1,0 +1,9 @@
+PER	John
+EPS	took
+DIS	a
+IST	key
+IST	out
+AND	of
+HAS	his
+CON	pocket
+NIL	.

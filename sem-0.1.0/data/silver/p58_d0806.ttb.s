@@ -1,0 +1,12 @@
+DEF	The
+CON	man
+PRO	you
+EPS	saw
+REL	in
+HAS	my
+CON	office
+PST	yesterday
+NOW	is
+REL	from
+GEO	Belgium
+NIL	.

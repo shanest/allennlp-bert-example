@@ -1,0 +1,11 @@
+PRO	I
+EPS	took
+HAS	my
+CON	boots
+REL	off
+SUB	because
+HAS	my
+CON	feet
+PST	were
+EXS	freezing
+NIL	.

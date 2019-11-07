@@ -1,0 +1,9 @@
+PRO	I
+ENS	go
+REL	to
+CON	bed
+REL	at
+CLO	eleven
+REL	at
+CON	night
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+EPS	took
+DEF	the
+CON	opportunity
+SUB	to
+EXS	visit
+DEF	the
+CON	museum
+NIL	.

@@ -1,0 +1,9 @@
+PRO	It
+NOW	looks
+AND	like
+PER	Tom
+NOW	is
+DIS	a
+IST	little
+EXS	preoccupied
+NIL	.

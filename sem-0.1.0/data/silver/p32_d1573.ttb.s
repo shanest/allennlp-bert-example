@@ -1,0 +1,13 @@
+PRX	This
+NOW	is
+DEF	the
+CON	TV
+CON	station
+SUB	where
+HAS	my
+ROL	uncle
+ENS	works
+AND	as
+DIS	an
+CON	announcer
+NIL	.

@@ -1,0 +1,17 @@
+DEF	The
+TOP	best
+CON	cookies
+PRO	I
+NOW	've
+IST	ever
+EXS	eaten
+NOW	are
+DEF	the
+CON	ones
+AND	that
+HAS	your
+CON	mother
+EPS	baked
+REL	for
+PRO	me
+NIL	.

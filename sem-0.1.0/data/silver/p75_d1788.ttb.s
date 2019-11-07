@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	going
+REL	to
+DEF	the
+CON	country
+REL	with
+HAS	my
+CON	friends
+NIL	.

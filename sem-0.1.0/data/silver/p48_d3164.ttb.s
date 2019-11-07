@@ -1,0 +1,9 @@
+HAS	My
+ROL	uncle
+EPS	met
+REL	with
+DIS	a
+CON	traffic
+CON	accident
+PST	yesterday
+NIL	.

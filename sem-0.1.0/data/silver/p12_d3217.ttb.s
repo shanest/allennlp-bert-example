@@ -1,0 +1,11 @@
+PRO	They
+EPS	said
+HAS	his
+CON	army
+PST	was
+NOT	not
+EXS	strong
+IST	enough
+REL	to
+CON	attack
+NIL	.

@@ -1,0 +1,12 @@
+DEF	The
+CON	moment
+PRO	he
+EPS	caught
+CON	sight
+AND	of
+PRO	me
+NIL	,
+PRO	he
+EPS	ran
+IST	away
+NIL	.

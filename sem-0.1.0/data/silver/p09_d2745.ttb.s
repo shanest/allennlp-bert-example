@@ -1,0 +1,9 @@
+PER	Tom
+EPS	rented
+DIS	an
+CON	apartment
+REL	near
+HAS	his
+ROL	mother
+HAS	's
+NIL	.

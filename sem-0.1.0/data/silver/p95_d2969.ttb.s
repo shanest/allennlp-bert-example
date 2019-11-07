@@ -1,0 +1,10 @@
+PER	Tom
+EPS	wanted
+SUB	to
+EXS	know
+QUE	why
+PER	Mary
+PST	was
+NOT	n't
+PRX	here
+NIL	.

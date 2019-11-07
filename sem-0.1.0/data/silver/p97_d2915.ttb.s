@@ -1,0 +1,9 @@
+PRO	We
+NOW	have
+PFT	been
+EXS	good
+CON	friends
+REL	for
+QUC	ten
+CON	years
+NIL	.

@@ -1,0 +1,13 @@
+REL	At
+DEF	the
+CON	meeting
+AND	last
+CON	night
+DEF	the
+CON	problem
+EPS	gave
+CON	rise
+REL	to
+IST	heated
+CON	discussion
+NIL	.

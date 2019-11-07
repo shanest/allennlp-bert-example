@@ -1,0 +1,10 @@
+NOW	Have
+PRO	you
+EXS	been
+IST	able
+SUB	to
+EXS	confirm
+AND	all
+AND	of
+PRX	this
+QUE	?

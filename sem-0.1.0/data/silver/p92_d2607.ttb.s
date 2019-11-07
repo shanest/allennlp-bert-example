@@ -1,0 +1,17 @@
+PER	Mary
+EPS	traveled
+REL	into
+DEF	the
+CON	future
+COO	and
+EPS	found
+SUB	that
+CON	climate
+CON	change
+PST	had
+EXS	destroyed
+AND	all
+CON	life
+REL	on
+GEO	Earth
+NIL	.

@@ -1,0 +1,9 @@
+QUE	How
+QUV	many
+CON	ways
+NOW	are
+IST	there
+SUB	to
+EXS	do
+DST	that
+QUE	?

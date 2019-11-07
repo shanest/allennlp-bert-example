@@ -1,0 +1,9 @@
+PER	Tom
+EPS	ate
+DIS	a
+CON	lot
+MOR	more
+MOR	than
+PRO	I
+EPS	expected
+NIL	.

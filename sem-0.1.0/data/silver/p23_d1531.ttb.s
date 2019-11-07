@@ -1,0 +1,10 @@
+PRO	He
+EPS	knew
+MOR	more
+MOR	than
+AND	all
+DEF	the
+CON	school
+EPS	put
+IST	together
+NIL	.

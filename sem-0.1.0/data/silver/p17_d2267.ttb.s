@@ -1,0 +1,9 @@
+PER	Tom
+EPS	showed
+PER	Mary
+DIS	some
+CON	pictures
+AND	of
+HAS	his
+CON	house
+NIL	.

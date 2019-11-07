@@ -1,0 +1,9 @@
+QUE	What
+CON	company
+ENS	produces
+CON	cigarettes
+EXG	using
+DEF	the
+IST	so-called
+CON	Y-1
+QUE	?

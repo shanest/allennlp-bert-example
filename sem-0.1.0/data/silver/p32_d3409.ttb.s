@@ -1,0 +1,10 @@
+PRO	I
+ENS	know
+PRO	it
+HAS	's
+DEF	the
+IST	right
+CON	thing
+SUB	to
+EXS	do
+NIL	.

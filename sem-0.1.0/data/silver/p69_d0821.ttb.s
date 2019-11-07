@@ -1,0 +1,10 @@
+PRO	I
+PST	had
+EXS	intended
+SUB	to
+EXS	visit
+DEF	the
+CON	temple
+AND	last
+CON	week
+NIL	.

@@ -1,0 +1,9 @@
+CON	People
+REL	with
+CON	money
+PST	were
+IST	able
+SUB	to
+EXS	buy
+CON	butter
+NIL	.

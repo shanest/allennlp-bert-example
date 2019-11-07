@@ -1,0 +1,16 @@
+PRO	It
+POS	might
+EXS	sound
+EXS	crazy
+NIL	,
+BUT	but
+PRO	I
+ENS	think
+PRO	I
+NOW	'm
+IST	still
+REL	in
+CON	love
+REL	with
+PER	Mary
+NIL	.

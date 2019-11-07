@@ -1,0 +1,9 @@
+PRO	You
+ENS	seem
+NIL	to
+EXS	be
+EXG	thinking
+AND	of
+DIS	something
+AND	else
+NIL	.

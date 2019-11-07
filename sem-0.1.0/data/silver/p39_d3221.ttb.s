@@ -1,0 +1,10 @@
+PRO	You
+ENS	need
+NOT	n't
+EXT	have
+EXS	seen
+PRO	him
+REL	to
+DEF	the
+CON	door
+NIL	.

@@ -1,0 +1,9 @@
+DIS	A
+CON	gentleman
+FUT	would
+NOT	never
+EXS	do
+DIS	something
+AND	like
+DST	that
+NIL	.

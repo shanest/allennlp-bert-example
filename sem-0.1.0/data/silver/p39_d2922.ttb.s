@@ -1,0 +1,14 @@
+PRO	It
+FUT	would
+NOT	n't
+EXS	be
+INT	too
+IST	hard
+SUB	to
+EXS	design
+DIS	a
+IST	new
+CON	website
+REL	for
+PRO	you
+NIL	.

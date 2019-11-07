@@ -1,0 +1,10 @@
+PRO	She
+EPS	wondered
+REL	at
+DEF	the
+IST	sudden
+CON	change
+AND	of
+HAS	his
+CON	mind
+NIL	.

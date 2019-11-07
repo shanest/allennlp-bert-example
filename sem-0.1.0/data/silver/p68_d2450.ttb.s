@@ -1,0 +1,13 @@
+PRO	I
+FUT	would
+EXS	swim
+AND	through
+DEF	the
+CON	ocean
+AND	just
+SUB	to
+EXS	see
+HAS	your
+CON	smile
+ALT	again
+NIL	.

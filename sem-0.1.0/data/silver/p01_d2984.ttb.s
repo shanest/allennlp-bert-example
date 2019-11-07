@@ -1,0 +1,16 @@
+SUB	When
+PRO	I
+NOW	'm
+REL	with
+DIS	a
+EXG	crying
+CON	baby
+NIL	,
+PRO	I
+ENS	end
+IST	up
+EXS	wanting
+NIL	to
+EXS	cry
+IST	myself
+NIL	!

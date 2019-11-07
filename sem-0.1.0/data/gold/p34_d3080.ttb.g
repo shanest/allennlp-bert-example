@@ -1,0 +1,9 @@
+AND	A
+CON	cow
+EXS	chases
+REL	away
+CON	flies
+REL	with
+HAS	its
+CON	tail
+NIL	.

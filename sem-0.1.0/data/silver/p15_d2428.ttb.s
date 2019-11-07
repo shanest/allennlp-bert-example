@@ -1,0 +1,12 @@
+PER	Tom
+PST	was
+NOT	never
+IST	afraid
+IST	even
+SUB	to
+EXS	talk
+AND	about
+HAS	his
+IST	own
+CON	shortcomings
+NIL	.

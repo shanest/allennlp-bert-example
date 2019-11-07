@@ -1,0 +1,9 @@
+AND	Everybody
+ENS	knows
+NIL	,
+BUT	but
+PRO	I
+NOW	do
+NOT	n't
+EXS	care
+NIL	.

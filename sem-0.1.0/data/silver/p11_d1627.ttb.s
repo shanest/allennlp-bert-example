@@ -1,0 +1,9 @@
+FUT	Will
+PRO	it
+EXS	start
+IST	snowing
+REL	at
+CLO	noon
+DIS	or
+IST	later
+QUE	?

@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+SUB	whether
+PER	Mary
+FUT	will
+IST	ever
+EXS	forgive
+PRO	him
+NIL	.

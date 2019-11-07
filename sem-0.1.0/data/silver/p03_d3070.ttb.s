@@ -1,0 +1,9 @@
+QUE	Who
+NOW	does
+NOT	n't
+EXS	like
+EXG	having
+HAS	their
+CON	back
+EPS	scratched
+QUE	?

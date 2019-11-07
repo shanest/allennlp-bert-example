@@ -1,0 +1,16 @@
+REL	In
+CON	addition
+REL	to
+DIS	a
+IST	blocked
+CON	nose
+NIL	,
+PRO	I
+NOW	'm
+ALT	also
+EXS	suffering
+REL	from
+DIS	a
+IST	high
+CON	temperature
+NIL	.

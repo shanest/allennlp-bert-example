@@ -1,0 +1,13 @@
+SUB	As
+PRO	he
+PST	did
+NOT	n't
+EXS	know
+QUE	what
+SUB	to
+EXS	say
+NIL	,
+PRO	he
+EPS	remained
+EXS	silent
+NIL	.

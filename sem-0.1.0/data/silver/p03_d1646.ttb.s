@@ -1,0 +1,10 @@
+PST	Did
+PER	Tom
+EXS	say
+QUE	what
+DEF	the
+CON	meeting
+FUT	would
+EXS	be
+IST	about
+QUE	?

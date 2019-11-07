@@ -1,0 +1,10 @@
+PRO	He
+ENS	knows
+IST	just
+IST	too
+IST	well
+QUE	how
+SUB	to
+EXS	cheat
+CON	people
+NIL	.

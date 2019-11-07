@@ -1,0 +1,13 @@
+PRO	I
+EPS	saw
+HAS	your
+CON	light
+PST	was
+REL	on
+COO	and
+EPS	knew
+PRO	you
+PST	were
+IST	still
+EXS	awake
+NIL	.

@@ -1,0 +1,10 @@
+PER	Ben
+EPS	decided
+SUB	to
+EXS	tell
+DEF	the
+ROL	lawyer
+AND	everything
+PRO	he
+EPS	knew
+NIL	.

@@ -1,0 +1,16 @@
+DEF	The
+CON	wicked
+ROL	witch
+PST	cast
+DIS	a
+CON	spell
+REL	on
+DEF	the
+CON	man
+COO	and
+EPS	turned
+PRO	him
+REL	into
+DIS	a
+CON	bug
+NIL	.

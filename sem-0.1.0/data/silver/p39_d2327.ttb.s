@@ -1,0 +1,12 @@
+PER	Tom
+ENS	knows
+QUE	what
+SUB	to
+EXS	do
+SUB	when
+PER	Mary
+NOW	has
+DIS	an
+IST	epileptic
+CON	seizure
+NIL	.

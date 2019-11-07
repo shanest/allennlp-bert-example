@@ -1,0 +1,10 @@
+PER	Tom
+NOW	has
+EXT	told
+PRO	us
+AND	everything
+PRO	we
+ENS	need
+SUB	to
+EXS	know
+NIL	.

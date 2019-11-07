@@ -1,0 +1,10 @@
+PRO	I
+EPS	gave
+DIS	an
+CON	answer
+REL	to
+PRO	him
+REL	with
+IST	great
+CON	difficulty
+NIL	.

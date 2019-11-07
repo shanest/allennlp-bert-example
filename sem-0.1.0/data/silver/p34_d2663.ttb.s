@@ -1,0 +1,16 @@
+SUB	When
+PRO	she
+IST	first
+EPS	saw
+DEF	the
+CON	size
+AND	of
+PRO	it
+NIL	,
+HAS	my
+IST	naive
+CON	girlfriend
+PST	was
+EXS	blown
+IST	away
+NIL	.

@@ -1,0 +1,9 @@
+PRX	This
+CON	overcoat
+NOW	is
+IST	inferior
+REL	to
+HAS	mine
+REL	in
+CON	quality
+NIL	.

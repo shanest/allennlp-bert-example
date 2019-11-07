@@ -1,0 +1,9 @@
+PRO	She
+EPS	saw
+REF	herself
+AND	as
+DEF	the
+CON	world
+HAS	's
+CON	savior
+NIL	.

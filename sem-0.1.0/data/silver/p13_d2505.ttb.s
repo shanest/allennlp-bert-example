@@ -1,0 +1,9 @@
+PER	Tom
+EPS	wanted
+SUB	to
+EXS	talk
+REL	to
+PER	Mary
+AND	about
+DIS	something
+NIL	.

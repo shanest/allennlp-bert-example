@@ -1,0 +1,9 @@
+PER	Mary
+NOW	has
+PFT	been
+EXS	arrested
+REL	for
+CON	killing
+HAS	her
+CON	husband
+NIL	.

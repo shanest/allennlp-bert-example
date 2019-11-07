@@ -1,0 +1,12 @@
+EXS	Keep
+DIS	an
+CON	eye
+REL	on
+HAS	my
+CON	bag
+SUB	while
+PRO	I
+NOW	buy
+DIS	a
+CON	ticket
+NIL	.

@@ -1,0 +1,12 @@
+IMP	If
+PRO	you
+NOW	are
+NOT	not
+EXS	going
+IST	forward
+NIL	,
+PRO	you
+NOW	're
+EXS	going
+IST	backward
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	river
+NOW	has
+HAS	its
+CON	origin
+REL	in
+DEF	the
+GPE	Japan
+CON	Alps
+NIL	.

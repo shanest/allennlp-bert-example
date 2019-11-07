@@ -1,0 +1,12 @@
+DST	That
+HAS	's
+PRO	me
+NIL	,
+SUB	that
+HAS	's
+PER	Tom
+COO	and
+SUB	that
+HAS	's
+PER	Mary
+NIL	.

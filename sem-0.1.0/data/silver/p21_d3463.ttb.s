@@ -1,0 +1,9 @@
+PRO	He
+ENS	needs
+IST	proper
+IST	medical
+CON	attention
+REL	at
+DIS	a
+CON	hospital
+NIL	.

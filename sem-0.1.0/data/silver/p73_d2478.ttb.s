@@ -1,0 +1,10 @@
+PRO	He
+NOW	does
+NOT	n't
+EXS	go
+REL	to
+DEF	the
+CON	office
+REL	on
+DOW	Saturday
+NIL	.

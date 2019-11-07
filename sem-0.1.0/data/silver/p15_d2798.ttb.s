@@ -1,0 +1,11 @@
+PRO	We
+EPS	hoped
+PRO	we
+PST	'd
+EXS	be
+IST	able
+SUB	to
+EXS	win
+DEF	the
+CON	game
+NIL	.

@@ -1,0 +1,12 @@
+DIS	A
+CON	century
+PST	ago
+NIL	,
+PRX	this
+PST	was
+IST	just
+DIS	a
+IST	small
+CON	farm
+CON	town
+NIL	.

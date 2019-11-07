@@ -1,0 +1,16 @@
+PRO	You
+EPS	left
+PRO	me
+EXS	standing
+AND	alone
+PRX	here
+REL	on
+PRX	this
+CON	road
+DIS	a
+IST	long
+EQU	,
+IST	long
+CON	time
+PST	ago
+NIL	.

@@ -1,0 +1,14 @@
+PRO	I
+EPS	asked
+PER	Tom
+IMP	if
+PRO	he
+EPS	wanted
+DIS	something
+SUB	to
+EXS	eat
+COO	and
+PRO	he
+EPS	said
+IST	yes
+NIL	.

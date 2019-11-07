@@ -1,0 +1,14 @@
+REL	In
+PRX	this
+IST	next
+CON	slide
+PRO	we
+ENS	see
+DIS	an
+IST	aerial
+CON	shot
+AND	of
+DEF	the
+CON	company
+CON	headquarters
+NIL	.

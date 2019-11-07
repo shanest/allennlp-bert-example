@@ -1,0 +1,10 @@
+CON	Thanks
+REL	for
+EXG	sticking
+IST	around
+REL	until
+HAS	my
+ROL	father
+EPS	got
+CON	home
+NIL	.

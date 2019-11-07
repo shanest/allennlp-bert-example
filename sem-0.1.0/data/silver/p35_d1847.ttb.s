@@ -1,0 +1,10 @@
+HAS	Our
+CON	country
+NOW	has
+IST	always
+EXT	had
+EXS	friendly
+CON	relations
+REL	with
+HAS	yours
+NIL	.

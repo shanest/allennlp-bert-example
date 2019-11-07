@@ -1,0 +1,11 @@
+PRX	This
+CON	kind
+AND	of
+IST	strange
+CON	situation
+AND	typifies
+HAS	my
+CON	impressions
+AND	of
+GPE	China
+NIL	.

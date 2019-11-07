@@ -1,0 +1,9 @@
+PRO	I
+EPS	gave
+SUB	that
+CON	book
+REL	to
+PER	Tom
+PRX	this
+CON	morning
+NIL	.

@@ -1,0 +1,11 @@
+DIS	A
+CON	person
+AND	who
+NOW	is
+EXS	born
+REL	in
+GPE	Spain
+NOW	is
+DIS	a
+CON	Spaniard
+NIL	.

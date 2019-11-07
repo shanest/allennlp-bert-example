@@ -1,0 +1,12 @@
+PER	Tom
+EPS	hid
+REL	under
+HAS	his
+CON	bed
+NIL	,
+BUT	but
+HAS	his
+ROL	mother
+EPS	found
+PRO	him
+NIL	.

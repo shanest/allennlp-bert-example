@@ -1,0 +1,9 @@
+QUE	What
+PER	Tom
+IST	really
+EPS	wanted
+PST	was
+DIS	a
+IST	new
+CON	guitar
+NIL	.

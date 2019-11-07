@@ -1,0 +1,16 @@
+REL	In
+PRX	this
+CON	world
+NIL	,
+PRO	it
+NOW	's
+UNK	difficult
+SUB	to
+EXS	go
+REL	on
+EXS	behaving
+AND	like
+DIS	a
+IST	human
+EXS	being
+NIL	.

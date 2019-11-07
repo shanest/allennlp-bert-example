@@ -1,0 +1,11 @@
+PRO	I
+IST	just
+ENS	want
+SUB	to
+EXS	know
+QUE	what
+PRO	I
+NOW	'm
+EXS	getting
+REL	into
+NIL	.

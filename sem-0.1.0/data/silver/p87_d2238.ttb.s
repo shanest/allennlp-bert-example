@@ -1,0 +1,9 @@
+PER	Tom
+EPS	gave
+PER	Mary
+AND	all
+DEF	the
+CON	money
+PRO	he
+PST	had
+NIL	.

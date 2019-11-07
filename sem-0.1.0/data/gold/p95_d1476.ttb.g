@@ -1,0 +1,12 @@
+PER	Tom
+EPS	got
+REL	up
+COO	and
+EPS	went
+REL	to
+DEF	the
+CON	refrigerator
+REL	for
+ALT	another
+CON	beer
+NIL	.

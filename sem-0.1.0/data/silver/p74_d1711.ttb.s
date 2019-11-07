@@ -1,0 +1,15 @@
+PRO	We
+NOW	do
+NOT	n't
+EXS	have
+CON	time
+SUB	to
+EXS	do
+AND	everything
+PRO	they
+NOW	've
+EXS	asked
+PRO	us
+SUB	to
+EXS	do
+NIL	.

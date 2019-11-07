@@ -1,0 +1,12 @@
+PRO	We
+ENS	wish
+SUB	to
+EXS	invite
+PER	Peter
+REL	to
+GPE	Japan
+REL	in
+DEF	the
+IST	near
+CON	future
+NIL	.

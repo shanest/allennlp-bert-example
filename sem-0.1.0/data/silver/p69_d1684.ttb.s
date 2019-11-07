@@ -1,0 +1,17 @@
+PER	Tom
+EPS	put
+HAS	his
+CON	bags
+REL	in
+DEF	the
+CON	trunk
+NIL	,
+AND	then
+EPS	hopped
+REL	in
+DEF	the
+CON	car
+COO	and
+EPS	drove
+IST	off
+NIL	.

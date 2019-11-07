@@ -1,0 +1,12 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+QUE	how
+PER	Mary
+FUT	will
+EXS	get
+REL	to
+CON	school
+FUT	tomorrow
+NIL	.

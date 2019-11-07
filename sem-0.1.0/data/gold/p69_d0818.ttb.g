@@ -1,0 +1,12 @@
+PRO	I
+NOW	do
+NOT	n't
+EXS	believe
+PER	Naomi
+NIL	.
+PRO	I
+ENS	think
+PRO	she
+NOW	's
+EXG	lying
+NIL	.

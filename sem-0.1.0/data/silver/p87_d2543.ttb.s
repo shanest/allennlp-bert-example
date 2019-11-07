@@ -1,0 +1,14 @@
+NIL	"
+EXS	Did
+PRO	it
+EXS	hurt
+SUB	when
+PRO	you
+EPS	fell
+QUE	?
+NIL	"
+NIL	"
+PRO	You
+ENS	bet
+NIL	.
+NIL	"

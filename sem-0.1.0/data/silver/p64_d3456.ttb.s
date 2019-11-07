@@ -1,0 +1,13 @@
+PRO	I
+EPS	asked
+PER	Tom
+IMP	if
+PRO	he
+EPS	wanted
+SUB	to
+EXS	go
+COO	and
+PRO	he
+PST	said
+NOT	no
+NIL	.

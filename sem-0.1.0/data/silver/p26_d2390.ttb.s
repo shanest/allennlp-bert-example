@@ -1,0 +1,12 @@
+EXS	Strange
+SUB	to
+EXS	say
+NIL	,
+PRO	he
+EPS	saw
+DEF	the
+CON	ghost
+AND	of
+HAS	his
+ROL	father
+NIL	.

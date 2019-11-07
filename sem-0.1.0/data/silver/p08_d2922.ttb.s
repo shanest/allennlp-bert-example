@@ -1,0 +1,9 @@
+PRO	She
+PST	was
+EXS	surprised
+SUB	when
+PRO	she
+EPS	saw
+DEF	the
+CON	ghost
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+ENS	want
+NIL	to
+EXS	play
+CON	tennis
+REL	with
+PRO	you
+FUT	someday
+NIL	.

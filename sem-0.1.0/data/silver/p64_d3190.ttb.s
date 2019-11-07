@@ -1,0 +1,15 @@
+PER	Tom
+PST	was
+EXS	looking
+REL	at
+DEF	the
+CON	pictures
+SUB	that
+PER	Mary
+EPS	took
+SUB	when
+PRO	I
+EPS	entered
+DEF	the
+CON	room
+NIL	.

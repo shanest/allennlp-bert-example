@@ -1,0 +1,9 @@
+NOW	Today
+PRO	I
+ENS	start
+NIL	to
+EXS	write
+DIS	a
+CON	rap
+CON	song
+NIL	.

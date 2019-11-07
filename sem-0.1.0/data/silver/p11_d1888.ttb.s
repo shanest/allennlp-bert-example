@@ -1,0 +1,11 @@
+PRO	I
+ENS	wish
+PRO	he
+PST	had
+PFT	been
+IST	more
+EXS	careful
+SUB	when
+PRO	he
+EPS	spoke
+NIL	.

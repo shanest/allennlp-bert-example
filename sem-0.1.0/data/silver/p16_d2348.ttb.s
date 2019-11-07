@@ -1,0 +1,13 @@
+PRO	I
+EPS	wanted
+PRO	you
+SUB	to
+EXS	see
+SUB	that
+PRO	I
+NOW	'm
+NOT	not
+AND	all
+SUB	that
+EXS	bad
+NIL	.

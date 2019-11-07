@@ -1,0 +1,12 @@
+UNK	There
+FUT	will
+EXS	be
+DIS	a
+EXS	dance
+DOW	Friday
+CON	night
+REL	at
+DEF	the
+IST	high
+CON	school
+NIL	.

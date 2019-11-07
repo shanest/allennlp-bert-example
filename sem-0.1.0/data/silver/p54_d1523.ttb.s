@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	scared
+PER	Tom
+NOW	is
+EXS	going
+SUB	to
+EXS	kill
+PRO	me
+NIL	.

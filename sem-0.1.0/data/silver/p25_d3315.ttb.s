@@ -1,0 +1,9 @@
+PRO	You
+ENS	need
+NOT	not
+EXT	have
+EXS	got
+IST	up
+AND	so
+IST	early
+NIL	.

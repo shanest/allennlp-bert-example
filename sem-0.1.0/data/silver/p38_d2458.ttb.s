@@ -1,0 +1,13 @@
+ROL	Pope
+PER	Francis
+EPS	said
+CON	atheists
+AND	who
+NOW	do
+IST	good
+FUT	will
+EXS	go
+REL	to
+CON	heaven
+ALT	too
+NIL	.

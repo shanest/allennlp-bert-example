@@ -1,0 +1,13 @@
+REL	In
+DEF	the
+CON	course
+AND	of
+HAS	our
+CON	conversation
+NIL	,
+PRO	he
+EPS	referred
+REL	to
+HAS	his
+CON	youth
+NIL	.

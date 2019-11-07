@@ -1,0 +1,15 @@
+PRO	She
+EPS	lay
+HAS	her
+CON	head
+REL	on
+HAS	my
+CON	chest
+SUB	so
+PRO	she
+POS	could
+EXS	listen
+REL	to
+HAS	my
+CON	heartbeat
+NIL	.

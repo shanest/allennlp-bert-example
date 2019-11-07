@@ -1,0 +1,17 @@
+NIL	"
+CON	Where
+NOW	have
+PRO	you
+PFT	been
+QUE	?
+NIL	"
+NIL	"
+PRO	I
+NOW	've
+PFT	been
+REL	to
+DEF	the
+CON	barber
+HAS	's
+NIL	.
+NIL	"

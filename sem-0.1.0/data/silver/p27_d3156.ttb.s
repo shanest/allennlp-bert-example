@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+IST	cold
+NIL	there
+NIL	,
+AND	even
+REL	in
+CON	summer
+NIL	.

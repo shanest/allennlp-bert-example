@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+DEF	the
+MOR	younger
+CON	generation
+NOW	today
+NOW	is
+EXS	apathetic
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+ENS	knows
+SUB	that
+PER	Mary
+NOW	does
+NOT	n't
+EXS	know
+DEF	the
+CON	answer
+NIL	.

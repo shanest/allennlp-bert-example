@@ -1,0 +1,10 @@
+PER	Tom
+EPS	said
+SUB	that
+PRO	he
+EPS	thought
+SUB	that
+CON	education
+PST	was
+EXS	important
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	worried
+AND	about
+QUE	what
+FUT	'll
+EXS	happen
+IMP	if
+PER	Tom
+ENS	wins
+NIL	.

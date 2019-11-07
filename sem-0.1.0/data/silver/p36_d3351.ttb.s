@@ -1,0 +1,15 @@
+PER	Tom
+EPS	pointed
+REL	to
+DIS	a
+CON	word
+REL	on
+DEF	the
+CON	sign
+AND	and
+EPS	asked
+PER	Mary
+QUE	what
+PRO	it
+EPS	meant
+NIL	.

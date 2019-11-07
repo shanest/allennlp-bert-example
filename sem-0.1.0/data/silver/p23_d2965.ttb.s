@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PRO	I
+NOW	have
+NOT	n't
+AND	any
+EXS	left
+NIL	.

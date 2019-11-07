@@ -1,0 +1,9 @@
+PRO	I
+EPS	saw
+DIS	a
+CON	spider
+EXS	walking
+REL	on
+DEF	the
+CON	ceiling
+NIL	.

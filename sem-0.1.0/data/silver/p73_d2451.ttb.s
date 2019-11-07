@@ -1,0 +1,15 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+IST	sure
+PRO	they
+POS	could
+EXS	do
+QUE	what
+PER	John
+EPS	asked
+PRO	them
+SUB	to
+EXS	do
+NIL	.

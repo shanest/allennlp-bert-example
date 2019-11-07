@@ -1,0 +1,11 @@
+PRO	She
+EPS	put
+HAS	her
+CON	room
+REL	in
+CON	order
+REL	before
+HAS	her
+CON	guests
+EPS	arrived
+NIL	.

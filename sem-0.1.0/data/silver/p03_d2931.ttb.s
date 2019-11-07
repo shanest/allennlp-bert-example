@@ -1,0 +1,13 @@
+PER	Tom
+EPS	smelled
+PER	Mary
+HAS	's
+CON	perfume
+AND	as
+IST	soon
+SUB	as
+PRO	he
+EPS	entered
+DEF	the
+CON	room
+NIL	.

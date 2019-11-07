@@ -1,0 +1,13 @@
+DEF	The
+IST	last
+CON	time
+PRO	I
+EPS	saw
+PER	Tom
+PRO	he
+PST	was
+EXG	wearing
+DIS	a
+CON	hospital
+CON	gown
+NIL	.

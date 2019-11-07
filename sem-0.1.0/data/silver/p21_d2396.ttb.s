@@ -1,0 +1,15 @@
+QUE	What
+ENS	annoys
+PRO	me
+NOW	is
+SUB	that
+SUB	though
+PRO	I
+CON	object
+NIL	,
+PRO	she
+ENS	insists
+SUB	on
+EXG	buying
+PRO	it
+NIL	.

@@ -1,0 +1,13 @@
+EXS	Did
+PER	Tom
+NIL	,
+REL	by
+AND	any
+CON	chance
+NIL	,
+PST	let
+PER	Mary
+EXS	drive
+DEF	the
+CON	car
+QUE	?

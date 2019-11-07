@@ -1,0 +1,10 @@
+PER	Tom
+NOW	is
+IST	able
+SUB	to
+EXS	come
+REL	to
+HAS	our
+CON	party
+FUT	tomorrow
+NIL	.

@@ -1,0 +1,10 @@
+PRO	You
+NEC	should
+ENS	plan
+SUB	to
+EXS	leave
+REL	between
+CLO	6:00
+AND	and
+CLO	7:00
+NIL	.

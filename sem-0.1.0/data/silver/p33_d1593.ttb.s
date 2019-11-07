@@ -1,0 +1,9 @@
+PER	Tom
+IST	just
+EPS	stood
+IST	there
+NOT	without
+EXS	saying
+DIS	a
+CON	word
+NIL	.

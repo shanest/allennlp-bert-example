@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	sick
+AND	of
+EXS	eating
+DEF	the
+IST	same
+CON	thing
+AND	every
+CON	day
+NIL	.

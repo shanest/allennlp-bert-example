@@ -1,0 +1,13 @@
+POS	Maybe
+PRO	you
+NEC	ought
+SUB	to
+EXS	let
+PER	Tom
+EXS	do
+QUE	what
+PRO	he
+ENS	wants
+SUB	to
+EXS	do
+NIL	.

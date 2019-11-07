@@ -1,0 +1,14 @@
+NOW	Do
+NOT	n't
+PRO	you
+EXS	know
+PRO	it
+NOW	's
+EXS	rude
+SUB	to
+EXS	ask
+DIS	a
+CON	lady
+HAS	her
+CON	age
+QUE	?

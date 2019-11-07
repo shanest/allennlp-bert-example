@@ -1,0 +1,12 @@
+SUB	Who
+PST	was
+DEF	the
+ROL	inventor
+AND	of
+DEF	the
+CON	telephone
+NIL	,
+PER	Bell
+DIS	or
+GEO	Meucci
+QUE	?

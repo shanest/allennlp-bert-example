@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	thinking
+AND	of
+EXS	going
+REL	to
+GPE	Germany
+SUB	to
+EXS	study
+CON	medicine
+NIL	.

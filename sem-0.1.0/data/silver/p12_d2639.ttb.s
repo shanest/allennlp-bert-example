@@ -1,0 +1,14 @@
+DST	That
+CON	offer
+NOW	sounds
+INT	too
+EXS	good
+SUB	to
+EXS	be
+EXS	true
+NIL	.
+QUE	What
+HAS	's
+DEF	the
+CON	catch
+QUE	?

@@ -1,0 +1,16 @@
+REL	For
+QUC	one
+CON	thing
+NIL	,
+PRO	I
+NOW	'm
+IST	busy
+COO	;
+REL	for
+ALT	another
+NIL	,
+PRO	I
+NOW	'm
+NOT	not
+EXS	interested
+NIL	.

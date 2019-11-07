@@ -1,0 +1,16 @@
+IMP	If
+PRO	he
+PST	had
+EXS	asked
+PRO	me
+SUB	to
+EXS	marry
+PRO	him
+NIL	,
+PRO	I
+NOW	think
+SUB	that
+PRO	I
+FUT	would
+EXS	have
+NIL	.

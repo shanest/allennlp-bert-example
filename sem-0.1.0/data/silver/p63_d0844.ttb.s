@@ -1,0 +1,10 @@
+PRO	They
+EPS	killed
+DIS	a
+CON	goat
+AND	as
+DIS	a
+CON	sacrifice
+REL	to
+GEO	God
+NIL	.

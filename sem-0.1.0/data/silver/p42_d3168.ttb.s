@@ -1,0 +1,11 @@
+IMP	If
+PRO	you
+ENS	know
+DIS	a
+CON	lot
+NIL	,
+PRO	you
+POS	can
+EXS	become
+DIS	anyone
+NIL	.

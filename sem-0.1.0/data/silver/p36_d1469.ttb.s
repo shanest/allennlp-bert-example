@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+INT	too
+IST	old
+SUB	to
+EXS	be
+EXS	living
+REL	on
+HAS	his
+CON	own
+NIL	.

@@ -1,0 +1,10 @@
+PRO	We
+EPS	went
+REL	to
+DEF	the
+CON	butcher
+ENS	's
+SUB	to
+EXS	buy
+CON	steaks
+NIL	.

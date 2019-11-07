@@ -1,0 +1,10 @@
+GPE	Japan
+NOW	does
+DIS	a
+CON	lot
+AND	of
+CON	trade
+REL	with
+DEF	the
+ORG	USA
+NIL	.

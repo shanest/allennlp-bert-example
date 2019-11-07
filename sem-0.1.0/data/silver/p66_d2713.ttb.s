@@ -1,0 +1,16 @@
+DEF	The
+QUC	two
+CON	brothers
+NOW	look
+INT	so
+QUC	much
+AND	alike
+DST	that
+PRO	it
+NOW	is
+UNK	difficult
+SUB	to
+EXS	tell
+PRO	them
+IST	apart
+NIL	.

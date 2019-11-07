@@ -1,0 +1,9 @@
+PRO	He
+PST	had
+IST	just
+EXS	come
+CON	home
+SUB	when
+PRO	I
+EPS	called
+NIL	.

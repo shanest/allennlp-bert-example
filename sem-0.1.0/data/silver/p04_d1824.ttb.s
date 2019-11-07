@@ -1,0 +1,11 @@
+PRO	She
+NEC	must
+EXT	have
+PFT	been
+INT	very
+IST	beautiful
+SUB	when
+PRO	she
+PST	was
+EXS	young
+NIL	.

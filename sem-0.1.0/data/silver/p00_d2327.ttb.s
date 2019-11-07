@@ -1,0 +1,10 @@
+PRO	You
+EPS	said
+PRO	she
+PST	was
+CON	kind
+COO	and
+AND	so
+PRO	she
+NOW	is
+NIL	.

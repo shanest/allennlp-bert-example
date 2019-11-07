@@ -1,0 +1,10 @@
+PRO	He
+HAS	's
+INT	very
+IST	smart
+NIL	,
+AND	so
+AND	everybody
+ENS	likes
+PRO	him
+NIL	.

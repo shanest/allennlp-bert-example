@@ -1,0 +1,9 @@
+AND	Why
+NOW	does
+AND	everyone
+NOW	think
+SUB	that
+PRO	I
+NOW	'm
+EXS	stupid
+QUE	?

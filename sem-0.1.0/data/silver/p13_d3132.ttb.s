@@ -1,0 +1,10 @@
+PRO	It
+PST	was
+REL	in
+GEO	Kyoto
+SUB	that
+PRO	I
+IST	first
+EPS	met
+PRO	her
+NIL	.

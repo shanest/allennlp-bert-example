@@ -1,0 +1,14 @@
+PER	Tom
+PST	was
+EXG	reading
+DEF	the
+CON	sports
+CON	page
+SUB	when
+PER	Mary
+EPS	came
+REL	into
+DEF	the
+EXG	living
+CON	room
+NIL	.

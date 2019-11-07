@@ -1,0 +1,10 @@
+PRO	We
+NOW	've
+PFT	been
+EXS	trying
+SUB	to
+EXS	keep
+PRO	it
+DIS	a
+CON	secret
+NIL	.

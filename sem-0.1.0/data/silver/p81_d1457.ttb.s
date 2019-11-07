@@ -1,0 +1,20 @@
+REL	At
+DEF	the
+IST	same
+CON	period
+NIL	,
+REL	in
+ROL	Queen
+PER	Elizabeth
+HAS	's
+CON	reign
+NIL	,
+DEF	the
+CON	population
+AND	of
+GPE	England
+PST	did
+NOT	not
+EXS	exceed
+QUC	five millions and a half
+NIL	.

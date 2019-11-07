@@ -1,0 +1,11 @@
+PRO	I
+EPS	worked
+REL	on
+DOW	Sunday
+NIL	,
+COO	so
+PRO	I
+PST	had
+DOW	Monday
+IST	off
+NIL	.

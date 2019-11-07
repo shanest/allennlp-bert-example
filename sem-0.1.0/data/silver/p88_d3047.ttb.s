@@ -1,0 +1,13 @@
+PER	Tom
+IST	always
+EPS	thought
+SUB	that
+PER	John
+AND	and
+PER	Mary
+PST	were
+AND	such
+DIS	a
+IST	nice
+CON	couple
+NIL	.

@@ -1,0 +1,19 @@
+DEF	The
+CON	United States
+AND	and
+GPE	Britain
+NOW	have
+ALT	different
+CON	sign
+CON	languages
+NIL	.
+GPO	Mexican
+CON	Sign
+CON	Language
+ALT	also
+ENS	differs
+REL	from
+GPO	Spanish
+CON	Sign
+CON	Language
+NIL	.

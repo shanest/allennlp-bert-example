@@ -1,0 +1,16 @@
+PRX	This
+CON	park
+NOW	is
+INT	pretty
+EXS	big
+COO	;
+PRO	it
+NOW	has
+DIS	a
+CON	lot
+AND	of
+CON	trees
+AND	and
+QUV	many
+CON	flowers
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	take
+DIS	a
+CON	shower
+SUB	because
+PRO	I
+CON	stink
+NIL	.

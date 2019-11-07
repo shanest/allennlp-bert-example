@@ -1,0 +1,9 @@
+PRO	She
+EPS	wrote
+PRO	me
+DIS	a
+CON	love
+CON	letter
+REL	in
+GEO	Esperanto
+NIL	.

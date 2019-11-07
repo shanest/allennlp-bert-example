@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	busy
+EXS	making
+CON	sandwiches
+REL	in
+DEF	the
+CON	kitchen
+NIL	.

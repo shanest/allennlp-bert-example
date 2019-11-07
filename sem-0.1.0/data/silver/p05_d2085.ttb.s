@@ -1,0 +1,17 @@
+PRO	I
+IST	still
+NOW	have
+NOT	n't
+EXS	received
+HAS	your
+CON	e-mail
+NIL	.
+POS	Perhaps
+PRO	you
+EPS	wrote
+IST	down
+HAS	my
+CON	e-mail
+CON	address
+IST	incorrectly
+QUE	?

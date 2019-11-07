@@ -1,0 +1,9 @@
+PRO	He
+EPS	gave
+DIS	a
+CON	speech
+AND	about
+GEO	Alzheimer
+HAS	's
+CON	disease
+NIL	.

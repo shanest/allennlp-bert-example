@@ -1,0 +1,11 @@
+NIL	"
+PER	Tom
+HAS	's
+CON	crying
+NIL	.
+NIL	"
+NIL	"
+PRO	I
+ENS	know
+NIL	.
+NIL	"

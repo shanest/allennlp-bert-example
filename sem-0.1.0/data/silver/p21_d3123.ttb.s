@@ -1,0 +1,13 @@
+SUB	When
+PRO	I
+EPS	saw
+HAS	his
+CON	face
+NIL	,
+PRO	I
+PST	was
+IST	instantly
+REL	on
+IST	red
+CON	alert
+NIL	.

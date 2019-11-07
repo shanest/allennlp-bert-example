@@ -1,0 +1,15 @@
+DEF	The
+CON	treeline
+REL	in
+DEF	the
+GPO	German
+GEO	alps
+ENS	lies
+REL	at
+DIS	an
+CON	elevation
+AND	of
+AND	about
+QUC	1800
+UOM	meters
+NIL	.

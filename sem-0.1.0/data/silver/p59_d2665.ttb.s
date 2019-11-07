@@ -1,0 +1,10 @@
+PRO	She
+NOW	's
+EXS	attracted
+REL	to
+HAS	her
+CON	husband
+HAS	's
+TOP	best
+CON	friend
+NIL	.

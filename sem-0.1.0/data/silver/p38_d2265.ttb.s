@@ -1,0 +1,10 @@
+DEF	The
+XCL	only
+CON	girl
+PER	Tom
+IST	ever
+IST	really
+EPS	liked
+PST	was
+PER	Mary
+NIL	.

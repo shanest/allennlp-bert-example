@@ -1,0 +1,11 @@
+NIL	There
+NOW	is
+DIS	a
+IST	constant
+CON	flow
+REL	of
+CON	traffic
+REL	on
+PRX	this
+CON	road
+NIL	.

@@ -1,0 +1,9 @@
+PRO	I
+ENS	want
+PRO	you
+SUB	to
+EXS	tell
+PRO	me
+AND	about
+PER	Tom
+NIL	.

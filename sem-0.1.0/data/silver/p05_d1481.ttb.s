@@ -1,0 +1,10 @@
+QUE	What
+PER	Tom
+IST	really
+EPS	wanted
+PST	was
+DIS	a
+CON	date
+REL	with
+PER	Mary
+NIL	.

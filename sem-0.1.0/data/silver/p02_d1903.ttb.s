@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+EXS	crazy
+SUB	to
+EXS	buy
+AND	such
+DIS	an
+IST	expensive
+CON	bike
+NIL	.

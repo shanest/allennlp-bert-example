@@ -1,0 +1,12 @@
+DEF	The
+CON	couple
+EPS	spent
+DIS	a
+CON	lot
+AND	of
+CON	money
+REL	on
+CON	furnishing
+HAS	their
+CON	house
+NIL	.

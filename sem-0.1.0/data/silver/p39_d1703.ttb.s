@@ -1,0 +1,12 @@
+PRO	He
+NOW	is
+DIS	a
+CON	student
+AND	who
+PRO	I
+NOW	am
+EXS	teaching
+GPO	English
+PRX	this
+CON	year
+NIL	.

@@ -1,0 +1,9 @@
+HAS	My
+ROL	mother
+NOW	gets
+IST	up
+MOR	earlier
+MOR	than
+PRO	I
+NOW	do
+NIL	.

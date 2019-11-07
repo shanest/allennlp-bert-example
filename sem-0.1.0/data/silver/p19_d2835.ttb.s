@@ -1,0 +1,17 @@
+SUB	As
+PRO	I
+NOW	'm
+EXS	sensitive
+REL	to
+CON	heat
+NIL	,
+PRO	I
+POS	ca
+NOT	n't
+EXS	live
+IST	comfortably
+NOT	without
+CON	air-conditioning
+REL	in
+CON	summer
+NIL	.

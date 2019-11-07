@@ -1,0 +1,15 @@
+PER	Tom
+EPS	saw
+SUB	how
+EXS	exhausted
+PER	Mary
+PST	was
+AND	and
+EPS	told
+PRO	her
+SUB	to
+EXS	go
+IST	right
+REL	to
+CON	bed
+NIL	.

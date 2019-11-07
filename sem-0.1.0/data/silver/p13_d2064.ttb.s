@@ -1,0 +1,10 @@
+PRO	You
+EPS	found
+PRO	me
+SUB	where
+NOT	no
+CON	one
+AND	else
+PST	was
+EXS	looking
+NIL	.

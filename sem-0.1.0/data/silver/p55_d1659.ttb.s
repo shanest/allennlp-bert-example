@@ -1,0 +1,9 @@
+PER	Tom
+PST	was
+IST	glad
+SUB	to
+EXS	hear
+PER	Mary
+HAS	's
+CON	voice
+NIL	.

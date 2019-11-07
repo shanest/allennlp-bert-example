@@ -1,0 +1,10 @@
+PER	Tom
+HAS	's
+CON	car
+NOW	's
+EXG	playing
+IST	up
+REL	at
+DEF	the
+CON	moment
+NIL	.

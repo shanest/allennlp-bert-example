@@ -1,0 +1,13 @@
+PRO	He
+EPS	lost
+DEF	the
+CON	respect
+AND	of
+HAS	his
+CON	people
+SUB	when
+PRO	he
+EPS	accepted
+DEF	the
+CON	money
+NIL	.

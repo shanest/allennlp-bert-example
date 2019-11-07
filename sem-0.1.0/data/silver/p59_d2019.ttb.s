@@ -1,0 +1,12 @@
+REL	On
+HAS	my
+CON	way
+REL	to
+DEF	the
+CON	theater
+PRO	I
+EPS	saw
+DIS	a
+CON	traffic
+CON	accident
+NIL	.

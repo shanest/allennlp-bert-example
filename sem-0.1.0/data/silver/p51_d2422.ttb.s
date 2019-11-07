@@ -1,0 +1,16 @@
+PRO	You
+PST	had
+IST	better
+EXS	make
+IST	sure
+SUB	that
+PRO	he
+NOW	is
+REL	at
+CON	home
+SUB	before
+PRO	you
+NOW	call
+REL	on
+PRO	him
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	sure
+PRO	I
+NOW	've
+EXS	seen
+SUB	that
+CON	guy
+DIS	somewhere
+REL	before
+NIL	.

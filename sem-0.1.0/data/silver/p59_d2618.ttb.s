@@ -1,0 +1,9 @@
+PRO	It
+NOW	's
+EXS	dangerous
+SUB	to
+EXS	live
+REL	near
+DIS	a
+CON	volcano
+NIL	.

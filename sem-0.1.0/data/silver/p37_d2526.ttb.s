@@ -1,0 +1,14 @@
+EXS	Tell
+PRO	me
+QUE	what
+PRO	you
+NOW	have
+COO	and
+PRO	I
+FUT	will
+EXS	tell
+PRO	you
+QUE	what
+PRO	you
+NOW	think
+NIL	.

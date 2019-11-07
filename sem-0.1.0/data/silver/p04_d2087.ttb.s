@@ -1,0 +1,11 @@
+PRO	You
+AND	and
+PER	Tom
+PST	were
+EXS	happy
+IST	together
+NIL	,
+PST	were
+NOT	n't
+PRO	you
+QUE	?

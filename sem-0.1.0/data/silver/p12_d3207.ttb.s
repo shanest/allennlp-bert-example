@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+EXS	figured
+IST	out
+QUE	why
+PER	Tom
+NOW	is
+AND	always
+IST	late
+NIL	.

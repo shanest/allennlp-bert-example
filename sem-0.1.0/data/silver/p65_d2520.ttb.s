@@ -1,0 +1,15 @@
+PRO	I
+NOW	'm
+EXS	driving
+REL	into
+CON	town
+AND	so
+PRO	I
+POS	can
+EXS	drop
+PRO	you
+IST	off
+REL	on
+DEF	the
+CON	way
+NIL	.

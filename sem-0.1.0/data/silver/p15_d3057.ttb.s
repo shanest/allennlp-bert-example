@@ -1,0 +1,11 @@
+ROL	Mrs.
+PER	Harris
+NOW	is
+INT	very
+EXS	doubtful
+AND	about
+HAS	her
+CON	son
+HAS	's
+CON	future
+NIL	.

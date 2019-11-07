@@ -1,0 +1,9 @@
+PER	Bob
+EPS	wanted
+NIL	to
+EXS	keep
+DEF	the
+CON	fox
+REL	at
+CON	home
+NIL	.

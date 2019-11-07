@@ -1,0 +1,11 @@
+QUE	What
+PRO	I
+NOW	am
+INT	most
+EXS	interested
+REL	in
+NOW	is
+EXS	translating
+GPO	English
+CON	sentences
+NIL	.

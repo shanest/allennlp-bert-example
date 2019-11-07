@@ -1,0 +1,9 @@
+DIS	Sometimes
+PRO	it
+NOW	's
+IST	necessary
+SUB	to
+EXS	tell
+DEF	the
+CON	truth
+NIL	.

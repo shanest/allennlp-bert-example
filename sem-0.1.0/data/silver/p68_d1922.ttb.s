@@ -1,0 +1,13 @@
+SUB	When
+PRO	I
+EPS	met
+HAS	her
+DEF	the
+ALT	other
+CON	day
+PRO	she
+EPS	asked
+AND	of
+HAS	my
+CON	parents
+NIL	.

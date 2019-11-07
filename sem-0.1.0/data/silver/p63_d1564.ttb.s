@@ -1,0 +1,11 @@
+PER	Tom
+POS	could
+EXS	tell
+SUB	that
+PER	Mary
+EPS	wanted
+SUB	to
+EXS	be
+DIS	somewhere
+AND	else
+NIL	.

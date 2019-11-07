@@ -1,0 +1,9 @@
+PRO	I
+EPS	saw
+DIS	a
+CON	boat
+IST	upstream
+AND	of
+DEF	the
+CON	bridge
+NIL	.

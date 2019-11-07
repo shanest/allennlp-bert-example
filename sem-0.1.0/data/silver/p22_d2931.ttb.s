@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	calling
+SUB	to
+EXS	tell
+PRO	you
+AND	about
+HAS	my
+CON	day
+NIL	.

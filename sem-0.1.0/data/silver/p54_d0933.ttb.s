@@ -1,0 +1,16 @@
+PRO	I
+NOW	am
+EXS	sorry
+SUB	that
+PRO	I
+NOW	have
+NOT	n't
+EXS	written
+SUB	to
+PRO	you
+REL	in
+AND	such
+DIS	a
+IST	long
+CON	time
+NIL	.

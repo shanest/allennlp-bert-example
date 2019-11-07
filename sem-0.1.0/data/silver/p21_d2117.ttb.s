@@ -1,0 +1,10 @@
+PRO	It
+NOW	's
+IST	hard
+SUB	to
+EXS	believe
+DST	that
+HAS	's
+DIS	a
+CON	coincidence
+NIL	.

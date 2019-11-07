@@ -1,0 +1,9 @@
+PER	Tom
+NOW	has
+NOT	n't
+PFT	been
+IST	back
+IST	here
+REL	for
+CON	years
+NIL	.

@@ -1,0 +1,10 @@
+HAS	His
+CON	house
+NOW	is
+QUC	three
+CON	times
+AND	as
+IST	big
+AND	as
+HAS	mine
+NIL	.

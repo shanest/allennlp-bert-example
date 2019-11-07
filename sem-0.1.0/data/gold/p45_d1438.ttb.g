@@ -1,0 +1,9 @@
+PER	Tom
+EPS	brushed
+HAS	his
+CON	teeth
+COO	and
+EPS	washed
+HAS	his
+CON	face
+NIL	.

@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+IST	strange
+SUB	that
+PRO	you
+ENS	know
+NOT	nothing
+AND	about
+HAS	her
+CON	wedding
+NIL	.

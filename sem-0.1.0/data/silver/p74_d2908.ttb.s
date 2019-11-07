@@ -1,0 +1,10 @@
+NOW	Do
+NOT	n't
+EXS	refer
+REL	to
+PRX	this
+CON	matter
+ALT	again
+NIL	,
+IST	please
+NIL	.

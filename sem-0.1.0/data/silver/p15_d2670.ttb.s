@@ -1,0 +1,10 @@
+QUE	What
+DIS	a
+IST	great
+CON	day
+NIL	!
+PRO	I
+NOW	'm
+EXS	feeling
+CON	peachy
+NIL	!

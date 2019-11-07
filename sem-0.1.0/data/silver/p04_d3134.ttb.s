@@ -1,0 +1,10 @@
+PRO	We
+NEC	must
+EXS	stop
+PRO	him
+REL	from
+EXG	doing
+AND	such
+IST	stupid
+CON	things
+NIL	.

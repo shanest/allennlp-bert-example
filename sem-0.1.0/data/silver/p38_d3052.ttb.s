@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	careful
+NOT	not
+SUB	to
+EXS	spend
+INT	too
+QUC	much
+NIL	.

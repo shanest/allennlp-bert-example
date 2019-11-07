@@ -1,0 +1,17 @@
+NIL	"
+AND	Why
+PST	did
+NOT	n't
+PRO	you
+EXS	kiss
+PER	Mary
+QUE	?
+NIL	"
+NIL	"
+PRO	She
+FUT	would
+NOT	n't
+EXS	let
+PRO	me
+NIL	.
+NIL	"

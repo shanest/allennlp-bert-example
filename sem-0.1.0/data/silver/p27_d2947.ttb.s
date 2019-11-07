@@ -1,0 +1,10 @@
+PRO	He
+NOW	is
+CON	half
+AND	as
+IST	old
+ALT	again
+SUB	as
+PRO	she
+NOW	is
+NIL	.

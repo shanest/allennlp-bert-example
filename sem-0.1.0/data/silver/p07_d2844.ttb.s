@@ -1,0 +1,13 @@
+HAS	My
+CON	room
+ENS	faces
+CON	south
+NIL	,
+AND	which
+NOW	makes
+PRO	it
+IST	sunny
+AND	and
+INT	very
+EXS	comfortable
+NIL	.

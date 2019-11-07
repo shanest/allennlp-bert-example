@@ -1,0 +1,9 @@
+PER	Tom
+NOW	is
+EXS	connecting
+HAS	his
+CON	phone
+REL	to
+DEF	the
+CON	Internet
+NIL	.

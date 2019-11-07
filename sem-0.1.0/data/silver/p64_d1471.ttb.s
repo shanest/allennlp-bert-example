@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+EXS	possible
+SUB	that
+CON	aliens
+NOW	have
+IST	already
+EXS	landed
+REL	on
+CON	earth
+NIL	.

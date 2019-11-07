@@ -1,0 +1,13 @@
+QUE	Which
+IST	female
+CON	ETA
+IST	terrorist
+NOW	is
+ALT	also
+EXS	known
+AND	as
+NIL	"
+DEF	The
+ORG	Tigress
+NIL	"
+QUE	?

@@ -1,0 +1,11 @@
+PRO	He
+EPS	immigrated
+REL	to
+GPE	Brazil
+REL	in
+CON	search
+AND	of
+DIS	a
+IST	better
+CON	life
+NIL	.

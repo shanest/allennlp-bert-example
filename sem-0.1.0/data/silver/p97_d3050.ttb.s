@@ -1,0 +1,12 @@
+REL	On
+MOY	March
+NIL	15
+PRO	we
+FUT	will
+EXT	have
+PFT	been
+EXS	married
+REL	for
+QUC	20
+CON	years
+NIL	.

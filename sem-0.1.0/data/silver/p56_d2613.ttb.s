@@ -1,0 +1,9 @@
+PER	Tom
+EPS	asked
+PER	Mary
+SUB	to
+EXS	read
+PRO	it
+REL	for
+PRO	him
+NIL	.

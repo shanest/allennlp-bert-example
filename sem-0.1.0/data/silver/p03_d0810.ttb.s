@@ -1,0 +1,11 @@
+PRO	You
+PST	had
+MOR	better
+EXS	go
+COO	and
+EXS	speak
+REL	to
+PRO	him
+REL	in
+CON	person
+NIL	.

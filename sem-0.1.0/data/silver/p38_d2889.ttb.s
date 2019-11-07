@@ -1,0 +1,17 @@
+PRO	She
+NOW	's
+EXS	worried
+SUB	because
+PRO	she
+NOW	has
+NOT	n't
+EXS	received
+DIS	a
+CON	letter
+REL	from
+HAS	her
+CON	son
+REL	for
+QUV	many
+CON	months
+NIL	.

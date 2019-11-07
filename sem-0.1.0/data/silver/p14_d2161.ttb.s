@@ -1,0 +1,10 @@
+CON	None
+AND	of
+PRO	them
+POS	could
+EXS	understand
+QUE	what
+PRO	she
+PST	was
+EXG	implying
+NIL	.

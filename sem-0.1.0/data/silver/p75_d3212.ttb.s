@@ -1,0 +1,9 @@
+PER	Melanie
+ENS	thinks
+SUB	that
+DEF	the
+CON	situation
+NOW	is
+INT	very
+IST	bad
+NIL	.

@@ -1,0 +1,11 @@
+PER	Tom
+EPS	found
+DEF	the
+CON	key
+SUB	that
+PRO	he
+EPS	thought
+PRO	he
+PST	'd
+EXS	lost
+NIL	.

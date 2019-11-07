@@ -1,0 +1,16 @@
+UNK	There
+ENS	seems
+SUB	to
+EXS	be
+SUB	evidence
+EXG	suggesting
+PER	Tom
+PST	was
+DEF	the
+QUC	one
+AND	who
+EPS	stole
+PER	Mary
+HAS	's
+CON	bracelet
+NIL	.

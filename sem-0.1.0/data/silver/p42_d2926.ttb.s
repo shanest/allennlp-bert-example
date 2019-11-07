@@ -1,0 +1,12 @@
+PRO	It
+FUT	would
+EXT	have
+PFT	been
+COM	better
+IMP	if
+PRO	you
+PST	'd
+NOT	never
+PFT	been
+EXS	born
+NIL	.

@@ -1,0 +1,11 @@
+DEF	The
+IST	independent
+CON	candidate
+EPS	took
+DEF	the
+CON	abortion
+CON	issue
+REL	off
+HAS	his
+CON	platform
+NIL	.

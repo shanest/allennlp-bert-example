@@ -1,0 +1,9 @@
+PRO	It
+NOW	is
+IST	strange
+SUB	that
+PRO	he
+NEC	should
+EXS	say
+IST	so
+NIL	.

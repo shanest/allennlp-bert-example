@@ -1,0 +1,10 @@
+PER	Tom
+POS	ca
+NOT	n't
+EXS	stand
+PER	Mary
+COO	and
+PRO	she
+ENS	knows
+PRO	it
+NIL	.

@@ -1,0 +1,14 @@
+DEF	The
+CON	cat
+EPS	upset
+DEF	the
+CON	can
+AND	of
+CON	fish
+AND	so
+SUB	that
+PRO	it
+POS	could
+EXS	eat
+PRO	them
+NIL	.

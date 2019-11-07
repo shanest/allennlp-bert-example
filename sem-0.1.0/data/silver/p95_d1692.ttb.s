@@ -1,0 +1,11 @@
+UNK	There
+NOW	remain
+APX	approximately
+NIL	900
+CON	art
+NOW	sketches
+REL	by
+PRO	Leonardo
+PER	da
+PER	Vinci
+NIL	.

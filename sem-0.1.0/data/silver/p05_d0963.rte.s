@@ -1,0 +1,17 @@
+DEF	The
+ORG	Corfu
+ORG	Channel
+CON	incident
+PST	was
+AND	about
+DIS	a
+GPO	British
+CON	destroyer
+EXS	sunk
+REL	by
+GPE	Albania
+REL	in
+DEF	the
+ORG	Corfu
+ORG	Channel
+NIL	.

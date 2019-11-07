@@ -1,0 +1,13 @@
+PRO	It
+NOW	makes
+NOT	no
+CON	difference
+REL	to
+PRO	me
+SUB	whether
+PRO	you
+NOW	are
+EXS	rich
+DIS	or
+CON	poor
+NIL	.

@@ -1,0 +1,11 @@
+REL	In
+QUE	what
+CON	city
+NOW	do
+DEF	the
+ROL	lawyers
+PER	Cochran
+COO	and
+PER	Shapiro
+CON	work
+QUE	?

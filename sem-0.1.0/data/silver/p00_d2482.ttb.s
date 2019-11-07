@@ -1,0 +1,10 @@
+EXS	Forget
+DEF	the
+CON	anxieties
+REL	of
+CON	life
+COO	and
+EXS	learn
+NIL	to
+EXS	relax
+NIL	.

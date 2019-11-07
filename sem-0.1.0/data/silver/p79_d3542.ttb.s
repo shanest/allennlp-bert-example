@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	seeing
+HAS	my
+IST	old
+CON	friend
+PRX	this
+CON	evening
+NIL	.

@@ -1,0 +1,13 @@
+DEF	The
+CON	agreement
+REL	between
+DEF	the
+QUC	two
+CON	results
+NOW	is
+IST	just
+EXS	shy
+AND	of
+INT	50
+UOM	%
+NIL	.

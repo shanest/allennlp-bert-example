@@ -1,0 +1,10 @@
+NIL	"
+PRO	You
+NOW	talk
+INT	too
+QUC	much
+NIL	,
+NIL	"
+PRO	he
+EPS	said
+NIL	.

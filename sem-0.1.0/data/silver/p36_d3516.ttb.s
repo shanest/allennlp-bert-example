@@ -1,0 +1,11 @@
+PER	Tom
+NOW	is
+NEC	definitely
+NOT	not
+EXS	stupid
+NIL	.
+PRO	He
+NOW	's
+INT	just
+EXS	lazy
+NIL	.

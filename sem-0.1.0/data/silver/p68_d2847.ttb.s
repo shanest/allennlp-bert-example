@@ -1,0 +1,10 @@
+AND	Every
+CON	house
+REL	on
+HAS	our
+CON	street
+PST	was
+COL	blue
+NOT	except
+CON	ours
+NIL	.

@@ -1,0 +1,11 @@
+PRO	He
+EPS	called
+REL	at
+DEF	the
+CON	baker
+ENS	's
+REL	on
+DEF	the
+CON	way
+CON	home
+NIL	.

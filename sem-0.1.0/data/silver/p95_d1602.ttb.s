@@ -1,0 +1,14 @@
+GEO	Hamburg
+NOW	is
+GPE	Germany
+HAS	's
+TOP	largest
+CON	port
+AND	and
+ALT	also
+DEF	the
+IST	third-largest
+CON	port
+REL	in
+GEO	Europe
+NIL	.

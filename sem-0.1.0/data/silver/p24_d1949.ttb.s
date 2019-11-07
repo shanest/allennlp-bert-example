@@ -1,0 +1,9 @@
+REL	After
+CON	dinner
+NIL	,
+PRO	we
+EPS	played
+CON	cards
+REL	till
+CLO	eleven
+NIL	.

@@ -1,0 +1,16 @@
+FUT	Someday
+DEF	the
+ORG	USA
+FUT	will
+EXS	elect
+DIS	a
+CON	woman
+ROL	president
+NIL	,
+COO	and
+PRO	it
+FUT	wo
+NOT	n't
+EXS	be
+IST	pretty
+NIL	.

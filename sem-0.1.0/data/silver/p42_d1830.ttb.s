@@ -1,0 +1,11 @@
+PRO	I
+NOW	've
+EXS	promised
+PER	Tom
+PRO	I
+FUT	would
+NOT	n't
+EXS	do
+DST	that
+CON	anymore
+NIL	.

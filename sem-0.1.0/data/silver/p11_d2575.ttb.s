@@ -1,0 +1,12 @@
+PER	Filiberto
+NOW	is
+DIS	a
+CON	man
+AND	who
+NOW	is
+MOR	more
+MOR	than
+QUC	forty
+CON	years
+COM	old
+NIL	.

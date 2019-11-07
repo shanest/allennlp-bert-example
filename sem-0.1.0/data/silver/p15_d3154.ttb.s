@@ -1,0 +1,9 @@
+ITJ	Hey
+NIL	!
+HAS	Your
+CON	baseball
+IST	just
+EPS	broke
+HAS	my
+CON	window
+NIL	.

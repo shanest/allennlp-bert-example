@@ -1,0 +1,14 @@
+SUB	When
+DEF	the
+CON	heater
+REL	in
+DEF	the
+CON	barn
+ENS	fails
+NIL	,
+IST	milk-flavoured
+CON	ice
+CON	cubes
+PRX	this
+ENS	entails
+NIL	.

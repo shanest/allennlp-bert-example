@@ -1,0 +1,11 @@
+PRO	I
+PST	was
+EXS	tired
+NIL	,
+COO	so
+PRO	I
+EPS	went
+REL	to
+CON	bed
+IST	early
+NIL	.

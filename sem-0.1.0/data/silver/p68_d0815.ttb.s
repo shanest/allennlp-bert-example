@@ -1,0 +1,9 @@
+HAS	My
+CON	son
+ENS	thinks
+CON	women
+NOW	are
+MOR	stronger
+MOR	than
+CON	men
+NIL	.

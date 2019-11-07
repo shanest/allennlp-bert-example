@@ -1,0 +1,10 @@
+PRX	This
+NOW	is
+NIL	,
+AND	even
+NOW	now
+NIL	,
+DIS	an
+IST	unrealized
+CON	dream
+NIL	.

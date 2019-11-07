@@ -1,0 +1,12 @@
+AND	Because
+AND	of
+HAS	their
+CON	rarity
+NIL	,
+CON	pandas
+NOW	have
+EXS	become
+DIS	a
+CON	world
+CON	treasure
+NIL	.

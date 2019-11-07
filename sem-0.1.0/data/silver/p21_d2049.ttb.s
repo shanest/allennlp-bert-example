@@ -1,0 +1,9 @@
+NOW	Do
+PRO	you
+NOW	have
+DIS	a
+CON	return
+CON	ticket
+REL	to
+GPE	Japan
+QUE	?

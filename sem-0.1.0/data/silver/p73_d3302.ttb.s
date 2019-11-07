@@ -1,0 +1,9 @@
+PRX	This
+CON	problem
+NOW	has
+PFT	been
+EXS	debated
+REL	by
+QUV	many
+CON	economists
+NIL	.

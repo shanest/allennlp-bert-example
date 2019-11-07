@@ -1,0 +1,14 @@
+IMP	If
+UNK	there
+PST	was
+NOT	no
+CON	sun
+NIL	,
+PRO	we
+FUT	would
+NOT	not
+EXS	be
+IST	able
+SUB	to
+EXS	live
+NIL	.

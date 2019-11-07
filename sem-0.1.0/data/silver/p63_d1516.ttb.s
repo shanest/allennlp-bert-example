@@ -1,0 +1,9 @@
+PRO	We
+NOW	look
+IST	up
+REL	to
+PRO	him
+AND	as
+HAS	our
+CON	leader
+NIL	.

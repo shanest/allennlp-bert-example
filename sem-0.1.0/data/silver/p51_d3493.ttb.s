@@ -1,0 +1,13 @@
+SUB	After
+EXG	getting
+REL	off
+DEF	the
+CON	train
+NIL	,
+PRO	he
+EPS	looked
+REL	for
+DIS	a
+CON	telephone
+CON	box
+NIL	.

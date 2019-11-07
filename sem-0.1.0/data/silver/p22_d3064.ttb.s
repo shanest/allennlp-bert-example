@@ -1,0 +1,11 @@
+PER	Lucy
+EPS	witnessed
+DIS	a
+CON	murder
+REL	in
+DEF	the
+IST	main
+CON	square
+AND	of
+GEO	Florence
+NIL	.

@@ -1,0 +1,14 @@
+PRO	We
+POS	can
+NOT	not
+EXS	follow
+DEF	the
+TOP	latest
+CON	topics
+NOT	without
+EXG	reading
+DIS	a
+CON	newspaper
+AND	every
+CON	day
+NIL	.

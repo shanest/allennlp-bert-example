@@ -1,0 +1,11 @@
+PRX	This
+NOW	is
+NOT	not
+DEF	the
+CON	way
+PRO	it
+NOW	's
+EXS	supposed
+SUB	to
+EXS	happen
+NIL	.

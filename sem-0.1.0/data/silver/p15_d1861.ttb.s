@@ -1,0 +1,13 @@
+PRO	I
+NOW	'm
+EXS	sorry
+SUB	to
+EXT	have
+EXS	kept
+PRO	you
+EXS	waiting
+REL	for
+DIS	a
+IST	long
+CON	time
+NIL	.

@@ -1,0 +1,12 @@
+PER	Tom
+EPS	claimed
+PRO	he
+PST	had
+NOT	nothing
+SUB	to
+EXS	do
+REL	with
+PER	Mary
+HAS	's
+CON	murder
+NIL	.

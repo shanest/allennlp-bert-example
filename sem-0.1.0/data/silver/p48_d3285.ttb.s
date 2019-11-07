@@ -1,0 +1,17 @@
+PRO	I
+ALT	also
+ENS	recommend
+SUB	to
+EXS	visit
+TOP	at
+TOP	least
+QUC	one
+CON	city
+AND	which
+NOW	is
+IST	usually
+NOT	not
+EXS	visited
+REL	by
+CON	tourists
+NIL	.

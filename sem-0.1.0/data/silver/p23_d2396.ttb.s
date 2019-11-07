@@ -1,0 +1,10 @@
+PRO	He
+EPS	tried
+SUB	to
+EXS	approach
+PRO	her
+EXG	using
+AND	every
+IST	possible
+CON	means
+NIL	.

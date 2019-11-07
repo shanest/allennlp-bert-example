@@ -1,0 +1,9 @@
+EXS	Come
+REL	on
+NIL	,
+AND	who
+FUT	would
+EXS	believe
+SUB	that
+EXS	crap
+QUE	?

@@ -1,0 +1,10 @@
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	know
+QUE	what
+PRO	you
+EPS	talked
+IST	about
+NIL	.

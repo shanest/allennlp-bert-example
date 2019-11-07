@@ -1,0 +1,12 @@
+PRO	I
+NOW	'm
+IST	sure
+PRO	it
+FUT	'll
+EXS	be
+IST	easy
+SUB	to
+EXS	find
+DIS	a
+CON	place
+NIL	.

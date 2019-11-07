@@ -1,0 +1,9 @@
+PER	Tom
+EPS	said
+SUB	that
+PRO	you
+EPS	wanted
+SUB	to
+EXS	see
+PRO	me
+NIL	.

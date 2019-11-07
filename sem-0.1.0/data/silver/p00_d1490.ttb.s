@@ -1,0 +1,13 @@
+REL	In
+GPE	Canada
+PRO	we
+ENS	sleep
+REL	in
+DIS	a
+CON	bed
+NIL	,
+NOT	not
+REL	on
+DEF	the
+CON	floor
+NIL	.

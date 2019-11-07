@@ -1,0 +1,6 @@
+PRO	I
+ENS	owe
+PRO	her
+QUC	100,000
+UOM	yen
+NIL	.

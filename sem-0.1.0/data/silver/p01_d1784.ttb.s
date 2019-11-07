@@ -1,0 +1,12 @@
+TOP	At
+EXS	present
+PRO	I
+NOW	'm
+EXG	working
+REL	for
+DIS	a
+IST	big
+CON	company
+REL	in
+GPE	Brazil
+NIL	.

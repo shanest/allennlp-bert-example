@@ -1,0 +1,9 @@
+PER	Tom
+EPS	gave
+PER	Mary
+DIS	a
+CON	kiss
+REL	on
+DEF	the
+CON	mouth
+NIL	.

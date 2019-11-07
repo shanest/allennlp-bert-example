@@ -1,0 +1,14 @@
+PRO	We
+NOW	use
+CON	words
+SUB	to
+EXS	tell
+DIS	somebody
+DIS	something
+NIL	,
+AND	that
+NOW	is
+NIL	,
+SUB	to
+EXS	communicate
+NIL	.

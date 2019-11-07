@@ -1,0 +1,13 @@
+REL	In
+GPE	Japan
+PRO	you
+POS	can
+IST	always
+EXS	catch
+DIS	a
+CON	cab
+EQU	,
+CON	day
+DIS	or
+CON	night
+NIL	.

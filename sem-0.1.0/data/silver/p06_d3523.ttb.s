@@ -1,0 +1,9 @@
+NOT	No
+CON	one
+NOW	uses
+SUB	that
+CON	kind
+AND	of
+CON	weapon
+CON	anymore
+NIL	.

@@ -1,0 +1,14 @@
+PRO	It
+NOW	is
+EXS	correct
+SUB	to
+EXS	say
+SUB	that
+IST	psychological
+CON	readiness
+NOW	is
+EXS	important
+REL	in
+PRX	this
+CON	therapy
+NIL	.

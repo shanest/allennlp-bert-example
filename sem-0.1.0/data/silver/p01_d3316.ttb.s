@@ -1,0 +1,12 @@
+PRO	You
+ENS	know
+PER	Tom
+FUT	wo
+NOT	n't
+EXS	do
+SUB	that
+NIL	,
+NOW	do
+NOT	n't
+PRO	you
+QUE	?

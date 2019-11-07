@@ -1,0 +1,11 @@
+PRO	It
+NOW	is
+SUB	because
+PRO	he
+NOW	is
+IST	cruel
+SUB	that
+PRO	I
+ENS	dislike
+PRO	him
+NIL	.

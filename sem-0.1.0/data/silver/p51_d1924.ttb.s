@@ -1,0 +1,10 @@
+HAS	My
+ROL	sister
+IST	usually
+ENS	goes
+REL	to
+DEF	the
+CON	park
+AND	every
+CON	weekend
+NIL	.

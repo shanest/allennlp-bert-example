@@ -1,0 +1,11 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	care
+AND	about
+QUE	what
+PER	Mary
+ENS	says
+AND	about
+PRO	him
+NIL	.

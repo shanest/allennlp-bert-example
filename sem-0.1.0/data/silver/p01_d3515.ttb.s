@@ -1,0 +1,10 @@
+PER	Tom
+EPS	took
+DIS	a
+CON	screwdriver
+AND	out
+AND	of
+DEF	the
+CON	tool
+CON	chest
+NIL	.

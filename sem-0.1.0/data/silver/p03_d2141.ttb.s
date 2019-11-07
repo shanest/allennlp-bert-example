@@ -1,0 +1,9 @@
+AND	Could
+PRO	you
+NOW	find
+IST	out
+QUE	how
+SUB	to
+EXS	get
+IST	there
+QUE	?

@@ -1,0 +1,9 @@
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	get
+DIS	something
+SUB	to
+EXS	eat
+NIL	.

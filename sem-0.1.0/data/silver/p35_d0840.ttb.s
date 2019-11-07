@@ -1,0 +1,11 @@
+PRO	He
+EPS	said
+SUB	that
+PRO	he
+PST	had
+EXS	left
+HAS	his
+CON	wallet
+REL	at
+CON	home
+NIL	.

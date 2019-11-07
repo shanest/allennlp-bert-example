@@ -1,0 +1,14 @@
+PRO	I
+NOW	'm
+NOT	not
+EXG	saying
+QUE	what
+PRO	she
+EPS	did
+PST	was
+DEF	the
+IST	right
+CON	thing
+NIL	to
+EXS	do
+NIL	.

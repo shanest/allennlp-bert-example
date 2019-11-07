@@ -1,0 +1,10 @@
+DEF	The
+ROL	captain
+EPS	breathed
+IST	new
+CON	life
+REL	into
+HAS	his
+IST	tired
+CON	crew
+NIL	.

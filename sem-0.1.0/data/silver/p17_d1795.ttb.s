@@ -1,0 +1,10 @@
+PRO	He
+EPS	dropped
+IST	out
+AND	of
+CON	college
+REL	in
+DEF	the
+IST	first
+CON	year
+NIL	.

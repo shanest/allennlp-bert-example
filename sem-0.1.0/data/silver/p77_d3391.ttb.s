@@ -1,0 +1,10 @@
+PRO	It
+EPS	took
+PER	Tom
+QUC	10
+CON	years
+SUB	to
+EXS	finish
+HAS	his
+CON	house
+NIL	.

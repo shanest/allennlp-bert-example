@@ -1,0 +1,10 @@
+PER	Tom
+EPS	gave
+PER	Mary
+DIS	a
+CON	list
+AND	of
+AND	all
+DEF	the
+CON	victims
+NIL	.

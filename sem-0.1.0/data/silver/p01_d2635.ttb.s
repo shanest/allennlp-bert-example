@@ -1,0 +1,13 @@
+PER	Tom
+ENS	loves
+DEF	the
+IST	new
+CON	toy
+SUB	that
+PER	Mary
+EPS	gave
+PRO	him
+REL	for
+HAS	his
+CON	birthday
+NIL	.

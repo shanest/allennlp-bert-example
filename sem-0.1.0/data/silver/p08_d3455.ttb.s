@@ -1,0 +1,15 @@
+PRO	I
+PST	was
+EXS	worn
+IST	out
+SUB	because
+PRO	I
+NEC	had
+SUB	to
+EXS	take
+CON	care
+AND	of
+INT	so
+QUV	many
+CON	children
+NIL	.

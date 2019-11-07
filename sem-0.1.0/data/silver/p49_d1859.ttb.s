@@ -1,0 +1,12 @@
+NOW	Do
+SUB	as
+PRO	I
+NOW	say
+NIL	,
+COO	and
+NOT	no
+CON	one
+FUT	will
+EXS	get
+EXS	hurt
+NIL	.

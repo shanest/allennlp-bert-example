@@ -1,0 +1,16 @@
+NOW	Do
+PRO	you
+IST	really
+NOW	think
+PRO	it
+NOW	's
+EXS	appropriate
+SUB	to
+EXS	put
+DIS	a
+CON	sentence
+AND	like
+DST	that
+REL	on
+PRX	Tatoeba
+QUE	?

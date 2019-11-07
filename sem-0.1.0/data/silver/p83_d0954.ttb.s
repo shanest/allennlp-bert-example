@@ -1,0 +1,11 @@
+PRO	I
+NOW	'm
+IST	always
+EXS	bored
+REL	with
+CON	films
+SUB	that
+EXS	have
+IST	little
+CON	action
+NIL	.

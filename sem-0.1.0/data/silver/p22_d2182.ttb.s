@@ -1,0 +1,11 @@
+EXG	Entering
+DEF	the
+CON	room
+NIL	,
+PRO	I
+EPS	found
+PRO	her
+EXG	playing
+DEF	the
+CON	piano
+NIL	.

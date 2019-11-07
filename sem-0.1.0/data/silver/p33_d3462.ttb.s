@@ -1,0 +1,15 @@
+PER	Tom
+AND	and
+PER	Mary
+PST	were
+EXS	thrilled
+REL	to
+CON	bits
+SUB	when
+HAS	their
+CON	daughter
+EPS	took
+HAS	her
+IST	first
+CON	steps
+NIL	.

@@ -1,0 +1,15 @@
+REL	On
+DIS	a
+IST	first
+CON	date
+NIL	,
+PRO	it
+NOW	's
+TOP	best
+SUB	to
+EXS	steer
+EXS	clear
+AND	of
+EXS	touchy
+CON	subjects
+NIL	.

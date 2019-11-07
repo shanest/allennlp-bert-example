@@ -1,0 +1,10 @@
+PRO	You
+NOW	're
+EXS	aiming
+INT	too
+EXS	low
+SUB	to
+EXS	hit
+DEF	the
+CON	target
+NIL	.

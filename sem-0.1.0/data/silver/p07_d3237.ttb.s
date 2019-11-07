@@ -1,0 +1,11 @@
+NOW	Do
+NOT	n't
+EXS	believe
+PRO	him
+NIL	.
+PRO	He
+ENS	lies
+EXS	left
+AND	and
+CON	right
+NIL	!

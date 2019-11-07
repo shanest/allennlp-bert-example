@@ -1,0 +1,12 @@
+REL	In
+UNK	which
+CON	month
+PST	did
+DEF	the
+CON	ferry
+NIL	"
+ART	Estonia
+NIL	"
+CON	shipwreck
+ENS	occur
+QUE	?

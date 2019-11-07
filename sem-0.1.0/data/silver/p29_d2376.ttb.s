@@ -1,0 +1,9 @@
+PRO	You
+PST	had
+MOR	better
+EXS	make
+EXS	use
+AND	of
+PRX	this
+CON	opportunity
+NIL	.

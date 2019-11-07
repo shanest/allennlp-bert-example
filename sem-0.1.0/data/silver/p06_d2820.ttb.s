@@ -1,0 +1,12 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	told
+SUB	that
+PRO	you
+PST	were
+EXS	looking
+REL	for
+DIS	a
+CON	babysitter
+NIL	.

@@ -1,0 +1,13 @@
+PRX	This
+NOW	is
+DEF	the
+CON	moment
+PRO	I
+NOW	've
+PFT	been
+EXS	waiting
+REL	for
+AND	all
+HAS	my
+CON	life
+NIL	.

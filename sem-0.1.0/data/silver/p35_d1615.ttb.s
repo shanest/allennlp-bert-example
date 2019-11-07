@@ -1,0 +1,9 @@
+DEF	The
+CON	girl
+PER	Tom
+NOW	is
+EXS	talking
+REL	with
+NOW	is
+PER	Mary
+NIL	.

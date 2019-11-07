@@ -1,0 +1,12 @@
+PRO	I
+EPS	suggested
+SUB	to
+PER	Tom
+DEF	the
+CON	possibility
+SUB	that
+PRO	he
+ENS	work
+REL	with
+PER	Mary
+NIL	.

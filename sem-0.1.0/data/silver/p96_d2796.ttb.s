@@ -1,0 +1,10 @@
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PRO	we
+NOW	're
+IST	completely
+EXS	sold
+IST	out
+NIL	.

@@ -1,0 +1,12 @@
+PRO	I
+FUT	would
+EXS	like
+SUB	to
+EXS	talk
+REL	to
+PRO	you
+DEF	the
+CON	day
+REL	after
+FUT	tomorrow
+NIL	.

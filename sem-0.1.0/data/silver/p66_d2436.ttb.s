@@ -1,0 +1,16 @@
+PRO	I
+EPS	used
+SUB	to
+EXS	ride
+HAS	my
+CON	bike
+REL	to
+CON	school
+NIL	,
+BUT	but
+NOW	now
+PRO	I
+NOW	take
+DEF	the
+CON	bus
+NIL	.

@@ -1,0 +1,9 @@
+AND	Why
+NOW	do
+NOT	n't
+PRO	you
+EXS	join
+REL	in
+DEF	the
+CON	conversation
+QUE	?

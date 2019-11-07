@@ -1,0 +1,17 @@
+NIL	TATOEBA
+POS	could
+EXS	be
+DIS	an
+CON	acronym
+REL	in
+IST	various
+CON	languages
+AND	:
+DEF	The
+ORG	All-inclusive
+ORG	Treasury
+AND	Of
+CON	Examples
+IST	Beautifully
+CON	Arranged
+NIL	.

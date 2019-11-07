@@ -1,0 +1,15 @@
+PER	Tom
+EPS	asked
+PRO	me
+IMP	if
+PRO	I
+EPS	knew
+DIS	anybody
+AND	who
+POS	could
+EXS	translate
+REL	from
+GPO	French
+REL	into
+GPO	English
+NIL	.

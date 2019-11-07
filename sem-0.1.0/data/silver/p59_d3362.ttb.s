@@ -1,0 +1,10 @@
+PRO	I
+NOW	've
+PFT	been
+EXS	studying
+GPO	French
+SUB	since
+PRO	I
+PST	was
+QUC	thirteen
+NIL	.

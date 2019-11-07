@@ -1,0 +1,12 @@
+CON	Mum
+EQU	,
+CON	dad
+NIL	,
+PRO	I
+NOW	've
+EXS	got
+DIS	something
+SUB	to
+EXS	tell
+PRO	you
+NIL	.

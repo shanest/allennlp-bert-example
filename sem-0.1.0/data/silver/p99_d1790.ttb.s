@@ -1,0 +1,11 @@
+PER	Tom
+EPS	bought
+SUB	that
+CON	pair
+AND	of
+CON	shoes
+REL	at
+DIS	a
+CON	clearance
+CON	sale
+NIL	.

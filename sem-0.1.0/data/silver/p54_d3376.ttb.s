@@ -1,0 +1,9 @@
+DEF	The
+CON	election
+CON	results
+NOW	have
+NOT	not
+ALT	yet
+EXS	become
+EXS	known
+NIL	.

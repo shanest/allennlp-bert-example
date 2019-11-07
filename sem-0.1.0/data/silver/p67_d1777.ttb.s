@@ -1,0 +1,10 @@
+DST	That
+CON	man
+EPS	died
+AND	of
+CON	lung
+CON	cancer
+DIS	a
+CON	week
+PST	ago
+NIL	.

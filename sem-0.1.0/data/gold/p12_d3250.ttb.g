@@ -1,0 +1,12 @@
+NIL	It
+NOW	's
+EXG	raining
+NIL	,
+BUT	but
+PRO	she
+NOW	's
+NOT	not
+EXG	wearing
+DIS	a
+CON	coat
+NIL	.

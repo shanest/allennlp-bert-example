@@ -1,0 +1,12 @@
+PER	Tom
+PST	was
+DEF	the
+XCL	only
+QUC	one
+EXS	studying
+SUB	when
+PRO	I
+EPS	entered
+DEF	the
+CON	classroom
+NIL	.

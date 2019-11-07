@@ -1,0 +1,13 @@
+PER	Tom
+IST	really
+EPS	hoped
+SUB	that
+PER	Mary
+FUT	would
+EXS	go
+REL	to
+DEF	the
+CON	concert
+REL	with
+PRO	him
+NIL	.

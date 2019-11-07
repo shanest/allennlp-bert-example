@@ -1,0 +1,14 @@
+QUE	How
+NOW	is
+PRO	it
+SUB	that
+PRO	it
+NOW	's
+IST	always
+REL	at
+DEF	the
+CON	bottom
+AND	of
+DEF	the
+CON	bag
+QUE	?

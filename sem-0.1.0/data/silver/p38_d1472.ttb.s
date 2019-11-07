@@ -1,0 +1,13 @@
+PER	Tom
+NOW	does
+NOT	n't
+EXS	know
+REL	for
+IST	certain
+QUE	what
+PER	Mary
+NOW	is
+EXS	going
+SUB	to
+EXS	do
+NIL	.

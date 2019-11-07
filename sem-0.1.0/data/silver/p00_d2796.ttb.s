@@ -1,0 +1,17 @@
+DEF	The
+CON	tribe
+ENS	worships
+HAS	its
+CON	ancestors
+COO	and
+ENS	speaks
+HAS	its
+IST	own
+CON	language
+NIL	,
+COO	and
+ENS	speaks
+DIS	an
+IST	unfamiliar
+CON	language
+NIL	.

@@ -1,0 +1,10 @@
+DEF	The
+CON	wind
+EPS	blew
+DEF	the
+CON	umbrella
+AND	out
+AND	of
+HAS	her
+CON	hand
+NIL	.

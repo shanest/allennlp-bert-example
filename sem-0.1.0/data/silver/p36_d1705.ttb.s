@@ -1,0 +1,15 @@
+SUB	As
+PRO	he
+PST	had
+NOT	no
+CON	way
+AND	of
+EXS	making
+CON	fire
+NIL	,
+PRO	he
+EPS	ate
+DEF	the
+CON	fish
+IST	raw
+NIL	.

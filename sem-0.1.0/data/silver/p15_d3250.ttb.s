@@ -1,0 +1,12 @@
+PER	Tom
+EPS	wondered
+IMP	if
+PER	Mary
+FUT	would
+EXS	like
+DEF	the
+CON	gift
+PRO	he
+EPS	bought
+PRO	her
+NIL	.

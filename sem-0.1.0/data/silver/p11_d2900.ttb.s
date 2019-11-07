@@ -1,0 +1,14 @@
+DEF	The
+ROL	politician
+EPS	pushed
+REL	for
+CON	reform
+REL	by
+EXG	denouncing
+DEF	the
+CON	corruption
+AND	of
+DEF	the
+CON	government
+CON	officials
+NIL	.

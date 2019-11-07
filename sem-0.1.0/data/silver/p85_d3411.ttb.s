@@ -1,0 +1,12 @@
+DST	That
+FUT	'd
+EXS	be
+IST	nice
+NIL	.
+QUE	What
+SUB	about
+EXS	inviting
+PER	John
+AND	and
+PER	Mary
+QUE	?

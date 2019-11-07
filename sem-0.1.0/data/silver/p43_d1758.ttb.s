@@ -1,0 +1,12 @@
+DST	Those
+AND	who
+NOW	are
+EXS	suffering
+REL	from
+CON	hunger
+REL	in
+GEO	Africa
+ENS	need
+IST	urgent
+EXS	help
+NIL	.

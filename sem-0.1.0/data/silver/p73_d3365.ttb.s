@@ -1,0 +1,10 @@
+PER	Tom
+EPS	sat
+IST	down
+REL	on
+DEF	the
+CON	floor
+AND	next
+REL	to
+PER	Mary
+NIL	.

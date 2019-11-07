@@ -1,0 +1,10 @@
+PRO	You
+NEC	should
+EXS	pay
+MOR	more
+CON	attention
+REL	to
+QUE	what
+PRO	you
+NOW	say
+NIL	.

@@ -1,0 +1,10 @@
+PER	Tom
+ENS	thinks
+SUB	that
+PRO	he
+HAS	's
+ALT	different
+REL	from
+ALT	other
+CON	people
+NIL	.

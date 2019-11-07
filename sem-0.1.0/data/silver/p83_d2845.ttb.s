@@ -1,0 +1,12 @@
+SUB	When
+CON	chickens
+NOW	pancake-shape
+EXS	maintain
+NIL	,
+DEF	the
+CON	tractor
+NEC	must
+EXT	have
+EXS	won
+ALT	again
+NIL	.

@@ -1,0 +1,14 @@
+NOT	No
+CON	one
+ENS	knows
+SUB	whether
+UNK	there
+FUT	will
+EXS	be
+DIS	a
+CON	war
+REL	in
+DEF	the
+GEO	Middle
+GEO	East
+NIL	.

@@ -1,0 +1,11 @@
+PRO	I
+POS	ca
+NOT	n't
+EXS	walk
+NIL	,
+BUT	but
+PRO	I
+POS	can
+NEC	definitely
+EXS	hobble
+NIL	.

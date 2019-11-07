@@ -1,0 +1,11 @@
+PRO	We
+FUT	'll
+EXS	be
+IST	ready
+SUB	to
+EXS	start
+REL	in
+DIS	a
+IST	few
+CON	minutes
+NIL	.

@@ -1,0 +1,13 @@
+QUC	Two
+CON	men
+PST	had
+HAS	their
+CON	arms
+EPS	severed
+REL	in
+GPE	Taiwan
+REL	after
+DIS	a
+CON	tug-of-war
+CON	accident
+NIL	.

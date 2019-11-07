@@ -1,0 +1,16 @@
+PER	Little
+PST	did
+AND	any
+AND	of
+PRO	us
+ENS	know
+SUB	that
+PER	Mary
+IST	only
+PST	had
+DIS	a
+IST	few
+CON	months
+SUB	to
+EXS	live
+NIL	.

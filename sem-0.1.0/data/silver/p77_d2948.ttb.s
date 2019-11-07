@@ -1,0 +1,12 @@
+DEF	The
+CON	primates
+NOW	include
+NOT	not
+XCL	only
+DEF	the
+CON	apes
+NIL	,
+BUT	but
+ALT	also
+CON	man
+NIL	.

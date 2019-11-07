@@ -1,0 +1,11 @@
+SUB	When
+PRO	I
+PST	was
+EXG	taking
+DIS	a
+CON	bath
+NIL	,
+DEF	the
+CON	telephone
+EPS	rang
+NIL	.

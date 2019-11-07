@@ -1,0 +1,11 @@
+NOW	Have
+PRO	you
+EPS	got
+DIS	any
+CON	idea
+QUE	what
+PRO	I
+NOW	'm
+EXS	talking
+IST	about
+QUE	?

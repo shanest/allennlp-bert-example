@@ -1,0 +1,12 @@
+PER	Tom
+EPS	played
+DEF	the
+CON	piano
+REL	for
+QUC	three
+CON	hours
+NOT	without
+EXG	taking
+DIS	a
+CON	break
+NIL	.
