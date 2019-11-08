@@ -1,6 +1,6 @@
 from typing import List, Dict
 
-from ..util import token_alignment
+from probing.data.util import token_alignment
 
 from allennlp.data import Instance
 from allennlp.data.dataset_readers import DatasetReader

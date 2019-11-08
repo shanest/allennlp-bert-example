@@ -2,11 +2,13 @@ from typing import Iterator
 
 import glob
 
-from .tagging_subword import TaggingSubwordReader
+from probing.data.dataset_readers.tagging_subword import TaggingSubwordReader
 
 from allennlp.data import Instance
+from allennlp.data.dataset_readers import DatasetReader
 
 
+@DatasetReader.register("semantic_tag")
 class SemTagDatasetReader(TaggingSubwordReader):
     """
     DatasetReader for Semantic Tagging dataset: https://pmb.let.rug.nl/data.php

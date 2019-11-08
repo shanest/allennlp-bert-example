@@ -1,5 +1,5 @@
-from data.dataset_readers.semantic_tagging import SemTagDatasetReader
-from models.tagger import SubwordWordTagger
+from probing.data.dataset_readers.semantic_tagging import SemTagDatasetReader
+from probing.models.tagger import SubwordWordTagger
 
 import numpy as np
 import torch

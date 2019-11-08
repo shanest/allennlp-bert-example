@@ -16,6 +16,7 @@ from allennlp.nn.util import \
 from allennlp.training.metrics import CategoricalAccuracy
 
 
+@Model.register("subword_word_tagger")
 class SubwordWordTagger(Model):
 
     # TODO: document!
@@ -23,9 +24,9 @@ class SubwordWordTagger(Model):
     def __init__(self,
                  subword_embeddings: TextFieldEmbedder,
                  subword_aggregator: SpanExtractor,
-                 data_vocab: Vocabulary,
+                 vocab: Vocabulary = None,
                  freeze_encoder: bool = True):
-        super().__init__(data_vocab)
+        super().__init__(vocab)
 
         self.subword_embeddings = subword_embeddings
         self._freeze_encoder = freeze_encoder
@@ -37,7 +38,7 @@ class SubwordWordTagger(Model):
 
         self.classifier = TimeDistributed(torch.nn.Linear(
             in_features=subword_aggregator.get_output_dim(),
-            out_features=data_vocab.get_vocab_size("labels")))
+            out_features=vocab.get_vocab_size("labels")))
 
         self.accuracy = CategoricalAccuracy()
 
