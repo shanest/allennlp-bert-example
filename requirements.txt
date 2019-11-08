@@ -1,2 +1,2 @@
-allennlp==0.9.1
+allennlp>=0.9
 tensorboard>=2.0
