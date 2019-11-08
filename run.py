@@ -54,19 +54,16 @@ if __name__ == '__main__':
     reader = SemTagDatasetReader(
         tokenizer, {"model_tokens": token_indexer},
         start_tokens, end_tokens)
-    entire_dataset = reader.read('sem-0.1.0/data/gold')
+
+    train_dataset = reader.read('sem-0.1.0/data/gold/train')
+    val_dataset = reader.read('sem-0.1.0/data/gold/val')
 
     # NOTE: PretrainedTransformerIndexer does not implement the
     # count_vocab_items method, so this vocabulary reflects only the new
     # dataset, not the pretrained model's vocabulary
     # see: https://github.com/allenai/allennlp/blob/master/allennlp/data/
     # token_indexers/pretrained_transformer_indexer.py#L47-L50
-    data_vocab = Vocabulary.from_instances(entire_dataset)
-
-    # TODO: move this splitting to pre-processing on disk, not in memory!
-    split_idx = int(0.8 * len(entire_dataset))
-    train_dataset = entire_dataset[:split_idx]
-    dev_dataset = entire_dataset[split_idx:]
+    data_vocab = Vocabulary.from_instances(train_dataset + val_dataset)
 
     bert_token_embedder = PretrainedTransformerEmbedder("bert-base-uncased")
     bert_textfield_embedder = BasicTextFieldEmbedder(
@@ -92,7 +89,7 @@ if __name__ == '__main__':
                       serialization_dir='/tmp/test',
                       iterator=iterator,
                       train_dataset=train_dataset,
-                      validation_dataset=dev_dataset,
+                      validation_dataset=val_dataset,
                       patience=5,
                       num_epochs=30)
     trainer.train()
