@@ -19,8 +19,6 @@ from allennlp.modules.text_field_embedders \
 
 from allennlp.modules.token_embedders.pretrained_transformer_embedder \
         import PretrainedTransformerEmbedder
-from allennlp.modules.seq2vec_encoders.boe_encoder \
-        import BagOfEmbeddingsEncoder
 
 from allennlp.modules.span_extractors.endpoint_span_extractor \
         import EndpointSpanExtractor
@@ -68,8 +66,6 @@ if __name__ == '__main__':
     bert_token_embedder = PretrainedTransformerEmbedder("bert-base-uncased")
     bert_textfield_embedder = BasicTextFieldEmbedder(
         {"model_tokens": bert_token_embedder})
-
-    bag_encoder = BagOfEmbeddingsEncoder(bert_token_embedder.get_output_dim())
 
     # represent a word by the first sub-word token
     word_last_token_extractor = EndpointSpanExtractor(
