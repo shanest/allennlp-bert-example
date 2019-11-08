@@ -42,12 +42,11 @@ local do_lowercase = false;
     },
     "iterator": {
         "type": "basic",
-        "batch_size": 8
+        "batch_size": 80
     },
     "trainer": {
         "num_epochs": 50,
         "patience": 3,
-        "validation_metric": "+accuracy",
         "optimizer": {
             "type": "adam"
         }
