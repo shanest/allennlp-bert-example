@@ -1,5 +1,7 @@
 from probing.data.dataset_readers.semantic_tagging import SemTagDatasetReader
 from probing.models.tagger import SubwordWordTagger
+from probing.modules.span_extractors.encoder_span_extractor \
+        import EncoderSpanExtractor
 
 import numpy as np
 import torch
@@ -22,6 +24,9 @@ from allennlp.modules.token_embedders.pretrained_transformer_embedder \
 
 from allennlp.modules.span_extractors.endpoint_span_extractor \
         import EndpointSpanExtractor
+
+from allennlp.modules.seq2vec_encoders.boe_encoder \
+        import BagOfEmbeddingsEncoder
 
 from allennlp.training.trainer import Trainer
 
@@ -71,8 +76,13 @@ if __name__ == '__main__':
     word_last_token_extractor = EndpointSpanExtractor(
         bert_token_embedder.get_output_dim(), combination='y')
 
+    # custom span extractor!
+    bag_encoder = BagOfEmbeddingsEncoder(bert_token_embedder.get_output_dim())
+    word_bag_extractor = EncoderSpanExtractor(bag_encoder)
+
     tagger = SubwordWordTagger(bert_textfield_embedder,
-                               word_last_token_extractor,
+                               word_bag_extractor,
+                               # word_last_token_extractor,
                                data_vocab)
 
     iterator = BucketIterator(
