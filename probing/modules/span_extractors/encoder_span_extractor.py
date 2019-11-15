@@ -17,15 +17,6 @@ class EncoderSpanExtractor(SpanExtractor):
         # we distribute the pooler across _spans_, not actual time
         self._pooler = TimeDistributed(pooler)
 
-    def get_input_dim(self) -> int:
-        return self._input_dim
-
-    def get_output_dim(self) -> int:
-        return self._input_dim
-
-    # TODO: WRITE .forward, using SelfAttentive as inspiration, but applying
-    # pooler:
-    # https://github.com/allenai/allennlp/blob/master/allennlp/modules/span_extractors/self_attentive_span_extractor.py
     def forward(
         self,
         # (batch_size, sequence_length, embedding_dim)
@@ -38,9 +29,13 @@ class EncoderSpanExtractor(SpanExtractor):
         span_embeddings, span_mask = get_full_spans(
             sequence_tensor, span_indices)
 
-        print(span_embeddings.shape)
-
         # (batch_size, num_spans, embedding_dim)
         span_representations = self._pooler(span_embeddings, span_mask)
 
         return span_representations
+
+    def get_input_dim(self) -> int:
+        return self._input_dim
+
+    def get_output_dim(self) -> int:
+        return self._input_dim
