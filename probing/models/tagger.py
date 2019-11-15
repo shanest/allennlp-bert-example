@@ -45,6 +45,7 @@ class SubwordWordTagger(Model):
     def forward(self,
                 data_sentence: Dict[str, torch.Tensor],
                 model_sentence: Dict[str, torch.Tensor],
+                # (batch_size, max_word_seq_len, 2)
                 data_to_model_spans: torch.Tensor,
                 labels: torch.Tensor = None) -> Dict[str, torch.Tensor]:
 
