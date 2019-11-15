@@ -67,19 +67,16 @@ def get_full_spans(
     raw_span_indices = (span_starts + max_span_range_indices)
     # the actual indices in the sequence for a given span!
     # (batch_size, num_spans, max_span_width)
-    span_indices = (
-        raw_span_indices *
-        (raw_span_indices < sequence_tensor.size(1)).float()
-    ).long()
-
-    # (batch_size * num_spans * max_span_width)
-    flat_span_indices = util.flatten_and_batch_shift_indices(
-        span_indices, sequence_tensor.size(1)
-    )
+    final_span_indices = (raw_span_indices *
+                          (raw_span_indices < sequence_tensor.size(1)).float())
+    # When AllenNLP pads a sequencefield of spanfields, it will generate
+    # padding spans with indices [-1, -1], which can lead to errors here
+    # so make sure there are no negative values
+    final_span_indices = torch.nn.functional.relu(final_span_indices).long()
 
     # (batch_size, num_spans, max_width, embedding_dim)
     span_embeddings = util.batched_index_select(
-        sequence_tensor, span_indices, flat_span_indices
+        sequence_tensor, final_span_indices
     )
 
     return span_embeddings, span_mask
