@@ -4,7 +4,7 @@ from allennlp.modules.span_extractors import SpanExtractor
 from allennlp.modules.seq2vec_encoders.seq2vec_encoder import Seq2VecEncoder
 from allennlp.modules.time_distributed import TimeDistributed
 
-from probing.nn.util import get_full_spans
+from tagging.nn.util import get_full_spans
 
 
 class EncoderSpanExtractor(SpanExtractor):

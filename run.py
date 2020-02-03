@@ -1,6 +1,6 @@
-from probing.data.dataset_readers.semantic_tagging import SemTagDatasetReader
-from probing.models.tagger import SubwordWordTagger
-from probing.modules.span_extractors.encoder_span_extractor \
+from tagging.data.dataset_readers.semantic_tagging import SemTagDatasetReader
+from tagging.models.tagger import SubwordWordTagger
+from tagging.modules.span_extractors.encoder_span_extractor \
         import EncoderSpanExtractor
 
 import numpy as np

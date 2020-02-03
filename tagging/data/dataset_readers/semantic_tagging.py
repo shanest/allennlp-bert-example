@@ -2,7 +2,7 @@ from typing import Iterator
 
 import glob
 
-from probing.data.dataset_readers.tagging_subword import TaggingSubwordReader
+from tagging.data.dataset_readers.tagging_subword import TaggingSubwordReader
 
 from allennlp.data import Instance
 from allennlp.data.dataset_readers import DatasetReader
