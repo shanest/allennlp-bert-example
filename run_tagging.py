@@ -51,7 +51,7 @@ if __name__ == '__main__':
     tokenizer._end_tokens = []
 
     token_indexer = PretrainedTransformerIndexer(
-        model_name="bert-base-cased",
+        model_name="bert-base-uncased",
         do_lowercase=uncased)
 
     reader = SemTagDatasetReader(
