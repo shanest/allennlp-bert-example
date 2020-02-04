@@ -1,3 +1,7 @@
 sem-0.1.0
 *.swp
 *__pycache__
+trainDevTestTrees_PTB.zip
+sst/trees/train.txt
+sst/trees/test.txt
+sst/trees/dev.txt
