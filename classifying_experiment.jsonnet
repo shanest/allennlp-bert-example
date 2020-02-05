@@ -1,18 +1,6 @@
-/** You could basically use this config to train your own BERT classifier,
-    with the following changes:
+# Modified from the example at
+# allennlp/tests/fixtures/bert/bert_for_classification.jssonnet
 
-    1. change the `bert_model` variable to "bert-base-uncased" (or whichever you prefer)
-    2. swap in your own DatasetReader. It should generate instances
-       that look like {"tokens": TextField(...), "label": LabelField(...)}.
-
-       You don't need to add the "[CLS]" or "[SEP]" tokens to your instances,
-       that's handled automatically by the token indexer.
-    3. replace train_data_path and validation_data_path with real paths
-    4. any other parameters you want to change (e.g. dropout)
- */
-
-
-# For a real model you'd want to use "bert-base-uncased" or similar.
 local bert_model = "bert-base-uncased";
 local do_lowercase = true;
 {
