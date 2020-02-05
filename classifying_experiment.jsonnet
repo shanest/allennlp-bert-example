@@ -22,13 +22,19 @@ local do_lowercase = true;
     "train_data_path": "sst/trees/train.txt",
     "validation_data_path": "sst/trees/dev.txt",
     "model": {
-        "type": "bert_for_classification",
-        "bert_model": bert_model,
-        "trainable": false,
-        "dropout": 0.0
+        "type": "bert_classifier",
+        "embedder": {
+            "type": "basic",
+            "tokens": {
+                "type": "pretrained_transformer",
+                "model_name": bert_model
+            }
+        },
+        "freeze_encoder": true,
     },
     "iterator": {
         "type": "bucket",
+        "sorting_keys": [["tokens", "num_tokens"]],
         "batch_size": 32
     },
     "trainer": {
