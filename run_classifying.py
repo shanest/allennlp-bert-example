@@ -10,10 +10,14 @@ from allennlp.data.tokenizers.pretrained_transformer_tokenizer \
         import PretrainedTransformerTokenizer
 from allennlp.data.token_indexers.pretrained_transformer_indexer \
         import PretrainedTransformerIndexer
+from allennlp.modules.token_embedders.pretrained_transformer_embedder \
+        import PretrainedTransformerEmbedder
+from allennlp.modules.text_field_embedders.basic_text_field_embedder \
+        import BasicTextFieldEmbedder
 
 from allennlp.data.vocabulary import Vocabulary
 
-from allennlp.models.bert_for_classification import BertForClassification
+from classifying.models.bert_classifier import BertClassifier
 
 from allennlp.training.trainer import Trainer
 
@@ -43,8 +47,12 @@ if __name__ == '__main__':
 
     vocab = Vocabulary.from_instances(train_dataset + val_dataset)
 
-    model = BertForClassification(vocab, model_string, trainable=False,
-                                  index=model_string)
+    bert_token_embedder = PretrainedTransformerEmbedder(model_string)
+    bert_textfield_embedder = BasicTextFieldEmbedder(
+        {"tokens": bert_token_embedder})
+
+    model = BertClassifier(
+        vocab, bert_textfield_embedder, freeze_encoder=False)
 
     iterator = BucketIterator(
         sorting_keys=[("tokens", "num_tokens")],

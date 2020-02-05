@@ -14,3 +14,5 @@ Quick usage:
         1. `python run_tagging.py` (only tested with 3.7)
         2. `allennlp train tagging_experiment.jsonnet -s /tmp/exp --include-package tagging`
 4. To look at logs during training: `tensorboard --logdir /tmp/exp` (you can run tensorboard on a remote server and use `ssh` port forwarding to view the logs locally)
+
+NB: the first time you run the experiments, the pre-trained models will be downloaded, but retrieved from local cache thereafter.
