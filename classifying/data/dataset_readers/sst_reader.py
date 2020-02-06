@@ -1,3 +1,6 @@
+# modified from
+# allennlp/data/dataset_readers/stanford_sentiment_treebank_reader
+# to include an alternative tokenization (e.g. from pretrained model)
 from typing import Dict, List
 import logging
 
@@ -105,11 +108,6 @@ class SSTDatasetReader(DatasetReader):
 
         if self._tokenizer:
             new_tokens = self._tokenizer.tokenize(' '.join(tokens))
-            """
-            new_tokens = []
-            for token in tokens:
-                new_tokens.extend(self._tokenizer.tokenize(token))
-            """
         else:
             new_tokens = [Token(token) for token in tokens]
         text_field = TextField(new_tokens, token_indexers=self._token_indexers)
