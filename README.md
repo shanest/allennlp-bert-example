@@ -1,7 +1,7 @@
 # allennlp-bert-example
  
 Quick usage:
-1. Install `allennlp` (0.9.1) in your local virtual/conda environment
+1. Install `allennlp` (2.9.3) in a fresh virtual/conda environment (NB: we are testing with Python 3.9.x; there appears to be an installation issue with 3.10.x)
     * Or `pip install -r requirements.txt`
 2. For a sentiment analysis classifying experiment:
     1. Run `sh get_classifying_data.sh` to download the semantic tagging dataset and split it into train/val/test

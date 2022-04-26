@@ -4,7 +4,6 @@
 from typing import Dict, List
 import logging
 
-from overrides import overrides
 from nltk.tree import Tree
 
 from allennlp.common.file_utils import cached_path
@@ -69,7 +68,6 @@ class SSTDatasetReader(DatasetReader):
             )
         self._granularity = granularity
 
-    @overrides
     def _read(self, file_path):
         with open(cached_path(file_path), "r") as data_file:
             logger.info("Reading instances from lines in file at: %s", file_path)
@@ -82,7 +80,6 @@ class SSTDatasetReader(DatasetReader):
                 if instance is not None:
                     yield instance
 
-    @overrides
     def text_to_instance(
         self, tokens: List[str], sentiment: str = None
     ) -> Instance:  # type: ignore

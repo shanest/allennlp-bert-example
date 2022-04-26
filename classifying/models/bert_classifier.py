@@ -1,7 +1,6 @@
 # modified from allennlp/models/bert_for_classification.py
 from typing import Dict, Union
 
-from overrides import overrides
 import torch
 
 from allennlp.data import Vocabulary
