@@ -5,3 +5,4 @@ trainDevTestTrees_PTB.zip
 sst/trees/train.txt
 sst/trees/test.txt
 sst/trees/dev.txt
+.DS_Store
