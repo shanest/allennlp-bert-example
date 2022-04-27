@@ -1,34 +1,37 @@
+from itertools import chain
+
 from tagging.data.dataset_readers.semantic_tagging import SemTagDatasetReader
 from tagging.models.tagger import SubwordWordTagger
-from tagging.modules.span_extractors.encoder_span_extractor \
-        import EncoderSpanExtractor
+from tagging.modules.span_extractors.encoder_span_extractor import EncoderSpanExtractor
 
 import numpy as np
 import torch
 import torch.optim as optim
 
-from allennlp.data.iterators import BucketIterator
+from allennlp.data.data_loaders import MultiProcessDataLoader
 
-from allennlp.data.tokenizers.pretrained_transformer_tokenizer \
-        import PretrainedTransformerTokenizer
-from allennlp.data.token_indexers.pretrained_transformer_indexer \
-        import PretrainedTransformerIndexer
+from allennlp.data.tokenizers.pretrained_transformer_tokenizer import (
+    PretrainedTransformerTokenizer,
+)
+from allennlp.data.token_indexers.pretrained_transformer_mismatched_indexer import (
+    PretrainedTransformerMismatchedIndexer,
+)
 
 from allennlp.data.vocabulary import Vocabulary
 
-from allennlp.modules.text_field_embedders \
-        import BasicTextFieldEmbedder
+from allennlp.modules.text_field_embedders import BasicTextFieldEmbedder
 
-from allennlp.modules.token_embedders.pretrained_transformer_embedder \
-        import PretrainedTransformerEmbedder
+from allennlp.modules.token_embedders.pretrained_transformer_mismatched_embedder import (
+    PretrainedTransformerMismatchedEmbedder,
+)
 
-from allennlp.modules.span_extractors.endpoint_span_extractor \
-        import EndpointSpanExtractor
+from allennlp.modules.span_extractors.endpoint_span_extractor import (
+    EndpointSpanExtractor,
+)
 
-from allennlp.modules.seq2vec_encoders.boe_encoder \
-        import BagOfEmbeddingsEncoder
+from allennlp.modules.seq2vec_encoders.boe_encoder import BagOfEmbeddingsEncoder
 
-from allennlp.training.trainer import Trainer
+from allennlp.training.gradient_descent_trainer import GradientDescentTrainer
 
 
 def set_seed(seed):
@@ -36,66 +39,49 @@ def set_seed(seed):
     np.random.seed(seed)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
 
     set_seed(1234)
 
-    # TODO: make this tokenizer initialization a method?
-    uncased = True
-    tokenizer = PretrainedTransformerTokenizer(
-        model_name="bert-base-uncased",
-        do_lowercase=uncased)
-    start_tokens = tokenizer._start_tokens
-    end_tokens = tokenizer._end_tokens
-    tokenizer._start_tokens = []
-    tokenizer._end_tokens = []
+    tokenizer = PretrainedTransformerTokenizer(model_name="bert-base-uncased")
 
-    token_indexer = PretrainedTransformerIndexer(
-        model_name="bert-base-uncased",
-        do_lowercase=uncased)
+    token_indexer = PretrainedTransformerMismatchedIndexer(
+        model_name="bert-base-uncased"
+    )
 
-    reader = SemTagDatasetReader(
-        tokenizer, {"model_tokens": token_indexer},
-        start_tokens, end_tokens)
+    reader = SemTagDatasetReader(tokenizer, {"tokens": token_indexer})
+    train_path = "sem-0.1.0/data/gold/train"
+    dev_path = "sem-0.1.0/data/gold/val"
 
-    train_dataset = reader.read('sem-0.1.0/data/gold/train')
-    val_dataset = reader.read('sem-0.1.0/data/gold/val')
+    train_dataset = reader.read(train_path)
+    val_dataset = reader.read(dev_path)
 
     # NOTE: PretrainedTransformerIndexer does not implement the
     # count_vocab_items method, so this vocabulary reflects only the new
     # dataset, not the pretrained model's vocabulary
     # see: https://github.com/allenai/allennlp/blob/master/allennlp/data/
     # token_indexers/pretrained_transformer_indexer.py#L47-L50
-    data_vocab = Vocabulary.from_instances(train_dataset + val_dataset)
+    data_vocab = Vocabulary.from_instances(chain(train_dataset, val_dataset))
 
-    bert_token_embedder = PretrainedTransformerEmbedder("bert-base-uncased")
-    bert_textfield_embedder = BasicTextFieldEmbedder(
-        {"model_tokens": bert_token_embedder})
+    bert_token_embedder = PretrainedTransformerMismatchedEmbedder("bert-base-uncased")
+    bert_textfield_embedder = BasicTextFieldEmbedder({"tokens": bert_token_embedder})
 
-    # represent a word by the first sub-word token
-    word_last_token_extractor = EndpointSpanExtractor(
-        bert_token_embedder.get_output_dim(), combination='y')
+    tagger = SubwordWordTagger(
+        bert_textfield_embedder,
+        data_vocab,
+    )
 
-    # custom span extractor!
-    bag_encoder = BagOfEmbeddingsEncoder(bert_token_embedder.get_output_dim())
-    word_bag_extractor = EncoderSpanExtractor(bag_encoder)
+    data_loader = MultiProcessDataLoader(reader, train_path, batch_size=32)
+    data_loader.index_with(data_vocab)
 
-    tagger = SubwordWordTagger(bert_textfield_embedder,
-                               word_bag_extractor,
-                               # word_last_token_extractor,
-                               data_vocab)
-
-    iterator = BucketIterator(
-        sorting_keys=[("model_sentence", "num_tokens")],
-        batch_size=32)
-    iterator.index_with(data_vocab)
-
-    trainer = Trainer(model=tagger,
-                      optimizer=optim.Adam(tagger.parameters()),
-                      serialization_dir='/tmp/test',
-                      iterator=iterator,
-                      train_dataset=train_dataset,
-                      validation_dataset=val_dataset,
-                      patience=5,
-                      num_epochs=30)
+    trainer = GradientDescentTrainer(
+        model=tagger,
+        optimizer=optim.Adam(tagger.parameters()),
+        serialization_dir="/tmp/test",
+        data_loader=data_loader,
+        train_dataset=train_dataset,
+        validation_dataset=val_dataset,
+        patience=5,
+        num_epochs=30,
+    )
     trainer.train()
