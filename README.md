@@ -4,7 +4,7 @@ Quick usage:
 1. Install `allennlp` (2.9.3) in a fresh virtual/conda environment (NB: we are testing with Python 3.9.x; there appears to be an installation issue with 3.10.x)
     * Or `pip install -r requirements.txt`
 2. For a sentiment analysis classifying experiment:
-    1. Run `sh get_classifying_data.sh` to download the semantic tagging dataset and split it into train/val/test
+    1. Run `sh get_classifying_data.sh` to download the sentiment analysis dataset and split it into train/val/test
     2. Two options for running:
         1. `python run_classifying.py`
         2. `allennlp train classifying_experiment.jsonnet -s /tmp/exp --include-package classifying`
