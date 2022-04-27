@@ -29,6 +29,12 @@ local bert_model = "bert-base-uncased";
                 }
             }
         },
+        "pooler": {
+            # NB: for probing, cls_pooler and boe_pooler are good choices
+            # bert_pooler actually does more than what is wanted in that scenario
+            "type": "cls_pooler",
+            "embedding_dim": 768,
+        },
         "freeze_encoder": true,
     },
     "data_loader": {

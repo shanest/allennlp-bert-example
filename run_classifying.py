@@ -13,6 +13,7 @@ from allennlp.data.tokenizers.pretrained_transformer_tokenizer import (
 from allennlp.data.token_indexers.pretrained_transformer_indexer import (
     PretrainedTransformerIndexer,
 )
+from allennlp.modules.seq2vec_encoders.cls_pooler import ClsPooler
 from allennlp.modules.token_embedders.pretrained_transformer_embedder import (
     PretrainedTransformerEmbedder,
 )
@@ -50,12 +51,15 @@ if __name__ == "__main__":
 
     print(list(train_dataset)[0])
 
-    vocab = Vocabulary.from_instances(chain(train_dataset,  val_dataset))
+    vocab = Vocabulary.from_instances(chain(train_dataset, val_dataset))
 
     bert_token_embedder = PretrainedTransformerEmbedder(model_string)
     bert_textfield_embedder = BasicTextFieldEmbedder({"tokens": bert_token_embedder})
+    cls_pooler = ClsPooler(bert_token_embedder.get_output_dim())
 
-    model = BertClassifier(vocab, bert_textfield_embedder, freeze_encoder=False)
+    model = BertClassifier(
+        vocab, bert_textfield_embedder, cls_pooler, freeze_encoder=False
+    )
 
     data_loader = MultiProcessDataLoader(reader, train_path, batch_size=32)
     data_loader.index_with(vocab)

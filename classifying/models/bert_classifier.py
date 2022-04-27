@@ -5,6 +5,7 @@ import torch
 
 from allennlp.data import Vocabulary
 from allennlp.models.model import Model
+from allennlp.modules.seq2vec_encoders.seq2vec_encoder import Seq2VecEncoder
 from allennlp.modules.text_field_embedders.text_field_embedder import TextFieldEmbedder
 from allennlp.training.metrics import CategoricalAccuracy
 
@@ -15,18 +16,20 @@ class BertClassifier(Model):
         self,
         vocab: Vocabulary,
         embedder: TextFieldEmbedder,
-        freeze_encoder: bool = True
+        pooler: Seq2VecEncoder,
+        freeze_encoder: bool = True,
     ) -> None:
         super().__init__(vocab)
 
         self.vocab = vocab
         self.embedder = embedder
+        self.pooler = pooler
         self.freeze_encoder = freeze_encoder
 
         for parameter in self.embedder.parameters():
             parameter.requires_grad = not self.freeze_encoder
 
-        in_features = self.embedder.get_output_dim()
+        in_features = self.pooler.get_output_dim()
         out_features = vocab.get_vocab_size(namespace="labels")
 
         self._classification_layer = torch.nn.Linear(in_features, out_features)
@@ -40,14 +43,14 @@ class BertClassifier(Model):
         # (batch_size, max_len, embedding_dim)
         embeddings = self.embedder(tokens)
 
-        # the first embedding is for the [CLS] token
-        # NOTE: this pre-supposes BERT encodings; not the most elegant!
+        # get the pooled representation of the tokens in each sentence
+        # e.g. [CLS] rep, mean pool, ...
         # (batch_size, embedding_dim)
-        cls_embedding = embeddings[:, 0, :]
+        sentence_representation = self.pooler(embeddings)
 
         # apply classification layer
         # (batch_size, num_labels)
-        logits = self._classification_layer(cls_embedding)
+        logits = self._classification_layer(sentence_representation)
 
         probs = torch.nn.functional.softmax(logits, dim=-1)
 
@@ -59,7 +62,6 @@ class BertClassifier(Model):
             self._accuracy(logits, label)
 
         return output_dict
-
 
     def get_metrics(self, reset: bool = False) -> Dict[str, float]:
         metrics = {"accuracy": self._accuracy.get_metric(reset)}
